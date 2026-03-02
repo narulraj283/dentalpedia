@@ -407,6 +407,19 @@ def get_share_buttons(title, url):
 def get_page_template(title, content, canonical_url, description="", meta_tags="", schema=""):
     """Generate full HTML page template."""
 
+    # Auto-generate OG tags if not provided
+    if not meta_tags:
+        meta_tags = f'''
+    <meta property="og:title" content="{html_mod.escape(title)}">
+    <meta property="og:description" content="{html_mod.escape(description)}">
+    <meta property="og:url" content="{canonical_url}">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="DentalPedia">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{html_mod.escape(title)}">
+    <meta name="twitter:description" content="{html_mod.escape(description)}">
+        '''
+
     template = f'''<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -416,6 +429,7 @@ def get_page_template(title, content, canonical_url, description="", meta_tags="
     <meta name="description" content="{html_mod.escape(description)}">
     <link rel="canonical" href="{canonical_url}">
     <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="DentalPedia">
     {meta_tags}
     {schema}
     <link rel="stylesheet" href="/assets/css/style.css">
@@ -587,6 +601,9 @@ def process_article(md_file):
         <meta property="og:url" content="{canonical_url}">
         <meta property="og:type" content="article">
         <meta property="article:section" content="{html_mod.escape(category)}">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:title" content="{html_mod.escape(title)}">
+        <meta name="twitter:description" content="{html_mod.escape(excerpt)}">
         '''
 
         page_html = get_page_template(
@@ -751,11 +768,14 @@ def generate_category_pages():
             </div>
             '''
 
+            page_title = f"{category_name} Articles — DentalPedia" if page_num == 1 else f"{category_name} Articles — Page {page_num} — DentalPedia"
+            page_desc = f"Browse {total} articles about {category_name} on DentalPedia" if page_num == 1 else f"Page {page_num} of {num_pages} — {category_name} articles on DentalPedia"
+
             page_html = get_page_template(
-                f"{category_name} Articles — DentalPedia",
+                page_title,
                 content,
                 canonical_url,
-                f"Browse {total} articles about {category_name} on DentalPedia"
+                page_desc
             )
 
             with open(output_dir / filename, 'w', encoding='utf-8') as f:
@@ -843,11 +863,14 @@ def generate_subcategory_pages():
             {generate_share_buttons(subcategory_name, canonical_url)}
             '''
 
+            subcat_title = f"{subcategory_name} | DentalPedia" if page_num == 1 else f"{subcategory_name} — Page {page_num} | DentalPedia"
+            subcat_desc = f"Explore {subcategory_name} articles on DentalPedia" if page_num == 1 else f"Page {page_num} of {total_pages} — {subcategory_name} articles on DentalPedia"
+
             page_html = get_page_template(
-                f"{subcategory_name} | DentalPedia",
+                subcat_title,
                 content,
                 canonical_url,
-                f"Explore {subcategory_name} articles on DentalPedia"
+                subcat_desc
             )
 
             with open(output_file, 'w', encoding='utf-8') as f:
@@ -1480,6 +1503,115 @@ def generate_homepage():
         f.write(page_html)
 
 
+def generate_privacy_page():
+    """Generate privacy policy page."""
+    logger.info("Generating privacy policy page...")
+    content = '''
+    <div class="content-width" style="padding: 2rem 0;">
+        <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; Privacy Policy</nav>
+        <h1>Privacy Policy</h1>
+        <p style="color: var(--text-secondary);">Last updated: March 2, 2026</p>
+
+        <div class="article-body">
+            <p>DentalPedia ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you visit our website dentalpedia.co.</p>
+
+            <h2>Information We Collect</h2>
+            <p>We collect information that you voluntarily provide and information automatically collected when you visit our site. Automatically collected information includes your IP address, browser type, device information, pages visited, time spent on pages, and referring URLs. We use Google Analytics (GA4) to collect aggregate usage data to improve our content and user experience.</p>
+
+            <h2>How We Use Your Information</h2>
+            <p>We use collected information to provide and improve our dental health content, analyze site usage patterns and trends, ensure site security and prevent abuse, and comply with legal obligations. We do not sell, trade, or rent your personal information to third parties.</p>
+
+            <h2>Cookies and Tracking</h2>
+            <p>Our site uses cookies and similar tracking technologies for analytics purposes. Google Analytics uses cookies to collect anonymous usage data. You can control cookies through your browser settings. Disabling cookies will not affect your ability to access our content.</p>
+
+            <h2>Third-Party Services</h2>
+            <p>We use Google Analytics for site analytics and GitHub Pages for hosting. Each third-party service has its own privacy policy governing the use of your information. We encourage you to review their respective policies.</p>
+
+            <h2>Data Security</h2>
+            <p>We implement reasonable security measures to protect your information. However, no method of transmission over the internet is 100% secure. We cannot guarantee absolute security of your data.</p>
+
+            <h2>Children's Privacy</h2>
+            <p>Our site is not directed to children under 13. We do not knowingly collect personal information from children. If you believe we have collected information from a child, please contact us immediately.</p>
+
+            <h2>Your Rights</h2>
+            <p>Depending on your jurisdiction, you may have rights regarding your personal data, including the right to access, correct, delete, or port your data. To exercise these rights, please contact us at the information provided below.</p>
+
+            <h2>Changes to This Policy</h2>
+            <p>We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated revision date. Your continued use of the site after changes constitutes acceptance of the updated policy.</p>
+
+            <h2>Contact Us</h2>
+            <p>If you have questions about this Privacy Policy, please contact us through our website.</p>
+        </div>
+    </div>
+    '''
+
+    page_html = get_page_template(
+        "Privacy Policy — DentalPedia",
+        content,
+        f"{DOMAIN}/privacy.html",
+        "DentalPedia privacy policy explaining how we collect, use, and protect your information."
+    )
+
+    with open(SITE_ROOT / "privacy.html", 'w', encoding='utf-8') as f:
+        f.write(page_html)
+
+
+def generate_terms_page():
+    """Generate terms of use page."""
+    logger.info("Generating terms of use page...")
+    content = '''
+    <div class="content-width" style="padding: 2rem 0;">
+        <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; Terms of Use</nav>
+        <h1>Terms of Use</h1>
+        <p style="color: var(--text-secondary);">Last updated: March 2, 2026</p>
+
+        <div class="article-body">
+            <p>Welcome to DentalPedia. By accessing and using this website (dentalpedia.co), you agree to be bound by these Terms of Use. If you do not agree with any part of these terms, please do not use our website.</p>
+
+            <h2>Educational Purpose Only</h2>
+            <p>All content on DentalPedia is provided for educational and informational purposes only. Our articles, guides, and resources are not intended to be a substitute for professional medical or dental advice, diagnosis, or treatment. Always seek the advice of your dentist or other qualified healthcare provider with any questions you may have regarding a dental condition.</p>
+
+            <h2>No Doctor-Patient Relationship</h2>
+            <p>Use of this website does not create a doctor-patient or dentist-patient relationship. The information provided should not be used to self-diagnose or self-treat any dental or medical condition. Never disregard professional dental advice or delay seeking it because of something you have read on DentalPedia.</p>
+
+            <h2>Content Accuracy</h2>
+            <p>We strive to provide accurate, evidence-based dental health information reviewed by our editorial board. However, dental science evolves, and information may change. We make no warranties or representations about the completeness, accuracy, reliability, or suitability of the content. Reliance on any information provided is at your own risk.</p>
+
+            <h2>Intellectual Property</h2>
+            <p>All content on DentalPedia, including text, graphics, logos, and design elements, is the property of DentalPedia and is protected by copyright and intellectual property laws. You may not reproduce, distribute, modify, or create derivative works from our content without prior written permission.</p>
+
+            <h2>User Conduct</h2>
+            <p>When using our website, you agree not to use the site for any unlawful purpose, attempt to gain unauthorized access to any part of the site, interfere with or disrupt the site's operations, or use automated systems to access the site without permission.</p>
+
+            <h2>External Links</h2>
+            <p>Our site may contain links to third-party websites. These links are provided for convenience and do not imply endorsement. We are not responsible for the content or practices of linked websites. We encourage you to review the terms and privacy policies of any third-party sites you visit.</p>
+
+            <h2>Limitation of Liability</h2>
+            <p>DentalPedia and its contributors shall not be liable for any direct, indirect, incidental, consequential, or punitive damages arising from your use of the website or reliance on its content. This includes but is not limited to damages for loss of data, revenue, or health outcomes.</p>
+
+            <h2>Changes to Terms</h2>
+            <p>We reserve the right to modify these Terms of Use at any time. Changes will be effective immediately upon posting on this page. Your continued use of the site after any changes constitutes acceptance of the updated terms.</p>
+
+            <h2>Governing Law</h2>
+            <p>These Terms of Use shall be governed by and construed in accordance with applicable laws, without regard to conflict of law provisions.</p>
+
+            <h2>Contact Us</h2>
+            <p>If you have questions about these Terms of Use, please contact us through our website.</p>
+        </div>
+    </div>
+    '''
+
+    page_html = get_page_template(
+        "Terms of Use — DentalPedia",
+        content,
+        f"{DOMAIN}/terms.html",
+        "DentalPedia terms of use governing access and use of our dental health information website."
+    )
+
+    with open(SITE_ROOT / "terms.html", 'w', encoding='utf-8') as f:
+        f.write(page_html)
+
+
 def main():
     """Main build function."""
     logger.info("Starting DentalPedia build...")
@@ -1514,6 +1646,8 @@ def main():
     generate_city_pages()
     generate_guide_pages()
     generate_editorial_standards_page()
+    generate_privacy_page()
+    generate_terms_page()
     generate_admin_dashboard()
     generate_sitemaps()
 
