@@ -5,10 +5,10 @@ on:
     branches: [main]
   workflow_dispatch:  # Manual trigger for off-schedule updates
   schedule:
-    - cron: '0 6 * * 1'  # Every Monday at 6am UTC (weekly rebuild)
+    - cron: '0 6 1 * *'  # 1st of every month at 6am UTC — monthly refresh
 
 permissions:
-  contents: read
+  contents: write  # Needed for monthly refresh to commit updated articles
   pages: write
   id-token: write
 
@@ -17,7 +17,35 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  refresh:
+    # Only run refresh on scheduled (monthly) triggers
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run monthly article refresh
+        run: python refresh_articles.py
+
+      - name: Commit refreshed articles
+        run: |
+          git config user.name "DentalPedia Bot"
+          git config user.email "bot@dentalpedia.org"
+          git add -A
+          git diff --staged --quiet || git commit -m "Monthly refresh: $(date +'%B %Y') — update article review dates"
+          git push
+
   build:
+    # Run on push, manual dispatch, OR after refresh completes
+    if: github.event_name != 'schedule'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -28,7 +56,34 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Build articles from Markdown
+      - name: Build site
+        run: python build.py
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+  build-after-refresh:
+    # Runs after monthly refresh commits, triggered by the push from refresh job
+    if: github.event_name == 'schedule'
+    needs: refresh
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (with refreshed content)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Build site
         run: python build.py
 
       - name: Setup Pages
@@ -44,7 +99,9 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
+    needs: [build, build-after-refresh]
+    # Run if EITHER build job succeeded (the other will be skipped)
+    if: always() && (needs.build.result == 'success' || needs.build-after-refresh.result == 'success')
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
