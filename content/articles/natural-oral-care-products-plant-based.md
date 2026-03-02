@@ -4,20 +4,14 @@ slug: natural-oral-care-products-plant-based
 category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
 excerpt: Herbal toothpaste and rinses.
-reviewer_name: Lone Star Smiles
-reviewer_credentials: General Dentistry
-reviewer_practice: Lone Star Smiles
-reviewer_location: Lone Star Smiles
-reviewer_url: https://www.lonestarsmiles.org
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: General Dentistry
+subcategory: Holistic Dentistry Overview
+subcategory_slug: overview-holistic
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Herbal toothpaste and rinses.
 

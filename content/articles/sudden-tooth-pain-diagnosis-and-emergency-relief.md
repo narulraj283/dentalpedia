@@ -4,20 +4,14 @@ slug: sudden-tooth-pain-diagnosis-and-emergency-relief
 category: Emergency Dentistry
 category_slug: emergency-dentistry
 excerpt: Acute toothache evaluation.
-reviewer_name: Meredith Levine DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Meredith Levine DDS
-reviewer_location: Meredith Levine DDS
-reviewer_url: https://www.hppydds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Emergency Dental Care
+subcategory: Acute Pain & Relief
+subcategory_slug: acute-pain
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Acute toothache evaluation.
 

@@ -4,20 +4,14 @@ slug: emergency-root-canal-when-infection-requires-immediate-care
 category: Endodontics
 category_slug: endodontics
 excerpt: Recognizing severe endodontic emergencies requiring urgent treatment.
-reviewer_name: Dr. Ethridge Chris - McDonough, DDS
-reviewer_credentials: Endodontics
-reviewer_practice: McDonough Endodontic Center
-reviewer_location: McDonough Endodontic Center
-reviewer_url: https://www.mcdonoughendodontic.com
-sources:
-  - title: American Association of Endodontists
-    url: https://www.aae.org/
-  - title: Emergency Dentistry Guide
-    url: https://www.ada.org/
-  - title: Mayo Clinic - Emergency Care
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Endodontics
+subcategory: Pulp & Apical Conditions
+subcategory_slug: pulp-conditions
+sources:
+  - title: Mayo Clinic - Emergency Care
+  - url: https://www.mayoclinic.org/
 ---
 
 Severe endodontic emergencies require immediate professional evaluation and treatment. Recognizing signs of emergency situations and seeking prompt care can save your tooth and prevent complications.

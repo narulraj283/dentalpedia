@@ -4,20 +4,14 @@ slug: natural-looking-smile-design-digital-planning
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Explore how digital smile design helps plan cosmetic treatments.
-reviewer_name: Dr. Robert Holloway, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Robert L. Holloway DDS
-reviewer_location: Robert L. Holloway DDS
-reviewer_url: https://www.roberthollowaydds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Smile Design & Planning
+subcategory_slug: smile-design
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## What Is Digital Smile Design

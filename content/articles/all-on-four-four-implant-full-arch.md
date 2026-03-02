@@ -4,20 +4,14 @@ slug: all-on-four-four-implant-full-arch
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Four implants supporting full denture.
-reviewer_name: Perio Implant Chicago
-reviewer_credentials: General Dentistry
-reviewer_practice: Perio Implant Chicago
-reviewer_location: Perio Implant Chicago
-reviewer_url: https://www.perioimplantchicago.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 6 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Four implants supporting full denture.
 

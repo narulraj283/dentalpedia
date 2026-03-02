@@ -4,20 +4,14 @@ slug: orthodontic-treatment-duration-factors-affecting-timeline
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Understand what influences how long your orthodontic treatment will take.
-reviewer_name: Dr. Hilgers Nissen Shannon, DDS
-reviewer_credentials: Orthodontics
-reviewer_practice: SHN Orthodontics
-reviewer_location: SHN Orthodontics
-reviewer_url: https://www.shnortho.com
-sources:
-  - title: American Association of Orthodontists
-    url: https://www.aaoinfo.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Orthodontics
+subcategory: Treatment Duration & Speed
+subcategory_slug: treatment-duration
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Why does one patient's braces treatment take 18 months while another's takes 36 months? The answer lies in multiple factors affecting how quickly teeth respond to orthodontic forces. Understanding these variables helps you anticipate your treatment timeline and understand why your orthodontist provides specific duration estimates.

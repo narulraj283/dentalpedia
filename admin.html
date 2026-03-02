@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard | DentalPedia</title>
+    <meta name="description" content="Build statistics and site overview">
+    <link rel="canonical" href="https://dentalpedia.co/admin.html">
+    <meta property="og:locale" content="en_US">
+    
+    
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-F8TC3LWMSM');
+    </script>
+    <script>
+        const theme = localStorage.getItem('theme') || 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+    </script>
+</head>
+<body>
+    
+    <nav class="navbar">
+        <div class="container">
+            <a href="/" class="navbar-brand">
+                <span class="logo-icon">🦷</span>
+                <span>DentalPedia</span>
+            </a>
+            <ul class="navbar-nav">
+                <li><a href="/">Home</a></li>
+                <li><a href="/categories/">Categories</a></li>
+                <li><a href="/guides.html">Guides</a></li>
+                <li><a href="/editorial-standards.html">Editorial Standards</a></li>
+            </ul>
+            <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">🌓</button>
+        </div>
+    </nav>
+    
+    <main class="container">
+        
+    <div class="category-header">
+        <h1>DentalPedia Admin Dashboard</h1>
+        <p>Build Statistics & Site Overview</p>
+    </div>
+
+    <div class="content-width" style="padding: 2rem 0;">
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin-bottom: 2rem;">
+            <div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: var(--radius-lg);">
+                <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem;">Articles</div>
+                <div style="font-size: 2rem; font-weight: 700; color: var(--tooth-accent);">2,000</div>
+            </div>
+            <div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: var(--radius-lg);">
+                <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem;">Categories</div>
+                <div style="font-size: 2rem; font-weight: 700; color: var(--tooth-accent);">20</div>
+            </div>
+            <div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: var(--radius-lg);">
+                <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem;">Subcategories</div>
+                <div style="font-size: 2rem; font-weight: 700; color: var(--tooth-accent);">78</div>
+            </div>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin-bottom: 2rem;">
+            <div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: var(--radius-lg);">
+                <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem;">Cities</div>
+                <div style="font-size: 2rem; font-weight: 700; color: var(--accent);">241</div>
+            </div>
+            <div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: var(--radius-lg);">
+                <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem;">Procedures</div>
+                <div style="font-size: 2rem; font-weight: 700; color: var(--accent);">20</div>
+            </div>
+            <div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: var(--radius-lg);">
+                <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem;">Location Pages</div>
+                <div style="font-size: 2rem; font-weight: 700; color: var(--accent);">4,820</div>
+            </div>
+        </div>
+
+        <div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: var(--radius-lg); margin-bottom: 2rem;">
+            <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 1rem;">Build Information</div>
+            <div>
+                <div><strong>Build Time:</strong> 2026-03-02 21:45:19</div>
+                <div><strong>Total Pages:</strong> 6,951</div>
+                <div><strong>Cornerstone Guides:</strong> 30</div>
+            </div>
+        </div>
+
+        <h2>Category Breakdown</h2>
+        <table style="width: 100%; border-collapse: collapse;">
+            <thead>
+                <tr style="border-bottom: 2px solid var(--border-color);">
+                    <th style="text-align: left; padding: 0.75rem;">Category</th>
+                    <th style="text-align: left; padding: 0.75rem;">Articles</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr><td>cosmetic-dentistry</td><td>302</td></tr><tr><td>dental-anxiety-sedation</td><td>18</td></tr><tr><td>dental-implants</td><td>46</td></tr><tr><td>dental-nutrition</td><td>20</td></tr><tr><td>dental-practice-insurance</td><td>29</td></tr><tr><td>dental-technology</td><td>15</td></tr><tr><td>emergency-dentistry</td><td>26</td></tr><tr><td>endodontics</td><td>36</td></tr><tr><td>general-dentistry</td><td>272</td></tr><tr><td>geriatric-dentistry</td><td>18</td></tr><tr><td>holistic-alternative-dentistry</td><td>18</td></tr><tr><td>oral-health-conditions</td><td>22</td></tr><tr><td>oral-surgery</td><td>288</td></tr><tr><td>orthodontics</td><td>301</td></tr><tr><td>pediatric-dentistry</td><td>106</td></tr><tr><td>periodontics</td><td>90</td></tr><tr><td>preventive-care</td><td>324</td></tr><tr><td>prosthodontics</td><td>37</td></tr><tr><td>sports-dentistry</td><td>15</td></tr><tr><td>tmj-sleep-dentistry</td><td>17</td></tr>
+            </tbody>
+        </table>
+    </div>
+    
+    </main>
+    
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-text">&copy; 2026 DentalPedia. All rights reserved.</div>
+                <ul class="footer-links">
+                    <li><a href="/editorial-standards.html">Editorial Standards</a></li>
+                    <li><a href="/privacy.html">Privacy</a></li>
+                    <li><a href="/terms.html">Terms</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme') || 'light';
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+    </script>
+</body>
+</html>

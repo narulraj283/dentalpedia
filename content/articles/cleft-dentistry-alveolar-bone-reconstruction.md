@@ -4,20 +4,14 @@ slug: cleft-dentistry-alveolar-bone-reconstruction
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Dental management of cleft defects.
-reviewer_name: TheDentaLink
-reviewer_credentials: General Dentistry
-reviewer_practice: TheDentaLink
-reviewer_location: TheDentaLink
-reviewer_url: https://www.thedentalink.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Dental management of cleft defects.
 

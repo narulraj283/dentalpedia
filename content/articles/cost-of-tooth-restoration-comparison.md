@@ -4,20 +4,14 @@ slug: cost-of-tooth-restoration-comparison
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Comprehensive information about tooth restoration comparison for optimal dental health.
-reviewer_name: Frisco Elm Dental
-reviewer_credentials: General Dentistry
-reviewer_practice: Frisco Elm Dental
-reviewer_location: Frisco Elm Dental
-reviewer_url: https://www.friscoelmdental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: General Dentistry
+subcategory: Fillings & Restorations
+subcategory_slug: fillings-restorations
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Comprehensive information about tooth restoration comparison for optimal dental health.
 

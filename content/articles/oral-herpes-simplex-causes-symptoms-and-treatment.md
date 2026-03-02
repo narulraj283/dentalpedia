@@ -4,20 +4,14 @@ slug: oral-herpes-simplex-causes-symptoms-and-treatment
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Understanding cold sores and antiviral treatment options.
-reviewer_name: Dr. Janet Stopka, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Janet S. Stopka DDS PC
-reviewer_location: Janet S. Stopka DDS PC
-reviewer_url: https://www.safedentalsmiles.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: CDC - Herpes Simplex Virus
-    url: https://www.cdc.gov/
-  - title: Mayo Clinic - Cold Sores
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: General Dentistry
+subcategory: Infections & Abscesses
+subcategory_slug: infections-abscess
+sources:
+  - title: Mayo Clinic - Cold Sores
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Understanding Herpes Simplex Virus

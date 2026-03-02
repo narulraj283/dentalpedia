@@ -4,20 +4,14 @@ slug: stress-and-teeth-grinding-prevention-and-management
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Connection between stress and bruxism, with coping strategies.
-reviewer_name: Dr. Roya Shoffet, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Royal Dental Practice
-reviewer_location: Royal Dental Practice
-reviewer_url: https://www.royaldentalwesthills.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Academy of Orofacial Pain
-    url: https://www.aaop.org/
-  - title: Cleveland Clinic - Sleep Disorders
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Habits & Lifestyle Factors
+subcategory_slug: habits-lifestyle
+sources:
+  - title: Cleveland Clinic - Sleep Disorders
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 ## Understanding Bruxism and Its Stress Connection

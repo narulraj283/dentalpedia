@@ -4,20 +4,14 @@ slug: root-canal-treatment-complete-step-by-step-guide
 category: Endodontics
 category_slug: endodontics
 excerpt: Detailed explanation of root canal procedure, timeline, and what to expect.
-reviewer_name: Dr. Ethridge Chris - Augusta Endodontic Center, DDS
-reviewer_credentials: Endodontics
-reviewer_practice: Augusta Endodontic Center
-reviewer_location: Augusta Endodontic Center
-reviewer_url: https://www.augustaendo.com
-sources:
-  - title: American Association of Endodontists
-    url: https://www.aae.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Endodontics
+subcategory: Endodontic Overview
+subcategory_slug: overview-endo
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Root canal treatment (endodontic therapy) is a common procedure to save teeth with infected, inflamed, or dead pulp tissue inside. Understanding the step-by-step process, expected timeline, and what to anticipate helps demystify the procedure and reduce anxiety.

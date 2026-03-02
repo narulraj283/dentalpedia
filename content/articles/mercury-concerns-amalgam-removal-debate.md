@@ -4,20 +4,14 @@ slug: mercury-concerns-amalgam-removal-debate
 category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
 excerpt: Safety of silver fillings.
-reviewer_name: Courtyard Dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Courtyard Dentistry
-reviewer_location: Courtyard Dentistry
-reviewer_url: https://www.courtyarddentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: General Dentistry
+subcategory: Biocompatible & Mercury-Free Materials
+subcategory_slug: biocompatible-materials
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Safety of silver fillings.
 

@@ -4,20 +4,14 @@ slug: complete-guide-to-dental-exams-and-cleanings
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Learn what to expect during routine dental visits and why regular exams are crucial for oral health.
-reviewer_name: Dr. Leah Zils, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Leah Zils DDS
-reviewer_location: Leah Zils DDS
-reviewer_url: https://www.leahzilsdds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: General Dentistry
+subcategory: Cleanings & Exams
+subcategory_slug: cleanings-exams
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 ## What Happens During a Dental Exam

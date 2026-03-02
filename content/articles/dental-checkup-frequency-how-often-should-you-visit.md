@@ -4,20 +4,14 @@ slug: dental-checkup-frequency-how-often-should-you-visit
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Guidelines for visit frequency based on your oral health status and risk factors.
-reviewer_name: Dr. Krawchyk Paris Devon, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: GENTLE DENTISTRY OF COLUMBUS
-reviewer_location: GENTLE DENTISTRY OF COLUMBUS
-reviewer_url: https://www.gentledentistryofcolumbus.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: General Dentistry
+subcategory: Cleanings & Exams
+subcategory_slug: cleanings-exams
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 ## The Traditional Six-Month Schedule

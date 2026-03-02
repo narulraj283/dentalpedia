@@ -4,20 +4,14 @@ slug: hand-instrumentation-scaler-and-curette-techniques
 category: Periodontics
 category_slug: periodontics
 excerpt: Manual instrument subtlety and control.
-reviewer_name: Garazi Periodontics & Dental Implants
-reviewer_credentials: General Dentistry
-reviewer_practice: Garazi Periodontics & Dental Implants
-reviewer_location: Garazi Periodontics & Dental Implants
-reviewer_url: https://www.garazidmd.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Periodontics
+subcategory: Periodontal Overview
+subcategory_slug: overview-perio
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Manual instrument subtlety and control.
 

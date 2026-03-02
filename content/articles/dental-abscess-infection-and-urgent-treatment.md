@@ -4,20 +4,14 @@ slug: dental-abscess-infection-and-urgent-treatment
 category: Emergency Dentistry
 category_slug: emergency-dentistry
 excerpt: Recognizing signs of tooth or gum infection requiring emergency care.
-reviewer_name: Dr. Claire Cho, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Claire Cho DDS
-reviewer_location: Claire Cho DDS
-reviewer_url: https://www.clairechodds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Emergency Dental Care
+subcategory: Infection & Swelling
+subcategory_slug: infection-swelling
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 ## What Is a Dental Abscess?

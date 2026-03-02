@@ -4,20 +4,14 @@ slug: early-mixed-dentition-managing-transition-period
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Guiding tooth eruption during mixed stage.
-reviewer_name: Pasadena Periodontic
-reviewer_credentials: General Dentistry
-reviewer_practice: Pasadena Periodontic
-reviewer_location: Pasadena Periodontic
-reviewer_url: https://www.pasadenaperiodontics.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Guiding tooth eruption during mixed stage.
 

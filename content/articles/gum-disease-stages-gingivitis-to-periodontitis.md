@@ -4,20 +4,14 @@ slug: gum-disease-stages-gingivitis-to-periodontitis
 category: Periodontics
 category_slug: periodontics
 excerpt: Understanding the progression of gum disease and intervention points.
-reviewer_name: Dr. Glenn Taylor, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: Taylor Dental Care
-reviewer_location: Taylor Dental Care
-reviewer_url: https://www.taylordentalsmiles.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: American Dental Association
-    url: https://www.ada.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Periodontics
+subcategory: Gum Disease & Conditions
+subcategory_slug: gum-disease
+sources:
+  - title: American Dental Association
+  - url: https://www.ada.org/
 ---
 
 Gum disease progresses through distinct stages, from reversible gingivitis to more serious periodontitis. Understanding these stages and recognizing early warning signs enables timely intervention that can halt disease progression and prevent tooth loss. Early detection and treatment of gum disease is far more effective and less invasive than managing advanced disease.

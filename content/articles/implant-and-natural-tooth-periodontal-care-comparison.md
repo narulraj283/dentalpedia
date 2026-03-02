@@ -4,20 +4,14 @@ slug: implant-and-natural-tooth-periodontal-care-comparison
 category: Periodontics
 category_slug: periodontics
 excerpt: Different maintenance approaches for implants versus natural teeth with gum disease.
-reviewer_name: Dr. David Garazi, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: Garazi Periodontics & Dental Implants
-reviewer_location: Garazi Periodontics & Dental Implants
-reviewer_url: https://www.garazidmd.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Academy of Osseointegration
-    url: https://www.osseointegration.org/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Periodontics
+subcategory: Periodontal Overview
+subcategory_slug: overview-perio
+sources:
+  - title: Academy of Osseointegration
+  - url: https://www.osseointegration.org/
 ---
 
 Patients with periodontal disease often face decisions about extracting compromised teeth and replacing them with implants. Understanding the differences between maintaining natural teeth and implants helps inform these complex decisions. While implants are not susceptible to decay, they require different maintenance approaches to ensure long-term success.

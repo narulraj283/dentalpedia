@@ -4,20 +4,14 @@ slug: bleeding-after-tooth-extraction-when-is-it-excessive
 category: Emergency Dentistry
 category_slug: emergency-dentistry
 excerpt: Normal bleeding expectations and concerning signs after extraction.
-reviewer_name: Dr. Richard Koeltl, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: RK Dentistry
-reviewer_location: RK Dentistry
-reviewer_url: https://www.rkdentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Emergency Dental Care
+subcategory: Emergency Overview
+subcategory_slug: overview-emergency
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Normal Post-Extraction Bleeding

@@ -4,20 +4,14 @@ slug: aggressive-periodontitis-early-onset-gum-disease
 category: Periodontics
 category_slug: periodontics
 excerpt: Understanding aggressive forms of gum disease affecting young people.
-reviewer_name: Dr. Peter Cabrera, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: Perio Implant Chicago
-reviewer_location: Perio Implant Chicago
-reviewer_url: https://www.perioimplantchicago.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: American Dental Association
-    url: https://www.ada.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Periodontics
+subcategory: Gum Disease & Conditions
+subcategory_slug: gum-disease
+sources:
+  - title: American Dental Association
+  - url: https://www.ada.org/
 ---
 
 Aggressive periodontitis represents a distinct form of gum disease characterized by rapid progression, often affecting otherwise healthy young people with relatively good oral hygiene. Early recognition and aggressive treatment can prevent the significant tooth loss that characterizes untreated aggressive periodontitis.

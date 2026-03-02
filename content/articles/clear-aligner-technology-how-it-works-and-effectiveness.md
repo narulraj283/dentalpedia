@@ -4,20 +4,14 @@ slug: clear-aligner-technology-how-it-works-and-effectiveness
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Understanding the science behind clear aligners and their application in orthodontics.
-reviewer_name: Dr. Hilgers Nissen Shannon, DDS
-reviewer_credentials: Orthodontics
-reviewer_practice: SHN Orthodontics
-reviewer_location: SHN Orthodontics
-reviewer_url: https://www.shnortho.com
-sources:
-  - title: American Association of Orthodontists
-    url: https://www.aaoinfo.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Clear aligners like Invisalign represent a remarkable fusion of digital technology and biomedical engineering. They move teeth using the same biological principles as traditional braces—controlled force application—but deliver the force through nearly invisible, custom-fitted trays. Understanding how this technology works reveals why it's effective for appropriate cases.

@@ -4,20 +4,14 @@ slug: wisdom-teeth-do-they-always-need-to-be-removed
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Guidelines for wisdom tooth removal and when retention is possible.
-reviewer_name: Dr. Tae Kwon, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: Monadnock Perio & Implant Center
-reviewer_location: Monadnock Perio & Implant Center
-reviewer_url: https://www.monadnockperio.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic - Oral Health
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Wisdom Teeth & Impaction
+subcategory_slug: wisdom-teeth
+sources:
+  - title: Mayo Clinic - Oral Health
+  - url: https://www.mayoclinic.org/
 ---
 
 Wisdom teeth removal is one of the most common dental procedures, with millions extracted annually. However, not all wisdom teeth require extraction. Some people's wisdom teeth erupt properly, remain disease-free, and function well alongside other teeth. Understanding when retention is possible versus when removal is necessary helps you make informed decisions about your dental health.

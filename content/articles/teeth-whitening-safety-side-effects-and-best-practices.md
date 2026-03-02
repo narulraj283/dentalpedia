@@ -4,20 +4,14 @@ slug: teeth-whitening-safety-side-effects-and-best-practices
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Learn about potential side effects of whitening and how to minimize sensitivity.
-reviewer_name: Dr. Jose Guillen, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Westwood Village Smiles
-reviewer_location: Westwood Village Smiles
-reviewer_url: https://www.westwooddentist.dental
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Teeth Whitening & Bleaching
+subcategory_slug: teeth-whitening
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## How Teeth Whitening Works

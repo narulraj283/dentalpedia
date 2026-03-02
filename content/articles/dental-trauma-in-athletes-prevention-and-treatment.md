@@ -4,20 +4,14 @@ slug: dental-trauma-in-athletes-prevention-and-treatment
 category: Emergency Dentistry
 category_slug: emergency-dentistry
 excerpt: Sports dentistry approach to preventing and managing dental injuries.
-reviewer_name: Dr. Rawat Anshuman, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Advanced Dental Practices
-reviewer_location: Advanced Dental Practices
-reviewer_url: https://www.adpdental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Academy of General Dentistry
-    url: https://www.agd.org/
-  - title: American Academy of Pediatric Dentistry
-    url: https://www.aapd.org/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Emergency Dental Care
+subcategory: Trauma & Fractures
+subcategory_slug: trauma-fracture
+sources:
+  - title: American Academy of Pediatric Dentistry
+  - url: https://www.aapd.org/
 ---
 
 ## The Impact of Dental Injuries in Athletes

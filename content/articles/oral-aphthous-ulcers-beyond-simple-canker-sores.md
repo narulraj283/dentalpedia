@@ -4,20 +4,14 @@ slug: oral-aphthous-ulcers-beyond-simple-canker-sores
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Understanding recurring oral ulcers and when to seek treatment.
-reviewer_name: Dr. Susan Mazzei, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: West Suburban Oral Health Care
-reviewer_location: West Suburban Oral Health Care
-reviewer_url: https://www.westsuburbanoralhealthcare.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic - Canker Sores
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: General Dentistry
+subcategory: Oral Lesions & Disorders
+subcategory_slug: oral-lesions
+sources:
+  - title: Mayo Clinic - Canker Sores
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Understanding Aphthous Stomatitis

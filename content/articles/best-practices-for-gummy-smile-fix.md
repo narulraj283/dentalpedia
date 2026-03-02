@@ -4,20 +4,14 @@ slug: best-practices-for-gummy-smile-fix
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Comprehensive information about gummy smile fix for optimal dental health.
-reviewer_name: Life Smiles Dental Care
-reviewer_credentials: General Dentistry
-reviewer_practice: Life Smiles Dental Care
-reviewer_location: Life Smiles Dental Care
-reviewer_url: https://www.lifesmilesdentalcare.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Cosmetic Overview
+subcategory_slug: overview-cosmetic
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Comprehensive information about gummy smile fix for optimal dental health.
 

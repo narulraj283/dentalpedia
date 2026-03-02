@@ -4,20 +4,14 @@ slug: proper-brushing-technique-step-by-step-guide
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Master the correct brushing method to maximize plaque removal.
-reviewer_name: Dr. Angela Summer, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: A Dental & Denture
-reviewer_location: A Dental & Denture
-reviewer_url: https://www.dentaldenture.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Brushing, Flossing & Hygiene
+subcategory_slug: brushing-flossing
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## Why Brushing Technique Matters

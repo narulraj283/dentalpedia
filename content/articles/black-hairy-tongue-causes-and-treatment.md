@@ -4,20 +4,14 @@ slug: black-hairy-tongue-causes-and-treatment
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Managing this unusual but benign oral condition.
-reviewer_name: Dr. Les Miller, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Lawrence Dental Solutions
-reviewer_location: Lawrence Dental Solutions
-reviewer_url: https://www.lawrencedentalsolutions.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: Mayo Clinic - Black Hairy Tongue
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: General Dentistry
+subcategory: Conditions Overview
+subcategory_slug: overview-conditions
+sources:
+  - title: Mayo Clinic - Black Hairy Tongue
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Understanding Black Hairy Tongue

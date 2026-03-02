@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dentalpedia.co/sitemap.xml
+Sitemap: https://dentalpedia.co/sitemap-index.xml

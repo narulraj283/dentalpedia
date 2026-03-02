@@ -4,20 +4,14 @@ slug: before-and-after-cosmetic-dentistry-setting-expectations
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Understand realistic outcomes and how to prepare for cosmetic dental procedures.
-reviewer_name: Dr. Alireza Farkhondeh, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: The Hope Dental Care Centre
-reviewer_location: The Hope Dental Care Centre
-reviewer_url: https://www.thdcc.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Teeth Whitening & Bleaching
+subcategory_slug: teeth-whitening
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Before undergoing cosmetic dental treatment, understanding what's realistically achievable is crucial for satisfaction. Many patients have seen dramatic before-and-after photos online and expect identical results for their smile. However, cosmetic dentistry outcomes depend on numerous individual factors. Proper expectation-setting with your dentist ensures you're prepared for your transformation.

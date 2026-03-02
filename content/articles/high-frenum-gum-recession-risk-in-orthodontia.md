@@ -4,20 +4,14 @@ slug: high-frenum-gum-recession-risk-in-orthodontia
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Tight frenum issues during braces.
-reviewer_name: TheDentaLink
-reviewer_credentials: General Dentistry
-reviewer_practice: TheDentaLink
-reviewer_location: TheDentaLink
-reviewer_url: https://www.thedentalink.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Tight frenum issues during braces.
 

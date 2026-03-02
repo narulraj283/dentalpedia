@@ -4,20 +4,14 @@ slug: alcohol-and-periodontitis-increased-risk
 category: Periodontics
 category_slug: periodontics
 excerpt: Drinking affecting gum disease progression.
-reviewer_name: Pasadena Periodontic
-reviewer_credentials: General Dentistry
-reviewer_practice: Pasadena Periodontic
-reviewer_location: Pasadena Periodontic
-reviewer_url: https://www.pasadenaperiodontics.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Periodontics
+subcategory: Periodontal Overview
+subcategory_slug: overview-perio
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Drinking affecting gum disease progression.
 

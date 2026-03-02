@@ -4,20 +4,14 @@ slug: tongue-tie-ankyloglossia-in-infants-and-toddlers
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Understanding tongue tie and when frenotomy is recommended.
-reviewer_name: Dr. Richard Weimar, DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: Weimar Family & Implant Dentistry
-reviewer_location: Weimar Family & Implant Dentistry
-reviewer_url: https://www.weimardds.com
-sources:
-  - title: American Academy of Pediatric Dentistry
-    url: https://www.aapd.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Academy of Pediatrics
-    url: https://www.aap.org/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: American Academy of Pediatrics
+  - url: https://www.aap.org/
 ---
 
 Tongue tie, medically called ankyloglossia, is a congenital condition where the tissue beneath the tongue (lingual frenulum) is unusually short or thick, restricting tongue movement. While not all tongue ties require treatment, significant restrictions can affect feeding, speech development, and oral health. Understanding when intervention is needed helps parents navigate this increasingly recognized condition.

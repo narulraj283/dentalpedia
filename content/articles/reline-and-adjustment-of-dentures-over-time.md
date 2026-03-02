@@ -4,20 +4,14 @@ slug: reline-and-adjustment-of-dentures-over-time
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: Why dentures need periodic relining and adjustments as your jaw changes.
-reviewer_name: Dr. David Garazi, DDS
-reviewer_credentials: Prosthodontics
-reviewer_practice: Garazi Periodontics & Dental Implants
-reviewer_location: Garazi Periodontics & Dental Implants
-reviewer_url: https://www.garazidmd.com
-sources:
-  - title: American College of Prosthodontists
-    url: https://www.prosthodontics.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Prosthodontics
+subcategory: Prosthodontic Overview
+subcategory_slug: overview-prostho
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Over time, the jaw structure changes through bone resorption—loss of bone supporting dentures. This continuous remodeling requires periodic denture relining and adjustment to maintain proper fit and function. Understanding this ongoing process helps patients anticipate need for maintenance.

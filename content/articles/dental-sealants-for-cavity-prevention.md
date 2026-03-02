@@ -4,20 +4,14 @@ slug: dental-sealants-for-cavity-prevention
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Discover how dental sealants protect your teeth from decay, especially in hard-to-clean areas.
-reviewer_name: Dr. Fortuna Vardeman, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Randolph Family Dental
-reviewer_location: Randolph Family Dental
-reviewer_url: https://www.randolphfamilydental.com
-sources:
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: General Dentistry
+subcategory: Fillings & Restorations
+subcategory_slug: fillings-restorations
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 ## What Are Dental Sealants

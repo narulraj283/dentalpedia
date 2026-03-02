@@ -4,20 +4,14 @@ slug: sugar-and-tooth-decay-how-diet-affects-your-teeth
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Understanding the relationship between sugar consumption and cavity formation.
-reviewer_name: Dr. Kevin Pulsipher, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Mint Dental
-reviewer_location: Mint Dental
-reviewer_url: https://www.mintydentists.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Diet & Nutrition
+subcategory_slug: diet-nutrition
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## How Sugar Causes Decay

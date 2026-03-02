@@ -4,20 +4,14 @@ slug: oral-thrush-and-fungal-infections-causes-and-treatment
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Understand candida infections in the mouth and effective treatment approaches.
-reviewer_name: Dr. Ryan Fisher, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Tooth Acres Dentistry
-reviewer_location: Tooth Acres Dentistry
-reviewer_url: https://www.toothacresdentistry.com
-sources:
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: General Dentistry
+subcategory: General Overview
+subcategory_slug: overview-general
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/
 ---
 
 ## Understanding Oral Thrush

@@ -4,20 +4,14 @@ slug: guided-bone-regeneration-in-dental-surgery
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Techniques to encourage bone growth for dental restoration.
-reviewer_name: Dr. Mark Spinazze, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_location: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_url: https://www.associatesfororalsurgery.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Guided bone regeneration (GBR) is a sophisticated surgical technique that encourages bone growth in areas of deficiency. By using special barriers and bone graft materials, surgeons create an environment where bone preferentially grows while soft tissue is excluded. This technique is particularly valuable when implants are planned and bone volume is inadequate.

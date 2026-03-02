@@ -4,20 +4,14 @@ slug: gum-contouring-for-a-better-smile-gummy-smile-solutions
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Understand procedures to reshape your gumline for improved aesthetics.
-reviewer_name: Dr. Daniel Cobb, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Alex Bell Dentistry
-reviewer_location: Alex Bell Dentistry
-reviewer_url: https://www.alexbelldental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Bonding & Contouring
+subcategory_slug: bonding-contouring
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/
 ---
 
 ## Understanding Gummy Smile

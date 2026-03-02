@@ -4,20 +4,14 @@ slug: early-childhood-caries-prevention-strategies
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Baby bottle tooth decay prevention.
-reviewer_name: South OC Pediatric Dentistry & Orthodontics
-reviewer_credentials: General Dentistry
-reviewer_practice: South OC Pediatric Dentistry & Orthodontics
-reviewer_location: South OC Pediatric Dentistry & Orthodontics
-reviewer_url: https://www.wheresmilesstart.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Preventive Overview
+subcategory_slug: overview-prevent
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Baby bottle tooth decay prevention.
 

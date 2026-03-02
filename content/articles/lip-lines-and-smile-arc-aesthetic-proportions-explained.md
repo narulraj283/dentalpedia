@@ -4,20 +4,14 @@ slug: lip-lines-and-smile-arc-aesthetic-proportions-explained
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Understanding smile aesthetics and proportions.
-reviewer_name: Dr. Garcia General & Cosmetic Dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Dr. Garcia General & Cosmetic Dentistry
-reviewer_location: Dr. Garcia General & Cosmetic Dentistry
-reviewer_url: https://www.drgarciadds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Cosmetic Overview
+subcategory_slug: overview-cosmetic
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Understanding smile aesthetics and proportions.
 

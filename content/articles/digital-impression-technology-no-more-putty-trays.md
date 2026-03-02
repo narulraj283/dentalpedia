@@ -4,20 +4,14 @@ slug: digital-impression-technology-no-more-putty-trays
 category: Dental Technology
 category_slug: dental-technology
 excerpt: How digital scanning replaces traditional impression materials.
-reviewer_name: Dr. Aaron Sanders, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Z Dentistry
-reviewer_location: Z Dentistry
-reviewer_url: https://www.zdentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Journal of Prosthodontics
-    url: https://onlinelibrary.wiley.com/journal/1532849x
-  - title: Digital Dentistry
-    url: https://www.digital-dentistry.com/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: General Dentistry
+subcategory: Technology Overview
+subcategory_slug: overview-tech
+sources:
+  - title: Digital Dentistry
+  - url: https://www.digital-dentistry.com/
 ---
 
 ## Understanding Digital Impression Technology

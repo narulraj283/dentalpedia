@@ -4,20 +4,14 @@ slug: xerostomia-dry-mouth-prevention-and-management
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Strategies to maintain moisture and dental health with dry mouth.
-reviewer_name: Dr. Ryan Watkins, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Dreamtime Dentistry
-reviewer_location: Dreamtime Dentistry
-reviewer_url: https://www.dreamtimedentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Cleveland Clinic - Xerostomia
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Diet & Nutrition
+subcategory_slug: diet-nutrition
+sources:
+  - title: Cleveland Clinic - Xerostomia
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 ## Understanding Salivary Function and Xerostomia

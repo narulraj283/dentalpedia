@@ -4,20 +4,14 @@ slug: implant-timeline-healing-stages-and-treatment-duration
 category: Dental Implants
 category_slug: dental-implants
 excerpt: Understanding the months-long process from extraction to final restoration.
-reviewer_name: Dr. David Garazi, DDS
-reviewer_credentials: Implant Dentistry
-reviewer_practice: Garazi Periodontics & Dental Implants
-reviewer_location: Garazi Periodontics & Dental Implants
-reviewer_url: https://www.garazidmd.com
-sources:
-  - title: Journal of Oral Implantology
-    url: https://journals.lww.com/dentalimplants/
-  - title: Clinical Oral Implants Research
-    url: https://onlinelibrary.wiley.com/journal/16000501
-  - title: International Journal of Oral & Maxillofacial Implants
-    url: https://www.ijomi.com/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: International Journal of Oral & Maxillofacial Implants
+  - url: https://www.ijomi.com/
 ---
 
 ## Why Implant Treatment Takes Time

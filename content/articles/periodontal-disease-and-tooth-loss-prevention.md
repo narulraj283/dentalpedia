@@ -4,20 +4,14 @@ slug: periodontal-disease-and-tooth-loss-prevention
 category: Periodontics
 category_slug: periodontics
 excerpt: How periodontal care preserves teeth threatened by advanced gum disease.
-reviewer_name: Dr. Hoda Hosseini, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: ClearCare Periodontal & Implant Centre
-reviewer_location: ClearCare Periodontal & Implant Centre
-reviewer_url: https://www.clearcareperio.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Periodontics
+subcategory: Gum Disease & Conditions
+subcategory_slug: gum-disease
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 Periodontitis causes more tooth loss in adults than dental decay. Advanced gum disease destroys the bone supporting teeth, eventually leading to loosening and loss. However, aggressive treatment of even advanced periodontitis, combined with dedicated long-term management, can save teeth that would otherwise be lost.

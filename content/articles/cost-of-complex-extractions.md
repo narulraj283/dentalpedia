@@ -4,22 +4,14 @@ slug: cost-of-complex-extractions
 category: "Oral Surgery"
 category_slug: oral-surgery
 excerpt: "Comprehensive information about complex extractions for optimal dental health."
-reviewer_name: "Smile Studios"
-reviewer_credentials: "General Dentistry"
-reviewer_practice: "Smile Studios"
-reviewer_location: "Smile Studios"
-reviewer_url: "https://www.smilestudiosredmond.com"
-sources:
-  - title: "American Dental Association (ADA)"
-    url: "https://www.ada.org"
-  - title: "Journal of Dental Research"
-    url: "https://journals.sagepub.com/home/jdr"
-  - title: "National Institute of Dental and Craniofacial Research"
-    url: "https://www.nidcr.nih.gov"
-  - title: "International Journal of Implant Dentistry"
-    url: "https://www.ijimplantdent.com"
 date: "2026-03-02"
 read_time: "4 min"
+reviewer_specialty: General Dentistry
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: "International Journal of Implant Dentistry"
+  - url: "https://www.ijimplantdent.com"
 ---
 
 Dental surgical techniques have evolved dramatically over the past few decades, driven by advances in technology, materials science, and clinical understanding of biological responses. Modern approaches prioritize patient safety, minimal trauma, and optimal long-term outcomes. Contemporary surgeons combine traditional hand skills with cutting-edge innovations to provide superior care. Understanding surgical principles helps patients appreciate the expertise and complexity involved in procedures.

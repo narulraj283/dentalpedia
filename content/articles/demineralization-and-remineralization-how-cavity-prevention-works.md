@@ -4,20 +4,14 @@ slug: demineralization-and-remineralization-how-cavity-prevention-works
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Understanding the process of tooth decay and fluoride protection.
-reviewer_name: Dr. Tokiko Poppe, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Cosmos Dentistry
-reviewer_location: Cosmos Dentistry
-reviewer_url: https://www.cosmosdentaloffice.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Journal of Dental Research
-    url: https://journals.sagepub.com/home/jdr
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Diet & Nutrition
+subcategory_slug: diet-nutrition
+sources:
+  - title: Journal of Dental Research
+  - url: https://journals.sagepub.com/home/jdr
 ---
 
 ## Tooth Structure and Mineral Composition

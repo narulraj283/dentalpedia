@@ -4,20 +4,14 @@ slug: child-toothbrush-age-appropriate-sizes-and-features
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Selecting proper brushes for developing teeth.
-reviewer_name: South OC Pediatric Dentistry & Orthodontics
-reviewer_credentials: General Dentistry
-reviewer_practice: South OC Pediatric Dentistry & Orthodontics
-reviewer_location: South OC Pediatric Dentistry & Orthodontics
-reviewer_url: https://www.wheresmilesstart.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Brushing, Flossing & Hygiene
+subcategory_slug: brushing-flossing
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Selecting proper brushes for developing teeth.
 

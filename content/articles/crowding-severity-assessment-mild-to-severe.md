@@ -4,20 +4,14 @@ slug: crowding-severity-assessment-mild-to-severe
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Measuring tooth alignment deficiency.
-reviewer_name: SHN Orthodontics
-reviewer_credentials: General Dentistry
-reviewer_practice: SHN Orthodontics
-reviewer_location: SHN Orthodontics
-reviewer_url: https://www.shnortho.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Measuring tooth alignment deficiency.
 

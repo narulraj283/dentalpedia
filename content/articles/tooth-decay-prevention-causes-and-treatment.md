@@ -4,20 +4,14 @@ slug: tooth-decay-prevention-causes-and-treatment
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Understand how cavities form and discover effective prevention strategies and treatment options.
-reviewer_name: Dr. Emily Andre, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Gentle Dental Care
-reviewer_location: Gentle Dental Care
-reviewer_url: https://www.gentledentalmenomonie.com
-sources:
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: General Dentistry
+subcategory: General Overview
+subcategory_slug: overview-general
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## How Tooth Decay Forms

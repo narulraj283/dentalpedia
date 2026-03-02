@@ -4,20 +4,14 @@ slug: teledentistry-remote-dental-consultation-and-follow-up
 category: Dental Technology
 category_slug: dental-technology
 excerpt: Benefits and limitations of virtual dental consultations.
-reviewer_name: Dr. Kaveendra Ranasinghe, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Portland Dental
-reviewer_location: Portland Dental
-reviewer_url: https://www.portlanddentalpc.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Journal of Dental Education
-    url: https://jde.ada.org/
-  - title: Teledentistry Review
-    url: https://www.teledentistry-today.com/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: General Dentistry
+subcategory: Patient-Facing Technology
+subcategory_slug: patient-tech
+sources:
+  - title: Teledentistry Review
+  - url: https://www.teledentistry-today.com/
 ---
 
 ## Understanding Teledentistry

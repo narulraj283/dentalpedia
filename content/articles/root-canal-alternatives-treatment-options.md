@@ -4,20 +4,14 @@ slug: root-canal-alternatives-treatment-options
 category: Endodontics
 category_slug: endodontics
 excerpt: Exploring alternatives to root canal therapy when available.
-reviewer_name: Dr. Ethridge Chris - McDonough, DDS
-reviewer_credentials: Endodontics
-reviewer_practice: McDonough Endodontic Center
-reviewer_location: McDonough Endodontic Center
-reviewer_url: https://www.mcdonoughendodontic.com
-sources:
-  - title: American Association of Endodontists
-    url: https://www.aae.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Endodontics
+subcategory: Endodontic Overview
+subcategory_slug: overview-endo
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 When a tooth shows signs of pulp inflammation or infection, root canal treatment is often recommended. However, in some situations, alternatives exist. Understanding these options helps you make informed decisions about tooth preservation.

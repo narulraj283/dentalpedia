@@ -4,20 +4,14 @@ slug: tell-show-do-in-pediatric-dentistry
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Explaining procedures to children.
-reviewer_name: Hoover Dental Center
-reviewer_credentials: General Dentistry
-reviewer_practice: Hoover Dental Center
-reviewer_location: Hoover Dental Center
-reviewer_url: https://www.hooverdentalcenter.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 3 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Explaining procedures to children.
 

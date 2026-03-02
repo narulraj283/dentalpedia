@@ -4,20 +4,14 @@ slug: early-orthodontic-treatment-benefits-of-starting-early
 category: Orthodontics
 category_slug: orthodontics
 excerpt: How early intervention can guide proper jaw development in children.
-reviewer_name: Dr. Danielle Hoina, DDS
-reviewer_credentials: Orthodontics
-reviewer_practice: AMP Orthodontics & Kids Dental
-reviewer_location: AMP Orthodontics & Kids Dental
-reviewer_url: https://www.ampsmiles.com
-sources:
-  - title: American Association of Orthodontists
-    url: https://www.aaoinfo.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Orthodontics
+subcategory: Adult Orthodontics
+subcategory_slug: adult-orthodontics
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Early orthodontic treatment refers to intervention during childhood while teeth are still erupting and jaws are still growing. Starting orthodontics at ages 7-10 rather than waiting until age 12-14 offers significant advantages. Early intervention can guide proper jaw development, potentially simplifying later comprehensive treatment or eliminating the need for it entirely.

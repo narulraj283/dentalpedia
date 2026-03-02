@@ -4,20 +4,14 @@ slug: open-bite-from-thumb-sucking-prevention-and-treatment
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Anterior opening caused by digit sucking.
-reviewer_name: Arnold Cutler DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Arnold Cutler DDS
-reviewer_location: Arnold Cutler DDS
-reviewer_url: https://www.lakesidecadentist.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Anterior opening caused by digit sucking.
 

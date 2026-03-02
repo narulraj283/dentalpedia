@@ -4,20 +4,14 @@ slug: mouth-ulcers-and-canker-sores-treatment-and-prevention
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Discover causes of oral ulcers and effective home remedies and professional treatments.
-reviewer_name: Dr. Rajni Kapoor, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Mirage Family Dentistry
-reviewer_location: Mirage Family Dentistry
-reviewer_url: https://www.miragefamilydentistry.com
-sources:
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: American Dental Association
-    url: https://www.ada.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: General Dentistry
+subcategory: General Overview
+subcategory_slug: overview-general
+sources:
+  - title: American Dental Association
+  - url: https://www.ada.org/
 ---
 
 ## Understanding Mouth Ulcers and Canker Sores

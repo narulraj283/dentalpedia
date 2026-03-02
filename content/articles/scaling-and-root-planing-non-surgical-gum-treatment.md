@@ -4,20 +4,14 @@ slug: scaling-and-root-planing-non-surgical-gum-treatment
 category: Periodontics
 category_slug: periodontics
 excerpt: Deep cleaning procedure to remove tartar and stop gum disease progression.
-reviewer_name: Dr. Henriod Spencer - Pasadena Periodontic, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: Pasadena Periodontic
-reviewer_location: Pasadena Periodontic
-reviewer_url: https://www.pasadenaperiodontics.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Periodontics
+subcategory: Scaling, Root Planing & Treatment
+subcategory_slug: scaling-planing
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Scaling and root planing (also called deep cleaning or non-surgical periodontal therapy) is a fundamental treatment for gum disease that removes bacterial accumulations and hardened tartar from tooth roots below the gum line. This procedure is often the first-line treatment for periodontitis and can halt disease progression when combined with improved home oral hygiene.

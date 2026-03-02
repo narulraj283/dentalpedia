@@ -4,20 +4,14 @@ slug: removable-partial-denture-clasp-design-and-comfort
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: Understanding how partial dentures are designed for retention and comfort.
-reviewer_name: Dr. Mark Spinazze, DDS
-reviewer_credentials: Prosthodontics
-reviewer_practice: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_location: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_url: https://www.associatesfororalsurgery.com
-sources:
-  - title: Journal of Prosthetic Dentistry
-    url: https://www.jpsychres.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Academy of Prosthodontics
-    url: https://www.prosthodontics.org/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Prosthodontics
+subcategory: Dentures & Removable Prosthetics
+subcategory_slug: dentures
+sources:
+  - title: Academy of Prosthodontics
+  - url: https://www.prosthodontics.org/
 ---
 
 ## Introduction to Removable Partial Dentures

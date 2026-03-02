@@ -4,20 +4,14 @@ slug: bad-breath-halitosis-causes-and-solutions
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Identify the underlying causes of persistent bad breath and proven treatment methods.
-reviewer_name: Dr. Chris Wujick, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Boulevard Dental
-reviewer_location: Boulevard Dental
-reviewer_url: https://www.boulevard-dental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: General Dentistry
+subcategory: General Overview
+subcategory_slug: overview-general
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Oral Causes of Bad Breath

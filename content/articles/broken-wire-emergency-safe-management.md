@@ -4,20 +4,14 @@ slug: broken-wire-emergency-safe-management
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Wire breakage and emergency care protocols.
-reviewer_name: South OC Pediatric Dentistry & Orthodontics
-reviewer_credentials: General Dentistry
-reviewer_practice: South OC Pediatric Dentistry & Orthodontics
-reviewer_location: South OC Pediatric Dentistry & Orthodontics
-reviewer_url: https://www.wheresmilesstart.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 3 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Wire breakage and emergency care protocols.
 

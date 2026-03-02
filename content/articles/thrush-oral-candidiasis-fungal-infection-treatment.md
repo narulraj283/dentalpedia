@@ -4,20 +4,14 @@ slug: thrush-oral-candidiasis-fungal-infection-treatment
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Recognizing and treating fungal infections in the mouth.
-reviewer_name: Dr. Abel Aguilar, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Manchester Dental
-reviewer_location: Manchester Dental
-reviewer_url: https://www.manchesterdental.net
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: CDC - Candidiasis
-    url: https://www.cdc.gov/
-  - title: Mayo Clinic - Oral Thrush
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: General Dentistry
+subcategory: Infections & Abscesses
+subcategory_slug: infections-abscess
+sources:
+  - title: Mayo Clinic - Oral Thrush
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Understanding Oral Candidiasis and Candida albicans

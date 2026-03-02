@@ -4,20 +4,14 @@ slug: broken-tooth-emergency-immediate-care-and-long-term-repair
 category: Emergency Dentistry
 category_slug: emergency-dentistry
 excerpt: Managing a broken tooth and available restoration options.
-reviewer_name: Dr. Stephen Matarazzo, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Dr. Stephen Matarazzo
-reviewer_location: Dr. Stephen Matarazzo
-reviewer_url: https://www.quincysmilecenter.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Emergency Dental Care
+subcategory: Trauma & Fractures
+subcategory_slug: trauma-fracture
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 ## Broken Tooth Severity Levels

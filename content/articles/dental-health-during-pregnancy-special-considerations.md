@@ -4,20 +4,14 @@ slug: dental-health-during-pregnancy-special-considerations
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Important oral health guidelines and safe dental treatments during pregnancy.
-reviewer_name: Dr. Jamie Alexander, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Jamie J Alexander D.D.S. P.A
-reviewer_location: Jamie J Alexander D.D.S. P.A
-reviewer_url: https://www.drjamiealexander.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: General Dentistry
+subcategory: General Overview
+subcategory_slug: overview-general
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## Why Dental Health Matters During Pregnancy

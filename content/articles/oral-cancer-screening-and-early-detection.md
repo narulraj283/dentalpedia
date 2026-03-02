@@ -4,20 +4,14 @@ slug: oral-cancer-screening-and-early-detection
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: How dentists screen for oral cancer and warning signs.
-reviewer_name: Dr. Ty Jaros, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Distinctive Dentistry
-reviewer_location: Distinctive Dentistry
-reviewer_url: https://www.distinctivedentistryeugene.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Cancer Society - Oral Cancer
-    url: https://www.cancer.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: General Dentistry
+subcategory: Oral Lesions & Disorders
+subcategory_slug: oral-lesions
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## Oral Cancer Epidemiology and Risk

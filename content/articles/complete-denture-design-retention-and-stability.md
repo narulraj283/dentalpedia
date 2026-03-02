@@ -4,20 +4,14 @@ slug: complete-denture-design-retention-and-stability
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: Creating full mouth dentures.
-reviewer_name: Riverside Dental Clinic
-reviewer_credentials: General Dentistry
-reviewer_practice: Riverside Dental Clinic
-reviewer_location: Riverside Dental Clinic
-reviewer_url: https://www.drumhellerdentist.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Prosthodontics
+subcategory: Prosthodontic Overview
+subcategory_slug: overview-prostho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Creating full mouth dentures.
 

@@ -4,20 +4,14 @@ slug: invisalign-cost-factors-what-affects-your-treatment-price
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Understand the variables that determine the cost of clear aligner therapy.
-reviewer_name: Dr. Danielle Hoina, DDS
-reviewer_credentials: Orthodontics
-reviewer_practice: AMP Orthodontics & Kids Dental
-reviewer_location: AMP Orthodontics & Kids Dental
-reviewer_url: https://www.ampsmiles.com
-sources:
-  - title: American Association of Orthodontists
-    url: https://www.aaoinfo.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Orthodontics
+subcategory: Treatment Duration & Speed
+subcategory_slug: treatment-duration
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Invisalign treatment costs typically range from $3,500 to $8,000, with wide variation depending on multiple case-specific factors. Understanding what influences pricing helps you budget for treatment and compare costs among providers. Unlike simple fee structures, Invisalign pricing reflects the complexity of your specific case and customization required.

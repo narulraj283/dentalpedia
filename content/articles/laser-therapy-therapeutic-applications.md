@@ -4,20 +4,14 @@ slug: laser-therapy-therapeutic-applications
 category: Dental Technology
 category_slug: dental-technology
 excerpt: Laser technology in treatment.
-reviewer_name: Meredith Levine DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Meredith Levine DDS
-reviewer_location: Meredith Levine DDS
-reviewer_url: https://www.hppydds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: General Dentistry
+subcategory: Laser & Advanced Treatment Technology
+subcategory_slug: laser-technology
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Laser technology in treatment.
 

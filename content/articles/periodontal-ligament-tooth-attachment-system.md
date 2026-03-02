@@ -4,20 +4,14 @@ slug: periodontal-ligament-tooth-attachment-system
 category: Periodontics
 category_slug: periodontics
 excerpt: PDL shock absorption.
-reviewer_name: Hoover Dental Center
-reviewer_credentials: General Dentistry
-reviewer_practice: Hoover Dental Center
-reviewer_location: Hoover Dental Center
-reviewer_url: https://www.hooverdentalcenter.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Periodontics
+subcategory: Periodontal Overview
+subcategory_slug: overview-perio
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 PDL shock absorption.
 

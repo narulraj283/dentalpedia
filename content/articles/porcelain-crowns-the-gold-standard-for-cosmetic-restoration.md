@@ -4,20 +4,14 @@ slug: porcelain-crowns-the-gold-standard-for-cosmetic-restoration
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Learn why porcelain crowns are preferred for natural-looking restorations.
-reviewer_name: Dr. Kimberly King, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Kitty Hawk Dental Care
-reviewer_location: Kitty Hawk Dental Care
-reviewer_url: https://www.kittyhawkdentalcare.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Journal of the American Dental Association
-    url: https://jada.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Cosmetic Overview
+subcategory_slug: overview-cosmetic
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Why Porcelain Is Ideal for Cosmetic Restoration

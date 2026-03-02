@@ -4,20 +4,14 @@ slug: childhood-cavities-prevention-and-early-treatment
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Strategies to prevent tooth decay in children and early intervention options.
-reviewer_name: Dr. Matthew VanderLaan, DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: VanderLaan Family Dentistry
-reviewer_location: VanderLaan Family Dentistry
-reviewer_url: https://www.vlfamilydentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Childhood cavities remain one of the most common chronic diseases affecting children today, yet they're largely preventable with proper education and proactive care. Understanding the causes of tooth decay in young patients and implementing effective prevention strategies can help your child maintain a healthy smile throughout their developing years.

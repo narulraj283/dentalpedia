@@ -4,20 +4,14 @@ slug: dry-socket-prevention-and-treatment
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Learn about this painful post-extraction complication and how to prevent it.
-reviewer_name: Dr. Peter Cabrera, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: Perio Implant Chicago
-reviewer_location: Perio Implant Chicago
-reviewer_url: https://www.perioimplantchicago.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Complications & Risks
+subcategory_slug: surgical-complications
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Dry socket (alveolar osteitis) is a painful complication occurring when the protective blood clot dislodges from an extraction site after tooth removal. While occurring in only 3-5% of extractions, it's extremely painful when it happens—often described as sharp, severe pain worse than the original extraction discomfort. Understanding prevention and recognizing symptoms allows early treatment.

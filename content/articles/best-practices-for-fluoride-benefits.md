@@ -4,20 +4,14 @@ slug: best-practices-for-fluoride-benefits
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Comprehensive information about fluoride benefits for optimal dental health.
-reviewer_name: TriBeCa Dental Associates
-reviewer_credentials: General Dentistry
-reviewer_practice: TriBeCa Dental Associates
-reviewer_location: TriBeCa Dental Associates
-reviewer_url: https://www.tribeca.dental
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Fluoride & Sealants
+subcategory_slug: fluoride-sealants
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Comprehensive information about fluoride benefits for optimal dental health.
 

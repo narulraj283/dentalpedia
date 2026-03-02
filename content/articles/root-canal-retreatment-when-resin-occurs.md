@@ -4,20 +4,14 @@ slug: root-canal-retreatment-when-resin-occurs
 category: Endodontics
 category_slug: endodontics
 excerpt: Understanding why some root canals fail and retreatment procedures.
-reviewer_name: Dr. Ethridge Chris - Augusta Endodontic Center, DDS
-reviewer_credentials: Endodontics
-reviewer_practice: Augusta Endodontic Center
-reviewer_location: Augusta Endodontic Center
-reviewer_url: https://www.augustaendo.com
-sources:
-  - title: American Association of Endodontists
-    url: https://www.aae.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Endodontics
+subcategory: Root Canal Treatment
+subcategory_slug: root-canal-treatment
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 While root canal treatment is highly successful (exceeding 90 percent success in most situations), occasionally healing doesn't occur and treatment fails. Root canal retreatment—redoing the root canal procedure—can save teeth that didn't heal properly after initial treatment.

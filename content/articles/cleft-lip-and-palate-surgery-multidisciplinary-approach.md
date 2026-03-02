@@ -4,20 +4,14 @@ slug: cleft-lip-and-palate-surgery-multidisciplinary-approach
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Overview of surgical correction for congenital cleft conditions.
-reviewer_name: Dr. Hoda Hosseini, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: ClearCare Periodontal & Implant Centre
-reviewer_location: ClearCare Periodontal & Implant Centre
-reviewer_url: https://www.clearcareperio.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic - Oral Health
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: Mayo Clinic - Oral Health
+  - url: https://www.mayoclinic.org/
 ---
 
 Cleft lip and palate are congenital conditions where the tissues forming the mouth, nose, and lips don't develop properly during pregnancy. Affecting approximately 1 in 600 births, cleft conditions are corrected through multidisciplinary surgical and medical care beginning in infancy. Modern surgical techniques achieve excellent functional and aesthetic outcomes.

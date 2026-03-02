@@ -4,20 +4,14 @@ slug: fissure-sealant-application-child-prevention
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Protective coating in kids.
-reviewer_name: Mark A. Cruz DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Mark A. Cruz DDS
-reviewer_location: Mark A. Cruz DDS
-reviewer_url: https://www.markacruzdds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Protective coating in kids.
 

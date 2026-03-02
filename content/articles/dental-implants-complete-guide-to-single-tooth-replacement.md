@@ -4,20 +4,14 @@ slug: dental-implants-complete-guide-to-single-tooth-replacement
 category: Dental Implants
 category_slug: dental-implants
 excerpt: Everything you need to know about implants for replacing one missing tooth.
-reviewer_name: Dr. Tae Kwon, DDS
-reviewer_credentials: Implant Dentistry
-reviewer_practice: Monadnock Perio & Implant Center
-reviewer_location: Monadnock Perio & Implant Center
-reviewer_url: https://www.monadnockperio.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Academy of Implant Dentistry
-    url: https://www.aaid.com/
-  - title: International Journal of Oral Implantology
-    url: https://www.journals.sagepub.com/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: International Journal of Oral Implantology
+  - url: https://www.journals.sagepub.com/
 ---
 
 ## Understanding Single Tooth Implants

@@ -4,20 +4,14 @@ slug: provisional-restoration-temporary-crown
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Temporary coverage during treatment.
-reviewer_name: Mirage Family Dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Mirage Family Dentistry
-reviewer_location: Mirage Family Dentistry
-reviewer_url: https://www.miragefamilydentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: General Dentistry
+subcategory: General Overview
+subcategory_slug: overview-general
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Temporary coverage during treatment.
 

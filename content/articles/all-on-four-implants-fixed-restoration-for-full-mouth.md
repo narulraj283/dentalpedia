@@ -4,20 +4,14 @@ slug: all-on-four-implants-fixed-restoration-for-full-mouth
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: Understanding this efficient implant technique for replacing all teeth.
-reviewer_name: Dr. Tae Kwon, DDS
-reviewer_credentials: Prosthodontics
-reviewer_practice: Monadnock Perio & Implant Center
-reviewer_location: Monadnock Perio & Implant Center
-reviewer_url: https://www.monadnockperio.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Academy of Prosthodontics
-    url: https://www.prosthodontics.org/
-  - title: International Journal of Prosthodontics
-    url: https://quintessence.com/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Prosthodontics
+subcategory: Prosthodontic Overview
+subcategory_slug: overview-prostho
+sources:
+  - title: International Journal of Prosthodontics
+  - url: https://quintessence.com/
 ---
 
 ## The Revolution in Full Mouth Dental Restoration

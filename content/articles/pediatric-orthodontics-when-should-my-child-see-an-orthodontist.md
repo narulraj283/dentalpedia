@@ -4,20 +4,14 @@ slug: pediatric-orthodontics-when-should-my-child-see-an-orthodontist
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Guidelines for timing of orthodontic evaluation and early intervention.
-reviewer_name: Dr. Danielle Hoina, DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: AMP Orthodontics & Kids Dental
-reviewer_location: AMP Orthodontics & Kids Dental
-reviewer_url: https://www.ampsmiles.com
-sources:
-  - title: American Association of Orthodontists
-    url: https://aaoinfo.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 The question of when a child should see an orthodontist is one of the most common inquiries pediatric dentists receive from parents. Understanding the timeline for orthodontic evaluation and the difference between early intervention and comprehensive treatment helps families make informed decisions about their child's dental development.

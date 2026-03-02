@@ -4,20 +4,14 @@ slug: denture-adhesive-when-and-how-to-use-it
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: Best practices for using denture adhesive for improved retention.
-reviewer_name: Dr. David Garazi, DDS
-reviewer_credentials: Prosthodontics
-reviewer_practice: Garazi Periodontics & Dental Implants
-reviewer_location: Garazi Periodontics & Dental Implants
-reviewer_url: https://www.garazidmd.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: Journal of Prosthetic Dentistry
-    url: https://www.jpsychres.org/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Prosthodontics
+subcategory: Prosthodontic Overview
+subcategory_slug: overview-prostho
+sources:
+  - title: Journal of Prosthetic Dentistry
+  - url: https://www.jpsychres.org/
 ---
 
 ## What Is Denture Adhesive and Why It Exists

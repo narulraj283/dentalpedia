@@ -4,20 +4,14 @@ slug: common-misconceptions-about-dental-examination-types
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Comprehensive information about dental examination types for optimal dental health.
-reviewer_name: Treehouse Dental
-reviewer_credentials: General Dentistry
-reviewer_practice: Treehouse Dental
-reviewer_location: Treehouse Dental
-reviewer_url: https://www.treehousedental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: General Dentistry
+subcategory: Cleanings & Exams
+subcategory_slug: cleanings-exams
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Comprehensive information about dental examination types for optimal dental health.
 

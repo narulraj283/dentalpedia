@@ -4,22 +4,14 @@ slug: post-sedation-instructions
 category: "Dental Anxiety & Sedation"
 category_slug: dental-anxiety-sedation
 excerpt: "Patient recovery guidelines."
-reviewer_name: "Granite Bay Dentistry"
-reviewer_credentials: "General Dentistry"
-reviewer_practice: "Granite Bay Dentistry"
-reviewer_location: "Granite Bay Dentistry"
-reviewer_url: "https://www.granitebaydds.com"
-sources:
-  - title: "American Dental Association (ADA)"
-    url: "https://www.ada.org"
-  - title: "Journal of Dental Research"
-    url: "https://journals.sagepub.com/home/jdr"
-  - title: "National Institute of Dental and Craniofacial Research"
-    url: "https://www.nidcr.nih.gov"
-  - title: "International Journal of Implant Dentistry"
-    url: "https://www.ijimplantdent.com"
 date: "2026-03-02"
 read_time: "3 min"
+reviewer_specialty: General Dentistry
+subcategory: Sedation Options & Types
+subcategory_slug: sedation-options
+sources:
+  - title: "International Journal of Implant Dentistry"
+  - url: "https://www.ijimplantdent.com"
 ---
 
 Post-operative recovery following dental surgery requires understanding distinct biological healing phases that occur over specific timeframes. The body undergoes complex processes including hemostasis (bleeding control), inflammation, proliferation, and remodeling to restore dental function and esthetics properly. Proper management during recovery significantly impacts outcomes, patient comfort, and the timeline to complete healing. Understanding what to expect helps patients distinguish normal healing responses from complications requiring professional intervention.

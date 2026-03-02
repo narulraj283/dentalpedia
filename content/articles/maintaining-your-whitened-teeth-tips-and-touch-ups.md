@@ -4,20 +4,14 @@ slug: maintaining-your-whitened-teeth-tips-and-touch-ups
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Strategies to keep your teeth white longer and maintain your whitening results.
-reviewer_name: Dr. Ryan Zhao, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Harmony Smile Dental
-reviewer_location: Harmony Smile Dental
-reviewer_url: https://www.harmonysmiledental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Teeth Whitening & Bleaching
+subcategory_slug: teeth-whitening
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## How Long Whitening Results Last

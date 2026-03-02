@@ -4,20 +4,14 @@ slug: lingual-braces-hidden-orthodontics-behind-your-teeth
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Learn about braces placed behind teeth for completely discreet treatment.
-reviewer_name: Dr. De Lorme John, DDS
-reviewer_credentials: Orthodontics
-reviewer_practice: South OC Pediatric Dentistry & Orthodontics
-reviewer_location: South OC Pediatric Dentistry & Orthodontics
-reviewer_url: https://www.wheresmilesstart.com
-sources:
-  - title: American Association of Orthodontists
-    url: https://www.aaoinfo.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Lingual braces represent the ultimate in invisible orthodontics. Brackets and wires are placed on the inside (lingual surface) of teeth, completely hidden from view. When you smile, no one sees your braces. This complete discretion appeals especially to professionals, celebrities, and anyone uncomfortable with visible orthodontics. However, lingual braces require special expertise and present unique challenges compared to conventional braces.

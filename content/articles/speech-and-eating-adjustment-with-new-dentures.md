@@ -4,20 +4,14 @@ slug: speech-and-eating-adjustment-with-new-dentures
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: Timeline for adapting to dentures and tips for adjustment.
-reviewer_name: Dr. Richard Weimar, DDS
-reviewer_credentials: Prosthodontics
-reviewer_practice: Weimar Family & Implant Dentistry
-reviewer_location: Weimar Family & Implant Dentistry
-reviewer_url: https://www.weimardds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: Journal of Oral Health and Community Dentistry
-    url: https://www.journalocm.com/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Prosthodontics
+subcategory: Prosthodontic Overview
+subcategory_slug: overview-prostho
+sources:
+  - title: Journal of Oral Health and Community Dentistry
+  - url: https://www.journalocm.com/
 ---
 
 ## The Adjustment Period: What to Expect

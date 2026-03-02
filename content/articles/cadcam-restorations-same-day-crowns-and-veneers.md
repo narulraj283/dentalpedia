@@ -4,20 +4,14 @@ slug: cadcam-restorations-same-day-crowns-and-veneers
 category: Dental Technology
 category_slug: dental-technology
 excerpt: Technology enabling tooth restoration in a single visit.
-reviewer_name: Dr. Edward Jackson, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: State Street Smiles
-reviewer_location: State Street Smiles
-reviewer_url: https://www.statestreetsmiles.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Journal of Prosthodontics
-    url: https://onlinelibrary.wiley.com/journal/1532849x
-  - title: International Journal of Dentistry
-    url: https://www.hindawi.com/journals/ijd/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: General Dentistry
+subcategory: Digital Tools & Software
+subcategory_slug: digital-tools
+sources:
+  - title: International Journal of Dentistry
+  - url: https://www.hindawi.com/journals/ijd/
 ---
 
 ## Understanding CAD/CAM Technology

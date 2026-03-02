@@ -4,20 +4,14 @@ slug: dental-x-rays-safety-types-and-what-they-reveal
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Everything you need to know about different types of dental imaging and their importance.
-reviewer_name: Dr. Jared Adams, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Cascadia Family Dental
-reviewer_location: Cascadia Family Dental
-reviewer_url: https://www.dentistinbendoregon.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: General Dentistry
+subcategory: General Overview
+subcategory_slug: overview-general
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Radiation Safety in Dentistry

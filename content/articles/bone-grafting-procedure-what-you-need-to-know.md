@@ -4,20 +4,14 @@ slug: bone-grafting-procedure-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Comprehensive information about bone grafting procedure for optimal dental health.
-reviewer_name: Health 360 Dental
-reviewer_credentials: General Dentistry
-reviewer_practice: Health 360 Dental
-reviewer_location: Health 360 Dental
-reviewer_url: https://www.health360dental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Comprehensive information about bone grafting procedure for optimal dental health.
 

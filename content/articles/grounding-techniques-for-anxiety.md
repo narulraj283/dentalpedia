@@ -4,22 +4,14 @@ slug: grounding-techniques-for-anxiety
 category: "Dental Anxiety & Sedation"
 category_slug: dental-anxiety-sedation
 excerpt: "Mindfulness anxiety reduction."
-reviewer_name: "Granite Bay Dentistry"
-reviewer_credentials: "General Dentistry"
-reviewer_practice: "Granite Bay Dentistry"
-reviewer_location: "Granite Bay Dentistry"
-reviewer_url: "https://www.granitebaydds.com"
-sources:
-  - title: "American Dental Association (ADA)"
-    url: "https://www.ada.org"
-  - title: "Journal of Dental Research"
-    url: "https://journals.sagepub.com/home/jdr"
-  - title: "National Institute of Dental and Craniofacial Research"
-    url: "https://www.nidcr.nih.gov"
-  - title: "International Journal of Implant Dentistry"
-    url: "https://www.ijimplantdent.com"
 date: "2026-03-02"
 read_time: "4 min"
+reviewer_specialty: General Dentistry
+subcategory: Anesthesia & Pain Control
+subcategory_slug: anesthesia
+sources:
+  - title: "International Journal of Implant Dentistry"
+  - url: "https://www.ijimplantdent.com"
 ---
 
 Dental surgical techniques have evolved dramatically over the past few decades, driven by advances in technology, materials science, and clinical understanding of biological responses. Modern approaches prioritize patient safety, minimal trauma, and optimal long-term outcomes. Contemporary surgeons combine traditional hand skills with cutting-edge innovations to provide superior care. Understanding surgical principles helps patients appreciate the expertise and complexity involved in procedures.

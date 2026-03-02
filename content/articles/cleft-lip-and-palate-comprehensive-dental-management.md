@@ -4,20 +4,14 @@ slug: cleft-lip-and-palate-comprehensive-dental-management
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Coordinated care for the dental needs of cleft patients.
-reviewer_name: Dr. Heidi Silsby, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Silsby Family Dental
-reviewer_location: Silsby Family Dental
-reviewer_url: https://www.silsbydental.com
-sources:
-  - title: American Cleft Palate-Craniofacial Association
-    url: https://acpa-cpf.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic - Cleft Palate
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: General Dentistry
+subcategory: Decay, Cavities & Caries
+subcategory_slug: decay-cavity
+sources:
+  - title: Mayo Clinic - Cleft Palate
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Understanding Cleft Lip and Palate

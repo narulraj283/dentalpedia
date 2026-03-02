@@ -4,20 +4,14 @@ slug: school-age-dental-health-comprehensive-care-guide
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Dental care priorities and best practices for school-age children.
-reviewer_name: Dr. Bryce Westmoreland, DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: Wespark Family Dentistry
-reviewer_location: Perry, GA
-reviewer_url: https://www.wesparkfamilydentistry.com
-sources:
-  - title: American Academy of Pediatric Dentistry
-    url: https://www.aapd.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 School-age children experience significant dental development changes as primary teeth transition to permanent teeth. Establishing strong oral hygiene habits, maintaining regular professional care, and addressing developing problems early creates a foundation for lifelong oral health and prevents complex dental issues in adulthood.

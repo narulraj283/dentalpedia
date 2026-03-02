@@ -4,20 +4,14 @@ slug: maxillary-denture-upper-denture-retention
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: Creating secure upper dentures.
-reviewer_name: Meredith Levine DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Meredith Levine DDS
-reviewer_location: Meredith Levine DDS
-reviewer_url: https://www.hppydds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Prosthodontics
+subcategory: Prosthodontic Overview
+subcategory_slug: overview-prostho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Creating secure upper dentures.
 

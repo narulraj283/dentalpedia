@@ -4,20 +4,14 @@ slug: professional-fluoride-vs-over-the-counter-treatments
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Compare professional fluoride treatments with at-home options for maximum effectiveness.
-reviewer_name: Dr. Mamta Dalwani, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Center for Holistic Dentistry
-reviewer_location: Center for Holistic Dentistry
-reviewer_url: https://www.centerforholisticdentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Journal of the American Dental Association
-    url: https://jada.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: General Dentistry
+subcategory: General Overview
+subcategory_slug: overview-general
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## Fluoride Concentration Differences

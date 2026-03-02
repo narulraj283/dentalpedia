@@ -4,20 +4,14 @@ slug: emergency-root-canal-treating-severe-dental-pain
 category: Emergency Dentistry
 category_slug: emergency-dentistry
 excerpt: How emergency endodontic treatment relieves acute tooth pain.
-reviewer_name: Dr. Damaries Candelario-Soto, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Endodontics Associates of Georgia
-reviewer_location: Endodontics Associates of Georgia
-reviewer_url: https://www.endocobb.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Association of Endodontists
-    url: https://www.aae.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Emergency Dental Care
+subcategory: Acute Pain & Relief
+subcategory_slug: acute-pain
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 ## When Emergency Root Canal Is Needed

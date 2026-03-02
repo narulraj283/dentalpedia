@@ -4,22 +4,14 @@ slug: root-canal-treatment-complete-guide
 category: "Endodontics"
 category_slug: endodontics
 excerpt: "Comprehensive information about root canal treatment for optimal dental health."
-reviewer_name: "Augusta Endodontic Center"
-reviewer_credentials: "General Dentistry"
-reviewer_practice: "Augusta Endodontic Center"
-reviewer_location: "Augusta Endodontic Center"
-reviewer_url: "https://www.augustaendo.com"
-sources:
-  - title: "American Dental Association (ADA)"
-    url: "https://www.ada.org"
-  - title: "Journal of Dental Research"
-    url: "https://journals.sagepub.com/home/jdr"
-  - title: "National Institute of Dental and Craniofacial Research"
-    url: "https://www.nidcr.nih.gov"
-  - title: "International Journal of Implant Dentistry"
-    url: "https://www.ijimplantdent.com"
 date: "2026-03-02"
 read_time: "4 min"
+reviewer_specialty: General Dentistry
+subcategory: Root Canal Treatment
+subcategory_slug: root-canal-treatment
+sources:
+  - title: "International Journal of Implant Dentistry"
+  - url: "https://www.ijimplantdent.com"
 ---
 
 Dental health encompasses multiple aspects of oral care and professional treatment. Maintaining healthy teeth and gums requires commitment to excellent home care combined with regular professional supervision. Good oral health contributes to overall health, function, and quality of life. Professional dental care addresses problems early before they become complicated and expensive to treat.

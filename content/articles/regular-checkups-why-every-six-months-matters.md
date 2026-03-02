@@ -4,20 +4,14 @@ slug: regular-checkups-why-every-six-months-matters
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Benefits of consistent dental visits for early disease detection.
-reviewer_name: Dr. Jamie Richard, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Dentistry at Golden Ridge
-reviewer_location: Dentistry at Golden Ridge
-reviewer_url: https://www.dentistrygoldenridge.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Fluoride & Sealants
+subcategory_slug: fluoride-sealants
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 ## The Six-Month Interval: Evidence-Based Recommendation

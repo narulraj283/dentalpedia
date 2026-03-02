@@ -4,20 +4,14 @@ slug: establishing-healthy-oral-hygiene-habits
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Creating sustainable daily routines for lifelong dental health.
-reviewer_name: Dr. John Russo, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: John E Russo DMD
-reviewer_location: John E Russo DMD
-reviewer_url: https://www.drjohnrusso.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: British Medical Journal - Habit Formation
-    url: https://www.bmj.com/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Habits & Lifestyle Factors
+subcategory_slug: habits-lifestyle
+sources:
+  - title: British Medical Journal - Habit Formation
+  - url: https://www.bmj.com/
 ---
 
 ## Understanding Habit Formation and Behavioral Psychology

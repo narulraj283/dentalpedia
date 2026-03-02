@@ -4,20 +4,14 @@ slug: oral-biopsies-diagnosis-of-suspicious-lesions
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Understanding how oral biopsies help diagnose oral diseases and conditions.
-reviewer_name: Dr. Hoda Hosseini, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: ClearCare Periodontal & Implant Centre
-reviewer_location: ClearCare Periodontal & Implant Centre
-reviewer_url: https://www.clearcareperio.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic - Oral Health
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: Mayo Clinic - Oral Health
+  - url: https://www.mayoclinic.org/
 ---
 
 When your dentist identifies a suspicious lesion, growth, or discoloration in your mouth, an oral biopsy might be recommended. A biopsy—removing a small tissue sample for laboratory analysis—provides definitive diagnosis of the lesion's nature. Understanding the biopsy process helps you prepare for this potentially anxiety-producing procedure.

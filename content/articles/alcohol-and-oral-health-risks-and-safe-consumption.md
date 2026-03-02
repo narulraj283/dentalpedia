@@ -4,20 +4,14 @@ slug: alcohol-and-oral-health-risks-and-safe-consumption
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Understanding how alcohol affects dental health.
-reviewer_name: Dr. Sheri Cookston, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Whiting Dental
-reviewer_location: Whiting Dental
-reviewer_url: https://www.whitingdentalaz.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic - Oral Health
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Habits & Lifestyle Factors
+subcategory_slug: habits-lifestyle
+sources:
+  - title: Mayo Clinic - Oral Health
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Alcohol's Direct Chemical Effects on Teeth and Gums

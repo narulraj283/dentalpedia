@@ -4,20 +4,14 @@ slug: fluoride-in-children-safety-and-dosage-guidelines
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Appropriate fluoride use for children to prevent decay without causing fluorosis.
-reviewer_name: Dr. Tiffany Fritz, DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: Piney Creek Family Dentistry
-reviewer_location: Piney Creek Family Dentistry
-reviewer_url: https://www.pineycreekdental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Academy of Pediatric Dentistry
-    url: https://www.aapd.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Dental Care
+subcategory_slug: pediatric-care
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Fluoride is a powerful tool for preventing tooth decay in children, but proper use is essential. Too little fluoride fails to protect teeth; too much during certain developmental periods can cause dental fluorosis—cosmetic staining. Understanding age-appropriate fluoride use helps you protect your child's teeth while using fluoride safely.

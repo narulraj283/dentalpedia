@@ -4,20 +4,14 @@ slug: adult-orthodontics-is-it-ever-too-late
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Discover how modern orthodontics makes teeth straightening possible at any age.
-reviewer_name: Dr. Edgar Mendieta, DDS
-reviewer_credentials: Orthodontics
-reviewer_practice: Global Smiles Orthodontics
-reviewer_location: Global Smiles Orthodontics
-reviewer_url: https://www.globalsmiles.us
-sources:
-  - title: American Association of Orthodontists
-    url: https://www.aaoinfo.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 If you've reached adulthood wondering whether it's too late to straighten your teeth, the answer is a definitive no. Adults represent a growing percentage of orthodontic patients, pursuing tooth straightening for professional, personal, and health reasons. Modern orthodontics accommodates adult needs, with discreet options and effective outcomes regardless of age.

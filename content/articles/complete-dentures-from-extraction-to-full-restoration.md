@@ -4,20 +4,14 @@ slug: complete-dentures-from-extraction-to-full-restoration
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: Comprehensive guide to complete denture therapy and adaptation.
-reviewer_name: Dr. Mark Spinazze, DDS
-reviewer_credentials: Prosthodontics
-reviewer_practice: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_location: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_url: https://www.associatesfororalsurgery.com
-sources:
-  - title: American College of Prosthodontists
-    url: https://www.prosthodontics.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Prosthodontics
+subcategory: Dentures & Removable Prosthetics
+subcategory_slug: dentures
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Complete dentures replace all teeth in one or both jaws. For patients requiring extraction of all remaining teeth, complete dentures restore function, esthetics, and quality of life. Understanding the process from extraction through adaptation helps set realistic expectations.

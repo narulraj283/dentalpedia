@@ -4,20 +4,14 @@ slug: tooth-extraction-aftercare-recovery-and-complications
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Post-extraction care instructions to ensure proper healing and minimize complications.
-reviewer_name: Dr. Richard Weimar, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Weimar Family & Implant Dentistry
-reviewer_location: Weimar Family & Implant Dentistry
-reviewer_url: https://www.weimardds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: General Dentistry
+subcategory: Tooth Extraction
+subcategory_slug: tooth-extraction
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## Understanding the Extraction Process

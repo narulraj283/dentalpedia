@@ -4,20 +4,14 @@ slug: implant-platform-switching-reducing-bone-loss
 category: Dental Implants
 category_slug: dental-implants
 excerpt: Abutment diameter smaller than implant.
-reviewer_name: Tooth Architect Dental Care
-reviewer_credentials: General Dentistry
-reviewer_practice: Tooth Architect Dental Care
-reviewer_location: Tooth Architect Dental Care
-reviewer_url: https://www.tootharchitectdental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Abutment diameter smaller than implant.
 

@@ -4,20 +4,14 @@ slug: complications-after-tooth-extraction-what-to-watch-for
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Potential complications and warning signs requiring immediate attention.
-reviewer_name: Dr. Richard Weimar, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: Weimar Family & Implant Dentistry
-reviewer_location: Weimar Family & Implant Dentistry
-reviewer_url: https://www.weimardds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic - Oral Health
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Complications & Risks
+subcategory_slug: surgical-complications
+sources:
+  - title: Mayo Clinic - Oral Health
+  - url: https://www.mayoclinic.org/
 ---
 
 While most tooth extractions heal without complications, understanding potential post-extraction problems helps you recognize warning signs early. Most complications are manageable when identified quickly, but ignoring symptoms can allow serious problems to develop. Knowing what to watch for empowers you to protect your health.

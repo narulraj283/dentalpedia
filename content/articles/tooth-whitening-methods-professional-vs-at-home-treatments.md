@@ -4,20 +4,14 @@ slug: tooth-whitening-methods-professional-vs-at-home-treatments
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Compare different whitening options, including professional treatments and at-home kits.
-reviewer_name: Dr. Tina Subherwal, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Smile Studios
-reviewer_location: Smile Studios
-reviewer_url: https://www.smilestudiosredmond.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Teeth Whitening & Bleaching
+subcategory_slug: teeth-whitening
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 ## Understanding Tooth Discoloration

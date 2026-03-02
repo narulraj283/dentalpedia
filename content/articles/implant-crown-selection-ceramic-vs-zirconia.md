@@ -4,20 +4,14 @@ slug: implant-crown-selection-ceramic-vs-zirconia
 category: Dental Implants
 category_slug: dental-implants
 excerpt: Choosing the best restoration material for your implant crown.
-reviewer_name: Dr. Chase Larsen, DDS
-reviewer_credentials: Implant Dentistry
-reviewer_practice: Chase Inspired Dentistry
-reviewer_location: Chase Inspired Dentistry
-reviewer_url: https://www.chaseinspireddentistry.com
-sources:
-  - title: Journal of Prosthetic Dentistry
-    url: https://www.jpsychres.org/
-  - title: International Journal of Prosthodontics
-    url: https://quintessence.com/
-  - title: American Dental Association
-    url: https://www.ada.org/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: American Dental Association
+  - url: https://www.ada.org/
 ---
 
 ## Understanding Implant Crown Options

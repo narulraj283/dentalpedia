@@ -4,20 +4,14 @@ slug: dental-health-habits-for-lifelong-teeth
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Daily and weekly practices for maintaining healthy teeth and gums.
-reviewer_name: Dr. Kristina Dawson, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Peachtree Corners Dental Associates
-reviewer_location: Peachtree Corners Dental Associates
-reviewer_url: https://www.peachtreecornersdmd.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Brushing, Flossing & Hygiene
+subcategory_slug: brushing-flossing
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## Building a Lifetime of Oral Health

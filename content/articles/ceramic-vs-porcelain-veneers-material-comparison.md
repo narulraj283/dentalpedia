@@ -4,20 +4,14 @@ slug: ceramic-vs-porcelain-veneers-material-comparison
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Understand the differences between ceramic and porcelain veneers.
-reviewer_name: Dr. Colin Loewen, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Surrey Place Dental Group
-reviewer_location: Surrey Place Dental Group
-reviewer_url: https://www.surreyplacedental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: Journal of the American Dental Association
-    url: https://jada.ada.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Veneers & Laminates
+subcategory_slug: veneers
+sources:
+  - title: Journal of the American Dental Association
+  - url: https://jada.ada.org/
 ---
 
 ## Understanding the Terminology

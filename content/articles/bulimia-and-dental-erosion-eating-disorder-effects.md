@@ -4,20 +4,14 @@ slug: bulimia-and-dental-erosion-eating-disorder-effects
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Vomited acid severe tooth damage.
-reviewer_name: Kellerman Dental
-reviewer_credentials: General Dentistry
-reviewer_practice: Kellerman Dental
-reviewer_location: Kellerman Dental
-reviewer_url: https://www.kellermandental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Preventive Overview
+subcategory_slug: overview-prevent
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Vomited acid severe tooth damage.
 

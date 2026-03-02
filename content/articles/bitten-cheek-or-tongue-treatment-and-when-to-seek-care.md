@@ -4,20 +4,14 @@ slug: bitten-cheek-or-tongue-treatment-and-when-to-seek-care
 category: Emergency Dentistry
 category_slug: emergency-dentistry
 excerpt: Managing oral injuries from biting and when emergency care is needed.
-reviewer_name: Dr. Dean Dietrich, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Pleasant Dental LLC
-reviewer_location: Pleasant Dental LLC
-reviewer_url: https://www.pleasant-dental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Emergency Dental Care
+subcategory: Acute Pain & Relief
+subcategory_slug: acute-pain
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## How Biting Injuries Occur

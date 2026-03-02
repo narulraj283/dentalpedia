@@ -4,20 +4,14 @@ slug: flap-surgery-accessing-bone-for-deep-cleaning
 category: Periodontics
 category_slug: periodontics
 excerpt: Lifting gum to expose root surfaces.
-reviewer_name: Beverly hills advanced specialties of dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Beverly hills advanced specialties of dentistry
-reviewer_location: Beverly hills advanced specialties of dentistry
-reviewer_url: https://www.bhasdentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Periodontics
+subcategory: Scaling, Root Planing & Treatment
+subcategory_slug: scaling-planing
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Lifting gum to expose root surfaces.
 

@@ -4,20 +4,14 @@ slug: how-to-dental-visit-frequency
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Comprehensive information about dental visit frequency for optimal dental health.
-reviewer_name: Arden Park Dental Care
-reviewer_credentials: General Dentistry
-reviewer_practice: Arden Park Dental Care
-reviewer_location: Arden Park Dental Care
-reviewer_url: https://www.sacramentocosmeticdentist.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Preventive Overview
+subcategory_slug: overview-prevent
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Comprehensive information about dental visit frequency for optimal dental health.
 

@@ -4,20 +4,14 @@ slug: guide-to-dental-bonding-and-composite-resin
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Learn about this affordable cosmetic and restorative procedure for chipped or discolored teeth.
-reviewer_name: Dr. Brianne Luu, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Gentle Care Dentistry
-reviewer_location: Gentle Care Dentistry
-reviewer_url: https://www.gentledentistrysgv.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: General Dentistry
+subcategory: Fillings & Restorations
+subcategory_slug: fillings-restorations
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## What Is Dental Bonding

@@ -4,20 +4,14 @@ slug: arch-width-expansion-transverse-dimension-increase
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Widening dental arch for crowded teeth.
-reviewer_name: AMP Orthodontics & Kids Dental
-reviewer_credentials: General Dentistry
-reviewer_practice: AMP Orthodontics & Kids Dental
-reviewer_location: AMP Orthodontics & Kids Dental
-reviewer_url: https://www.ampsmiles.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Widening dental arch for crowded teeth.
 

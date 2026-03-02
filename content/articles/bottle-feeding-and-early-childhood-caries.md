@@ -4,20 +4,14 @@ slug: bottle-feeding-and-early-childhood-caries
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: How feeding practices affect primary tooth health and cavity prevention.
-reviewer_name: Dr. Nguyen Tiffany H., DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: West Portal Family Dentistry
-reviewer_location: West Portal Family Dentistry
-reviewer_url: https://www.westportaldentist.com
-sources:
-  - title: American Academy of Pediatric Dentistry
-    url: https://www.aapd.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Early childhood caries (ECC), formerly known as baby bottle tooth decay, remains a significant oral health concern affecting millions of infants and toddlers worldwide. This preventable condition develops due to prolonged exposure of primary teeth to sugary liquids, and understanding the connection between feeding practices and tooth health is essential for parents and caregivers.

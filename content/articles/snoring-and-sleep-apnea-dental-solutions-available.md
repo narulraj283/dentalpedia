@@ -4,20 +4,14 @@ slug: snoring-and-sleep-apnea-dental-solutions-available
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
 excerpt: Dental appliances as alternatives to surgery for sleep disorders.
-reviewer_name: Dr. John Aurelia, DDS
-reviewer_credentials: Orofacial Pain and TMJ Disorders
-reviewer_practice: John L. Aurelia D.D.S. PLLC
-reviewer_location: John L. Aurelia D.D.S. PLLC
-reviewer_url: https://www.aureliadds.com
-sources:
-  - title: American Academy of Sleep Medicine
-    url: https://aasm.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic - Sleep Apnea
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Orofacial Pain and TMJ
+subcategory: Sleep Apnea & Oral Appliances
+subcategory_slug: sleep-apnea
+sources:
+  - title: Mayo Clinic - Sleep Apnea
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Understanding Snoring and Sleep Apnea

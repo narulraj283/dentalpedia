@@ -4,20 +4,14 @@ slug: bruxism-and-tmj-connection-and-prevention
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
 excerpt: How teeth grinding contributes to jaw problems and protective solutions.
-reviewer_name: Dr. Allison Brown, DDS
-reviewer_credentials: Orofacial Pain and TMJ Disorders
-reviewer_practice: High Forest Dental
-reviewer_location: High Forest Dental
-reviewer_url: https://www.highforestdental.com
-sources:
-  - title: American Academy of Orofacial Pain
-    url: https://www.aaop.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Sleep Medicine Reviews
-    url: https://www.journals.elsevier.com/sleep-medicine-reviews
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Orofacial Pain and TMJ
+subcategory: Bruxism & Clenching
+subcategory_slug: bruxism
+sources:
+  - title: Sleep Medicine Reviews
+  - url: https://www.journals.elsevier.com/sleep-medicine-reviews
 ---
 
 ## Understanding Bruxism

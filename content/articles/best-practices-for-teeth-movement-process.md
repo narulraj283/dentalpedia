@@ -4,20 +4,14 @@ slug: best-practices-for-teeth-movement-process
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Comprehensive information about teeth movement process for optimal dental health.
-reviewer_name: Favero Family Dental
-reviewer_credentials: General Dentistry
-reviewer_practice: Favero Family Dental
-reviewer_location: Favero Family Dental
-reviewer_url: https://www.faverofamilydental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Comprehensive information about teeth movement process for optimal dental health.
 

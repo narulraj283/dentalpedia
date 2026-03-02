@@ -4,20 +4,14 @@ slug: how-to-choose-the-right-toothbrush-and-technique
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Select the best toothbrush type and learn proper brushing technique for optimal cleaning.
-reviewer_name: Dr. Lokhandwala Munira 2 (Dublin), DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: StarBrite Dental - Dublin
-reviewer_location: StarBrite Dental - Dublin
-reviewer_url: https://www.starbritedentaldublin.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: General Dentistry
+subcategory: General Overview
+subcategory_slug: overview-general
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## Toothbrush Bristle Type

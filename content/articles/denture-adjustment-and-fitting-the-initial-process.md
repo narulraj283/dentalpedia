@@ -4,20 +4,14 @@ slug: denture-adjustment-and-fitting-the-initial-process
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: What happens during denture fitting and multiple adjustment appointments.
-reviewer_name: Dr. Richard Weimar, DDS
-reviewer_credentials: Prosthodontics
-reviewer_practice: Weimar Family & Implant Dentistry
-reviewer_location: Weimar Family & Implant Dentistry
-reviewer_url: https://www.weimardds.com
-sources:
-  - title: American College of Prosthodontists
-    url: https://www.prosthodontics.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Prosthodontics
+subcategory: Dentures & Removable Prosthetics
+subcategory_slug: dentures
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 The denture fitting and adjustment process extends beyond the initial insertion appointment. Multiple adjustments over weeks allow optimization of fit, comfort, and function as tissues heal and the patient adapts to wearing dentures.

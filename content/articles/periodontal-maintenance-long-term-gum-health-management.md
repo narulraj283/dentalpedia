@@ -4,20 +4,14 @@ slug: periodontal-maintenance-long-term-gum-health-management
 category: Periodontics
 category_slug: periodontics
 excerpt: Ongoing care required after gum disease treatment to prevent recurrence.
-reviewer_name: Dr. Henriod Spencer - Pasadena Periodontic, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: Pasadena Periodontic
-reviewer_location: Pasadena Periodontic
-reviewer_url: https://www.pasadenaperiodontics.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Periodontics
+subcategory: Periodontal Overview
+subcategory_slug: overview-perio
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Periodontal maintenance represents the critical phase following active gum disease treatment where ongoing professional and home care prevents disease recurrence. While scaling and root planing can stop active disease progression, without dedicated long-term maintenance, periodontitis typically recurs. Understanding maintenance requirements helps patients commit to the lifestyle changes necessary for sustained gum health.

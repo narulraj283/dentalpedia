@@ -4,20 +4,14 @@ slug: risk-assessment-for-dental-disease-know-your-risk-level
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Assessing your personal risk for cavities and gum disease.
-reviewer_name: Dr. Suri Vidya- Sycamore Dental, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Sycamore Dental
-reviewer_location: Sycamore Dental
-reviewer_url: https://www.sycamoredentaltx.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: Caries Risk Assessment Tool
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Diet & Nutrition
+subcategory_slug: diet-nutrition
+sources:
+  - title: Caries Risk Assessment Tool
+  - url: https://www.mouthhealthy.org/
 ---
 
 ## Understanding Risk Assessment Framework

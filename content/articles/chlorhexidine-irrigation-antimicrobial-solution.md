@@ -4,20 +4,14 @@ slug: chlorhexidine-irrigation-antimicrobial-solution
 category: Periodontics
 category_slug: periodontics
 excerpt: Medicated rinse during deep cleaning.
-reviewer_name: Monadnock Perio & Implant Center
-reviewer_credentials: General Dentistry
-reviewer_practice: Monadnock Perio & Implant Center
-reviewer_location: Monadnock Perio & Implant Center
-reviewer_url: https://www.monadnockperio.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Periodontics
+subcategory: Periodontal Overview
+subcategory_slug: overview-perio
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Medicated rinse during deep cleaning.
 

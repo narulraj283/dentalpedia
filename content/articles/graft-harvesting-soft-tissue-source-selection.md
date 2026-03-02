@@ -4,20 +4,14 @@ slug: graft-harvesting-soft-tissue-source-selection
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Obtaining graft material for periodontal surgery.
-reviewer_name: Kennebec Dental Excellence
-reviewer_credentials: General Dentistry
-reviewer_practice: Kennebec Dental Excellence
-reviewer_location: Kennebec Dental Excellence
-reviewer_url: https://www.kennebecdental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Obtaining graft material for periodontal surgery.
 

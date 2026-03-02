@@ -4,20 +4,14 @@ slug: oral-cancer-diagnosis-and-surgical-treatment
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: How oral cancers are diagnosed and surgical approaches to treatment.
-reviewer_name: Dr. Peter Cabrera, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: Perio Implant Chicago
-reviewer_location: Perio Implant Chicago
-reviewer_url: https://www.perioimplantchicago.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic - Oral Health
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: Mayo Clinic - Oral Health
+  - url: https://www.mayoclinic.org/
 ---
 
 Oral cancer—cancers of the mouth, throat, tongue, or lip—affects thousands annually. While word "cancer" is frightening, oral cancers caught early have excellent treatment outcomes. Understanding how oral cancers are diagnosed and how modern surgery treats them empowers you to recognize warning signs and pursue prompt evaluation.

@@ -4,20 +4,14 @@ slug: smoking-and-dental-implants-why-quitting-matters
 category: Dental Implants
 category_slug: dental-implants
 excerpt: How smoking increases implant failure risk and affects healing.
-reviewer_name: Dr. Mark Spinazze, DDS
-reviewer_credentials: Implant Dentistry
-reviewer_practice: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_location: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_url: https://www.associatesfororalsurgery.com
-sources:
-  - title: Journal of Dental Research
-    url: https://journals.sagepub.com/home/jdr
-  - title: Clinical Oral Implants Research
-    url: https://onlinelibrary.wiley.com/journal/16000501
-  - title: American Dental Association
-    url: https://www.ada.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: American Dental Association
+  - url: https://www.ada.org/
 ---
 
 ## The Impact of Smoking on Implants

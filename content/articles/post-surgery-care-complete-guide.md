@@ -4,20 +4,14 @@ slug: post-surgery-care-complete-guide
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Comprehensive information about post-surgery care for optimal dental health.
-reviewer_name: Acton Dental Associates
-reviewer_credentials: General Dentistry
-reviewer_practice: Acton Dental Associates
-reviewer_location: Acton Dental Associates
-reviewer_url: https://www.actondental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Comprehensive information about post-surgery care for optimal dental health.
 

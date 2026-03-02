@@ -4,20 +4,14 @@ slug: dental-products-comparison-what-actually-works
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Evidence-based review of popular dental health products.
-reviewer_name: Dr. Nazia Ahmed, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Pure Dental Care
-reviewer_location: Pure Dental Care
-reviewer_url: https://www.puredentalcareny.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cochrane Database Systematic Reviews
-    url: https://www.cochranelibrary.com/
-  - title: Journal of Clinical Dentistry
-    url: https://jcd.birdjournals.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Brushing, Flossing & Hygiene
+subcategory_slug: brushing-flossing
+sources:
+  - title: Journal of Clinical Dentistry
+  - url: https://jcd.birdjournals.org/
 ---
 
 ## Toothbrush Effectiveness: Manual Versus Electric

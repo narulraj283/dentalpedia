@@ -4,20 +4,14 @@ slug: stainless-steel-vs-gold-crowns-durability-and-aesthetics
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Compare crown materials to find the best option for longevity and appearance.
-reviewer_name: Dr. Khaja Mohsinuddin, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Total Health Dental
-reviewer_location: Total Health Dental
-reviewer_url: https://www.totalhealthdentalpc.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Journal of the American Dental Association
-    url: https://jada.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: General Dentistry
+subcategory: Fillings & Restorations
+subcategory_slug: fillings-restorations
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/
 ---
 
 ## Understanding Crown Materials

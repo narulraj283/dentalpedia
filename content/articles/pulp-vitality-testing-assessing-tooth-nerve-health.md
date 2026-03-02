@@ -4,20 +4,14 @@ slug: pulp-vitality-testing-assessing-tooth-nerve-health
 category: Endodontics
 category_slug: endodontics
 excerpt: Diagnostic tests to determine if a tooth's nerve is alive or damaged.
-reviewer_name: Dr. Ethridge Chris - McDonough, DDS
-reviewer_credentials: Endodontics
-reviewer_practice: McDonough Endodontic Center
-reviewer_location: McDonough Endodontic Center
-reviewer_url: https://www.mcdonoughendodontic.com
-sources:
-  - title: American Association of Endodontists
-    url: https://www.aae.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Endodontics
+subcategory: Endodontic Overview
+subcategory_slug: overview-endo
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 When a tooth may require root canal treatment, dentists use pulp vitality testing to determine whether the pulp (nerve) is alive, injured, or dead. These diagnostic tests help guide treatment decisions and determine tooth prognosis.

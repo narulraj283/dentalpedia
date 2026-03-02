@@ -4,20 +4,14 @@ slug: dental-filling-options-composite-amalgam-and-ceramic
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Explore different filling materials, their benefits, and how to choose the best option for your teeth.
-reviewer_name: Dr. Chitra Pradeep, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Aqua Dental
-reviewer_location: Aqua Dental
-reviewer_url: https://www.aquadentalaustin.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Journal of the American Dental Association
-    url: https://jada.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: General Dentistry
+subcategory: Fillings & Restorations
+subcategory_slug: fillings-restorations
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/
 ---
 
 ## Understanding Dental Filling Materials

@@ -4,20 +4,14 @@ slug: pacifier-and-thumb-sucking-impact-on-teeth-development
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Understanding how oral habits affect bite development and when intervention helps.
-reviewer_name: Dr. Mona Houshiar, DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: Mona Dental for Kids
-reviewer_location: Mona Dental for Kids
-reviewer_url: https://www.monadentalforkids.com
-sources:
-  - title: American Academy of Pediatric Dentistry
-    url: https://www.aapd.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Thumb sucking and pacifier use are normal developmental behaviors that serve important self-soothing functions in infants and toddlers. However, when these habits persist beyond certain developmental stages, they can significantly impact the developing bite and jaw structure. Understanding when these habits become problematic and how to manage them helps parents navigate this common childhood phase.

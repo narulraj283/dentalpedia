@@ -4,20 +4,14 @@ slug: intraoral-cameras-see-your-teeth-in-detail
 category: Dental Technology
 category_slug: dental-technology
 excerpt: How intraoral imaging helps dentists diagnose and communicate with patients.
-reviewer_name: Dr. Warren Boardman, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Ridgewood Dentistry
-reviewer_location: Ridgewood Dentistry
-reviewer_url: https://www.ridgewooddentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Journal of Dental Education
-    url: https://jde.ada.org/
-  - title: Digital Dentistry Technology Review
-    url: https://www.digital-dentistry.com/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: General Dentistry
+subcategory: Technology Overview
+subcategory_slug: overview-tech
+sources:
+  - title: Digital Dentistry Technology Review
+  - url: https://www.digital-dentistry.com/
 ---
 
 ## Understanding Intraoral Cameras

@@ -4,20 +4,14 @@ slug: tetanus-risk-puncture-wound-prophylaxis
 category: Emergency Dentistry
 category_slug: emergency-dentistry
 excerpt: Preventing tetanus after injury.
-reviewer_name: Meredith Levine DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Meredith Levine DDS
-reviewer_location: Meredith Levine DDS
-reviewer_url: https://www.hppydds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 3 min
+reviewer_specialty: Emergency Dental Care
+subcategory: Emergency Overview
+subcategory_slug: overview-emergency
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Preventing tetanus after injury.
 

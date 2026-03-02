@@ -4,20 +4,14 @@ slug: iron-deficiency-anemia-oral-manifestations-and-care
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Blood disorder effects on oral tissues.
-reviewer_name: Wilmington Smiles
-reviewer_credentials: General Dentistry
-reviewer_practice: Wilmington Smiles
-reviewer_location: Wilmington Smiles
-reviewer_url: https://www.wilmingtonsmiles.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Preventive Overview
+subcategory_slug: overview-prevent
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Blood disorder effects on oral tissues.
 

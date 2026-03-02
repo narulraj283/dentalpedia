@@ -4,20 +4,14 @@ slug: implant-anatomy-fixture-abutment-and-crown
 category: Dental Implants
 category_slug: dental-implants
 excerpt: Components of modern dental implant system.
-reviewer_name: Weimar Family & Implant Dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Weimar Family & Implant Dentistry
-reviewer_location: Weimar Family & Implant Dentistry
-reviewer_url: https://www.weimardds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Components of modern dental implant system.
 

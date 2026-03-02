@@ -4,20 +4,14 @@ slug: jaw-surgery-for-severe-bite-problems
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Orthognathic surgery to correct significant jaw misalignment.
-reviewer_name: Dr. Tae Kwon, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: Monadnock Perio & Implant Center
-reviewer_location: Monadnock Perio & Implant Center
-reviewer_url: https://www.monadnockperio.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic - Oral Health
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: Mayo Clinic - Oral Health
+  - url: https://www.mayoclinic.org/
 ---
 
 Some bite problems are so severe that orthodontics alone cannot correct them. These cases require orthognathic (jaw) surgery combined with orthodontics to surgically reposition the jaws into proper relationships. While more involved than orthodontics, jaw surgery can resolve severe functional problems and dramatically improve facial appearance.

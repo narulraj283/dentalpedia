@@ -4,20 +4,14 @@ slug: geographic-tongue-harmless-pattern-on-tongue-surface
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Understanding this common benign tongue variation.
-reviewer_name: Dr. Chris Allington, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Positive Image Dental
-reviewer_location: Positive Image Dental
-reviewer_url: https://www.positiveimagedental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: Mayo Clinic - Geographic Tongue
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: General Dentistry
+subcategory: Infections & Abscesses
+subcategory_slug: infections-abscess
+sources:
+  - title: Mayo Clinic - Geographic Tongue
+  - url: https://www.mayoclinic.org/
 ---
 
 ## What Is Geographic Tongue?

@@ -4,20 +4,14 @@ slug: gingivitis-prevention-reversing-early-gum-disease
 category: Periodontics
 category_slug: periodontics
 excerpt: How proper oral hygiene can reverse early-stage gum inflammation.
-reviewer_name: Dr. Rina Kotecha, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: Dentistry On 10
-reviewer_location: Dentistry On 10
-reviewer_url: https://www.dentistryon10.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Periodontics
+subcategory: Gum Disease & Conditions
+subcategory_slug: gum-disease
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Gingivitis, the earliest stage of gum disease, is completely reversible when caught early and treated aggressively. Unlike advanced periodontitis which causes permanent bone loss, gingivitis involves only inflammation without irreversible damage. Understanding how to recognize gingivitis and implementing reversal strategies prevents progression to serious periodontal disease.

@@ -4,20 +4,14 @@ slug: home-care-between-dental-visits-extended-schedule
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Enhanced home care for patients who visit the dentist less frequently.
-reviewer_name: Dr. Gin Goei, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Huntington Dental Excellence
-reviewer_location: Huntington Dental Excellence
-reviewer_url: https://www.southpasadenadentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: Journal of Periodontology
-    url: https://onlinelibrary.wiley.com/journal/1943393x
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Brushing, Flossing & Hygiene
+subcategory_slug: brushing-flossing
+sources:
+  - title: Journal of Periodontology
+  - url: https://onlinelibrary.wiley.com/journal/1943393x
 ---
 
 ## The Plaque Biofilm Challenge in Extended Intervals

@@ -4,20 +4,14 @@ slug: anesthesia-options-in-oral-surgery
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Local, IV, and general anesthesia options for surgical procedures.
-reviewer_name: Dr. David Garazi, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: Garazi Periodontics & Dental Implants
-reviewer_location: Garazi Periodontics & Dental Implants
-reviewer_url: https://www.garazidmd.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic - Oral Health
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Complications & Risks
+subcategory_slug: surgical-complications
+sources:
+  - title: Mayo Clinic - Oral Health
+  - url: https://www.mayoclinic.org/
 ---
 
 Anesthesia is a critical component of oral surgery, ensuring you feel no pain during procedures. Multiple anesthesia options exist—from local numbing to general anesthesia—each with different levels of consciousness, risks, and recovery times. Understanding your options helps you discuss preferences with your surgeon.

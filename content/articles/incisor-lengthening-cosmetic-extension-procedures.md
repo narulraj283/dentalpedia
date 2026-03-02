@@ -4,20 +4,14 @@ slug: incisor-lengthening-cosmetic-extension-procedures
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Making teeth appear longer and more prominent.
-reviewer_name: Dr. Garcia General & Cosmetic Dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Dr. Garcia General & Cosmetic Dentistry
-reviewer_location: Dr. Garcia General & Cosmetic Dentistry
-reviewer_url: https://www.drgarciadds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Cosmetic Overview
+subcategory_slug: overview-cosmetic
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Making teeth appear longer and more prominent.
 

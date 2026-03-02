@@ -4,20 +4,14 @@ slug: vertical-elastics-up-and-down-forces
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Elastics correcting vertical issues.
-reviewer_name: Hoover Dental Center
-reviewer_credentials: General Dentistry
-reviewer_practice: Hoover Dental Center
-reviewer_location: Hoover Dental Center
-reviewer_url: https://www.hooverdentalcenter.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 3 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Elastics correcting vertical issues.
 

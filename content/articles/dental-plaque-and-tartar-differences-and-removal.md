@@ -4,20 +4,14 @@ slug: dental-plaque-and-tartar-differences-and-removal
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Learn the difference between plaque and tartar, and why professional removal matters.
-reviewer_name: Dr. Will Wyatt, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Flower Mound Dental: Dr. William E. Wyatt Jr
-reviewer_location: Flower Mound Dental: Dr. William E. Wyatt Jr
-reviewer_url: https://www.flowermounddental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: General Dentistry
+subcategory: Tooth Extraction
+subcategory_slug: tooth-extraction
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## Understanding Plaque

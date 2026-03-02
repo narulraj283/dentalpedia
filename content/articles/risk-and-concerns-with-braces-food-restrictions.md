@@ -4,20 +4,14 @@ slug: risk-and-concerns-with-braces-food-restrictions
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Comprehensive information about braces food restrictions for optimal dental health.
-reviewer_name: Canyon Crossing Dental
-reviewer_credentials: General Dentistry
-reviewer_practice: Canyon Crossing Dental
-reviewer_location: Canyon Crossing Dental
-reviewer_url: https://www.canyoncrossingdental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Comprehensive information about braces food restrictions for optimal dental health.
 

@@ -4,20 +4,14 @@ slug: absorbable-sutures-dissolving-stitches-benefits
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Self-dissolving sutures avoiding removal.
-reviewer_name: Arnold Cutler DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Arnold Cutler DDS
-reviewer_location: Arnold Cutler DDS
-reviewer_url: https://www.lakesidecadentist.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 3 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Care & Recovery
+subcategory_slug: surgical-care
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Self-dissolving sutures avoiding removal.
 

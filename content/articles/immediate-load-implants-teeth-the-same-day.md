@@ -4,20 +4,14 @@ slug: immediate-load-implants-teeth-the-same-day
 category: Dental Implants
 category_slug: dental-implants
 excerpt: Advanced technique for getting teeth on implants immediately after placement.
-reviewer_name: Dr. Hoda Hosseini, DDS
-reviewer_credentials: Implant Dentistry
-reviewer_practice: ClearCare Periodontal & Implant Centre
-reviewer_location: ClearCare Periodontal & Implant Centre
-reviewer_url: https://www.clearcareperio.com
-sources:
-  - title: Journal of Oral Implantology
-    url: https://journals.lww.com/dentalimplants/
-  - title: International Journal of Oral & Maxillofacial Implants
-    url: https://www.ijomi.com/
-  - title: Clinical Oral Implants Research
-    url: https://onlinelibrary.wiley.com/journal/16000501
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: Clinical Oral Implants Research
+  - url: https://onlinelibrary.wiley.com/journal/16000501
 ---
 
 ## What Is Immediate Load Implantology?

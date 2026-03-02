@@ -4,20 +4,14 @@ slug: timeline-for-before-and-after-smile
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Comprehensive information about before and after smile for optimal dental health.
-reviewer_name: Dental Associates of Hoboken
-reviewer_credentials: General Dentistry
-reviewer_practice: Dental Associates of Hoboken
-reviewer_location: Dental Associates of Hoboken
-reviewer_url: https://www.dentalassociatesofhoboken.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Cosmetic Overview
+subcategory_slug: overview-cosmetic
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Comprehensive information about before and after smile for optimal dental health.
 

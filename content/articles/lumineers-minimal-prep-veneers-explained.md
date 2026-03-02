@@ -4,20 +4,14 @@ slug: lumineers-minimal-prep-veneers-explained
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Discover ultra-thin veneers that require little to no tooth preparation.
-reviewer_name: Dr. Antony Startup, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Grandview Center for Dentistry
-reviewer_location: Grandview Center for Dentistry
-reviewer_url: https://www.grandviewdentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Veneers & Laminates
+subcategory_slug: veneers
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## What Are Lumineers

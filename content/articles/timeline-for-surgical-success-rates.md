@@ -4,22 +4,14 @@ slug: timeline-for-surgical-success-rates
 category: "Oral Surgery"
 category_slug: oral-surgery
 excerpt: "Comprehensive information about surgical success rates for optimal dental health."
-reviewer_name: "Gentle Care Dentistry"
-reviewer_credentials: "General Dentistry"
-reviewer_practice: "Gentle Care Dentistry"
-reviewer_location: "Gentle Care Dentistry"
-reviewer_url: "https://www.gentledentistrysgv.com"
-sources:
-  - title: "American Dental Association (ADA)"
-    url: "https://www.ada.org"
-  - title: "Journal of Dental Research"
-    url: "https://journals.sagepub.com/home/jdr"
-  - title: "National Institute of Dental and Craniofacial Research"
-    url: "https://www.nidcr.nih.gov"
-  - title: "International Journal of Implant Dentistry"
-    url: "https://www.ijimplantdent.com"
 date: "2026-03-02"
 read_time: "4 min"
+reviewer_specialty: General Dentistry
+subcategory: Surgical Care & Recovery
+subcategory_slug: surgical-care
+sources:
+  - title: "International Journal of Implant Dentistry"
+  - url: "https://www.ijimplantdent.com"
 ---
 
 Post-operative recovery following dental surgery requires understanding distinct biological healing phases that occur over specific timeframes. The body undergoes complex processes including hemostasis (bleeding control), inflammation, proliferation, and remodeling to restore dental function and esthetics properly. Proper management during recovery significantly impacts outcomes, patient comfort, and the timeline to complete healing. Understanding what to expect helps patients distinguish normal healing responses from complications requiring professional intervention.

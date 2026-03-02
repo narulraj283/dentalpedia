@@ -4,20 +4,14 @@ slug: gestational-gingivitis-pregnancy-effects-on-gums
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Hormonal changes affecting periodontal health.
-reviewer_name: Albrecht Dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Albrecht Dentistry
-reviewer_location: Albrecht Dentistry
-reviewer_url: https://www.albrechtdentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Preventive Overview
+subcategory_slug: overview-prevent
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Hormonal changes affecting periodontal health.
 

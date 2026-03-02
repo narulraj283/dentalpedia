@@ -4,20 +4,14 @@ slug: when-do-you-need-a-root-canal-common-signs
 category: Endodontics
 category_slug: endodontics
 excerpt: Warning signs indicating a root canal may be necessary.
-reviewer_name: Dr. Damaries Candelario-Soto, DDS
-reviewer_credentials: Endodontics
-reviewer_practice: Endodontics Associates of Georgia
-reviewer_location: Endodontics Associates of Georgia
-reviewer_url: https://www.endocobb.com
-sources:
-  - title: American Association of Endodontists
-    url: https://www.aae.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Endodontics
+subcategory: Endodontic Overview
+subcategory_slug: overview-endo
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Several warning signs suggest that a tooth may need root canal treatment. Recognizing these symptoms and seeking prompt evaluation can save the tooth and prevent complications. However, it's important to remember that only a dentist can definitively diagnose the need for root canal treatment through examination and testing.

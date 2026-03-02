@@ -4,20 +4,14 @@ slug: implant-maintenance-long-term-care-and-cleaning
 category: Dental Implants
 category_slug: dental-implants
 excerpt: Proper care techniques to keep your implant healthy for decades.
-reviewer_name: Dr. Richard Weimar, DDS
-reviewer_credentials: Implant Dentistry
-reviewer_practice: Weimar Family & Implant Dentistry
-reviewer_location: Weimar Family & Implant Dentistry
-reviewer_url: https://www.weimardds.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: Journal of Clinical Periodontology
-    url: https://onlinelibrary.wiley.com/journal/1600051x
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 ## Why Implant Maintenance Matters

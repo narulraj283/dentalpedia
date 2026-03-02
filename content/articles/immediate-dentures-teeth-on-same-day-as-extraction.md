@@ -4,20 +4,14 @@ slug: immediate-dentures-teeth-on-same-day-as-extraction
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: Getting functional teeth immediately after extraction.
-reviewer_name: Dr. Hoda Hosseini, DDS
-reviewer_credentials: Prosthodontics
-reviewer_practice: ClearCare Periodontal & Implant Centre
-reviewer_location: ClearCare Periodontal & Implant Centre
-reviewer_url: https://www.clearcareperio.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Journal of Prosthetic Dentistry
-    url: https://www.jpsychres.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Prosthodontics
+subcategory: Prosthodontic Overview
+subcategory_slug: overview-prostho
+sources:
+  - title: Journal of Prosthetic Dentistry
+  - url: https://www.jpsychres.org/
 ---
 
 ## Understanding Immediate Dentures

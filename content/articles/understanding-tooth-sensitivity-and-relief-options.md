@@ -4,20 +4,14 @@ slug: understanding-tooth-sensitivity-and-relief-options
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Find out why your teeth hurt and learn about treatments to reduce sensitivity and discomfort.
-reviewer_name: Dr. Nicholas Garcia, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Dr. Garcia General & Cosmetic Dentistry
-reviewer_location: Dr. Garcia General & Cosmetic Dentistry
-reviewer_url: https://www.drgarciadds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: General Dentistry
+subcategory: General Overview
+subcategory_slug: overview-general
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 ## The Mechanics of Tooth Sensitivity

@@ -4,20 +4,14 @@ slug: severe-toothache-causes-and-emergency-treatment
 category: Emergency Dentistry
 category_slug: emergency-dentistry
 excerpt: Understanding sudden tooth pain and when emergency care is needed.
-reviewer_name: Dr. David Matney, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Ballston Dental Care
-reviewer_location: Ballston Dental Care
-reviewer_url: https://www.ballstondentalcare.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Emergency Dental Care
+subcategory: Acute Pain & Relief
+subcategory_slug: acute-pain
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Understanding Severe Toothaches

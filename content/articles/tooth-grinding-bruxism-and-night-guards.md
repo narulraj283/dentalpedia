@@ -4,20 +4,14 @@ slug: tooth-grinding-bruxism-and-night-guards
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Understand the causes of teeth grinding and how protective devices prevent further damage.
-reviewer_name: Dr. Leo Arellano, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Leo Arellano DDS PC
-reviewer_location: Leo Arellano DDS PC
-reviewer_url: https://www.drleoarellano.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: General Dentistry
+subcategory: Fillings & Restorations
+subcategory_slug: fillings-restorations
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Understanding Bruxism

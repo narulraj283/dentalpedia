@@ -4,20 +4,14 @@ slug: tooth-whitening-timing-when-to-whiten-during-treatment
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Strategic whitening in cosmetic treatment sequence.
-reviewer_name: Nashua Cosmetic And Restorative Dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Nashua Cosmetic And Restorative Dentistry
-reviewer_location: Nashua Cosmetic And Restorative Dentistry
-reviewer_url: https://www.nashuadentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Teeth Whitening & Bleaching
+subcategory_slug: teeth-whitening
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Strategic whitening in cosmetic treatment sequence.
 

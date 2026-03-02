@@ -4,20 +4,14 @@ slug: smile-makeover-planning-from-consultation-to-transformation
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Learn the comprehensive process of planning and executing a complete smile transformation.
-reviewer_name: Dr. Colby Echols, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Swan Dental
-reviewer_location: Swan Dental
-reviewer_url: https://www.swandentalaz.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Cosmetic Overview
+subcategory_slug: overview-cosmetic
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## The Initial Consultation

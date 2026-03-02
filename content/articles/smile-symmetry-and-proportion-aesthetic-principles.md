@@ -4,20 +4,14 @@ slug: smile-symmetry-and-proportion-aesthetic-principles
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Learn the principles of dental aesthetics and what creates a beautiful smile.
-reviewer_name: Dr. Paige Woods, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Brighton Dental
-reviewer_location: Brighton Dental
-reviewer_url: https://www.brightondentalsd.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Cosmetic Overview
+subcategory_slug: overview-cosmetic
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## The Golden Proportion

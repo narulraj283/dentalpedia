@@ -4,20 +4,14 @@ slug: food-restrictions-with-braces-what-you-can-and-cannot-eat
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Complete list of foods to avoid with braces to prevent damage and complications.
-reviewer_name: Dr. Hilgers Nissen Shannon, DDS
-reviewer_credentials: Orthodontics
-reviewer_practice: SHN Orthodontics
-reviewer_location: SHN Orthodontics
-reviewer_url: https://www.shnortho.com
-sources:
-  - title: American Association of Orthodontists
-    url: https://www.aaoinfo.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Dietary modifications with braces are essential to prevent bracket breakage, wire bending, and damage to your appliances—all of which can delay treatment and add emergency appointments. While restrictions might seem limiting initially, most people adapt within weeks. Understanding what you can and cannot eat helps you maintain your braces intact throughout treatment.

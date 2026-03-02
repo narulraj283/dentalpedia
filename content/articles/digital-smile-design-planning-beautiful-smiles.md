@@ -4,20 +4,14 @@ slug: digital-smile-design-planning-beautiful-smiles
 category: Dental Technology
 category_slug: dental-technology
 excerpt: Advanced technology for visualizing smile transformation before treatment.
-reviewer_name: Dr. Philip Wolff, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Monterey Peninsula Smiles
-reviewer_location: Monterey Peninsula Smiles
-reviewer_url: https://www.montereypeninsulasmiles.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: International Journal of Esthetic Dentistry
-    url: https://www.quintessence-int.com/
-  - title: Digital Dentistry
-    url: https://www.digital-dentistry.com/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: General Dentistry
+subcategory: Digital Tools & Software
+subcategory_slug: digital-tools
+sources:
+  - title: Digital Dentistry
+  - url: https://www.digital-dentistry.com/
 ---
 
 ## Understanding Digital Smile Design

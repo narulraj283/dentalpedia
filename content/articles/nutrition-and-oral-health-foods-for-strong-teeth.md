@@ -4,20 +4,14 @@ slug: nutrition-and-oral-health-foods-for-strong-teeth
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Dietary choices that promote dental health and prevent disease.
-reviewer_name: Dr. Ban R. Barbat, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Dr. Ban R. Barbat
-reviewer_location: Dr. Ban R. Barbat
-reviewer_url: https://www.banrbarbatdds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institutes of Health
-    url: https://www.nih.gov/
-  - title: Academy of Nutrition and Dietetics
-    url: https://www.eatright.org/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Diet & Nutrition
+subcategory_slug: diet-nutrition
+sources:
+  - title: Academy of Nutrition and Dietetics
+  - url: https://www.eatright.org/
 ---
 
 ## The Mouth-Body Connection

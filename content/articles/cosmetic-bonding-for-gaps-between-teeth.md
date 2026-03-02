@@ -4,20 +4,14 @@ slug: cosmetic-bonding-for-gaps-between-teeth
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Quick and affordable cosmetic solution for closing small gaps between teeth.
-reviewer_name: Dr. Sharma Sawhney Palka, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Lake Chaparral Dental Care
-reviewer_location: Lake Chaparral Dental Care
-reviewer_url: https://www.lcdcare.ca
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Bonding & Contouring
+subcategory_slug: bonding-contouring
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 A gap between your front teeth, medically known as a diastema, can make you feel self-conscious about smiling. Fortunately, cosmetic bonding offers a quick, non-invasive solution that can close small to moderate spaces in just one office visit. Unlike orthodontic treatment or veneers, bonding is an immediate, affordable way to achieve the seamless smile you've always wanted.

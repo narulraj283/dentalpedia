@@ -4,20 +4,14 @@ slug: baby-teeth-development-and-eruption-timeline
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Complete guide to primary tooth development from birth through age six.
-reviewer_name: Dr. Michelle Stucki, DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: Common Sense Family Dentistry
-reviewer_location: Common Sense Family Dentistry
-reviewer_url: https://www.commonsensefamilydentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Academy of Pediatric Dentistry
-    url: https://www.aapd.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Primary Teeth & Development
+subcategory_slug: primary-teeth
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Baby teeth—also called primary, deciduous, or milk teeth—are essential for your child's development, nutrition, and speech. Understanding when teeth develop and erupt helps you recognize normal development and identify potential problems. Babies typically have 20 primary teeth that eventually shed, making way for permanent teeth.

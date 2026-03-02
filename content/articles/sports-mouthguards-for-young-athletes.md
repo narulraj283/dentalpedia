@@ -4,20 +4,14 @@ slug: sports-mouthguards-for-young-athletes
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Why mouthguards are essential and how to get a proper fitting.
-reviewer_name: Dr. Jamil Alkhoury, DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: Brentwood Family Dental
-reviewer_location: Brentwood Family Dental
-reviewer_url: https://www.yourdentistisyourartist.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Academy of Sports Medicine
-    url: https://www.aasm.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Young athletes face significant risk of sports-related dental injuries, with studies showing that athletes are 60 times more likely to suffer dental injuries without protection. A properly fitted mouthguard is one of the most effective and underutilized pieces of protective equipment, preventing serious dental injuries that can result in permanent tooth loss, complex restorative treatment, and long-term oral health consequences.

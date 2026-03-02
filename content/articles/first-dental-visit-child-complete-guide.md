@@ -4,22 +4,14 @@ slug: first-dental-visit-child-complete-guide
 category: "Pediatric Dentistry"
 category_slug: pediatric-dentistry
 excerpt: "Comprehensive information about first dental visit child for optimal dental health."
-reviewer_name: "Gentle Care Dentistry"
-reviewer_credentials: "General Dentistry"
-reviewer_practice: "Gentle Care Dentistry"
-reviewer_location: "Gentle Care Dentistry"
-reviewer_url: "https://www.gentledentistrysgv.com"
-sources:
-  - title: "American Dental Association (ADA)"
-    url: "https://www.ada.org"
-  - title: "Journal of Dental Research"
-    url: "https://journals.sagepub.com/home/jdr"
-  - title: "National Institute of Dental and Craniofacial Research"
-    url: "https://www.nidcr.nih.gov"
-  - title: "International Journal of Implant Dentistry"
-    url: "https://www.ijimplantdent.com"
 date: "2026-03-02"
 read_time: "4 min"
+reviewer_specialty: General Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: "International Journal of Implant Dentistry"
+  - url: "https://www.ijimplantdent.com"
 ---
 
 Dental health encompasses multiple aspects of oral care and professional treatment. Maintaining healthy teeth and gums requires commitment to excellent home care combined with regular professional supervision. Good oral health contributes to overall health, function, and quality of life. Professional dental care addresses problems early before they become complicated and expensive to treat.

@@ -4,20 +4,14 @@ slug: laser-dentistry-applications-and-safety
 category: Dental Technology
 category_slug: dental-technology
 excerpt: Understanding how lasers are used in modern dental treatment.
-reviewer_name: Dr. Cynthia Copeland, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Whole Health Dentistry
-reviewer_location: Whole Health Dentistry
-reviewer_url: https://www.wholehealthdds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Academy of Laser Dentistry
-    url: https://www.laserdentistry.org/
-  - title: Journal of Lasers in Medical Sciences
-    url: https://www.jlms.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: General Dentistry
+subcategory: Laser & Advanced Treatment Technology
+subcategory_slug: laser-technology
+sources:
+  - title: Journal of Lasers in Medical Sciences
+  - url: https://www.jlms.org/
 ---
 
 ## Understanding Dental Lasers

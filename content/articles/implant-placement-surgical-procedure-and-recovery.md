@@ -4,20 +4,14 @@ slug: implant-placement-surgical-procedure-and-recovery
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Step-by-step explanation of dental implant surgery and recovery timeline.
-reviewer_name: Dr. Peter Cabrera, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: Perio Implant Chicago
-reviewer_location: Perio Implant Chicago
-reviewer_url: https://www.perioimplantchicago.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Dental implant placement is a sophisticated surgical procedure involving precise preparation and insertion of a titanium post into your jaw bone. Understanding the step-by-step process helps you feel more confident about the procedure. While the process sounds complex, modern techniques make implant surgery routine and relatively painless when properly performed.

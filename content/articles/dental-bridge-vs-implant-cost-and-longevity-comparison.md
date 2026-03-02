@@ -4,20 +4,14 @@ slug: dental-bridge-vs-implant-cost-and-longevity-comparison
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Understand the differences between bridges and implants for replacing missing teeth.
-reviewer_name: Dr. Richard Weimar, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Weimar Family & Implant Dentistry
-reviewer_location: Weimar Family & Implant Dentistry
-reviewer_url: https://www.weimardds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: General Dentistry
+subcategory: Fillings & Restorations
+subcategory_slug: fillings-restorations
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Understanding Dental Bridges

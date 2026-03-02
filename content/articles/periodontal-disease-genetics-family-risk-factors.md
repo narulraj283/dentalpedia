@@ -4,20 +4,14 @@ slug: periodontal-disease-genetics-family-risk-factors
 category: Periodontics
 category_slug: periodontics
 excerpt: Understanding genetic predisposition to gum disease and early screening.
-reviewer_name: Dr. Henriod Spencer - Pasadena Periodontic, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: Pasadena Periodontic
-reviewer_location: Pasadena Periodontic
-reviewer_url: https://www.pasadenaperiodontics.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: American Dental Association
-    url: https://www.ada.org/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Periodontics
+subcategory: Gum Disease & Conditions
+subcategory_slug: gum-disease
+sources:
+  - title: American Dental Association
+  - url: https://www.ada.org/
 ---
 
 Genetic factors significantly influence susceptibility to periodontal disease. People with family history of gum disease have substantially higher risk of developing disease themselves. Understanding genetic predisposition motivates enhanced prevention, earlier screening, and more aggressive treatment approaches for those at genetic risk.

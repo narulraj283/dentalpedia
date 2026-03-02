@@ -4,20 +4,14 @@ slug: periodontal-disease-diagnosis-tests-and-measurements
 category: Periodontics
 category_slug: periodontics
 excerpt: How dentists measure pocket depth and diagnose periodontal disease.
-reviewer_name: Dr. Hoda Hosseini, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: ClearCare Periodontal & Implant Centre
-reviewer_location: ClearCare Periodontal & Implant Centre
-reviewer_url: https://www.clearcareperio.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Periodontics
+subcategory: Periodontal Overview
+subcategory_slug: overview-perio
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Accurate diagnosis of periodontal disease requires specific clinical measurements and radiographic assessment. Understanding these diagnostic tests helps you appreciate the detailed evaluation involved in determining gum disease presence and severity, and guides appropriate treatment planning.

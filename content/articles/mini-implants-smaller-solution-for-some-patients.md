@@ -4,20 +4,14 @@ slug: mini-implants-smaller-solution-for-some-patients
 category: Dental Implants
 category_slug: dental-implants
 excerpt: Understanding when mini implants are an appropriate choice.
-reviewer_name: Dr. Hoda Hosseini, DDS
-reviewer_credentials: Implant Dentistry
-reviewer_practice: ClearCare Periodontal & Implant Centre
-reviewer_location: ClearCare Periodontal & Implant Centre
-reviewer_url: https://www.clearcareperio.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Journal of Oral Implantology
-    url: https://journals.lww.com/dentalimplants/
-  - title: International Journal of Oral & Maxillofacial Implants
-    url: https://www.ijomi.com/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: International Journal of Oral & Maxillofacial Implants
+  - url: https://www.ijomi.com/
 ---
 
 ## What Are Mini Implants?

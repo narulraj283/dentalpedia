@@ -4,20 +4,14 @@ slug: dental-insurance-coverage-types-and-whats-included
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Navigate different dental insurance plans and understand what procedures are typically covered.
-reviewer_name: Dr. Kurt Knechel, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Longmont Dental
-reviewer_location: Longmont Dental
-reviewer_url: https://www.longmontdental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: General Dentistry
+subcategory: Cleanings & Exams
+subcategory_slug: cleanings-exams
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Types of Dental Insurance Plans

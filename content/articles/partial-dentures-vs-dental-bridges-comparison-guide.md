@@ -4,20 +4,14 @@ slug: partial-dentures-vs-dental-bridges-comparison-guide
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: Understanding different options for replacing multiple missing teeth.
-reviewer_name: Dr. Mark Spinazze, DDS
-reviewer_credentials: Prosthodontics
-reviewer_practice: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_location: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_url: https://www.associatesfororalsurgery.com
-sources:
-  - title: American College of Prosthodontists
-    url: https://www.prosthodontics.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Prosthodontics
+subcategory: Dentures & Removable Prosthetics
+subcategory_slug: dentures
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 When multiple teeth are missing, several options exist for replacement—partial dentures, fixed bridges, and implants. Understanding the advantages and limitations of each helps guide informed decisions about tooth replacement.

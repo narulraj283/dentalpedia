@@ -4,20 +4,14 @@ slug: flossing-techniques-types-and-effectiveness-comparison
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Proper flossing methods for optimal plaque removal.
-reviewer_name: Brilliant Smiles Dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Brilliant Smiles Dentistry
-reviewer_location: Brilliant Smiles Dentistry
-reviewer_url: https://www.brilliantsmilesdentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Brushing, Flossing & Hygiene
+subcategory_slug: brushing-flossing
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Proper flossing methods for optimal plaque removal.
 

@@ -4,20 +4,14 @@ slug: water-flossers-vs-string-floss-effectiveness-comparison
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Comparing different flossing tools and which works best for you.
-reviewer_name: Dr. Rekha Mahajan, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Mahajan Dentistry
-reviewer_location: Mahajan Dentistry
-reviewer_url: https://www.mahajandentistry.com
-sources:
-  - title: Journal of Clinical Dentistry
-    url: https://www.jcda.ca/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: International Journal of Dental Hygiene
-    url: https://onlinelibrary.wiley.com/journal/16015037
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Brushing, Flossing & Hygiene
+subcategory_slug: brushing-flossing
+sources:
+  - title: International Journal of Dental Hygiene
+  - url: https://onlinelibrary.wiley.com/journal/16015037
 ---
 
 ## The Flossing Debate

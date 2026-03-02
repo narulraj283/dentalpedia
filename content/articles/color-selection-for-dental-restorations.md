@@ -4,20 +4,14 @@ slug: color-selection-for-dental-restorations
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Understand how dentists select colors for crowns, veneers, and other restorations.
-reviewer_name: Dr. Munira Lokhandwala, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: StarBrite Dental
-reviewer_location: StarBrite Dental
-reviewer_url: https://www.starbritedental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: Journal of the American Dental Association
-    url: https://jada.ada.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Teeth Whitening & Bleaching
+subcategory_slug: teeth-whitening
+sources:
+  - title: Journal of the American Dental Association
+  - url: https://jada.ada.org/
 ---
 
 ## Understanding Shade Guides

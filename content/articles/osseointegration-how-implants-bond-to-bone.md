@@ -4,20 +4,14 @@ slug: osseointegration-how-implants-bond-to-bone
 category: Dental Implants
 category_slug: dental-implants
 excerpt: The biological process that makes dental implants successful.
-reviewer_name: Dr. Richard Weimar, DDS
-reviewer_credentials: Implant Dentistry
-reviewer_practice: Weimar Family & Implant Dentistry
-reviewer_location: Weimar Family & Implant Dentistry
-reviewer_url: https://www.weimardds.com
-sources:
-  - title: Journal of Dental Research
-    url: https://journals.sagepub.com/home/jdr
-  - title: Clinical Oral Implants Research
-    url: https://onlinelibrary.wiley.com/journal/16000501
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## What Is Osseointegration?

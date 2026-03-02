@@ -4,20 +4,14 @@ slug: sleep-position-and-jaw-health
 category: Preventive Care
 category_slug: preventive-care
 excerpt: How your sleep position affects TMJ and overall oral health.
-reviewer_name: Dr. Nathan Williams, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: New Leaf Dental
-reviewer_location: New Leaf Dental
-reviewer_url: https://www.newleafdentalidaho.com
-sources:
-  - title: American Academy of Sleep Medicine
-    url: https://aasm.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Habits & Lifestyle Factors
+subcategory_slug: habits-lifestyle
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 ## The Biomechanics of Sleep Positions on Jaw Alignment

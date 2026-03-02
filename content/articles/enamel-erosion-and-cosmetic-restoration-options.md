@@ -4,20 +4,14 @@ slug: enamel-erosion-and-cosmetic-restoration-options
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Restore eroded enamel with bonding, veneers, or other cosmetic procedures.
-reviewer_name: Dr. Nathan Simarro, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Simarro Brothers Dental Care
-reviewer_location: Simarro Brothers Dental Care
-reviewer_url: https://www.simarrobrothersdentalcare.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Cosmetic Overview
+subcategory_slug: overview-cosmetic
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## Understanding Enamel Erosion

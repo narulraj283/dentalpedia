@@ -4,20 +4,14 @@ slug: smoking-effects-on-teeth-and-gums-damage-and-reversal
 category: Preventive Care
 category_slug: preventive-care
 excerpt: How smoking harms oral health and what improves after quitting.
-reviewer_name: Dr. Brady Camp, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Magnolia Park Dental
-reviewer_location: Magnolia Park Dental
-reviewer_url: https://www.mycoppelldentist.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: CDC - Oral Health and Tobacco
-    url: https://www.cdc.gov/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Habits & Lifestyle Factors
+subcategory_slug: habits-lifestyle
+sources:
+  - title: CDC - Oral Health and Tobacco
+  - url: https://www.cdc.gov/
 ---
 
 ## The Biochemistry of Tobacco Damage to Oral Tissues

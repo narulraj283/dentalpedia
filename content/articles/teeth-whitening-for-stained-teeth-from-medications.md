@@ -4,20 +4,14 @@ slug: teeth-whitening-for-stained-teeth-from-medications
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Specialized whitening approaches for teeth stained by antibiotics or other medications.
-reviewer_name: Dr. Matt Gaebelein, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Strongsville Smile Keepers
-reviewer_location: Strongsville Smile Keepers
-reviewer_url: https://www.strongsvillesmilekeepers.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Teeth Whitening & Bleaching
+subcategory_slug: teeth-whitening
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Medication-induced tooth staining is a common cosmetic concern that affects patients who have taken certain medications during tooth development. Unlike surface stains from coffee, wine, or smoking, medication stains embed themselves into the tooth structure itself, requiring specialized whitening approaches. Understanding your options can help restore a brighter smile.

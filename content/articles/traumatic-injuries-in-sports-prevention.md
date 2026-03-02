@@ -4,20 +4,14 @@ slug: traumatic-injuries-in-sports-prevention
 category: Sports Dentistry
 category_slug: sports-dentistry
 excerpt: Reducing dental trauma in athletes.
-reviewer_name: Lone Star Smiles
-reviewer_credentials: General Dentistry
-reviewer_practice: Lone Star Smiles
-reviewer_location: Lone Star Smiles
-reviewer_url: https://www.lonestarsmiles.org
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Sports Dentistry
+subcategory: Sports Dentistry Overview
+subcategory_slug: overview-sports
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Reducing dental trauma in athletes.
 

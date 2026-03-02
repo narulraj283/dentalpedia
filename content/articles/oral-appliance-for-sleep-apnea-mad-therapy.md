@@ -4,20 +4,14 @@ slug: oral-appliance-for-sleep-apnea-mad-therapy
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
 excerpt: Mandibular advancement device.
-reviewer_name: Richard D. Weigand DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Richard D. Weigand DDS
-reviewer_location: Richard D. Weigand DDS
-reviewer_url: https://www.drweigand.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Orofacial Pain and TMJ
+subcategory: Sleep Apnea & Oral Appliances
+subcategory_slug: sleep-apnea
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Mandibular advancement device.
 

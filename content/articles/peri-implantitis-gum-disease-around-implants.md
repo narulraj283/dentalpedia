@@ -4,20 +4,14 @@ slug: peri-implantitis-gum-disease-around-implants
 category: Dental Implants
 category_slug: dental-implants
 excerpt: Recognizing and treating gum disease that affects dental implants.
-reviewer_name: Dr. Tae Kwon, DDS
-reviewer_credentials: Implant Dentistry
-reviewer_practice: Monadnock Perio & Implant Center
-reviewer_location: Monadnock Perio & Implant Center
-reviewer_url: https://www.monadnockperio.com
-sources:
-  - title: Journal of Clinical Periodontology
-    url: https://onlinelibrary.wiley.com/journal/1600051x
-  - title: Clinical Oral Implants Research
-    url: https://onlinelibrary.wiley.com/journal/16000501
-  - title: International Journal of Implant Dentistry
-    url: https://www.springer.com/journal/40729
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: International Journal of Implant Dentistry
+  - url: https://www.springer.com/journal/40729
 ---
 
 ## What Is Peri-Implantitis?

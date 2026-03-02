@@ -4,20 +4,14 @@ slug: reimplanted-teeth-salvaging-avulsed-permanent-teeth
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Replacing teeth knocked out during play.
-reviewer_name: Perio Implant Chicago
-reviewer_credentials: General Dentistry
-reviewer_practice: Perio Implant Chicago
-reviewer_location: Perio Implant Chicago
-reviewer_url: https://www.perioimplantchicago.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Replacing teeth knocked out during play.
 

@@ -4,20 +4,14 @@ slug: professional-cleanings-what-they-remove-that-home-care-cant
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Why professional cleanings are necessary even with good home care.
-reviewer_name: Dr. Hope Mitchell, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Mitchell Dermatology
-reviewer_location: Mitchell Dermatology
-reviewer_url: https://www.mitchellderm.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Brushing, Flossing & Hygiene
+subcategory_slug: brushing-flossing
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 ## What Your Toothbrush and Floss Cannot Reach

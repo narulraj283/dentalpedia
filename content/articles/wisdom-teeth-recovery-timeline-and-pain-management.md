@@ -4,20 +4,14 @@ slug: wisdom-teeth-recovery-timeline-and-pain-management
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: What to expect after wisdom tooth extraction and how to manage discomfort.
-reviewer_name: Dr. Hoda Hosseini, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: ClearCare Periodontal & Implant Centre
-reviewer_location: ClearCare Periodontal & Implant Centre
-reviewer_url: https://www.clearcareperio.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic - Oral Health
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Care & Recovery
+subcategory_slug: surgical-care
+sources:
+  - title: Mayo Clinic - Oral Health
+  - url: https://www.mayoclinic.org/
 ---
 
 Wisdom tooth extraction recovery is typically 7-14 days, with most normal activities resumable within a week. However, complete healing takes several months. Understanding the recovery timeline and proper pain management techniques helps you prepare for extraction and optimize healing.

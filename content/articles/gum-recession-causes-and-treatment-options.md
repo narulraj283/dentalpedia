@@ -4,20 +4,14 @@ slug: gum-recession-causes-and-treatment-options
 category: Periodontics
 category_slug: periodontics
 excerpt: Understanding why gums recede and surgical and non-surgical treatment approaches.
-reviewer_name: Dr. David Garazi, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: Garazi Periodontics & Dental Implants
-reviewer_location: Garazi Periodontics & Dental Implants
-reviewer_url: https://www.garazidmd.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Periodontics
+subcategory: Gum Disease & Conditions
+subcategory_slug: gum-disease
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Gum recession—where gum tissue pulls away from tooth surfaces, exposing the root—affects many people and can result from various causes. While some recession is cosmetic concern only, significant recession increases decay risk, contributes to sensitivity, and may affect tooth retention. Understanding causes and available treatments helps you address recession appropriately.

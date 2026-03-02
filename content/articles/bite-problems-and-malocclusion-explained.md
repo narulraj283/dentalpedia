@@ -4,20 +4,14 @@ slug: bite-problems-and-malocclusion-explained
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Understand different types of bite issues and how they affect your oral health and appearance.
-reviewer_name: Dr. Colby Smith, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Granite Bay Dentistry
-reviewer_location: Granite Bay Dentistry
-reviewer_url: https://www.granitebaydds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: General Dentistry
+subcategory: General Overview
+subcategory_slug: overview-general
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/
 ---
 
 ## What Is Malocclusion

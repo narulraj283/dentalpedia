@@ -4,20 +4,14 @@ slug: root-canal-aftercare-pain-management-and-recovery
 category: Endodontics
 category_slug: endodontics
 excerpt: Post-treatment instructions for optimal healing and comfort.
-reviewer_name: Dr. Ethridge Chris - Augusta Endodontic Center, DDS
-reviewer_credentials: Endodontics
-reviewer_practice: Augusta Endodontic Center
-reviewer_location: Augusta Endodontic Center
-reviewer_url: https://www.augustaendo.com
-sources:
-  - title: American Association of Endodontists
-    url: https://www.aae.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Endodontics
+subcategory: Endodontic Overview
+subcategory_slug: overview-endo
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Proper aftercare following root canal treatment optimizes healing and minimizes post-operative discomfort. Following your endodontist's specific instructions supports a smooth recovery and reduces risk of complications.

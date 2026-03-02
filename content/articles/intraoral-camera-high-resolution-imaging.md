@@ -4,20 +4,14 @@ slug: intraoral-camera-high-resolution-imaging
 category: Dental Technology
 category_slug: dental-technology
 excerpt: Digital photography of teeth.
-reviewer_name: Meredith Levine DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Meredith Levine DDS
-reviewer_location: Meredith Levine DDS
-reviewer_url: https://www.hppydds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 3 min
+reviewer_specialty: General Dentistry
+subcategory: Imaging & Diagnostic Technology
+subcategory_slug: imaging-diagnostics
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Digital photography of teeth.
 

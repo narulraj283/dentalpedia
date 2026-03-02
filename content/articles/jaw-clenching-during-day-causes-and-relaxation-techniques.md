@@ -4,20 +4,14 @@ slug: jaw-clenching-during-day-causes-and-relaxation-techniques
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
 excerpt: Managing daytime jaw tension to prevent TMJ problems.
-reviewer_name: Dr. Kenneth Childers, DDS
-reviewer_credentials: Orofacial Pain and TMJ Disorders
-reviewer_practice: Montclair Dental Care
-reviewer_location: Montclair Dental Care
-reviewer_url: https://www.dentistoakland.com
-sources:
-  - title: American Academy of Orofacial Pain
-    url: https://www.aaop.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Psychology Today - Stress and Clenching
-    url: https://www.psychologytoday.com/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Orofacial Pain and TMJ
+subcategory: Bruxism & Clenching
+subcategory_slug: bruxism
+sources:
+  - title: Psychology Today - Stress and Clenching
+  - url: https://www.psychologytoday.com/
 ---
 
 ## Understanding Daytime Jaw Clenching

@@ -4,20 +4,14 @@ slug: tooth-contouring-and-reshaping-procedures
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Discover how minor reshaping can dramatically improve the appearance of your teeth.
-reviewer_name: Dr. Denise Middleton, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Parkside Dental
-reviewer_location: Parkside Dental
-reviewer_url: https://www.gmdental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Bonding & Contouring
+subcategory_slug: bonding-contouring
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## What Is Tooth Contouring

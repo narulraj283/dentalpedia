@@ -4,20 +4,14 @@ slug: bone-grafting-for-implant-preparation
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Understanding bone grafting procedures needed for dental implant placement.
-reviewer_name: Dr. Mark Spinazze, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_location: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_url: https://www.associatesfororalsurgery.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic - Oral Health
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Bone Grafting & Reconstruction
+subcategory_slug: bone-grafting
+sources:
+  - title: Mayo Clinic - Oral Health
+  - url: https://www.mayoclinic.org/
 ---
 
 Dental implants require an adequate volume of bone to support them and integrate properly. When bone loss has occurred from missing teeth, gum disease, or other causes, bone grafting reconstructs the needed bone volume. This preparatory procedure is often necessary before implant placement, ensuring the foundation for successful long-term implant success.

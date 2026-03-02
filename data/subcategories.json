@@ -1,0 +1,632 @@
+{
+  "general-dentistry": {
+    "name": "General Dentistry",
+    "subcategories": [
+      {
+        "slug": "overview-general",
+        "name": "General Overview",
+        "keywords": ["general", "overview", "introduction", "basics", "fundamentals", "common"]
+      },
+      {
+        "slug": "cleanings-exams",
+        "name": "Cleanings & Exams",
+        "keywords": ["cleaning", "cleaning", "prophylaxis", "scaling", "exam", "examination", "checkup", "screening", "plaque removal"]
+      },
+      {
+        "slug": "fillings-restorations",
+        "name": "Fillings & Restorations",
+        "keywords": ["filling", "restoration", "composite", "amalgam", "resin", "bonded", "direct restoration", "cavity restoration"]
+      },
+      {
+        "slug": "root-canal-therapy",
+        "name": "Root Canal & Endodontics",
+        "keywords": ["root canal", "endodontic", "root treatment", "pulp", "apical", "working length", "gutta-percha"]
+      },
+      {
+        "slug": "tooth-extraction",
+        "name": "Tooth Extraction",
+        "keywords": ["extraction", "removal", "exodontia", "surgical removal", "tooth removal", "pulling", "extract"]
+      }
+    ]
+  },
+  "cosmetic-dentistry": {
+    "name": "Cosmetic Dentistry",
+    "subcategories": [
+      {
+        "slug": "overview-cosmetic",
+        "name": "Cosmetic Overview",
+        "keywords": ["cosmetic", "smile enhancement", "smile makeover", "aesthetic", "appearance", "beauty"]
+      },
+      {
+        "slug": "teeth-whitening",
+        "name": "Teeth Whitening & Bleaching",
+        "keywords": ["whitening", "bleaching", "whitener", "teeth whitening", "teeth bleaching", "stain removal", "teeth color", "shade", "bright", "whiten"]
+      },
+      {
+        "slug": "veneers",
+        "name": "Veneers & Laminates",
+        "keywords": ["veneer", "laminate", "porcelain veneer", "composite veneer", "ultra-thin", "shell", "veneer installation"]
+      },
+      {
+        "slug": "bonding-contouring",
+        "name": "Bonding & Contouring",
+        "keywords": ["bonding", "composite bonding", "contouring", "reshaping", "adhesive dentistry", "bonded restoration"]
+      },
+      {
+        "slug": "smile-design",
+        "name": "Smile Design & Planning",
+        "keywords": ["smile design", "smile planning", "gum contouring", "smile line", "buccal corridor", "digital smile"]
+      }
+    ]
+  },
+  "orthodontics": {
+    "name": "Orthodontics",
+    "subcategories": [
+      {
+        "slug": "overview-ortho",
+        "name": "Orthodontic Overview",
+        "keywords": ["orthodontic", "braces", "teeth alignment", "teeth straightening", "malocclusion", "bite correction"]
+      },
+      {
+        "slug": "traditional-braces",
+        "name": "Traditional & Metal Braces",
+        "keywords": ["metal braces", "traditional braces", "wire", "bracket", "wire sequence", "appliance", "ligature", "ceramic braces"]
+      },
+      {
+        "slug": "clear-aligners",
+        "name": "Clear Aligners",
+        "keywords": ["aligner", "invisible braces", "clear aligners", "teeth trays", "aligner wear", "aligner cleaning", "aligners"]
+      },
+      {
+        "slug": "bite-correction",
+        "name": "Bite Correction & Classification",
+        "keywords": ["bite", "overbite", "underbite", "open bite", "crossbite", "angle classification", "class", "anterior guidance", "occlusion"]
+      },
+      {
+        "slug": "accelerated-retention",
+        "name": "Accelerated Orthodontics & Retention",
+        "keywords": ["accelerated", "fast braces", "retention", "retainer", "relapse", "wire bending", "customizing"]
+      }
+    ]
+  },
+  "dental-implants": {
+    "name": "Dental Implants",
+    "subcategories": [
+      {
+        "slug": "overview-implants",
+        "name": "Implant Overview",
+        "keywords": ["implant", "implants", "titanium implant", "dental implant", "tooth replacement", "restoration"]
+      },
+      {
+        "slug": "implant-placement",
+        "name": "Implant Placement & Surgery",
+        "keywords": ["implant placement", "implant surgery", "surgical placement", "implant bone graft", "alveolar bone grafting", "osteotomy"]
+      },
+      {
+        "slug": "implant-restoration",
+        "name": "Implant Restoration & Prosthetics",
+        "keywords": ["implant crown", "implant bridge", "all-on-four", "all-on-six", "zygomatic implant", "implant abutment", "implant prosthetic"]
+      },
+      {
+        "slug": "implant-complications",
+        "name": "Implant Maintenance & Complications",
+        "keywords": ["implant failure", "implant infection", "peri-implantitis", "implant bone loss", "implant healing", "osseointegration"]
+      },
+      {
+        "slug": "implant-candidacy",
+        "name": "Implant Candidacy & Planning",
+        "keywords": ["implant candidate", "bone density", "bone height", "bone width", "implant planning", "cone beam", "sinus lift"]
+      }
+    ]
+  },
+  "prosthodontics": {
+    "name": "Prosthodontics",
+    "subcategories": [
+      {
+        "slug": "overview-prostho",
+        "name": "Prosthodontic Overview",
+        "keywords": ["prosthodontic", "prosthetic", "denture", "tooth replacement", "prosthesis", "crown", "bridge"]
+      },
+      {
+        "slug": "dentures",
+        "name": "Dentures & Removable Prosthetics",
+        "keywords": ["denture", "complete denture", "partial denture", "removable prosthetic", "denture care", "denture adjustment", "anterior-posterior palatal seal"]
+      },
+      {
+        "slug": "crowns-bridges",
+        "name": "Crowns & Bridges",
+        "keywords": ["crown", "bridge", "ceramic crown", "all-ceramic crown", "metal crown", "gold crown", "porcelain crown", "fixed prosthetic"]
+      },
+      {
+        "slug": "material-selection",
+        "name": "Materials & Restoration Selection",
+        "keywords": ["restoration material", "ceramic", "porcelain", "gold", "zirconia", "metal-free", "anterior restoration", "material selection"]
+      },
+      {
+        "slug": "custom-prosthetics",
+        "name": "Custom Prosthetics & Special Cases",
+        "keywords": ["custom denture", "esthetic denture", "implant supported", "hybrid denture", "overdenture"]
+      }
+    ]
+  },
+  "periodontics": {
+    "name": "Periodontics",
+    "subcategories": [
+      {
+        "slug": "overview-perio",
+        "name": "Periodontal Overview",
+        "keywords": ["periodontal", "gum disease", "gum health", "periodontics", "tooth support"]
+      },
+      {
+        "slug": "gum-disease",
+        "name": "Gum Disease & Conditions",
+        "keywords": ["gingivitis", "periodontitis", "gum disease", "aggressive periodontitis", "chronic periodontitis", "periodontal disease", "pocket", "recession"]
+      },
+      {
+        "slug": "scaling-planing",
+        "name": "Scaling, Root Planing & Treatment",
+        "keywords": ["scaling", "root planing", "deep cleaning", "prophylaxis", "periodontal treatment", "plaque removal", "tartar removal"]
+      },
+      {
+        "slug": "graft-surgery",
+        "name": "Grafting & Periodontal Surgery",
+        "keywords": ["graft", "bone graft", "gum graft", "soft tissue graft", "connective tissue", "flap surgery", "periodontal surgery"]
+      },
+      {
+        "slug": "gum-maintenance",
+        "name": "Gum Maintenance & Prevention",
+        "keywords": ["gum health", "bleeding gums", "gum swelling", "gum inflammation", "periodontal maintenance", "oral hygiene", "brushing", "flossing"]
+      }
+    ]
+  },
+  "endodontics": {
+    "name": "Endodontics",
+    "subcategories": [
+      {
+        "slug": "overview-endo",
+        "name": "Endodontic Overview",
+        "keywords": ["endodontic", "root canal", "pulp", "endodontist", "endo treatment"]
+      },
+      {
+        "slug": "root-canal-treatment",
+        "name": "Root Canal Treatment",
+        "keywords": ["root canal", "canal treatment", "endodontic therapy", "pulp removal", "gutta-percha", "root filling"]
+      },
+      {
+        "slug": "pulp-conditions",
+        "name": "Pulp & Apical Conditions",
+        "keywords": ["pulp", "pulpitis", "apical abscess", "apical periodontitis", "periapical", "accessory canals", "apical foramen"]
+      },
+      {
+        "slug": "post-core",
+        "name": "Posts, Cores & Retreatment",
+        "keywords": ["post", "core", "post and core", "fiber post", "retreatment", "periapical surgery", "apicectomy"]
+      },
+      {
+        "slug": "endo-complications",
+        "name": "Endodontic Complications & Outcomes",
+        "keywords": ["root canal failure", "endo failure", "treatment outcome", "healing", "working length determination"]
+      }
+    ]
+  },
+  "oral-surgery": {
+    "name": "Oral Surgery",
+    "subcategories": [
+      {
+        "slug": "overview-surgery",
+        "name": "Surgical Overview",
+        "keywords": ["oral surgery", "surgery", "surgical", "surgical treatment", "surgical technique"]
+      },
+      {
+        "slug": "wisdom-teeth",
+        "name": "Wisdom Teeth & Impaction",
+        "keywords": ["wisdom teeth", "wisdom tooth", "third molar", "impacted tooth", "impaction", "tooth extraction", "surgical removal"]
+      },
+      {
+        "slug": "bone-grafting",
+        "name": "Bone Grafting & Reconstruction",
+        "keywords": ["bone graft", "alveolar bone", "bone reconstruction", "augmentation", "sinus lift", "bone health"]
+      },
+      {
+        "slug": "surgical-care",
+        "name": "Surgical Care & Recovery",
+        "keywords": ["surgical healing", "swelling", "swelling reduction", "surgical site healing", "recovery", "pain management", "post-operative", "sutures", "absorbable sutures"]
+      },
+      {
+        "slug": "surgical-complications",
+        "name": "Surgical Complications & Risks",
+        "keywords": ["surgical complication", "dry socket", "alveolar fracture", "infection", "nerve damage", "antibiotic prophylaxis", "anesthesia"]
+      }
+    ]
+  },
+  "oral-health-conditions": {
+    "name": "Oral Health Conditions",
+    "subcategories": [
+      {
+        "slug": "overview-conditions",
+        "name": "Conditions Overview",
+        "keywords": ["oral condition", "mouth condition", "dental condition", "oral disease", "mouth disease"]
+      },
+      {
+        "slug": "decay-cavity",
+        "name": "Decay, Cavities & Caries",
+        "keywords": ["cavity", "cavities", "caries", "decay", "tooth decay", "dental caries", "cavity prevention", "cavity formation"]
+      },
+      {
+        "slug": "erosion-abrasion",
+        "name": "Erosion, Abrasion & Attrition",
+        "keywords": ["erosion", "enamel erosion", "abrasion", "attrition", "worn teeth", "worn enamel", "acidic"]
+      },
+      {
+        "slug": "infections-abscess",
+        "name": "Infections & Abscesses",
+        "keywords": ["abscess", "infection", "periapical abscess", "bacterial infection", "infected tooth", "tooth infection"]
+      },
+      {
+        "slug": "oral-lesions",
+        "name": "Oral Lesions & Disorders",
+        "keywords": ["oral lesion", "mouth ulcer", "canker sore", "cold sore", "oral cancer", "oral disorder", "mouth sore", "tongue disorder"]
+      }
+    ]
+  },
+  "preventive-care": {
+    "name": "Preventive Care",
+    "subcategories": [
+      {
+        "slug": "overview-prevent",
+        "name": "Preventive Overview",
+        "keywords": ["preventive", "prevention", "prevent", "preventive care", "oral health", "oral hygiene"]
+      },
+      {
+        "slug": "brushing-flossing",
+        "name": "Brushing, Flossing & Hygiene",
+        "keywords": ["brushing", "flossing", "toothbrush", "toothbrush selection", "brushing technique", "floss", "interdental", "oral hygiene", "plaque control"]
+      },
+      {
+        "slug": "fluoride-sealants",
+        "name": "Fluoride & Sealants",
+        "keywords": ["fluoride", "sealant", "dental sealant", "fluoride treatment", "topical fluoride", "preventive treatment"]
+      },
+      {
+        "slug": "diet-nutrition",
+        "name": "Diet & Nutrition",
+        "keywords": ["diet", "nutrition", "sugar", "acidic beverages", "acidic foods", "xylitol", "calcium", "vitamin", "mineral", "eating habits"]
+      },
+      {
+        "slug": "habits-lifestyle",
+        "name": "Habits & Lifestyle Factors",
+        "keywords": ["habit", "smoking", "alcohol", "tobacco", "lifestyle", "stress", "grinding", "bruxism"]
+      }
+    ]
+  },
+  "pediatric-dentistry": {
+    "name": "Pediatric Dentistry",
+    "subcategories": [
+      {
+        "slug": "overview-peds",
+        "name": "Pediatric Overview",
+        "keywords": ["pediatric", "children", "child", "kids", "infants", "young"]
+      },
+      {
+        "slug": "primary-teeth",
+        "name": "Primary Teeth & Development",
+        "keywords": ["primary teeth", "baby teeth", "deciduous teeth", "tooth eruption", "development", "eruption", "primary dentition"]
+      },
+      {
+        "slug": "pediatric-care",
+        "name": "Pediatric Dental Care",
+        "keywords": ["pediatric care", "children cleaning", "children treatment", "children examination", "cavity prevention", "fluoride"]
+      },
+      {
+        "slug": "pediatric-ortho",
+        "name": "Pediatric Orthodontics",
+        "keywords": ["pediatric braces", "children braces", "pediatric orthodontics", "early treatment", "interceptive"]
+      },
+      {
+        "slug": "behavior-management",
+        "name": "Behavior Management & Anxiety",
+        "keywords": ["dental anxiety", "behavior management", "fear", "fear of dentist", "sedation", "children sedation"]
+      }
+    ]
+  },
+  "dental-anxiety-sedation": {
+    "name": "Dental Anxiety & Sedation",
+    "subcategories": [
+      {
+        "slug": "overview-anxiety",
+        "name": "Anxiety Overview",
+        "keywords": ["anxiety", "dental anxiety", "fear", "dental fear", "nervous", "anxious"]
+      },
+      {
+        "slug": "anxiety-management",
+        "name": "Anxiety Management Techniques",
+        "keywords": ["anxiety management", "relaxation", "coping", "breathing", "distraction", "communication"]
+      },
+      {
+        "slug": "sedation-options",
+        "name": "Sedation Options & Types",
+        "keywords": ["sedation", "sedative", "nitrous oxide", "local anesthesia", "twilight sedation", "general anesthesia", "anesthesia options", "conscious sedation"]
+      },
+      {
+        "slug": "anesthesia",
+        "name": "Anesthesia & Pain Control",
+        "keywords": ["anesthesia", "anesthetic", "pain control", "numbing", "local anesthetic", "topical anesthetic"]
+      },
+      {
+        "slug": "special-needs",
+        "name": "Special Needs & Adaptive Care",
+        "keywords": ["special needs", "adaptive care", "anxiety disorder", "phobia", "disability"]
+      }
+    ]
+  },
+  "orthodontics": {
+    "name": "Orthodontics",
+    "subcategories": [
+      {
+        "slug": "overview-ortho",
+        "name": "Orthodontic Overview",
+        "keywords": ["orthodontic", "braces", "teeth alignment", "teeth straightening"]
+      },
+      {
+        "slug": "adult-orthodontics",
+        "name": "Adult Orthodontics",
+        "keywords": ["adult braces", "adult orthodontics", "orthodontics for adults", "age"]
+      },
+      {
+        "slug": "treatment-duration",
+        "name": "Treatment Duration & Speed",
+        "keywords": ["treatment time", "duration", "accelerated", "fast track", "teeth movement", "teeth movement speed"]
+      },
+      {
+        "slug": "cost-payment",
+        "name": "Orthodontic Cost & Payment",
+        "keywords": ["orthodontic cost", "braces cost", "payment", "insurance", "financing"]
+      },
+      {
+        "slug": "lifestyle-care",
+        "name": "Lifestyle & Care During Orthodontics",
+        "keywords": ["braces care", "aligner care", "cleaning", "maintenance", "eating with braces", "sports"]
+      }
+    ]
+  },
+  "geriatric-dentistry": {
+    "name": "Geriatric Dentistry",
+    "subcategories": [
+      {
+        "slug": "overview-geriatric",
+        "name": "Geriatric Overview",
+        "keywords": ["geriatric", "elderly", "senior", "aging", "age-related", "older adults"]
+      },
+      {
+        "slug": "age-related-changes",
+        "name": "Age-Related Oral Changes",
+        "keywords": ["age-related", "aged teeth", "worn teeth", "taste changes", "xerostomia", "dry mouth", "aging"]
+      },
+      {
+        "slug": "chronic-conditions",
+        "name": "Chronic Conditions & Medications",
+        "keywords": ["chronic disease", "medication", "diabetes", "heart disease", "osteoporosis", "drug interaction"]
+      },
+      {
+        "slug": "denture-care",
+        "name": "Denture Care & Adaptation",
+        "keywords": ["denture", "denture care", "denture wearing", "adjustment", "fit"]
+      },
+      {
+        "slug": "senior-treatment",
+        "name": "Senior Dental Treatment",
+        "keywords": ["senior care", "elderly care", "geriatric treatment", "special considerations"]
+      }
+    ]
+  },
+  "tmj-sleep-dentistry": {
+    "name": "TMJ & Sleep Dentistry",
+    "subcategories": [
+      {
+        "slug": "overview-tmj",
+        "name": "TMJ Overview",
+        "keywords": ["tmj", "temporomandibular joint", "jaw disorder", "jaw pain"]
+      },
+      {
+        "slug": "tmj-disorders",
+        "name": "TMJ Disorders & Dysfunction",
+        "keywords": ["tmj disorder", "tmj dysfunction", "jaw dysfunction", "joint disorder", "joint pain", "clicking jaw"]
+      },
+      {
+        "slug": "tmj-treatment",
+        "name": "TMJ Treatment & Therapy",
+        "keywords": ["tmj treatment", "jaw therapy", "splint", "bite guard", "tmj management"]
+      },
+      {
+        "slug": "sleep-apnea",
+        "name": "Sleep Apnea & Oral Appliances",
+        "keywords": ["sleep apnea", "sleep disorder", "snoring", "oral appliance", "sleep apnea treatment"]
+      },
+      {
+        "slug": "bruxism",
+        "name": "Bruxism & Clenching",
+        "keywords": ["bruxism", "grinding", "clenching", "teeth grinding", "night guard"]
+      }
+    ]
+  },
+  "sports-dentistry": {
+    "name": "Sports Dentistry",
+    "subcategories": [
+      {
+        "slug": "overview-sports",
+        "name": "Sports Dentistry Overview",
+        "keywords": ["sports dentistry", "athletic", "sports", "athlete"]
+      },
+      {
+        "slug": "mouth-guards",
+        "name": "Mouth Guards & Protection",
+        "keywords": ["mouth guard", "sports mouth guard", "protective guard", "mouthguard", "custom mouth guard"]
+      },
+      {
+        "slug": "trauma-injury",
+        "name": "Dental Trauma & Injury",
+        "keywords": ["dental trauma", "tooth injury", "broken tooth", "chipped tooth", "knocked out tooth", "tooth avulsion"]
+      },
+      {
+        "slug": "emergency-treatment",
+        "name": "Emergency Treatment for Athletes",
+        "keywords": ["emergency treatment", "acute injury", "immediate care", "trauma management"]
+      },
+      {
+        "slug": "performance-nutrition",
+        "name": "Performance & Nutrition for Athletes",
+        "keywords": ["athletic performance", "sports nutrition", "energy drinks", "performance drinks"]
+      }
+    ]
+  },
+  "emergency-dentistry": {
+    "name": "Emergency Dentistry",
+    "subcategories": [
+      {
+        "slug": "overview-emergency",
+        "name": "Emergency Overview",
+        "keywords": ["emergency", "urgent", "acute", "emergency care", "emergency treatment"]
+      },
+      {
+        "slug": "acute-pain",
+        "name": "Acute Pain & Relief",
+        "keywords": ["pain", "tooth pain", "dental pain", "acute pain", "pain management", "relief"]
+      },
+      {
+        "slug": "trauma-fracture",
+        "name": "Trauma & Fractures",
+        "keywords": ["trauma", "fracture", "broken tooth", "chipped tooth", "tooth fracture", "crown fracture"]
+      },
+      {
+        "slug": "infection-swelling",
+        "name": "Infection & Swelling",
+        "keywords": ["infection", "abscess", "swelling", "facial swelling", "infected tooth"]
+      },
+      {
+        "slug": "dislodged-lost",
+        "name": "Dislodged & Lost Restorations",
+        "keywords": ["lost filling", "lost crown", "dislodged crown", "emergency restoration", "temporary"]
+      }
+    ]
+  },
+  "holistic-alternative-dentistry": {
+    "name": "Holistic & Alternative Dentistry",
+    "subcategories": [
+      {
+        "slug": "overview-holistic",
+        "name": "Holistic Dentistry Overview",
+        "keywords": ["holistic", "alternative", "natural", "wellness", "holistic dentistry"]
+      },
+      {
+        "slug": "natural-remedies",
+        "name": "Natural Remedies & Treatments",
+        "keywords": ["natural remedy", "herbal remedy", "home remedy", "natural treatment", "alternative treatment"]
+      },
+      {
+        "slug": "biocompatible-materials",
+        "name": "Biocompatible & Mercury-Free Materials",
+        "keywords": ["biocompatible", "mercury-free", "mercury", "amalgam", "safe material", "toxin-free"]
+      },
+      {
+        "slug": "mind-body",
+        "name": "Mind-Body & Wellness Approaches",
+        "keywords": ["mind-body", "acupuncture", "meditation", "stress reduction", "holistic health"]
+      },
+      {
+        "slug": "nutrition-supplements",
+        "name": "Nutrition & Supplements",
+        "keywords": ["supplement", "vitamin", "mineral", "nutrition", "dietary supplement", "probiotics"]
+      }
+    ]
+  },
+  "dental-nutrition": {
+    "name": "Dental Nutrition",
+    "subcategories": [
+      {
+        "slug": "overview-nutrition",
+        "name": "Nutrition Overview",
+        "keywords": ["nutrition", "diet", "nutrition overview", "dietary health"]
+      },
+      {
+        "slug": "nutrients-health",
+        "name": "Key Nutrients for Oral Health",
+        "keywords": ["calcium", "vitamin", "vitamin d", "vitamin c", "phosphorus", "magnesium", "zinc", "deficiency", "nutrient"]
+      },
+      {
+        "slug": "harmful-foods",
+        "name": "Harmful Foods & Beverages",
+        "keywords": ["acidic", "acidic beverage", "acidic food", "soda", "citrus", "sugar", "candy", "harmful food"]
+      },
+      {
+        "slug": "healthy-choices",
+        "name": "Healthy Choices & Eating Habits",
+        "keywords": ["healthy food", "healthy choice", "eating habit", "healthy diet", "nutritious", "tooth-friendly"]
+      },
+      {
+        "slug": "special-diets",
+        "name": "Special Diets & Conditions",
+        "keywords": ["gerd", "eating disorder", "dietary restriction", "food allergy", "acid reflux"]
+      }
+    ]
+  },
+  "dental-technology": {
+    "name": "Dental Technology",
+    "subcategories": [
+      {
+        "slug": "overview-tech",
+        "name": "Technology Overview",
+        "keywords": ["technology", "dental technology", "innovation", "digital", "technology in dentistry"]
+      },
+      {
+        "slug": "imaging-diagnostics",
+        "name": "Imaging & Diagnostic Technology",
+        "keywords": ["imaging", "x-ray", "digital x-ray", "cone beam", "cad", "scan", "diagnostic", "radiograph"]
+      },
+      {
+        "slug": "digital-tools",
+        "name": "Digital Tools & Software",
+        "keywords": ["digital", "software", "digital smile", "cad/cam", "digital planning"]
+      },
+      {
+        "slug": "laser-technology",
+        "name": "Laser & Advanced Treatment Technology",
+        "keywords": ["laser", "laser treatment", "advanced technology", "light technology"]
+      },
+      {
+        "slug": "patient-tech",
+        "name": "Patient-Facing Technology",
+        "keywords": ["teledentistry", "virtual", "online", "patient portal", "appointment"]
+      }
+    ]
+  },
+  "dental-practice-insurance": {
+    "name": "Dental Practice & Insurance",
+    "subcategories": [
+      {
+        "slug": "overview-practice",
+        "name": "Practice Overview",
+        "keywords": ["practice", "dental practice", "office", "business"]
+      },
+      {
+        "slug": "insurance-coverage",
+        "name": "Insurance Coverage & Benefits",
+        "keywords": ["insurance", "coverage", "dental insurance", "annual maximum", "benefits", "claim"]
+      },
+      {
+        "slug": "costs-payments",
+        "name": "Costs & Payment Options",
+        "keywords": ["cost", "price", "payment", "financing", "fee", "payment plan"]
+      },
+      {
+        "slug": "access-network",
+        "name": "Network Access & Providers",
+        "keywords": ["network", "provider", "in-network", "out-of-network", "access"]
+      },
+      {
+        "slug": "patient-benefits",
+        "name": "Patient Benefits & Rights",
+        "keywords": ["patient right", "patient benefit", "informed consent", "patient education"]
+      }
+    ]
+  }
+}

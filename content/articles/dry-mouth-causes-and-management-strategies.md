@@ -4,20 +4,14 @@ slug: dry-mouth-causes-and-management-strategies
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Learn about xerostomia, its causes, and ways to manage and treat this common condition.
-reviewer_name: Dr. Clarity, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Clarity Dental
-reviewer_location: Clarity Dental
-reviewer_url: https://www.claritydental.com.au
-sources:
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: American Dental Association
-    url: https://www.ada.org/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: General Dentistry
+subcategory: General Overview
+subcategory_slug: overview-general
+sources:
+  - title: American Dental Association
+  - url: https://www.ada.org/
 ---
 
 ## Understanding Dry Mouth (Xerostomia)

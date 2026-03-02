@@ -4,20 +4,14 @@ slug: impacted-tooth-extraction-surgical-removal-procedures
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Removing teeth unable to erupt naturally.
-reviewer_name: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_credentials: General Dentistry
-reviewer_practice: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_location: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_url: https://www.associatesfororalsurgery.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 6 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Removing teeth unable to erupt naturally.
 

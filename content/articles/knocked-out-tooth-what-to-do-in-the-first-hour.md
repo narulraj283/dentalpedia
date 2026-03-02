@@ -4,20 +4,14 @@ slug: knocked-out-tooth-what-to-do-in-the-first-hour
 category: Emergency Dentistry
 category_slug: emergency-dentistry
 excerpt: Immediate steps to take when a tooth is completely knocked out.
-reviewer_name: Dr. Shruti Jadeja, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: White Sage Dentistry
-reviewer_location: White Sage Dentistry
-reviewer_url: https://www.whitesagedentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Academy of General Dentistry
-    url: https://www.agd.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Emergency Dental Care
+subcategory: Emergency Overview
+subcategory_slug: overview-emergency
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 ## The Critical First Hour

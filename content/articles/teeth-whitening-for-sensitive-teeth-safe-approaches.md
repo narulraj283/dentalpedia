@@ -4,20 +4,14 @@ slug: teeth-whitening-for-sensitive-teeth-safe-approaches
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Methods to whiten your teeth without exacerbating sensitivity issues.
-reviewer_name: Dr. Yvonne Caton-Hospedales, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Your Smile Dental Wellness Center
-reviewer_location: Your Smile Dental Wellness Center
-reviewer_url: https://www.yoursmiledentalwellness.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Teeth Whitening & Bleaching
+subcategory_slug: teeth-whitening
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## Understanding Whitening-Related Sensitivity

@@ -4,20 +4,14 @@ slug: warm-gutta-percha-softened-filling-method
 category: Endodontics
 category_slug: endodontics
 excerpt: Heated obturation technique.
-reviewer_name: McDonough Endodontic Center
-reviewer_credentials: General Dentistry
-reviewer_practice: McDonough Endodontic Center
-reviewer_location: McDonough Endodontic Center
-reviewer_url: https://www.mcdonoughendodontic.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Endodontics
+subcategory: Endodontic Overview
+subcategory_slug: overview-endo
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Heated obturation technique.
 

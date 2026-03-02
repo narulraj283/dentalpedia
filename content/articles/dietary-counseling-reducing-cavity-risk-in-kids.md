@@ -4,20 +4,14 @@ slug: dietary-counseling-reducing-cavity-risk-in-kids
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Nutrition guidance for dental health.
-reviewer_name: Simply Kids Dental
-reviewer_credentials: General Dentistry
-reviewer_practice: Simply Kids Dental
-reviewer_location: Simply Kids Dental
-reviewer_url: https://www.simplykidsdental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Nutrition guidance for dental health.
 

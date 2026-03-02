@@ -4,20 +4,14 @@ slug: aligner-cleaning-maintaining-hygiene-and-clarity
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Proper care for transparent aligner trays.
-reviewer_name: Global Smiles Orthodontics
-reviewer_credentials: General Dentistry
-reviewer_practice: Global Smiles Orthodontics
-reviewer_location: Global Smiles Orthodontics
-reviewer_url: https://www.globalsmiles.us
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Proper care for transparent aligner trays.
 

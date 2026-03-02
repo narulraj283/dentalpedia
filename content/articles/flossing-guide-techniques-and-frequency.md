@@ -4,20 +4,14 @@ slug: flossing-guide-techniques-and-frequency
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Why flossing is essential and how to do it properly.
-reviewer_name: Dr. Tony Lu, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Downtown Dental Services
-reviewer_location: Downtown Dental Services
-reviewer_url: https://www.clevelanddowntowndental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Brushing, Flossing & Hygiene
+subcategory_slug: brushing-flossing
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## Why Flossing Is Essential

@@ -4,20 +4,14 @@ slug: oral-submucous-fibrosis-restricted-mouth-opening
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Understanding this progressive condition limiting jaw mobility.
-reviewer_name: Dr. Richard Weimar, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Weimar Family & Implant Dentistry
-reviewer_location: Weimar Family & Implant Dentistry
-reviewer_url: https://www.weimardds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Journal of Oral Pathology & Medicine
-    url: https://onlinelibrary.wiley.com/journal/16000714
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: General Dentistry
+subcategory: Decay, Cavities & Caries
+subcategory_slug: decay-cavity
+sources:
+  - title: Journal of Oral Pathology & Medicine
+  - url: https://onlinelibrary.wiley.com/journal/16000714
 ---
 
 ## Understanding Oral Submucous Fibrosis

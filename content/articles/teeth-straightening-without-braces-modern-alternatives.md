@@ -4,20 +4,14 @@ slug: teeth-straightening-without-braces-modern-alternatives
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Explore clear aligner systems and other discreet options for adult teeth alignment.
-reviewer_name: Dr. Blanca Fernandez, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Highland Dental Clinic
-reviewer_location: Highland Dental Clinic
-reviewer_url: https://www.dentistrylakeland.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: General Dentistry
+subcategory: General Overview
+subcategory_slug: overview-general
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## The Rise of Clear Aligners

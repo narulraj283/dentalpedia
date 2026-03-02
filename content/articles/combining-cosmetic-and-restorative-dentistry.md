@@ -4,20 +4,14 @@ slug: combining-cosmetic-and-restorative-dentistry
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: How modern cosmetic and restorative techniques work together for optimal results.
-reviewer_name: Dr. Han Joon - Irvington Dental, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Irvington Dental
-reviewer_location: Irvington Dental
-reviewer_url: https://www.irvington-dental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Cosmetic Overview
+subcategory_slug: overview-cosmetic
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 Cosmetic dentistry and restorative dentistry work best when integrated into a comprehensive smile transformation strategy. While cosmetic dentistry focuses on improving appearance, restorative dentistry addresses functionality and damage. Modern treatment plans merge these approaches, ensuring your smile is both beautiful and healthy.

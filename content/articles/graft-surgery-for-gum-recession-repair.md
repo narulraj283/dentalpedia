@@ -4,20 +4,14 @@ slug: graft-surgery-for-gum-recession-repair
 category: Periodontics
 category_slug: periodontics
 excerpt: Surgical techniques to restore recessed gum tissue.
-reviewer_name: Dr. Tae Kwon, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: Monadnock Perio & Implant Center
-reviewer_location: Monadnock Perio & Implant Center
-reviewer_url: https://www.monadnockperio.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Periodontics
+subcategory: Grafting & Periodontal Surgery
+subcategory_slug: graft-surgery
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Graft surgery for gum recession repair involves transplanting tissue to cover exposed root surfaces, restoring both esthetics and function. Multiple surgical techniques exist, each offering advantages depending on the extent and location of recession and individual patient characteristics.

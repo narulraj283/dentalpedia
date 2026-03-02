@@ -4,20 +4,14 @@ slug: post-root-canal-treatment-pain-normal-or-concerning
 category: Endodontics
 category_slug: endodontics
 excerpt: Typical discomfort after root canal and when to contact your dentist.
-reviewer_name: Dr. Ethridge Chris - Augusta Endodontic Center, DDS
-reviewer_credentials: Endodontics
-reviewer_practice: Augusta Endodontic Center
-reviewer_location: Augusta Endodontic Center
-reviewer_url: https://www.augustaendo.com
-sources:
-  - title: American Association of Endodontists
-    url: https://www.aae.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Endodontics
+subcategory: Root Canal Treatment
+subcategory_slug: root-canal-treatment
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 Many patients worry about pain after root canal treatment. While some post-operative discomfort is normal, understanding what's expected and when to contact your dentist helps distinguish typical healing sensations from concerning complications.

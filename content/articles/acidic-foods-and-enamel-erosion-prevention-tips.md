@@ -4,20 +4,14 @@ slug: acidic-foods-and-enamel-erosion-prevention-tips
 category: Preventive Care
 category_slug: preventive-care
 excerpt: How acidic foods damage teeth and strategies to minimize erosion.
-reviewer_name: Dr. Mukesh Patel, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Ontario Dental Center
-reviewer_location: Ontario Dental Center
-reviewer_url: https://www.ontariodentalcenter.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Journal of Dental Research
-    url: https://journals.sagepub.com/home/jdr
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Diet & Nutrition
+subcategory_slug: diet-nutrition
+sources:
+  - title: Journal of Dental Research
+  - url: https://journals.sagepub.com/home/jdr
 ---
 
 ## Understanding Enamel Erosion

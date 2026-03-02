@@ -4,20 +4,14 @@ slug: cleft-lip-repair-primary-and-revision-surgery
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Closing congenital lip defect.
-reviewer_name: Kellerman Dental
-reviewer_credentials: General Dentistry
-reviewer_practice: Kellerman Dental
-reviewer_location: Kellerman Dental
-reviewer_url: https://www.kellermandental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Closing congenital lip defect.
 

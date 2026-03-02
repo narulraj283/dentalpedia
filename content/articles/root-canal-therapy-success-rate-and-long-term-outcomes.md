@@ -4,20 +4,14 @@ slug: root-canal-therapy-success-rate-and-long-term-outcomes
 category: Endodontics
 category_slug: endodontics
 excerpt: Understanding the high success rate and longevity of modern root canal therapy.
-reviewer_name: Dr. Damaries Candelario-Soto, DDS
-reviewer_credentials: Endodontics
-reviewer_practice: Endodontics Associates of Georgia
-reviewer_location: Endodontics Associates of Georgia
-reviewer_url: https://www.endocobb.com
-sources:
-  - title: American Association of Endodontists
-    url: https://www.aae.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Journal of Endodontics
-    url: https://www.jendodont.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Endodontics
+subcategory: Root Canal Treatment
+subcategory_slug: root-canal-treatment
+sources:
+  - title: Journal of Endodontics
+  - url: https://www.jendodont.org/
 ---
 
 Root canal treatment has an excellent success rate, with studies consistently showing success exceeding 90 percent in most situations. Understanding these success statistics and the long-term outcomes of treatment helps patients view root canal therapy as a predictable, reliable way to save teeth.

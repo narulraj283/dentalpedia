@@ -4,22 +4,14 @@ slug: teeth-whitening-for-athletes
 category: "Sports Dentistry"
 category_slug: sports-dentistry
 excerpt: "Cosmetic concerns in sports."
-reviewer_name: "Dallas Laser Dentistry"
-reviewer_credentials: "General Dentistry"
-reviewer_practice: "Dallas Laser Dentistry"
-reviewer_location: "Dallas Laser Dentistry"
-reviewer_url: "https://www.dallascosmeticdentist.us"
-sources:
-  - title: "American Dental Association (ADA)"
-    url: "https://www.ada.org"
-  - title: "Journal of Dental Research"
-    url: "https://journals.sagepub.com/home/jdr"
-  - title: "National Institute of Dental and Craniofacial Research"
-    url: "https://www.nidcr.nih.gov"
-  - title: "International Journal of Implant Dentistry"
-    url: "https://www.ijimplantdent.com"
 date: "2026-03-02"
 read_time: "3 min"
+reviewer_specialty: General Dentistry
+subcategory: Sports Dentistry Overview
+subcategory_slug: overview-sports
+sources:
+  - title: "International Journal of Implant Dentistry"
+  - url: "https://www.ijimplantdent.com"
 ---
 
 Cosmetic dentistry combines art and science to enhance smile esthetics beautifully while maintaining function. Modern cosmetic techniques can dramatically transform smiles while maintaining natural appearance. Cosmetic improvements often boost confidence and overall quality of life. Unlike purely functional dentistry, cosmetic dentistry emphasizes appearance and psychological impact of smile transformation.

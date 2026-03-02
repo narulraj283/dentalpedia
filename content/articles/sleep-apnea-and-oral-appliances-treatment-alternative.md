@@ -4,20 +4,14 @@ slug: sleep-apnea-and-oral-appliances-treatment-alternative
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: Custom oral appliances as alternatives to CPAP for sleep apnea.
-reviewer_name: Dr. Peter Cabrera, DDS
-reviewer_credentials: Prosthodontics
-reviewer_practice: Perio Implant Chicago
-reviewer_location: Perio Implant Chicago
-reviewer_url: https://www.perioimplantchicago.com
-sources:
-  - title: American Academy of Dental Sleep Medicine
-    url: https://www.aadsm.org/
-  - title: American Sleep Apnea Association
-    url: https://www.sleepapnea.org/
-  - title: National Institutes of Health
-    url: https://www.nih.gov/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Prosthodontics
+subcategory: Prosthodontic Overview
+subcategory_slug: overview-prostho
+sources:
+  - title: National Institutes of Health
+  - url: https://www.nih.gov/
 ---
 
 ## Understanding Sleep Apnea and Its Consequences

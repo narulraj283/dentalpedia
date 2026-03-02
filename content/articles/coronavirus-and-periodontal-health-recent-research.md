@@ -4,20 +4,14 @@ slug: coronavirus-and-periodontal-health-recent-research
 category: Periodontics
 category_slug: periodontics
 excerpt: Link between oral health and severe COVID-19 outcomes.
-reviewer_name: Dr. Tae Kwon, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: Monadnock Perio & Implant Center
-reviewer_location: Monadnock Perio & Implant Center
-reviewer_url: https://www.monadnockperio.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: Centers for Disease Control and Prevention
-    url: https://www.cdc.gov/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Periodontics
+subcategory: Periodontal Overview
+subcategory_slug: overview-perio
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 Recent research has identified significant associations between periodontal disease and severe COVID-19 outcomes. Multiple studies demonstrate that people with untreated gum disease have substantially higher hospitalization and mortality rates from COVID-19. Understanding these connections highlights that oral health maintenance is an essential part of overall health protection.

@@ -4,20 +4,14 @@ slug: chipped-or-cracked-tooth-treatment-options
 category: General Dentistry
 category_slug: general-dentistry
 excerpt: Discover treatment options ranging from bonding to crowns based on damage severity.
-reviewer_name: Dr. Mary Swift, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Dallas Laser Dentistry
-reviewer_location: Dallas Laser Dentistry
-reviewer_url: https://www.dallascosmeticdentist.us
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: General Dentistry
+subcategory: Fillings & Restorations
+subcategory_slug: fillings-restorations
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Types of Tooth Damage

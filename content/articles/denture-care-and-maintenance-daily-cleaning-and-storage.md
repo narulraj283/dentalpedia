@@ -4,20 +4,14 @@ slug: denture-care-and-maintenance-daily-cleaning-and-storage
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: Proper care routines to keep dentures clean, fresh, and durable.
-reviewer_name: Dr. Mark Spinazze, DDS
-reviewer_credentials: Prosthodontics
-reviewer_practice: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_location: Associates for Oral Maxillofacial & Implants Surgery
-reviewer_url: https://www.associatesfororalsurgery.com
-sources:
-  - title: American College of Prosthodontists
-    url: https://www.prosthodontics.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: Prosthodontics
+subcategory: Dentures & Removable Prosthetics
+subcategory_slug: dentures
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Proper denture care and maintenance are essential for denture longevity, preventing staining and odor, and protecting the health of underlying tissues. Daily cleaning and appropriate storage preserve denture appearance and function for many years.

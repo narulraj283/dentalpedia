@@ -4,20 +4,14 @@ slug: tmj-disorders-symptoms-and-nonsurgical-treatments
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Managing temporomandibular joint pain and dysfunction.
-reviewer_name: Dr. Davoud Ramsin K., DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Ramsin K. Davoud DDS.
-reviewer_location: Ramsin K. Davoud DDS.
-reviewer_url: https://www.rkddentistry.com
-sources:
-  - title: American Academy of Orofacial Pain
-    url: https://www.aaop.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - TMJ Disorders
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: General Dentistry
+subcategory: Conditions Overview
+subcategory_slug: overview-conditions
+sources:
+  - title: Cleveland Clinic - TMJ Disorders
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 ## Understanding TMJ Disorders

@@ -4,20 +4,14 @@ slug: implant-underload-insufficient-function
 category: Dental Implants
 category_slug: dental-implants
 excerpt: Under-utilized implant.
-reviewer_name: Kings Dental
-reviewer_credentials: General Dentistry
-reviewer_practice: Kings Dental
-reviewer_location: Kings Dental
-reviewer_url: https://www.kingsdentaltx.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 3 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Under-utilized implant.
 

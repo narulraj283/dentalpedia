@@ -4,20 +4,14 @@ slug: finding-emergency-dental-care-options-beyond-hours
 category: Emergency Dentistry
 category_slug: emergency-dentistry
 excerpt: Resources for getting emergency dental care nights, weekends, and holidays.
-reviewer_name: Dr. Beth Skovron, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Heritage Dental
-reviewer_location: Heritage Dental
-reviewer_url: https://www.heritagedentaldds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Emergency Dentists USA
-    url: https://www.emergencydentistsusa.com/
-  - title: Find Emergency Dentists
-    url: https://www.findemergencydentists.com/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Emergency Dental Care
+subcategory: Emergency Overview
+subcategory_slug: overview-emergency
+sources:
+  - title: Find Emergency Dentists
+  - url: https://www.findemergencydentists.com/
 ---
 
 ## When You Need Emergency Dental Care

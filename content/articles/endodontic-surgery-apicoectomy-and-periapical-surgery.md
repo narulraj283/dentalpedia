@@ -4,20 +4,14 @@ slug: endodontic-surgery-apicoectomy-and-periapical-surgery
 category: Endodontics
 category_slug: endodontics
 excerpt: Surgical approach to treating persistent endodontic infections.
-reviewer_name: Dr. Damaries Candelario-Soto, DDS
-reviewer_credentials: Endodontics
-reviewer_practice: Endodontics Associates of Georgia
-reviewer_location: Endodontics Associates of Georgia
-reviewer_url: https://www.endocobb.com
-sources:
-  - title: American Association of Endodontists
-    url: https://www.aae.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Endodontics
+subcategory: Posts, Cores & Retreatment
+subcategory_slug: post-core
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 Endodontic surgery, particularly apicoectomy (surgical removal of the root apex), provides an alternative approach for treating persistent apical periodontitis when nonsurgical treatment has failed. This minimally invasive surgical approach has high success rates and allows visualization of the problem from a different anatomical perspective.

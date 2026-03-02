@@ -4,20 +4,14 @@ slug: teething-symptoms-and-safe-relief-strategies
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Understanding teething discomfort and proven methods to relieve pain.
-reviewer_name: Dr. Bryce Duskin, DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: Eagle Family Dental
-reviewer_location: Eagle Family Dental
-reviewer_url: https://www.eaglefamilydental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Academy of Pediatric Dentistry
-    url: https://www.aapd.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Teething is a normal developmental milestone, but it can be uncomfortable for babies. Between ages 6 months and 3 years, as teeth erupt through the gums, many babies experience sore, tender gums. Understanding teething symptoms and safe relief strategies helps you comfort your baby through this temporary phase.

@@ -4,20 +4,14 @@ slug: water-as-the-ideal-beverage-hydration-and-fluoride
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Water promoting saliva and teeth health.
-reviewer_name: Wilmington Smiles
-reviewer_credentials: General Dentistry
-reviewer_practice: Wilmington Smiles
-reviewer_location: Wilmington Smiles
-reviewer_url: https://www.wilmingtonsmiles.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 3 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Fluoride & Sealants
+subcategory_slug: fluoride-sealants
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Water promoting saliva and teeth health.
 

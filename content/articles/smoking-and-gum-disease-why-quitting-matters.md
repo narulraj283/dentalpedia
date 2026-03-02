@@ -4,20 +4,14 @@ slug: smoking-and-gum-disease-why-quitting-matters
 category: Periodontics
 category_slug: periodontics
 excerpt: How smoking accelerates gum disease and impacts treatment success.
-reviewer_name: Dr. Steve Cooper, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: Cooper Dental Group
-reviewer_location: Cooper Dental Group
-reviewer_url: https://www.cooperdentalgroup.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: Centers for Disease Control and Prevention
-    url: https://www.cdc.gov/
-  - title: American Cancer Society
-    url: https://www.cancer.org/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Periodontics
+subcategory: Periodontal Overview
+subcategory_slug: overview-perio
+sources:
+  - title: American Cancer Society
+  - url: https://www.cancer.org/
 ---
 
 Smoking is among the most significant modifiable risk factors for periodontal disease. Smokers have substantially higher gum disease prevalence, more severe disease, and worse response to treatment compared to non-smokers. Understanding how smoking damages gums and the benefits of cessation motivates many smokers to quit.

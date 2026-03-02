@@ -4,20 +4,14 @@ slug: flexible-denture-modern-nylon-prosthetic
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: Flexible material denture alternative.
-reviewer_name: Riverside Dental Clinic
-reviewer_credentials: General Dentistry
-reviewer_practice: Riverside Dental Clinic
-reviewer_location: Riverside Dental Clinic
-reviewer_url: https://www.drumhellerdentist.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Prosthodontics
+subcategory: Prosthodontic Overview
+subcategory_slug: overview-prostho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Flexible material denture alternative.
 

@@ -4,20 +4,14 @@ slug: cbct-imaging-advanced-3d-x-ray-technology
 category: Dental Technology
 category_slug: dental-technology
 excerpt: Understanding cone beam computed tomography for detailed dental imaging.
-reviewer_name: Dr. Colleen Shandley, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Shandley Kane Dental
-reviewer_location: Shandley Kane Dental
-reviewer_url: https://www.shandleykanedental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Oral & Maxillofacial Radiology
-    url: https://www.ada.org/
-  - title: American Academy of Oral and Maxillofacial Radiology
-    url: https://www.aaomr.org/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: General Dentistry
+subcategory: Imaging & Diagnostic Technology
+subcategory_slug: imaging-diagnostics
+sources:
+  - title: American Academy of Oral and Maxillofacial Radiology
+  - url: https://www.aaomr.org/
 ---
 
 ## Understanding CBCT Technology

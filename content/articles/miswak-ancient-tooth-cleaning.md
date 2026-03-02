@@ -4,22 +4,14 @@ slug: miswak-ancient-tooth-cleaning
 category: "Holistic/Alternative Dentistry"
 category_slug: holistic-alternative-dentistry
 excerpt: "Traditional cleaning stick."
-reviewer_name: "Dallas Laser Dentistry"
-reviewer_credentials: "General Dentistry"
-reviewer_practice: "Dallas Laser Dentistry"
-reviewer_location: "Dallas Laser Dentistry"
-reviewer_url: "https://www.dallascosmeticdentist.us"
-sources:
-  - title: "American Dental Association (ADA)"
-    url: "https://www.ada.org"
-  - title: "Journal of Dental Research"
-    url: "https://journals.sagepub.com/home/jdr"
-  - title: "National Institute of Dental and Craniofacial Research"
-    url: "https://www.nidcr.nih.gov"
-  - title: "International Journal of Implant Dentistry"
-    url: "https://www.ijimplantdent.com"
 date: "2026-03-02"
 read_time: "3 min"
+reviewer_specialty: General Dentistry
+subcategory: Holistic Dentistry Overview
+subcategory_slug: overview-holistic
+sources:
+  - title: "International Journal of Implant Dentistry"
+  - url: "https://www.ijimplantdent.com"
 ---
 
 Dental health encompasses multiple aspects of oral care and professional treatment. Maintaining healthy teeth and gums requires commitment to excellent home care combined with regular professional supervision. Good oral health contributes to overall health, function, and quality of life. Professional dental care addresses problems early before they become complicated and expensive to treat.

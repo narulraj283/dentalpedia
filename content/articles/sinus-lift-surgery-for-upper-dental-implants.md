@@ -4,20 +4,14 @@ slug: sinus-lift-surgery-for-upper-dental-implants
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Surgical procedure to increase bone height for upper jaw implants.
-reviewer_name: Dr. David Garazi, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: Garazi Periodontics & Dental Implants
-reviewer_location: Garazi Periodontics & Dental Implants
-reviewer_url: https://www.garazidmd.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Bone Grafting & Reconstruction
+subcategory_slug: bone-grafting
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Upper back teeth are particularly challenging for implants because the maxillary sinus—an air-filled cavity above these teeth—leaves minimal bone height available. When bone height is insufficient for implant placement, a sinus lift (sinus augmentation) procedure elevates the sinus floor and fills the space with bone graft material, creating adequate height for implants.

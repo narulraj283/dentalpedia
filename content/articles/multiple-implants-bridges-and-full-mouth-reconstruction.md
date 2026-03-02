@@ -4,20 +4,14 @@ slug: multiple-implants-bridges-and-full-mouth-reconstruction
 category: Dental Implants
 category_slug: dental-implants
 excerpt: Using multiple implants to replace several or all teeth.
-reviewer_name: Dr. Tae Kwon, DDS
-reviewer_credentials: Implant Dentistry
-reviewer_practice: Monadnock Perio & Implant Center
-reviewer_location: Monadnock Perio & Implant Center
-reviewer_url: https://www.monadnockperio.com
-sources:
-  - title: Journal of Prosthetic Dentistry
-    url: https://www.jpsychres.org/
-  - title: International Journal of Oral Implantology
-    url: https://www.journals.sagepub.com/
-  - title: American Academy of Implant Dentistry
-    url: https://www.aaid.com/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: American Academy of Implant Dentistry
+  - url: https://www.aaid.com/
 ---
 
 ## Understanding Multiple Implant Restorations

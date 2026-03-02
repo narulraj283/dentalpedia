@@ -4,20 +4,14 @@ slug: risk-and-concerns-with-surgical-technique-overview
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Comprehensive information about surgical technique overview for optimal dental health.
-reviewer_name: Urgent Dental of Denver
-reviewer_credentials: General Dentistry
-reviewer_practice: Urgent Dental of Denver
-reviewer_location: Urgent Dental of Denver
-reviewer_url: https://www.urgentdentalofdenver.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Comprehensive information about surgical technique overview for optimal dental health.
 

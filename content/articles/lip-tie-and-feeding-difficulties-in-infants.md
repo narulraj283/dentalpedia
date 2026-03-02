@@ -4,20 +4,14 @@ slug: lip-tie-and-feeding-difficulties-in-infants
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Impact of lip tie on feeding and breastfeeding success.
-reviewer_name: Dr. Gagan Sandhu, DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: Borderview Family Dental
-reviewer_location: Borderview Family Dental
-reviewer_url: https://www.borderviewdental.com
-sources:
-  - title: American Academy of Pediatric Dentistry
-    url: https://www.aapd.org/
-  - title: International Lactation Consultant Association
-    url: https://www.ilca.org/
-  - title: American Academy of Pediatrics
-    url: https://www.aap.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: American Academy of Pediatrics
+  - url: https://www.aap.org/
 ---
 
 Lip tie is an increasingly recognized condition where the labial frenum—the tissue connecting the upper lip to the gums—is unusually short or thick, potentially restricting lip movement and affecting feeding efficiency. While research on lip ties continues to evolve, evidence suggests that significant lip ties can contribute to breastfeeding difficulties and may warrant intervention in some cases.

@@ -4,20 +4,14 @@ slug: accelerated-orthodontics-speeding-up-your-treatment
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Newer techniques and technologies that can reduce treatment time.
-reviewer_name: Dr. Edgar Mendieta, DDS
-reviewer_credentials: Orthodontics
-reviewer_practice: Global Smiles Orthodontics
-reviewer_location: Global Smiles Orthodontics
-reviewer_url: https://www.globalsmiles.us
-sources:
-  - title: American Association of Orthodontists
-    url: https://www.aaoinfo.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Orthodontics
+subcategory: Treatment Duration & Speed
+subcategory_slug: treatment-duration
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Traditional orthodontics typically takes 24-36 months. Newer accelerated orthodontics techniques claim to reduce this timeline by 20-40%, completing treatment in 12-24 months. These methods use various approaches to stimulate faster bone remodeling, potentially shortening your time in braces or aligners. However, evidence varies, and claims should be evaluated carefully.

@@ -4,20 +4,14 @@ slug: maintaining-oral-hygiene-with-braces
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Special brushing and flossing techniques for keeping teeth clean during orthodontic treatment.
-reviewer_name: Dr. Arvi Duka, DDS
-reviewer_credentials: Orthodontics
-reviewer_practice: Framingham Family Dental Care
-reviewer_location: Framingham Family Dental Care
-reviewer_url: https://www.framinghamfamilydentalcare.com
-sources:
-  - title: American Association of Orthodontists
-    url: https://www.aaoinfo.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Maintaining excellent oral hygiene with braces is one of the most important things you can do to ensure successful treatment and protect your teeth. Braces create many hiding places for food and bacteria, making thorough cleaning essential. Patients who practice meticulous oral hygiene avoid cavities and gum disease during treatment; those with poor hygiene often develop significant problems.

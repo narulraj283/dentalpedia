@@ -4,20 +4,14 @@ slug: stress-and-periodontitis-immunosuppression
 category: Periodontics
 category_slug: periodontics
 excerpt: Emotional stress worsening gum disease.
-reviewer_name: Pasadena Periodontic
-reviewer_credentials: General Dentistry
-reviewer_practice: Pasadena Periodontic
-reviewer_location: Pasadena Periodontic
-reviewer_url: https://www.pasadenaperiodontics.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Periodontics
+subcategory: Periodontal Overview
+subcategory_slug: overview-perio
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Emotional stress worsening gum disease.
 

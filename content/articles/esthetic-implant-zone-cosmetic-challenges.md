@@ -4,20 +4,14 @@ slug: esthetic-implant-zone-cosmetic-challenges
 category: Dental Implants
 category_slug: dental-implants
 excerpt: Visible implants requiring perfection.
-reviewer_name: Nashua Cosmetic And Restorative Dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Nashua Cosmetic And Restorative Dentistry
-reviewer_location: Nashua Cosmetic And Restorative Dentistry
-reviewer_url: https://www.nashuadentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Visible implants requiring perfection.
 

@@ -4,20 +4,14 @@ slug: tmj-syndrome-jaw-pain-causes-and-treatment
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
 excerpt: Understanding temporomandibular joint dysfunction and management options.
-reviewer_name: Dr. Rich Flores, DDS
-reviewer_credentials: Orofacial Pain and TMJ Disorders
-reviewer_practice: Rich Flores DDS LLC
-reviewer_location: Rich Flores DDS LLC
-reviewer_url: https://www.richfloresdental.com
-sources:
-  - title: American Academy of Orofacial Pain
-    url: https://www.aaop.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - TMJ
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Orofacial Pain and TMJ
+subcategory: TMJ Overview
+subcategory_slug: overview-tmj
+sources:
+  - title: Cleveland Clinic - TMJ
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 ## Understanding TMJ Syndrome

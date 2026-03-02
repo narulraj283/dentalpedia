@@ -4,20 +4,14 @@ slug: bite-correction-underbite-overbite-and-crossbite
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Understand different bite problems and how orthodontics corrects them.
-reviewer_name: Dr. De Lorme John, DDS
-reviewer_credentials: Orthodontics
-reviewer_practice: South OC Pediatric Dentistry & Orthodontics
-reviewer_location: South OC Pediatric Dentistry & Orthodontics
-reviewer_url: https://www.wheresmilesstart.com
-sources:
-  - title: American Association of Orthodontists
-    url: https://www.aaoinfo.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Bite problems—technically called malocclusions—affect how your upper and lower teeth relate when biting. Three primary bite problems are overbite, underbite, and crossbite. Each creates different functional and aesthetic issues. Modern orthodontics effectively corrects these problems, improving both function and appearance.

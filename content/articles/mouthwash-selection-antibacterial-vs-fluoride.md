@@ -4,20 +4,14 @@ slug: mouthwash-selection-antibacterial-vs-fluoride
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Understanding different mouthwash types and their benefits.
-reviewer_name: Dr. Gary Pearl, DDS
-reviewer_credentials: Preventive Dentistry
-reviewer_practice: Pearl Dental Care
-reviewer_location: Pearl Dental Care
-reviewer_url: https://www.pearldentalcare.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: Journal of Dental Research
-    url: https://journals.sagepub.com/home/jdr
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Fluoride & Sealants
+subcategory_slug: fluoride-sealants
+sources:
+  - title: Journal of Dental Research
+  - url: https://journals.sagepub.com/home/jdr
 ---
 
 ## Mouthwash Types and Categories

@@ -4,20 +4,14 @@ slug: cosmetic-dentistry-for-aged-teeth-age-related-changes
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Address cosmetic concerns that develop with aging, including discoloration and wear.
-reviewer_name: Dr. Jackie Golden, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: GoldenDent
-reviewer_location: GoldenDent
-reviewer_url: https://www.physicsforceps.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Teeth Whitening & Bleaching
+subcategory_slug: teeth-whitening
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 As we age, our teeth and smiles naturally change. The bright white smile of youth gradually becomes darker and yellower. Teeth wear down from decades of chewing, sometimes becoming shorter and developing uneven surfaces. Gums recede, revealing root surfaces. Restorations fail and require replacement. These age-related changes are inevitable, but cosmetic dentistry offers solutions to maintain an attractive, youthful smile throughout your life.

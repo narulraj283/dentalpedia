@@ -4,20 +4,14 @@ slug: orthodontic-retainers-types-and-long-term-wear
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Learn about different retainer types and why wearing them after braces is essential.
-reviewer_name: Dr. De Lorme John, DDS
-reviewer_credentials: Orthodontics
-reviewer_practice: South OC Pediatric Dentistry & Orthodontics
-reviewer_location: South OC Pediatric Dentistry & Orthodontics
-reviewer_url: https://www.wheresmilesstart.com
-sources:
-  - title: American Association of Orthodontists
-    url: https://www.aaoinfo.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 Braces are removed, your teeth are beautifully straight, and you celebrate your transformed smile. But the orthodontic journey isn't complete. Retainers—devices that hold teeth in their new positions—are absolutely essential for maintaining your results permanently. Without proper retention, teeth will gradually shift back toward their original positions in a process called relapse.

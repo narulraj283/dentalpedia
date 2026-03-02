@@ -4,20 +4,14 @@ slug: lost-filling-or-crown-temporary-and-permanent-solutions
 category: Emergency Dentistry
 category_slug: emergency-dentistry
 excerpt: What to do when a filling or crown comes out and how to restore it.
-reviewer_name: Dr. Douglas Hoppe, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Douglas Hoppe DDS
-reviewer_location: Douglas Hoppe DDS
-reviewer_url: https://www.hoppedds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
-  - title: Academy of General Dentistry
-    url: https://www.agd.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Emergency Dental Care
+subcategory: Dislodged & Lost Restorations
+subcategory_slug: dislodged-lost
+sources:
+  - title: Academy of General Dentistry
+  - url: https://www.agd.org/
 ---
 
 ## Why Fillings and Crowns Come Out

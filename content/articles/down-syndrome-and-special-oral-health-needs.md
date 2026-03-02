@@ -4,20 +4,14 @@ slug: down-syndrome-and-special-oral-health-needs
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Tailored dental care for patients with Down syndrome.
-reviewer_name: Dr. Bauer Williams Angela, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Cambridge Family Dental
-reviewer_location: Cambridge Family Dental
-reviewer_url: https://www.smilesofcambridge.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Special Olympics - Healthy Athletes Oral Health
-    url: https://www.specialolympics.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: General Dentistry
+subcategory: Decay, Cavities & Caries
+subcategory_slug: decay-cavity
+sources:
+  - title: Special Olympics - Healthy Athletes Oral Health
+  - url: https://www.specialolympics.org/
 ---
 
 ## Understanding Down Syndrome and Oral Implications

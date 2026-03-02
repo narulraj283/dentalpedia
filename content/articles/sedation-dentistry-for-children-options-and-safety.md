@@ -4,20 +4,14 @@ slug: sedation-dentistry-for-children-options-and-safety
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Sedation options available for anxious or special needs children.
-reviewer_name: Dr. Marcella Guzman, DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: A Brush Above Family Dentistry
-reviewer_location: A Brush Above Family Dentistry
-reviewer_url: https://www.abrushabove.net
-sources:
-  - title: American Academy of Pediatric Dentistry
-    url: https://www.aapd.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Society of Anesthesiologists
-    url: https://www.asahq.org/
 date: 2026-03-01
 read_time: 8 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Behavior Management & Anxiety
+subcategory_slug: behavior-management
+sources:
+  - title: American Society of Anesthesiologists
+  - url: https://www.asahq.org/
 ---
 
 Sedation dentistry for children offers a valuable option for those with severe dental anxiety, extensive treatment needs, or special healthcare needs that make traditional appointments challenging. Understanding the different sedation options, their safety profiles, and appropriate use cases helps parents make informed decisions about their child's dental care.

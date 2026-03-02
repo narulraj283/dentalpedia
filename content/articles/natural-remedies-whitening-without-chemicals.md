@@ -4,20 +4,14 @@ slug: natural-remedies-whitening-without-chemicals
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Non-bleach whitening methods.
-reviewer_name: Sherway Dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Sherway Dentistry
-reviewer_location: Sherway Dentistry
-reviewer_url: https://www.sherwaydentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Preventive Overview
+subcategory_slug: overview-prevent
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Non-bleach whitening methods.
 

@@ -4,20 +4,14 @@ slug: burning-mouth-syndrome-mysterious-oral-pain
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Understanding this chronic pain condition affecting the mouth.
-reviewer_name: Dr. Ryan Jones, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Nashville Restorative Dentistry
-reviewer_location: Nashville Restorative Dentistry
-reviewer_url: https://www.nashvillerestorativedentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: American Academy of Orofacial Pain
-    url: https://www.aaop.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: General Dentistry
+subcategory: Decay, Cavities & Caries
+subcategory_slug: decay-cavity
+sources:
+  - title: American Academy of Orofacial Pain
+  - url: https://www.aaop.org/
 ---
 
 ## Understanding Burning Mouth Syndrome

@@ -4,20 +4,14 @@ slug: orofacial-myofascial-pain-muscle-related-oral-pain
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Understanding muscle tension causing facial and jaw pain.
-reviewer_name: Dr. Carl McMillan, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Carl McMillan DMD PA: Holistic Dental Centers
-reviewer_location: Carl McMillan DMD PA: Holistic Dental Centers
-reviewer_url: https://www.smilesraleigh.com
-sources:
-  - title: American Academy of Orofacial Pain
-    url: https://www.aaop.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Myofascial Pain
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: General Dentistry
+subcategory: Conditions Overview
+subcategory_slug: overview-conditions
+sources:
+  - title: Cleveland Clinic - Myofascial Pain
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 ## Understanding Myofascial Pain Syndrome

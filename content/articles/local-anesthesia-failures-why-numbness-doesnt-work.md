@@ -4,20 +4,14 @@ slug: local-anesthesia-failures-why-numbness-doesnt-work
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Reasons blocks fail and alternative techniques.
-reviewer_name: Arnold Cutler DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Arnold Cutler DDS
-reviewer_location: Arnold Cutler DDS
-reviewer_url: https://www.lakesidecadentist.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Reasons blocks fail and alternative techniques.
 

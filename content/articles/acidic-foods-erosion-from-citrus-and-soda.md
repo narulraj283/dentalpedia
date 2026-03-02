@@ -4,20 +4,14 @@ slug: acidic-foods-erosion-from-citrus-and-soda
 category: Dental Nutrition
 category_slug: dental-nutrition
 excerpt: Acid damage to enamel.
-reviewer_name: Lone Star Smiles
-reviewer_credentials: General Dentistry
-reviewer_practice: Lone Star Smiles
-reviewer_location: Lone Star Smiles
-reviewer_url: https://www.lonestarsmiles.org
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Harmful Foods & Beverages
+subcategory_slug: harmful-foods
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Acid damage to enamel.
 

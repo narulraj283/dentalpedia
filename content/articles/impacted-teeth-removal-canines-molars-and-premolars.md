@@ -4,20 +4,14 @@ slug: impacted-teeth-removal-canines-molars-and-premolars
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Surgical techniques for removing teeth that haven't erupted properly.
-reviewer_name: Dr. Tae Kwon, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: Monadnock Perio & Implant Center
-reviewer_location: Monadnock Perio & Implant Center
-reviewer_url: https://www.monadnockperio.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Mayo Clinic - Oral Health
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Wisdom Teeth & Impaction
+subcategory_slug: wisdom-teeth
+sources:
+  - title: Mayo Clinic - Oral Health
+  - url: https://www.mayoclinic.org/
 ---
 
 Impacted teeth—those that fail to erupt into their normal positions—require surgical removal. While wisdom teeth are most commonly impacted, canines, premolars, and molars can also be impacted. Each tooth type presents unique surgical challenges. Understanding what impaction means and why removal is necessary helps you prepare for this common oral surgery procedure.

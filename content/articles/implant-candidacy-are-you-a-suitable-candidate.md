@@ -4,20 +4,14 @@ slug: implant-candidacy-are-you-a-suitable-candidate
 category: Dental Implants
 category_slug: dental-implants
 excerpt: Evaluation criteria for dental implant therapy and when alternatives may be better.
-reviewer_name: Dr. Hoda Hosseini, DDS
-reviewer_credentials: Implant Dentistry
-reviewer_practice: ClearCare Periodontal & Implant Centre
-reviewer_location: ClearCare Periodontal & Implant Centre
-reviewer_url: https://www.clearcareperio.com
-sources:
-  - title: American Academy of Implant Dentistry
-    url: https://www.aaid.com/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Journal of Dental Research
-    url: https://journals.sagepub.com/home/jdr
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: Journal of Dental Research
+  - url: https://journals.sagepub.com/home/jdr
 ---
 
 ## What Makes an Ideal Implant Candidate?

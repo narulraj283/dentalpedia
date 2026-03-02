@@ -4,20 +4,14 @@ slug: community-health-centers-affordable-dentistry
 category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
 excerpt: Public health dental clinics.
-reviewer_name: Courtyard Dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Courtyard Dentistry
-reviewer_location: Courtyard Dentistry
-reviewer_url: https://www.courtyarddentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 3 min
+reviewer_specialty: General Dentistry
+subcategory: Practice Overview
+subcategory_slug: overview-practice
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Public health dental clinics.
 

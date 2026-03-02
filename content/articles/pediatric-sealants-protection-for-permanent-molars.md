@@ -4,20 +4,14 @@ slug: pediatric-sealants-protection-for-permanent-molars
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Learn why sealants are an important preventive step when permanent teeth erupt.
-reviewer_name: Dr. Jared Palmer, DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: Acadia Family Dentistry
-reviewer_location: Acadia Family Dentistry
-reviewer_url: https://www.acadiafamilydentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Academy of Pediatric Dentistry
-    url: https://www.aapd.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Dental sealants are one of the most effective preventive tools for protecting permanent molars from decay. Applied soon after permanent molars erupt, sealants reduce cavity risk on chewing surfaces by up to 80%. Understanding what sealants are, why they're beneficial, and when they're applied helps you make informed decisions about your child's preventive dental care.

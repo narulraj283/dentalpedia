@@ -4,20 +4,14 @@ slug: implant-cost-analysis-what-affects-your-final-price
 category: Dental Implants
 category_slug: dental-implants
 excerpt: Breakdown of implant costs and factors influencing treatment expenses.
-reviewer_name: Dr. Peter Cabrera, DDS
-reviewer_credentials: Implant Dentistry
-reviewer_practice: Perio Implant Chicago
-reviewer_location: Perio Implant Chicago
-reviewer_url: https://www.perioimplantchicago.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Journal of Dental Research
-    url: https://journals.sagepub.com/home/jdr
-  - title: Academy of Prosthodontics
-    url: https://www.prosthodontics.org/
 date: 2026-03-01
 read_time: 4 min
+reviewer_specialty: Implant Dentistry
+subcategory: Implant Overview
+subcategory_slug: overview-implants
+sources:
+  - title: Academy of Prosthodontics
+  - url: https://www.prosthodontics.org/
 ---
 
 ## Understanding Implant Costs

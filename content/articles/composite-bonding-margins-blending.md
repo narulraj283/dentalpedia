@@ -4,20 +4,14 @@ slug: composite-bonding-margins-blending
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Seamless bonded restoration edges.
-reviewer_name: Sherway Dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Sherway Dentistry
-reviewer_location: Sherway Dentistry
-reviewer_url: https://www.sherwaydentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Bonding & Contouring
+subcategory_slug: bonding-contouring
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Seamless bonded restoration edges.
 

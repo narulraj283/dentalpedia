@@ -4,20 +4,14 @@ slug: antibiotic-therapy-in-periodontics
 category: Periodontics
 category_slug: periodontics
 excerpt: When and how antibiotics are used to treat severe periodontal infections.
-reviewer_name: Dr. Peter Cabrera, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: Perio Implant Chicago
-reviewer_location: Perio Implant Chicago
-reviewer_url: https://www.perioimplantchicago.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Centers for Disease Control and Prevention
-    url: https://www.cdc.gov/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Periodontics
+subcategory: Periodontal Overview
+subcategory_slug: overview-perio
+sources:
+  - title: Centers for Disease Control and Prevention
+  - url: https://www.cdc.gov/
 ---
 
 While mechanical debridement through scaling, root planing, and surgery forms the foundation of periodontal treatment, adjunctive antibiotic therapy can enhance outcomes in specific situations. Understanding when antibiotics are beneficial, which agents are appropriate, and how to minimize antibiotic resistance helps optimize periodontal treatment.

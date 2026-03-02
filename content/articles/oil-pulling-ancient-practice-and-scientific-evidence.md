@@ -4,20 +4,14 @@ slug: oil-pulling-ancient-practice-and-scientific-evidence
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Traditional mouthwash alternative debunked.
-reviewer_name: Brilliant Smiles Dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Brilliant Smiles Dentistry
-reviewer_location: Brilliant Smiles Dentistry
-reviewer_url: https://www.brilliantsmilesdentistry.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 4 min
+reviewer_specialty: Preventive Dentistry
+subcategory: Preventive Overview
+subcategory_slug: overview-prevent
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Traditional mouthwash alternative debunked.
 

@@ -4,20 +4,14 @@ slug: gum-disease-and-systemic-health-the-connection
 category: Periodontics
 category_slug: periodontics
 excerpt: How periodontal disease links to heart disease, diabetes, and other conditions.
-reviewer_name: Dr. Henriod Spencer - Pasadena Periodontic, DDS
-reviewer_credentials: Periodontics
-reviewer_practice: Pasadena Periodontic
-reviewer_location: Pasadena Periodontic
-reviewer_url: https://www.pasadenaperiodontics.com
-sources:
-  - title: American Academy of Periodontology
-    url: https://www.perio.org/
-  - title: American Heart Association
-    url: https://www.heart.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Periodontics
+subcategory: Gum Disease & Conditions
+subcategory_slug: gum-disease
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 Scientific research has established compelling links between periodontal disease and serious systemic health conditions including cardiovascular disease, diabetes, respiratory infections, and adverse pregnancy outcomes. Understanding these connections motivates better oral health habits and highlights the importance of gum disease prevention and treatment as part of overall health maintenance.

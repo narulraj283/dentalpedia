@@ -4,20 +4,14 @@ slug: surgical-tooth-extraction-when-and-why-its-necessary
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Understanding complex extractions and when oral surgery is required.
-reviewer_name: Dr. David Garazi, DDS
-reviewer_credentials: Oral and Maxillofacial Surgery
-reviewer_practice: Garazi Periodontics & Dental Implants
-reviewer_location: Garazi Periodontics & Dental Implants
-reviewer_url: https://www.garazidmd.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Oral and Maxillofacial Surgery
+subcategory: Surgical Overview
+subcategory_slug: overview-surgery
+sources:
+  - title: Cleveland Clinic - Oral Health
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 While many teeth can be extracted simply by your general dentist, some extractions require oral surgery due to complexity. Surgical extraction differs from routine extraction—it often involves creating an access flap, removing bone, and sometimes sectioning the tooth into smaller pieces. Understanding when surgery is necessary helps you prepare appropriately.

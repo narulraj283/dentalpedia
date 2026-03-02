@@ -4,20 +4,14 @@ slug: lichen-planus-autoimmune-oral-condition
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Recognizing autoimmune oral disease and management options.
-reviewer_name: Dr. Greg Pitts, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Greg G Pitts DDS
-reviewer_location: Greg G Pitts DDS
-reviewer_url: https://www.gregpittsdds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Cleveland Clinic - Lichen Planus
-    url: https://my.clevelandclinic.org/health/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: General Dentistry
+subcategory: Conditions Overview
+subcategory_slug: overview-conditions
+sources:
+  - title: Cleveland Clinic - Lichen Planus
+  - url: https://my.clevelandclinic.org/health/
 ---
 
 ## Understanding Lichen Planus Pathophysiology

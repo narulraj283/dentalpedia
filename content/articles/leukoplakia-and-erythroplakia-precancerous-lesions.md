@@ -4,20 +4,14 @@ slug: leukoplakia-and-erythroplakia-precancerous-lesions
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Understanding concerning oral changes and importance of screening.
-reviewer_name: Dr. Mike Milligan, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Eastland Dental Center
-reviewer_location: Eastland Dental Center
-reviewer_url: https://www.eastlanddental.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Cancer Society - Oral Cancer
-    url: https://www.cancer.org/
-  - title: NIH - Oral Precancerous Lesions
-    url: https://www.cancer.gov/
 date: 2026-03-01
 read_time: 9 min
+reviewer_specialty: General Dentistry
+subcategory: Oral Lesions & Disorders
+subcategory_slug: oral-lesions
+sources:
+  - title: NIH - Oral Precancerous Lesions
+  - url: https://www.cancer.gov/
 ---
 
 ## Understanding Precancerous Oral Lesions

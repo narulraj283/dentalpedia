@@ -4,20 +4,14 @@ slug: sjögrens-syndrome-autoimmune-dry-mouth-disease
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Managing this condition affecting saliva production.
-reviewer_name: Dr. Khalid Sajjad, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Earl E. Gaball DDS
-reviewer_location: Earl E. Gaball DDS
-reviewer_url: https://www.drgaball.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Sjögren's Syndrome Foundation
-    url: https://www.sjogrens.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: General Dentistry
+subcategory: Decay, Cavities & Caries
+subcategory_slug: decay-cavity
+sources:
+  - title: National Institute of Dental and Craniofacial Research
+  - url: https://www.nidcr.nih.gov/
 ---
 
 ## Understanding Sjögren's Syndrome

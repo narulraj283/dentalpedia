@@ -4,20 +4,14 @@ slug: implant-supported-dentures-a-hybrid-solution
 category: Prosthodontics
 category_slug: prosthodontics
 excerpt: How dental implants can provide stability for removable dentures.
-reviewer_name: Dr. Richard Weimar, DDS
-reviewer_credentials: Prosthodontics
-reviewer_practice: Weimar Family & Implant Dentistry
-reviewer_location: Weimar Family & Implant Dentistry
-reviewer_url: https://www.weimardds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: Academy of Prosthodontics
-    url: https://www.prosthodontics.org/
 date: 2026-03-01
 read_time: 3 min
+reviewer_specialty: Prosthodontics
+subcategory: Prosthodontic Overview
+subcategory_slug: overview-prostho
+sources:
+  - title: Academy of Prosthodontics
+  - url: https://www.prosthodontics.org/
 ---
 
 ## What Are Implant-Supported Dentures?

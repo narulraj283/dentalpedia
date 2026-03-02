@@ -4,20 +4,14 @@ slug: layering-technique-in-cosmetic-bonding-natural-shading
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Advanced composite stratification for realism.
-reviewer_name: Msmiline Cosmetic Dentistry
-reviewer_credentials: General Dentistry
-reviewer_practice: Msmiline Cosmetic Dentistry
-reviewer_location: Msmiline Cosmetic Dentistry
-reviewer_url: https://www.msmiline.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: National Institute of Dental and Craniofacial Research
-    url: https://www.nidcr.nih.gov/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-02
 read_time: 5 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Cosmetic Overview
+subcategory_slug: overview-cosmetic
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 Advanced composite stratification for realism.
 

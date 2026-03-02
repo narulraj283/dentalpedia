@@ -4,20 +4,14 @@ slug: traditional-metal-braces-process-and-care
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Complete guide to metal braces, including placement, maintenance, and what to expect.
-reviewer_name: Dr. Danielle Hoina, DDS
-reviewer_credentials: Orthodontics
-reviewer_practice: AMP Orthodontics & Kids Dental
-reviewer_location: AMP Orthodontics & Kids Dental
-reviewer_url: https://www.ampsmiles.com
-sources:
-  - title: American Association of Orthodontists
-    url: https://www.aaoinfo.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/health/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 10 min
+reviewer_specialty: Orthodontics
+subcategory: Orthodontic Overview
+subcategory_slug: overview-ortho
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Traditional metal braces remain the most effective and versatile orthodontic treatment option. Despite newer alternatives, millions of people choose metal braces annually because they're proven, reliable, and capable of correcting even the most complex tooth alignment problems. Understanding what to expect before, during, and after your braces journey helps you prepare for successful treatment.

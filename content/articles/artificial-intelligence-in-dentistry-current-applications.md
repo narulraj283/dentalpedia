@@ -4,20 +4,14 @@ slug: artificial-intelligence-in-dentistry-current-applications
 category: Dental Technology
 category_slug: dental-technology
 excerpt: How AI assists in diagnosis and treatment planning.
-reviewer_name: Dr. Trish Barsanti, DDS
-reviewer_credentials: General Dentistry
-reviewer_practice: Barsanti Dental Group
-reviewer_location: Barsanti Dental Group
-reviewer_url: https://www.barsantidds.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Journal of Dental Research
-    url: https://journals.sagepub.com/home/jdr
-  - title: AI in Dentistry Research
-    url: https://www.ai-dentistry-journal.com/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: General Dentistry
+subcategory: Imaging & Diagnostic Technology
+subcategory_slug: imaging-diagnostics
+sources:
+  - title: AI in Dentistry Research
+  - url: https://www.ai-dentistry-journal.com/
 ---
 
 ## Understanding AI in Dentistry

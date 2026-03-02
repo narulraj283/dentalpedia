@@ -4,20 +4,14 @@ slug: dental-veneers-vs-bonding-which-is-right-for-you
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 excerpt: Explore the differences between veneers and bonding for transforming your smile.
-reviewer_name: Dr. Don Cook, DDS
-reviewer_credentials: Cosmetic Dentistry
-reviewer_practice: Northwest Dental Center
-reviewer_location: Northwest Dental Center
-reviewer_url: https://www.nwdentalcenter.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: Cleveland Clinic - Oral Health
-    url: https://my.clevelandclinic.org/
-  - title: Mayo Clinic
-    url: https://www.mayoclinic.org/
 date: 2026-03-01
 read_time: 5 min
+reviewer_specialty: Cosmetic Dentistry
+subcategory: Veneers & Laminates
+subcategory_slug: veneers
+sources:
+  - title: Mayo Clinic
+  - url: https://www.mayoclinic.org/
 ---
 
 ## Understanding Dental Bonding

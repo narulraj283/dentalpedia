@@ -4,20 +4,14 @@ slug: first-dental-visit-preparing-your-child
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: How to prepare your child for their first dental appointment and what to expect.
-reviewer_name: Dr. Mircea Mitu, DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: Family Dental Center of Manteca
-reviewer_location: Family Dental Center of Manteca
-reviewer_url: https://www.familydentalcenterofmanteca.com
-sources:
-  - title: American Dental Association
-    url: https://www.ada.org/
-  - title: American Academy of Pediatric Dentistry
-    url: https://www.aapd.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 6 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Your child's first dental visit is an important milestone. It's an opportunity to establish a foundation for lifelong dental health and help your child feel comfortable with dental care. Proper preparation helps ease anxiety and sets a positive tone for future dental experiences.

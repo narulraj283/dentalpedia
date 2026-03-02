@@ -4,20 +4,14 @@ slug: dental-anxiety-in-children-coping-strategies
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 excerpt: Techniques to reduce dental fear and create positive experiences for kids.
-reviewer_name: Dr. Mark Martindale, DDS
-reviewer_credentials: Pediatric Dentistry
-reviewer_practice: Martindale Family Dentistry
-reviewer_location: Martindale Family Dentistry
-reviewer_url: https://www.martindalefamilydentistry.com
-sources:
-  - title: American Academy of Pediatric Dentistry
-    url: https://www.aapd.org/
-  - title: American Psychological Association
-    url: https://www.apa.org/
-  - title: MouthHealthy.org
-    url: https://www.mouthhealthy.org/
 date: 2026-03-01
 read_time: 7 min
+reviewer_specialty: Pediatric Dentistry
+subcategory: Pediatric Overview
+subcategory_slug: overview-peds
+sources:
+  - title: MouthHealthy.org
+  - url: https://www.mouthhealthy.org/
 ---
 
 Dental anxiety in children is a common but often manageable concern that can prevent them from receiving necessary dental care. Understanding the roots of dental fear and implementing evidence-based coping strategies helps children develop positive attitudes toward dental health that can last throughout their lives.
