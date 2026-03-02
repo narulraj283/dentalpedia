@@ -237,9 +237,9 @@ def generate_article_page(metadata, body):
     canonical_url = f"{DOMAIN}/article/{slug}/"
 
     # Breadcrumb
-    breadcrumb = f'<div class="article-breadcrumb"><a href="/">Home</a> / <a href="/categories/{category_slug}/">{category}</a>'
+    breadcrumb = f'<div class="article-breadcrumb"><a href="/">Home</a> / <a href="/category/{category_slug}.html">{category}</a>'
     if subcategory and subcategory_slug:
-        breadcrumb += f' / <a href="/subcategory/{category_slug}/{subcategory_slug}/">{subcategory}</a>'
+        breadcrumb += f' / <a href="/subcategory/{category_slug}/{subcategory_slug}.html">{subcategory}</a>'
     breadcrumb += f' / {title}</div>'
 
     # EEAT card (anonymized)
@@ -358,7 +358,7 @@ def get_navbar_html(current_page="home"):
             </a>
             <ul class="navbar-nav">
                 <li><a href="/">Home</a></li>
-                <li><a href="/categories/">Categories</a></li>
+                <li><a href="/categories.html">Categories</a></li>
                 <li><a href="/guides.html">Guides</a></li>
                 <li><a href="/editorial-standards.html">Editorial Standards</a></li>
             </ul>
@@ -529,7 +529,7 @@ def process_article(md_file):
                     <div class="article-meta">
                         <span>📅 {date}</span>
                         <span>⏱️ {read_time}</span>
-                        <span>📚 <a href="/categories/{category_slug}/">{html_mod.escape(category)}</a></span>
+                        <span>📚 <a href="/category/{category_slug}.html">{html_mod.escape(category)}</a></span>
                     </div>
                 </header>
 
@@ -604,7 +604,7 @@ def generate_category_pages():
         categories_html = '<div class="categories-grid">'
         for subcat_slug, subcat_info in cat_subcategories.items():
             categories_html += f'''
-            <a href="/subcategory/{category_slug}/{subcat_slug}/" class="category-card">
+            <a href="/subcategory/{category_slug}/{subcat_slug}.html" class="category-card">
                 <div class="category-icon">📂</div>
                 <div class="category-name">{html_mod.escape(subcat_info['name'])}</div>
                 <div class="category-count">{subcat_info['count']} articles</div>
@@ -671,7 +671,7 @@ def generate_subcategory_pages():
             articles_html = '<div class="articles-grid">'
             for article in page_articles:
                 articles_html += f'''
-                <a href="/article/{article.get('slug')}/" class="article-card">
+                <a href="/article/{article.get('slug')}.html" class="article-card">
                     <div class="card-category">{html_mod.escape(category_name)}</div>
                     <div class="card-title">{html_mod.escape(article.get('title', ''))}</div>
                     <div class="card-excerpt">{html_mod.escape(article.get('excerpt', ''))}</div>
@@ -683,14 +683,14 @@ def generate_subcategory_pages():
             pagination_html = '<div style="text-align: center; margin-top: 2rem;">'
             if page_num > 1:
                 if page_num == 2:
-                    pagination_html += f'<a href="/subcategory/{category_slug}/{subcategory_slug}/">← Previous</a>'
+                    pagination_html += f'<a href="/subcategory/{category_slug}/{subcategory_slug}.html">← Previous</a>'
                 else:
-                    pagination_html += f'<a href="/subcategory/{category_slug}/{subcategory_slug}/page-{page_num-1}.html">← Previous</a>'
+                    pagination_html += f'<a href="/subcategory/{category_slug}/{subcategory_slug}-page-{page_num-1}.html">← Previous</a>'
 
             pagination_html += f' <span style="margin: 0 1rem;">Page {page_num} of {total_pages}</span>'
 
             if page_num < total_pages:
-                pagination_html += f'<a href="/subcategory/{category_slug}/{subcategory_slug}/page-{page_num+1}.html">Next →</a>'
+                pagination_html += f'<a href="/subcategory/{category_slug}/{subcategory_slug}-page-{page_num+1}.html">Next →</a>'
 
             pagination_html += '</div>'
 
@@ -708,7 +708,7 @@ def generate_subcategory_pages():
             content = f'''
             <div class="article-breadcrumb">
                 <a href="/">Home</a> /
-                <a href="/categories/{category_slug}/">{html_mod.escape(category_name)}</a> /
+                <a href="/category/{category_slug}.html">{html_mod.escape(category_name)}</a> /
                 {html_mod.escape(subcategory_name)}
             </div>
 
@@ -1284,7 +1284,7 @@ def generate_homepage():
     articles_html = '<div class="articles-grid">'
     for article in latest_articles:
         articles_html += f'''
-        <a href="/article/{article.get('slug')}/" class="article-card">
+        <a href="/article/{article.get('slug')}.html" class="article-card">
             <div class="card-category">{html_mod.escape(article.get('category', ''))}</div>
             <div class="card-title">{html_mod.escape(article.get('title', ''))}</div>
             <div class="card-excerpt">{html_mod.escape(article.get('excerpt', ''))}</div>
@@ -1298,7 +1298,7 @@ def generate_homepage():
         cat_name = articles[0].get('category', cat_slug) if articles else cat_slug
         subcat_count = sum(1 for sa in articles_by_subcategory.values() if sa and sa[0].get('category_slug') == cat_slug)
         categories_html += f'''
-        <a href="/categories/{cat_slug}/" class="category-card">
+        <a href="/category/{cat_slug}.html" class="category-card">
             <div class="category-icon">📚</div>
             <div class="category-name">{html_mod.escape(cat_name)}</div>
             <div class="category-count">{len(articles)} articles • {subcat_count} subcategories</div>
