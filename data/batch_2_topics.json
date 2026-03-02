@@ -1,0 +1,2222 @@
+[
+  {
+    "title": "Screw vs Cement Implant Crowns",
+    "slug": "screw-vs-cement-implant-crowns",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Two methods of securing crown to implant.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Implant Cost and Insurance",
+    "slug": "implant-cost-and-insurance",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Pricing and coverage for implants.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Complete Denture Design: Retention and Stability",
+    "slug": "complete-denture-design-retention-and-stability",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Creating full mouth dentures.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Denture Fit and Pressure: Optimal Contact Points",
+    "slug": "denture-fit-and-pressure-optimal-contact-points",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Proper denture support and comfort.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Denture Relining: Adding Material as Jaw Shrinks",
+    "slug": "denture-relining-adding-material-as-jaw-shrinks",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Adjusting dentures for bone loss.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Immediate Denture: Teeth Same Day as Extraction",
+    "slug": "immediate-denture-teeth-same-day-as-extraction",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Temporary denture after tooth loss.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Partial Denture Design: Clasps and Rests",
+    "slug": "partial-denture-design-clasps-and-rests",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Removable bridge-like prosthetic.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Flexible Denture: Modern Nylon Prosthetic",
+    "slug": "flexible-denture-modern-nylon-prosthetic",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Flexible material denture alternative.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Denture Eating Adaptation: Chewing Training",
+    "slug": "denture-eating-adaptation-chewing-training",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Learning to eat with dentures.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Denture Speech: Articulation Changes",
+    "slug": "denture-speech-articulation-changes",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Speech adjustment with new dentures.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Denture Esthetics: Tooth and Gum Appearance",
+    "slug": "denture-esthetics-tooth-and-gum-appearance",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Creating natural-looking replacement teeth.",
+    "mapped_services": [
+      "prosthodontics",
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Maxillary Denture: Upper Denture Retention",
+    "slug": "maxillary-denture-upper-denture-retention",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Creating secure upper dentures.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Sudden Tooth Pain: Diagnosis and Emergency Relief",
+    "slug": "sudden-tooth-pain-diagnosis-and-emergency-relief",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Acute toothache evaluation.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Broken Tooth Emergency: Temporary Care",
+    "slug": "broken-tooth-emergency-temporary-care",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Managing fractured tooth.",
+    "mapped_services": [
+      "emergency",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Avulsed Tooth: Saving Knocked Out Teeth",
+    "slug": "avulsed-tooth-saving-knocked-out-teeth",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Reimplanting whole tooth.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Extruded Tooth: Partially Pushed Out",
+    "slug": "extruded-tooth-partially-pushed-out",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Tooth displaced from socket.",
+    "mapped_services": [
+      "emergency",
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Perforated Pulp Chamber: Root Canal Emergency",
+    "slug": "perforated-pulp-chamber-root-canal-emergency",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Hole into pulp from trauma.",
+    "mapped_services": [
+      "emergency",
+      "endodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Severe Gum Bleeding: When to Seek Help",
+    "slug": "severe-gum-bleeding-when-to-seek-help",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Uncontrolled oral bleeding.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Jaw Fracture: Trauma and Stabilization",
+    "slug": "jaw-fracture-trauma-and-stabilization",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Broken jawbone emergency.",
+    "mapped_services": [
+      "emergency",
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Oral Soft Tissue Wounds: Laceration Care",
+    "slug": "oral-soft-tissue-wounds-laceration-care",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Mouth and lip cuts needing repair.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Post-Extraction Dry Socket Emergency",
+    "slug": "post-extraction-dry-socket-emergency",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Acute alveolar osteitis treatment.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Tetanus Risk: Puncture Wound Prophylaxis",
+    "slug": "tetanus-risk-puncture-wound-prophylaxis",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Preventing tetanus after injury.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Root Canal Therapy: Complete Pulp Removal",
+    "slug": "root-canal-therapy-complete-pulp-removal",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Treating infected tooth nerve.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Pulp Vitality Testing: Assessing Nerve Health",
+    "slug": "pulp-vitality-testing-assessing-nerve-health",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Determining if tooth is alive.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Radiographic Interpretation: Endodontic Pathology",
+    "slug": "radiographic-interpretation-endodontic-pathology",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "X-ray signs of pulp disease.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Gutta-Percha: Root Canal Filling Material",
+    "slug": "gutta-percha-root-canal-filling-material",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Standard obturation polymer.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Sealer: Cementing Root Canal System",
+    "slug": "sealer-cementing-root-canal-system",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Adhesive for complete seal.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Lateral Condensation: Packing Root Canal",
+    "slug": "lateral-condensation-packing-root-canal",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Pressurizing filling material.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Single Cone Obturation: Simplified Technique",
+    "slug": "single-cone-obturation-simplified-technique",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Modern root canal filling approach.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Warm Gutta-Percha: Softened Filling Method",
+    "slug": "warm-gutta-percha-softened-filling-method",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Heated obturation technique.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Root Resorption: Dissolving Root Structures",
+    "slug": "root-resorption-dissolving-root-structures",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Physiologic and pathologic resorption.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Apical Periodontitis: Bone Loss Around Root Tip",
+    "slug": "apical-periodontitis-bone-loss-around-root-tip",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Infection at tooth apex.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "CAD/CAM Milling: Computer-Designed Crowns",
+    "slug": "cadcam-milling-computer-designed-crowns",
+    "category": "Dental Technology",
+    "category_slug": "dental-technology",
+    "excerpt": "Same-day milled restorations.",
+    "mapped_services": [
+      "technology"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Digital Impression: Intraoral Scanning",
+    "slug": "digital-impression-intraoral-scanning",
+    "category": "Dental Technology",
+    "category_slug": "dental-technology",
+    "excerpt": "3D optical tooth scanning.",
+    "mapped_services": [
+      "technology"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "CBCT Imaging: Cone Beam CT Scan",
+    "slug": "cbct-imaging-cone-beam-ct-scan",
+    "category": "Dental Technology",
+    "category_slug": "dental-technology",
+    "excerpt": "3D radiographic imaging technology.",
+    "mapped_services": [
+      "technology"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Intraoral Camera: High-Resolution Imaging",
+    "slug": "intraoral-camera-high-resolution-imaging",
+    "category": "Dental Technology",
+    "category_slug": "dental-technology",
+    "excerpt": "Digital photography of teeth.",
+    "mapped_services": [
+      "technology"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Laser Therapy: Therapeutic Applications",
+    "slug": "laser-therapy-therapeutic-applications",
+    "category": "Dental Technology",
+    "category_slug": "dental-technology",
+    "excerpt": "Laser technology in treatment.",
+    "mapped_services": [
+      "technology"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Ultrasonic Scaler: Vibration Cleaning",
+    "slug": "ultrasonic-scaler-vibration-cleaning",
+    "category": "Dental Technology",
+    "category_slug": "dental-technology",
+    "excerpt": "High-frequency instrument technology.",
+    "mapped_services": [
+      "technology"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "TMJ Anatomy: Joint Structure and Function",
+    "slug": "tmj-anatomy-joint-structure-and-function",
+    "category": "TMJ & Sleep Dentistry",
+    "category_slug": "tmj-sleep-dentistry",
+    "excerpt": "Temporomandibular joint mechanics.",
+    "mapped_services": [
+      "tmj",
+      "sleep-dentistry"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "TMD: Temporomandibular Disorder Overview",
+    "slug": "tmd-temporomandibular-disorder-overview",
+    "category": "TMJ & Sleep Dentistry",
+    "category_slug": "tmj-sleep-dentistry",
+    "excerpt": "Jaw joint dysfunction conditions.",
+    "mapped_services": [
+      "tmj",
+      "sleep-dentistry"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Muscle Tension: Myofascial Pain Pattern",
+    "slug": "muscle-tension-myofascial-pain-pattern",
+    "category": "TMJ & Sleep Dentistry",
+    "category_slug": "tmj-sleep-dentistry",
+    "excerpt": "Muscle-related jaw pain.",
+    "mapped_services": [
+      "tmj",
+      "sleep-dentistry"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Sleep Apnea: Breathing Pause During Sleep",
+    "slug": "sleep-apnea-breathing-pause-during-sleep",
+    "category": "TMJ & Sleep Dentistry",
+    "category_slug": "tmj-sleep-dentistry",
+    "excerpt": "Obstructive sleep apnea condition.",
+    "mapped_services": [
+      "sleep-dentistry"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Oral Appliance for Sleep Apnea: MAD Therapy",
+    "slug": "oral-appliance-for-sleep-apnea-mad-therapy",
+    "category": "TMJ & Sleep Dentistry",
+    "category_slug": "tmj-sleep-dentistry",
+    "excerpt": "Mandibular advancement device.",
+    "mapped_services": [
+      "sleep-dentistry"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Senior Dental Health: Age-Related Changes",
+    "slug": "senior-dental-health-age-related-changes",
+    "category": "Geriatric Dentistry",
+    "category_slug": "geriatric-dentistry",
+    "excerpt": "Oral changes in aging population.",
+    "mapped_services": [
+      "geriatric"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Worn Teeth in Seniors: Lifelong Wear Patterns",
+    "slug": "worn-teeth-in-seniors-lifelong-wear-patterns",
+    "category": "Geriatric Dentistry",
+    "category_slug": "geriatric-dentistry",
+    "excerpt": "Age-related tooth structure loss.",
+    "mapped_services": [
+      "geriatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Root Caries: Decay on Exposed Roots",
+    "slug": "root-caries-decay-on-exposed-roots",
+    "category": "Geriatric Dentistry",
+    "category_slug": "geriatric-dentistry",
+    "excerpt": "Cavity risk in seniors with recession.",
+    "mapped_services": [
+      "geriatric",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Xerostomia in Elderly: Medication-Induced Dry Mouth",
+    "slug": "xerostomia-in-elderly-medication-induced-dry-mouth",
+    "category": "Geriatric Dentistry",
+    "category_slug": "geriatric-dentistry",
+    "excerpt": "Saliva reduction from medications.",
+    "mapped_services": [
+      "geriatric",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Multiple Medications and Oral Health",
+    "slug": "multiple-medications-and-oral-health",
+    "category": "Geriatric Dentistry",
+    "category_slug": "geriatric-dentistry",
+    "excerpt": "Drug interactions affecting mouth.",
+    "mapped_services": [
+      "geriatric"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Denture Adjustment in Aging: Fit Changes",
+    "slug": "denture-adjustment-in-aging-fit-changes",
+    "category": "Geriatric Dentistry",
+    "category_slug": "geriatric-dentistry",
+    "excerpt": "Changing bone shape requiring adjustments.",
+    "mapped_services": [
+      "geriatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Implant Success in Seniors: Age Consideration",
+    "slug": "implant-success-in-seniors-age-consideration",
+    "category": "Geriatric Dentistry",
+    "category_slug": "geriatric-dentistry",
+    "excerpt": "Can older adults get implants?",
+    "mapped_services": [
+      "geriatric",
+      "implants"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Cognitive Decline: Oral Care Challenges",
+    "slug": "cognitive-decline-oral-care-challenges",
+    "category": "Geriatric Dentistry",
+    "category_slug": "geriatric-dentistry",
+    "excerpt": "Dementia effects on mouth hygiene.",
+    "mapped_services": [
+      "geriatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Arthritis and Toothbrush Grip: Adaptive Tools",
+    "slug": "arthritis-and-toothbrush-grip-adaptive-tools",
+    "category": "Geriatric Dentistry",
+    "category_slug": "geriatric-dentistry",
+    "excerpt": "Dexterity challenges in seniors.",
+    "mapped_services": [
+      "geriatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Swallowing Difficulty: Dysphagia Management",
+    "slug": "swallowing-difficulty-dysphagia-management",
+    "category": "Geriatric Dentistry",
+    "category_slug": "geriatric-dentistry",
+    "excerpt": "Difficulty swallowing affecting eating.",
+    "mapped_services": [
+      "geriatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Dental Phobia: Severe Anxiety Disorder",
+    "slug": "dental-phobia-severe-anxiety-disorder",
+    "category": "Dental Anxiety & Sedation",
+    "category_slug": "dental-anxiety-sedation",
+    "excerpt": "Extreme fear of dental treatment.",
+    "mapped_services": [
+      "anxiety"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Dental Anxiety Origins: Childhood Trauma",
+    "slug": "dental-anxiety-origins-childhood-trauma",
+    "category": "Dental Anxiety & Sedation",
+    "category_slug": "dental-anxiety-sedation",
+    "excerpt": "Fear rooted in past experiences.",
+    "mapped_services": [
+      "anxiety"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Physiologic Anxiety Response: Fight or Flight",
+    "slug": "physiologic-anxiety-response-fight-or-flight",
+    "category": "Dental Anxiety & Sedation",
+    "category_slug": "dental-anxiety-sedation",
+    "excerpt": "Body's stress response in dental setting.",
+    "mapped_services": [
+      "anxiety"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cognitive Behavioral Therapy for Dental Fear",
+    "slug": "cognitive-behavioral-therapy-for-dental-fear",
+    "category": "Dental Anxiety & Sedation",
+    "category_slug": "dental-anxiety-sedation",
+    "excerpt": "Retraining thought patterns.",
+    "mapped_services": [
+      "anxiety"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Relaxation Techniques: Breathing and Meditation",
+    "slug": "relaxation-techniques-breathing-and-meditation",
+    "category": "Dental Anxiety & Sedation",
+    "category_slug": "dental-anxiety-sedation",
+    "excerpt": "Stress reduction before dental visits.",
+    "mapped_services": [
+      "anxiety"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Guided Imagery: Mental Escape Technique",
+    "slug": "guided-imagery-mental-escape-technique",
+    "category": "Dental Anxiety & Sedation",
+    "category_slug": "dental-anxiety-sedation",
+    "excerpt": "Visualization reducing anxiety.",
+    "mapped_services": [
+      "anxiety"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Nitrous Oxide Sedation for Anxious Patients",
+    "slug": "nitrous-oxide-sedation-for-anxious-patients",
+    "category": "Dental Anxiety & Sedation",
+    "category_slug": "dental-anxiety-sedation",
+    "excerpt": "Laughing gas anxiety relief.",
+    "mapped_services": [
+      "anxiety"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Conscious Sedation: Twilight Sleep Benefits",
+    "slug": "conscious-sedation-twilight-sleep-benefits",
+    "category": "Dental Anxiety & Sedation",
+    "category_slug": "dental-anxiety-sedation",
+    "excerpt": "Light sedation for anxiety.",
+    "mapped_services": [
+      "anxiety"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Pre-Medication: Anti-Anxiety Pills",
+    "slug": "pre-medication-anti-anxiety-pills",
+    "category": "Dental Anxiety & Sedation",
+    "category_slug": "dental-anxiety-sedation",
+    "excerpt": "Medication taken before appointment.",
+    "mapped_services": [
+      "anxiety"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Sedation Safety: Monitoring During Procedure",
+    "slug": "sedation-safety-monitoring-during-procedure",
+    "category": "Dental Anxiety & Sedation",
+    "category_slug": "dental-anxiety-sedation",
+    "excerpt": "Vital sign monitoring during sedation.",
+    "mapped_services": [
+      "anxiety"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Calcium for Teeth: Mineral Importance",
+    "slug": "calcium-for-teeth-mineral-importance",
+    "category": "Dental Nutrition",
+    "category_slug": "dental-nutrition",
+    "excerpt": "Calcium building strong teeth.",
+    "mapped_services": [
+      "nutrition"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Protein and Gum Health: Amino Acids",
+    "slug": "protein-and-gum-health-amino-acids",
+    "category": "Dental Nutrition",
+    "category_slug": "dental-nutrition",
+    "excerpt": "Protein supporting tissue structure.",
+    "mapped_services": [
+      "nutrition"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Sugar Impact on Teeth: Cavity Formation",
+    "slug": "sugar-impact-on-teeth-cavity-formation",
+    "category": "Dental Nutrition",
+    "category_slug": "dental-nutrition",
+    "excerpt": "How sugar feeds cavity bacteria.",
+    "mapped_services": [
+      "nutrition"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Refined Carbs vs Complex Carbs: Decay Risk",
+    "slug": "refined-carbs-vs-complex-carbs-decay-risk",
+    "category": "Dental Nutrition",
+    "category_slug": "dental-nutrition",
+    "excerpt": "Carbohydrate type affecting caries.",
+    "mapped_services": [
+      "nutrition"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Acidic Foods: Erosion from Citrus and Soda",
+    "slug": "acidic-foods-erosion-from-citrus-and-soda",
+    "category": "Dental Nutrition",
+    "category_slug": "dental-nutrition",
+    "excerpt": "Acid damage to enamel.",
+    "mapped_services": [
+      "nutrition"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Sticky Foods: Retention and Decay",
+    "slug": "sticky-foods-retention-and-decay",
+    "category": "Dental Nutrition",
+    "category_slug": "dental-nutrition",
+    "excerpt": "Foods clinging to teeth.",
+    "mapped_services": [
+      "nutrition"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Fiber: Natural Teeth Cleaning Food",
+    "slug": "fiber-natural-teeth-cleaning-food",
+    "category": "Dental Nutrition",
+    "category_slug": "dental-nutrition",
+    "excerpt": "Fibrous foods stimulating saliva.",
+    "mapped_services": [
+      "nutrition"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Antioxidants: Fighting Oral Inflammation",
+    "slug": "antioxidants-fighting-oral-inflammation",
+    "category": "Dental Nutrition",
+    "category_slug": "dental-nutrition",
+    "excerpt": "Protective compounds in foods.",
+    "mapped_services": [
+      "nutrition"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Water: Best Beverage for Teeth",
+    "slug": "water-best-beverage-for-teeth",
+    "category": "Dental Nutrition",
+    "category_slug": "dental-nutrition",
+    "excerpt": "Hydration and oral health.",
+    "mapped_services": [
+      "nutrition"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Supplements: Vitamin D and Bone Health",
+    "slug": "supplements-vitamin-d-and-bone-health",
+    "category": "Dental Nutrition",
+    "category_slug": "dental-nutrition",
+    "excerpt": "Nutrient supplementation for teeth.",
+    "mapped_services": [
+      "nutrition"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Athletic Mouthguard: Custom vs Stock",
+    "slug": "athletic-mouthguard-custom-vs-stock",
+    "category": "Sports Dentistry",
+    "category_slug": "sports-dentistry",
+    "excerpt": "Protecting teeth during sports.",
+    "mapped_services": [
+      "sports"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Mouthguard Fit: Protection Effectiveness",
+    "slug": "mouthguard-fit-protection-effectiveness",
+    "category": "Sports Dentistry",
+    "category_slug": "sports-dentistry",
+    "excerpt": "Proper fit for maximum protection.",
+    "mapped_services": [
+      "sports"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Traumatic Injuries in Sports: Prevention",
+    "slug": "traumatic-injuries-in-sports-prevention",
+    "category": "Sports Dentistry",
+    "category_slug": "sports-dentistry",
+    "excerpt": "Reducing dental trauma in athletes.",
+    "mapped_services": [
+      "sports"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Post-Sport Hydration: Dry Mouth Risk",
+    "slug": "post-sport-hydration-dry-mouth-risk",
+    "category": "Sports Dentistry",
+    "category_slug": "sports-dentistry",
+    "excerpt": "Dehydration from intense exercise.",
+    "mapped_services": [
+      "sports"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Energy Drinks: Athlete Consumption Risks",
+    "slug": "energy-drinks-athlete-consumption-risks",
+    "category": "Sports Dentistry",
+    "category_slug": "sports-dentistry",
+    "excerpt": "Cavity and erosion in sports.",
+    "mapped_services": [
+      "sports",
+      "nutrition"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Teeth Grinding in Athletes: Stress Factor",
+    "slug": "teeth-grinding-in-athletes-stress-factor",
+    "category": "Sports Dentistry",
+    "category_slug": "sports-dentistry",
+    "excerpt": "Bruxism during competition stress.",
+    "mapped_services": [
+      "sports"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Dental Care Schedule Around Competition",
+    "slug": "dental-care-schedule-around-competition",
+    "category": "Sports Dentistry",
+    "category_slug": "sports-dentistry",
+    "excerpt": "Timing dental work for athletes.",
+    "mapped_services": [
+      "sports"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Teeth Whitening for Athletes: Cosmetic",
+    "slug": "teeth-whitening-for-athletes-cosmetic",
+    "category": "Sports Dentistry",
+    "category_slug": "sports-dentistry",
+    "excerpt": "Smile aesthetics for competitors.",
+    "mapped_services": [
+      "sports",
+      "cosmetic"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Natural Oral Care Products: Plant-Based",
+    "slug": "natural-oral-care-products-plant-based",
+    "category": "Holistic/Alternative Dentistry",
+    "category_slug": "holistic-alternative-dentistry",
+    "excerpt": "Herbal toothpaste and rinses.",
+    "mapped_services": [
+      "holistic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Holistic Dentistry Philosophy: Systemic Health",
+    "slug": "holistic-dentistry-philosophy-systemic-health",
+    "category": "Holistic/Alternative Dentistry",
+    "category_slug": "holistic-alternative-dentistry",
+    "excerpt": "Whole-body oral health connection.",
+    "mapped_services": [
+      "holistic"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Mercury Concerns: Amalgam Removal Debate",
+    "slug": "mercury-concerns-amalgam-removal-debate",
+    "category": "Holistic/Alternative Dentistry",
+    "category_slug": "holistic-alternative-dentistry",
+    "excerpt": "Safety of silver fillings.",
+    "mapped_services": [
+      "holistic"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Biological Dentistry: Biocompatible Materials",
+    "slug": "biological-dentistry-biocompatible-materials",
+    "category": "Holistic/Alternative Dentistry",
+    "category_slug": "holistic-alternative-dentistry",
+    "excerpt": "Minimally toxic materials selection.",
+    "mapped_services": [
+      "holistic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Root Canal Alternatives: Holistic Perspective",
+    "slug": "root-canal-alternatives-holistic-perspective",
+    "category": "Holistic/Alternative Dentistry",
+    "category_slug": "holistic-alternative-dentistry",
+    "excerpt": "Natural approaches to tooth preservation.",
+    "mapped_services": [
+      "holistic",
+      "endodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Energetic Tooth Connection: Meridian Theory",
+    "slug": "energetic-tooth-connection-meridian-theory",
+    "category": "Holistic/Alternative Dentistry",
+    "category_slug": "holistic-alternative-dentistry",
+    "excerpt": "Traditional medicine tooth relationships.",
+    "mapped_services": [
+      "holistic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Detoxification and Oral Health",
+    "slug": "detoxification-and-oral-health",
+    "category": "Holistic/Alternative Dentistry",
+    "category_slug": "holistic-alternative-dentistry",
+    "excerpt": "Detox effects on mouth.",
+    "mapped_services": [
+      "holistic"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Acupuncture for Dental Pain: Traditional Medicine",
+    "slug": "acupuncture-for-dental-pain-traditional-medicine",
+    "category": "Holistic/Alternative Dentistry",
+    "category_slug": "holistic-alternative-dentistry",
+    "excerpt": "Needle therapy for tooth pain.",
+    "mapped_services": [
+      "holistic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Dental Insurance Plans: HMO vs PPO",
+    "slug": "dental-insurance-plans-hmo-vs-ppo",
+    "category": "Dental Practice & Insurance",
+    "category_slug": "dental-practice-insurance",
+    "excerpt": "Comparing insurance options.",
+    "mapped_services": [
+      "insurance"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Deductibles and Copays: Understanding Costs",
+    "slug": "deductibles-and-copays-understanding-costs",
+    "category": "Dental Practice & Insurance",
+    "category_slug": "dental-practice-insurance",
+    "excerpt": "Insurance terminology explained.",
+    "mapped_services": [
+      "insurance"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Insurance Coverage Limitations: What's Excluded",
+    "slug": "insurance-coverage-limitations-whats-excluded",
+    "category": "Dental Practice & Insurance",
+    "category_slug": "dental-practice-insurance",
+    "excerpt": "Common non-covered procedures.",
+    "mapped_services": [
+      "insurance"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Submitting Insurance Claims: Process Overview",
+    "slug": "submitting-insurance-claims-process-overview",
+    "category": "Dental Practice & Insurance",
+    "category_slug": "dental-practice-insurance",
+    "excerpt": "Getting reimbursement for treatment.",
+    "mapped_services": [
+      "insurance"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Pre-Authorization: Getting Insurance Approval",
+    "slug": "pre-authorization-getting-insurance-approval",
+    "category": "Dental Practice & Insurance",
+    "category_slug": "dental-practice-insurance",
+    "excerpt": "Prior approval for expensive treatment.",
+    "mapped_services": [
+      "insurance"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Discount Dental Plans: Membership Benefits",
+    "slug": "discount-dental-plans-membership-benefits",
+    "category": "Dental Practice & Insurance",
+    "category_slug": "dental-practice-insurance",
+    "excerpt": "Alternative to traditional insurance.",
+    "mapped_services": [
+      "insurance"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Dental Schools: Low-Cost Treatment Option",
+    "slug": "dental-schools-low-cost-treatment-option",
+    "category": "Dental Practice & Insurance",
+    "category_slug": "dental-practice-insurance",
+    "excerpt": "Student clinics offering discounts.",
+    "mapped_services": [
+      "practice"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Community Health Centers: Affordable Dentistry",
+    "slug": "community-health-centers-affordable-dentistry",
+    "category": "Dental Practice & Insurance",
+    "category_slug": "dental-practice-insurance",
+    "excerpt": "Public health dental clinics.",
+    "mapped_services": [
+      "practice"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Choosing a Dentist: Finding Right Provider",
+    "slug": "choosing-a-dentist-finding-right-provider",
+    "category": "Dental Practice & Insurance",
+    "category_slug": "dental-practice-insurance",
+    "excerpt": "Selection criteria for dentist.",
+    "mapped_services": [
+      "practice"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Second Opinion: When to Seek Another Dentist",
+    "slug": "second-opinion-when-to-seek-another-dentist",
+    "category": "Dental Practice & Insurance",
+    "category_slug": "dental-practice-insurance",
+    "excerpt": "Verification of treatment plans.",
+    "mapped_services": [
+      "practice"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Denture Stabilization: Preventing Slipping Teeth",
+    "slug": "denture-stabilization-preventing-slipping-teeth",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Techniques for better denture retention.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Pulpitis: Inflammation Before Root Canal",
+    "slug": "pulpitis-inflammation-before-root-canal",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Early pulp inflammation symptoms.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Reversible Pulpitis: Can Tooth Recover?",
+    "slug": "reversible-pulpitis-can-tooth-recover",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Early stage pulp inflammation treatment.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Irreversible Pulpitis: Tooth Requires Root Canal",
+    "slug": "irreversible-pulpitis-tooth-requires-root-canal",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Advanced pulp inflammation needing endo.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Necrotic Pulp: Dead Nerve Tissue",
+    "slug": "necrotic-pulp-dead-nerve-tissue",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Non-vital tooth treatment.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Apex Sealing: Complete Root Canal Closure",
+    "slug": "apex-sealing-complete-root-canal-closure",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Perfect obturation preventing reinfection.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Post and Core: Rebuilding Tooth Structure",
+    "slug": "post-and-core-rebuilding-tooth-structure",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Preparing tooth for restoration.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Foundation for Crown: Tooth Preparation",
+    "slug": "foundation-for-crown-tooth-preparation",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Core buildup for crown placement.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Occlusal Adjustment: Bite Correction",
+    "slug": "occlusal-adjustment-bite-correction",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Adjusting bite for comfort.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Selective Grinding: Reducing High Points",
+    "slug": "selective-grinding-reducing-high-points",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Adjusting contact points.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Dentin Hypersensitivity: Root Exposure Pain",
+    "slug": "dentin-hypersensitivity-root-exposure-pain",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Sensitivity from exposed dentin tubules.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Secondary Dentin: Age-Related Changes",
+    "slug": "secondary-dentin-age-related-changes",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Protective dentin formation over time.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Reparative Dentin: Tooth Response to Injury",
+    "slug": "reparative-dentin-tooth-response-to-injury",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Dentin formation from trauma.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Dentinal Fluid: Movement and Sensitivity",
+    "slug": "dentinal-fluid-movement-and-sensitivity",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Fluid pressure in dentin tubules.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Hydrodynamic Theory: Sensitivity Explanation",
+    "slug": "hydrodynamic-theory-sensitivity-explanation",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Fluid movement causing pain sensation.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Sclerotic Dentin: Blocked Tubules",
+    "slug": "sclerotic-dentin-blocked-tubules",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Dentin closure reducing sensitivity.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Biofilm Maturation: 24-Hour Plaque Development",
+    "slug": "biofilm-maturation-24-hour-plaque-development",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Timeline of bacterial colonization.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Microorganism Succession: Sequential Bacteria",
+    "slug": "microorganism-succession-sequential-bacteria",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Stages of biofilm formation.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Quorum Sensing: Bacterial Communication",
+    "slug": "quorum-sensing-bacterial-communication",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Chemical signaling in biofilm.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Plaque Staining: Revealing Biofilm Location",
+    "slug": "plaque-staining-revealing-biofilm-location",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Disclosure tablets showing bacteria.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Mechanical Plaque Removal: Manual Cleaning",
+    "slug": "mechanical-plaque-removal-manual-cleaning",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Physical removal of biofilm.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Chemical Plaque Control: Antimicrobial Agents",
+    "slug": "chemical-plaque-control-antimicrobial-agents",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Medication-based plaque reduction.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Chlorhexidine: Gold Standard Antimicrobial",
+    "slug": "chlorhexidine-gold-standard-antimicrobial",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Effective antimicrobial rinse.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Triclosan: Broad-Spectrum Antibacterial",
+    "slug": "triclosan-broad-spectrum-antibacterial",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Antimicrobial for toothpaste.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Zinc Compounds: Odor-Fighting Action",
+    "slug": "zinc-compounds-odor-fighting-action",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Odor reduction from metallic ions.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Povidone-Iodine: Iodine-Based Antiseptic",
+    "slug": "povidone-iodine-iodine-based-antiseptic",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Iodine rinse for gum disease.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Lip Sync Smile: Coordinating Lips and Teeth",
+    "slug": "lip-sync-smile-coordinating-lips-and-teeth",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Smile design with lips.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "High Smile Line: Excessive Gum Display",
+    "slug": "high-smile-line-excessive-gum-display",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Gummy smile esthetic issues.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Low Smile Line: Minimal Tooth Display",
+    "slug": "low-smile-line-minimal-tooth-display",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Limited tooth showing in smile.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Smile Index: Measuring Smile Characteristics",
+    "slug": "smile-index-measuring-smile-characteristics",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Quantifying smile esthetics.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Canine Rise: Lateral Movement Guidance",
+    "slug": "canine-rise-lateral-movement-guidance",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Canine directing side movement.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Anterior Guidance: Incisor Controlling Bite",
+    "slug": "anterior-guidance-incisor-controlling-bite",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Front teeth dictating jaw movement.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Dynamic Smile: Moving Smile Beauty",
+    "slug": "dynamic-smile-moving-smile-beauty",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Smile during animation versus static.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Resting Position: Lips at Rest Appearance",
+    "slug": "resting-position-lips-at-rest-appearance",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Static smile at rest.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Bracket Placement: Exact Positioning",
+    "slug": "bracket-placement-exact-positioning",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Optimal bracket location on teeth.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Wire Sequence: Progression of Wires",
+    "slug": "wire-sequence-progression-of-wires",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Advancing wire size and stiffness.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Round Wires: Gentle Initial Alignment",
+    "slug": "round-wires-gentle-initial-alignment",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Flexible wires for comfort.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Square Wires: Precise Angle Control",
+    "slug": "square-wires-precise-angle-control",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Stiffer wires for precision.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Rectangular Wires: Final Detailing",
+    "slug": "rectangular-wires-final-detailing",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Largest wires for finishing.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Elastics: Colored Ties and Power",
+    "slug": "elastics-colored-ties-and-power",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Rubber bands providing force.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Intermaxillary Elastics: Bite Correction Elastics",
+    "slug": "intermaxillary-elastics-bite-correction-elastics",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Rubber bands correcting bite.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Vertical Elastics: Up and Down Forces",
+    "slug": "vertical-elastics-up-and-down-forces",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Elastics correcting vertical issues.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Nursing Bottle Decay: Sweetened Beverages at Night",
+    "slug": "nursing-bottle-decay-sweetened-beverages-at-night",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Nighttime feeding cavity risk.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Digit Sucking Age-Appropriate Cessation",
+    "slug": "digit-sucking-age-appropriate-cessation",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "When to stop thumb sucking.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Pediatric Anesthesia: Sedation in Young Kids",
+    "slug": "pediatric-anesthesia-sedation-in-young-kids",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Safe sedation for child treatment.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Behavioral Guidance: Positive Reinforcement",
+    "slug": "behavioral-guidance-positive-reinforcement",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Reward system for cooperation.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Tell-Show-Do in Pediatric Dentistry",
+    "slug": "tell-show-do-in-pediatric-dentistry",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Explaining procedures to children.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Premedication for Anxious Children",
+    "slug": "premedication-for-anxious-children",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Anti-anxiety medication before visit.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Parent-Child Separation: Managing Anxiety",
+    "slug": "parent-child-separation-managing-anxiety",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "When to separate parent from child.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Guided Local Anesthesia: Precise Nerve Blocks",
+    "slug": "guided-local-anesthesia-precise-nerve-blocks",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Targeted numbing for surgery.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Hemostasis: Controlling Surgical Bleeding",
+    "slug": "hemostasis-controlling-surgical-bleeding",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Stopping blood flow during surgery.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Pressure Dressing: Post-Operative Bleeding Control",
+    "slug": "pressure-dressing-post-operative-bleeding-control",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Gauze and compression for clotting.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Antibiotic Prophylaxis: Preventing Surgical Infection",
+    "slug": "antibiotic-prophylaxis-preventing-surgical-infection",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Pre-operative antibiotics.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Surgical Margins: Adequate Lesion Removal",
+    "slug": "surgical-margins-adequate-lesion-removal",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Complete removal of pathology.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Specimen Handling: Pathology Submission",
+    "slug": "specimen-handling-pathology-submission",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Sending tissue for analysis.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Supracrestal Fibers: Connective Tissue Architecture",
+    "slug": "supracrestal-fibers-connective-tissue-architecture",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Gum support fibers.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Periodontal Ligament: Tooth Attachment System",
+    "slug": "periodontal-ligament-tooth-attachment-system",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "PDL shock absorption.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Alveolar Bone: Tooth Support Structure",
+    "slug": "alveolar-bone-tooth-support-structure",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Bone surrounding teeth.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Gingival Sulcus: Normal Gum Depth",
+    "slug": "gingival-sulcus-normal-gum-depth",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Healthy pocket depth.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Epithelial Attachment: Junctional Epithelium",
+    "slug": "epithelial-attachment-junctional-epithelium",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Gum seal at tooth surface.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Inflammation Markers: Detecting Disease",
+    "slug": "inflammation-markers-detecting-disease",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Identifying gum disease signs.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Implant Platform Switching: Reducing Bone Loss",
+    "slug": "implant-platform-switching-reducing-bone-loss",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Abutment diameter smaller than implant.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Subcrestal Implant Placement: Below Bone Level",
+    "slug": "subcrestal-implant-placement-below-bone-level",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Implant placement technique.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Transmucosal Implant: Tissue-Level Integration",
+    "slug": "transmucosal-implant-tissue-level-integration",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Implant at gum level.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Biologic Width: Implant to Gum Distance",
+    "slug": "biologic-width-implant-to-gum-distance",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Proper implant spacing.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Implant Material Properties: Strength vs Esthetics",
+    "slug": "implant-material-properties-strength-vs-esthetics",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Material science in implants.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Erythema Migrans: Lyme Disease Mouth Rash",
+    "slug": "erythema-migrans-lyme-disease-mouth-rash",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Spirochete infection oral signs.",
+    "mapped_services": [
+      "conditions"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Orofacial Granulomatosis: Inflammatory Swelling",
+    "slug": "orofacial-granulomatosis-inflammatory-swelling",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Chronic tissue swelling condition.",
+    "mapped_services": [
+      "conditions"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Behcet's Disease: Recurrent Mouth Ulcers",
+    "slug": "behcets-disease-recurrent-mouth-ulcers",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Systemic disease with oral ulcers.",
+    "mapped_services": [
+      "conditions"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "PFAPA Syndrome: Periodic Fever and Ulcers",
+    "slug": "pfapa-syndrome-periodic-fever-and-ulcers",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Childhood periodic fever condition.",
+    "mapped_services": [
+      "conditions"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Stomatitis Herpetiformis: Grouped Ulcers",
+    "slug": "stomatitis-herpetiformis-grouped-ulcers",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Severe aphthous ulceration pattern.",
+    "mapped_services": [
+      "conditions"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Trench Mouth: Acute Necrotizing Gingivitis",
+    "slug": "trench-mouth-acute-necrotizing-gingivitis",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Severe gum infection.",
+    "mapped_services": [
+      "conditions"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Noma: Gangrenous Gingivitis",
+    "slug": "noma-gangrenous-gingivitis",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Severe tissue destruction from infection.",
+    "mapped_services": [
+      "conditions"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Custom Mouth Guard: Athletic Protection",
+    "slug": "custom-mouth-guard-athletic-protection",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Professionally made athletic guard.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Night Guard Material: Durability and Comfort",
+    "slug": "night-guard-material-durability-and-comfort",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Mouthguard material selection.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Guard Replacement Frequency: When to Replace",
+    "slug": "guard-replacement-frequency-when-to-replace",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Lifespan of protective guards.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Denture Hygiene: Cleaning Techniques",
+    "slug": "denture-hygiene-cleaning-techniques",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Removing biofilm from dentures.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Denture Soaking: Overnight Maintenance",
+    "slug": "denture-soaking-overnight-maintenance",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Denture storage and sterilization.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Endodontic Periapical Index: Lesion Size",
+    "slug": "endodontic-periapical-index-lesion-size",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Measuring apical pathology.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Apical Foramen: Root Tip Opening",
+    "slug": "apical-foramen-root-tip-opening",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Apical anatomy and obturation.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Accessory Canals: Side Channels in Roots",
+    "slug": "accessory-canals-side-channels-in-roots",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Lateral root canal anatomy.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Calcified Canals: Root Canal Obstruction",
+    "slug": "calcified-canals-root-canal-obstruction",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Blocked canals from mineral.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Post-Operative Pain: Expected Discomfort",
+    "slug": "post-operative-pain-expected-discomfort",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Pain after endodontic treatment.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Teeth Knocked Out: Critical First Hour",
+    "slug": "teeth-knocked-out-critical-first-hour",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Saving avulsed tooth in socket.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Luxation: Partially Displaced Tooth",
+    "slug": "luxation-partially-displaced-tooth",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Tooth half-in half-out socket.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Intrusion: Tooth Pushed Into Bone",
+    "slug": "intrusion-tooth-pushed-into-bone",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Complete submersion in bone.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Extrusion: Tooth Pulled Out Slightly",
+    "slug": "extrusion-tooth-pulled-out-slightly",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Partial tooth expulsion.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Denture Stability: Retention and Support",
+    "slug": "denture-stability-retention-and-support",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Factors affecting denture security.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Kennedy Classification: Partial Denture Types",
+    "slug": "kennedy-classification-partial-denture-types",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Prosthetic classification system.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Anterior Posterior Palatal Seal: Denture Sealing",
+    "slug": "anterior-posterior-palatal-seal-denture-sealing",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Denture base peripheral seal.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Denture Adhesive: Improving Retention",
+    "slug": "denture-adhesive-improving-retention",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Adhesive products for dentures.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Denture Reline Materials: Soft and Hard",
+    "slug": "denture-reline-materials-soft-and-hard",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Denture adjustment materials.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Temporary Crown: Protecting Tooth During Treatment",
+    "slug": "temporary-crown-protecting-tooth-during-treatment",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Provisional restoration details.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Crown Margin Types: Subgingival vs Supragingival",
+    "slug": "crown-margin-types-subgingival-vs-supragingival",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Crown edge placement options.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Crown Shade: Matching Natural Tooth Color",
+    "slug": "crown-shade-matching-natural-tooth-color",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Custom shade selection for crowns.",
+    "mapped_services": [
+      "cosmetic",
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Crown Longevity: Expected Lifespan",
+    "slug": "crown-longevity-expected-lifespan",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "How long do dental crowns last.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Veneer Durability: Long-Term Success",
+    "slug": "veneer-durability-long-term-success",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Lifespan of cosmetic veneers.",
+    "mapped_services": [
+      "cosmetic",
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Bridge Pontic Design: False Tooth Support",
+    "slug": "bridge-pontic-design-false-tooth-support",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Bridge replacement tooth design.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Three-Unit Bridge: Limited Space Solution",
+    "slug": "three-unit-bridge-limited-space-solution",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Bridge design for missing teeth.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cantilever Bridge: Unusual Support",
+    "slug": "cantilever-bridge-unusual-support",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "One-sided bridge design.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Maryland Bridge: Conservative Approach",
+    "slug": "maryland-bridge-conservative-approach",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Bonded bridge with minimal prep.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  }
+]

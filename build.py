@@ -64,6 +64,9 @@ DOMAIN = "https://dentalpedia.co"
 ARTICLES_PER_PAGE = 20
 LATEST_ARTICLES_COUNT = 8
 
+# GA4 Tracking
+GA_MEASUREMENT_ID = "G-XXXXXXXXXX"
+
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(message)s')
 logger = logging.getLogger(__name__)
@@ -338,27 +341,34 @@ def process_inline(text, all_articles=None):
 
 
 def create_internal_links(text, all_articles):
-    """Auto-link mentions of other articles."""
+    """Auto-link mentions of other articles (optimized for large article sets)."""
     if not all_articles:
         return text
-    
-    # Build a map of article titles to slugs
-    article_map = {}
+
+    # Only check short, distinctive titles (skip very short or generic ones)
+    # Limit to max 200 titles for performance
+    candidates = []
     for article in all_articles:
         title = article.get("title", "")
         slug = article.get("slug", "")
-        if title and slug:
-            # Avoid circular linking - don't link if already in a link tag
-            article_map[title.lower()] = (title, slug)
-    
-    # Find and replace mentions (case-insensitive but preserve original case)
-    for lower_title, (original_title, slug) in article_map.items():
-        # Only link if not already in an <a> tag
-        pattern = r'(?<!</a>)(?<![>"\w])' + re.escape(original_title) + r'(?![<"\w])'
-        if re.search(pattern, text, re.IGNORECASE):
-            replacement = f'<a href="/article/{slug}.html">{original_title}</a>'
-            text = re.sub(pattern, replacement, text, flags=re.IGNORECASE)
-    
+        if title and slug and len(title) > 15 and len(title) < 80:
+            candidates.append((title, slug))
+
+    # Sort by title length descending (match longer titles first)
+    candidates.sort(key=lambda x: -len(x[0]))
+
+    # Only check first 100 candidates and stop after 5 links
+    links_added = 0
+    for original_title, slug in candidates[:100]:
+        if links_added >= 5:
+            break
+        if original_title.lower() in text.lower():
+            pattern = r'(?<!</a>)(?<![>"\w])' + re.escape(original_title) + r'(?![<"\w])'
+            if re.search(pattern, text, re.IGNORECASE):
+                replacement = f'<a href="/article/{slug}.html">{original_title}</a>'
+                text = re.sub(pattern, replacement, text, count=1, flags=re.IGNORECASE)
+                links_added += 1
+
     return text
 
 
@@ -385,7 +395,29 @@ def extract_toc(md_text):
     return toc
 
 
-def build_article_html(meta, body_html, toc):
+def find_related_articles(current_article, all_articles, limit=4):
+    """Find 3-4 related articles from the same or adjacent categories."""
+    current_category = current_article.get("category", "")
+    current_slug = current_article.get("slug", "")
+
+    # Get articles from the same category, excluding current
+    same_category = [a for a in all_articles
+                     if a.get("category") == current_category
+                     and a.get("slug") != current_slug]
+
+    # If we need more, grab from other categories
+    related = same_category[:limit]
+
+    if len(related) < limit:
+        other_category = [a for a in all_articles
+                         if a.get("category") != current_category
+                         and a.get("slug") != current_slug]
+        related.extend(other_category[:limit - len(related)])
+
+    return related[:limit]
+
+
+def build_article_html(meta, body_html, toc, related_articles=None):
     """Build a complete article HTML page."""
     title = meta.get("title", "Untitled")
     slug = meta.get("slug", "untitled")
@@ -401,6 +433,7 @@ def build_article_html(meta, body_html, toc):
     reviewer_practice = meta.get("reviewer_practice", "")
     reviewer_location = meta.get("reviewer_location", "")
     reviewer_url = meta.get("reviewer_url", "")
+    reviewer_slug = slugify(reviewer_name.split(",")[0]) if reviewer_name else ""
 
     # Sources
     sources = meta.get("sources", [])
@@ -427,13 +460,15 @@ def build_article_html(meta, body_html, toc):
         </ol>
       </div>"""
 
-    # Build reviewer card
+    # Build reviewer card with link to dentist profile
     reviewer_html = ""
     if reviewer_name:
         reviewer_link = ""
         if reviewer_url:
             display_url = reviewer_url.replace("https://", "").replace("http://", "").rstrip("/")
-            reviewer_link = f'<div class="eeat-link"><a href="{html_mod.escape(reviewer_url)}" target="_blank" rel="noopener">&rarr; {html_mod.escape(display_url)}</a></div>'
+            reviewer_link = f'<div class="eeat-link"><a href="{html_mod.escape(reviewer_url)}" target="_blank">&rarr; {html_mod.escape(display_url)}</a></div>'
+
+        reviewer_profile_link = f'<a href="/dentist/{reviewer_slug}.html" class="dentist-profile-btn">View Profile</a>'
 
         reviewer_html = f"""
       <div class="eeat-card">
@@ -443,6 +478,7 @@ def build_article_html(meta, body_html, toc):
           <div class="eeat-name">{html_mod.escape(reviewer_name)}</div>
           <div class="eeat-credentials">{html_mod.escape(reviewer_credentials)} &middot; {html_mod.escape(reviewer_practice)} &middot; {html_mod.escape(reviewer_location)}</div>
           {reviewer_link}
+          {reviewer_profile_link}
         </div>
       </div>"""
 
@@ -465,6 +501,50 @@ def build_article_html(meta, body_html, toc):
           {"".join(source_items)}
         </ul>
       </div>"""
+
+    # Build related articles section
+    related_html = ""
+    if related_articles:
+        related_items = ""
+        for rel_article in related_articles[:4]:
+            rel_title = rel_article.get("title", "")
+            rel_slug = rel_article.get("slug", "")
+            rel_excerpt = rel_article.get("excerpt", "")
+            related_items += f"""
+        <div class="related-article">
+          <a href="/article/{rel_slug}.html" class="related-title">{html_mod.escape(rel_title)}</a>
+          <p class="related-excerpt">{html_mod.escape(rel_excerpt)}</p>
+        </div>"""
+
+        related_html = f"""
+      <div class="related-articles">
+        <h3>Related Articles</h3>
+{related_items}
+      </div>"""
+
+    # Build find a dentist widget
+    dentist_widget = """
+      <div class="find-dentist-widget">
+        <div class="widget-title">🦷 Find a Dentist Near You</div>
+        <p>Connect with one of our expert dental professionals.</p>
+        <a href="/dentists.html" class="btn-find-dentist">View Expert Dentists →</a>
+      </div>"""
+
+    # Schema.org JSON-LD - Breadcrumb
+    breadcrumb_items = [
+        {"position": 1, "name": "Home", "item": DOMAIN},
+        {"position": 2, "name": category, "item": f"{DOMAIN}/category/{category_slug}.html"},
+        {"position": 3, "name": title, "item": f"{DOMAIN}/article/{slug}.html"}
+    ]
+
+    breadcrumb_schema = f"""
+  <script type="application/ld+json">
+  {{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": {json.dumps(breadcrumb_items)}
+  }}
+  </script>"""
 
     # Schema.org JSON-LD
     schema_reviewer = ""
@@ -489,6 +569,13 @@ def build_article_html(meta, body_html, toc):
   <meta property="og:type" content="article">
   <link rel="canonical" href="{DOMAIN}/article/{slug}.html">
   <link rel="stylesheet" href="/assets/css/style.css">
+  <script async src="https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){{dataLayer.push(arguments);}}
+    gtag('js', new Date());
+    gtag('config', '{GA_MEASUREMENT_ID}');
+  </script>
   <script type="application/ld+json">
   {{
     "@context": "https://schema.org",
@@ -509,6 +596,7 @@ def build_article_html(meta, body_html, toc):
     }}
   }}
   </script>
+  {breadcrumb_schema}
 </head>
 <body>
   <nav class="navbar">
@@ -545,6 +633,11 @@ def build_article_html(meta, body_html, toc):
       <article class="article-body">
 {body_html}
       </article>
+
+{dentist_widget}
+
+{related_html}
+
 {reviewer_html}
 {sources_html}
 
@@ -628,6 +721,13 @@ def build_category_page_html(category, category_slug, articles_in_category, page
   <meta property="og:type" content="website">
   <link rel="canonical" href="{DOMAIN}/category/{category_slug}.html">
   <link rel="stylesheet" href="/assets/css/style.css">
+  <script async src="https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){{dataLayer.push(arguments);}}
+    gtag('js', new Date());
+    gtag('config', '{GA_MEASUREMENT_ID}');
+  </script>
 </head>
 <body>
   <nav class="navbar">
@@ -721,6 +821,13 @@ def build_homepage_html(articles, categories_with_counts):
   <meta property="og:type" content="website">
   <link rel="canonical" href="{DOMAIN}/">
   <link rel="stylesheet" href="/assets/css/style.css">
+  <script async src="https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){{dataLayer.push(arguments);}}
+    gtag('js', new Date());
+    gtag('config', '{GA_MEASUREMENT_ID}');
+  </script>
 </head>
 <body>
   <nav class="navbar">
@@ -803,6 +910,13 @@ def build_categories_page_html(categories_with_counts):
   <meta property="og:type" content="website">
   <link rel="canonical" href="{DOMAIN}/categories.html">
   <link rel="stylesheet" href="/assets/css/style.css">
+  <script async src="https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){{dataLayer.push(arguments);}}
+    gtag('js', new Date());
+    gtag('config', '{GA_MEASUREMENT_ID}');
+  </script>
 </head>
 <body>
   <nav class="navbar">
@@ -852,31 +966,58 @@ def build_categories_page_html(categories_with_counts):
 
 
 def build_dentists_page_html():
-    """Build dentists page from data/clients.json."""
-    clients = []
-    clients_file = DATA_DIR / "clients.json"
-    
-    if clients_file.exists():
+    """Build dentists page from data/reviewer_mappings.json grouped by state."""
+    # Load reviewer mappings to build dentist profiles
+    reviewer_mappings = {}
+    reviewer_mappings_file = DATA_DIR / "reviewer_mappings.json"
+
+    if reviewer_mappings_file.exists():
         try:
-            with open(clients_file, 'r', encoding='utf-8') as f:
-                clients = json.load(f)
+            with open(reviewer_mappings_file, 'r', encoding='utf-8') as f:
+                reviewer_mappings = json.load(f)
         except Exception as e:
-            logger.warning(f"Could not load clients.json: {e}")
-    
+            logger.warning(f"Could not load reviewer_mappings.json: {e}")
+
+    # Build unique dentist map
+    dentist_map = {}
+    for article_slug, reviewer_info in reviewer_mappings.items():
+        reviewer_name = reviewer_info.get('reviewer_name', '')
+        if reviewer_name:
+            key = reviewer_name.lower()
+            if key not in dentist_map:
+                dentist_map[key] = {
+                    'name': reviewer_name,
+                    'credentials': reviewer_info.get('reviewer_credentials', ''),
+                    'practice': reviewer_info.get('reviewer_practice', ''),
+                    'location': reviewer_info.get('reviewer_location', ''),
+                    'url': reviewer_info.get('reviewer_url', ''),
+                    'articles': []
+                }
+            dentist_map[key]['articles'].append(article_slug)
+
+    # Group by state/location
+    dentists_by_state = defaultdict(list)
+    for dentist_info in dentist_map.values():
+        location = dentist_info.get('location', 'Unknown')
+        state = location.split(',')[-1].strip() if ',' in location else location
+        dentists_by_state[state].append(dentist_info)
+
     dentists_html = ""
-    for dentist in clients:
-        name = dentist.get('name', 'Unknown')
-        credentials = dentist.get('credentials', '')
-        practice = dentist.get('practice', '')
-        location = dentist.get('location', '')
-        url = dentist.get('url', '')
-        
-        url_display = ""
-        if url:
-            display_url = url.replace("https://", "").replace("http://", "").rstrip("/")
-            url_display = f'<a href="{html_mod.escape(url)}" target="_blank" rel="noopener">{html_mod.escape(display_url)}</a>'
-        
-        dentists_html += f"""
+    for state in sorted(dentists_by_state.keys()):
+        dentists_html += f'\n      <h3>{html_mod.escape(state)}</h3>\n'
+        for dentist in dentists_by_state[state]:
+            name = dentist.get('name', 'Unknown')
+            credentials = dentist.get('credentials', '')
+            practice = dentist.get('practice', '')
+            location = dentist.get('location', '')
+            url = dentist.get('url', '')
+
+            url_display = ""
+            if url:
+                display_url = url.replace("https://", "").replace("http://", "").rstrip("/")
+                url_display = f'<a href="{html_mod.escape(url)}" target="_blank">{html_mod.escape(display_url)}</a>'
+
+            dentists_html += f"""
       <div class="dentist-card">
         <div class="dentist-name">{html_mod.escape(name)}</div>
         <div class="dentist-credentials">{html_mod.escape(credentials)}</div>
@@ -896,6 +1037,13 @@ def build_dentists_page_html():
   <meta property="og:type" content="website">
   <link rel="canonical" href="{DOMAIN}/dentists.html">
   <link rel="stylesheet" href="/assets/css/style.css">
+  <script async src="https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){{dataLayer.push(arguments);}}
+    gtag('js', new Date());
+    gtag('config', '{GA_MEASUREMENT_ID}');
+  </script>
 </head>
 <body>
   <nav class="navbar">
@@ -924,6 +1072,131 @@ def build_dentists_page_html():
       <div class="dentists-grid">
 {dentists_html}
       </div>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-text">© 2026 DentalPedia. AI-generated content reviewed by licensed dental professionals.<br><small>Not a substitute for professional dental advice. Always consult your dentist.</small></div>
+        <ul class="footer-links">
+          <li><a href="/about.html">About</a></li>
+          <li><a href="/suggest.html">Suggest an Edit</a></li>
+          <li><a href="/dentists.html">For Dentists</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+  <script src="/assets/js/main.js"></script>
+</body>
+</html>"""
+
+
+def build_dentist_profile_html(dentist_name, dentist_info, articles):
+    """Build an individual dentist profile page."""
+    slug = slugify(dentist_name.split(",")[0])
+    credentials = dentist_info.get('credentials', '')
+    practice = dentist_info.get('practice', '')
+    location = dentist_info.get('location', '')
+    url = dentist_info.get('url', '')
+
+    # Find articles reviewed by this dentist
+    reviewed_articles = []
+    for article in articles:
+        if article.get('reviewer_name') == dentist_name:
+            reviewed_articles.append(article)
+
+    # Build articles list
+    articles_html = ""
+    if reviewed_articles:
+        for article in reviewed_articles:
+            articles_html += f"""
+      <div class="article-item">
+        <a href="/article/{article['slug']}.html" class="article-link">{html_mod.escape(article['title'])}</a>
+        <span class="article-category">{html_mod.escape(article.get('category', ''))}</span>
+      </div>"""
+    else:
+        articles_html = '<p>No articles reviewed yet.</p>'
+
+    # Build website link
+    website_link = ""
+    if url:
+        display_url = url.replace("https://", "").replace("http://", "").rstrip("/")
+        website_link = f'<a href="{html_mod.escape(url)}" target="_blank" class="btn-visit-website">Visit Website →</a>'
+
+    # Schema.org Person markup
+    schema_person = f"""
+  <script type="application/ld+json">
+  {{
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "{dentist_name}",
+    "jobTitle": "{credentials}",
+    "url": "{url}",
+    "worksFor": {{
+      "@type": "Organization",
+      "name": "{practice}"
+    }},
+    "areaServed": "{location}"
+  }}
+  </script>"""
+
+    return f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{html_mod.escape(dentist_name)} — DentalPedia</title>
+  <meta name="description" content="Meet {html_mod.escape(dentist_name)}, a licensed dental professional who reviews articles on DentalPedia.">
+  <meta property="og:title" content="{html_mod.escape(dentist_name)} — DentalPedia">
+  <meta property="og:type" content="profile">
+  <link rel="canonical" href="{DOMAIN}/dentist/{slug}.html">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <script async src="https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){{dataLayer.push(arguments);}}
+    gtag('js', new Date());
+    gtag('config', '{GA_MEASUREMENT_ID}');
+  </script>
+  {schema_person}
+</head>
+<body>
+  <nav class="navbar">
+    <div class="container">
+      <a href="/" class="navbar-brand"><span class="logo-icon">🦷</span> DentalPedia</a>
+      <ul class="navbar-nav">
+        <li><a href="/categories.html">Categories</a></li>
+        <li><a href="/dentists.html">Expert Reviewers</a></li>
+        <li><a href="/about.html">About</a></li>
+        <li><button class="theme-toggle" aria-label="Toggle dark mode">🌙</button></li>
+      </ul>
+    </div>
+  </nav>
+
+  <main class="dentist-profile-page">
+    <div class="container content-width">
+      <div class="breadcrumb">
+        <a href="/">Home</a> &rsaquo;
+        <a href="/dentists.html">Expert Reviewers</a> &rsaquo;
+        {html_mod.escape(dentist_name)}
+      </div>
+
+      <header class="dentist-header">
+        <div class="dentist-icon">🦷</div>
+        <h1>{html_mod.escape(dentist_name)}</h1>
+        <p class="dentist-credentials">{html_mod.escape(credentials)}</p>
+        <p class="dentist-practice">{html_mod.escape(practice)}</p>
+        <p class="dentist-location">{html_mod.escape(location)}</p>
+        {website_link}
+      </header>
+
+      <section class="dentist-articles">
+        <h2>Articles Reviewed</h2>
+        <div class="reviewed-articles">
+{articles_html}
+        </div>
+      </section>
     </div>
   </main>
 
@@ -1003,8 +1276,11 @@ def process_article(md_file, all_articles):
         # Extract TOC
         toc = extract_toc(body)
 
+        # Find related articles
+        related_articles = find_related_articles(meta, all_articles)
+
         # Build HTML
-        article_html = build_article_html(meta, body_html, toc)
+        article_html = build_article_html(meta, body_html, toc, related_articles)
 
         # Write output
         slug = meta.get("slug", md_file.stem)
@@ -1110,6 +1386,31 @@ def main():
     (BASE_DIR / "dentists.html").write_text(dentists_page, encoding="utf-8")
     logger.info("  → dentists.html")
 
+    # Build individual dentist profile pages
+    logger.info("Building dentist profiles...")
+    unique_reviewers = {}
+    for article in articles:
+        reviewer_name = article.get("reviewer_name", "")
+        if reviewer_name:
+            key = reviewer_name.lower()
+            if key not in unique_reviewers:
+                unique_reviewers[key] = {
+                    'name': reviewer_name,
+                    'credentials': article.get('reviewer_credentials', ''),
+                    'practice': article.get('reviewer_practice', ''),
+                    'location': article.get('reviewer_location', ''),
+                    'url': article.get('reviewer_url', '')
+                }
+
+    for reviewer_name, reviewer_info in unique_reviewers.items():
+        dentist_html = build_dentist_profile_html(reviewer_info['name'], reviewer_info, articles)
+        slug = slugify(reviewer_info['name'].split(",")[0])
+        dentist_dir = BASE_DIR / "dentist"
+        dentist_dir.mkdir(parents=True, exist_ok=True)
+        dentist_file = dentist_dir / f"{slug}.html"
+        dentist_file.write_text(dentist_html, encoding="utf-8")
+        logger.info(f"  → dentist/{slug}.html")
+
     # Generate search index
     search_index = build_search_index(articles)
     SEARCH_INDEX_PATH.write_text(json.dumps(search_index, indent=2), encoding="utf-8")
@@ -1125,7 +1426,8 @@ def main():
     logger.info(f"   {len(articles)} articles across {len(categories)} categories")
     logger.info(f"   {sum(len(cats) for cats in categories.values())} article pages")
     logger.info(f"   {len(categories)} category pages")
-    logger.info(f"   3 dynamic pages (index, categories, dentists)")
+    logger.info(f"   {len(unique_reviewers)} dentist profile pages")
+    logger.info(f"   4 dynamic pages (index, categories, dentists, + individual profiles)")
 
 
 if __name__ == "__main__":

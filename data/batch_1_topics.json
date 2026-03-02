@@ -1,0 +1,2320 @@
+[
+  {
+    "title": "Impacted Tooth Extraction: Surgical Removal Procedures",
+    "slug": "impacted-tooth-extraction-surgical-removal-procedures",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Removing teeth unable to erupt naturally.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Wisdom Tooth Extraction Complications: Dry Socket Prevention",
+    "slug": "wisdom-tooth-extraction-complications-dry-socket-prevention",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Post-extraction alveolar osteitis management.",
+    "mapped_services": [
+      "oral-surgery",
+      "emergency"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Bone Grafting: Restoring Lost Jaw Structure",
+    "slug": "bone-grafting-restoring-lost-jaw-structure",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Adding bone for implant support and height.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Sinus Lift Surgery: Creating Implant Space",
+    "slug": "sinus-lift-surgery-creating-implant-space",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Raising sinus for upper implant placement.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Distraction Osteogenesis: Growing New Bone",
+    "slug": "distraction-osteogenesis-growing-new-bone",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Surgical bone lengthening for reconstruction.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Jaw Repositioning Surgery: Orthognathic Correction",
+    "slug": "jaw-repositioning-surgery-orthognathic-correction",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Surgical bite and facial profile change.",
+    "mapped_services": [
+      "oral-surgery",
+      "orthodontics"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Septoplasty: Deviated Septum and Sleep Apnea",
+    "slug": "septoplasty-deviated-septum-and-sleep-apnea",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Straightening nasal septum for airflow.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Sleep Apnea Surgery: Surgical Airway Expansion",
+    "slug": "sleep-apnea-surgery-surgical-airway-expansion",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "UPPP and other sleep disorder procedures.",
+    "mapped_services": [
+      "oral-surgery",
+      "sleep-dentistry"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Tumor Removal: Oral Cancer Surgical Excision",
+    "slug": "tumor-removal-oral-cancer-surgical-excision",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Malignancy and benign tumor removal.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Salivary Gland Surgery: Removal and Reconstruction",
+    "slug": "salivary-gland-surgery-removal-and-reconstruction",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Surgical management of glandular disease.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "TMJ Surgery: Meniscectomy and Arthroscopy",
+    "slug": "tmj-surgery-meniscectomy-and-arthroscopy",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Joint disorder surgical intervention.",
+    "mapped_services": [
+      "oral-surgery",
+      "tmj"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Cleft Palate Repair: Surgical Correction of Congenital Defect",
+    "slug": "cleft-palate-repair-surgical-correction-of-congenital-defect",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Congenital split palate closure.",
+    "mapped_services": [
+      "oral-surgery",
+      "pediatric"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Cleft Lip Repair: Primary and Revision Surgery",
+    "slug": "cleft-lip-repair-primary-and-revision-surgery",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Closing congenital lip defect.",
+    "mapped_services": [
+      "oral-surgery",
+      "pediatric"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Alveolar Bone Grafting: Cleft Associated Defects",
+    "slug": "alveolar-bone-grafting-cleft-associated-defects",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Bone restoration in cleft areas.",
+    "mapped_services": [
+      "oral-surgery",
+      "pediatric"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Frenulum Removal: Frenotomy and Tongue Tie Release",
+    "slug": "frenulum-removal-frenotomy-and-tongue-tie-release",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Removing restrictive tongue or lip connections.",
+    "mapped_services": [
+      "oral-surgery",
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Graft Harvesting: Soft Tissue Source Selection",
+    "slug": "graft-harvesting-soft-tissue-source-selection",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Obtaining graft material for periodontal surgery.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Soft Tissue Grafting: Periodontal Reconstruction",
+    "slug": "soft-tissue-grafting-periodontal-reconstruction",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Replacing missing gingiva with grafts.",
+    "mapped_services": [
+      "oral-surgery",
+      "preventive"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Bone Contouring: Reshaping for Esthetics",
+    "slug": "bone-contouring-reshaping-for-esthetics",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Removing excess bone for better appearance.",
+    "mapped_services": [
+      "oral-surgery",
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Alveolar Ridge Reduction: Lowering High Ridge",
+    "slug": "alveolar-ridge-reduction-lowering-high-ridge",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Decreasing prominent ridge height.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Flap Surgery: Accessing Bone for Treatment",
+    "slug": "flap-surgery-accessing-bone-for-treatment",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Lifting tissue to expose underlying structures.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Osseous Surgery: Bone Contouring for Health",
+    "slug": "osseous-surgery-bone-contouring-for-health",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Reshaping bone for periodontal improvement.",
+    "mapped_services": [
+      "oral-surgery",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Crown Lengthening Surgery: Increasing Tooth Visibility",
+    "slug": "crown-lengthening-surgery-increasing-tooth-visibility",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Removing bone and gum for crown placement.",
+    "mapped_services": [
+      "oral-surgery",
+      "cosmetic"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Cosmetic Crown Lengthening: Gummy Smile Correction",
+    "slug": "cosmetic-crown-lengthening-gummy-smile-correction",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Surgical gum reduction for aesthetic improvement.",
+    "mapped_services": [
+      "oral-surgery",
+      "cosmetic"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Apicectomy: Removing Tooth Apex",
+    "slug": "apicectomy-removing-tooth-apex",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Endodontic microsurgery for persistent infection.",
+    "mapped_services": [
+      "oral-surgery",
+      "endodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Intentional Replantation: Re-implanting Extracted Tooth",
+    "slug": "intentional-replantation-re-implanting-extracted-tooth",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Reinserting extracted tooth into socket.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Transposition: Moving Teeth to New Positions",
+    "slug": "transposition-moving-teeth-to-new-positions",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Surgical repositioning of teeth.",
+    "mapped_services": [
+      "oral-surgery",
+      "orthodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Augmentation for Implants: Building Missing Bone",
+    "slug": "augmentation-for-implants-building-missing-bone",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Horizontal and vertical bone augmentation.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Ridge Split: Expanding Narrow Bone",
+    "slug": "ridge-split-expanding-narrow-bone",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Splitting ridge for implant width.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Guided Bone Regeneration: Membrane-Protected Growth",
+    "slug": "guided-bone-regeneration-membrane-protected-growth",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Controlled bone healing under barrier.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Platelet-Rich Fibrin: Growth Factor Enhancement",
+    "slug": "platelet-rich-fibrin-growth-factor-enhancement",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "PRF membrane accelerating healing.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Extraction Socket Preservation: Immediate Grafting",
+    "slug": "extraction-socket-preservation-immediate-grafting",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Maintaining ridge height after tooth loss.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Atrophic Ridge Reconstruction: Severe Bone Loss Repair",
+    "slug": "atrophic-ridge-reconstruction-severe-bone-loss-repair",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Restoring extremely resorbed jawbone.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Laser Surgery: CO2 and Er-YAG Applications",
+    "slug": "laser-surgery-co2-and-er-yag-applications",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Soft tissue surgery using laser energy.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Piezosurgery: Ultrasonic Bone Cutting Precision",
+    "slug": "piezosurgery-ultrasonic-bone-cutting-precision",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Ultrasonic scalpel for precise bone work.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Minimal Invasive Surgery: Reducing Trauma",
+    "slug": "minimal-invasive-surgery-reducing-trauma",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Techniques minimizing surgical injury.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Immediate Load Implant: Teeth Same Day",
+    "slug": "immediate-load-implant-teeth-same-day",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Implant with immediate restoration.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Zygomatic Implant: Cheekbone Anchored",
+    "slug": "zygomatic-implant-cheekbone-anchored",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Implant into zygomatic bone for support.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Pterygoid Implant: Deep Jaw Bone Implant",
+    "slug": "pterygoid-implant-deep-jaw-bone-implant",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Implant into pterygoid region.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "All-on-Four: Four Implant Full Arch",
+    "slug": "all-on-four-four-implant-full-arch",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Four implants supporting full denture.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "All-on-Six: Six Implant Full Restoration",
+    "slug": "all-on-six-six-implant-full-restoration",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Six implants for comprehensive restoration.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Basal Implant: Cortical Bone Anchored",
+    "slug": "basal-implant-cortical-bone-anchored",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Implant using dense cortical bone.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Anesthesia in Oral Surgery: Safety and Options",
+    "slug": "anesthesia-in-oral-surgery-safety-and-options",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Local, IV sedation, and general anesthesia.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "IV Sedation: Twilight Sleep During Surgery",
+    "slug": "iv-sedation-twilight-sleep-during-surgery",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Intravenous anesthesia for comfort.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Local Anesthesia Failures: Why Numbness Doesn't Work",
+    "slug": "local-anesthesia-failures-why-numbness-doesnt-work",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Reasons blocks fail and alternative techniques.",
+    "mapped_services": [
+      "oral-surgery",
+      "emergency"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Nitrous Oxide: Laughing Gas Safety and Efficacy",
+    "slug": "nitrous-oxide-laughing-gas-safety-and-efficacy",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Conscious sedation with nitrous oxide.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Post-Operative Bleeding: Control and Management",
+    "slug": "post-operative-bleeding-control-and-management",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Bleeding after oral surgery procedures.",
+    "mapped_services": [
+      "oral-surgery",
+      "emergency"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Swelling After Oral Surgery: Expected Course",
+    "slug": "swelling-after-oral-surgery-expected-course",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Edema timeline and management.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Bruising After Extraction: Ecchymosis Timeline",
+    "slug": "bruising-after-extraction-ecchymosis-timeline",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Black and blue marks resolving gradually.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Infection After Oral Surgery: Antibiotic Indication",
+    "slug": "infection-after-oral-surgery-antibiotic-indication",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Post-operative infection prevention and treatment.",
+    "mapped_services": [
+      "oral-surgery",
+      "emergency"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Suture Removal: Timing and Procedure",
+    "slug": "suture-removal-timing-and-procedure",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "When stitches come out after surgery.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Absorbable Sutures: Dissolving Stitches Benefits",
+    "slug": "absorbable-sutures-dissolving-stitches-benefits",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Self-dissolving sutures avoiding removal.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Pain Management: Post-Surgery Analgesia",
+    "slug": "pain-management-post-surgery-analgesia",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Controlling discomfort after oral surgery.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Opioid Pain Medications: Usage and Concerns",
+    "slug": "opioid-pain-medications-usage-and-concerns",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Narcotic pain control and addiction risk.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Nerve Damage: Paresthesia After Extraction",
+    "slug": "nerve-damage-paresthesia-after-extraction",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Lingering numbness from nerve injury.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Inferior Alveolar Nerve: Damage Risks from Surgery",
+    "slug": "inferior-alveolar-nerve-damage-risks-from-surgery",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Lower jaw nerve injury during extractions.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Lingual Nerve: Tongue Numbness from Injury",
+    "slug": "lingual-nerve-tongue-numbness-from-injury",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Inner jaw nerve damage and recovery.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Eruption Timeline: When Do Baby Teeth Come In?",
+    "slug": "eruption-timeline-when-do-baby-teeth-come-in",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Schedule for primary dentition emergence.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Primary Tooth Shedding: Normal Exfoliation Timeline",
+    "slug": "primary-tooth-shedding-normal-exfoliation-timeline",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "When baby teeth fall out naturally.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Delayed Eruption: Late Tooth Development Causes",
+    "slug": "delayed-eruption-late-tooth-development-causes",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "When permanent teeth emerge later than expected.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Ectopic Eruption: Misaligned Tooth Emergence",
+    "slug": "ectopic-eruption-misaligned-tooth-emergence",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Teeth erupting in wrong positions.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Retained Primary Teeth: When Baby Teeth Won't Fall Out",
+    "slug": "retained-primary-teeth-when-baby-teeth-wont-fall-out",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Persistent baby teeth blocking permanent eruption.",
+    "mapped_services": [
+      "pediatric",
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Natal Teeth: Teeth Present at Birth",
+    "slug": "natal-teeth-teeth-present-at-birth",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Uncommon teeth present from delivery.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Neonatal Teeth: Teeth Erupting in First Month",
+    "slug": "neonatal-teeth-teeth-erupting-in-first-month",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Early tooth eruption in newborns.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Baby Bottle Tooth Decay: Prevention Strategies",
+    "slug": "baby-bottle-tooth-decay-prevention-strategies",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Nursing bottle caries in infants.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Early Childhood Caries: Aggressive Decay in Toddlers",
+    "slug": "early-childhood-caries-aggressive-decay-in-toddlers",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Rampant cavities in young children.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Teething Pain: Comfort and Management",
+    "slug": "teething-pain-comfort-and-management",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Soothing discomfort during tooth eruption.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Teething Myths: Separating Fact from Folk Remedy",
+    "slug": "teething-myths-separating-fact-from-folk-remedy",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Common misconceptions about tooth emergence.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Fluoride for Children: Safe Levels and Dosage",
+    "slug": "fluoride-for-children-safe-levels-and-dosage",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Appropriate fluoride exposure in kids.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Fluorosis Risk in Children: Excessive Fluoride",
+    "slug": "fluorosis-risk-in-children-excessive-fluoride",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Enamel damage from too much fluoride.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Dental Sealants for Kids: Preventing Molars Cavities",
+    "slug": "dental-sealants-for-kids-preventing-molars-cavities",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Protective coating for cavity-prone grooves.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Pulpotomy: Removing Infected Pulp in Baby Teeth",
+    "slug": "pulpotomy-removing-infected-pulp-in-baby-teeth",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Root canal equivalent for primary teeth.",
+    "mapped_services": [
+      "pediatric",
+      "endodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Pulpectomy: Complete Pulp Removal in Baby Teeth",
+    "slug": "pulpectomy-complete-pulp-removal-in-baby-teeth",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Full root canal therapy in young patients.",
+    "mapped_services": [
+      "pediatric",
+      "endodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Stainless Steel Crowns: Durable Restoration for Baby Teeth",
+    "slug": "stainless-steel-crowns-durable-restoration-for-baby-teeth",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Preferred crown material for primary dentition.",
+    "mapped_services": [
+      "pediatric",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Composite Resins in Pediatric Dentistry: Aesthetic Fillings",
+    "slug": "composite-resins-in-pediatric-dentistry-aesthetic-fillings",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Tooth-colored restoration in children.",
+    "mapped_services": [
+      "pediatric",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Silver Amalgam vs Composite: Child-Friendly Materials",
+    "slug": "silver-amalgam-vs-composite-child-friendly-materials",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Filling material selection for young patients.",
+    "mapped_services": [
+      "pediatric",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Protective Mouth Guards: Preventing Dental Trauma",
+    "slug": "protective-mouth-guards-preventing-dental-trauma",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Athletic guards for young sports players.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Dental Trauma in Children: Luxation and Avulsion",
+    "slug": "dental-trauma-in-children-luxation-and-avulsion",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Tooth displacement and loss from injury.",
+    "mapped_services": [
+      "pediatric",
+      "emergency"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Reimplanted Teeth: Salvaging Avulsed Permanent Teeth",
+    "slug": "reimplanted-teeth-salvaging-avulsed-permanent-teeth",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Replacing teeth knocked out during play.",
+    "mapped_services": [
+      "pediatric",
+      "emergency"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Fractured Teeth: Chip and Crack Repair in Kids",
+    "slug": "fractured-teeth-chip-and-crack-repair-in-kids",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Addressing broken teeth from trauma.",
+    "mapped_services": [
+      "pediatric",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Intrusive Luxation: Teeth Pushed Into Bone",
+    "slug": "intrusive-luxation-teeth-pushed-into-bone",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Severe traumatic injury treatment.",
+    "mapped_services": [
+      "pediatric",
+      "emergency"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Habit Breaking: Thumb Sucking and Tongue Thrust",
+    "slug": "habit-breaking-thumb-sucking-and-tongue-thrust",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Addressing digit sucking and abnormal swallow.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Tongue Thrust Therapy: Correcting Abnormal Swallow",
+    "slug": "tongue-thrust-therapy-correcting-abnormal-swallow",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Retraining muscles for normal swallowing.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Open Bite from Thumb Sucking: Prevention and Treatment",
+    "slug": "open-bite-from-thumb-sucking-prevention-and-treatment",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Anterior opening caused by digit sucking.",
+    "mapped_services": [
+      "pediatric",
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Mouth Breathing in Children: Correction Strategies",
+    "slug": "mouth-breathing-in-children-correction-strategies",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Airway obstruction and breathing patterns.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Sleep-Disordered Breathing in Kids: OSA Signs",
+    "slug": "sleep-disordered-breathing-in-kids-osa-signs",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Snoring and sleep apnea in children.",
+    "mapped_services": [
+      "pediatric",
+      "sleep-dentistry"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Adenoid and Tonsil Hypertrophy: Airway Impact",
+    "slug": "adenoid-and-tonsil-hypertrophy-airway-impact",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Enlarged lymphoid tissue affecting breathing.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Palatal Expansion in Children: Widening Jaw",
+    "slug": "palatal-expansion-in-children-widening-jaw",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Early maxillary expansion for development.",
+    "mapped_services": [
+      "pediatric",
+      "orthodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Interceptive Treatment: Preventing Future Problems",
+    "slug": "interceptive-treatment-preventing-future-problems",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Early orthodontic intervention benefits.",
+    "mapped_services": [
+      "pediatric",
+      "orthodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Class II Correction in Growing Patients",
+    "slug": "class-ii-correction-in-growing-patients",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Early correction of overbite.",
+    "mapped_services": [
+      "pediatric",
+      "orthodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Class III Treatment: Early Underbite Management",
+    "slug": "class-iii-treatment-early-underbite-management",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Early correction of underbite.",
+    "mapped_services": [
+      "pediatric",
+      "orthodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Early Mixed Dentition: Managing Transition Period",
+    "slug": "early-mixed-dentition-managing-transition-period",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Guiding tooth eruption during mixed stage.",
+    "mapped_services": [
+      "pediatric",
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Space Maintenance: Preserving Room for Permanent Teeth",
+    "slug": "space-maintenance-preserving-room-for-permanent-teeth",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Holding space after premature tooth loss.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Distal Shoe Maintainer: Preventing Molar Shift",
+    "slug": "distal-shoe-maintainer-preventing-molar-shift",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Device keeping space open for first permanent molar.",
+    "mapped_services": [
+      "pediatric",
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Lingual Arch: Hidden Space Maintainer",
+    "slug": "lingual-arch-hidden-space-maintainer",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Behind-teeth arch maintaining room.",
+    "mapped_services": [
+      "pediatric",
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Bruxism in Children: Teeth Grinding at Night",
+    "slug": "bruxism-in-children-teeth-grinding-at-night",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Causes and management of childhood grinding.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Stress-Related Bruxism: Anxiety and Grinding",
+    "slug": "stress-related-bruxism-anxiety-and-grinding",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Emotional stress triggering grinding habits.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Night Guard for Children: Protecting Teeth",
+    "slug": "night-guard-for-children-protecting-teeth",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Mouthguard preventing bruxism damage.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Tongue Tie: Ankyloglossia Effects and Release",
+    "slug": "tongue-tie-ankyloglossia-effects-and-release",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Frenulum restricting tongue movement.",
+    "mapped_services": [
+      "pediatric",
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Lip Tie: Impact on Feeding and Development",
+    "slug": "lip-tie-impact-on-feeding-and-development",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Restrictive labial frenum effects.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Ankyloglossia Speech Effects: Articulation Problems",
+    "slug": "ankyloglossia-speech-effects-articulation-problems",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Tongue-tie causing speech delays.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "High Frenum: Gum Recession Risk in Orthodontia",
+    "slug": "high-frenum-gum-recession-risk-in-orthodontia",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Tight frenum issues during braces.",
+    "mapped_services": [
+      "pediatric",
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Hypodontia in Children: Missing Permanent Teeth",
+    "slug": "hypodontia-in-children-missing-permanent-teeth",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Congenital absence of permanent teeth.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Supernumerary Teeth in Kids: Extra Teeth Eruption",
+    "slug": "supernumerary-teeth-in-kids-extra-teeth-eruption",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Developmental extra teeth complications.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Ectopic Canine: Misdirected Canine Eruption",
+    "slug": "ectopic-canine-misdirected-canine-eruption",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Canine tooth erupting out of position.",
+    "mapped_services": [
+      "pediatric",
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Transposition: Teeth in Wrong Sequence",
+    "slug": "transposition-teeth-in-wrong-sequence",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Adjacent teeth in reversed order.",
+    "mapped_services": [
+      "pediatric",
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cleft Palate Feeding: Bottle and Breast Techniques",
+    "slug": "cleft-palate-feeding-bottle-and-breast-techniques",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Feeding challenges with oral clefts.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Cleft Team: Multidisciplinary Care Coordination",
+    "slug": "cleft-team-multidisciplinary-care-coordination",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Team approach to cleft management.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Cleft Dentistry: Alveolar Bone Reconstruction",
+    "slug": "cleft-dentistry-alveolar-bone-reconstruction",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Dental management of cleft defects.",
+    "mapped_services": [
+      "pediatric",
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Velopharyngeal Insufficiency: Cleft-Related Speech",
+    "slug": "velopharyngeal-insufficiency-cleft-related-speech",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Speech problems from cleft palate.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Down Syndrome: Special Oral Health Considerations",
+    "slug": "down-syndrome-special-oral-health-considerations",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Chromosome 21 affecting dental health.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Autism and Dental Anxiety: Special Needs Care",
+    "slug": "autism-and-dental-anxiety-special-needs-care",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Behavioral challenges in ASD patients.",
+    "mapped_services": [
+      "pediatric",
+      "anxiety"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Cerebral Palsy: Motor Control and Oral Care",
+    "slug": "cerebral-palsy-motor-control-and-oral-care",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Muscle control challenges in dentistry.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Intellectual Disability: Adaptive Dental Techniques",
+    "slug": "intellectual-disability-adaptive-dental-techniques",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Modified care for cognitively impaired.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Dental Anxiety in Children: Overcoming Fear",
+    "slug": "dental-anxiety-in-children-overcoming-fear",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Reducing fear and building trust in young patients.",
+    "mapped_services": [
+      "pediatric",
+      "anxiety"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Desensitization: Gradual Fear Reduction",
+    "slug": "desensitization-gradual-fear-reduction",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Behavioral approach reducing dental anxiety.",
+    "mapped_services": [
+      "pediatric",
+      "anxiety"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Tell-Show-Do Technique: Communication Method",
+    "slug": "tell-show-do-technique-communication-method",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Explaining procedures to anxious children.",
+    "mapped_services": [
+      "pediatric",
+      "anxiety"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Distraction Therapy: Movies and Music During Treatment",
+    "slug": "distraction-therapy-movies-and-music-during-treatment",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Audio-visual distraction reducing anxiety.",
+    "mapped_services": [
+      "pediatric",
+      "anxiety"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Nitrous Oxide Sedation: Safe in Young Patients",
+    "slug": "nitrous-oxide-sedation-safe-in-young-patients",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Laughing gas for anxious children.",
+    "mapped_services": [
+      "pediatric",
+      "anxiety"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Pediatric Sedation Options: Levels of Consciousness",
+    "slug": "pediatric-sedation-options-levels-of-consciousness",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Sedation choices for anxious kids.",
+    "mapped_services": [
+      "pediatric",
+      "anxiety"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Oral Sedation for Children: Medication Options",
+    "slug": "oral-sedation-for-children-medication-options",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Drug choices for pediatric sedation.",
+    "mapped_services": [
+      "pediatric",
+      "anxiety"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "General Anesthesia in Pediatric Dentistry: When Needed",
+    "slug": "general-anesthesia-in-pediatric-dentistry-when-needed",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Full anesthesia for uncooperative children.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Hospital Dentistry: Complex Cases Under Anesthesia",
+    "slug": "hospital-dentistry-complex-cases-under-anesthesia",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Treating severe decay under full anesthesia.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Preventive Program: Building Lifetime Oral Habits",
+    "slug": "preventive-program-building-lifetime-oral-habits",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Establishing good hygiene in childhood.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Parent Education: Teaching Proper Hygiene",
+    "slug": "parent-education-teaching-proper-hygiene",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Guiding caregivers on child oral care.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Fluoride Varnish in Pediatric Care: High-Strength Treatment",
+    "slug": "fluoride-varnish-in-pediatric-care-high-strength-treatment",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Professional fluoride for young patients.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Dietary Counseling: Reducing Cavity Risk in Kids",
+    "slug": "dietary-counseling-reducing-cavity-risk-in-kids",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Nutrition guidance for dental health.",
+    "mapped_services": [
+      "pediatric",
+      "preventive",
+      "nutrition"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Juice and Soda: Sugar Content and Decay",
+    "slug": "juice-and-soda-sugar-content-and-decay",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Beverage selection affecting child teeth.",
+    "mapped_services": [
+      "pediatric",
+      "preventive",
+      "nutrition"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Milk vs Juice: Healthier Drink Choices",
+    "slug": "milk-vs-juice-healthier-drink-choices",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Optimal beverage for young patients.",
+    "mapped_services": [
+      "pediatric",
+      "preventive",
+      "nutrition"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Snacking Patterns: Impact on Cavity Risk",
+    "slug": "snacking-patterns-impact-on-cavity-risk",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Frequent eating and decay in children.",
+    "mapped_services": [
+      "pediatric",
+      "preventive",
+      "nutrition"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Bacterial Plaque Formation: Biofilm Development",
+    "slug": "bacterial-plaque-formation-biofilm-development",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Microbial communities forming on teeth.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Biofilm Structure: Architecture and Characteristics",
+    "slug": "biofilm-structure-architecture-and-characteristics",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Complex microbial arrangement in plaque.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Pathogenic Bacteria: Key Players in Gum Disease",
+    "slug": "pathogenic-bacteria-key-players-in-gum-disease",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Specific microbes causing periodontitis.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Red Complex Bacteria: Most Virulent Pathogens",
+    "slug": "red-complex-bacteria-most-virulent-pathogens",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Three aggressive bacteria in periodontitis.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Gingivitis Progression: From Health to Disease",
+    "slug": "gingivitis-progression-from-health-to-disease",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Early gum inflammation stages.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Inflammation Response: Body Fighting Bacteria",
+    "slug": "inflammation-response-body-fighting-bacteria",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Immune system reaction to pathogens.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Cytokines and Chemokines: Inflammatory Mediators",
+    "slug": "cytokines-and-chemokines-inflammatory-mediators",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Chemical messengers in gum disease.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Host Response to Bacteria: Why Some Have Disease",
+    "slug": "host-response-to-bacteria-why-some-have-disease",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Immune factors determining susceptibility.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Genetic Susceptibility: Hereditary Periodontitis",
+    "slug": "genetic-susceptibility-hereditary-periodontitis",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Inherited predisposition to gum disease.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Environmental Risk Factors: Smoking and Periodontitis",
+    "slug": "environmental-risk-factors-smoking-and-periodontitis",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Modifiable risks increasing disease.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Smoking and Gum Disease: Mechanism and Severity",
+    "slug": "smoking-and-gum-disease-mechanism-and-severity",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "How smoking worsens periodontal disease.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Alcohol and Periodontitis: Increased Risk",
+    "slug": "alcohol-and-periodontitis-increased-risk",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Drinking affecting gum disease progression.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Stress and Periodontitis: Immunosuppression",
+    "slug": "stress-and-periodontitis-immunosuppression",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Emotional stress worsening gum disease.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Systemic Disease Links: Diabetes and Gum Disease",
+    "slug": "systemic-disease-links-diabetes-and-gum-disease",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Chronic disease increasing periodontitis risk.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Cardiovascular Disease and Periodontitis: Bidirectional",
+    "slug": "cardiovascular-disease-and-periodontitis-bidirectional",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Heart disease linked to gum health.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Respiratory Infection: Aspiration Risk from Gum Disease",
+    "slug": "respiratory-infection-aspiration-risk-from-gum-disease",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Oral bacteria affecting lung health.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Pregnancy Complications: Periodontitis and Preterm Birth",
+    "slug": "pregnancy-complications-periodontitis-and-preterm-birth",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Gum disease increasing adverse pregnancy.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Probing Depth: Measuring Pocket Severity",
+    "slug": "probing-depth-measuring-pocket-severity",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Bleeding point distance measurement.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Bleeding on Probing: Inflammation Indicator",
+    "slug": "bleeding-on-probing-inflammation-indicator",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Blood appearing during gentle examination.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Clinical Attachment Loss: Actual Disease Measurement",
+    "slug": "clinical-attachment-loss-actual-disease-measurement",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Combined gum recession and probing depth.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Furcation Involvement: Root Separation Exposure",
+    "slug": "furcation-involvement-root-separation-exposure",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Disease extending to tooth root branches.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Furcation Classification: Degrees of Involvement",
+    "slug": "furcation-classification-degrees-of-involvement",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Measuring root separation disease.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Mobility and Migration: Tooth Movement Patterns",
+    "slug": "mobility-and-migration-tooth-movement-patterns",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Loose teeth from advanced disease.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Tooth Migration: Drifting Apart or Forward",
+    "slug": "tooth-migration-drifting-apart-or-forward",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Teeth shifting from bone loss.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Radiographic Changes: Bone Loss on X-rays",
+    "slug": "radiographic-changes-bone-loss-on-x-rays",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Vertical and horizontal bone resorption patterns.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Crestal Bone Loss: Topmost Bone Resorption",
+    "slug": "crestal-bone-loss-topmost-bone-resorption",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Loss of highest bony ridge points.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Moderate Periodontitis: Clinical Definition",
+    "slug": "moderate-periodontitis-clinical-definition",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Medium severity gum disease.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Severe Periodontitis: Advanced Disease State",
+    "slug": "severe-periodontitis-advanced-disease-state",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Extensive bone and tissue loss.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Aggressive vs Chronic: Disease Progression Rate",
+    "slug": "aggressive-vs-chronic-disease-progression-rate",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Rapidly advancing versus slow periodontitis.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Localized vs Generalized: Disease Distribution",
+    "slug": "localized-vs-generalized-disease-distribution",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Few versus multiple affected areas.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Occlusal Trauma: Excessive Force and Bone Loss",
+    "slug": "occlusal-trauma-excessive-force-and-bone-loss",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Bite force exacerbating disease.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Food Impaction: Traumatic Packing Force",
+    "slug": "food-impaction-traumatic-packing-force",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Food forcing between teeth and bone loss.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Calculus Subgingival: Below-Gum Buildup",
+    "slug": "calculus-subgingival-below-gum-buildup",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Tartar beneath gum line.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Calculus Supragingival: Visible Tartar Above Gums",
+    "slug": "calculus-supragingival-visible-tartar-above-gums",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Visible mineral deposits on teeth.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Tenacious Calculus: Firmly Attached Deposits",
+    "slug": "tenacious-calculus-firmly-attached-deposits",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Difficult-to-remove calculus types.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Root Planing: Smoothing Root Surfaces",
+    "slug": "root-planing-smoothing-root-surfaces",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Removing cementum and preparing surfaces.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Scaling Technique: Instrumentation Methods",
+    "slug": "scaling-technique-instrumentation-methods",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Hand versus ultrasonic scaling approaches.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Ultrasonic Scaling: Vibration Removes Calculus",
+    "slug": "ultrasonic-scaling-vibration-removes-calculus",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Powered instrument advantages and drawbacks.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Hand Instrumentation: Scaler and Curette Techniques",
+    "slug": "hand-instrumentation-scaler-and-curette-techniques",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Manual instrument subtlety and control.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Chlorhexidine Irrigation: Antimicrobial Solution",
+    "slug": "chlorhexidine-irrigation-antimicrobial-solution",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Medicated rinse during deep cleaning.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Minocycline Microspheres: Antibiotic Delivery",
+    "slug": "minocycline-microspheres-antibiotic-delivery",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Tiny antibiotic particles placed in pockets.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Doxycycline: Systemic Antibiotic for Periodontitis",
+    "slug": "doxycycline-systemic-antibiotic-for-periodontitis",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Oral antibiotic supporting periodontal therapy.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Local Antibiotic Delivery: Arestin and Atridox",
+    "slug": "local-antibiotic-delivery-arestin-and-atridox",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Placed directly in pockets for treatment.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Regenerative Therapy: Growing New Tissue",
+    "slug": "regenerative-therapy-growing-new-tissue",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Procedures promoting bone and gum regeneration.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Enamel Matrix Derivative: Promoting Attachment",
+    "slug": "enamel-matrix-derivative-promoting-attachment",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Protein encouraging tissue regeneration.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Guided Tissue Regeneration: Membrane-Protected Healing",
+    "slug": "guided-tissue-regeneration-membrane-protected-healing",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Barrier allowing selective tissue growth.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Growth Factors: BMP and Signaling Molecules",
+    "slug": "growth-factors-bmp-and-signaling-molecules",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Proteins stimulating bone regeneration.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Bone Morphogenetic Protein: BMP Technology",
+    "slug": "bone-morphogenetic-protein-bmp-technology",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Recombinant protein inducing bone formation.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Platelet-Derived Growth Factor: PDGF Benefit",
+    "slug": "platelet-derived-growth-factor-pdgf-benefit",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Growth factor with regenerative promise.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Stem Cell Therapy: Future Periodontal Treatment",
+    "slug": "stem-cell-therapy-future-periodontal-treatment",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Cellular therapy regenerating lost tissues.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Flap Surgery: Accessing Bone for Deep Cleaning",
+    "slug": "flap-surgery-accessing-bone-for-deep-cleaning",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Lifting gum to expose root surfaces.",
+    "mapped_services": [
+      "periodontics",
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Modified Widman Flap: Conservative Approach",
+    "slug": "modified-widman-flap-conservative-approach",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Minimally traumatic flap technique.",
+    "mapped_services": [
+      "periodontics",
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Apically Positioned Flap: Creating Shallow Pockets",
+    "slug": "apically-positioned-flap-creating-shallow-pockets",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Moving gum lower to reduce depth.",
+    "mapped_services": [
+      "periodontics",
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Osseous Surgery: Reshaping Bone Architecture",
+    "slug": "osseous-surgery-reshaping-bone-architecture",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Modifying bone shape for health.",
+    "mapped_services": [
+      "periodontics",
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Pocket Elimination: Creating Shallow Pockets",
+    "slug": "pocket-elimination-creating-shallow-pockets",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Surgical reduction of disease pockets.",
+    "mapped_services": [
+      "periodontics",
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Periodontal Maintenance: Ongoing Therapy",
+    "slug": "periodontal-maintenance-ongoing-therapy",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Frequent cleanings preventing recurrence.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Maintenance Frequency: How Often to Clean",
+    "slug": "maintenance-frequency-how-often-to-clean",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Recommended recall interval after treatment.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Refractory Periodontitis: Treatment-Resistant Disease",
+    "slug": "refractory-periodontitis-treatment-resistant-disease",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Cases not responding to conventional therapy.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Implant Anatomy: Fixture, Abutment, and Crown",
+    "slug": "implant-anatomy-fixture-abutment-and-crown",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Components of modern dental implant system.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Titanium vs Ceramic Implants: Material Comparison",
+    "slug": "titanium-vs-ceramic-implants-material-comparison",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Different biocompatible implant materials.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Osseointegration: Bone Fusion Process",
+    "slug": "osseointegration-bone-fusion-process",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Implant incorporating into bone structure.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Osseointegration Timeline: How Long Until Stable",
+    "slug": "osseointegration-timeline-how-long-until-stable",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Healing period for implant fusion.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Implant Failure: Rejection and Causes",
+    "slug": "implant-failure-rejection-and-causes",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Why implants fail and prevention.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Peri-Implantitis: Implant Gum Disease",
+    "slug": "peri-implantitis-implant-gum-disease",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Gum inflammation around implants.",
+    "mapped_services": [
+      "implants",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Single Tooth Implant: Replacing One Tooth",
+    "slug": "single-tooth-implant-replacing-one-tooth",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Individual implant and crown restoration.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "All-on-Four: Full Arch on Four Implants",
+    "slug": "all-on-four-full-arch-on-four-implants",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Complete teeth restoration with minimal implants.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Sinus Lift: Creating Space for Upper Implants",
+    "slug": "sinus-lift-creating-space-for-upper-implants",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Raising sinus for implant placement.",
+    "mapped_services": [
+      "implants",
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Bone Augmentation for Implants",
+    "slug": "bone-augmentation-for-implants",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Adding bone for implant support.",
+    "mapped_services": [
+      "implants",
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Digital Implant Planning: CT Scans",
+    "slug": "digital-implant-planning-ct-scans",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Computer-guided implant placement.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Esthetic Implant Zone: Cosmetic Challenges",
+    "slug": "esthetic-implant-zone-cosmetic-challenges",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Visible implants requiring perfection.",
+    "mapped_services": [
+      "implants",
+      "cosmetic"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Ceramic Abutment: Esthetic Implant Support",
+    "slug": "ceramic-abutment-esthetic-implant-support",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Non-metal implant support option.",
+    "mapped_services": [
+      "implants",
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  }
+]

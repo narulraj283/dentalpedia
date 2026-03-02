@@ -1,0 +1,2249 @@
+[
+  {
+    "title": "Removable Partial Denture Design",
+    "slug": "removable-partial-denture-design",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Denture for multiple missing teeth.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Clasp Design and Function: Retaining Partial",
+    "slug": "clasp-design-and-function-retaining-partial",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Denture attachment mechanism.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Rest Seats: Denture Support Preparation",
+    "slug": "rest-seats-denture-support-preparation",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Tooth prep for denture rests.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Reciprocal Arm: Denture Retention Balance",
+    "slug": "reciprocal-arm-denture-retention-balance",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Reciprocal clasp component.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Guide Plane: Denture Path Preparation",
+    "slug": "guide-plane-denture-path-preparation",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Tooth surface guiding denture insertion.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Removable Prosthodontics Basics",
+    "slug": "removable-prosthodontics-basics",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Denture and partial overview.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cast Gold Restoration: Premium Material",
+    "slug": "cast-gold-restoration-premium-material",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Gold inlay and onlay restoration.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Porcelain Fused to Metal: PFM Crown",
+    "slug": "porcelain-fused-to-metal-pfm-crown",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Traditional tooth-colored crown.",
+    "mapped_services": [
+      "cosmetic",
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "All-Ceramic Crown: Metal-Free Restoration",
+    "slug": "all-ceramic-crown-metal-free-restoration",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Non-metal crown option.",
+    "mapped_services": [
+      "cosmetic",
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Crown Preparation: Creating Tooth Shape",
+    "slug": "crown-preparation-creating-tooth-shape",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Tooth modification for crown.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Core Buildup: Rebuilding After Pulp Loss",
+    "slug": "core-buildup-rebuilding-after-pulp-loss",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Post and core construction.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Inlay: Indirect Restoration Precision",
+    "slug": "inlay-indirect-restoration-precision",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Laboratory-made restoration fit.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Onlay: Conservative Crown Alternative",
+    "slug": "onlay-conservative-crown-alternative",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Partial crown covering cusp.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Veneer Thickness: Minimal Preparation",
+    "slug": "veneer-thickness-minimal-preparation",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Thin enamel restoration.",
+    "mapped_services": [
+      "cosmetic",
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Overlay: Full Cuspal Coverage",
+    "slug": "overlay-full-cuspal-coverage",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Complete reconstruction restoration.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Restoration Margins: Critical Details",
+    "slug": "restoration-margins-critical-details",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Edge quality in restorations.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Gingival Retraction: Creating Crown Space",
+    "slug": "gingival-retraction-creating-crown-space",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Temporarily moving gum tissue.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Impression Techniques: Capturing Teeth",
+    "slug": "impression-techniques-capturing-teeth",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Mold-taking methods for restoration.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Digital Scanning: Modern Impression",
+    "slug": "digital-scanning-modern-impression",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Intraoral scanner technology.",
+    "mapped_services": [
+      "general",
+      "technology"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Provisional Restoration: Temporary Crown",
+    "slug": "provisional-restoration-temporary-crown",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Temporary coverage during treatment.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Restoration Shade Guide: Color Selection",
+    "slug": "restoration-shade-guide-color-selection",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Choosing tooth color for crown.",
+    "mapped_services": [
+      "general",
+      "cosmetic"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Smile Consultation: Planning Treatment",
+    "slug": "smile-consultation-planning-treatment",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Initial cosmetic design evaluation.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Mock-Up: Visualizing Results Before Treatment",
+    "slug": "mock-up-visualizing-results-before-treatment",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Temporary teeth preview.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Smile Gallery: Cosmetic Cases Examples",
+    "slug": "smile-gallery-cosmetic-cases-examples",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Before and after documentation.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Tooth Preparation: Cosmetic Anatomy",
+    "slug": "tooth-preparation-cosmetic-anatomy",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Tooth shape for aesthetics.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Bleach Cycling: Whitening Effectiveness",
+    "slug": "bleach-cycling-whitening-effectiveness",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Multiple whitening sessions.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Overbleaching: Excessive Whitening Damage",
+    "slug": "overbleaching-excessive-whitening-damage",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Problems from too much bleaching.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Enamel Microabrasion: Surface Defect Removal",
+    "slug": "enamel-microabrasion-surface-defect-removal",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Gentle enamel correction.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Porcelain Etching: Veneer Bonding",
+    "slug": "porcelain-etching-veneer-bonding",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Veneer surface preparation.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Composite Bonding Margins: Blending",
+    "slug": "composite-bonding-margins-blending",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Seamless bonded restoration edges.",
+    "mapped_services": [
+      "cosmetic",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Staining Composite: Color Customization",
+    "slug": "staining-composite-color-customization",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Advanced composite coloring.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Glazing Composite: Surface Polish",
+    "slug": "glazing-composite-surface-polish",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Composite surface finishing.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Enamel Flake: Slight Edge Correction",
+    "slug": "enamel-flake-slight-edge-correction",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Fixing minor enamel damage.",
+    "mapped_services": [
+      "cosmetic",
+      "restorative"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Gum Bleaching: Reducing Dark Pigmentation",
+    "slug": "gum-bleaching-reducing-dark-pigmentation",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Gum color correction.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Soft Tissue Graft: Gum Restoration",
+    "slug": "soft-tissue-graft-gum-restoration",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Tissue grafting for cosmetics.",
+    "mapped_services": [
+      "cosmetic",
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Smile Design Tool: Digital Preview",
+    "slug": "smile-design-tool-digital-preview",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Computer smile design software.",
+    "mapped_services": [
+      "cosmetic",
+      "technology"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Whitening Trays: Custom vs Stock Fit",
+    "slug": "whitening-trays-custom-vs-stock-fit",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Tray options for bleaching.",
+    "mapped_services": [
+      "preventive",
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Whitening Gel Concentration: Strength Levels",
+    "slug": "whitening-gel-concentration-strength-levels",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Bleach concentration options.",
+    "mapped_services": [
+      "preventive",
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Sensitivity After Whitening: Management",
+    "slug": "sensitivity-after-whitening-management",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Pain management post-bleach.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Natural Tooth Shade: Understanding Baseline",
+    "slug": "natural-tooth-shade-understanding-baseline",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Starting whiteness assessment.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Whitening Maintenance: Refresh Schedule",
+    "slug": "whitening-maintenance-refresh-schedule",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Touch-up frequency.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Gel Trays: Overnight Whitening",
+    "slug": "gel-trays-overnight-whitening",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Custom tray whitening application.",
+    "mapped_services": [
+      "preventive",
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Whitening Strips: Over-Counter Bleaching",
+    "slug": "whitening-strips-over-counter-bleaching",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Adhesive strip bleaching.",
+    "mapped_services": [
+      "preventive",
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Whitening Pen: Portable Bleaching Stick",
+    "slug": "whitening-pen-portable-bleaching-stick",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "On-the-go whitening product.",
+    "mapped_services": [
+      "preventive",
+      "cosmetic"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Whitening Powder: Abrasive Lightening",
+    "slug": "whitening-powder-abrasive-lightening",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Polishing powder bleaching.",
+    "mapped_services": [
+      "preventive",
+      "cosmetic"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "LED Whitening Kits: Light-Accelerated Bleaching",
+    "slug": "led-whitening-kits-light-accelerated-bleaching",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Light-assisted tooth whitening.",
+    "mapped_services": [
+      "preventive",
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Bleaching Side Effects: Gum Sensitivity",
+    "slug": "bleaching-side-effects-gum-sensitivity",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Irritation from whitening products.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Natural Remedies: Whitening Without Chemicals",
+    "slug": "natural-remedies-whitening-without-chemicals",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Non-bleach whitening methods.",
+    "mapped_services": [
+      "preventive",
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Staining Foods: Dietary Impact on Color",
+    "slug": "staining-foods-dietary-impact-on-color",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Foods causing tooth discoloration.",
+    "mapped_services": [
+      "preventive",
+      "nutrition"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Whitening Maintenance Diet: Stain Prevention",
+    "slug": "whitening-maintenance-diet-stain-prevention",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Foods that maintain whiteness.",
+    "mapped_services": [
+      "preventive",
+      "nutrition"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Professional Whitening Cost: Investment",
+    "slug": "professional-whitening-cost-investment",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Pricing in-office bleaching.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Plaque Removal Tools: Scalers and Curettes",
+    "slug": "plaque-removal-tools-scalers-and-curettes",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Instruments for subgingival cleaning.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Area-Specific Curettes: Gracey Instruments",
+    "slug": "area-specific-curettes-gracey-instruments",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Specialized area curettes.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Universal Curette: Multiple-Area Instrument",
+    "slug": "universal-curette-multiple-area-instrument",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Single curette for all areas.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Sharpening Curettes: Maintaining Instrument Edge",
+    "slug": "sharpening-curettes-maintaining-instrument-edge",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Keeping scaling instruments sharp.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Ultrasonic Scaler Tip: Piezo Technology",
+    "slug": "ultrasonic-scaler-tip-piezo-technology",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Vibrating scaler mechanism.",
+    "mapped_services": [
+      "periodontics",
+      "technology"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Sonic Scaler: Oscillating Frequency",
+    "slug": "sonic-scaler-oscillating-frequency",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Alternative to ultrasonic scaling.",
+    "mapped_services": [
+      "periodontics",
+      "technology"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Polishing After Scaling: Final Procedure",
+    "slug": "polishing-after-scaling-final-procedure",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Finishing deep cleaning.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Irrigation Solutions: Medicinal Liquids",
+    "slug": "irrigation-solutions-medicinal-liquids",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Solutions used during treatment.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Subgingival Irrigation: Below-Gum Cleaning",
+    "slug": "subgingival-irrigation-below-gum-cleaning",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Deep pocket medication delivery.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Periodontal Pack: Post-Treatment Dressing",
+    "slug": "periodontal-pack-post-treatment-dressing",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Protective covering after surgery.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Bracket Bonding: Adhesive Placement",
+    "slug": "bracket-bonding-adhesive-placement",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Bonding brackets to teeth.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Bracket Removal: Adhesive Cleanup",
+    "slug": "bracket-removal-adhesive-cleanup",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Removing bonded brackets.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Debonding Tools: Safe Bracket Removal",
+    "slug": "debonding-tools-safe-bracket-removal",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Instrument for bracket extraction.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Enamel Damage from Braces: Prevention",
+    "slug": "enamel-damage-from-braces-prevention",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Protecting teeth during orthodontia.",
+    "mapped_services": [
+      "orthodontics",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Wire Bending: Customizing Appliances",
+    "slug": "wire-bending-customizing-appliances",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Adjusting wires during treatment.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Appliance Adjustment: Adding Force",
+    "slug": "appliance-adjustment-adding-force",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Tightening braces.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Tie Wire: Securing Wire to Bracket",
+    "slug": "tie-wire-securing-wire-to-bracket",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Method of fastening wire.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Ligature: Elastic Fastener for Bracket",
+    "slug": "ligature-elastic-fastener-for-bracket",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Rubber band for bracket ligation.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Coil Spring: Compression Spring Force",
+    "slug": "coil-spring-compression-spring-force",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Spring delivering pressure.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Leveling Phase: Initial Alignment",
+    "slug": "leveling-phase-initial-alignment",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "First stage of orthodontia.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Implant Selection Criteria: Anatomy",
+    "slug": "implant-selection-criteria-anatomy",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Choosing implant size and type.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Implant Torque Range: Proper Tightness",
+    "slug": "implant-torque-range-proper-tightness",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Optimal screw tightening.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Implant Overload: Too Much Force",
+    "slug": "implant-overload-too-much-force",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Excessive loading complications.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Implant Underload: Insufficient Function",
+    "slug": "implant-underload-insufficient-function",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Under-utilized implant.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Progressive Loading: Gradual Force",
+    "slug": "progressive-loading-gradual-force",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Step-wise implant loading.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Implant Splinting: Connecting Multiple",
+    "slug": "implant-splinting-connecting-multiple",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Splinting implants for stability.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cantilever Implant: Extended Beyond Support",
+    "slug": "cantilever-implant-extended-beyond-support",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Implant with overhang.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Stress Distribution: Load Sharing",
+    "slug": "stress-distribution-load-sharing",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "How implant load transfers.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Bone-Implant Interface: Osseointegration Quality",
+    "slug": "bone-implant-interface-osseointegration-quality",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Bone contact measurement.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Implant Placement Angle: Biomechanics",
+    "slug": "implant-placement-angle-biomechanics",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Correct implant orientation.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Rubber Dam Isolation: Moisture Control",
+    "slug": "rubber-dam-isolation-moisture-control",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Preventing contamination during RCT.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Working Length Determination: Apex Location",
+    "slug": "working-length-determination-apex-location",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Finding tooth root tip.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "File Selection: Choosing Instruments",
+    "slug": "file-selection-choosing-instruments",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Different endodontic files.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "File Size: ISO Standardization",
+    "slug": "file-size-iso-standardization",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Standardized file measurements.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Taper: File Cone Shape",
+    "slug": "taper-file-cone-shape",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Endodontic file geometry.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Rotary Files: Motorized Instrumentation",
+    "slug": "rotary-files-motorized-instrumentation",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Machine-driven files.",
+    "mapped_services": [
+      "endodontics",
+      "technology"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Reciprocating Files: Back-Forth Motion",
+    "slug": "reciprocating-files-back-forth-motion",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Alternative file motion.",
+    "mapped_services": [
+      "endodontics",
+      "technology"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Hand Files: Manual Instrumentation",
+    "slug": "hand-files-manual-instrumentation",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Traditional endodontic files.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Nickel-Titanium Files: Modern Material",
+    "slug": "nickel-titanium-files-modern-material",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "NiTi flexibility.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Stainless Steel Files: Traditional Material",
+    "slug": "stainless-steel-files-traditional-material",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Steel file characteristics.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Tooth Luxation: Partial Displacement",
+    "slug": "tooth-luxation-partial-displacement",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Partially loose tooth.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Tooth Avulsion: Complete Displacement",
+    "slug": "tooth-avulsion-complete-displacement",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Completely knocked-out tooth.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Intrusion Trauma: Forced Into Socket",
+    "slug": "intrusion-trauma-forced-into-socket",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Pushed inward injury.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Extrusion Trauma: Pulled Out",
+    "slug": "extrusion-trauma-pulled-out",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Pulled outward injury.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Tissue Trauma: Soft Tissue Injury",
+    "slug": "tissue-trauma-soft-tissue-injury",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Mouth and lip lacerations.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Alveolar Fracture: Jaw Bone Break",
+    "slug": "alveolar-fracture-jaw-bone-break",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Fracture around tooth.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Surgical Drainage: Abscess Treatment",
+    "slug": "surgical-drainage-abscess-treatment",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Incision and drainage procedure.",
+    "mapped_services": [
+      "oral-surgery",
+      "emergency"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Suturing Technique: Surgical Closure",
+    "slug": "suturing-technique-surgical-closure",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Stitching techniques.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Knot Tying: Secure Suture Closure",
+    "slug": "knot-tying-secure-suture-closure",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Stitch security methods.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Surgical Complications: Intraoperative Issues",
+    "slug": "surgical-complications-intraoperative-issues",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Problems during procedure.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Stainless Steel Crown Fit: Proper Sizing",
+    "slug": "stainless-steel-crown-fit-proper-sizing",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Selecting correct crown size.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Topical Fluoride Application: Child Dosing",
+    "slug": "topical-fluoride-application-child-dosing",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Age-appropriate fluoride.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Pulp Testing in Children: Vitality Check",
+    "slug": "pulp-testing-in-children-vitality-check",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Testing tooth nerve in kids.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Primary Tooth Mobility: When to Extract",
+    "slug": "primary-tooth-mobility-when-to-extract",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Removal timing for baby teeth.",
+    "mapped_services": [
+      "pediatric",
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Mixed Dentition Guidance: Directing Eruption",
+    "slug": "mixed-dentition-guidance-directing-eruption",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Managing tooth transition period.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Interceptive Extraction: Preventing Future Problems",
+    "slug": "interceptive-extraction-preventing-future-problems",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Strategic primary tooth removal.",
+    "mapped_services": [
+      "pediatric",
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Serial Extraction: Sequential Removal",
+    "slug": "serial-extraction-sequential-removal",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Multiple teeth removal sequentially.",
+    "mapped_services": [
+      "pediatric",
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Fissure Sealant Application: Child Prevention",
+    "slug": "fissure-sealant-application-child-prevention",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Protective coating in kids.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Fluoride Varnish Pediatric: High-Strength",
+    "slug": "fluoride-varnish-pediatric-high-strength",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Professional fluoride for children.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Dietary Counseling: Child Nutrition",
+    "slug": "dietary-counseling-child-nutrition",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Food guidance for child teeth.",
+    "mapped_services": [
+      "pediatric",
+      "nutrition"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Denture Compression: Tissue Adaptation",
+    "slug": "denture-compression-tissue-adaptation",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Denture settling period.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Denture Border Molding: Custom Fit",
+    "slug": "denture-border-molding-custom-fit",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Final border adjustment.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Centric Relation: Optimal Bite Position",
+    "slug": "centric-relation-optimal-bite-position",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Maximum intercuspidation.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Eccentric Relation: Side-to-Side Movement",
+    "slug": "eccentric-relation-side-to-side-movement",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Lateral jaw movement.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Denture Occlusion: Bite Contact",
+    "slug": "denture-occlusion-bite-contact",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Tooth contact in dentures.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Balanced Occlusion: Stability Throughout",
+    "slug": "balanced-occlusion-stability-throughout",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Even contact in all positions.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Maxillary Denture Retention: Palatal Seal",
+    "slug": "maxillary-denture-retention-palatal-seal",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Upper denture retention technique.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Mandibular Denture Challenges: Smaller Base",
+    "slug": "mandibular-denture-challenges-smaller-base",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Lower denture retention difficulty.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Soft Relines: Tissue Conditioning",
+    "slug": "soft-relines-tissue-conditioning",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Soft material denture adjustment.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Hard Relines: Permanent Adjustment",
+    "slug": "hard-relines-permanent-adjustment",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Hard material denture rebasing.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Pain Relief Methods: Complete Guide",
+    "slug": "pain-relief-methods-complete-guide",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about pain relief methods for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "How to Pain Relief Methods",
+    "slug": "how-to-pain-relief-methods",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about pain relief methods for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Why Pain Relief Methods Matters",
+    "slug": "why-pain-relief-methods-matters",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about pain relief methods for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Pain Relief Methods: What You Need to Know",
+    "slug": "pain-relief-methods-what-you-need-to-know",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about pain relief methods for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Best Practices for Pain Relief Methods",
+    "slug": "best-practices-for-pain-relief-methods",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about pain relief methods for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Common Misconceptions About Pain Relief Methods",
+    "slug": "common-misconceptions-about-pain-relief-methods",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about pain relief methods for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cost of Pain Relief Methods",
+    "slug": "cost-of-pain-relief-methods",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about pain relief methods for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Benefits of Pain Relief Methods",
+    "slug": "benefits-of-pain-relief-methods",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about pain relief methods for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Risk and Concerns with Pain Relief Methods",
+    "slug": "risk-and-concerns-with-pain-relief-methods",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about pain relief methods for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Timeline for Pain Relief Methods",
+    "slug": "timeline-for-pain-relief-methods",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about pain relief methods for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Oral Surgery Recovery Timeline: Complete Guide",
+    "slug": "oral-surgery-recovery-timeline-complete-guide",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about oral surgery recovery timeline for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "How to Oral Surgery Recovery Timeline",
+    "slug": "how-to-oral-surgery-recovery-timeline",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about oral surgery recovery timeline for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Why Oral Surgery Recovery Timeline Matters",
+    "slug": "why-oral-surgery-recovery-timeline-matters",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about oral surgery recovery timeline for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Oral Surgery Recovery Timeline: What You Need to Know",
+    "slug": "oral-surgery-recovery-timeline-what-you-need-to-know",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about oral surgery recovery timeline for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Best Practices for Oral Surgery Recovery Timeline",
+    "slug": "best-practices-for-oral-surgery-recovery-timeline",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about oral surgery recovery timeline for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Common Misconceptions About Oral Surgery Recovery Timeline",
+    "slug": "common-misconceptions-about-oral-surgery-recovery-timeline",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about oral surgery recovery timeline for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cost of Oral Surgery Recovery Timeline",
+    "slug": "cost-of-oral-surgery-recovery-timeline",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about oral surgery recovery timeline for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Benefits of Oral Surgery Recovery Timeline",
+    "slug": "benefits-of-oral-surgery-recovery-timeline",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about oral surgery recovery timeline for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Risk and Concerns with Oral Surgery Recovery Timeline",
+    "slug": "risk-and-concerns-with-oral-surgery-recovery-timeline",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about oral surgery recovery timeline for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Timeline for Oral Surgery Recovery Timeline",
+    "slug": "timeline-for-oral-surgery-recovery-timeline",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about oral surgery recovery timeline for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cavity Diagnosis Process: Complete Guide",
+    "slug": "cavity-diagnosis-process-complete-guide",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about cavity diagnosis process for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "How to Cavity Diagnosis Process",
+    "slug": "how-to-cavity-diagnosis-process",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about cavity diagnosis process for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Why Cavity Diagnosis Process Matters",
+    "slug": "why-cavity-diagnosis-process-matters",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about cavity diagnosis process for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cavity Diagnosis Process: What You Need to Know",
+    "slug": "cavity-diagnosis-process-what-you-need-to-know",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about cavity diagnosis process for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Best Practices for Cavity Diagnosis Process",
+    "slug": "best-practices-for-cavity-diagnosis-process",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about cavity diagnosis process for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Common Misconceptions About Cavity Diagnosis Process",
+    "slug": "common-misconceptions-about-cavity-diagnosis-process",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about cavity diagnosis process for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cost of Cavity Diagnosis Process",
+    "slug": "cost-of-cavity-diagnosis-process",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about cavity diagnosis process for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Benefits of Cavity Diagnosis Process",
+    "slug": "benefits-of-cavity-diagnosis-process",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about cavity diagnosis process for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Risk and Concerns with Cavity Diagnosis Process",
+    "slug": "risk-and-concerns-with-cavity-diagnosis-process",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about cavity diagnosis process for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Timeline for Cavity Diagnosis Process",
+    "slug": "timeline-for-cavity-diagnosis-process",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about cavity diagnosis process for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Tooth Restoration Comparison: Complete Guide",
+    "slug": "tooth-restoration-comparison-complete-guide",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about tooth restoration comparison for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "How to Tooth Restoration Comparison",
+    "slug": "how-to-tooth-restoration-comparison",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about tooth restoration comparison for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Why Tooth Restoration Comparison Matters",
+    "slug": "why-tooth-restoration-comparison-matters",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about tooth restoration comparison for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Tooth Restoration Comparison: What You Need to Know",
+    "slug": "tooth-restoration-comparison-what-you-need-to-know",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about tooth restoration comparison for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Best Practices for Tooth Restoration Comparison",
+    "slug": "best-practices-for-tooth-restoration-comparison",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about tooth restoration comparison for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Common Misconceptions About Tooth Restoration Comparison",
+    "slug": "common-misconceptions-about-tooth-restoration-comparison",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about tooth restoration comparison for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cost of Tooth Restoration Comparison",
+    "slug": "cost-of-tooth-restoration-comparison",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about tooth restoration comparison for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Benefits of Tooth Restoration Comparison",
+    "slug": "benefits-of-tooth-restoration-comparison",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about tooth restoration comparison for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Risk and Concerns with Tooth Restoration Comparison",
+    "slug": "risk-and-concerns-with-tooth-restoration-comparison",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about tooth restoration comparison for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Timeline for Tooth Restoration Comparison",
+    "slug": "timeline-for-tooth-restoration-comparison",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about tooth restoration comparison for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Filling Material Selection: Complete Guide",
+    "slug": "filling-material-selection-complete-guide",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about filling material selection for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "How to Filling Material Selection",
+    "slug": "how-to-filling-material-selection",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about filling material selection for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Why Filling Material Selection Matters",
+    "slug": "why-filling-material-selection-matters",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about filling material selection for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Filling Material Selection: What You Need to Know",
+    "slug": "filling-material-selection-what-you-need-to-know",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about filling material selection for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Best Practices for Filling Material Selection",
+    "slug": "best-practices-for-filling-material-selection",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about filling material selection for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Common Misconceptions About Filling Material Selection",
+    "slug": "common-misconceptions-about-filling-material-selection",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about filling material selection for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cost of Filling Material Selection",
+    "slug": "cost-of-filling-material-selection",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about filling material selection for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Benefits of Filling Material Selection",
+    "slug": "benefits-of-filling-material-selection",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about filling material selection for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Risk and Concerns with Filling Material Selection",
+    "slug": "risk-and-concerns-with-filling-material-selection",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about filling material selection for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Timeline for Filling Material Selection",
+    "slug": "timeline-for-filling-material-selection",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about filling material selection for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Crown vs Bridge Decision: Complete Guide",
+    "slug": "crown-vs-bridge-decision-complete-guide",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about crown vs bridge decision for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "How to Crown vs Bridge Decision",
+    "slug": "how-to-crown-vs-bridge-decision",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about crown vs bridge decision for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Why Crown vs Bridge Decision Matters",
+    "slug": "why-crown-vs-bridge-decision-matters",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about crown vs bridge decision for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Crown vs Bridge Decision: What You Need to Know",
+    "slug": "crown-vs-bridge-decision-what-you-need-to-know",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about crown vs bridge decision for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Best Practices for Crown vs Bridge Decision",
+    "slug": "best-practices-for-crown-vs-bridge-decision",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about crown vs bridge decision for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Common Misconceptions About Crown vs Bridge Decision",
+    "slug": "common-misconceptions-about-crown-vs-bridge-decision",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about crown vs bridge decision for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cost of Crown vs Bridge Decision",
+    "slug": "cost-of-crown-vs-bridge-decision",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about crown vs bridge decision for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Benefits of Crown vs Bridge Decision",
+    "slug": "benefits-of-crown-vs-bridge-decision",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about crown vs bridge decision for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Risk and Concerns with Crown vs Bridge Decision",
+    "slug": "risk-and-concerns-with-crown-vs-bridge-decision",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about crown vs bridge decision for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Timeline for Crown vs Bridge Decision",
+    "slug": "timeline-for-crown-vs-bridge-decision",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about crown vs bridge decision for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Dental Procedure Planning: Complete Guide",
+    "slug": "dental-procedure-planning-complete-guide",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about dental procedure planning for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "How to Dental Procedure Planning",
+    "slug": "how-to-dental-procedure-planning",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about dental procedure planning for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Why Dental Procedure Planning Matters",
+    "slug": "why-dental-procedure-planning-matters",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about dental procedure planning for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Dental Procedure Planning: What You Need to Know",
+    "slug": "dental-procedure-planning-what-you-need-to-know",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about dental procedure planning for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Best Practices for Dental Procedure Planning",
+    "slug": "best-practices-for-dental-procedure-planning",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about dental procedure planning for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Common Misconceptions About Dental Procedure Planning",
+    "slug": "common-misconceptions-about-dental-procedure-planning",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about dental procedure planning for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cost of Dental Procedure Planning",
+    "slug": "cost-of-dental-procedure-planning",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about dental procedure planning for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Benefits of Dental Procedure Planning",
+    "slug": "benefits-of-dental-procedure-planning",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about dental procedure planning for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Risk and Concerns with Dental Procedure Planning",
+    "slug": "risk-and-concerns-with-dental-procedure-planning",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about dental procedure planning for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Timeline for Dental Procedure Planning",
+    "slug": "timeline-for-dental-procedure-planning",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about dental procedure planning for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Recovery After Extraction: Complete Guide",
+    "slug": "recovery-after-extraction-complete-guide",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about recovery after extraction for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "How to Recovery After Extraction",
+    "slug": "how-to-recovery-after-extraction",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about recovery after extraction for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Why Recovery After Extraction Matters",
+    "slug": "why-recovery-after-extraction-matters",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about recovery after extraction for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Recovery After Extraction: What You Need to Know",
+    "slug": "recovery-after-extraction-what-you-need-to-know",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about recovery after extraction for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Best Practices for Recovery After Extraction",
+    "slug": "best-practices-for-recovery-after-extraction",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about recovery after extraction for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Common Misconceptions About Recovery After Extraction",
+    "slug": "common-misconceptions-about-recovery-after-extraction",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about recovery after extraction for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Cost of Recovery After Extraction",
+    "slug": "cost-of-recovery-after-extraction",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about recovery after extraction for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Benefits of Recovery After Extraction",
+    "slug": "benefits-of-recovery-after-extraction",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about recovery after extraction for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Risk and Concerns with Recovery After Extraction",
+    "slug": "risk-and-concerns-with-recovery-after-extraction",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Comprehensive information about recovery after extraction for optimal dental health.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  }
+]
