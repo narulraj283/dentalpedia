@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DentalPedia — The AI-Powered Dental Encyclopedia</title>
+  <meta name="description" content="DentalPedia is an AI-powered dental encyclopedia with thousands of expert-reviewed articles on dental health, procedures, conditions, and more.">
+  <meta property="og:title" content="DentalPedia — The AI-Powered Dental Encyclopedia">
+  <meta property="og:description" content="Comprehensive, expert-reviewed dental encyclopedia powered by AI.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://dentalpedia.co">
+  <link rel="canonical" href="https://dentalpedia.co">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "DentalPedia",
+    "url": "https://dentalpedia.co",
+    "description": "AI-powered dental encyclopedia with expert-reviewed articles",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://dentalpedia.co/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  }
+  </script>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar">
+    <div class="container">
+      <a href="/" class="navbar-brand">
+        <span class="logo-icon">🦷</span>
+        DentalPedia
+      </a>
+      <ul class="navbar-nav">
+        <li><a href="/categories.html">Categories</a></li>
+        <li><a href="/dentists.html">Expert Reviewers</a></li>
+        <li><a href="/about.html">About</a></li>
+        <li><button class="theme-toggle" aria-label="Toggle dark mode">🌙</button></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero">
+    <h1 class="hero-title">DentalPedia</h1>
+    <p class="hero-subtitle">The AI-powered dental encyclopedia. Expert-reviewed articles on every dental topic — from basic hygiene to advanced procedures.</p>
+
+    <div class="hero-stats">
+      <div class="stat-item">
+        <div class="stat-number article-count" data-count="47">47</div>
+        <div class="stat-label">Articles</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">12</div>
+        <div class="stat-label">Categories</div>
+      </div>
+      <div class="stat-item">
+        <div class="stat-number">AI + Expert</div>
+        <div class="stat-label">Reviewed</div>
+      </div>
+    </div>
+
+    <!-- Search -->
+    <div class="search-container">
+      <span class="search-icon">🔍</span>
+      <input type="text" class="search-input" placeholder="Search dental topics..." aria-label="Search articles">
+      <div class="search-results"></div>
+    </div>
+  </section>
+
+  <!-- Categories -->
+  <section class="categories-section container">
+    <h2 class="section-title">Browse by Category</h2>
+    <div class="categories-grid">
+      <a href="/category/general-dentistry.html" class="category-card">
+        <div class="category-icon">🩺</div>
+        <div class="category-name">General Dentistry</div>
+        <div class="category-count">8 articles</div>
+      </a>
+      <a href="/category/orthodontics.html" class="category-card">
+        <div class="category-icon">😁</div>
+        <div class="category-name">Orthodontics</div>
+        <div class="category-count">5 articles</div>
+      </a>
+      <a href="/category/oral-surgery.html" class="category-card">
+        <div class="category-icon">🔬</div>
+        <div class="category-name">Oral Surgery</div>
+        <div class="category-count">4 articles</div>
+      </a>
+      <a href="/category/cosmetic-dentistry.html" class="category-card">
+        <div class="category-icon">✨</div>
+        <div class="category-name">Cosmetic Dentistry</div>
+        <div class="category-count">5 articles</div>
+      </a>
+      <a href="/category/pediatric-dentistry.html" class="category-card">
+        <div class="category-icon">👶</div>
+        <div class="category-name">Pediatric Dentistry</div>
+        <div class="category-count">4 articles</div>
+      </a>
+      <a href="/category/periodontics.html" class="category-card">
+        <div class="category-icon">🫁</div>
+        <div class="category-name">Periodontics</div>
+        <div class="category-count">4 articles</div>
+      </a>
+      <a href="/category/endodontics.html" class="category-card">
+        <div class="category-icon">🔧</div>
+        <div class="category-name">Endodontics</div>
+        <div class="category-count">3 articles</div>
+      </a>
+      <a href="/category/prosthodontics.html" class="category-card">
+        <div class="category-icon">🦿</div>
+        <div class="category-name">Prosthodontics</div>
+        <div class="category-count">4 articles</div>
+      </a>
+      <a href="/category/dental-hygiene.html" class="category-card">
+        <div class="category-icon">🪥</div>
+        <div class="category-name">Dental Hygiene</div>
+        <div class="category-count">4 articles</div>
+      </a>
+      <a href="/category/dental-conditions.html" class="category-card">
+        <div class="category-icon">⚠️</div>
+        <div class="category-name">Dental Conditions</div>
+        <div class="category-count">3 articles</div>
+      </a>
+      <a href="/category/dental-technology.html" class="category-card">
+        <div class="category-icon">💻</div>
+        <div class="category-name">Dental Technology</div>
+        <div class="category-count">2 articles</div>
+      </a>
+      <a href="/category/dental-insurance.html" class="category-card">
+        <div class="category-icon">📋</div>
+        <div class="category-name">Insurance & Costs</div>
+        <div class="category-count">1 article</div>
+      </a>
+    </div>
+  </section>
+
+  <!-- Recent Articles -->
+  <section class="articles-section container">
+    <h2 class="section-title">Latest Articles</h2>
+    <div class="articles-grid" id="recent-articles">
+      <!-- Populated by build script or static -->
+      <a href="/article/dental-implants.html" class="article-card">
+        <div class="card-category">Prosthodontics</div>
+        <div class="card-title">Dental Implants: A Complete Guide</div>
+        <div class="card-excerpt">Everything you need to know about dental implants — from types and procedures to recovery, costs, and long-term care.</div>
+      </a>
+      <a href="/article/teeth-whitening.html" class="article-card">
+        <div class="card-category">Cosmetic Dentistry</div>
+        <div class="card-title">Teeth Whitening: Methods, Safety & Results</div>
+        <div class="card-excerpt">Compare professional and at-home whitening options, understand the science behind bleaching, and learn what results to expect.</div>
+      </a>
+      <a href="/article/root-canal-treatment.html" class="article-card">
+        <div class="card-category">Endodontics</div>
+        <div class="card-title">Root Canal Treatment Explained</div>
+        <div class="card-excerpt">A comprehensive look at root canal therapy — why it's needed, what happens during the procedure, and how to recover.</div>
+      </a>
+      <a href="/article/invisalign-vs-braces.html" class="article-card">
+        <div class="card-category">Orthodontics</div>
+        <div class="card-title">Invisalign vs. Traditional Braces</div>
+        <div class="card-excerpt">An in-depth comparison of clear aligners and metal braces covering cost, effectiveness, comfort, and treatment timelines.</div>
+      </a>
+      <a href="/article/gum-disease.html" class="article-card">
+        <div class="card-category">Periodontics</div>
+        <div class="card-title">Gum Disease: Stages, Symptoms & Treatment</div>
+        <div class="card-excerpt">Understanding gingivitis and periodontitis — early warning signs, risk factors, and modern treatment approaches.</div>
+      </a>
+      <a href="/article/wisdom-teeth-removal.html" class="article-card">
+        <div class="card-category">Oral Surgery</div>
+        <div class="card-title">Wisdom Teeth Removal: What to Expect</div>
+        <div class="card-excerpt">A guide to wisdom tooth extraction covering when it's necessary, the surgical process, recovery tips, and potential complications.</div>
+      </a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-text">
+          © 2026 DentalPedia. AI-generated content reviewed by licensed dental professionals.<br>
+          <small>Not a substitute for professional dental advice. Always consult your dentist.</small>
+        </div>
+        <ul class="footer-links">
+          <li><a href="/about.html">About</a></li>
+          <li><a href="/suggest.html">Suggest an Edit</a></li>
+          <li><a href="/dentists.html">For Dentists</a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+  <script src="/assets/js/main.js"></script>
+</body>
+</html>
