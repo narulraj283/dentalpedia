@@ -1,0 +1,2281 @@
+[
+  {
+    "title": "Complete Guide to Dental Exams and Cleanings",
+    "slug": "complete-guide-to-dental-exams-and-cleanings",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Learn what to expect during routine dental visits and why regular exams are crucial for oral health.",
+    "mapped_services": [
+      "general",
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Dental Filling Options: Composite, Amalgam, and Ceramic",
+    "slug": "dental-filling-options-composite-amalgam-and-ceramic",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Explore different filling materials, their benefits, and how to choose the best option for your teeth.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Tooth Decay Prevention: Causes and Treatment",
+    "slug": "tooth-decay-prevention-causes-and-treatment",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Understand how cavities form and discover effective prevention strategies and treatment options.",
+    "mapped_services": [
+      "general",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Understanding Tooth Sensitivity and Relief Options",
+    "slug": "understanding-tooth-sensitivity-and-relief-options",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Find out why your teeth hurt and learn about treatments to reduce sensitivity and discomfort.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Dental Sealants for Cavity Prevention",
+    "slug": "dental-sealants-for-cavity-prevention",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Discover how dental sealants protect your teeth from decay, especially in hard-to-clean areas.",
+    "mapped_services": [
+      "general",
+      "preventive"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Guide to Dental Bonding and Composite Resin",
+    "slug": "guide-to-dental-bonding-and-composite-resin",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Learn about this affordable cosmetic and restorative procedure for chipped or discolored teeth.",
+    "mapped_services": [
+      "general",
+      "cosmetic",
+      "restorative"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Tooth Extraction Aftercare: Recovery and Complications",
+    "slug": "tooth-extraction-aftercare-recovery-and-complications",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Post-extraction care instructions to ensure proper healing and minimize complications.",
+    "mapped_services": [
+      "general",
+      "oral-surgery"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Bite Problems and Malocclusion Explained",
+    "slug": "bite-problems-and-malocclusion-explained",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Understand different types of bite issues and how they affect your oral health and appearance.",
+    "mapped_services": [
+      "general",
+      "orthodontics"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Dental X-Rays: Safety, Types, and What They Reveal",
+    "slug": "dental-x-rays-safety-types-and-what-they-reveal",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Everything you need to know about different types of dental imaging and their importance.",
+    "mapped_services": [
+      "general",
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Fluoride Treatments: Benefits and Application",
+    "slug": "fluoride-treatments-benefits-and-application",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Learn how fluoride strengthens tooth enamel and prevents decay in both children and adults.",
+    "mapped_services": [
+      "general",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Chipped or Cracked Tooth: Treatment Options",
+    "slug": "chipped-or-cracked-tooth-treatment-options",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Discover treatment options ranging from bonding to crowns based on damage severity.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Tooth Grinding (Bruxism) and Night Guards",
+    "slug": "tooth-grinding-bruxism-and-night-guards",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Understand the causes of teeth grinding and how protective devices prevent further damage.",
+    "mapped_services": [
+      "general",
+      "tmj"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Dental Checkup Frequency: How Often Should You Visit?",
+    "slug": "dental-checkup-frequency-how-often-should-you-visit",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Guidelines for visit frequency based on your oral health status and risk factors.",
+    "mapped_services": [
+      "general",
+      "preventive"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Professional Fluoride vs Over-the-Counter Treatments",
+    "slug": "professional-fluoride-vs-over-the-counter-treatments",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Compare professional fluoride treatments with at-home options for maximum effectiveness.",
+    "mapped_services": [
+      "general",
+      "preventive"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Dental Plaque and Tartar: Differences and Removal",
+    "slug": "dental-plaque-and-tartar-differences-and-removal",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Learn the difference between plaque and tartar, and why professional removal matters.",
+    "mapped_services": [
+      "general",
+      "preventive"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Dental Insurance: Coverage Types and What's Included",
+    "slug": "dental-insurance-coverage-types-and-whats-included",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Navigate different dental insurance plans and understand what procedures are typically covered.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Teeth Straightening Without Braces: Modern Alternatives",
+    "slug": "teeth-straightening-without-braces-modern-alternatives",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Explore clear aligner systems and other discreet options for adult teeth alignment.",
+    "mapped_services": [
+      "general",
+      "orthodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Oral Thrush and Fungal Infections: Causes and Treatment",
+    "slug": "oral-thrush-and-fungal-infections-causes-and-treatment",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Understand candida infections in the mouth and effective treatment approaches.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Bad Breath (Halitosis): Causes and Solutions",
+    "slug": "bad-breath-halitosis-causes-and-solutions",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Identify the underlying causes of persistent bad breath and proven treatment methods.",
+    "mapped_services": [
+      "general",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Dry Mouth Causes and Management Strategies",
+    "slug": "dry-mouth-causes-and-management-strategies",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Learn about xerostomia, its causes, and ways to manage and treat this common condition.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Stainless Steel vs Gold Crowns: Durability and Aesthetics",
+    "slug": "stainless-steel-vs-gold-crowns-durability-and-aesthetics",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Compare crown materials to find the best option for longevity and appearance.",
+    "mapped_services": [
+      "general",
+      "restorative"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Dental Bridge vs Implant: Cost and Longevity Comparison",
+    "slug": "dental-bridge-vs-implant-cost-and-longevity-comparison",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Understand the differences between bridges and implants for replacing missing teeth.",
+    "mapped_services": [
+      "general",
+      "implants",
+      "prosthodontics"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Mouth Ulcers and Canker Sores: Treatment and Prevention",
+    "slug": "mouth-ulcers-and-canker-sores-treatment-and-prevention",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Discover causes of oral ulcers and effective home remedies and professional treatments.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Dental Health During Pregnancy: Special Considerations",
+    "slug": "dental-health-during-pregnancy-special-considerations",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Important oral health guidelines and safe dental treatments during pregnancy.",
+    "mapped_services": [
+      "general",
+      "preventive"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "How to Choose the Right Toothbrush and Technique",
+    "slug": "how-to-choose-the-right-toothbrush-and-technique",
+    "category": "General Dentistry",
+    "category_slug": "general-dentistry",
+    "excerpt": "Select the best toothbrush type and learn proper brushing technique for optimal cleaning.",
+    "mapped_services": [
+      "general",
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Tooth Whitening Methods: Professional vs At-Home Treatments",
+    "slug": "tooth-whitening-methods-professional-vs-at-home-treatments",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Compare different whitening options, including professional treatments and at-home kits.",
+    "mapped_services": [
+      "cosmetic",
+      "whitening"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Dental Veneers vs Bonding: Which is Right for You",
+    "slug": "dental-veneers-vs-bonding-which-is-right-for-you",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Explore the differences between veneers and bonding for transforming your smile.",
+    "mapped_services": [
+      "cosmetic",
+      "restorative"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Smile Makeover Planning: From Consultation to Transformation",
+    "slug": "smile-makeover-planning-from-consultation-to-transformation",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Learn the comprehensive process of planning and executing a complete smile transformation.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Tooth Contouring and Reshaping Procedures",
+    "slug": "tooth-contouring-and-reshaping-procedures",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Discover how minor reshaping can dramatically improve the appearance of your teeth.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Gum Contouring for a Better Smile: Gummy Smile Solutions",
+    "slug": "gum-contouring-for-a-better-smile-gummy-smile-solutions",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Understand procedures to reshape your gumline for improved aesthetics.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Teeth Whitening Safety: Side Effects and Best Practices",
+    "slug": "teeth-whitening-safety-side-effects-and-best-practices",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Learn about potential side effects of whitening and how to minimize sensitivity.",
+    "mapped_services": [
+      "cosmetic",
+      "whitening"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Maintaining Your Whitened Teeth: Tips and Touch-ups",
+    "slug": "maintaining-your-whitened-teeth-tips-and-touch-ups",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Strategies to keep your teeth white longer and maintain your whitening results.",
+    "mapped_services": [
+      "cosmetic",
+      "whitening"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Porcelain Crowns: The Gold Standard for Cosmetic Restoration",
+    "slug": "porcelain-crowns-the-gold-standard-for-cosmetic-restoration",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Learn why porcelain crowns are preferred for natural-looking restorations.",
+    "mapped_services": [
+      "cosmetic",
+      "restorative"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Ceramic vs Porcelain Veneers: Material Comparison",
+    "slug": "ceramic-vs-porcelain-veneers-material-comparison",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Understand the differences between ceramic and porcelain veneers.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Lumineers: Minimal Prep Veneers Explained",
+    "slug": "lumineers-minimal-prep-veneers-explained",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Discover ultra-thin veneers that require little to no tooth preparation.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Smile Symmetry and Proportion: Aesthetic Principles",
+    "slug": "smile-symmetry-and-proportion-aesthetic-principles",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Learn the principles of dental aesthetics and what creates a beautiful smile.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Natural-Looking Smile Design: Digital Planning",
+    "slug": "natural-looking-smile-design-digital-planning",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Explore how digital smile design helps plan cosmetic treatments.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Teeth Whitening for Sensitive Teeth: Safe Approaches",
+    "slug": "teeth-whitening-for-sensitive-teeth-safe-approaches",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Methods to whiten your teeth without exacerbating sensitivity issues.",
+    "mapped_services": [
+      "cosmetic",
+      "whitening"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Color Selection for Dental Restorations",
+    "slug": "color-selection-for-dental-restorations",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Understand how dentists select colors for crowns, veneers, and other restorations.",
+    "mapped_services": [
+      "cosmetic",
+      "restorative"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Enamel Erosion and Cosmetic Restoration Options",
+    "slug": "enamel-erosion-and-cosmetic-restoration-options",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Restore eroded enamel with bonding, veneers, or other cosmetic procedures.",
+    "mapped_services": [
+      "cosmetic",
+      "restorative"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Teeth Whitening for Stained Teeth from Medications",
+    "slug": "teeth-whitening-for-stained-teeth-from-medications",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Specialized whitening approaches for teeth stained by antibiotics or other medications.",
+    "mapped_services": [
+      "cosmetic",
+      "whitening"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Cosmetic Bonding for Gaps Between Teeth",
+    "slug": "cosmetic-bonding-for-gaps-between-teeth",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Quick and affordable cosmetic solution for closing small gaps between teeth.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Before and After Cosmetic Dentistry: Setting Expectations",
+    "slug": "before-and-after-cosmetic-dentistry-setting-expectations",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Understand realistic outcomes and how to prepare for cosmetic dental procedures.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Cosmetic Dentistry for Aged Teeth: Age-Related Changes",
+    "slug": "cosmetic-dentistry-for-aged-teeth-age-related-changes",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "Address cosmetic concerns that develop with aging, including discoloration and wear.",
+    "mapped_services": [
+      "cosmetic",
+      "restorative"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Combining Cosmetic and Restorative Dentistry",
+    "slug": "combining-cosmetic-and-restorative-dentistry",
+    "category": "Cosmetic Dentistry",
+    "category_slug": "cosmetic-dentistry",
+    "excerpt": "How modern cosmetic and restorative techniques work together for optimal results.",
+    "mapped_services": [
+      "cosmetic",
+      "restorative"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Braces vs Invisalign: Comprehensive Comparison Guide",
+    "slug": "braces-vs-invisalign-comprehensive-comparison-guide",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Compare traditional braces and clear aligners across effectiveness, comfort, and cost.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Clear Aligner Technology: How It Works and Effectiveness",
+    "slug": "clear-aligner-technology-how-it-works-and-effectiveness",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Understanding the science behind clear aligners and their application in orthodontics.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Traditional Metal Braces: Process and Care",
+    "slug": "traditional-metal-braces-process-and-care",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Complete guide to metal braces, including placement, maintenance, and what to expect.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Ceramic Braces: Aesthetic and Functional Considerations",
+    "slug": "ceramic-braces-aesthetic-and-functional-considerations",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Explore tooth-colored braces that are less visible than traditional metal braces.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Lingual Braces: Hidden Orthodontics Behind Your Teeth",
+    "slug": "lingual-braces-hidden-orthodontics-behind-your-teeth",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Learn about braces placed behind teeth for completely discreet treatment.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Orthodontic Treatment Duration: Factors Affecting Timeline",
+    "slug": "orthodontic-treatment-duration-factors-affecting-timeline",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Understand what influences how long your orthodontic treatment will take.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Invisalign Cost Factors: What Affects Your Treatment Price",
+    "slug": "invisalign-cost-factors-what-affects-your-treatment-price",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Understand the variables that determine the cost of clear aligner therapy.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Adult Orthodontics: Is It Ever Too Late?",
+    "slug": "adult-orthodontics-is-it-ever-too-late",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Discover how modern orthodontics makes teeth straightening possible at any age.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Orthodontic Retainers: Types and Long-Term Wear",
+    "slug": "orthodontic-retainers-types-and-long-term-wear",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Learn about different retainer types and why wearing them after braces is essential.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Food Restrictions with Braces: What You Can and Cannot Eat",
+    "slug": "food-restrictions-with-braces-what-you-can-and-cannot-eat",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Complete list of foods to avoid with braces to prevent damage and complications.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Maintaining Oral Hygiene with Braces",
+    "slug": "maintaining-oral-hygiene-with-braces",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Special brushing and flossing techniques for keeping teeth clean during orthodontic treatment.",
+    "mapped_services": [
+      "orthodontics",
+      "preventive"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Early Orthodontic Treatment: Benefits of Starting Early",
+    "slug": "early-orthodontic-treatment-benefits-of-starting-early",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "How early intervention can guide proper jaw development in children.",
+    "mapped_services": [
+      "orthodontics",
+      "pediatric"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Accelerated Orthodontics: Speeding Up Your Treatment",
+    "slug": "accelerated-orthodontics-speeding-up-your-treatment",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Newer techniques and technologies that can reduce treatment time.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Bite Correction: Underbite, Overbite, and Crossbite",
+    "slug": "bite-correction-underbite-overbite-and-crossbite",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Understand different bite problems and how orthodontics corrects them.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Self-Ligating Braces: Advantages Over Traditional Braces",
+    "slug": "self-ligating-braces-advantages-over-traditional-braces",
+    "category": "Orthodontics",
+    "category_slug": "orthodontics",
+    "excerpt": "Learn about modern bracket technology that may offer improved comfort and efficiency.",
+    "mapped_services": [
+      "orthodontics"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Surgical Tooth Extraction: When and Why It's Necessary",
+    "slug": "surgical-tooth-extraction-when-and-why-its-necessary",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Understanding complex extractions and when oral surgery is required.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Wisdom Teeth: Do They Always Need to Be Removed?",
+    "slug": "wisdom-teeth-do-they-always-need-to-be-removed",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Guidelines for wisdom tooth removal and when retention is possible.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Wisdom Teeth Recovery: Timeline and Pain Management",
+    "slug": "wisdom-teeth-recovery-timeline-and-pain-management",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "What to expect after wisdom tooth extraction and how to manage discomfort.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Dry Socket Prevention and Treatment",
+    "slug": "dry-socket-prevention-and-treatment",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Learn about this painful post-extraction complication and how to prevent it.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Bone Grafting for Implant Preparation",
+    "slug": "bone-grafting-for-implant-preparation",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Understanding bone grafting procedures needed for dental implant placement.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Sinus Lift Surgery for Upper Dental Implants",
+    "slug": "sinus-lift-surgery-for-upper-dental-implants",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Surgical procedure to increase bone height for upper jaw implants.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Jaw Surgery for Severe Bite Problems",
+    "slug": "jaw-surgery-for-severe-bite-problems",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Orthognathic surgery to correct significant jaw misalignment.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Oral Biopsies: Diagnosis of Suspicious Lesions",
+    "slug": "oral-biopsies-diagnosis-of-suspicious-lesions",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Understanding how oral biopsies help diagnose oral diseases and conditions.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Implant Placement: Surgical Procedure and Recovery",
+    "slug": "implant-placement-surgical-procedure-and-recovery",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Step-by-step explanation of dental implant surgery and recovery timeline.",
+    "mapped_services": [
+      "oral-surgery",
+      "implants"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Guided Bone Regeneration in Dental Surgery",
+    "slug": "guided-bone-regeneration-in-dental-surgery",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Techniques to encourage bone growth for dental restoration.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Anesthesia Options in Oral Surgery",
+    "slug": "anesthesia-options-in-oral-surgery",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Local, IV, and general anesthesia options for surgical procedures.",
+    "mapped_services": [
+      "oral-surgery",
+      "sedation"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Complications After Tooth Extraction: What to Watch For",
+    "slug": "complications-after-tooth-extraction-what-to-watch-for",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Potential complications and warning signs requiring immediate attention.",
+    "mapped_services": [
+      "oral-surgery",
+      "emergency"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Impacted Teeth Removal: Canines, Molars, and Premolars",
+    "slug": "impacted-teeth-removal-canines-molars-and-premolars",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Surgical techniques for removing teeth that haven't erupted properly.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Cleft Lip and Palate Surgery: Multidisciplinary Approach",
+    "slug": "cleft-lip-and-palate-surgery-multidisciplinary-approach",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "Overview of surgical correction for congenital cleft conditions.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Oral Cancer Diagnosis and Surgical Treatment",
+    "slug": "oral-cancer-diagnosis-and-surgical-treatment",
+    "category": "Oral Surgery",
+    "category_slug": "oral-surgery",
+    "excerpt": "How oral cancers are diagnosed and surgical approaches to treatment.",
+    "mapped_services": [
+      "oral-surgery"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "First Dental Visit: Preparing Your Child",
+    "slug": "first-dental-visit-preparing-your-child",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "How to prepare your child for their first dental appointment and what to expect.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Baby Teeth Development and Eruption Timeline",
+    "slug": "baby-teeth-development-and-eruption-timeline",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Complete guide to primary tooth development from birth through age six.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Teething: Symptoms and Safe Relief Strategies",
+    "slug": "teething-symptoms-and-safe-relief-strategies",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Understanding teething discomfort and proven methods to relieve pain.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Fluoride in Children: Safety and Dosage Guidelines",
+    "slug": "fluoride-in-children-safety-and-dosage-guidelines",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Appropriate fluoride use for children to prevent decay without causing fluorosis.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Pediatric Sealants: Protection for Permanent Molars",
+    "slug": "pediatric-sealants-protection-for-permanent-molars",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Learn why sealants are an important preventive step when permanent teeth erupt.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Childhood Cavities: Prevention and Early Treatment",
+    "slug": "childhood-cavities-prevention-and-early-treatment",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Strategies to prevent tooth decay in children and early intervention options.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Bottle Feeding and Early Childhood Caries",
+    "slug": "bottle-feeding-and-early-childhood-caries",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "How feeding practices affect primary tooth health and cavity prevention.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Pacifier and Thumb Sucking: Impact on Teeth Development",
+    "slug": "pacifier-and-thumb-sucking-impact-on-teeth-development",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Understanding how oral habits affect bite development and when intervention helps.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Pediatric Orthodontics: When Should My Child See an Orthodontist?",
+    "slug": "pediatric-orthodontics-when-should-my-child-see-an-orthodontist",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Guidelines for timing of orthodontic evaluation and early intervention.",
+    "mapped_services": [
+      "pediatric",
+      "orthodontics"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Dental Anxiety in Children: Coping Strategies",
+    "slug": "dental-anxiety-in-children-coping-strategies",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Techniques to reduce dental fear and create positive experiences for kids.",
+    "mapped_services": [
+      "pediatric",
+      "sedation"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Sedation Dentistry for Children: Options and Safety",
+    "slug": "sedation-dentistry-for-children-options-and-safety",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Sedation options available for anxious or special needs children.",
+    "mapped_services": [
+      "pediatric",
+      "sedation"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Sports Mouthguards for Young Athletes",
+    "slug": "sports-mouthguards-for-young-athletes",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Why mouthguards are essential and how to get a proper fitting.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Tongue Tie (Ankyloglossia) in Infants and Toddlers",
+    "slug": "tongue-tie-ankyloglossia-in-infants-and-toddlers",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Understanding tongue tie and when frenotomy is recommended.",
+    "mapped_services": [
+      "pediatric",
+      "oral-surgery"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Lip Tie and Feeding Difficulties in Infants",
+    "slug": "lip-tie-and-feeding-difficulties-in-infants",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Impact of lip tie on feeding and breastfeeding success.",
+    "mapped_services": [
+      "pediatric"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "School-Age Dental Health: Comprehensive Care Guide",
+    "slug": "school-age-dental-health-comprehensive-care-guide",
+    "category": "Pediatric Dentistry",
+    "category_slug": "pediatric-dentistry",
+    "excerpt": "Dental care priorities and best practices for school-age children.",
+    "mapped_services": [
+      "pediatric",
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Gum Disease Stages: Gingivitis to Periodontitis",
+    "slug": "gum-disease-stages-gingivitis-to-periodontitis",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Understanding the progression of gum disease and intervention points.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Scaling and Root Planing: Non-Surgical Gum Treatment",
+    "slug": "scaling-and-root-planing-non-surgical-gum-treatment",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Deep cleaning procedure to remove tartar and stop gum disease progression.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Gum Disease and Systemic Health: The Connection",
+    "slug": "gum-disease-and-systemic-health-the-connection",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "How periodontal disease links to heart disease, diabetes, and other conditions.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Periodontal Maintenance: Long-Term Gum Health Management",
+    "slug": "periodontal-maintenance-long-term-gum-health-management",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Ongoing care required after gum disease treatment to prevent recurrence.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Gingivitis Prevention: Reversing Early Gum Disease",
+    "slug": "gingivitis-prevention-reversing-early-gum-disease",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "How proper oral hygiene can reverse early-stage gum inflammation.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Gum Recession: Causes and Treatment Options",
+    "slug": "gum-recession-causes-and-treatment-options",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Understanding why gums recede and surgical and non-surgical treatment approaches.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Graft Surgery for Gum Recession Repair",
+    "slug": "graft-surgery-for-gum-recession-repair",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Surgical techniques to restore recessed gum tissue.",
+    "mapped_services": [
+      "periodontics",
+      "oral-surgery"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Periodontal Disease and Tooth Loss Prevention",
+    "slug": "periodontal-disease-and-tooth-loss-prevention",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "How periodontal care preserves teeth threatened by advanced gum disease.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Antibiotic Therapy in Periodontics",
+    "slug": "antibiotic-therapy-in-periodontics",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "When and how antibiotics are used to treat severe periodontal infections.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Smoking and Gum Disease: Why Quitting Matters",
+    "slug": "smoking-and-gum-disease-why-quitting-matters",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "How smoking accelerates gum disease and impacts treatment success.",
+    "mapped_services": [
+      "periodontics",
+      "preventive"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Implant and Natural Tooth Periodontal Care Comparison",
+    "slug": "implant-and-natural-tooth-periodontal-care-comparison",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Different maintenance approaches for implants versus natural teeth with gum disease.",
+    "mapped_services": [
+      "periodontics",
+      "implants"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Periodontal Disease Genetics: Family Risk Factors",
+    "slug": "periodontal-disease-genetics-family-risk-factors",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Understanding genetic predisposition to gum disease and early screening.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Coronavirus and Periodontal Health: Recent Research",
+    "slug": "coronavirus-and-periodontal-health-recent-research",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Link between oral health and severe COVID-19 outcomes.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Periodontal Disease Diagnosis: Tests and Measurements",
+    "slug": "periodontal-disease-diagnosis-tests-and-measurements",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "How dentists measure pocket depth and diagnose periodontal disease.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Aggressive Periodontitis: Early-Onset Gum Disease",
+    "slug": "aggressive-periodontitis-early-onset-gum-disease",
+    "category": "Periodontics",
+    "category_slug": "periodontics",
+    "excerpt": "Understanding aggressive forms of gum disease affecting young people.",
+    "mapped_services": [
+      "periodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Root Canal Treatment: Complete Step-by-Step Guide",
+    "slug": "root-canal-treatment-complete-step-by-step-guide",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Detailed explanation of root canal procedure, timeline, and what to expect.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "When Do You Need a Root Canal? Common Signs",
+    "slug": "when-do-you-need-a-root-canal-common-signs",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Warning signs indicating a root canal may be necessary.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Root Canal Alternatives: Treatment Options",
+    "slug": "root-canal-alternatives-treatment-options",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Exploring alternatives to root canal therapy when available.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Root Canal Retreatment: When Resin Occurs",
+    "slug": "root-canal-retreatment-when-resin-occurs",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Understanding why some root canals fail and retreatment procedures.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Endodontic Surgery: Apicoectomy and Periapical Surgery",
+    "slug": "endodontic-surgery-apicoectomy-and-periapical-surgery",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Surgical approach to treating persistent endodontic infections.",
+    "mapped_services": [
+      "endodontics",
+      "oral-surgery"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Pulp Vitality Testing: Assessing Tooth Nerve Health",
+    "slug": "pulp-vitality-testing-assessing-tooth-nerve-health",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Diagnostic tests to determine if a tooth's nerve is alive or damaged.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Post-Root Canal Treatment Pain: Normal or Concerning?",
+    "slug": "post-root-canal-treatment-pain-normal-or-concerning",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Typical discomfort after root canal and when to contact your dentist.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Root Canal Therapy Success Rate and Long-Term Outcomes",
+    "slug": "root-canal-therapy-success-rate-and-long-term-outcomes",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Understanding the high success rate and longevity of modern root canal therapy.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Emergency Root Canal: When Infection Requires Immediate Care",
+    "slug": "emergency-root-canal-when-infection-requires-immediate-care",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Recognizing severe endodontic emergencies requiring urgent treatment.",
+    "mapped_services": [
+      "endodontics",
+      "emergency"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Root Canal Aftercare: Pain Management and Recovery",
+    "slug": "root-canal-aftercare-pain-management-and-recovery",
+    "category": "Endodontics",
+    "category_slug": "endodontics",
+    "excerpt": "Post-treatment instructions for optimal healing and comfort.",
+    "mapped_services": [
+      "endodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Complete Dentures: From Extraction to Full Restoration",
+    "slug": "complete-dentures-from-extraction-to-full-restoration",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Comprehensive guide to complete denture therapy and adaptation.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Partial Dentures vs Dental Bridges: Comparison Guide",
+    "slug": "partial-dentures-vs-dental-bridges-comparison-guide",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Understanding different options for replacing multiple missing teeth.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Denture Adjustment and Fitting: The Initial Process",
+    "slug": "denture-adjustment-and-fitting-the-initial-process",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "What happens during denture fitting and multiple adjustment appointments.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Denture Care and Maintenance: Daily Cleaning and Storage",
+    "slug": "denture-care-and-maintenance-daily-cleaning-and-storage",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Proper care routines to keep dentures clean, fresh, and durable.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Reline and Adjustment of Dentures Over Time",
+    "slug": "reline-and-adjustment-of-dentures-over-time",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Why dentures need periodic relining and adjustments as your jaw changes.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Implant-Supported Dentures: A Hybrid Solution",
+    "slug": "implant-supported-dentures-a-hybrid-solution",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "How dental implants can provide stability for removable dentures.",
+    "mapped_services": [
+      "prosthodontics",
+      "implants"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "All-on-Four Implants: Fixed Restoration for Full Mouth",
+    "slug": "all-on-four-implants-fixed-restoration-for-full-mouth",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Understanding this efficient implant technique for replacing all teeth.",
+    "mapped_services": [
+      "prosthodontics",
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Immediate Dentures: Teeth on Same Day as Extraction",
+    "slug": "immediate-dentures-teeth-on-same-day-as-extraction",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Getting functional teeth immediately after extraction.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Sleep Apnea and Oral Appliances: Treatment Alternative",
+    "slug": "sleep-apnea-and-oral-appliances-treatment-alternative",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Custom oral appliances as alternatives to CPAP for sleep apnea.",
+    "mapped_services": [
+      "prosthodontics",
+      "sleep-dentistry"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Removable Partial Denture Clasp Design and Comfort",
+    "slug": "removable-partial-denture-clasp-design-and-comfort",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Understanding how partial dentures are designed for retention and comfort.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Denture Adhesive: When and How to Use It",
+    "slug": "denture-adhesive-when-and-how-to-use-it",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Best practices for using denture adhesive for improved retention.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Speech and Eating Adjustment with New Dentures",
+    "slug": "speech-and-eating-adjustment-with-new-dentures",
+    "category": "Prosthodontics",
+    "category_slug": "prosthodontics",
+    "excerpt": "Timeline for adapting to dentures and tips for adjustment.",
+    "mapped_services": [
+      "prosthodontics"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Dental Implants: Complete Guide to Single Tooth Replacement",
+    "slug": "dental-implants-complete-guide-to-single-tooth-replacement",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Everything you need to know about implants for replacing one missing tooth.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Implant Candidacy: Are You a Suitable Candidate?",
+    "slug": "implant-candidacy-are-you-a-suitable-candidate",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Evaluation criteria for dental implant therapy and when alternatives may be better.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Implant Cost Analysis: What Affects Your Final Price",
+    "slug": "implant-cost-analysis-what-affects-your-final-price",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Breakdown of implant costs and factors influencing treatment expenses.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Implant Materials: Titanium vs Zirconia Implants",
+    "slug": "implant-materials-titanium-vs-zirconia-implants",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Comparing different implant materials and their benefits.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Implant Failure: Causes and Prevention Strategies",
+    "slug": "implant-failure-causes-and-prevention-strategies",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Understanding why implants sometimes fail and how to minimize risk.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Osseointegration: How Implants Bond to Bone",
+    "slug": "osseointegration-how-implants-bond-to-bone",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "The biological process that makes dental implants successful.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Implant Crown Selection: Ceramic vs Zirconia",
+    "slug": "implant-crown-selection-ceramic-vs-zirconia",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Choosing the best restoration material for your implant crown.",
+    "mapped_services": [
+      "implants",
+      "cosmetic"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Implant Maintenance: Long-Term Care and Cleaning",
+    "slug": "implant-maintenance-long-term-care-and-cleaning",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Proper care techniques to keep your implant healthy for decades.",
+    "mapped_services": [
+      "implants",
+      "preventive"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Multiple Implants: Bridges and Full Mouth Reconstruction",
+    "slug": "multiple-implants-bridges-and-full-mouth-reconstruction",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Using multiple implants to replace several or all teeth.",
+    "mapped_services": [
+      "implants",
+      "prosthodontics"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Mini Implants: Smaller Solution for Some Patients",
+    "slug": "mini-implants-smaller-solution-for-some-patients",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Understanding when mini implants are an appropriate choice.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Implant Supported Bridge: Multiple Teeth on Few Implants",
+    "slug": "implant-supported-bridge-multiple-teeth-on-few-implants",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "How implant-supported bridges restore multiple teeth efficiently.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Smoking and Dental Implants: Why Quitting Matters",
+    "slug": "smoking-and-dental-implants-why-quitting-matters",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "How smoking increases implant failure risk and affects healing.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Implant Timeline: Healing Stages and Treatment Duration",
+    "slug": "implant-timeline-healing-stages-and-treatment-duration",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Understanding the months-long process from extraction to final restoration.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Peri-Implantitis: Gum Disease Around Implants",
+    "slug": "peri-implantitis-gum-disease-around-implants",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Recognizing and treating gum disease that affects dental implants.",
+    "mapped_services": [
+      "implants",
+      "periodontics"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Immediate Load Implants: Teeth the Same Day",
+    "slug": "immediate-load-implants-teeth-the-same-day",
+    "category": "Dental Implants",
+    "category_slug": "dental-implants",
+    "excerpt": "Advanced technique for getting teeth on implants immediately after placement.",
+    "mapped_services": [
+      "implants"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Severe Toothache: Causes and Emergency Treatment",
+    "slug": "severe-toothache-causes-and-emergency-treatment",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Understanding sudden tooth pain and when emergency care is needed.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Knocked Out Tooth: What to Do in the First Hour",
+    "slug": "knocked-out-tooth-what-to-do-in-the-first-hour",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Immediate steps to take when a tooth is completely knocked out.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Broken Tooth Emergency: Immediate Care and Long-Term Repair",
+    "slug": "broken-tooth-emergency-immediate-care-and-long-term-repair",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Managing a broken tooth and available restoration options.",
+    "mapped_services": [
+      "emergency",
+      "restorative"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Dental Abscess: Infection and Urgent Treatment",
+    "slug": "dental-abscess-infection-and-urgent-treatment",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Recognizing signs of tooth or gum infection requiring emergency care.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Lost Filling or Crown: Temporary and Permanent Solutions",
+    "slug": "lost-filling-or-crown-temporary-and-permanent-solutions",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "What to do when a filling or crown comes out and how to restore it.",
+    "mapped_services": [
+      "emergency",
+      "restorative"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Bleeding After Tooth Extraction: When Is It Excessive?",
+    "slug": "bleeding-after-tooth-extraction-when-is-it-excessive",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Normal bleeding expectations and concerning signs after extraction.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Bitten Cheek or Tongue: Treatment and When to Seek Care",
+    "slug": "bitten-cheek-or-tongue-treatment-and-when-to-seek-care",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Managing oral injuries from biting and when emergency care is needed.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Dental Trauma in Athletes: Prevention and Treatment",
+    "slug": "dental-trauma-in-athletes-prevention-and-treatment",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Sports dentistry approach to preventing and managing dental injuries.",
+    "mapped_services": [
+      "emergency",
+      "preventive"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Emergency Root Canal: Treating Severe Dental Pain",
+    "slug": "emergency-root-canal-treating-severe-dental-pain",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "How emergency endodontic treatment relieves acute tooth pain.",
+    "mapped_services": [
+      "emergency",
+      "endodontics"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Finding Emergency Dental Care: Options Beyond Hours",
+    "slug": "finding-emergency-dental-care-options-beyond-hours",
+    "category": "Emergency Dentistry",
+    "category_slug": "emergency-dentistry",
+    "excerpt": "Resources for getting emergency dental care nights, weekends, and holidays.",
+    "mapped_services": [
+      "emergency"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Proper Brushing Technique: Step-by-Step Guide",
+    "slug": "proper-brushing-technique-step-by-step-guide",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Master the correct brushing method to maximize plaque removal.",
+    "mapped_services": [
+      "preventive",
+      "general"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Flossing Guide: Techniques and Frequency",
+    "slug": "flossing-guide-techniques-and-frequency",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Why flossing is essential and how to do it properly.",
+    "mapped_services": [
+      "preventive",
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Water Flossers vs String Floss: Effectiveness Comparison",
+    "slug": "water-flossers-vs-string-floss-effectiveness-comparison",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Comparing different flossing tools and which works best for you.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Mouthwash Selection: Antibacterial vs Fluoride",
+    "slug": "mouthwash-selection-antibacterial-vs-fluoride",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Understanding different mouthwash types and their benefits.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Nutrition and Oral Health: Foods for Strong Teeth",
+    "slug": "nutrition-and-oral-health-foods-for-strong-teeth",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Dietary choices that promote dental health and prevent disease.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Sugar and Tooth Decay: How Diet Affects Your Teeth",
+    "slug": "sugar-and-tooth-decay-how-diet-affects-your-teeth",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Understanding the relationship between sugar consumption and cavity formation.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Acidic Foods and Enamel Erosion: Prevention Tips",
+    "slug": "acidic-foods-and-enamel-erosion-prevention-tips",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "How acidic foods damage teeth and strategies to minimize erosion.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Dental Health Habits for Lifelong Teeth",
+    "slug": "dental-health-habits-for-lifelong-teeth",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Daily and weekly practices for maintaining healthy teeth and gums.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Smoking Effects on Teeth and Gums: Damage and Reversal",
+    "slug": "smoking-effects-on-teeth-and-gums-damage-and-reversal",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "How smoking harms oral health and what improves after quitting.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Alcohol and Oral Health: Risks and Safe Consumption",
+    "slug": "alcohol-and-oral-health-risks-and-safe-consumption",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Understanding how alcohol affects dental health.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Stress and Teeth Grinding: Prevention and Management",
+    "slug": "stress-and-teeth-grinding-prevention-and-management",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Connection between stress and bruxism, with coping strategies.",
+    "mapped_services": [
+      "preventive",
+      "tmj"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Sleep Position and Jaw Health",
+    "slug": "sleep-position-and-jaw-health",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "How your sleep position affects TMJ and overall oral health.",
+    "mapped_services": [
+      "preventive",
+      "tmj"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Regular Checkups: Why Every Six Months Matters",
+    "slug": "regular-checkups-why-every-six-months-matters",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Benefits of consistent dental visits for early disease detection.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Home Care Between Dental Visits: Extended Schedule",
+    "slug": "home-care-between-dental-visits-extended-schedule",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Enhanced home care for patients who visit the dentist less frequently.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Dental Products Comparison: What Actually Works",
+    "slug": "dental-products-comparison-what-actually-works",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Evidence-based review of popular dental health products.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Establishing Healthy Oral Hygiene Habits",
+    "slug": "establishing-healthy-oral-hygiene-habits",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Creating sustainable daily routines for lifelong dental health.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Demineralization and Remineralization: How Cavity Prevention Works",
+    "slug": "demineralization-and-remineralization-how-cavity-prevention-works",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Understanding the process of tooth decay and fluoride protection.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Professional Cleanings: What They Remove That Home Care Can't",
+    "slug": "professional-cleanings-what-they-remove-that-home-care-cant",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Why professional cleanings are necessary even with good home care.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Risk Assessment for Dental Disease: Know Your Risk Level",
+    "slug": "risk-assessment-for-dental-disease-know-your-risk-level",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Assessing your personal risk for cavities and gum disease.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Xerostomia (Dry Mouth) Prevention and Management",
+    "slug": "xerostomia-dry-mouth-prevention-and-management",
+    "category": "Preventive Care",
+    "category_slug": "preventive-care",
+    "excerpt": "Strategies to maintain moisture and dental health with dry mouth.",
+    "mapped_services": [
+      "preventive"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Oral Herpes Simplex: Causes, Symptoms, and Treatment",
+    "slug": "oral-herpes-simplex-causes-symptoms-and-treatment",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Understanding cold sores and antiviral treatment options.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Thrush (Oral Candidiasis): Fungal Infection Treatment",
+    "slug": "thrush-oral-candidiasis-fungal-infection-treatment",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Recognizing and treating fungal infections in the mouth.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Leukoplakia and Erythroplakia: Precancerous Lesions",
+    "slug": "leukoplakia-and-erythroplakia-precancerous-lesions",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Understanding concerning oral changes and importance of screening.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Lichen Planus: Autoimmune Oral Condition",
+    "slug": "lichen-planus-autoimmune-oral-condition",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Recognizing autoimmune oral disease and management options.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Burning Mouth Syndrome: Mysterious Oral Pain",
+    "slug": "burning-mouth-syndrome-mysterious-oral-pain",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Understanding this chronic pain condition affecting the mouth.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Geographic Tongue: Harmless Pattern on Tongue Surface",
+    "slug": "geographic-tongue-harmless-pattern-on-tongue-surface",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Understanding this common benign tongue variation.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Black Hairy Tongue: Causes and Treatment",
+    "slug": "black-hairy-tongue-causes-and-treatment",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Managing this unusual but benign oral condition.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Oral Aphthous Ulcers: Beyond Simple Canker Sores",
+    "slug": "oral-aphthous-ulcers-beyond-simple-canker-sores",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Understanding recurring oral ulcers and when to seek treatment.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "Sjögren's Syndrome: Autoimmune Dry Mouth Disease",
+    "slug": "sjögrens-syndrome-autoimmune-dry-mouth-disease",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Managing this condition affecting saliva production.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Oral Submucous Fibrosis: Restricted Mouth Opening",
+    "slug": "oral-submucous-fibrosis-restricted-mouth-opening",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Understanding this progressive condition limiting jaw mobility.",
+    "mapped_services": [
+      "general",
+      "oral-surgery"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "TMJ Disorders: Symptoms and Nonsurgical Treatments",
+    "slug": "tmj-disorders-symptoms-and-nonsurgical-treatments",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Managing temporomandibular joint pain and dysfunction.",
+    "mapped_services": [
+      "tmj"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Orofacial Myofascial Pain: Muscle-Related Oral Pain",
+    "slug": "orofacial-myofascial-pain-muscle-related-oral-pain",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Understanding muscle tension causing facial and jaw pain.",
+    "mapped_services": [
+      "tmj"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Cleft Lip and Palate: Comprehensive Dental Management",
+    "slug": "cleft-lip-and-palate-comprehensive-dental-management",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Coordinated care for the dental needs of cleft patients.",
+    "mapped_services": [
+      "pediatric",
+      "general"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Down Syndrome and Special Oral Health Needs",
+    "slug": "down-syndrome-and-special-oral-health-needs",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "Tailored dental care for patients with Down syndrome.",
+    "mapped_services": [
+      "pediatric",
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Oral Cancer Screening and Early Detection",
+    "slug": "oral-cancer-screening-and-early-detection",
+    "category": "Oral Health Conditions",
+    "category_slug": "oral-health-conditions",
+    "excerpt": "How dentists screen for oral cancer and warning signs.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Digital Smile Design: Planning Beautiful Smiles",
+    "slug": "digital-smile-design-planning-beautiful-smiles",
+    "category": "Dental Technology",
+    "category_slug": "dental-technology",
+    "excerpt": "Advanced technology for visualizing smile transformation before treatment.",
+    "mapped_services": [
+      "cosmetic"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "CBCT Imaging: Advanced 3D X-Ray Technology",
+    "slug": "cbct-imaging-advanced-3d-x-ray-technology",
+    "category": "Dental Technology",
+    "category_slug": "dental-technology",
+    "excerpt": "Understanding cone beam computed tomography for detailed dental imaging.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Intraoral Cameras: See Your Teeth in Detail",
+    "slug": "intraoral-cameras-see-your-teeth-in-detail",
+    "category": "Dental Technology",
+    "category_slug": "dental-technology",
+    "excerpt": "How intraoral imaging helps dentists diagnose and communicate with patients.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Laser Dentistry Applications and Safety",
+    "slug": "laser-dentistry-applications-and-safety",
+    "category": "Dental Technology",
+    "category_slug": "dental-technology",
+    "excerpt": "Understanding how lasers are used in modern dental treatment.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "CAD/CAM Restorations: Same-Day Crowns and Veneers",
+    "slug": "cadcam-restorations-same-day-crowns-and-veneers",
+    "category": "Dental Technology",
+    "category_slug": "dental-technology",
+    "excerpt": "Technology enabling tooth restoration in a single visit.",
+    "mapped_services": [
+      "restorative",
+      "cosmetic"
+    ],
+    "read_time": "10 min"
+  },
+  {
+    "title": "Digital Impression Technology: No More Putty Trays",
+    "slug": "digital-impression-technology-no-more-putty-trays",
+    "category": "Dental Technology",
+    "category_slug": "dental-technology",
+    "excerpt": "How digital scanning replaces traditional impression materials.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "3 min"
+  },
+  {
+    "title": "Teledentistry: Remote Dental Consultation and Follow-up",
+    "slug": "teledentistry-remote-dental-consultation-and-follow-up",
+    "category": "Dental Technology",
+    "category_slug": "dental-technology",
+    "excerpt": "Benefits and limitations of virtual dental consultations.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "4 min"
+  },
+  {
+    "title": "Artificial Intelligence in Dentistry: Current Applications",
+    "slug": "artificial-intelligence-in-dentistry-current-applications",
+    "category": "Dental Technology",
+    "category_slug": "dental-technology",
+    "excerpt": "How AI assists in diagnosis and treatment planning.",
+    "mapped_services": [
+      "general"
+    ],
+    "read_time": "5 min"
+  },
+  {
+    "title": "Sleep Apnea and Dental Treatment: Oral Appliance Therapy",
+    "slug": "sleep-apnea-and-dental-treatment-oral-appliance-therapy",
+    "category": "TMJ & Sleep Dentistry",
+    "category_slug": "tmj-sleep-dentistry",
+    "excerpt": "How custom oral devices treat sleep apnea without CPAP.",
+    "mapped_services": [
+      "sleep-dentistry"
+    ],
+    "read_time": "6 min"
+  },
+  {
+    "title": "TMJ Syndrome: Jaw Pain Causes and Treatment",
+    "slug": "tmj-syndrome-jaw-pain-causes-and-treatment",
+    "category": "TMJ & Sleep Dentistry",
+    "category_slug": "tmj-sleep-dentistry",
+    "excerpt": "Understanding temporomandibular joint dysfunction and management options.",
+    "mapped_services": [
+      "tmj"
+    ],
+    "read_time": "7 min"
+  },
+  {
+    "title": "Bruxism and TMJ: Connection and Prevention",
+    "slug": "bruxism-and-tmj-connection-and-prevention",
+    "category": "TMJ & Sleep Dentistry",
+    "category_slug": "tmj-sleep-dentistry",
+    "excerpt": "How teeth grinding contributes to jaw problems and protective solutions.",
+    "mapped_services": [
+      "tmj"
+    ],
+    "read_time": "8 min"
+  },
+  {
+    "title": "Snoring and Sleep Apnea: Dental Solutions Available",
+    "slug": "snoring-and-sleep-apnea-dental-solutions-available",
+    "category": "TMJ & Sleep Dentistry",
+    "category_slug": "tmj-sleep-dentistry",
+    "excerpt": "Dental appliances as alternatives to surgery for sleep disorders.",
+    "mapped_services": [
+      "sleep-dentistry"
+    ],
+    "read_time": "9 min"
+  },
+  {
+    "title": "Jaw Clenching During Day: Causes and Relaxation Techniques",
+    "slug": "jaw-clenching-during-day-causes-and-relaxation-techniques",
+    "category": "TMJ & Sleep Dentistry",
+    "category_slug": "tmj-sleep-dentistry",
+    "excerpt": "Managing daytime jaw tension to prevent TMJ problems.",
+    "mapped_services": [
+      "tmj",
+      "preventive"
+    ],
+    "read_time": "10 min"
+  }
+]
