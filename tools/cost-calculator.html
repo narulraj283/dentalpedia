@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dental Cost Calculator — Estimate Your Treatment Cost | DentalPedia</title>
+    <meta name="description" content="Use our free dental cost calculator to estimate procedure costs. Compare prices for implants, crowns, braces, and more.">
+    <link rel="canonical" href="https://dentalpedia.co/tools/cost-calculator.html">
+    <meta property="og:locale" content="en_US">
+    <meta property="og:site_name" content="DentalPedia">
+    
+    <meta property="og:title" content="Dental Cost Calculator — Estimate Your Treatment Cost | DentalPedia">
+    <meta property="og:description" content="Use our free dental cost calculator to estimate procedure costs. Compare prices for implants, crowns, braces, and more.">
+    <meta property="og:url" content="https://dentalpedia.co/tools/cost-calculator.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="DentalPedia">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Dental Cost Calculator — Estimate Your Treatment Cost | DentalPedia">
+    <meta name="twitter:description" content="Use our free dental cost calculator to estimate procedure costs. Compare prices for implants, crowns, braces, and more.">
+        
+    
+    <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}</style>
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=13b8d2ae">
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-F8TC3LWMSM');
+    </script>
+    <script>
+        const theme = localStorage.getItem('theme') || 'light';
+        document.documentElement.setAttribute('data-theme', theme);
+    </script>
+</head>
+<body>
+    
+    <nav class="navbar">
+        <div class="container">
+            <a href="/" class="navbar-brand">
+                <span class="logo-icon">🦷</span>
+                <span>DentalPedia</span>
+            </a>
+            <ul class="navbar-nav">
+                <li><a href="/">Home</a></li>
+                <li><a href="/categories.html">Categories</a></li>
+                <li><a href="/guides.html">Guides</a></li>
+                <li><a href="/editorial-standards.html">Editorial Standards</a></li>
+                <li><a href="/tools/cost-calculator.html">Cost Calculator</a></li>
+            </ul>
+            <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">🌓</button>
+        </div>
+    </nav>
+    
+    <main class="container">
+        
+    <div class="content-width" style="padding: 2rem 0;">
+        <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; Dental Cost Calculator</nav>
+        <div style="text-align:center; margin-bottom: 2rem;">
+            <h1>Dental Cost Calculator</h1>
+            <p style="color: var(--text-secondary); max-width: 600px; margin: 0 auto;">Estimate the cost of your dental procedure. Select a procedure and number of teeth to get a personalized estimate.</p>
+        </div>
+
+        <div id="calculator" style="max-width: 700px; margin: 0 auto; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 16px; padding: 2rem; box-shadow: var(--shadow-md);">
+            <div style="margin-bottom: 1.5rem;">
+                <label for="procedure" style="font-weight: 600; display: block; margin-bottom: 0.5rem;">Select Procedure</label>
+                <select id="procedure" style="width: 100%; padding: 0.75rem; border-radius: 8px; border: 1px solid var(--border-color); background: var(--bg-primary); color: var(--text-primary); font-size: 1rem;">
+                    <option value="">Choose a procedure...</option>
+                </select>
+            </div>
+
+            <div style="margin-bottom: 1.5rem;">
+                <label for="teeth" style="font-weight: 600; display: block; margin-bottom: 0.5rem;">Number of Teeth</label>
+                <input type="range" id="teeth" min="1" max="6" value="1" style="width: 100%;">
+                <div style="display: flex; justify-content: space-between; color: var(--text-muted); font-size: 0.85rem;"><span>1</span><span id="teeth-val">1</span><span>6</span></div>
+            </div>
+
+            <div style="margin-bottom: 1.5rem;">
+                <label style="font-weight: 600; display: block; margin-bottom: 0.5rem;">Insurance Coverage</label>
+                <div style="display: flex; gap: 1rem;">
+                    <label style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer;"><input type="radio" name="insurance" value="none" checked> No Insurance</label>
+                    <label style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer;"><input type="radio" name="insurance" value="basic"> Basic Plan</label>
+                    <label style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer;"><input type="radio" name="insurance" value="premium"> Premium Plan</label>
+                </div>
+            </div>
+
+            <div id="result" style="display: none; background: linear-gradient(135deg, #eff6ff, #f0fdf4); border-radius: 12px; padding: 1.5rem; margin-top: 1rem;">
+                <h3 style="margin-bottom: 1rem; color: #1e40af;">Your Estimated Cost</h3>
+                <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; text-align: center;">
+                    <div><div id="cost-low" style="font-size: 1.5rem; font-weight: 700; color: #16a34a;">—</div><div style="font-size: 0.85rem; color: var(--text-muted);">Low Estimate</div></div>
+                    <div><div id="cost-avg" style="font-size: 1.8rem; font-weight: 800; color: #2563eb;">—</div><div style="font-size: 0.85rem; color: var(--text-muted);">Average</div></div>
+                    <div><div id="cost-high" style="font-size: 1.5rem; font-weight: 700; color: #dc2626;">—</div><div style="font-size: 0.85rem; color: var(--text-muted);">High Estimate</div></div>
+                </div>
+                <div id="cost-details" style="margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #bfdbfe; font-size: 0.9rem; color: var(--text-secondary);"></div>
+                <div id="cost-insurance" style="margin-top: 0.75rem; font-size: 0.9rem; color: var(--text-secondary);"></div>
+            </div>
+
+            <div class="disclaimer" style="margin-top: 1.5rem; font-size: 0.85rem; color: var(--text-muted); text-align: center;">
+                These are estimates only. Actual costs vary by location, dentist, and individual needs. Consult your dentist for an accurate quote.
+            </div>
+        </div>
+
+        <div class="share-buttons">
+    <span class="share-label">Share this page</span>
+    <a href="https://twitter.com/intent/tweet?text=Dental%20Cost%20Calculator&url=https%3A//dentalpedia.co/tools/cost-calculator.html" target="_blank" rel="noopener" class="share-btn share-twitter" aria-label="Share on X">𝕏</a>
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//dentalpedia.co/tools/cost-calculator.html" target="_blank" rel="noopener" class="share-btn share-facebook" aria-label="Share on Facebook">f</a>
+    <a href="https://pinterest.com/pin/create/button/?url=https%3A//dentalpedia.co/tools/cost-calculator.html&description=Dental%20Cost%20Calculator" target="_blank" rel="noopener" class="share-btn share-pinterest" aria-label="Pin on Pinterest">P</a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//dentalpedia.co/tools/cost-calculator.html" target="_blank" rel="noopener" class="share-btn share-linkedin" aria-label="Share on LinkedIn">in</a>
+    <a href="https://wa.me/?text=Dental%20Cost%20Calculator%20https%3A//dentalpedia.co/tools/cost-calculator.html" target="_blank" rel="noopener" class="share-btn share-whatsapp" aria-label="Share on WhatsApp">W</a>
+    <a href="mailto:?subject=Dental%20Cost%20Calculator&body=https%3A//dentalpedia.co/tools/cost-calculator.html" class="share-btn share-email" aria-label="Email this">✉</a>
+    <button onclick="navigator.clipboard.writeText('https://dentalpedia.co/tools/cost-calculator.html');this.textContent='✓ Copied'" class="share-btn share-copy" aria-label="Copy link">🔗</button>
+    </div>
+    </div>
+
+    <script>
+    const procedures = [{"name": "Dental Implants", "slug": "dental-implants", "cost_low": 1500, "cost_high": 6000, "cost_avg": 3500, "insurance": "Partial - varies by plan", "duration": "3-6 months", "description": "Dental implants are artificial tooth roots surgically placed into the jawbone to replace missing teeth. This multi-stage procedure provides a permanent solution that looks and functions like natural teeth."}, {"name": "Teeth Whitening", "slug": "teeth-whitening", "cost_low": 300, "cost_high": 1000, "cost_avg": 600, "insurance": "Not covered - cosmetic procedure", "duration": "1-2 hours", "description": "Professional teeth whitening treatments remove stains and discoloration to brighten your smile. Results typically last 6-12 months and are significantly more effective than over-the-counter options."}, {"name": "Dental Veneers", "slug": "dental-veneers", "cost_low": 800, "cost_high": 2500, "cost_avg": 1500, "insurance": "Not covered - cosmetic procedure", "duration": "2-3 weeks", "description": "Porcelain veneers are custom-made shells bonded to the front of teeth to improve appearance, shape, and color. They provide a natural-looking solution for discoloration, chips, and misalignment."}, {"name": "Dental Crowns", "slug": "dental-crowns", "cost_low": 500, "cost_high": 3000, "cost_avg": 1200, "insurance": "Partial - typically 50% after deductible", "duration": "1-2 weeks", "description": "A dental crown is a tooth-shaped cap that covers a damaged or weakened tooth to restore its shape, strength, and appearance. Crowns can be made from porcelain, ceramic, or other durable materials."}, {"name": "Root Canal Treatment", "slug": "root-canal", "cost_low": 700, "cost_high": 2000, "cost_avg": 1200, "insurance": "Partial - typically 50% after deductible", "duration": "1-2 hours", "description": "A root canal removes infected or damaged pulp from inside a tooth to relieve pain and save the tooth. This procedure prevents tooth loss and eliminates the source of infection."}, {"name": "Traditional Braces", "slug": "traditional-braces", "cost_low": 3000, "cost_high": 7000, "cost_avg": 5000, "insurance": "Partial - varies by plan, typically up to $1500", "duration": "18-24 months", "description": "Traditional metal braces use brackets and wires to gradually straighten teeth and correct bite issues. They remain the most effective option for severe misalignment and are suitable for all ages."}, {"name": "Invisalign & Clear Aligners", "slug": "invisalign-clear-aligners", "cost_low": 3500, "cost_high": 8000, "cost_avg": 5500, "insurance": "Partial - varies by plan, typically up to $1500", "duration": "12-18 months", "description": "Clear aligners like Invisalign use a series of custom plastic trays to gradually move teeth into proper alignment. These nearly invisible aligners offer a discreet alternative to traditional braces."}, {"name": "Dental Bridges", "slug": "dental-bridges", "cost_low": 1500, "cost_high": 5000, "cost_avg": 3000, "insurance": "Partial - typically 50% after deductible", "duration": "2-3 weeks", "description": "A dental bridge replaces one or more missing teeth by anchoring artificial teeth to adjacent natural teeth. This fixed solution restores chewing function and prevents remaining teeth from shifting."}, {"name": "Dentures", "slug": "dentures", "cost_low": 600, "cost_high": 2500, "cost_avg": 1500, "insurance": "Partial - typically 50% after deductible", "duration": "2-3 months", "description": "Dentures are removable prosthetics that replace missing teeth and surrounding tissue. Both full and partial dentures provide an affordable solution for tooth loss and improve oral function."}, {"name": "Tooth Extraction", "slug": "tooth-extraction", "cost_low": 75, "cost_high": 500, "cost_avg": 200, "insurance": "Partial - typically 80% after deductible", "duration": "30 minutes to 1 hour", "description": "A tooth extraction removes a tooth that is too damaged, decayed, or impacted to be saved. This procedure is often necessary to prevent infection and maintain overall oral health."}, {"name": "Wisdom Teeth Removal", "slug": "wisdom-teeth-removal", "cost_low": 200, "cost_high": 1200, "cost_avg": 600, "insurance": "Partial - typically 80% after deductible", "duration": "45 minutes to 2 hours", "description": "Wisdom tooth extraction removes problematic third molars that may be impacted, crowded, or causing pain. This common procedure prevents complications and improves overall oral health."}, {"name": "Dental Bonding", "slug": "dental-bonding", "cost_low": 300, "cost_high": 600, "cost_avg": 450, "insurance": "Partial if restorative; not covered if cosmetic", "duration": "30 minutes to 1 hour", "description": "Dental bonding uses tooth-colored resin to repair chips, cracks, and gaps in teeth. This quick and affordable cosmetic procedure improves tooth appearance with minimal tooth preparation."}, {"name": "Gum Disease Treatment", "slug": "gum-disease-treatment", "cost_low": 500, "cost_high": 2000, "cost_avg": 1200, "insurance": "Partial - typically 80% after deductible", "duration": "1-2 hours per visit", "description": "Gum disease treatment addresses inflammation and infection of the gums and bone supporting teeth. Early intervention prevents tooth loss and systemic health complications."}, {"name": "Dental Cleaning (Prophylaxis)", "slug": "dental-cleaning-prophylaxis", "cost_low": 75, "cost_high": 200, "cost_avg": 120, "insurance": "Fully covered - 1-2 times per year", "duration": "30-60 minutes", "description": "Professional dental cleanings remove tartar and plaque buildup that brushing cannot eliminate. Regular cleanings are essential for preventing decay and maintaining overall oral health."}, {"name": "Deep Cleaning (Scaling & Root Planing)", "slug": "deep-cleaning-scaling-root-planing", "cost_low": 500, "cost_high": 1500, "cost_avg": 900, "insurance": "Partial - typically 80% after deductible", "duration": "1-2 hours per quadrant", "description": "Scaling and root planing removes plaque and tartar from below the gum line to treat early gum disease. This deep cleaning prevents progression and promotes gum healing."}, {"name": "Dental Fillings", "slug": "dental-fillings", "cost_low": 100, "cost_high": 400, "cost_avg": 200, "insurance": "Partial - typically 80% after deductible", "duration": "30-60 minutes", "description": "Dental fillings repair cavities and tooth decay by removing the affected portion and filling it with durable material. Modern composite fillings are tooth-colored for a natural appearance."}, {"name": "TMJ Treatment", "slug": "tmj-treatment", "cost_low": 500, "cost_high": 3000, "cost_avg": 1500, "insurance": "Partial - varies by plan", "duration": "Varies based on treatment", "description": "TMJ treatment addresses disorders of the jaw joint that cause pain, clicking, and dysfunction. Treatment options range from conservative therapies to surgical interventions."}, {"name": "Sleep Apnea Oral Appliance", "slug": "sleep-apnea-oral-appliance", "cost_low": 1500, "cost_high": 3000, "cost_avg": 2000, "insurance": "Partial - varies by plan, often covered as medical", "duration": "Multiple visits for fitting", "description": "Oral appliances reposition the jaw and tongue to keep airways open during sleep, treating sleep apnea. These custom-fitted devices offer a comfortable alternative to CPAP machines."}, {"name": "Pediatric Dental Exam", "slug": "pediatric-dental-exam", "cost_low": 100, "cost_high": 250, "cost_avg": 150, "insurance": "Fully covered - preventive care", "duration": "30-45 minutes", "description": "Pediatric dental exams monitor children's oral development and identify issues early. Regular checkups establish good dental habits and ensure healthy tooth eruption."}, {"name": "Emergency Dental Care", "slug": "emergency-dental-care", "cost_low": 200, "cost_high": 1500, "cost_avg": 700, "insurance": "Partial - typically 80% after deductible", "duration": "30 minutes to 2 hours", "description": "Emergency dental care addresses urgent issues like severe pain, infections, and trauma. Quick treatment prevents complications and may save your tooth."}];
+    const select = document.getElementById('procedure');
+    const teethSlider = document.getElementById('teeth');
+    const teethVal = document.getElementById('teeth-val');
+    const resultDiv = document.getElementById('result');
+
+    procedures.forEach(p => {
+        const opt = document.createElement('option');
+        opt.value = p.slug;
+        opt.textContent = p.name;
+        select.appendChild(opt);
+    });
+
+    function calculate() {
+        const proc = procedures.find(p => p.slug === select.value);
+        if (!proc) { resultDiv.style.display = 'none'; return; }
+        const teeth = parseInt(teethSlider.value);
+        const ins = document.querySelector('input[name=insurance]:checked').value;
+        let discount = ins === 'premium' ? 0.5 : ins === 'basic' ? 0.3 : 0;
+        let low = proc.cost_low * teeth * (1 - discount);
+        let avg = proc.cost_avg * teeth * (1 - discount);
+        let high = proc.cost_high * teeth * (1 - discount);
+        document.getElementById('cost-low').textContent = '$' + low.toLocaleString();
+        document.getElementById('cost-avg').textContent = '$' + avg.toLocaleString();
+        document.getElementById('cost-high').textContent = '$' + high.toLocaleString();
+        document.getElementById('cost-details').innerHTML = '<strong>' + proc.name + '</strong> x ' + teeth + ' tooth/teeth. Duration: ' + proc.duration;
+        document.getElementById('cost-insurance').innerHTML = 'Insurance: ' + proc.insurance + (discount > 0 ? ' (' + (discount*100) + '% estimated discount applied)' : '');
+        resultDiv.style.display = 'block';
+    }
+
+    select.addEventListener('change', calculate);
+    teethSlider.addEventListener('input', function() { teethVal.textContent = this.value; calculate(); });
+    document.querySelectorAll('input[name=insurance]').forEach(r => r.addEventListener('change', calculate));
+    </script>
+    
+    </main>
+    
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-text">&copy; 2026 DentalPedia. All rights reserved.</div>
+                <ul class="footer-links">
+                    <li><a href="/editorial-standards.html">Editorial Standards</a></li>
+                    <li><a href="/privacy.html">Privacy</a></li>
+                    <li><a href="/terms.html">Terms</a></li>
+                </ul>
+            </div>
+        </div>
+    </footer>
+    
+    <script>
+        function toggleTheme() {
+            const html = document.documentElement;
+            const current = html.getAttribute('data-theme') || 'light';
+            const next = current === 'light' ? 'dark' : 'light';
+            html.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+        }
+    </script>
+</body>
+</html>

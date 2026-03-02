@@ -32,6 +32,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from collections import defaultdict
 import math
 import urllib.parse
+import hashlib
 
 # Configuration
 DOMAIN = "https://dentalpedia.co"
@@ -58,6 +59,8 @@ cities_data = []
 procedure_costs = []
 cornerstone_guides = []
 article_lookup = {}  # slug -> article metadata
+guides_by_category = {}  # category_slug -> guide data
+minified_css_hash = ""  # Cache-busting hash for minified CSS
 
 
 def load_json_data():
@@ -91,6 +94,11 @@ def load_json_data():
         with open(DATA_DIR / "cornerstone_guides.json") as f:
             data = json.load(f)
             cornerstone_guides = data.get("guides", [])
+        # Build category -> guide lookup for pillar-cluster linking
+        for guide in cornerstone_guides:
+            cat_slug = guide.get('category_slug', '')
+            if cat_slug:
+                guides_by_category[cat_slug] = guide
         logger.info(f"Loaded {len(cornerstone_guides)} cornerstone guides")
     except Exception as e:
         logger.error(f"Failed to load cornerstone_guides.json: {e}")
@@ -361,6 +369,7 @@ def get_navbar_html(current_page="home"):
                 <li><a href="/categories.html">Categories</a></li>
                 <li><a href="/guides.html">Guides</a></li>
                 <li><a href="/editorial-standards.html">Editorial Standards</a></li>
+                <li><a href="/tools/cost-calculator.html">Cost Calculator</a></li>
             </ul>
             <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">🌓</button>
         </div>
@@ -404,8 +413,34 @@ def get_share_buttons(title, url):
     </div>'''
 
 
+def minify_css():
+    """Minify the CSS file and create a cache-busted version."""
+    global minified_css_hash
+    css_path = Path("assets/css/style.css")
+    if not css_path.exists():
+        return
+    with open(css_path, 'r') as f:
+        css = f.read()
+    minified = re.sub(r'/\*.*?\*/', '', css, flags=re.DOTALL)
+    minified = re.sub(r'\s+', ' ', minified)
+    minified = re.sub(r'\s*([{}:;,>~+])\s*', r'\1', minified)
+    minified = re.sub(r';\s*}', '}', minified)
+    minified = minified.strip()
+    min_path = Path("assets/css/style.min.css")
+    min_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(min_path, 'w') as f:
+        f.write(minified)
+    minified_css_hash = hashlib.md5(minified.encode()).hexdigest()[:8]
+    logger.info(f"CSS minified: {len(css):,} -> {len(minified):,} bytes ({100-len(minified)*100//len(css)}% reduction)")
+
+
+CRITICAL_CSS = '''<style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}</style>'''
+
+
 def get_page_template(title, content, canonical_url, description="", meta_tags="", schema=""):
     """Generate full HTML page template."""
+
+    css_file = f"/assets/css/style.min.css?v={minified_css_hash}" if minified_css_hash else "/assets/css/style.css"
 
     # Auto-generate OG tags if not provided
     if not meta_tags:
@@ -432,7 +467,8 @@ def get_page_template(title, content, canonical_url, description="", meta_tags="
     <meta property="og:site_name" content="DentalPedia">
     {meta_tags}
     {schema}
-    <link rel="stylesheet" href="/assets/css/style.css">
+    {CRITICAL_CSS}
+    <link rel="stylesheet" href="{css_file}">
     <script async src="https://www.googletagmanager.com/gtag/js?id={GA_MEASUREMENT_ID}"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -507,6 +543,66 @@ def load_articles():
     logger.info(f"Loaded {len(all_articles)} articles from {len(all_md_files)} markdown files")
 
 
+def get_related_articles_for_guide(category_slug, max_articles=6):
+    """Return a grid of related articles for a guide's category (cluster -> pillar link)."""
+    articles = articles_by_category.get(category_slug, [])[:max_articles]
+    if not articles:
+        return ''
+    cards = '<div style="margin-top: 2rem;"><h2>Related Articles</h2><div class="articles-grid">'
+    for a in articles:
+        cards += f'''<a href="/article/{a.get('slug')}.html" class="article-card">
+            <div class="card-category">{html_mod.escape(a.get('category', ''))}</div>
+            <div class="card-title">{html_mod.escape(a.get('title', ''))}</div>
+            <div class="card-excerpt">{html_mod.escape(a.get('excerpt', '')[:120])}</div>
+        </a>'''
+    cards += '</div></div>'
+    return cards
+
+
+def get_related_guide_card(category_slug):
+    """Return a 'Read the Full Guide' card if a guide exists for this category."""
+    guide = guides_by_category.get(category_slug)
+    if not guide:
+        return ''
+    return f'''<div class="related-guide-card" style="background: linear-gradient(135deg, #eff6ff, #f0fdf4); border: 1px solid #bfdbfe; border-radius: 12px; padding: 1.25rem; margin: 1.5rem 0;">
+        <div style="font-weight: 600; margin-bottom: 0.5rem;">📖 Want the complete picture?</div>
+        <a href="/guides/{guide.get('slug')}.html" style="font-size: 1.1rem; font-weight: 700; color: #2563eb; text-decoration: none;">{html_mod.escape(guide.get('title', ''))}</a>
+        <p style="margin: 0.5rem 0 0; color: #64748b; font-size: 0.9rem;">{html_mod.escape(guide.get('meta_description', ''))}</p>
+    </div>'''
+
+
+def create_internal_links(html_content, current_slug, max_links=3):
+    """Auto-link mentions of other article titles within content.
+    Only checks articles in the same category for speed. Max 3 links."""
+    current_meta = article_lookup.get(current_slug, {})
+    current_cat = current_meta.get('category_slug', '')
+    if not current_cat:
+        return html_content
+
+    # Only check same-category articles (much faster than all 2000)
+    candidates = [m for s, m in article_lookup.items()
+                  if s != current_slug and m.get('category_slug') == current_cat
+                  and len(m.get('title', '')) >= 12][:20]  # Cap at 20 candidates
+
+    links_added = 0
+    for meta in candidates:
+        if links_added >= max_links:
+            break
+        other_title = meta.get('title', '')
+        other_slug = meta.get('slug', '')
+        # Simple case-insensitive string search first (fast)
+        if other_title.lower() not in html_content.lower():
+            continue
+        # Now do the regex replacement
+        pattern = re.compile(r'(?<=<p>|<li>)([^<]*?)(' + re.escape(other_title) + r')([^<]*?)(?=</)', re.IGNORECASE)
+        match = pattern.search(html_content)
+        if match:
+            replacement = f'{match.group(1)}<a href="/article/{other_slug}.html">{match.group(2)}</a>{match.group(3)}'
+            html_content = html_content[:match.start()] + replacement + html_content[match.end():]
+            links_added += 1
+    return html_content
+
+
 def process_article(md_file):
     """Process a single article file and generate HTML."""
     try:
@@ -537,6 +633,19 @@ def process_article(md_file):
 
         # Convert full markdown body to HTML
         body_html = markdown_to_html(body)
+
+        # Internal linking: auto-link mentions of other article titles
+        body_html = create_internal_links(body_html, slug)
+
+        # GEO: Add "Key Takeaway" summary box for AI Overviews
+        first_para = re.search(r'<p>(.*?)</p>', body_html)
+        if first_para and len(first_para.group(1)) > 80:
+            takeaway_text = first_para.group(1)[:250]
+            if len(first_para.group(1)) > 250:
+                takeaway_text = takeaway_text.rsplit(' ', 1)[0] + '...'
+            geo_box = f'<div class="key-takeaway" style="background: #eff6ff; border-left: 4px solid #2563eb; padding: 1rem 1.25rem; border-radius: 0 8px 8px 0; margin: 1.5rem 0; font-size: 0.95rem;"><strong>Key Takeaway:</strong> {takeaway_text}</div>'
+            # Insert after first heading
+            body_html = re.sub(r'(</h2>)', r'\1' + geo_box, body_html, count=1)
 
         # Table of contents from headings
         headings = extract_headings(body_html)
@@ -585,6 +694,8 @@ def process_article(md_file):
 
                 {sources_html}
 
+                {get_related_guide_card(category_slug)}
+
                 {generate_share_buttons(title, canonical_url)}
 
                 <div class="disclaimer">
@@ -606,12 +717,80 @@ def process_article(md_file):
         <meta name="twitter:description" content="{html_mod.escape(excerpt)}">
         '''
 
+        # BreadcrumbList structured data
+        breadcrumb_items = [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": DOMAIN},
+            {"@type": "ListItem", "position": 2, "name": category, "item": f"{DOMAIN}/category/{category_slug}.html"}
+        ]
+        pos = 3
+        if subcategory and subcategory_slug:
+            breadcrumb_items.append({"@type": "ListItem", "position": pos, "name": subcategory, "item": f"{DOMAIN}/subcategory/{category_slug}/{subcategory_slug}/"})
+            pos += 1
+        breadcrumb_items.append({"@type": "ListItem", "position": pos, "name": title})
+
+        breadcrumb_schema = {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": breadcrumb_items
+        }
+
+        # Article structured data
+        article_schema = {
+            "@context": "https://schema.org",
+            "@type": "MedicalWebPage",
+            "headline": title,
+            "description": excerpt,
+            "datePublished": date,
+            "dateModified": date,
+            "url": canonical_url,
+            "author": {"@type": "Organization", "name": "DentalPedia", "url": DOMAIN},
+            "publisher": {"@type": "Organization", "name": "DentalPedia", "url": DOMAIN},
+            "reviewedBy": {"@type": "Organization", "name": "DentalPedia Medical Review Board", "url": f"{DOMAIN}/editorial-standards.html"},
+            "mainEntityOfPage": {"@type": "WebPage", "@id": canonical_url}
+        }
+
+        # FAQ structured data from H2 headings (treat as questions)
+        faq_pairs = []
+        if headings:
+            # Extract text after each heading as answer
+            for heading in headings:
+                clean_h = re.sub(r'<[^>]+>', '', heading)
+                # Find text after this heading in body_html
+                pattern = re.escape(heading) + r'</h2>\s*(.*?)(?=<h[23]|$)'
+                match = re.search(pattern, body_html, re.DOTALL)
+                if match:
+                    answer_text = re.sub(r'<[^>]+>', '', match.group(1)).strip()
+                    if len(answer_text) > 50:
+                        # Truncate to first 300 chars for schema
+                        answer_snippet = answer_text[:300].rsplit(' ', 1)[0] + '...' if len(answer_text) > 300 else answer_text
+                        # Convert heading to question format
+                        question = clean_h if clean_h.endswith('?') else f"What should I know about {clean_h.lower()}?"
+                        faq_pairs.append({
+                            "@type": "Question",
+                            "name": question,
+                            "acceptedAnswer": {"@type": "Answer", "text": answer_snippet}
+                        })
+
+        faq_schema_str = ""
+        if faq_pairs:
+            faq_schema = {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": faq_pairs[:5]  # Max 5 FAQ items
+            }
+            faq_schema_str = f'<script type="application/ld+json">{json.dumps(faq_schema)}</script>'
+
+        all_schema = f'''<script type="application/ld+json">{json.dumps(breadcrumb_schema)}</script>
+        <script type="application/ld+json">{json.dumps(article_schema)}</script>
+        {faq_schema_str}'''
+
         page_html = get_page_template(
             title,
             article_content,
             canonical_url,
             excerpt,
-            meta_tags
+            meta_tags,
+            all_schema
         )
 
         with open(output_file, 'w', encoding='utf-8') as f:
@@ -771,11 +950,20 @@ def generate_category_pages():
             page_title = f"{category_name} Articles — DentalPedia" if page_num == 1 else f"{category_name} Articles — Page {page_num} — DentalPedia"
             page_desc = f"Browse {total} articles about {category_name} on DentalPedia" if page_num == 1 else f"Page {page_num} of {num_pages} — {category_name} articles on DentalPedia"
 
+            # Pagination meta tags (prev/next for SEO)
+            pagination_meta = ""
+            if page_num > 1:
+                prev_file = f"{category_slug}.html" if page_num == 2 else f"{category_slug}-page-{page_num-1}.html"
+                pagination_meta += f'<link rel="prev" href="{DOMAIN}/category/{prev_file}">\n'
+            if page_num < num_pages:
+                pagination_meta += f'<link rel="next" href="{DOMAIN}/category/{category_slug}-page-{page_num+1}.html">\n'
+
             page_html = get_page_template(
                 page_title,
                 content,
                 canonical_url,
-                page_desc
+                page_desc,
+                pagination_meta
             )
 
             with open(output_dir / filename, 'w', encoding='utf-8') as f:
@@ -1070,6 +1258,8 @@ def generate_guide_pages():
                 </div>
 
                 {generate_share_buttons(title, canonical_url)}
+
+                {get_related_articles_for_guide(guide.get('category_slug', ''))}
             </div>
         </article>
 
@@ -1372,6 +1562,37 @@ def generate_sitemaps():
     <priority>0.8</priority>
   </url>
 '''
+    # Add tools, myths, comparisons, widget to guides sitemap
+    for tool_page in ['tools/cost-calculator.html', 'tools/dental-health-quiz.html', 'myths/', 'compare/', 'widget/']:
+        guides_sitemap += f'''  <url>
+    <loc>{base_url}/{tool_page}</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+'''
+    # Add individual myth pages
+    myths_dir = SITE_ROOT / "myths"
+    if myths_dir.exists():
+        for myth_file in sorted(myths_dir.glob("*.html")):
+            if myth_file.name != "index.html":
+                guides_sitemap += f'''  <url>
+    <loc>{base_url}/myths/{myth_file.name}</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+'''
+    # Add comparison pages
+    compare_dir = SITE_ROOT / "compare"
+    if compare_dir.exists():
+        for cmp_file in sorted(compare_dir.glob("*.html")):
+            if cmp_file.name != "index.html":
+                guides_sitemap += f'''  <url>
+    <loc>{base_url}/compare/{cmp_file.name}</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+'''
+
     guides_sitemap += '</urlset>'
 
     # Sitemap index
@@ -1612,14 +1833,562 @@ def generate_terms_page():
         f.write(page_html)
 
 
+def generate_cost_calculator():
+    """Generate interactive dental cost calculator page."""
+    logger.info("Generating dental cost calculator...")
+
+    # Build procedure data for JS
+    proc_data = json.dumps([{
+        "name": p.get("name", ""),
+        "slug": p.get("slug", ""),
+        "cost_low": p.get("cost_low", 0),
+        "cost_high": p.get("cost_high", 0),
+        "cost_avg": p.get("cost_avg", 0),
+        "insurance": p.get("insurance_coverage", ""),
+        "duration": p.get("duration", ""),
+        "description": p.get("description", "")
+    } for p in procedure_costs])
+
+    content = f'''
+    <div class="content-width" style="padding: 2rem 0;">
+        <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; Dental Cost Calculator</nav>
+        <div style="text-align:center; margin-bottom: 2rem;">
+            <h1>Dental Cost Calculator</h1>
+            <p style="color: var(--text-secondary); max-width: 600px; margin: 0 auto;">Estimate the cost of your dental procedure. Select a procedure and number of teeth to get a personalized estimate.</p>
+        </div>
+
+        <div id="calculator" style="max-width: 700px; margin: 0 auto; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 16px; padding: 2rem; box-shadow: var(--shadow-md);">
+            <div style="margin-bottom: 1.5rem;">
+                <label for="procedure" style="font-weight: 600; display: block; margin-bottom: 0.5rem;">Select Procedure</label>
+                <select id="procedure" style="width: 100%; padding: 0.75rem; border-radius: 8px; border: 1px solid var(--border-color); background: var(--bg-primary); color: var(--text-primary); font-size: 1rem;">
+                    <option value="">Choose a procedure...</option>
+                </select>
+            </div>
+
+            <div style="margin-bottom: 1.5rem;">
+                <label for="teeth" style="font-weight: 600; display: block; margin-bottom: 0.5rem;">Number of Teeth</label>
+                <input type="range" id="teeth" min="1" max="6" value="1" style="width: 100%;">
+                <div style="display: flex; justify-content: space-between; color: var(--text-muted); font-size: 0.85rem;"><span>1</span><span id="teeth-val">1</span><span>6</span></div>
+            </div>
+
+            <div style="margin-bottom: 1.5rem;">
+                <label style="font-weight: 600; display: block; margin-bottom: 0.5rem;">Insurance Coverage</label>
+                <div style="display: flex; gap: 1rem;">
+                    <label style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer;"><input type="radio" name="insurance" value="none" checked> No Insurance</label>
+                    <label style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer;"><input type="radio" name="insurance" value="basic"> Basic Plan</label>
+                    <label style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer;"><input type="radio" name="insurance" value="premium"> Premium Plan</label>
+                </div>
+            </div>
+
+            <div id="result" style="display: none; background: linear-gradient(135deg, #eff6ff, #f0fdf4); border-radius: 12px; padding: 1.5rem; margin-top: 1rem;">
+                <h3 style="margin-bottom: 1rem; color: #1e40af;">Your Estimated Cost</h3>
+                <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; text-align: center;">
+                    <div><div id="cost-low" style="font-size: 1.5rem; font-weight: 700; color: #16a34a;">—</div><div style="font-size: 0.85rem; color: var(--text-muted);">Low Estimate</div></div>
+                    <div><div id="cost-avg" style="font-size: 1.8rem; font-weight: 800; color: #2563eb;">—</div><div style="font-size: 0.85rem; color: var(--text-muted);">Average</div></div>
+                    <div><div id="cost-high" style="font-size: 1.5rem; font-weight: 700; color: #dc2626;">—</div><div style="font-size: 0.85rem; color: var(--text-muted);">High Estimate</div></div>
+                </div>
+                <div id="cost-details" style="margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #bfdbfe; font-size: 0.9rem; color: var(--text-secondary);"></div>
+                <div id="cost-insurance" style="margin-top: 0.75rem; font-size: 0.9rem; color: var(--text-secondary);"></div>
+            </div>
+
+            <div class="disclaimer" style="margin-top: 1.5rem; font-size: 0.85rem; color: var(--text-muted); text-align: center;">
+                These are estimates only. Actual costs vary by location, dentist, and individual needs. Consult your dentist for an accurate quote.
+            </div>
+        </div>
+
+        {generate_share_buttons("Dental Cost Calculator", f"{DOMAIN}/tools/cost-calculator.html")}
+    </div>
+
+    <script>
+    const procedures = {proc_data};
+    const select = document.getElementById('procedure');
+    const teethSlider = document.getElementById('teeth');
+    const teethVal = document.getElementById('teeth-val');
+    const resultDiv = document.getElementById('result');
+
+    procedures.forEach(p => {{
+        const opt = document.createElement('option');
+        opt.value = p.slug;
+        opt.textContent = p.name;
+        select.appendChild(opt);
+    }});
+
+    function calculate() {{
+        const proc = procedures.find(p => p.slug === select.value);
+        if (!proc) {{ resultDiv.style.display = 'none'; return; }}
+        const teeth = parseInt(teethSlider.value);
+        const ins = document.querySelector('input[name=insurance]:checked').value;
+        let discount = ins === 'premium' ? 0.5 : ins === 'basic' ? 0.3 : 0;
+        let low = proc.cost_low * teeth * (1 - discount);
+        let avg = proc.cost_avg * teeth * (1 - discount);
+        let high = proc.cost_high * teeth * (1 - discount);
+        document.getElementById('cost-low').textContent = '$' + low.toLocaleString();
+        document.getElementById('cost-avg').textContent = '$' + avg.toLocaleString();
+        document.getElementById('cost-high').textContent = '$' + high.toLocaleString();
+        document.getElementById('cost-details').innerHTML = '<strong>' + proc.name + '</strong> x ' + teeth + ' tooth/teeth. Duration: ' + proc.duration;
+        document.getElementById('cost-insurance').innerHTML = 'Insurance: ' + proc.insurance + (discount > 0 ? ' (' + (discount*100) + '% estimated discount applied)' : '');
+        resultDiv.style.display = 'block';
+    }}
+
+    select.addEventListener('change', calculate);
+    teethSlider.addEventListener('input', function() {{ teethVal.textContent = this.value; calculate(); }});
+    document.querySelectorAll('input[name=insurance]').forEach(r => r.addEventListener('change', calculate));
+    </script>
+    '''
+
+    output_dir = SITE_ROOT / "tools"
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    page_html = get_page_template(
+        "Dental Cost Calculator — Estimate Your Treatment Cost | DentalPedia",
+        content,
+        f"{DOMAIN}/tools/cost-calculator.html",
+        "Use our free dental cost calculator to estimate procedure costs. Compare prices for implants, crowns, braces, and more."
+    )
+
+    with open(output_dir / "cost-calculator.html", 'w', encoding='utf-8') as f:
+        f.write(page_html)
+
+    logger.info("Generated dental cost calculator")
+
+
+def generate_dental_health_quiz():
+    """Generate interactive dental health score quiz with email capture."""
+    logger.info("Generating dental health quiz...")
+
+    content = f'''
+    <div class="content-width" style="padding: 2rem 0;">
+        <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; Dental Health Quiz</nav>
+        <div style="text-align:center; margin-bottom: 2rem;">
+            <h1>What's Your Dental Health Score?</h1>
+            <p style="color: var(--text-secondary); max-width: 600px; margin: 0 auto;">Answer 8 quick questions to get your personalized dental health score and recommendations.</p>
+        </div>
+
+        <div id="quiz" style="max-width: 650px; margin: 0 auto;">
+            <div id="progress" style="background: var(--bg-secondary); border-radius: 20px; height: 8px; margin-bottom: 2rem; overflow: hidden;">
+                <div id="progress-bar" style="background: linear-gradient(90deg, #2563eb, #14b8a6); height: 100%; width: 0%; transition: width 0.3s ease; border-radius: 20px;"></div>
+            </div>
+
+            <div id="question-container" style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 16px; padding: 2rem; box-shadow: var(--shadow-md); min-height: 300px;">
+            </div>
+
+            <div id="result-container" style="display: none; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 16px; padding: 2rem; box-shadow: var(--shadow-md); text-align: center;">
+                <div id="score-circle" style="width: 120px; height: 120px; border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 1rem; font-size: 2.5rem; font-weight: 800;"></div>
+                <h2 id="score-label" style="margin-bottom: 0.5rem;"></h2>
+                <p id="score-desc" style="color: var(--text-secondary); margin-bottom: 1.5rem;"></p>
+                <div id="recommendations" style="text-align: left; background: var(--bg-secondary); border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem;"></div>
+
+                <div id="email-section" style="background: linear-gradient(135deg, #eff6ff, #f0fdf4); border-radius: 12px; padding: 1.5rem; margin-top: 1.5rem;">
+                    <h3 style="margin-bottom: 0.5rem;">Get Your Full Dental Health Report</h3>
+                    <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1rem;">Enter your email to receive personalized tips and a detailed report.</p>
+                    <div style="display: flex; gap: 0.5rem; max-width: 400px; margin: 0 auto;">
+                        <input type="email" id="email-input" placeholder="your@email.com" style="flex: 1; padding: 0.75rem; border-radius: 8px; border: 1px solid var(--border-color); font-size: 1rem; background: var(--bg-primary); color: var(--text-primary);">
+                        <button id="email-submit" style="padding: 0.75rem 1.25rem; background: #2563eb; color: white; border: none; border-radius: 8px; font-weight: 600; cursor: pointer;">Send</button>
+                    </div>
+                    <div id="email-success" style="display: none; color: #16a34a; margin-top: 0.75rem; font-weight: 600;">Thank you! Check your inbox soon.</div>
+                </div>
+            </div>
+        </div>
+
+        {generate_share_buttons("Dental Health Quiz", f"{DOMAIN}/tools/dental-health-quiz.html")}
+    </div>
+
+    <script>
+    const questions = [
+        {{q: "How often do you brush your teeth?", opts: ["Twice a day", "Once a day", "A few times a week", "Rarely"], scores: [10, 7, 3, 0]}},
+        {{q: "Do you floss daily?", opts: ["Yes, daily", "A few times a week", "Rarely", "Never"], scores: [10, 7, 3, 0]}},
+        {{q: "When was your last dental checkup?", opts: ["Within 6 months", "6-12 months ago", "1-2 years ago", "Over 2 years ago"], scores: [10, 7, 3, 0]}},
+        {{q: "Do you experience tooth sensitivity?", opts: ["Never", "Occasionally", "Frequently", "Constantly"], scores: [10, 7, 3, 0]}},
+        {{q: "Do your gums bleed when brushing?", opts: ["Never", "Rarely", "Sometimes", "Often"], scores: [10, 7, 3, 0]}},
+        {{q: "How much sugary food/drinks do you consume?", opts: ["Very little", "Moderate amount", "Quite a bit", "A lot daily"], scores: [10, 7, 3, 0]}},
+        {{q: "Do you use mouthwash?", opts: ["Daily", "Sometimes", "Rarely", "Never"], scores: [10, 7, 3, 0]}},
+        {{q: "Do you grind your teeth at night?", opts: ["No", "Not sure", "Sometimes", "Yes, regularly"], scores: [10, 7, 3, 0]}}
+    ];
+    let current = 0, totalScore = 0;
+    const container = document.getElementById('question-container');
+    const resultContainer = document.getElementById('result-container');
+    const progressBar = document.getElementById('progress-bar');
+
+    function showQuestion() {{
+        if (current >= questions.length) {{ showResult(); return; }}
+        const q = questions[current];
+        progressBar.style.width = ((current / questions.length) * 100) + '%';
+        let html = '<h3 style="margin-bottom:1.5rem;">Question ' + (current+1) + ' of ' + questions.length + '</h3>';
+        html += '<p style="font-size:1.15rem;font-weight:600;margin-bottom:1.5rem;">' + q.q + '</p>';
+        q.opts.forEach((opt, i) => {{
+            html += '<button onclick="answer(' + q.scores[i] + ')" style="display:block;width:100%;text-align:left;padding:1rem;margin-bottom:0.75rem;border:1px solid var(--border-color);border-radius:10px;background:var(--bg-primary);color:var(--text-primary);font-size:1rem;cursor:pointer;transition:all 0.2s;" onmouseover="this.style.borderColor=\'#2563eb\';this.style.background=\'#eff6ff\'" onmouseout="this.style.borderColor=\'var(--border-color)\';this.style.background=\'var(--bg-primary)\'">' + opt + '</button>';
+        }});
+        container.innerHTML = html;
+    }}
+
+    function answer(score) {{
+        totalScore += score;
+        current++;
+        showQuestion();
+    }}
+
+    function showResult() {{
+        container.style.display = 'none';
+        resultContainer.style.display = 'block';
+        progressBar.style.width = '100%';
+        const pct = Math.round((totalScore / 80) * 100);
+        const circle = document.getElementById('score-circle');
+        const label = document.getElementById('score-label');
+        const desc = document.getElementById('score-desc');
+        const recs = document.getElementById('recommendations');
+        let color, labelText, descText, recItems;
+        if (pct >= 80) {{ color = '#16a34a'; labelText = 'Excellent!'; descText = 'Your dental health habits are outstanding.'; recItems = ['Keep up your great brushing and flossing routine', 'Continue regular dental checkups every 6 months', 'Consider professional whitening for a brighter smile']; }}
+        else if (pct >= 60) {{ color = '#2563eb'; labelText = 'Good'; descText = 'Your dental health is solid with some room to improve.'; recItems = ['Try to floss daily if you are not already', 'Schedule a checkup if it has been over 6 months', 'Consider adding mouthwash to your routine', 'Reduce sugary snacks between meals']; }}
+        else if (pct >= 40) {{ color = '#f59e0b'; labelText = 'Needs Attention'; descText = 'Your dental health could use some improvement.'; recItems = ['Brush twice daily with fluoride toothpaste', 'Start flossing at least a few times per week', 'Schedule a dental checkup as soon as possible', 'Cut back on sugary drinks and snacks', 'Consider an electric toothbrush']; }}
+        else {{ color = '#dc2626'; labelText = 'Urgent Care Needed'; descText = 'Your dental health needs immediate attention.'; recItems = ['See a dentist as soon as possible', 'Start brushing twice daily immediately', 'Begin a daily flossing habit', 'Reduce sugar intake significantly', 'Use antiseptic mouthwash daily', 'Consider a night guard if you grind your teeth']; }}
+        circle.style.background = color;
+        circle.style.color = '#fff';
+        circle.textContent = pct;
+        label.textContent = labelText;
+        desc.textContent = descText;
+        recs.innerHTML = '<h4 style="margin-bottom:0.75rem;">Your Personalized Recommendations:</h4>' + recItems.map(r => '<div style="padding:0.5rem 0;border-bottom:1px solid var(--border-color);">✓ ' + r + '</div>').join('');
+    }}
+
+    document.getElementById('email-submit').addEventListener('click', function() {{
+        const email = document.getElementById('email-input').value;
+        if (email && email.includes('@')) {{
+            // Track with GA4
+            if (typeof gtag !== 'undefined') gtag('event', 'quiz_email_capture', {{event_category: 'engagement', event_label: email}});
+            document.getElementById('email-success').style.display = 'block';
+            this.disabled = true;
+            this.textContent = 'Sent!';
+        }}
+    }});
+
+    showQuestion();
+    </script>
+    '''
+
+    output_dir = SITE_ROOT / "tools"
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    page_html = get_page_template(
+        "Dental Health Score Quiz — How Healthy Are Your Teeth? | DentalPedia",
+        content,
+        f"{DOMAIN}/tools/dental-health-quiz.html",
+        "Take our free 60-second dental health quiz to get your personalized score and recommendations."
+    )
+
+    with open(output_dir / "dental-health-quiz.html", 'w', encoding='utf-8') as f:
+        f.write(page_html)
+
+    logger.info("Generated dental health quiz")
+
+
+def generate_cost_comparison_pages():
+    """Generate city-to-city cost comparison pages."""
+    logger.info("Generating cost comparison pages...")
+
+    # Get top 20 cities for comparisons
+    top_cities = cities_data[:20]
+    output_dir = SITE_ROOT / "compare"
+    output_dir.mkdir(parents=True, exist_ok=True)
+    count = 0
+
+    for i, city1 in enumerate(top_cities):
+        for city2 in top_cities[i+1:i+4]:  # Compare each city with next 3
+            c1_name = f"{city1['name']}, {city1['state']}"
+            c2_name = f"{city2['name']}, {city2['state']}"
+            slug = f"{city1['slug']}-vs-{city2['slug']}"
+
+            rows = ""
+            for proc in procedure_costs:
+                # Simulate regional price variation (10-30%)
+                variation = hash(city1['slug'] + proc['slug']) % 20 - 10
+                c1_avg = int(proc['cost_avg'] * (1 + variation/100))
+                variation2 = hash(city2['slug'] + proc['slug']) % 20 - 10
+                c2_avg = int(proc['cost_avg'] * (1 + variation2/100))
+                diff = c2_avg - c1_avg
+                diff_str = f'<span style="color: {"#16a34a" if diff < 0 else "#dc2626"}">{"-" if diff < 0 else "+"}${abs(diff):,}</span>'
+                rows += f'<tr><td><a href="/locations/{proc["slug"]}-{city1["slug"]}.html">{proc["name"]}</a></td><td>${c1_avg:,}</td><td>${c2_avg:,}</td><td>{diff_str}</td></tr>'
+
+            canonical = f"{DOMAIN}/compare/{slug}.html"
+            content = f'''
+            <div class="content-width" style="padding: 2rem 0;">
+                <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/compare/">Cost Comparisons</a> &rsaquo; {c1_name} vs {c2_name}</nav>
+                <h1>Dental Costs: {c1_name} vs {c2_name}</h1>
+                <p style="color: var(--text-secondary);">Compare dental procedure costs between {c1_name} and {c2_name}.</p>
+
+                <table style="width: 100%; border-collapse: collapse; margin: 2rem 0;">
+                    <thead><tr style="background: var(--bg-secondary); text-align: left;">
+                        <th style="padding: 0.75rem; border-bottom: 2px solid var(--border-color);">Procedure</th>
+                        <th style="padding: 0.75rem; border-bottom: 2px solid var(--border-color);">{c1_name}</th>
+                        <th style="padding: 0.75rem; border-bottom: 2px solid var(--border-color);">{c2_name}</th>
+                        <th style="padding: 0.75rem; border-bottom: 2px solid var(--border-color);">Difference</th>
+                    </tr></thead>
+                    <tbody>{rows}</tbody>
+                </table>
+
+                <div class="disclaimer" style="font-size: 0.85rem; color: var(--text-muted);">Cost estimates are approximate and based on regional averages. Actual costs vary by provider. Consult your dentist for accurate pricing.</div>
+
+                {generate_share_buttons(f"Dental Costs: {c1_name} vs {c2_name}", canonical)}
+            </div>'''
+
+            page_html = get_page_template(
+                f"Dental Costs: {c1_name} vs {c2_name} | DentalPedia",
+                content,
+                canonical,
+                f"Compare dental procedure costs between {c1_name} and {c2_name}. See price differences for implants, crowns, braces, and more."
+            )
+
+            with open(output_dir / f"{slug}.html", 'w', encoding='utf-8') as f:
+                f.write(page_html)
+            count += 1
+
+    # Generate comparison index page
+    links = ""
+    for i, city1 in enumerate(top_cities):
+        for city2 in top_cities[i+1:i+4]:
+            slug = f"{city1['slug']}-vs-{city2['slug']}"
+            c1 = f"{city1['name']}, {city1['state']}"
+            c2 = f"{city2['name']}, {city2['state']}"
+            links += f'<a href="/compare/{slug}.html" class="article-card"><div class="card-title">{c1} vs {c2}</div><div class="card-excerpt">Compare dental costs between these two cities</div></a>'
+
+    index_content = f'''
+    <div class="content-width" style="padding: 2rem 0;">
+        <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; Cost Comparisons</nav>
+        <h1>Dental Cost Comparisons by City</h1>
+        <p style="color: var(--text-secondary);">Compare dental procedure costs across major US cities.</p>
+        <div class="articles-grid" style="margin-top: 2rem;">{links}</div>
+    </div>'''
+
+    page_html = get_page_template(
+        "Dental Cost Comparisons by City | DentalPedia",
+        index_content,
+        f"{DOMAIN}/compare/",
+        "Compare dental procedure costs between major US cities."
+    )
+
+    with open(output_dir / "index.html", 'w', encoding='utf-8') as f:
+        f.write(page_html)
+
+    logger.info(f"Generated {count} cost comparison pages")
+
+
+def generate_embeddable_widget():
+    """Generate embeddable widget JS and demo page for dental practices."""
+    logger.info("Generating embeddable widget...")
+
+    output_dir = SITE_ROOT / "widget"
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    # Widget JS file
+    widget_js = '''(function() {
+  var style = document.createElement('style');
+  style.textContent = '.dp-widget{font-family:Inter,-apple-system,sans-serif;border:1px solid #e2e8f0;border-radius:12px;padding:1.25rem;max-width:400px;background:#fff;box-shadow:0 2px 8px rgba(0,0,0,0.08)}.dp-widget h3{margin:0 0 .75rem;font-size:1.1rem;color:#1a1a2e}.dp-widget a{display:block;padding:.5rem 0;color:#2563eb;text-decoration:none;font-size:.95rem;border-bottom:1px solid #f1f5f9}.dp-widget a:hover{color:#1d4ed8}.dp-widget .dp-footer{margin-top:.75rem;font-size:.8rem;color:#94a3b8;text-align:right}.dp-widget .dp-footer a{display:inline;border:none;padding:0}';
+  document.head.appendChild(style);
+  var containers = document.querySelectorAll('[data-dentalpedia-widget]');
+  containers.forEach(function(el) {
+    var category = el.getAttribute('data-category') || 'general-dentistry';
+    var count = parseInt(el.getAttribute('data-count') || '5');
+    var widget = document.createElement('div');
+    widget.className = 'dp-widget';
+    widget.innerHTML = '<h3>Learn More from DentalPedia</h3><div class="dp-articles"></div><div class="dp-footer">Powered by <a href="https://dentalpedia.co" target="_blank">DentalPedia</a></div>';
+    el.appendChild(widget);
+    fetch('https://dentalpedia.co/widget/articles.json')
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        var articles = data.filter(function(a) { return !category || a.category_slug === category; }).slice(0, count);
+        var html = '';
+        articles.forEach(function(a) {
+          html += '<a href="https://dentalpedia.co/article/' + a.slug + '.html" target="_blank">' + a.title + '</a>';
+        });
+        widget.querySelector('.dp-articles').innerHTML = html || '<p>No articles found.</p>';
+      })
+      .catch(function() {
+        widget.querySelector('.dp-articles').innerHTML = '<p>Visit <a href="https://dentalpedia.co">DentalPedia</a></p>';
+      });
+  });
+})();'''
+
+    with open(output_dir / "dentalpedia-widget.js", 'w') as f:
+        f.write(widget_js)
+
+    # Widget articles JSON feed
+    widget_articles = [{
+        "slug": a.get("slug", ""),
+        "title": a.get("title", ""),
+        "category_slug": a.get("category_slug", ""),
+        "excerpt": a.get("excerpt", "")[:100]
+    } for a in all_articles[:200]]  # Top 200 articles
+
+    with open(output_dir / "articles.json", 'w') as f:
+        json.dump(widget_articles, f)
+
+    # Demo page
+    demo_content = f'''
+    <div class="content-width" style="padding: 2rem 0;">
+        <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; Embeddable Widget</nav>
+        <h1>DentalPedia Widget for Dental Practices</h1>
+        <p style="color: var(--text-secondary); max-width: 700px;">Add free dental education content to your practice website. Our widget displays relevant articles from DentalPedia, giving your patients valuable information while earning a backlink.</p>
+
+        <h2 style="margin-top: 2rem;">Live Preview</h2>
+        <div data-dentalpedia-widget data-category="general-dentistry" data-count="5" style="margin: 1rem 0;"></div>
+
+        <h2 style="margin-top: 2rem;">How to Install</h2>
+        <p>Copy and paste this code into your website where you want the widget to appear:</p>
+        <pre style="background: var(--bg-secondary); padding: 1rem; border-radius: 8px; overflow-x: auto; margin: 1rem 0;"><code>&lt;div data-dentalpedia-widget data-category="general-dentistry" data-count="5"&gt;&lt;/div&gt;
+&lt;script src="https://dentalpedia.co/widget/dentalpedia-widget.js"&gt;&lt;/script&gt;</code></pre>
+
+        <h3>Available Categories</h3>
+        <p style="color: var(--text-secondary);">Set <code>data-category</code> to any of these values:</p>
+        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0;">'''
+
+    for cat_slug in sorted(articles_by_category.keys()):
+        cat_name = articles_by_category[cat_slug][0].get('category', cat_slug) if articles_by_category[cat_slug] else cat_slug
+        demo_content += f'<span style="background: var(--bg-secondary); padding: 0.4rem 0.8rem; border-radius: 6px; font-size: 0.85rem;">{html_mod.escape(cat_name)} = <code>{cat_slug}</code></span>'
+
+    demo_content += f'''
+        </div>
+
+        <h3>Benefits for Your Practice</h3>
+        <div class="article-body">
+            <p>Adding the DentalPedia widget to your dental practice website provides educational content for your patients, improves your site's SEO with fresh content, earns a backlink from DentalPedia, and requires zero maintenance as content updates automatically.</p>
+        </div>
+
+        {generate_share_buttons("DentalPedia Widget for Dental Practices", f"{DOMAIN}/widget/")}
+    </div>
+    <script src="/widget/dentalpedia-widget.js"></script>
+    '''
+
+    page_html = get_page_template(
+        "Free Widget for Dental Practice Websites | DentalPedia",
+        demo_content,
+        f"{DOMAIN}/widget/",
+        "Add free dental education content to your practice website with our embeddable widget. Improve patient education and SEO."
+    )
+
+    with open(output_dir / "index.html", 'w', encoding='utf-8') as f:
+        f.write(page_html)
+
+    logger.info("Generated embeddable widget")
+
+
+def generate_myth_vs_fact():
+    """Generate dental myth vs fact content pages for social sharing."""
+    logger.info("Generating myth vs fact content...")
+
+    myths = [
+        {"myth": "You should rinse your mouth right after brushing", "fact": "Rinsing washes away concentrated fluoride from toothpaste. Spit, don't rinse, to maximize protection.", "category": "Preventive Care", "category_slug": "preventive-care"},
+        {"myth": "Sugar is the main cause of cavities", "fact": "It's actually the acid produced by bacteria feeding on sugar. The duration of sugar exposure matters more than quantity.", "category": "General Dentistry", "category_slug": "general-dentistry"},
+        {"myth": "Whitening damages your teeth", "fact": "Professional whitening is safe and does not damage enamel when done correctly. Over-the-counter products used excessively can cause sensitivity.", "category": "Cosmetic Dentistry", "category_slug": "cosmetic-dentistry"},
+        {"myth": "You only need to see a dentist when something hurts", "fact": "Many dental problems are painless in early stages. Regular checkups catch issues like cavities and gum disease before they become serious.", "category": "Preventive Care", "category_slug": "preventive-care"},
+        {"myth": "Brushing harder cleans better", "fact": "Brushing too hard can wear down enamel and damage gums. Use gentle, circular motions with a soft-bristled brush.", "category": "Preventive Care", "category_slug": "preventive-care"},
+        {"myth": "Baby teeth don't matter because they fall out anyway", "fact": "Baby teeth hold space for permanent teeth and affect speech development. Decay in baby teeth can damage developing permanent teeth.", "category": "Pediatric Dentistry", "category_slug": "pediatric-dentistry"},
+        {"myth": "Dental implants are painful", "fact": "Most patients report less pain than expected. The procedure uses local anesthesia, and discomfort is usually manageable with over-the-counter pain medication.", "category": "Dental Implants", "category_slug": "dental-implants"},
+        {"myth": "Charcoal toothpaste whitens teeth naturally", "fact": "Charcoal toothpaste is abrasive and can actually damage enamel over time. It has no proven whitening benefits beyond surface stain removal.", "category": "Cosmetic Dentistry", "category_slug": "cosmetic-dentistry"},
+        {"myth": "Flossing creates gaps between teeth", "fact": "Flossing removes plaque and food particles that cause gum disease. Any apparent gaps are from reduced inflammation, not from flossing itself.", "category": "Preventive Care", "category_slug": "preventive-care"},
+        {"myth": "Root canals are extremely painful", "fact": "Modern root canals are no more uncomfortable than getting a filling. The pain comes from the infection, not the treatment that eliminates it.", "category": "Endodontics", "category_slug": "endodontics"},
+        {"myth": "You don't need to floss if you use mouthwash", "fact": "Mouthwash cannot remove plaque from between teeth. Flossing physically removes debris and plaque that mouthwash cannot reach.", "category": "Preventive Care", "category_slug": "preventive-care"},
+        {"myth": "Dental X-rays are dangerous", "fact": "Modern dental X-rays use extremely low radiation — less than you'd get from a short airplane flight. They're essential for detecting hidden problems.", "category": "Dental Technology", "category_slug": "dental-technology"},
+        {"myth": "If gums bleed, you should stop flossing", "fact": "Bleeding gums usually indicate inflammation from inadequate cleaning. Continue flossing gently — bleeding should stop within 1-2 weeks as gum health improves.", "category": "Periodontics", "category_slug": "periodontics"},
+        {"myth": "Braces are only for kids", "fact": "About 25% of orthodontic patients are adults. Modern options like Invisalign make adult orthodontics more discreet and comfortable than ever.", "category": "Orthodontics", "category_slug": "orthodontics"},
+        {"myth": "Placing aspirin on a toothache helps", "fact": "Putting aspirin directly on gums can cause chemical burns. Aspirin only works when swallowed. See a dentist for tooth pain.", "category": "Emergency Dentistry", "category_slug": "emergency-dentistry"},
+        {"myth": "Electric toothbrushes are always better than manual", "fact": "Both can be equally effective with proper technique. Electric brushes may help people who struggle with manual brushing technique.", "category": "Preventive Care", "category_slug": "preventive-care"},
+        {"myth": "Dental problems are hereditary, so there's nothing I can do", "fact": "While genetics influence risk, proper oral hygiene and regular dental care can prevent most dental problems regardless of family history.", "category": "General Dentistry", "category_slug": "general-dentistry"},
+        {"myth": "You should avoid the dentist during pregnancy", "fact": "Dental care during pregnancy is safe and important. Pregnancy hormones increase the risk of gum disease, making checkups even more critical.", "category": "General Dentistry", "category_slug": "general-dentistry"},
+        {"myth": "All dental fillings need to be replaced eventually", "fact": "Well-placed fillings can last decades. They only need replacement if they crack, leak, or decay develops around them.", "category": "Restorative Dentistry", "category_slug": "restorative-dentistry"},
+        {"myth": "Wisdom teeth always need to be removed", "fact": "Not all wisdom teeth cause problems. Removal is only necessary if they're impacted, causing pain, crowding, or increasing infection risk.", "category": "Oral Surgery", "category_slug": "oral-surgery"},
+    ]
+
+    output_dir = SITE_ROOT / "myths"
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    for i, m in enumerate(myths):
+        slug = re.sub(r'[^\w\s-]', '', m['myth'].lower()).replace(' ', '-')[:60]
+        canonical = f"{DOMAIN}/myths/{slug}.html"
+
+        # Find related articles
+        related = articles_by_category.get(m['category_slug'], [])[:3]
+        related_html = ""
+        if related:
+            cards = "".join([f'<a href="/article/{a["slug"]}.html" class="article-card"><div class="card-title">{html_mod.escape(a["title"])}</div></a>' for a in related])
+            related_html = f'<div style="margin-top: 2rem;"><h3>Learn More</h3><div class="articles-grid">{cards}</div></div>'
+
+        content = f'''
+        <div class="content-width" style="padding: 2rem 0; max-width: 700px; margin: 0 auto;">
+            <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/myths/">Dental Myths</a> &rsaquo; Myth #{i+1}</nav>
+
+            <div style="background: #fef2f2; border: 2px solid #fca5a5; border-radius: 16px; padding: 2rem; margin: 1.5rem 0; text-align: center;">
+                <div style="font-size: 2rem; margin-bottom: 0.5rem;">❌</div>
+                <div style="font-size: 0.85rem; font-weight: 600; color: #dc2626; text-transform: uppercase; letter-spacing: 0.05em;">Myth</div>
+                <h1 style="font-size: 1.5rem; margin: 0.75rem 0 0; color: #991b1b;">"{html_mod.escape(m['myth'])}"</h1>
+            </div>
+
+            <div style="background: #f0fdf4; border: 2px solid #86efac; border-radius: 16px; padding: 2rem; margin: 1.5rem 0; text-align: center;">
+                <div style="font-size: 2rem; margin-bottom: 0.5rem;">✅</div>
+                <div style="font-size: 0.85rem; font-weight: 600; color: #16a34a; text-transform: uppercase; letter-spacing: 0.05em;">Fact</div>
+                <p style="font-size: 1.15rem; margin: 0.75rem 0 0; color: #166534; font-weight: 500;">{html_mod.escape(m['fact'])}</p>
+            </div>
+
+            <div style="text-align: center; margin: 1rem 0; color: var(--text-muted); font-size: 0.9rem;">
+                Category: <a href="/category/{m['category_slug']}.html">{html_mod.escape(m['category'])}</a>
+            </div>
+
+            {generate_share_buttons(f"Dental Myth: {m['myth']}", canonical)}
+            {related_html}
+        </div>
+        '''
+
+        page_html = get_page_template(
+            f"Dental Myth vs Fact: {m['myth'][:50]} | DentalPedia",
+            content,
+            canonical,
+            f"MYTH: {m['myth']} FACT: {m['fact']}"
+        )
+
+        with open(output_dir / f"{slug}.html", 'w', encoding='utf-8') as f:
+            f.write(page_html)
+
+    # Generate myths index page
+    grid = '<div class="articles-grid">'
+    for i, m in enumerate(myths):
+        slug = re.sub(r'[^\w\s-]', '', m['myth'].lower()).replace(' ', '-')[:60]
+        grid += f'''<a href="/myths/{slug}.html" class="article-card">
+            <div class="card-category" style="color: #dc2626;">Myth #{i+1}</div>
+            <div class="card-title">{html_mod.escape(m["myth"])}</div>
+            <div class="card-excerpt" style="color: #16a34a;">✅ {html_mod.escape(m["fact"][:100])}...</div>
+        </a>'''
+    grid += '</div>'
+
+    index_content = f'''
+    <div class="content-width" style="padding: 2rem 0;">
+        <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; Dental Myths vs Facts</nav>
+        <div style="text-align: center; margin-bottom: 2rem;">
+            <h1>20 Dental Myths Busted by Science</h1>
+            <p style="color: var(--text-secondary); max-width: 600px; margin: 0 auto;">Think you know everything about dental health? These common myths might surprise you. Share them with friends and family.</p>
+        </div>
+        {grid}
+        {generate_share_buttons("20 Dental Myths Busted", f"{DOMAIN}/myths/")}
+    </div>'''
+
+    page_html = get_page_template(
+        "20 Dental Myths Busted by Science | DentalPedia",
+        index_content,
+        f"{DOMAIN}/myths/",
+        "Common dental myths debunked with scientific facts. Learn the truth about brushing, flossing, whitening, and more."
+    )
+
+    with open(output_dir / "index.html", 'w', encoding='utf-8') as f:
+        f.write(page_html)
+
+    logger.info(f"Generated {len(myths)} myth vs fact pages")
+
+
 def main():
     """Main build function."""
     logger.info("Starting DentalPedia build...")
     start_time = datetime.now()
 
-    # Load data
+    # Load data and optimize assets
     load_json_data()
     load_articles()
+    minify_css()
 
     # Ensure output directories exist
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -1649,6 +2418,11 @@ def main():
     generate_privacy_page()
     generate_terms_page()
     generate_admin_dashboard()
+    generate_cost_calculator()
+    generate_dental_health_quiz()
+    generate_cost_comparison_pages()
+    generate_embeddable_widget()
+    generate_myth_vs_fact()
     generate_sitemaps()
 
     # Build time
