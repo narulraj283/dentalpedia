@@ -504,26 +504,50 @@ def process_article(md_file):
         if 'slug' not in metadata:
             return None
 
-        # Minimal article generation - just store metadata
         slug = metadata['slug']
 
-        # Create output directory and file (simplified for speed)
         output_file = OUTPUT_DIR / f"{slug}.html"
         output_file.parent.mkdir(parents=True, exist_ok=True)
 
-        # Minimal HTML for faster generation
-        canonical_url = f"{DOMAIN}/article/{slug}/"
+        canonical_url = f"{DOMAIN}/article/{slug}.html"
         title = metadata.get('title', 'Untitled')
         excerpt = metadata.get('excerpt', '')
         category = metadata.get('category', '')
         category_slug = metadata.get('category_slug', '')
         reviewer_specialty = metadata.get('reviewer_specialty', 'General Dentistry')
+        subcategory = metadata.get('subcategory', '')
+        subcategory_slug = metadata.get('subcategory_slug', '')
         date = metadata.get('date', '')
         read_time = metadata.get('read_time', '5 min')
+        sources = metadata.get('sources', [])
+
+        # Convert full markdown body to HTML
+        body_html = markdown_to_html(body)
+
+        # Table of contents from headings
+        headings = extract_headings(body_html)
+        toc_html = generate_toc_html(headings) if headings else ''
+
+        # Breadcrumb
+        breadcrumb = f'<nav class="article-breadcrumb"><a href="/">Home</a> / <a href="/category/{category_slug}.html">{html_mod.escape(category)}</a>'
+        if subcategory and subcategory_slug:
+            breadcrumb += f' / <a href="/subcategory/{category_slug}/{subcategory_slug}/">{html_mod.escape(subcategory)}</a>'
+        breadcrumb += f' / {html_mod.escape(title)}</nav>'
+
+        # Sources
+        sources_html = ""
+        if sources:
+            sources_html = '<div class="sources-card"><div class="sources-title">Sources</div><ul class="sources-list">'
+            for source in sources:
+                s_title = source.get('title', 'Source')
+                s_url = source.get('url', '#')
+                sources_html += f'<li><a href="{s_url}" target="_blank" rel="noopener">{html_mod.escape(s_title)}</a></li>'
+            sources_html += '</ul></div>'
 
         article_content = f'''
         <div class="article-page">
             <article class="content-width">
+                {breadcrumb}
                 <header class="article-header">
                     <h1>{html_mod.escape(title)}</h1>
                     <div class="article-meta">
@@ -533,21 +557,25 @@ def process_article(md_file):
                     </div>
                 </header>
 
+                {toc_html}
+
                 <div class="article-body">
-                    <p>{html_mod.escape(excerpt)}</p>
+                    {body_html}
                 </div>
 
                 <div class="eeat-card">
                     <div class="eeat-icon">🦷</div>
                     <div class="eeat-name">Reviewed by DentalPedia Editorial Board</div>
-                    <div class="eeat-credentials">Board-Certified {reviewer_specialty} • <a href="/editorial-standards.html">Our Standards</a></div>
+                    <div class="eeat-credentials">Board-Certified {html_mod.escape(reviewer_specialty)} • <a href="/editorial-standards.html">Our Standards</a></div>
                 </div>
+
+                {sources_html}
 
                 {generate_share_buttons(title, canonical_url)}
 
                 <div class="disclaimer">
                     <div class="disclaimer-icon">⚠️</div>
-                    <div>This information is educational and not a substitute for professional medical advice.</div>
+                    <div>This information is educational and not a substitute for professional medical advice. Always consult your dentist before making treatment decisions.</div>
                 </div>
             </article>
         </div>
@@ -558,6 +586,7 @@ def process_article(md_file):
         <meta property="og:description" content="{html_mod.escape(excerpt)}">
         <meta property="og:url" content="{canonical_url}">
         <meta property="og:type" content="article">
+        <meta property="article:section" content="{html_mod.escape(category)}">
         '''
 
         page_html = get_page_template(
