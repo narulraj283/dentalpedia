@@ -147,11 +147,24 @@ def parse_markdown_frontmatter(content):
     return metadata, body
 
 
+def heading_slug(text):
+    """Convert heading text to URL-friendly slug (matches generate_toc_html logic)."""
+    clean = re.sub(r'<[^>]+>', '', text)
+    return re.sub(r'[^\w\s-]', '', clean).replace(' ', '-').lower()
+
+
 def markdown_to_html(text):
     """Convert markdown to HTML."""
-    # Headers
-    text = re.sub(r'^### (.*?)$', r'<h3>\1</h3>', text, flags=re.MULTILINE)
-    text = re.sub(r'^## (.*?)$', r'<h2>\1</h2>', text, flags=re.MULTILINE)
+    # Headers — add id attributes for TOC anchor linking
+    def h3_repl(m):
+        s = heading_slug(m.group(1))
+        return f'<h3 id="{s}">{m.group(1)}</h3>'
+    def h2_repl(m):
+        s = heading_slug(m.group(1))
+        return f'<h2 id="{s}">{m.group(1)}</h2>'
+
+    text = re.sub(r'^### (.*?)$', h3_repl, text, flags=re.MULTILINE)
+    text = re.sub(r'^## (.*?)$', h2_repl, text, flags=re.MULTILINE)
     text = re.sub(r'^# (.*?)$', r'<h1>\1</h1>', text, flags=re.MULTILINE)
 
     # Bold and italic
@@ -1201,13 +1214,14 @@ def generate_guide_pages():
         sections_html = ''
         for section in sections:
             heading = section.get('heading', '')
-            sections_html += f'<h2>{html_mod.escape(heading)}</h2>'
+            slug_h = heading.lower().replace(' ', '-')
+            sections_html += f'<h2 id="{slug_h}">{html_mod.escape(heading)}</h2>'
             # Generate placeholder content (300-500 words)
             sections_html += '<p>Comprehensive information about this topic. Professional dental knowledge and evidence-based guidance for optimal outcomes. This section provides detailed insights into clinical considerations and best practices.</p>' * 3
 
         # Generate FAQ section with schema
         faq_items = []
-        faq_html = '<div class="faq-section"><h2>Frequently Asked Questions</h2>'
+        faq_html = '<div class="faq-section"><h2 id="frequently-asked-questions">Frequently Asked Questions</h2>'
         for item in faq[:10]:
             q = item.get('q', '')
             a = item.get('a', '')
@@ -1964,6 +1978,7 @@ def generate_dental_health_quiz():
             <p style="color: var(--text-secondary); max-width: 600px; margin: 0 auto;">Answer 8 quick questions to get your personalized dental health score and recommendations.</p>
         </div>
 
+        <style>.quiz-opt{{display:block;width:100%;text-align:left;padding:1rem;margin-bottom:.75rem;border:1px solid var(--border-color);border-radius:10px;background:var(--bg-primary);color:var(--text-primary);font-size:1rem;cursor:pointer;transition:all .2s}}.quiz-opt:hover{{border-color:#2563eb;background:#eff6ff}}</style>
         <div id="quiz" style="max-width: 650px; margin: 0 auto;">
             <div id="progress" style="background: var(--bg-secondary); border-radius: 20px; height: 8px; margin-bottom: 2rem; overflow: hidden;">
                 <div id="progress-bar" style="background: linear-gradient(90deg, #2563eb, #14b8a6); height: 100%; width: 0%; transition: width 0.3s ease; border-radius: 20px;"></div>
@@ -2016,7 +2031,7 @@ def generate_dental_health_quiz():
         let html = '<h3 style="margin-bottom:1.5rem;">Question ' + (current+1) + ' of ' + questions.length + '</h3>';
         html += '<p style="font-size:1.15rem;font-weight:600;margin-bottom:1.5rem;">' + q.q + '</p>';
         q.opts.forEach((opt, i) => {{
-            html += '<button onclick="answer(' + q.scores[i] + ')" style="display:block;width:100%;text-align:left;padding:1rem;margin-bottom:0.75rem;border:1px solid var(--border-color);border-radius:10px;background:var(--bg-primary);color:var(--text-primary);font-size:1rem;cursor:pointer;transition:all 0.2s;" onmouseover="this.style.borderColor=\'#2563eb\';this.style.background=\'#eff6ff\'" onmouseout="this.style.borderColor=\'var(--border-color)\';this.style.background=\'var(--bg-primary)\'">' + opt + '</button>';
+            html += '<button class="quiz-opt" onclick="answer(' + q.scores[i] + ')">' + opt + '</button>';
         }});
         container.innerHTML = html;
     }}
