@@ -1,11 +1,11 @@
 ---
-title: "Anesthesia Types: What You Need to Know"
+title: Anesthesia Types: What You Need to Know
 slug: anesthesia-types-what-you-need-to-know
-category: "Oral Surgery"
+category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive information about anesthesia types for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about anesthesia types for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery

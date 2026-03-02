@@ -1,11 +1,11 @@
 ---
-title: "Why Surgical Teeth Removal Matters"
+title: Why Surgical Teeth Removal Matters
 slug: why-surgical-teeth-removal-matters
-category: "Oral Surgery"
+category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive information about surgical teeth removal for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about surgical teeth removal for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery

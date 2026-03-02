@@ -1,11 +1,11 @@
 ---
-title: "Athletic Drink Acidity Effects"
+title: Athletic Drink Acidity Effects
 slug: athletic-drink-acidity-effects
-category: "Sports Dentistry"
+category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: "Erosion from sports drinks."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Erosion from sports drinks.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports

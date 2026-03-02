@@ -1,11 +1,11 @@
 ---
-title: "Out of Pocket Costs"
+title: Out of Pocket Costs
 slug: out-of-pocket-costs
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Patient financial responsibility."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Patient financial responsibility.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Costs & Payment Options
 subcategory_slug: costs-payments

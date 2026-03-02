@@ -1,11 +1,11 @@
 ---
-title: "Root Canal Treatment: Complete Guide"
+title: Root Canal Treatment: Complete Guide
 slug: root-canal-treatment-complete-guide
-category: "Endodontics"
+category: Endodontics
 category_slug: endodontics
-excerpt: "Comprehensive information about root canal treatment for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about root canal treatment for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Root Canal Treatment
 subcategory_slug: root-canal-treatment

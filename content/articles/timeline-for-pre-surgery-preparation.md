@@ -1,11 +1,11 @@
 ---
-title: "Timeline for Pre-Surgery Preparation"
+title: Timeline for Pre-Surgery Preparation
 slug: timeline-for-pre-surgery-preparation
-category: "Oral Surgery"
+category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive information about pre-surgery preparation for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about pre-surgery preparation for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Surgical Care & Recovery
 subcategory_slug: surgical-care

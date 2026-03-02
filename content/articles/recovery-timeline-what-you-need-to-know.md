@@ -1,11 +1,11 @@
 ---
-title: "Recovery Timeline: What You Need to Know"
+title: Recovery Timeline: What You Need to Know
 slug: recovery-timeline-what-you-need-to-know
-category: "Oral Surgery"
+category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive information about recovery timeline for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about recovery timeline for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Surgical Care & Recovery
 subcategory_slug: surgical-care

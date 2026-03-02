@@ -1,11 +1,11 @@
 ---
-title: "Probiotics for Oral Health"
+title: Probiotics for Oral Health
 slug: probiotics-for-oral-health
-category: "Preventive Care"
+category: Preventive Care
 category_slug: preventive-care
-excerpt: "Beneficial bacteria supporting mouth wellness."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Beneficial bacteria supporting mouth wellness.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Preventive Overview
 subcategory_slug: overview-prevent

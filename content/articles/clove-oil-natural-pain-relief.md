@@ -1,11 +1,11 @@
 ---
-title: "Clove Oil: Natural Pain Relief"
+title: Clove Oil: Natural Pain Relief
 slug: clove-oil-natural-pain-relief
-category: "Holistic/Alternative Dentistry"
+category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: "Herbal analgesic."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Herbal analgesic.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Holistic Dentistry Overview
 subcategory_slug: overview-holistic

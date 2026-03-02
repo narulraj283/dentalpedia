@@ -1,11 +1,11 @@
 ---
-title: "Why Infection Prevention Matters"
+title: Why Infection Prevention Matters
 slug: why-infection-prevention-matters
-category: "Oral Surgery"
+category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive information about infection prevention for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about infection prevention for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Surgical Complications & Risks
 subcategory_slug: surgical-complications

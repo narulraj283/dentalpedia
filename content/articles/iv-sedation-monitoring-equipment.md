@@ -1,11 +1,11 @@
 ---
-title: "IV Sedation Monitoring Equipment"
+title: IV Sedation Monitoring Equipment
 slug: iv-sedation-monitoring-equipment
-category: "Dental Anxiety & Sedation"
+category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: "Vital sign tracking devices."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Vital sign tracking devices.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Sedation Options & Types
 subcategory_slug: sedation-options

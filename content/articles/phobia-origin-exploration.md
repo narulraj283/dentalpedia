@@ -1,11 +1,11 @@
 ---
-title: "Phobia Origin Exploration"
+title: Phobia Origin Exploration
 slug: phobia-origin-exploration
-category: "Dental Anxiety & Sedation"
+category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: "Understanding fear sources."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Understanding fear sources.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Special Needs & Adaptive Care
 subcategory_slug: special-needs

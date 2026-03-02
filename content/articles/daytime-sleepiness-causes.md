@@ -1,11 +1,11 @@
 ---
-title: "Daytime Sleepiness Causes"
+title: Daytime Sleepiness Causes
 slug: daytime-sleepiness-causes
-category: "TMJ & Sleep Dentistry"
+category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: "Fatigue from poor sleep."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Fatigue from poor sleep.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: TMJ Overview
 subcategory_slug: overview-tmj

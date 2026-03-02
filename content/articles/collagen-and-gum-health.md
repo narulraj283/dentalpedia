@@ -1,11 +1,11 @@
 ---
-title: "Collagen and Gum Health"
+title: Collagen and Gum Health
 slug: collagen-and-gum-health
-category: "Dental Nutrition"
+category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: "Protein for tissue structure."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Protein for tissue structure.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition

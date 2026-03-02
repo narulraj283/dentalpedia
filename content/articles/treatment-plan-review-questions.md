@@ -1,11 +1,11 @@
 ---
-title: "Treatment Plan Review Questions"
+title: Treatment Plan Review Questions
 slug: treatment-plan-review-questions
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Evaluating recommendations."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Evaluating recommendations.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Practice Overview
 subcategory_slug: overview-practice

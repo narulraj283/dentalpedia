@@ -1,11 +1,11 @@
 ---
-title: "Speech Difficulty with New Dentures"
+title: Speech Difficulty with New Dentures
 slug: speech-difficulty-with-new-dentures
-category: "Geriatric Dentistry"
+category: Geriatric Dentistry
 category_slug: geriatric-dentistry
-excerpt: "Articulation adjustment period."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Articulation adjustment period.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Geriatric Overview
 subcategory_slug: overview-geriatric

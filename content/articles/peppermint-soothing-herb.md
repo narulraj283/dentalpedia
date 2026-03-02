@@ -1,11 +1,11 @@
 ---
-title: "Peppermint: Soothing Herb"
+title: Peppermint: Soothing Herb
 slug: peppermint-soothing-herb
-category: "Holistic/Alternative Dentistry"
+category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: "Herbal benefits for mouth."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Herbal benefits for mouth.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Holistic Dentistry Overview
 subcategory_slug: overview-holistic

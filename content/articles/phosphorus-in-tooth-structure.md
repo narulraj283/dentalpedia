@@ -1,11 +1,11 @@
 ---
-title: "Phosphorus in Tooth Structure"
+title: Phosphorus in Tooth Structure
 slug: phosphorus-in-tooth-structure
-category: "Dental Nutrition"
+category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: "Mineral component in enamel."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Mineral component in enamel.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition

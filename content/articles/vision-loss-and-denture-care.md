@@ -1,11 +1,11 @@
 ---
-title: "Vision Loss and Denture Care"
+title: Vision Loss and Denture Care
 slug: vision-loss-and-denture-care
-category: "Geriatric Dentistry"
+category: Geriatric Dentistry
 category_slug: geriatric-dentistry
-excerpt: "Adapted care techniques."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Adapted care techniques.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Denture Care & Adaptation
 subcategory_slug: denture-care

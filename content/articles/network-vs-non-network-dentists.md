@@ -1,11 +1,11 @@
 ---
-title: "Network vs Non-Network Dentists"
+title: Network vs Non-Network Dentists
 slug: network-vs-non-network-dentists
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "In-network benefits."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: In-network benefits.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Network Access & Providers
 subcategory_slug: access-network

@@ -1,11 +1,11 @@
 ---
-title: "Dental Insurance Navigation"
+title: Dental Insurance Navigation
 slug: dental-insurance-navigation
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Understanding coverage details."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Understanding coverage details.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Insurance Coverage & Benefits
 subcategory_slug: insurance-coverage

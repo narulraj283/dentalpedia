@@ -1,11 +1,11 @@
 ---
-title: "TMJ Arthroscopy Procedure"
+title: TMJ Arthroscopy Procedure
 slug: tmj-arthroscopy-procedure
-category: "TMJ & Sleep Dentistry"
+category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: "Minimally invasive joint surgery."
-date: "2026-03-02"
-read_time: "5 min"
+excerpt: Minimally invasive joint surgery.
+date: 2026-03-02
+read_time: 5 min
 reviewer_specialty: General Dentistry
 subcategory: TMJ Overview
 subcategory_slug: overview-tmj

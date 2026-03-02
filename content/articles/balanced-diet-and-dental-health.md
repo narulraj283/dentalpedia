@@ -1,11 +1,11 @@
 ---
-title: "Balanced Diet and Dental Health"
+title: Balanced Diet and Dental Health
 slug: balanced-diet-and-dental-health
-category: "Dental Nutrition"
+category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: "Overall nutrition importance."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Overall nutrition importance.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition

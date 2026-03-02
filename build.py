@@ -239,7 +239,7 @@ def generate_article_page(metadata, body):
     # Breadcrumb
     breadcrumb = f'<div class="article-breadcrumb"><a href="/">Home</a> / <a href="/category/{category_slug}.html">{category}</a>'
     if subcategory and subcategory_slug:
-        breadcrumb += f' / <a href="/subcategory/{category_slug}/{subcategory_slug}.html">{subcategory}</a>'
+        breadcrumb += f' / <a href="/subcategory/{category_slug}/{subcategory_slug}/">{subcategory}</a>'
     breadcrumb += f' / {title}</div>'
 
     # EEAT card (anonymized)
@@ -578,12 +578,53 @@ def process_article(md_file):
         return None
 
 
+def generate_categories_index():
+    """Generate the /categories.html index page listing all categories."""
+    logger.info("Generating categories index page...")
+
+    cards_html = '<div class="categories-grid">'
+    for cat_slug, articles in sorted(articles_by_category.items()):
+        cat_name = articles[0].get('category', cat_slug) if articles else cat_slug
+        subcat_count = sum(1 for sa in articles_by_subcategory.values()
+                          if sa and sa[0].get('category_slug') == cat_slug)
+        cards_html += f'''
+        <a href="/category/{cat_slug}.html" class="category-card">
+            <div class="category-icon">📚</div>
+            <div class="category-name">{html_mod.escape(cat_name)}</div>
+            <div class="category-count">{len(articles)} articles • {subcat_count} subcategories</div>
+        </a>'''
+    cards_html += '</div>'
+
+    content = f'''
+    <div class="content-width" style="padding: 2rem 0;">
+        <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; Categories</nav>
+        <h1>All Categories</h1>
+        <p style="color: var(--text-secondary);">{len(articles_by_category)} categories covering {len(all_articles):,} articles</p>
+        {cards_html}
+    </div>
+    '''
+
+    page_html = get_page_template(
+        "All Categories — DentalPedia",
+        content,
+        f"{DOMAIN}/categories.html",
+        f"Browse all {len(articles_by_category)} dental categories on DentalPedia"
+    )
+
+    with open(SITE_ROOT / "categories.html", 'w', encoding='utf-8') as f:
+        f.write(page_html)
+    logger.info("Generated categories.html index page")
+
+
 def generate_category_pages():
-    """Generate category pages."""
+    """Generate category pages with subcategories AND paginated article listings."""
     logger.info("Generating category pages...")
 
+    output_dir = SITE_ROOT / "category"
+    output_dir.mkdir(parents=True, exist_ok=True)
+    total_pages = 0
+
     for category_slug, articles in articles_by_category.items():
-        # Find category name
         category_name = next(
             (a.get('category', '') for a in articles if a.get('category')),
             category_slug.replace('-', ' ').title()
@@ -592,7 +633,6 @@ def generate_category_pages():
         # Get subcategories for this category
         cat_subcategories = {}
         for subcat_slug, subcat_articles in articles_by_subcategory.items():
-            # Check if articles in this subcategory belong to this category
             if subcat_articles and subcat_articles[0].get('category_slug') == category_slug:
                 subcat_name = subcat_articles[0].get('subcategory', subcat_slug)
                 cat_subcategories[subcat_slug] = {
@@ -600,47 +640,100 @@ def generate_category_pages():
                     'count': len(subcat_articles)
                 }
 
-        # Create category page
-        categories_html = '<div class="categories-grid">'
-        for subcat_slug, subcat_info in cat_subcategories.items():
-            categories_html += f'''
-            <a href="/subcategory/{category_slug}/{subcat_slug}.html" class="category-card">
-                <div class="category-icon">📂</div>
-                <div class="category-name">{html_mod.escape(subcat_info['name'])}</div>
-                <div class="category-count">{subcat_info['count']} articles</div>
-            </a>
+        # Subcategories section
+        subcat_html = ''
+        if cat_subcategories:
+            subcat_html = '<div class="section-title" style="margin-top:2rem;">Subcategories</div><div class="categories-grid">'
+            for subcat_slug, subcat_info in cat_subcategories.items():
+                subcat_html += f'''
+                <a href="/subcategory/{category_slug}/{subcat_slug}/" class="category-card">
+                    <div class="category-icon">📂</div>
+                    <div class="category-name">{html_mod.escape(subcat_info["name"])}</div>
+                    <div class="category-count">{subcat_info["count"]} articles</div>
+                </a>'''
+            subcat_html += '</div>'
+
+        # Sort articles by date
+        sorted_articles = sorted(articles, key=lambda a: a.get('date', ''), reverse=True)
+
+        # Paginate (20 per page)
+        per_page = 20
+        total = len(sorted_articles)
+        num_pages = max(1, (total + per_page - 1) // per_page)
+
+        for page_num in range(1, num_pages + 1):
+            start = (page_num - 1) * per_page
+            end = start + per_page
+            page_articles = sorted_articles[start:end]
+
+            # Build article cards
+            cards_html = '<div class="article-grid">'
+            for art in page_articles:
+                slug = art.get('slug', '')
+                title = art.get('title', 'Untitled')
+                excerpt = art.get('excerpt', '')[:150]
+                date = art.get('date', '')
+                read_time = art.get('read_time', '5 min')
+                cards_html += f'''
+                <div class="card">
+                    <a href="/article/{slug}.html"><h3>{html_mod.escape(title)}</h3></a>
+                    <div class="article-meta"><span>📅 {date}</span> <span>⏱️ {read_time}</span></div>
+                    <p>{html_mod.escape(excerpt)}</p>
+                    <a href="/article/{slug}.html" class="read-more">Read more →</a>
+                </div>'''
+            cards_html += '</div>'
+
+            # Pagination
+            pagination_html = ''
+            if num_pages > 1:
+                pagination_html = '<div class="pagination">'
+                for p in range(1, num_pages + 1):
+                    if p == 1:
+                        href = f"/category/{category_slug}.html"
+                    else:
+                        href = f"/category/{category_slug}-page-{p}.html"
+                    active = ' class="active"' if p == page_num else ''
+                    pagination_html += f'<a href="{href}"{active}>{p}</a> '
+                pagination_html += '</div>'
+
+            # File name
+            if page_num == 1:
+                filename = f"{category_slug}.html"
+            else:
+                filename = f"{category_slug}-page-{page_num}.html"
+
+            canonical_url = f"{DOMAIN}/category/{filename}"
+
+            content = f'''
+            <div class="content-width" style="padding: 2rem 0;">
+                <nav class="breadcrumb">
+                    <a href="/">Home</a> &rsaquo; <a href="/categories.html">Categories</a> &rsaquo; {html_mod.escape(category_name)}
+                </nav>
+                <h1>{html_mod.escape(category_name)}</h1>
+                <p style="color: var(--text-secondary);">{total} articles</p>
+
+                {subcat_html if page_num == 1 else ""}
+
+                <div class="section-title" style="margin-top:2rem;">All Articles{f" — Page {page_num}" if page_num > 1 else ""}</div>
+                {cards_html}
+                {pagination_html}
+
+                {generate_share_buttons(category_name, canonical_url)}
+            </div>
             '''
-        categories_html += '</div>'
 
-        # Create output file
-        output_file = SITE_ROOT / "categories" / f"{category_slug}.html"
-        output_file.parent.mkdir(parents=True, exist_ok=True)
+            page_html = get_page_template(
+                f"{category_name} Articles — DentalPedia",
+                content,
+                canonical_url,
+                f"Browse {total} articles about {category_name} on DentalPedia"
+            )
 
-        canonical_url = f"{DOMAIN}/categories/{category_slug}/"
+            with open(output_dir / filename, 'w', encoding='utf-8') as f:
+                f.write(page_html)
+            total_pages += 1
 
-        content = f'''
-        <div class="category-header">
-            <h1>{html_mod.escape(category_name)}</h1>
-            <p>Browse articles in this category</p>
-        </div>
-
-        <div class="section-title">Subcategories</div>
-        {categories_html}
-
-        {generate_share_buttons(category_name, canonical_url)}
-        '''
-
-        page_html = get_page_template(
-            f"{category_name} | DentalPedia",
-            content,
-            canonical_url,
-            f"Explore {category_name} articles on DentalPedia"
-        )
-
-        with open(output_file, 'w', encoding='utf-8') as f:
-            f.write(page_html)
-
-    logger.info(f"Generated {len(articles_by_category)} category pages")
+    logger.info(f"Generated {total_pages} category pages")
 
 
 def generate_subcategory_pages():
@@ -683,14 +776,14 @@ def generate_subcategory_pages():
             pagination_html = '<div style="text-align: center; margin-top: 2rem;">'
             if page_num > 1:
                 if page_num == 2:
-                    pagination_html += f'<a href="/subcategory/{category_slug}/{subcategory_slug}.html">← Previous</a>'
+                    pagination_html += f'<a href="/subcategory/{category_slug}/{subcategory_slug}/">← Previous</a>'
                 else:
-                    pagination_html += f'<a href="/subcategory/{category_slug}/{subcategory_slug}-page-{page_num-1}.html">← Previous</a>'
+                    pagination_html += f'<a href="/subcategory/{category_slug}/{subcategory_slug}/page-{page_num-1}.html">← Previous</a>'
 
             pagination_html += f' <span style="margin: 0 1rem;">Page {page_num} of {total_pages}</span>'
 
             if page_num < total_pages:
-                pagination_html += f'<a href="/subcategory/{category_slug}/{subcategory_slug}-page-{page_num+1}.html">Next →</a>'
+                pagination_html += f'<a href="/subcategory/{category_slug}/{subcategory_slug}/page-{page_num+1}.html">Next →</a>'
 
             pagination_html += '</div>'
 
@@ -1151,7 +1244,7 @@ def generate_sitemaps():
         slug = article.get('slug', '')
         date = article.get('date', '')
         articles_sitemap += f'''  <url>
-    <loc>{base_url}/article/{slug}/</loc>
+    <loc>{base_url}/article/{slug}.html</loc>
     <lastmod>{date}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1163,14 +1256,14 @@ def generate_sitemaps():
     categories_sitemap = '''<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>{base_url}/categories/</loc>
+    <loc>{base_url}/categories.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
 '''
     for cat_slug in articles_by_category.keys():
         categories_sitemap += f'''  <url>
-    <loc>{base_url}/categories/{cat_slug}/</loc>
+    <loc>{base_url}/category/{cat_slug}.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1386,6 +1479,7 @@ def main():
 
     # Generate pages
     generate_homepage()
+    generate_categories_index()
     generate_category_pages()
     generate_subcategory_pages()
     generate_city_pages()

@@ -1,11 +1,11 @@
 ---
-title: "Dental Tourism Considerations"
+title: Dental Tourism Considerations
 slug: dental-tourism-considerations
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "International dental care."
-date: "2026-03-02"
-read_time: "5 min"
+excerpt: International dental care.
+date: 2026-03-02
+read_time: 5 min
 reviewer_specialty: General Dentistry
 subcategory: Practice Overview
 subcategory_slug: overview-practice

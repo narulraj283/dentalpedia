@@ -1,11 +1,11 @@
 ---
-title: "Medication Interactions and Oral Health"
+title: Medication Interactions and Oral Health
 slug: medication-interactions-and-oral-health
-category: "Geriatric Dentistry"
+category: Geriatric Dentistry
 category_slug: geriatric-dentistry
-excerpt: "Drug combinations affecting mouth."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Drug combinations affecting mouth.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Geriatric Overview
 subcategory_slug: overview-geriatric

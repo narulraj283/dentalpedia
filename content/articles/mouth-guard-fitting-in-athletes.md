@@ -1,11 +1,11 @@
 ---
-title: "Mouth Guard Fitting in Athletes"
+title: Mouth Guard Fitting in Athletes
 slug: mouth-guard-fitting-in-athletes
-category: "Sports Dentistry"
+category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: "Custom athletic guard benefits."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Custom athletic guard benefits.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports

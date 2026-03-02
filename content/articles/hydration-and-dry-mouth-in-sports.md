@@ -1,11 +1,11 @@
 ---
-title: "Hydration and Dry Mouth in Sports"
+title: Hydration and Dry Mouth in Sports
 slug: hydration-and-dry-mouth-in-sports
-category: "Sports Dentistry"
+category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: "Fluid intake during exercise."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Fluid intake during exercise.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports

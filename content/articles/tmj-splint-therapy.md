@@ -1,11 +1,11 @@
 ---
-title: "TMJ Splint Therapy"
+title: TMJ Splint Therapy
 slug: tmj-splint-therapy
-category: "TMJ & Sleep Dentistry"
+category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: "Nightguard for joint pain."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Nightguard for joint pain.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: TMJ Overview
 subcategory_slug: overview-tmj

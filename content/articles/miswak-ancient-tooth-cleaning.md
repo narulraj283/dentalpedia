@@ -1,11 +1,11 @@
 ---
-title: "Miswak: Ancient Tooth Cleaning"
+title: Miswak: Ancient Tooth Cleaning
 slug: miswak-ancient-tooth-cleaning
-category: "Holistic/Alternative Dentistry"
+category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: "Traditional cleaning stick."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Traditional cleaning stick.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Holistic Dentistry Overview
 subcategory_slug: overview-holistic

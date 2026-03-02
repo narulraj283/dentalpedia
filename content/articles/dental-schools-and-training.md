@@ -1,11 +1,11 @@
 ---
-title: "Dental Schools and Training"
+title: Dental Schools and Training
 slug: dental-schools-and-training
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Student clinic benefits."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Student clinic benefits.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Practice Overview
 subcategory_slug: overview-practice

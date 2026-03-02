@@ -1,11 +1,11 @@
 ---
-title: "Sedation Recovery Period"
+title: Sedation Recovery Period
 slug: sedation-recovery-period
-category: "Dental Anxiety & Sedation"
+category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: "Time to resume normal activities."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Time to resume normal activities.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Sedation Options & Types
 subcategory_slug: sedation-options

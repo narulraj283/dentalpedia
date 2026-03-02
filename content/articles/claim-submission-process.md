@@ -1,11 +1,11 @@
 ---
-title: "Claim Submission Process"
+title: Claim Submission Process
 slug: claim-submission-process
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Filing for reimbursement."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Filing for reimbursement.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Insurance Coverage & Benefits
 subcategory_slug: insurance-coverage

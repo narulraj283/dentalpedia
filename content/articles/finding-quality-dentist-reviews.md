@@ -1,11 +1,11 @@
 ---
-title: "Finding Quality Dentist Reviews"
+title: Finding Quality Dentist Reviews
 slug: finding-quality-dentist-reviews
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Evaluating provider quality."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Evaluating provider quality.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Practice Overview
 subcategory_slug: overview-practice

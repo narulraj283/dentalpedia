@@ -1,11 +1,11 @@
 ---
-title: "Dentist Specialties Guide"
+title: Dentist Specialties Guide
 slug: dentist-specialties-guide
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Finding the right specialist."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Finding the right specialist.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Practice Overview
 subcategory_slug: overview-practice

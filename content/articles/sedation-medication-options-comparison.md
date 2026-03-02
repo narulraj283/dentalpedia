@@ -1,11 +1,11 @@
 ---
-title: "Sedation Medication Options Comparison"
+title: Sedation Medication Options Comparison
 slug: sedation-medication-options-comparison
-category: "Dental Anxiety & Sedation"
+category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: "Different drugs for anxiety."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Different drugs for anxiety.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Sedation Options & Types
 subcategory_slug: sedation-options

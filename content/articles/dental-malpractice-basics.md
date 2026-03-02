@@ -1,11 +1,11 @@
 ---
-title: "Dental Malpractice Basics"
+title: Dental Malpractice Basics
 slug: dental-malpractice-basics
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Legal protection understanding."
-date: "2026-03-02"
-read_time: "5 min"
+excerpt: Legal protection understanding.
+date: 2026-03-02
+read_time: 5 min
 reviewer_specialty: General Dentistry
 subcategory: Practice Overview
 subcategory_slug: overview-practice

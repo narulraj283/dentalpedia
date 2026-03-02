@@ -1,11 +1,11 @@
 ---
-title: "Mercury Amalgam Controversy"
+title: Mercury Amalgam Controversy
 slug: mercury-amalgam-controversy
-category: "Holistic/Alternative Dentistry"
+category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: "Silver filling safety."
-date: "2026-03-02"
-read_time: "5 min"
+excerpt: Silver filling safety.
+date: 2026-03-02
+read_time: 5 min
 reviewer_specialty: General Dentistry
 subcategory: Biocompatible & Mercury-Free Materials
 subcategory_slug: biocompatible-materials

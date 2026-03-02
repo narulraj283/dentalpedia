@@ -1,11 +1,11 @@
 ---
-title: "Sliding Scale Dental Fees"
+title: Sliding Scale Dental Fees
 slug: sliding-scale-dental-fees
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Income-based pricing."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Income-based pricing.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Costs & Payment Options
 subcategory_slug: costs-payments

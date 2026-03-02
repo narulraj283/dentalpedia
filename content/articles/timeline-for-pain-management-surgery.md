@@ -1,11 +1,11 @@
 ---
-title: "Timeline for Pain Management Surgery"
+title: Timeline for Pain Management Surgery
 slug: timeline-for-pain-management-surgery
-category: "Oral Surgery"
+category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive information about pain management surgery for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about pain management surgery for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Surgical Care & Recovery
 subcategory_slug: surgical-care

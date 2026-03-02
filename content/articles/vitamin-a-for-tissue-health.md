@@ -1,11 +1,11 @@
 ---
-title: "Vitamin A for Tissue Health"
+title: Vitamin A for Tissue Health
 slug: vitamin-a-for-tissue-health
-category: "Dental Nutrition"
+category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: "Retinoid importance in mouth."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Retinoid importance in mouth.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition

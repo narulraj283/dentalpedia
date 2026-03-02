@@ -1,11 +1,11 @@
 ---
-title: "Community Dental Clinic Access"
+title: Community Dental Clinic Access
 slug: community-dental-clinic-access
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Finding affordable care."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Finding affordable care.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Network Access & Providers
 subcategory_slug: access-network

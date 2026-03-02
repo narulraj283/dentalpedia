@@ -1,11 +1,11 @@
 ---
-title: "Informed Consent Importance"
+title: Informed Consent Importance
 slug: informed-consent-importance
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Treatment agreement details."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Treatment agreement details.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Patient Benefits & Rights
 subcategory_slug: patient-benefits

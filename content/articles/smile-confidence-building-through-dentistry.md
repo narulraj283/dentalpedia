@@ -1,11 +1,11 @@
 ---
-title: "Smile Confidence Building Through Dentistry"
+title: Smile Confidence Building Through Dentistry
 slug: smile-confidence-building-through-dentistry
-category: "Cosmetic Dentistry"
+category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: "Psychological benefits of dental treatment."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Psychological benefits of dental treatment.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Teeth Whitening & Bleaching
 subcategory_slug: teeth-whitening

@@ -1,11 +1,11 @@
 ---
-title: "Caregiver Dental Education Programs"
+title: Caregiver Dental Education Programs
 slug: caregiver-dental-education-programs
-category: "Geriatric Dentistry"
+category: Geriatric Dentistry
 category_slug: geriatric-dentistry
-excerpt: "Training family for elderly care."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Training family for elderly care.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Geriatric Overview
 subcategory_slug: overview-geriatric

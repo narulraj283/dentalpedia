@@ -1,11 +1,11 @@
 ---
-title: "Natural Toothpaste Ingredients"
+title: Natural Toothpaste Ingredients
 slug: natural-toothpaste-ingredients
-category: "Holistic/Alternative Dentistry"
+category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: "Plant-based product options."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Plant-based product options.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Holistic Dentistry Overview
 subcategory_slug: overview-holistic

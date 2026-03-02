@@ -1,11 +1,11 @@
 ---
-title: "Gum Disease Treatment: Complete Guide"
+title: Gum Disease Treatment: Complete Guide
 slug: gum-disease-treatment-complete-guide
-category: "Periodontics"
+category: Periodontics
 category_slug: periodontics
-excerpt: "Comprehensive information about gum disease treatment for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about gum disease treatment for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Periodontal Overview
 subcategory_slug: overview-perio

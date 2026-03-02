@@ -1,11 +1,11 @@
 ---
-title: "Benefits of Surgical Teeth Removal"
+title: Benefits of Surgical Teeth Removal
 slug: benefits-of-surgical-teeth-removal
-category: "Oral Surgery"
+category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive information about surgical teeth removal for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about surgical teeth removal for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery

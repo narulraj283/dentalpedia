@@ -1,11 +1,11 @@
 ---
-title: "Vitamins and Tooth Remineralization"
+title: Vitamins and Tooth Remineralization
 slug: vitamins-and-tooth-remineralization
-category: "Dental Nutrition"
+category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: "Vitamin D and mineral absorption."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Vitamin D and mineral absorption.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition

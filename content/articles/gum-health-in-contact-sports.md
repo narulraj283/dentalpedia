@@ -1,11 +1,11 @@
 ---
-title: "Gum Health in Contact Sports"
+title: Gum Health in Contact Sports
 slug: gum-health-in-contact-sports
-category: "Sports Dentistry"
+category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: "Trauma prevention strategies."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Trauma prevention strategies.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports

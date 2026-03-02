@@ -1,11 +1,11 @@
 ---
-title: "Nitrous Oxide Pain Management"
+title: Nitrous Oxide Pain Management
 slug: nitrous-oxide-pain-management
-category: "Emergency Dentistry"
+category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: "Laughing gas benefits."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Laughing gas benefits.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Acute Pain & Relief
 subcategory_slug: acute-pain

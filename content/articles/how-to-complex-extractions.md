@@ -1,11 +1,11 @@
 ---
-title: "How to Complex Extractions"
+title: How to Complex Extractions
 slug: how-to-complex-extractions
-category: "Oral Surgery"
+category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive information about complex extractions for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about complex extractions for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery

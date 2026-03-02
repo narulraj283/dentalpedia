@@ -1,11 +1,11 @@
 ---
-title: "Sleep Quality Improvement"
+title: Sleep Quality Improvement
 slug: sleep-quality-improvement
-category: "TMJ & Sleep Dentistry"
+category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: "Overall sleep enhancement."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Overall sleep enhancement.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: TMJ Overview
 subcategory_slug: overview-tmj

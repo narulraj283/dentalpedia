@@ -1,11 +1,11 @@
 ---
-title: "Implant Success Rate: Complete Guide"
+title: Implant Success Rate: Complete Guide
 slug: implant-success-rate-complete-guide
-category: "Dental Implants"
+category: Dental Implants
 category_slug: dental-implants
-excerpt: "Comprehensive information about implant success rate for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about implant success rate for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Implant Overview
 subcategory_slug: overview-implants

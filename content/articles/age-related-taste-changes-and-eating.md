@@ -1,11 +1,11 @@
 ---
-title: "Age-Related Taste Changes and Eating"
+title: Age-Related Taste Changes and Eating
 slug: age-related-taste-changes-and-eating
-category: "Geriatric Dentistry"
+category: Geriatric Dentistry
 category_slug: geriatric-dentistry
-excerpt: "Impact on eating habits."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Impact on eating habits.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Age-Related Oral Changes
 subcategory_slug: age-related-changes

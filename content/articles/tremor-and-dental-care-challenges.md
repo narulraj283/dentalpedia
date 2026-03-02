@@ -1,11 +1,11 @@
 ---
-title: "Tremor and Dental Care Challenges"
+title: Tremor and Dental Care Challenges
 slug: tremor-and-dental-care-challenges
-category: "Geriatric Dentistry"
+category: Geriatric Dentistry
 category_slug: geriatric-dentistry
-excerpt: "Parkinson's disease oral care."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Parkinson's disease oral care.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Geriatric Overview
 subcategory_slug: overview-geriatric

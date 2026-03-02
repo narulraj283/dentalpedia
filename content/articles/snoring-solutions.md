@@ -1,11 +1,11 @@
 ---
-title: "Snoring Solutions"
+title: Snoring Solutions
 slug: snoring-solutions
-category: "TMJ & Sleep Dentistry"
+category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: "Reducing nighttime noise."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Reducing nighttime noise.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Sleep Apnea & Oral Appliances
 subcategory_slug: sleep-apnea

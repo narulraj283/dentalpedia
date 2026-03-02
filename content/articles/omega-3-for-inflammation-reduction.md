@@ -1,11 +1,11 @@
 ---
-title: "Omega-3 for Inflammation Reduction"
+title: Omega-3 for Inflammation Reduction
 slug: omega-3-for-inflammation-reduction
-category: "Dental Nutrition"
+category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: "Anti-inflammatory fatty acids."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Anti-inflammatory fatty acids.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition

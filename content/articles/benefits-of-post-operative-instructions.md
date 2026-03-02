@@ -1,11 +1,11 @@
 ---
-title: "Benefits of Post-Operative Instructions"
+title: Benefits of Post-Operative Instructions
 slug: benefits-of-post-operative-instructions
-category: "Oral Surgery"
+category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive information about post-operative instructions for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about post-operative instructions for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Surgical Care & Recovery
 subcategory_slug: surgical-care

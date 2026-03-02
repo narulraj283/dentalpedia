@@ -1,11 +1,11 @@
 ---
-title: "Grounding Techniques for Anxiety"
+title: Grounding Techniques for Anxiety
 slug: grounding-techniques-for-anxiety
-category: "Dental Anxiety & Sedation"
+category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: "Mindfulness anxiety reduction."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Mindfulness anxiety reduction.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Anesthesia & Pain Control
 subcategory_slug: anesthesia

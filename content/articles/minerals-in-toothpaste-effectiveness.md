@@ -1,11 +1,11 @@
 ---
-title: "Minerals in Toothpaste Effectiveness"
+title: Minerals in Toothpaste Effectiveness
 slug: minerals-in-toothpaste-effectiveness
-category: "Dental Nutrition"
+category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: "Mineral content in products."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Mineral content in products.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition

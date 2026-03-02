@@ -1,11 +1,11 @@
 ---
-title: "Dental Technology Innovations 2025"
+title: Dental Technology Innovations 2025
 slug: dental-technology-innovations-2025
-category: "Dental Technology"
+category: Dental Technology
 category_slug: dental-technology
-excerpt: "Latest advances in dental care."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Latest advances in dental care.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Technology Overview
 subcategory_slug: overview-tech

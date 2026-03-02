@@ -1,11 +1,11 @@
 ---
-title: "Post-Sedation Instructions"
+title: Post-Sedation Instructions
 slug: post-sedation-instructions
-category: "Dental Anxiety & Sedation"
+category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: "Patient recovery guidelines."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Patient recovery guidelines.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Sedation Options & Types
 subcategory_slug: sedation-options

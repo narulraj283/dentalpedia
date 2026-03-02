@@ -1,11 +1,11 @@
 ---
-title: "Teeth Grinding in Competition"
+title: Teeth Grinding in Competition
 slug: teeth-grinding-in-competition
-category: "Sports Dentistry"
+category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: "Stress-induced grinding."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Stress-induced grinding.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports

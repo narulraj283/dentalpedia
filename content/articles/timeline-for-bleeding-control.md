@@ -1,11 +1,11 @@
 ---
-title: "Timeline for Bleeding Control"
+title: Timeline for Bleeding Control
 slug: timeline-for-bleeding-control
-category: "Oral Surgery"
+category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive information about bleeding control for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about bleeding control for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Surgical Care & Recovery
 subcategory_slug: surgical-care

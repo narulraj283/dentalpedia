@@ -1,11 +1,11 @@
 ---
-title: "Anxiety Management in Elderly Patients"
+title: Anxiety Management in Elderly Patients
 slug: anxiety-management-in-elderly-patients
-category: "Dental Anxiety & Sedation"
+category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: "Calming techniques for seniors."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Calming techniques for seniors.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Anxiety Overview
 subcategory_slug: overview-anxiety

@@ -1,11 +1,11 @@
 ---
-title: "Biocompatible Material Selection"
+title: Biocompatible Material Selection
 slug: biocompatible-material-selection
-category: "Holistic/Alternative Dentistry"
+category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: "Minimally toxic restoration."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Minimally toxic restoration.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Holistic Dentistry Overview
 subcategory_slug: overview-holistic

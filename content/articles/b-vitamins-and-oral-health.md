@@ -1,11 +1,11 @@
 ---
-title: "B Vitamins and Oral Health"
+title: B Vitamins and Oral Health
 slug: b-vitamins-and-oral-health
-category: "Dental Nutrition"
+category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: "Complex B vitamin benefits."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Complex B vitamin benefits.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition

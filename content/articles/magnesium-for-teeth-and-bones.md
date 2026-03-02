@@ -1,11 +1,11 @@
 ---
-title: "Magnesium for Teeth and Bones"
+title: Magnesium for Teeth and Bones
 slug: magnesium-for-teeth-and-bones
-category: "Dental Nutrition"
+category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: "Mineral essential for structure."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Mineral essential for structure.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition

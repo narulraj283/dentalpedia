@@ -1,11 +1,11 @@
 ---
-title: "First Dental Visit Child: Complete Guide"
+title: First Dental Visit Child: Complete Guide
 slug: first-dental-visit-child-complete-guide
-category: "Pediatric Dentistry"
+category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: "Comprehensive information about first dental visit child for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about first dental visit child for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Pediatric Overview
 subcategory_slug: overview-peds

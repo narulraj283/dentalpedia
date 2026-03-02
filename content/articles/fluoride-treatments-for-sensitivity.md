@@ -1,11 +1,11 @@
 ---
-title: "Fluoride Treatments for Sensitivity"
+title: Fluoride Treatments for Sensitivity
 slug: fluoride-treatments-for-sensitivity
-category: "General Dentistry"
+category: General Dentistry
 category_slug: general-dentistry
-excerpt: "Professional fluoride application for pain relief."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Professional fluoride application for pain relief.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Cleanings & Exams
 subcategory_slug: cleanings-exams

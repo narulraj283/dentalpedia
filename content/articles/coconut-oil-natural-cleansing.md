@@ -1,11 +1,11 @@
 ---
-title: "Coconut Oil: Natural Cleansing"
+title: Coconut Oil: Natural Cleansing
 slug: coconut-oil-natural-cleansing
-category: "Holistic/Alternative Dentistry"
+category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: "Oil pulling practice."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Oil pulling practice.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Holistic Dentistry Overview
 subcategory_slug: overview-holistic

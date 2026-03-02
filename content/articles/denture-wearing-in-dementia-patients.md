@@ -1,11 +1,11 @@
 ---
-title: "Denture Wearing in Dementia Patients"
+title: Denture Wearing in Dementia Patients
 slug: denture-wearing-in-dementia-patients
-category: "Geriatric Dentistry"
+category: Geriatric Dentistry
 category_slug: geriatric-dentistry
-excerpt: "Managing prosthetics in cognitive decline."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Managing prosthetics in cognitive decline.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Denture Care & Adaptation
 subcategory_slug: denture-care

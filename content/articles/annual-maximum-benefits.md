@@ -1,11 +1,11 @@
 ---
-title: "Annual Maximum Benefits"
+title: Annual Maximum Benefits
 slug: annual-maximum-benefits
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Coverage limits explained."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Coverage limits explained.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Insurance Coverage & Benefits
 subcategory_slug: insurance-coverage

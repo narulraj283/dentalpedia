@@ -1,11 +1,11 @@
 ---
-title: "Patient Rights in Dentistry"
+title: Patient Rights in Dentistry
 slug: patient-rights-in-dentistry
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Understanding your rights."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Understanding your rights.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Patient Benefits & Rights
 subcategory_slug: patient-benefits

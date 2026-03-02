@@ -1,11 +1,11 @@
 ---
-title: "Neem: Antibacterial Plant"
+title: Neem: Antibacterial Plant
 slug: neem-antibacterial-plant
-category: "Holistic/Alternative Dentistry"
+category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: "Traditional antimicrobial herb."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Traditional antimicrobial herb.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Holistic Dentistry Overview
 subcategory_slug: overview-holistic

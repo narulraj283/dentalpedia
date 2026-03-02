@@ -1,11 +1,11 @@
 ---
-title: "Post-Traumatic Stress and Dentistry"
+title: Post-Traumatic Stress and Dentistry
 slug: post-traumatic-stress-and-dentistry
-category: "Dental Anxiety & Sedation"
+category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: "PTSD symptom management in dentistry."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: PTSD symptom management in dentistry.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Anesthesia & Pain Control
 subcategory_slug: anesthesia

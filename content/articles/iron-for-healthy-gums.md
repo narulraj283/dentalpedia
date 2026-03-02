@@ -1,11 +1,11 @@
 ---
-title: "Iron for Healthy Gums"
+title: Iron for Healthy Gums
 slug: iron-for-healthy-gums
-category: "Dental Nutrition"
+category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: "Mineral importance in tissues."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Mineral importance in tissues.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition

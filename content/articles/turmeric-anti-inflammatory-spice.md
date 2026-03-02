@@ -1,11 +1,11 @@
 ---
-title: "Turmeric: Anti-Inflammatory Spice"
+title: Turmeric: Anti-Inflammatory Spice
 slug: turmeric-anti-inflammatory-spice
-category: "Holistic/Alternative Dentistry"
+category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: "Golden spice benefits."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Golden spice benefits.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Holistic Dentistry Overview
 subcategory_slug: overview-holistic

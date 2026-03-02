@@ -1,11 +1,11 @@
 ---
-title: "Teeth Trauma Statistics in Sports"
+title: Teeth Trauma Statistics in Sports
 slug: teeth-trauma-statistics-in-sports
-category: "Sports Dentistry"
+category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: "Injury rates in activities."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Injury rates in activities.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports

@@ -1,11 +1,11 @@
 ---
-title: "Pre-Surgery Preparation: Complete Guide"
+title: Pre-Surgery Preparation: Complete Guide
 slug: pre-surgery-preparation-complete-guide
-category: "Oral Surgery"
+category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive information about pre-surgery preparation for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about pre-surgery preparation for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery

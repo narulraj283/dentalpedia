@@ -1,11 +1,11 @@
 ---
-title: "Sleep Apnea Symptoms"
+title: Sleep Apnea Symptoms
 slug: sleep-apnea-symptoms
-category: "TMJ & Sleep Dentistry"
+category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: "Identifying sleep disorder."
-date: "2026-03-02"
-read_time: "5 min"
+excerpt: Identifying sleep disorder.
+date: 2026-03-02
+read_time: 5 min
 reviewer_specialty: General Dentistry
 subcategory: Sleep Apnea & Oral Appliances
 subcategory_slug: sleep-apnea

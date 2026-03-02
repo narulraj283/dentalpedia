@@ -1,11 +1,11 @@
 ---
-title: "Teeth Whitening for Athletes"
+title: Teeth Whitening for Athletes
 slug: teeth-whitening-for-athletes
-category: "Sports Dentistry"
+category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: "Cosmetic concerns in sports."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Cosmetic concerns in sports.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports

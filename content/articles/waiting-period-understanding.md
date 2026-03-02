@@ -1,11 +1,11 @@
 ---
-title: "Waiting Period Understanding"
+title: Waiting Period Understanding
 slug: waiting-period-understanding
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Insurance timing issues."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Insurance timing issues.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Practice Overview
 subcategory_slug: overview-practice

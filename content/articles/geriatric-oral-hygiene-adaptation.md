@@ -1,11 +1,11 @@
 ---
-title: "Geriatric Oral Hygiene Adaptation"
+title: Geriatric Oral Hygiene Adaptation
 slug: geriatric-oral-hygiene-adaptation
-category: "Geriatric Dentistry"
+category: Geriatric Dentistry
 category_slug: geriatric-dentistry
-excerpt: "Modified dental care for seniors."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Modified dental care for seniors.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Geriatric Overview
 subcategory_slug: overview-geriatric

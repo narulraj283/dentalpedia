@@ -1,11 +1,11 @@
 ---
-title: "Dental Student Supervision"
+title: Dental Student Supervision
 slug: dental-student-supervision
-category: "Dental Practice & Insurance"
+category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "Training level details."
-date: "2026-03-02"
-read_time: "3 min"
+excerpt: Training level details.
+date: 2026-03-02
+read_time: 3 min
 reviewer_specialty: General Dentistry
 subcategory: Practice Overview
 subcategory_slug: overview-practice

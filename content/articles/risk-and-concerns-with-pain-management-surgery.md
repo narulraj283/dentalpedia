@@ -1,11 +1,11 @@
 ---
-title: "Risk and Concerns with Pain Management Surgery"
+title: Risk and Concerns with Pain Management Surgery
 slug: risk-and-concerns-with-pain-management-surgery
-category: "Oral Surgery"
+category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive information about pain management surgery for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about pain management surgery for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery

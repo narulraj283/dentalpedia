@@ -1,11 +1,11 @@
 ---
-title: "Emergency Dental Pain: Complete Guide"
+title: Emergency Dental Pain: Complete Guide
 slug: emergency-dental-pain-complete-guide
-category: "Emergency Dentistry"
+category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: "Comprehensive information about emergency dental pain for optimal dental health."
-date: "2026-03-02"
-read_time: "4 min"
+excerpt: Comprehensive information about emergency dental pain for optimal dental health.
+date: 2026-03-02
+read_time: 4 min
 reviewer_specialty: General Dentistry
 subcategory: Acute Pain & Relief
 subcategory_slug: acute-pain

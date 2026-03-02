@@ -1,11 +1,11 @@
 ---
-title: "CPAP Machine vs Oral Appliance"
+title: CPAP Machine vs Oral Appliance
 slug: cpap-machine-vs-oral-appliance
-category: "TMJ & Sleep Dentistry"
+category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: "Sleep apnea device comparison."
-date: "2026-03-02"
-read_time: "5 min"
+excerpt: Sleep apnea device comparison.
+date: 2026-03-02
+read_time: 5 min
 reviewer_specialty: General Dentistry
 subcategory: Sleep Apnea & Oral Appliances
 subcategory_slug: sleep-apnea

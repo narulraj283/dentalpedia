@@ -1,107 +1,107 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>{base_url}/categories/</loc>
+    <loc>{base_url}/categories.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/general-dentistry/</loc>
+    <loc>https://dentalpedia.co/category/general-dentistry.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/cosmetic-dentistry/</loc>
+    <loc>https://dentalpedia.co/category/cosmetic-dentistry.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/preventive-care/</loc>
+    <loc>https://dentalpedia.co/category/preventive-care.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/pediatric-dentistry/</loc>
+    <loc>https://dentalpedia.co/category/pediatric-dentistry.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/oral-surgery/</loc>
+    <loc>https://dentalpedia.co/category/oral-surgery.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/dental-practice-insurance/</loc>
+    <loc>https://dentalpedia.co/category/dental-practice-insurance.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/periodontics/</loc>
+    <loc>https://dentalpedia.co/category/periodontics.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/orthodontics/</loc>
+    <loc>https://dentalpedia.co/category/orthodontics.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/emergency-dentistry/</loc>
+    <loc>https://dentalpedia.co/category/emergency-dentistry.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/prosthodontics/</loc>
+    <loc>https://dentalpedia.co/category/prosthodontics.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/dental-nutrition/</loc>
+    <loc>https://dentalpedia.co/category/dental-nutrition.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/endodontics/</loc>
+    <loc>https://dentalpedia.co/category/endodontics.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/tmj-sleep-dentistry/</loc>
+    <loc>https://dentalpedia.co/category/tmj-sleep-dentistry.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/dental-implants/</loc>
+    <loc>https://dentalpedia.co/category/dental-implants.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/dental-anxiety-sedation/</loc>
+    <loc>https://dentalpedia.co/category/dental-anxiety-sedation.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/holistic-alternative-dentistry/</loc>
+    <loc>https://dentalpedia.co/category/holistic-alternative-dentistry.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/sports-dentistry/</loc>
+    <loc>https://dentalpedia.co/category/sports-dentistry.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/geriatric-dentistry/</loc>
+    <loc>https://dentalpedia.co/category/geriatric-dentistry.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/oral-health-conditions/</loc>
+    <loc>https://dentalpedia.co/category/oral-health-conditions.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/categories/dental-technology/</loc>
+    <loc>https://dentalpedia.co/category/dental-technology.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
