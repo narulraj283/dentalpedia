@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 10 dentists in Poughkeepsie, New York. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"New York","item":"https://dentalpedia.co/find-a-dentist/new-york.html"},
+                {"@type":"ListItem","position":4,"name":"Poughkeepsie","item":"https://dentalpedia.co/find-a-dentist/new-york/poughkeepsie.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Poughkeepsie, NY","numberOfItems":10,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Dental Design Studio: Richard K. Whalen D.D.S.","address":"46 Fox St Ste 3, Poughkeepsie, NY 12601, USA","telephone":"(888) 780-0173"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Smiles of the Hudson Valley","address":"11 Market St # 208, Poughkeepsie, NY 12601, USA","telephone":"(845) 554-0602"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Poughkeepsie Dental","address":"22 Ibm Rd Ste 203, Poughkeepsie, NY 12601, USA","telephone":"(845) 415-4831"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Victor Nesheiwat Dental","address":"30 Reade Pl, Poughkeepsie, NY 12601, USA","telephone":"(845) 337-4545"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Mid Hudson Dental Implant And Oral Surgery","address":"11 Raymond Ave #31, Poughkeepsie, NY 12603, USA","telephone":"(845) 452-5805"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Robert Cohen D.M.D., PLLC","address":"1 Bushwick Rd Suite E2, Poughkeepsie, NY 12603, USA","telephone":"(845) 214-0989"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Dental Village Associates Of Poughkeepsie","address":"1 Field Ct, Poughkeepsie, NY 12601, USA","telephone":"(845) 452-5617"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Nesheiwat Dental","address":"16 Vassar Rd, Poughkeepsie, NY 12603, USA","telephone":"(845) 244-6999"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Arlington Dental Associates - Poughkeepsie","address":"876 Dutchess Turnpike, Poughkeepsie, NY 12603, USA","telephone":"(845) 209-2180"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Dental Oral Surgery","address":"637 Main St, Poughkeepsie, NY 12601, USA","telephone":"(845) 763-4005"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/new-york.html">New York</a> &rsaquo; Poughkeepsie</nav>
             <h1>Dentists in Poughkeepsie, NY</h1>
@@ -85,64 +140,64 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Design Studio: Richard K. Whalen D.D.S.</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/poughkeepsie/dental-design-studio-richard-k-whalen-d-d-s.html" style="color:inherit;text-decoration:none;">Dental Design Studio: Richard K. Whalen D.D.S.</a></h3>
         <p class="dentist-address">📍 46 Fox St Ste 3, Poughkeepsie, NY 12601, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(466 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8887800173" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Design Studio: Richard K. Whalen D.D.S.','call','Poughkeepsie','NY')">📞 Call</a> <a href="https://www.dentaldesignstudio.net/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Design Studio: Richard K. Whalen D.D.S.','website','Poughkeepsie','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8887800173" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Design Studio: Richard K. Whalen D.D.S.','call','Poughkeepsie','NY')">📞 Call</a> <a href="https://www.dentaldesignstudio.net/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Design Studio: Richard K. Whalen D.D.S.','website','Poughkeepsie','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Design Studio: Richard K. Whalen D.D.S.','Poughkeepsie','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smiles of the Hudson Valley</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/poughkeepsie/smiles-of-the-hudson-valley.html" style="color:inherit;text-decoration:none;">Smiles of the Hudson Valley</a></h3>
         <p class="dentist-address">📍 11 Market St # 208, Poughkeepsie, NY 12601, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(7 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8455540602" class="dentist-btn dentist-btn-call" onclick="trackLead('Smiles of the Hudson Valley','call','Poughkeepsie','NY')">📞 Call</a> <a href="https://www.smileshv.com/about-us" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smiles of the Hudson Valley','website','Poughkeepsie','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8455540602" class="dentist-btn dentist-btn-call" onclick="trackLead('Smiles of the Hudson Valley','call','Poughkeepsie','NY')">📞 Call</a> <a href="https://www.smileshv.com/about-us" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smiles of the Hudson Valley','website','Poughkeepsie','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smiles of the Hudson Valley','Poughkeepsie','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Poughkeepsie Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/poughkeepsie/poughkeepsie-dental.html" style="color:inherit;text-decoration:none;">Poughkeepsie Dental</a></h3>
         <p class="dentist-address">📍 22 Ibm Rd Ste 203, Poughkeepsie, NY 12601, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(573 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8454154831" class="dentist-btn dentist-btn-call" onclick="trackLead('Poughkeepsie Dental','call','Poughkeepsie','NY')">📞 Call</a> <a href="http://poughkeepsiedentalny.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Poughkeepsie Dental','website','Poughkeepsie','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8454154831" class="dentist-btn dentist-btn-call" onclick="trackLead('Poughkeepsie Dental','call','Poughkeepsie','NY')">📞 Call</a> <a href="http://poughkeepsiedentalny.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Poughkeepsie Dental','website','Poughkeepsie','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Poughkeepsie Dental','Poughkeepsie','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Victor Nesheiwat Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/poughkeepsie/victor-nesheiwat-dental.html" style="color:inherit;text-decoration:none;">Victor Nesheiwat Dental</a></h3>
         <p class="dentist-address">📍 30 Reade Pl, Poughkeepsie, NY 12601, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(120 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8453374545" class="dentist-btn dentist-btn-call" onclick="trackLead('Victor Nesheiwat Dental','call','Poughkeepsie','NY')">📞 Call</a> <a href="https://nesheiwatdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Victor Nesheiwat Dental','website','Poughkeepsie','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8453374545" class="dentist-btn dentist-btn-call" onclick="trackLead('Victor Nesheiwat Dental','call','Poughkeepsie','NY')">📞 Call</a> <a href="https://nesheiwatdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Victor Nesheiwat Dental','website','Poughkeepsie','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Victor Nesheiwat Dental','Poughkeepsie','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Mid Hudson Dental Implant And Oral Surgery</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/poughkeepsie/mid-hudson-dental-implant-and-oral-surgery.html" style="color:inherit;text-decoration:none;">Mid Hudson Dental Implant And Oral Surgery</a></h3>
         <p class="dentist-address">📍 11 Raymond Ave #31, Poughkeepsie, NY 12603, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(354 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8454525805" class="dentist-btn dentist-btn-call" onclick="trackLead('Mid Hudson Dental Implant And Oral Surgery','call','Poughkeepsie','NY')">📞 Call</a> <a href="http://www.mhdipok.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mid Hudson Dental Implant And Oral Surgery','website','Poughkeepsie','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8454525805" class="dentist-btn dentist-btn-call" onclick="trackLead('Mid Hudson Dental Implant And Oral Surgery','call','Poughkeepsie','NY')">📞 Call</a> <a href="http://www.mhdipok.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mid Hudson Dental Implant And Oral Surgery','website','Poughkeepsie','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Mid Hudson Dental Implant And Oral Surgery','Poughkeepsie','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Robert Cohen D.M.D., PLLC</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/poughkeepsie/robert-cohen-d-m-d-pllc.html" style="color:inherit;text-decoration:none;">Robert Cohen D.M.D., PLLC</a></h3>
         <p class="dentist-address">📍 1 Bushwick Rd Suite E2, Poughkeepsie, NY 12603, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(51 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8452140989" class="dentist-btn dentist-btn-call" onclick="trackLead('Robert Cohen D.M.D., PLLC','call','Poughkeepsie','NY')">📞 Call</a> <a href="http://drrobcohen.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Robert Cohen D.M.D., PLLC','website','Poughkeepsie','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8452140989" class="dentist-btn dentist-btn-call" onclick="trackLead('Robert Cohen D.M.D., PLLC','call','Poughkeepsie','NY')">📞 Call</a> <a href="http://drrobcohen.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Robert Cohen D.M.D., PLLC','website','Poughkeepsie','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Robert Cohen D.M.D., PLLC','Poughkeepsie','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Village Associates Of Poughkeepsie</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/poughkeepsie/dental-village-associates-of-poughkeepsie.html" style="color:inherit;text-decoration:none;">Dental Village Associates Of Poughkeepsie</a></h3>
         <p class="dentist-address">📍 1 Field Ct, Poughkeepsie, NY 12601, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(53 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8454525617" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Village Associates Of Poughkeepsie','call','Poughkeepsie','NY')">📞 Call</a> <a href="http://www.dentalvop.com/services" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Village Associates Of Poughkeepsie','website','Poughkeepsie','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8454525617" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Village Associates Of Poughkeepsie','call','Poughkeepsie','NY')">📞 Call</a> <a href="http://www.dentalvop.com/services" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Village Associates Of Poughkeepsie','website','Poughkeepsie','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Village Associates Of Poughkeepsie','Poughkeepsie','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Nesheiwat Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/poughkeepsie/nesheiwat-dental.html" style="color:inherit;text-decoration:none;">Nesheiwat Dental</a></h3>
         <p class="dentist-address">📍 16 Vassar Rd, Poughkeepsie, NY 12603, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(8 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8452446999" class="dentist-btn dentist-btn-call" onclick="trackLead('Nesheiwat Dental','call','Poughkeepsie','NY')">📞 Call</a> <a href="http://www.neshdent.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Nesheiwat Dental','website','Poughkeepsie','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8452446999" class="dentist-btn dentist-btn-call" onclick="trackLead('Nesheiwat Dental','call','Poughkeepsie','NY')">📞 Call</a> <a href="http://www.neshdent.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Nesheiwat Dental','website','Poughkeepsie','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Nesheiwat Dental','Poughkeepsie','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Arlington Dental Associates - Poughkeepsie</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/poughkeepsie/arlington-dental-associates-poughkeepsie.html" style="color:inherit;text-decoration:none;">Arlington Dental Associates - Poughkeepsie</a></h3>
         <p class="dentist-address">📍 876 Dutchess Turnpike, Poughkeepsie, NY 12603, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(348 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8452092180" class="dentist-btn dentist-btn-call" onclick="trackLead('Arlington Dental Associates - Poughkeepsie','call','Poughkeepsie','NY')">📞 Call</a> <a href="https://www.arldent.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Arlington Dental Associates - Poughkeepsie','website','Poughkeepsie','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8452092180" class="dentist-btn dentist-btn-call" onclick="trackLead('Arlington Dental Associates - Poughkeepsie','call','Poughkeepsie','NY')">📞 Call</a> <a href="https://www.arldent.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Arlington Dental Associates - Poughkeepsie','website','Poughkeepsie','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Arlington Dental Associates - Poughkeepsie','Poughkeepsie','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Oral Surgery</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/poughkeepsie/dental-oral-surgery.html" style="color:inherit;text-decoration:none;">Dental Oral Surgery</a></h3>
         <p class="dentist-address">📍 637 Main St, Poughkeepsie, NY 12601, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(196 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8457634005" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Oral Surgery','call','Poughkeepsie','NY')">📞 Call</a> <a href="https://www.dentaloralsurgery.com/poughkeepsie-location" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Oral Surgery','website','Poughkeepsie','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8457634005" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Oral Surgery','call','Poughkeepsie','NY')">📞 Call</a> <a href="https://www.dentaloralsurgery.com/poughkeepsie-location" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Oral Surgery','website','Poughkeepsie','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Oral Surgery','Poughkeepsie','NY')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

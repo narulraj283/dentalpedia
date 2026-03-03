@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 12 dentists in Riverview, Florida. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Florida","item":"https://dentalpedia.co/find-a-dentist/florida.html"},
+                {"@type":"ListItem","position":4,"name":"Riverview","item":"https://dentalpedia.co/find-a-dentist/florida/riverview.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Riverview, FL","numberOfItems":12,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"New Image General &amp; Cosmetic Dentistry","address":"11278 Sullivan St, Riverview, FL 33578, USA","telephone":"(813) 736-3983"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"All Dental Riverview","address":"10116 Gibsonton Dr, Riverview, FL 33578, USA","telephone":"(813) 733-8533"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Monaco Dentistry Of Riverview","address":"11280 Boyette Rd Suite 101, Riverview, FL 33569, USA","telephone":"(813) 568-1112"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Everglades Dental Studio Riverview, FL","address":"9094 Progress Blvd, Riverview, FL 33578, USA","telephone":"(813) 328-5434"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Rivercrest Commons Family Dental","address":"11478 US-301, Riverview, FL 33578, USA","telephone":"(813) 742-4499"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Crescent Park Dental Care","address":"3926 US-301, Riverview, FL 33578, USA","telephone":"(813) 694-4576"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Riverview Family Dentistry","address":"3877 US-301, Riverview, FL 33578, USA","telephone":"(813) 630-4079"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Riverview Smiles Dental","address":"10389 Big Bend Rd, Riverview, FL 33578, USA","telephone":"(813) 773-0816"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Dental Care at Summerfield Crossing","address":"12926 US-301 #105, Riverview, FL 33578, USA","telephone":"(813) 331-5147"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Riverview Dental Arts","address":"9332 Balm Riverview Rd Suite B, Riverview, FL 33569, USA","telephone":"(813) 364-4674"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Pavilion Crossing Dental Care","address":"3711 US-301, Riverview, FL 33578, USA","telephone":"(813) 940-5685"}},{"@type":"ListItem","position":12,"item":{"@type":"Dentist","name":"Great Expressions Dental Centers - Big Bend","address":"13146 US-301, Riverview, FL 33578, USA","telephone":"(813) 257-9593"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/florida.html">Florida</a> &rsaquo; Riverview</nav>
             <h1>Dentists in Riverview, FL</h1>
@@ -85,76 +140,76 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">New Image General &amp; Cosmetic Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/riverview/new-image-general-cosmetic-dentistry.html" style="color:inherit;text-decoration:none;">New Image General &amp; Cosmetic Dentistry</a></h3>
         <p class="dentist-address">📍 11278 Sullivan St, Riverview, FL 33578, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(961 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8137363983" class="dentist-btn dentist-btn-call" onclick="trackLead('New Image General &amp; Cosmetic Dentistry','call','Riverview','FL')">📞 Call</a> <a href="https://www.newimagegeneraldentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('New Image General &amp; Cosmetic Dentistry','website','Riverview','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8137363983" class="dentist-btn dentist-btn-call" onclick="trackLead('New Image General &amp; Cosmetic Dentistry','call','Riverview','FL')">📞 Call</a> <a href="https://www.newimagegeneraldentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('New Image General &amp; Cosmetic Dentistry','website','Riverview','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('New Image General &amp; Cosmetic Dentistry','Riverview','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">All Dental Riverview</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/riverview/all-dental-riverview.html" style="color:inherit;text-decoration:none;">All Dental Riverview</a></h3>
         <p class="dentist-address">📍 10116 Gibsonton Dr, Riverview, FL 33578, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(863 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8137338533" class="dentist-btn dentist-btn-call" onclick="trackLead('All Dental Riverview','call','Riverview','FL')">📞 Call</a> <a href="http://www.alldental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('All Dental Riverview','website','Riverview','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8137338533" class="dentist-btn dentist-btn-call" onclick="trackLead('All Dental Riverview','call','Riverview','FL')">📞 Call</a> <a href="http://www.alldental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('All Dental Riverview','website','Riverview','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('All Dental Riverview','Riverview','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Monaco Dentistry Of Riverview</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/riverview/monaco-dentistry-of-riverview.html" style="color:inherit;text-decoration:none;">Monaco Dentistry Of Riverview</a></h3>
         <p class="dentist-address">📍 11280 Boyette Rd Suite 101, Riverview, FL 33569, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(615 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8135681112" class="dentist-btn dentist-btn-call" onclick="trackLead('Monaco Dentistry Of Riverview','call','Riverview','FL')">📞 Call</a> <a href="https://www.monacodentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Monaco Dentistry Of Riverview','website','Riverview','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8135681112" class="dentist-btn dentist-btn-call" onclick="trackLead('Monaco Dentistry Of Riverview','call','Riverview','FL')">📞 Call</a> <a href="https://www.monacodentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Monaco Dentistry Of Riverview','website','Riverview','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Monaco Dentistry Of Riverview','Riverview','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Everglades Dental Studio Riverview, FL</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/riverview/everglades-dental-studio-riverview-fl.html" style="color:inherit;text-decoration:none;">Everglades Dental Studio Riverview, FL</a></h3>
         <p class="dentist-address">📍 9094 Progress Blvd, Riverview, FL 33578, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(196 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8133285434" class="dentist-btn dentist-btn-call" onclick="trackLead('Everglades Dental Studio Riverview, FL','call','Riverview','FL')">📞 Call</a> <a href="https://www.evergladesdentalstudio.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Everglades Dental Studio Riverview, FL','website','Riverview','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8133285434" class="dentist-btn dentist-btn-call" onclick="trackLead('Everglades Dental Studio Riverview, FL','call','Riverview','FL')">📞 Call</a> <a href="https://www.evergladesdentalstudio.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Everglades Dental Studio Riverview, FL','website','Riverview','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Everglades Dental Studio Riverview, FL','Riverview','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Rivercrest Commons Family Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/riverview/rivercrest-commons-family-dental.html" style="color:inherit;text-decoration:none;">Rivercrest Commons Family Dental</a></h3>
         <p class="dentist-address">📍 11478 US-301, Riverview, FL 33578, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(1,070 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8137424499" class="dentist-btn dentist-btn-call" onclick="trackLead('Rivercrest Commons Family Dental','call','Riverview','FL')">📞 Call</a> <a href="http://rivercrestcommonsfamilydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Rivercrest Commons Family Dental','website','Riverview','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8137424499" class="dentist-btn dentist-btn-call" onclick="trackLead('Rivercrest Commons Family Dental','call','Riverview','FL')">📞 Call</a> <a href="http://rivercrestcommonsfamilydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Rivercrest Commons Family Dental','website','Riverview','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Rivercrest Commons Family Dental','Riverview','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Crescent Park Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/riverview/crescent-park-dental-care.html" style="color:inherit;text-decoration:none;">Crescent Park Dental Care</a></h3>
         <p class="dentist-address">📍 3926 US-301, Riverview, FL 33578, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(461 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8136944576" class="dentist-btn dentist-btn-call" onclick="trackLead('Crescent Park Dental Care','call','Riverview','FL')">📞 Call</a> <a href="http://crescentparkdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Crescent Park Dental Care','website','Riverview','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8136944576" class="dentist-btn dentist-btn-call" onclick="trackLead('Crescent Park Dental Care','call','Riverview','FL')">📞 Call</a> <a href="http://crescentparkdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Crescent Park Dental Care','website','Riverview','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Crescent Park Dental Care','Riverview','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Riverview Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/riverview/riverview-family-dentistry.html" style="color:inherit;text-decoration:none;">Riverview Family Dentistry</a></h3>
         <p class="dentist-address">📍 3877 US-301, Riverview, FL 33578, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(289 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8136304079" class="dentist-btn dentist-btn-call" onclick="trackLead('Riverview Family Dentistry','call','Riverview','FL')">📞 Call</a> <a href="https://www.familydentistryriverview.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Riverview Family Dentistry','website','Riverview','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8136304079" class="dentist-btn dentist-btn-call" onclick="trackLead('Riverview Family Dentistry','call','Riverview','FL')">📞 Call</a> <a href="https://www.familydentistryriverview.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Riverview Family Dentistry','website','Riverview','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Riverview Family Dentistry','Riverview','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Riverview Smiles Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/riverview/riverview-smiles-dental.html" style="color:inherit;text-decoration:none;">Riverview Smiles Dental</a></h3>
         <p class="dentist-address">📍 10389 Big Bend Rd, Riverview, FL 33578, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(1,161 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8137730816" class="dentist-btn dentist-btn-call" onclick="trackLead('Riverview Smiles Dental','call','Riverview','FL')">📞 Call</a> <a href="http://riverviewsmilesdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Riverview Smiles Dental','website','Riverview','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8137730816" class="dentist-btn dentist-btn-call" onclick="trackLead('Riverview Smiles Dental','call','Riverview','FL')">📞 Call</a> <a href="http://riverviewsmilesdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Riverview Smiles Dental','website','Riverview','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Riverview Smiles Dental','Riverview','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Care at Summerfield Crossing</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/riverview/dental-care-at-summerfield-crossing.html" style="color:inherit;text-decoration:none;">Dental Care at Summerfield Crossing</a></h3>
         <p class="dentist-address">📍 12926 US-301 #105, Riverview, FL 33578, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(612 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8133315147" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Care at Summerfield Crossing','call','Riverview','FL')">📞 Call</a> <a href="http://dentalcareatsummerfieldcrossing.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Care at Summerfield Crossing','website','Riverview','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8133315147" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Care at Summerfield Crossing','call','Riverview','FL')">📞 Call</a> <a href="http://dentalcareatsummerfieldcrossing.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Care at Summerfield Crossing','website','Riverview','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Care at Summerfield Crossing','Riverview','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Riverview Dental Arts</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/riverview/riverview-dental-arts.html" style="color:inherit;text-decoration:none;">Riverview Dental Arts</a></h3>
         <p class="dentist-address">📍 9332 Balm Riverview Rd Suite B, Riverview, FL 33569, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(207 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8133644674" class="dentist-btn dentist-btn-call" onclick="trackLead('Riverview Dental Arts','call','Riverview','FL')">📞 Call</a> <a href="https://riverview.dental/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Riverview Dental Arts','website','Riverview','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8133644674" class="dentist-btn dentist-btn-call" onclick="trackLead('Riverview Dental Arts','call','Riverview','FL')">📞 Call</a> <a href="https://riverview.dental/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Riverview Dental Arts','website','Riverview','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Riverview Dental Arts','Riverview','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Pavilion Crossing Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/riverview/pavilion-crossing-dental-care.html" style="color:inherit;text-decoration:none;">Pavilion Crossing Dental Care</a></h3>
         <p class="dentist-address">📍 3711 US-301, Riverview, FL 33578, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(883 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8139405685" class="dentist-btn dentist-btn-call" onclick="trackLead('Pavilion Crossing Dental Care','call','Riverview','FL')">📞 Call</a> <a href="http://pavilioncrossingdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Pavilion Crossing Dental Care','website','Riverview','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8139405685" class="dentist-btn dentist-btn-call" onclick="trackLead('Pavilion Crossing Dental Care','call','Riverview','FL')">📞 Call</a> <a href="http://pavilioncrossingdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Pavilion Crossing Dental Care','website','Riverview','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Pavilion Crossing Dental Care','Riverview','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Great Expressions Dental Centers - Big Bend</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/riverview/great-expressions-dental-centers-big-bend.html" style="color:inherit;text-decoration:none;">Great Expressions Dental Centers - Big Bend</a></h3>
         <p class="dentist-address">📍 13146 US-301, Riverview, FL 33578, USA</p>
         <div class="dentist-rating">★★★½ 3.8 <span class="review-count">(792 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8132579593" class="dentist-btn dentist-btn-call" onclick="trackLead('Great Expressions Dental Centers - Big Bend','call','Riverview','FL')">📞 Call</a> <a href="https://www.greatexpressions.com/dental-offices/dentist-in-riverview-florida-us-highway-301-s/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Great Expressions Dental Centers - Big Bend','website','Riverview','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8132579593" class="dentist-btn dentist-btn-call" onclick="trackLead('Great Expressions Dental Centers - Big Bend','call','Riverview','FL')">📞 Call</a> <a href="https://www.greatexpressions.com/dental-offices/dentist-in-riverview-florida-us-highway-301-s/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Great Expressions Dental Centers - Big Bend','website','Riverview','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Great Expressions Dental Centers - Big Bend','Riverview','FL')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

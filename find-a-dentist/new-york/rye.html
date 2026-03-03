@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 6 dentists in Rye, New York. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"New York","item":"https://dentalpedia.co/find-a-dentist/new-york.html"},
+                {"@type":"ListItem","position":4,"name":"Rye","item":"https://dentalpedia.co/find-a-dentist/new-york/rye.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Rye, NY","numberOfItems":6,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"RyeSmiles Pediatric Dentistry","address":"16 School St Suite 2, Rye, NY 10580, USA","telephone":"(914) 967-5735"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Chester Hill Dental Associates","address":"150 Purchase St Ste1, Rye, NY 10580, USA","telephone":"(914) 939-2132"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Charles Yau, D.D.S.","address":"16 School St Suite 2, Rye, NY 10580, USA","telephone":"(914) 200-4963"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Rye Oral Surgery","address":"262 Purchase St, Rye, NY 10580, USA","telephone":"(914) 614-2626"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Blue Wave Orthodontics - Rye","address":"262 Purchase St, Rye, NY 10580, USA","telephone":"(914) 559-2338"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Rye Pediatric Dentistry","address":"130 Theodore Fremd Ave m2, Rye, NY 10580, USA","telephone":"(914) 967-0000"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/new-york.html">New York</a> &rsaquo; Rye</nav>
             <h1>Dentists in Rye, NY</h1>
@@ -85,40 +140,40 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">RyeSmiles Pediatric Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/rye/ryesmiles-pediatric-dentistry.html" style="color:inherit;text-decoration:none;">RyeSmiles Pediatric Dentistry</a></h3>
         <p class="dentist-address">📍 16 School St Suite 2, Rye, NY 10580, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(462 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9149675735" class="dentist-btn dentist-btn-call" onclick="trackLead('RyeSmiles Pediatric Dentistry','call','Rye','NY')">📞 Call</a> <a href="https://www.ryesmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('RyeSmiles Pediatric Dentistry','website','Rye','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9149675735" class="dentist-btn dentist-btn-call" onclick="trackLead('RyeSmiles Pediatric Dentistry','call','Rye','NY')">📞 Call</a> <a href="https://www.ryesmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('RyeSmiles Pediatric Dentistry','website','Rye','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('RyeSmiles Pediatric Dentistry','Rye','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Chester Hill Dental Associates</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/rye/chester-hill-dental-associates.html" style="color:inherit;text-decoration:none;">Chester Hill Dental Associates</a></h3>
         <p class="dentist-address">📍 150 Purchase St Ste1, Rye, NY 10580, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(10 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9149392132" class="dentist-btn dentist-btn-call" onclick="trackLead('Chester Hill Dental Associates','call','Rye','NY')">📞 Call</a> <a href="http://chesterhilldentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Chester Hill Dental Associates','website','Rye','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9149392132" class="dentist-btn dentist-btn-call" onclick="trackLead('Chester Hill Dental Associates','call','Rye','NY')">📞 Call</a> <a href="http://chesterhilldentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Chester Hill Dental Associates','website','Rye','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Chester Hill Dental Associates','Rye','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Charles Yau, D.D.S.</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/rye/charles-yau-d-d-s.html" style="color:inherit;text-decoration:none;">Charles Yau, D.D.S.</a></h3>
         <p class="dentist-address">📍 16 School St Suite 2, Rye, NY 10580, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(8 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9142004963" class="dentist-btn dentist-btn-call" onclick="trackLead('Charles Yau, D.D.S.','call','Rye','NY')">📞 Call</a> <a href="https://www.ryesmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Charles Yau, D.D.S.','website','Rye','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9142004963" class="dentist-btn dentist-btn-call" onclick="trackLead('Charles Yau, D.D.S.','call','Rye','NY')">📞 Call</a> <a href="https://www.ryesmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Charles Yau, D.D.S.','website','Rye','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Charles Yau, D.D.S.','Rye','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Rye Oral Surgery</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/rye/rye-oral-surgery.html" style="color:inherit;text-decoration:none;">Rye Oral Surgery</a></h3>
         <p class="dentist-address">📍 262 Purchase St, Rye, NY 10580, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(8 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9146142626" class="dentist-btn dentist-btn-call" onclick="trackLead('Rye Oral Surgery','call','Rye','NY')">📞 Call</a> <a href="http://ryeoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Rye Oral Surgery','website','Rye','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9146142626" class="dentist-btn dentist-btn-call" onclick="trackLead('Rye Oral Surgery','call','Rye','NY')">📞 Call</a> <a href="http://ryeoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Rye Oral Surgery','website','Rye','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Rye Oral Surgery','Rye','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Blue Wave Orthodontics - Rye</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/rye/blue-wave-orthodontics-rye.html" style="color:inherit;text-decoration:none;">Blue Wave Orthodontics - Rye</a></h3>
         <p class="dentist-address">📍 262 Purchase St, Rye, NY 10580, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(91 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9145592338" class="dentist-btn dentist-btn-call" onclick="trackLead('Blue Wave Orthodontics - Rye','call','Rye','NY')">📞 Call</a> <a href="https://www.bluewaveorthodontics.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Blue Wave Orthodontics - Rye','website','Rye','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9145592338" class="dentist-btn dentist-btn-call" onclick="trackLead('Blue Wave Orthodontics - Rye','call','Rye','NY')">📞 Call</a> <a href="https://www.bluewaveorthodontics.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Blue Wave Orthodontics - Rye','website','Rye','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Blue Wave Orthodontics - Rye','Rye','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Rye Pediatric Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/rye/rye-pediatric-dentistry.html" style="color:inherit;text-decoration:none;">Rye Pediatric Dentistry</a></h3>
         <p class="dentist-address">📍 130 Theodore Fremd Ave m2, Rye, NY 10580, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(57 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9149670000" class="dentist-btn dentist-btn-call" onclick="trackLead('Rye Pediatric Dentistry','call','Rye','NY')">📞 Call</a> <a href="http://www.ryekids.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Rye Pediatric Dentistry','website','Rye','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9149670000" class="dentist-btn dentist-btn-call" onclick="trackLead('Rye Pediatric Dentistry','call','Rye','NY')">📞 Call</a> <a href="http://www.ryekids.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Rye Pediatric Dentistry','website','Rye','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Rye Pediatric Dentistry','Rye','NY')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 8 dentists in Warner Robins, Georgia. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Georgia","item":"https://dentalpedia.co/find-a-dentist/georgia.html"},
+                {"@type":"ListItem","position":4,"name":"Warner Robins","item":"https://dentalpedia.co/find-a-dentist/georgia/warner-robins.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Warner Robins, GA","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Pediatric Dentistry of Central Georgia-Warner Robins","address":"900 Professional Dr, Warner Robins, GA 31088, USA","telephone":"(478) 333-3636"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Warner Robins Pediatric Dentistry","address":"270 Carl Vinson Pkwy, Warner Robins, GA 31088, USA","telephone":"(478) 449-4200"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Pediatric and Adolescent Dentistry","address":"104 Tommy Stalnaker Dr, Warner Robins, GA 31088, USA","telephone":"(478) 953-4800"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Warner Robins Family Dentistry","address":"104 S Houston Rd, Warner Robins, GA 31088, USA","telephone":"(478) 210-5263"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Oral Surgery Associates of Central Georgia","address":"324 Margie Dr, Warner Robins, GA 31088, USA","telephone":"(478) 971-8811"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Duval Orthodontics: J.A. Duval, DDS","address":"110 Tommy Stalnaker Dr building b, Warner Robins, GA 31088, USA","telephone":"(478) 333-6601"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Oral and Maxillofacial Surgery Center, Inc.: Dr. Vincent M. Carey, DMD","address":"700 Professional Dr, Warner Robins, GA 31088, USA","telephone":"(478) 333-2336"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Ambrose Pediatric Dentistry of Warner Robins","address":"4993 Russell Pkwy #100, Warner Robins, GA 31088, USA","telephone":"(478) 200-5874"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/georgia.html">Georgia</a> &rsaquo; Warner Robins</nav>
             <h1>Dentists in Warner Robins, GA</h1>
@@ -85,52 +140,52 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Pediatric Dentistry of Central Georgia-Warner Robins</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/warner-robins/pediatric-dentistry-of-central-georgia-warner-robins.html" style="color:inherit;text-decoration:none;">Pediatric Dentistry of Central Georgia-Warner Robins</a></h3>
         <p class="dentist-address">📍 900 Professional Dr, Warner Robins, GA 31088, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(772 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4783333636" class="dentist-btn dentist-btn-call" onclick="trackLead('Pediatric Dentistry of Central Georgia-Warner Robins','call','Warner Robins','GA')">📞 Call</a> <a href="http://growbigsmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Pediatric Dentistry of Central Georgia-Warner Robins','website','Warner Robins','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4783333636" class="dentist-btn dentist-btn-call" onclick="trackLead('Pediatric Dentistry of Central Georgia-Warner Robins','call','Warner Robins','GA')">📞 Call</a> <a href="http://growbigsmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Pediatric Dentistry of Central Georgia-Warner Robins','website','Warner Robins','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Pediatric Dentistry of Central Georgia-Warner Robins','Warner Robins','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Warner Robins Pediatric Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/warner-robins/warner-robins-pediatric-dentistry.html" style="color:inherit;text-decoration:none;">Warner Robins Pediatric Dentistry</a></h3>
         <p class="dentist-address">📍 270 Carl Vinson Pkwy, Warner Robins, GA 31088, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(1,371 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4784494200" class="dentist-btn dentist-btn-call" onclick="trackLead('Warner Robins Pediatric Dentistry','call','Warner Robins','GA')">📞 Call</a> <a href="https://warnerrobinspediatricdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Warner Robins Pediatric Dentistry','website','Warner Robins','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4784494200" class="dentist-btn dentist-btn-call" onclick="trackLead('Warner Robins Pediatric Dentistry','call','Warner Robins','GA')">📞 Call</a> <a href="https://warnerrobinspediatricdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Warner Robins Pediatric Dentistry','website','Warner Robins','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Warner Robins Pediatric Dentistry','Warner Robins','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Pediatric and Adolescent Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/warner-robins/pediatric-and-adolescent-dentistry.html" style="color:inherit;text-decoration:none;">Pediatric and Adolescent Dentistry</a></h3>
         <p class="dentist-address">📍 104 Tommy Stalnaker Dr, Warner Robins, GA 31088, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(38 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4789534800" class="dentist-btn dentist-btn-call" onclick="trackLead('Pediatric and Adolescent Dentistry','call','Warner Robins','GA')">📞 Call</a> <a href="http://wearepediatricdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Pediatric and Adolescent Dentistry','website','Warner Robins','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4789534800" class="dentist-btn dentist-btn-call" onclick="trackLead('Pediatric and Adolescent Dentistry','call','Warner Robins','GA')">📞 Call</a> <a href="http://wearepediatricdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Pediatric and Adolescent Dentistry','website','Warner Robins','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Pediatric and Adolescent Dentistry','Warner Robins','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Warner Robins Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/warner-robins/warner-robins-family-dentistry.html" style="color:inherit;text-decoration:none;">Warner Robins Family Dentistry</a></h3>
         <p class="dentist-address">📍 104 S Houston Rd, Warner Robins, GA 31088, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(1,283 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4782105263" class="dentist-btn dentist-btn-call" onclick="trackLead('Warner Robins Family Dentistry','call','Warner Robins','GA')">📞 Call</a> <a href="http://warnerrobinsfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Warner Robins Family Dentistry','website','Warner Robins','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4782105263" class="dentist-btn dentist-btn-call" onclick="trackLead('Warner Robins Family Dentistry','call','Warner Robins','GA')">📞 Call</a> <a href="http://warnerrobinsfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Warner Robins Family Dentistry','website','Warner Robins','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Warner Robins Family Dentistry','Warner Robins','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Oral Surgery Associates of Central Georgia</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/warner-robins/oral-surgery-associates-of-central-georgia.html" style="color:inherit;text-decoration:none;">Oral Surgery Associates of Central Georgia</a></h3>
         <p class="dentist-address">📍 324 Margie Dr, Warner Robins, GA 31088, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(106 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4789718811" class="dentist-btn dentist-btn-call" onclick="trackLead('Oral Surgery Associates of Central Georgia','call','Warner Robins','GA')">📞 Call</a> <a href="https://drszakal.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oral Surgery Associates of Central Georgia','website','Warner Robins','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4789718811" class="dentist-btn dentist-btn-call" onclick="trackLead('Oral Surgery Associates of Central Georgia','call','Warner Robins','GA')">📞 Call</a> <a href="https://drszakal.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oral Surgery Associates of Central Georgia','website','Warner Robins','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Oral Surgery Associates of Central Georgia','Warner Robins','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Duval Orthodontics: J.A. Duval, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/warner-robins/duval-orthodontics-j-a-duval-dds.html" style="color:inherit;text-decoration:none;">Duval Orthodontics: J.A. Duval, DDS</a></h3>
         <p class="dentist-address">📍 110 Tommy Stalnaker Dr building b, Warner Robins, GA 31088, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(531 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4783336601" class="dentist-btn dentist-btn-call" onclick="trackLead('Duval Orthodontics: J.A. Duval, DDS','call','Warner Robins','GA')">📞 Call</a> <a href="http://www.duvalorthosmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Duval Orthodontics: J.A. Duval, DDS','website','Warner Robins','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4783336601" class="dentist-btn dentist-btn-call" onclick="trackLead('Duval Orthodontics: J.A. Duval, DDS','call','Warner Robins','GA')">📞 Call</a> <a href="http://www.duvalorthosmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Duval Orthodontics: J.A. Duval, DDS','website','Warner Robins','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Duval Orthodontics: J.A. Duval, DDS','Warner Robins','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Oral and Maxillofacial Surgery Center, Inc.: Dr. Vincent M. Carey, DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/warner-robins/oral-and-maxillofacial-surgery-center-inc-dr-vincent-m-carey.html" style="color:inherit;text-decoration:none;">Oral and Maxillofacial Surgery Center, Inc.: Dr. Vincent M. Carey, DMD</a></h3>
         <p class="dentist-address">📍 700 Professional Dr, Warner Robins, GA 31088, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(270 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4783332336" class="dentist-btn dentist-btn-call" onclick="trackLead('Oral and Maxillofacial Surgery Center, Inc.: Dr. Vincent M. Carey, DMD','call','Warner Robins','GA')">📞 Call</a> <a href="https://www.drvincentcarey.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oral and Maxillofacial Surgery Center, Inc.: Dr. Vincent M. Carey, DMD','website','Warner Robins','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4783332336" class="dentist-btn dentist-btn-call" onclick="trackLead('Oral and Maxillofacial Surgery Center, Inc.: Dr. Vincent M. Carey, DMD','call','Warner Robins','GA')">📞 Call</a> <a href="https://www.drvincentcarey.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oral and Maxillofacial Surgery Center, Inc.: Dr. Vincent M. Carey, DMD','website','Warner Robins','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Oral and Maxillofacial Surgery Center, Inc.: Dr. Vincent M. Carey, DMD','Warner Robins','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Ambrose Pediatric Dentistry of Warner Robins</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/warner-robins/ambrose-pediatric-dentistry-of-warner-robins.html" style="color:inherit;text-decoration:none;">Ambrose Pediatric Dentistry of Warner Robins</a></h3>
         <p class="dentist-address">📍 4993 Russell Pkwy #100, Warner Robins, GA 31088, USA</p>
         <div class="dentist-rating">★★★½ 3.9 <span class="review-count">(132 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4782005874" class="dentist-btn dentist-btn-call" onclick="trackLead('Ambrose Pediatric Dentistry of Warner Robins','call','Warner Robins','GA')">📞 Call</a> <a href="http://ambrosepd.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Ambrose Pediatric Dentistry of Warner Robins','website','Warner Robins','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4782005874" class="dentist-btn dentist-btn-call" onclick="trackLead('Ambrose Pediatric Dentistry of Warner Robins','call','Warner Robins','GA')">📞 Call</a> <a href="http://ambrosepd.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Ambrose Pediatric Dentistry of Warner Robins','website','Warner Robins','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Ambrose Pediatric Dentistry of Warner Robins','Warner Robins','GA')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

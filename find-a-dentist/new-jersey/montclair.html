@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 10 dentists in Montclair, New Jersey. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"New Jersey","item":"https://dentalpedia.co/find-a-dentist/new-jersey.html"},
+                {"@type":"ListItem","position":4,"name":"Montclair","item":"https://dentalpedia.co/find-a-dentist/new-jersey/montclair.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Montclair, NJ","numberOfItems":10,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Dr. Charlene Gambino, DMD","address":"22 The Crescent, Montclair, NJ 07042, USA","telephone":"(973) 707-2982"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Dr. F. James O&#x27;Bosky Jr., D.M.D.","address":"39 S Fullerton Ave Suite K, 3rd Floor, Montclair, NJ 07042, USA","telephone":"(973) 744-1812"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Stellar Smile Center","address":"39 The Crescent, Montclair, NJ 07042, USA","telephone":"(973) 744-5806"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Montclair Pediatric Dental Care","address":"31 Valley Rd f2, Montclair, NJ 07042, USA","telephone":"(973) 771-5387"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Upper Montclair Dental Associates","address":"223 Lorraine Ave, Montclair, NJ 07043, USA","telephone":"(973) 746-6056"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Park Street Dental Associates","address":"83 Park St, Montclair, NJ 07042, USA","telephone":"(973) 744-0881"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Montclair Dental Spa","address":"204 Claremont Ave, Montclair, NJ 07042, USA","telephone":"(973) 744-1527"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Oral Maxillofacial Associates of Montclair","address":"54 Plymouth St, Montclair, NJ 07042, USA","telephone":"(973) 746-3466"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Mountainside Dental Clinic","address":"Central Building, 1 Bay Ave 3rd Floor, Montclair, NJ 07042, USA","telephone":"(973) 429-6887"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"North Mountain Dental","address":"86 Valley Rd #2, Montclair, NJ 07042, USA","telephone":"(973) 746-1616"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/new-jersey.html">New Jersey</a> &rsaquo; Montclair</nav>
             <h1>Dentists in Montclair, NJ</h1>
@@ -85,64 +140,64 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. Charlene Gambino, DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/montclair/dr-charlene-gambino-dmd.html" style="color:inherit;text-decoration:none;">Dr. Charlene Gambino, DMD</a></h3>
         <p class="dentist-address">📍 22 The Crescent, Montclair, NJ 07042, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(452 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9737072982" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Charlene Gambino, DMD','call','Montclair','NJ')">📞 Call</a> <a href="https://www.themontclairdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Charlene Gambino, DMD','website','Montclair','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9737072982" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Charlene Gambino, DMD','call','Montclair','NJ')">📞 Call</a> <a href="https://www.themontclairdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Charlene Gambino, DMD','website','Montclair','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. Charlene Gambino, DMD','Montclair','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. F. James O&#x27;Bosky Jr., D.M.D.</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/montclair/dr-f-james-o-bosky-jr-d-m-d.html" style="color:inherit;text-decoration:none;">Dr. F. James O&#x27;Bosky Jr., D.M.D.</a></h3>
         <p class="dentist-address">📍 39 S Fullerton Ave Suite K, 3rd Floor, Montclair, NJ 07042, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(147 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9737441812" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. F. James O&#x27;Bosky Jr., D.M.D.','call','Montclair','NJ')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:9737441812" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. F. James O&#x27;Bosky Jr., D.M.D.','call','Montclair','NJ')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. F. James O&#x27;Bosky Jr., D.M.D.','Montclair','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Stellar Smile Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/montclair/stellar-smile-center.html" style="color:inherit;text-decoration:none;">Stellar Smile Center</a></h3>
         <p class="dentist-address">📍 39 The Crescent, Montclair, NJ 07042, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(96 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9737445806" class="dentist-btn dentist-btn-call" onclick="trackLead('Stellar Smile Center','call','Montclair','NJ')">📞 Call</a> <a href="http://stellarsmilecenter.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Stellar Smile Center','website','Montclair','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9737445806" class="dentist-btn dentist-btn-call" onclick="trackLead('Stellar Smile Center','call','Montclair','NJ')">📞 Call</a> <a href="http://stellarsmilecenter.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Stellar Smile Center','website','Montclair','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Stellar Smile Center','Montclair','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Montclair Pediatric Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/montclair/montclair-pediatric-dental-care.html" style="color:inherit;text-decoration:none;">Montclair Pediatric Dental Care</a></h3>
         <p class="dentist-address">📍 31 Valley Rd f2, Montclair, NJ 07042, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(314 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9737715387" class="dentist-btn dentist-btn-call" onclick="trackLead('Montclair Pediatric Dental Care','call','Montclair','NJ')">📞 Call</a> <a href="http://www.montclairpediatricdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Montclair Pediatric Dental Care','website','Montclair','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9737715387" class="dentist-btn dentist-btn-call" onclick="trackLead('Montclair Pediatric Dental Care','call','Montclair','NJ')">📞 Call</a> <a href="http://www.montclairpediatricdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Montclair Pediatric Dental Care','website','Montclair','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Montclair Pediatric Dental Care','Montclair','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Upper Montclair Dental Associates</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/montclair/upper-montclair-dental-associates.html" style="color:inherit;text-decoration:none;">Upper Montclair Dental Associates</a></h3>
         <p class="dentist-address">📍 223 Lorraine Ave, Montclair, NJ 07043, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(88 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9737466056" class="dentist-btn dentist-btn-call" onclick="trackLead('Upper Montclair Dental Associates','call','Montclair','NJ')">📞 Call</a> <a href="https://www.uppermontclairdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Upper Montclair Dental Associates','website','Montclair','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9737466056" class="dentist-btn dentist-btn-call" onclick="trackLead('Upper Montclair Dental Associates','call','Montclair','NJ')">📞 Call</a> <a href="https://www.uppermontclairdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Upper Montclair Dental Associates','website','Montclair','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Upper Montclair Dental Associates','Montclair','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Park Street Dental Associates</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/montclair/park-street-dental-associates.html" style="color:inherit;text-decoration:none;">Park Street Dental Associates</a></h3>
         <p class="dentist-address">📍 83 Park St, Montclair, NJ 07042, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(184 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9737440881" class="dentist-btn dentist-btn-call" onclick="trackLead('Park Street Dental Associates','call','Montclair','NJ')">📞 Call</a> <a href="https://dentistryofmontclair.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Park Street Dental Associates','website','Montclair','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9737440881" class="dentist-btn dentist-btn-call" onclick="trackLead('Park Street Dental Associates','call','Montclair','NJ')">📞 Call</a> <a href="https://dentistryofmontclair.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Park Street Dental Associates','website','Montclair','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Park Street Dental Associates','Montclair','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Montclair Dental Spa</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/montclair/montclair-dental-spa.html" style="color:inherit;text-decoration:none;">Montclair Dental Spa</a></h3>
         <p class="dentist-address">📍 204 Claremont Ave, Montclair, NJ 07042, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(601 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9737441527" class="dentist-btn dentist-btn-call" onclick="trackLead('Montclair Dental Spa','call','Montclair','NJ')">📞 Call</a> <a href="https://www.montclairdentalspanj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Montclair Dental Spa','website','Montclair','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9737441527" class="dentist-btn dentist-btn-call" onclick="trackLead('Montclair Dental Spa','call','Montclair','NJ')">📞 Call</a> <a href="https://www.montclairdentalspanj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Montclair Dental Spa','website','Montclair','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Montclair Dental Spa','Montclair','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Oral Maxillofacial Associates of Montclair</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/montclair/oral-maxillofacial-associates-of-montclair.html" style="color:inherit;text-decoration:none;">Oral Maxillofacial Associates of Montclair</a></h3>
         <p class="dentist-address">📍 54 Plymouth St, Montclair, NJ 07042, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(169 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9737463466" class="dentist-btn dentist-btn-call" onclick="trackLead('Oral Maxillofacial Associates of Montclair','call','Montclair','NJ')">📞 Call</a> <a href="http://www.oralsurgerymontclair.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oral Maxillofacial Associates of Montclair','website','Montclair','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9737463466" class="dentist-btn dentist-btn-call" onclick="trackLead('Oral Maxillofacial Associates of Montclair','call','Montclair','NJ')">📞 Call</a> <a href="http://www.oralsurgerymontclair.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oral Maxillofacial Associates of Montclair','website','Montclair','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Oral Maxillofacial Associates of Montclair','Montclair','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Mountainside Dental Clinic</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/montclair/mountainside-dental-clinic.html" style="color:inherit;text-decoration:none;">Mountainside Dental Clinic</a></h3>
         <p class="dentist-address">📍 Central Building, 1 Bay Ave 3rd Floor, Montclair, NJ 07042, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(99 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9734296887" class="dentist-btn dentist-btn-call" onclick="trackLead('Mountainside Dental Clinic','call','Montclair','NJ')">📞 Call</a> <a href="https://mountainsidemedicalcenter.com/find-a-provider/location/mountainsidedentalclinicmontclair/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mountainside Dental Clinic','website','Montclair','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9734296887" class="dentist-btn dentist-btn-call" onclick="trackLead('Mountainside Dental Clinic','call','Montclair','NJ')">📞 Call</a> <a href="https://mountainsidemedicalcenter.com/find-a-provider/location/mountainsidedentalclinicmontclair/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mountainside Dental Clinic','website','Montclair','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Mountainside Dental Clinic','Montclair','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">North Mountain Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/montclair/north-mountain-dental.html" style="color:inherit;text-decoration:none;">North Mountain Dental</a></h3>
         <p class="dentist-address">📍 86 Valley Rd #2, Montclair, NJ 07042, USA</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(6 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9737461616" class="dentist-btn dentist-btn-call" onclick="trackLead('North Mountain Dental','call','Montclair','NJ')">📞 Call</a> <a href="https://nmdmontclair.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('North Mountain Dental','website','Montclair','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9737461616" class="dentist-btn dentist-btn-call" onclick="trackLead('North Mountain Dental','call','Montclair','NJ')">📞 Call</a> <a href="https://nmdmontclair.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('North Mountain Dental','website','Montclair','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('North Mountain Dental','Montclair','NJ')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

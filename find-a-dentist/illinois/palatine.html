@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 13 dentists in Palatine, Illinois. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Illinois","item":"https://dentalpedia.co/find-a-dentist/illinois.html"},
+                {"@type":"ListItem","position":4,"name":"Palatine","item":"https://dentalpedia.co/find-a-dentist/illinois/palatine.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Palatine, IL","numberOfItems":13,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Regency Dental Care","address":"1332 W Northwest Hwy, Palatine, IL 60067, USA","telephone":"(847) 776-8700"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Mint Dentistry","address":"600 N North Ct #260, Palatine, IL 60067, USA","telephone":"(847) 991-1171"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Herman Salzberg, DMD","address":"512 N Plum Grove Rd, Palatine, IL 60067, USA","telephone":"(847) 359-6766"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Winston Dental Care","address":"855 E Palatine Rd #180, Palatine, IL 60074, USA","telephone":"(847) 359-4616"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Advocate Dental of Palatine","address":"232 E Northwest Hwy, Palatine, IL 60067, USA","telephone":"(847) 416-8689"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Palatine Dental Associates","address":"4 S Northwest Hwy, Palatine, IL 60074, USA","telephone":"(847) 996-9517"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Vital Dental","address":"1590 N Rand Rd Suite A, Palatine, IL 60074, USA","telephone":"(847) 558-7875"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Mark J. Niekrasz, DDS &amp; Associates","address":"1635 N Baldwin Rd, Palatine, IL 60074, USA","telephone":"(847) 359-8886"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Precision Dental Partners","address":"632 N 1st Bank Dr Suite 100, Palatine, IL 60067, USA","telephone":"(847) 358-9700"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Meadows Dental Care","address":"4949 Euclid Ave Ste A, Palatine, IL 60067, USA","telephone":"(847) 780-2839"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Nawar Alnoman, D.D.S.","address":"2381 N Hicks Rd, Palatine, IL 60074, USA","telephone":"(847) 306-6502"}},{"@type":"ListItem","position":12,"item":{"@type":"Dentist","name":"Bright Dental Palatine","address":"1177 E Dundee Rd, Palatine, IL 60074, USA","telephone":"(847) 358-9800"}},{"@type":"ListItem","position":13,"item":{"@type":"Dentist","name":"All Smiles Family Dental - Dr Sandhya Pallam DDS","address":"537 E Dundee Rd, Palatine, IL 60074, USA","telephone":"(847) 907-0585"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/illinois.html">Illinois</a> &rsaquo; Palatine</nav>
             <h1>Dentists in Palatine, IL</h1>
@@ -85,82 +140,82 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Regency Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/palatine/regency-dental-care.html" style="color:inherit;text-decoration:none;">Regency Dental Care</a></h3>
         <p class="dentist-address">📍 1332 W Northwest Hwy, Palatine, IL 60067, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(499 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8477768700" class="dentist-btn dentist-btn-call" onclick="trackLead('Regency Dental Care','call','Palatine','IL')">📞 Call</a> <a href="https://www.regencydentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Regency Dental Care','website','Palatine','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8477768700" class="dentist-btn dentist-btn-call" onclick="trackLead('Regency Dental Care','call','Palatine','IL')">📞 Call</a> <a href="https://www.regencydentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Regency Dental Care','website','Palatine','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Regency Dental Care','Palatine','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Mint Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/palatine/mint-dentistry.html" style="color:inherit;text-decoration:none;">Mint Dentistry</a></h3>
         <p class="dentist-address">📍 600 N North Ct #260, Palatine, IL 60067, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(156 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8479911171" class="dentist-btn dentist-btn-call" onclick="trackLead('Mint Dentistry','call','Palatine','IL')">📞 Call</a> <a href="https://www.mintpalatine.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mint Dentistry','website','Palatine','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8479911171" class="dentist-btn dentist-btn-call" onclick="trackLead('Mint Dentistry','call','Palatine','IL')">📞 Call</a> <a href="https://www.mintpalatine.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mint Dentistry','website','Palatine','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Mint Dentistry','Palatine','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Herman Salzberg, DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/palatine/herman-salzberg-dmd.html" style="color:inherit;text-decoration:none;">Herman Salzberg, DMD</a></h3>
         <p class="dentist-address">📍 512 N Plum Grove Rd, Palatine, IL 60067, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(109 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8473596766" class="dentist-btn dentist-btn-call" onclick="trackLead('Herman Salzberg, DMD','call','Palatine','IL')">📞 Call</a> <a href="https://www.palatinedental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Herman Salzberg, DMD','website','Palatine','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8473596766" class="dentist-btn dentist-btn-call" onclick="trackLead('Herman Salzberg, DMD','call','Palatine','IL')">📞 Call</a> <a href="https://www.palatinedental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Herman Salzberg, DMD','website','Palatine','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Herman Salzberg, DMD','Palatine','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Winston Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/palatine/winston-dental-care.html" style="color:inherit;text-decoration:none;">Winston Dental Care</a></h3>
         <p class="dentist-address">📍 855 E Palatine Rd #180, Palatine, IL 60074, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(14 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8473594616" class="dentist-btn dentist-btn-call" onclick="trackLead('Winston Dental Care','call','Palatine','IL')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:8473594616" class="dentist-btn dentist-btn-call" onclick="trackLead('Winston Dental Care','call','Palatine','IL')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Winston Dental Care','Palatine','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Advocate Dental of Palatine</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/palatine/advocate-dental-of-palatine.html" style="color:inherit;text-decoration:none;">Advocate Dental of Palatine</a></h3>
         <p class="dentist-address">📍 232 E Northwest Hwy, Palatine, IL 60067, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(439 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8474168689" class="dentist-btn dentist-btn-call" onclick="trackLead('Advocate Dental of Palatine','call','Palatine','IL')">📞 Call</a> <a href="https://www.advocatedentalpalatine.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Advocate Dental of Palatine','website','Palatine','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8474168689" class="dentist-btn dentist-btn-call" onclick="trackLead('Advocate Dental of Palatine','call','Palatine','IL')">📞 Call</a> <a href="https://www.advocatedentalpalatine.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Advocate Dental of Palatine','website','Palatine','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Advocate Dental of Palatine','Palatine','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Palatine Dental Associates</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/palatine/palatine-dental-associates.html" style="color:inherit;text-decoration:none;">Palatine Dental Associates</a></h3>
         <p class="dentist-address">📍 4 S Northwest Hwy, Palatine, IL 60074, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(423 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8479969517" class="dentist-btn dentist-btn-call" onclick="trackLead('Palatine Dental Associates','call','Palatine','IL')">📞 Call</a> <a href="https://www.palatinedentalassociates.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Palatine Dental Associates','website','Palatine','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8479969517" class="dentist-btn dentist-btn-call" onclick="trackLead('Palatine Dental Associates','call','Palatine','IL')">📞 Call</a> <a href="https://www.palatinedentalassociates.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Palatine Dental Associates','website','Palatine','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Palatine Dental Associates','Palatine','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Vital Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/palatine/vital-dental.html" style="color:inherit;text-decoration:none;">Vital Dental</a></h3>
         <p class="dentist-address">📍 1590 N Rand Rd Suite A, Palatine, IL 60074, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(415 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8475587875" class="dentist-btn dentist-btn-call" onclick="trackLead('Vital Dental','call','Palatine','IL')">📞 Call</a> <a href="https://www.vitaldentalil.com/?y_source=1_MjAxMTg1MzgyOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Vital Dental','website','Palatine','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8475587875" class="dentist-btn dentist-btn-call" onclick="trackLead('Vital Dental','call','Palatine','IL')">📞 Call</a> <a href="https://www.vitaldentalil.com/?y_source=1_MjAxMTg1MzgyOS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Vital Dental','website','Palatine','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Vital Dental','Palatine','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Mark J. Niekrasz, DDS &amp; Associates</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/palatine/mark-j-niekrasz-dds-associates.html" style="color:inherit;text-decoration:none;">Mark J. Niekrasz, DDS &amp; Associates</a></h3>
         <p class="dentist-address">📍 1635 N Baldwin Rd, Palatine, IL 60074, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(169 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8473598886" class="dentist-btn dentist-btn-call" onclick="trackLead('Mark J. Niekrasz, DDS &amp; Associates','call','Palatine','IL')">📞 Call</a> <a href="https://www.niekraszdentist.com/?y_source=1_MTE2MDQxNjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mark J. Niekrasz, DDS &amp; Associates','website','Palatine','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8473598886" class="dentist-btn dentist-btn-call" onclick="trackLead('Mark J. Niekrasz, DDS &amp; Associates','call','Palatine','IL')">📞 Call</a> <a href="https://www.niekraszdentist.com/?y_source=1_MTE2MDQxNjMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mark J. Niekrasz, DDS &amp; Associates','website','Palatine','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Mark J. Niekrasz, DDS &amp; Associates','Palatine','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Precision Dental Partners</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/palatine/precision-dental-partners.html" style="color:inherit;text-decoration:none;">Precision Dental Partners</a></h3>
         <p class="dentist-address">📍 632 N 1st Bank Dr Suite 100, Palatine, IL 60067, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(48 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8473589700" class="dentist-btn dentist-btn-call" onclick="trackLead('Precision Dental Partners','call','Palatine','IL')">📞 Call</a> <a href="https://www.pdpsmile.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Precision Dental Partners','website','Palatine','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8473589700" class="dentist-btn dentist-btn-call" onclick="trackLead('Precision Dental Partners','call','Palatine','IL')">📞 Call</a> <a href="https://www.pdpsmile.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Precision Dental Partners','website','Palatine','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Precision Dental Partners','Palatine','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Meadows Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/palatine/meadows-dental-care.html" style="color:inherit;text-decoration:none;">Meadows Dental Care</a></h3>
         <p class="dentist-address">📍 4949 Euclid Ave Ste A, Palatine, IL 60067, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(316 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8477802839" class="dentist-btn dentist-btn-call" onclick="trackLead('Meadows Dental Care','call','Palatine','IL')">📞 Call</a> <a href="https://www.meadowsdentalcare.com/?UTM_source=GMB_listing&amp;UTM_medium=organic" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Meadows Dental Care','website','Palatine','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8477802839" class="dentist-btn dentist-btn-call" onclick="trackLead('Meadows Dental Care','call','Palatine','IL')">📞 Call</a> <a href="https://www.meadowsdentalcare.com/?UTM_source=GMB_listing&amp;UTM_medium=organic" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Meadows Dental Care','website','Palatine','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Meadows Dental Care','Palatine','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Nawar Alnoman, D.D.S.</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/palatine/nawar-alnoman-d-d-s.html" style="color:inherit;text-decoration:none;">Nawar Alnoman, D.D.S.</a></h3>
         <p class="dentist-address">📍 2381 N Hicks Rd, Palatine, IL 60074, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(189 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8473066502" class="dentist-btn dentist-btn-call" onclick="trackLead('Nawar Alnoman, D.D.S.','call','Palatine','IL')">📞 Call</a> <a href="http://www.nawaralnomandds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Nawar Alnoman, D.D.S.','website','Palatine','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8473066502" class="dentist-btn dentist-btn-call" onclick="trackLead('Nawar Alnoman, D.D.S.','call','Palatine','IL')">📞 Call</a> <a href="http://www.nawaralnomandds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Nawar Alnoman, D.D.S.','website','Palatine','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Nawar Alnoman, D.D.S.','Palatine','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Bright Dental Palatine</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/palatine/bright-dental-palatine.html" style="color:inherit;text-decoration:none;">Bright Dental Palatine</a></h3>
         <p class="dentist-address">📍 1177 E Dundee Rd, Palatine, IL 60074, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(101 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8473589800" class="dentist-btn dentist-btn-call" onclick="trackLead('Bright Dental Palatine','call','Palatine','IL')">📞 Call</a> <a href="https://palatinebrightdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bright Dental Palatine','website','Palatine','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8473589800" class="dentist-btn dentist-btn-call" onclick="trackLead('Bright Dental Palatine','call','Palatine','IL')">📞 Call</a> <a href="https://palatinebrightdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bright Dental Palatine','website','Palatine','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Bright Dental Palatine','Palatine','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">All Smiles Family Dental - Dr Sandhya Pallam DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/palatine/all-smiles-family-dental-dr-sandhya-pallam-dds.html" style="color:inherit;text-decoration:none;">All Smiles Family Dental - Dr Sandhya Pallam DDS</a></h3>
         <p class="dentist-address">📍 537 E Dundee Rd, Palatine, IL 60074, USA</p>
         <div class="dentist-rating">★★★½ 3.9 <span class="review-count">(34 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8479070585" class="dentist-btn dentist-btn-call" onclick="trackLead('All Smiles Family Dental - Dr Sandhya Pallam DDS','call','Palatine','IL')">📞 Call</a> <a href="https://asfd-palatine.drpallamdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('All Smiles Family Dental - Dr Sandhya Pallam DDS','website','Palatine','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8479070585" class="dentist-btn dentist-btn-call" onclick="trackLead('All Smiles Family Dental - Dr Sandhya Pallam DDS','call','Palatine','IL')">📞 Call</a> <a href="https://asfd-palatine.drpallamdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('All Smiles Family Dental - Dr Sandhya Pallam DDS','website','Palatine','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('All Smiles Family Dental - Dr Sandhya Pallam DDS','Palatine','IL')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

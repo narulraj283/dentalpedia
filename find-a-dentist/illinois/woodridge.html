@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 6 dentists in Woodridge, Illinois. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Illinois","item":"https://dentalpedia.co/find-a-dentist/illinois.html"},
+                {"@type":"ListItem","position":4,"name":"Woodridge","item":"https://dentalpedia.co/find-a-dentist/illinois/woodridge.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Woodridge, IL","numberOfItems":6,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Smile Obsession - Woodridge","address":"8600 Woodward Ave Ste 100, Woodridge, IL 60517, USA","telephone":"(630) 923-8600"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"APG Dentistry","address":"7125 Janes Ave Suite 600, Woodridge, IL 60517, USA","telephone":"(630) 985-3393"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Chicago elite implant center","address":"1999 75th St Suite 101, Woodridge, IL 60517, USA","telephone":"(331) 326-4010"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Girgis &amp; Ito Orthodontics Woodridge","address":"7350 Janes Ave Suite 1, Woodridge, IL 60517, USA","telephone":"(331) 291-7376"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Smile Studio 87","address":"2019 87th St, Woodridge, IL 60517, USA","telephone":"(630) 427-2019"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Seven Bridges Dental Studio","address":"6325 Main St #140, Woodridge, IL 60517, USA","telephone":"(630) 796-0769"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/illinois.html">Illinois</a> &rsaquo; Woodridge</nav>
             <h1>Dentists in Woodridge, IL</h1>
@@ -85,40 +140,40 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Smile Obsession - Woodridge</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/woodridge/smile-obsession-woodridge.html" style="color:inherit;text-decoration:none;">Smile Obsession - Woodridge</a></h3>
         <p class="dentist-address">📍 8600 Woodward Ave Ste 100, Woodridge, IL 60517, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(629 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6309238600" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Obsession - Woodridge','call','Woodridge','IL')">📞 Call</a> <a href="https://smileobsession.com/dentist-near-me/woodridge/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Obsession - Woodridge','website','Woodridge','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6309238600" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Obsession - Woodridge','call','Woodridge','IL')">📞 Call</a> <a href="https://smileobsession.com/dentist-near-me/woodridge/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Obsession - Woodridge','website','Woodridge','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smile Obsession - Woodridge','Woodridge','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">APG Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/woodridge/apg-dentistry.html" style="color:inherit;text-decoration:none;">APG Dentistry</a></h3>
         <p class="dentist-address">📍 7125 Janes Ave Suite 600, Woodridge, IL 60517, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(134 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6309853393" class="dentist-btn dentist-btn-call" onclick="trackLead('APG Dentistry','call','Woodridge','IL')">📞 Call</a> <a href="https://www.apgdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('APG Dentistry','website','Woodridge','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6309853393" class="dentist-btn dentist-btn-call" onclick="trackLead('APG Dentistry','call','Woodridge','IL')">📞 Call</a> <a href="https://www.apgdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('APG Dentistry','website','Woodridge','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('APG Dentistry','Woodridge','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Chicago elite implant center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/woodridge/chicago-elite-implant-center.html" style="color:inherit;text-decoration:none;">Chicago elite implant center</a></h3>
         <p class="dentist-address">📍 1999 75th St Suite 101, Woodridge, IL 60517, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(2 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3313264010" class="dentist-btn dentist-btn-call" onclick="trackLead('Chicago elite implant center','call','Woodridge','IL')">📞 Call</a> <a href="https://chicagoeliteimplants.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Chicago elite implant center','website','Woodridge','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3313264010" class="dentist-btn dentist-btn-call" onclick="trackLead('Chicago elite implant center','call','Woodridge','IL')">📞 Call</a> <a href="https://chicagoeliteimplants.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Chicago elite implant center','website','Woodridge','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Chicago elite implant center','Woodridge','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Girgis &amp; Ito Orthodontics Woodridge</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/woodridge/girgis-ito-orthodontics-woodridge.html" style="color:inherit;text-decoration:none;">Girgis &amp; Ito Orthodontics Woodridge</a></h3>
         <p class="dentist-address">📍 7350 Janes Ave Suite 1, Woodridge, IL 60517, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(205 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3312917376" class="dentist-btn dentist-btn-call" onclick="trackLead('Girgis &amp; Ito Orthodontics Woodridge','call','Woodridge','IL')">📞 Call</a> <a href="https://www.girgisortho.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Girgis &amp; Ito Orthodontics Woodridge','website','Woodridge','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3312917376" class="dentist-btn dentist-btn-call" onclick="trackLead('Girgis &amp; Ito Orthodontics Woodridge','call','Woodridge','IL')">📞 Call</a> <a href="https://www.girgisortho.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Girgis &amp; Ito Orthodontics Woodridge','website','Woodridge','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Girgis &amp; Ito Orthodontics Woodridge','Woodridge','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smile Studio 87</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/woodridge/smile-studio-87.html" style="color:inherit;text-decoration:none;">Smile Studio 87</a></h3>
         <p class="dentist-address">📍 2019 87th St, Woodridge, IL 60517, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(646 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6304272019" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Studio 87','call','Woodridge','IL')">📞 Call</a> <a href="https://smilestudio87.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Studio 87','website','Woodridge','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6304272019" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Studio 87','call','Woodridge','IL')">📞 Call</a> <a href="https://smilestudio87.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Studio 87','website','Woodridge','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smile Studio 87','Woodridge','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Seven Bridges Dental Studio</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/woodridge/seven-bridges-dental-studio.html" style="color:inherit;text-decoration:none;">Seven Bridges Dental Studio</a></h3>
         <p class="dentist-address">📍 6325 Main St #140, Woodridge, IL 60517, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(254 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6307960769" class="dentist-btn dentist-btn-call" onclick="trackLead('Seven Bridges Dental Studio','call','Woodridge','IL')">📞 Call</a> <a href="http://www.sevenbridgesdentalstudio.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Seven Bridges Dental Studio','website','Woodridge','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6307960769" class="dentist-btn dentist-btn-call" onclick="trackLead('Seven Bridges Dental Studio','call','Woodridge','IL')">📞 Call</a> <a href="http://www.sevenbridgesdentalstudio.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Seven Bridges Dental Studio','website','Woodridge','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Seven Bridges Dental Studio','Woodridge','IL')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

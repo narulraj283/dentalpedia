@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 13 dentists in Cranford, New Jersey. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"New Jersey","item":"https://dentalpedia.co/find-a-dentist/new-jersey.html"},
+                {"@type":"ListItem","position":4,"name":"Cranford","item":"https://dentalpedia.co/find-a-dentist/new-jersey/cranford.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Cranford, NJ","numberOfItems":13,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"South Avenue Dental","address":"104 South Avenue East, Cranford, NJ 07016, USA","telephone":"(908) 721-5510"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Cranford Dental Arts","address":"108 N Union Ave Ste. 1, Cranford, NJ 07016, USA","telephone":"(908) 460-1778"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Executive Dental Studio","address":"24 N Ave W, Cranford, NJ 07016, USA","telephone":"(908) 276-2385"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Brian Silverman, DMD","address":"501 Springfield Ave, Cranford, NJ 07016, USA","telephone":"(908) 272-7090"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Nash Robert DDS","address":"19 Holly St UNIT 2, Cranford, NJ 07016, USA","telephone":"(908) 276-1218"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Pijanowski Thomas DDS","address":"120 Walnut Ave UNIT 1, Cranford, NJ 07016, USA","telephone":"(908) 272-8445"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Great Smiles Family and Cosmetic Dentistry","address":"15 Eastman St, Cranford, NJ 07016, USA","telephone":"(908) 276-2447"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"The Dental Family &amp; Junior","address":"1150 Raritan Rd STE 204, Cranford, NJ 07016, USA","telephone":"(908) 418-4215"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"BriteSmile Dental - Dr. Zhu &amp; Dr. Silvestri","address":"202 N Ave E, Cranford, NJ 07016, USA","telephone":"(908) 276-2724"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Cranford Endodontics","address":"300 N Ave E, Cranford, NJ 07016, USA","telephone":"(908) 276-7773"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Krause Dental Care","address":"118 N Ave W Suite 101, Cranford, NJ 07016, USA","telephone":"(908) 272-3001"}},{"@type":"ListItem","position":12,"item":{"@type":"Dentist","name":"Dent D&#x27; Elite LLC","address":"570 South Avenue East suite b, Cranford, NJ 07016, USA","telephone":"(908) 276-8600"}},{"@type":"ListItem","position":13,"item":{"@type":"Dentist","name":"Prime Oral &amp; Facial Surgery of Cranford","address":"34 Forest Ave, Cranford, NJ 07016, USA","telephone":"(908) 272-3950"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/new-jersey.html">New Jersey</a> &rsaquo; Cranford</nav>
             <h1>Dentists in Cranford, NJ</h1>
@@ -85,82 +140,82 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">South Avenue Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/cranford/south-avenue-dental.html" style="color:inherit;text-decoration:none;">South Avenue Dental</a></h3>
         <p class="dentist-address">📍 104 South Avenue East, Cranford, NJ 07016, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(532 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9087215510" class="dentist-btn dentist-btn-call" onclick="trackLead('South Avenue Dental','call','Cranford','NJ')">📞 Call</a> <a href="https://www.southavenuedental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('South Avenue Dental','website','Cranford','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9087215510" class="dentist-btn dentist-btn-call" onclick="trackLead('South Avenue Dental','call','Cranford','NJ')">📞 Call</a> <a href="https://www.southavenuedental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('South Avenue Dental','website','Cranford','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('South Avenue Dental','Cranford','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Cranford Dental Arts</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/cranford/cranford-dental-arts.html" style="color:inherit;text-decoration:none;">Cranford Dental Arts</a></h3>
         <p class="dentist-address">📍 108 N Union Ave Ste. 1, Cranford, NJ 07016, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(175 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9084601778" class="dentist-btn dentist-btn-call" onclick="trackLead('Cranford Dental Arts','call','Cranford','NJ')">📞 Call</a> <a href="https://www.njdentalartsgroup.com/cranford-dental-arts" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Cranford Dental Arts','website','Cranford','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9084601778" class="dentist-btn dentist-btn-call" onclick="trackLead('Cranford Dental Arts','call','Cranford','NJ')">📞 Call</a> <a href="https://www.njdentalartsgroup.com/cranford-dental-arts" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Cranford Dental Arts','website','Cranford','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Cranford Dental Arts','Cranford','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Executive Dental Studio</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/cranford/executive-dental-studio.html" style="color:inherit;text-decoration:none;">Executive Dental Studio</a></h3>
         <p class="dentist-address">📍 24 N Ave W, Cranford, NJ 07016, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(98 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9082762385" class="dentist-btn dentist-btn-call" onclick="trackLead('Executive Dental Studio','call','Cranford','NJ')">📞 Call</a> <a href="http://www.execdentalstudio.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Executive Dental Studio','website','Cranford','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9082762385" class="dentist-btn dentist-btn-call" onclick="trackLead('Executive Dental Studio','call','Cranford','NJ')">📞 Call</a> <a href="http://www.execdentalstudio.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Executive Dental Studio','website','Cranford','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Executive Dental Studio','Cranford','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Brian Silverman, DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/cranford/brian-silverman-dmd.html" style="color:inherit;text-decoration:none;">Brian Silverman, DMD</a></h3>
         <p class="dentist-address">📍 501 Springfield Ave, Cranford, NJ 07016, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(25 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9082727090" class="dentist-btn dentist-btn-call" onclick="trackLead('Brian Silverman, DMD','call','Cranford','NJ')">📞 Call</a> <a href="http://briansilvermandmd.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Brian Silverman, DMD','website','Cranford','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9082727090" class="dentist-btn dentist-btn-call" onclick="trackLead('Brian Silverman, DMD','call','Cranford','NJ')">📞 Call</a> <a href="http://briansilvermandmd.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Brian Silverman, DMD','website','Cranford','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Brian Silverman, DMD','Cranford','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Nash Robert DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/cranford/nash-robert-dds.html" style="color:inherit;text-decoration:none;">Nash Robert DDS</a></h3>
         <p class="dentist-address">📍 19 Holly St UNIT 2, Cranford, NJ 07016, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(10 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9082761218" class="dentist-btn dentist-btn-call" onclick="trackLead('Nash Robert DDS','call','Cranford','NJ')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:9082761218" class="dentist-btn dentist-btn-call" onclick="trackLead('Nash Robert DDS','call','Cranford','NJ')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Nash Robert DDS','Cranford','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Pijanowski Thomas DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/cranford/pijanowski-thomas-dds.html" style="color:inherit;text-decoration:none;">Pijanowski Thomas DDS</a></h3>
         <p class="dentist-address">📍 120 Walnut Ave UNIT 1, Cranford, NJ 07016, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(8 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9082728445" class="dentist-btn dentist-btn-call" onclick="trackLead('Pijanowski Thomas DDS','call','Cranford','NJ')">📞 Call</a> <a href="http://www.drpsmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Pijanowski Thomas DDS','website','Cranford','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9082728445" class="dentist-btn dentist-btn-call" onclick="trackLead('Pijanowski Thomas DDS','call','Cranford','NJ')">📞 Call</a> <a href="http://www.drpsmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Pijanowski Thomas DDS','website','Cranford','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Pijanowski Thomas DDS','Cranford','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Great Smiles Family and Cosmetic Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/cranford/great-smiles-family-and-cosmetic-dentistry.html" style="color:inherit;text-decoration:none;">Great Smiles Family and Cosmetic Dentistry</a></h3>
         <p class="dentist-address">📍 15 Eastman St, Cranford, NJ 07016, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(3 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9082762447" class="dentist-btn dentist-btn-call" onclick="trackLead('Great Smiles Family and Cosmetic Dentistry','call','Cranford','NJ')">📞 Call</a> <a href="http://www.greatsmilesdr.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Great Smiles Family and Cosmetic Dentistry','website','Cranford','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9082762447" class="dentist-btn dentist-btn-call" onclick="trackLead('Great Smiles Family and Cosmetic Dentistry','call','Cranford','NJ')">📞 Call</a> <a href="http://www.greatsmilesdr.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Great Smiles Family and Cosmetic Dentistry','website','Cranford','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Great Smiles Family and Cosmetic Dentistry','Cranford','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">The Dental Family &amp; Junior</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/cranford/the-dental-family-junior.html" style="color:inherit;text-decoration:none;">The Dental Family &amp; Junior</a></h3>
         <p class="dentist-address">📍 1150 Raritan Rd STE 204, Cranford, NJ 07016, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(391 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9084184215" class="dentist-btn dentist-btn-call" onclick="trackLead('The Dental Family &amp; Junior','call','Cranford','NJ')">📞 Call</a> <a href="https://www.thedentalfamily.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Dental Family &amp; Junior','website','Cranford','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9084184215" class="dentist-btn dentist-btn-call" onclick="trackLead('The Dental Family &amp; Junior','call','Cranford','NJ')">📞 Call</a> <a href="https://www.thedentalfamily.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Dental Family &amp; Junior','website','Cranford','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('The Dental Family &amp; Junior','Cranford','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">BriteSmile Dental - Dr. Zhu &amp; Dr. Silvestri</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/cranford/britesmile-dental-dr-zhu-dr-silvestri.html" style="color:inherit;text-decoration:none;">BriteSmile Dental - Dr. Zhu &amp; Dr. Silvestri</a></h3>
         <p class="dentist-address">📍 202 N Ave E, Cranford, NJ 07016, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(76 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9082762724" class="dentist-btn dentist-btn-call" onclick="trackLead('BriteSmile Dental - Dr. Zhu &amp; Dr. Silvestri','call','Cranford','NJ')">📞 Call</a> <a href="https://britesmile-dental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('BriteSmile Dental - Dr. Zhu &amp; Dr. Silvestri','website','Cranford','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9082762724" class="dentist-btn dentist-btn-call" onclick="trackLead('BriteSmile Dental - Dr. Zhu &amp; Dr. Silvestri','call','Cranford','NJ')">📞 Call</a> <a href="https://britesmile-dental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('BriteSmile Dental - Dr. Zhu &amp; Dr. Silvestri','website','Cranford','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('BriteSmile Dental - Dr. Zhu &amp; Dr. Silvestri','Cranford','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Cranford Endodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/cranford/cranford-endodontics.html" style="color:inherit;text-decoration:none;">Cranford Endodontics</a></h3>
         <p class="dentist-address">📍 300 N Ave E, Cranford, NJ 07016, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(52 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9082767773" class="dentist-btn dentist-btn-call" onclick="trackLead('Cranford Endodontics','call','Cranford','NJ')">📞 Call</a> <a href="http://www.cranfordendo.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Cranford Endodontics','website','Cranford','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9082767773" class="dentist-btn dentist-btn-call" onclick="trackLead('Cranford Endodontics','call','Cranford','NJ')">📞 Call</a> <a href="http://www.cranfordendo.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Cranford Endodontics','website','Cranford','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Cranford Endodontics','Cranford','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Krause Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/cranford/krause-dental-care.html" style="color:inherit;text-decoration:none;">Krause Dental Care</a></h3>
         <p class="dentist-address">📍 118 N Ave W Suite 101, Cranford, NJ 07016, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(35 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9082723001" class="dentist-btn dentist-btn-call" onclick="trackLead('Krause Dental Care','call','Cranford','NJ')">📞 Call</a> <a href="https://www.krausedentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Krause Dental Care','website','Cranford','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9082723001" class="dentist-btn dentist-btn-call" onclick="trackLead('Krause Dental Care','call','Cranford','NJ')">📞 Call</a> <a href="https://www.krausedentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Krause Dental Care','website','Cranford','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Krause Dental Care','Cranford','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dent D&#x27; Elite LLC</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/cranford/dent-d-elite-llc.html" style="color:inherit;text-decoration:none;">Dent D&#x27; Elite LLC</a></h3>
         <p class="dentist-address">📍 570 South Avenue East suite b, Cranford, NJ 07016, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(12 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9082768600" class="dentist-btn dentist-btn-call" onclick="trackLead('Dent D&#x27; Elite LLC','call','Cranford','NJ')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:9082768600" class="dentist-btn dentist-btn-call" onclick="trackLead('Dent D&#x27; Elite LLC','call','Cranford','NJ')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dent D&#x27; Elite LLC','Cranford','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Prime Oral &amp; Facial Surgery of Cranford</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/cranford/prime-oral-facial-surgery-of-cranford.html" style="color:inherit;text-decoration:none;">Prime Oral &amp; Facial Surgery of Cranford</a></h3>
         <p class="dentist-address">📍 34 Forest Ave, Cranford, NJ 07016, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(55 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9082723950" class="dentist-btn dentist-btn-call" onclick="trackLead('Prime Oral &amp; Facial Surgery of Cranford','call','Cranford','NJ')">📞 Call</a> <a href="https://primeoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Prime Oral &amp; Facial Surgery of Cranford','website','Cranford','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9082723950" class="dentist-btn dentist-btn-call" onclick="trackLead('Prime Oral &amp; Facial Surgery of Cranford','call','Cranford','NJ')">📞 Call</a> <a href="https://primeoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Prime Oral &amp; Facial Surgery of Cranford','website','Cranford','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Prime Oral &amp; Facial Surgery of Cranford','Cranford','NJ')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 8 dentists in Topeka, Kansas. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Kansas","item":"https://dentalpedia.co/find-a-dentist/kansas.html"},
+                {"@type":"ListItem","position":4,"name":"Topeka","item":"https://dentalpedia.co/find-a-dentist/kansas/topeka.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Topeka, KS","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"South Topeka Dental Care","address":"1401 SW 37th St A, Topeka, KS 66611, USA","telephone":"(785) 266-3533"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Capital City Dental","address":"2301 SW 6th Ave, Topeka, KS 66606, USA","telephone":"(785) 274-8288"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Exo Dental - Topeka","address":"2121 SW Wanamaker Rd Ste 101B, Topeka, KS 66614, USA","telephone":"(785) 289-4600"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Affordable Dentures &amp; Implants","address":"5801 SW 21st St, Topeka, KS 66604, USA","telephone":"(785) 480-5723"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Topeka Dental Clinic a part of Kansas Youth Dental","address":"2037 SE 29th St, Topeka, KS 66605, USA","telephone":"(785) 347-6525"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Rapid Dental Help","address":"410 SW Jackson St, Topeka, KS 66603, USA","telephone":"(785) 746-3048"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Topeka Emergency Dentist","address":"5332 SW 17th St, Topeka, KS 66604, USA","telephone":"(855) 321-3181"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Priority Emergency Dental Care","address":"1131 SW Winding Rd, Topeka, KS 66615, USA","telephone":"(866) 227-1682"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/kansas.html">Kansas</a> &rsaquo; Topeka</nav>
             <h1>Dentists in Topeka, KS</h1>
@@ -85,52 +140,52 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">South Topeka Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/kansas/topeka/south-topeka-dental-care.html" style="color:inherit;text-decoration:none;">South Topeka Dental Care</a></h3>
         <p class="dentist-address">📍 1401 SW 37th St A, Topeka, KS 66611, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(2 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7852663533" class="dentist-btn dentist-btn-call" onclick="trackLead('South Topeka Dental Care','call','Topeka','KS')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:7852663533" class="dentist-btn dentist-btn-call" onclick="trackLead('South Topeka Dental Care','call','Topeka','KS')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('South Topeka Dental Care','Topeka','KS')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Capital City Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/kansas/topeka/capital-city-dental.html" style="color:inherit;text-decoration:none;">Capital City Dental</a></h3>
         <p class="dentist-address">📍 2301 SW 6th Ave, Topeka, KS 66606, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(233 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7852748288" class="dentist-btn dentist-btn-call" onclick="trackLead('Capital City Dental','call','Topeka','KS')">📞 Call</a> <a href="https://www.facebook.com/Capital-City-Dental-Topeka-105518698501199" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Capital City Dental','website','Topeka','KS')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7852748288" class="dentist-btn dentist-btn-call" onclick="trackLead('Capital City Dental','call','Topeka','KS')">📞 Call</a> <a href="https://www.facebook.com/Capital-City-Dental-Topeka-105518698501199" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Capital City Dental','website','Topeka','KS')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Capital City Dental','Topeka','KS')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Exo Dental - Topeka</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/kansas/topeka/exo-dental-topeka.html" style="color:inherit;text-decoration:none;">Exo Dental - Topeka</a></h3>
         <p class="dentist-address">📍 2121 SW Wanamaker Rd Ste 101B, Topeka, KS 66614, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(93 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7852894600" class="dentist-btn dentist-btn-call" onclick="trackLead('Exo Dental - Topeka','call','Topeka','KS')">📞 Call</a> <a href="https://www.exodental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Exo Dental - Topeka','website','Topeka','KS')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7852894600" class="dentist-btn dentist-btn-call" onclick="trackLead('Exo Dental - Topeka','call','Topeka','KS')">📞 Call</a> <a href="https://www.exodental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Exo Dental - Topeka','website','Topeka','KS')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Exo Dental - Topeka','Topeka','KS')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Affordable Dentures &amp; Implants</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/kansas/topeka/affordable-dentures-implants.html" style="color:inherit;text-decoration:none;">Affordable Dentures &amp; Implants</a></h3>
         <p class="dentist-address">📍 5801 SW 21st St, Topeka, KS 66604, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(878 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7854805723" class="dentist-btn dentist-btn-call" onclick="trackLead('Affordable Dentures &amp; Implants','call','Topeka','KS')">📞 Call</a> <a href="https://www.affordabledentures.com/locations/ks/topeka" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Affordable Dentures &amp; Implants','website','Topeka','KS')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7854805723" class="dentist-btn dentist-btn-call" onclick="trackLead('Affordable Dentures &amp; Implants','call','Topeka','KS')">📞 Call</a> <a href="https://www.affordabledentures.com/locations/ks/topeka" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Affordable Dentures &amp; Implants','website','Topeka','KS')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Affordable Dentures &amp; Implants','Topeka','KS')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Topeka Dental Clinic a part of Kansas Youth Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/kansas/topeka/topeka-dental-clinic-a-part-of-kansas-youth-dental.html" style="color:inherit;text-decoration:none;">Topeka Dental Clinic a part of Kansas Youth Dental</a></h3>
         <p class="dentist-address">📍 2037 SE 29th St, Topeka, KS 66605, USA</p>
         <div class="dentist-rating">★★★★ 4.0 <span class="review-count">(152 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7853476525" class="dentist-btn dentist-btn-call" onclick="trackLead('Topeka Dental Clinic a part of Kansas Youth Dental','call','Topeka','KS')">📞 Call</a> <a href="https://kansasyouthdental.com/locations/topeka-ks" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Topeka Dental Clinic a part of Kansas Youth Dental','website','Topeka','KS')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7853476525" class="dentist-btn dentist-btn-call" onclick="trackLead('Topeka Dental Clinic a part of Kansas Youth Dental','call','Topeka','KS')">📞 Call</a> <a href="https://kansasyouthdental.com/locations/topeka-ks" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Topeka Dental Clinic a part of Kansas Youth Dental','website','Topeka','KS')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Topeka Dental Clinic a part of Kansas Youth Dental','Topeka','KS')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Rapid Dental Help</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/kansas/topeka/rapid-dental-help.html" style="color:inherit;text-decoration:none;">Rapid Dental Help</a></h3>
         <p class="dentist-address">📍 410 SW Jackson St, Topeka, KS 66603, USA</p>
         <div class="dentist-rating">★★★★ 4.0 <span class="review-count">(4 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7857463048" class="dentist-btn dentist-btn-call" onclick="trackLead('Rapid Dental Help','call','Topeka','KS')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:7857463048" class="dentist-btn dentist-btn-call" onclick="trackLead('Rapid Dental Help','call','Topeka','KS')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Rapid Dental Help','Topeka','KS')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Topeka Emergency Dentist</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/kansas/topeka/topeka-emergency-dentist.html" style="color:inherit;text-decoration:none;">Topeka Emergency Dentist</a></h3>
         <p class="dentist-address">📍 5332 SW 17th St, Topeka, KS 66604, USA</p>
         <div class="dentist-rating">★★★½ 3.8 <span class="review-count">(8 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8553213181" class="dentist-btn dentist-btn-call" onclick="trackLead('Topeka Emergency Dentist','call','Topeka','KS')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:8553213181" class="dentist-btn dentist-btn-call" onclick="trackLead('Topeka Emergency Dentist','call','Topeka','KS')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Topeka Emergency Dentist','Topeka','KS')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Priority Emergency Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/kansas/topeka/priority-emergency-dental-care.html" style="color:inherit;text-decoration:none;">Priority Emergency Dental Care</a></h3>
         <p class="dentist-address">📍 1131 SW Winding Rd, Topeka, KS 66615, USA</p>
         <div class="dentist-rating"> <span class="review-count"></span></div>
-        <div class="dentist-actions"><a href="tel:8662271682" class="dentist-btn dentist-btn-call" onclick="trackLead('Priority Emergency Dental Care','call','Topeka','KS')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:8662271682" class="dentist-btn dentist-btn-call" onclick="trackLead('Priority Emergency Dental Care','call','Topeka','KS')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Priority Emergency Dental Care','Topeka','KS')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

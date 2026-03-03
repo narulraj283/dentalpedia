@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 8 dentists in Easley, South Carolina. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"South Carolina","item":"https://dentalpedia.co/find-a-dentist/south-carolina.html"},
+                {"@type":"ListItem","position":4,"name":"Easley","item":"https://dentalpedia.co/find-a-dentist/south-carolina/easley.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Easley, SC","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Cove Dental Care Easley","address":"105 Sheringham Dr, Easley, SC 29642, USA","telephone":"(864) 263-2600"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"ProGrin Dental of Powdersville","address":"10705 Anderson Rd, Easley, SC 29642, USA","telephone":"(864) 791-5617"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Indigo Pediatric Dentistry","address":"1026 Powdersville Rd, Easley, SC 29642, USA","telephone":"(864) 442-6770"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Hi-Tech Family Dentistry - Gordon D Dannelly DMD PA","address":"701 Brushy Creek Rd, Easley, SC 29642, USA","telephone":"(864) 721-9409"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Dental Care on East Main","address":"1617 E Main St, Easley, SC 29640, USA","telephone":"(864) 385-1463"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Complete Dental Care of Easley","address":"5075 Calhoun Memorial Hwy, Easley, SC 29640, USA","telephone":"(864) 727-7782"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Aspen Dental - Easley, SC","address":"128 Rolling Hills Cir Ste E, Easley, SC 29640, USA","telephone":"(864) 442-4100"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Lightway Family Dentistry","address":"104 Franklin Square Way, Easley, SC 29642, USA","telephone":"(864) 306-4488"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/south-carolina.html">South Carolina</a> &rsaquo; Easley</nav>
             <h1>Dentists in Easley, SC</h1>
@@ -85,52 +140,52 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Cove Dental Care Easley</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/south-carolina/easley/cove-dental-care-easley.html" style="color:inherit;text-decoration:none;">Cove Dental Care Easley</a></h3>
         <p class="dentist-address">📍 105 Sheringham Dr, Easley, SC 29642, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(483 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8642632600" class="dentist-btn dentist-btn-call" onclick="trackLead('Cove Dental Care Easley','call','Easley','SC')">📞 Call</a> <a href="https://www.greenvillescdentist.com/easley-sc/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Cove Dental Care Easley','website','Easley','SC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8642632600" class="dentist-btn dentist-btn-call" onclick="trackLead('Cove Dental Care Easley','call','Easley','SC')">📞 Call</a> <a href="https://www.greenvillescdentist.com/easley-sc/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Cove Dental Care Easley','website','Easley','SC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Cove Dental Care Easley','Easley','SC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">ProGrin Dental of Powdersville</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/south-carolina/easley/progrin-dental-of-powdersville.html" style="color:inherit;text-decoration:none;">ProGrin Dental of Powdersville</a></h3>
         <p class="dentist-address">📍 10705 Anderson Rd, Easley, SC 29642, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(585 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8647915617" class="dentist-btn dentist-btn-call" onclick="trackLead('ProGrin Dental of Powdersville','call','Easley','SC')">📞 Call</a> <a href="https://progrin.com/locations/powdersville/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('ProGrin Dental of Powdersville','website','Easley','SC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8647915617" class="dentist-btn dentist-btn-call" onclick="trackLead('ProGrin Dental of Powdersville','call','Easley','SC')">📞 Call</a> <a href="https://progrin.com/locations/powdersville/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('ProGrin Dental of Powdersville','website','Easley','SC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('ProGrin Dental of Powdersville','Easley','SC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Indigo Pediatric Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/south-carolina/easley/indigo-pediatric-dentistry.html" style="color:inherit;text-decoration:none;">Indigo Pediatric Dentistry</a></h3>
         <p class="dentist-address">📍 1026 Powdersville Rd, Easley, SC 29642, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(506 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8644426770" class="dentist-btn dentist-btn-call" onclick="trackLead('Indigo Pediatric Dentistry','call','Easley','SC')">📞 Call</a> <a href="http://www.smilewithindigo.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Indigo Pediatric Dentistry','website','Easley','SC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8644426770" class="dentist-btn dentist-btn-call" onclick="trackLead('Indigo Pediatric Dentistry','call','Easley','SC')">📞 Call</a> <a href="http://www.smilewithindigo.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Indigo Pediatric Dentistry','website','Easley','SC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Indigo Pediatric Dentistry','Easley','SC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Hi-Tech Family Dentistry - Gordon D Dannelly DMD PA</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/south-carolina/easley/hi-tech-family-dentistry-gordon-d-dannelly-dmd-pa.html" style="color:inherit;text-decoration:none;">Hi-Tech Family Dentistry - Gordon D Dannelly DMD PA</a></h3>
         <p class="dentist-address">📍 701 Brushy Creek Rd, Easley, SC 29642, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(182 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8647219409" class="dentist-btn dentist-btn-call" onclick="trackLead('Hi-Tech Family Dentistry - Gordon D Dannelly DMD PA','call','Easley','SC')">📞 Call</a> <a href="https://www.hi-techdentistry.net/dr-gordon-dannelly/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hi-Tech Family Dentistry - Gordon D Dannelly DMD PA','website','Easley','SC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8647219409" class="dentist-btn dentist-btn-call" onclick="trackLead('Hi-Tech Family Dentistry - Gordon D Dannelly DMD PA','call','Easley','SC')">📞 Call</a> <a href="https://www.hi-techdentistry.net/dr-gordon-dannelly/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hi-Tech Family Dentistry - Gordon D Dannelly DMD PA','website','Easley','SC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Hi-Tech Family Dentistry - Gordon D Dannelly DMD PA','Easley','SC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Care on East Main</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/south-carolina/easley/dental-care-on-east-main.html" style="color:inherit;text-decoration:none;">Dental Care on East Main</a></h3>
         <p class="dentist-address">📍 1617 E Main St, Easley, SC 29640, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(432 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8643851463" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Care on East Main','call','Easley','SC')">📞 Call</a> <a href="http://dentalcareoneastmain.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Care on East Main','website','Easley','SC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8643851463" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Care on East Main','call','Easley','SC')">📞 Call</a> <a href="http://dentalcareoneastmain.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Care on East Main','website','Easley','SC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Care on East Main','Easley','SC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Complete Dental Care of Easley</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/south-carolina/easley/complete-dental-care-of-easley.html" style="color:inherit;text-decoration:none;">Complete Dental Care of Easley</a></h3>
         <p class="dentist-address">📍 5075 Calhoun Memorial Hwy, Easley, SC 29640, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(721 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8647277782" class="dentist-btn dentist-btn-call" onclick="trackLead('Complete Dental Care of Easley','call','Easley','SC')">📞 Call</a> <a href="http://easleydentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Complete Dental Care of Easley','website','Easley','SC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8647277782" class="dentist-btn dentist-btn-call" onclick="trackLead('Complete Dental Care of Easley','call','Easley','SC')">📞 Call</a> <a href="http://easleydentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Complete Dental Care of Easley','website','Easley','SC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Complete Dental Care of Easley','Easley','SC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Aspen Dental - Easley, SC</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/south-carolina/easley/aspen-dental-easley-sc.html" style="color:inherit;text-decoration:none;">Aspen Dental - Easley, SC</a></h3>
         <p class="dentist-address">📍 128 Rolling Hills Cir Ste E, Easley, SC 29640, USA</p>
         <div class="dentist-rating">★★★★ 4.2 <span class="review-count">(975 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8644424100" class="dentist-btn dentist-btn-call" onclick="trackLead('Aspen Dental - Easley, SC','call','Easley','SC')">📞 Call</a> <a href="https://www.aspendental.com/dentist/sc/easley/128-rolling-hills-circleste-e" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Aspen Dental - Easley, SC','website','Easley','SC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8644424100" class="dentist-btn dentist-btn-call" onclick="trackLead('Aspen Dental - Easley, SC','call','Easley','SC')">📞 Call</a> <a href="https://www.aspendental.com/dentist/sc/easley/128-rolling-hills-circleste-e" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Aspen Dental - Easley, SC','website','Easley','SC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Aspen Dental - Easley, SC','Easley','SC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Lightway Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/south-carolina/easley/lightway-family-dentistry.html" style="color:inherit;text-decoration:none;">Lightway Family Dentistry</a></h3>
         <p class="dentist-address">📍 104 Franklin Square Way, Easley, SC 29642, USA</p>
         <div class="dentist-rating">★★★½ 3.8 <span class="review-count">(5 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8643064488" class="dentist-btn dentist-btn-call" onclick="trackLead('Lightway Family Dentistry','call','Easley','SC')">📞 Call</a> <a href="https://lightwayfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lightway Family Dentistry','website','Easley','SC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8643064488" class="dentist-btn dentist-btn-call" onclick="trackLead('Lightway Family Dentistry','call','Easley','SC')">📞 Call</a> <a href="https://lightwayfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lightway Family Dentistry','website','Easley','SC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Lightway Family Dentistry','Easley','SC')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

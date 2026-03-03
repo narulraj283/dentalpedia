@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 8 dentists in Verona, New Jersey. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"New Jersey","item":"https://dentalpedia.co/find-a-dentist/new-jersey.html"},
+                {"@type":"ListItem","position":4,"name":"Verona","item":"https://dentalpedia.co/find-a-dentist/new-jersey/verona.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Verona, NJ","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Advanced Smiles Dental Care","address":"685 Bloomfield Ave #102, Verona, NJ 07044, USA","telephone":"(973) 857-7799"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Kidz Smile Pediatric Dentistry &amp; Family Orthodontics","address":"36 Park Ave, Verona, NJ 07044, USA","telephone":"(973) 636-4424"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Family Dentistry Inc. Dr. Lina Iskandarani","address":"184 Pompton Ave, Verona, NJ 07044, USA","telephone":"(973) 779-3771"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Verona Smiles","address":"245 Pompton Ave, Verona, NJ 07044, USA","telephone":"(973) 857-1326"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Dental Implant Specialists of New Jersey","address":"25 Pompton Ave # 101A, Verona, NJ 07044, USA","telephone":"(973) 577-5905"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Jacob Shrayman, DDS","address":"118 Pompton Ave, Verona, NJ 07044, USA","telephone":"(973) 791-4104"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"White and Bright Dental Care Verona NJ","address":"7 S Prospect St, Verona, NJ 07044, USA","telephone":"(973) 433-7166"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Emergency Dentist 24/7 Verona","address":"685 Bloomfield Ave, Verona, NJ 07044, USA","telephone":"(888) 350-1340"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/new-jersey.html">New Jersey</a> &rsaquo; Verona</nav>
             <h1>Dentists in Verona, NJ</h1>
@@ -85,52 +140,52 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Advanced Smiles Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/verona/advanced-smiles-dental-care.html" style="color:inherit;text-decoration:none;">Advanced Smiles Dental Care</a></h3>
         <p class="dentist-address">📍 685 Bloomfield Ave #102, Verona, NJ 07044, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(55 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9738577799" class="dentist-btn dentist-btn-call" onclick="trackLead('Advanced Smiles Dental Care','call','Verona','NJ')">📞 Call</a> <a href="http://advancedsmilesonline.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Advanced Smiles Dental Care','website','Verona','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9738577799" class="dentist-btn dentist-btn-call" onclick="trackLead('Advanced Smiles Dental Care','call','Verona','NJ')">📞 Call</a> <a href="http://advancedsmilesonline.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Advanced Smiles Dental Care','website','Verona','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Advanced Smiles Dental Care','Verona','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Kidz Smile Pediatric Dentistry &amp; Family Orthodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/verona/kidz-smile-pediatric-dentistry-family-orthodontics.html" style="color:inherit;text-decoration:none;">Kidz Smile Pediatric Dentistry &amp; Family Orthodontics</a></h3>
         <p class="dentist-address">📍 36 Park Ave, Verona, NJ 07044, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(30 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9736364424" class="dentist-btn dentist-btn-call" onclick="trackLead('Kidz Smile Pediatric Dentistry &amp; Family Orthodontics','call','Verona','NJ')">📞 Call</a> <a href="https://kidzsmilepd.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Kidz Smile Pediatric Dentistry &amp; Family Orthodontics','website','Verona','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9736364424" class="dentist-btn dentist-btn-call" onclick="trackLead('Kidz Smile Pediatric Dentistry &amp; Family Orthodontics','call','Verona','NJ')">📞 Call</a> <a href="https://kidzsmilepd.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Kidz Smile Pediatric Dentistry &amp; Family Orthodontics','website','Verona','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Kidz Smile Pediatric Dentistry &amp; Family Orthodontics','Verona','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Family Dentistry Inc. Dr. Lina Iskandarani</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/verona/family-dentistry-inc-dr-lina-iskandarani.html" style="color:inherit;text-decoration:none;">Family Dentistry Inc. Dr. Lina Iskandarani</a></h3>
         <p class="dentist-address">📍 184 Pompton Ave, Verona, NJ 07044, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(3 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9737793771" class="dentist-btn dentist-btn-call" onclick="trackLead('Family Dentistry Inc. Dr. Lina Iskandarani','call','Verona','NJ')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:9737793771" class="dentist-btn dentist-btn-call" onclick="trackLead('Family Dentistry Inc. Dr. Lina Iskandarani','call','Verona','NJ')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Family Dentistry Inc. Dr. Lina Iskandarani','Verona','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Verona Smiles</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/verona/verona-smiles.html" style="color:inherit;text-decoration:none;">Verona Smiles</a></h3>
         <p class="dentist-address">📍 245 Pompton Ave, Verona, NJ 07044, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(71 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9738571326" class="dentist-btn dentist-btn-call" onclick="trackLead('Verona Smiles','call','Verona','NJ')">📞 Call</a> <a href="http://veronasmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Verona Smiles','website','Verona','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9738571326" class="dentist-btn dentist-btn-call" onclick="trackLead('Verona Smiles','call','Verona','NJ')">📞 Call</a> <a href="http://veronasmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Verona Smiles','website','Verona','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Verona Smiles','Verona','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Implant Specialists of New Jersey</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/verona/dental-implant-specialists-of-new-jersey.html" style="color:inherit;text-decoration:none;">Dental Implant Specialists of New Jersey</a></h3>
         <p class="dentist-address">📍 25 Pompton Ave # 101A, Verona, NJ 07044, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(22 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9735775905" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Implant Specialists of New Jersey','call','Verona','NJ')">📞 Call</a> <a href="https://www.dentalspecialistsofnj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Implant Specialists of New Jersey','website','Verona','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9735775905" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Implant Specialists of New Jersey','call','Verona','NJ')">📞 Call</a> <a href="https://www.dentalspecialistsofnj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Implant Specialists of New Jersey','website','Verona','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Implant Specialists of New Jersey','Verona','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Jacob Shrayman, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/verona/jacob-shrayman-dds.html" style="color:inherit;text-decoration:none;">Jacob Shrayman, DDS</a></h3>
         <p class="dentist-address">📍 118 Pompton Ave, Verona, NJ 07044, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(21 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9737914104" class="dentist-btn dentist-btn-call" onclick="trackLead('Jacob Shrayman, DDS','call','Verona','NJ')">📞 Call</a> <a href="https://www.jacobshraymandds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Jacob Shrayman, DDS','website','Verona','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9737914104" class="dentist-btn dentist-btn-call" onclick="trackLead('Jacob Shrayman, DDS','call','Verona','NJ')">📞 Call</a> <a href="https://www.jacobshraymandds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Jacob Shrayman, DDS','website','Verona','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Jacob Shrayman, DDS','Verona','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">White and Bright Dental Care Verona NJ</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/verona/white-and-bright-dental-care-verona-nj.html" style="color:inherit;text-decoration:none;">White and Bright Dental Care Verona NJ</a></h3>
         <p class="dentist-address">📍 7 S Prospect St, Verona, NJ 07044, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(52 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9734337166" class="dentist-btn dentist-btn-call" onclick="trackLead('White and Bright Dental Care Verona NJ','call','Verona','NJ')">📞 Call</a> <a href="https://drsolimannj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('White and Bright Dental Care Verona NJ','website','Verona','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9734337166" class="dentist-btn dentist-btn-call" onclick="trackLead('White and Bright Dental Care Verona NJ','call','Verona','NJ')">📞 Call</a> <a href="https://drsolimannj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('White and Bright Dental Care Verona NJ','website','Verona','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('White and Bright Dental Care Verona NJ','Verona','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Emergency Dentist 24/7 Verona</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/verona/emergency-dentist-24-7-verona.html" style="color:inherit;text-decoration:none;">Emergency Dentist 24/7 Verona</a></h3>
         <p class="dentist-address">📍 685 Bloomfield Ave, Verona, NJ 07044, USA</p>
         <div class="dentist-rating"> <span class="review-count"></span></div>
-        <div class="dentist-actions"><a href="tel:8883501340" class="dentist-btn dentist-btn-call" onclick="trackLead('Emergency Dentist 24/7 Verona','call','Verona','NJ')">📞 Call</a> <a href="https://www.emergencydentalservice.com/emergencydentist/verona-nj-diamond-earth-dental" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Emergency Dentist 24/7 Verona','website','Verona','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8883501340" class="dentist-btn dentist-btn-call" onclick="trackLead('Emergency Dentist 24/7 Verona','call','Verona','NJ')">📞 Call</a> <a href="https://www.emergencydentalservice.com/emergencydentist/verona-nj-diamond-earth-dental" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Emergency Dentist 24/7 Verona','website','Verona','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Emergency Dentist 24/7 Verona','Verona','NJ')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

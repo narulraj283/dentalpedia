@@ -2636,7 +2636,12 @@ def slugify(text):
     return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
 
 
-def generate_dentist_card(practice, is_premium=False):
+def practice_slug(practice):
+    """Generate a URL slug for a practice."""
+    return slugify(practice['name'])[:60]
+
+
+def generate_dentist_card(practice, is_premium=False, show_appt=True):
     """Generate HTML card for a single dental practice."""
     stars = ''
     if practice['rating'] > 0:
@@ -2646,23 +2651,37 @@ def generate_dentist_card(practice, is_premium=False):
     premium_badge = '<span class="premium-badge">⭐ Featured Practice</span>' if is_premium else ''
     premium_class = ' dentist-card-premium' if is_premium else ''
 
+    safe_name = html_mod.escape(practice['name']).replace("'", "\\'")
+    safe_city = html_mod.escape(practice['city']).replace("'", "\\'")
+
     phone_btn = ''
     if practice['phone']:
         phone_clean = re.sub(r'[^0-9+]', '', practice['phone'])
-        phone_btn = f'<a href="tel:{phone_clean}" class="dentist-btn dentist-btn-call" onclick="trackLead(\'{html_mod.escape(practice["name"])}\',\'call\',\'{html_mod.escape(practice["city"])}\',\'{practice["state"]}\')">📞 Call</a>'
+        phone_btn = f'<a href="tel:{phone_clean}" class="dentist-btn dentist-btn-call" onclick="trackLead(\'{safe_name}\',\'call\',\'{safe_city}\',\'{practice["state"]}\')">📞 Call</a>'
 
     website_btn = ''
     if practice['website']:
-        website_btn = f'<a href="{html_mod.escape(practice["website"])}" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead(\'{html_mod.escape(practice["name"])}\',\'website\',\'{html_mod.escape(practice["city"])}\',\'{practice["state"]}\')">🌐 Website</a>'
+        website_btn = f'<a href="{html_mod.escape(practice["website"])}" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead(\'{safe_name}\',\'website\',\'{safe_city}\',\'{practice["state"]}\')">🌐 Website</a>'
 
     reviews_text = f'({practice["reviews"]:,} reviews)' if practice['reviews'] > 0 else ''
 
+    # Profile link
+    state_slug = slugify(STATE_NAMES.get(practice['state'], practice['state']))
+    city_slug_val = slugify(practice['city'])
+    p_slug = practice_slug(practice)
+    profile_link = f'/find-a-dentist/{state_slug}/{city_slug_val}/{p_slug}.html'
+
+    # Appointment button
+    appt_btn = ''
+    if show_appt:
+        appt_btn = f'<button class="dentist-btn dentist-btn-appt" onclick="openApptForm(\'{safe_name}\',\'{safe_city}\',\'{practice["state"]}\')">📅 Request Appointment</button>'
+
     return f'''<div class="dentist-card{premium_class}">
         {premium_badge}
-        <h3 class="dentist-name">{html_mod.escape(practice['name'])}</h3>
+        <h3 class="dentist-name"><a href="{profile_link}" style="color:inherit;text-decoration:none;">{html_mod.escape(practice['name'])}</a></h3>
         <p class="dentist-address">📍 {html_mod.escape(practice['address'])}</p>
         <div class="dentist-rating">{stars} <span class="review-count">{reviews_text}</span></div>
-        <div class="dentist-actions">{phone_btn} {website_btn}</div>
+        <div class="dentist-actions">{phone_btn} {website_btn} {appt_btn}</div>
     </div>'''
 
 
@@ -2692,18 +2711,75 @@ def generate_find_dentist_pages():
             return (-is_prem, -p.get('rating', 0), -p.get('reviews', 0))
         return sorted(practices, key=sort_key)
 
-    # Lead tracking JS (included on all directory pages)
-    lead_tracking_js = '''
+    # Build ZIP code lookup
+    zip_lookup = {}
+    for p in dentists_data:
+        z = p.get('zip', '')
+        if z and len(z) == 5 and z not in zip_lookup:
+            zip_lookup[z] = [p['city'], p['state']]
+
+    APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec'
+
+    # Lead tracking + appointment form JS (included on all directory pages)
+    lead_tracking_js = f'''
     <script>
-    function trackLead(name, action, city, state) {
-        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+    function trackLead(name, action, city, state) {{
+        fetch('{APPS_SCRIPT_URL}', {{
             method: 'POST', mode: 'no-cors',
-            headers: {'Content-Type': 'application/json'},
-            body: JSON.stringify({type:'lead', practice: name, action: action, city: city, state: state, page: window.location.pathname})
-        });
-        if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
-    }
+            headers: {{'Content-Type': 'application/json'}},
+            body: JSON.stringify({{type:'lead', practice: name, action: action, city: city, state: state, page: window.location.pathname}})
+        }});
+        if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {{event_category: 'directory', event_label: name, action_type: action}});
+    }}
+    function openApptForm(name, city, state) {{
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }}
+    function closeApptForm() {{ document.getElementById('appt-modal').style.display = 'none'; }}
+    function submitAppt() {{
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) {{ alert('Please enter your name and phone number.'); return; }}
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('{APPS_SCRIPT_URL}', {{
+            method: 'POST', mode: 'no-cors',
+            headers: {{'Content-Type': 'application/json'}},
+            body: JSON.stringify({{type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname}})
+        }}).then(function() {{
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }}).catch(function() {{
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        }});
+    }}
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     '''
 
     # ==========================================
@@ -2714,6 +2790,13 @@ def generate_find_dentist_pages():
         name = STATE_NAMES.get(st, st)
         count = len(by_state[st])
         state_links += f'<a href="/find-a-dentist/{slugify(name)}.html" class="state-link"><strong>{name}</strong><span>{count:,} dentists</span></a>'
+
+    # Build compact ZIP lookup JS object — only include ZIP -> [stateSlug, citySlug]
+    zip_js_map = {}
+    for z, (city, st) in zip_lookup.items():
+        s_slug = slugify(STATE_NAMES.get(st, st))
+        c_slug = slugify(city)
+        zip_js_map[z] = [s_slug, c_slug]
 
     search_content = f'''
     {lead_tracking_js}
@@ -2732,9 +2815,15 @@ def generate_find_dentist_pages():
     <script>
     var stateMap = {json.dumps({slugify(STATE_NAMES.get(st,st)): st for st in by_state.keys()})};
     var cityMap = {json.dumps({f"{c[1].lower()}, {STATE_NAMES.get(c[0],c[0]).lower()}": f"/find-a-dentist/{slugify(STATE_NAMES.get(c[0],c[0]))}/{slugify(c[1])}.html" for c in by_city.keys()})};
+    var zipMap = {json.dumps(zip_js_map)};
     function searchDentists() {{
         var q = document.getElementById('dentist-search').value.trim().toLowerCase();
         if (!q) return;
+        // Try ZIP code first
+        if (/^\\d{{5}}$/.test(q) && zipMap[q]) {{
+            window.location.href = '/find-a-dentist/' + zipMap[q][0] + '/' + zipMap[q][1] + '.html';
+            return;
+        }}
         // Try city match
         for (var key in cityMap) {{
             if (key.indexOf(q) !== -1) {{ window.location.href = cityMap[key]; return; }}
@@ -2744,12 +2833,7 @@ def generate_find_dentist_pages():
             var name = slug.replace(/-/g, ' ');
             if (name.indexOf(q) !== -1) {{ window.location.href = '/find-a-dentist/' + slug + '.html'; return; }}
         }}
-        // Try ZIP - go to first matching state
-        if (/^\\d{{5}}$/.test(q)) {{
-            alert('ZIP code search coming soon. Please try a city or state name.');
-            return;
-        }}
-        alert('No results found. Try a different city or state name.');
+        alert('No results found for "' + q + '". Try a different city, state, or ZIP code.');
     }}
     document.getElementById('dentist-search').addEventListener('keypress', function(e) {{
         if (e.key === 'Enter') searchDentists();
@@ -2789,6 +2873,14 @@ def generate_find_dentist_pages():
         top_practices = sort_practices(practices)[:12]
         top_cards = ''.join(generate_dentist_card(p, p['name'] in ekwa_clients) for p in top_practices)
 
+        # Breadcrumb schema for state page
+        state_bc_schema = f'''<script type="application/ld+json">
+        {{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+            {{"@type":"ListItem","position":1,"name":"Home","item":"{DOMAIN}/"}},
+            {{"@type":"ListItem","position":2,"name":"Find a Dentist","item":"{DOMAIN}/find-a-dentist/"}},
+            {{"@type":"ListItem","position":3,"name":"{html_mod.escape(state_name)}","item":"{DOMAIN}/find-a-dentist/{state_slug}.html"}}
+        ]}}</script>'''
+
         state_content = f'''
         {lead_tracking_js}
         <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; {html_mod.escape(state_name)}</nav>
@@ -2807,7 +2899,8 @@ def generate_find_dentist_pages():
             f"Find a Dentist in {state_name} | DentalPedia",
             state_content,
             f"{DOMAIN}/find-a-dentist/{state_slug}.html",
-            f"Find top-rated dentists in {state_name}. Browse {len(practices):,} dental practices across {len(state_cities)} cities with ratings, phone numbers, and websites."
+            f"Find top-rated dentists in {state_name}. Browse {len(practices):,} dental practices across {len(state_cities)} cities with ratings, phone numbers, and websites.",
+            schema=state_bc_schema
         )
         with open(base_dir / f"{state_slug}.html", 'w', encoding='utf-8') as f:
             f.write(page_html)
@@ -2835,7 +2928,15 @@ def generate_find_dentist_pages():
             {generate_share_buttons(f"Dentists in {city}, {st}", f"{DOMAIN}/find-a-dentist/{state_slug}/{city_slug}.html")}
             '''
 
+            # Combined breadcrumb + ItemList schema
             schema = f'''<script type="application/ld+json">
+            {{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {{"@type":"ListItem","position":1,"name":"Home","item":"{DOMAIN}/"}},
+                {{"@type":"ListItem","position":2,"name":"Find a Dentist","item":"{DOMAIN}/find-a-dentist/"}},
+                {{"@type":"ListItem","position":3,"name":"{html_mod.escape(state_name)}","item":"{DOMAIN}/find-a-dentist/{state_slug}.html"}},
+                {{"@type":"ListItem","position":4,"name":"{html_mod.escape(city)}","item":"{DOMAIN}/find-a-dentist/{state_slug}/{city_slug}.html"}}
+            ]}}</script>
+            <script type="application/ld+json">
             {{"@context":"https://schema.org","@type":"ItemList","name":"Dentists in {html_mod.escape(city)}, {st}","numberOfItems":{len(city_practices)},"itemListElement":[{",".join(f'{{"@type":"ListItem","position":{i+1},"item":{{"@type":"Dentist","name":"{html_mod.escape(p["name"])}","address":"{html_mod.escape(p["address"])}","telephone":"{html_mod.escape(p["phone"])}"}}}}' for i, p in enumerate(sorted_practices[:20]))}]}}
             </script>'''
 
@@ -2849,8 +2950,159 @@ def generate_find_dentist_pages():
             with open(state_dir / f"{city_slug}.html", 'w', encoding='utf-8') as f:
                 f.write(page_html)
 
+            # ==========================================
+            # 4. INDIVIDUAL PRACTICE PROFILE PAGES
+            # ==========================================
+            city_profile_dir = state_dir / city_slug
+            city_profile_dir.mkdir(parents=True, exist_ok=True)
+            for p in sorted_practices:
+                p_slug = practice_slug(p)
+                is_prem = p['name'] in ekwa_clients
+                safe_name_p = html_mod.escape(p['name']).replace("'", "\\'")
+                safe_city_p = html_mod.escape(p['city']).replace("'", "\\'")
+
+                # Build social links
+                social_links = ''
+                if p.get('facebook'):
+                    social_links += f'<a href="{html_mod.escape(p["facebook"])}" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web">Facebook</a> '
+                if p.get('instagram'):
+                    social_links += f'<a href="{html_mod.escape(p["instagram"])}" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web">Instagram</a> '
+
+                phone_html = ''
+                if p['phone']:
+                    phone_clean = re.sub(r'[^0-9+]', '', p['phone'])
+                    phone_html = f'<a href="tel:{phone_clean}" class="dentist-btn dentist-btn-call" onclick="trackLead(\'{safe_name_p}\',\'call\',\'{safe_city_p}\',\'{p["state"]}\')">📞 {html_mod.escape(p["phone"])}</a>'
+
+                web_html = ''
+                if p['website']:
+                    web_html = f'<a href="{html_mod.escape(p["website"])}" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead(\'{safe_name_p}\',\'website\',\'{safe_city_p}\',\'{p["state"]}\')">🌐 Visit Website</a>'
+
+                map_url = f'https://www.google.com/maps/search/?api=1&query={urllib.parse.quote(p["address"])}'
+                prem_badge = '<span class="premium-badge" style="font-size:0.9rem;">⭐ Featured Practice</span>' if is_prem else ''
+
+                stars_p = ''
+                if p['rating'] > 0:
+                    full = int(p['rating'])
+                    stars_p = '★' * full + ('½' if p['rating'] - full >= 0.3 else '') + f' {p["rating"]}'
+                reviews_p = f' ({p["reviews"]:,} reviews)' if p['reviews'] > 0 else ''
+
+                profile_content = f'''
+                {lead_tracking_js}
+                <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/{state_slug}.html">{html_mod.escape(state_name)}</a> &rsaquo; <a href="/find-a-dentist/{state_slug}/{city_slug}.html">{html_mod.escape(city)}</a> &rsaquo; {html_mod.escape(p['name'])}</nav>
+                <div class="profile-header">
+                    {prem_badge}
+                    <h1>{html_mod.escape(p['name'])}</h1>
+                    <div class="dentist-rating" style="font-size:1.2rem;">{stars_p}<span class="review-count">{reviews_p}</span></div>
+                    <p class="dentist-address" style="font-size:1.05rem;">📍 {html_mod.escape(p['address'])}</p>
+                </div>
+                <div class="profile-actions" style="display:flex;flex-wrap:wrap;gap:0.75rem;margin:1.5rem 0;">
+                    {phone_html} {web_html}
+                    <a href="{map_url}" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('{safe_name_p}','directions','{safe_city_p}','{p["state"]}')">📍 Get Directions</a>
+                    <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('{safe_name_p}','{safe_city_p}','{p["state"]}')">📅 Request Appointment</button>
+                </div>
+                <div class="profile-details" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1rem;margin:1.5rem 0;">
+                    <div class="admin-card"><h3>Location</h3><p>{html_mod.escape(p['address'])}</p><p><a href="{map_url}" target="_blank" rel="noopener" style="color:var(--accent);">View on Google Maps →</a></p></div>
+                    <div class="admin-card"><h3>Contact</h3><p>{html_mod.escape(p['phone']) if p['phone'] else 'Phone not available'}</p><p>{html_mod.escape(p['email']) if p.get('email') else 'Email not listed'}</p>{social_links}</div>
+                </div>
+                <div style="margin-top:2rem;"><a href="/find-a-dentist/{state_slug}/{city_slug}.html" style="color:var(--accent);font-weight:600;">← Back to all dentists in {html_mod.escape(city)}, {st}</a></div>
+                '''
+
+                profile_schema = f'''<script type="application/ld+json">
+                {{"@context":"https://schema.org","@type":"Dentist","name":"{html_mod.escape(p['name'])}","address":{{"@type":"PostalAddress","streetAddress":"{html_mod.escape(p['address'])}","addressLocality":"{html_mod.escape(p['city'])}","addressRegion":"{p['state']}","postalCode":"{p.get('zip','')}","addressCountry":"US"}},"telephone":"{html_mod.escape(p['phone'])}","url":"{html_mod.escape(p['website']) if p['website'] else ''}","aggregateRating":{{"@type":"AggregateRating","ratingValue":"{p['rating']}","reviewCount":"{p['reviews']}"}},"geo":{{"@type":"GeoCoordinates","latitude":"{p['lat']}","longitude":"{p['lng']}"}}}}
+                </script>
+                <script type="application/ld+json">
+                {{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                    {{"@type":"ListItem","position":1,"name":"Home","item":"{DOMAIN}/"}},
+                    {{"@type":"ListItem","position":2,"name":"Find a Dentist","item":"{DOMAIN}/find-a-dentist/"}},
+                    {{"@type":"ListItem","position":3,"name":"{html_mod.escape(state_name)}","item":"{DOMAIN}/find-a-dentist/{state_slug}.html"}},
+                    {{"@type":"ListItem","position":4,"name":"{html_mod.escape(city)}","item":"{DOMAIN}/find-a-dentist/{state_slug}/{city_slug}.html"}},
+                    {{"@type":"ListItem","position":5,"name":"{html_mod.escape(p['name'])}","item":"{DOMAIN}/find-a-dentist/{state_slug}/{city_slug}/{p_slug}.html"}}
+                ]}}</script>'''
+
+                profile_html = get_page_template(
+                    f"{p['name']} - Dentist in {city}, {st} | DentalPedia",
+                    profile_content,
+                    f"{DOMAIN}/find-a-dentist/{state_slug}/{city_slug}/{p_slug}.html",
+                    f"{p['name']} is a dental practice in {city}, {state_name}. Rating: {p['rating']} stars. Call {p['phone']} or request an appointment online.",
+                    schema=profile_schema
+                )
+                with open(city_profile_dir / f"{p_slug}.html", 'w', encoding='utf-8') as f:
+                    f.write(profile_html)
+
     total_city_pages = sum(len(set(p['city'] for p in practices)) for practices in by_state.values())
-    logger.info(f"Generated Find a Dentist: 1 index + {state_count} state pages + {total_city_pages} city pages")
+    logger.info(f"Generated Find a Dentist: 1 index + {state_count} state pages + {total_city_pages} city pages + {len(dentists_data)} practice profiles")
+
+
+def generate_ekwa_landing_page():
+    """Generate Ekwa premium listing landing page."""
+    logger.info("Generating Ekwa premium landing page...")
+    output_dir = SITE_ROOT / "for-dentists"
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    content = '''
+    <div class="directory-hero" style="background:linear-gradient(135deg, #f59e0b 0%, #d97706 100%);">
+        <h1>Get Featured on DentalPedia</h1>
+        <p>Boost your practice visibility with a premium listing seen by thousands of patients searching for dentists</p>
+    </div>
+
+    <div style="max-width:800px;margin:2rem auto;">
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:2rem;margin:2rem 0;">
+            <div class="admin-card">
+                <h3>Free Listing</h3>
+                <ul style="list-style:none;padding:0;margin:1rem 0;">
+                    <li style="padding:0.4rem 0;">✓ Practice name & address</li>
+                    <li style="padding:0.4rem 0;">✓ Phone number & website link</li>
+                    <li style="padding:0.4rem 0;">✓ Google rating display</li>
+                    <li style="padding:0.4rem 0;">✓ City directory listing</li>
+                    <li style="padding:0.4rem 0;opacity:0.4;">✗ Featured badge</li>
+                    <li style="padding:0.4rem 0;opacity:0.4;">✗ Priority placement</li>
+                    <li style="padding:0.4rem 0;opacity:0.4;">✗ Lead tracking dashboard</li>
+                </ul>
+                <p style="font-size:1.5rem;font-weight:700;color:var(--text-primary);">Free</p>
+            </div>
+            <div class="admin-card" style="border-color:#f59e0b;position:relative;">
+                <span class="premium-badge" style="position:absolute;top:-10px;right:1rem;">⭐ Recommended</span>
+                <h3>Premium Listing</h3>
+                <ul style="list-style:none;padding:0;margin:1rem 0;">
+                    <li style="padding:0.4rem 0;">✓ Everything in Free</li>
+                    <li style="padding:0.4rem 0;color:#f59e0b;font-weight:600;">⭐ Featured Practice badge</li>
+                    <li style="padding:0.4rem 0;color:#f59e0b;font-weight:600;">⭐ Top of city page placement</li>
+                    <li style="padding:0.4rem 0;color:#f59e0b;font-weight:600;">⭐ Lead tracking & analytics</li>
+                    <li style="padding:0.4rem 0;color:#f59e0b;font-weight:600;">⭐ Appointment request form</li>
+                    <li style="padding:0.4rem 0;color:#f59e0b;font-weight:600;">⭐ Enhanced profile page</li>
+                </ul>
+                <p style="font-size:1.1rem;font-weight:700;color:var(--text-primary);">Included with <a href="https://ekwa.com" target="_blank" rel="noopener" style="color:var(--accent);">Ekwa SEO</a></p>
+                <a href="https://ekwa.com" target="_blank" rel="noopener" style="display:block;text-align:center;padding:0.75rem;background:var(--accent);color:#fff;border-radius:8px;font-weight:700;text-decoration:none;margin-top:1rem;">Learn About Ekwa SEO →</a>
+            </div>
+        </div>
+
+        <div class="admin-card" style="margin:2rem 0;">
+            <h3>Why DentalPedia?</h3>
+            <p style="margin:0.75rem 0;">DentalPedia is a comprehensive dental encyclopedia with over 2,000 articles, reaching patients actively researching dental care. Our Find a Dentist directory connects these informed patients directly with practices in their area.</p>
+            <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;margin-top:1.5rem;text-align:center;">
+                <div><div style="font-size:2rem;font-weight:700;color:var(--accent);">31K+</div><div style="font-size:0.85rem;color:var(--text-secondary);">Listed Practices</div></div>
+                <div><div style="font-size:2rem;font-weight:700;color:var(--accent);">2,000+</div><div style="font-size:0.85rem;color:var(--text-secondary);">Dental Articles</div></div>
+                <div><div style="font-size:2rem;font-weight:700;color:var(--accent);">50</div><div style="font-size:0.85rem;color:var(--text-secondary);">States Covered</div></div>
+            </div>
+        </div>
+
+        <div class="admin-card" style="text-align:center;">
+            <h3>Interested in a Premium Listing?</h3>
+            <p>Contact Ekwa to learn how a premium DentalPedia listing can be included with your SEO package.</p>
+            <a href="https://ekwa.com" target="_blank" rel="noopener" style="display:inline-block;padding:0.75rem 2rem;background:var(--accent);color:#fff;border-radius:8px;font-weight:700;text-decoration:none;margin-top:1rem;">Contact Ekwa →</a>
+        </div>
+    </div>
+    '''
+
+    page_html = get_page_template(
+        "Premium Dental Listing - Get Featured on DentalPedia",
+        content,
+        f"{DOMAIN}/for-dentists/premium.html",
+        "Boost your dental practice visibility with a premium listing on DentalPedia. Featured badge, priority placement, and lead tracking included with Ekwa SEO."
+    )
+    with open(output_dir / "premium.html", 'w', encoding='utf-8') as f:
+        f.write(page_html)
+    logger.info("Generated Ekwa premium landing page")
 
 
 def main():
@@ -2897,6 +3149,7 @@ def main():
     generate_embeddable_widget()
     generate_myth_vs_fact()
     generate_find_dentist_pages()
+    generate_ekwa_landing_page()
     generate_sitemaps()
 
     # Build time

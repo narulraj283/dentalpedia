@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 7 dentists in Butler, Pennsylvania. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Pennsylvania","item":"https://dentalpedia.co/find-a-dentist/pennsylvania.html"},
+                {"@type":"ListItem","position":4,"name":"Butler","item":"https://dentalpedia.co/find-a-dentist/pennsylvania/butler.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Butler, PA","numberOfItems":7,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Jerry Tackett DMD - General Dentist","address":"372 Pittsburgh Rd, Butler, PA 16002, USA","telephone":"(724) 586-6093"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Pearl Dentistry of Butler","address":"121 S Main St, Butler, PA 16001, USA","telephone":"(724) 571-8771"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Dugan &amp; Sweeney Oral and Maxillofacial Surgery","address":"373 Evans City Rd, Butler, PA 16001, USA","telephone":"(724) 282-6312"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Brockley Dental Center -Mini Dental Implant Center of Pittsburgh","address":"99 W Sunbury Rd, Butler, PA 16001, USA","telephone":"(724) 281-8800"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"French Creek Dental Group of Butler","address":"342 N Main St, Butler, PA 16001, USA","telephone":"(724) 368-5200"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Quad County Oral &amp; Maxillofacial Surgery","address":"114 E Diamond St, Butler, PA 16001, USA","telephone":"(724) 282-6100"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Kobil Stephanie B DMD","address":"257 Pittsburgh Rd, Butler, PA 16002, USA","telephone":"(724) 282-1404"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/pennsylvania.html">Pennsylvania</a> &rsaquo; Butler</nav>
             <h1>Dentists in Butler, PA</h1>
@@ -85,46 +140,46 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Jerry Tackett DMD - General Dentist</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/butler/jerry-tackett-dmd-general-dentist.html" style="color:inherit;text-decoration:none;">Jerry Tackett DMD - General Dentist</a></h3>
         <p class="dentist-address">📍 372 Pittsburgh Rd, Butler, PA 16002, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(3 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7245866093" class="dentist-btn dentist-btn-call" onclick="trackLead('Jerry Tackett DMD - General Dentist','call','Butler','PA')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:7245866093" class="dentist-btn dentist-btn-call" onclick="trackLead('Jerry Tackett DMD - General Dentist','call','Butler','PA')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Jerry Tackett DMD - General Dentist','Butler','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Pearl Dentistry of Butler</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/butler/pearl-dentistry-of-butler.html" style="color:inherit;text-decoration:none;">Pearl Dentistry of Butler</a></h3>
         <p class="dentist-address">📍 121 S Main St, Butler, PA 16001, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(484 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7245718771" class="dentist-btn dentist-btn-call" onclick="trackLead('Pearl Dentistry of Butler','call','Butler','PA')">📞 Call</a> <a href="https://www.dentistbutler.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Pearl Dentistry of Butler','website','Butler','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7245718771" class="dentist-btn dentist-btn-call" onclick="trackLead('Pearl Dentistry of Butler','call','Butler','PA')">📞 Call</a> <a href="https://www.dentistbutler.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Pearl Dentistry of Butler','website','Butler','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Pearl Dentistry of Butler','Butler','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dugan &amp; Sweeney Oral and Maxillofacial Surgery</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/butler/dugan-sweeney-oral-and-maxillofacial-surgery.html" style="color:inherit;text-decoration:none;">Dugan &amp; Sweeney Oral and Maxillofacial Surgery</a></h3>
         <p class="dentist-address">📍 373 Evans City Rd, Butler, PA 16001, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(18 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7242826312" class="dentist-btn dentist-btn-call" onclick="trackLead('Dugan &amp; Sweeney Oral and Maxillofacial Surgery','call','Butler','PA')">📞 Call</a> <a href="http://duganandsweeneyoms.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dugan &amp; Sweeney Oral and Maxillofacial Surgery','website','Butler','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7242826312" class="dentist-btn dentist-btn-call" onclick="trackLead('Dugan &amp; Sweeney Oral and Maxillofacial Surgery','call','Butler','PA')">📞 Call</a> <a href="http://duganandsweeneyoms.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dugan &amp; Sweeney Oral and Maxillofacial Surgery','website','Butler','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dugan &amp; Sweeney Oral and Maxillofacial Surgery','Butler','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Brockley Dental Center -Mini Dental Implant Center of Pittsburgh</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/butler/brockley-dental-center-mini-dental-implant-center-of-pittsbu.html" style="color:inherit;text-decoration:none;">Brockley Dental Center -Mini Dental Implant Center of Pittsburgh</a></h3>
         <p class="dentist-address">📍 99 W Sunbury Rd, Butler, PA 16001, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(59 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7242818800" class="dentist-btn dentist-btn-call" onclick="trackLead('Brockley Dental Center -Mini Dental Implant Center of Pittsburgh','call','Butler','PA')">📞 Call</a> <a href="https://brockleydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Brockley Dental Center -Mini Dental Implant Center of Pittsburgh','website','Butler','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7242818800" class="dentist-btn dentist-btn-call" onclick="trackLead('Brockley Dental Center -Mini Dental Implant Center of Pittsburgh','call','Butler','PA')">📞 Call</a> <a href="https://brockleydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Brockley Dental Center -Mini Dental Implant Center of Pittsburgh','website','Butler','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Brockley Dental Center -Mini Dental Implant Center of Pittsburgh','Butler','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">French Creek Dental Group of Butler</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/butler/french-creek-dental-group-of-butler.html" style="color:inherit;text-decoration:none;">French Creek Dental Group of Butler</a></h3>
         <p class="dentist-address">📍 342 N Main St, Butler, PA 16001, USA</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(390 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7243685200" class="dentist-btn dentist-btn-call" onclick="trackLead('French Creek Dental Group of Butler','call','Butler','PA')">📞 Call</a> <a href="https://www.frenchcreekdentalgroup.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('French Creek Dental Group of Butler','website','Butler','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7243685200" class="dentist-btn dentist-btn-call" onclick="trackLead('French Creek Dental Group of Butler','call','Butler','PA')">📞 Call</a> <a href="https://www.frenchcreekdentalgroup.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('French Creek Dental Group of Butler','website','Butler','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('French Creek Dental Group of Butler','Butler','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Quad County Oral &amp; Maxillofacial Surgery</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/butler/quad-county-oral-maxillofacial-surgery.html" style="color:inherit;text-decoration:none;">Quad County Oral &amp; Maxillofacial Surgery</a></h3>
         <p class="dentist-address">📍 114 E Diamond St, Butler, PA 16001, USA</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(58 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7242826100" class="dentist-btn dentist-btn-call" onclick="trackLead('Quad County Oral &amp; Maxillofacial Surgery','call','Butler','PA')">📞 Call</a> <a href="https://www.quadcountyoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Quad County Oral &amp; Maxillofacial Surgery','website','Butler','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7242826100" class="dentist-btn dentist-btn-call" onclick="trackLead('Quad County Oral &amp; Maxillofacial Surgery','call','Butler','PA')">📞 Call</a> <a href="https://www.quadcountyoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Quad County Oral &amp; Maxillofacial Surgery','website','Butler','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Quad County Oral &amp; Maxillofacial Surgery','Butler','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Kobil Stephanie B DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/butler/kobil-stephanie-b-dmd.html" style="color:inherit;text-decoration:none;">Kobil Stephanie B DMD</a></h3>
         <p class="dentist-address">📍 257 Pittsburgh Rd, Butler, PA 16002, USA</p>
         <div class="dentist-rating">★★★ 3.0 <span class="review-count">(12 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7242821404" class="dentist-btn dentist-btn-call" onclick="trackLead('Kobil Stephanie B DMD','call','Butler','PA')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:7242821404" class="dentist-btn dentist-btn-call" onclick="trackLead('Kobil Stephanie B DMD','call','Butler','PA')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Kobil Stephanie B DMD','Butler','PA')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

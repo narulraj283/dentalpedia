@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 7 dentists in DeSoto, Texas. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Texas","item":"https://dentalpedia.co/find-a-dentist/texas.html"},
+                {"@type":"ListItem","position":4,"name":"DeSoto","item":"https://dentalpedia.co/find-a-dentist/texas/desoto.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in DeSoto, TX","numberOfItems":7,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Prosperity Dental","address":"1700 N Hampton Rd #201, DeSoto, TX 75115, USA","telephone":"(972) 360-0562"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"MINT dentistry","address":"1100 E Pleasant Run Rd Suite 175, DeSoto, TX 75115, USA","telephone":"(972) 349-6238"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Signature Smiles Dentistry of Desoto","address":"726 N Hampton Rd, DeSoto, TX 75115, USA","telephone":"(469) 213-2391"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Desoto Family Dentistry","address":"331 S Hampton Rd, DeSoto, TX 75115, USA","telephone":"(972) 309-9212"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Smile Time Dentistry - DeSoto","address":"2801 Duke of Gloucester St Suite 103-A, DeSoto, TX 75115, USA","telephone":"(972) 619-7662"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Legacy Dental of DeSoto","address":"834 N Hampton Rd #102, DeSoto, TX 75115, USA","telephone":"(469) 747-2001"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Ayars Pediatric Dentistry","address":"536 E Pleasant Run Rd, DeSoto, TX 75115, USA","telephone":"(972) 296-9976"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/texas.html">Texas</a> &rsaquo; DeSoto</nav>
             <h1>Dentists in DeSoto, TX</h1>
@@ -85,46 +140,46 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Prosperity Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/desoto/prosperity-dental.html" style="color:inherit;text-decoration:none;">Prosperity Dental</a></h3>
         <p class="dentist-address">📍 1700 N Hampton Rd #201, DeSoto, TX 75115, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(38 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9723600562" class="dentist-btn dentist-btn-call" onclick="trackLead('Prosperity Dental','call','DeSoto','TX')">📞 Call</a> <a href="https://www.prosperitydentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Prosperity Dental','website','DeSoto','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9723600562" class="dentist-btn dentist-btn-call" onclick="trackLead('Prosperity Dental','call','DeSoto','TX')">📞 Call</a> <a href="https://www.prosperitydentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Prosperity Dental','website','DeSoto','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Prosperity Dental','DeSoto','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">MINT dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/desoto/mint-dentistry.html" style="color:inherit;text-decoration:none;">MINT dentistry</a></h3>
         <p class="dentist-address">📍 1100 E Pleasant Run Rd Suite 175, DeSoto, TX 75115, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(2,115 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9723496238" class="dentist-btn dentist-btn-call" onclick="trackLead('MINT dentistry','call','DeSoto','TX')">📞 Call</a> <a href="https://mintdentistry.com/dentist/dfw/desoto" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('MINT dentistry','website','DeSoto','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9723496238" class="dentist-btn dentist-btn-call" onclick="trackLead('MINT dentistry','call','DeSoto','TX')">📞 Call</a> <a href="https://mintdentistry.com/dentist/dfw/desoto" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('MINT dentistry','website','DeSoto','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('MINT dentistry','DeSoto','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Signature Smiles Dentistry of Desoto</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/desoto/signature-smiles-dentistry-of-desoto.html" style="color:inherit;text-decoration:none;">Signature Smiles Dentistry of Desoto</a></h3>
         <p class="dentist-address">📍 726 N Hampton Rd, DeSoto, TX 75115, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(63 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4692132391" class="dentist-btn dentist-btn-call" onclick="trackLead('Signature Smiles Dentistry of Desoto','call','DeSoto','TX')">📞 Call</a> <a href="https://signaturesmilestx.com/dentist-in-desoto-tx/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Signature Smiles Dentistry of Desoto','website','DeSoto','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4692132391" class="dentist-btn dentist-btn-call" onclick="trackLead('Signature Smiles Dentistry of Desoto','call','DeSoto','TX')">📞 Call</a> <a href="https://signaturesmilestx.com/dentist-in-desoto-tx/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Signature Smiles Dentistry of Desoto','website','DeSoto','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Signature Smiles Dentistry of Desoto','DeSoto','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Desoto Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/desoto/desoto-family-dentistry.html" style="color:inherit;text-decoration:none;">Desoto Family Dentistry</a></h3>
         <p class="dentist-address">📍 331 S Hampton Rd, DeSoto, TX 75115, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(588 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9723099212" class="dentist-btn dentist-btn-call" onclick="trackLead('Desoto Family Dentistry','call','DeSoto','TX')">📞 Call</a> <a href="https://dentistindesoto.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Desoto Family Dentistry','website','DeSoto','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9723099212" class="dentist-btn dentist-btn-call" onclick="trackLead('Desoto Family Dentistry','call','DeSoto','TX')">📞 Call</a> <a href="https://dentistindesoto.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Desoto Family Dentistry','website','DeSoto','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Desoto Family Dentistry','DeSoto','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smile Time Dentistry - DeSoto</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/desoto/smile-time-dentistry-desoto.html" style="color:inherit;text-decoration:none;">Smile Time Dentistry - DeSoto</a></h3>
         <p class="dentist-address">📍 2801 Duke of Gloucester St Suite 103-A, DeSoto, TX 75115, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(6 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9726197662" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Time Dentistry - DeSoto','call','DeSoto','TX')">📞 Call</a> <a href="https://www.smiletimedentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Time Dentistry - DeSoto','website','DeSoto','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9726197662" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Time Dentistry - DeSoto','call','DeSoto','TX')">📞 Call</a> <a href="https://www.smiletimedentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Time Dentistry - DeSoto','website','DeSoto','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smile Time Dentistry - DeSoto','DeSoto','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Legacy Dental of DeSoto</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/desoto/legacy-dental-of-desoto.html" style="color:inherit;text-decoration:none;">Legacy Dental of DeSoto</a></h3>
         <p class="dentist-address">📍 834 N Hampton Rd #102, DeSoto, TX 75115, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(88 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4697472001" class="dentist-btn dentist-btn-call" onclick="trackLead('Legacy Dental of DeSoto','call','DeSoto','TX')">📞 Call</a> <a href="http://www.legacy.dental/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Legacy Dental of DeSoto','website','DeSoto','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4697472001" class="dentist-btn dentist-btn-call" onclick="trackLead('Legacy Dental of DeSoto','call','DeSoto','TX')">📞 Call</a> <a href="http://www.legacy.dental/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Legacy Dental of DeSoto','website','DeSoto','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Legacy Dental of DeSoto','DeSoto','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Ayars Pediatric Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/desoto/ayars-pediatric-dentistry.html" style="color:inherit;text-decoration:none;">Ayars Pediatric Dentistry</a></h3>
         <p class="dentist-address">📍 536 E Pleasant Run Rd, DeSoto, TX 75115, USA</p>
         <div class="dentist-rating">★★★★ 4.0 <span class="review-count">(19 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9722969976" class="dentist-btn dentist-btn-call" onclick="trackLead('Ayars Pediatric Dentistry','call','DeSoto','TX')">📞 Call</a> <a href="https://desotokidsdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Ayars Pediatric Dentistry','website','DeSoto','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9722969976" class="dentist-btn dentist-btn-call" onclick="trackLead('Ayars Pediatric Dentistry','call','DeSoto','TX')">📞 Call</a> <a href="https://desotokidsdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Ayars Pediatric Dentistry','website','DeSoto','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Ayars Pediatric Dentistry','DeSoto','TX')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

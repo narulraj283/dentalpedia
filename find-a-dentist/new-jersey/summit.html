@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 6 dentists in Summit, New Jersey. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"New Jersey","item":"https://dentalpedia.co/find-a-dentist/new-jersey.html"},
+                {"@type":"ListItem","position":4,"name":"Summit","item":"https://dentalpedia.co/find-a-dentist/new-jersey/summit.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Summit, NJ","numberOfItems":6,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Summit Periodontics &amp; Dental Implants","address":"137 Summit Ave #4, Summit, NJ 07901, USA","telephone":"(908) 219-6664"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Central Dental Care","address":"137 Summit Ave, Summit, NJ 07901, USA","telephone":"(908) 273-4688"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Liv Endodontics - Summit, NJ","address":"25 Franklin Pl unit 1, Summit, NJ 07901, USA","telephone":"(908) 608-8018"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Prism Oral Surgery and Implants of Summit","address":"55 Woodland Ave, Summit, NJ 07901, USA","telephone":"(908) 224-0767"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Dr. Petar Hinic, DDS","address":"155 Summit Ave, Summit, NJ 07901, USA","telephone":"(908) 273-5451"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Summit Smiles - Biomimetic Dentistry","address":"28 Beechwood Rd, Summit, NJ 07901, USA","telephone":"(908) 639-2516"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/new-jersey.html">New Jersey</a> &rsaquo; Summit</nav>
             <h1>Dentists in Summit, NJ</h1>
@@ -85,40 +140,40 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Summit Periodontics &amp; Dental Implants</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/summit/summit-periodontics-dental-implants.html" style="color:inherit;text-decoration:none;">Summit Periodontics &amp; Dental Implants</a></h3>
         <p class="dentist-address">📍 137 Summit Ave #4, Summit, NJ 07901, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(313 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9082196664" class="dentist-btn dentist-btn-call" onclick="trackLead('Summit Periodontics &amp; Dental Implants','call','Summit','NJ')">📞 Call</a> <a href="https://www.summitperioimplants.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Summit Periodontics &amp; Dental Implants','website','Summit','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9082196664" class="dentist-btn dentist-btn-call" onclick="trackLead('Summit Periodontics &amp; Dental Implants','call','Summit','NJ')">📞 Call</a> <a href="https://www.summitperioimplants.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Summit Periodontics &amp; Dental Implants','website','Summit','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Summit Periodontics &amp; Dental Implants','Summit','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Central Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/summit/central-dental-care.html" style="color:inherit;text-decoration:none;">Central Dental Care</a></h3>
         <p class="dentist-address">📍 137 Summit Ave, Summit, NJ 07901, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(169 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9082734688" class="dentist-btn dentist-btn-call" onclick="trackLead('Central Dental Care','call','Summit','NJ')">📞 Call</a> <a href="https://www.centraldentalcarenj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Central Dental Care','website','Summit','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9082734688" class="dentist-btn dentist-btn-call" onclick="trackLead('Central Dental Care','call','Summit','NJ')">📞 Call</a> <a href="https://www.centraldentalcarenj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Central Dental Care','website','Summit','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Central Dental Care','Summit','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Liv Endodontics - Summit, NJ</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/summit/liv-endodontics-summit-nj.html" style="color:inherit;text-decoration:none;">Liv Endodontics - Summit, NJ</a></h3>
         <p class="dentist-address">📍 25 Franklin Pl unit 1, Summit, NJ 07901, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(63 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9086088018" class="dentist-btn dentist-btn-call" onclick="trackLead('Liv Endodontics - Summit, NJ','call','Summit','NJ')">📞 Call</a> <a href="https://livendodontics.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Liv Endodontics - Summit, NJ','website','Summit','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9086088018" class="dentist-btn dentist-btn-call" onclick="trackLead('Liv Endodontics - Summit, NJ','call','Summit','NJ')">📞 Call</a> <a href="https://livendodontics.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Liv Endodontics - Summit, NJ','website','Summit','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Liv Endodontics - Summit, NJ','Summit','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Prism Oral Surgery and Implants of Summit</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/summit/prism-oral-surgery-and-implants-of-summit.html" style="color:inherit;text-decoration:none;">Prism Oral Surgery and Implants of Summit</a></h3>
         <p class="dentist-address">📍 55 Woodland Ave, Summit, NJ 07901, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(29 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9082240767" class="dentist-btn dentist-btn-call" onclick="trackLead('Prism Oral Surgery and Implants of Summit','call','Summit','NJ')">📞 Call</a> <a href="https://www.prismoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Prism Oral Surgery and Implants of Summit','website','Summit','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9082240767" class="dentist-btn dentist-btn-call" onclick="trackLead('Prism Oral Surgery and Implants of Summit','call','Summit','NJ')">📞 Call</a> <a href="https://www.prismoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Prism Oral Surgery and Implants of Summit','website','Summit','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Prism Oral Surgery and Implants of Summit','Summit','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. Petar Hinic, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/summit/dr-petar-hinic-dds.html" style="color:inherit;text-decoration:none;">Dr. Petar Hinic, DDS</a></h3>
         <p class="dentist-address">📍 155 Summit Ave, Summit, NJ 07901, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(24 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9082735451" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Petar Hinic, DDS','call','Summit','NJ')">📞 Call</a> <a href="https://www.summitoralsurg.com/meet-us/dr-petar-hinic/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Petar Hinic, DDS','website','Summit','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9082735451" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Petar Hinic, DDS','call','Summit','NJ')">📞 Call</a> <a href="https://www.summitoralsurg.com/meet-us/dr-petar-hinic/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Petar Hinic, DDS','website','Summit','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. Petar Hinic, DDS','Summit','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Summit Smiles - Biomimetic Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/summit/summit-smiles-biomimetic-dentistry.html" style="color:inherit;text-decoration:none;">Summit Smiles - Biomimetic Dentistry</a></h3>
         <p class="dentist-address">📍 28 Beechwood Rd, Summit, NJ 07901, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(78 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9086392516" class="dentist-btn dentist-btn-call" onclick="trackLead('Summit Smiles - Biomimetic Dentistry','call','Summit','NJ')">📞 Call</a> <a href="https://www.summitsmilesnj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Summit Smiles - Biomimetic Dentistry','website','Summit','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9086392516" class="dentist-btn dentist-btn-call" onclick="trackLead('Summit Smiles - Biomimetic Dentistry','call','Summit','NJ')">📞 Call</a> <a href="https://www.summitsmilesnj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Summit Smiles - Biomimetic Dentistry','website','Summit','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Summit Smiles - Biomimetic Dentistry','Summit','NJ')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

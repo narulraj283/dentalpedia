@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 12 dentists in San Clemente, California. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"California","item":"https://dentalpedia.co/find-a-dentist/california.html"},
+                {"@type":"ListItem","position":4,"name":"San Clemente","item":"https://dentalpedia.co/find-a-dentist/california/san-clemente.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in San Clemente, CA","numberOfItems":12,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Epic Family Dental - James E. Sorge DMD","address":"1171 Puerta Del Sol #C, San Clemente, CA 92673, USA","telephone":"(949) 492-3407"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"San Clemente Oral &amp; Facial Surgery","address":"675 Camino De Los Mares Ste 303, San Clemente, CA 92673, USA","telephone":"(949) 627-0230"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Ocean View Dental Care","address":"905 Calle Amanecer #265, San Clemente, CA 92673, USA","telephone":"(949) 388-0780"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"OC Centers for Oral Surgery &amp; Dental Implants - San Clemente","address":"1171 Puerta Del Sol suite d, San Clemente, CA 92673, USA","telephone":"(949) 661-0166"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Dr. Eric Johnson","address":"665 Camino De Los Mares STE 202, San Clemente, CA 92673, USA","telephone":"(949) 205-1139"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Smile San Clemente - Shahin Mahallati, DDS.","address":"653 Camino De Los Mares #113, San Clemente, CA 92673, USA","telephone":"(949) 248-7772"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Erini P. Redmond DDS","address":"181 Avenida Vaquero # A, San Clemente, CA 92672, USA","telephone":"(949) 361-1124"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Nina Basti DDS","address":"150 Avenida Del Mar Ste C, San Clemente, CA 92672, USA","telephone":"(949) 201-4719"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Seascape Cosmetic and Implant Dentistry - San Clemente","address":"675 Camino De Los Mares STE 304, San Clemente, CA 92673, USA","telephone":"(949) 669-7553"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Talega Dental Group","address":"1151 Puerta Del Sol a suite a, San Clemente, CA 92673, USA","telephone":"(949) 990-4198"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"San Clemente Dental Associates","address":"638 Camino De Los Mares C-140, San Clemente, CA 92673, USA","telephone":"(949) 234-0500"}},{"@type":"ListItem","position":12,"item":{"@type":"Dentist","name":"San Clemente Dentist, Dana Ghorab","address":"801 Avenida Talega #105, San Clemente, CA 92673, USA","telephone":"(949) 218-1404"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/california.html">California</a> &rsaquo; San Clemente</nav>
             <h1>Dentists in San Clemente, CA</h1>
@@ -85,76 +140,76 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Epic Family Dental - James E. Sorge DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/san-clemente/epic-family-dental-james-e-sorge-dmd.html" style="color:inherit;text-decoration:none;">Epic Family Dental - James E. Sorge DMD</a></h3>
         <p class="dentist-address">📍 1171 Puerta Del Sol #C, San Clemente, CA 92673, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(462 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9494923407" class="dentist-btn dentist-btn-call" onclick="trackLead('Epic Family Dental - James E. Sorge DMD','call','San Clemente','CA')">📞 Call</a> <a href="http://www.mysanclementedentists.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Epic Family Dental - James E. Sorge DMD','website','San Clemente','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9494923407" class="dentist-btn dentist-btn-call" onclick="trackLead('Epic Family Dental - James E. Sorge DMD','call','San Clemente','CA')">📞 Call</a> <a href="http://www.mysanclementedentists.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Epic Family Dental - James E. Sorge DMD','website','San Clemente','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Epic Family Dental - James E. Sorge DMD','San Clemente','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">San Clemente Oral &amp; Facial Surgery</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/san-clemente/san-clemente-oral-facial-surgery.html" style="color:inherit;text-decoration:none;">San Clemente Oral &amp; Facial Surgery</a></h3>
         <p class="dentist-address">📍 675 Camino De Los Mares Ste 303, San Clemente, CA 92673, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(380 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9496270230" class="dentist-btn dentist-btn-call" onclick="trackLead('San Clemente Oral &amp; Facial Surgery','call','San Clemente','CA')">📞 Call</a> <a href="https://www.sanclementeoralfacialsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('San Clemente Oral &amp; Facial Surgery','website','San Clemente','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9496270230" class="dentist-btn dentist-btn-call" onclick="trackLead('San Clemente Oral &amp; Facial Surgery','call','San Clemente','CA')">📞 Call</a> <a href="https://www.sanclementeoralfacialsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('San Clemente Oral &amp; Facial Surgery','website','San Clemente','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('San Clemente Oral &amp; Facial Surgery','San Clemente','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Ocean View Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/san-clemente/ocean-view-dental-care.html" style="color:inherit;text-decoration:none;">Ocean View Dental Care</a></h3>
         <p class="dentist-address">📍 905 Calle Amanecer #265, San Clemente, CA 92673, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(355 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9493880780" class="dentist-btn dentist-btn-call" onclick="trackLead('Ocean View Dental Care','call','San Clemente','CA')">📞 Call</a> <a href="https://oceanviewdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Ocean View Dental Care','website','San Clemente','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9493880780" class="dentist-btn dentist-btn-call" onclick="trackLead('Ocean View Dental Care','call','San Clemente','CA')">📞 Call</a> <a href="https://oceanviewdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Ocean View Dental Care','website','San Clemente','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Ocean View Dental Care','San Clemente','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">OC Centers for Oral Surgery &amp; Dental Implants - San Clemente</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/san-clemente/oc-centers-for-oral-surgery-dental-implants-san-clemente.html" style="color:inherit;text-decoration:none;">OC Centers for Oral Surgery &amp; Dental Implants - San Clemente</a></h3>
         <p class="dentist-address">📍 1171 Puerta Del Sol suite d, San Clemente, CA 92673, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(249 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9496610166" class="dentist-btn dentist-btn-call" onclick="trackLead('OC Centers for Oral Surgery &amp; Dental Implants - San Clemente','call','San Clemente','CA')">📞 Call</a> <a href="https://www.oralsurgeryteam.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('OC Centers for Oral Surgery &amp; Dental Implants - San Clemente','website','San Clemente','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9496610166" class="dentist-btn dentist-btn-call" onclick="trackLead('OC Centers for Oral Surgery &amp; Dental Implants - San Clemente','call','San Clemente','CA')">📞 Call</a> <a href="https://www.oralsurgeryteam.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('OC Centers for Oral Surgery &amp; Dental Implants - San Clemente','website','San Clemente','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('OC Centers for Oral Surgery &amp; Dental Implants - San Clemente','San Clemente','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. Eric Johnson</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/san-clemente/dr-eric-johnson.html" style="color:inherit;text-decoration:none;">Dr. Eric Johnson</a></h3>
         <p class="dentist-address">📍 665 Camino De Los Mares STE 202, San Clemente, CA 92673, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(216 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9492051139" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Eric Johnson','call','San Clemente','CA')">📞 Call</a> <a href="http://www.drericjohnson.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Eric Johnson','website','San Clemente','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9492051139" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Eric Johnson','call','San Clemente','CA')">📞 Call</a> <a href="http://www.drericjohnson.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Eric Johnson','website','San Clemente','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. Eric Johnson','San Clemente','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smile San Clemente - Shahin Mahallati, DDS.</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/san-clemente/smile-san-clemente-shahin-mahallati-dds.html" style="color:inherit;text-decoration:none;">Smile San Clemente - Shahin Mahallati, DDS.</a></h3>
         <p class="dentist-address">📍 653 Camino De Los Mares #113, San Clemente, CA 92673, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(180 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9492487772" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile San Clemente - Shahin Mahallati, DDS.','call','San Clemente','CA')">📞 Call</a> <a href="https://www.smilesanclemente.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile San Clemente - Shahin Mahallati, DDS.','website','San Clemente','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9492487772" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile San Clemente - Shahin Mahallati, DDS.','call','San Clemente','CA')">📞 Call</a> <a href="https://www.smilesanclemente.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile San Clemente - Shahin Mahallati, DDS.','website','San Clemente','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smile San Clemente - Shahin Mahallati, DDS.','San Clemente','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Erini P. Redmond DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/san-clemente/erini-p-redmond-dds.html" style="color:inherit;text-decoration:none;">Erini P. Redmond DDS</a></h3>
         <p class="dentist-address">📍 181 Avenida Vaquero # A, San Clemente, CA 92672, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(150 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9493611124" class="dentist-btn dentist-btn-call" onclick="trackLead('Erini P. Redmond DDS','call','San Clemente','CA')">📞 Call</a> <a href="http://www.sanclementedentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Erini P. Redmond DDS','website','San Clemente','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9493611124" class="dentist-btn dentist-btn-call" onclick="trackLead('Erini P. Redmond DDS','call','San Clemente','CA')">📞 Call</a> <a href="http://www.sanclementedentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Erini P. Redmond DDS','website','San Clemente','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Erini P. Redmond DDS','San Clemente','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Nina Basti DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/san-clemente/nina-basti-dds.html" style="color:inherit;text-decoration:none;">Nina Basti DDS</a></h3>
         <p class="dentist-address">📍 150 Avenida Del Mar Ste C, San Clemente, CA 92672, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(59 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9492014719" class="dentist-btn dentist-btn-call" onclick="trackLead('Nina Basti DDS','call','San Clemente','CA')">📞 Call</a> <a href="https://dentistinsanclemente.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Nina Basti DDS','website','San Clemente','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9492014719" class="dentist-btn dentist-btn-call" onclick="trackLead('Nina Basti DDS','call','San Clemente','CA')">📞 Call</a> <a href="https://dentistinsanclemente.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Nina Basti DDS','website','San Clemente','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Nina Basti DDS','San Clemente','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Seascape Cosmetic and Implant Dentistry - San Clemente</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/san-clemente/seascape-cosmetic-and-implant-dentistry-san-clemente.html" style="color:inherit;text-decoration:none;">Seascape Cosmetic and Implant Dentistry - San Clemente</a></h3>
         <p class="dentist-address">📍 675 Camino De Los Mares STE 304, San Clemente, CA 92673, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(155 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9496697553" class="dentist-btn dentist-btn-call" onclick="trackLead('Seascape Cosmetic and Implant Dentistry - San Clemente','call','San Clemente','CA')">📞 Call</a> <a href="https://seascape-dentistry.com/locations/san-clemente/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Seascape Cosmetic and Implant Dentistry - San Clemente','website','San Clemente','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9496697553" class="dentist-btn dentist-btn-call" onclick="trackLead('Seascape Cosmetic and Implant Dentistry - San Clemente','call','San Clemente','CA')">📞 Call</a> <a href="https://seascape-dentistry.com/locations/san-clemente/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Seascape Cosmetic and Implant Dentistry - San Clemente','website','San Clemente','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Seascape Cosmetic and Implant Dentistry - San Clemente','San Clemente','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Talega Dental Group</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/san-clemente/talega-dental-group.html" style="color:inherit;text-decoration:none;">Talega Dental Group</a></h3>
         <p class="dentist-address">📍 1151 Puerta Del Sol a suite a, San Clemente, CA 92673, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(199 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9499904198" class="dentist-btn dentist-btn-call" onclick="trackLead('Talega Dental Group','call','San Clemente','CA')">📞 Call</a> <a href="https://sanclementefamilydentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Talega Dental Group','website','San Clemente','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9499904198" class="dentist-btn dentist-btn-call" onclick="trackLead('Talega Dental Group','call','San Clemente','CA')">📞 Call</a> <a href="https://sanclementefamilydentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Talega Dental Group','website','San Clemente','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Talega Dental Group','San Clemente','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">San Clemente Dental Associates</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/san-clemente/san-clemente-dental-associates.html" style="color:inherit;text-decoration:none;">San Clemente Dental Associates</a></h3>
         <p class="dentist-address">📍 638 Camino De Los Mares C-140, San Clemente, CA 92673, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(101 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9492340500" class="dentist-btn dentist-btn-call" onclick="trackLead('San Clemente Dental Associates','call','San Clemente','CA')">📞 Call</a> <a href="https://sanclementedentalassociates.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('San Clemente Dental Associates','website','San Clemente','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9492340500" class="dentist-btn dentist-btn-call" onclick="trackLead('San Clemente Dental Associates','call','San Clemente','CA')">📞 Call</a> <a href="https://sanclementedentalassociates.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('San Clemente Dental Associates','website','San Clemente','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('San Clemente Dental Associates','San Clemente','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">San Clemente Dentist, Dana Ghorab</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/san-clemente/san-clemente-dentist-dana-ghorab.html" style="color:inherit;text-decoration:none;">San Clemente Dentist, Dana Ghorab</a></h3>
         <p class="dentist-address">📍 801 Avenida Talega #105, San Clemente, CA 92673, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(11 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9492181404" class="dentist-btn dentist-btn-call" onclick="trackLead('San Clemente Dentist, Dana Ghorab','call','San Clemente','CA')">📞 Call</a> <a href="https://talegadentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('San Clemente Dentist, Dana Ghorab','website','San Clemente','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9492181404" class="dentist-btn dentist-btn-call" onclick="trackLead('San Clemente Dentist, Dana Ghorab','call','San Clemente','CA')">📞 Call</a> <a href="https://talegadentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('San Clemente Dentist, Dana Ghorab','website','San Clemente','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('San Clemente Dentist, Dana Ghorab','San Clemente','CA')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 9 dentists in Antioch, Illinois. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Illinois","item":"https://dentalpedia.co/find-a-dentist/illinois.html"},
+                {"@type":"ListItem","position":4,"name":"Antioch","item":"https://dentalpedia.co/find-a-dentist/illinois/antioch.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Antioch, IL","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Johnson K DDS","address":"424 Lake St, Antioch, IL 60002, USA","telephone":"(847) 373-3936"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Wood Family Dental","address":"1326 Main St, Antioch, IL 60002, USA","telephone":"(847) 395-6166"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Orthodontic Specialists of Lake County","address":"1138 Main St, Antioch, IL 60002, USA","telephone":"(847) 838-0105"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Brian P. Danielewicz, DDS","address":"424 Lake St, Antioch, IL 60002, USA","telephone":"(847) 838-9944"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Kozak Orthodontics - Antioch","address":"1326 Main St Ste. B, Antioch, IL 60002, USA","telephone":"(847) 603-1682"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Antioch Advanced Dentistry","address":"417 IL-173 Unit 113, Antioch, IL 60002, USA","telephone":"(847) 395-5550"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Redwing Dental Care","address":"421 IL-173, Antioch, IL 60002, USA","telephone":"(224) 651-8463"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Aspen Dental - Antioch, IL","address":"550 IL-173, Antioch, IL 60002, USA","telephone":"(847) 603-3069"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Antioch Oral &amp; Maxillofacial","address":"800 Main St Ste 21, Antioch, IL 60002, USA","telephone":"(847) 395-7955"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/illinois.html">Illinois</a> &rsaquo; Antioch</nav>
             <h1>Dentists in Antioch, IL</h1>
@@ -85,58 +140,58 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Johnson K DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/antioch/johnson-k-dds.html" style="color:inherit;text-decoration:none;">Johnson K DDS</a></h3>
         <p class="dentist-address">📍 424 Lake St, Antioch, IL 60002, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(1 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8473733936" class="dentist-btn dentist-btn-call" onclick="trackLead('Johnson K DDS','call','Antioch','IL')">📞 Call</a> <a href="http://www.kennethajohnsondds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Johnson K DDS','website','Antioch','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8473733936" class="dentist-btn dentist-btn-call" onclick="trackLead('Johnson K DDS','call','Antioch','IL')">📞 Call</a> <a href="http://www.kennethajohnsondds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Johnson K DDS','website','Antioch','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Johnson K DDS','Antioch','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Wood Family Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/antioch/wood-family-dental.html" style="color:inherit;text-decoration:none;">Wood Family Dental</a></h3>
         <p class="dentist-address">📍 1326 Main St, Antioch, IL 60002, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(835 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8473956166" class="dentist-btn dentist-btn-call" onclick="trackLead('Wood Family Dental','call','Antioch','IL')">📞 Call</a> <a href="http://www.woodfamilydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Wood Family Dental','website','Antioch','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8473956166" class="dentist-btn dentist-btn-call" onclick="trackLead('Wood Family Dental','call','Antioch','IL')">📞 Call</a> <a href="http://www.woodfamilydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Wood Family Dental','website','Antioch','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Wood Family Dental','Antioch','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Orthodontic Specialists of Lake County</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/antioch/orthodontic-specialists-of-lake-county.html" style="color:inherit;text-decoration:none;">Orthodontic Specialists of Lake County</a></h3>
         <p class="dentist-address">📍 1138 Main St, Antioch, IL 60002, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(199 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8478380105" class="dentist-btn dentist-btn-call" onclick="trackLead('Orthodontic Specialists of Lake County','call','Antioch','IL')">📞 Call</a> <a href="http://www.osolc.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Orthodontic Specialists of Lake County','website','Antioch','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8478380105" class="dentist-btn dentist-btn-call" onclick="trackLead('Orthodontic Specialists of Lake County','call','Antioch','IL')">📞 Call</a> <a href="http://www.osolc.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Orthodontic Specialists of Lake County','website','Antioch','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Orthodontic Specialists of Lake County','Antioch','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Brian P. Danielewicz, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/antioch/brian-p-danielewicz-dds.html" style="color:inherit;text-decoration:none;">Brian P. Danielewicz, DDS</a></h3>
         <p class="dentist-address">📍 424 Lake St, Antioch, IL 60002, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(101 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8478389944" class="dentist-btn dentist-btn-call" onclick="trackLead('Brian P. Danielewicz, DDS','call','Antioch','IL')">📞 Call</a> <a href="https://www.drdandds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Brian P. Danielewicz, DDS','website','Antioch','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8478389944" class="dentist-btn dentist-btn-call" onclick="trackLead('Brian P. Danielewicz, DDS','call','Antioch','IL')">📞 Call</a> <a href="https://www.drdandds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Brian P. Danielewicz, DDS','website','Antioch','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Brian P. Danielewicz, DDS','Antioch','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Kozak Orthodontics - Antioch</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/antioch/kozak-orthodontics-antioch.html" style="color:inherit;text-decoration:none;">Kozak Orthodontics - Antioch</a></h3>
         <p class="dentist-address">📍 1326 Main St Ste. B, Antioch, IL 60002, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(45 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8476031682" class="dentist-btn dentist-btn-call" onclick="trackLead('Kozak Orthodontics - Antioch','call','Antioch','IL')">📞 Call</a> <a href="https://www.kozakortho.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Kozak Orthodontics - Antioch','website','Antioch','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8476031682" class="dentist-btn dentist-btn-call" onclick="trackLead('Kozak Orthodontics - Antioch','call','Antioch','IL')">📞 Call</a> <a href="https://www.kozakortho.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Kozak Orthodontics - Antioch','website','Antioch','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Kozak Orthodontics - Antioch','Antioch','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Antioch Advanced Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/antioch/antioch-advanced-dentistry.html" style="color:inherit;text-decoration:none;">Antioch Advanced Dentistry</a></h3>
         <p class="dentist-address">📍 417 IL-173 Unit 113, Antioch, IL 60002, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(238 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8473955550" class="dentist-btn dentist-btn-call" onclick="trackLead('Antioch Advanced Dentistry','call','Antioch','IL')">📞 Call</a> <a href="https://www.antiochadvanceddentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Antioch Advanced Dentistry','website','Antioch','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8473955550" class="dentist-btn dentist-btn-call" onclick="trackLead('Antioch Advanced Dentistry','call','Antioch','IL')">📞 Call</a> <a href="https://www.antiochadvanceddentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Antioch Advanced Dentistry','website','Antioch','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Antioch Advanced Dentistry','Antioch','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Redwing Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/antioch/redwing-dental-care.html" style="color:inherit;text-decoration:none;">Redwing Dental Care</a></h3>
         <p class="dentist-address">📍 421 IL-173, Antioch, IL 60002, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(435 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2246518463" class="dentist-btn dentist-btn-call" onclick="trackLead('Redwing Dental Care','call','Antioch','IL')">📞 Call</a> <a href="http://redwingdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Redwing Dental Care','website','Antioch','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2246518463" class="dentist-btn dentist-btn-call" onclick="trackLead('Redwing Dental Care','call','Antioch','IL')">📞 Call</a> <a href="http://redwingdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Redwing Dental Care','website','Antioch','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Redwing Dental Care','Antioch','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Aspen Dental - Antioch, IL</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/antioch/aspen-dental-antioch-il.html" style="color:inherit;text-decoration:none;">Aspen Dental - Antioch, IL</a></h3>
         <p class="dentist-address">📍 550 IL-173, Antioch, IL 60002, USA</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(335 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8476033069" class="dentist-btn dentist-btn-call" onclick="trackLead('Aspen Dental - Antioch, IL','call','Antioch','IL')">📞 Call</a> <a href="https://www.aspendental.com/dentist/il/antioch/550-e-il-route-173" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Aspen Dental - Antioch, IL','website','Antioch','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8476033069" class="dentist-btn dentist-btn-call" onclick="trackLead('Aspen Dental - Antioch, IL','call','Antioch','IL')">📞 Call</a> <a href="https://www.aspendental.com/dentist/il/antioch/550-e-il-route-173" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Aspen Dental - Antioch, IL','website','Antioch','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Aspen Dental - Antioch, IL','Antioch','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Antioch Oral &amp; Maxillofacial</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/antioch/antioch-oral-maxillofacial.html" style="color:inherit;text-decoration:none;">Antioch Oral &amp; Maxillofacial</a></h3>
         <p class="dentist-address">📍 800 Main St Ste 21, Antioch, IL 60002, USA</p>
         <div class="dentist-rating">★★ 2.3 <span class="review-count">(6 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8473957955" class="dentist-btn dentist-btn-call" onclick="trackLead('Antioch Oral &amp; Maxillofacial','call','Antioch','IL')">📞 Call</a> <a href="https://care.advocatehealth.com/doctors/chris-choukas-antioch-oral-maxillofacial-surgery" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Antioch Oral &amp; Maxillofacial','website','Antioch','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8473957955" class="dentist-btn dentist-btn-call" onclick="trackLead('Antioch Oral &amp; Maxillofacial','call','Antioch','IL')">📞 Call</a> <a href="https://care.advocatehealth.com/doctors/chris-choukas-antioch-oral-maxillofacial-surgery" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Antioch Oral &amp; Maxillofacial','website','Antioch','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Antioch Oral &amp; Maxillofacial','Antioch','IL')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

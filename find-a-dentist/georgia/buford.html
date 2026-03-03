@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 11 dentists in Buford, Georgia. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Georgia","item":"https://dentalpedia.co/find-a-dentist/georgia.html"},
+                {"@type":"ListItem","position":4,"name":"Buford","item":"https://dentalpedia.co/find-a-dentist/georgia/buford.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Buford, GA","numberOfItems":11,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Radiant Dental : Dr. Nimisha Patel, DDS","address":"4745 Nelson Brogdon Blvd suite 100, Buford, GA 30518, USA","telephone":"(770) 271-4411"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Center For Cosmetic And Sedation Dentistry","address":"2690 Hamilton Mill Rd Ste 300, Buford, GA 30519, USA","telephone":"(770) 932-8577"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Magnolia Ridge Dental","address":"3331 Hamilton Mill Rd Building 200, Suite 2200, Buford, GA 30519, USA","telephone":"(678) 541-0770"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Smile Moore Dentistry","address":"4470 Commerce Dr suite b, Buford, GA 30518, USA","telephone":"(770) 284-5789"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"DentFirst Dental Care Buford","address":"3290 Buford Drive &amp;, GA-20, Buford, GA 30519, USA","telephone":"(678) 714-0001"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Buford Dental","address":"1944 Braselton Hwy #107, Buford, GA 30519, USA","telephone":"(770) 691-2605"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Smile Studio of Buford","address":"2725 Hamilton Mill Rd #700, Buford, GA 30519, USA","telephone":"(678) 528-0772"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Imagix Dental of Buford","address":"600 Garnett St, Buford, GA 30518, USA","telephone":"(678) 284-2200"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Ivy Creek Dental Care","address":"3364 Hamilton Mill Rd, Buford, GA 30519, USA","telephone":"(470) 598-5616"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Aspen Dental - Buford, GA","address":"3730 Buford Dr Suite 100, Buford, GA 30519, USA","telephone":"(470) 655-3683"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Sage Dental of Buford","address":"3420 Buford Dr E-780, Buford, GA 30519, USA","telephone":"(770) 858-1678"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/georgia.html">Georgia</a> &rsaquo; Buford</nav>
             <h1>Dentists in Buford, GA</h1>
@@ -85,70 +140,70 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Radiant Dental : Dr. Nimisha Patel, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/buford/radiant-dental-dr-nimisha-patel-dds.html" style="color:inherit;text-decoration:none;">Radiant Dental : Dr. Nimisha Patel, DDS</a></h3>
         <p class="dentist-address">📍 4745 Nelson Brogdon Blvd suite 100, Buford, GA 30518, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(493 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7702714411" class="dentist-btn dentist-btn-call" onclick="trackLead('Radiant Dental : Dr. Nimisha Patel, DDS','call','Buford','GA')">📞 Call</a> <a href="https://www.radiantdds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Radiant Dental : Dr. Nimisha Patel, DDS','website','Buford','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7702714411" class="dentist-btn dentist-btn-call" onclick="trackLead('Radiant Dental : Dr. Nimisha Patel, DDS','call','Buford','GA')">📞 Call</a> <a href="https://www.radiantdds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Radiant Dental : Dr. Nimisha Patel, DDS','website','Buford','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Radiant Dental : Dr. Nimisha Patel, DDS','Buford','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Center For Cosmetic And Sedation Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/buford/center-for-cosmetic-and-sedation-dentistry.html" style="color:inherit;text-decoration:none;">Center For Cosmetic And Sedation Dentistry</a></h3>
         <p class="dentist-address">📍 2690 Hamilton Mill Rd Ste 300, Buford, GA 30519, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(455 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7709328577" class="dentist-btn dentist-btn-call" onclick="trackLead('Center For Cosmetic And Sedation Dentistry','call','Buford','GA')">📞 Call</a> <a href="http://www.centerforsedation.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Center For Cosmetic And Sedation Dentistry','website','Buford','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7709328577" class="dentist-btn dentist-btn-call" onclick="trackLead('Center For Cosmetic And Sedation Dentistry','call','Buford','GA')">📞 Call</a> <a href="http://www.centerforsedation.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Center For Cosmetic And Sedation Dentistry','website','Buford','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Center For Cosmetic And Sedation Dentistry','Buford','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Magnolia Ridge Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/buford/magnolia-ridge-dental.html" style="color:inherit;text-decoration:none;">Magnolia Ridge Dental</a></h3>
         <p class="dentist-address">📍 3331 Hamilton Mill Rd Building 200, Suite 2200, Buford, GA 30519, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(444 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6785410770" class="dentist-btn dentist-btn-call" onclick="trackLead('Magnolia Ridge Dental','call','Buford','GA')">📞 Call</a> <a href="http://www.magnoliaridgedental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Magnolia Ridge Dental','website','Buford','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6785410770" class="dentist-btn dentist-btn-call" onclick="trackLead('Magnolia Ridge Dental','call','Buford','GA')">📞 Call</a> <a href="http://www.magnoliaridgedental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Magnolia Ridge Dental','website','Buford','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Magnolia Ridge Dental','Buford','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smile Moore Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/buford/smile-moore-dentistry.html" style="color:inherit;text-decoration:none;">Smile Moore Dentistry</a></h3>
         <p class="dentist-address">📍 4470 Commerce Dr suite b, Buford, GA 30518, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(420 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7702845789" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Moore Dentistry','call','Buford','GA')">📞 Call</a> <a href="https://www.smilemooredentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Moore Dentistry','website','Buford','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7702845789" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Moore Dentistry','call','Buford','GA')">📞 Call</a> <a href="https://www.smilemooredentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Moore Dentistry','website','Buford','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smile Moore Dentistry','Buford','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">DentFirst Dental Care Buford</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/buford/dentfirst-dental-care-buford.html" style="color:inherit;text-decoration:none;">DentFirst Dental Care Buford</a></h3>
         <p class="dentist-address">📍 3290 Buford Drive &amp;, GA-20, Buford, GA 30519, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(489 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6787140001" class="dentist-btn dentist-btn-call" onclick="trackLead('DentFirst Dental Care Buford','call','Buford','GA')">📞 Call</a> <a href="http://www.dentfirst.com/locations/buford-mall-of-ga/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('DentFirst Dental Care Buford','website','Buford','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6787140001" class="dentist-btn dentist-btn-call" onclick="trackLead('DentFirst Dental Care Buford','call','Buford','GA')">📞 Call</a> <a href="http://www.dentfirst.com/locations/buford-mall-of-ga/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('DentFirst Dental Care Buford','website','Buford','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('DentFirst Dental Care Buford','Buford','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Buford Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/buford/buford-dental.html" style="color:inherit;text-decoration:none;">Buford Dental</a></h3>
         <p class="dentist-address">📍 1944 Braselton Hwy #107, Buford, GA 30519, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(435 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7706912605" class="dentist-btn dentist-btn-call" onclick="trackLead('Buford Dental','call','Buford','GA')">📞 Call</a> <a href="https://buforddental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Buford Dental','website','Buford','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7706912605" class="dentist-btn dentist-btn-call" onclick="trackLead('Buford Dental','call','Buford','GA')">📞 Call</a> <a href="https://buforddental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Buford Dental','website','Buford','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Buford Dental','Buford','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smile Studio of Buford</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/buford/smile-studio-of-buford.html" style="color:inherit;text-decoration:none;">Smile Studio of Buford</a></h3>
         <p class="dentist-address">📍 2725 Hamilton Mill Rd #700, Buford, GA 30519, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(140 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6785280772" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Studio of Buford','call','Buford','GA')">📞 Call</a> <a href="http://www.smilestudiobuford.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Studio of Buford','website','Buford','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6785280772" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Studio of Buford','call','Buford','GA')">📞 Call</a> <a href="http://www.smilestudiobuford.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Studio of Buford','website','Buford','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smile Studio of Buford','Buford','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Imagix Dental of Buford</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/buford/imagix-dental-of-buford.html" style="color:inherit;text-decoration:none;">Imagix Dental of Buford</a></h3>
         <p class="dentist-address">📍 600 Garnett St, Buford, GA 30518, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(340 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6782842200" class="dentist-btn dentist-btn-call" onclick="trackLead('Imagix Dental of Buford','call','Buford','GA')">📞 Call</a> <a href="https://imagixdental.com/dentist-office/buford-ga-30518" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Imagix Dental of Buford','website','Buford','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6782842200" class="dentist-btn dentist-btn-call" onclick="trackLead('Imagix Dental of Buford','call','Buford','GA')">📞 Call</a> <a href="https://imagixdental.com/dentist-office/buford-ga-30518" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Imagix Dental of Buford','website','Buford','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Imagix Dental of Buford','Buford','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Ivy Creek Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/buford/ivy-creek-dental-care.html" style="color:inherit;text-decoration:none;">Ivy Creek Dental Care</a></h3>
         <p class="dentist-address">📍 3364 Hamilton Mill Rd, Buford, GA 30519, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(285 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4705985616" class="dentist-btn dentist-btn-call" onclick="trackLead('Ivy Creek Dental Care','call','Buford','GA')">📞 Call</a> <a href="http://ivycreekdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Ivy Creek Dental Care','website','Buford','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4705985616" class="dentist-btn dentist-btn-call" onclick="trackLead('Ivy Creek Dental Care','call','Buford','GA')">📞 Call</a> <a href="http://ivycreekdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Ivy Creek Dental Care','website','Buford','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Ivy Creek Dental Care','Buford','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Aspen Dental - Buford, GA</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/buford/aspen-dental-buford-ga.html" style="color:inherit;text-decoration:none;">Aspen Dental - Buford, GA</a></h3>
         <p class="dentist-address">📍 3730 Buford Dr Suite 100, Buford, GA 30519, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(760 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4706553683" class="dentist-btn dentist-btn-call" onclick="trackLead('Aspen Dental - Buford, GA','call','Buford','GA')">📞 Call</a> <a href="https://www.aspendental.com/dentist/ga/buford/3730-buford-drive-suite-100" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Aspen Dental - Buford, GA','website','Buford','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4706553683" class="dentist-btn dentist-btn-call" onclick="trackLead('Aspen Dental - Buford, GA','call','Buford','GA')">📞 Call</a> <a href="https://www.aspendental.com/dentist/ga/buford/3730-buford-drive-suite-100" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Aspen Dental - Buford, GA','website','Buford','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Aspen Dental - Buford, GA','Buford','GA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Sage Dental of Buford</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/georgia/buford/sage-dental-of-buford.html" style="color:inherit;text-decoration:none;">Sage Dental of Buford</a></h3>
         <p class="dentist-address">📍 3420 Buford Dr E-780, Buford, GA 30519, USA</p>
         <div class="dentist-rating">★★★★ 4.1 <span class="review-count">(375 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7708581678" class="dentist-btn dentist-btn-call" onclick="trackLead('Sage Dental of Buford','call','Buford','GA')">📞 Call</a> <a href="https://mysagedental.com/buford/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sage Dental of Buford','website','Buford','GA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7708581678" class="dentist-btn dentist-btn-call" onclick="trackLead('Sage Dental of Buford','call','Buford','GA')">📞 Call</a> <a href="https://mysagedental.com/buford/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sage Dental of Buford','website','Buford','GA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Sage Dental of Buford','Buford','GA')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

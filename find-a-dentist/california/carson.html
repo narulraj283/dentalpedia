@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 6 dentists in Carson, California. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"California","item":"https://dentalpedia.co/find-a-dentist/california.html"},
+                {"@type":"ListItem","position":4,"name":"Carson","item":"https://dentalpedia.co/find-a-dentist/california/carson.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Carson, CA","numberOfItems":6,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"SoCal Smile Care","address":"23405 Main St, Carson, CA 90745, USA","telephone":"(310) 856-9321"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Heart Dental","address":"20401 Avalon Blvd A, Carson, CA 90746, USA","telephone":"(424) 443-7755"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Washington Dental | Carson Dentist","address":"500 Carson St #101, Carson, CA 90745, USA","telephone":"(310) 879-5490"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Fabulous Smiles Dental Care","address":"602 W Sepulveda Blvd, Carson, CA 90745, USA","telephone":"(424) 378-4337"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Care Dental Center","address":"101 W Carson St, Carson, CA 90745, USA","telephone":"(310) 626-0004"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"A- Plus Dentistry","address":"441 E Carson St suite n, Carson, CA 90745, USA","telephone":"(310) 835-4085"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/california.html">California</a> &rsaquo; Carson</nav>
             <h1>Dentists in Carson, CA</h1>
@@ -85,40 +140,40 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">SoCal Smile Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/carson/socal-smile-care.html" style="color:inherit;text-decoration:none;">SoCal Smile Care</a></h3>
         <p class="dentist-address">📍 23405 Main St, Carson, CA 90745, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(29 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3108569321" class="dentist-btn dentist-btn-call" onclick="trackLead('SoCal Smile Care','call','Carson','CA')">📞 Call</a> <a href="https://www.socalsmilecare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('SoCal Smile Care','website','Carson','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3108569321" class="dentist-btn dentist-btn-call" onclick="trackLead('SoCal Smile Care','call','Carson','CA')">📞 Call</a> <a href="https://www.socalsmilecare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('SoCal Smile Care','website','Carson','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('SoCal Smile Care','Carson','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Heart Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/carson/heart-dental.html" style="color:inherit;text-decoration:none;">Heart Dental</a></h3>
         <p class="dentist-address">📍 20401 Avalon Blvd A, Carson, CA 90746, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(178 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4244437755" class="dentist-btn dentist-btn-call" onclick="trackLead('Heart Dental','call','Carson','CA')">📞 Call</a> <a href="https://www.heartdentalcarson.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Heart Dental','website','Carson','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4244437755" class="dentist-btn dentist-btn-call" onclick="trackLead('Heart Dental','call','Carson','CA')">📞 Call</a> <a href="https://www.heartdentalcarson.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Heart Dental','website','Carson','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Heart Dental','Carson','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Washington Dental | Carson Dentist</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/carson/washington-dental-carson-dentist.html" style="color:inherit;text-decoration:none;">Washington Dental | Carson Dentist</a></h3>
         <p class="dentist-address">📍 500 Carson St #101, Carson, CA 90745, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(545 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3108795490" class="dentist-btn dentist-btn-call" onclick="trackLead('Washington Dental | Carson Dentist','call','Carson','CA')">📞 Call</a> <a href="http://www.thecarsondentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Washington Dental | Carson Dentist','website','Carson','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3108795490" class="dentist-btn dentist-btn-call" onclick="trackLead('Washington Dental | Carson Dentist','call','Carson','CA')">📞 Call</a> <a href="http://www.thecarsondentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Washington Dental | Carson Dentist','website','Carson','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Washington Dental | Carson Dentist','Carson','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Fabulous Smiles Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/carson/fabulous-smiles-dental-care.html" style="color:inherit;text-decoration:none;">Fabulous Smiles Dental Care</a></h3>
         <p class="dentist-address">📍 602 W Sepulveda Blvd, Carson, CA 90745, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(27 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4243784337" class="dentist-btn dentist-btn-call" onclick="trackLead('Fabulous Smiles Dental Care','call','Carson','CA')">📞 Call</a> <a href="http://fabuloussmilesdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Fabulous Smiles Dental Care','website','Carson','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4243784337" class="dentist-btn dentist-btn-call" onclick="trackLead('Fabulous Smiles Dental Care','call','Carson','CA')">📞 Call</a> <a href="http://fabuloussmilesdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Fabulous Smiles Dental Care','website','Carson','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Fabulous Smiles Dental Care','Carson','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Care Dental Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/carson/care-dental-center.html" style="color:inherit;text-decoration:none;">Care Dental Center</a></h3>
         <p class="dentist-address">📍 101 W Carson St, Carson, CA 90745, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(618 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3106260004" class="dentist-btn dentist-btn-call" onclick="trackLead('Care Dental Center','call','Carson','CA')">📞 Call</a> <a href="https://www.dentistcarson.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Care Dental Center','website','Carson','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3106260004" class="dentist-btn dentist-btn-call" onclick="trackLead('Care Dental Center','call','Carson','CA')">📞 Call</a> <a href="https://www.dentistcarson.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Care Dental Center','website','Carson','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Care Dental Center','Carson','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">A- Plus Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/carson/a-plus-dentistry.html" style="color:inherit;text-decoration:none;">A- Plus Dentistry</a></h3>
         <p class="dentist-address">📍 441 E Carson St suite n, Carson, CA 90745, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(50 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3108354085" class="dentist-btn dentist-btn-call" onclick="trackLead('A- Plus Dentistry','call','Carson','CA')">📞 Call</a> <a href="http://www.aplusdentistryla.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('A- Plus Dentistry','website','Carson','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3108354085" class="dentist-btn dentist-btn-call" onclick="trackLead('A- Plus Dentistry','call','Carson','CA')">📞 Call</a> <a href="http://www.aplusdentistryla.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('A- Plus Dentistry','website','Carson','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('A- Plus Dentistry','Carson','CA')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

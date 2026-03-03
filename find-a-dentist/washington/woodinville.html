@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 11 dentists in Woodinville, Washington. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Washington","item":"https://dentalpedia.co/find-a-dentist/washington.html"},
+                {"@type":"ListItem","position":4,"name":"Woodinville","item":"https://dentalpedia.co/find-a-dentist/washington/woodinville.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Woodinville, WA","numberOfItems":11,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Yerra Family Dentistry","address":"15610 NE Woodinville Duvall Rd Ste #104, Woodinville, WA 98072, USA","telephone":"(206) 703-3993"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Saman Saghafi, DDS, MSC, MAGD, FICOI","address":"14030 NE Woodinville Duvall Rd, Woodinville, WA 98072, USA","telephone":"(425) 424-0744"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Advanced Care Dentistry","address":"13515 NE 175th St B, Woodinville, WA 98072, USA","telephone":"(425) 357-7759"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Woodinville Modern Dentistry","address":"14239 NE Woodinville Duvall Rd Unit 21, Woodinville, WA 98072, USA","telephone":"(425) 458-2859"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Koczarski Family &amp; Aesthetic Dentistry","address":"17000 140th Ave NE #202, Woodinville, WA 98072, USA","telephone":"(564) 206-0240"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Oasis Family Dentistry: Tim Hung, DDS","address":"17331 135th Ave NE D, Woodinville, WA 98072, USA","telephone":"(425) 486-9245"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Wagner Family Dentistry","address":"12625 NE 173rd Pl, Woodinville, WA 98072, USA","telephone":"(425) 475-2332"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Woodinville Endodontics","address":"17000 140th Ave NE #201, Woodinville, WA 98072, USA","telephone":"(425) 375-2930"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Viridian Oral &amp; Maxillofacial Surgery","address":"15610 NE Woodinville Duvall Rd #109, Woodinville, WA 98072, USA","telephone":"(425) 287-6082"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Woodinville Pediatric Dentistry","address":"17000 140th Ave NE #302, Woodinville, WA 98072, USA","telephone":"(425) 402-8393"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Gentle Dental Woodinville","address":"13317 NE 175th St Suite AA, Woodinville, WA 98072, USA","telephone":"(425) 321-5614"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/washington.html">Washington</a> &rsaquo; Woodinville</nav>
             <h1>Dentists in Woodinville, WA</h1>
@@ -85,70 +140,70 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Yerra Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/washington/woodinville/yerra-family-dentistry.html" style="color:inherit;text-decoration:none;">Yerra Family Dentistry</a></h3>
         <p class="dentist-address">📍 15610 NE Woodinville Duvall Rd Ste #104, Woodinville, WA 98072, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(149 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2067033993" class="dentist-btn dentist-btn-call" onclick="trackLead('Yerra Family Dentistry','call','Woodinville','WA')">📞 Call</a> <a href="https://www.yerrafamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Yerra Family Dentistry','website','Woodinville','WA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2067033993" class="dentist-btn dentist-btn-call" onclick="trackLead('Yerra Family Dentistry','call','Woodinville','WA')">📞 Call</a> <a href="https://www.yerrafamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Yerra Family Dentistry','website','Woodinville','WA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Yerra Family Dentistry','Woodinville','WA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Saman Saghafi, DDS, MSC, MAGD, FICOI</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/washington/woodinville/saman-saghafi-dds-msc-magd-ficoi.html" style="color:inherit;text-decoration:none;">Saman Saghafi, DDS, MSC, MAGD, FICOI</a></h3>
         <p class="dentist-address">📍 14030 NE Woodinville Duvall Rd, Woodinville, WA 98072, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(27 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4254240744" class="dentist-btn dentist-btn-call" onclick="trackLead('Saman Saghafi, DDS, MSC, MAGD, FICOI','call','Woodinville','WA')">📞 Call</a> <a href="https://www.smilestoremember.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Saman Saghafi, DDS, MSC, MAGD, FICOI','website','Woodinville','WA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4254240744" class="dentist-btn dentist-btn-call" onclick="trackLead('Saman Saghafi, DDS, MSC, MAGD, FICOI','call','Woodinville','WA')">📞 Call</a> <a href="https://www.smilestoremember.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Saman Saghafi, DDS, MSC, MAGD, FICOI','website','Woodinville','WA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Saman Saghafi, DDS, MSC, MAGD, FICOI','Woodinville','WA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Advanced Care Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/washington/woodinville/advanced-care-dentistry.html" style="color:inherit;text-decoration:none;">Advanced Care Dentistry</a></h3>
         <p class="dentist-address">📍 13515 NE 175th St B, Woodinville, WA 98072, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(300 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4253577759" class="dentist-btn dentist-btn-call" onclick="trackLead('Advanced Care Dentistry','call','Woodinville','WA')">📞 Call</a> <a href="https://www.thomasomarxen.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Advanced Care Dentistry','website','Woodinville','WA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4253577759" class="dentist-btn dentist-btn-call" onclick="trackLead('Advanced Care Dentistry','call','Woodinville','WA')">📞 Call</a> <a href="https://www.thomasomarxen.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Advanced Care Dentistry','website','Woodinville','WA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Advanced Care Dentistry','Woodinville','WA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Woodinville Modern Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/washington/woodinville/woodinville-modern-dentistry.html" style="color:inherit;text-decoration:none;">Woodinville Modern Dentistry</a></h3>
         <p class="dentist-address">📍 14239 NE Woodinville Duvall Rd Unit 21, Woodinville, WA 98072, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(248 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4254582859" class="dentist-btn dentist-btn-call" onclick="trackLead('Woodinville Modern Dentistry','call','Woodinville','WA')">📞 Call</a> <a href="https://www.woodinvillemoderndentistry.com/?sc_cid=GBP%3AO%3AGP%3A463%3AOrganic_Search%3AGeneral%3Ana&amp;_vsrefdom=organic_gbp&amp;y_source=1_MjU2MDgyNzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Woodinville Modern Dentistry','website','Woodinville','WA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4254582859" class="dentist-btn dentist-btn-call" onclick="trackLead('Woodinville Modern Dentistry','call','Woodinville','WA')">📞 Call</a> <a href="https://www.woodinvillemoderndentistry.com/?sc_cid=GBP%3AO%3AGP%3A463%3AOrganic_Search%3AGeneral%3Ana&amp;_vsrefdom=organic_gbp&amp;y_source=1_MjU2MDgyNzYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Woodinville Modern Dentistry','website','Woodinville','WA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Woodinville Modern Dentistry','Woodinville','WA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Koczarski Family &amp; Aesthetic Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/washington/woodinville/koczarski-family-aesthetic-dentistry.html" style="color:inherit;text-decoration:none;">Koczarski Family &amp; Aesthetic Dentistry</a></h3>
         <p class="dentist-address">📍 17000 140th Ave NE #202, Woodinville, WA 98072, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(236 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5642060240" class="dentist-btn dentist-btn-call" onclick="trackLead('Koczarski Family &amp; Aesthetic Dentistry','call','Woodinville','WA')">📞 Call</a> <a href="http://www.nwsmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Koczarski Family &amp; Aesthetic Dentistry','website','Woodinville','WA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5642060240" class="dentist-btn dentist-btn-call" onclick="trackLead('Koczarski Family &amp; Aesthetic Dentistry','call','Woodinville','WA')">📞 Call</a> <a href="http://www.nwsmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Koczarski Family &amp; Aesthetic Dentistry','website','Woodinville','WA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Koczarski Family &amp; Aesthetic Dentistry','Woodinville','WA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Oasis Family Dentistry: Tim Hung, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/washington/woodinville/oasis-family-dentistry-tim-hung-dds.html" style="color:inherit;text-decoration:none;">Oasis Family Dentistry: Tim Hung, DDS</a></h3>
         <p class="dentist-address">📍 17331 135th Ave NE D, Woodinville, WA 98072, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(208 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4254869245" class="dentist-btn dentist-btn-call" onclick="trackLead('Oasis Family Dentistry: Tim Hung, DDS','call','Woodinville','WA')">📞 Call</a> <a href="https://www.woodinvilledentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oasis Family Dentistry: Tim Hung, DDS','website','Woodinville','WA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4254869245" class="dentist-btn dentist-btn-call" onclick="trackLead('Oasis Family Dentistry: Tim Hung, DDS','call','Woodinville','WA')">📞 Call</a> <a href="https://www.woodinvilledentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oasis Family Dentistry: Tim Hung, DDS','website','Woodinville','WA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Oasis Family Dentistry: Tim Hung, DDS','Woodinville','WA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Wagner Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/washington/woodinville/wagner-family-dentistry.html" style="color:inherit;text-decoration:none;">Wagner Family Dentistry</a></h3>
         <p class="dentist-address">📍 12625 NE 173rd Pl, Woodinville, WA 98072, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(164 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4254752332" class="dentist-btn dentist-btn-call" onclick="trackLead('Wagner Family Dentistry','call','Woodinville','WA')">📞 Call</a> <a href="https://www.drwagnerdds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Wagner Family Dentistry','website','Woodinville','WA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4254752332" class="dentist-btn dentist-btn-call" onclick="trackLead('Wagner Family Dentistry','call','Woodinville','WA')">📞 Call</a> <a href="https://www.drwagnerdds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Wagner Family Dentistry','website','Woodinville','WA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Wagner Family Dentistry','Woodinville','WA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Woodinville Endodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/washington/woodinville/woodinville-endodontics.html" style="color:inherit;text-decoration:none;">Woodinville Endodontics</a></h3>
         <p class="dentist-address">📍 17000 140th Ave NE #201, Woodinville, WA 98072, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(94 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4253752930" class="dentist-btn dentist-btn-call" onclick="trackLead('Woodinville Endodontics','call','Woodinville','WA')">📞 Call</a> <a href="http://woodinvilleendowa.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Woodinville Endodontics','website','Woodinville','WA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4253752930" class="dentist-btn dentist-btn-call" onclick="trackLead('Woodinville Endodontics','call','Woodinville','WA')">📞 Call</a> <a href="http://woodinvilleendowa.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Woodinville Endodontics','website','Woodinville','WA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Woodinville Endodontics','Woodinville','WA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Viridian Oral &amp; Maxillofacial Surgery</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/washington/woodinville/viridian-oral-maxillofacial-surgery.html" style="color:inherit;text-decoration:none;">Viridian Oral &amp; Maxillofacial Surgery</a></h3>
         <p class="dentist-address">📍 15610 NE Woodinville Duvall Rd #109, Woodinville, WA 98072, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(28 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4252876082" class="dentist-btn dentist-btn-call" onclick="trackLead('Viridian Oral &amp; Maxillofacial Surgery','call','Woodinville','WA')">📞 Call</a> <a href="https://www.viridianoms.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Viridian Oral &amp; Maxillofacial Surgery','website','Woodinville','WA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4252876082" class="dentist-btn dentist-btn-call" onclick="trackLead('Viridian Oral &amp; Maxillofacial Surgery','call','Woodinville','WA')">📞 Call</a> <a href="https://www.viridianoms.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Viridian Oral &amp; Maxillofacial Surgery','website','Woodinville','WA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Viridian Oral &amp; Maxillofacial Surgery','Woodinville','WA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Woodinville Pediatric Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/washington/woodinville/woodinville-pediatric-dentistry.html" style="color:inherit;text-decoration:none;">Woodinville Pediatric Dentistry</a></h3>
         <p class="dentist-address">📍 17000 140th Ave NE #302, Woodinville, WA 98072, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(27 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4254028393" class="dentist-btn dentist-btn-call" onclick="trackLead('Woodinville Pediatric Dentistry','call','Woodinville','WA')">📞 Call</a> <a href="https://www.woodinvillepd.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Woodinville Pediatric Dentistry','website','Woodinville','WA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4254028393" class="dentist-btn dentist-btn-call" onclick="trackLead('Woodinville Pediatric Dentistry','call','Woodinville','WA')">📞 Call</a> <a href="https://www.woodinvillepd.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Woodinville Pediatric Dentistry','website','Woodinville','WA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Woodinville Pediatric Dentistry','Woodinville','WA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Gentle Dental Woodinville</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/washington/woodinville/gentle-dental-woodinville.html" style="color:inherit;text-decoration:none;">Gentle Dental Woodinville</a></h3>
         <p class="dentist-address">📍 13317 NE 175th St Suite AA, Woodinville, WA 98072, USA</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(110 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4253215614" class="dentist-btn dentist-btn-call" onclick="trackLead('Gentle Dental Woodinville','call','Woodinville','WA')">📞 Call</a> <a href="https://gentledental.interdent.com/locations/wa/woodinville/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Gentle Dental Woodinville','website','Woodinville','WA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4253215614" class="dentist-btn dentist-btn-call" onclick="trackLead('Gentle Dental Woodinville','call','Woodinville','WA')">📞 Call</a> <a href="https://gentledental.interdent.com/locations/wa/woodinville/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Gentle Dental Woodinville','website','Woodinville','WA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Gentle Dental Woodinville','Woodinville','WA')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

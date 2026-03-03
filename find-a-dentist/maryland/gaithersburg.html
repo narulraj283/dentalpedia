@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 11 dentists in Gaithersburg, Maryland. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Maryland","item":"https://dentalpedia.co/find-a-dentist/maryland.html"},
+                {"@type":"ListItem","position":4,"name":"Gaithersburg","item":"https://dentalpedia.co/find-a-dentist/maryland/gaithersburg.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Gaithersburg, MD","numberOfItems":11,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"New Look Dental Care","address":"20219 Goshen Rd, Gaithersburg, MD 20879, USA","telephone":"(240) 477-5921"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Lifetime Smile","address":"101 Lakeforest Blvd #101, Gaithersburg, MD 20877, USA","telephone":"(301) 869-1170"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Gaithersburg Family Dental Center","address":"839 Quince Orchard Blvd suite a, Gaithersburg, MD 20878, USA","telephone":"(301) 407-1946"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Robert J Kelly DDS &amp; Associates","address":"220 Main St # 100, Gaithersburg, MD 20878, USA","telephone":"(301) 519-3232"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Wilson Family Dentistry","address":"9 Desellum Ave, Gaithersburg, MD 20877, USA","telephone":"(301) 926-1511"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Schneider Family Dentistry","address":"22 Montgomery Village Ave Ste A, Gaithersburg, MD 20879, USA","telephone":"(240) 654-3555"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Revive Family Dental Center","address":"811 Russell Ave Suite C, Gaithersburg, MD 20879, USA","telephone":"(301) 945-8422"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Modern Smile Dental","address":"901 Russell Ave STE 100, Gaithersburg, MD 20879, USA","telephone":"(301) 850-0376"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Woo Wang Dental","address":"17 Firstfield Rd Suite 101, Gaithersburg, MD 20878, USA","telephone":"(240) 683-3833"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Sun Dental Associates: Sun Richard Y DDS","address":"9087 Shady Grove Ct, Gaithersburg, MD 20877, USA","telephone":"(301) 921-6338"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Montgomery Dental MD","address":"10007 Stedwick Rd, Gaithersburg, MD 20886, USA","telephone":""}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/maryland.html">Maryland</a> &rsaquo; Gaithersburg</nav>
             <h1>Dentists in Gaithersburg, MD</h1>
@@ -85,70 +140,70 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">New Look Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maryland/gaithersburg/new-look-dental-care.html" style="color:inherit;text-decoration:none;">New Look Dental Care</a></h3>
         <p class="dentist-address">📍 20219 Goshen Rd, Gaithersburg, MD 20879, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(176 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2404775921" class="dentist-btn dentist-btn-call" onclick="trackLead('New Look Dental Care','call','Gaithersburg','MD')">📞 Call</a> <a href="https://newlookdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('New Look Dental Care','website','Gaithersburg','MD')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2404775921" class="dentist-btn dentist-btn-call" onclick="trackLead('New Look Dental Care','call','Gaithersburg','MD')">📞 Call</a> <a href="https://newlookdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('New Look Dental Care','website','Gaithersburg','MD')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('New Look Dental Care','Gaithersburg','MD')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Lifetime Smile</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maryland/gaithersburg/lifetime-smile.html" style="color:inherit;text-decoration:none;">Lifetime Smile</a></h3>
         <p class="dentist-address">📍 101 Lakeforest Blvd #101, Gaithersburg, MD 20877, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(126 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3018691170" class="dentist-btn dentist-btn-call" onclick="trackLead('Lifetime Smile','call','Gaithersburg','MD')">📞 Call</a> <a href="http://lifetimesmiledds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lifetime Smile','website','Gaithersburg','MD')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3018691170" class="dentist-btn dentist-btn-call" onclick="trackLead('Lifetime Smile','call','Gaithersburg','MD')">📞 Call</a> <a href="http://lifetimesmiledds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lifetime Smile','website','Gaithersburg','MD')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Lifetime Smile','Gaithersburg','MD')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Gaithersburg Family Dental Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maryland/gaithersburg/gaithersburg-family-dental-center.html" style="color:inherit;text-decoration:none;">Gaithersburg Family Dental Center</a></h3>
         <p class="dentist-address">📍 839 Quince Orchard Blvd suite a, Gaithersburg, MD 20878, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(7 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3014071946" class="dentist-btn dentist-btn-call" onclick="trackLead('Gaithersburg Family Dental Center','call','Gaithersburg','MD')">📞 Call</a> <a href="http://www.gburgfamilydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Gaithersburg Family Dental Center','website','Gaithersburg','MD')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3014071946" class="dentist-btn dentist-btn-call" onclick="trackLead('Gaithersburg Family Dental Center','call','Gaithersburg','MD')">📞 Call</a> <a href="http://www.gburgfamilydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Gaithersburg Family Dental Center','website','Gaithersburg','MD')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Gaithersburg Family Dental Center','Gaithersburg','MD')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Robert J Kelly DDS &amp; Associates</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maryland/gaithersburg/robert-j-kelly-dds-associates.html" style="color:inherit;text-decoration:none;">Robert J Kelly DDS &amp; Associates</a></h3>
         <p class="dentist-address">📍 220 Main St # 100, Gaithersburg, MD 20878, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(907 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3015193232" class="dentist-btn dentist-btn-call" onclick="trackLead('Robert J Kelly DDS &amp; Associates','call','Gaithersburg','MD')">📞 Call</a> <a href="https://www.kellydds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Robert J Kelly DDS &amp; Associates','website','Gaithersburg','MD')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3015193232" class="dentist-btn dentist-btn-call" onclick="trackLead('Robert J Kelly DDS &amp; Associates','call','Gaithersburg','MD')">📞 Call</a> <a href="https://www.kellydds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Robert J Kelly DDS &amp; Associates','website','Gaithersburg','MD')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Robert J Kelly DDS &amp; Associates','Gaithersburg','MD')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Wilson Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maryland/gaithersburg/wilson-family-dentistry.html" style="color:inherit;text-decoration:none;">Wilson Family Dentistry</a></h3>
         <p class="dentist-address">📍 9 Desellum Ave, Gaithersburg, MD 20877, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(373 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3019261511" class="dentist-btn dentist-btn-call" onclick="trackLead('Wilson Family Dentistry','call','Gaithersburg','MD')">📞 Call</a> <a href="https://wilsonfamdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Wilson Family Dentistry','website','Gaithersburg','MD')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3019261511" class="dentist-btn dentist-btn-call" onclick="trackLead('Wilson Family Dentistry','call','Gaithersburg','MD')">📞 Call</a> <a href="https://wilsonfamdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Wilson Family Dentistry','website','Gaithersburg','MD')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Wilson Family Dentistry','Gaithersburg','MD')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Schneider Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maryland/gaithersburg/schneider-family-dentistry.html" style="color:inherit;text-decoration:none;">Schneider Family Dentistry</a></h3>
         <p class="dentist-address">📍 22 Montgomery Village Ave Ste A, Gaithersburg, MD 20879, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(261 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2406543555" class="dentist-btn dentist-btn-call" onclick="trackLead('Schneider Family Dentistry','call','Gaithersburg','MD')">📞 Call</a> <a href="https://www.schneiderdentists.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Schneider Family Dentistry','website','Gaithersburg','MD')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2406543555" class="dentist-btn dentist-btn-call" onclick="trackLead('Schneider Family Dentistry','call','Gaithersburg','MD')">📞 Call</a> <a href="https://www.schneiderdentists.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Schneider Family Dentistry','website','Gaithersburg','MD')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Schneider Family Dentistry','Gaithersburg','MD')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Revive Family Dental Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maryland/gaithersburg/revive-family-dental-center.html" style="color:inherit;text-decoration:none;">Revive Family Dental Center</a></h3>
         <p class="dentist-address">📍 811 Russell Ave Suite C, Gaithersburg, MD 20879, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(184 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3019458422" class="dentist-btn dentist-btn-call" onclick="trackLead('Revive Family Dental Center','call','Gaithersburg','MD')">📞 Call</a> <a href="https://www.revivefamilydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Revive Family Dental Center','website','Gaithersburg','MD')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3019458422" class="dentist-btn dentist-btn-call" onclick="trackLead('Revive Family Dental Center','call','Gaithersburg','MD')">📞 Call</a> <a href="https://www.revivefamilydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Revive Family Dental Center','website','Gaithersburg','MD')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Revive Family Dental Center','Gaithersburg','MD')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Modern Smile Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maryland/gaithersburg/modern-smile-dental.html" style="color:inherit;text-decoration:none;">Modern Smile Dental</a></h3>
         <p class="dentist-address">📍 901 Russell Ave STE 100, Gaithersburg, MD 20879, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(177 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3018500376" class="dentist-btn dentist-btn-call" onclick="trackLead('Modern Smile Dental','call','Gaithersburg','MD')">📞 Call</a> <a href="https://dentistofficegaithersburg.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Modern Smile Dental','website','Gaithersburg','MD')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3018500376" class="dentist-btn dentist-btn-call" onclick="trackLead('Modern Smile Dental','call','Gaithersburg','MD')">📞 Call</a> <a href="https://dentistofficegaithersburg.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Modern Smile Dental','website','Gaithersburg','MD')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Modern Smile Dental','Gaithersburg','MD')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Woo Wang Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maryland/gaithersburg/woo-wang-dental.html" style="color:inherit;text-decoration:none;">Woo Wang Dental</a></h3>
         <p class="dentist-address">📍 17 Firstfield Rd Suite 101, Gaithersburg, MD 20878, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(722 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2406833833" class="dentist-btn dentist-btn-call" onclick="trackLead('Woo Wang Dental','call','Gaithersburg','MD')">📞 Call</a> <a href="https://www.woowangdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Woo Wang Dental','website','Gaithersburg','MD')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2406833833" class="dentist-btn dentist-btn-call" onclick="trackLead('Woo Wang Dental','call','Gaithersburg','MD')">📞 Call</a> <a href="https://www.woowangdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Woo Wang Dental','website','Gaithersburg','MD')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Woo Wang Dental','Gaithersburg','MD')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Sun Dental Associates: Sun Richard Y DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maryland/gaithersburg/sun-dental-associates-sun-richard-y-dds.html" style="color:inherit;text-decoration:none;">Sun Dental Associates: Sun Richard Y DDS</a></h3>
         <p class="dentist-address">📍 9087 Shady Grove Ct, Gaithersburg, MD 20877, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(95 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3019216338" class="dentist-btn dentist-btn-call" onclick="trackLead('Sun Dental Associates: Sun Richard Y DDS','call','Gaithersburg','MD')">📞 Call</a> <a href="https://www.sundentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sun Dental Associates: Sun Richard Y DDS','website','Gaithersburg','MD')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3019216338" class="dentist-btn dentist-btn-call" onclick="trackLead('Sun Dental Associates: Sun Richard Y DDS','call','Gaithersburg','MD')">📞 Call</a> <a href="https://www.sundentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sun Dental Associates: Sun Richard Y DDS','website','Gaithersburg','MD')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Sun Dental Associates: Sun Richard Y DDS','Gaithersburg','MD')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Montgomery Dental MD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maryland/gaithersburg/montgomery-dental-md.html" style="color:inherit;text-decoration:none;">Montgomery Dental MD</a></h3>
         <p class="dentist-address">📍 10007 Stedwick Rd, Gaithersburg, MD 20886, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(163 reviews)</span></div>
-        <div class="dentist-actions"> </div>
+        <div class="dentist-actions">  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Montgomery Dental MD','Gaithersburg','MD')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

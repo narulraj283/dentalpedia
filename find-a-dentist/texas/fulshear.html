@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 8 dentists in Fulshear, Texas. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Texas","item":"https://dentalpedia.co/find-a-dentist/texas.html"},
+                {"@type":"ListItem","position":4,"name":"Fulshear","item":"https://dentalpedia.co/find-a-dentist/texas/fulshear.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Fulshear, TX","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Fulshear Dental-Dr. Aekta Fifadara","address":"7619 Tiki Dr A, Fulshear, TX 77441, USA","telephone":"(281) 346-8371"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Miller Dental","address":"6619 W Cross Creek Bend Ln Ste 400, Fulshear, TX 77441, USA","telephone":"(832) 548-5904"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Hometown Dental of Fulshear","address":"28830 FM 1093 Suite 120, Fulshear, TX 77441, USA","telephone":"(832) 789-1553"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Vogue Dentistry Fulshear","address":"28432 FM 1093 suite E, Fulshear, TX 77441, USA","telephone":"(832) 789-1102"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"GLĀZ Dental Studio","address":"6601 Skyline Dr, Fulshear, TX 77441, USA","telephone":"(713) 561-3234"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"359 Dental &amp; Orthodontics","address":"8411 Main St Suite E, Fulshear, TX 77441, USA","telephone":"(281) 528-1179"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Smiles of Fulshear &amp; Implant","address":"6520 FM359 Suite 200, Fulshear, TX 77441, USA","telephone":"(832) 789-1455"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Houston Pediatric Dental Specialists - Pediatric Dentist in Fulshear, TX","address":"29818 FM 1093 #200, Fulshear, TX 77441, USA","telephone":"(281) 346-8326"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/texas.html">Texas</a> &rsaquo; Fulshear</nav>
             <h1>Dentists in Fulshear, TX</h1>
@@ -85,52 +140,52 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Fulshear Dental-Dr. Aekta Fifadara</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/fulshear/fulshear-dental-dr-aekta-fifadara.html" style="color:inherit;text-decoration:none;">Fulshear Dental-Dr. Aekta Fifadara</a></h3>
         <p class="dentist-address">📍 7619 Tiki Dr A, Fulshear, TX 77441, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(741 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2813468371" class="dentist-btn dentist-btn-call" onclick="trackLead('Fulshear Dental-Dr. Aekta Fifadara','call','Fulshear','TX')">📞 Call</a> <a href="http://www.iheartfulsheardental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Fulshear Dental-Dr. Aekta Fifadara','website','Fulshear','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2813468371" class="dentist-btn dentist-btn-call" onclick="trackLead('Fulshear Dental-Dr. Aekta Fifadara','call','Fulshear','TX')">📞 Call</a> <a href="http://www.iheartfulsheardental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Fulshear Dental-Dr. Aekta Fifadara','website','Fulshear','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Fulshear Dental-Dr. Aekta Fifadara','Fulshear','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Miller Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/fulshear/miller-dental.html" style="color:inherit;text-decoration:none;">Miller Dental</a></h3>
         <p class="dentist-address">📍 6619 W Cross Creek Bend Ln Ste 400, Fulshear, TX 77441, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(473 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8325485904" class="dentist-btn dentist-btn-call" onclick="trackLead('Miller Dental','call','Fulshear','TX')">📞 Call</a> <a href="https://millerdentalcc.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Miller Dental','website','Fulshear','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8325485904" class="dentist-btn dentist-btn-call" onclick="trackLead('Miller Dental','call','Fulshear','TX')">📞 Call</a> <a href="https://millerdentalcc.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Miller Dental','website','Fulshear','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Miller Dental','Fulshear','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Hometown Dental of Fulshear</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/fulshear/hometown-dental-of-fulshear.html" style="color:inherit;text-decoration:none;">Hometown Dental of Fulshear</a></h3>
         <p class="dentist-address">📍 28830 FM 1093 Suite 120, Fulshear, TX 77441, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(121 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8327891553" class="dentist-btn dentist-btn-call" onclick="trackLead('Hometown Dental of Fulshear','call','Fulshear','TX')">📞 Call</a> <a href="https://hometowndentaloffulshear.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hometown Dental of Fulshear','website','Fulshear','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8327891553" class="dentist-btn dentist-btn-call" onclick="trackLead('Hometown Dental of Fulshear','call','Fulshear','TX')">📞 Call</a> <a href="https://hometowndentaloffulshear.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hometown Dental of Fulshear','website','Fulshear','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Hometown Dental of Fulshear','Fulshear','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Vogue Dentistry Fulshear</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/fulshear/vogue-dentistry-fulshear.html" style="color:inherit;text-decoration:none;">Vogue Dentistry Fulshear</a></h3>
         <p class="dentist-address">📍 28432 FM 1093 suite E, Fulshear, TX 77441, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(65 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8327891102" class="dentist-btn dentist-btn-call" onclick="trackLead('Vogue Dentistry Fulshear','call','Fulshear','TX')">📞 Call</a> <a href="https://www.dentistinfulsheartx.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Vogue Dentistry Fulshear','website','Fulshear','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8327891102" class="dentist-btn dentist-btn-call" onclick="trackLead('Vogue Dentistry Fulshear','call','Fulshear','TX')">📞 Call</a> <a href="https://www.dentistinfulsheartx.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Vogue Dentistry Fulshear','website','Fulshear','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Vogue Dentistry Fulshear','Fulshear','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">GLĀZ Dental Studio</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/fulshear/gl-z-dental-studio.html" style="color:inherit;text-decoration:none;">GLĀZ Dental Studio</a></h3>
         <p class="dentist-address">📍 6601 Skyline Dr, Fulshear, TX 77441, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(23 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7135613234" class="dentist-btn dentist-btn-call" onclick="trackLead('GLĀZ Dental Studio','call','Fulshear','TX')">📞 Call</a> <a href="https://glazdentalstudio.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('GLĀZ Dental Studio','website','Fulshear','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7135613234" class="dentist-btn dentist-btn-call" onclick="trackLead('GLĀZ Dental Studio','call','Fulshear','TX')">📞 Call</a> <a href="https://glazdentalstudio.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('GLĀZ Dental Studio','website','Fulshear','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('GLĀZ Dental Studio','Fulshear','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">359 Dental &amp; Orthodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/fulshear/359-dental-orthodontics.html" style="color:inherit;text-decoration:none;">359 Dental &amp; Orthodontics</a></h3>
         <p class="dentist-address">📍 8411 Main St Suite E, Fulshear, TX 77441, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(557 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2815281179" class="dentist-btn dentist-btn-call" onclick="trackLead('359 Dental &amp; Orthodontics','call','Fulshear','TX')">📞 Call</a> <a href="https://359dental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('359 Dental &amp; Orthodontics','website','Fulshear','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2815281179" class="dentist-btn dentist-btn-call" onclick="trackLead('359 Dental &amp; Orthodontics','call','Fulshear','TX')">📞 Call</a> <a href="https://359dental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('359 Dental &amp; Orthodontics','website','Fulshear','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('359 Dental &amp; Orthodontics','Fulshear','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smiles of Fulshear &amp; Implant</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/fulshear/smiles-of-fulshear-implant.html" style="color:inherit;text-decoration:none;">Smiles of Fulshear &amp; Implant</a></h3>
         <p class="dentist-address">📍 6520 FM359 Suite 200, Fulshear, TX 77441, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(221 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8327891455" class="dentist-btn dentist-btn-call" onclick="trackLead('Smiles of Fulshear &amp; Implant','call','Fulshear','TX')">📞 Call</a> <a href="https://smilesoffulshear.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smiles of Fulshear &amp; Implant','website','Fulshear','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8327891455" class="dentist-btn dentist-btn-call" onclick="trackLead('Smiles of Fulshear &amp; Implant','call','Fulshear','TX')">📞 Call</a> <a href="https://smilesoffulshear.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smiles of Fulshear &amp; Implant','website','Fulshear','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smiles of Fulshear &amp; Implant','Fulshear','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Houston Pediatric Dental Specialists - Pediatric Dentist in Fulshear, TX</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/fulshear/houston-pediatric-dental-specialists-pediatric-dentist-in-fu.html" style="color:inherit;text-decoration:none;">Houston Pediatric Dental Specialists - Pediatric Dentist in Fulshear, TX</a></h3>
         <p class="dentist-address">📍 29818 FM 1093 #200, Fulshear, TX 77441, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(104 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2813468326" class="dentist-btn dentist-btn-call" onclick="trackLead('Houston Pediatric Dental Specialists - Pediatric Dentist in Fulshear, TX','call','Fulshear','TX')">📞 Call</a> <a href="https://www.pediatricdentisthoustontexas.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Houston Pediatric Dental Specialists - Pediatric Dentist in Fulshear, TX','website','Fulshear','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2813468326" class="dentist-btn dentist-btn-call" onclick="trackLead('Houston Pediatric Dental Specialists - Pediatric Dentist in Fulshear, TX','call','Fulshear','TX')">📞 Call</a> <a href="https://www.pediatricdentisthoustontexas.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Houston Pediatric Dental Specialists - Pediatric Dentist in Fulshear, TX','website','Fulshear','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Houston Pediatric Dental Specialists - Pediatric Dentist in Fulshear, TX','Fulshear','TX')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

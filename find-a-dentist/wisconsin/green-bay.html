@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 11 dentists in Green Bay, Wisconsin. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Wisconsin","item":"https://dentalpedia.co/find-a-dentist/wisconsin.html"},
+                {"@type":"ListItem","position":4,"name":"Green Bay","item":"https://dentalpedia.co/find-a-dentist/wisconsin/green-bay.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Green Bay, WI","numberOfItems":11,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Dental Studio 920","address":"2664 S Oneida St Suite 104, Green Bay, WI 54304, USA","telephone":"(920) 477-0580"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Sierra Dental","address":"2726 Riverview Dr, Green Bay, WI 54313, USA","telephone":"(920) 785-6684"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"ArmDent","address":"2543 Babcock Rd Suite 110, Green Bay, WI 54313, USA","telephone":"(920) 544-2560"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Willow Cove Dental","address":"1195 W Mason St, Green Bay, WI 54303, USA","telephone":"(920) 306-6541"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Bay Lakes Center For Complex Dentistry - Green Bay","address":"138 Siegler St, Green Bay, WI 54303, USA","telephone":"(920) 278-7678"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"RLJ Dental - Green Bay","address":"709 S Oneida St Ste. 6, Green Bay, WI 54304, USA","telephone":"(920) 526-1649"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Precision Dentistry of Howard","address":"1880 Velp Ave Suite 2, Green Bay, WI 54313, USA","telephone":"(920) 305-0607"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Willow Bay Dental Care","address":"2040 Central Ct, Green Bay, WI 54311, USA","telephone":"(920) 633-3215"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"ForwardDental Green Bay West","address":"1241 Lombardi Access Rd f, Green Bay, WI 54304, USA","telephone":"(920) 598-5179"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Meadowbrook Smiles","address":"2550 Glendale Ave, Green Bay, WI 54313, USA","telephone":"(920) 480-5469"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Rebecca Van Miller","address":"2550 Glendale Ave, Green Bay, WI 54313, USA","telephone":"(888) 639-3431"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/wisconsin.html">Wisconsin</a> &rsaquo; Green Bay</nav>
             <h1>Dentists in Green Bay, WI</h1>
@@ -85,70 +140,70 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Studio 920</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/wisconsin/green-bay/dental-studio-920.html" style="color:inherit;text-decoration:none;">Dental Studio 920</a></h3>
         <p class="dentist-address">📍 2664 S Oneida St Suite 104, Green Bay, WI 54304, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(330 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9204770580" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Studio 920','call','Green Bay','WI')">📞 Call</a> <a href="https://www.dentalstudio920.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Studio 920','website','Green Bay','WI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9204770580" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Studio 920','call','Green Bay','WI')">📞 Call</a> <a href="https://www.dentalstudio920.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Studio 920','website','Green Bay','WI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Studio 920','Green Bay','WI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Sierra Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/wisconsin/green-bay/sierra-dental.html" style="color:inherit;text-decoration:none;">Sierra Dental</a></h3>
         <p class="dentist-address">📍 2726 Riverview Dr, Green Bay, WI 54313, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(35 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9207856684" class="dentist-btn dentist-btn-call" onclick="trackLead('Sierra Dental','call','Green Bay','WI')">📞 Call</a> <a href="https://www.sierradentalgb.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sierra Dental','website','Green Bay','WI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9207856684" class="dentist-btn dentist-btn-call" onclick="trackLead('Sierra Dental','call','Green Bay','WI')">📞 Call</a> <a href="https://www.sierradentalgb.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sierra Dental','website','Green Bay','WI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Sierra Dental','Green Bay','WI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">ArmDent</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/wisconsin/green-bay/armdent.html" style="color:inherit;text-decoration:none;">ArmDent</a></h3>
         <p class="dentist-address">📍 2543 Babcock Rd Suite 110, Green Bay, WI 54313, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(1 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9205442560" class="dentist-btn dentist-btn-call" onclick="trackLead('ArmDent','call','Green Bay','WI')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:9205442560" class="dentist-btn dentist-btn-call" onclick="trackLead('ArmDent','call','Green Bay','WI')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('ArmDent','Green Bay','WI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Willow Cove Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/wisconsin/green-bay/willow-cove-dental.html" style="color:inherit;text-decoration:none;">Willow Cove Dental</a></h3>
         <p class="dentist-address">📍 1195 W Mason St, Green Bay, WI 54303, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(453 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9203066541" class="dentist-btn dentist-btn-call" onclick="trackLead('Willow Cove Dental','call','Green Bay','WI')">📞 Call</a> <a href="https://www.willowcovedental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Willow Cove Dental','website','Green Bay','WI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9203066541" class="dentist-btn dentist-btn-call" onclick="trackLead('Willow Cove Dental','call','Green Bay','WI')">📞 Call</a> <a href="https://www.willowcovedental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Willow Cove Dental','website','Green Bay','WI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Willow Cove Dental','Green Bay','WI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Bay Lakes Center For Complex Dentistry - Green Bay</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/wisconsin/green-bay/bay-lakes-center-for-complex-dentistry-green-bay.html" style="color:inherit;text-decoration:none;">Bay Lakes Center For Complex Dentistry - Green Bay</a></h3>
         <p class="dentist-address">📍 138 Siegler St, Green Bay, WI 54303, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(324 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9202787678" class="dentist-btn dentist-btn-call" onclick="trackLead('Bay Lakes Center For Complex Dentistry - Green Bay','call','Green Bay','WI')">📞 Call</a> <a href="https://baylakescomplexdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bay Lakes Center For Complex Dentistry - Green Bay','website','Green Bay','WI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9202787678" class="dentist-btn dentist-btn-call" onclick="trackLead('Bay Lakes Center For Complex Dentistry - Green Bay','call','Green Bay','WI')">📞 Call</a> <a href="https://baylakescomplexdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bay Lakes Center For Complex Dentistry - Green Bay','website','Green Bay','WI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Bay Lakes Center For Complex Dentistry - Green Bay','Green Bay','WI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">RLJ Dental - Green Bay</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/wisconsin/green-bay/rlj-dental-green-bay.html" style="color:inherit;text-decoration:none;">RLJ Dental - Green Bay</a></h3>
         <p class="dentist-address">📍 709 S Oneida St Ste. 6, Green Bay, WI 54304, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(308 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9205261649" class="dentist-btn dentist-btn-call" onclick="trackLead('RLJ Dental - Green Bay','call','Green Bay','WI')">📞 Call</a> <a href="http://rljdentalgreenbay.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('RLJ Dental - Green Bay','website','Green Bay','WI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9205261649" class="dentist-btn dentist-btn-call" onclick="trackLead('RLJ Dental - Green Bay','call','Green Bay','WI')">📞 Call</a> <a href="http://rljdentalgreenbay.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('RLJ Dental - Green Bay','website','Green Bay','WI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('RLJ Dental - Green Bay','Green Bay','WI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Precision Dentistry of Howard</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/wisconsin/green-bay/precision-dentistry-of-howard.html" style="color:inherit;text-decoration:none;">Precision Dentistry of Howard</a></h3>
         <p class="dentist-address">📍 1880 Velp Ave Suite 2, Green Bay, WI 54313, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(74 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9203050607" class="dentist-btn dentist-btn-call" onclick="trackLead('Precision Dentistry of Howard','call','Green Bay','WI')">📞 Call</a> <a href="https://precisiondentistryofhoward.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Precision Dentistry of Howard','website','Green Bay','WI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9203050607" class="dentist-btn dentist-btn-call" onclick="trackLead('Precision Dentistry of Howard','call','Green Bay','WI')">📞 Call</a> <a href="https://precisiondentistryofhoward.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Precision Dentistry of Howard','website','Green Bay','WI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Precision Dentistry of Howard','Green Bay','WI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Willow Bay Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/wisconsin/green-bay/willow-bay-dental-care.html" style="color:inherit;text-decoration:none;">Willow Bay Dental Care</a></h3>
         <p class="dentist-address">📍 2040 Central Ct, Green Bay, WI 54311, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(345 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9206333215" class="dentist-btn dentist-btn-call" onclick="trackLead('Willow Bay Dental Care','call','Green Bay','WI')">📞 Call</a> <a href="https://www.willowbaydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Willow Bay Dental Care','website','Green Bay','WI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9206333215" class="dentist-btn dentist-btn-call" onclick="trackLead('Willow Bay Dental Care','call','Green Bay','WI')">📞 Call</a> <a href="https://www.willowbaydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Willow Bay Dental Care','website','Green Bay','WI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Willow Bay Dental Care','Green Bay','WI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">ForwardDental Green Bay West</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/wisconsin/green-bay/forwarddental-green-bay-west.html" style="color:inherit;text-decoration:none;">ForwardDental Green Bay West</a></h3>
         <p class="dentist-address">📍 1241 Lombardi Access Rd f, Green Bay, WI 54304, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(419 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9205985179" class="dentist-btn dentist-btn-call" onclick="trackLead('ForwardDental Green Bay West','call','Green Bay','WI')">📞 Call</a> <a href="http://fdgreenbay.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('ForwardDental Green Bay West','website','Green Bay','WI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9205985179" class="dentist-btn dentist-btn-call" onclick="trackLead('ForwardDental Green Bay West','call','Green Bay','WI')">📞 Call</a> <a href="http://fdgreenbay.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('ForwardDental Green Bay West','website','Green Bay','WI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('ForwardDental Green Bay West','Green Bay','WI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Meadowbrook Smiles</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/wisconsin/green-bay/meadowbrook-smiles.html" style="color:inherit;text-decoration:none;">Meadowbrook Smiles</a></h3>
         <p class="dentist-address">📍 2550 Glendale Ave, Green Bay, WI 54313, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(165 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9204805469" class="dentist-btn dentist-btn-call" onclick="trackLead('Meadowbrook Smiles','call','Green Bay','WI')">📞 Call</a> <a href="https://www.smileseasttowest.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Meadowbrook Smiles','website','Green Bay','WI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9204805469" class="dentist-btn dentist-btn-call" onclick="trackLead('Meadowbrook Smiles','call','Green Bay','WI')">📞 Call</a> <a href="https://www.smileseasttowest.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Meadowbrook Smiles','website','Green Bay','WI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Meadowbrook Smiles','Green Bay','WI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Rebecca Van Miller</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/wisconsin/green-bay/rebecca-van-miller.html" style="color:inherit;text-decoration:none;">Rebecca Van Miller</a></h3>
         <p class="dentist-address">📍 2550 Glendale Ave, Green Bay, WI 54313, USA</p>
         <div class="dentist-rating"> <span class="review-count"></span></div>
-        <div class="dentist-actions"><a href="tel:8886393431" class="dentist-btn dentist-btn-call" onclick="trackLead('Rebecca Van Miller','call','Green Bay','WI')">📞 Call</a> <a href="https://www.smileseasttowest.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Rebecca Van Miller','website','Green Bay','WI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8886393431" class="dentist-btn dentist-btn-call" onclick="trackLead('Rebecca Van Miller','call','Green Bay','WI')">📞 Call</a> <a href="https://www.smileseasttowest.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Rebecca Van Miller','website','Green Bay','WI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Rebecca Van Miller','Green Bay','WI')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

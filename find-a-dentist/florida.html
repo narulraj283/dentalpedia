@@ -18,9 +18,14 @@
     <meta name="twitter:title" content="Find a Dentist in Florida | DentalPedia">
     <meta name="twitter:description" content="Find top-rated dentists in Florida. Browse 167 dental practices across 28 cities with ratings, phone numbers, and websites.">
         
-    
+    <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+            {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+            {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+            {"@type":"ListItem","position":3,"name":"Florida","item":"https://dentalpedia.co/find-a-dentist/florida.html"}
+        ]}</script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -75,7 +80,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
         <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; Florida</nav>
         <h1>Find a Dentist in Florida</h1>
@@ -87,76 +140,76 @@
         <h2>Top-Rated Dentists in Florida</h2>
         <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">First Street Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/fort-myers/first-street-family-dentistry.html" style="color:inherit;text-decoration:none;">First Street Family Dentistry</a></h3>
         <p class="dentist-address">📍 2023 Altamont Ave #108, Fort Myers, FL 33901, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(1,040 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2397100853" class="dentist-btn dentist-btn-call" onclick="trackLead('First Street Family Dentistry','call','Fort Myers','FL')">📞 Call</a> <a href="https://www.firststreetfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('First Street Family Dentistry','website','Fort Myers','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2397100853" class="dentist-btn dentist-btn-call" onclick="trackLead('First Street Family Dentistry','call','Fort Myers','FL')">📞 Call</a> <a href="https://www.firststreetfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('First Street Family Dentistry','website','Fort Myers','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('First Street Family Dentistry','Fort Myers','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Boulevard Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/clearwater/boulevard-dental.html" style="color:inherit;text-decoration:none;">Boulevard Dental</a></h3>
         <p class="dentist-address">📍 2725 Park Dr #1, Clearwater, FL 33763, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(803 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7277582898" class="dentist-btn dentist-btn-call" onclick="trackLead('Boulevard Dental','call','Clearwater','FL')">📞 Call</a> <a href="http://www.boulevard-dental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Boulevard Dental','website','Clearwater','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7277582898" class="dentist-btn dentist-btn-call" onclick="trackLead('Boulevard Dental','call','Clearwater','FL')">📞 Call</a> <a href="http://www.boulevard-dental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Boulevard Dental','website','Clearwater','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Boulevard Dental','Clearwater','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Naples General &amp; Cosmetic Dentistry LLC</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/naples/naples-general-cosmetic-dentistry-llc.html" style="color:inherit;text-decoration:none;">Naples General &amp; Cosmetic Dentistry LLC</a></h3>
         <p class="dentist-address">📍 925 High Point Dr, Naples, FL 34103, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(803 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2397587080" class="dentist-btn dentist-btn-call" onclick="trackLead('Naples General &amp; Cosmetic Dentistry LLC','call','Naples','FL')">📞 Call</a> <a href="http://www.naples-smiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Naples General &amp; Cosmetic Dentistry LLC','website','Naples','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2397587080" class="dentist-btn dentist-btn-call" onclick="trackLead('Naples General &amp; Cosmetic Dentistry LLC','call','Naples','FL')">📞 Call</a> <a href="http://www.naples-smiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Naples General &amp; Cosmetic Dentistry LLC','website','Naples','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Naples General &amp; Cosmetic Dentistry LLC','Naples','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Gainesville Dentistry Co.</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/gainesville/gainesville-dentistry-co.html" style="color:inherit;text-decoration:none;">Gainesville Dentistry Co.</a></h3>
         <p class="dentist-address">📍 2441 NW 43rd St STE 16, Gainesville, FL 32606, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(736 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3524493737" class="dentist-btn dentist-btn-call" onclick="trackLead('Gainesville Dentistry Co.','call','Gainesville','FL')">📞 Call</a> <a href="https://www.gainesvilledentistryco.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Gainesville Dentistry Co.','website','Gainesville','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3524493737" class="dentist-btn dentist-btn-call" onclick="trackLead('Gainesville Dentistry Co.','call','Gainesville','FL')">📞 Call</a> <a href="https://www.gainesvilledentistryco.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Gainesville Dentistry Co.','website','Gainesville','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Gainesville Dentistry Co.','Gainesville','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Phelan &amp; Bell Family Dentistry - Previously Dr. S. K. Hanna &amp; Associates</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/jacksonville/phelan-bell-family-dentistry-previously-dr-s-k-hanna-associa.html" style="color:inherit;text-decoration:none;">Phelan &amp; Bell Family Dentistry - Previously Dr. S. K. Hanna &amp; Associates</a></h3>
         <p class="dentist-address">📍 5435 Ortega Blvd #1, Jacksonville, FL 32210, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(542 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9044791732" class="dentist-btn dentist-btn-call" onclick="trackLead('Phelan &amp; Bell Family Dentistry - Previously Dr. S. K. Hanna &amp; Associates','call','Jacksonville','FL')">📞 Call</a> <a href="https://www.phelanandbell.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Phelan &amp; Bell Family Dentistry - Previously Dr. S. K. Hanna &amp; Associates','website','Jacksonville','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9044791732" class="dentist-btn dentist-btn-call" onclick="trackLead('Phelan &amp; Bell Family Dentistry - Previously Dr. S. K. Hanna &amp; Associates','call','Jacksonville','FL')">📞 Call</a> <a href="https://www.phelanandbell.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Phelan &amp; Bell Family Dentistry - Previously Dr. S. K. Hanna &amp; Associates','website','Jacksonville','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Phelan &amp; Bell Family Dentistry - Previously Dr. S. K. Hanna &amp; Associates','Jacksonville','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Beyond Dentistry Clearwater</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/clearwater/beyond-dentistry-clearwater.html" style="color:inherit;text-decoration:none;">Beyond Dentistry Clearwater</a></h3>
         <p class="dentist-address">📍 2701 Park Dr #4, Clearwater, FL 33763, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(435 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7273041620" class="dentist-btn dentist-btn-call" onclick="trackLead('Beyond Dentistry Clearwater','call','Clearwater','FL')">📞 Call</a> <a href="https://www.beyonddentistryfl.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Beyond Dentistry Clearwater','website','Clearwater','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7273041620" class="dentist-btn dentist-btn-call" onclick="trackLead('Beyond Dentistry Clearwater','call','Clearwater','FL')">📞 Call</a> <a href="https://www.beyonddentistryfl.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Beyond Dentistry Clearwater','website','Clearwater','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Beyond Dentistry Clearwater','Clearwater','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Busciglio Smiles Orthodontics - Apollo Beach</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/apollo-beach/busciglio-smiles-orthodontics-apollo-beach.html" style="color:inherit;text-decoration:none;">Busciglio Smiles Orthodontics - Apollo Beach</a></h3>
         <p class="dentist-address">📍 6418 US-41, Apollo Beach, FL 33572, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(381 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8137337377" class="dentist-btn dentist-btn-call" onclick="trackLead('Busciglio Smiles Orthodontics - Apollo Beach','call','Apollo Beach','FL')">📞 Call</a> <a href="https://buscigliosmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Busciglio Smiles Orthodontics - Apollo Beach','website','Apollo Beach','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8137337377" class="dentist-btn dentist-btn-call" onclick="trackLead('Busciglio Smiles Orthodontics - Apollo Beach','call','Apollo Beach','FL')">📞 Call</a> <a href="https://buscigliosmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Busciglio Smiles Orthodontics - Apollo Beach','website','Apollo Beach','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Busciglio Smiles Orthodontics - Apollo Beach','Apollo Beach','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Torrens Dental Care - North Naples</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/naples/torrens-dental-care-north-naples.html" style="color:inherit;text-decoration:none;">Torrens Dental Care - North Naples</a></h3>
         <p class="dentist-address">📍 1890 SW Health Pkwy Suite 302, Naples, FL 34109, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(347 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2393304346" class="dentist-btn dentist-btn-call" onclick="trackLead('Torrens Dental Care - North Naples','call','Naples','FL')">📞 Call</a> <a href="https://www.torrensdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Torrens Dental Care - North Naples','website','Naples','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2393304346" class="dentist-btn dentist-btn-call" onclick="trackLead('Torrens Dental Care - North Naples','call','Naples','FL')">📞 Call</a> <a href="https://www.torrensdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Torrens Dental Care - North Naples','website','Naples','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Torrens Dental Care - North Naples','Naples','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">New Tampa Smiles</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/tampa/new-tampa-smiles.html" style="color:inherit;text-decoration:none;">New Tampa Smiles</a></h3>
         <p class="dentist-address">📍 18043 Highwoods Preserve Pkwy, Tampa, FL 33647, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(311 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8134638039" class="dentist-btn dentist-btn-call" onclick="trackLead('New Tampa Smiles','call','Tampa','FL')">📞 Call</a> <a href="https://newtampasmile.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('New Tampa Smiles','website','Tampa','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8134638039" class="dentist-btn dentist-btn-call" onclick="trackLead('New Tampa Smiles','call','Tampa','FL')">📞 Call</a> <a href="https://newtampasmile.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('New Tampa Smiles','website','Tampa','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('New Tampa Smiles','Tampa','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Fresh Dental Tampa</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/tampa/fresh-dental-tampa.html" style="color:inherit;text-decoration:none;">Fresh Dental Tampa</a></h3>
         <p class="dentist-address">📍 2510 W Virginia Ave, Tampa, FL 33607, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(294 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8133089504" class="dentist-btn dentist-btn-call" onclick="trackLead('Fresh Dental Tampa','call','Tampa','FL')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:8133089504" class="dentist-btn dentist-btn-call" onclick="trackLead('Fresh Dental Tampa','call','Tampa','FL')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Fresh Dental Tampa','Tampa','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Colin M. McKinney, DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/stuart/colin-m-mckinney-dmd.html" style="color:inherit;text-decoration:none;">Colin M. McKinney, DMD</a></h3>
         <p class="dentist-address">📍 800 SE Osceola St Suite A, Stuart, FL 34994, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(160 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7722662223" class="dentist-btn dentist-btn-call" onclick="trackLead('Colin M. McKinney, DMD','call','Stuart','FL')">📞 Call</a> <a href="https://stuartfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Colin M. McKinney, DMD','website','Stuart','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7722662223" class="dentist-btn dentist-btn-call" onclick="trackLead('Colin M. McKinney, DMD','call','Stuart','FL')">📞 Call</a> <a href="https://stuartfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Colin M. McKinney, DMD','website','Stuart','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Colin M. McKinney, DMD','Stuart','FL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Wellington Center for Laser Dentistry: Marisol Lopez-Belio, D.D.S.</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/florida/wellington/wellington-center-for-laser-dentistry-marisol-lopez-belio-d-.html" style="color:inherit;text-decoration:none;">Wellington Center for Laser Dentistry: Marisol Lopez-Belio, D.D.S.</a></h3>
         <p class="dentist-address">📍 1200 Corporate Center Way #101, Wellington, FL 33414, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(151 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5617918184" class="dentist-btn dentist-btn-call" onclick="trackLead('Wellington Center for Laser Dentistry: Marisol Lopez-Belio, D.D.S.','call','Wellington','FL')">📞 Call</a> <a href="https://www.wellingtonlaserdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Wellington Center for Laser Dentistry: Marisol Lopez-Belio, D.D.S.','website','Wellington','FL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5617918184" class="dentist-btn dentist-btn-call" onclick="trackLead('Wellington Center for Laser Dentistry: Marisol Lopez-Belio, D.D.S.','call','Wellington','FL')">📞 Call</a> <a href="https://www.wellingtonlaserdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Wellington Center for Laser Dentistry: Marisol Lopez-Belio, D.D.S.','website','Wellington','FL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Wellington Center for Laser Dentistry: Marisol Lopez-Belio, D.D.S.','Wellington','FL')">📅 Request Appointment</button></div>
     </div></div>
         <div class="share-buttons">
     <span class="share-label">Share this page</span>

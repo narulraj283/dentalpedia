@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 12 dentists in Fayetteville, North Carolina. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"North Carolina","item":"https://dentalpedia.co/find-a-dentist/north-carolina.html"},
+                {"@type":"ListItem","position":4,"name":"Fayetteville","item":"https://dentalpedia.co/find-a-dentist/north-carolina/fayetteville.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Fayetteville, NC","numberOfItems":12,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Owen Drive Family Dental","address":"203 Owen Dr, Fayetteville, NC 28304, USA","telephone":"(910) 994-1131"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Riverside Dental Care","address":"5815 Ramsey St, Fayetteville, NC 28311, USA","telephone":"(910) 469-1976"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Dental Love","address":"150 Francam Dr, Fayetteville, NC 28311, USA","telephone":"(910) 500-6660"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"CarolinasDentist","address":"300 Glensford Dr #103, Fayetteville, NC 28314, USA","telephone":"(910) 710-5460"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Cross Creek Dental, The Office of Dr. Rice &amp; Associates","address":"3622 Morganton Rd, Fayetteville, NC 28303, USA","telephone":"(910) 613-8363"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Brite Care Dental","address":"2901 Breezewood Ave, Fayetteville, NC 28303, USA","telephone":"(910) 568-5669"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"O2 Dental Group of Fayetteville","address":"1916 Skibo Rd Suite C3, Fayetteville, NC 28314, USA","telephone":"(910) 446-9027"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Affordable Dentures &amp; Implants","address":"3055 Sanderosa Rd, Fayetteville, NC 28312, USA","telephone":"(910) 900-0592"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"DOCS Dental: Fort Bragg","address":"8-5476 A Souter, Butner Rd, Fayetteville, NC 28307, USA","telephone":"(910) 466-6497"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Hometown Family Dental Centers","address":"8159 Raeford Rd, Fayetteville, NC 28304, USA","telephone":"(910) 208-4254"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Ramsey Street Family Dental Care","address":"4136 Ramsey St, Fayetteville, NC 28311, USA","telephone":"(910) 488-8928"}},{"@type":"ListItem","position":12,"item":{"@type":"Dentist","name":"Village Family Dental- Frenectomy Clinic","address":"1031 Weiss Ave Ste 201, Fayetteville, NC 28305, USA","telephone":"(910) 483-0723"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/north-carolina.html">North Carolina</a> &rsaquo; Fayetteville</nav>
             <h1>Dentists in Fayetteville, NC</h1>
@@ -85,76 +140,76 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Owen Drive Family Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/north-carolina/fayetteville/owen-drive-family-dental.html" style="color:inherit;text-decoration:none;">Owen Drive Family Dental</a></h3>
         <p class="dentist-address">📍 203 Owen Dr, Fayetteville, NC 28304, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(399 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9109941131" class="dentist-btn dentist-btn-call" onclick="trackLead('Owen Drive Family Dental','call','Fayetteville','NC')">📞 Call</a> <a href="http://owendrivefamilydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Owen Drive Family Dental','website','Fayetteville','NC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9109941131" class="dentist-btn dentist-btn-call" onclick="trackLead('Owen Drive Family Dental','call','Fayetteville','NC')">📞 Call</a> <a href="http://owendrivefamilydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Owen Drive Family Dental','website','Fayetteville','NC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Owen Drive Family Dental','Fayetteville','NC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Riverside Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/north-carolina/fayetteville/riverside-dental-care.html" style="color:inherit;text-decoration:none;">Riverside Dental Care</a></h3>
         <p class="dentist-address">📍 5815 Ramsey St, Fayetteville, NC 28311, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(437 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9104691976" class="dentist-btn dentist-btn-call" onclick="trackLead('Riverside Dental Care','call','Fayetteville','NC')">📞 Call</a> <a href="http://riversidedentalnc.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Riverside Dental Care','website','Fayetteville','NC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9104691976" class="dentist-btn dentist-btn-call" onclick="trackLead('Riverside Dental Care','call','Fayetteville','NC')">📞 Call</a> <a href="http://riversidedentalnc.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Riverside Dental Care','website','Fayetteville','NC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Riverside Dental Care','Fayetteville','NC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Love</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/north-carolina/fayetteville/dental-love.html" style="color:inherit;text-decoration:none;">Dental Love</a></h3>
         <p class="dentist-address">📍 150 Francam Dr, Fayetteville, NC 28311, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(313 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9105006660" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Love','call','Fayetteville','NC')">📞 Call</a> <a href="https://dental-love.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Love','website','Fayetteville','NC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9105006660" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Love','call','Fayetteville','NC')">📞 Call</a> <a href="https://dental-love.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Love','website','Fayetteville','NC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Love','Fayetteville','NC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">CarolinasDentist</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/north-carolina/fayetteville/carolinasdentist.html" style="color:inherit;text-decoration:none;">CarolinasDentist</a></h3>
         <p class="dentist-address">📍 300 Glensford Dr #103, Fayetteville, NC 28314, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(2,569 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9107105460" class="dentist-btn dentist-btn-call" onclick="trackLead('CarolinasDentist','call','Fayetteville','NC')">📞 Call</a> <a href="https://www.carolinasdentist.com/fayetteville-dentist/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('CarolinasDentist','website','Fayetteville','NC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9107105460" class="dentist-btn dentist-btn-call" onclick="trackLead('CarolinasDentist','call','Fayetteville','NC')">📞 Call</a> <a href="https://www.carolinasdentist.com/fayetteville-dentist/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('CarolinasDentist','website','Fayetteville','NC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('CarolinasDentist','Fayetteville','NC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Cross Creek Dental, The Office of Dr. Rice &amp; Associates</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/north-carolina/fayetteville/cross-creek-dental-the-office-of-dr-rice-associates.html" style="color:inherit;text-decoration:none;">Cross Creek Dental, The Office of Dr. Rice &amp; Associates</a></h3>
         <p class="dentist-address">📍 3622 Morganton Rd, Fayetteville, NC 28303, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(330 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9106138363" class="dentist-btn dentist-btn-call" onclick="trackLead('Cross Creek Dental, The Office of Dr. Rice &amp; Associates','call','Fayetteville','NC')">📞 Call</a> <a href="https://www.crosscreekdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Cross Creek Dental, The Office of Dr. Rice &amp; Associates','website','Fayetteville','NC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9106138363" class="dentist-btn dentist-btn-call" onclick="trackLead('Cross Creek Dental, The Office of Dr. Rice &amp; Associates','call','Fayetteville','NC')">📞 Call</a> <a href="https://www.crosscreekdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Cross Creek Dental, The Office of Dr. Rice &amp; Associates','website','Fayetteville','NC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Cross Creek Dental, The Office of Dr. Rice &amp; Associates','Fayetteville','NC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Brite Care Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/north-carolina/fayetteville/brite-care-dental.html" style="color:inherit;text-decoration:none;">Brite Care Dental</a></h3>
         <p class="dentist-address">📍 2901 Breezewood Ave, Fayetteville, NC 28303, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(299 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9105685669" class="dentist-btn dentist-btn-call" onclick="trackLead('Brite Care Dental','call','Fayetteville','NC')">📞 Call</a> <a href="http://www.britecaredental.com/meet-dr-momodu.php" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Brite Care Dental','website','Fayetteville','NC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9105685669" class="dentist-btn dentist-btn-call" onclick="trackLead('Brite Care Dental','call','Fayetteville','NC')">📞 Call</a> <a href="http://www.britecaredental.com/meet-dr-momodu.php" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Brite Care Dental','website','Fayetteville','NC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Brite Care Dental','Fayetteville','NC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">O2 Dental Group of Fayetteville</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/north-carolina/fayetteville/o2-dental-group-of-fayetteville.html" style="color:inherit;text-decoration:none;">O2 Dental Group of Fayetteville</a></h3>
         <p class="dentist-address">📍 1916 Skibo Rd Suite C3, Fayetteville, NC 28314, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(1,980 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9104469027" class="dentist-btn dentist-btn-call" onclick="trackLead('O2 Dental Group of Fayetteville','call','Fayetteville','NC')">📞 Call</a> <a href="https://o2dentalgroup.com/dentist-fayetteville-nc/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('O2 Dental Group of Fayetteville','website','Fayetteville','NC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9104469027" class="dentist-btn dentist-btn-call" onclick="trackLead('O2 Dental Group of Fayetteville','call','Fayetteville','NC')">📞 Call</a> <a href="https://o2dentalgroup.com/dentist-fayetteville-nc/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('O2 Dental Group of Fayetteville','website','Fayetteville','NC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('O2 Dental Group of Fayetteville','Fayetteville','NC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Affordable Dentures &amp; Implants</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/north-carolina/fayetteville/affordable-dentures-implants.html" style="color:inherit;text-decoration:none;">Affordable Dentures &amp; Implants</a></h3>
         <p class="dentist-address">📍 3055 Sanderosa Rd, Fayetteville, NC 28312, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(1,147 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9109000592" class="dentist-btn dentist-btn-call" onclick="trackLead('Affordable Dentures &amp; Implants','call','Fayetteville','NC')">📞 Call</a> <a href="https://www.affordabledentures.com/locations/nc/fayetteville" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Affordable Dentures &amp; Implants','website','Fayetteville','NC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9109000592" class="dentist-btn dentist-btn-call" onclick="trackLead('Affordable Dentures &amp; Implants','call','Fayetteville','NC')">📞 Call</a> <a href="https://www.affordabledentures.com/locations/nc/fayetteville" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Affordable Dentures &amp; Implants','website','Fayetteville','NC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Affordable Dentures &amp; Implants','Fayetteville','NC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">DOCS Dental: Fort Bragg</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/north-carolina/fayetteville/docs-dental-fort-bragg.html" style="color:inherit;text-decoration:none;">DOCS Dental: Fort Bragg</a></h3>
         <p class="dentist-address">📍 8-5476 A Souter, Butner Rd, Fayetteville, NC 28307, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(188 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9104666497" class="dentist-btn dentist-btn-call" onclick="trackLead('DOCS Dental: Fort Bragg','call','Fayetteville','NC')">📞 Call</a> <a href="https://docsdental.com/location/fort-bragg" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('DOCS Dental: Fort Bragg','website','Fayetteville','NC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9104666497" class="dentist-btn dentist-btn-call" onclick="trackLead('DOCS Dental: Fort Bragg','call','Fayetteville','NC')">📞 Call</a> <a href="https://docsdental.com/location/fort-bragg" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('DOCS Dental: Fort Bragg','website','Fayetteville','NC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('DOCS Dental: Fort Bragg','Fayetteville','NC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Hometown Family Dental Centers</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/north-carolina/fayetteville/hometown-family-dental-centers.html" style="color:inherit;text-decoration:none;">Hometown Family Dental Centers</a></h3>
         <p class="dentist-address">📍 8159 Raeford Rd, Fayetteville, NC 28304, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(172 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9102084254" class="dentist-btn dentist-btn-call" onclick="trackLead('Hometown Family Dental Centers','call','Fayetteville','NC')">📞 Call</a> <a href="https://www.hometownfamilydentalnc.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hometown Family Dental Centers','website','Fayetteville','NC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9102084254" class="dentist-btn dentist-btn-call" onclick="trackLead('Hometown Family Dental Centers','call','Fayetteville','NC')">📞 Call</a> <a href="https://www.hometownfamilydentalnc.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hometown Family Dental Centers','website','Fayetteville','NC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Hometown Family Dental Centers','Fayetteville','NC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Ramsey Street Family Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/north-carolina/fayetteville/ramsey-street-family-dental-care.html" style="color:inherit;text-decoration:none;">Ramsey Street Family Dental Care</a></h3>
         <p class="dentist-address">📍 4136 Ramsey St, Fayetteville, NC 28311, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(255 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9104888928" class="dentist-btn dentist-btn-call" onclick="trackLead('Ramsey Street Family Dental Care','call','Fayetteville','NC')">📞 Call</a> <a href="http://ramseystreetdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Ramsey Street Family Dental Care','website','Fayetteville','NC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9104888928" class="dentist-btn dentist-btn-call" onclick="trackLead('Ramsey Street Family Dental Care','call','Fayetteville','NC')">📞 Call</a> <a href="http://ramseystreetdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Ramsey Street Family Dental Care','website','Fayetteville','NC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Ramsey Street Family Dental Care','Fayetteville','NC')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Village Family Dental- Frenectomy Clinic</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/north-carolina/fayetteville/village-family-dental-frenectomy-clinic.html" style="color:inherit;text-decoration:none;">Village Family Dental- Frenectomy Clinic</a></h3>
         <p class="dentist-address">📍 1031 Weiss Ave Ste 201, Fayetteville, NC 28305, USA</p>
         <div class="dentist-rating">★★★★ 4.2 <span class="review-count">(30 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9104830723" class="dentist-btn dentist-btn-call" onclick="trackLead('Village Family Dental- Frenectomy Clinic','call','Fayetteville','NC')">📞 Call</a> <a href="http://www.vfdental.com/specialty-dentistry/tongueandliptie/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Village Family Dental- Frenectomy Clinic','website','Fayetteville','NC')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9104830723" class="dentist-btn dentist-btn-call" onclick="trackLead('Village Family Dental- Frenectomy Clinic','call','Fayetteville','NC')">📞 Call</a> <a href="http://www.vfdental.com/specialty-dentistry/tongueandliptie/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Village Family Dental- Frenectomy Clinic','website','Fayetteville','NC')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Village Family Dental- Frenectomy Clinic','Fayetteville','NC')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

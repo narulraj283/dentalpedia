@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 5 dentists in Louisville, Colorado. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Colorado","item":"https://dentalpedia.co/find-a-dentist/colorado.html"},
+                {"@type":"ListItem","position":4,"name":"Louisville","item":"https://dentalpedia.co/find-a-dentist/colorado/louisville.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Louisville, CO","numberOfItems":5,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"David A Wertz D.D.S.,P.C","address":"801 Main St #220, Louisville, CO 80027, USA","telephone":"(303) 926-8225"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Boulder Valley Dental Center","address":"1805 CO-42 Suite 120, Louisville, CO 80027, USA","telephone":"(303) 666-8820"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Young Dentistry for Children: Louisville","address":"325 W South Boulder Rd #4, Louisville, CO 80027, USA","telephone":"(303) 604-0710"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"The Dentist in Louisville","address":"339 McCaslin Blvd, Louisville, CO 80027, USA","telephone":"(720) 664-9990"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Studio Z Dental","address":"818 W South Boulder Rd, Louisville, CO 80027, USA","telephone":"(720) 702-1675"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/colorado.html">Colorado</a> &rsaquo; Louisville</nav>
             <h1>Dentists in Louisville, CO</h1>
@@ -85,34 +140,34 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">David A Wertz D.D.S.,P.C</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/colorado/louisville/david-a-wertz-d-d-s-p-c.html" style="color:inherit;text-decoration:none;">David A Wertz D.D.S.,P.C</a></h3>
         <p class="dentist-address">📍 801 Main St #220, Louisville, CO 80027, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(163 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3039268225" class="dentist-btn dentist-btn-call" onclick="trackLead('David A Wertz D.D.S.,P.C','call','Louisville','CO')">📞 Call</a> <a href="http://www.docwertz.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('David A Wertz D.D.S.,P.C','website','Louisville','CO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3039268225" class="dentist-btn dentist-btn-call" onclick="trackLead('David A Wertz D.D.S.,P.C','call','Louisville','CO')">📞 Call</a> <a href="http://www.docwertz.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('David A Wertz D.D.S.,P.C','website','Louisville','CO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('David A Wertz D.D.S.,P.C','Louisville','CO')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Boulder Valley Dental Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/colorado/louisville/boulder-valley-dental-center.html" style="color:inherit;text-decoration:none;">Boulder Valley Dental Center</a></h3>
         <p class="dentist-address">📍 1805 CO-42 Suite 120, Louisville, CO 80027, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(327 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3036668820" class="dentist-btn dentist-btn-call" onclick="trackLead('Boulder Valley Dental Center','call','Louisville','CO')">📞 Call</a> <a href="https://www.bouldervalleydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Boulder Valley Dental Center','website','Louisville','CO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3036668820" class="dentist-btn dentist-btn-call" onclick="trackLead('Boulder Valley Dental Center','call','Louisville','CO')">📞 Call</a> <a href="https://www.bouldervalleydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Boulder Valley Dental Center','website','Louisville','CO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Boulder Valley Dental Center','Louisville','CO')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Young Dentistry for Children: Louisville</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/colorado/louisville/young-dentistry-for-children-louisville.html" style="color:inherit;text-decoration:none;">Young Dentistry for Children: Louisville</a></h3>
         <p class="dentist-address">📍 325 W South Boulder Rd #4, Louisville, CO 80027, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(288 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3036040710" class="dentist-btn dentist-btn-call" onclick="trackLead('Young Dentistry for Children: Louisville','call','Louisville','CO')">📞 Call</a> <a href="https://www.youngdentistryforchildren.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Young Dentistry for Children: Louisville','website','Louisville','CO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3036040710" class="dentist-btn dentist-btn-call" onclick="trackLead('Young Dentistry for Children: Louisville','call','Louisville','CO')">📞 Call</a> <a href="https://www.youngdentistryforchildren.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Young Dentistry for Children: Louisville','website','Louisville','CO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Young Dentistry for Children: Louisville','Louisville','CO')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">The Dentist in Louisville</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/colorado/louisville/the-dentist-in-louisville.html" style="color:inherit;text-decoration:none;">The Dentist in Louisville</a></h3>
         <p class="dentist-address">📍 339 McCaslin Blvd, Louisville, CO 80027, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(257 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7206649990" class="dentist-btn dentist-btn-call" onclick="trackLead('The Dentist in Louisville','call','Louisville','CO')">📞 Call</a> <a href="https://thedentistinlouisville.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Dentist in Louisville','website','Louisville','CO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7206649990" class="dentist-btn dentist-btn-call" onclick="trackLead('The Dentist in Louisville','call','Louisville','CO')">📞 Call</a> <a href="https://thedentistinlouisville.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Dentist in Louisville','website','Louisville','CO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('The Dentist in Louisville','Louisville','CO')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Studio Z Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/colorado/louisville/studio-z-dental.html" style="color:inherit;text-decoration:none;">Studio Z Dental</a></h3>
         <p class="dentist-address">📍 818 W South Boulder Rd, Louisville, CO 80027, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(225 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7207021675" class="dentist-btn dentist-btn-call" onclick="trackLead('Studio Z Dental','call','Louisville','CO')">📞 Call</a> <a href="https://www.studiozdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Studio Z Dental','website','Louisville','CO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7207021675" class="dentist-btn dentist-btn-call" onclick="trackLead('Studio Z Dental','call','Louisville','CO')">📞 Call</a> <a href="https://www.studiozdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Studio Z Dental','website','Louisville','CO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Studio Z Dental','Louisville','CO')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

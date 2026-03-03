@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 11 dentists in Mundelein, Illinois. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Illinois","item":"https://dentalpedia.co/find-a-dentist/illinois.html"},
+                {"@type":"ListItem","position":4,"name":"Mundelein","item":"https://dentalpedia.co/find-a-dentist/illinois/mundelein.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Mundelein, IL","numberOfItems":11,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Markiewicz Dental","address":"852 IL-83, Mundelein, IL 60060, USA","telephone":"(847) 566-2811"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Mundelein Family Dental","address":"718 IL-83, Mundelein, IL 60060, USA","telephone":"(224) 628-7147"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Lumina Dental","address":"1424 Butterfield Rd, Mundelein, IL 60060, USA","telephone":"(847) 407-1411"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Nova Dental Care - Modern Dentistry","address":"412 E Hawley St, Mundelein, IL 60060, USA","telephone":"(847) 393-0202"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Meadows Family Dentistry","address":"1174 W Maple Ave, Mundelein, IL 60060, USA","telephone":"(847) 305-4700"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"North Suburban Dental of Mundelein","address":"444 N Prospect Ave, Mundelein, IL 60060, USA","telephone":"(847) 566-5100"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Mundelein Dental Care","address":"328 N Lake St, Mundelein, IL 60060, USA","telephone":"(847) 796-6592"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Doreen A. Wascow, DDS","address":"444 N Prospect Ave #2, Mundelein, IL 60060, USA","telephone":"(847) 566-9330"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Orthodontic Experts Mundelein","address":"1529 S Lake St, Mundelein, IL 60060, USA","telephone":"(847) 448-0471"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Smart Dental Designers PC","address":"693 S Lake St, Mundelein, IL 60060, USA","telephone":"(847) 672-4201"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Mundelein Dental Center","address":"333 IL-83 Ste 101, Mundelein, IL 60060, USA","telephone":"(847) 566-7212"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/illinois.html">Illinois</a> &rsaquo; Mundelein</nav>
             <h1>Dentists in Mundelein, IL</h1>
@@ -85,70 +140,70 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Markiewicz Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/mundelein/markiewicz-dental.html" style="color:inherit;text-decoration:none;">Markiewicz Dental</a></h3>
         <p class="dentist-address">📍 852 IL-83, Mundelein, IL 60060, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(670 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8475662811" class="dentist-btn dentist-btn-call" onclick="trackLead('Markiewicz Dental','call','Mundelein','IL')">📞 Call</a> <a href="https://www.amdds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Markiewicz Dental','website','Mundelein','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8475662811" class="dentist-btn dentist-btn-call" onclick="trackLead('Markiewicz Dental','call','Mundelein','IL')">📞 Call</a> <a href="https://www.amdds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Markiewicz Dental','website','Mundelein','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Markiewicz Dental','Mundelein','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Mundelein Family Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/mundelein/mundelein-family-dental.html" style="color:inherit;text-decoration:none;">Mundelein Family Dental</a></h3>
         <p class="dentist-address">📍 718 IL-83, Mundelein, IL 60060, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(608 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2246287147" class="dentist-btn dentist-btn-call" onclick="trackLead('Mundelein Family Dental','call','Mundelein','IL')">📞 Call</a> <a href="https://www.mundeleinfamilydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mundelein Family Dental','website','Mundelein','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2246287147" class="dentist-btn dentist-btn-call" onclick="trackLead('Mundelein Family Dental','call','Mundelein','IL')">📞 Call</a> <a href="https://www.mundeleinfamilydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mundelein Family Dental','website','Mundelein','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Mundelein Family Dental','Mundelein','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Lumina Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/mundelein/lumina-dental.html" style="color:inherit;text-decoration:none;">Lumina Dental</a></h3>
         <p class="dentist-address">📍 1424 Butterfield Rd, Mundelein, IL 60060, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(47 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8474071411" class="dentist-btn dentist-btn-call" onclick="trackLead('Lumina Dental','call','Mundelein','IL')">📞 Call</a> <a href="https://bookit.dentrixascend.com/soe/new/dental?pid=ASC6000000001150&amp;amp;mode=externalLink" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lumina Dental','website','Mundelein','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8474071411" class="dentist-btn dentist-btn-call" onclick="trackLead('Lumina Dental','call','Mundelein','IL')">📞 Call</a> <a href="https://bookit.dentrixascend.com/soe/new/dental?pid=ASC6000000001150&amp;amp;mode=externalLink" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lumina Dental','website','Mundelein','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Lumina Dental','Mundelein','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Nova Dental Care - Modern Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/mundelein/nova-dental-care-modern-dentistry.html" style="color:inherit;text-decoration:none;">Nova Dental Care - Modern Dentistry</a></h3>
         <p class="dentist-address">📍 412 E Hawley St, Mundelein, IL 60060, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(7 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8473930202" class="dentist-btn dentist-btn-call" onclick="trackLead('Nova Dental Care - Modern Dentistry','call','Mundelein','IL')">📞 Call</a> <a href="https://www.novateeth.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Nova Dental Care - Modern Dentistry','website','Mundelein','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8473930202" class="dentist-btn dentist-btn-call" onclick="trackLead('Nova Dental Care - Modern Dentistry','call','Mundelein','IL')">📞 Call</a> <a href="https://www.novateeth.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Nova Dental Care - Modern Dentistry','website','Mundelein','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Nova Dental Care - Modern Dentistry','Mundelein','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Meadows Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/mundelein/meadows-family-dentistry.html" style="color:inherit;text-decoration:none;">Meadows Family Dentistry</a></h3>
         <p class="dentist-address">📍 1174 W Maple Ave, Mundelein, IL 60060, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(644 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8473054700" class="dentist-btn dentist-btn-call" onclick="trackLead('Meadows Family Dentistry','call','Mundelein','IL')">📞 Call</a> <a href="https://meadowsdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Meadows Family Dentistry','website','Mundelein','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8473054700" class="dentist-btn dentist-btn-call" onclick="trackLead('Meadows Family Dentistry','call','Mundelein','IL')">📞 Call</a> <a href="https://meadowsdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Meadows Family Dentistry','website','Mundelein','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Meadows Family Dentistry','Mundelein','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">North Suburban Dental of Mundelein</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/mundelein/north-suburban-dental-of-mundelein.html" style="color:inherit;text-decoration:none;">North Suburban Dental of Mundelein</a></h3>
         <p class="dentist-address">📍 444 N Prospect Ave, Mundelein, IL 60060, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(508 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8475665100" class="dentist-btn dentist-btn-call" onclick="trackLead('North Suburban Dental of Mundelein','call','Mundelein','IL')">📞 Call</a> <a href="https://www.nsdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('North Suburban Dental of Mundelein','website','Mundelein','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8475665100" class="dentist-btn dentist-btn-call" onclick="trackLead('North Suburban Dental of Mundelein','call','Mundelein','IL')">📞 Call</a> <a href="https://www.nsdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('North Suburban Dental of Mundelein','website','Mundelein','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('North Suburban Dental of Mundelein','Mundelein','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Mundelein Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/mundelein/mundelein-dental-care.html" style="color:inherit;text-decoration:none;">Mundelein Dental Care</a></h3>
         <p class="dentist-address">📍 328 N Lake St, Mundelein, IL 60060, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(133 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8477966592" class="dentist-btn dentist-btn-call" onclick="trackLead('Mundelein Dental Care','call','Mundelein','IL')">📞 Call</a> <a href="https://www.mundeleindentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mundelein Dental Care','website','Mundelein','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8477966592" class="dentist-btn dentist-btn-call" onclick="trackLead('Mundelein Dental Care','call','Mundelein','IL')">📞 Call</a> <a href="https://www.mundeleindentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mundelein Dental Care','website','Mundelein','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Mundelein Dental Care','Mundelein','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Doreen A. Wascow, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/mundelein/doreen-a-wascow-dds.html" style="color:inherit;text-decoration:none;">Doreen A. Wascow, DDS</a></h3>
         <p class="dentist-address">📍 444 N Prospect Ave #2, Mundelein, IL 60060, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(56 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8475669330" class="dentist-btn dentist-btn-call" onclick="trackLead('Doreen A. Wascow, DDS','call','Mundelein','IL')">📞 Call</a> <a href="http://nsdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Doreen A. Wascow, DDS','website','Mundelein','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8475669330" class="dentist-btn dentist-btn-call" onclick="trackLead('Doreen A. Wascow, DDS','call','Mundelein','IL')">📞 Call</a> <a href="http://nsdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Doreen A. Wascow, DDS','website','Mundelein','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Doreen A. Wascow, DDS','Mundelein','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Orthodontic Experts Mundelein</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/mundelein/orthodontic-experts-mundelein.html" style="color:inherit;text-decoration:none;">Orthodontic Experts Mundelein</a></h3>
         <p class="dentist-address">📍 1529 S Lake St, Mundelein, IL 60060, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(255 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8474480471" class="dentist-btn dentist-btn-call" onclick="trackLead('Orthodontic Experts Mundelein','call','Mundelein','IL')">📞 Call</a> <a href="https://www.orthodonticexprts.com/orthodontist-mundelein/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Orthodontic Experts Mundelein','website','Mundelein','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8474480471" class="dentist-btn dentist-btn-call" onclick="trackLead('Orthodontic Experts Mundelein','call','Mundelein','IL')">📞 Call</a> <a href="https://www.orthodonticexprts.com/orthodontist-mundelein/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Orthodontic Experts Mundelein','website','Mundelein','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Orthodontic Experts Mundelein','Mundelein','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smart Dental Designers PC</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/mundelein/smart-dental-designers-pc.html" style="color:inherit;text-decoration:none;">Smart Dental Designers PC</a></h3>
         <p class="dentist-address">📍 693 S Lake St, Mundelein, IL 60060, USA</p>
         <div class="dentist-rating">★★★½ 3.8 <span class="review-count">(13 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8476724201" class="dentist-btn dentist-btn-call" onclick="trackLead('Smart Dental Designers PC','call','Mundelein','IL')">📞 Call</a> <a href="https://www.smartdentaldesigners.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smart Dental Designers PC','website','Mundelein','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8476724201" class="dentist-btn dentist-btn-call" onclick="trackLead('Smart Dental Designers PC','call','Mundelein','IL')">📞 Call</a> <a href="https://www.smartdentaldesigners.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smart Dental Designers PC','website','Mundelein','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smart Dental Designers PC','Mundelein','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Mundelein Dental Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/mundelein/mundelein-dental-center.html" style="color:inherit;text-decoration:none;">Mundelein Dental Center</a></h3>
         <p class="dentist-address">📍 333 IL-83 Ste 101, Mundelein, IL 60060, USA</p>
         <div class="dentist-rating">★★★ 3.0 <span class="review-count">(8 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8475667212" class="dentist-btn dentist-btn-call" onclick="trackLead('Mundelein Dental Center','call','Mundelein','IL')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:8475667212" class="dentist-btn dentist-btn-call" onclick="trackLead('Mundelein Dental Center','call','Mundelein','IL')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Mundelein Dental Center','Mundelein','IL')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 10 dentists in Owasso, Oklahoma. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Oklahoma","item":"https://dentalpedia.co/find-a-dentist/oklahoma.html"},
+                {"@type":"ListItem","position":4,"name":"Owasso","item":"https://dentalpedia.co/find-a-dentist/oklahoma/owasso.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Owasso, OK","numberOfItems":10,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Michael Sanchez DDS DBA Renaissance Dental","address":"12150 E 96th St N Suite 106, Owasso, OK 74055, USA","telephone":"(918) 205-0807"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Secure Dentures &amp; Implants","address":"11422 N 134th E Ave Ste 2, Owasso, OK 74055, USA","telephone":"(918) 205-7229"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Owasso Pediatric Dental","address":"9455 N Owasso Expy, Owasso, OK 74055, USA","telephone":"(918) 215-4727"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Infinite Smiles Dentistry","address":"11492 N 137th E Ave, Owasso, OK 74055, USA","telephone":"(918) 928-2383"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"LakeCrest Dental","address":"9551 N Owasso Expy, Owasso, OK 74055, USA","telephone":"(918) 347-1126"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Jillian Prather Family Dentistry","address":"12814 E 101st Pl N Suite #102, Owasso, OK 74055, USA","telephone":"(918) 401-9933"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Family Dental Care of Owasso","address":"13101 E 96th St N, Owasso, OK 74055, USA","telephone":"(918) 848-8136"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Dental Depot","address":"8722 N Garnett Rd, Owasso, OK 74055, USA","telephone":"(918) 517-8946"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Custom Dental of Owasso - Dr. Gavin Biggs","address":"11501 N 135th E Ave, Owasso, OK 74055, USA","telephone":"(918) 376-7133"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Aspen Dental - Owasso, OK","address":"9025 N 121st E Ave #300, Owasso, OK 74055, USA","telephone":"(918) 304-8040"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/oklahoma.html">Oklahoma</a> &rsaquo; Owasso</nav>
             <h1>Dentists in Owasso, OK</h1>
@@ -85,64 +140,64 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Michael Sanchez DDS DBA Renaissance Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/oklahoma/owasso/michael-sanchez-dds-dba-renaissance-dental.html" style="color:inherit;text-decoration:none;">Michael Sanchez DDS DBA Renaissance Dental</a></h3>
         <p class="dentist-address">📍 12150 E 96th St N Suite 106, Owasso, OK 74055, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(75 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9182050807" class="dentist-btn dentist-btn-call" onclick="trackLead('Michael Sanchez DDS DBA Renaissance Dental','call','Owasso','OK')">📞 Call</a> <a href="http://www.owassosmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Michael Sanchez DDS DBA Renaissance Dental','website','Owasso','OK')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9182050807" class="dentist-btn dentist-btn-call" onclick="trackLead('Michael Sanchez DDS DBA Renaissance Dental','call','Owasso','OK')">📞 Call</a> <a href="http://www.owassosmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Michael Sanchez DDS DBA Renaissance Dental','website','Owasso','OK')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Michael Sanchez DDS DBA Renaissance Dental','Owasso','OK')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Secure Dentures &amp; Implants</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/oklahoma/owasso/secure-dentures-implants.html" style="color:inherit;text-decoration:none;">Secure Dentures &amp; Implants</a></h3>
         <p class="dentist-address">📍 11422 N 134th E Ave Ste 2, Owasso, OK 74055, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(1,575 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9182057229" class="dentist-btn dentist-btn-call" onclick="trackLead('Secure Dentures &amp; Implants','call','Owasso','OK')">📞 Call</a> <a href="https://www.owasso-ok.securedenturesandimplants.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Secure Dentures &amp; Implants','website','Owasso','OK')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9182057229" class="dentist-btn dentist-btn-call" onclick="trackLead('Secure Dentures &amp; Implants','call','Owasso','OK')">📞 Call</a> <a href="https://www.owasso-ok.securedenturesandimplants.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Secure Dentures &amp; Implants','website','Owasso','OK')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Secure Dentures &amp; Implants','Owasso','OK')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Owasso Pediatric Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/oklahoma/owasso/owasso-pediatric-dental.html" style="color:inherit;text-decoration:none;">Owasso Pediatric Dental</a></h3>
         <p class="dentist-address">📍 9455 N Owasso Expy, Owasso, OK 74055, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(240 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9182154727" class="dentist-btn dentist-btn-call" onclick="trackLead('Owasso Pediatric Dental','call','Owasso','OK')">📞 Call</a> <a href="http://owassopediatricdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Owasso Pediatric Dental','website','Owasso','OK')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9182154727" class="dentist-btn dentist-btn-call" onclick="trackLead('Owasso Pediatric Dental','call','Owasso','OK')">📞 Call</a> <a href="http://owassopediatricdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Owasso Pediatric Dental','website','Owasso','OK')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Owasso Pediatric Dental','Owasso','OK')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Infinite Smiles Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/oklahoma/owasso/infinite-smiles-dentistry.html" style="color:inherit;text-decoration:none;">Infinite Smiles Dentistry</a></h3>
         <p class="dentist-address">📍 11492 N 137th E Ave, Owasso, OK 74055, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(147 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9189282383" class="dentist-btn dentist-btn-call" onclick="trackLead('Infinite Smiles Dentistry','call','Owasso','OK')">📞 Call</a> <a href="https://www.infinitesmilesok.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Infinite Smiles Dentistry','website','Owasso','OK')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9189282383" class="dentist-btn dentist-btn-call" onclick="trackLead('Infinite Smiles Dentistry','call','Owasso','OK')">📞 Call</a> <a href="https://www.infinitesmilesok.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Infinite Smiles Dentistry','website','Owasso','OK')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Infinite Smiles Dentistry','Owasso','OK')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">LakeCrest Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/oklahoma/owasso/lakecrest-dental.html" style="color:inherit;text-decoration:none;">LakeCrest Dental</a></h3>
         <p class="dentist-address">📍 9551 N Owasso Expy, Owasso, OK 74055, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(204 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9183471126" class="dentist-btn dentist-btn-call" onclick="trackLead('LakeCrest Dental','call','Owasso','OK')">📞 Call</a> <a href="https://lakecrestdental.com/owasso/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('LakeCrest Dental','website','Owasso','OK')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9183471126" class="dentist-btn dentist-btn-call" onclick="trackLead('LakeCrest Dental','call','Owasso','OK')">📞 Call</a> <a href="https://lakecrestdental.com/owasso/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('LakeCrest Dental','website','Owasso','OK')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('LakeCrest Dental','Owasso','OK')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Jillian Prather Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/oklahoma/owasso/jillian-prather-family-dentistry.html" style="color:inherit;text-decoration:none;">Jillian Prather Family Dentistry</a></h3>
         <p class="dentist-address">📍 12814 E 101st Pl N Suite #102, Owasso, OK 74055, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(38 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9184019933" class="dentist-btn dentist-btn-call" onclick="trackLead('Jillian Prather Family Dentistry','call','Owasso','OK')">📞 Call</a> <a href="https://pratherfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Jillian Prather Family Dentistry','website','Owasso','OK')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9184019933" class="dentist-btn dentist-btn-call" onclick="trackLead('Jillian Prather Family Dentistry','call','Owasso','OK')">📞 Call</a> <a href="https://pratherfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Jillian Prather Family Dentistry','website','Owasso','OK')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Jillian Prather Family Dentistry','Owasso','OK')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Family Dental Care of Owasso</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/oklahoma/owasso/family-dental-care-of-owasso.html" style="color:inherit;text-decoration:none;">Family Dental Care of Owasso</a></h3>
         <p class="dentist-address">📍 13101 E 96th St N, Owasso, OK 74055, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(998 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9188488136" class="dentist-btn dentist-btn-call" onclick="trackLead('Family Dental Care of Owasso','call','Owasso','OK')">📞 Call</a> <a href="http://familydentalcareofowasso.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Family Dental Care of Owasso','website','Owasso','OK')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9188488136" class="dentist-btn dentist-btn-call" onclick="trackLead('Family Dental Care of Owasso','call','Owasso','OK')">📞 Call</a> <a href="http://familydentalcareofowasso.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Family Dental Care of Owasso','website','Owasso','OK')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Family Dental Care of Owasso','Owasso','OK')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Depot</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/oklahoma/owasso/dental-depot.html" style="color:inherit;text-decoration:none;">Dental Depot</a></h3>
         <p class="dentist-address">📍 8722 N Garnett Rd, Owasso, OK 74055, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(212 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9185178946" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Depot','call','Owasso','OK')">📞 Call</a> <a href="https://dentaldepot.net/request-appointment-owasso/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Depot','website','Owasso','OK')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9185178946" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Depot','call','Owasso','OK')">📞 Call</a> <a href="https://dentaldepot.net/request-appointment-owasso/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Depot','website','Owasso','OK')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Depot','Owasso','OK')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Custom Dental of Owasso - Dr. Gavin Biggs</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/oklahoma/owasso/custom-dental-of-owasso-dr-gavin-biggs.html" style="color:inherit;text-decoration:none;">Custom Dental of Owasso - Dr. Gavin Biggs</a></h3>
         <p class="dentist-address">📍 11501 N 135th E Ave, Owasso, OK 74055, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(177 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9183767133" class="dentist-btn dentist-btn-call" onclick="trackLead('Custom Dental of Owasso - Dr. Gavin Biggs','call','Owasso','OK')">📞 Call</a> <a href="http://thedentistofowasso.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Custom Dental of Owasso - Dr. Gavin Biggs','website','Owasso','OK')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9183767133" class="dentist-btn dentist-btn-call" onclick="trackLead('Custom Dental of Owasso - Dr. Gavin Biggs','call','Owasso','OK')">📞 Call</a> <a href="http://thedentistofowasso.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Custom Dental of Owasso - Dr. Gavin Biggs','website','Owasso','OK')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Custom Dental of Owasso - Dr. Gavin Biggs','Owasso','OK')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Aspen Dental - Owasso, OK</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/oklahoma/owasso/aspen-dental-owasso-ok.html" style="color:inherit;text-decoration:none;">Aspen Dental - Owasso, OK</a></h3>
         <p class="dentist-address">📍 9025 N 121st E Ave #300, Owasso, OK 74055, USA</p>
         <div class="dentist-rating">★★★★ 4.2 <span class="review-count">(627 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9183048040" class="dentist-btn dentist-btn-call" onclick="trackLead('Aspen Dental - Owasso, OK','call','Owasso','OK')">📞 Call</a> <a href="https://www.aspendental.com/dentist/ok/owasso/9025-n-121-east-ave-ste-300" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Aspen Dental - Owasso, OK','website','Owasso','OK')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9183048040" class="dentist-btn dentist-btn-call" onclick="trackLead('Aspen Dental - Owasso, OK','call','Owasso','OK')">📞 Call</a> <a href="https://www.aspendental.com/dentist/ok/owasso/9025-n-121-east-ave-ste-300" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Aspen Dental - Owasso, OK','website','Owasso','OK')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Aspen Dental - Owasso, OK','Owasso','OK')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

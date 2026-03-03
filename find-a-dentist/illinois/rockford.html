@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 11 dentists in Rockford, Illinois. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Illinois","item":"https://dentalpedia.co/find-a-dentist/illinois.html"},
+                {"@type":"ListItem","position":4,"name":"Rockford","item":"https://dentalpedia.co/find-a-dentist/illinois/rockford.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Rockford, IL","numberOfItems":11,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Forest City Dental","address":"1855 Daimler Rd #1, Rockford, IL 61112, USA","telephone":"(815) 209-0627"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Burch Dental - Rockford (Highcrest)","address":"1646 N Alpine Rd, Rockford, IL 61107, USA","telephone":"(815) 569-5647"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"815 Dental Studio - Rockford","address":"1075 Featherstone Rd # 30, Rockford, IL 61107, USA","telephone":"(815) 420-3451"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Rockford Dental lounge","address":"4312 US-20 BUS, Rockford, IL 61108, USA","telephone":"(815) 846-4431"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Dental Group of Rockford","address":"3065 N Perryville Rd Suite 125, Rockford, IL 61114, USA","telephone":"(815) 429-1414"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Burch Dental - Rockford (North Main)","address":"3914 N Main St, Rockford, IL 61103, USA","telephone":"(815) 362-7595"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Affordable Dentistry Today","address":"5819 E Riverside Blvd #21, Rockford, IL 61114, USA","telephone":"(815) 515-4802"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Dental Designers of Rockford","address":"364 Financial Ct Ste A, Rockford, IL 61107, USA","telephone":"(815) 420-3492"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"All Family Dental and Braces","address":"6585 E State St, Rockford, IL 61108, USA","telephone":"(815) 553-2530"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Rockford Emergency Dental","address":"415 S Mulford Rd, Rockford, IL 61108, USA","telephone":"(779) 290-0055"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Total Relief Emergency Dental Care","address":"401-405 W State St, Rockford, IL 61101, USA","telephone":"(815) 559-5430"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/illinois.html">Illinois</a> &rsaquo; Rockford</nav>
             <h1>Dentists in Rockford, IL</h1>
@@ -85,70 +140,70 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Forest City Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/rockford/forest-city-dental.html" style="color:inherit;text-decoration:none;">Forest City Dental</a></h3>
         <p class="dentist-address">📍 1855 Daimler Rd #1, Rockford, IL 61112, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(513 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8152090627" class="dentist-btn dentist-btn-call" onclick="trackLead('Forest City Dental','call','Rockford','IL')">📞 Call</a> <a href="https://www.forestcitydental.net/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Forest City Dental','website','Rockford','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8152090627" class="dentist-btn dentist-btn-call" onclick="trackLead('Forest City Dental','call','Rockford','IL')">📞 Call</a> <a href="https://www.forestcitydental.net/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Forest City Dental','website','Rockford','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Forest City Dental','Rockford','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Burch Dental - Rockford (Highcrest)</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/rockford/burch-dental-rockford-highcrest.html" style="color:inherit;text-decoration:none;">Burch Dental - Rockford (Highcrest)</a></h3>
         <p class="dentist-address">📍 1646 N Alpine Rd, Rockford, IL 61107, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(556 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8155695647" class="dentist-btn dentist-btn-call" onclick="trackLead('Burch Dental - Rockford (Highcrest)','call','Rockford','IL')">📞 Call</a> <a href="https://burchdental.com/highcrest-rockford-il/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Burch Dental - Rockford (Highcrest)','website','Rockford','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8155695647" class="dentist-btn dentist-btn-call" onclick="trackLead('Burch Dental - Rockford (Highcrest)','call','Rockford','IL')">📞 Call</a> <a href="https://burchdental.com/highcrest-rockford-il/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Burch Dental - Rockford (Highcrest)','website','Rockford','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Burch Dental - Rockford (Highcrest)','Rockford','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">815 Dental Studio - Rockford</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/rockford/815-dental-studio-rockford.html" style="color:inherit;text-decoration:none;">815 Dental Studio - Rockford</a></h3>
         <p class="dentist-address">📍 1075 Featherstone Rd # 30, Rockford, IL 61107, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(544 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8154203451" class="dentist-btn dentist-btn-call" onclick="trackLead('815 Dental Studio - Rockford','call','Rockford','IL')">📞 Call</a> <a href="https://www.815dentalstudio.com/rockford-il/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('815 Dental Studio - Rockford','website','Rockford','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8154203451" class="dentist-btn dentist-btn-call" onclick="trackLead('815 Dental Studio - Rockford','call','Rockford','IL')">📞 Call</a> <a href="https://www.815dentalstudio.com/rockford-il/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('815 Dental Studio - Rockford','website','Rockford','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('815 Dental Studio - Rockford','Rockford','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Rockford Dental lounge</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/rockford/rockford-dental-lounge.html" style="color:inherit;text-decoration:none;">Rockford Dental lounge</a></h3>
         <p class="dentist-address">📍 4312 US-20 BUS, Rockford, IL 61108, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(56 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8158464431" class="dentist-btn dentist-btn-call" onclick="trackLead('Rockford Dental lounge','call','Rockford','IL')">📞 Call</a> <a href="https://rockforddentallounge.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Rockford Dental lounge','website','Rockford','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8158464431" class="dentist-btn dentist-btn-call" onclick="trackLead('Rockford Dental lounge','call','Rockford','IL')">📞 Call</a> <a href="https://rockforddentallounge.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Rockford Dental lounge','website','Rockford','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Rockford Dental lounge','Rockford','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Group of Rockford</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/rockford/dental-group-of-rockford.html" style="color:inherit;text-decoration:none;">Dental Group of Rockford</a></h3>
         <p class="dentist-address">📍 3065 N Perryville Rd Suite 125, Rockford, IL 61114, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(982 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8154291414" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Group of Rockford','call','Rockford','IL')">📞 Call</a> <a href="http://dentalgrouprockford.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Group of Rockford','website','Rockford','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8154291414" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Group of Rockford','call','Rockford','IL')">📞 Call</a> <a href="http://dentalgrouprockford.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Group of Rockford','website','Rockford','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Group of Rockford','Rockford','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Burch Dental - Rockford (North Main)</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/rockford/burch-dental-rockford-north-main.html" style="color:inherit;text-decoration:none;">Burch Dental - Rockford (North Main)</a></h3>
         <p class="dentist-address">📍 3914 N Main St, Rockford, IL 61103, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(933 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8153627595" class="dentist-btn dentist-btn-call" onclick="trackLead('Burch Dental - Rockford (North Main)','call','Rockford','IL')">📞 Call</a> <a href="https://burchdental.com/north-main-rockford-il/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Burch Dental - Rockford (North Main)','website','Rockford','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8153627595" class="dentist-btn dentist-btn-call" onclick="trackLead('Burch Dental - Rockford (North Main)','call','Rockford','IL')">📞 Call</a> <a href="https://burchdental.com/north-main-rockford-il/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Burch Dental - Rockford (North Main)','website','Rockford','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Burch Dental - Rockford (North Main)','Rockford','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Affordable Dentistry Today</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/rockford/affordable-dentistry-today.html" style="color:inherit;text-decoration:none;">Affordable Dentistry Today</a></h3>
         <p class="dentist-address">📍 5819 E Riverside Blvd #21, Rockford, IL 61114, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(427 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8155154802" class="dentist-btn dentist-btn-call" onclick="trackLead('Affordable Dentistry Today','call','Rockford','IL')">📞 Call</a> <a href="http://affordabledentistryrockford.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Affordable Dentistry Today','website','Rockford','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8155154802" class="dentist-btn dentist-btn-call" onclick="trackLead('Affordable Dentistry Today','call','Rockford','IL')">📞 Call</a> <a href="http://affordabledentistryrockford.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Affordable Dentistry Today','website','Rockford','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Affordable Dentistry Today','Rockford','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Designers of Rockford</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/rockford/dental-designers-of-rockford.html" style="color:inherit;text-decoration:none;">Dental Designers of Rockford</a></h3>
         <p class="dentist-address">📍 364 Financial Ct Ste A, Rockford, IL 61107, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(261 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8154203492" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Designers of Rockford','call','Rockford','IL')">📞 Call</a> <a href="https://dentaldesignersrockford.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Designers of Rockford','website','Rockford','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8154203492" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Designers of Rockford','call','Rockford','IL')">📞 Call</a> <a href="https://dentaldesignersrockford.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Designers of Rockford','website','Rockford','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Designers of Rockford','Rockford','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">All Family Dental and Braces</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/rockford/all-family-dental-and-braces.html" style="color:inherit;text-decoration:none;">All Family Dental and Braces</a></h3>
         <p class="dentist-address">📍 6585 E State St, Rockford, IL 61108, USA</p>
         <div class="dentist-rating">★★★★ 4.0 <span class="review-count">(438 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8155532530" class="dentist-btn dentist-btn-call" onclick="trackLead('All Family Dental and Braces','call','Rockford','IL')">📞 Call</a> <a href="https://www.dentalandbraces.com/location/rockford/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('All Family Dental and Braces','website','Rockford','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8155532530" class="dentist-btn dentist-btn-call" onclick="trackLead('All Family Dental and Braces','call','Rockford','IL')">📞 Call</a> <a href="https://www.dentalandbraces.com/location/rockford/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('All Family Dental and Braces','website','Rockford','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('All Family Dental and Braces','Rockford','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Rockford Emergency Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/rockford/rockford-emergency-dental.html" style="color:inherit;text-decoration:none;">Rockford Emergency Dental</a></h3>
         <p class="dentist-address">📍 415 S Mulford Rd, Rockford, IL 61108, USA</p>
         <div class="dentist-rating">★★★ 3.1 <span class="review-count">(9 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7792900055" class="dentist-btn dentist-btn-call" onclick="trackLead('Rockford Emergency Dental','call','Rockford','IL')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:7792900055" class="dentist-btn dentist-btn-call" onclick="trackLead('Rockford Emergency Dental','call','Rockford','IL')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Rockford Emergency Dental','Rockford','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Total Relief Emergency Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/rockford/total-relief-emergency-dental-care.html" style="color:inherit;text-decoration:none;">Total Relief Emergency Dental Care</a></h3>
         <p class="dentist-address">📍 401-405 W State St, Rockford, IL 61101, USA</p>
         <div class="dentist-rating"> <span class="review-count"></span></div>
-        <div class="dentist-actions"><a href="tel:8155595430" class="dentist-btn dentist-btn-call" onclick="trackLead('Total Relief Emergency Dental Care','call','Rockford','IL')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:8155595430" class="dentist-btn dentist-btn-call" onclick="trackLead('Total Relief Emergency Dental Care','call','Rockford','IL')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Total Relief Emergency Dental Care','Rockford','IL')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

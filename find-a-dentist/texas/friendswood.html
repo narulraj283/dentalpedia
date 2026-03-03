@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 8 dentists in Friendswood, Texas. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Texas","item":"https://dentalpedia.co/find-a-dentist/texas.html"},
+                {"@type":"ListItem","position":4,"name":"Friendswood","item":"https://dentalpedia.co/find-a-dentist/texas/friendswood.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Friendswood, TX","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"The Airway Dentists - Friendswood","address":"501 S Friendswood Dr Suite #105, Friendswood, TX 77546, USA","telephone":"(713) 538-1567"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Montz and Maher Dental Group","address":"1769 S Friendswood Dr Ste 107 Ste 107, Friendswood, TX 77546, USA","telephone":"(281) 393-0910"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Friendswood Smiles Orthodontics &amp; General Dentistry","address":"2111 W Parkwood Ave #105, Friendswood, TX 77546, USA","telephone":"(832) 895-1905"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Only Smiles Family Dental-Steven Bui, DDS","address":"337 E Parkwood Dr, Friendswood, TX 77546, USA","telephone":"(346) 215-0521"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Bay Area Dental Specialists","address":"505 S Friendswood Dr #209, Friendswood, TX 77546, USA","telephone":"(346) 781-7685"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Made Ya Smile Friendswood","address":"1520 S Friendswood Dr Ste 104, Friendswood, TX 77546, USA","telephone":"(281) 305-8977"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Dental Gallery","address":"102 W El Dorado Blvd # C1, Friendswood, TX 77546, USA","telephone":""}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Affordable Dentures &amp; Implants","address":"19012 Gulf Fwy Suite A, Friendswood, TX 77546, USA","telephone":"(346) 651-2539"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/texas.html">Texas</a> &rsaquo; Friendswood</nav>
             <h1>Dentists in Friendswood, TX</h1>
@@ -85,52 +140,52 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">The Airway Dentists - Friendswood</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/friendswood/the-airway-dentists-friendswood.html" style="color:inherit;text-decoration:none;">The Airway Dentists - Friendswood</a></h3>
         <p class="dentist-address">📍 501 S Friendswood Dr Suite #105, Friendswood, TX 77546, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(430 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7135381567" class="dentist-btn dentist-btn-call" onclick="trackLead('The Airway Dentists - Friendswood','call','Friendswood','TX')">📞 Call</a> <a href="https://theairwaydentists.com/locations/friendswood/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Airway Dentists - Friendswood','website','Friendswood','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7135381567" class="dentist-btn dentist-btn-call" onclick="trackLead('The Airway Dentists - Friendswood','call','Friendswood','TX')">📞 Call</a> <a href="https://theairwaydentists.com/locations/friendswood/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Airway Dentists - Friendswood','website','Friendswood','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('The Airway Dentists - Friendswood','Friendswood','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Montz and Maher Dental Group</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/friendswood/montz-and-maher-dental-group.html" style="color:inherit;text-decoration:none;">Montz and Maher Dental Group</a></h3>
         <p class="dentist-address">📍 1769 S Friendswood Dr Ste 107 Ste 107, Friendswood, TX 77546, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(407 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2813930910" class="dentist-btn dentist-btn-call" onclick="trackLead('Montz and Maher Dental Group','call','Friendswood','TX')">📞 Call</a> <a href="https://www.pearlandsmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Montz and Maher Dental Group','website','Friendswood','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2813930910" class="dentist-btn dentist-btn-call" onclick="trackLead('Montz and Maher Dental Group','call','Friendswood','TX')">📞 Call</a> <a href="https://www.pearlandsmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Montz and Maher Dental Group','website','Friendswood','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Montz and Maher Dental Group','Friendswood','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Friendswood Smiles Orthodontics &amp; General Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/friendswood/friendswood-smiles-orthodontics-general-dentistry.html" style="color:inherit;text-decoration:none;">Friendswood Smiles Orthodontics &amp; General Dentistry</a></h3>
         <p class="dentist-address">📍 2111 W Parkwood Ave #105, Friendswood, TX 77546, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(373 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8328951905" class="dentist-btn dentist-btn-call" onclick="trackLead('Friendswood Smiles Orthodontics &amp; General Dentistry','call','Friendswood','TX')">📞 Call</a> <a href="https://friendswoodsmilestx.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Friendswood Smiles Orthodontics &amp; General Dentistry','website','Friendswood','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8328951905" class="dentist-btn dentist-btn-call" onclick="trackLead('Friendswood Smiles Orthodontics &amp; General Dentistry','call','Friendswood','TX')">📞 Call</a> <a href="https://friendswoodsmilestx.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Friendswood Smiles Orthodontics &amp; General Dentistry','website','Friendswood','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Friendswood Smiles Orthodontics &amp; General Dentistry','Friendswood','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Only Smiles Family Dental-Steven Bui, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/friendswood/only-smiles-family-dental-steven-bui-dds.html" style="color:inherit;text-decoration:none;">Only Smiles Family Dental-Steven Bui, DDS</a></h3>
         <p class="dentist-address">📍 337 E Parkwood Dr, Friendswood, TX 77546, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(260 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3462150521" class="dentist-btn dentist-btn-call" onclick="trackLead('Only Smiles Family Dental-Steven Bui, DDS','call','Friendswood','TX')">📞 Call</a> <a href="https://www.myfriendswooddentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Only Smiles Family Dental-Steven Bui, DDS','website','Friendswood','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3462150521" class="dentist-btn dentist-btn-call" onclick="trackLead('Only Smiles Family Dental-Steven Bui, DDS','call','Friendswood','TX')">📞 Call</a> <a href="https://www.myfriendswooddentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Only Smiles Family Dental-Steven Bui, DDS','website','Friendswood','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Only Smiles Family Dental-Steven Bui, DDS','Friendswood','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Bay Area Dental Specialists</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/friendswood/bay-area-dental-specialists.html" style="color:inherit;text-decoration:none;">Bay Area Dental Specialists</a></h3>
         <p class="dentist-address">📍 505 S Friendswood Dr #209, Friendswood, TX 77546, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(74 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3467817685" class="dentist-btn dentist-btn-call" onclick="trackLead('Bay Area Dental Specialists','call','Friendswood','TX')">📞 Call</a> <a href="https://www.thebayareadentists.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bay Area Dental Specialists','website','Friendswood','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3467817685" class="dentist-btn dentist-btn-call" onclick="trackLead('Bay Area Dental Specialists','call','Friendswood','TX')">📞 Call</a> <a href="https://www.thebayareadentists.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bay Area Dental Specialists','website','Friendswood','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Bay Area Dental Specialists','Friendswood','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Made Ya Smile Friendswood</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/friendswood/made-ya-smile-friendswood.html" style="color:inherit;text-decoration:none;">Made Ya Smile Friendswood</a></h3>
         <p class="dentist-address">📍 1520 S Friendswood Dr Ste 104, Friendswood, TX 77546, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(709 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2813058977" class="dentist-btn dentist-btn-call" onclick="trackLead('Made Ya Smile Friendswood','call','Friendswood','TX')">📞 Call</a> <a href="https://madeyasmile.com/dentist-office/friendswood-texas-77546" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Made Ya Smile Friendswood','website','Friendswood','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2813058977" class="dentist-btn dentist-btn-call" onclick="trackLead('Made Ya Smile Friendswood','call','Friendswood','TX')">📞 Call</a> <a href="https://madeyasmile.com/dentist-office/friendswood-texas-77546" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Made Ya Smile Friendswood','website','Friendswood','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Made Ya Smile Friendswood','Friendswood','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Gallery</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/friendswood/dental-gallery.html" style="color:inherit;text-decoration:none;">Dental Gallery</a></h3>
         <p class="dentist-address">📍 102 W El Dorado Blvd # C1, Friendswood, TX 77546, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(463 reviews)</span></div>
-        <div class="dentist-actions"> <a href="https://www.dentalgalleryfriendswood.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Gallery','website','Friendswood','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"> <a href="https://www.dentalgalleryfriendswood.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Gallery','website','Friendswood','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Gallery','Friendswood','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Affordable Dentures &amp; Implants</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/friendswood/affordable-dentures-implants.html" style="color:inherit;text-decoration:none;">Affordable Dentures &amp; Implants</a></h3>
         <p class="dentist-address">📍 19012 Gulf Fwy Suite A, Friendswood, TX 77546, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(974 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3466512539" class="dentist-btn dentist-btn-call" onclick="trackLead('Affordable Dentures &amp; Implants','call','Friendswood','TX')">📞 Call</a> <a href="https://www.affordabledentures.com/locations/tx/friendswood" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Affordable Dentures &amp; Implants','website','Friendswood','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3466512539" class="dentist-btn dentist-btn-call" onclick="trackLead('Affordable Dentures &amp; Implants','call','Friendswood','TX')">📞 Call</a> <a href="https://www.affordabledentures.com/locations/tx/friendswood" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Affordable Dentures &amp; Implants','website','Friendswood','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Affordable Dentures &amp; Implants','Friendswood','TX')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

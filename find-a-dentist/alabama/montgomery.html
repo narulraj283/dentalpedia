@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 13 dentists in Montgomery, Alabama. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Alabama","item":"https://dentalpedia.co/find-a-dentist/alabama.html"},
+                {"@type":"ListItem","position":4,"name":"Montgomery","item":"https://dentalpedia.co/find-a-dentist/alabama/montgomery.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Montgomery, AL","numberOfItems":13,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Mathews Dental","address":"4130 Carmichael Rd Suite B, Montgomery, AL 36106, USA","telephone":"(334) 781-6991"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Zelda Court Dental Care","address":"3150 Zelda Ct, Montgomery, AL 36106, USA","telephone":"(334) 258-1894"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Woodmere Cosmetic and Family Dentistry","address":"4730 Woodmere Blvd, Montgomery, AL 36106, USA","telephone":"(334) 258-1683"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Carmichael Dental Care - Montgomery Dentist","address":"4146-D Carmichael Rd, Montgomery, AL 36106, USA","telephone":"(334) 600-1423"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Montgomery Smiles","address":"8324 Crossland Loop, Montgomery, AL 36117, USA","telephone":"(334) 258-1624"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"River Region Dentistry","address":"125 Coliseum Blvd, Montgomery, AL 36109, USA","telephone":"(334) 245-5193"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Bell Road Family Dentistry - Dentist Montgomery","address":"2642 Bell Rd, Montgomery, AL 36117, USA","telephone":"(334) 679-2544"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Premier Dental Group-Montgomery","address":"1220 Carmichael Way, Montgomery, AL 36106, USA","telephone":"(334) 272-7963"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Montgomery Family Dental Care","address":"2560 Bell Rd, Montgomery, AL 36117, USA","telephone":"(334) 453-4911"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Oral &amp; Maxillofacial Surgery Associates","address":"7200 Halcyon Summit Dr, Montgomery, AL 36117, USA","telephone":"(334) 277-3492"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Dr. Kent D. Hill, DDS","address":"2920 Marti Ln, Montgomery, AL 36116, USA","telephone":"(334) 613-0626"}},{"@type":"ListItem","position":12,"item":{"@type":"Dentist","name":"Emergency Dental Alabama","address":"4291 Troy Hwy, Montgomery, AL 36116, USA","telephone":"(844) 833-2059"}},{"@type":"ListItem","position":13,"item":{"@type":"Dentist","name":"Urgent Dentist Care Montgomery","address":"4715 Mobile Hwy, Montgomery, AL 36108, USA","telephone":"(844) 578-3026"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/alabama.html">Alabama</a> &rsaquo; Montgomery</nav>
             <h1>Dentists in Montgomery, AL</h1>
@@ -85,82 +140,82 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Mathews Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/alabama/montgomery/mathews-dental.html" style="color:inherit;text-decoration:none;">Mathews Dental</a></h3>
         <p class="dentist-address">📍 4130 Carmichael Rd Suite B, Montgomery, AL 36106, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(260 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3347816991" class="dentist-btn dentist-btn-call" onclick="trackLead('Mathews Dental','call','Montgomery','AL')">📞 Call</a> <a href="https://www.themathewsdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mathews Dental','website','Montgomery','AL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3347816991" class="dentist-btn dentist-btn-call" onclick="trackLead('Mathews Dental','call','Montgomery','AL')">📞 Call</a> <a href="https://www.themathewsdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mathews Dental','website','Montgomery','AL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Mathews Dental','Montgomery','AL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Zelda Court Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/alabama/montgomery/zelda-court-dental-care.html" style="color:inherit;text-decoration:none;">Zelda Court Dental Care</a></h3>
         <p class="dentist-address">📍 3150 Zelda Ct, Montgomery, AL 36106, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(2,138 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3342581894" class="dentist-btn dentist-btn-call" onclick="trackLead('Zelda Court Dental Care','call','Montgomery','AL')">📞 Call</a> <a href="https://www.zeldacourtdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Zelda Court Dental Care','website','Montgomery','AL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3342581894" class="dentist-btn dentist-btn-call" onclick="trackLead('Zelda Court Dental Care','call','Montgomery','AL')">📞 Call</a> <a href="https://www.zeldacourtdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Zelda Court Dental Care','website','Montgomery','AL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Zelda Court Dental Care','Montgomery','AL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Woodmere Cosmetic and Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/alabama/montgomery/woodmere-cosmetic-and-family-dentistry.html" style="color:inherit;text-decoration:none;">Woodmere Cosmetic and Family Dentistry</a></h3>
         <p class="dentist-address">📍 4730 Woodmere Blvd, Montgomery, AL 36106, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(1,993 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3342581683" class="dentist-btn dentist-btn-call" onclick="trackLead('Woodmere Cosmetic and Family Dentistry','call','Montgomery','AL')">📞 Call</a> <a href="https://www.woodmeredentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Woodmere Cosmetic and Family Dentistry','website','Montgomery','AL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3342581683" class="dentist-btn dentist-btn-call" onclick="trackLead('Woodmere Cosmetic and Family Dentistry','call','Montgomery','AL')">📞 Call</a> <a href="https://www.woodmeredentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Woodmere Cosmetic and Family Dentistry','website','Montgomery','AL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Woodmere Cosmetic and Family Dentistry','Montgomery','AL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Carmichael Dental Care - Montgomery Dentist</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/alabama/montgomery/carmichael-dental-care-montgomery-dentist.html" style="color:inherit;text-decoration:none;">Carmichael Dental Care - Montgomery Dentist</a></h3>
         <p class="dentist-address">📍 4146-D Carmichael Rd, Montgomery, AL 36106, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(1,517 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3346001423" class="dentist-btn dentist-btn-call" onclick="trackLead('Carmichael Dental Care - Montgomery Dentist','call','Montgomery','AL')">📞 Call</a> <a href="http://www.myaldentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Carmichael Dental Care - Montgomery Dentist','website','Montgomery','AL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3346001423" class="dentist-btn dentist-btn-call" onclick="trackLead('Carmichael Dental Care - Montgomery Dentist','call','Montgomery','AL')">📞 Call</a> <a href="http://www.myaldentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Carmichael Dental Care - Montgomery Dentist','website','Montgomery','AL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Carmichael Dental Care - Montgomery Dentist','Montgomery','AL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Montgomery Smiles</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/alabama/montgomery/montgomery-smiles.html" style="color:inherit;text-decoration:none;">Montgomery Smiles</a></h3>
         <p class="dentist-address">📍 8324 Crossland Loop, Montgomery, AL 36117, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(983 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3342581624" class="dentist-btn dentist-btn-call" onclick="trackLead('Montgomery Smiles','call','Montgomery','AL')">📞 Call</a> <a href="https://www.montgomery-smiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Montgomery Smiles','website','Montgomery','AL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3342581624" class="dentist-btn dentist-btn-call" onclick="trackLead('Montgomery Smiles','call','Montgomery','AL')">📞 Call</a> <a href="https://www.montgomery-smiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Montgomery Smiles','website','Montgomery','AL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Montgomery Smiles','Montgomery','AL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">River Region Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/alabama/montgomery/river-region-dentistry.html" style="color:inherit;text-decoration:none;">River Region Dentistry</a></h3>
         <p class="dentist-address">📍 125 Coliseum Blvd, Montgomery, AL 36109, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(652 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3342455193" class="dentist-btn dentist-btn-call" onclick="trackLead('River Region Dentistry','call','Montgomery','AL')">📞 Call</a> <a href="https://riverregiondentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('River Region Dentistry','website','Montgomery','AL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3342455193" class="dentist-btn dentist-btn-call" onclick="trackLead('River Region Dentistry','call','Montgomery','AL')">📞 Call</a> <a href="https://riverregiondentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('River Region Dentistry','website','Montgomery','AL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('River Region Dentistry','Montgomery','AL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Bell Road Family Dentistry - Dentist Montgomery</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/alabama/montgomery/bell-road-family-dentistry-dentist-montgomery.html" style="color:inherit;text-decoration:none;">Bell Road Family Dentistry - Dentist Montgomery</a></h3>
         <p class="dentist-address">📍 2642 Bell Rd, Montgomery, AL 36117, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(369 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3346792544" class="dentist-btn dentist-btn-call" onclick="trackLead('Bell Road Family Dentistry - Dentist Montgomery','call','Montgomery','AL')">📞 Call</a> <a href="https://www.bellroadfd.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bell Road Family Dentistry - Dentist Montgomery','website','Montgomery','AL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3346792544" class="dentist-btn dentist-btn-call" onclick="trackLead('Bell Road Family Dentistry - Dentist Montgomery','call','Montgomery','AL')">📞 Call</a> <a href="https://www.bellroadfd.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bell Road Family Dentistry - Dentist Montgomery','website','Montgomery','AL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Bell Road Family Dentistry - Dentist Montgomery','Montgomery','AL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Premier Dental Group-Montgomery</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/alabama/montgomery/premier-dental-group-montgomery.html" style="color:inherit;text-decoration:none;">Premier Dental Group-Montgomery</a></h3>
         <p class="dentist-address">📍 1220 Carmichael Way, Montgomery, AL 36106, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(110 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3342727963" class="dentist-btn dentist-btn-call" onclick="trackLead('Premier Dental Group-Montgomery','call','Montgomery','AL')">📞 Call</a> <a href="http://www.premiersdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Premier Dental Group-Montgomery','website','Montgomery','AL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3342727963" class="dentist-btn dentist-btn-call" onclick="trackLead('Premier Dental Group-Montgomery','call','Montgomery','AL')">📞 Call</a> <a href="http://www.premiersdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Premier Dental Group-Montgomery','website','Montgomery','AL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Premier Dental Group-Montgomery','Montgomery','AL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Montgomery Family Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/alabama/montgomery/montgomery-family-dental-care.html" style="color:inherit;text-decoration:none;">Montgomery Family Dental Care</a></h3>
         <p class="dentist-address">📍 2560 Bell Rd, Montgomery, AL 36117, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(869 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3344534911" class="dentist-btn dentist-btn-call" onclick="trackLead('Montgomery Family Dental Care','call','Montgomery','AL')">📞 Call</a> <a href="http://montgomeryfamilydentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Montgomery Family Dental Care','website','Montgomery','AL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3344534911" class="dentist-btn dentist-btn-call" onclick="trackLead('Montgomery Family Dental Care','call','Montgomery','AL')">📞 Call</a> <a href="http://montgomeryfamilydentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Montgomery Family Dental Care','website','Montgomery','AL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Montgomery Family Dental Care','Montgomery','AL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Oral &amp; Maxillofacial Surgery Associates</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/alabama/montgomery/oral-maxillofacial-surgery-associates.html" style="color:inherit;text-decoration:none;">Oral &amp; Maxillofacial Surgery Associates</a></h3>
         <p class="dentist-address">📍 7200 Halcyon Summit Dr, Montgomery, AL 36117, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(454 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3342773492" class="dentist-btn dentist-btn-call" onclick="trackLead('Oral &amp; Maxillofacial Surgery Associates','call','Montgomery','AL')">📞 Call</a> <a href="https://jawdocs.net/contact/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oral &amp; Maxillofacial Surgery Associates','website','Montgomery','AL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3342773492" class="dentist-btn dentist-btn-call" onclick="trackLead('Oral &amp; Maxillofacial Surgery Associates','call','Montgomery','AL')">📞 Call</a> <a href="https://jawdocs.net/contact/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oral &amp; Maxillofacial Surgery Associates','website','Montgomery','AL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Oral &amp; Maxillofacial Surgery Associates','Montgomery','AL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. Kent D. Hill, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/alabama/montgomery/dr-kent-d-hill-dds.html" style="color:inherit;text-decoration:none;">Dr. Kent D. Hill, DDS</a></h3>
         <p class="dentist-address">📍 2920 Marti Ln, Montgomery, AL 36116, USA</p>
         <div class="dentist-rating">★★★ 3.2 <span class="review-count">(65 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3346130626" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Kent D. Hill, DDS','call','Montgomery','AL')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:3346130626" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Kent D. Hill, DDS','call','Montgomery','AL')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. Kent D. Hill, DDS','Montgomery','AL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Emergency Dental Alabama</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/alabama/montgomery/emergency-dental-alabama.html" style="color:inherit;text-decoration:none;">Emergency Dental Alabama</a></h3>
         <p class="dentist-address">📍 4291 Troy Hwy, Montgomery, AL 36116, USA</p>
         <div class="dentist-rating">★ 1.0 <span class="review-count">(1 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8448332059" class="dentist-btn dentist-btn-call" onclick="trackLead('Emergency Dental Alabama','call','Montgomery','AL')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:8448332059" class="dentist-btn dentist-btn-call" onclick="trackLead('Emergency Dental Alabama','call','Montgomery','AL')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Emergency Dental Alabama','Montgomery','AL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Urgent Dentist Care Montgomery</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/alabama/montgomery/urgent-dentist-care-montgomery.html" style="color:inherit;text-decoration:none;">Urgent Dentist Care Montgomery</a></h3>
         <p class="dentist-address">📍 4715 Mobile Hwy, Montgomery, AL 36108, USA</p>
         <div class="dentist-rating">★ 1.0 <span class="review-count">(1 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8445783026" class="dentist-btn dentist-btn-call" onclick="trackLead('Urgent Dentist Care Montgomery','call','Montgomery','AL')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:8445783026" class="dentist-btn dentist-btn-call" onclick="trackLead('Urgent Dentist Care Montgomery','call','Montgomery','AL')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Urgent Dentist Care Montgomery','Montgomery','AL')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

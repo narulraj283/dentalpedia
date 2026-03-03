@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 8 dentists in Roselle, Illinois. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Illinois","item":"https://dentalpedia.co/find-a-dentist/illinois.html"},
+                {"@type":"ListItem","position":4,"name":"Roselle","item":"https://dentalpedia.co/find-a-dentist/illinois/roselle.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Roselle, IL","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Schmit Richard J DDS","address":"910 W Lake St STE 106, Roselle, IL 60172, USA","telephone":"(630) 351-2711"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Modern Essence Dentistry &amp; Dental Implants: Dr. Brainard Llanes, DDS, FICOI","address":"818 E Nerge Rd, Roselle, IL 60172, USA","telephone":"(630) 592-8109"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Yevgen Tkachuk DDS","address":"668 Irving Park Rd, Roselle, IL 60172, USA","telephone":"(630) 924-7990"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"West Lake Dental Care of Roselle","address":"1260 W Lake St, Roselle, IL 60172, USA","telephone":"(630) 980-6762"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Lake Street Dental","address":"478 W Lake St, Roselle, IL 60172, USA","telephone":"(630) 589-1388"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Smiles Dental Care, William Wolski DDS","address":"96 Bokelman St, Roselle, IL 60172, USA","telephone":"(630) 394-5874"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Dr. Richard J. Volk, DDS","address":"975 E Nerge Rd N-20, Roselle, IL 60172, USA","telephone":"(630) 917-8181"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Nita Patel DDS","address":"350 Irving Park Rd, Roselle, IL 60172, USA","telephone":"(630) 539-9999"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/illinois.html">Illinois</a> &rsaquo; Roselle</nav>
             <h1>Dentists in Roselle, IL</h1>
@@ -85,52 +140,52 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Schmit Richard J DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/roselle/schmit-richard-j-dds.html" style="color:inherit;text-decoration:none;">Schmit Richard J DDS</a></h3>
         <p class="dentist-address">📍 910 W Lake St STE 106, Roselle, IL 60172, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(13 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6303512711" class="dentist-btn dentist-btn-call" onclick="trackLead('Schmit Richard J DDS','call','Roselle','IL')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:6303512711" class="dentist-btn dentist-btn-call" onclick="trackLead('Schmit Richard J DDS','call','Roselle','IL')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Schmit Richard J DDS','Roselle','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Modern Essence Dentistry &amp; Dental Implants: Dr. Brainard Llanes, DDS, FICOI</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/roselle/modern-essence-dentistry-dental-implants-dr-brainard-llanes-.html" style="color:inherit;text-decoration:none;">Modern Essence Dentistry &amp; Dental Implants: Dr. Brainard Llanes, DDS, FICOI</a></h3>
         <p class="dentist-address">📍 818 E Nerge Rd, Roselle, IL 60172, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(248 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6305928109" class="dentist-btn dentist-btn-call" onclick="trackLead('Modern Essence Dentistry &amp; Dental Implants: Dr. Brainard Llanes, DDS, FICOI','call','Roselle','IL')">📞 Call</a> <a href="https://www.modernessencedentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Modern Essence Dentistry &amp; Dental Implants: Dr. Brainard Llanes, DDS, FICOI','website','Roselle','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6305928109" class="dentist-btn dentist-btn-call" onclick="trackLead('Modern Essence Dentistry &amp; Dental Implants: Dr. Brainard Llanes, DDS, FICOI','call','Roselle','IL')">📞 Call</a> <a href="https://www.modernessencedentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Modern Essence Dentistry &amp; Dental Implants: Dr. Brainard Llanes, DDS, FICOI','website','Roselle','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Modern Essence Dentistry &amp; Dental Implants: Dr. Brainard Llanes, DDS, FICOI','Roselle','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Yevgen Tkachuk DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/roselle/yevgen-tkachuk-dds.html" style="color:inherit;text-decoration:none;">Yevgen Tkachuk DDS</a></h3>
         <p class="dentist-address">📍 668 Irving Park Rd, Roselle, IL 60172, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(247 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6309247990" class="dentist-btn dentist-btn-call" onclick="trackLead('Yevgen Tkachuk DDS','call','Roselle','IL')">📞 Call</a> <a href="https://naturalsmilesfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Yevgen Tkachuk DDS','website','Roselle','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6309247990" class="dentist-btn dentist-btn-call" onclick="trackLead('Yevgen Tkachuk DDS','call','Roselle','IL')">📞 Call</a> <a href="https://naturalsmilesfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Yevgen Tkachuk DDS','website','Roselle','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Yevgen Tkachuk DDS','Roselle','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">West Lake Dental Care of Roselle</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/roselle/west-lake-dental-care-of-roselle.html" style="color:inherit;text-decoration:none;">West Lake Dental Care of Roselle</a></h3>
         <p class="dentist-address">📍 1260 W Lake St, Roselle, IL 60172, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(108 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6309806762" class="dentist-btn dentist-btn-call" onclick="trackLead('West Lake Dental Care of Roselle','call','Roselle','IL')">📞 Call</a> <a href="http://www.dentistinroselle.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('West Lake Dental Care of Roselle','website','Roselle','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6309806762" class="dentist-btn dentist-btn-call" onclick="trackLead('West Lake Dental Care of Roselle','call','Roselle','IL')">📞 Call</a> <a href="http://www.dentistinroselle.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('West Lake Dental Care of Roselle','website','Roselle','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('West Lake Dental Care of Roselle','Roselle','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Lake Street Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/roselle/lake-street-dental.html" style="color:inherit;text-decoration:none;">Lake Street Dental</a></h3>
         <p class="dentist-address">📍 478 W Lake St, Roselle, IL 60172, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(175 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6305891388" class="dentist-btn dentist-btn-call" onclick="trackLead('Lake Street Dental','call','Roselle','IL')">📞 Call</a> <a href="http://www.lakestreetdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lake Street Dental','website','Roselle','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6305891388" class="dentist-btn dentist-btn-call" onclick="trackLead('Lake Street Dental','call','Roselle','IL')">📞 Call</a> <a href="http://www.lakestreetdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lake Street Dental','website','Roselle','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Lake Street Dental','Roselle','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smiles Dental Care, William Wolski DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/roselle/smiles-dental-care-william-wolski-dds.html" style="color:inherit;text-decoration:none;">Smiles Dental Care, William Wolski DDS</a></h3>
         <p class="dentist-address">📍 96 Bokelman St, Roselle, IL 60172, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(72 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6303945874" class="dentist-btn dentist-btn-call" onclick="trackLead('Smiles Dental Care, William Wolski DDS','call','Roselle','IL')">📞 Call</a> <a href="https://www.rosellecosmeticdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smiles Dental Care, William Wolski DDS','website','Roselle','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6303945874" class="dentist-btn dentist-btn-call" onclick="trackLead('Smiles Dental Care, William Wolski DDS','call','Roselle','IL')">📞 Call</a> <a href="https://www.rosellecosmeticdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smiles Dental Care, William Wolski DDS','website','Roselle','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smiles Dental Care, William Wolski DDS','Roselle','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. Richard J. Volk, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/roselle/dr-richard-j-volk-dds.html" style="color:inherit;text-decoration:none;">Dr. Richard J. Volk, DDS</a></h3>
         <p class="dentist-address">📍 975 E Nerge Rd N-20, Roselle, IL 60172, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(64 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6309178181" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Richard J. Volk, DDS','call','Roselle','IL')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:6309178181" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Richard J. Volk, DDS','call','Roselle','IL')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. Richard J. Volk, DDS','Roselle','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Nita Patel DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/roselle/nita-patel-dds.html" style="color:inherit;text-decoration:none;">Nita Patel DDS</a></h3>
         <p class="dentist-address">📍 350 Irving Park Rd, Roselle, IL 60172, USA</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(28 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6305399999" class="dentist-btn dentist-btn-call" onclick="trackLead('Nita Patel DDS','call','Roselle','IL')">📞 Call</a> <a href="https://www.nitapateldds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Nita Patel DDS','website','Roselle','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6305399999" class="dentist-btn dentist-btn-call" onclick="trackLead('Nita Patel DDS','call','Roselle','IL')">📞 Call</a> <a href="https://www.nitapateldds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Nita Patel DDS','website','Roselle','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Nita Patel DDS','Roselle','IL')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

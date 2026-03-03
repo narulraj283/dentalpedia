@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 13 dentists in Murphy, Texas. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Texas","item":"https://dentalpedia.co/find-a-dentist/texas.html"},
+                {"@type":"ListItem","position":4,"name":"Murphy","item":"https://dentalpedia.co/find-a-dentist/texas/murphy.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Murphy, TX","numberOfItems":13,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Murphy Dental and Implant Center","address":"1015 N Murphy Rd Suite #100, Murphy, TX 75094, USA","telephone":"(972) 779-9592"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Countryside Smiles","address":"222 FM 544 suite 208, Murphy, TX 75094, USA","telephone":"(972) 957-7610"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Murphy Dental Home","address":"350 W Farm To Market 544 #130, Murphy, TX 75094, USA","telephone":"(972) 449-5120"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Bloom Pediatric Dentistry","address":"1015 N Murphy Rd Suite 400, Murphy, TX 75094, USA","telephone":"(469) 663-0663"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Sigma Dental Specialists","address":"601 W Farm To Market 544, Murphy, TX 75094, USA","telephone":"(469) 215-2535"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Parkside Dental","address":"703 E Farm To Market 544 #100, Murphy, TX 75094, USA","telephone":"(972) 895-7748"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Glossy Dental","address":"170 East, FM 544 Ste 100, Murphy, TX 75094, USA","telephone":"(972) 422-5959"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Murphy Family Implant and Cosmetic Dentistry","address":"601 W Farm To Market 544 Ste 108, Murphy, TX 75094, USA","telephone":"(972) 808-5023"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Glazer Family Dentistry","address":"119 N Murphy Rd Ste 500, Murphy, TX 75094, USA","telephone":"(214) 774-9906"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Smiles at Murphy","address":"631 W Farm To Market 544, Murphy, TX 75094, USA","telephone":"(972) 423-5300"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Woodcreek Family Dental","address":"410 FM 544 Ste 103, Murphy, TX 75094, USA","telephone":"(469) 278-7988"}},{"@type":"ListItem","position":12,"item":{"@type":"Dentist","name":"Murphy Crossing Dental Care &amp; Orthodontics","address":"305 E Farm To Market 544 Ste 915, Murphy, TX 75094, USA","telephone":"(469) 322-8595"}},{"@type":"ListItem","position":13,"item":{"@type":"Dentist","name":"Monarch Dental &amp; Orthodontics - Murphy, TX","address":"217 E Farm To Market 544 Suite 501, Murphy, TX 75094, USA","telephone":"(972) 422-2299"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/texas.html">Texas</a> &rsaquo; Murphy</nav>
             <h1>Dentists in Murphy, TX</h1>
@@ -85,82 +140,82 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Murphy Dental and Implant Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/murphy/murphy-dental-and-implant-center.html" style="color:inherit;text-decoration:none;">Murphy Dental and Implant Center</a></h3>
         <p class="dentist-address">📍 1015 N Murphy Rd Suite #100, Murphy, TX 75094, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(446 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9727799592" class="dentist-btn dentist-btn-call" onclick="trackLead('Murphy Dental and Implant Center','call','Murphy','TX')">📞 Call</a> <a href="https://www.murphytxdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Murphy Dental and Implant Center','website','Murphy','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9727799592" class="dentist-btn dentist-btn-call" onclick="trackLead('Murphy Dental and Implant Center','call','Murphy','TX')">📞 Call</a> <a href="https://www.murphytxdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Murphy Dental and Implant Center','website','Murphy','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Murphy Dental and Implant Center','Murphy','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Countryside Smiles</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/murphy/countryside-smiles.html" style="color:inherit;text-decoration:none;">Countryside Smiles</a></h3>
         <p class="dentist-address">📍 222 FM 544 suite 208, Murphy, TX 75094, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(390 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9729577610" class="dentist-btn dentist-btn-call" onclick="trackLead('Countryside Smiles','call','Murphy','TX')">📞 Call</a> <a href="https://countrysidesmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Countryside Smiles','website','Murphy','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9729577610" class="dentist-btn dentist-btn-call" onclick="trackLead('Countryside Smiles','call','Murphy','TX')">📞 Call</a> <a href="https://countrysidesmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Countryside Smiles','website','Murphy','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Countryside Smiles','Murphy','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Murphy Dental Home</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/murphy/murphy-dental-home.html" style="color:inherit;text-decoration:none;">Murphy Dental Home</a></h3>
         <p class="dentist-address">📍 350 W Farm To Market 544 #130, Murphy, TX 75094, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(229 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9724495120" class="dentist-btn dentist-btn-call" onclick="trackLead('Murphy Dental Home','call','Murphy','TX')">📞 Call</a> <a href="https://www.murphydentalhome.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Murphy Dental Home','website','Murphy','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9724495120" class="dentist-btn dentist-btn-call" onclick="trackLead('Murphy Dental Home','call','Murphy','TX')">📞 Call</a> <a href="https://www.murphydentalhome.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Murphy Dental Home','website','Murphy','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Murphy Dental Home','Murphy','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Bloom Pediatric Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/murphy/bloom-pediatric-dentistry.html" style="color:inherit;text-decoration:none;">Bloom Pediatric Dentistry</a></h3>
         <p class="dentist-address">📍 1015 N Murphy Rd Suite 400, Murphy, TX 75094, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(153 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4696630663" class="dentist-btn dentist-btn-call" onclick="trackLead('Bloom Pediatric Dentistry','call','Murphy','TX')">📞 Call</a> <a href="https://www.bloomkidsdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bloom Pediatric Dentistry','website','Murphy','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4696630663" class="dentist-btn dentist-btn-call" onclick="trackLead('Bloom Pediatric Dentistry','call','Murphy','TX')">📞 Call</a> <a href="https://www.bloomkidsdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bloom Pediatric Dentistry','website','Murphy','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Bloom Pediatric Dentistry','Murphy','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Sigma Dental Specialists</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/murphy/sigma-dental-specialists.html" style="color:inherit;text-decoration:none;">Sigma Dental Specialists</a></h3>
         <p class="dentist-address">📍 601 W Farm To Market 544, Murphy, TX 75094, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(839 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4692152535" class="dentist-btn dentist-btn-call" onclick="trackLead('Sigma Dental Specialists','call','Murphy','TX')">📞 Call</a> <a href="http://sigmadentalspecialists.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sigma Dental Specialists','website','Murphy','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4692152535" class="dentist-btn dentist-btn-call" onclick="trackLead('Sigma Dental Specialists','call','Murphy','TX')">📞 Call</a> <a href="http://sigmadentalspecialists.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sigma Dental Specialists','website','Murphy','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Sigma Dental Specialists','Murphy','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Parkside Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/murphy/parkside-dental.html" style="color:inherit;text-decoration:none;">Parkside Dental</a></h3>
         <p class="dentist-address">📍 703 E Farm To Market 544 #100, Murphy, TX 75094, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(419 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9728957748" class="dentist-btn dentist-btn-call" onclick="trackLead('Parkside Dental','call','Murphy','TX')">📞 Call</a> <a href="https://parksidedentaltx.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Parkside Dental','website','Murphy','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9728957748" class="dentist-btn dentist-btn-call" onclick="trackLead('Parkside Dental','call','Murphy','TX')">📞 Call</a> <a href="https://parksidedentaltx.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Parkside Dental','website','Murphy','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Parkside Dental','Murphy','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Glossy Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/murphy/glossy-dental.html" style="color:inherit;text-decoration:none;">Glossy Dental</a></h3>
         <p class="dentist-address">📍 170 East, FM 544 Ste 100, Murphy, TX 75094, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(323 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9724225959" class="dentist-btn dentist-btn-call" onclick="trackLead('Glossy Dental','call','Murphy','TX')">📞 Call</a> <a href="http://www.glossy-dental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Glossy Dental','website','Murphy','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9724225959" class="dentist-btn dentist-btn-call" onclick="trackLead('Glossy Dental','call','Murphy','TX')">📞 Call</a> <a href="http://www.glossy-dental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Glossy Dental','website','Murphy','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Glossy Dental','Murphy','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Murphy Family Implant and Cosmetic Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/murphy/murphy-family-implant-and-cosmetic-dentistry.html" style="color:inherit;text-decoration:none;">Murphy Family Implant and Cosmetic Dentistry</a></h3>
         <p class="dentist-address">📍 601 W Farm To Market 544 Ste 108, Murphy, TX 75094, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(170 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9728085023" class="dentist-btn dentist-btn-call" onclick="trackLead('Murphy Family Implant and Cosmetic Dentistry','call','Murphy','TX')">📞 Call</a> <a href="https://www.murphyfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Murphy Family Implant and Cosmetic Dentistry','website','Murphy','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9728085023" class="dentist-btn dentist-btn-call" onclick="trackLead('Murphy Family Implant and Cosmetic Dentistry','call','Murphy','TX')">📞 Call</a> <a href="https://www.murphyfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Murphy Family Implant and Cosmetic Dentistry','website','Murphy','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Murphy Family Implant and Cosmetic Dentistry','Murphy','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Glazer Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/murphy/glazer-family-dentistry.html" style="color:inherit;text-decoration:none;">Glazer Family Dentistry</a></h3>
         <p class="dentist-address">📍 119 N Murphy Rd Ste 500, Murphy, TX 75094, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(157 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2147749906" class="dentist-btn dentist-btn-call" onclick="trackLead('Glazer Family Dentistry','call','Murphy','TX')">📞 Call</a> <a href="https://www.glazerfamilydentistry.com/index.cfm" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Glazer Family Dentistry','website','Murphy','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2147749906" class="dentist-btn dentist-btn-call" onclick="trackLead('Glazer Family Dentistry','call','Murphy','TX')">📞 Call</a> <a href="https://www.glazerfamilydentistry.com/index.cfm" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Glazer Family Dentistry','website','Murphy','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Glazer Family Dentistry','Murphy','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smiles at Murphy</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/murphy/smiles-at-murphy.html" style="color:inherit;text-decoration:none;">Smiles at Murphy</a></h3>
         <p class="dentist-address">📍 631 W Farm To Market 544, Murphy, TX 75094, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(513 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9724235300" class="dentist-btn dentist-btn-call" onclick="trackLead('Smiles at Murphy','call','Murphy','TX')">📞 Call</a> <a href="https://www.smilesatmurphy.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smiles at Murphy','website','Murphy','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9724235300" class="dentist-btn dentist-btn-call" onclick="trackLead('Smiles at Murphy','call','Murphy','TX')">📞 Call</a> <a href="https://www.smilesatmurphy.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smiles at Murphy','website','Murphy','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smiles at Murphy','Murphy','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Woodcreek Family Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/murphy/woodcreek-family-dental.html" style="color:inherit;text-decoration:none;">Woodcreek Family Dental</a></h3>
         <p class="dentist-address">📍 410 FM 544 Ste 103, Murphy, TX 75094, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(172 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4692787988" class="dentist-btn dentist-btn-call" onclick="trackLead('Woodcreek Family Dental','call','Murphy','TX')">📞 Call</a> <a href="https://yourmurphydentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Woodcreek Family Dental','website','Murphy','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4692787988" class="dentist-btn dentist-btn-call" onclick="trackLead('Woodcreek Family Dental','call','Murphy','TX')">📞 Call</a> <a href="https://yourmurphydentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Woodcreek Family Dental','website','Murphy','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Woodcreek Family Dental','Murphy','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Murphy Crossing Dental Care &amp; Orthodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/murphy/murphy-crossing-dental-care-orthodontics.html" style="color:inherit;text-decoration:none;">Murphy Crossing Dental Care &amp; Orthodontics</a></h3>
         <p class="dentist-address">📍 305 E Farm To Market 544 Ste 915, Murphy, TX 75094, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(432 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4693228595" class="dentist-btn dentist-btn-call" onclick="trackLead('Murphy Crossing Dental Care &amp; Orthodontics','call','Murphy','TX')">📞 Call</a> <a href="https://murphycrossingdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Murphy Crossing Dental Care &amp; Orthodontics','website','Murphy','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4693228595" class="dentist-btn dentist-btn-call" onclick="trackLead('Murphy Crossing Dental Care &amp; Orthodontics','call','Murphy','TX')">📞 Call</a> <a href="https://murphycrossingdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Murphy Crossing Dental Care &amp; Orthodontics','website','Murphy','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Murphy Crossing Dental Care &amp; Orthodontics','Murphy','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Monarch Dental &amp; Orthodontics - Murphy, TX</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/murphy/monarch-dental-orthodontics-murphy-tx.html" style="color:inherit;text-decoration:none;">Monarch Dental &amp; Orthodontics - Murphy, TX</a></h3>
         <p class="dentist-address">📍 217 E Farm To Market 544 Suite 501, Murphy, TX 75094, USA</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(323 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9724222299" class="dentist-btn dentist-btn-call" onclick="trackLead('Monarch Dental &amp; Orthodontics - Murphy, TX','call','Murphy','TX')">📞 Call</a> <a href="https://www.monarchdental.com/dental-office/murphy-dentist/30600/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Monarch Dental &amp; Orthodontics - Murphy, TX','website','Murphy','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9724222299" class="dentist-btn dentist-btn-call" onclick="trackLead('Monarch Dental &amp; Orthodontics - Murphy, TX','call','Murphy','TX')">📞 Call</a> <a href="https://www.monarchdental.com/dental-office/murphy-dentist/30600/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Monarch Dental &amp; Orthodontics - Murphy, TX','website','Murphy','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Monarch Dental &amp; Orthodontics - Murphy, TX','Murphy','TX')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

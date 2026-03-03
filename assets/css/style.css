@@ -2018,13 +2018,34 @@ html {
 .dentist-btn-web:hover { background: #bfdbfe; }
 [data-theme="dark"] .dentist-btn-call { background: #14532d; color: #86efac; }
 [data-theme="dark"] .dentist-btn-web { background: #1e3a5f; color: #93c5fd; }
+.dentist-btn-appt {
+  background: #fef3c7;
+  color: #92400e;
+  border: none;
+  cursor: pointer;
+}
+.dentist-btn-appt:hover { background: #fde68a; }
+[data-theme="dark"] .dentist-btn-appt { background: #451a03; color: #fbbf24; }
 .directory-meta {
   color: var(--text-secondary);
   margin-bottom: 1rem;
 }
+.profile-header {
+  margin: 1.5rem 0;
+}
+.profile-header h1 { margin-bottom: 0.5rem; }
+.breadcrumb {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+}
+.breadcrumb a { color: var(--accent); text-decoration: none; }
+.breadcrumb a:hover { text-decoration: underline; }
 @media (max-width: 600px) {
   .directory-search { flex-direction: column; }
   .state-links, .city-links { grid-template-columns: 1fr; }
   .dentist-grid { grid-template-columns: 1fr; }
   .directory-hero h1 { font-size: 1.6rem; }
+  .profile-actions { flex-direction: column; }
+  .profile-details { grid-template-columns: 1fr !important; }
 }

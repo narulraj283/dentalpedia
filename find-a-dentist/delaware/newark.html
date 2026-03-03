@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 10 dentists in Newark, Delaware. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Delaware","item":"https://dentalpedia.co/find-a-dentist/delaware.html"},
+                {"@type":"ListItem","position":4,"name":"Newark","item":"https://dentalpedia.co/find-a-dentist/delaware/newark.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Newark, DE","numberOfItems":10,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Dental Arts of Delaware","address":"1 Centurian Dr Ste 213, Newark, DE 19713, USA","telephone":"(302) 992-8958"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Chestnut Hill Smiles, LLC","address":"139 E Chestnut Hill Rd, Newark, DE 19713, USA","telephone":"(302) 444-8606"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"John Wasniewski III, DMD","address":"103 Louviers Dr, Newark, DE 19711, USA","telephone":"(302) 266-0200"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Christiana Dental Center","address":"330 Christiana Medical Center, Newark, DE 19702, USA","telephone":"(302) 444-9373"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Eco Dental- He Harry Y DDS","address":"1400 Peoples Plaza #207, Newark, DE 19702, USA","telephone":"(302) 800-0001"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Avalon Dental of Christiana","address":"430 Christiana Medical Center, Newark, DE 19702, USA","telephone":"(302) 292-8899"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Progressive Dental Arts Christiana","address":"44 Omega Dr Building H, Newark, DE 19713, USA","telephone":"(302) 307-0448"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Christiana Dental Spa","address":"4133 Ogletown Stanton Rd, Newark, DE 19713, USA","telephone":"(302) 444-9391"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Emergency Dentist 24/7 Newark","address":"330 Christiana Medical Center, Newark, DE 19702, USA","telephone":"(302) 549-0182"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Emergency Dentist 24/7","address":"4133 Ogletown Stanton Rd, Newark, DE 19713, USA","telephone":"(302) 549-0174"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/delaware.html">Delaware</a> &rsaquo; Newark</nav>
             <h1>Dentists in Newark, DE</h1>
@@ -85,64 +140,64 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Arts of Delaware</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/delaware/newark/dental-arts-of-delaware.html" style="color:inherit;text-decoration:none;">Dental Arts of Delaware</a></h3>
         <p class="dentist-address">📍 1 Centurian Dr Ste 213, Newark, DE 19713, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(1,003 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3029928958" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Arts of Delaware','call','Newark','DE')">📞 Call</a> <a href="http://dentalartsofdelaware.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Arts of Delaware','website','Newark','DE')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3029928958" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Arts of Delaware','call','Newark','DE')">📞 Call</a> <a href="http://dentalartsofdelaware.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Arts of Delaware','website','Newark','DE')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Arts of Delaware','Newark','DE')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Chestnut Hill Smiles, LLC</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/delaware/newark/chestnut-hill-smiles-llc.html" style="color:inherit;text-decoration:none;">Chestnut Hill Smiles, LLC</a></h3>
         <p class="dentist-address">📍 139 E Chestnut Hill Rd, Newark, DE 19713, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(879 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3024448606" class="dentist-btn dentist-btn-call" onclick="trackLead('Chestnut Hill Smiles, LLC','call','Newark','DE')">📞 Call</a> <a href="http://www.smilesofdelaware.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Chestnut Hill Smiles, LLC','website','Newark','DE')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3024448606" class="dentist-btn dentist-btn-call" onclick="trackLead('Chestnut Hill Smiles, LLC','call','Newark','DE')">📞 Call</a> <a href="http://www.smilesofdelaware.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Chestnut Hill Smiles, LLC','website','Newark','DE')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Chestnut Hill Smiles, LLC','Newark','DE')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">John Wasniewski III, DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/delaware/newark/john-wasniewski-iii-dmd.html" style="color:inherit;text-decoration:none;">John Wasniewski III, DMD</a></h3>
         <p class="dentist-address">📍 103 Louviers Dr, Newark, DE 19711, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(203 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3022660200" class="dentist-btn dentist-btn-call" onclick="trackLead('John Wasniewski III, DMD','call','Newark','DE')">📞 Call</a> <a href="http://www.drwasniewski.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('John Wasniewski III, DMD','website','Newark','DE')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3022660200" class="dentist-btn dentist-btn-call" onclick="trackLead('John Wasniewski III, DMD','call','Newark','DE')">📞 Call</a> <a href="http://www.drwasniewski.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('John Wasniewski III, DMD','website','Newark','DE')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('John Wasniewski III, DMD','Newark','DE')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Christiana Dental Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/delaware/newark/christiana-dental-center.html" style="color:inherit;text-decoration:none;">Christiana Dental Center</a></h3>
         <p class="dentist-address">📍 330 Christiana Medical Center, Newark, DE 19702, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(972 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3024449373" class="dentist-btn dentist-btn-call" onclick="trackLead('Christiana Dental Center','call','Newark','DE')">📞 Call</a> <a href="https://www.christianadentalcenter.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Christiana Dental Center','website','Newark','DE')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3024449373" class="dentist-btn dentist-btn-call" onclick="trackLead('Christiana Dental Center','call','Newark','DE')">📞 Call</a> <a href="https://www.christianadentalcenter.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Christiana Dental Center','website','Newark','DE')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Christiana Dental Center','Newark','DE')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Eco Dental- He Harry Y DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/delaware/newark/eco-dental-he-harry-y-dds.html" style="color:inherit;text-decoration:none;">Eco Dental- He Harry Y DDS</a></h3>
         <p class="dentist-address">📍 1400 Peoples Plaza #207, Newark, DE 19702, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(283 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3028000001" class="dentist-btn dentist-btn-call" onclick="trackLead('Eco Dental- He Harry Y DDS','call','Newark','DE')">📞 Call</a> <a href="http://ecodentalde.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Eco Dental- He Harry Y DDS','website','Newark','DE')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3028000001" class="dentist-btn dentist-btn-call" onclick="trackLead('Eco Dental- He Harry Y DDS','call','Newark','DE')">📞 Call</a> <a href="http://ecodentalde.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Eco Dental- He Harry Y DDS','website','Newark','DE')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Eco Dental- He Harry Y DDS','Newark','DE')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Avalon Dental of Christiana</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/delaware/newark/avalon-dental-of-christiana.html" style="color:inherit;text-decoration:none;">Avalon Dental of Christiana</a></h3>
         <p class="dentist-address">📍 430 Christiana Medical Center, Newark, DE 19702, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(238 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3022928899" class="dentist-btn dentist-btn-call" onclick="trackLead('Avalon Dental of Christiana','call','Newark','DE')">📞 Call</a> <a href="http://avalondentalde.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Avalon Dental of Christiana','website','Newark','DE')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3022928899" class="dentist-btn dentist-btn-call" onclick="trackLead('Avalon Dental of Christiana','call','Newark','DE')">📞 Call</a> <a href="http://avalondentalde.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Avalon Dental of Christiana','website','Newark','DE')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Avalon Dental of Christiana','Newark','DE')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Progressive Dental Arts Christiana</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/delaware/newark/progressive-dental-arts-christiana.html" style="color:inherit;text-decoration:none;">Progressive Dental Arts Christiana</a></h3>
         <p class="dentist-address">📍 44 Omega Dr Building H, Newark, DE 19713, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(97 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3023070448" class="dentist-btn dentist-btn-call" onclick="trackLead('Progressive Dental Arts Christiana','call','Newark','DE')">📞 Call</a> <a href="http://www.progressivedentalartschristiana.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Progressive Dental Arts Christiana','website','Newark','DE')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3023070448" class="dentist-btn dentist-btn-call" onclick="trackLead('Progressive Dental Arts Christiana','call','Newark','DE')">📞 Call</a> <a href="http://www.progressivedentalartschristiana.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Progressive Dental Arts Christiana','website','Newark','DE')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Progressive Dental Arts Christiana','Newark','DE')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Christiana Dental Spa</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/delaware/newark/christiana-dental-spa.html" style="color:inherit;text-decoration:none;">Christiana Dental Spa</a></h3>
         <p class="dentist-address">📍 4133 Ogletown Stanton Rd, Newark, DE 19713, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(705 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3024449391" class="dentist-btn dentist-btn-call" onclick="trackLead('Christiana Dental Spa','call','Newark','DE')">📞 Call</a> <a href="https://www.christianadentalspa.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Christiana Dental Spa','website','Newark','DE')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3024449391" class="dentist-btn dentist-btn-call" onclick="trackLead('Christiana Dental Spa','call','Newark','DE')">📞 Call</a> <a href="https://www.christianadentalspa.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Christiana Dental Spa','website','Newark','DE')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Christiana Dental Spa','Newark','DE')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Emergency Dentist 24/7 Newark</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/delaware/newark/emergency-dentist-24-7-newark.html" style="color:inherit;text-decoration:none;">Emergency Dentist 24/7 Newark</a></h3>
         <p class="dentist-address">📍 330 Christiana Medical Center, Newark, DE 19702, USA</p>
         <div class="dentist-rating">★½ 1.7 <span class="review-count">(6 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3025490182" class="dentist-btn dentist-btn-call" onclick="trackLead('Emergency Dentist 24/7 Newark','call','Newark','DE')">📞 Call</a> <a href="https://www.emergencydentalservice.com/emergencydentist/newark-de-christiana-dental-center" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Emergency Dentist 24/7 Newark','website','Newark','DE')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3025490182" class="dentist-btn dentist-btn-call" onclick="trackLead('Emergency Dentist 24/7 Newark','call','Newark','DE')">📞 Call</a> <a href="https://www.emergencydentalservice.com/emergencydentist/newark-de-christiana-dental-center" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Emergency Dentist 24/7 Newark','website','Newark','DE')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Emergency Dentist 24/7 Newark','Newark','DE')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Emergency Dentist 24/7</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/delaware/newark/emergency-dentist-24-7.html" style="color:inherit;text-decoration:none;">Emergency Dentist 24/7</a></h3>
         <p class="dentist-address">📍 4133 Ogletown Stanton Rd, Newark, DE 19713, USA</p>
         <div class="dentist-rating">★ 1.0 <span class="review-count">(1 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3025490174" class="dentist-btn dentist-btn-call" onclick="trackLead('Emergency Dentist 24/7','call','Newark','DE')">📞 Call</a> <a href="https://www.emergencydentalservice.com/emergencydentist/newark-de-christiana-dental-spa" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Emergency Dentist 24/7','website','Newark','DE')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3025490174" class="dentist-btn dentist-btn-call" onclick="trackLead('Emergency Dentist 24/7','call','Newark','DE')">📞 Call</a> <a href="https://www.emergencydentalservice.com/emergencydentist/newark-de-christiana-dental-spa" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Emergency Dentist 24/7','website','Newark','DE')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Emergency Dentist 24/7','Newark','DE')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 10 dentists in Flemington, New Jersey. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"New Jersey","item":"https://dentalpedia.co/find-a-dentist/new-jersey.html"},
+                {"@type":"ListItem","position":4,"name":"Flemington","item":"https://dentalpedia.co/find-a-dentist/new-jersey/flemington.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Flemington, NJ","numberOfItems":10,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Sand Hill Dental, LLC","address":"1 Wescott Dr #202, Flemington, NJ 08822, USA","telephone":"(908) 968-9075"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Trecartin Family Dentistry","address":"111 NJ-31 Suite 212, Flemington, NJ 08822, USA","telephone":"(908) 546-1800"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Your Smile - Dr Malgorzata Munz DMD","address":"153 Broad St, Flemington, NJ 08822, USA","telephone":"(908) 782-4521"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Sophisticated Smiles","address":"85 Reaville Ave, Flemington, NJ 08822, USA","telephone":"(908) 806-4333"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Hunterdon Oral &amp; Maxillofacial Surgical Specialists","address":"1100 Wescott Dr Suite 108, Flemington, NJ 08822, USA","telephone":"(908) 751-7117"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Eastern Dental","address":"433 US-202, Flemington, NJ 08822, USA","telephone":"(732) 474-7586"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Aspen Dental - Flemington, NJ","address":"289 US-202 #31S, Flemington, NJ 08822, USA","telephone":"(908) 483-2606"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Zufall Health - Flemington Dental","address":"361 NJ-31 #701, Flemington, NJ 08822, USA","telephone":"(908) 968-4440"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Hunterdon Family Dental","address":"276 US-202 #109, Flemington, NJ 08822, USA","telephone":"(908) 751-7038"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Flemington Dental Associates","address":"111 NJ-31 SUITE 211, Flemington, NJ 08822, USA","telephone":"(908) 751-5456"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/new-jersey.html">New Jersey</a> &rsaquo; Flemington</nav>
             <h1>Dentists in Flemington, NJ</h1>
@@ -85,64 +140,64 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Sand Hill Dental, LLC</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/flemington/sand-hill-dental-llc.html" style="color:inherit;text-decoration:none;">Sand Hill Dental, LLC</a></h3>
         <p class="dentist-address">📍 1 Wescott Dr #202, Flemington, NJ 08822, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(184 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9089689075" class="dentist-btn dentist-btn-call" onclick="trackLead('Sand Hill Dental, LLC','call','Flemington','NJ')">📞 Call</a> <a href="https://www.sandhilldentalnj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sand Hill Dental, LLC','website','Flemington','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9089689075" class="dentist-btn dentist-btn-call" onclick="trackLead('Sand Hill Dental, LLC','call','Flemington','NJ')">📞 Call</a> <a href="https://www.sandhilldentalnj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sand Hill Dental, LLC','website','Flemington','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Sand Hill Dental, LLC','Flemington','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Trecartin Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/flemington/trecartin-family-dentistry.html" style="color:inherit;text-decoration:none;">Trecartin Family Dentistry</a></h3>
         <p class="dentist-address">📍 111 NJ-31 Suite 212, Flemington, NJ 08822, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(308 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9085461800" class="dentist-btn dentist-btn-call" onclick="trackLead('Trecartin Family Dentistry','call','Flemington','NJ')">📞 Call</a> <a href="https://www.dentistinflemington.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Trecartin Family Dentistry','website','Flemington','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9085461800" class="dentist-btn dentist-btn-call" onclick="trackLead('Trecartin Family Dentistry','call','Flemington','NJ')">📞 Call</a> <a href="https://www.dentistinflemington.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Trecartin Family Dentistry','website','Flemington','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Trecartin Family Dentistry','Flemington','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Your Smile - Dr Malgorzata Munz DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/flemington/your-smile-dr-malgorzata-munz-dmd.html" style="color:inherit;text-decoration:none;">Your Smile - Dr Malgorzata Munz DMD</a></h3>
         <p class="dentist-address">📍 153 Broad St, Flemington, NJ 08822, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(242 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9087824521" class="dentist-btn dentist-btn-call" onclick="trackLead('Your Smile - Dr Malgorzata Munz DMD','call','Flemington','NJ')">📞 Call</a> <a href="http://www.yoursmilenj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Your Smile - Dr Malgorzata Munz DMD','website','Flemington','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9087824521" class="dentist-btn dentist-btn-call" onclick="trackLead('Your Smile - Dr Malgorzata Munz DMD','call','Flemington','NJ')">📞 Call</a> <a href="http://www.yoursmilenj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Your Smile - Dr Malgorzata Munz DMD','website','Flemington','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Your Smile - Dr Malgorzata Munz DMD','Flemington','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Sophisticated Smiles</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/flemington/sophisticated-smiles.html" style="color:inherit;text-decoration:none;">Sophisticated Smiles</a></h3>
         <p class="dentist-address">📍 85 Reaville Ave, Flemington, NJ 08822, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(206 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9088064333" class="dentist-btn dentist-btn-call" onclick="trackLead('Sophisticated Smiles','call','Flemington','NJ')">📞 Call</a> <a href="https://www.sophisticatedsmilesnj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sophisticated Smiles','website','Flemington','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9088064333" class="dentist-btn dentist-btn-call" onclick="trackLead('Sophisticated Smiles','call','Flemington','NJ')">📞 Call</a> <a href="https://www.sophisticatedsmilesnj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sophisticated Smiles','website','Flemington','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Sophisticated Smiles','Flemington','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Hunterdon Oral &amp; Maxillofacial Surgical Specialists</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/flemington/hunterdon-oral-maxillofacial-surgical-specialists.html" style="color:inherit;text-decoration:none;">Hunterdon Oral &amp; Maxillofacial Surgical Specialists</a></h3>
         <p class="dentist-address">📍 1100 Wescott Dr Suite 108, Flemington, NJ 08822, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(406 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9087517117" class="dentist-btn dentist-btn-call" onclick="trackLead('Hunterdon Oral &amp; Maxillofacial Surgical Specialists','call','Flemington','NJ')">📞 Call</a> <a href="https://www.hunterdonoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hunterdon Oral &amp; Maxillofacial Surgical Specialists','website','Flemington','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9087517117" class="dentist-btn dentist-btn-call" onclick="trackLead('Hunterdon Oral &amp; Maxillofacial Surgical Specialists','call','Flemington','NJ')">📞 Call</a> <a href="https://www.hunterdonoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hunterdon Oral &amp; Maxillofacial Surgical Specialists','website','Flemington','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Hunterdon Oral &amp; Maxillofacial Surgical Specialists','Flemington','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Eastern Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/flemington/eastern-dental.html" style="color:inherit;text-decoration:none;">Eastern Dental</a></h3>
         <p class="dentist-address">📍 433 US-202, Flemington, NJ 08822, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(540 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7324747586" class="dentist-btn dentist-btn-call" onclick="trackLead('Eastern Dental','call','Flemington','NJ')">📞 Call</a> <a href="http://easterndental.com/offices/flemington-nj?y_source=1_NDkyNjAyMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Eastern Dental','website','Flemington','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7324747586" class="dentist-btn dentist-btn-call" onclick="trackLead('Eastern Dental','call','Flemington','NJ')">📞 Call</a> <a href="http://easterndental.com/offices/flemington-nj?y_source=1_NDkyNjAyMC03MTUtbG9jYXRpb24ud2Vic2l0ZQ==" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Eastern Dental','website','Flemington','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Eastern Dental','Flemington','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Aspen Dental - Flemington, NJ</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/flemington/aspen-dental-flemington-nj.html" style="color:inherit;text-decoration:none;">Aspen Dental - Flemington, NJ</a></h3>
         <p class="dentist-address">📍 289 US-202 #31S, Flemington, NJ 08822, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(226 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9084832606" class="dentist-btn dentist-btn-call" onclick="trackLead('Aspen Dental - Flemington, NJ','call','Flemington','NJ')">📞 Call</a> <a href="https://www.aspendental.com/dentist/nj/flemington/289-us-highway-202-31s" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Aspen Dental - Flemington, NJ','website','Flemington','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9084832606" class="dentist-btn dentist-btn-call" onclick="trackLead('Aspen Dental - Flemington, NJ','call','Flemington','NJ')">📞 Call</a> <a href="https://www.aspendental.com/dentist/nj/flemington/289-us-highway-202-31s" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Aspen Dental - Flemington, NJ','website','Flemington','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Aspen Dental - Flemington, NJ','Flemington','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Zufall Health - Flemington Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/flemington/zufall-health-flemington-dental.html" style="color:inherit;text-decoration:none;">Zufall Health - Flemington Dental</a></h3>
         <p class="dentist-address">📍 361 NJ-31 #701, Flemington, NJ 08822, USA</p>
         <div class="dentist-rating">★★★★ 4.1 <span class="review-count">(76 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9089684440" class="dentist-btn dentist-btn-call" onclick="trackLead('Zufall Health - Flemington Dental','call','Flemington','NJ')">📞 Call</a> <a href="http://www.zufallhealth.org/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Zufall Health - Flemington Dental','website','Flemington','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9089684440" class="dentist-btn dentist-btn-call" onclick="trackLead('Zufall Health - Flemington Dental','call','Flemington','NJ')">📞 Call</a> <a href="http://www.zufallhealth.org/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Zufall Health - Flemington Dental','website','Flemington','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Zufall Health - Flemington Dental','Flemington','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Hunterdon Family Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/flemington/hunterdon-family-dental.html" style="color:inherit;text-decoration:none;">Hunterdon Family Dental</a></h3>
         <p class="dentist-address">📍 276 US-202 #109, Flemington, NJ 08822, USA</p>
         <div class="dentist-rating">★★★½ 3.8 <span class="review-count">(279 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9087517038" class="dentist-btn dentist-btn-call" onclick="trackLead('Hunterdon Family Dental','call','Flemington','NJ')">📞 Call</a> <a href="http://hunterdonfamilydentalnj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hunterdon Family Dental','website','Flemington','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9087517038" class="dentist-btn dentist-btn-call" onclick="trackLead('Hunterdon Family Dental','call','Flemington','NJ')">📞 Call</a> <a href="http://hunterdonfamilydentalnj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hunterdon Family Dental','website','Flemington','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Hunterdon Family Dental','Flemington','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Flemington Dental Associates</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/flemington/flemington-dental-associates.html" style="color:inherit;text-decoration:none;">Flemington Dental Associates</a></h3>
         <p class="dentist-address">📍 111 NJ-31 SUITE 211, Flemington, NJ 08822, USA</p>
         <div class="dentist-rating">★★★½ 3.6 <span class="review-count">(32 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9087515456" class="dentist-btn dentist-btn-call" onclick="trackLead('Flemington Dental Associates','call','Flemington','NJ')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:9087515456" class="dentist-btn dentist-btn-call" onclick="trackLead('Flemington Dental Associates','call','Flemington','NJ')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Flemington Dental Associates','Flemington','NJ')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

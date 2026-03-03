@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 10 dentists in Richmond Hill, New York. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"New York","item":"https://dentalpedia.co/find-a-dentist/new-york.html"},
+                {"@type":"ListItem","position":4,"name":"Richmond Hill","item":"https://dentalpedia.co/find-a-dentist/new-york/richmond-hill.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Richmond Hill, NY","numberOfItems":10,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Caring Dentistry of Queens - Richmond Hill, NY","address":"104-16 Jamaica Ave, Richmond Hill, NY 11418, USA","telephone":"(718) 340-3874"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Dr. Marco Fazari, Dental Office - Complete Family Care","address":"10909 Yonge Street, Richmond Hill, ON L4C 3E3, Canada","telephone":"(905) 737-9707"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Emergency Dentist Richmond Hill","address":"102-28 Jamaica Ave #223a, Richmond Hill, NY 11418, USA","telephone":"(866) 227-2563"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Luna Dentistry | Richmond Hill","address":"10520 Yonge St #7b, Richmond Hill, ON L4C 3C7, Canada","telephone":"(905) 787-8900"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Arsalan Denture Clinic","address":"10119 Yonge St, Richmond Hill, ON L4C 1T5, Canada","telephone":"(647) 890-1364"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Oris Dental Clinics ( Toronto Dental Surgery &amp; Implant Center Specialists )","address":"10909 Yonge St #34, Richmond Hill, ON L4C 3E3, Canada","telephone":"(289) 475-1011"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Dr. Maziar Shahzad Dowlatshahi, Dental Surgeon","address":"10909 Yonge St #34, Richmond Hill, ON L4C 3E3, Canada","telephone":"(416) 887-6987"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Jamaica Queens Dental","address":"102-32 Jamaica Ave, Richmond Hill, NY 11418, USA","telephone":"(718) 416-6427"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Dr. Michael Opler","address":"10168 Yonge St, Richmond Hill, ON L4C 1T6, Canada","telephone":"(905) 770-9477"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Atlantis Oral Surgery Center","address":"102-32 Jamaica Ave, Richmond Hill, NY 11418, USA","telephone":"(718) 805-6000"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/new-york.html">New York</a> &rsaquo; Richmond Hill</nav>
             <h1>Dentists in Richmond Hill, NY</h1>
@@ -85,64 +140,64 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Caring Dentistry of Queens - Richmond Hill, NY</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/richmond-hill/caring-dentistry-of-queens-richmond-hill-ny.html" style="color:inherit;text-decoration:none;">Caring Dentistry of Queens - Richmond Hill, NY</a></h3>
         <p class="dentist-address">📍 104-16 Jamaica Ave, Richmond Hill, NY 11418, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(57 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7183403874" class="dentist-btn dentist-btn-call" onclick="trackLead('Caring Dentistry of Queens - Richmond Hill, NY','call','Richmond Hill','NY')">📞 Call</a> <a href="https://caringdentistryofqueens.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Caring Dentistry of Queens - Richmond Hill, NY','website','Richmond Hill','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7183403874" class="dentist-btn dentist-btn-call" onclick="trackLead('Caring Dentistry of Queens - Richmond Hill, NY','call','Richmond Hill','NY')">📞 Call</a> <a href="https://caringdentistryofqueens.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Caring Dentistry of Queens - Richmond Hill, NY','website','Richmond Hill','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Caring Dentistry of Queens - Richmond Hill, NY','Richmond Hill','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. Marco Fazari, Dental Office - Complete Family Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/richmond-hill/dr-marco-fazari-dental-office-complete-family-care.html" style="color:inherit;text-decoration:none;">Dr. Marco Fazari, Dental Office - Complete Family Care</a></h3>
         <p class="dentist-address">📍 10909 Yonge Street, Richmond Hill, ON L4C 3E3, Canada</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(9 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9057379707" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Marco Fazari, Dental Office - Complete Family Care','call','Richmond Hill','NY')">📞 Call</a> <a href="https://cutt.ly/eQ6Fnbv" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Marco Fazari, Dental Office - Complete Family Care','website','Richmond Hill','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9057379707" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Marco Fazari, Dental Office - Complete Family Care','call','Richmond Hill','NY')">📞 Call</a> <a href="https://cutt.ly/eQ6Fnbv" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Marco Fazari, Dental Office - Complete Family Care','website','Richmond Hill','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. Marco Fazari, Dental Office - Complete Family Care','Richmond Hill','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Emergency Dentist Richmond Hill</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/richmond-hill/emergency-dentist-richmond-hill.html" style="color:inherit;text-decoration:none;">Emergency Dentist Richmond Hill</a></h3>
         <p class="dentist-address">📍 102-28 Jamaica Ave #223a, Richmond Hill, NY 11418, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(7 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8662272563" class="dentist-btn dentist-btn-call" onclick="trackLead('Emergency Dentist Richmond Hill','call','Richmond Hill','NY')">📞 Call</a> <a href="http://dentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Emergency Dentist Richmond Hill','website','Richmond Hill','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8662272563" class="dentist-btn dentist-btn-call" onclick="trackLead('Emergency Dentist Richmond Hill','call','Richmond Hill','NY')">📞 Call</a> <a href="http://dentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Emergency Dentist Richmond Hill','website','Richmond Hill','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Emergency Dentist Richmond Hill','Richmond Hill','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Luna Dentistry | Richmond Hill</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/richmond-hill/luna-dentistry-richmond-hill.html" style="color:inherit;text-decoration:none;">Luna Dentistry | Richmond Hill</a></h3>
         <p class="dentist-address">📍 10520 Yonge St #7b, Richmond Hill, ON L4C 3C7, Canada</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(175 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9057878900" class="dentist-btn dentist-btn-call" onclick="trackLead('Luna Dentistry | Richmond Hill','call','Richmond Hill','NY')">📞 Call</a> <a href="https://lunadentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Luna Dentistry | Richmond Hill','website','Richmond Hill','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9057878900" class="dentist-btn dentist-btn-call" onclick="trackLead('Luna Dentistry | Richmond Hill','call','Richmond Hill','NY')">📞 Call</a> <a href="https://lunadentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Luna Dentistry | Richmond Hill','website','Richmond Hill','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Luna Dentistry | Richmond Hill','Richmond Hill','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Arsalan Denture Clinic</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/richmond-hill/arsalan-denture-clinic.html" style="color:inherit;text-decoration:none;">Arsalan Denture Clinic</a></h3>
         <p class="dentist-address">📍 10119 Yonge St, Richmond Hill, ON L4C 1T5, Canada</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(17 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6478901364" class="dentist-btn dentist-btn-call" onclick="trackLead('Arsalan Denture Clinic','call','Richmond Hill','NY')">📞 Call</a> <a href="https://arsalandentureclinic.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Arsalan Denture Clinic','website','Richmond Hill','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6478901364" class="dentist-btn dentist-btn-call" onclick="trackLead('Arsalan Denture Clinic','call','Richmond Hill','NY')">📞 Call</a> <a href="https://arsalandentureclinic.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Arsalan Denture Clinic','website','Richmond Hill','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Arsalan Denture Clinic','Richmond Hill','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Oris Dental Clinics ( Toronto Dental Surgery &amp; Implant Center Specialists )</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/richmond-hill/oris-dental-clinics-toronto-dental-surgery-implant-center-sp.html" style="color:inherit;text-decoration:none;">Oris Dental Clinics ( Toronto Dental Surgery &amp; Implant Center Specialists )</a></h3>
         <p class="dentist-address">📍 10909 Yonge St #34, Richmond Hill, ON L4C 3E3, Canada</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(246 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2894751011" class="dentist-btn dentist-btn-call" onclick="trackLead('Oris Dental Clinics ( Toronto Dental Surgery &amp; Implant Center Specialists )','call','Richmond Hill','NY')">📞 Call</a> <a href="https://orisdental.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oris Dental Clinics ( Toronto Dental Surgery &amp; Implant Center Specialists )','website','Richmond Hill','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2894751011" class="dentist-btn dentist-btn-call" onclick="trackLead('Oris Dental Clinics ( Toronto Dental Surgery &amp; Implant Center Specialists )','call','Richmond Hill','NY')">📞 Call</a> <a href="https://orisdental.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oris Dental Clinics ( Toronto Dental Surgery &amp; Implant Center Specialists )','website','Richmond Hill','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Oris Dental Clinics ( Toronto Dental Surgery &amp; Implant Center Specialists )','Richmond Hill','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. Maziar Shahzad Dowlatshahi, Dental Surgeon</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/richmond-hill/dr-maziar-shahzad-dowlatshahi-dental-surgeon.html" style="color:inherit;text-decoration:none;">Dr. Maziar Shahzad Dowlatshahi, Dental Surgeon</a></h3>
         <p class="dentist-address">📍 10909 Yonge St #34, Richmond Hill, ON L4C 3E3, Canada</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(14 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4168876987" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Maziar Shahzad Dowlatshahi, Dental Surgeon','call','Richmond Hill','NY')">📞 Call</a> <a href="http://www.drdowlatshahi.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Maziar Shahzad Dowlatshahi, Dental Surgeon','website','Richmond Hill','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4168876987" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Maziar Shahzad Dowlatshahi, Dental Surgeon','call','Richmond Hill','NY')">📞 Call</a> <a href="http://www.drdowlatshahi.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Maziar Shahzad Dowlatshahi, Dental Surgeon','website','Richmond Hill','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. Maziar Shahzad Dowlatshahi, Dental Surgeon','Richmond Hill','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Jamaica Queens Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/richmond-hill/jamaica-queens-dental.html" style="color:inherit;text-decoration:none;">Jamaica Queens Dental</a></h3>
         <p class="dentist-address">📍 102-32 Jamaica Ave, Richmond Hill, NY 11418, USA</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(121 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7184166427" class="dentist-btn dentist-btn-call" onclick="trackLead('Jamaica Queens Dental','call','Richmond Hill','NY')">📞 Call</a> <a href="https://www.jamaicadentalny.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Jamaica Queens Dental','website','Richmond Hill','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7184166427" class="dentist-btn dentist-btn-call" onclick="trackLead('Jamaica Queens Dental','call','Richmond Hill','NY')">📞 Call</a> <a href="https://www.jamaicadentalny.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Jamaica Queens Dental','website','Richmond Hill','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Jamaica Queens Dental','Richmond Hill','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. Michael Opler</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/richmond-hill/dr-michael-opler.html" style="color:inherit;text-decoration:none;">Dr. Michael Opler</a></h3>
         <p class="dentist-address">📍 10168 Yonge St, Richmond Hill, ON L4C 1T6, Canada</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(6 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9057709477" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Michael Opler','call','Richmond Hill','NY')">📞 Call</a> <a href="http://www.oplerdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Michael Opler','website','Richmond Hill','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9057709477" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Michael Opler','call','Richmond Hill','NY')">📞 Call</a> <a href="http://www.oplerdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Michael Opler','website','Richmond Hill','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. Michael Opler','Richmond Hill','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Atlantis Oral Surgery Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/richmond-hill/atlantis-oral-surgery-center.html" style="color:inherit;text-decoration:none;">Atlantis Oral Surgery Center</a></h3>
         <p class="dentist-address">📍 102-32 Jamaica Ave, Richmond Hill, NY 11418, USA</p>
         <div class="dentist-rating">★★★½ 3.5 <span class="review-count">(71 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7188056000" class="dentist-btn dentist-btn-call" onclick="trackLead('Atlantis Oral Surgery Center','call','Richmond Hill','NY')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:7188056000" class="dentist-btn dentist-btn-call" onclick="trackLead('Atlantis Oral Surgery Center','call','Richmond Hill','NY')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Atlantis Oral Surgery Center','Richmond Hill','NY')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

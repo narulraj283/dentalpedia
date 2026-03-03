@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 9 dentists in Waterford Township, Michigan. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Michigan","item":"https://dentalpedia.co/find-a-dentist/michigan.html"},
+                {"@type":"ListItem","position":4,"name":"Waterford Township","item":"https://dentalpedia.co/find-a-dentist/michigan/waterford-township.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Waterford Township, MI","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Lux Dental Family &amp; Emergency Dentistry","address":"4470 Highland Rd, Waterford Township, MI 48328, USA","telephone":"(248) 466-3409"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Afresh Dental","address":"9 N Telegraph, Waterford Township, MI 48328, USA","telephone":"(248) 385-3824"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Studio Smiles Dental Waterford","address":"4468 W Walton Blvd, Waterford Township, MI 48329, USA","telephone":"(248) 618-3015"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Waterford &amp; Clarkston Dentistry","address":"4152 Sashabaw Rd, Waterford Township, MI 48329, USA","telephone":"(248) 673-0505"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Stannard, Studt &amp; Tironi Dentistry","address":"4170 Pontiac Lake Rd, Waterford Township, MI 48328, USA","telephone":"(248) 673-7300"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Brush Rinse Floss","address":"5695 Dixie Hwy, Waterford Township, MI 48329, USA","telephone":"(248) 724-0860"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Crescent Lake Dental Care","address":"998 Crescent Lake Rd, Waterford Township, MI 48327, USA","telephone":"(248) 682-9331"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Dental House Waterford","address":"5979 Highland Rd, Waterford Township, MI 48327, USA","telephone":"(947) 999-9909"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Towne Centre Dentistry","address":"5205 Highland Rd, Waterford Township, MI 48327, USA","telephone":"(248) 673-3333"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/michigan.html">Michigan</a> &rsaquo; Waterford Township</nav>
             <h1>Dentists in Waterford Township, MI</h1>
@@ -85,58 +140,58 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Lux Dental Family &amp; Emergency Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/michigan/waterford-township/lux-dental-family-emergency-dentistry.html" style="color:inherit;text-decoration:none;">Lux Dental Family &amp; Emergency Dentistry</a></h3>
         <p class="dentist-address">📍 4470 Highland Rd, Waterford Township, MI 48328, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(217 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2484663409" class="dentist-btn dentist-btn-call" onclick="trackLead('Lux Dental Family &amp; Emergency Dentistry','call','Waterford Township','MI')">📞 Call</a> <a href="https://luxdentalwaterford.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lux Dental Family &amp; Emergency Dentistry','website','Waterford Township','MI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2484663409" class="dentist-btn dentist-btn-call" onclick="trackLead('Lux Dental Family &amp; Emergency Dentistry','call','Waterford Township','MI')">📞 Call</a> <a href="https://luxdentalwaterford.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lux Dental Family &amp; Emergency Dentistry','website','Waterford Township','MI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Lux Dental Family &amp; Emergency Dentistry','Waterford Township','MI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Afresh Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/michigan/waterford-township/afresh-dental.html" style="color:inherit;text-decoration:none;">Afresh Dental</a></h3>
         <p class="dentist-address">📍 9 N Telegraph, Waterford Township, MI 48328, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(125 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2483853824" class="dentist-btn dentist-btn-call" onclick="trackLead('Afresh Dental','call','Waterford Township','MI')">📞 Call</a> <a href="https://afreshdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Afresh Dental','website','Waterford Township','MI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2483853824" class="dentist-btn dentist-btn-call" onclick="trackLead('Afresh Dental','call','Waterford Township','MI')">📞 Call</a> <a href="https://afreshdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Afresh Dental','website','Waterford Township','MI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Afresh Dental','Waterford Township','MI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Studio Smiles Dental Waterford</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/michigan/waterford-township/studio-smiles-dental-waterford.html" style="color:inherit;text-decoration:none;">Studio Smiles Dental Waterford</a></h3>
         <p class="dentist-address">📍 4468 W Walton Blvd, Waterford Township, MI 48329, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(112 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2486183015" class="dentist-btn dentist-btn-call" onclick="trackLead('Studio Smiles Dental Waterford','call','Waterford Township','MI')">📞 Call</a> <a href="https://www.yourstudiosmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Studio Smiles Dental Waterford','website','Waterford Township','MI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2486183015" class="dentist-btn dentist-btn-call" onclick="trackLead('Studio Smiles Dental Waterford','call','Waterford Township','MI')">📞 Call</a> <a href="https://www.yourstudiosmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Studio Smiles Dental Waterford','website','Waterford Township','MI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Studio Smiles Dental Waterford','Waterford Township','MI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Waterford &amp; Clarkston Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/michigan/waterford-township/waterford-clarkston-dentistry.html" style="color:inherit;text-decoration:none;">Waterford &amp; Clarkston Dentistry</a></h3>
         <p class="dentist-address">📍 4152 Sashabaw Rd, Waterford Township, MI 48329, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(307 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2486730505" class="dentist-btn dentist-btn-call" onclick="trackLead('Waterford &amp; Clarkston Dentistry','call','Waterford Township','MI')">📞 Call</a> <a href="https://www.waterfordclarkstondentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Waterford &amp; Clarkston Dentistry','website','Waterford Township','MI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2486730505" class="dentist-btn dentist-btn-call" onclick="trackLead('Waterford &amp; Clarkston Dentistry','call','Waterford Township','MI')">📞 Call</a> <a href="https://www.waterfordclarkstondentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Waterford &amp; Clarkston Dentistry','website','Waterford Township','MI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Waterford &amp; Clarkston Dentistry','Waterford Township','MI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Stannard, Studt &amp; Tironi Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/michigan/waterford-township/stannard-studt-tironi-dentistry.html" style="color:inherit;text-decoration:none;">Stannard, Studt &amp; Tironi Dentistry</a></h3>
         <p class="dentist-address">📍 4170 Pontiac Lake Rd, Waterford Township, MI 48328, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(262 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2486737300" class="dentist-btn dentist-btn-call" onclick="trackLead('Stannard, Studt &amp; Tironi Dentistry','call','Waterford Township','MI')">📞 Call</a> <a href="https://stannardstudttironidentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Stannard, Studt &amp; Tironi Dentistry','website','Waterford Township','MI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2486737300" class="dentist-btn dentist-btn-call" onclick="trackLead('Stannard, Studt &amp; Tironi Dentistry','call','Waterford Township','MI')">📞 Call</a> <a href="https://stannardstudttironidentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Stannard, Studt &amp; Tironi Dentistry','website','Waterford Township','MI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Stannard, Studt &amp; Tironi Dentistry','Waterford Township','MI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Brush Rinse Floss</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/michigan/waterford-township/brush-rinse-floss.html" style="color:inherit;text-decoration:none;">Brush Rinse Floss</a></h3>
         <p class="dentist-address">📍 5695 Dixie Hwy, Waterford Township, MI 48329, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(199 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2487240860" class="dentist-btn dentist-btn-call" onclick="trackLead('Brush Rinse Floss','call','Waterford Township','MI')">📞 Call</a> <a href="https://brushrinsefloss.com/location/waterford/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Brush Rinse Floss','website','Waterford Township','MI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2487240860" class="dentist-btn dentist-btn-call" onclick="trackLead('Brush Rinse Floss','call','Waterford Township','MI')">📞 Call</a> <a href="https://brushrinsefloss.com/location/waterford/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Brush Rinse Floss','website','Waterford Township','MI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Brush Rinse Floss','Waterford Township','MI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Crescent Lake Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/michigan/waterford-township/crescent-lake-dental-care.html" style="color:inherit;text-decoration:none;">Crescent Lake Dental Care</a></h3>
         <p class="dentist-address">📍 998 Crescent Lake Rd, Waterford Township, MI 48327, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(260 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2486829331" class="dentist-btn dentist-btn-call" onclick="trackLead('Crescent Lake Dental Care','call','Waterford Township','MI')">📞 Call</a> <a href="https://crescentlakedentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Crescent Lake Dental Care','website','Waterford Township','MI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2486829331" class="dentist-btn dentist-btn-call" onclick="trackLead('Crescent Lake Dental Care','call','Waterford Township','MI')">📞 Call</a> <a href="https://crescentlakedentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Crescent Lake Dental Care','website','Waterford Township','MI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Crescent Lake Dental Care','Waterford Township','MI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental House Waterford</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/michigan/waterford-township/dental-house-waterford.html" style="color:inherit;text-decoration:none;">Dental House Waterford</a></h3>
         <p class="dentist-address">📍 5979 Highland Rd, Waterford Township, MI 48327, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(984 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9479999909" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental House Waterford','call','Waterford Township','MI')">📞 Call</a> <a href="https://dentalhousemi.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental House Waterford','website','Waterford Township','MI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9479999909" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental House Waterford','call','Waterford Township','MI')">📞 Call</a> <a href="https://dentalhousemi.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental House Waterford','website','Waterford Township','MI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental House Waterford','Waterford Township','MI')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Towne Centre Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/michigan/waterford-township/towne-centre-dentistry.html" style="color:inherit;text-decoration:none;">Towne Centre Dentistry</a></h3>
         <p class="dentist-address">📍 5205 Highland Rd, Waterford Township, MI 48327, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(31 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2486733333" class="dentist-btn dentist-btn-call" onclick="trackLead('Towne Centre Dentistry','call','Waterford Township','MI')">📞 Call</a> <a href="http://townecentredentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Towne Centre Dentistry','website','Waterford Township','MI')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2486733333" class="dentist-btn dentist-btn-call" onclick="trackLead('Towne Centre Dentistry','call','Waterford Township','MI')">📞 Call</a> <a href="http://townecentredentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Towne Centre Dentistry','website','Waterford Township','MI')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Towne Centre Dentistry','Waterford Township','MI')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

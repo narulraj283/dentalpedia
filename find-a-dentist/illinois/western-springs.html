@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 9 dentists in Western Springs, Illinois. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Illinois","item":"https://dentalpedia.co/find-a-dentist/illinois.html"},
+                {"@type":"ListItem","position":4,"name":"Western Springs","item":"https://dentalpedia.co/find-a-dentist/illinois/western-springs.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Western Springs, IL","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Spring Orthodontics","address":"800 Hillgrove Ave #200, Western Springs, IL 60558, USA","telephone":"(708) 505-2525"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Celes Dental Studio","address":"604 Hillgrove Ave, Western Springs, IL 60558, USA","telephone":"(708) 246-2405"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Smiles for Life Pediatric Dentistry","address":"4479 Central Ave, Western Springs, IL 60558, USA","telephone":"(708) 579-5437"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"James R. Ridlen, DDS","address":"1054 Hillgrove Ave, Western Springs, IL 60558, USA","telephone":"(708) 246-6510"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Versaci Vincent T DDS","address":"4471 Lawn Ave Suite 202, Western Springs, IL 60558, USA","telephone":"(708) 246-6006"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Schroyer Dental","address":"4365 Lawn Ave STE 3, Western Springs, IL 60558, USA","telephone":"(708) 246-4320"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Talentowski Diane DDS","address":"518 Hillgrove Ave # 100, Western Springs, IL 60558, USA","telephone":"(708) 246-8887"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Petty &amp; Dragstrem Orthodontics","address":"5455 Wolf Rd, Western Springs, IL 60558, USA","telephone":"(708) 246-4000"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Midland Oral Surgery and Implant Centers","address":"800 Hillgrove Ave Ste 202, Western Springs, IL 60558, USA","telephone":"(708) 348-1189"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/illinois.html">Illinois</a> &rsaquo; Western Springs</nav>
             <h1>Dentists in Western Springs, IL</h1>
@@ -85,58 +140,58 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Spring Orthodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/western-springs/spring-orthodontics.html" style="color:inherit;text-decoration:none;">Spring Orthodontics</a></h3>
         <p class="dentist-address">📍 800 Hillgrove Ave #200, Western Springs, IL 60558, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(264 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7085052525" class="dentist-btn dentist-btn-call" onclick="trackLead('Spring Orthodontics','call','Western Springs','IL')">📞 Call</a> <a href="https://www.westernspringsorthodontist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Spring Orthodontics','website','Western Springs','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7085052525" class="dentist-btn dentist-btn-call" onclick="trackLead('Spring Orthodontics','call','Western Springs','IL')">📞 Call</a> <a href="https://www.westernspringsorthodontist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Spring Orthodontics','website','Western Springs','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Spring Orthodontics','Western Springs','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Celes Dental Studio</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/western-springs/celes-dental-studio.html" style="color:inherit;text-decoration:none;">Celes Dental Studio</a></h3>
         <p class="dentist-address">📍 604 Hillgrove Ave, Western Springs, IL 60558, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(115 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7082462405" class="dentist-btn dentist-btn-call" onclick="trackLead('Celes Dental Studio','call','Western Springs','IL')">📞 Call</a> <a href="https://celesdentalstudio.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Celes Dental Studio','website','Western Springs','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7082462405" class="dentist-btn dentist-btn-call" onclick="trackLead('Celes Dental Studio','call','Western Springs','IL')">📞 Call</a> <a href="https://celesdentalstudio.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Celes Dental Studio','website','Western Springs','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Celes Dental Studio','Western Springs','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smiles for Life Pediatric Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/western-springs/smiles-for-life-pediatric-dentistry.html" style="color:inherit;text-decoration:none;">Smiles for Life Pediatric Dentistry</a></h3>
         <p class="dentist-address">📍 4479 Central Ave, Western Springs, IL 60558, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(41 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7085795437" class="dentist-btn dentist-btn-call" onclick="trackLead('Smiles for Life Pediatric Dentistry','call','Western Springs','IL')">📞 Call</a> <a href="https://www.lifekids.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smiles for Life Pediatric Dentistry','website','Western Springs','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7085795437" class="dentist-btn dentist-btn-call" onclick="trackLead('Smiles for Life Pediatric Dentistry','call','Western Springs','IL')">📞 Call</a> <a href="https://www.lifekids.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smiles for Life Pediatric Dentistry','website','Western Springs','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smiles for Life Pediatric Dentistry','Western Springs','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">James R. Ridlen, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/western-springs/james-r-ridlen-dds.html" style="color:inherit;text-decoration:none;">James R. Ridlen, DDS</a></h3>
         <p class="dentist-address">📍 1054 Hillgrove Ave, Western Springs, IL 60558, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(14 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7082466510" class="dentist-btn dentist-btn-call" onclick="trackLead('James R. Ridlen, DDS','call','Western Springs','IL')">📞 Call</a> <a href="http://www.jamesrridlendds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('James R. Ridlen, DDS','website','Western Springs','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7082466510" class="dentist-btn dentist-btn-call" onclick="trackLead('James R. Ridlen, DDS','call','Western Springs','IL')">📞 Call</a> <a href="http://www.jamesrridlendds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('James R. Ridlen, DDS','website','Western Springs','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('James R. Ridlen, DDS','Western Springs','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Versaci Vincent T DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/western-springs/versaci-vincent-t-dds.html" style="color:inherit;text-decoration:none;">Versaci Vincent T DDS</a></h3>
         <p class="dentist-address">📍 4471 Lawn Ave Suite 202, Western Springs, IL 60558, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(6 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7082466006" class="dentist-btn dentist-btn-call" onclick="trackLead('Versaci Vincent T DDS','call','Western Springs','IL')">📞 Call</a> <a href="http://www.versacidental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Versaci Vincent T DDS','website','Western Springs','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7082466006" class="dentist-btn dentist-btn-call" onclick="trackLead('Versaci Vincent T DDS','call','Western Springs','IL')">📞 Call</a> <a href="http://www.versacidental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Versaci Vincent T DDS','website','Western Springs','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Versaci Vincent T DDS','Western Springs','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Schroyer Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/western-springs/schroyer-dental.html" style="color:inherit;text-decoration:none;">Schroyer Dental</a></h3>
         <p class="dentist-address">📍 4365 Lawn Ave STE 3, Western Springs, IL 60558, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(2 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7082464320" class="dentist-btn dentist-btn-call" onclick="trackLead('Schroyer Dental','call','Western Springs','IL')">📞 Call</a> <a href="http://schroyerdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Schroyer Dental','website','Western Springs','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7082464320" class="dentist-btn dentist-btn-call" onclick="trackLead('Schroyer Dental','call','Western Springs','IL')">📞 Call</a> <a href="http://schroyerdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Schroyer Dental','website','Western Springs','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Schroyer Dental','Western Springs','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Talentowski Diane DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/western-springs/talentowski-diane-dds.html" style="color:inherit;text-decoration:none;">Talentowski Diane DDS</a></h3>
         <p class="dentist-address">📍 518 Hillgrove Ave # 100, Western Springs, IL 60558, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(2 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7082468887" class="dentist-btn dentist-btn-call" onclick="trackLead('Talentowski Diane DDS','call','Western Springs','IL')">📞 Call</a> <a href="https://www.talentowskidental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Talentowski Diane DDS','website','Western Springs','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7082468887" class="dentist-btn dentist-btn-call" onclick="trackLead('Talentowski Diane DDS','call','Western Springs','IL')">📞 Call</a> <a href="https://www.talentowskidental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Talentowski Diane DDS','website','Western Springs','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Talentowski Diane DDS','Western Springs','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Petty &amp; Dragstrem Orthodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/western-springs/petty-dragstrem-orthodontics.html" style="color:inherit;text-decoration:none;">Petty &amp; Dragstrem Orthodontics</a></h3>
         <p class="dentist-address">📍 5455 Wolf Rd, Western Springs, IL 60558, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(62 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7082464000" class="dentist-btn dentist-btn-call" onclick="trackLead('Petty &amp; Dragstrem Orthodontics','call','Western Springs','IL')">📞 Call</a> <a href="http://www.mypdsmile.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Petty &amp; Dragstrem Orthodontics','website','Western Springs','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7082464000" class="dentist-btn dentist-btn-call" onclick="trackLead('Petty &amp; Dragstrem Orthodontics','call','Western Springs','IL')">📞 Call</a> <a href="http://www.mypdsmile.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Petty &amp; Dragstrem Orthodontics','website','Western Springs','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Petty &amp; Dragstrem Orthodontics','Western Springs','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Midland Oral Surgery and Implant Centers</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/western-springs/midland-oral-surgery-and-implant-centers.html" style="color:inherit;text-decoration:none;">Midland Oral Surgery and Implant Centers</a></h3>
         <p class="dentist-address">📍 800 Hillgrove Ave Ste 202, Western Springs, IL 60558, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(42 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7083481189" class="dentist-btn dentist-btn-call" onclick="trackLead('Midland Oral Surgery and Implant Centers','call','Western Springs','IL')">📞 Call</a> <a href="https://www.midlandoms.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Midland Oral Surgery and Implant Centers','website','Western Springs','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7083481189" class="dentist-btn dentist-btn-call" onclick="trackLead('Midland Oral Surgery and Implant Centers','call','Western Springs','IL')">📞 Call</a> <a href="https://www.midlandoms.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Midland Oral Surgery and Implant Centers','website','Western Springs','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Midland Oral Surgery and Implant Centers','Western Springs','IL')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

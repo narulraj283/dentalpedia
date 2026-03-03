@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 10 dentists in Castro Valley, California. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"California","item":"https://dentalpedia.co/find-a-dentist/california.html"},
+                {"@type":"ListItem","position":4,"name":"Castro Valley","item":"https://dentalpedia.co/find-a-dentist/california/castro-valley.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Castro Valley, CA","numberOfItems":10,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Castro Valley Advantage Dental","address":"3609 Jamison Way, Castro Valley, CA 94546, USA","telephone":"(510) 880-3390"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Mark S. Murphy, DDS","address":"2380 Grove Way, Castro Valley, CA 94546, USA","telephone":"(510) 886-5112"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Dr Vijay Munagala DDS - Redwood Dental Smiles - Castro Valley, CA","address":"20212 Redwood Rd # 101, Castro Valley, CA 94546, USA","telephone":"(510) 886-6416"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Castro Valley General Dentistry","address":"20700 Lake Chabot Rd STE 101, Castro Valley, CA 94546, USA","telephone":"(510) 581-8888"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Allure Family Dentistry","address":"21981 Redwood Rd, Castro Valley, CA 94546, USA","telephone":"(510) 581-2455"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Oak Ridge Dental - Castro Valley","address":"20600 Lake Chabot Rd STE 101, Castro Valley, CA 94546, USA","telephone":"(510) 374-4250"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Castro Valley Dental Care","address":"3603 Jamison Way, Castro Valley, CA 94546, USA","telephone":"(510) 881-1924"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Redwood Canyon Dentistry","address":"20406 Redwood Rd suite h, Castro Valley, CA 94546, USA","telephone":"(510) 581-1991"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Chabot Dental Group","address":"20600 Lake Chabot Rd Suite 203, Castro Valley, CA 94546, USA","telephone":"(510) 581-0844"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Bright Now! Dental &amp; Orthodontics - Castro Valley, CA","address":"20923 Redwood Rd Suite C, Castro Valley, CA 94546, USA","telephone":"(510) 550-5056"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/california.html">California</a> &rsaquo; Castro Valley</nav>
             <h1>Dentists in Castro Valley, CA</h1>
@@ -85,64 +140,64 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Castro Valley Advantage Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/castro-valley/castro-valley-advantage-dental.html" style="color:inherit;text-decoration:none;">Castro Valley Advantage Dental</a></h3>
         <p class="dentist-address">📍 3609 Jamison Way, Castro Valley, CA 94546, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(600 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5108803390" class="dentist-btn dentist-btn-call" onclick="trackLead('Castro Valley Advantage Dental','call','Castro Valley','CA')">📞 Call</a> <a href="https://castrovalleydentist.dental/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Castro Valley Advantage Dental','website','Castro Valley','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5108803390" class="dentist-btn dentist-btn-call" onclick="trackLead('Castro Valley Advantage Dental','call','Castro Valley','CA')">📞 Call</a> <a href="https://castrovalleydentist.dental/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Castro Valley Advantage Dental','website','Castro Valley','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Castro Valley Advantage Dental','Castro Valley','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Mark S. Murphy, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/castro-valley/mark-s-murphy-dds.html" style="color:inherit;text-decoration:none;">Mark S. Murphy, DDS</a></h3>
         <p class="dentist-address">📍 2380 Grove Way, Castro Valley, CA 94546, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(268 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5108865112" class="dentist-btn dentist-btn-call" onclick="trackLead('Mark S. Murphy, DDS','call','Castro Valley','CA')">📞 Call</a> <a href="http://www.markmurphydds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mark S. Murphy, DDS','website','Castro Valley','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5108865112" class="dentist-btn dentist-btn-call" onclick="trackLead('Mark S. Murphy, DDS','call','Castro Valley','CA')">📞 Call</a> <a href="http://www.markmurphydds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mark S. Murphy, DDS','website','Castro Valley','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Mark S. Murphy, DDS','Castro Valley','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr Vijay Munagala DDS - Redwood Dental Smiles - Castro Valley, CA</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/castro-valley/dr-vijay-munagala-dds-redwood-dental-smiles-castro-valley-ca.html" style="color:inherit;text-decoration:none;">Dr Vijay Munagala DDS - Redwood Dental Smiles - Castro Valley, CA</a></h3>
         <p class="dentist-address">📍 20212 Redwood Rd # 101, Castro Valley, CA 94546, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(183 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5108866416" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr Vijay Munagala DDS - Redwood Dental Smiles - Castro Valley, CA','call','Castro Valley','CA')">📞 Call</a> <a href="https://www.redwooddentalsmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr Vijay Munagala DDS - Redwood Dental Smiles - Castro Valley, CA','website','Castro Valley','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5108866416" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr Vijay Munagala DDS - Redwood Dental Smiles - Castro Valley, CA','call','Castro Valley','CA')">📞 Call</a> <a href="https://www.redwooddentalsmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr Vijay Munagala DDS - Redwood Dental Smiles - Castro Valley, CA','website','Castro Valley','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr Vijay Munagala DDS - Redwood Dental Smiles - Castro Valley, CA','Castro Valley','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Castro Valley General Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/castro-valley/castro-valley-general-dentistry.html" style="color:inherit;text-decoration:none;">Castro Valley General Dentistry</a></h3>
         <p class="dentist-address">📍 20700 Lake Chabot Rd STE 101, Castro Valley, CA 94546, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(14 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5105818888" class="dentist-btn dentist-btn-call" onclick="trackLead('Castro Valley General Dentistry','call','Castro Valley','CA')">📞 Call</a> <a href="https://www.oaklanddentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Castro Valley General Dentistry','website','Castro Valley','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5105818888" class="dentist-btn dentist-btn-call" onclick="trackLead('Castro Valley General Dentistry','call','Castro Valley','CA')">📞 Call</a> <a href="https://www.oaklanddentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Castro Valley General Dentistry','website','Castro Valley','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Castro Valley General Dentistry','Castro Valley','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Allure Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/castro-valley/allure-family-dentistry.html" style="color:inherit;text-decoration:none;">Allure Family Dentistry</a></h3>
         <p class="dentist-address">📍 21981 Redwood Rd, Castro Valley, CA 94546, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(204 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5105812455" class="dentist-btn dentist-btn-call" onclick="trackLead('Allure Family Dentistry','call','Castro Valley','CA')">📞 Call</a> <a href="https://www.allurefamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Allure Family Dentistry','website','Castro Valley','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5105812455" class="dentist-btn dentist-btn-call" onclick="trackLead('Allure Family Dentistry','call','Castro Valley','CA')">📞 Call</a> <a href="https://www.allurefamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Allure Family Dentistry','website','Castro Valley','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Allure Family Dentistry','Castro Valley','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Oak Ridge Dental - Castro Valley</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/castro-valley/oak-ridge-dental-castro-valley.html" style="color:inherit;text-decoration:none;">Oak Ridge Dental - Castro Valley</a></h3>
         <p class="dentist-address">📍 20600 Lake Chabot Rd STE 101, Castro Valley, CA 94546, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(65 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5103744250" class="dentist-btn dentist-btn-call" onclick="trackLead('Oak Ridge Dental - Castro Valley','call','Castro Valley','CA')">📞 Call</a> <a href="https://www.oakridgedentalcastrovalley.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oak Ridge Dental - Castro Valley','website','Castro Valley','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5103744250" class="dentist-btn dentist-btn-call" onclick="trackLead('Oak Ridge Dental - Castro Valley','call','Castro Valley','CA')">📞 Call</a> <a href="https://www.oakridgedentalcastrovalley.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oak Ridge Dental - Castro Valley','website','Castro Valley','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Oak Ridge Dental - Castro Valley','Castro Valley','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Castro Valley Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/castro-valley/castro-valley-dental-care.html" style="color:inherit;text-decoration:none;">Castro Valley Dental Care</a></h3>
         <p class="dentist-address">📍 3603 Jamison Way, Castro Valley, CA 94546, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(112 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5108811924" class="dentist-btn dentist-btn-call" onclick="trackLead('Castro Valley Dental Care','call','Castro Valley','CA')">📞 Call</a> <a href="https://www.castrovalleydentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Castro Valley Dental Care','website','Castro Valley','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5108811924" class="dentist-btn dentist-btn-call" onclick="trackLead('Castro Valley Dental Care','call','Castro Valley','CA')">📞 Call</a> <a href="https://www.castrovalleydentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Castro Valley Dental Care','website','Castro Valley','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Castro Valley Dental Care','Castro Valley','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Redwood Canyon Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/castro-valley/redwood-canyon-dentistry.html" style="color:inherit;text-decoration:none;">Redwood Canyon Dentistry</a></h3>
         <p class="dentist-address">📍 20406 Redwood Rd suite h, Castro Valley, CA 94546, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(65 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5105811991" class="dentist-btn dentist-btn-call" onclick="trackLead('Redwood Canyon Dentistry','call','Castro Valley','CA')">📞 Call</a> <a href="https://redwoodcanyondentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Redwood Canyon Dentistry','website','Castro Valley','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5105811991" class="dentist-btn dentist-btn-call" onclick="trackLead('Redwood Canyon Dentistry','call','Castro Valley','CA')">📞 Call</a> <a href="https://redwoodcanyondentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Redwood Canyon Dentistry','website','Castro Valley','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Redwood Canyon Dentistry','Castro Valley','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Chabot Dental Group</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/castro-valley/chabot-dental-group.html" style="color:inherit;text-decoration:none;">Chabot Dental Group</a></h3>
         <p class="dentist-address">📍 20600 Lake Chabot Rd Suite 203, Castro Valley, CA 94546, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(28 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5105810844" class="dentist-btn dentist-btn-call" onclick="trackLead('Chabot Dental Group','call','Castro Valley','CA')">📞 Call</a> <a href="https://www.chabotdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Chabot Dental Group','website','Castro Valley','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5105810844" class="dentist-btn dentist-btn-call" onclick="trackLead('Chabot Dental Group','call','Castro Valley','CA')">📞 Call</a> <a href="https://www.chabotdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Chabot Dental Group','website','Castro Valley','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Chabot Dental Group','Castro Valley','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Bright Now! Dental &amp; Orthodontics - Castro Valley, CA</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/castro-valley/bright-now-dental-orthodontics-castro-valley-ca.html" style="color:inherit;text-decoration:none;">Bright Now! Dental &amp; Orthodontics - Castro Valley, CA</a></h3>
         <p class="dentist-address">📍 20923 Redwood Rd Suite C, Castro Valley, CA 94546, USA</p>
         <div class="dentist-rating">★★★★ 4.0 <span class="review-count">(180 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5105505056" class="dentist-btn dentist-btn-call" onclick="trackLead('Bright Now! Dental &amp; Orthodontics - Castro Valley, CA','call','Castro Valley','CA')">📞 Call</a> <a href="https://www.brightnow.com/dental-office/castro-valley-dentist/11130" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bright Now! Dental &amp; Orthodontics - Castro Valley, CA','website','Castro Valley','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5105505056" class="dentist-btn dentist-btn-call" onclick="trackLead('Bright Now! Dental &amp; Orthodontics - Castro Valley, CA','call','Castro Valley','CA')">📞 Call</a> <a href="https://www.brightnow.com/dental-office/castro-valley-dentist/11130" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bright Now! Dental &amp; Orthodontics - Castro Valley, CA','website','Castro Valley','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Bright Now! Dental &amp; Orthodontics - Castro Valley, CA','Castro Valley','CA')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

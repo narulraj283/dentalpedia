@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 8 dentists in Blaine, Minnesota. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Minnesota","item":"https://dentalpedia.co/find-a-dentist/minnesota.html"},
+                {"@type":"ListItem","position":4,"name":"Blaine","item":"https://dentalpedia.co/find-a-dentist/minnesota/blaine.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Blaine, MN","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Northpointe Dental Care","address":"607 County Hwy 10 #100, Blaine, MN 55434, USA","telephone":"(763) 363-9455"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Arden Dental Associates - Carlos Campodonico, DDS","address":"11806 Aberdeen St NE #150, Blaine, MN 55449, USA","telephone":"(763) 237-3371"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Blaine Kidds Pediatric Dentistry &amp; Orthodontics","address":"1351 113th Ave NE Suite #400B, Blaine, MN 55434, USA","telephone":"(763) 415-1222"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Central Avenue Dental Care","address":"12371 Ulysses St NE, Blaine, MN 55434, USA","telephone":"(763) 342-1604"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Metro Dentalcare Blaine Pheasant Ridge","address":"4255 Pheasant Ridge Dr NE #407, Blaine, MN 55449, USA","telephone":"(763) 703-6514"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Park Dental Blaine East","address":"4190 108th Ave Suite 130, Blaine, MN 55449, USA","telephone":"(763) 201-1502"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Midwest Dental - Blaine, MN","address":"676 County Hwy 10, Blaine, MN 55434, USA","telephone":"(763) 780-5007"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"The Dental Specialists","address":"12904 Central Ave NE, Blaine, MN 55434, USA","telephone":"(763) 201-6961"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/minnesota.html">Minnesota</a> &rsaquo; Blaine</nav>
             <h1>Dentists in Blaine, MN</h1>
@@ -85,52 +140,52 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Northpointe Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/minnesota/blaine/northpointe-dental-care.html" style="color:inherit;text-decoration:none;">Northpointe Dental Care</a></h3>
         <p class="dentist-address">📍 607 County Hwy 10 #100, Blaine, MN 55434, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(127 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7633639455" class="dentist-btn dentist-btn-call" onclick="trackLead('Northpointe Dental Care','call','Blaine','MN')">📞 Call</a> <a href="http://www.blainemndentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Northpointe Dental Care','website','Blaine','MN')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7633639455" class="dentist-btn dentist-btn-call" onclick="trackLead('Northpointe Dental Care','call','Blaine','MN')">📞 Call</a> <a href="http://www.blainemndentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Northpointe Dental Care','website','Blaine','MN')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Northpointe Dental Care','Blaine','MN')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Arden Dental Associates - Carlos Campodonico, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/minnesota/blaine/arden-dental-associates-carlos-campodonico-dds.html" style="color:inherit;text-decoration:none;">Arden Dental Associates - Carlos Campodonico, DDS</a></h3>
         <p class="dentist-address">📍 11806 Aberdeen St NE #150, Blaine, MN 55449, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(225 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7632373371" class="dentist-btn dentist-btn-call" onclick="trackLead('Arden Dental Associates - Carlos Campodonico, DDS','call','Blaine','MN')">📞 Call</a> <a href="https://www.ardendentalassoc.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Arden Dental Associates - Carlos Campodonico, DDS','website','Blaine','MN')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7632373371" class="dentist-btn dentist-btn-call" onclick="trackLead('Arden Dental Associates - Carlos Campodonico, DDS','call','Blaine','MN')">📞 Call</a> <a href="https://www.ardendentalassoc.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Arden Dental Associates - Carlos Campodonico, DDS','website','Blaine','MN')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Arden Dental Associates - Carlos Campodonico, DDS','Blaine','MN')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Blaine Kidds Pediatric Dentistry &amp; Orthodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/minnesota/blaine/blaine-kidds-pediatric-dentistry-orthodontics.html" style="color:inherit;text-decoration:none;">Blaine Kidds Pediatric Dentistry &amp; Orthodontics</a></h3>
         <p class="dentist-address">📍 1351 113th Ave NE Suite #400B, Blaine, MN 55434, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(570 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7634151222" class="dentist-btn dentist-btn-call" onclick="trackLead('Blaine Kidds Pediatric Dentistry &amp; Orthodontics','call','Blaine','MN')">📞 Call</a> <a href="https://dentalkidds.com/blaine/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Blaine Kidds Pediatric Dentistry &amp; Orthodontics','website','Blaine','MN')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7634151222" class="dentist-btn dentist-btn-call" onclick="trackLead('Blaine Kidds Pediatric Dentistry &amp; Orthodontics','call','Blaine','MN')">📞 Call</a> <a href="https://dentalkidds.com/blaine/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Blaine Kidds Pediatric Dentistry &amp; Orthodontics','website','Blaine','MN')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Blaine Kidds Pediatric Dentistry &amp; Orthodontics','Blaine','MN')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Central Avenue Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/minnesota/blaine/central-avenue-dental-care.html" style="color:inherit;text-decoration:none;">Central Avenue Dental Care</a></h3>
         <p class="dentist-address">📍 12371 Ulysses St NE, Blaine, MN 55434, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(403 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7633421604" class="dentist-btn dentist-btn-call" onclick="trackLead('Central Avenue Dental Care','call','Blaine','MN')">📞 Call</a> <a href="http://centralavenuedentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Central Avenue Dental Care','website','Blaine','MN')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7633421604" class="dentist-btn dentist-btn-call" onclick="trackLead('Central Avenue Dental Care','call','Blaine','MN')">📞 Call</a> <a href="http://centralavenuedentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Central Avenue Dental Care','website','Blaine','MN')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Central Avenue Dental Care','Blaine','MN')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Metro Dentalcare Blaine Pheasant Ridge</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/minnesota/blaine/metro-dentalcare-blaine-pheasant-ridge.html" style="color:inherit;text-decoration:none;">Metro Dentalcare Blaine Pheasant Ridge</a></h3>
         <p class="dentist-address">📍 4255 Pheasant Ridge Dr NE #407, Blaine, MN 55449, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(314 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7637036514" class="dentist-btn dentist-btn-call" onclick="trackLead('Metro Dentalcare Blaine Pheasant Ridge','call','Blaine','MN')">📞 Call</a> <a href="http://mdblainepheasantridge.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Metro Dentalcare Blaine Pheasant Ridge','website','Blaine','MN')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7637036514" class="dentist-btn dentist-btn-call" onclick="trackLead('Metro Dentalcare Blaine Pheasant Ridge','call','Blaine','MN')">📞 Call</a> <a href="http://mdblainepheasantridge.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Metro Dentalcare Blaine Pheasant Ridge','website','Blaine','MN')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Metro Dentalcare Blaine Pheasant Ridge','Blaine','MN')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Park Dental Blaine East</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/minnesota/blaine/park-dental-blaine-east.html" style="color:inherit;text-decoration:none;">Park Dental Blaine East</a></h3>
         <p class="dentist-address">📍 4190 108th Ave Suite 130, Blaine, MN 55449, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(13 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7632011502" class="dentist-btn dentist-btn-call" onclick="trackLead('Park Dental Blaine East','call','Blaine','MN')">📞 Call</a> <a href="https://www.parkdental.com/location/park-dental-blaine-east" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Park Dental Blaine East','website','Blaine','MN')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7632011502" class="dentist-btn dentist-btn-call" onclick="trackLead('Park Dental Blaine East','call','Blaine','MN')">📞 Call</a> <a href="https://www.parkdental.com/location/park-dental-blaine-east" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Park Dental Blaine East','website','Blaine','MN')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Park Dental Blaine East','Blaine','MN')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Midwest Dental - Blaine, MN</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/minnesota/blaine/midwest-dental-blaine-mn.html" style="color:inherit;text-decoration:none;">Midwest Dental - Blaine, MN</a></h3>
         <p class="dentist-address">📍 676 County Hwy 10, Blaine, MN 55434, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(115 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7637805007" class="dentist-btn dentist-btn-call" onclick="trackLead('Midwest Dental - Blaine, MN','call','Blaine','MN')">📞 Call</a> <a href="https://midwest-dental.com/dental-office/blaine/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Midwest Dental - Blaine, MN','website','Blaine','MN')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7637805007" class="dentist-btn dentist-btn-call" onclick="trackLead('Midwest Dental - Blaine, MN','call','Blaine','MN')">📞 Call</a> <a href="https://midwest-dental.com/dental-office/blaine/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Midwest Dental - Blaine, MN','website','Blaine','MN')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Midwest Dental - Blaine, MN','Blaine','MN')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">The Dental Specialists</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/minnesota/blaine/the-dental-specialists.html" style="color:inherit;text-decoration:none;">The Dental Specialists</a></h3>
         <p class="dentist-address">📍 12904 Central Ave NE, Blaine, MN 55434, USA</p>
         <div class="dentist-rating">★★★½ 3.4 <span class="review-count">(11 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7632016961" class="dentist-btn dentist-btn-call" onclick="trackLead('The Dental Specialists','call','Blaine','MN')">📞 Call</a> <a href="https://www.thedentalspecialists.com/location/blaine/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Dental Specialists','website','Blaine','MN')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7632016961" class="dentist-btn dentist-btn-call" onclick="trackLead('The Dental Specialists','call','Blaine','MN')">📞 Call</a> <a href="https://www.thedentalspecialists.com/location/blaine/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Dental Specialists','website','Blaine','MN')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('The Dental Specialists','Blaine','MN')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

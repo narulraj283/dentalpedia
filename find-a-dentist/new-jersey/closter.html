@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 7 dentists in Closter, New Jersey. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"New Jersey","item":"https://dentalpedia.co/find-a-dentist/new-jersey.html"},
+                {"@type":"ListItem","position":4,"name":"Closter","item":"https://dentalpedia.co/find-a-dentist/new-jersey/closter.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Closter, NJ","numberOfItems":7,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Smile Orthodontists: Dr. Tanya Vaysman","address":"162 Closter Dock Rd, Closter, NJ 07624, USA","telephone":"(201) 248-6732"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Smilee Pediatric Dentistry","address":"580 Piermont Rd D1-D, Closter, NJ 07624, USA","telephone":"(201) 308-8114"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Glow Dental","address":"277 Closter Dock Rd Ste 7, Closter, NJ 07624, USA","telephone":"(201) 777-3277"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"ABC Pediatric Dental Care","address":"500 Piermont Rd, Closter, NJ 07624, USA","telephone":"(201) 767-0200"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Frank P. Scartozzi DDS FASDC","address":"550 Durie Ave # 209, Closter, NJ 07624, USA","telephone":"(201) 750-9910"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Prosmiles General &amp; Cosmetic Dentistry","address":"162 Closter Dock Rd, Closter, NJ 07624, USA","telephone":"(201) 326-0244"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Birch Dental Studio","address":"136 Oakland Ave, Closter, NJ 07624, USA","telephone":"(201) 343-8900"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/new-jersey.html">New Jersey</a> &rsaquo; Closter</nav>
             <h1>Dentists in Closter, NJ</h1>
@@ -85,46 +140,46 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Smile Orthodontists: Dr. Tanya Vaysman</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/closter/smile-orthodontists-dr-tanya-vaysman.html" style="color:inherit;text-decoration:none;">Smile Orthodontists: Dr. Tanya Vaysman</a></h3>
         <p class="dentist-address">📍 162 Closter Dock Rd, Closter, NJ 07624, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(401 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2012486732" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Orthodontists: Dr. Tanya Vaysman','call','Closter','NJ')">📞 Call</a> <a href="https://smileorthodontists.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Orthodontists: Dr. Tanya Vaysman','website','Closter','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2012486732" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Orthodontists: Dr. Tanya Vaysman','call','Closter','NJ')">📞 Call</a> <a href="https://smileorthodontists.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Orthodontists: Dr. Tanya Vaysman','website','Closter','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smile Orthodontists: Dr. Tanya Vaysman','Closter','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smilee Pediatric Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/closter/smilee-pediatric-dentistry.html" style="color:inherit;text-decoration:none;">Smilee Pediatric Dentistry</a></h3>
         <p class="dentist-address">📍 580 Piermont Rd D1-D, Closter, NJ 07624, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(110 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2013088114" class="dentist-btn dentist-btn-call" onclick="trackLead('Smilee Pediatric Dentistry','call','Closter','NJ')">📞 Call</a> <a href="https://www.smileepediatricdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smilee Pediatric Dentistry','website','Closter','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2013088114" class="dentist-btn dentist-btn-call" onclick="trackLead('Smilee Pediatric Dentistry','call','Closter','NJ')">📞 Call</a> <a href="https://www.smileepediatricdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smilee Pediatric Dentistry','website','Closter','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smilee Pediatric Dentistry','Closter','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Glow Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/closter/glow-dental.html" style="color:inherit;text-decoration:none;">Glow Dental</a></h3>
         <p class="dentist-address">📍 277 Closter Dock Rd Ste 7, Closter, NJ 07624, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(101 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2017773277" class="dentist-btn dentist-btn-call" onclick="trackLead('Glow Dental','call','Closter','NJ')">📞 Call</a> <a href="https://www.theglowdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Glow Dental','website','Closter','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2017773277" class="dentist-btn dentist-btn-call" onclick="trackLead('Glow Dental','call','Closter','NJ')">📞 Call</a> <a href="https://www.theglowdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Glow Dental','website','Closter','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Glow Dental','Closter','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">ABC Pediatric Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/closter/abc-pediatric-dental-care.html" style="color:inherit;text-decoration:none;">ABC Pediatric Dental Care</a></h3>
         <p class="dentist-address">📍 500 Piermont Rd, Closter, NJ 07624, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(44 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2017670200" class="dentist-btn dentist-btn-call" onclick="trackLead('ABC Pediatric Dental Care','call','Closter','NJ')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:2017670200" class="dentist-btn dentist-btn-call" onclick="trackLead('ABC Pediatric Dental Care','call','Closter','NJ')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('ABC Pediatric Dental Care','Closter','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Frank P. Scartozzi DDS FASDC</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/closter/frank-p-scartozzi-dds-fasdc.html" style="color:inherit;text-decoration:none;">Frank P. Scartozzi DDS FASDC</a></h3>
         <p class="dentist-address">📍 550 Durie Ave # 209, Closter, NJ 07624, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(27 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2017509910" class="dentist-btn dentist-btn-call" onclick="trackLead('Frank P. Scartozzi DDS FASDC','call','Closter','NJ')">📞 Call</a> <a href="https://www.drfrankscartozzi.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Frank P. Scartozzi DDS FASDC','website','Closter','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2017509910" class="dentist-btn dentist-btn-call" onclick="trackLead('Frank P. Scartozzi DDS FASDC','call','Closter','NJ')">📞 Call</a> <a href="https://www.drfrankscartozzi.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Frank P. Scartozzi DDS FASDC','website','Closter','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Frank P. Scartozzi DDS FASDC','Closter','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Prosmiles General &amp; Cosmetic Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/closter/prosmiles-general-cosmetic-dentistry.html" style="color:inherit;text-decoration:none;">Prosmiles General &amp; Cosmetic Dentistry</a></h3>
         <p class="dentist-address">📍 162 Closter Dock Rd, Closter, NJ 07624, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(25 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2013260244" class="dentist-btn dentist-btn-call" onclick="trackLead('Prosmiles General &amp; Cosmetic Dentistry','call','Closter','NJ')">📞 Call</a> <a href="https://prosmilesnj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Prosmiles General &amp; Cosmetic Dentistry','website','Closter','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2013260244" class="dentist-btn dentist-btn-call" onclick="trackLead('Prosmiles General &amp; Cosmetic Dentistry','call','Closter','NJ')">📞 Call</a> <a href="https://prosmilesnj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Prosmiles General &amp; Cosmetic Dentistry','website','Closter','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Prosmiles General &amp; Cosmetic Dentistry','Closter','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Birch Dental Studio</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/closter/birch-dental-studio.html" style="color:inherit;text-decoration:none;">Birch Dental Studio</a></h3>
         <p class="dentist-address">📍 136 Oakland Ave, Closter, NJ 07624, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(23 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2013438900" class="dentist-btn dentist-btn-call" onclick="trackLead('Birch Dental Studio','call','Closter','NJ')">📞 Call</a> <a href="https://birchdental.co/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Birch Dental Studio','website','Closter','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2013438900" class="dentist-btn dentist-btn-call" onclick="trackLead('Birch Dental Studio','call','Closter','NJ')">📞 Call</a> <a href="https://birchdental.co/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Birch Dental Studio','website','Closter','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Birch Dental Studio','Closter','NJ')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

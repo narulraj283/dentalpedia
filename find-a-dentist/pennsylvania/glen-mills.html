@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 6 dentists in Glen Mills, Pennsylvania. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Pennsylvania","item":"https://dentalpedia.co/find-a-dentist/pennsylvania.html"},
+                {"@type":"ListItem","position":4,"name":"Glen Mills","item":"https://dentalpedia.co/find-a-dentist/pennsylvania/glen-mills.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Glen Mills, PA","numberOfItems":6,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Glen Eagle Pediatric Dentistry","address":"589 Wilmington West Chester Pike, Glen Mills, PA 19342, USA","telephone":"(484) 639-9066"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Cobblestone Kids Pediatric Dentistry","address":"1020 Baltimore Pike #350, Glen Mills, PA 19342, USA","telephone":"(610) 358-3900"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Star Care Dental","address":"1102 Baltimore Pike SUITE #203, Glen Mills, PA 19342, USA","telephone":"(610) 569-0509"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Smile Culture Dental - Glen Mills","address":"1751 Wilmington Pike Ste F-2, Glen Mills, PA 19342, USA","telephone":"(484) 296-0550"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"The Dentists at Brinton Lake Affiliated with The Smilist Dental","address":"145 Brinton Lake Rd Suite 300, Glen Mills, PA 19342, USA","telephone":"(484) 800-1162"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Emergency Dentist 24/7 Glen Mills","address":"736 Baltimore Pike # 7, Glen Mills, PA 19342, USA","telephone":"(610) 936-6892"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/pennsylvania.html">Pennsylvania</a> &rsaquo; Glen Mills</nav>
             <h1>Dentists in Glen Mills, PA</h1>
@@ -85,40 +140,40 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Glen Eagle Pediatric Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/glen-mills/glen-eagle-pediatric-dentistry.html" style="color:inherit;text-decoration:none;">Glen Eagle Pediatric Dentistry</a></h3>
         <p class="dentist-address">📍 589 Wilmington West Chester Pike, Glen Mills, PA 19342, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(123 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4846399066" class="dentist-btn dentist-btn-call" onclick="trackLead('Glen Eagle Pediatric Dentistry','call','Glen Mills','PA')">📞 Call</a> <a href="http://gleneaglepediatricdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Glen Eagle Pediatric Dentistry','website','Glen Mills','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4846399066" class="dentist-btn dentist-btn-call" onclick="trackLead('Glen Eagle Pediatric Dentistry','call','Glen Mills','PA')">📞 Call</a> <a href="http://gleneaglepediatricdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Glen Eagle Pediatric Dentistry','website','Glen Mills','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Glen Eagle Pediatric Dentistry','Glen Mills','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Cobblestone Kids Pediatric Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/glen-mills/cobblestone-kids-pediatric-dentistry.html" style="color:inherit;text-decoration:none;">Cobblestone Kids Pediatric Dentistry</a></h3>
         <p class="dentist-address">📍 1020 Baltimore Pike #350, Glen Mills, PA 19342, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(300 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6103583900" class="dentist-btn dentist-btn-call" onclick="trackLead('Cobblestone Kids Pediatric Dentistry','call','Glen Mills','PA')">📞 Call</a> <a href="https://www.cobblestonekids.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Cobblestone Kids Pediatric Dentistry','website','Glen Mills','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6103583900" class="dentist-btn dentist-btn-call" onclick="trackLead('Cobblestone Kids Pediatric Dentistry','call','Glen Mills','PA')">📞 Call</a> <a href="https://www.cobblestonekids.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Cobblestone Kids Pediatric Dentistry','website','Glen Mills','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Cobblestone Kids Pediatric Dentistry','Glen Mills','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Star Care Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/glen-mills/star-care-dental.html" style="color:inherit;text-decoration:none;">Star Care Dental</a></h3>
         <p class="dentist-address">📍 1102 Baltimore Pike SUITE #203, Glen Mills, PA 19342, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(259 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6105690509" class="dentist-btn dentist-btn-call" onclick="trackLead('Star Care Dental','call','Glen Mills','PA')">📞 Call</a> <a href="https://starcaredental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Star Care Dental','website','Glen Mills','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6105690509" class="dentist-btn dentist-btn-call" onclick="trackLead('Star Care Dental','call','Glen Mills','PA')">📞 Call</a> <a href="https://starcaredental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Star Care Dental','website','Glen Mills','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Star Care Dental','Glen Mills','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smile Culture Dental - Glen Mills</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/glen-mills/smile-culture-dental-glen-mills.html" style="color:inherit;text-decoration:none;">Smile Culture Dental - Glen Mills</a></h3>
         <p class="dentist-address">📍 1751 Wilmington Pike Ste F-2, Glen Mills, PA 19342, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(450 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4842960550" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Culture Dental - Glen Mills','call','Glen Mills','PA')">📞 Call</a> <a href="https://smileculture.com/glen-mills/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Culture Dental - Glen Mills','website','Glen Mills','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4842960550" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Culture Dental - Glen Mills','call','Glen Mills','PA')">📞 Call</a> <a href="https://smileculture.com/glen-mills/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Culture Dental - Glen Mills','website','Glen Mills','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smile Culture Dental - Glen Mills','Glen Mills','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">The Dentists at Brinton Lake Affiliated with The Smilist Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/glen-mills/the-dentists-at-brinton-lake-affiliated-with-the-smilist-den.html" style="color:inherit;text-decoration:none;">The Dentists at Brinton Lake Affiliated with The Smilist Dental</a></h3>
         <p class="dentist-address">📍 145 Brinton Lake Rd Suite 300, Glen Mills, PA 19342, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(466 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4848001162" class="dentist-btn dentist-btn-call" onclick="trackLead('The Dentists at Brinton Lake Affiliated with The Smilist Dental','call','Glen Mills','PA')">📞 Call</a> <a href="https://thesmilist.com/dentist-locations/pennsylvania/glen-mills-dentist/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Dentists at Brinton Lake Affiliated with The Smilist Dental','website','Glen Mills','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4848001162" class="dentist-btn dentist-btn-call" onclick="trackLead('The Dentists at Brinton Lake Affiliated with The Smilist Dental','call','Glen Mills','PA')">📞 Call</a> <a href="https://thesmilist.com/dentist-locations/pennsylvania/glen-mills-dentist/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Dentists at Brinton Lake Affiliated with The Smilist Dental','website','Glen Mills','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('The Dentists at Brinton Lake Affiliated with The Smilist Dental','Glen Mills','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Emergency Dentist 24/7 Glen Mills</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/glen-mills/emergency-dentist-24-7-glen-mills.html" style="color:inherit;text-decoration:none;">Emergency Dentist 24/7 Glen Mills</a></h3>
         <p class="dentist-address">📍 736 Baltimore Pike # 7, Glen Mills, PA 19342, USA</p>
         <div class="dentist-rating">★ 1.0 <span class="review-count">(5 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6109366892" class="dentist-btn dentist-btn-call" onclick="trackLead('Emergency Dentist 24/7 Glen Mills','call','Glen Mills','PA')">📞 Call</a> <a href="https://www.emergencydentalservice.com/emergencydentist/glen-mills-pa-brandywine-smile-center" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Emergency Dentist 24/7 Glen Mills','website','Glen Mills','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6109366892" class="dentist-btn dentist-btn-call" onclick="trackLead('Emergency Dentist 24/7 Glen Mills','call','Glen Mills','PA')">📞 Call</a> <a href="https://www.emergencydentalservice.com/emergencydentist/glen-mills-pa-brandywine-smile-center" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Emergency Dentist 24/7 Glen Mills','website','Glen Mills','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Emergency Dentist 24/7 Glen Mills','Glen Mills','PA')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

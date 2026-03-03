@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 9 dentists in Gardena, California. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"California","item":"https://dentalpedia.co/find-a-dentist/california.html"},
+                {"@type":"ListItem","position":4,"name":"Gardena","item":"https://dentalpedia.co/find-a-dentist/california/gardena.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Gardena, CA","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Peng Dental Care: W. Felix Peng, DDS","address":"1700 W Gardena Blvd, Gardena, CA 90247, USA","telephone":"(310) 323-0689"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"A Miracle Dental Group - Dr. Sara Shirazi, DDS","address":"15701 Crenshaw Blvd, Gardena, CA 90249, USA","telephone":"(310) 679-7470"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Torrance Dentist DDS","address":"15808 1/2 S Broadway, Gardena, CA 90248, USA","telephone":"(424) 333-8850"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"California Dental Group","address":"1721 Artesia Blvd, Gardena, CA 90248, USA","telephone":"(310) 752-9080"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Orthodontics of Gardena","address":"1890 W Redondo Beach Blvd, Gardena, CA 90247, USA","telephone":"(310) 819-4222"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Gardena Dental Care","address":"1890 W Redondo Beach Blvd, Gardena, CA 90247, USA","telephone":"(424) 295-7885"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Brite Dental","address":"15727 S Western Ave First Floor, Gardena, CA 90247, USA","telephone":"(310) 327-7777"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Gardena PARK Dental Care","address":"15201 S Western Ave, Gardena, CA 90249, USA","telephone":"(310) 400-7705"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Rosedale Dental","address":"2926 Marine Ave, Gardena, CA 90249, USA","telephone":"(310) 538-4496"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/california.html">California</a> &rsaquo; Gardena</nav>
             <h1>Dentists in Gardena, CA</h1>
@@ -85,58 +140,58 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Peng Dental Care: W. Felix Peng, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/gardena/peng-dental-care-w-felix-peng-dds.html" style="color:inherit;text-decoration:none;">Peng Dental Care: W. Felix Peng, DDS</a></h3>
         <p class="dentist-address">📍 1700 W Gardena Blvd, Gardena, CA 90247, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(114 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3103230689" class="dentist-btn dentist-btn-call" onclick="trackLead('Peng Dental Care: W. Felix Peng, DDS','call','Gardena','CA')">📞 Call</a> <a href="http://www.drpengdds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Peng Dental Care: W. Felix Peng, DDS','website','Gardena','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3103230689" class="dentist-btn dentist-btn-call" onclick="trackLead('Peng Dental Care: W. Felix Peng, DDS','call','Gardena','CA')">📞 Call</a> <a href="http://www.drpengdds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Peng Dental Care: W. Felix Peng, DDS','website','Gardena','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Peng Dental Care: W. Felix Peng, DDS','Gardena','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">A Miracle Dental Group - Dr. Sara Shirazi, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/gardena/a-miracle-dental-group-dr-sara-shirazi-dds.html" style="color:inherit;text-decoration:none;">A Miracle Dental Group - Dr. Sara Shirazi, DDS</a></h3>
         <p class="dentist-address">📍 15701 Crenshaw Blvd, Gardena, CA 90249, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(70 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3106797470" class="dentist-btn dentist-btn-call" onclick="trackLead('A Miracle Dental Group - Dr. Sara Shirazi, DDS','call','Gardena','CA')">📞 Call</a> <a href="https://www.amiracledentalgroup.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('A Miracle Dental Group - Dr. Sara Shirazi, DDS','website','Gardena','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3106797470" class="dentist-btn dentist-btn-call" onclick="trackLead('A Miracle Dental Group - Dr. Sara Shirazi, DDS','call','Gardena','CA')">📞 Call</a> <a href="https://www.amiracledentalgroup.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('A Miracle Dental Group - Dr. Sara Shirazi, DDS','website','Gardena','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('A Miracle Dental Group - Dr. Sara Shirazi, DDS','Gardena','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Torrance Dentist DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/gardena/torrance-dentist-dds.html" style="color:inherit;text-decoration:none;">Torrance Dentist DDS</a></h3>
         <p class="dentist-address">📍 15808 1/2 S Broadway, Gardena, CA 90248, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(1 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4243338850" class="dentist-btn dentist-btn-call" onclick="trackLead('Torrance Dentist DDS','call','Gardena','CA')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:4243338850" class="dentist-btn dentist-btn-call" onclick="trackLead('Torrance Dentist DDS','call','Gardena','CA')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Torrance Dentist DDS','Gardena','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">California Dental Group</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/gardena/california-dental-group.html" style="color:inherit;text-decoration:none;">California Dental Group</a></h3>
         <p class="dentist-address">📍 1721 Artesia Blvd, Gardena, CA 90248, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(376 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3107529080" class="dentist-btn dentist-btn-call" onclick="trackLead('California Dental Group','call','Gardena','CA')">📞 Call</a> <a href="https://www.cadentalgroup.com/gardena/cosmetic-dentistry/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('California Dental Group','website','Gardena','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3107529080" class="dentist-btn dentist-btn-call" onclick="trackLead('California Dental Group','call','Gardena','CA')">📞 Call</a> <a href="https://www.cadentalgroup.com/gardena/cosmetic-dentistry/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('California Dental Group','website','Gardena','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('California Dental Group','Gardena','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Orthodontics of Gardena</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/gardena/orthodontics-of-gardena.html" style="color:inherit;text-decoration:none;">Orthodontics of Gardena</a></h3>
         <p class="dentist-address">📍 1890 W Redondo Beach Blvd, Gardena, CA 90247, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(124 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3108194222" class="dentist-btn dentist-btn-call" onclick="trackLead('Orthodontics of Gardena','call','Gardena','CA')">📞 Call</a> <a href="https://orthodontistgardena.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Orthodontics of Gardena','website','Gardena','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3108194222" class="dentist-btn dentist-btn-call" onclick="trackLead('Orthodontics of Gardena','call','Gardena','CA')">📞 Call</a> <a href="https://orthodontistgardena.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Orthodontics of Gardena','website','Gardena','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Orthodontics of Gardena','Gardena','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Gardena Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/gardena/gardena-dental-care.html" style="color:inherit;text-decoration:none;">Gardena Dental Care</a></h3>
         <p class="dentist-address">📍 1890 W Redondo Beach Blvd, Gardena, CA 90247, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(509 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4242957885" class="dentist-btn dentist-btn-call" onclick="trackLead('Gardena Dental Care','call','Gardena','CA')">📞 Call</a> <a href="https://www.dentistgardena.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Gardena Dental Care','website','Gardena','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4242957885" class="dentist-btn dentist-btn-call" onclick="trackLead('Gardena Dental Care','call','Gardena','CA')">📞 Call</a> <a href="https://www.dentistgardena.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Gardena Dental Care','website','Gardena','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Gardena Dental Care','Gardena','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Brite Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/gardena/brite-dental.html" style="color:inherit;text-decoration:none;">Brite Dental</a></h3>
         <p class="dentist-address">📍 15727 S Western Ave First Floor, Gardena, CA 90247, USA</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(35 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3103277777" class="dentist-btn dentist-btn-call" onclick="trackLead('Brite Dental','call','Gardena','CA')">📞 Call</a> <a href="http://www.britedentalgardena.com/index.html" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Brite Dental','website','Gardena','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3103277777" class="dentist-btn dentist-btn-call" onclick="trackLead('Brite Dental','call','Gardena','CA')">📞 Call</a> <a href="http://www.britedentalgardena.com/index.html" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Brite Dental','website','Gardena','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Brite Dental','Gardena','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Gardena PARK Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/gardena/gardena-park-dental-care.html" style="color:inherit;text-decoration:none;">Gardena PARK Dental Care</a></h3>
         <p class="dentist-address">📍 15201 S Western Ave, Gardena, CA 90249, USA</p>
         <div class="dentist-rating">★★★★ 4.2 <span class="review-count">(5 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3104007705" class="dentist-btn dentist-btn-call" onclick="trackLead('Gardena PARK Dental Care','call','Gardena','CA')">📞 Call</a> <a href="http://www.gardenaparkdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Gardena PARK Dental Care','website','Gardena','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3104007705" class="dentist-btn dentist-btn-call" onclick="trackLead('Gardena PARK Dental Care','call','Gardena','CA')">📞 Call</a> <a href="http://www.gardenaparkdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Gardena PARK Dental Care','website','Gardena','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Gardena PARK Dental Care','Gardena','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Rosedale Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/gardena/rosedale-dental.html" style="color:inherit;text-decoration:none;">Rosedale Dental</a></h3>
         <p class="dentist-address">📍 2926 Marine Ave, Gardena, CA 90249, USA</p>
         <div class="dentist-rating">★★★½ 3.8 <span class="review-count">(4 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3105384496" class="dentist-btn dentist-btn-call" onclick="trackLead('Rosedale Dental','call','Gardena','CA')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:3105384496" class="dentist-btn dentist-btn-call" onclick="trackLead('Rosedale Dental','call','Gardena','CA')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Rosedale Dental','Gardena','CA')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

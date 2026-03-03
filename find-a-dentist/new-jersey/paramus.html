@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 9 dentists in Paramus, New Jersey. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"New Jersey","item":"https://dentalpedia.co/find-a-dentist/new-jersey.html"},
+                {"@type":"ListItem","position":4,"name":"Paramus","item":"https://dentalpedia.co/find-a-dentist/new-jersey/paramus.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Paramus, NJ","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Dental Arts of Paramus","address":"142 NJ-17 N Lower Level, Paramus, NJ 07652, USA","telephone":"(201) 977-1078"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"North Jersey Oral &amp; Maxillofacial Surgery","address":"81 Rte 4 Suite 201, Paramus, NJ 07652, USA","telephone":"(201) 692-7737"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"AC Dental Paramus - Dr Suzan Ghattas DDS","address":"4 Forest Ave #202, Paramus, NJ 07652, USA","telephone":"(201) 489-1084"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"The Town Dentist: Paramus Emergency Dental and Implant Center","address":"122 E Ridgewood Ave, Paramus, NJ 07652, USA","telephone":"(551) 210-2363"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Paramus Park Oral Surgery &amp; Dental Implant Studio","address":"1615 Paramus Park, Paramus, NJ 07652, USA","telephone":"(201) 345-4384"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Dental Health 360° - Paramus Emergency &amp; Family Dentist","address":"501 NJ-17, Paramus, NJ 07652, USA","telephone":"(201) 809-9566"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Pristine Oral &amp; Maxillofacial Surgery","address":"305 NJ-17 Suite 7, Paramus, NJ 07652, USA","telephone":"(201) 201-8887"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Paramus Dental Specialists","address":"122 E Ridgewood Ave, Paramus, NJ 07652, USA","telephone":"(551) 525-5528"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Aesthetic Dentistry - Elena Tsymbalova, DDS","address":"42 Farview Terrace, Paramus, NJ 07652, USA","telephone":"(201) 843-0672"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/new-jersey.html">New Jersey</a> &rsaquo; Paramus</nav>
             <h1>Dentists in Paramus, NJ</h1>
@@ -85,58 +140,58 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Arts of Paramus</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/paramus/dental-arts-of-paramus.html" style="color:inherit;text-decoration:none;">Dental Arts of Paramus</a></h3>
         <p class="dentist-address">📍 142 NJ-17 N Lower Level, Paramus, NJ 07652, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(80 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2019771078" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Arts of Paramus','call','Paramus','NJ')">📞 Call</a> <a href="https://www.dentalartsofparamus.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Arts of Paramus','website','Paramus','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2019771078" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Arts of Paramus','call','Paramus','NJ')">📞 Call</a> <a href="https://www.dentalartsofparamus.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Arts of Paramus','website','Paramus','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Arts of Paramus','Paramus','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">North Jersey Oral &amp; Maxillofacial Surgery</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/paramus/north-jersey-oral-maxillofacial-surgery.html" style="color:inherit;text-decoration:none;">North Jersey Oral &amp; Maxillofacial Surgery</a></h3>
         <p class="dentist-address">📍 81 Rte 4 Suite 201, Paramus, NJ 07652, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(960 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2016927737" class="dentist-btn dentist-btn-call" onclick="trackLead('North Jersey Oral &amp; Maxillofacial Surgery','call','Paramus','NJ')">📞 Call</a> <a href="https://northjerseyoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('North Jersey Oral &amp; Maxillofacial Surgery','website','Paramus','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2016927737" class="dentist-btn dentist-btn-call" onclick="trackLead('North Jersey Oral &amp; Maxillofacial Surgery','call','Paramus','NJ')">📞 Call</a> <a href="https://northjerseyoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('North Jersey Oral &amp; Maxillofacial Surgery','website','Paramus','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('North Jersey Oral &amp; Maxillofacial Surgery','Paramus','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">AC Dental Paramus - Dr Suzan Ghattas DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/paramus/ac-dental-paramus-dr-suzan-ghattas-dds.html" style="color:inherit;text-decoration:none;">AC Dental Paramus - Dr Suzan Ghattas DDS</a></h3>
         <p class="dentist-address">📍 4 Forest Ave #202, Paramus, NJ 07652, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(339 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2014891084" class="dentist-btn dentist-btn-call" onclick="trackLead('AC Dental Paramus - Dr Suzan Ghattas DDS','call','Paramus','NJ')">📞 Call</a> <a href="http://www.hackensackdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('AC Dental Paramus - Dr Suzan Ghattas DDS','website','Paramus','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2014891084" class="dentist-btn dentist-btn-call" onclick="trackLead('AC Dental Paramus - Dr Suzan Ghattas DDS','call','Paramus','NJ')">📞 Call</a> <a href="http://www.hackensackdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('AC Dental Paramus - Dr Suzan Ghattas DDS','website','Paramus','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('AC Dental Paramus - Dr Suzan Ghattas DDS','Paramus','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">The Town Dentist: Paramus Emergency Dental and Implant Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/paramus/the-town-dentist-paramus-emergency-dental-and-implant-center.html" style="color:inherit;text-decoration:none;">The Town Dentist: Paramus Emergency Dental and Implant Center</a></h3>
         <p class="dentist-address">📍 122 E Ridgewood Ave, Paramus, NJ 07652, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(326 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5512102363" class="dentist-btn dentist-btn-call" onclick="trackLead('The Town Dentist: Paramus Emergency Dental and Implant Center','call','Paramus','NJ')">📞 Call</a> <a href="https://thetowndentist.com/?UTM_source=GBP_Listing&amp;UTM_medium=Organic" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Town Dentist: Paramus Emergency Dental and Implant Center','website','Paramus','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5512102363" class="dentist-btn dentist-btn-call" onclick="trackLead('The Town Dentist: Paramus Emergency Dental and Implant Center','call','Paramus','NJ')">📞 Call</a> <a href="https://thetowndentist.com/?UTM_source=GBP_Listing&amp;UTM_medium=Organic" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Town Dentist: Paramus Emergency Dental and Implant Center','website','Paramus','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('The Town Dentist: Paramus Emergency Dental and Implant Center','Paramus','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Paramus Park Oral Surgery &amp; Dental Implant Studio</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/paramus/paramus-park-oral-surgery-dental-implant-studio.html" style="color:inherit;text-decoration:none;">Paramus Park Oral Surgery &amp; Dental Implant Studio</a></h3>
         <p class="dentist-address">📍 1615 Paramus Park, Paramus, NJ 07652, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(127 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2013454384" class="dentist-btn dentist-btn-call" onclick="trackLead('Paramus Park Oral Surgery &amp; Dental Implant Studio','call','Paramus','NJ')">📞 Call</a> <a href="https://www.paramusparkoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Paramus Park Oral Surgery &amp; Dental Implant Studio','website','Paramus','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2013454384" class="dentist-btn dentist-btn-call" onclick="trackLead('Paramus Park Oral Surgery &amp; Dental Implant Studio','call','Paramus','NJ')">📞 Call</a> <a href="https://www.paramusparkoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Paramus Park Oral Surgery &amp; Dental Implant Studio','website','Paramus','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Paramus Park Oral Surgery &amp; Dental Implant Studio','Paramus','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Health 360° - Paramus Emergency &amp; Family Dentist</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/paramus/dental-health-360-paramus-emergency-family-dentist.html" style="color:inherit;text-decoration:none;">Dental Health 360° - Paramus Emergency &amp; Family Dentist</a></h3>
         <p class="dentist-address">📍 501 NJ-17, Paramus, NJ 07652, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(261 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2018099566" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Health 360° - Paramus Emergency &amp; Family Dentist','call','Paramus','NJ')">📞 Call</a> <a href="https://www.dentalhealth360.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Health 360° - Paramus Emergency &amp; Family Dentist','website','Paramus','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2018099566" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Health 360° - Paramus Emergency &amp; Family Dentist','call','Paramus','NJ')">📞 Call</a> <a href="https://www.dentalhealth360.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Health 360° - Paramus Emergency &amp; Family Dentist','website','Paramus','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Health 360° - Paramus Emergency &amp; Family Dentist','Paramus','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Pristine Oral &amp; Maxillofacial Surgery</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/paramus/pristine-oral-maxillofacial-surgery.html" style="color:inherit;text-decoration:none;">Pristine Oral &amp; Maxillofacial Surgery</a></h3>
         <p class="dentist-address">📍 305 NJ-17 Suite 7, Paramus, NJ 07652, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(37 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2012018887" class="dentist-btn dentist-btn-call" onclick="trackLead('Pristine Oral &amp; Maxillofacial Surgery','call','Paramus','NJ')">📞 Call</a> <a href="https://www.pristineoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Pristine Oral &amp; Maxillofacial Surgery','website','Paramus','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2012018887" class="dentist-btn dentist-btn-call" onclick="trackLead('Pristine Oral &amp; Maxillofacial Surgery','call','Paramus','NJ')">📞 Call</a> <a href="https://www.pristineoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Pristine Oral &amp; Maxillofacial Surgery','website','Paramus','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Pristine Oral &amp; Maxillofacial Surgery','Paramus','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Paramus Dental Specialists</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/paramus/paramus-dental-specialists.html" style="color:inherit;text-decoration:none;">Paramus Dental Specialists</a></h3>
         <p class="dentist-address">📍 122 E Ridgewood Ave, Paramus, NJ 07652, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(34 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5515255528" class="dentist-btn dentist-btn-call" onclick="trackLead('Paramus Dental Specialists','call','Paramus','NJ')">📞 Call</a> <a href="https://paramusdentalspecialists.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Paramus Dental Specialists','website','Paramus','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5515255528" class="dentist-btn dentist-btn-call" onclick="trackLead('Paramus Dental Specialists','call','Paramus','NJ')">📞 Call</a> <a href="https://paramusdentalspecialists.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Paramus Dental Specialists','website','Paramus','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Paramus Dental Specialists','Paramus','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Aesthetic Dentistry - Elena Tsymbalova, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/paramus/aesthetic-dentistry-elena-tsymbalova-dds.html" style="color:inherit;text-decoration:none;">Aesthetic Dentistry - Elena Tsymbalova, DDS</a></h3>
         <p class="dentist-address">📍 42 Farview Terrace, Paramus, NJ 07652, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(31 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2018430672" class="dentist-btn dentist-btn-call" onclick="trackLead('Aesthetic Dentistry - Elena Tsymbalova, DDS','call','Paramus','NJ')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:2018430672" class="dentist-btn dentist-btn-call" onclick="trackLead('Aesthetic Dentistry - Elena Tsymbalova, DDS','call','Paramus','NJ')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Aesthetic Dentistry - Elena Tsymbalova, DDS','Paramus','NJ')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

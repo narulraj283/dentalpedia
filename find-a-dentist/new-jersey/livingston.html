@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 11 dentists in Livingston, New Jersey. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"New Jersey","item":"https://dentalpedia.co/find-a-dentist/new-jersey.html"},
+                {"@type":"ListItem","position":4,"name":"Livingston","item":"https://dentalpedia.co/find-a-dentist/new-jersey/livingston.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Livingston, NJ","numberOfItems":11,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Dental Artistry of Livingston: Dr. Koo","address":"201 S Livingston Ave #1e, Livingston, NJ 07039, USA","telephone":"(973) 250-6694"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Dental Associates of Livingston","address":"65 E Northfield Rd C, Livingston, NJ 07039, USA","telephone":"(973) 434-7449"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Joseph A Magotch, DDS, PA","address":"114 W Mt Pleasant Ave, Livingston, NJ 07039, USA","telephone":"(973) 617-1214"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"DK Dental Group, LLC","address":"124 E Mt Pleasant Ave Suite 2A, Livingston, NJ 07039, USA","telephone":"(973) 992-5724"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Livingston Dental Group","address":"66 E Mt Pleasant Ave, Livingston, NJ 07039, USA","telephone":"(973) 992-1918"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Living Smiles Dentistry: Dr. Ivy Injung Hwang","address":"114 S Livingston Ave, Livingston, NJ 07039, USA","telephone":"(973) 740-0222"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Livingston Dental Arts, LLC","address":"22 Old Short Hills Rd Suite # 211, Livingston, NJ 07039, USA","telephone":"(973) 994-7200"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Dentistry With A Smile, Inc.","address":"1100 Town Center Way #14Aii, Livingston, NJ 07039, USA","telephone":"(973) 740-9200"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"The Miller Center for Dental Excellence","address":"22 Old Short Hills Rd STE 206, Livingston, NJ 07039, USA","telephone":"(973) 533-0053"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"DR. MAJID NAVI","address":"290 S Livingston Ave Suite 3, Livingston, NJ 07039, USA","telephone":"(973) 992-2225"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Livingston Smiles - Steven Cohen, DMD","address":"154 S Livingston Ave Suite 107, Livingston, NJ 07039, USA","telephone":"(973) 992-4099"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/new-jersey.html">New Jersey</a> &rsaquo; Livingston</nav>
             <h1>Dentists in Livingston, NJ</h1>
@@ -85,70 +140,70 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Artistry of Livingston: Dr. Koo</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/livingston/dental-artistry-of-livingston-dr-koo.html" style="color:inherit;text-decoration:none;">Dental Artistry of Livingston: Dr. Koo</a></h3>
         <p class="dentist-address">📍 201 S Livingston Ave #1e, Livingston, NJ 07039, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(242 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9732506694" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Artistry of Livingston: Dr. Koo','call','Livingston','NJ')">📞 Call</a> <a href="https://dentalartistryliv.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Artistry of Livingston: Dr. Koo','website','Livingston','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9732506694" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Artistry of Livingston: Dr. Koo','call','Livingston','NJ')">📞 Call</a> <a href="https://dentalartistryliv.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Artistry of Livingston: Dr. Koo','website','Livingston','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Artistry of Livingston: Dr. Koo','Livingston','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Associates of Livingston</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/livingston/dental-associates-of-livingston.html" style="color:inherit;text-decoration:none;">Dental Associates of Livingston</a></h3>
         <p class="dentist-address">📍 65 E Northfield Rd C, Livingston, NJ 07039, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(240 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9734347449" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Associates of Livingston','call','Livingston','NJ')">📞 Call</a> <a href="https://www.dalivingston.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Associates of Livingston','website','Livingston','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9734347449" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Associates of Livingston','call','Livingston','NJ')">📞 Call</a> <a href="https://www.dalivingston.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Associates of Livingston','website','Livingston','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Associates of Livingston','Livingston','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Joseph A Magotch, DDS, PA</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/livingston/joseph-a-magotch-dds-pa.html" style="color:inherit;text-decoration:none;">Joseph A Magotch, DDS, PA</a></h3>
         <p class="dentist-address">📍 114 W Mt Pleasant Ave, Livingston, NJ 07039, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(464 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9736171214" class="dentist-btn dentist-btn-call" onclick="trackLead('Joseph A Magotch, DDS, PA','call','Livingston','NJ')">📞 Call</a> <a href="https://drmagotch.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Joseph A Magotch, DDS, PA','website','Livingston','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9736171214" class="dentist-btn dentist-btn-call" onclick="trackLead('Joseph A Magotch, DDS, PA','call','Livingston','NJ')">📞 Call</a> <a href="https://drmagotch.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Joseph A Magotch, DDS, PA','website','Livingston','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Joseph A Magotch, DDS, PA','Livingston','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">DK Dental Group, LLC</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/livingston/dk-dental-group-llc.html" style="color:inherit;text-decoration:none;">DK Dental Group, LLC</a></h3>
         <p class="dentist-address">📍 124 E Mt Pleasant Ave Suite 2A, Livingston, NJ 07039, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(347 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9739925724" class="dentist-btn dentist-btn-call" onclick="trackLead('DK Dental Group, LLC','call','Livingston','NJ')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:9739925724" class="dentist-btn dentist-btn-call" onclick="trackLead('DK Dental Group, LLC','call','Livingston','NJ')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('DK Dental Group, LLC','Livingston','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Livingston Dental Group</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/livingston/livingston-dental-group.html" style="color:inherit;text-decoration:none;">Livingston Dental Group</a></h3>
         <p class="dentist-address">📍 66 E Mt Pleasant Ave, Livingston, NJ 07039, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(335 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9739921918" class="dentist-btn dentist-btn-call" onclick="trackLead('Livingston Dental Group','call','Livingston','NJ')">📞 Call</a> <a href="https://www.livingstondentalgroup.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Livingston Dental Group','website','Livingston','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9739921918" class="dentist-btn dentist-btn-call" onclick="trackLead('Livingston Dental Group','call','Livingston','NJ')">📞 Call</a> <a href="https://www.livingstondentalgroup.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Livingston Dental Group','website','Livingston','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Livingston Dental Group','Livingston','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Living Smiles Dentistry: Dr. Ivy Injung Hwang</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/livingston/living-smiles-dentistry-dr-ivy-injung-hwang.html" style="color:inherit;text-decoration:none;">Living Smiles Dentistry: Dr. Ivy Injung Hwang</a></h3>
         <p class="dentist-address">📍 114 S Livingston Ave, Livingston, NJ 07039, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(253 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9737400222" class="dentist-btn dentist-btn-call" onclick="trackLead('Living Smiles Dentistry: Dr. Ivy Injung Hwang','call','Livingston','NJ')">📞 Call</a> <a href="https://livingsmilesdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Living Smiles Dentistry: Dr. Ivy Injung Hwang','website','Livingston','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9737400222" class="dentist-btn dentist-btn-call" onclick="trackLead('Living Smiles Dentistry: Dr. Ivy Injung Hwang','call','Livingston','NJ')">📞 Call</a> <a href="https://livingsmilesdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Living Smiles Dentistry: Dr. Ivy Injung Hwang','website','Livingston','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Living Smiles Dentistry: Dr. Ivy Injung Hwang','Livingston','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Livingston Dental Arts, LLC</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/livingston/livingston-dental-arts-llc.html" style="color:inherit;text-decoration:none;">Livingston Dental Arts, LLC</a></h3>
         <p class="dentist-address">📍 22 Old Short Hills Rd Suite # 211, Livingston, NJ 07039, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(218 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9739947200" class="dentist-btn dentist-btn-call" onclick="trackLead('Livingston Dental Arts, LLC','call','Livingston','NJ')">📞 Call</a> <a href="https://www.livingstondentalarts.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Livingston Dental Arts, LLC','website','Livingston','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9739947200" class="dentist-btn dentist-btn-call" onclick="trackLead('Livingston Dental Arts, LLC','call','Livingston','NJ')">📞 Call</a> <a href="https://www.livingstondentalarts.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Livingston Dental Arts, LLC','website','Livingston','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Livingston Dental Arts, LLC','Livingston','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dentistry With A Smile, Inc.</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/livingston/dentistry-with-a-smile-inc.html" style="color:inherit;text-decoration:none;">Dentistry With A Smile, Inc.</a></h3>
         <p class="dentist-address">📍 1100 Town Center Way #14Aii, Livingston, NJ 07039, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(52 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9737409200" class="dentist-btn dentist-btn-call" onclick="trackLead('Dentistry With A Smile, Inc.','call','Livingston','NJ')">📞 Call</a> <a href="https://www.dentistrywithasmilenj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dentistry With A Smile, Inc.','website','Livingston','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9737409200" class="dentist-btn dentist-btn-call" onclick="trackLead('Dentistry With A Smile, Inc.','call','Livingston','NJ')">📞 Call</a> <a href="https://www.dentistrywithasmilenj.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dentistry With A Smile, Inc.','website','Livingston','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dentistry With A Smile, Inc.','Livingston','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">The Miller Center for Dental Excellence</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/livingston/the-miller-center-for-dental-excellence.html" style="color:inherit;text-decoration:none;">The Miller Center for Dental Excellence</a></h3>
         <p class="dentist-address">📍 22 Old Short Hills Rd STE 206, Livingston, NJ 07039, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(205 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9735330053" class="dentist-btn dentist-btn-call" onclick="trackLead('The Miller Center for Dental Excellence','call','Livingston','NJ')">📞 Call</a> <a href="https://dental.themillercenter.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Miller Center for Dental Excellence','website','Livingston','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9735330053" class="dentist-btn dentist-btn-call" onclick="trackLead('The Miller Center for Dental Excellence','call','Livingston','NJ')">📞 Call</a> <a href="https://dental.themillercenter.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Miller Center for Dental Excellence','website','Livingston','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('The Miller Center for Dental Excellence','Livingston','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">DR. MAJID NAVI</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/livingston/dr-majid-navi.html" style="color:inherit;text-decoration:none;">DR. MAJID NAVI</a></h3>
         <p class="dentist-address">📍 290 S Livingston Ave Suite 3, Livingston, NJ 07039, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(192 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9739922225" class="dentist-btn dentist-btn-call" onclick="trackLead('DR. MAJID NAVI','call','Livingston','NJ')">📞 Call</a> <a href="https://www.livingstonadvanceddentistry.co/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('DR. MAJID NAVI','website','Livingston','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9739922225" class="dentist-btn dentist-btn-call" onclick="trackLead('DR. MAJID NAVI','call','Livingston','NJ')">📞 Call</a> <a href="https://www.livingstonadvanceddentistry.co/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('DR. MAJID NAVI','website','Livingston','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('DR. MAJID NAVI','Livingston','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Livingston Smiles - Steven Cohen, DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/livingston/livingston-smiles-steven-cohen-dmd.html" style="color:inherit;text-decoration:none;">Livingston Smiles - Steven Cohen, DMD</a></h3>
         <p class="dentist-address">📍 154 S Livingston Ave Suite 107, Livingston, NJ 07039, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(89 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9739924099" class="dentist-btn dentist-btn-call" onclick="trackLead('Livingston Smiles - Steven Cohen, DMD','call','Livingston','NJ')">📞 Call</a> <a href="http://www.livingstonsmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Livingston Smiles - Steven Cohen, DMD','website','Livingston','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9739924099" class="dentist-btn dentist-btn-call" onclick="trackLead('Livingston Smiles - Steven Cohen, DMD','call','Livingston','NJ')">📞 Call</a> <a href="http://www.livingstonsmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Livingston Smiles - Steven Cohen, DMD','website','Livingston','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Livingston Smiles - Steven Cohen, DMD','Livingston','NJ')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

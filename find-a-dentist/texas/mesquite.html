@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 12 dentists in Mesquite, Texas. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Texas","item":"https://dentalpedia.co/find-a-dentist/texas.html"},
+                {"@type":"ListItem","position":4,"name":"Mesquite","item":"https://dentalpedia.co/find-a-dentist/texas/mesquite.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Mesquite, TX","numberOfItems":12,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Inspire Dental &amp; Orthodontics - Mesquite","address":"909 Tripp Rd Ste. 190, Mesquite, TX 75150, USA","telephone":"(972) 408-4003"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Artico Dental + Kids Mesquite","address":"1300 N Town E Blvd # 100, Mesquite, TX 75150, USA","telephone":"(469) 699-0550"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"OS Dental (Formerly Byron McKnight, DDS)","address":"2856 N Galloway Ave, Mesquite, TX 75150, USA","telephone":"(469) 829-4328"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Fresh 32 Family Dentistry","address":"2585 Faithon P Lucas Sr Blvd Suite 100, Mesquite, TX 75181, USA","telephone":"(469) 730-0090"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Riviera Family Dentistry of Mesquite","address":"955 W Cartwright Rd, Mesquite, TX 75149, USA","telephone":"(214) 764-0112"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Smile Heroes Dental &amp; Orthodontics","address":"500 N Galloway Ave #6, Mesquite, TX 75149, USA","telephone":"(469) 399-0203"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Love 2 Smile Dental","address":"1050 N Bryan-Belt Line Rd Ste 102, Mesquite, TX 75149, USA","telephone":"(972) 232-7282"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Clean Dental - Mesquite","address":"4402 Gus Thomasson Rd Suite A, Mesquite, TX 75150, USA","telephone":"(214) 736-2405"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Oval Dental Mesquite","address":"5550 S Buckner Blvd #270, Mesquite, TX 75149, USA","telephone":"(972) 635-8555"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"TrueCare Dentistry","address":"1080 E Cartwright Rd Ste 180, Mesquite, TX 75149, USA","telephone":"(469) 399-7288"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Affordable Dentures &amp; Implants","address":"1704 Military Pkwy Suite 700, Mesquite, TX 75149, USA","telephone":"(945) 468-7585"}},{"@type":"ListItem","position":12,"item":{"@type":"Dentist","name":"Smile For All Dental","address":"301 W Grubb Dr, Mesquite, TX 75149, USA","telephone":"(469) 547-1937"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/texas.html">Texas</a> &rsaquo; Mesquite</nav>
             <h1>Dentists in Mesquite, TX</h1>
@@ -85,76 +140,76 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Inspire Dental &amp; Orthodontics - Mesquite</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/mesquite/inspire-dental-orthodontics-mesquite.html" style="color:inherit;text-decoration:none;">Inspire Dental &amp; Orthodontics - Mesquite</a></h3>
         <p class="dentist-address">📍 909 Tripp Rd Ste. 190, Mesquite, TX 75150, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(1,217 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9724084003" class="dentist-btn dentist-btn-call" onclick="trackLead('Inspire Dental &amp; Orthodontics - Mesquite','call','Mesquite','TX')">📞 Call</a> <a href="https://inspiredentaldallas.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Inspire Dental &amp; Orthodontics - Mesquite','website','Mesquite','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9724084003" class="dentist-btn dentist-btn-call" onclick="trackLead('Inspire Dental &amp; Orthodontics - Mesquite','call','Mesquite','TX')">📞 Call</a> <a href="https://inspiredentaldallas.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Inspire Dental &amp; Orthodontics - Mesquite','website','Mesquite','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Inspire Dental &amp; Orthodontics - Mesquite','Mesquite','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Artico Dental + Kids Mesquite</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/mesquite/artico-dental-kids-mesquite.html" style="color:inherit;text-decoration:none;">Artico Dental + Kids Mesquite</a></h3>
         <p class="dentist-address">📍 1300 N Town E Blvd # 100, Mesquite, TX 75150, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(764 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4696990550" class="dentist-btn dentist-btn-call" onclick="trackLead('Artico Dental + Kids Mesquite','call','Mesquite','TX')">📞 Call</a> <a href="https://articodental.com/mesquite/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Artico Dental + Kids Mesquite','website','Mesquite','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4696990550" class="dentist-btn dentist-btn-call" onclick="trackLead('Artico Dental + Kids Mesquite','call','Mesquite','TX')">📞 Call</a> <a href="https://articodental.com/mesquite/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Artico Dental + Kids Mesquite','website','Mesquite','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Artico Dental + Kids Mesquite','Mesquite','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">OS Dental (Formerly Byron McKnight, DDS)</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/mesquite/os-dental-formerly-byron-mcknight-dds.html" style="color:inherit;text-decoration:none;">OS Dental (Formerly Byron McKnight, DDS)</a></h3>
         <p class="dentist-address">📍 2856 N Galloway Ave, Mesquite, TX 75150, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(611 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4698294328" class="dentist-btn dentist-btn-call" onclick="trackLead('OS Dental (Formerly Byron McKnight, DDS)','call','Mesquite','TX')">📞 Call</a> <a href="https://www.mcknightdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('OS Dental (Formerly Byron McKnight, DDS)','website','Mesquite','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4698294328" class="dentist-btn dentist-btn-call" onclick="trackLead('OS Dental (Formerly Byron McKnight, DDS)','call','Mesquite','TX')">📞 Call</a> <a href="https://www.mcknightdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('OS Dental (Formerly Byron McKnight, DDS)','website','Mesquite','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('OS Dental (Formerly Byron McKnight, DDS)','Mesquite','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Fresh 32 Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/mesquite/fresh-32-family-dentistry.html" style="color:inherit;text-decoration:none;">Fresh 32 Family Dentistry</a></h3>
         <p class="dentist-address">📍 2585 Faithon P Lucas Sr Blvd Suite 100, Mesquite, TX 75181, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(326 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4697300090" class="dentist-btn dentist-btn-call" onclick="trackLead('Fresh 32 Family Dentistry','call','Mesquite','TX')">📞 Call</a> <a href="https://www.fresh32.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Fresh 32 Family Dentistry','website','Mesquite','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4697300090" class="dentist-btn dentist-btn-call" onclick="trackLead('Fresh 32 Family Dentistry','call','Mesquite','TX')">📞 Call</a> <a href="https://www.fresh32.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Fresh 32 Family Dentistry','website','Mesquite','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Fresh 32 Family Dentistry','Mesquite','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Riviera Family Dentistry of Mesquite</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/mesquite/riviera-family-dentistry-of-mesquite.html" style="color:inherit;text-decoration:none;">Riviera Family Dentistry of Mesquite</a></h3>
         <p class="dentist-address">📍 955 W Cartwright Rd, Mesquite, TX 75149, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(1,344 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2147640112" class="dentist-btn dentist-btn-call" onclick="trackLead('Riviera Family Dentistry of Mesquite','call','Mesquite','TX')">📞 Call</a> <a href="https://www.rivierafamilydentistryofmesquite.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Riviera Family Dentistry of Mesquite','website','Mesquite','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2147640112" class="dentist-btn dentist-btn-call" onclick="trackLead('Riviera Family Dentistry of Mesquite','call','Mesquite','TX')">📞 Call</a> <a href="https://www.rivierafamilydentistryofmesquite.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Riviera Family Dentistry of Mesquite','website','Mesquite','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Riviera Family Dentistry of Mesquite','Mesquite','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smile Heroes Dental &amp; Orthodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/mesquite/smile-heroes-dental-orthodontics.html" style="color:inherit;text-decoration:none;">Smile Heroes Dental &amp; Orthodontics</a></h3>
         <p class="dentist-address">📍 500 N Galloway Ave #6, Mesquite, TX 75149, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(539 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4693990203" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Heroes Dental &amp; Orthodontics','call','Mesquite','TX')">📞 Call</a> <a href="https://www.smileheroesmesquite.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Heroes Dental &amp; Orthodontics','website','Mesquite','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4693990203" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Heroes Dental &amp; Orthodontics','call','Mesquite','TX')">📞 Call</a> <a href="https://www.smileheroesmesquite.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Heroes Dental &amp; Orthodontics','website','Mesquite','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smile Heroes Dental &amp; Orthodontics','Mesquite','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Love 2 Smile Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/mesquite/love-2-smile-dental.html" style="color:inherit;text-decoration:none;">Love 2 Smile Dental</a></h3>
         <p class="dentist-address">📍 1050 N Bryan-Belt Line Rd Ste 102, Mesquite, TX 75149, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(440 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9722327282" class="dentist-btn dentist-btn-call" onclick="trackLead('Love 2 Smile Dental','call','Mesquite','TX')">📞 Call</a> <a href="https://www.love2smiledental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Love 2 Smile Dental','website','Mesquite','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9722327282" class="dentist-btn dentist-btn-call" onclick="trackLead('Love 2 Smile Dental','call','Mesquite','TX')">📞 Call</a> <a href="https://www.love2smiledental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Love 2 Smile Dental','website','Mesquite','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Love 2 Smile Dental','Mesquite','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Clean Dental - Mesquite</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/mesquite/clean-dental-mesquite.html" style="color:inherit;text-decoration:none;">Clean Dental - Mesquite</a></h3>
         <p class="dentist-address">📍 4402 Gus Thomasson Rd Suite A, Mesquite, TX 75150, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(323 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2147362405" class="dentist-btn dentist-btn-call" onclick="trackLead('Clean Dental - Mesquite','call','Mesquite','TX')">📞 Call</a> <a href="https://cleandental.net/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Clean Dental - Mesquite','website','Mesquite','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2147362405" class="dentist-btn dentist-btn-call" onclick="trackLead('Clean Dental - Mesquite','call','Mesquite','TX')">📞 Call</a> <a href="https://cleandental.net/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Clean Dental - Mesquite','website','Mesquite','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Clean Dental - Mesquite','Mesquite','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Oval Dental Mesquite</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/mesquite/oval-dental-mesquite.html" style="color:inherit;text-decoration:none;">Oval Dental Mesquite</a></h3>
         <p class="dentist-address">📍 5550 S Buckner Blvd #270, Mesquite, TX 75149, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(156 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9726358555" class="dentist-btn dentist-btn-call" onclick="trackLead('Oval Dental Mesquite','call','Mesquite','TX')">📞 Call</a> <a href="https://mesquitedentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oval Dental Mesquite','website','Mesquite','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9726358555" class="dentist-btn dentist-btn-call" onclick="trackLead('Oval Dental Mesquite','call','Mesquite','TX')">📞 Call</a> <a href="https://mesquitedentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Oval Dental Mesquite','website','Mesquite','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Oval Dental Mesquite','Mesquite','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">TrueCare Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/mesquite/truecare-dentistry.html" style="color:inherit;text-decoration:none;">TrueCare Dentistry</a></h3>
         <p class="dentist-address">📍 1080 E Cartwright Rd Ste 180, Mesquite, TX 75149, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(317 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4693997288" class="dentist-btn dentist-btn-call" onclick="trackLead('TrueCare Dentistry','call','Mesquite','TX')">📞 Call</a> <a href="https://www.mytruecaredentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('TrueCare Dentistry','website','Mesquite','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4693997288" class="dentist-btn dentist-btn-call" onclick="trackLead('TrueCare Dentistry','call','Mesquite','TX')">📞 Call</a> <a href="https://www.mytruecaredentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('TrueCare Dentistry','website','Mesquite','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('TrueCare Dentistry','Mesquite','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Affordable Dentures &amp; Implants</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/mesquite/affordable-dentures-implants.html" style="color:inherit;text-decoration:none;">Affordable Dentures &amp; Implants</a></h3>
         <p class="dentist-address">📍 1704 Military Pkwy Suite 700, Mesquite, TX 75149, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(741 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9454687585" class="dentist-btn dentist-btn-call" onclick="trackLead('Affordable Dentures &amp; Implants','call','Mesquite','TX')">📞 Call</a> <a href="https://www.affordabledentures.com/locations/tx/mesquite-south" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Affordable Dentures &amp; Implants','website','Mesquite','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9454687585" class="dentist-btn dentist-btn-call" onclick="trackLead('Affordable Dentures &amp; Implants','call','Mesquite','TX')">📞 Call</a> <a href="https://www.affordabledentures.com/locations/tx/mesquite-south" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Affordable Dentures &amp; Implants','website','Mesquite','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Affordable Dentures &amp; Implants','Mesquite','TX')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smile For All Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/texas/mesquite/smile-for-all-dental.html" style="color:inherit;text-decoration:none;">Smile For All Dental</a></h3>
         <p class="dentist-address">📍 301 W Grubb Dr, Mesquite, TX 75149, USA</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(16 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4695471937" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile For All Dental','call','Mesquite','TX')">📞 Call</a> <a href="http://smile-for-all-dental.jany.io/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile For All Dental','website','Mesquite','TX')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4695471937" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile For All Dental','call','Mesquite','TX')">📞 Call</a> <a href="http://smile-for-all-dental.jany.io/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile For All Dental','website','Mesquite','TX')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smile For All Dental','Mesquite','TX')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

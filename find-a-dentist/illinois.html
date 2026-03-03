@@ -18,9 +18,14 @@
     <meta name="twitter:title" content="Find a Dentist in Illinois | DentalPedia">
     <meta name="twitter:description" content="Find top-rated dentists in Illinois. Browse 1,727 dental practices across 362 cities with ratings, phone numbers, and websites.">
         
-    
+    <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+            {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+            {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+            {"@type":"ListItem","position":3,"name":"Illinois","item":"https://dentalpedia.co/find-a-dentist/illinois.html"}
+        ]}</script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -75,7 +80,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
         <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; Illinois</nav>
         <h1>Find a Dentist in Illinois</h1>
@@ -87,76 +140,76 @@
         <h2>Top-Rated Dentists in Illinois</h2>
         <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Precision Dental Care | S Pulaski Rd</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/chicago/precision-dental-care-s-pulaski-rd.html" style="color:inherit;text-decoration:none;">Precision Dental Care | S Pulaski Rd</a></h3>
         <p class="dentist-address">📍 6930 S Pulaski Rd, Chicago, IL 60629, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(3,448 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7738253114" class="dentist-btn dentist-btn-call" onclick="trackLead('Precision Dental Care | S Pulaski Rd','call','Chicago','IL')">📞 Call</a> <a href="https://precisiondentalchicago.com/our-locations/#s-pulaski" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Precision Dental Care | S Pulaski Rd','website','Chicago','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7738253114" class="dentist-btn dentist-btn-call" onclick="trackLead('Precision Dental Care | S Pulaski Rd','call','Chicago','IL')">📞 Call</a> <a href="https://precisiondentalchicago.com/our-locations/#s-pulaski" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Precision Dental Care | S Pulaski Rd','website','Chicago','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Precision Dental Care | S Pulaski Rd','Chicago','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Precision Dental Care | W Belmont Ave</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/chicago/precision-dental-care-w-belmont-ave.html" style="color:inherit;text-decoration:none;">Precision Dental Care | W Belmont Ave</a></h3>
         <p class="dentist-address">📍 5745 W Belmont Ave, Chicago, IL 60634, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(2,523 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7738259802" class="dentist-btn dentist-btn-call" onclick="trackLead('Precision Dental Care | W Belmont Ave','call','Chicago','IL')">📞 Call</a> <a href="https://precisiondentalchicago.com/our-locations/#w-belmont" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Precision Dental Care | W Belmont Ave','website','Chicago','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7738259802" class="dentist-btn dentist-btn-call" onclick="trackLead('Precision Dental Care | W Belmont Ave','call','Chicago','IL')">📞 Call</a> <a href="https://precisiondentalchicago.com/our-locations/#w-belmont" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Precision Dental Care | W Belmont Ave','website','Chicago','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Precision Dental Care | W Belmont Ave','Chicago','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Precision Dental Care N Pulaski</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/chicago/precision-dental-care-n-pulaski.html" style="color:inherit;text-decoration:none;">Precision Dental Care N Pulaski</a></h3>
         <p class="dentist-address">📍 4830 N Pulaski Rd Ste 108, Chicago, IL 60630, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(2,266 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7736941407" class="dentist-btn dentist-btn-call" onclick="trackLead('Precision Dental Care N Pulaski','call','Chicago','IL')">📞 Call</a> <a href="https://precisiondentalchicago.com/our-locations/#n-pulaski" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Precision Dental Care N Pulaski','website','Chicago','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7736941407" class="dentist-btn dentist-btn-call" onclick="trackLead('Precision Dental Care N Pulaski','call','Chicago','IL')">📞 Call</a> <a href="https://precisiondentalchicago.com/our-locations/#n-pulaski" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Precision Dental Care N Pulaski','website','Chicago','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Precision Dental Care N Pulaski','Chicago','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">McGonigle Dental Associates</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/tinley-park/mcgonigle-dental-associates.html" style="color:inherit;text-decoration:none;">McGonigle Dental Associates</a></h3>
         <p class="dentist-address">📍 17519 80th Ave, Tinley Park, IL 60477, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(1,755 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7083009723" class="dentist-btn dentist-btn-call" onclick="trackLead('McGonigle Dental Associates','call','Tinley Park','IL')">📞 Call</a> <a href="https://www.mcgonigledental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('McGonigle Dental Associates','website','Tinley Park','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7083009723" class="dentist-btn dentist-btn-call" onclick="trackLead('McGonigle Dental Associates','call','Tinley Park','IL')">📞 Call</a> <a href="https://www.mcgonigledental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('McGonigle Dental Associates','website','Tinley Park','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('McGonigle Dental Associates','Tinley Park','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Pennino Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/barrington/pennino-family-dentistry.html" style="color:inherit;text-decoration:none;">Pennino Family Dentistry</a></h3>
         <p class="dentist-address">📍 203 W Northwest Hwy, Barrington, IL 60010, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(1,152 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8477131819" class="dentist-btn dentist-btn-call" onclick="trackLead('Pennino Family Dentistry','call','Barrington','IL')">📞 Call</a> <a href="https://penninofamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Pennino Family Dentistry','website','Barrington','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8477131819" class="dentist-btn dentist-btn-call" onclick="trackLead('Pennino Family Dentistry','call','Barrington','IL')">📞 Call</a> <a href="https://penninofamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Pennino Family Dentistry','website','Barrington','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Pennino Family Dentistry','Barrington','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Long Grove Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/long-grove/long-grove-dental.html" style="color:inherit;text-decoration:none;">Long Grove Dental</a></h3>
         <p class="dentist-address">📍 4160 IL-83 #102, Long Grove, IL 60047, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(1,108 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8476365020" class="dentist-btn dentist-btn-call" onclick="trackLead('Long Grove Dental','call','Long Grove','IL')">📞 Call</a> <a href="https://www.longgrovedental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Long Grove Dental','website','Long Grove','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8476365020" class="dentist-btn dentist-btn-call" onclick="trackLead('Long Grove Dental','call','Long Grove','IL')">📞 Call</a> <a href="https://www.longgrovedental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Long Grove Dental','website','Long Grove','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Long Grove Dental','Long Grove','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Smile Obsession - Streamwood</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/streamwood/smile-obsession-streamwood.html" style="color:inherit;text-decoration:none;">Smile Obsession - Streamwood</a></h3>
         <p class="dentist-address">📍 642 S Sutton Rd, Streamwood, IL 60107, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(1,025 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6302463356" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Obsession - Streamwood','call','Streamwood','IL')">📞 Call</a> <a href="https://smileobsession.com/dentist-near-me/streamwood/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Obsession - Streamwood','website','Streamwood','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6302463356" class="dentist-btn dentist-btn-call" onclick="trackLead('Smile Obsession - Streamwood','call','Streamwood','IL')">📞 Call</a> <a href="https://smileobsession.com/dentist-near-me/streamwood/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Smile Obsession - Streamwood','website','Streamwood','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Smile Obsession - Streamwood','Streamwood','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Broadway Dental Co.</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/chicago/broadway-dental-co.html" style="color:inherit;text-decoration:none;">Broadway Dental Co.</a></h3>
         <p class="dentist-address">📍 5155 N Broadway, Chicago, IL 60640, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(836 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7738087100" class="dentist-btn dentist-btn-call" onclick="trackLead('Broadway Dental Co.','call','Chicago','IL')">📞 Call</a> <a href="https://www.broadwaydentalco.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Broadway Dental Co.','website','Chicago','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7738087100" class="dentist-btn dentist-btn-call" onclick="trackLead('Broadway Dental Co.','call','Chicago','IL')">📞 Call</a> <a href="https://www.broadwaydentalco.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Broadway Dental Co.','website','Chicago','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Broadway Dental Co.','Chicago','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Family Roots Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/mchenry/family-roots-dentistry.html" style="color:inherit;text-decoration:none;">Family Roots Dentistry</a></h3>
         <p class="dentist-address">📍 4811 W Crystal Lake Rd, McHenry, IL 60050, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(831 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8153854411" class="dentist-btn dentist-btn-call" onclick="trackLead('Family Roots Dentistry','call','McHenry','IL')">📞 Call</a> <a href="http://www.familyrootsdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Family Roots Dentistry','website','McHenry','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8153854411" class="dentist-btn dentist-btn-call" onclick="trackLead('Family Roots Dentistry','call','McHenry','IL')">📞 Call</a> <a href="http://www.familyrootsdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Family Roots Dentistry','website','McHenry','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Family Roots Dentistry','McHenry','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">My Tooth Docs</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/south-holland/my-tooth-docs.html" style="color:inherit;text-decoration:none;">My Tooth Docs</a></h3>
         <p class="dentist-address">📍 16240 Louis Ave, South Holland, IL 60473, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(813 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7083332909" class="dentist-btn dentist-btn-call" onclick="trackLead('My Tooth Docs','call','South Holland','IL')">📞 Call</a> <a href="http://mytoothdocs.life/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('My Tooth Docs','website','South Holland','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7083332909" class="dentist-btn dentist-btn-call" onclick="trackLead('My Tooth Docs','call','South Holland','IL')">📞 Call</a> <a href="http://mytoothdocs.life/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('My Tooth Docs','website','South Holland','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('My Tooth Docs','South Holland','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">McCall Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/geneva/mccall-family-dentistry.html" style="color:inherit;text-decoration:none;">McCall Family Dentistry</a></h3>
         <p class="dentist-address">📍 407 Williamsburg Ave, Geneva, IL 60134, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(789 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6302329620" class="dentist-btn dentist-btn-call" onclick="trackLead('McCall Family Dentistry','call','Geneva','IL')">📞 Call</a> <a href="http://www.mccallfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('McCall Family Dentistry','website','Geneva','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6302329620" class="dentist-btn dentist-btn-call" onclick="trackLead('McCall Family Dentistry','call','Geneva','IL')">📞 Call</a> <a href="http://www.mccallfamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('McCall Family Dentistry','website','Geneva','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('McCall Family Dentistry','Geneva','IL')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Collins Dental Group, P.C.</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/illinois/sycamore/collins-dental-group-p-c.html" style="color:inherit;text-decoration:none;">Collins Dental Group, P.C.</a></h3>
         <p class="dentist-address">📍 2025 Aberdeen Ct, Sycamore, IL 60178, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(720 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8159914666" class="dentist-btn dentist-btn-call" onclick="trackLead('Collins Dental Group, P.C.','call','Sycamore','IL')">📞 Call</a> <a href="https://collinsdentalgroup.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Collins Dental Group, P.C.','website','Sycamore','IL')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8159914666" class="dentist-btn dentist-btn-call" onclick="trackLead('Collins Dental Group, P.C.','call','Sycamore','IL')">📞 Call</a> <a href="https://collinsdentalgroup.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Collins Dental Group, P.C.','website','Sycamore','IL')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Collins Dental Group, P.C.','Sycamore','IL')">📅 Request Appointment</button></div>
     </div></div>
         <div class="share-buttons">
     <span class="share-label">Share this page</span>

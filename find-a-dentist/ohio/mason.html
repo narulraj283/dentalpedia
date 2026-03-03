@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 5 dentists in Mason, Ohio. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Ohio","item":"https://dentalpedia.co/find-a-dentist/ohio.html"},
+                {"@type":"ListItem","position":4,"name":"Mason","item":"https://dentalpedia.co/find-a-dentist/ohio/mason.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Mason, OH","numberOfItems":5,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Hardin Advanced Dentistry","address":"5350 Socialville-Foster Rd, Mason, OH 45040, USA","telephone":"(513) 216-2935"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Miami Valley Smiles","address":"4200 Aero Dr suite k, Mason, OH 45040, USA","telephone":"(513) 398-0038"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Wise Dental Care","address":"6213 Snider Rd STE B, Mason, OH 45040, USA","telephone":"(513) 405-9570"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Dental Mason: Hamid Madani, DMD","address":"6408 Thornberry Ct Ste 120, Mason, OH 45040, USA","telephone":"(326) 222-3974"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Healthy Smiles Dental Care","address":"668 Reading Rd ste a, Mason, OH 45040, USA","telephone":"(513) 339-1032"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/ohio.html">Ohio</a> &rsaquo; Mason</nav>
             <h1>Dentists in Mason, OH</h1>
@@ -85,34 +140,34 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Hardin Advanced Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/ohio/mason/hardin-advanced-dentistry.html" style="color:inherit;text-decoration:none;">Hardin Advanced Dentistry</a></h3>
         <p class="dentist-address">📍 5350 Socialville-Foster Rd, Mason, OH 45040, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(1,097 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5132162935" class="dentist-btn dentist-btn-call" onclick="trackLead('Hardin Advanced Dentistry','call','Mason','OH')">📞 Call</a> <a href="https://www.hardindental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hardin Advanced Dentistry','website','Mason','OH')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5132162935" class="dentist-btn dentist-btn-call" onclick="trackLead('Hardin Advanced Dentistry','call','Mason','OH')">📞 Call</a> <a href="https://www.hardindental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hardin Advanced Dentistry','website','Mason','OH')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Hardin Advanced Dentistry','Mason','OH')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Miami Valley Smiles</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/ohio/mason/miami-valley-smiles.html" style="color:inherit;text-decoration:none;">Miami Valley Smiles</a></h3>
         <p class="dentist-address">📍 4200 Aero Dr suite k, Mason, OH 45040, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(510 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5133980038" class="dentist-btn dentist-btn-call" onclick="trackLead('Miami Valley Smiles','call','Mason','OH')">📞 Call</a> <a href="http://miamivalleysmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Miami Valley Smiles','website','Mason','OH')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5133980038" class="dentist-btn dentist-btn-call" onclick="trackLead('Miami Valley Smiles','call','Mason','OH')">📞 Call</a> <a href="http://miamivalleysmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Miami Valley Smiles','website','Mason','OH')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Miami Valley Smiles','Mason','OH')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Wise Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/ohio/mason/wise-dental-care.html" style="color:inherit;text-decoration:none;">Wise Dental Care</a></h3>
         <p class="dentist-address">📍 6213 Snider Rd STE B, Mason, OH 45040, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(190 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5134059570" class="dentist-btn dentist-btn-call" onclick="trackLead('Wise Dental Care','call','Mason','OH')">📞 Call</a> <a href="http://wisedentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Wise Dental Care','website','Mason','OH')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5134059570" class="dentist-btn dentist-btn-call" onclick="trackLead('Wise Dental Care','call','Mason','OH')">📞 Call</a> <a href="http://wisedentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Wise Dental Care','website','Mason','OH')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Wise Dental Care','Mason','OH')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Mason: Hamid Madani, DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/ohio/mason/dental-mason-hamid-madani-dmd.html" style="color:inherit;text-decoration:none;">Dental Mason: Hamid Madani, DMD</a></h3>
         <p class="dentist-address">📍 6408 Thornberry Ct Ste 120, Mason, OH 45040, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(218 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3262223974" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Mason: Hamid Madani, DMD','call','Mason','OH')">📞 Call</a> <a href="https://www.masondental.net/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Mason: Hamid Madani, DMD','website','Mason','OH')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3262223974" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Mason: Hamid Madani, DMD','call','Mason','OH')">📞 Call</a> <a href="https://www.masondental.net/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Mason: Hamid Madani, DMD','website','Mason','OH')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Mason: Hamid Madani, DMD','Mason','OH')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Healthy Smiles Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/ohio/mason/healthy-smiles-dental-care.html" style="color:inherit;text-decoration:none;">Healthy Smiles Dental Care</a></h3>
         <p class="dentist-address">📍 668 Reading Rd ste a, Mason, OH 45040, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(109 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5133391032" class="dentist-btn dentist-btn-call" onclick="trackLead('Healthy Smiles Dental Care','call','Mason','OH')">📞 Call</a> <a href="http://healthysmilesmason.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Healthy Smiles Dental Care','website','Mason','OH')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5133391032" class="dentist-btn dentist-btn-call" onclick="trackLead('Healthy Smiles Dental Care','call','Mason','OH')">📞 Call</a> <a href="http://healthysmilesmason.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Healthy Smiles Dental Care','website','Mason','OH')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Healthy Smiles Dental Care','Mason','OH')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

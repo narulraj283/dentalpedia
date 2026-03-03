@@ -18,9 +18,14 @@
     <meta name="twitter:title" content="Find a Dentist in Montana | DentalPedia">
     <meta name="twitter:description" content="Find top-rated dentists in Montana. Browse 111 dental practices across 41 cities with ratings, phone numbers, and websites.">
         
-    
+    <script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+            {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+            {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+            {"@type":"ListItem","position":3,"name":"Montana","item":"https://dentalpedia.co/find-a-dentist/montana.html"}
+        ]}</script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -75,7 +80,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
         <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; Montana</nav>
         <h1>Find a Dentist in Montana</h1>
@@ -87,76 +140,76 @@
         <h2>Top-Rated Dentists in Montana</h2>
         <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Homegrown Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/montana/great-falls/homegrown-dental.html" style="color:inherit;text-decoration:none;">Homegrown Dental</a></h3>
         <p class="dentist-address">📍 2507 6th Ave S, Great Falls, MT 59405, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(621 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4067601077" class="dentist-btn dentist-btn-call" onclick="trackLead('Homegrown Dental','call','Great Falls','MT')">📞 Call</a> <a href="https://www.yourgreatfallsdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Homegrown Dental','website','Great Falls','MT')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4067601077" class="dentist-btn dentist-btn-call" onclick="trackLead('Homegrown Dental','call','Great Falls','MT')">📞 Call</a> <a href="https://www.yourgreatfallsdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Homegrown Dental','website','Great Falls','MT')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Homegrown Dental','Great Falls','MT')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. Spencer Zaugg, Family &amp; Implant Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/montana/billings/dr-spencer-zaugg-family-implant-dentistry.html" style="color:inherit;text-decoration:none;">Dr. Spencer Zaugg, Family &amp; Implant Dentistry</a></h3>
         <p class="dentist-address">📍 176 S 32nd St W Suite 2, Billings, MT 59102, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(534 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4066550887" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Spencer Zaugg, Family &amp; Implant Dentistry','call','Billings','MT')">📞 Call</a> <a href="https://longliveyoursmile.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Spencer Zaugg, Family &amp; Implant Dentistry','website','Billings','MT')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4066550887" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Spencer Zaugg, Family &amp; Implant Dentistry','call','Billings','MT')">📞 Call</a> <a href="https://longliveyoursmile.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Spencer Zaugg, Family &amp; Implant Dentistry','website','Billings','MT')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. Spencer Zaugg, Family &amp; Implant Dentistry','Billings','MT')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Big Sky Dental Clinic: Chris Clave DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/montana/polson/big-sky-dental-clinic-chris-clave-dmd.html" style="color:inherit;text-decoration:none;">Big Sky Dental Clinic: Chris Clave DMD</a></h3>
         <p class="dentist-address">📍 102 1st Ave E, Polson, MT 59860, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(517 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4068720658" class="dentist-btn dentist-btn-call" onclick="trackLead('Big Sky Dental Clinic: Chris Clave DMD','call','Polson','MT')">📞 Call</a> <a href="https://bigskydentalclinic.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Big Sky Dental Clinic: Chris Clave DMD','website','Polson','MT')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4068720658" class="dentist-btn dentist-btn-call" onclick="trackLead('Big Sky Dental Clinic: Chris Clave DMD','call','Polson','MT')">📞 Call</a> <a href="https://bigskydentalclinic.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Big Sky Dental Clinic: Chris Clave DMD','website','Polson','MT')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Big Sky Dental Clinic: Chris Clave DMD','Polson','MT')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Neal C. Johnson DMD - The Billings Dentist</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/montana/billings/neal-c-johnson-dmd-the-billings-dentist.html" style="color:inherit;text-decoration:none;">Neal C. Johnson DMD - The Billings Dentist</a></h3>
         <p class="dentist-address">📍 176 S 32nd St W Suite 3, Billings, MT 59102, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(327 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4068519977" class="dentist-btn dentist-btn-call" onclick="trackLead('Neal C. Johnson DMD - The Billings Dentist','call','Billings','MT')">📞 Call</a> <a href="https://www.thebillingsdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Neal C. Johnson DMD - The Billings Dentist','website','Billings','MT')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4068519977" class="dentist-btn dentist-btn-call" onclick="trackLead('Neal C. Johnson DMD - The Billings Dentist','call','Billings','MT')">📞 Call</a> <a href="https://www.thebillingsdentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Neal C. Johnson DMD - The Billings Dentist','website','Billings','MT')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Neal C. Johnson DMD - The Billings Dentist','Billings','MT')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Legacy Smiles</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/montana/billings/legacy-smiles.html" style="color:inherit;text-decoration:none;">Legacy Smiles</a></h3>
         <p class="dentist-address">📍 3737 Grand Ave Suite 8, Billings, MT 59102, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(150 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4066237056" class="dentist-btn dentist-btn-call" onclick="trackLead('Legacy Smiles','call','Billings','MT')">📞 Call</a> <a href="https://legacysmilesmt.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Legacy Smiles','website','Billings','MT')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4066237056" class="dentist-btn dentist-btn-call" onclick="trackLead('Legacy Smiles','call','Billings','MT')">📞 Call</a> <a href="https://legacysmilesmt.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Legacy Smiles','website','Billings','MT')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Legacy Smiles','Billings','MT')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Mountain View Pediatric Dentistry - Dr. Rich Nehring</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/montana/great-falls/mountain-view-pediatric-dentistry-dr-rich-nehring.html" style="color:inherit;text-decoration:none;">Mountain View Pediatric Dentistry - Dr. Rich Nehring</a></h3>
         <p class="dentist-address">📍 1600 9th St S, Great Falls, MT 59405, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(140 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4062051900" class="dentist-btn dentist-btn-call" onclick="trackLead('Mountain View Pediatric Dentistry - Dr. Rich Nehring','call','Great Falls','MT')">📞 Call</a> <a href="http://mtviewpediatricdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mountain View Pediatric Dentistry - Dr. Rich Nehring','website','Great Falls','MT')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4062051900" class="dentist-btn dentist-btn-call" onclick="trackLead('Mountain View Pediatric Dentistry - Dr. Rich Nehring','call','Great Falls','MT')">📞 Call</a> <a href="http://mtviewpediatricdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mountain View Pediatric Dentistry - Dr. Rich Nehring','website','Great Falls','MT')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Mountain View Pediatric Dentistry - Dr. Rich Nehring','Great Falls','MT')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Stone Dental Lodge</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/montana/bozeman/stone-dental-lodge.html" style="color:inherit;text-decoration:none;">Stone Dental Lodge</a></h3>
         <p class="dentist-address">📍 1450 Twin Lakes Ave Suite 101, Bozeman, MT 59718, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(138 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4065217314" class="dentist-btn dentist-btn-call" onclick="trackLead('Stone Dental Lodge','call','Bozeman','MT')">📞 Call</a> <a href="https://stonedentallodge.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Stone Dental Lodge','website','Bozeman','MT')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4065217314" class="dentist-btn dentist-btn-call" onclick="trackLead('Stone Dental Lodge','call','Bozeman','MT')">📞 Call</a> <a href="https://stonedentallodge.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Stone Dental Lodge','website','Bozeman','MT')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Stone Dental Lodge','Bozeman','MT')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Mountain Ridge Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/montana/bozeman/mountain-ridge-dental.html" style="color:inherit;text-decoration:none;">Mountain Ridge Dental</a></h3>
         <p class="dentist-address">📍 1125 W Kagy Blvd STE 300, Bozeman, MT 59715, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(135 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4066028426" class="dentist-btn dentist-btn-call" onclick="trackLead('Mountain Ridge Dental','call','Bozeman','MT')">📞 Call</a> <a href="https://www.mountainridgedentalmt.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mountain Ridge Dental','website','Bozeman','MT')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4066028426" class="dentist-btn dentist-btn-call" onclick="trackLead('Mountain Ridge Dental','call','Bozeman','MT')">📞 Call</a> <a href="https://www.mountainridgedentalmt.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mountain Ridge Dental','website','Bozeman','MT')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Mountain Ridge Dental','Bozeman','MT')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Copper Mountain Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/montana/butte/copper-mountain-dental.html" style="color:inherit;text-decoration:none;">Copper Mountain Dental</a></h3>
         <p class="dentist-address">📍 1240 Dewey Blvd, Butte, MT 59701, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(132 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4066934723" class="dentist-btn dentist-btn-call" onclick="trackLead('Copper Mountain Dental','call','Butte','MT')">📞 Call</a> <a href="https://www.coppermtdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Copper Mountain Dental','website','Butte','MT')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4066934723" class="dentist-btn dentist-btn-call" onclick="trackLead('Copper Mountain Dental','call','Butte','MT')">📞 Call</a> <a href="https://www.coppermtdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Copper Mountain Dental','website','Butte','MT')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Copper Mountain Dental','Butte','MT')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Summit Oral Surgery &amp; Implant Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/montana/miles-city/summit-oral-surgery-implant-center.html" style="color:inherit;text-decoration:none;">Summit Oral Surgery &amp; Implant Center</a></h3>
         <p class="dentist-address">📍 205 S Haynes Ave, Miles City, MT 59301, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(101 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4062597438" class="dentist-btn dentist-btn-call" onclick="trackLead('Summit Oral Surgery &amp; Implant Center','call','Miles City','MT')">📞 Call</a> <a href="https://summitoralsurgerymt.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Summit Oral Surgery &amp; Implant Center','website','Miles City','MT')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4062597438" class="dentist-btn dentist-btn-call" onclick="trackLead('Summit Oral Surgery &amp; Implant Center','call','Miles City','MT')">📞 Call</a> <a href="https://summitoralsurgerymt.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Summit Oral Surgery &amp; Implant Center','website','Miles City','MT')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Summit Oral Surgery &amp; Implant Center','Miles City','MT')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Big Sky Pediatric Dentistry - Whitefish</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/montana/whitefish/big-sky-pediatric-dentistry-whitefish.html" style="color:inherit;text-decoration:none;">Big Sky Pediatric Dentistry - Whitefish</a></h3>
         <p class="dentist-address">📍 6348 U.S. 93 S, Whitefish, MT 59937, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(92 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4067305073" class="dentist-btn dentist-btn-call" onclick="trackLead('Big Sky Pediatric Dentistry - Whitefish','call','Whitefish','MT')">📞 Call</a> <a href="https://www.bigskypediatricdentistry.com/whitefish-location" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Big Sky Pediatric Dentistry - Whitefish','website','Whitefish','MT')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4067305073" class="dentist-btn dentist-btn-call" onclick="trackLead('Big Sky Pediatric Dentistry - Whitefish','call','Whitefish','MT')">📞 Call</a> <a href="https://www.bigskypediatricdentistry.com/whitefish-location" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Big Sky Pediatric Dentistry - Whitefish','website','Whitefish','MT')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Big Sky Pediatric Dentistry - Whitefish','Whitefish','MT')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Beck Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/montana/hamilton/beck-dental.html" style="color:inherit;text-decoration:none;">Beck Dental</a></h3>
         <p class="dentist-address">📍 244 Honey Ln, Hamilton, MT 59840, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(89 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4066606760" class="dentist-btn dentist-btn-call" onclick="trackLead('Beck Dental','call','Hamilton','MT')">📞 Call</a> <a href="http://beckdentalmt.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Beck Dental','website','Hamilton','MT')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4066606760" class="dentist-btn dentist-btn-call" onclick="trackLead('Beck Dental','call','Hamilton','MT')">📞 Call</a> <a href="http://beckdentalmt.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Beck Dental','website','Hamilton','MT')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Beck Dental','Hamilton','MT')">📅 Request Appointment</button></div>
     </div></div>
         <div class="share-buttons">
     <span class="share-label">Share this page</span>

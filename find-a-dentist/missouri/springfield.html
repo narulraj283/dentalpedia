@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 11 dentists in Springfield, Missouri. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Missouri","item":"https://dentalpedia.co/find-a-dentist/missouri.html"},
+                {"@type":"ListItem","position":4,"name":"Springfield","item":"https://dentalpedia.co/find-a-dentist/missouri/springfield.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Springfield, MO","numberOfItems":11,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Dental 32","address":"2142 S Brentwood Blvd #2539, Springfield, MO 65804, USA","telephone":"(417) 881-3200"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"iTooth","address":"5021 S National Ave, Springfield, MO 65810, USA","telephone":"(417) 459-4607"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Spring View Dental Care","address":"4955 S National Ave Unit A, Springfield, MO 65810, USA","telephone":"(417) 505-3515"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Distinctive Dental Solutions","address":"1316 E Independence St, Springfield, MO 65804, USA","telephone":"(417) 742-8289"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Wilkinson Dental","address":"1705 E Primrose St, Springfield, MO 65804, USA","telephone":"(417) 708-0556"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Focus Dental Studio","address":"1722 S Glenstone Ave Ste O&amp;P, Springfield, MO 65804, USA","telephone":"(417) 248-1234"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Emergency Dental Care","address":"1440 W Republic Rd #146, Springfield, MO 65807, USA","telephone":"(417) 720-4073"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"OMS Oral &amp; Maxillofacial Surgery Group","address":"1103 E Montclair St, Springfield, MO 65807, USA","telephone":"(417) 887-8800"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"My Dentist","address":"2241 N Glenstone Ave, Springfield, MO 65803, USA","telephone":"(417) 641-3344"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Dental E.R.","address":"222 E Primrose St # C, Springfield, MO 65807, USA","telephone":"(417) 851-8111"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"The Smile Spot-Springfield","address":"1324 E Montclair St, Springfield, MO 65804, USA","telephone":"(417) 275-6565"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/missouri.html">Missouri</a> &rsaquo; Springfield</nav>
             <h1>Dentists in Springfield, MO</h1>
@@ -85,70 +140,70 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental 32</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/missouri/springfield/dental-32.html" style="color:inherit;text-decoration:none;">Dental 32</a></h3>
         <p class="dentist-address">📍 2142 S Brentwood Blvd #2539, Springfield, MO 65804, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(315 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4178813200" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental 32','call','Springfield','MO')">📞 Call</a> <a href="http://www.dental32.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental 32','website','Springfield','MO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4178813200" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental 32','call','Springfield','MO')">📞 Call</a> <a href="http://www.dental32.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental 32','website','Springfield','MO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental 32','Springfield','MO')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">iTooth</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/missouri/springfield/itooth.html" style="color:inherit;text-decoration:none;">iTooth</a></h3>
         <p class="dentist-address">📍 5021 S National Ave, Springfield, MO 65810, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(1,218 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4174594607" class="dentist-btn dentist-btn-call" onclick="trackLead('iTooth','call','Springfield','MO')">📞 Call</a> <a href="https://www.itooth.net/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('iTooth','website','Springfield','MO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4174594607" class="dentist-btn dentist-btn-call" onclick="trackLead('iTooth','call','Springfield','MO')">📞 Call</a> <a href="https://www.itooth.net/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('iTooth','website','Springfield','MO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('iTooth','Springfield','MO')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Spring View Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/missouri/springfield/spring-view-dental-care.html" style="color:inherit;text-decoration:none;">Spring View Dental Care</a></h3>
         <p class="dentist-address">📍 4955 S National Ave Unit A, Springfield, MO 65810, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(1,393 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4175053515" class="dentist-btn dentist-btn-call" onclick="trackLead('Spring View Dental Care','call','Springfield','MO')">📞 Call</a> <a href="http://springviewdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Spring View Dental Care','website','Springfield','MO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4175053515" class="dentist-btn dentist-btn-call" onclick="trackLead('Spring View Dental Care','call','Springfield','MO')">📞 Call</a> <a href="http://springviewdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Spring View Dental Care','website','Springfield','MO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Spring View Dental Care','Springfield','MO')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Distinctive Dental Solutions</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/missouri/springfield/distinctive-dental-solutions.html" style="color:inherit;text-decoration:none;">Distinctive Dental Solutions</a></h3>
         <p class="dentist-address">📍 1316 E Independence St, Springfield, MO 65804, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(989 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4177428289" class="dentist-btn dentist-btn-call" onclick="trackLead('Distinctive Dental Solutions','call','Springfield','MO')">📞 Call</a> <a href="http://distinctivedentalsolutions.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Distinctive Dental Solutions','website','Springfield','MO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4177428289" class="dentist-btn dentist-btn-call" onclick="trackLead('Distinctive Dental Solutions','call','Springfield','MO')">📞 Call</a> <a href="http://distinctivedentalsolutions.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Distinctive Dental Solutions','website','Springfield','MO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Distinctive Dental Solutions','Springfield','MO')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Wilkinson Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/missouri/springfield/wilkinson-dental.html" style="color:inherit;text-decoration:none;">Wilkinson Dental</a></h3>
         <p class="dentist-address">📍 1705 E Primrose St, Springfield, MO 65804, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(733 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4177080556" class="dentist-btn dentist-btn-call" onclick="trackLead('Wilkinson Dental','call','Springfield','MO')">📞 Call</a> <a href="https://www.wilkdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Wilkinson Dental','website','Springfield','MO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4177080556" class="dentist-btn dentist-btn-call" onclick="trackLead('Wilkinson Dental','call','Springfield','MO')">📞 Call</a> <a href="https://www.wilkdental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Wilkinson Dental','website','Springfield','MO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Wilkinson Dental','Springfield','MO')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Focus Dental Studio</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/missouri/springfield/focus-dental-studio.html" style="color:inherit;text-decoration:none;">Focus Dental Studio</a></h3>
         <p class="dentist-address">📍 1722 S Glenstone Ave Ste O&amp;P, Springfield, MO 65804, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(337 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4172481234" class="dentist-btn dentist-btn-call" onclick="trackLead('Focus Dental Studio','call','Springfield','MO')">📞 Call</a> <a href="http://www.focusdentalstudio.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Focus Dental Studio','website','Springfield','MO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4172481234" class="dentist-btn dentist-btn-call" onclick="trackLead('Focus Dental Studio','call','Springfield','MO')">📞 Call</a> <a href="http://www.focusdentalstudio.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Focus Dental Studio','website','Springfield','MO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Focus Dental Studio','Springfield','MO')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Emergency Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/missouri/springfield/emergency-dental-care.html" style="color:inherit;text-decoration:none;">Emergency Dental Care</a></h3>
         <p class="dentist-address">📍 1440 W Republic Rd #146, Springfield, MO 65807, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(6 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4177204073" class="dentist-btn dentist-btn-call" onclick="trackLead('Emergency Dental Care','call','Springfield','MO')">📞 Call</a> <a href="http://springfielddentalemergency.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Emergency Dental Care','website','Springfield','MO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4177204073" class="dentist-btn dentist-btn-call" onclick="trackLead('Emergency Dental Care','call','Springfield','MO')">📞 Call</a> <a href="http://springfielddentalemergency.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Emergency Dental Care','website','Springfield','MO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Emergency Dental Care','Springfield','MO')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">OMS Oral &amp; Maxillofacial Surgery Group</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/missouri/springfield/oms-oral-maxillofacial-surgery-group.html" style="color:inherit;text-decoration:none;">OMS Oral &amp; Maxillofacial Surgery Group</a></h3>
         <p class="dentist-address">📍 1103 E Montclair St, Springfield, MO 65807, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(1,449 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4178878800" class="dentist-btn dentist-btn-call" onclick="trackLead('OMS Oral &amp; Maxillofacial Surgery Group','call','Springfield','MO')">📞 Call</a> <a href="https://omsdocs.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('OMS Oral &amp; Maxillofacial Surgery Group','website','Springfield','MO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4178878800" class="dentist-btn dentist-btn-call" onclick="trackLead('OMS Oral &amp; Maxillofacial Surgery Group','call','Springfield','MO')">📞 Call</a> <a href="https://omsdocs.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('OMS Oral &amp; Maxillofacial Surgery Group','website','Springfield','MO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('OMS Oral &amp; Maxillofacial Surgery Group','Springfield','MO')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">My Dentist</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/missouri/springfield/my-dentist.html" style="color:inherit;text-decoration:none;">My Dentist</a></h3>
         <p class="dentist-address">📍 2241 N Glenstone Ave, Springfield, MO 65803, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(1,117 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4176413344" class="dentist-btn dentist-btn-call" onclick="trackLead('My Dentist','call','Springfield','MO')">📞 Call</a> <a href="http://mydentistspringfield.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('My Dentist','website','Springfield','MO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4176413344" class="dentist-btn dentist-btn-call" onclick="trackLead('My Dentist','call','Springfield','MO')">📞 Call</a> <a href="http://mydentistspringfield.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('My Dentist','website','Springfield','MO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('My Dentist','Springfield','MO')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental E.R.</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/missouri/springfield/dental-e-r.html" style="color:inherit;text-decoration:none;">Dental E.R.</a></h3>
         <p class="dentist-address">📍 222 E Primrose St # C, Springfield, MO 65807, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(398 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4178518111" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental E.R.','call','Springfield','MO')">📞 Call</a> <a href="http://www.dental-er.info/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental E.R.','website','Springfield','MO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4178518111" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental E.R.','call','Springfield','MO')">📞 Call</a> <a href="http://www.dental-er.info/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental E.R.','website','Springfield','MO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental E.R.','Springfield','MO')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">The Smile Spot-Springfield</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/missouri/springfield/the-smile-spot-springfield.html" style="color:inherit;text-decoration:none;">The Smile Spot-Springfield</a></h3>
         <p class="dentist-address">📍 1324 E Montclair St, Springfield, MO 65804, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(1,055 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4172756565" class="dentist-btn dentist-btn-call" onclick="trackLead('The Smile Spot-Springfield','call','Springfield','MO')">📞 Call</a> <a href="https://www.thesmilespot.com/location/springfield" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Smile Spot-Springfield','website','Springfield','MO')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4172756565" class="dentist-btn dentist-btn-call" onclick="trackLead('The Smile Spot-Springfield','call','Springfield','MO')">📞 Call</a> <a href="https://www.thesmilespot.com/location/springfield" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('The Smile Spot-Springfield','website','Springfield','MO')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('The Smile Spot-Springfield','Springfield','MO')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

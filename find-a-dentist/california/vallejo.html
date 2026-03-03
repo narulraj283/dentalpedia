@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 13 dentists in Vallejo, California. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"California","item":"https://dentalpedia.co/find-a-dentist/california.html"},
+                {"@type":"ListItem","position":4,"name":"Vallejo","item":"https://dentalpedia.co/find-a-dentist/california/vallejo.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Vallejo, CA","numberOfItems":13,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Plaza Dental Care","address":"17 Rotary Way, Vallejo, CA 94591, USA","telephone":"(707) 642-1360"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Michael C. Yee DDS","address":"2254 Tennessee St, Vallejo, CA 94591, USA","telephone":"(707) 643-8399"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Michael Vallarta, D.M.D.","address":"1832 Capitol St, Vallejo, CA 94590, USA","telephone":"(707) 552-4110"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Vallejo Family Dentistry","address":"23 Rotary Way, Vallejo, CA 94591, USA","telephone":"(707) 209-7224"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Vallejo Oral Surgery &amp; Implantology","address":"150 Admiral Callaghan Ln, Vallejo, CA 94591, USA","telephone":"(707) 552-5644"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Dentists of Vallejo","address":"784 Admiral Callaghan Ln, Vallejo, CA 94591, USA","telephone":"(707) 324-5919"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Crossroads Dental Care","address":"41 Admiral Callaghan Ln E, Vallejo, CA 94591, USA","telephone":"(707) 985-0694"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Tan Thai Dental Studios","address":"1761 Broadway Suite 224, Vallejo, CA 94589, USA","telephone":"(707) 643-7885"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Affordable Dentures &amp; Implants","address":"Gateway Plaza, 125 Plaza Dr #407, Vallejo, CA 94591, USA","telephone":"(771) 772-5638"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Galvan Dental Care","address":"480 Redwood St #30, Vallejo, CA 94590, USA","telephone":"(707) 643-0888"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Alegria Dental Care","address":"3630 Sonoma Blvd, Vallejo, CA 94590, USA","telephone":"(707) 643-1987"}},{"@type":"ListItem","position":12,"item":{"@type":"Dentist","name":"Redwood Family &amp; Cosmetic Dentistry","address":"1782 Tuolumne St, Vallejo, CA 94589, USA","telephone":"(707) 552-8668"}},{"@type":"ListItem","position":13,"item":{"@type":"Dentist","name":"Dentist2Day","address":"2920 Sonoma Blvd # A, Vallejo, CA 94590, USA","telephone":"(707) 554-2200"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/california.html">California</a> &rsaquo; Vallejo</nav>
             <h1>Dentists in Vallejo, CA</h1>
@@ -85,82 +140,82 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Plaza Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/vallejo/plaza-dental-care.html" style="color:inherit;text-decoration:none;">Plaza Dental Care</a></h3>
         <p class="dentist-address">📍 17 Rotary Way, Vallejo, CA 94591, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(271 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7076421360" class="dentist-btn dentist-btn-call" onclick="trackLead('Plaza Dental Care','call','Vallejo','CA')">📞 Call</a> <a href="https://www.vallejoplazadentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Plaza Dental Care','website','Vallejo','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7076421360" class="dentist-btn dentist-btn-call" onclick="trackLead('Plaza Dental Care','call','Vallejo','CA')">📞 Call</a> <a href="https://www.vallejoplazadentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Plaza Dental Care','website','Vallejo','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Plaza Dental Care','Vallejo','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Michael C. Yee DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/vallejo/michael-c-yee-dds.html" style="color:inherit;text-decoration:none;">Michael C. Yee DDS</a></h3>
         <p class="dentist-address">📍 2254 Tennessee St, Vallejo, CA 94591, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(91 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7076438399" class="dentist-btn dentist-btn-call" onclick="trackLead('Michael C. Yee DDS','call','Vallejo','CA')">📞 Call</a> <a href="https://www.vallejofamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Michael C. Yee DDS','website','Vallejo','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7076438399" class="dentist-btn dentist-btn-call" onclick="trackLead('Michael C. Yee DDS','call','Vallejo','CA')">📞 Call</a> <a href="https://www.vallejofamilydentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Michael C. Yee DDS','website','Vallejo','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Michael C. Yee DDS','Vallejo','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Michael Vallarta, D.M.D.</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/vallejo/michael-vallarta-d-m-d.html" style="color:inherit;text-decoration:none;">Michael Vallarta, D.M.D.</a></h3>
         <p class="dentist-address">📍 1832 Capitol St, Vallejo, CA 94590, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(22 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7075524110" class="dentist-btn dentist-btn-call" onclick="trackLead('Michael Vallarta, D.M.D.','call','Vallejo','CA')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:7075524110" class="dentist-btn dentist-btn-call" onclick="trackLead('Michael Vallarta, D.M.D.','call','Vallejo','CA')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Michael Vallarta, D.M.D.','Vallejo','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Vallejo Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/vallejo/vallejo-family-dentistry.html" style="color:inherit;text-decoration:none;">Vallejo Family Dentistry</a></h3>
         <p class="dentist-address">📍 23 Rotary Way, Vallejo, CA 94591, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(428 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7072097224" class="dentist-btn dentist-btn-call" onclick="trackLead('Vallejo Family Dentistry','call','Vallejo','CA')">📞 Call</a> <a href="https://www.myvallejodentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Vallejo Family Dentistry','website','Vallejo','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7072097224" class="dentist-btn dentist-btn-call" onclick="trackLead('Vallejo Family Dentistry','call','Vallejo','CA')">📞 Call</a> <a href="https://www.myvallejodentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Vallejo Family Dentistry','website','Vallejo','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Vallejo Family Dentistry','Vallejo','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Vallejo Oral Surgery &amp; Implantology</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/vallejo/vallejo-oral-surgery-implantology.html" style="color:inherit;text-decoration:none;">Vallejo Oral Surgery &amp; Implantology</a></h3>
         <p class="dentist-address">📍 150 Admiral Callaghan Ln, Vallejo, CA 94591, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(400 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7075525644" class="dentist-btn dentist-btn-call" onclick="trackLead('Vallejo Oral Surgery &amp; Implantology','call','Vallejo','CA')">📞 Call</a> <a href="https://www.bayareaosm.com/locations/vallejo-oral-surgery-implantology" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Vallejo Oral Surgery &amp; Implantology','website','Vallejo','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7075525644" class="dentist-btn dentist-btn-call" onclick="trackLead('Vallejo Oral Surgery &amp; Implantology','call','Vallejo','CA')">📞 Call</a> <a href="https://www.bayareaosm.com/locations/vallejo-oral-surgery-implantology" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Vallejo Oral Surgery &amp; Implantology','website','Vallejo','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Vallejo Oral Surgery &amp; Implantology','Vallejo','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dentists of Vallejo</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/vallejo/dentists-of-vallejo.html" style="color:inherit;text-decoration:none;">Dentists of Vallejo</a></h3>
         <p class="dentist-address">📍 784 Admiral Callaghan Ln, Vallejo, CA 94591, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(117 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7073245919" class="dentist-btn dentist-btn-call" onclick="trackLead('Dentists of Vallejo','call','Vallejo','CA')">📞 Call</a> <a href="https://www.dentistsofvallejo.com/?sc_cid=GBP%3AO%3AGP%3A1186%3AOrganic_Search%3AGeneral%3Ana&amp;_vsrefdom=organic_gbp&amp;y_source=1_MTA0Njk3MTI0My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dentists of Vallejo','website','Vallejo','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7073245919" class="dentist-btn dentist-btn-call" onclick="trackLead('Dentists of Vallejo','call','Vallejo','CA')">📞 Call</a> <a href="https://www.dentistsofvallejo.com/?sc_cid=GBP%3AO%3AGP%3A1186%3AOrganic_Search%3AGeneral%3Ana&amp;_vsrefdom=organic_gbp&amp;y_source=1_MTA0Njk3MTI0My03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dentists of Vallejo','website','Vallejo','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dentists of Vallejo','Vallejo','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Crossroads Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/vallejo/crossroads-dental-care.html" style="color:inherit;text-decoration:none;">Crossroads Dental Care</a></h3>
         <p class="dentist-address">📍 41 Admiral Callaghan Ln E, Vallejo, CA 94591, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(230 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7079850694" class="dentist-btn dentist-btn-call" onclick="trackLead('Crossroads Dental Care','call','Vallejo','CA')">📞 Call</a> <a href="https://www.crossroadsdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Crossroads Dental Care','website','Vallejo','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7079850694" class="dentist-btn dentist-btn-call" onclick="trackLead('Crossroads Dental Care','call','Vallejo','CA')">📞 Call</a> <a href="https://www.crossroadsdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Crossroads Dental Care','website','Vallejo','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Crossroads Dental Care','Vallejo','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Tan Thai Dental Studios</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/vallejo/tan-thai-dental-studios.html" style="color:inherit;text-decoration:none;">Tan Thai Dental Studios</a></h3>
         <p class="dentist-address">📍 1761 Broadway Suite 224, Vallejo, CA 94589, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(143 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7076437885" class="dentist-btn dentist-btn-call" onclick="trackLead('Tan Thai Dental Studios','call','Vallejo','CA')">📞 Call</a> <a href="https://tanthaidentalstudios.net/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Tan Thai Dental Studios','website','Vallejo','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7076437885" class="dentist-btn dentist-btn-call" onclick="trackLead('Tan Thai Dental Studios','call','Vallejo','CA')">📞 Call</a> <a href="https://tanthaidentalstudios.net/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Tan Thai Dental Studios','website','Vallejo','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Tan Thai Dental Studios','Vallejo','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Affordable Dentures &amp; Implants</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/vallejo/affordable-dentures-implants.html" style="color:inherit;text-decoration:none;">Affordable Dentures &amp; Implants</a></h3>
         <p class="dentist-address">📍 Gateway Plaza, 125 Plaza Dr #407, Vallejo, CA 94591, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(267 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7717725638" class="dentist-btn dentist-btn-call" onclick="trackLead('Affordable Dentures &amp; Implants','call','Vallejo','CA')">📞 Call</a> <a href="https://www.affordabledentures.com/locations/ca/vallejo" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Affordable Dentures &amp; Implants','website','Vallejo','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7717725638" class="dentist-btn dentist-btn-call" onclick="trackLead('Affordable Dentures &amp; Implants','call','Vallejo','CA')">📞 Call</a> <a href="https://www.affordabledentures.com/locations/ca/vallejo" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Affordable Dentures &amp; Implants','website','Vallejo','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Affordable Dentures &amp; Implants','Vallejo','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Galvan Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/vallejo/galvan-dental-care.html" style="color:inherit;text-decoration:none;">Galvan Dental Care</a></h3>
         <p class="dentist-address">📍 480 Redwood St #30, Vallejo, CA 94590, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(96 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7076430888" class="dentist-btn dentist-btn-call" onclick="trackLead('Galvan Dental Care','call','Vallejo','CA')">📞 Call</a> <a href="https://galvandentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Galvan Dental Care','website','Vallejo','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7076430888" class="dentist-btn dentist-btn-call" onclick="trackLead('Galvan Dental Care','call','Vallejo','CA')">📞 Call</a> <a href="https://galvandentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Galvan Dental Care','website','Vallejo','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Galvan Dental Care','Vallejo','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Alegria Dental Care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/vallejo/alegria-dental-care.html" style="color:inherit;text-decoration:none;">Alegria Dental Care</a></h3>
         <p class="dentist-address">📍 3630 Sonoma Blvd, Vallejo, CA 94590, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(99 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7076431987" class="dentist-btn dentist-btn-call" onclick="trackLead('Alegria Dental Care','call','Vallejo','CA')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:7076431987" class="dentist-btn dentist-btn-call" onclick="trackLead('Alegria Dental Care','call','Vallejo','CA')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Alegria Dental Care','Vallejo','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Redwood Family &amp; Cosmetic Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/vallejo/redwood-family-cosmetic-dentistry.html" style="color:inherit;text-decoration:none;">Redwood Family &amp; Cosmetic Dentistry</a></h3>
         <p class="dentist-address">📍 1782 Tuolumne St, Vallejo, CA 94589, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(17 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7075528668" class="dentist-btn dentist-btn-call" onclick="trackLead('Redwood Family &amp; Cosmetic Dentistry','call','Vallejo','CA')">📞 Call</a> <a href="https://evamarielargoza.dentist/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Redwood Family &amp; Cosmetic Dentistry','website','Vallejo','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7075528668" class="dentist-btn dentist-btn-call" onclick="trackLead('Redwood Family &amp; Cosmetic Dentistry','call','Vallejo','CA')">📞 Call</a> <a href="https://evamarielargoza.dentist/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Redwood Family &amp; Cosmetic Dentistry','website','Vallejo','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Redwood Family &amp; Cosmetic Dentistry','Vallejo','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dentist2Day</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/vallejo/dentist2day.html" style="color:inherit;text-decoration:none;">Dentist2Day</a></h3>
         <p class="dentist-address">📍 2920 Sonoma Blvd # A, Vallejo, CA 94590, USA</p>
         <div class="dentist-rating">★★★★ 4.1 <span class="review-count">(9 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:7075542200" class="dentist-btn dentist-btn-call" onclick="trackLead('Dentist2Day','call','Vallejo','CA')">📞 Call</a> <a href="http://www.dentist2day.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dentist2Day','website','Vallejo','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:7075542200" class="dentist-btn dentist-btn-call" onclick="trackLead('Dentist2Day','call','Vallejo','CA')">📞 Call</a> <a href="http://www.dentist2day.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dentist2Day','website','Vallejo','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dentist2Day','Vallejo','CA')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

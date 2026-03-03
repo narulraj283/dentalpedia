@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 6 dentists in Topsham, Maine. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Maine","item":"https://dentalpedia.co/find-a-dentist/maine.html"},
+                {"@type":"ListItem","position":4,"name":"Topsham","item":"https://dentalpedia.co/find-a-dentist/maine/topsham.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Topsham, ME","numberOfItems":6,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"SKIN BY CARA","address":"61 Main St, Topsham, ME 04086, USA","telephone":"(207) 721-0343"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Sullivan Chiropractic","address":"8 Main St, Topsham, ME 04086, USA","telephone":"(207) 837-6936"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Androscoggin Animal Hospital","address":"457 Foreside Rd, Topsham, ME 04086, USA","telephone":"(207) 729-4678"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Topsham Veterinary Wellness Center","address":"6 First St, Topsham, ME 04086, USA","telephone":"(207) 406-4468"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"CosMEDIX &amp; Cryo MedSpa","address":"127 Topsham Fair Mall Rd, Topsham, ME 04086, USA","telephone":"(207) 406-2749"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Hannaford","address":"49 Topsham Fair Mall Rd #1, Topsham, ME 04086, USA","telephone":"(207) 729-5124"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/maine.html">Maine</a> &rsaquo; Topsham</nav>
             <h1>Dentists in Topsham, ME</h1>
@@ -85,40 +140,40 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">SKIN BY CARA</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maine/topsham/skin-by-cara.html" style="color:inherit;text-decoration:none;">SKIN BY CARA</a></h3>
         <p class="dentist-address">📍 61 Main St, Topsham, ME 04086, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(230 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2077210343" class="dentist-btn dentist-btn-call" onclick="trackLead('SKIN BY CARA','call','Topsham','ME')">📞 Call</a> <a href="http://www.skinbycara.org/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('SKIN BY CARA','website','Topsham','ME')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2077210343" class="dentist-btn dentist-btn-call" onclick="trackLead('SKIN BY CARA','call','Topsham','ME')">📞 Call</a> <a href="http://www.skinbycara.org/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('SKIN BY CARA','website','Topsham','ME')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('SKIN BY CARA','Topsham','ME')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Sullivan Chiropractic</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maine/topsham/sullivan-chiropractic.html" style="color:inherit;text-decoration:none;">Sullivan Chiropractic</a></h3>
         <p class="dentist-address">📍 8 Main St, Topsham, ME 04086, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(15 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2078376936" class="dentist-btn dentist-btn-call" onclick="trackLead('Sullivan Chiropractic','call','Topsham','ME')">📞 Call</a> <a href="http://www.sullivanchiromaine.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sullivan Chiropractic','website','Topsham','ME')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2078376936" class="dentist-btn dentist-btn-call" onclick="trackLead('Sullivan Chiropractic','call','Topsham','ME')">📞 Call</a> <a href="http://www.sullivanchiromaine.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sullivan Chiropractic','website','Topsham','ME')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Sullivan Chiropractic','Topsham','ME')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Androscoggin Animal Hospital</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maine/topsham/androscoggin-animal-hospital.html" style="color:inherit;text-decoration:none;">Androscoggin Animal Hospital</a></h3>
         <p class="dentist-address">📍 457 Foreside Rd, Topsham, ME 04086, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(479 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2077294678" class="dentist-btn dentist-btn-call" onclick="trackLead('Androscoggin Animal Hospital','call','Topsham','ME')">📞 Call</a> <a href="https://www.androscogginanimalhospital.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Androscoggin Animal Hospital','website','Topsham','ME')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2077294678" class="dentist-btn dentist-btn-call" onclick="trackLead('Androscoggin Animal Hospital','call','Topsham','ME')">📞 Call</a> <a href="https://www.androscogginanimalhospital.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Androscoggin Animal Hospital','website','Topsham','ME')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Androscoggin Animal Hospital','Topsham','ME')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Topsham Veterinary Wellness Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maine/topsham/topsham-veterinary-wellness-center.html" style="color:inherit;text-decoration:none;">Topsham Veterinary Wellness Center</a></h3>
         <p class="dentist-address">📍 6 First St, Topsham, ME 04086, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(384 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2074064468" class="dentist-btn dentist-btn-call" onclick="trackLead('Topsham Veterinary Wellness Center','call','Topsham','ME')">📞 Call</a> <a href="http://topshamvet.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Topsham Veterinary Wellness Center','website','Topsham','ME')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2074064468" class="dentist-btn dentist-btn-call" onclick="trackLead('Topsham Veterinary Wellness Center','call','Topsham','ME')">📞 Call</a> <a href="http://topshamvet.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Topsham Veterinary Wellness Center','website','Topsham','ME')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Topsham Veterinary Wellness Center','Topsham','ME')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">CosMEDIX &amp; Cryo MedSpa</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maine/topsham/cosmedix-cryo-medspa.html" style="color:inherit;text-decoration:none;">CosMEDIX &amp; Cryo MedSpa</a></h3>
         <p class="dentist-address">📍 127 Topsham Fair Mall Rd, Topsham, ME 04086, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(134 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2074062749" class="dentist-btn dentist-btn-call" onclick="trackLead('CosMEDIX &amp; Cryo MedSpa','call','Topsham','ME')">📞 Call</a> <a href="http://cosmedixandcryomedspa.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('CosMEDIX &amp; Cryo MedSpa','website','Topsham','ME')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2074062749" class="dentist-btn dentist-btn-call" onclick="trackLead('CosMEDIX &amp; Cryo MedSpa','call','Topsham','ME')">📞 Call</a> <a href="http://cosmedixandcryomedspa.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('CosMEDIX &amp; Cryo MedSpa','website','Topsham','ME')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('CosMEDIX &amp; Cryo MedSpa','Topsham','ME')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Hannaford</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/maine/topsham/hannaford.html" style="color:inherit;text-decoration:none;">Hannaford</a></h3>
         <p class="dentist-address">📍 49 Topsham Fair Mall Rd #1, Topsham, ME 04086, USA</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(951 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2077295124" class="dentist-btn dentist-btn-call" onclick="trackLead('Hannaford','call','Topsham','ME')">📞 Call</a> <a href="https://stores.hannaford.com/me/topsham/8187" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hannaford','website','Topsham','ME')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2077295124" class="dentist-btn dentist-btn-call" onclick="trackLead('Hannaford','call','Topsham','ME')">📞 Call</a> <a href="https://stores.hannaford.com/me/topsham/8187" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hannaford','website','Topsham','ME')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Hannaford','Topsham','ME')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

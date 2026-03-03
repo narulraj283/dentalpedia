@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 9 dentists in Bethlehem, Pennsylvania. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Pennsylvania","item":"https://dentalpedia.co/find-a-dentist/pennsylvania.html"},
+                {"@type":"ListItem","position":4,"name":"Bethlehem","item":"https://dentalpedia.co/find-a-dentist/pennsylvania/bethlehem.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Bethlehem, PA","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Next Chapter Smiles - Dr. Maria Garubba","address":"190 Brodhead Rd suite 200, Bethlehem, PA 18017, USA","telephone":"(610) 735-8010"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Penn Dental Arts","address":"2591 Baglyos Cir C-41, Bethlehem, PA 18020, USA","telephone":"(484) 406-3110"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Serenity Advanced Dentistry","address":"204 E Market St, Bethlehem, PA 18018, USA","telephone":"(570) 992-2121"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Dr. Jeannine E Wyke DMD","address":"260 E Broad St, Bethlehem, PA 18018, USA","telephone":"(610) 867-1511"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Avenue Dental","address":"1333 Easton Ave, Bethlehem, PA 18018, USA","telephone":"(610) 890-4353"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Lehigh Valley Oral Surgery and Implant Center","address":"2571 Baglyos Cir, Bethlehem, PA 18020, USA","telephone":"(484) 821-1357"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Affordable Dentures &amp; Implants","address":"3926 Nazareth Pike #24, Bethlehem, PA 18020, USA","telephone":"(610) 920-0197"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Children&#x27;s Dental Health of Bethlehem","address":"1020 W Broad St, Bethlehem, PA 18018, USA","telephone":"(610) 871-6240"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Lehigh Valley Pediatric Dentist, LLC","address":"1665 Valley Center Pkwy # 100, Bethlehem, PA 18017, USA","telephone":"(610) 694-0711"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/pennsylvania.html">Pennsylvania</a> &rsaquo; Bethlehem</nav>
             <h1>Dentists in Bethlehem, PA</h1>
@@ -85,58 +140,58 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Next Chapter Smiles - Dr. Maria Garubba</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bethlehem/next-chapter-smiles-dr-maria-garubba.html" style="color:inherit;text-decoration:none;">Next Chapter Smiles - Dr. Maria Garubba</a></h3>
         <p class="dentist-address">📍 190 Brodhead Rd suite 200, Bethlehem, PA 18017, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(433 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6107358010" class="dentist-btn dentist-btn-call" onclick="trackLead('Next Chapter Smiles - Dr. Maria Garubba','call','Bethlehem','PA')">📞 Call</a> <a href="https://www.nextchaptersmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Next Chapter Smiles - Dr. Maria Garubba','website','Bethlehem','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6107358010" class="dentist-btn dentist-btn-call" onclick="trackLead('Next Chapter Smiles - Dr. Maria Garubba','call','Bethlehem','PA')">📞 Call</a> <a href="https://www.nextchaptersmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Next Chapter Smiles - Dr. Maria Garubba','website','Bethlehem','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Next Chapter Smiles - Dr. Maria Garubba','Bethlehem','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Penn Dental Arts</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bethlehem/penn-dental-arts.html" style="color:inherit;text-decoration:none;">Penn Dental Arts</a></h3>
         <p class="dentist-address">📍 2591 Baglyos Cir C-41, Bethlehem, PA 18020, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(327 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4844063110" class="dentist-btn dentist-btn-call" onclick="trackLead('Penn Dental Arts','call','Bethlehem','PA')">📞 Call</a> <a href="https://www.penndentalarts.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Penn Dental Arts','website','Bethlehem','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4844063110" class="dentist-btn dentist-btn-call" onclick="trackLead('Penn Dental Arts','call','Bethlehem','PA')">📞 Call</a> <a href="https://www.penndentalarts.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Penn Dental Arts','website','Bethlehem','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Penn Dental Arts','Bethlehem','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Serenity Advanced Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bethlehem/serenity-advanced-dentistry.html" style="color:inherit;text-decoration:none;">Serenity Advanced Dentistry</a></h3>
         <p class="dentist-address">📍 204 E Market St, Bethlehem, PA 18018, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(136 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5709922121" class="dentist-btn dentist-btn-call" onclick="trackLead('Serenity Advanced Dentistry','call','Bethlehem','PA')">📞 Call</a> <a href="http://serenityadvanceddentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Serenity Advanced Dentistry','website','Bethlehem','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5709922121" class="dentist-btn dentist-btn-call" onclick="trackLead('Serenity Advanced Dentistry','call','Bethlehem','PA')">📞 Call</a> <a href="http://serenityadvanceddentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Serenity Advanced Dentistry','website','Bethlehem','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Serenity Advanced Dentistry','Bethlehem','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. Jeannine E Wyke DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bethlehem/dr-jeannine-e-wyke-dmd.html" style="color:inherit;text-decoration:none;">Dr. Jeannine E Wyke DMD</a></h3>
         <p class="dentist-address">📍 260 E Broad St, Bethlehem, PA 18018, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(207 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6108671511" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Jeannine E Wyke DMD','call','Bethlehem','PA')">📞 Call</a> <a href="https://www.drjwyke.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Jeannine E Wyke DMD','website','Bethlehem','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6108671511" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Jeannine E Wyke DMD','call','Bethlehem','PA')">📞 Call</a> <a href="https://www.drjwyke.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Jeannine E Wyke DMD','website','Bethlehem','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. Jeannine E Wyke DMD','Bethlehem','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Avenue Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bethlehem/avenue-dental.html" style="color:inherit;text-decoration:none;">Avenue Dental</a></h3>
         <p class="dentist-address">📍 1333 Easton Ave, Bethlehem, PA 18018, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(202 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6108904353" class="dentist-btn dentist-btn-call" onclick="trackLead('Avenue Dental','call','Bethlehem','PA')">📞 Call</a> <a href="http://avenuedentalpa.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Avenue Dental','website','Bethlehem','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6108904353" class="dentist-btn dentist-btn-call" onclick="trackLead('Avenue Dental','call','Bethlehem','PA')">📞 Call</a> <a href="http://avenuedentalpa.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Avenue Dental','website','Bethlehem','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Avenue Dental','Bethlehem','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Lehigh Valley Oral Surgery and Implant Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bethlehem/lehigh-valley-oral-surgery-and-implant-center.html" style="color:inherit;text-decoration:none;">Lehigh Valley Oral Surgery and Implant Center</a></h3>
         <p class="dentist-address">📍 2571 Baglyos Cir, Bethlehem, PA 18020, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(722 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4848211357" class="dentist-btn dentist-btn-call" onclick="trackLead('Lehigh Valley Oral Surgery and Implant Center','call','Bethlehem','PA')">📞 Call</a> <a href="http://www.lvoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lehigh Valley Oral Surgery and Implant Center','website','Bethlehem','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4848211357" class="dentist-btn dentist-btn-call" onclick="trackLead('Lehigh Valley Oral Surgery and Implant Center','call','Bethlehem','PA')">📞 Call</a> <a href="http://www.lvoralsurgery.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lehigh Valley Oral Surgery and Implant Center','website','Bethlehem','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Lehigh Valley Oral Surgery and Implant Center','Bethlehem','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Affordable Dentures &amp; Implants</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bethlehem/affordable-dentures-implants.html" style="color:inherit;text-decoration:none;">Affordable Dentures &amp; Implants</a></h3>
         <p class="dentist-address">📍 3926 Nazareth Pike #24, Bethlehem, PA 18020, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(384 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6109200197" class="dentist-btn dentist-btn-call" onclick="trackLead('Affordable Dentures &amp; Implants','call','Bethlehem','PA')">📞 Call</a> <a href="https://www.affordabledentures.com/locations/pa/bethlehem" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Affordable Dentures &amp; Implants','website','Bethlehem','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6109200197" class="dentist-btn dentist-btn-call" onclick="trackLead('Affordable Dentures &amp; Implants','call','Bethlehem','PA')">📞 Call</a> <a href="https://www.affordabledentures.com/locations/pa/bethlehem" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Affordable Dentures &amp; Implants','website','Bethlehem','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Affordable Dentures &amp; Implants','Bethlehem','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Children&#x27;s Dental Health of Bethlehem</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bethlehem/children-s-dental-health-of-bethlehem.html" style="color:inherit;text-decoration:none;">Children&#x27;s Dental Health of Bethlehem</a></h3>
         <p class="dentist-address">📍 1020 W Broad St, Bethlehem, PA 18018, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(397 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6108716240" class="dentist-btn dentist-btn-call" onclick="trackLead('Children&#x27;s Dental Health of Bethlehem','call','Bethlehem','PA')">📞 Call</a> <a href="https://childrensdentalhealth.com/locations/bethlehem/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Children&#x27;s Dental Health of Bethlehem','website','Bethlehem','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6108716240" class="dentist-btn dentist-btn-call" onclick="trackLead('Children&#x27;s Dental Health of Bethlehem','call','Bethlehem','PA')">📞 Call</a> <a href="https://childrensdentalhealth.com/locations/bethlehem/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Children&#x27;s Dental Health of Bethlehem','website','Bethlehem','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Children&#x27;s Dental Health of Bethlehem','Bethlehem','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Lehigh Valley Pediatric Dentist, LLC</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bethlehem/lehigh-valley-pediatric-dentist-llc.html" style="color:inherit;text-decoration:none;">Lehigh Valley Pediatric Dentist, LLC</a></h3>
         <p class="dentist-address">📍 1665 Valley Center Pkwy # 100, Bethlehem, PA 18017, USA</p>
         <div class="dentist-rating">★★★★ 4.1 <span class="review-count">(141 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6106940711" class="dentist-btn dentist-btn-call" onclick="trackLead('Lehigh Valley Pediatric Dentist, LLC','call','Bethlehem','PA')">📞 Call</a> <a href="https://lvpdsmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lehigh Valley Pediatric Dentist, LLC','website','Bethlehem','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6106940711" class="dentist-btn dentist-btn-call" onclick="trackLead('Lehigh Valley Pediatric Dentist, LLC','call','Bethlehem','PA')">📞 Call</a> <a href="https://lvpdsmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lehigh Valley Pediatric Dentist, LLC','website','Bethlehem','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Lehigh Valley Pediatric Dentist, LLC','Bethlehem','PA')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

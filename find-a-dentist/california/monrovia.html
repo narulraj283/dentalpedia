@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 10 dentists in Monrovia, California. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"California","item":"https://dentalpedia.co/find-a-dentist/california.html"},
+                {"@type":"ListItem","position":4,"name":"Monrovia","item":"https://dentalpedia.co/find-a-dentist/california/monrovia.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Monrovia, CA","numberOfItems":10,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Fresh Orthodontics and Pediatric Dentistry","address":"626 S Primrose Ave, Monrovia, CA 91016, USA","telephone":"(626) 775-5118"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Hwang Orthodontics","address":"925 W Foothill Blvd ste a, Monrovia, CA 91016, USA","telephone":"(626) 239-6272"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Monica Muñoz, DDS","address":"858 W Foothill Blvd suite a, Monrovia, CA 91016, USA","telephone":"(626) 360-0805"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Sprout Pediatric Dentistry","address":"925 W Foothill Blvd Ste C, Monrovia, CA 91016, USA","telephone":"(626) 408-0800"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Fang Dental Studio | Kevin Fang, DMD","address":"518 W Huntington Dr, Monrovia, CA 91016, USA","telephone":""}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"True Dental Specialties","address":"519 Falling Leaf Alley, Monrovia, CA 91016, USA","telephone":"(626) 239-6437"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Dr. Q Dental (Charlyn Quiec, DMD)","address":"139 E Colorado Blvd #1, Monrovia, CA 91016, USA","telephone":"(626) 671-4980"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Arcadia Pediatric Dental Practice &amp; Orthodontics","address":"457 W Foothill Blvd, Monrovia, CA 91016, USA","telephone":"(626) 445-6666"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Healthy Life Dental","address":"121 W Colorado Blvd, Monrovia, CA 91016, USA","telephone":"(626) 790-0938"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"West Coast Dental of Monrovia","address":"154 W Foothill Blvd Ste C-2A, Monrovia, CA 91016, USA","telephone":"(626) 263-3333"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/california.html">California</a> &rsaquo; Monrovia</nav>
             <h1>Dentists in Monrovia, CA</h1>
@@ -85,64 +140,64 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Fresh Orthodontics and Pediatric Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/monrovia/fresh-orthodontics-and-pediatric-dentistry.html" style="color:inherit;text-decoration:none;">Fresh Orthodontics and Pediatric Dentistry</a></h3>
         <p class="dentist-address">📍 626 S Primrose Ave, Monrovia, CA 91016, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(423 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6267755118" class="dentist-btn dentist-btn-call" onclick="trackLead('Fresh Orthodontics and Pediatric Dentistry','call','Monrovia','CA')">📞 Call</a> <a href="http://www.smilesofresh.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Fresh Orthodontics and Pediatric Dentistry','website','Monrovia','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6267755118" class="dentist-btn dentist-btn-call" onclick="trackLead('Fresh Orthodontics and Pediatric Dentistry','call','Monrovia','CA')">📞 Call</a> <a href="http://www.smilesofresh.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Fresh Orthodontics and Pediatric Dentistry','website','Monrovia','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Fresh Orthodontics and Pediatric Dentistry','Monrovia','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Hwang Orthodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/monrovia/hwang-orthodontics.html" style="color:inherit;text-decoration:none;">Hwang Orthodontics</a></h3>
         <p class="dentist-address">📍 925 W Foothill Blvd ste a, Monrovia, CA 91016, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(372 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6262396272" class="dentist-btn dentist-btn-call" onclick="trackLead('Hwang Orthodontics','call','Monrovia','CA')">📞 Call</a> <a href="https://hwangorthodontics.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hwang Orthodontics','website','Monrovia','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6262396272" class="dentist-btn dentist-btn-call" onclick="trackLead('Hwang Orthodontics','call','Monrovia','CA')">📞 Call</a> <a href="https://hwangorthodontics.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Hwang Orthodontics','website','Monrovia','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Hwang Orthodontics','Monrovia','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Monica Muñoz, DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/monrovia/monica-mu-oz-dds.html" style="color:inherit;text-decoration:none;">Monica Muñoz, DDS</a></h3>
         <p class="dentist-address">📍 858 W Foothill Blvd suite a, Monrovia, CA 91016, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(138 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6263600805" class="dentist-btn dentist-btn-call" onclick="trackLead('Monica Muñoz, DDS','call','Monrovia','CA')">📞 Call</a> <a href="http://monicamunozdds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Monica Muñoz, DDS','website','Monrovia','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6263600805" class="dentist-btn dentist-btn-call" onclick="trackLead('Monica Muñoz, DDS','call','Monrovia','CA')">📞 Call</a> <a href="http://monicamunozdds.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Monica Muñoz, DDS','website','Monrovia','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Monica Muñoz, DDS','Monrovia','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Sprout Pediatric Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/monrovia/sprout-pediatric-dentistry.html" style="color:inherit;text-decoration:none;">Sprout Pediatric Dentistry</a></h3>
         <p class="dentist-address">📍 925 W Foothill Blvd Ste C, Monrovia, CA 91016, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(74 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6264080800" class="dentist-btn dentist-btn-call" onclick="trackLead('Sprout Pediatric Dentistry','call','Monrovia','CA')">📞 Call</a> <a href="https://www.sprout.dental/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sprout Pediatric Dentistry','website','Monrovia','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6264080800" class="dentist-btn dentist-btn-call" onclick="trackLead('Sprout Pediatric Dentistry','call','Monrovia','CA')">📞 Call</a> <a href="https://www.sprout.dental/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sprout Pediatric Dentistry','website','Monrovia','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Sprout Pediatric Dentistry','Monrovia','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Fang Dental Studio | Kevin Fang, DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/monrovia/fang-dental-studio-kevin-fang-dmd.html" style="color:inherit;text-decoration:none;">Fang Dental Studio | Kevin Fang, DMD</a></h3>
         <p class="dentist-address">📍 518 W Huntington Dr, Monrovia, CA 91016, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(62 reviews)</span></div>
-        <div class="dentist-actions"> <a href="https://www.fangdentalstudio.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Fang Dental Studio | Kevin Fang, DMD','website','Monrovia','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"> <a href="https://www.fangdentalstudio.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Fang Dental Studio | Kevin Fang, DMD','website','Monrovia','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Fang Dental Studio | Kevin Fang, DMD','Monrovia','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">True Dental Specialties</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/monrovia/true-dental-specialties.html" style="color:inherit;text-decoration:none;">True Dental Specialties</a></h3>
         <p class="dentist-address">📍 519 Falling Leaf Alley, Monrovia, CA 91016, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(8 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6262396437" class="dentist-btn dentist-btn-call" onclick="trackLead('True Dental Specialties','call','Monrovia','CA')">📞 Call</a> <a href="http://www.truedentalspecialties.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('True Dental Specialties','website','Monrovia','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6262396437" class="dentist-btn dentist-btn-call" onclick="trackLead('True Dental Specialties','call','Monrovia','CA')">📞 Call</a> <a href="http://www.truedentalspecialties.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('True Dental Specialties','website','Monrovia','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('True Dental Specialties','Monrovia','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. Q Dental (Charlyn Quiec, DMD)</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/monrovia/dr-q-dental-charlyn-quiec-dmd.html" style="color:inherit;text-decoration:none;">Dr. Q Dental (Charlyn Quiec, DMD)</a></h3>
         <p class="dentist-address">📍 139 E Colorado Blvd #1, Monrovia, CA 91016, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(173 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6266714980" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Q Dental (Charlyn Quiec, DMD)','call','Monrovia','CA')">📞 Call</a> <a href="https://drqdental.net/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Q Dental (Charlyn Quiec, DMD)','website','Monrovia','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6266714980" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Q Dental (Charlyn Quiec, DMD)','call','Monrovia','CA')">📞 Call</a> <a href="https://drqdental.net/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Q Dental (Charlyn Quiec, DMD)','website','Monrovia','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. Q Dental (Charlyn Quiec, DMD)','Monrovia','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Arcadia Pediatric Dental Practice &amp; Orthodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/monrovia/arcadia-pediatric-dental-practice-orthodontics.html" style="color:inherit;text-decoration:none;">Arcadia Pediatric Dental Practice &amp; Orthodontics</a></h3>
         <p class="dentist-address">📍 457 W Foothill Blvd, Monrovia, CA 91016, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(51 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6264456666" class="dentist-btn dentist-btn-call" onclick="trackLead('Arcadia Pediatric Dental Practice &amp; Orthodontics','call','Monrovia','CA')">📞 Call</a> <a href="https://www.arcadiachildrendentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Arcadia Pediatric Dental Practice &amp; Orthodontics','website','Monrovia','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6264456666" class="dentist-btn dentist-btn-call" onclick="trackLead('Arcadia Pediatric Dental Practice &amp; Orthodontics','call','Monrovia','CA')">📞 Call</a> <a href="https://www.arcadiachildrendentist.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Arcadia Pediatric Dental Practice &amp; Orthodontics','website','Monrovia','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Arcadia Pediatric Dental Practice &amp; Orthodontics','Monrovia','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Healthy Life Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/monrovia/healthy-life-dental.html" style="color:inherit;text-decoration:none;">Healthy Life Dental</a></h3>
         <p class="dentist-address">📍 121 W Colorado Blvd, Monrovia, CA 91016, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(110 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6267900938" class="dentist-btn dentist-btn-call" onclick="trackLead('Healthy Life Dental','call','Monrovia','CA')">📞 Call</a> <a href="http://www.healthylifedentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Healthy Life Dental','website','Monrovia','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6267900938" class="dentist-btn dentist-btn-call" onclick="trackLead('Healthy Life Dental','call','Monrovia','CA')">📞 Call</a> <a href="http://www.healthylifedentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Healthy Life Dental','website','Monrovia','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Healthy Life Dental','Monrovia','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">West Coast Dental of Monrovia</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/monrovia/west-coast-dental-of-monrovia.html" style="color:inherit;text-decoration:none;">West Coast Dental of Monrovia</a></h3>
         <p class="dentist-address">📍 154 W Foothill Blvd Ste C-2A, Monrovia, CA 91016, USA</p>
         <div class="dentist-rating">★★★½ 3.8 <span class="review-count">(578 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6262633333" class="dentist-btn dentist-btn-call" onclick="trackLead('West Coast Dental of Monrovia','call','Monrovia','CA')">📞 Call</a> <a href="https://www.westcoastdental.com/locations/monrovia/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('West Coast Dental of Monrovia','website','Monrovia','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6262633333" class="dentist-btn dentist-btn-call" onclick="trackLead('West Coast Dental of Monrovia','call','Monrovia','CA')">📞 Call</a> <a href="https://www.westcoastdental.com/locations/monrovia/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('West Coast Dental of Monrovia','website','Monrovia','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('West Coast Dental of Monrovia','Monrovia','CA')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 10 dentists in South Gate, California. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"California","item":"https://dentalpedia.co/find-a-dentist/california.html"},
+                {"@type":"ListItem","position":4,"name":"South Gate","item":"https://dentalpedia.co/find-a-dentist/california/south-gate.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in South Gate, CA","numberOfItems":10,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Simple Dental South Gate","address":"8617 California Ave, South Gate, CA 90280, USA","telephone":"(323) 999-2378"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"California Dental Group","address":"5841 Firestone Blvd Suite C, South Gate, CA 90280, USA","telephone":"(562) 352-8500"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Reza Dental Care - South Gate","address":"9849 Atlantic Ave Suite F, South Gate, CA 90280, USA","telephone":"(323) 457-8787"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Embrace Dental and Orthodontics","address":"12009 Garfield Ave, South Gate, CA 90280, USA","telephone":"(562) 306-0060"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Ultra Dental Of South Gate","address":"12124 Garfield Ave, South Gate, CA 90280, USA","telephone":"(323) 775-9070"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"South Gate Smile Dental","address":"2701 Firestone Blvd G, South Gate, CA 90280, USA","telephone":"(323) 375-0082"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Liberty Smile Center","address":"8330 Long Beach Blvd #107, South Gate, CA 90280, USA","telephone":"(833) 496-0005"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"All Smiles Family Dental - Dr. Chiraag Parekh","address":"5814 Imperial Hwy., South Gate, CA 90280, USA","telephone":"(562) 869-2755"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"South Gate Dentistry &amp; Orthodontics","address":"8536 Long Beach Blvd B, South Gate, CA 90280, USA","telephone":"(323) 581-0754"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Dr. Naziri Dental Clinic","address":"4186 Tweedy Blvd, South Gate, CA 90280, USA","telephone":"(323) 569-7131"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/california.html">California</a> &rsaquo; South Gate</nav>
             <h1>Dentists in South Gate, CA</h1>
@@ -85,64 +140,64 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Simple Dental South Gate</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/south-gate/simple-dental-south-gate.html" style="color:inherit;text-decoration:none;">Simple Dental South Gate</a></h3>
         <p class="dentist-address">📍 8617 California Ave, South Gate, CA 90280, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(474 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3239992378" class="dentist-btn dentist-btn-call" onclick="trackLead('Simple Dental South Gate','call','South Gate','CA')">📞 Call</a> <a href="https://simpledentalca.com/south-gate/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Simple Dental South Gate','website','South Gate','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3239992378" class="dentist-btn dentist-btn-call" onclick="trackLead('Simple Dental South Gate','call','South Gate','CA')">📞 Call</a> <a href="https://simpledentalca.com/south-gate/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Simple Dental South Gate','website','South Gate','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Simple Dental South Gate','South Gate','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">California Dental Group</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/south-gate/california-dental-group.html" style="color:inherit;text-decoration:none;">California Dental Group</a></h3>
         <p class="dentist-address">📍 5841 Firestone Blvd Suite C, South Gate, CA 90280, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(352 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5623528500" class="dentist-btn dentist-btn-call" onclick="trackLead('California Dental Group','call','South Gate','CA')">📞 Call</a> <a href="https://www.cadentalgroup.com/contact/south-gate/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('California Dental Group','website','South Gate','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5623528500" class="dentist-btn dentist-btn-call" onclick="trackLead('California Dental Group','call','South Gate','CA')">📞 Call</a> <a href="https://www.cadentalgroup.com/contact/south-gate/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('California Dental Group','website','South Gate','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('California Dental Group','South Gate','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Reza Dental Care - South Gate</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/south-gate/reza-dental-care-south-gate.html" style="color:inherit;text-decoration:none;">Reza Dental Care - South Gate</a></h3>
         <p class="dentist-address">📍 9849 Atlantic Ave Suite F, South Gate, CA 90280, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(188 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3234578787" class="dentist-btn dentist-btn-call" onclick="trackLead('Reza Dental Care - South Gate','call','South Gate','CA')">📞 Call</a> <a href="https://rezadentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Reza Dental Care - South Gate','website','South Gate','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3234578787" class="dentist-btn dentist-btn-call" onclick="trackLead('Reza Dental Care - South Gate','call','South Gate','CA')">📞 Call</a> <a href="https://rezadentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Reza Dental Care - South Gate','website','South Gate','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Reza Dental Care - South Gate','South Gate','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Embrace Dental and Orthodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/south-gate/embrace-dental-and-orthodontics.html" style="color:inherit;text-decoration:none;">Embrace Dental and Orthodontics</a></h3>
         <p class="dentist-address">📍 12009 Garfield Ave, South Gate, CA 90280, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(161 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5623060060" class="dentist-btn dentist-btn-call" onclick="trackLead('Embrace Dental and Orthodontics','call','South Gate','CA')">📞 Call</a> <a href="http://embracedentalandortho.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Embrace Dental and Orthodontics','website','South Gate','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5623060060" class="dentist-btn dentist-btn-call" onclick="trackLead('Embrace Dental and Orthodontics','call','South Gate','CA')">📞 Call</a> <a href="http://embracedentalandortho.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Embrace Dental and Orthodontics','website','South Gate','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Embrace Dental and Orthodontics','South Gate','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Ultra Dental Of South Gate</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/south-gate/ultra-dental-of-south-gate.html" style="color:inherit;text-decoration:none;">Ultra Dental Of South Gate</a></h3>
         <p class="dentist-address">📍 12124 Garfield Ave, South Gate, CA 90280, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(128 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3237759070" class="dentist-btn dentist-btn-call" onclick="trackLead('Ultra Dental Of South Gate','call','South Gate','CA')">📞 Call</a> <a href="https://sfultradental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Ultra Dental Of South Gate','website','South Gate','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3237759070" class="dentist-btn dentist-btn-call" onclick="trackLead('Ultra Dental Of South Gate','call','South Gate','CA')">📞 Call</a> <a href="https://sfultradental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Ultra Dental Of South Gate','website','South Gate','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Ultra Dental Of South Gate','South Gate','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">South Gate Smile Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/south-gate/south-gate-smile-dental.html" style="color:inherit;text-decoration:none;">South Gate Smile Dental</a></h3>
         <p class="dentist-address">📍 2701 Firestone Blvd G, South Gate, CA 90280, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(4 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3233750082" class="dentist-btn dentist-btn-call" onclick="trackLead('South Gate Smile Dental','call','South Gate','CA')">📞 Call</a> <a href="https://www.southgatesmiledental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('South Gate Smile Dental','website','South Gate','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3233750082" class="dentist-btn dentist-btn-call" onclick="trackLead('South Gate Smile Dental','call','South Gate','CA')">📞 Call</a> <a href="https://www.southgatesmiledental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('South Gate Smile Dental','website','South Gate','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('South Gate Smile Dental','South Gate','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Liberty Smile Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/south-gate/liberty-smile-center.html" style="color:inherit;text-decoration:none;">Liberty Smile Center</a></h3>
         <p class="dentist-address">📍 8330 Long Beach Blvd #107, South Gate, CA 90280, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(258 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8334960005" class="dentist-btn dentist-btn-call" onclick="trackLead('Liberty Smile Center','call','South Gate','CA')">📞 Call</a> <a href="https://libertysmilecenter.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Liberty Smile Center','website','South Gate','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8334960005" class="dentist-btn dentist-btn-call" onclick="trackLead('Liberty Smile Center','call','South Gate','CA')">📞 Call</a> <a href="https://libertysmilecenter.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Liberty Smile Center','website','South Gate','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Liberty Smile Center','South Gate','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">All Smiles Family Dental - Dr. Chiraag Parekh</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/south-gate/all-smiles-family-dental-dr-chiraag-parekh.html" style="color:inherit;text-decoration:none;">All Smiles Family Dental - Dr. Chiraag Parekh</a></h3>
         <p class="dentist-address">📍 5814 Imperial Hwy., South Gate, CA 90280, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(52 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:5628692755" class="dentist-btn dentist-btn-call" onclick="trackLead('All Smiles Family Dental - Dr. Chiraag Parekh','call','South Gate','CA')">📞 Call</a> <a href="https://www.allsmilesfamilydental.info/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('All Smiles Family Dental - Dr. Chiraag Parekh','website','South Gate','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:5628692755" class="dentist-btn dentist-btn-call" onclick="trackLead('All Smiles Family Dental - Dr. Chiraag Parekh','call','South Gate','CA')">📞 Call</a> <a href="https://www.allsmilesfamilydental.info/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('All Smiles Family Dental - Dr. Chiraag Parekh','website','South Gate','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('All Smiles Family Dental - Dr. Chiraag Parekh','South Gate','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">South Gate Dentistry &amp; Orthodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/south-gate/south-gate-dentistry-orthodontics.html" style="color:inherit;text-decoration:none;">South Gate Dentistry &amp; Orthodontics</a></h3>
         <p class="dentist-address">📍 8536 Long Beach Blvd B, South Gate, CA 90280, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(285 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3235810754" class="dentist-btn dentist-btn-call" onclick="trackLead('South Gate Dentistry &amp; Orthodontics','call','South Gate','CA')">📞 Call</a> <a href="http://www.southgatedentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('South Gate Dentistry &amp; Orthodontics','website','South Gate','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3235810754" class="dentist-btn dentist-btn-call" onclick="trackLead('South Gate Dentistry &amp; Orthodontics','call','South Gate','CA')">📞 Call</a> <a href="http://www.southgatedentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('South Gate Dentistry &amp; Orthodontics','website','South Gate','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('South Gate Dentistry &amp; Orthodontics','South Gate','CA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. Naziri Dental Clinic</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/california/south-gate/dr-naziri-dental-clinic.html" style="color:inherit;text-decoration:none;">Dr. Naziri Dental Clinic</a></h3>
         <p class="dentist-address">📍 4186 Tweedy Blvd, South Gate, CA 90280, USA</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(155 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:3235697131" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Naziri Dental Clinic','call','South Gate','CA')">📞 Call</a> <a href="http://www.drnaziridentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Naziri Dental Clinic','website','South Gate','CA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:3235697131" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Naziri Dental Clinic','call','South Gate','CA')">📞 Call</a> <a href="http://www.drnaziridentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Naziri Dental Clinic','website','South Gate','CA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. Naziri Dental Clinic','South Gate','CA')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 9 dentists in Bala Cynwyd, Pennsylvania. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"Pennsylvania","item":"https://dentalpedia.co/find-a-dentist/pennsylvania.html"},
+                {"@type":"ListItem","position":4,"name":"Bala Cynwyd","item":"https://dentalpedia.co/find-a-dentist/pennsylvania/bala-cynwyd.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Bala Cynwyd, PA","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"David J. Weinstock, D.M.D.","address":"15 Presidential Blvd STE 201, Bala Cynwyd, PA 19004, USA","telephone":"(610) 667-2770"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Bala Advanced Endodontics","address":"191 Presidential Blvd #128, Bala Cynwyd, PA 19004, USA","telephone":"(610) 668-2442"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Bala Kids Dentistry","address":"15 Presidential Blvd UNIT 303, Bala Cynwyd, PA 19004, USA","telephone":"(610) 336-8478"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Main Line Smiles: Tara Sexton, DMD","address":"8 Cynwyd Rd, Bala Cynwyd, PA 19004, USA","telephone":"(610) 664-8466"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Dental Solutions of Bala Cynwyd","address":"One Bala Plaza, 231 St Asaphs Rd Suite 135, Bala Cynwyd, PA 19004, USA","telephone":"(610) 726-1474"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Bala Periodontics and Dental Implants","address":"7 Bala Ave Suite 300, Bala Cynwyd, PA 19004, USA","telephone":"(610) 660-0808"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Dr. Jay Lackman D.M.D., LLC","address":"200 Monument Rd Suite #4, Bala Cynwyd, PA 19004, USA","telephone":"(610) 667-7340"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Kellyn Hodges Orthodontics","address":"1 Belmont Ave UNIT 414, Bala Cynwyd, PA 19004, USA","telephone":"(610) 549-1302"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Bala Oral Health Center","address":"125 City Ave, Bala Cynwyd, PA 19004, USA","telephone":"(610) 667-7171"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/pennsylvania.html">Pennsylvania</a> &rsaquo; Bala Cynwyd</nav>
             <h1>Dentists in Bala Cynwyd, PA</h1>
@@ -85,58 +140,58 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">David J. Weinstock, D.M.D.</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bala-cynwyd/david-j-weinstock-d-m-d.html" style="color:inherit;text-decoration:none;">David J. Weinstock, D.M.D.</a></h3>
         <p class="dentist-address">📍 15 Presidential Blvd STE 201, Bala Cynwyd, PA 19004, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(165 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6106672770" class="dentist-btn dentist-btn-call" onclick="trackLead('David J. Weinstock, D.M.D.','call','Bala Cynwyd','PA')">📞 Call</a> <a href="https://www.drweinstock.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('David J. Weinstock, D.M.D.','website','Bala Cynwyd','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6106672770" class="dentist-btn dentist-btn-call" onclick="trackLead('David J. Weinstock, D.M.D.','call','Bala Cynwyd','PA')">📞 Call</a> <a href="https://www.drweinstock.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('David J. Weinstock, D.M.D.','website','Bala Cynwyd','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('David J. Weinstock, D.M.D.','Bala Cynwyd','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Bala Advanced Endodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bala-cynwyd/bala-advanced-endodontics.html" style="color:inherit;text-decoration:none;">Bala Advanced Endodontics</a></h3>
         <p class="dentist-address">📍 191 Presidential Blvd #128, Bala Cynwyd, PA 19004, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(16 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6106682442" class="dentist-btn dentist-btn-call" onclick="trackLead('Bala Advanced Endodontics','call','Bala Cynwyd','PA')">📞 Call</a> <a href="http://www.endobroth.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bala Advanced Endodontics','website','Bala Cynwyd','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6106682442" class="dentist-btn dentist-btn-call" onclick="trackLead('Bala Advanced Endodontics','call','Bala Cynwyd','PA')">📞 Call</a> <a href="http://www.endobroth.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bala Advanced Endodontics','website','Bala Cynwyd','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Bala Advanced Endodontics','Bala Cynwyd','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Bala Kids Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bala-cynwyd/bala-kids-dentistry.html" style="color:inherit;text-decoration:none;">Bala Kids Dentistry</a></h3>
         <p class="dentist-address">📍 15 Presidential Blvd UNIT 303, Bala Cynwyd, PA 19004, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(171 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6103368478" class="dentist-btn dentist-btn-call" onclick="trackLead('Bala Kids Dentistry','call','Bala Cynwyd','PA')">📞 Call</a> <a href="https://www.balakidsdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bala Kids Dentistry','website','Bala Cynwyd','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6103368478" class="dentist-btn dentist-btn-call" onclick="trackLead('Bala Kids Dentistry','call','Bala Cynwyd','PA')">📞 Call</a> <a href="https://www.balakidsdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bala Kids Dentistry','website','Bala Cynwyd','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Bala Kids Dentistry','Bala Cynwyd','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Main Line Smiles: Tara Sexton, DMD</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bala-cynwyd/main-line-smiles-tara-sexton-dmd.html" style="color:inherit;text-decoration:none;">Main Line Smiles: Tara Sexton, DMD</a></h3>
         <p class="dentist-address">📍 8 Cynwyd Rd, Bala Cynwyd, PA 19004, USA</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(17 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6106648466" class="dentist-btn dentist-btn-call" onclick="trackLead('Main Line Smiles: Tara Sexton, DMD','call','Bala Cynwyd','PA')">📞 Call</a> <a href="http://www.mainlinesmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Main Line Smiles: Tara Sexton, DMD','website','Bala Cynwyd','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6106648466" class="dentist-btn dentist-btn-call" onclick="trackLead('Main Line Smiles: Tara Sexton, DMD','call','Bala Cynwyd','PA')">📞 Call</a> <a href="http://www.mainlinesmiles.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Main Line Smiles: Tara Sexton, DMD','website','Bala Cynwyd','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Main Line Smiles: Tara Sexton, DMD','Bala Cynwyd','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dental Solutions of Bala Cynwyd</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bala-cynwyd/dental-solutions-of-bala-cynwyd.html" style="color:inherit;text-decoration:none;">Dental Solutions of Bala Cynwyd</a></h3>
         <p class="dentist-address">📍 One Bala Plaza, 231 St Asaphs Rd Suite 135, Bala Cynwyd, PA 19004, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(837 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6107261474" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Solutions of Bala Cynwyd','call','Bala Cynwyd','PA')">📞 Call</a> <a href="https://dentalsolutionscreatingsmiles.com/dentist-office/bala-cynwyd-pa-19004" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Solutions of Bala Cynwyd','website','Bala Cynwyd','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6107261474" class="dentist-btn dentist-btn-call" onclick="trackLead('Dental Solutions of Bala Cynwyd','call','Bala Cynwyd','PA')">📞 Call</a> <a href="https://dentalsolutionscreatingsmiles.com/dentist-office/bala-cynwyd-pa-19004" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dental Solutions of Bala Cynwyd','website','Bala Cynwyd','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dental Solutions of Bala Cynwyd','Bala Cynwyd','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Bala Periodontics and Dental Implants</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bala-cynwyd/bala-periodontics-and-dental-implants.html" style="color:inherit;text-decoration:none;">Bala Periodontics and Dental Implants</a></h3>
         <p class="dentist-address">📍 7 Bala Ave Suite 300, Bala Cynwyd, PA 19004, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(258 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6106600808" class="dentist-btn dentist-btn-call" onclick="trackLead('Bala Periodontics and Dental Implants','call','Bala Cynwyd','PA')">📞 Call</a> <a href="https://baladentalimplants.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bala Periodontics and Dental Implants','website','Bala Cynwyd','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6106600808" class="dentist-btn dentist-btn-call" onclick="trackLead('Bala Periodontics and Dental Implants','call','Bala Cynwyd','PA')">📞 Call</a> <a href="https://baladentalimplants.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bala Periodontics and Dental Implants','website','Bala Cynwyd','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Bala Periodontics and Dental Implants','Bala Cynwyd','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. Jay Lackman D.M.D., LLC</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bala-cynwyd/dr-jay-lackman-d-m-d-llc.html" style="color:inherit;text-decoration:none;">Dr. Jay Lackman D.M.D., LLC</a></h3>
         <p class="dentist-address">📍 200 Monument Rd Suite #4, Bala Cynwyd, PA 19004, USA</p>
         <div class="dentist-rating">★★★★½ 4.5 <span class="review-count">(26 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6106677340" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Jay Lackman D.M.D., LLC','call','Bala Cynwyd','PA')">📞 Call</a> <a href="http://drjaylackman.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Jay Lackman D.M.D., LLC','website','Bala Cynwyd','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6106677340" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Jay Lackman D.M.D., LLC','call','Bala Cynwyd','PA')">📞 Call</a> <a href="http://drjaylackman.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Jay Lackman D.M.D., LLC','website','Bala Cynwyd','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. Jay Lackman D.M.D., LLC','Bala Cynwyd','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Kellyn Hodges Orthodontics</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bala-cynwyd/kellyn-hodges-orthodontics.html" style="color:inherit;text-decoration:none;">Kellyn Hodges Orthodontics</a></h3>
         <p class="dentist-address">📍 1 Belmont Ave UNIT 414, Bala Cynwyd, PA 19004, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(350 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6105491302" class="dentist-btn dentist-btn-call" onclick="trackLead('Kellyn Hodges Orthodontics','call','Bala Cynwyd','PA')">📞 Call</a> <a href="https://www.hodgesortho.com/locations/bala-cynwyd-office/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Kellyn Hodges Orthodontics','website','Bala Cynwyd','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6105491302" class="dentist-btn dentist-btn-call" onclick="trackLead('Kellyn Hodges Orthodontics','call','Bala Cynwyd','PA')">📞 Call</a> <a href="https://www.hodgesortho.com/locations/bala-cynwyd-office/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Kellyn Hodges Orthodontics','website','Bala Cynwyd','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Kellyn Hodges Orthodontics','Bala Cynwyd','PA')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Bala Oral Health Center</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/pennsylvania/bala-cynwyd/bala-oral-health-center.html" style="color:inherit;text-decoration:none;">Bala Oral Health Center</a></h3>
         <p class="dentist-address">📍 125 City Ave, Bala Cynwyd, PA 19004, USA</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(62 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6106677171" class="dentist-btn dentist-btn-call" onclick="trackLead('Bala Oral Health Center','call','Bala Cynwyd','PA')">📞 Call</a> <a href="https://www.balaoralhealthcenter.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bala Oral Health Center','website','Bala Cynwyd','PA')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6106677171" class="dentist-btn dentist-btn-call" onclick="trackLead('Bala Oral Health Center','call','Bala Cynwyd','PA')">📞 Call</a> <a href="https://www.balaoralhealthcenter.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Bala Oral Health Center','website','Bala Cynwyd','PA')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Bala Oral Health Center','Bala Cynwyd','PA')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

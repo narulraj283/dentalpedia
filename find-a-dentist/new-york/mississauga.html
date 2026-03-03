@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 10 dentists in Mississauga, New York. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"New York","item":"https://dentalpedia.co/find-a-dentist/new-york.html"},
+                {"@type":"ListItem","position":4,"name":"Mississauga","item":"https://dentalpedia.co/find-a-dentist/new-york/mississauga.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Mississauga, NY","numberOfItems":10,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Maple Dental Services","address":"30 Eglinton Ave W, Mississauga, ON L5R 3E7, Canada","telephone":"(437) 383-2040"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"M City Dental – Dr. Mahmoud Manzoor &amp; Associates","address":"428 Burnhamthorpe Rd W Unit F, Mississauga, ON L5B 4M6, Canada","telephone":"(647) 368-8779"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Lorne Park Dentistry","address":"1150 Lorne Park Rd, Mississauga, ON L5H 3A5, Canada","telephone":"(905) 274-6678"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Sharing Smiles Dental Mississauga","address":"3115 Glen Erin Dr #6, Mississauga, ON L5L 1J3, Canada","telephone":"(416) 500-7250"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Limelight Dental","address":"4188 Living Arts Dr #2, Mississauga, ON L5B 0H7, Canada","telephone":"(905) 949-2220"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"9th Line Dental","address":"3945 Doug Leavens Blvd #104, Mississauga, ON L5N 0A5, Canada","telephone":"(905) 785-3900"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"K Hashem Dental care","address":"77 queens way west unit 307A South peel medical arts building, Mississauga, ON L5B 1B7, Canada","telephone":"(647) 806-7845"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Mississauga Dental Walk in","address":"209-3885 Duke of York Blvd, Mississauga, ON L5B 4M7, Canada","telephone":"(905) 615-9000"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"DF Dental Solutions","address":"1287 Matheson Blvd E, Mississauga, ON L4W 1R1, Canada","telephone":"(866) 740-8829"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"DentEmploy Canada","address":"1860 Lakeshore Rd W #1a, Mississauga, ON L5J 1J7, Canada","telephone":"(416) 201-3597"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/new-york.html">New York</a> &rsaquo; Mississauga</nav>
             <h1>Dentists in Mississauga, NY</h1>
@@ -85,64 +140,64 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Maple Dental Services</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/mississauga/maple-dental-services.html" style="color:inherit;text-decoration:none;">Maple Dental Services</a></h3>
         <p class="dentist-address">📍 30 Eglinton Ave W, Mississauga, ON L5R 3E7, Canada</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(1 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4373832040" class="dentist-btn dentist-btn-call" onclick="trackLead('Maple Dental Services','call','Mississauga','NY')">📞 Call</a> <a href="http://www.mapledentalservices.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Maple Dental Services','website','Mississauga','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4373832040" class="dentist-btn dentist-btn-call" onclick="trackLead('Maple Dental Services','call','Mississauga','NY')">📞 Call</a> <a href="http://www.mapledentalservices.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Maple Dental Services','website','Mississauga','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Maple Dental Services','Mississauga','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">M City Dental – Dr. Mahmoud Manzoor &amp; Associates</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/mississauga/m-city-dental-dr-mahmoud-manzoor-associates.html" style="color:inherit;text-decoration:none;">M City Dental – Dr. Mahmoud Manzoor &amp; Associates</a></h3>
         <p class="dentist-address">📍 428 Burnhamthorpe Rd W Unit F, Mississauga, ON L5B 4M6, Canada</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(263 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6473688779" class="dentist-btn dentist-btn-call" onclick="trackLead('M City Dental – Dr. Mahmoud Manzoor &amp; Associates','call','Mississauga','NY')">📞 Call</a> <a href="https://mcitydental.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('M City Dental – Dr. Mahmoud Manzoor &amp; Associates','website','Mississauga','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6473688779" class="dentist-btn dentist-btn-call" onclick="trackLead('M City Dental – Dr. Mahmoud Manzoor &amp; Associates','call','Mississauga','NY')">📞 Call</a> <a href="https://mcitydental.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('M City Dental – Dr. Mahmoud Manzoor &amp; Associates','website','Mississauga','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('M City Dental – Dr. Mahmoud Manzoor &amp; Associates','Mississauga','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Lorne Park Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/mississauga/lorne-park-dentistry.html" style="color:inherit;text-decoration:none;">Lorne Park Dentistry</a></h3>
         <p class="dentist-address">📍 1150 Lorne Park Rd, Mississauga, ON L5H 3A5, Canada</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(244 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9052746678" class="dentist-btn dentist-btn-call" onclick="trackLead('Lorne Park Dentistry','call','Mississauga','NY')">📞 Call</a> <a href="http://www.lorneparkdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lorne Park Dentistry','website','Mississauga','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9052746678" class="dentist-btn dentist-btn-call" onclick="trackLead('Lorne Park Dentistry','call','Mississauga','NY')">📞 Call</a> <a href="http://www.lorneparkdentistry.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lorne Park Dentistry','website','Mississauga','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Lorne Park Dentistry','Mississauga','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Sharing Smiles Dental Mississauga</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/mississauga/sharing-smiles-dental-mississauga.html" style="color:inherit;text-decoration:none;">Sharing Smiles Dental Mississauga</a></h3>
         <p class="dentist-address">📍 3115 Glen Erin Dr #6, Mississauga, ON L5L 1J3, Canada</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(86 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:4165007250" class="dentist-btn dentist-btn-call" onclick="trackLead('Sharing Smiles Dental Mississauga','call','Mississauga','NY')">📞 Call</a> <a href="http://sharingsmilesdental.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sharing Smiles Dental Mississauga','website','Mississauga','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4165007250" class="dentist-btn dentist-btn-call" onclick="trackLead('Sharing Smiles Dental Mississauga','call','Mississauga','NY')">📞 Call</a> <a href="http://sharingsmilesdental.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Sharing Smiles Dental Mississauga','website','Mississauga','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Sharing Smiles Dental Mississauga','Mississauga','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Limelight Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/mississauga/limelight-dental.html" style="color:inherit;text-decoration:none;">Limelight Dental</a></h3>
         <p class="dentist-address">📍 4188 Living Arts Dr #2, Mississauga, ON L5B 0H7, Canada</p>
         <div class="dentist-rating">★★★★½ 4.8 <span class="review-count">(771 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9059492220" class="dentist-btn dentist-btn-call" onclick="trackLead('Limelight Dental','call','Mississauga','NY')">📞 Call</a> <a href="https://www.limelightdental.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Limelight Dental','website','Mississauga','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9059492220" class="dentist-btn dentist-btn-call" onclick="trackLead('Limelight Dental','call','Mississauga','NY')">📞 Call</a> <a href="https://www.limelightdental.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Limelight Dental','website','Mississauga','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Limelight Dental','Mississauga','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">9th Line Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/mississauga/9th-line-dental.html" style="color:inherit;text-decoration:none;">9th Line Dental</a></h3>
         <p class="dentist-address">📍 3945 Doug Leavens Blvd #104, Mississauga, ON L5N 0A5, Canada</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(91 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9057853900" class="dentist-btn dentist-btn-call" onclick="trackLead('9th Line Dental','call','Mississauga','NY')">📞 Call</a> <a href="https://www.9thlinedental.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('9th Line Dental','website','Mississauga','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9057853900" class="dentist-btn dentist-btn-call" onclick="trackLead('9th Line Dental','call','Mississauga','NY')">📞 Call</a> <a href="https://www.9thlinedental.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('9th Line Dental','website','Mississauga','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('9th Line Dental','Mississauga','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">K Hashem Dental care</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/mississauga/k-hashem-dental-care.html" style="color:inherit;text-decoration:none;">K Hashem Dental care</a></h3>
         <p class="dentist-address">📍 77 queens way west unit 307A South peel medical arts building, Mississauga, ON L5B 1B7, Canada</p>
         <div class="dentist-rating">★★★★½ 4.6 <span class="review-count">(9 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:6478067845" class="dentist-btn dentist-btn-call" onclick="trackLead('K Hashem Dental care','call','Mississauga','NY')">📞 Call</a> <a href="http://khashemdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('K Hashem Dental care','website','Mississauga','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:6478067845" class="dentist-btn dentist-btn-call" onclick="trackLead('K Hashem Dental care','call','Mississauga','NY')">📞 Call</a> <a href="http://khashemdentalcare.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('K Hashem Dental care','website','Mississauga','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('K Hashem Dental care','Mississauga','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Mississauga Dental Walk in</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/mississauga/mississauga-dental-walk-in.html" style="color:inherit;text-decoration:none;">Mississauga Dental Walk in</a></h3>
         <p class="dentist-address">📍 209-3885 Duke of York Blvd, Mississauga, ON L5B 4M7, Canada</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(78 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:9056159000" class="dentist-btn dentist-btn-call" onclick="trackLead('Mississauga Dental Walk in','call','Mississauga','NY')">📞 Call</a> <a href="http://www.mississaugadentalwalkin.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mississauga Dental Walk in','website','Mississauga','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:9056159000" class="dentist-btn dentist-btn-call" onclick="trackLead('Mississauga Dental Walk in','call','Mississauga','NY')">📞 Call</a> <a href="http://www.mississaugadentalwalkin.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Mississauga Dental Walk in','website','Mississauga','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Mississauga Dental Walk in','Mississauga','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">DF Dental Solutions</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/mississauga/df-dental-solutions.html" style="color:inherit;text-decoration:none;">DF Dental Solutions</a></h3>
         <p class="dentist-address">📍 1287 Matheson Blvd E, Mississauga, ON L4W 1R1, Canada</p>
         <div class="dentist-rating">★★★★ 4.3 <span class="review-count">(38 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:8667408829" class="dentist-btn dentist-btn-call" onclick="trackLead('DF Dental Solutions','call','Mississauga','NY')">📞 Call</a> <a href="https://dfdentalsolutions.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('DF Dental Solutions','website','Mississauga','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:8667408829" class="dentist-btn dentist-btn-call" onclick="trackLead('DF Dental Solutions','call','Mississauga','NY')">📞 Call</a> <a href="https://dfdentalsolutions.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('DF Dental Solutions','website','Mississauga','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('DF Dental Solutions','Mississauga','NY')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">DentEmploy Canada</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-york/mississauga/dentemploy-canada.html" style="color:inherit;text-decoration:none;">DentEmploy Canada</a></h3>
         <p class="dentist-address">📍 1860 Lakeshore Rd W #1a, Mississauga, ON L5J 1J7, Canada</p>
         <div class="dentist-rating"> <span class="review-count"></span></div>
-        <div class="dentist-actions"><a href="tel:4162013597" class="dentist-btn dentist-btn-call" onclick="trackLead('DentEmploy Canada','call','Mississauga','NY')">📞 Call</a> <a href="https://www.thehandymanpro.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('DentEmploy Canada','website','Mississauga','NY')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:4162013597" class="dentist-btn dentist-btn-call" onclick="trackLead('DentEmploy Canada','call','Mississauga','NY')">📞 Call</a> <a href="https://www.thehandymanpro.ca/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('DentEmploy Canada','website','Mississauga','NY')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('DentEmploy Canada','Mississauga','NY')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>

@@ -19,10 +19,17 @@
     <meta name="twitter:description" content="Find 7 dentists in Lyndhurst, New Jersey. Compare ratings, read reviews, and contact dental practices near you.">
         
     <script type="application/ld+json">
+            {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+                {"@type":"ListItem","position":1,"name":"Home","item":"https://dentalpedia.co/"},
+                {"@type":"ListItem","position":2,"name":"Find a Dentist","item":"https://dentalpedia.co/find-a-dentist/"},
+                {"@type":"ListItem","position":3,"name":"New Jersey","item":"https://dentalpedia.co/find-a-dentist/new-jersey.html"},
+                {"@type":"ListItem","position":4,"name":"Lyndhurst","item":"https://dentalpedia.co/find-a-dentist/new-jersey/lyndhurst.html"}
+            ]}</script>
+            <script type="application/ld+json">
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Lyndhurst, NJ","numberOfItems":7,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Blossom Smiles Dental","address":"134 Ridge Rd, Lyndhurst, NJ 07071, USA","telephone":"(201) 522-5555"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Hunter Frank DDS","address":"537 Stuyvesant Ave, Lyndhurst, NJ 07071, USA","telephone":"(201) 438-9747"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Family Dentistry","address":"710 Ridge Rd, Lyndhurst, NJ 07071, USA","telephone":"(201) 460-3431"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Lee John K DDS","address":"464 Valley Brook Ave UNIT 1A, Lyndhurst, NJ 07071, USA","telephone":"(201) 933-0075"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Lyndhurst Dental Center: Modarres Ozra F DDS","address":"44 Ridge Rd, Lyndhurst, NJ 07071, USA","telephone":"(201) 438-5328"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"South Bergen Oral Maxillofacial Surgery","address":"422 Stuyvesant Ave, Lyndhurst, NJ 07071, USA","telephone":"(201) 935-4577"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Dr. Dental: Dentistry &amp; Braces Lyndhurst","address":"542 New York Ave, Lyndhurst, NJ 07071, USA","telephone":"(201) 584-5940"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=da7e4948">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=c05eb594">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -77,7 +84,55 @@
         });
         if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
     }
+    function openApptForm(name, city, state) {
+        document.getElementById('appt-modal').style.display = 'flex';
+        document.getElementById('appt-practice').value = name;
+        document.getElementById('appt-city').value = city;
+        document.getElementById('appt-state').value = state;
+        document.getElementById('appt-title').textContent = 'Request Appointment at ' + name;
+    }
+    function closeApptForm() { document.getElementById('appt-modal').style.display = 'none'; }
+    function submitAppt() {
+        var name = document.getElementById('appt-name').value.trim();
+        var phone = document.getElementById('appt-phone').value.trim();
+        var email = document.getElementById('appt-email').value.trim();
+        var msg = document.getElementById('appt-msg').value.trim();
+        var practice = document.getElementById('appt-practice').value;
+        var city = document.getElementById('appt-city').value;
+        var state = document.getElementById('appt-state').value;
+        if (!name || !phone) { alert('Please enter your name and phone number.'); return; }
+        var btn = document.querySelector('#appt-modal .appt-submit');
+        btn.disabled = true; btn.textContent = 'Sending...';
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'appointment', practice: practice, patient_name: name, patient_phone: phone, patient_email: email, message: msg, city: city, state: state, page: window.location.pathname})
+        }).then(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            trackLead(practice, 'appointment', city, state);
+            setTimeout(closeApptForm, 2000);
+        }).catch(function() {
+            btn.textContent = 'Sent!';
+            document.getElementById('appt-success').style.display = 'block';
+            setTimeout(closeApptForm, 2000);
+        });
+    }
     </script>
+    <!-- Appointment Modal -->
+    <div id="appt-modal" style="display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:9999;align-items:center;justify-content:center;">
+        <div style="background:var(--bg-card);border-radius:12px;padding:2rem;max-width:450px;width:90%;position:relative;">
+            <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
+            <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
+            <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
+            <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
+        </div>
+    </div>
     
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/new-jersey.html">New Jersey</a> &rsaquo; Lyndhurst</nav>
             <h1>Dentists in Lyndhurst, NJ</h1>
@@ -85,46 +140,46 @@
 
             <div class="dentist-grid"><div class="dentist-card">
         
-        <h3 class="dentist-name">Blossom Smiles Dental</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/lyndhurst/blossom-smiles-dental.html" style="color:inherit;text-decoration:none;">Blossom Smiles Dental</a></h3>
         <p class="dentist-address">📍 134 Ridge Rd, Lyndhurst, NJ 07071, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(96 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2015225555" class="dentist-btn dentist-btn-call" onclick="trackLead('Blossom Smiles Dental','call','Lyndhurst','NJ')">📞 Call</a> <a href="https://blossomsmiles.us/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Blossom Smiles Dental','website','Lyndhurst','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2015225555" class="dentist-btn dentist-btn-call" onclick="trackLead('Blossom Smiles Dental','call','Lyndhurst','NJ')">📞 Call</a> <a href="https://blossomsmiles.us/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Blossom Smiles Dental','website','Lyndhurst','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Blossom Smiles Dental','Lyndhurst','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Hunter Frank DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/lyndhurst/hunter-frank-dds.html" style="color:inherit;text-decoration:none;">Hunter Frank DDS</a></h3>
         <p class="dentist-address">📍 537 Stuyvesant Ave, Lyndhurst, NJ 07071, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(6 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2014389747" class="dentist-btn dentist-btn-call" onclick="trackLead('Hunter Frank DDS','call','Lyndhurst','NJ')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:2014389747" class="dentist-btn dentist-btn-call" onclick="trackLead('Hunter Frank DDS','call','Lyndhurst','NJ')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Hunter Frank DDS','Lyndhurst','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Family Dentistry</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/lyndhurst/family-dentistry.html" style="color:inherit;text-decoration:none;">Family Dentistry</a></h3>
         <p class="dentist-address">📍 710 Ridge Rd, Lyndhurst, NJ 07071, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(1 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2014603431" class="dentist-btn dentist-btn-call" onclick="trackLead('Family Dentistry','call','Lyndhurst','NJ')">📞 Call</a> <a href="http://www.thetootharium.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Family Dentistry','website','Lyndhurst','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2014603431" class="dentist-btn dentist-btn-call" onclick="trackLead('Family Dentistry','call','Lyndhurst','NJ')">📞 Call</a> <a href="http://www.thetootharium.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Family Dentistry','website','Lyndhurst','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Family Dentistry','Lyndhurst','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Lee John K DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/lyndhurst/lee-john-k-dds.html" style="color:inherit;text-decoration:none;">Lee John K DDS</a></h3>
         <p class="dentist-address">📍 464 Valley Brook Ave UNIT 1A, Lyndhurst, NJ 07071, USA</p>
         <div class="dentist-rating">★★★★★ 5.0 <span class="review-count">(1 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2019330075" class="dentist-btn dentist-btn-call" onclick="trackLead('Lee John K DDS','call','Lyndhurst','NJ')">📞 Call</a> <a href="https://www.lyndhurstfamilydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lee John K DDS','website','Lyndhurst','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2019330075" class="dentist-btn dentist-btn-call" onclick="trackLead('Lee John K DDS','call','Lyndhurst','NJ')">📞 Call</a> <a href="https://www.lyndhurstfamilydental.com/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Lee John K DDS','website','Lyndhurst','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Lee John K DDS','Lyndhurst','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Lyndhurst Dental Center: Modarres Ozra F DDS</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/lyndhurst/lyndhurst-dental-center-modarres-ozra-f-dds.html" style="color:inherit;text-decoration:none;">Lyndhurst Dental Center: Modarres Ozra F DDS</a></h3>
         <p class="dentist-address">📍 44 Ridge Rd, Lyndhurst, NJ 07071, USA</p>
         <div class="dentist-rating">★★★★½ 4.9 <span class="review-count">(65 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2014385328" class="dentist-btn dentist-btn-call" onclick="trackLead('Lyndhurst Dental Center: Modarres Ozra F DDS','call','Lyndhurst','NJ')">📞 Call</a> </div>
+        <div class="dentist-actions"><a href="tel:2014385328" class="dentist-btn dentist-btn-call" onclick="trackLead('Lyndhurst Dental Center: Modarres Ozra F DDS','call','Lyndhurst','NJ')">📞 Call</a>  <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Lyndhurst Dental Center: Modarres Ozra F DDS','Lyndhurst','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">South Bergen Oral Maxillofacial Surgery</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/lyndhurst/south-bergen-oral-maxillofacial-surgery.html" style="color:inherit;text-decoration:none;">South Bergen Oral Maxillofacial Surgery</a></h3>
         <p class="dentist-address">📍 422 Stuyvesant Ave, Lyndhurst, NJ 07071, USA</p>
         <div class="dentist-rating">★★★★½ 4.7 <span class="review-count">(309 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2019354577" class="dentist-btn dentist-btn-call" onclick="trackLead('South Bergen Oral Maxillofacial Surgery','call','Lyndhurst','NJ')">📞 Call</a> <a href="http://www.southbergenoralsurgery.com/contact" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('South Bergen Oral Maxillofacial Surgery','website','Lyndhurst','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2019354577" class="dentist-btn dentist-btn-call" onclick="trackLead('South Bergen Oral Maxillofacial Surgery','call','Lyndhurst','NJ')">📞 Call</a> <a href="http://www.southbergenoralsurgery.com/contact" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('South Bergen Oral Maxillofacial Surgery','website','Lyndhurst','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('South Bergen Oral Maxillofacial Surgery','Lyndhurst','NJ')">📅 Request Appointment</button></div>
     </div><div class="dentist-card">
         
-        <h3 class="dentist-name">Dr. Dental: Dentistry &amp; Braces Lyndhurst</h3>
+        <h3 class="dentist-name"><a href="/find-a-dentist/new-jersey/lyndhurst/dr-dental-dentistry-braces-lyndhurst.html" style="color:inherit;text-decoration:none;">Dr. Dental: Dentistry &amp; Braces Lyndhurst</a></h3>
         <p class="dentist-address">📍 542 New York Ave, Lyndhurst, NJ 07071, USA</p>
         <div class="dentist-rating">★★★★½ 4.4 <span class="review-count">(383 reviews)</span></div>
-        <div class="dentist-actions"><a href="tel:2015845940" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Dental: Dentistry &amp; Braces Lyndhurst','call','Lyndhurst','NJ')">📞 Call</a> <a href="https://www.mydrdental.com/location/new-jersey/lyndhurst/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Dental: Dentistry &amp; Braces Lyndhurst','website','Lyndhurst','NJ')">🌐 Website</a></div>
+        <div class="dentist-actions"><a href="tel:2015845940" class="dentist-btn dentist-btn-call" onclick="trackLead('Dr. Dental: Dentistry &amp; Braces Lyndhurst','call','Lyndhurst','NJ')">📞 Call</a> <a href="https://www.mydrdental.com/location/new-jersey/lyndhurst/" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('Dr. Dental: Dentistry &amp; Braces Lyndhurst','website','Lyndhurst','NJ')">🌐 Website</a> <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('Dr. Dental: Dentistry &amp; Braces Lyndhurst','Lyndhurst','NJ')">📅 Request Appointment</button></div>
     </div></div>
             <div class="share-buttons">
     <span class="share-label">Share this page</span>
