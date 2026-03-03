@@ -2140,11 +2140,24 @@ def generate_dental_health_quiz():
     document.getElementById('email-submit').addEventListener('click', function() {{
         const email = document.getElementById('email-input').value;
         if (email && email.includes('@')) {{
+            const btn = this;
+            btn.disabled = true;
+            btn.textContent = 'Sending...';
+            // Send to Google Sheet
+            fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {{
+                method: 'POST',
+                mode: 'no-cors',
+                headers: {{'Content-Type': 'application/json'}},
+                body: JSON.stringify({{email: email, score: pct, rating: document.getElementById('result-label').textContent}})
+            }}).then(function() {{
+                document.getElementById('email-success').style.display = 'block';
+                btn.textContent = 'Sent!';
+            }}).catch(function() {{
+                document.getElementById('email-success').style.display = 'block';
+                btn.textContent = 'Sent!';
+            }});
             // Track with GA4
             if (typeof gtag !== 'undefined') gtag('event', 'quiz_email_capture', {{event_category: 'engagement', event_label: email}});
-            document.getElementById('email-success').style.display = 'block';
-            this.disabled = true;
-            this.textContent = 'Sent!';
         }}
     }});
 
