@@ -55,6 +55,8 @@ articles_by_category = defaultdict(list)
 articles_by_subcategory = defaultdict(list)
 all_articles = []
 subcategories_data = {}
+dentists_data = []  # Find a Dentist directory data
+ekwa_clients = {}  # Ekwa premium client data
 cities_data = []
 procedure_costs = []
 cornerstone_guides = []
@@ -65,7 +67,7 @@ minified_css_hash = ""  # Cache-busting hash for minified CSS
 
 def load_json_data():
     """Load all JSON data files."""
-    global subcategories_data, cities_data, procedure_costs, cornerstone_guides
+    global subcategories_data, cities_data, procedure_costs, cornerstone_guides, dentists_data, ekwa_clients
 
     try:
         with open(DATA_DIR / "subcategories.json") as f:
@@ -102,6 +104,20 @@ def load_json_data():
         logger.info(f"Loaded {len(cornerstone_guides)} cornerstone guides")
     except Exception as e:
         logger.error(f"Failed to load cornerstone_guides.json: {e}")
+
+    try:
+        with open(DATA_DIR / "dentists.json") as f:
+            dentists_data = json.load(f)
+        logger.info(f"Loaded {len(dentists_data)} dental practices for directory")
+    except Exception as e:
+        logger.error(f"Failed to load dentists.json: {e}")
+
+    try:
+        with open(DATA_DIR / "ekwa_clients.json") as f:
+            ekwa_clients = json.load(f)
+        logger.info(f"Loaded {len(ekwa_clients)} Ekwa premium clients")
+    except:
+        ekwa_clients = {}
 
 
 def parse_markdown_frontmatter(content):
@@ -392,8 +408,8 @@ def get_navbar_html(current_page="home"):
                         <li><a href="/compare/">📍 Cost by City</a></li>
                     </ul>
                 </li>
+                <li><a href="/find-a-dentist/">Find a Dentist</a></li>
                 <li><a href="/myths/">Myths vs Facts</a></li>
-                <li><a href="/widget/">For Dentists</a></li>
             </ul>
             <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">🌓</button>
         </div>
@@ -1430,93 +1446,188 @@ def generate_editorial_standards_page():
 
 
 def generate_admin_dashboard():
-    """Generate admin dashboard with build statistics."""
+    """Generate password-protected admin dashboard."""
     logger.info("Generating admin dashboard...")
 
-    # Calculate stats
     total_articles = len(all_articles)
     total_categories = len(articles_by_category)
     total_subcategories = len(articles_by_subcategory)
-    total_cities = len(cities_data)
+    total_cities_cost = len(cities_data)
     total_procedures = len(procedure_costs)
     total_guides = len(cornerstone_guides)
-
-    location_pages = total_cities * total_procedures
-
-    # Build timestamp
+    total_dentists = len(dentists_data)
+    location_pages = total_cities_cost * total_procedures
     build_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-    # Category breakdown
-    category_stats = ''
+    # Dentist directory stats
+    dentist_states = defaultdict(int)
+    dentist_cities_count = defaultdict(int)
+    for d in dentists_data:
+        dentist_states[d['state']] += 1
+        dentist_cities_count[(d['state'], d['city'])] += 1
+
+    state_rows = ''
+    for st in sorted(dentist_states.keys()):
+        cities_in_st = len([k for k in dentist_cities_count if k[0] == st])
+        state_rows += f'<tr><td>{STATE_NAMES.get(st, st)}</td><td>{dentist_states[st]:,}</td><td>{cities_in_st}</td></tr>'
+
+    category_rows = ''
     for cat_slug, articles in sorted(articles_by_category.items()):
-        category_stats += f'<tr><td>{cat_slug}</td><td>{len(articles)}</td></tr>'
+        category_rows += f'<tr><td>{cat_slug}</td><td>{len(articles)}</td></tr>'
 
+    ekwa_count = len(ekwa_clients)
+
+    # Password hash: SHA-256 of "dentalpedia2024" — user can change later
+    # We use client-side hashing to keep it static-site compatible
     content = f'''
-    <div class="category-header">
-        <h1>DentalPedia Admin Dashboard</h1>
-        <p>Build Statistics & Site Overview</p>
+    <div id="login-screen" style="max-width:400px;margin:4rem auto;text-align:center;">
+        <h1 style="margin-bottom:1rem;">🔒 Admin Dashboard</h1>
+        <p style="color:var(--text-secondary);margin-bottom:1.5rem;">Enter password to access the dashboard</p>
+        <input type="password" id="admin-pw" placeholder="Password" style="width:100%;padding:0.75rem;border:1px solid var(--border);border-radius:8px;font-size:1rem;margin-bottom:1rem;background:var(--bg-card);color:var(--text-primary);">
+        <button onclick="checkPw()" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-size:1rem;font-weight:700;cursor:pointer;">Unlock</button>
+        <p id="pw-error" style="color:#ef4444;margin-top:0.75rem;display:none;">Incorrect password</p>
     </div>
 
-    <div class="content-width" style="padding: 2rem 0;">
-        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin-bottom: 2rem;">
-            <div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: var(--radius-lg);">
-                <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem;">Articles</div>
-                <div style="font-size: 2rem; font-weight: 700; color: var(--tooth-accent);">{total_articles:,}</div>
+    <div id="dashboard" style="display:none;">
+        <div class="category-header">
+            <h1>DentalPedia Admin Dashboard</h1>
+            <p>Build: {build_time} &bull; <a href="#" onclick="document.getElementById('dashboard').style.display='none';document.getElementById('login-screen').style.display='block';return false;">Logout</a></p>
+        </div>
+
+        <!-- Tab Navigation -->
+        <div style="display:flex;gap:0.5rem;margin:1.5rem 0;flex-wrap:wrap;">
+            <button class="admin-tab active" onclick="showTab('overview',this)">Overview</button>
+            <button class="admin-tab" onclick="showTab('directory',this)">Directory</button>
+            <button class="admin-tab" onclick="showTab('leads',this)">Leads</button>
+            <button class="admin-tab" onclick="showTab('content',this)">Content</button>
+            <button class="admin-tab" onclick="showTab('ekwa',this)">Ekwa Clients</button>
+        </div>
+
+        <!-- OVERVIEW TAB -->
+        <div id="tab-overview" class="admin-panel">
+            <div class="admin-grid">
+                <div class="admin-stat"><div class="admin-stat-label">Total Pages</div><div class="admin-stat-value">{total_articles + total_categories + total_subcategories + location_pages + total_guides + len(dentist_states) + len(dentist_cities_count) + 10:,}</div></div>
+                <div class="admin-stat"><div class="admin-stat-label">Articles</div><div class="admin-stat-value">{total_articles:,}</div></div>
+                <div class="admin-stat"><div class="admin-stat-label">Directory Listings</div><div class="admin-stat-value">{total_dentists:,}</div></div>
+                <div class="admin-stat"><div class="admin-stat-label">Location Pages</div><div class="admin-stat-value">{location_pages:,}</div></div>
+                <div class="admin-stat"><div class="admin-stat-label">Guides</div><div class="admin-stat-value">{total_guides}</div></div>
+                <div class="admin-stat"><div class="admin-stat-label">Ekwa Premium</div><div class="admin-stat-value">{ekwa_count}</div></div>
             </div>
-            <div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: var(--radius-lg);">
-                <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem;">Categories</div>
-                <div style="font-size: 2rem; font-weight: 700; color: var(--tooth-accent);">{total_categories}</div>
-            </div>
-            <div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: var(--radius-lg);">
-                <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem;">Subcategories</div>
-                <div style="font-size: 2rem; font-weight: 700; color: var(--tooth-accent);">{total_subcategories}</div>
+            <div class="admin-card">
+                <h3>Build Information</h3>
+                <p><strong>Build Time:</strong> {build_time}</p>
+                <p><strong>Categories:</strong> {total_categories} &bull; <strong>Subcategories:</strong> {total_subcategories}</p>
+                <p><strong>Directory:</strong> {total_dentists:,} practices across {len(dentist_states)} states, {len(dentist_cities_count):,} cities</p>
+                <p><strong>Cost Pages:</strong> {total_procedures} procedures × {total_cities_cost} cities = {location_pages:,} pages</p>
             </div>
         </div>
 
-        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5rem; margin-bottom: 2rem;">
-            <div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: var(--radius-lg);">
-                <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem;">Cities</div>
-                <div style="font-size: 2rem; font-weight: 700; color: var(--accent);">{total_cities}</div>
-            </div>
-            <div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: var(--radius-lg);">
-                <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem;">Procedures</div>
-                <div style="font-size: 2rem; font-weight: 700; color: var(--accent);">{total_procedures}</div>
-            </div>
-            <div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: var(--radius-lg);">
-                <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem;">Location Pages</div>
-                <div style="font-size: 2rem; font-weight: 700; color: var(--accent);">{location_pages:,}</div>
+        <!-- DIRECTORY TAB -->
+        <div id="tab-directory" class="admin-panel" style="display:none;">
+            <h2>Dentist Directory Coverage</h2>
+            <p>{total_dentists:,} practices &bull; {len(dentist_states)} states &bull; {len(dentist_cities_count):,} cities</p>
+            <div style="max-height:500px;overflow-y:auto;">
+                <table class="admin-table">
+                    <thead><tr><th>State</th><th>Practices</th><th>Cities</th></tr></thead>
+                    <tbody>{state_rows}</tbody>
+                </table>
             </div>
         </div>
 
-        <div style="background: var(--bg-secondary); padding: 1.5rem; border-radius: var(--radius-lg); margin-bottom: 2rem;">
-            <div style="font-size: 0.85rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 1rem;">Build Information</div>
-            <div>
-                <div><strong>Build Time:</strong> {build_time}</div>
-                <div><strong>Total Pages:</strong> {total_articles + total_categories + total_subcategories + location_pages + total_guides + 3:,}</div>
-                <div><strong>Cornerstone Guides:</strong> {total_guides}</div>
+        <!-- LEADS TAB -->
+        <div id="tab-leads" class="admin-panel" style="display:none;">
+            <h2>Lead Tracking</h2>
+            <p>Directory click data and quiz email captures are logged to Google Sheets.</p>
+            <div class="admin-card">
+                <h3>Data Sources</h3>
+                <p><strong>Quiz Emails:</strong> Sheet1 tab — Timestamp, Email, Score, Rating</p>
+                <p><strong>Directory Leads:</strong> Leads tab — Timestamp, Practice, Action, City, State, Page</p>
+                <p><a href="https://docs.google.com/spreadsheets/d/1SRa0r2jDAZq-S3S1pxuJtJ-SUk898fvLiL1pEOn7NAM/edit" target="_blank" rel="noopener" style="color:var(--accent);font-weight:600;">Open Google Sheet →</a></p>
+            </div>
+            <div class="admin-card" style="margin-top:1rem;">
+                <h3>Recent Leads (Live)</h3>
+                <div id="leads-live" style="color:var(--text-secondary);">Loading...</div>
             </div>
         </div>
 
-        <h2>Category Breakdown</h2>
-        <table style="width: 100%; border-collapse: collapse;">
-            <thead>
-                <tr style="border-bottom: 2px solid var(--border-color);">
-                    <th style="text-align: left; padding: 0.75rem;">Category</th>
-                    <th style="text-align: left; padding: 0.75rem;">Articles</th>
-                </tr>
-            </thead>
-            <tbody>
-                {category_stats}
-            </tbody>
-        </table>
+        <!-- CONTENT TAB -->
+        <div id="tab-content" class="admin-panel" style="display:none;">
+            <h2>Content Breakdown</h2>
+            <div style="max-height:500px;overflow-y:auto;">
+                <table class="admin-table">
+                    <thead><tr><th>Category</th><th>Articles</th></tr></thead>
+                    <tbody>{category_rows}</tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- EKWA TAB -->
+        <div id="tab-ekwa" class="admin-panel" style="display:none;">
+            <h2>Ekwa Premium Clients</h2>
+            <p>{ekwa_count} premium listings active. To add clients, update <code>data/ekwa_clients.json</code> and rebuild.</p>
+            <div class="admin-card">
+                <h3>How It Works</h3>
+                <p>Ekwa clients get a gold "Featured Practice" badge and appear at the top of their city's listing page.</p>
+                <p>The <code>ekwa_clients.json</code> file maps practice names to premium status:</p>
+                <pre style="background:var(--bg-secondary);padding:1rem;border-radius:8px;overflow-x:auto;font-size:0.85rem;">{{"Practice Name Here": {{"tier": "premium", "since": "2026-03"}}, ...}}</pre>
+                <p style="margin-top:1rem;"><strong>Phase 2:</strong> Offer as paid feature on ekwa.com — SEO clients get premium listing as a benefit.</p>
+            </div>
+        </div>
     </div>
+
+    <style>
+    .admin-tab {{background:var(--bg-card);border:1px solid var(--border);padding:0.5rem 1rem;border-radius:6px;cursor:pointer;font-weight:600;color:var(--text-secondary);font-size:0.9rem;}}
+    .admin-tab.active {{background:var(--accent);color:#fff;border-color:var(--accent);}}
+    .admin-grid {{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:1rem;margin:1.5rem 0;}}
+    .admin-stat {{background:var(--bg-card);border:1px solid var(--border);padding:1.25rem;border-radius:10px;text-align:center;}}
+    .admin-stat-label {{font-size:0.8rem;color:var(--text-secondary);text-transform:uppercase;letter-spacing:0.05em;}}
+    .admin-stat-value {{font-size:1.8rem;font-weight:700;color:var(--accent);margin-top:0.25rem;}}
+    .admin-card {{background:var(--bg-card);border:1px solid var(--border);padding:1.5rem;border-radius:10px;}}
+    .admin-card h3 {{margin-top:0;margin-bottom:0.75rem;}}
+    .admin-table {{width:100%;border-collapse:collapse;}}
+    .admin-table th,.admin-table td {{padding:0.6rem 1rem;text-align:left;border-bottom:1px solid var(--border);}}
+    .admin-table th {{font-weight:700;font-size:0.85rem;text-transform:uppercase;color:var(--text-secondary);}}
+    </style>
+
+    <script>
+    // SHA-256 hash of password
+    var HASH = '7d1c63c58bced4b89e19f61ac4e549e53b508b25383f0148da6050dcbf350106';
+    async function sha256(msg) {{
+        var buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(msg));
+        return Array.from(new Uint8Array(buf)).map(function(b){{return b.toString(16).padStart(2,'0')}}).join('');
+    }}
+    async function checkPw() {{
+        var pw = document.getElementById('admin-pw').value;
+        var hash = await sha256(pw);
+        if (hash === HASH) {{
+            document.getElementById('login-screen').style.display='none';
+            document.getElementById('dashboard').style.display='block';
+            sessionStorage.setItem('dp_admin','1');
+        }} else {{
+            document.getElementById('pw-error').style.display='block';
+        }}
+    }}
+    document.getElementById('admin-pw').addEventListener('keypress', function(e) {{
+        if (e.key === 'Enter') checkPw();
+    }});
+    if (sessionStorage.getItem('dp_admin')==='1') {{
+        document.getElementById('login-screen').style.display='none';
+        document.getElementById('dashboard').style.display='block';
+    }}
+    function showTab(name, btn) {{
+        document.querySelectorAll('.admin-panel').forEach(function(p){{p.style.display='none'}});
+        document.querySelectorAll('.admin-tab').forEach(function(t){{t.classList.remove('active')}});
+        document.getElementById('tab-'+name).style.display='block';
+        btn.classList.add('active');
+    }}
+    </script>
     '''
 
     page_html = get_page_template(
         "Admin Dashboard | DentalPedia",
         content,
         f"{DOMAIN}/admin.html",
-        "Build statistics and site overview"
+        "Admin dashboard"
     )
 
     with open(SITE_ROOT / "admin.html", 'w', encoding='utf-8') as f:
@@ -1646,6 +1757,36 @@ def generate_sitemaps():
 
     guides_sitemap += '</urlset>'
 
+    # Dentist directory sitemap
+    dentist_sitemap = f'''<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{base_url}/find-a-dentist/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+'''
+    dentist_dir = SITE_ROOT / "find-a-dentist"
+    if dentist_dir.exists():
+        for state_file in sorted(dentist_dir.glob("*.html")):
+            if state_file.name != "index.html":
+                dentist_sitemap += f'''  <url>
+    <loc>{base_url}/find-a-dentist/{state_file.name}</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+'''
+        for state_subdir in sorted(dentist_dir.iterdir()):
+            if state_subdir.is_dir():
+                for city_file in sorted(state_subdir.glob("*.html")):
+                    dentist_sitemap += f'''  <url>
+    <loc>{base_url}/find-a-dentist/{state_subdir.name}/{city_file.name}</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+'''
+    dentist_sitemap += '</urlset>'
+
     # Sitemap index
     sitemap_index = f'''<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -1661,6 +1802,9 @@ def generate_sitemaps():
   <sitemap>
     <loc>{base_url}/sitemap-guides.xml</loc>
   </sitemap>
+  <sitemap>
+    <loc>{base_url}/sitemap-dentists.xml</loc>
+  </sitemap>
 </sitemapindex>'''
 
     # Write sitemaps
@@ -1675,6 +1819,9 @@ def generate_sitemaps():
 
     with open(SITE_ROOT / "sitemap-guides.xml", 'w', encoding='utf-8') as f:
         f.write(guides_sitemap)
+
+    with open(SITE_ROOT / "sitemap-dentists.xml", 'w', encoding='utf-8') as f:
+        f.write(dentist_sitemap)
 
     with open(SITE_ROOT / "sitemap-index.xml", 'w', encoding='utf-8') as f:
         f.write(sitemap_index)
@@ -2481,6 +2628,231 @@ def generate_myth_vs_fact():
     logger.info(f"Generated {len(myths)} myth vs fact pages")
 
 
+STATE_NAMES = {'AL':'Alabama','AK':'Alaska','AZ':'Arizona','AR':'Arkansas','CA':'California','CO':'Colorado','CT':'Connecticut','DE':'Delaware','DC':'District of Columbia','FL':'Florida','GA':'Georgia','HI':'Hawaii','ID':'Idaho','IL':'Illinois','IN':'Indiana','IA':'Iowa','KS':'Kansas','KY':'Kentucky','LA':'Louisiana','ME':'Maine','MD':'Maryland','MA':'Massachusetts','MI':'Michigan','MN':'Minnesota','MS':'Mississippi','MO':'Missouri','MT':'Montana','NE':'Nebraska','NV':'Nevada','NH':'New Hampshire','NJ':'New Jersey','NM':'New Mexico','NY':'New York','NC':'North Carolina','ND':'North Dakota','OH':'Ohio','OK':'Oklahoma','OR':'Oregon','PA':'Pennsylvania','RI':'Rhode Island','SC':'South Carolina','SD':'South Dakota','TN':'Tennessee','TX':'Texas','UT':'Utah','VT':'Vermont','VA':'Virginia','WA':'Washington','WV':'West Virginia','WI':'Wisconsin','WY':'Wyoming'}
+
+
+def slugify(text):
+    """Convert text to URL-safe slug."""
+    return re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
+
+
+def generate_dentist_card(practice, is_premium=False):
+    """Generate HTML card for a single dental practice."""
+    stars = ''
+    if practice['rating'] > 0:
+        full = int(practice['rating'])
+        stars = '★' * full + ('½' if practice['rating'] - full >= 0.3 else '') + f' {practice["rating"]}'
+
+    premium_badge = '<span class="premium-badge">⭐ Featured Practice</span>' if is_premium else ''
+    premium_class = ' dentist-card-premium' if is_premium else ''
+
+    phone_btn = ''
+    if practice['phone']:
+        phone_clean = re.sub(r'[^0-9+]', '', practice['phone'])
+        phone_btn = f'<a href="tel:{phone_clean}" class="dentist-btn dentist-btn-call" onclick="trackLead(\'{html_mod.escape(practice["name"])}\',\'call\',\'{html_mod.escape(practice["city"])}\',\'{practice["state"]}\')">📞 Call</a>'
+
+    website_btn = ''
+    if practice['website']:
+        website_btn = f'<a href="{html_mod.escape(practice["website"])}" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead(\'{html_mod.escape(practice["name"])}\',\'website\',\'{html_mod.escape(practice["city"])}\',\'{practice["state"]}\')">🌐 Website</a>'
+
+    reviews_text = f'({practice["reviews"]:,} reviews)' if practice['reviews'] > 0 else ''
+
+    return f'''<div class="dentist-card{premium_class}">
+        {premium_badge}
+        <h3 class="dentist-name">{html_mod.escape(practice['name'])}</h3>
+        <p class="dentist-address">📍 {html_mod.escape(practice['address'])}</p>
+        <div class="dentist-rating">{stars} <span class="review-count">{reviews_text}</span></div>
+        <div class="dentist-actions">{phone_btn} {website_btn}</div>
+    </div>'''
+
+
+def generate_find_dentist_pages():
+    """Generate Find a Dentist directory: main page, state pages, city pages."""
+    if not dentists_data:
+        logger.warning("No dentist data loaded, skipping directory pages")
+        return
+
+    base_dir = SITE_ROOT / "find-a-dentist"
+    base_dir.mkdir(parents=True, exist_ok=True)
+
+    # Organize data by state and city
+    by_state = defaultdict(list)
+    for p in dentists_data:
+        by_state[p['state']].append(p)
+
+    by_city = defaultdict(list)
+    for p in dentists_data:
+        key = (p['state'], p['city'])
+        by_city[key].append(p)
+
+    # Sort practices: premium first, then by rating desc
+    def sort_practices(practices):
+        def sort_key(p):
+            is_prem = 1 if p.get('name','') in ekwa_clients else 0
+            return (-is_prem, -p.get('rating', 0), -p.get('reviews', 0))
+        return sorted(practices, key=sort_key)
+
+    # Lead tracking JS (included on all directory pages)
+    lead_tracking_js = '''
+    <script>
+    function trackLead(name, action, city, state) {
+        fetch('https://script.google.com/macros/s/AKfycbwenWITYJQ-lbT1l58OxxeQVy1M7C1kMtBWlxqEDD0MKcdKqhJhBvTnXV9tKgHSvxRVuA/exec', {
+            method: 'POST', mode: 'no-cors',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({type:'lead', practice: name, action: action, city: city, state: state, page: window.location.pathname})
+        });
+        if (typeof gtag !== 'undefined') gtag('event', 'dentist_lead', {event_category: 'directory', event_label: name, action_type: action});
+    }
+    </script>
+    '''
+
+    # ==========================================
+    # 1. MAIN SEARCH PAGE
+    # ==========================================
+    state_links = ''
+    for st in sorted(by_state.keys()):
+        name = STATE_NAMES.get(st, st)
+        count = len(by_state[st])
+        state_links += f'<a href="/find-a-dentist/{slugify(name)}.html" class="state-link"><strong>{name}</strong><span>{count:,} dentists</span></a>'
+
+    search_content = f'''
+    {lead_tracking_js}
+    <div class="directory-hero">
+        <h1>Find a Dentist Near You</h1>
+        <p>Search our directory of {len(dentists_data):,} dental practices across all 50 states</p>
+        <div class="directory-search">
+            <input type="text" id="dentist-search" placeholder="Enter city, state, or ZIP code..." autocomplete="off">
+            <button onclick="searchDentists()" class="search-btn">Search</button>
+        </div>
+    </div>
+    <div class="state-grid">
+        <h2>Browse by State</h2>
+        <div class="state-links">{state_links}</div>
+    </div>
+    <script>
+    var stateMap = {json.dumps({slugify(STATE_NAMES.get(st,st)): st for st in by_state.keys()})};
+    var cityMap = {json.dumps({f"{c[1].lower()}, {STATE_NAMES.get(c[0],c[0]).lower()}": f"/find-a-dentist/{slugify(STATE_NAMES.get(c[0],c[0]))}/{slugify(c[1])}.html" for c in by_city.keys()})};
+    function searchDentists() {{
+        var q = document.getElementById('dentist-search').value.trim().toLowerCase();
+        if (!q) return;
+        // Try city match
+        for (var key in cityMap) {{
+            if (key.indexOf(q) !== -1) {{ window.location.href = cityMap[key]; return; }}
+        }}
+        // Try state match
+        for (var slug in stateMap) {{
+            var name = slug.replace(/-/g, ' ');
+            if (name.indexOf(q) !== -1) {{ window.location.href = '/find-a-dentist/' + slug + '.html'; return; }}
+        }}
+        // Try ZIP - go to first matching state
+        if (/^\\d{{5}}$/.test(q)) {{
+            alert('ZIP code search coming soon. Please try a city or state name.');
+            return;
+        }}
+        alert('No results found. Try a different city or state name.');
+    }}
+    document.getElementById('dentist-search').addEventListener('keypress', function(e) {{
+        if (e.key === 'Enter') searchDentists();
+    }});
+    </script>
+    '''
+
+    page_html = get_page_template(
+        "Find a Dentist Near You | DentalPedia",
+        search_content,
+        f"{DOMAIN}/find-a-dentist/",
+        f"Search {len(dentists_data):,} dental practices across the US. Find ratings, phone numbers, and websites for dentists in your area."
+    )
+    with open(base_dir / "index.html", 'w', encoding='utf-8') as f:
+        f.write(page_html)
+
+    # ==========================================
+    # 2. STATE PAGES
+    # ==========================================
+    state_count = 0
+    for st, practices in by_state.items():
+        state_name = STATE_NAMES.get(st, st)
+        state_slug = slugify(state_name)
+        state_dir = base_dir / state_slug
+
+        # Get cities in this state
+        state_cities = defaultdict(list)
+        for p in practices:
+            state_cities[p['city']].append(p)
+
+        city_links = ''
+        for city in sorted(state_cities.keys()):
+            count = len(state_cities[city])
+            city_links += f'<a href="/find-a-dentist/{state_slug}/{slugify(city)}.html" class="city-link"><strong>{html_mod.escape(city)}</strong><span>{count} dentist{"s" if count != 1 else ""}</span></a>'
+
+        # Show top-rated practices for the state
+        top_practices = sort_practices(practices)[:12]
+        top_cards = ''.join(generate_dentist_card(p, p['name'] in ekwa_clients) for p in top_practices)
+
+        state_content = f'''
+        {lead_tracking_js}
+        <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; {html_mod.escape(state_name)}</nav>
+        <h1>Find a Dentist in {html_mod.escape(state_name)}</h1>
+        <p>{len(practices):,} dental practices across {len(state_cities)} cities in {html_mod.escape(state_name)}</p>
+
+        <h2>Cities in {html_mod.escape(state_name)}</h2>
+        <div class="city-links">{city_links}</div>
+
+        <h2>Top-Rated Dentists in {html_mod.escape(state_name)}</h2>
+        <div class="dentist-grid">{top_cards}</div>
+        {generate_share_buttons(f"Find a Dentist in {state_name}", f"{DOMAIN}/find-a-dentist/{state_slug}.html")}
+        '''
+
+        page_html = get_page_template(
+            f"Find a Dentist in {state_name} | DentalPedia",
+            state_content,
+            f"{DOMAIN}/find-a-dentist/{state_slug}.html",
+            f"Find top-rated dentists in {state_name}. Browse {len(practices):,} dental practices across {len(state_cities)} cities with ratings, phone numbers, and websites."
+        )
+        with open(base_dir / f"{state_slug}.html", 'w', encoding='utf-8') as f:
+            f.write(page_html)
+        state_count += 1
+
+        # ==========================================
+        # 3. CITY PAGES
+        # ==========================================
+        state_dir.mkdir(parents=True, exist_ok=True)
+        for city, city_practices in state_cities.items():
+            city_slug = slugify(city)
+            sorted_practices = sort_practices(city_practices)
+
+            cards = ''.join(generate_dentist_card(p, p['name'] in ekwa_clients) for p in sorted_practices)
+
+            avg_rating = sum(p['rating'] for p in city_practices if p['rating'] > 0) / max(1, len([p for p in city_practices if p['rating'] > 0]))
+
+            city_content = f'''
+            {lead_tracking_js}
+            <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/{state_slug}.html">{html_mod.escape(state_name)}</a> &rsaquo; {html_mod.escape(city)}</nav>
+            <h1>Dentists in {html_mod.escape(city)}, {st}</h1>
+            <p class="directory-meta">{len(city_practices)} dental practice{"s" if len(city_practices) != 1 else ""} &bull; Average rating: {avg_rating:.1f} ★</p>
+
+            <div class="dentist-grid">{cards}</div>
+            {generate_share_buttons(f"Dentists in {city}, {st}", f"{DOMAIN}/find-a-dentist/{state_slug}/{city_slug}.html")}
+            '''
+
+            schema = f'''<script type="application/ld+json">
+            {{"@context":"https://schema.org","@type":"ItemList","name":"Dentists in {html_mod.escape(city)}, {st}","numberOfItems":{len(city_practices)},"itemListElement":[{",".join(f'{{"@type":"ListItem","position":{i+1},"item":{{"@type":"Dentist","name":"{html_mod.escape(p["name"])}","address":"{html_mod.escape(p["address"])}","telephone":"{html_mod.escape(p["phone"])}"}}}}' for i, p in enumerate(sorted_practices[:20]))}]}}
+            </script>'''
+
+            page_html = get_page_template(
+                f"Dentists in {city}, {st} - Find a Dentist | DentalPedia",
+                city_content,
+                f"{DOMAIN}/find-a-dentist/{state_slug}/{city_slug}.html",
+                f"Find {len(city_practices)} dentists in {city}, {state_name}. Compare ratings, read reviews, and contact dental practices near you.",
+                schema=schema
+            )
+            with open(state_dir / f"{city_slug}.html", 'w', encoding='utf-8') as f:
+                f.write(page_html)
+
+    total_city_pages = sum(len(set(p['city'] for p in practices)) for practices in by_state.values())
+    logger.info(f"Generated Find a Dentist: 1 index + {state_count} state pages + {total_city_pages} city pages")
+
+
 def main():
     """Main build function."""
     logger.info("Starting DentalPedia build...")
@@ -2524,6 +2896,7 @@ def main():
     generate_cost_comparison_pages()
     generate_embeddable_widget()
     generate_myth_vs_fact()
+    generate_find_dentist_pages()
     generate_sitemaps()
 
     # Build time

@@ -1870,3 +1870,161 @@ html {
 .category-card:hover .category-name {
   color: var(--accent);
 }
+
+/* ==== FIND A DENTIST DIRECTORY ==== */
+.directory-hero {
+  text-align: center;
+  padding: 3rem 1rem;
+  background: linear-gradient(135deg, var(--accent) 0%, #0077b6 100%);
+  color: #fff;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+}
+.directory-hero h1 { color: #fff; margin-bottom: 0.5rem; font-size: 2.2rem; }
+.directory-hero p { opacity: 0.9; margin-bottom: 1.5rem; }
+.directory-search {
+  display: flex;
+  max-width: 500px;
+  margin: 0 auto;
+  gap: 0.5rem;
+}
+.directory-search input {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+}
+.search-btn {
+  padding: 0.75rem 1.5rem;
+  background: #fff;
+  color: var(--accent);
+  border: none;
+  border-radius: 8px;
+  font-weight: 700;
+  cursor: pointer;
+  font-size: 1rem;
+}
+.search-btn:hover { background: #f0f0f0; }
+
+.state-grid { margin: 2rem 0; }
+.state-grid h2 { margin-bottom: 1rem; }
+.state-links, .city-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 0.75rem;
+}
+.state-link, .city-link {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.75rem 1rem;
+  background: var(--bg-card);
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--text-primary);
+  border: 1px solid var(--border);
+  transition: all 0.2s;
+}
+.state-link:hover, .city-link:hover {
+  border-color: var(--accent);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+.state-link span, .city-link span {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+.dentist-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.dentist-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 1.25rem;
+  transition: all 0.2s;
+}
+.dentist-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+}
+.dentist-card-premium {
+  border-color: #f59e0b;
+  background: linear-gradient(135deg, #fffbeb 0%, var(--bg-card) 100%);
+  box-shadow: 0 2px 8px rgba(245,158,11,0.15);
+}
+[data-theme="dark"] .dentist-card-premium {
+  background: linear-gradient(135deg, #451a03 0%, var(--bg-card) 100%);
+}
+.premium-badge {
+  display: inline-block;
+  background: #f59e0b;
+  color: #fff;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+.dentist-name {
+  font-size: 1.1rem;
+  margin: 0.25rem 0;
+  color: var(--text-primary);
+}
+.dentist-address {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin: 0.25rem 0;
+}
+.dentist-rating {
+  color: #f59e0b;
+  font-weight: 600;
+  margin: 0.5rem 0;
+}
+.review-count {
+  color: var(--text-secondary);
+  font-weight: 400;
+  font-size: 0.85rem;
+}
+.dentist-actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+}
+.dentist-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+.dentist-btn-call {
+  background: #dcfce7;
+  color: #166534;
+}
+.dentist-btn-call:hover { background: #bbf7d0; }
+.dentist-btn-web {
+  background: #dbeafe;
+  color: #1e40af;
+}
+.dentist-btn-web:hover { background: #bfdbfe; }
+[data-theme="dark"] .dentist-btn-call { background: #14532d; color: #86efac; }
+[data-theme="dark"] .dentist-btn-web { background: #1e3a5f; color: #93c5fd; }
+.directory-meta {
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+}
+@media (max-width: 600px) {
+  .directory-search { flex-direction: column; }
+  .state-links, .city-links { grid-template-columns: 1fr; }
+  .dentist-grid { grid-template-columns: 1fr; }
+  .directory-hero h1 { font-size: 1.6rem; }
+}
