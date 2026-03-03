@@ -2693,6 +2693,101 @@ def generate_dentist_card(practice, is_premium=False, show_appt=True):
     </div>'''
 
 
+def generate_practice_bio(practice, city, state_name, state_abbr):
+    """Generate an SEO-optimized bio section for a practice profile page.
+
+    Creates unique, keyword-rich 'About' content using practice data.
+    Detects if the practice is named after a doctor and adjusts tone accordingly.
+    """
+    name = practice['name']
+    escaped_name = html_mod.escape(name)
+    escaped_city = html_mod.escape(city)
+    rating = practice.get('rating', 0)
+    reviews = practice.get('reviews', 0)
+    phone = practice.get('phone', '')
+    website = practice.get('website', '')
+    address = practice.get('address', '')
+
+    # Detect if practice name is a doctor's name
+    name_lower = name.lower()
+    is_doctor = any(t in name_lower for t in ['dr.', 'dr ', 'dds', 'dmd', 'dentist'])
+
+    # Build rating sentence
+    rating_sentence = ''
+    if rating > 0 and reviews > 0:
+        if rating >= 4.5:
+            rating_sentence = f'With an outstanding {rating}-star rating from {reviews:,} patient reviews, {escaped_name} is one of the most highly rated dental practices in {escaped_city}.'
+        elif rating >= 4.0:
+            rating_sentence = f'Rated {rating} stars based on {reviews:,} patient reviews, {escaped_name} has earned a strong reputation among {escaped_city} residents.'
+        else:
+            rating_sentence = f'{escaped_name} has received {reviews:,} patient reviews with an average rating of {rating} stars.'
+
+    # Build services list based on practice name keywords
+    detected_services = []
+    service_keywords = {
+        'orthodont': 'Orthodontics & Braces',
+        'oral surg': 'Oral Surgery',
+        'periodon': 'Periodontics & Gum Treatment',
+        'endodon': 'Endodontics & Root Canal Therapy',
+        'pediatr': 'Pediatric Dentistry',
+        'cosmetic': 'Cosmetic Dentistry',
+        'implant': 'Dental Implants',
+        'prosthodon': 'Prosthodontics',
+        'family': 'Family Dentistry',
+        'general': 'General Dentistry',
+        'emergency': 'Emergency Dental Care',
+        'sedation': 'Sedation Dentistry',
+        'holistic': 'Holistic Dentistry',
+        'laser': 'Laser Dentistry',
+        'sleep': 'Sleep Apnea Treatment',
+    }
+    for kw, svc in service_keywords.items():
+        if kw in name_lower:
+            detected_services.append(svc)
+
+    # Default services if none detected from name
+    if not detected_services:
+        detected_services = ['General Dentistry', 'Preventive Care', 'Cosmetic Dentistry', 'Restorative Dentistry']
+
+    services_text = ', '.join(detected_services[:-1]) + (f', and {detected_services[-1]}' if len(detected_services) > 1 else detected_services[0])
+
+    # Build the bio paragraphs
+    if is_doctor:
+        # Doctor-focused bio
+        # Try to extract just the doctor's name
+        doc_name = escaped_name
+        intro = f'{doc_name} is a trusted dental professional serving patients in {escaped_city}, {html_mod.escape(state_name)}. With a commitment to delivering personalized, high-quality dental care, {doc_name} combines clinical expertise with a patient-first approach to help every individual achieve and maintain optimal oral health.'
+        services_para = f'The practice offers comprehensive dental services including {services_text}. Whether you need a routine cleaning, advanced restorative work, or a complete smile makeover, {doc_name} provides treatment plans tailored to each patient\'s unique needs and goals.'
+    else:
+        # Practice-focused bio
+        intro = f'{escaped_name} is a leading dental practice located in {escaped_city}, {html_mod.escape(state_name)}, dedicated to providing exceptional dental care for patients of all ages. The practice combines modern dental technology with compassionate, patient-centered care to deliver outstanding results.'
+        services_para = f'Patients at {escaped_name} can access a full range of dental services including {services_text}. The team focuses on creating comfortable, stress-free experiences while delivering treatment plans customized to each patient\'s oral health needs.'
+
+    # Community paragraph
+    community_para = f'Conveniently located at {html_mod.escape(address)}, {escaped_name} proudly serves the {escaped_city} community and surrounding areas in {html_mod.escape(state_name)}. New patients are welcome, and the practice is committed to making quality dental care accessible to every member of the community.'
+
+    # CTA paragraph
+    if phone:
+        phone_clean = re.sub(r'[^0-9+]', '', phone)
+        cta_para = f'Ready to schedule your next dental appointment? Contact {escaped_name} today at <a href="tel:{phone_clean}">{html_mod.escape(phone)}</a> or use the appointment request form above to get started on your journey to a healthier smile.'
+    else:
+        cta_para = f'Ready to schedule your next dental appointment? Use the appointment request form above or visit the {escaped_name} website to get started on your journey to a healthier smile.'
+
+    bio_html = f'''
+    <div class="practice-bio" style="margin:1.5rem 0;padding:1.5rem;background:var(--card-bg);border-radius:12px;border:1px solid var(--border);">
+        <h2 style="margin-top:0;color:var(--heading);font-size:1.35rem;">About {escaped_name}</h2>
+        <p style="line-height:1.75;color:var(--text);margin-bottom:1rem;">{intro}</p>
+        <p style="line-height:1.75;color:var(--text);margin-bottom:1rem;">{rating_sentence}</p>
+        <h3 style="color:var(--heading);font-size:1.1rem;margin-bottom:0.5rem;">Dental Services in {escaped_city}, {state_abbr}</h3>
+        <p style="line-height:1.75;color:var(--text);margin-bottom:1rem;">{services_para}</p>
+        <h3 style="color:var(--heading);font-size:1.1rem;margin-bottom:0.5rem;">Serving the {escaped_city} Community</h3>
+        <p style="line-height:1.75;color:var(--text);margin-bottom:1rem;">{community_para}</p>
+        <p style="line-height:1.75;color:var(--text);margin-bottom:0;">{cta_para}</p>
+    </div>'''
+
+    return bio_html
+
+
 def generate_find_dentist_pages():
     """Generate Find a Dentist directory: main page, state pages, city pages."""
     if not dentists_data:
@@ -2994,6 +3089,9 @@ def generate_find_dentist_pages():
                     stars_p = '★' * full + ('½' if p['rating'] - full >= 0.3 else '') + f' {p["rating"]}'
                 reviews_p = f' ({p["reviews"]:,} reviews)' if p['reviews'] > 0 else ''
 
+                # Generate SEO-optimized bio for the practice
+                bio_html = generate_practice_bio(p, city, state_name, st)
+
                 profile_content = f'''
                 {lead_tracking_js}
                 <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/find-a-dentist/">Find a Dentist</a> &rsaquo; <a href="/find-a-dentist/{state_slug}.html">{html_mod.escape(state_name)}</a> &rsaquo; <a href="/find-a-dentist/{state_slug}/{city_slug}.html">{html_mod.escape(city)}</a> &rsaquo; {html_mod.escape(p['name'])}</nav>
@@ -3008,9 +3106,10 @@ def generate_find_dentist_pages():
                     <a href="{map_url}" target="_blank" rel="noopener" class="dentist-btn dentist-btn-web" onclick="trackLead('{safe_name_p}','directions','{safe_city_p}','{p["state"]}')">📍 Get Directions</a>
                     <button class="dentist-btn dentist-btn-appt" onclick="openApptForm('{safe_name_p}','{safe_city_p}','{p["state"]}')">📅 Request Appointment</button>
                 </div>
+                {bio_html}
                 <div class="profile-details" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1rem;margin:1.5rem 0;">
                     <div class="admin-card"><h3>Location</h3><p>{html_mod.escape(p['address'])}</p><p><a href="{map_url}" target="_blank" rel="noopener" style="color:var(--accent);">View on Google Maps →</a></p></div>
-                    <div class="admin-card"><h3>Contact</h3><p>{html_mod.escape(p['phone']) if p['phone'] else 'Phone not available'}</p><p>{html_mod.escape(p['email']) if p.get('email') else 'Email not listed'}</p>{social_links}</div>
+                    <div class="admin-card"><h3>Contact</h3><p>{html_mod.escape(p['phone']) if p['phone'] else 'Phone not available'}</p>{social_links}</div>
                 </div>
                 <div style="margin-top:2rem;"><a href="/find-a-dentist/{state_slug}/{city_slug}.html" style="color:var(--accent);font-weight:600;">← Back to all dentists in {html_mod.escape(city)}, {st}</a></div>
                 '''
