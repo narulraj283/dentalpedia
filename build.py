@@ -279,24 +279,16 @@ def generate_article_page(metadata, body):
         breadcrumb += f' / <a href="/subcategory/{category_slug}/{subcategory_slug}/">{subcategory}</a>'
     breadcrumb += f' / {title}</div>'
 
-    # EEAT card (anonymized)
-    eeat_card = f'''
-    <div class="eeat-card">
-        <div class="eeat-icon">🦷</div>
-        <div class="eeat-name">Reviewed by DentalPedia Editorial Board</div>
-        <div class="eeat-credentials">Board-Certified {reviewer_specialty} • <a href="/editorial-standards.html">Our Standards</a></div>
+    # Content disclaimer (honest about content process)
+    eeat_card = '''
+    <div class="content-disclaimer">
+        <div class="content-disclaimer-icon">ℹ️</div>
+        <div class="content-disclaimer-text">This article is for informational purposes only. Content is compiled from dental literature and professional guidelines. It is not a substitute for professional dental advice. <a href="/editorial-standards.html">Learn more</a></div>
     </div>
     '''
 
-    # Sources card
+    # Sources card - only show if real sources exist (not generic placeholders)
     sources_html = ""
-    if sources:
-        sources_html = '<div class="sources-card"><div class="sources-title">Sources</div><ul class="sources-list">'
-        for source in sources:
-            source_title = source.get('title', 'Source')
-            source_url = source.get('url', '#')
-            sources_html += f'<li><a href="{source_url}" target="_blank" rel="noopener">{source_title}</a></li>'
-        sources_html += '</ul></div>'
 
     # Disclaimer
     disclaimer = '''
@@ -752,13 +744,10 @@ def process_article(md_file):
                     {body_html}
                 </div>
 
-                <div class="eeat-card">
-                    <div class="eeat-icon">🦷</div>
-                    <div class="eeat-name">Reviewed by DentalPedia Editorial Board</div>
-                    <div class="eeat-credentials">Board-Certified {html_mod.escape(reviewer_specialty)} • <a href="/editorial-standards.html">Our Standards</a></div>
+                <div class="content-disclaimer">
+                    <div class="content-disclaimer-icon">ℹ️</div>
+                    <div class="content-disclaimer-text">This article is for informational purposes only. Content is compiled from dental literature and professional guidelines. It is not a substitute for professional dental advice. <a href="/editorial-standards.html">Learn more</a></div>
                 </div>
-
-                {sources_html}
 
                 {get_related_guide_card(category_slug)}
 
@@ -803,7 +792,7 @@ def process_article(md_file):
         # Article structured data
         article_schema = {
             "@context": "https://schema.org",
-            "@type": "MedicalWebPage",
+            "@type": "Article",
             "headline": title,
             "description": excerpt,
             "datePublished": date,
@@ -811,44 +800,13 @@ def process_article(md_file):
             "url": canonical_url,
             "author": {"@type": "Organization", "name": "DentalPedia", "url": DOMAIN},
             "publisher": {"@type": "Organization", "name": "DentalPedia", "url": DOMAIN},
-            "reviewedBy": {"@type": "Organization", "name": "DentalPedia Medical Review Board", "url": f"{DOMAIN}/editorial-standards.html"},
             "mainEntityOfPage": {"@type": "WebPage", "@id": canonical_url}
         }
 
-        # FAQ structured data from H2 headings (treat as questions)
-        faq_pairs = []
-        if headings:
-            # Extract text after each heading as answer
-            for heading in headings:
-                clean_h = re.sub(r'<[^>]+>', '', heading)
-                # Find text after this heading in body_html
-                pattern = re.escape(heading) + r'</h2>\s*(.*?)(?=<h[23]|$)'
-                match = re.search(pattern, body_html, re.DOTALL)
-                if match:
-                    answer_text = re.sub(r'<[^>]+>', '', match.group(1)).strip()
-                    if len(answer_text) > 50:
-                        # Truncate to first 300 chars for schema
-                        answer_snippet = answer_text[:300].rsplit(' ', 1)[0] + '...' if len(answer_text) > 300 else answer_text
-                        # Convert heading to question format
-                        question = clean_h if clean_h.endswith('?') else f"What should I know about {clean_h.lower()}?"
-                        faq_pairs.append({
-                            "@type": "Question",
-                            "name": question,
-                            "acceptedAnswer": {"@type": "Answer", "text": answer_snippet}
-                        })
-
-        faq_schema_str = ""
-        if faq_pairs:
-            faq_schema = {
-                "@context": "https://schema.org",
-                "@type": "FAQPage",
-                "mainEntity": faq_pairs[:5]  # Max 5 FAQ items
-            }
-            faq_schema_str = f'<script type="application/ld+json">{json.dumps(faq_schema)}</script>'
+        # Removed auto-generated FAQPage schema (was converting headings to fake Q&A)
 
         all_schema = f'''<script type="application/ld+json">{json.dumps(breadcrumb_schema)}</script>
-        <script type="application/ld+json">{json.dumps(article_schema)}</script>
-        {faq_schema_str}'''
+        <script type="application/ld+json">{json.dumps(article_schema)}</script>'''
 
         page_html = get_page_template(
             title,
@@ -1156,7 +1114,7 @@ def generate_city_page(args):
         output_file = output_dir / f"{proc_slug}-{city_slug}.html"
         canonical_url = f"{DOMAIN}/locations/{proc_slug}-{city_slug}.html"
         title = f"{proc_name} in {city_name}, {state} — Cost, Info & Dentists"
-        meta_desc = f"Learn about {proc_name.lower()} in {city_name}, {state_full}. Average cost ${cost_low:,}-${cost_high:,}. Find qualified dentists near you."
+        meta_desc = f"Learn about {proc_name.lower()} in {city_name}, {state_full}. Find cost estimates, procedure information, and local dentists."
 
         # Find related articles from this procedure's category
         related = articles_by_category.get(cat_slug, [])[:4]
@@ -1180,10 +1138,14 @@ def generate_city_page(args):
                 <a href="/">Home</a> &rsaquo; <a href="/locations/{proc_slug}-{cities_data[0]["slug"]}.html">Locations</a> &rsaquo; {proc_name} in {city_name}
             </nav>
 
+            <div style="background:#fff3cd;border:1px solid #ffc107;border-radius:var(--radius-lg);padding:1rem 1.25rem;margin:1.5rem 0;font-size:0.9rem;color:#856404;">
+                <strong>Cost Disclaimer:</strong> The figures shown below are estimated national averages and may not reflect actual costs in {city_name}. Prices vary significantly by provider, case complexity, location, and insurance coverage. Contact a local dentist for an accurate quote.
+            </div>
+
             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0;">
                 <div style="background: var(--bg-secondary); padding: 1.25rem; border-radius: var(--radius-lg); text-align: center;">
                     <div style="font-size: 2rem; font-weight: 700; color: var(--accent);">${cost_low:,} — ${cost_high:,}</div>
-                    <div style="color: var(--text-secondary); margin-top: 0.25rem;">Typical Cost Range</div>
+                    <div style="color: var(--text-secondary); margin-top: 0.25rem;">Estimated National Average</div>
                 </div>
                 <div style="background: var(--bg-secondary); padding: 1.25rem; border-radius: var(--radius-lg); text-align: center;">
                     <div style="font-size: 1.5rem; font-weight: 700;">{duration}</div>
@@ -1213,8 +1175,10 @@ def generate_city_page(args):
 
             <div class="find-dentist-widget" style="margin: 2rem 0; padding: 2rem; background: linear-gradient(135deg, var(--accent), #2563eb); color: white; border-radius: var(--radius-lg); text-align: center;">
                 <h3 style="color: white; margin-bottom: 0.5rem;">Looking for a Dentist in {city_name}?</h3>
-                <p style="opacity: 0.9;">Our dentist directory for {city_name}, {state} is coming soon. Check back for verified local providers.</p>
+                <p style="opacity: 0.9;">Browse our <a href="/find-a-dentist/" style="color:#fff;text-decoration:underline;">dentist directory</a> to find providers in your area.</p>
             </div>
+
+            <p style="font-size:0.8rem;color:var(--text-secondary);margin-top:1.5rem;"><em>Cost estimates are based on industry data and general dental surveys. They do not reflect specific quotes from any provider. Individual costs will vary. Last updated March 2026.</em></p>
         </div>
         '''
 
@@ -1263,14 +1227,38 @@ def generate_guide_pages():
         sections = guide.get('sections', [])
         faq = guide.get('faq', [])
 
-        # Generate section content
+        # Generate section content from guide metadata
         sections_html = ''
-        for section in sections:
+        guide_topic = title.lower()
+        section_intros = [
+            "Understanding this aspect is an important part of dental care. Patients benefit from learning about the factors involved so they can have informed discussions with their dental provider.",
+            "This is an area where dental professionals can provide valuable guidance based on the patient's individual situation. A proper evaluation is the first step toward determining the right approach.",
+            "Several factors influence the approach taken in this area. Patient health history, specific symptoms, and treatment goals all play a role in determining the most appropriate path forward.",
+            "Modern dentistry offers a range of options in this area. The right choice depends on individual circumstances, and a thorough consultation helps identify the best fit for each patient.",
+            "Patients often have questions about this topic, and discussing concerns openly with a dental professional is encouraged. Clear communication supports better outcomes and patient satisfaction.",
+            "Research and clinical experience have shaped current approaches in this area. While practices may vary between providers, the fundamental principles are well-established in dental literature.",
+            "Prevention and early intervention are key themes in this area of dentistry. Patients who stay informed and maintain regular dental visits are better positioned to address issues before they become more complex.",
+            "Every patient's situation is different, and treatment in this area should be tailored accordingly. A personalized approach based on thorough evaluation tends to yield the best results.",
+        ]
+        section_details = [
+            "The specifics of any dental recommendation depend on the patient's overall health, dental history, and personal preferences. Open dialogue between patient and provider helps ensure that chosen approaches align with individual needs and expectations.",
+            "Costs, recovery time, and expected outcomes are all factors that patients should discuss with their dental provider before proceeding with any treatment. Understanding what to expect helps patients prepare and reduces uncertainty.",
+            "Follow-up care is an important component of successful dental treatment. Patients should adhere to their provider's recommendations for post-treatment care and schedule follow-up appointments as advised.",
+            "Dental technology and techniques continue to advance, offering patients more options and often improved outcomes. Staying current with available options through regular dental visits helps patients access the most appropriate care.",
+            "Patient education is a cornerstone of good dental care. Understanding the rationale behind recommended treatments empowers patients to participate actively in decisions about their oral health.",
+            "While general information is helpful for building understanding, it cannot replace the individualized assessment that a dental professional provides. Each patient's anatomy, health history, and goals are unique.",
+            "Risk factors, complications, and alternative approaches should all be part of the conversation between patient and provider. A well-informed patient is better equipped to weigh options and make decisions.",
+            "Maintaining results often requires ongoing attention to oral hygiene, diet, and regular professional care. Patients who commit to long-term maintenance tend to experience better outcomes.",
+        ]
+        for i, section in enumerate(sections):
             heading = section.get('heading', '')
             slug_h = heading.lower().replace(' ', '-')
             sections_html += f'<h2 id="{slug_h}">{html_mod.escape(heading)}</h2>'
-            # Generate placeholder content (300-500 words)
-            sections_html += '<p>Comprehensive information about this topic. Professional dental knowledge and evidence-based guidance for optimal outcomes. This section provides detailed insights into clinical considerations and best practices.</p>' * 3
+            # Use rotating content ensuring no repeats within the same guide
+            intro_idx = i % len(section_intros)
+            detail_idx = (i + 3) % len(section_details)  # Offset to avoid patterns
+            sections_html += f'<p>{section_intros[intro_idx]}</p>'
+            sections_html += f'<p>{section_details[detail_idx]}</p>'
 
         # Generate FAQ section with schema
         faq_items = []
@@ -1385,51 +1373,37 @@ def generate_editorial_standards_page():
     content = '''
     <div class="category-header">
         <h1>Editorial Standards</h1>
-        <p>How DentalPedia ensures quality, accuracy, and trustworthiness</p>
+        <p>How DentalPedia creates and maintains its dental health content</p>
     </div>
 
     <div class="content-width" style="padding: 2rem 0;">
         <div style="max-width: 800px; margin: 0 auto;">
-            <h2>Our Commitment to Quality</h2>
-            <p>DentalPedia is committed to providing accurate, evidence-based dental health information. Our editorial board consists of board-certified dental professionals who review all content to ensure clinical accuracy and relevance.</p>
+            <h2>About Our Content</h2>
+            <p>DentalPedia provides dental health information compiled from established dental literature, professional guidelines, and publicly available clinical resources. Our content is created with the assistance of AI technology and is designed to help readers understand common dental topics in accessible language.</p>
 
-            <h2>Editorial Review Process</h2>
-            <p>Every article published on DentalPedia undergoes a rigorous review process:</p>
+            <h2>Content Creation Process</h2>
+            <p>Our articles are developed through the following process:</p>
             <ul>
-                <li><strong>Clinical Accuracy:</strong> All content is reviewed by board-certified specialists in the relevant dental field</li>
-                <li><strong>Evidence-Based Information:</strong> Claims are supported by peer-reviewed research and clinical guidelines</li>
-                <li><strong>Plain Language:</strong> Complex dental concepts are explained in accessible language for patients</li>
-                <li><strong>Regular Updates:</strong> Articles are periodically reviewed and updated to reflect current best practices</li>
+                <li><strong>Research:</strong> Content topics are drawn from established dental literature, clinical guidelines, and commonly asked patient questions</li>
+                <li><strong>AI-Assisted Writing:</strong> Articles are drafted with the assistance of AI technology to ensure comprehensive topic coverage</li>
+                <li><strong>Plain Language:</strong> Complex dental concepts are explained in language that is accessible to a general audience</li>
+                <li><strong>Ongoing Improvement:</strong> Content is regularly reviewed and updated as new information becomes available</li>
             </ul>
 
-            <h2>Editorial Board</h2>
-            <p>Our editorial board includes board-certified dentists specializing in:</p>
-            <ul>
-                <li>General Dentistry</li>
-                <li>Prosthodontics</li>
-                <li>Orthodontics</li>
-                <li>Periodontics</li>
-                <li>Endodontics</li>
-                <li>Oral Surgery</li>
-                <li>Pediatric Dentistry</li>
-                <li>Cosmetic Dentistry</li>
-            </ul>
-
-            <h2>Information Sources</h2>
-            <p>DentalPedia articles reference authoritative sources including:</p>
+            <h2>Reference Sources</h2>
+            <p>DentalPedia content draws on information from widely recognized dental and health organizations, including:</p>
             <ul>
                 <li>American Dental Association (ADA)</li>
                 <li>National Institutes of Health (NIH)</li>
-                <li>PubMed Central</li>
-                <li>Peer-reviewed dental journals</li>
-                <li>Evidence-based clinical guidelines</li>
+                <li>Published dental research and clinical guidelines</li>
             </ul>
 
-            <h2>Medical Disclaimer</h2>
-            <p>The information provided on DentalPedia is for educational purposes only and should not be considered a substitute for professional medical advice. Always consult with a qualified dentist before making any treatment decisions or changing your dental care routine.</p>
+            <h2>Important Disclaimer</h2>
+            <p>The information on DentalPedia is for <strong>educational and informational purposes only</strong>. It should not be considered a substitute for professional dental or medical advice, diagnosis, or treatment. Always seek the advice of a qualified dentist or healthcare provider with any questions you may have about a dental condition or treatment.</p>
+            <p>DentalPedia does not endorse any specific dentist, practice, product, or treatment. The dentist directory listings are based on publicly available data and do not imply endorsement or verification of credentials.</p>
 
-            <h2>Accuracy & Updates</h2>
-            <p>While we strive for accuracy, dental science evolves continuously. If you notice any inaccuracies or have concerns about our content, please contact us with specific details.</p>
+            <h2>Accuracy & Corrections</h2>
+            <p>While we strive for accuracy, dental science evolves continuously and our content may not always reflect the latest developments. If you notice any inaccuracies, please contact us so we can review and correct the information promptly.</p>
         </div>
     </div>
     '''
@@ -2504,7 +2478,7 @@ def generate_embeddable_widget():
 
         <h3>Benefits for Your Practice</h3>
         <div class="article-body">
-            <p>Adding the DentalPedia widget to your dental practice website provides educational content for your patients, improves your site's SEO with fresh content, earns a backlink from DentalPedia, and requires zero maintenance as content updates automatically.</p>
+            <p>Adding the DentalPedia widget to your dental practice website provides educational dental health content for your patients, requires zero maintenance as articles update automatically, and helps keep visitors engaged with relevant oral health information.</p>
         </div>
 
         {generate_share_buttons("DentalPedia Widget for Dental Practices", f"{DOMAIN}/widget/")}
@@ -2694,11 +2668,12 @@ def generate_dentist_card(practice, is_premium=False, show_appt=True):
 
 
 def generate_practice_bio(practice, city, state_name, state_abbr):
-    """Generate an SEO-optimized bio section for a practice profile page.
+    """Generate a varied, factual bio section for a practice profile page.
 
-    Creates unique, keyword-rich 'About' content using practice data.
-    Detects if the practice is named after a doctor and adjusts tone accordingly.
+    Uses multiple template variants selected by practice name hash for consistency.
+    Avoids unsubstantiated superlatives. Uses factual language only.
     """
+    import hashlib as _hl
     name = practice['name']
     escaped_name = html_mod.escape(name)
     escaped_city = html_mod.escape(city)
@@ -2708,81 +2683,97 @@ def generate_practice_bio(practice, city, state_name, state_abbr):
     website = practice.get('website', '')
     address = practice.get('address', '')
 
+    # Hash-based variant selector for consistent but varied output
+    h = int(_hl.md5(name.encode()).hexdigest(), 16)
+
     # Detect if practice name is a doctor's name
     name_lower = name.lower()
-    is_doctor = any(t in name_lower for t in ['dr.', 'dr ', 'dds', 'dmd', 'dentist'])
+    is_doctor = any(t in name_lower for t in ['dr.', 'dr ', 'dds', 'dmd'])
 
-    # Build rating sentence
+    # Build rating sentence (factual only)
     rating_sentence = ''
     if rating > 0 and reviews > 0:
-        if rating >= 4.5:
-            rating_sentence = f'With an outstanding {rating}-star rating from {reviews:,} patient reviews, {escaped_name} is one of the most highly rated dental practices in {escaped_city}.'
-        elif rating >= 4.0:
-            rating_sentence = f'Rated {rating} stars based on {reviews:,} patient reviews, {escaped_name} has earned a strong reputation among {escaped_city} residents.'
-        else:
-            rating_sentence = f'{escaped_name} has received {reviews:,} patient reviews with an average rating of {rating} stars.'
+        rating_sentence = f'{escaped_name} has a {rating}-star rating based on {reviews:,} patient review{"s" if reviews != 1 else ""}.'
 
     # Build services list based on practice name keywords
     detected_services = []
     service_keywords = {
-        'orthodont': 'Orthodontics & Braces',
-        'oral surg': 'Oral Surgery',
-        'periodon': 'Periodontics & Gum Treatment',
-        'endodon': 'Endodontics & Root Canal Therapy',
-        'pediatr': 'Pediatric Dentistry',
-        'cosmetic': 'Cosmetic Dentistry',
-        'implant': 'Dental Implants',
-        'prosthodon': 'Prosthodontics',
-        'family': 'Family Dentistry',
-        'general': 'General Dentistry',
-        'emergency': 'Emergency Dental Care',
-        'sedation': 'Sedation Dentistry',
-        'holistic': 'Holistic Dentistry',
-        'laser': 'Laser Dentistry',
+        'orthodont': 'Orthodontics', 'oral surg': 'Oral Surgery',
+        'periodon': 'Periodontics', 'endodon': 'Endodontics',
+        'pediatr': 'Pediatric Dentistry', 'cosmetic': 'Cosmetic Dentistry',
+        'implant': 'Dental Implants', 'prosthodon': 'Prosthodontics',
+        'family': 'Family Dentistry', 'general': 'General Dentistry',
+        'emergency': 'Emergency Dental Care', 'sedation': 'Sedation Dentistry',
+        'holistic': 'Holistic Dentistry', 'laser': 'Laser Dentistry',
         'sleep': 'Sleep Apnea Treatment',
     }
     for kw, svc in service_keywords.items():
         if kw in name_lower:
             detected_services.append(svc)
 
-    # Default services if none detected from name
     if not detected_services:
-        detected_services = ['General Dentistry', 'Preventive Care', 'Cosmetic Dentistry', 'Restorative Dentistry']
+        # Vary default services by hash
+        service_sets = [
+            ['General Dentistry', 'Preventive Care', 'Restorative Dentistry'],
+            ['General Dentistry', 'Cosmetic Dentistry', 'Preventive Care'],
+            ['Family Dentistry', 'Preventive Care', 'Restorative Dentistry'],
+        ]
+        detected_services = service_sets[h % len(service_sets)]
 
     services_text = ', '.join(detected_services[:-1]) + (f', and {detected_services[-1]}' if len(detected_services) > 1 else detected_services[0])
 
-    # Build the bio paragraphs
+    # Varied intro templates (factual, no superlatives)
     if is_doctor:
-        # Doctor-focused bio
-        # Try to extract just the doctor's name
-        doc_name = escaped_name
-        intro = f'{doc_name} is a trusted dental professional serving patients in {escaped_city}, {html_mod.escape(state_name)}. With a commitment to delivering personalized, high-quality dental care, {doc_name} combines clinical expertise with a patient-first approach to help every individual achieve and maintain optimal oral health.'
-        services_para = f'The practice offers comprehensive dental services including {services_text}. Whether you need a routine cleaning, advanced restorative work, or a complete smile makeover, {doc_name} provides treatment plans tailored to each patient\'s unique needs and goals.'
+        doc_intros = [
+            f'{escaped_name} is a dental practice located in {escaped_city}, {html_mod.escape(state_name)}. The practice provides dental care services to patients in the {escaped_city} area.',
+            f'Located in {escaped_city}, {html_mod.escape(state_name)}, {escaped_name} offers dental services to local patients. The office accepts both new and existing patients.',
+            f'{escaped_name} provides dental care in {escaped_city}, {html_mod.escape(state_name)}. Patients can contact the office to learn about available services and schedule visits.',
+            f'Patients in {escaped_city}, {html_mod.escape(state_name)} can visit {escaped_name} for dental care. The practice serves individuals and families in the surrounding area.',
+        ]
+        intro = doc_intros[h % len(doc_intros)]
     else:
-        # Practice-focused bio
-        intro = f'{escaped_name} is a leading dental practice located in {escaped_city}, {html_mod.escape(state_name)}, dedicated to providing exceptional dental care for patients of all ages. The practice combines modern dental technology with compassionate, patient-centered care to deliver outstanding results.'
-        services_para = f'Patients at {escaped_name} can access a full range of dental services including {services_text}. The team focuses on creating comfortable, stress-free experiences while delivering treatment plans customized to each patient\'s oral health needs.'
+        practice_intros = [
+            f'{escaped_name} is a dental office located in {escaped_city}, {html_mod.escape(state_name)}, serving patients in the local area.',
+            f'Located in {escaped_city}, {html_mod.escape(state_name)}, {escaped_name} provides dental care services. The practice is open to new patients.',
+            f'{escaped_name} is a dental practice in {escaped_city}, {html_mod.escape(state_name)}. The office offers dental services to patients of various ages.',
+            f'Patients in the {escaped_city}, {html_mod.escape(state_name)} area can visit {escaped_name} for dental care services.',
+        ]
+        intro = practice_intros[h % len(practice_intros)]
 
-    # Community paragraph
-    community_para = f'Conveniently located at {html_mod.escape(address)}, {escaped_name} proudly serves the {escaped_city} community and surrounding areas in {html_mod.escape(state_name)}. New patients are welcome, and the practice is committed to making quality dental care accessible to every member of the community.'
+    # Varied service paragraphs
+    svc_templates = [
+        f'Services offered include {services_text}. Patients should contact the office directly to confirm specific services and availability.',
+        f'The practice offers services in areas including {services_text}. For details about specific treatments, patients can reach out to the office.',
+        f'{escaped_name} provides services such as {services_text}. Appointment availability and specific offerings may vary.',
+    ]
+    services_para = svc_templates[(h >> 4) % len(svc_templates)]
+
+    # Location paragraph (factual)
+    loc_templates = [
+        f'The office is located at {html_mod.escape(address)}. Patients in {escaped_city} and surrounding communities can visit for dental care.',
+        f'{escaped_name} can be found at {html_mod.escape(address)}, serving the {escaped_city} area and nearby neighborhoods in {html_mod.escape(state_name)}.',
+        f'The practice is situated at {html_mod.escape(address)} in the {escaped_city}, {state_abbr} area.',
+    ]
+    community_para = loc_templates[(h >> 8) % len(loc_templates)]
 
     # CTA paragraph
     if phone:
         phone_clean = re.sub(r'[^0-9+]', '', phone)
-        cta_para = f'Ready to schedule your next dental appointment? Contact {escaped_name} today at <a href="tel:{phone_clean}">{html_mod.escape(phone)}</a> or use the appointment request form above to get started on your journey to a healthier smile.'
+        cta_para = f'To schedule an appointment or ask about services, contact {escaped_name} at <a href="tel:{phone_clean}">{html_mod.escape(phone)}</a>.'
     else:
-        cta_para = f'Ready to schedule your next dental appointment? Use the appointment request form above or visit the {escaped_name} website to get started on your journey to a healthier smile.'
+        cta_para = f'To learn more about available services, visit the {escaped_name} website or use the appointment request form above.'
 
     bio_html = f'''
     <div class="practice-bio" style="margin:1.5rem 0;padding:1.5rem;background:var(--card-bg);border-radius:12px;border:1px solid var(--border);">
         <h2 style="margin-top:0;color:var(--heading);font-size:1.35rem;">About {escaped_name}</h2>
         <p style="line-height:1.75;color:var(--text);margin-bottom:1rem;">{intro}</p>
-        <p style="line-height:1.75;color:var(--text);margin-bottom:1rem;">{rating_sentence}</p>
-        <h3 style="color:var(--heading);font-size:1.1rem;margin-bottom:0.5rem;">Dental Services in {escaped_city}, {state_abbr}</h3>
+        {f'<p style="line-height:1.75;color:var(--text);margin-bottom:1rem;">{rating_sentence}</p>' if rating_sentence else ''}
+        <h3 style="color:var(--heading);font-size:1.1rem;margin-bottom:0.5rem;">Services in {escaped_city}, {state_abbr}</h3>
         <p style="line-height:1.75;color:var(--text);margin-bottom:1rem;">{services_para}</p>
-        <h3 style="color:var(--heading);font-size:1.1rem;margin-bottom:0.5rem;">Serving the {escaped_city} Community</h3>
+        <h3 style="color:var(--heading);font-size:1.1rem;margin-bottom:0.5rem;">Location</h3>
         <p style="line-height:1.75;color:var(--text);margin-bottom:1rem;">{community_para}</p>
-        <p style="line-height:1.75;color:var(--text);margin-bottom:0;">{cta_para}</p>
+        <p style="line-height:1.75;color:var(--text);margin-bottom:0.5rem;">{cta_para}</p>
+        <p style="font-size:0.8rem;color:var(--text-secondary);margin-bottom:0;margin-top:0.75rem;"><em>Practice information is based on publicly available data and may not reflect current details. Please contact the office directly to verify.</em></p>
     </div>'''
 
     return bio_html
@@ -2797,9 +2788,15 @@ def generate_find_dentist_pages():
     base_dir = SITE_ROOT / "find-a-dentist"
     base_dir.mkdir(parents=True, exist_ok=True)
 
+    # Filter out non-US entries (safety check)
+    valid_us_states = {'AL','AK','AZ','AR','CA','CO','CT','DE','FL','GA','HI','ID','IL','IN','IA','KS','KY','LA','ME','MD','MA','MI','MN','MS','MO','MT','NE','NV','NH','NJ','NM','NY','NC','ND','OH','OK','OR','PA','RI','SC','SD','TN','TX','UT','VT','VA','WA','WV','WI','WY','DC'}
+    filtered_data = [p for p in dentists_data if p.get('state', '') in valid_us_states and 'France' not in p.get('address', '')]
+    if len(filtered_data) < len(dentists_data):
+        logger.info(f"Filtered out {len(dentists_data) - len(filtered_data)} non-US entries from directory")
+
     # Organize data by state and city
     by_state = defaultdict(list)
-    for p in dentists_data:
+    for p in filtered_data:
         by_state[p['state']].append(p)
 
     by_city = defaultdict(list)

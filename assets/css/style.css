@@ -905,67 +905,38 @@ main {
   opacity: 1;
 }
 
-/* ==== E-E-A-T REVIEWER CARD ==== */
-.eeat-card {
-  background: linear-gradient(135deg, var(--eeat-bg), rgba(16, 185, 129, 0.05));
-  border: 1.5px solid var(--eeat-border);
+/* ==== CONTENT DISCLAIMER CARD ==== */
+.content-disclaimer {
+  background: linear-gradient(135deg, #f0f4ff, #e8ecf4);
+  border: 1.5px solid #c7d2e0;
   border-radius: var(--radius-lg);
-  padding: 1.75rem;
-  margin-top: 3.5rem;
+  padding: 1.25rem 1.5rem;
+  margin-top: 2.5rem;
   display: flex;
-  gap: 1.25rem;
+  gap: 1rem;
   align-items: flex-start;
   box-shadow: var(--shadow-sm);
 }
 
-.eeat-icon {
-  font-size: 2.25rem;
+[data-theme=dark] .content-disclaimer {
+  background: linear-gradient(135deg, #1e293b, #1a2332);
+  border-color: #334155;
+}
+
+.content-disclaimer-icon {
+  font-size: 1.5rem;
   flex-shrink: 0;
-  background: var(--tooth-accent-light);
-  width: 56px;
-  height: 56px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 12px;
 }
 
-.eeat-content {
-  flex: 1;
-}
-
-.eeat-label {
-  font-size: 0.75rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: var(--tooth-accent);
-  font-weight: 800;
-  margin-bottom: 0.4rem;
-}
-
-.eeat-name {
-  font-size: 1.15rem;
-  font-weight: 800;
-  color: var(--text-primary);
-  margin-bottom: 0.35rem;
-}
-
-.eeat-credentials {
-  font-size: 0.9rem;
+.content-disclaimer-text {
+  font-size: 0.88rem;
   color: var(--text-secondary);
-  margin-bottom: 0.5rem;
-  line-height: 1.5;
+  line-height: 1.6;
 }
 
-.eeat-link a {
-  font-size: 0.85rem;
+.content-disclaimer-text a {
   color: var(--accent);
   font-weight: 600;
-  transition: color var(--transition-fast);
-}
-
-.eeat-link a:hover {
-  color: var(--accent-hover);
 }
 
 /* ==== SOURCES CARD ==== */
@@ -1602,13 +1573,13 @@ main {
     font-size: 1.4rem;
   }
 
-  .eeat-card {
+  .content-disclaimer {
     flex-direction: column;
     align-items: center;
     text-align: center;
   }
 
-  .eeat-icon {
+  .content-disclaimer-icon {
     margin-bottom: 0;
   }
 
@@ -1721,13 +1692,12 @@ main {
     padding: 0.4rem 0.5rem;
   }
 
-  .eeat-card {
+  .content-disclaimer {
     padding: 1.25rem;
   }
 
-  .eeat-icon {
-    width: 48px;
-    height: 48px;
+  .content-disclaimer-icon {
+    font-size: 1.25rem;
   }
 }
 
@@ -1772,7 +1742,7 @@ main {
     page-break-inside: avoid;
   }
 
-  .eeat-card,
+  .content-disclaimer,
   .sources-card,
   .disclaimer {
     page-break-inside: avoid;
