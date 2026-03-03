@@ -1513,6 +1513,11 @@ def generate_admin_dashboard():
                 <div class="admin-stat"><div class="admin-stat-label">Guides</div><div class="admin-stat-value">{total_guides}</div></div>
                 <div class="admin-stat"><div class="admin-stat-label">Ekwa Premium</div><div class="admin-stat-value">{ekwa_count}</div></div>
             </div>
+            <div class="admin-card" style="background:linear-gradient(135deg,#e8f4e8,#d4edda);border-color:#28a745;margin-bottom:1rem;">
+                <h3 style="color:#155724;margin-bottom:0.5rem;">📊 Google Sheet — Lead Tracking</h3>
+                <p style="color:#155724;margin-bottom:0.75rem;">All quiz emails, directory clicks, and appointment requests are logged here in real time.</p>
+                <a href="https://docs.google.com/spreadsheets/d/1SRa0r2jDAZq-S3S1pxuJtJ-SUk898fvLiL1pEOn7NAM/edit" target="_blank" rel="noopener" style="display:inline-block;background:#28a745;color:#fff;padding:0.6rem 1.25rem;border-radius:8px;font-weight:700;text-decoration:none;font-size:0.95rem;">Open Google Sheet →</a>
+            </div>
             <div class="admin-card">
                 <h3>Build Information</h3>
                 <p><strong>Build Time:</strong> {build_time}</p>
@@ -1537,12 +1542,15 @@ def generate_admin_dashboard():
         <!-- LEADS TAB -->
         <div id="tab-leads" class="admin-panel" style="display:none;">
             <h2>Lead Tracking</h2>
-            <p>Directory click data and quiz email captures are logged to Google Sheets.</p>
+            <p>Directory click data, appointment requests, and quiz email captures are logged to Google Sheets in real time.</p>
+            <div class="admin-card" style="background:linear-gradient(135deg,#e8f4e8,#d4edda);border-color:#28a745;margin-bottom:1rem;text-align:center;">
+                <a href="https://docs.google.com/spreadsheets/d/1SRa0r2jDAZq-S3S1pxuJtJ-SUk898fvLiL1pEOn7NAM/edit" target="_blank" rel="noopener" style="display:inline-block;background:#28a745;color:#fff;padding:0.75rem 2rem;border-radius:8px;font-weight:700;text-decoration:none;font-size:1.1rem;">📊 Open Google Sheet →</a>
+            </div>
             <div class="admin-card">
-                <h3>Data Sources</h3>
-                <p><strong>Quiz Emails:</strong> Sheet1 tab — Timestamp, Email, Score, Rating</p>
-                <p><strong>Directory Leads:</strong> Leads tab — Timestamp, Practice, Action, City, State, Page</p>
-                <p><a href="https://docs.google.com/spreadsheets/d/1SRa0r2jDAZq-S3S1pxuJtJ-SUk898fvLiL1pEOn7NAM/edit" target="_blank" rel="noopener" style="color:var(--accent);font-weight:600;">Open Google Sheet →</a></p>
+                <h3>Data Sources (3 Tabs in the Sheet)</h3>
+                <p><strong>Sheet1 — Quiz Emails:</strong> Timestamp, Email, Score, Rating</p>
+                <p><strong>Leads — Directory Clicks:</strong> Timestamp, Practice, Action (call/website), City, State, Page</p>
+                <p><strong>Appointments — Requests:</strong> Timestamp, Practice, Patient Name, Phone, Email, Message, City, State, Page</p>
             </div>
             <div class="admin-card" style="margin-top:1rem;">
                 <h3>Recent Leads (Live)</h3>
