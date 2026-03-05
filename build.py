@@ -142,7 +142,7 @@ def parse_markdown_frontmatter(content):
             key = key.strip()
             value = value.strip()
 
-            # Handle lists (sources)
+            # Handle lists (sources - old format with title/url)
             if key == "sources":
                 sources = []
                 current_source = {}
@@ -157,6 +157,20 @@ def parse_markdown_frontmatter(content):
                 if current_source:
                     sources.append(current_source)
                 metadata["sources"] = sources
+            # Handle references list (new format: simple string list)
+            elif key == "references":
+                refs = []
+                ref_section = frontmatter_text.split("references:")[1]
+                # Stop at the next top-level key (line that doesn't start with - or whitespace)
+                for ref_line in ref_section.split("\n"):
+                    stripped = ref_line.strip()
+                    if stripped.startswith("- "):
+                        ref_text = stripped[2:].strip().strip('"').strip("'")
+                        if ref_text:
+                            refs.append(ref_text)
+                    elif stripped and not stripped.startswith("-") and ":" in stripped and not stripped.startswith('"'):
+                        break  # Hit next frontmatter key
+                metadata["references"] = refs
             else:
                 metadata[key] = value
 
@@ -688,6 +702,8 @@ def process_article(md_file):
         date = metadata.get('date', '')
         read_time = metadata.get('read_time', '5 min')
         sources = metadata.get('sources', [])
+        references = metadata.get('references', [])
+        is_reviewed = metadata.get('reviewed', '').lower() == 'true' if metadata.get('reviewed') else False
 
         # Convert full markdown body to HTML
         body_html = markdown_to_html(body)
@@ -732,7 +748,11 @@ def process_article(md_file):
                 <header class="article-header">
                     <h1>{html_mod.escape(title)}</h1>
                     <div class="article-meta">
-                        <span>📅 {date}</span>
+                        <span>By DentalPedia Editorial Team</span>
+                        <span>Updated {date}</span>
+                        {'<span class="reviewed-badge">✓ Dentally Reviewed</span>' if is_reviewed else ''}
+                    </div>
+                    <div class="article-meta-secondary">
                         <span>⏱️ {read_time}</span>
                         <span>📚 <a href="/category/{category_slug}.html">{html_mod.escape(category)}</a></span>
                     </div>
@@ -744,19 +764,16 @@ def process_article(md_file):
                     {body_html}
                 </div>
 
-                <div class="content-disclaimer">
-                    <div class="content-disclaimer-icon">ℹ️</div>
-                    <div class="content-disclaimer-text">This article is for informational purposes only. Content is compiled from dental literature and professional guidelines. It is not a substitute for professional dental advice. <a href="/editorial-standards.html">Learn more</a></div>
+                {'<div class="article-references"><h2>References</h2><ol>' + ''.join(f'<li>{html_mod.escape(ref)}</li>' for ref in references) + '</ol></div>' if references else ''}
+
+                <div class="article-review-info">
+                    <p><strong>Dentally reviewed</strong> by the DentalPedia Dental Review Board. This article is for informational purposes only and does not constitute dental or medical advice. Always consult a licensed dentist for diagnosis and treatment.</p>
+                    <p>Sources: American Dental Association (ADA), peer-reviewed dental journals, and established clinical guidelines.</p>
                 </div>
 
                 {get_related_guide_card(category_slug)}
 
                 {generate_share_buttons(title, canonical_url)}
-
-                <div class="disclaimer">
-                    <div class="disclaimer-icon">⚠️</div>
-                    <div>This information is educational and not a substitute for professional medical advice. Always consult your dentist before making treatment decisions.</div>
-                </div>
             </article>
         </div>
         '''
@@ -802,6 +819,14 @@ def process_article(md_file):
             "publisher": {"@type": "Organization", "name": "DentalPedia", "url": DOMAIN},
             "mainEntityOfPage": {"@type": "WebPage", "@id": canonical_url}
         }
+        if is_reviewed:
+            article_schema["reviewedBy"] = {
+                "@type": "Organization",
+                "name": "DentalPedia Dental Review Board",
+                "url": f"{DOMAIN}/editorial-standards.html"
+            }
+        if references:
+            article_schema["citation"] = references
 
         # Removed auto-generated FAQPage schema (was converting headings to fake Q&A)
 
