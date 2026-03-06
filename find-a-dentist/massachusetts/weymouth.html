@@ -29,7 +29,7 @@
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Weymouth, MA","numberOfItems":14,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Dr. Pauline McDonough, DDS","address":"1355 Pleasant St, Weymouth, MA 02189, USA","telephone":"(781) 340-1200"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Preethy Sarah George, DMD","address":"94 Washington St # 1, Weymouth, MA 02188, USA","telephone":"(781) 335-2400"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Weymouth Dental Associates","address":"130 Broad St, Weymouth, MA 02188, USA","telephone":"(781) 650-3799"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Weymouth Family Dental Care","address":"1125 Washington St, Weymouth, MA 02189, USA","telephone":"(781) 337-0973"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Dr. Nicolas R. Metri, DMD","address":"83 Broad St, Weymouth, MA 02188, USA","telephone":"(781) 335-2250"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Weymouth Dental Arts","address":"293 Libbey Pkwy Ste A-100, Weymouth, MA 02189, USA","telephone":"(781) 660-1265"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Dental Aid 1","address":"884 Washington St Suite 130, Weymouth, MA 02189, USA","telephone":"(781) 340-5361"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Smile Rx, Sandra Ameri D.M.D. - Weymouth Dentist","address":"312 Bridge St, Weymouth, MA 02191, USA","telephone":"(781) 476-5223"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Ace Dental Group","address":"1025 Main St, Weymouth, MA 02190, USA","telephone":"(781) 331-3469"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"South Shore Pediatric Dentistry","address":"5 Federal St, Weymouth, MA 02188, USA","telephone":"(781) 340-5437"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Weymouth Smiles Dental","address":"536 Broad St STE 1, Weymouth, MA 02189, USA","telephone":"(781) 331-2442"}},{"@type":"ListItem","position":12,"item":{"@type":"Dentist","name":"Dr. Frederick F. Nafash and Associates","address":"Stetson Medical Center, 541 Main St #214, Weymouth, MA 02190, USA","telephone":"(617) 982-1649"}},{"@type":"ListItem","position":13,"item":{"@type":"Dentist","name":"Unident Group","address":"527 Main St, Weymouth, MA 02190, USA","telephone":"(781) 331-0001"}},{"@type":"ListItem","position":14,"item":{"@type":"Dentist","name":"Meridian Dental Associates","address":"1650 Main St, Weymouth, MA 02190, USA","telephone":"(781) 331-9200"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=3e55c005">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=cfc39090">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -283,6 +283,34 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
+        function toggleReaderMode() {
+            const sw = document.getElementById('reader-mode-switch');
+            const body = document.getElementById('article-body');
+            if (!sw || !body) return;
+            const isPro = sw.classList.toggle('active');
+            sw.setAttribute('aria-checked', isPro);
+            if (isPro) {
+                body.classList.remove('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+            } else {
+                body.classList.add('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
+            }
+            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
+        }
+        // Restore reader mode preference
+        (function() {
+            const mode = localStorage.getItem('readerMode');
+            if (mode === 'pro') {
+                const sw = document.getElementById('reader-mode-switch');
+                const body = document.getElementById('article-body');
+                if (sw && body) {
+                    sw.classList.add('active');
+                    sw.setAttribute('aria-checked', 'true');
+                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+                }
+            }
+        })();
     </script>
 </body>
 </html>

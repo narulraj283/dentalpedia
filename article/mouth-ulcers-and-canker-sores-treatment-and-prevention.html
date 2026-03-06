@@ -21,7 +21,7 @@
     <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dentalpedia.co"}, {"@type": "ListItem", "position": 2, "name": "Oral Health Conditions", "item": "https://dentalpedia.co/category/oral-health-conditions.html"}, {"@type": "ListItem", "position": 3, "name": "Infections & Abscesses", "item": "https://dentalpedia.co/subcategory/oral-health-conditions/infections-abscess/"}, {"@type": "ListItem", "position": 4, "name": "Mouth Ulcers and Canker Sores: Treatment and Prevention"}]}</script>
         <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Mouth Ulcers and Canker Sores: Treatment and Prevention", "description": "Canker sore etiology encompasses mechanical trauma, nutritional deficiency, and immunologic dysfunction requiring distinct treatment protocols by severity classification.", "datePublished": "2026-03-05", "dateModified": "2026-03-05", "url": "https://dentalpedia.co/article/mouth-ulcers-and-canker-sores-treatment-and-prevention.html", "author": {"@type": "Organization", "name": "DentalPedia", "url": "https://dentalpedia.co"}, "publisher": {"@type": "Organization", "name": "DentalPedia", "url": "https://dentalpedia.co"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://dentalpedia.co/article/mouth-ulcers-and-canker-sores-treatment-and-prevention.html"}, "reviewedBy": {"@type": "Organization", "name": "DentalPedia Dental Review Board", "url": "https://dentalpedia.co/editorial-standards.html"}, "citation": ["title: \"Preeti L, Magesh K, Rajkumar K, Karthik R. Recurrent aphthous stomatitis: current concepts of etiology, pathogenesis and management. J Oral Maxillofac Pathol. 2011;15(2):252-260."]}</script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=3e55c005">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=cfc39090">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -84,7 +84,14 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#pathophysiologic-mechanisms-of-canker-sore-development">Pathophysiologic Mechanisms of Canker Sore Development</a></li><li><a href="#classification-system-minor-major-and-herpetiform-presentations">Classification System: Minor, Major, and Herpetiform Presentations</a></li><li><a href="#nutritional-deficiency-assessment-and-supplementation-protocols">Nutritional Deficiency Assessment and Supplementation Protocols</a></li><li><a href="#topical-treatment-modalities-and-pain-management">Topical Treatment Modalities and Pain Management</a></li><li><a href="#secondary-infection-management-and-antimicrobial-considerations">Secondary Infection Management and Antimicrobial Considerations</a></li><li><a href="#trigger-identification-and-dietary-modification-strategies">Trigger Identification and Dietary Modification Strategies</a></li><li><a href="#psychological-stress-reduction-and-immunomodulation">Psychological Stress Reduction and Immunomodulation</a></li><li><a href="#prognosis-healing-timelines-and-long-term-management">Prognosis, Healing Timelines, and Long-Term Management</a></li></ul></div>
 
-                <div class="article-body">
+                <div class="reader-mode-toggle">
+                    <label>Reading Mode:</label>
+                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
+                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
+                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                </div>
+
+                <div class="article-body" id="article-body">
                     <p>Canker sores represent a clinical manifestation of recurrent aphthous stomatitis (RAS), one of the most prevalent mucosal conditions affecting 15-20% of the general population at any given time. Unlike herpes simplex lesions, aphthous ulcers are not contagious, are confined to non-keratinized oral mucosa, and present with distinct etiologic pathways involving trauma, nutritional deficiency, immunologic dysregulation, and oral microbiome disruption. The terminology of "canker sores" often conflates multiple distinct ulcer phenotypes that require differential diagnosis and classification-specific treatment protocols. This comprehensive examination elucidates the pathophysiologic mechanisms underlying canker sore formation, delineates the clinical classification system guiding treatment decisions, and establishes evidence-based management protocols for both acute symptomatic relief and long-term prophylaxis.</p>
 
 <h2 id="pathophysiologic-mechanisms-of-canker-sore-development">Pathophysiologic Mechanisms of Canker Sore Development</h2><div class="key-takeaway" style="background: #eff6ff; border-left: 4px solid #2563eb; padding: 1rem 1.25rem; border-radius: 0 8px 8px 0; margin: 1.5rem 0; font-size: 0.95rem;"><strong>Key Takeaway:</strong> Canker sores represent a clinical manifestation of recurrent aphthous stomatitis (RAS), one of the most prevalent mucosal conditions affecting 15-20% of the general population at any given time. Unlike herpes simplex lesions, aphthous ulcers are not...</div>
@@ -213,6 +220,34 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
+        function toggleReaderMode() {
+            const sw = document.getElementById('reader-mode-switch');
+            const body = document.getElementById('article-body');
+            if (!sw || !body) return;
+            const isPro = sw.classList.toggle('active');
+            sw.setAttribute('aria-checked', isPro);
+            if (isPro) {
+                body.classList.remove('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+            } else {
+                body.classList.add('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
+            }
+            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
+        }
+        // Restore reader mode preference
+        (function() {
+            const mode = localStorage.getItem('readerMode');
+            if (mode === 'pro') {
+                const sw = document.getElementById('reader-mode-switch');
+                const body = document.getElementById('article-body');
+                if (sw && body) {
+                    sw.classList.add('active');
+                    sw.setAttribute('aria-checked', 'true');
+                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+                }
+            }
+        })();
     </script>
 </body>
 </html>

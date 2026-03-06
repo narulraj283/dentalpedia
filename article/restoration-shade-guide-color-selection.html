@@ -21,7 +21,7 @@
     <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dentalpedia.co"}, {"@type": "ListItem", "position": 2, "name": "Cosmetic Dentistry", "item": "https://dentalpedia.co/category/cosmetic-dentistry.html"}, {"@type": "ListItem", "position": 3, "name": "Cosmetic Overview", "item": "https://dentalpedia.co/subcategory/cosmetic-dentistry/overview-cosmetic/"}, {"@type": "ListItem", "position": 4, "name": "Restoration Shade Guide and Color Selection Methods"}]}</script>
         <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Restoration Shade Guide and Color Selection Methods", "description": "Comprehensively explore shade selection systems including Vita Classical and 3D-Master guides, spectrophotometry, metamerism, and digital shade matching technologies.", "datePublished": "2026-03-05", "dateModified": "2026-03-05", "url": "https://dentalpedia.co/article/restoration-shade-guide-color-selection.html", "author": {"@type": "Organization", "name": "DentalPedia", "url": "https://dentalpedia.co"}, "publisher": {"@type": "Organization", "name": "DentalPedia", "url": "https://dentalpedia.co"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://dentalpedia.co/article/restoration-shade-guide-color-selection.html"}, "reviewedBy": {"@type": "Organization", "name": "DentalPedia Dental Review Board", "url": "https://dentalpedia.co/editorial-standards.html"}, "citation": ["title: \"Alqahtani MQ. Diagnosis and treatment planning in esthetic dentistry. Dent Clin North Am. 2011;55(2):241-273."]}</script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=3e55c005">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=cfc39090">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -84,7 +84,14 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#vita-classical-shade-guide-system">Vita Classical Shade Guide System</a></li><li><a href="#vita-3d-master-shade-system-and-advanced-classifications">Vita 3D-Master Shade System and Advanced Classifications</a></li><li><a href="#spectrophotometric-color-measurement">Spectrophotometric Color Measurement</a></li><li><a href="#the-phenomenon-of-metamerism-and-management-strategies">The Phenomenon of Metamerism and Management Strategies</a></li><li><a href="#lighting-conditions-and-illumination-effects-on-shade-selection">Lighting Conditions and Illumination Effects on Shade Selection</a></li><li><a href="#digital-shade-matching-and-color-communication-technologies">Digital Shade Matching and Color Communication Technologies</a></li><li><a href="#shade-selection-for-different-restoration-types">Shade Selection for Different Restoration Types</a></li><li><a href="#clinical-verification-and-shade-tab-management">Clinical Verification and Shade Tab Management</a></li></ul></div>
 
-                <div class="article-body">
+                <div class="reader-mode-toggle">
+                    <label>Reading Mode:</label>
+                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
+                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
+                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                </div>
+
+                <div class="article-body" id="article-body">
                     <h1>Restoration Shade Guide and Color Selection Methods</h1>
 
 <p>The selection of shade for dental restorations represents one of the most critical determinants of the esthetic success of prosthodontic and restorative procedures. Despite the apparent simplicity of matching tooth color, visual shade selection demonstrates significant limitations including observer metamerism (the phenomenon wherein different individuals perceive identical colors differently), instrumental color constancy issues (variations in perceived color depending on lighting conditions and viewing angle), and systematic bias in visual color perception that leads to shade mismatch in 35-45% of restorations when evaluated by trained observers. This comprehensive guide addresses contemporary shade selection systems including traditional Vita Classical and advanced Vita 3D-Master systems, spectrophotometric color measurement technologies, the phenomenon of metamerism and its management, and emerging digital shade-matching methodologies that enable accurate, reproducible shade selection.</p>
@@ -229,6 +236,34 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
+        function toggleReaderMode() {
+            const sw = document.getElementById('reader-mode-switch');
+            const body = document.getElementById('article-body');
+            if (!sw || !body) return;
+            const isPro = sw.classList.toggle('active');
+            sw.setAttribute('aria-checked', isPro);
+            if (isPro) {
+                body.classList.remove('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+            } else {
+                body.classList.add('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
+            }
+            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
+        }
+        // Restore reader mode preference
+        (function() {
+            const mode = localStorage.getItem('readerMode');
+            if (mode === 'pro') {
+                const sw = document.getElementById('reader-mode-switch');
+                const body = document.getElementById('article-body');
+                if (sw && body) {
+                    sw.classList.add('active');
+                    sw.setAttribute('aria-checked', 'true');
+                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+                }
+            }
+        })();
     </script>
 </body>
 </html>

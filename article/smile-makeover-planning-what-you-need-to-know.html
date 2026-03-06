@@ -21,7 +21,7 @@
     <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://dentalpedia.co"}, {"@type": "ListItem", "position": 2, "name": "Cosmetic Dentistry", "item": "https://dentalpedia.co/category/cosmetic-dentistry.html"}, {"@type": "ListItem", "position": 3, "name": "Cosmetic Overview", "item": "https://dentalpedia.co/subcategory/cosmetic-dentistry/overview-cosmetic/"}, {"@type": "ListItem", "position": 4, "name": "Smile Makeover Planning - What You Need to Know as a Patient"}]}</script>
         <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Smile Makeover Planning - What You Need to Know as a Patient", "description": "Patient guide to smile makeover planning, understanding timelines, appointment frequency, temporary teeth phases, and realistic expectations about transformation timelines and results.", "datePublished": "2026-03-05", "dateModified": "2026-03-05", "url": "https://dentalpedia.co/article/smile-makeover-planning-what-you-need-to-know.html", "author": {"@type": "Organization", "name": "DentalPedia", "url": "https://dentalpedia.co"}, "publisher": {"@type": "Organization", "name": "DentalPedia", "url": "https://dentalpedia.co"}, "mainEntityOfPage": {"@type": "WebPage", "@id": "https://dentalpedia.co/article/smile-makeover-planning-what-you-need-to-know.html"}, "reviewedBy": {"@type": "Organization", "name": "DentalPedia Dental Review Board", "url": "https://dentalpedia.co/editorial-standards.html"}, "citation": ["title: \"Spear F, Kokich VG. A systematic approach to the management of esthetic dentistry. J Prosthet Dent. 2009;102(2):109-121."]}</script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=3e55c005">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=cfc39090">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -84,7 +84,14 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#understanding-the-smile-makeover-planning-process">Understanding the Smile Makeover Planning Process</a></li><li><a href="#the-initial-consultation">The Initial Consultation</a></li><li><a href="#diagnostic-records-and-assessment">Diagnostic Records and Assessment</a></li><li><a href="#understanding-your-treatment-plan">Understanding Your Treatment Plan</a></li><li><a href="#appointment-frequency-and-time-commitment">Appointment Frequency and Time Commitment</a></li><li><a href="#the-temporary-teeth-phase">The Temporary Teeth Phase</a></li><li><a href="#realistic-expectations-about-the-final-result">Realistic Expectations About the Final Result</a></li><li><a href="#long-term-maintenance-and-care">Long-Term Maintenance and Care</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="article-body">
+                <div class="reader-mode-toggle">
+                    <label>Reading Mode:</label>
+                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
+                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
+                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                </div>
+
+                <div class="article-body" id="article-body">
                     <h2 id="understanding-the-smile-makeover-planning-process">Understanding the Smile Makeover Planning Process</h2><div class="key-takeaway" style="background: #eff6ff; border-left: 4px solid #2563eb; padding: 1rem 1.25rem; border-radius: 0 8px 8px 0; margin: 1.5rem 0; font-size: 0.95rem;"><strong>Key Takeaway:</strong> A comprehensive smile makeover is an exciting journey toward a transformed smile, but understanding what the process involves helps you prepare and maintain realistic expectations. A smile makeover typically involves multiple treatment phases over...</div>
 
 <p>A comprehensive smile makeover is an exciting journey toward a transformed smile, but understanding what the process involves helps you prepare and maintain realistic expectations. A smile makeover typically involves multiple treatment phases over several months, requires multiple appointments, and involves temporary restoration phases where your teeth look different than the planned final result. Understanding these elements before beginning treatment helps you stay committed to the process and appreciate each phase of your transformation.</p>
@@ -243,6 +250,34 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
+        function toggleReaderMode() {
+            const sw = document.getElementById('reader-mode-switch');
+            const body = document.getElementById('article-body');
+            if (!sw || !body) return;
+            const isPro = sw.classList.toggle('active');
+            sw.setAttribute('aria-checked', isPro);
+            if (isPro) {
+                body.classList.remove('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+            } else {
+                body.classList.add('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
+            }
+            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
+        }
+        // Restore reader mode preference
+        (function() {
+            const mode = localStorage.getItem('readerMode');
+            if (mode === 'pro') {
+                const sw = document.getElementById('reader-mode-switch');
+                const body = document.getElementById('article-body');
+                if (sw && body) {
+                    sw.classList.add('active');
+                    sw.setAttribute('aria-checked', 'true');
+                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+                }
+            }
+        })();
     </script>
 </body>
 </html>

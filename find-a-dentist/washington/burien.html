@@ -29,7 +29,7 @@
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Burien, WA","numberOfItems":8,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Burien Dental","address":"115 S 177th Pl, Burien, WA 98148, USA","telephone":"(425) 357-7005"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Seahurst Smiles of Burien","address":"1800 SW 152nd St #202, Burien, WA 98166, USA","telephone":"(206) 222-4109"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Burien Endodontics","address":"118 SW 160th St, Burien, WA 98166, USA","telephone":"(253) 364-6516"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Sunnydale Dental - Burien","address":"15515 3rd Ave SW suite a, Burien, WA 98166, USA","telephone":"(206) 246-8990"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Burien Signature Dentistry","address":"131 SW 156th St Suite 200, Burien, WA 98166, USA","telephone":"(206) 567-7412"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Town Square Dentistry","address":"610 SW 152nd St, Burien, WA 98166, USA","telephone":"(206) 241-2091"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"All About Dental","address":"17694 1st Ave S Ste B, Burien, WA 98148, USA","telephone":"(206) 767-7777"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Rewards Dental","address":"14212 Ambaum Blvd SW #1, Burien, WA 98166, USA","telephone":"(206) 343-0000"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=3e55c005">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=cfc39090">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -247,6 +247,34 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
+        function toggleReaderMode() {
+            const sw = document.getElementById('reader-mode-switch');
+            const body = document.getElementById('article-body');
+            if (!sw || !body) return;
+            const isPro = sw.classList.toggle('active');
+            sw.setAttribute('aria-checked', isPro);
+            if (isPro) {
+                body.classList.remove('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+            } else {
+                body.classList.add('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
+            }
+            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
+        }
+        // Restore reader mode preference
+        (function() {
+            const mode = localStorage.getItem('readerMode');
+            if (mode === 'pro') {
+                const sw = document.getElementById('reader-mode-switch');
+                const body = document.getElementById('article-body');
+                if (sw && body) {
+                    sw.classList.add('active');
+                    sw.setAttribute('aria-checked', 'true');
+                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+                }
+            }
+        })();
     </script>
 </body>
 </html>

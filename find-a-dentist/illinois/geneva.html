@@ -29,7 +29,7 @@
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Geneva, IL","numberOfItems":13,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"McCall Family Dentistry","address":"407 Williamsburg Ave, Geneva, IL 60134, USA","telephone":"(630) 232-9620"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Mill Creek Dental Care","address":"39W250 Herrington Blvd, Geneva, IL 60134, USA","telephone":"(630) 208-0051"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"All About You Dental Care","address":"2631 Williamsburg Ave #103, Geneva, IL 60134, USA","telephone":"(630) 262-9696"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Randall Pointe Dental Geneva","address":"1000 S Randall Rd STE 200, Geneva, IL 60134, USA","telephone":"(630) 552-6790"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Fox Valley Dental Spa","address":"502 E State St, Geneva, IL 60134, USA","telephone":"(630) 232-7645"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Jeffrey G. Soldati DDS, PC","address":"1000 S Randall Rd STE 250, Geneva, IL 60134, USA","telephone":"(630) 232-4454"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Geneva Dental, Ltd","address":"2172 Blackberry Dr Ste 201, Geneva, IL 60134, USA","telephone":"(630) 208-9331"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Dr. Tom Family &amp; Cosmetic Dentistry","address":"2800 Keslinger Rd #120, Geneva, IL 60134, USA","telephone":"(630) 324-4901"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Brush and Restore - Dentistry of Geneva","address":"112 N 4th St, Geneva, IL 60134, USA","telephone":"(630) 232-4076"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Fairway Family Dental Care","address":"1441 S Randall Rd Suite C, Geneva, IL 60134, USA","telephone":"(630) 402-0359"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Hamilton House Dentistry","address":"309 Hamilton St Ste C, Geneva, IL 60134, USA","telephone":"(630) 232-1111"}},{"@type":"ListItem","position":12,"item":{"@type":"Dentist","name":"Stith Oral &amp; Maxillofacial Surgery","address":"1131 Randall Ct, Geneva, IL 60134, USA","telephone":"(630) 208-6700"}},{"@type":"ListItem","position":13,"item":{"@type":"Dentist","name":"Illinois Oral &amp; Maxillofacial Surgery","address":"426 S 3rd St, Geneva, IL 60134, USA","telephone":"(630) 232-9090"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=3e55c005">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=cfc39090">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -277,6 +277,34 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
+        function toggleReaderMode() {
+            const sw = document.getElementById('reader-mode-switch');
+            const body = document.getElementById('article-body');
+            if (!sw || !body) return;
+            const isPro = sw.classList.toggle('active');
+            sw.setAttribute('aria-checked', isPro);
+            if (isPro) {
+                body.classList.remove('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+            } else {
+                body.classList.add('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
+            }
+            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
+        }
+        // Restore reader mode preference
+        (function() {
+            const mode = localStorage.getItem('readerMode');
+            if (mode === 'pro') {
+                const sw = document.getElementById('reader-mode-switch');
+                const body = document.getElementById('article-body');
+                if (sw && body) {
+                    sw.classList.add('active');
+                    sw.setAttribute('aria-checked', 'true');
+                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+                }
+            }
+        })();
     </script>
 </body>
 </html>

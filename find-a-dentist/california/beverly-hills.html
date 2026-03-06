@@ -29,7 +29,7 @@
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Beverly Hills, CA","numberOfItems":17,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Kevin B. Sands, DDS - Cosmetic Dentistry Beverly Hills","address":"414 N Camden Dr Suite 940, Beverly Hills, CA 90210, USA","telephone":"(310) 273-0111"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Beverly Hills Dental Arts | Dr Anjali A Rajpal | Dentist","address":"465 N Roxbury Dr Suite 701, Beverly Hills, CA 90210, USA","telephone":"(310) 273-1199"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Beverly Hills Dental Health and Wellness - Holistic Dentist Los Angeles","address":"465 N Roxbury Dr #911, Beverly Hills, CA 90210, USA","telephone":"(310) 692-7855"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Beverly Hills Dental Arts Studio","address":"416 N Bedford Dr # 105, Beverly Hills, CA 90210, USA","telephone":"(310) 274-7005"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Cosmetic Dentistry Beverly Expert","address":"414 N Camden Dr Suite 1240, Beverly Hills, CA 90210, USA","telephone":"(310) 596-4177"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Smile Boutique Beverly Hills","address":"8500 Wilshire Blvd # 505, Beverly Hills, CA 90211, USA","telephone":"(424) 453-3495"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"S&amp;C Dental Beverly Hills","address":"9400 Brighton Way Suite #410, Beverly Hills, CA 90210, USA","telephone":"(310) 860-6969"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Tooth Doctor LA","address":"239 S La Cienega Blvd Suite 201, Beverly Hills, CA 90211, USA","telephone":"(310) 861-0021"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Beverly Hills Dentist","address":"300 S Beverly Dr Suite 303, Beverly Hills, CA 90212, USA","telephone":"(310) 277-8215"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"The Art of Dental Wellness","address":"416 N Bedford Dr # 409, Beverly Hills, CA 90210, USA","telephone":"(424) 355-0355"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Zadeh Dentistry","address":"9100 Wilshire Blvd W710, Beverly Hills, CA 90212, USA","telephone":"(310) 273-2020"}},{"@type":"ListItem","position":12,"item":{"@type":"Dentist","name":"Peiman Soleymani, DDS","address":"416 N Bedford Dr Suite 209 2nd Floor, Beverly Hills, CA 90210, USA","telephone":"(310) 275-4606"}},{"@type":"ListItem","position":13,"item":{"@type":"Dentist","name":"Clove Dental Beverly Hills","address":"9001 Wilshire Blvd # 303, Beverly Hills, CA 90211, USA","telephone":"(213) 816-3775"}},{"@type":"ListItem","position":14,"item":{"@type":"Dentist","name":"Dental Group Of Beverly Hills","address":"8641 Wilshire Blvd #125, Beverly Hills, CA 90211, USA","telephone":"(310) 929-6335"}},{"@type":"ListItem","position":15,"item":{"@type":"Dentist","name":"Zakhor Dental Group- Beverly Hills cosmetic dentist","address":"9777 Wilshire Blvd Suite 813, Beverly Hills, CA 90212, USA","telephone":"(310) 208-0811"}},{"@type":"ListItem","position":16,"item":{"@type":"Dentist","name":"Beverly Hills Oral Maxillofacial Surgery &amp; Dental Implants","address":"8920 Wilshire Blvd #325, Beverly Hills, CA 90211, USA","telephone":"(310) 275-2200"}},{"@type":"ListItem","position":17,"item":{"@type":"Dentist","name":"Beverly Hills Dental by Dr. Nader Afshari","address":"414 N Camden Dr #925, Beverly Hills, CA 90210, USA","telephone":"(310) 504-3230"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=3e55c005">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=cfc39090">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -301,6 +301,34 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
+        function toggleReaderMode() {
+            const sw = document.getElementById('reader-mode-switch');
+            const body = document.getElementById('article-body');
+            if (!sw || !body) return;
+            const isPro = sw.classList.toggle('active');
+            sw.setAttribute('aria-checked', isPro);
+            if (isPro) {
+                body.classList.remove('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+            } else {
+                body.classList.add('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
+            }
+            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
+        }
+        // Restore reader mode preference
+        (function() {
+            const mode = localStorage.getItem('readerMode');
+            if (mode === 'pro') {
+                const sw = document.getElementById('reader-mode-switch');
+                const body = document.getElementById('article-body');
+                if (sw && body) {
+                    sw.classList.add('active');
+                    sw.setAttribute('aria-checked', 'true');
+                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+                }
+            }
+        })();
     </script>
 </body>
 </html>

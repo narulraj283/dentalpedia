@@ -29,7 +29,7 @@
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Lafayette, CA","numberOfItems":15,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Ron Wake, DDS, Inc","address":"895 Moraga Rd Suite #2, Lafayette, CA 94549, USA","telephone":"(925) 962-5882"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Lamorinda Tooth Buds","address":"3501 School St, Lafayette, CA 94549, USA","telephone":"(925) 385-8051"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"The Natural Tooth","address":"915 Village Center Suite A, Lafayette, CA 94549, USA","telephone":"(925) 283-1220"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Harvest Smile Care Dr. Jerry Liu, DDS","address":"3511 School St, Lafayette, CA 94549, USA","telephone":"(925) 283-3781"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Kim John H DDS","address":"901 Moraga Rd # B, Lafayette, CA 94549, USA","telephone":"(925) 284-9404"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"LALA Dental","address":"895 Moraga Rd # 6, Lafayette, CA 94549, USA","telephone":"(925) 385-8858"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Innovative Dental Solutions","address":"3509 School St, Lafayette, CA 94549, USA","telephone":"(925) 284-2203"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Renaissance Dental Group","address":"935 Moraga Rd #101, Lafayette, CA 94549, USA","telephone":"(925) 283-0338"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Lamorinda Dental Office","address":"911 Moraga Rd UNIT 102, Lafayette, CA 94549, USA","telephone":"(925) 299-9922"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Raj Talwar, D.D.S. Dental Corp.","address":"919 Moraga Rd, Lafayette, CA 94549, USA","telephone":"(925) 283-3305"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Lamorinda Smiles Dental","address":"895 Moraga Rd # 1, Lafayette, CA 94549, USA","telephone":"(925) 283-5454"}},{"@type":"ListItem","position":12,"item":{"@type":"Dentist","name":"David J. Martin DDS APC","address":"938 Dewing Ave, Lafayette, CA 94549, USA","telephone":"(925) 283-6564"}},{"@type":"ListItem","position":13,"item":{"@type":"Dentist","name":"East Bay Oral Surgery","address":"3799 Mount Diablo Blvd #200, Lafayette, CA 94549, USA","telephone":"(925) 283-4050"}},{"@type":"ListItem","position":14,"item":{"@type":"Dentist","name":"Diablo View Family Dentists","address":"895 Moraga Rd #5, Lafayette, CA 94549, USA","telephone":"(925) 254-0084"}},{"@type":"ListItem","position":15,"item":{"@type":"Dentist","name":"Kevin Ko, a Professional Dental Corporation","address":"3190 Old Tunnel Rd, Lafayette, CA 94549, USA","telephone":"(925) 934-0192"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=3e55c005">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=cfc39090">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -289,6 +289,34 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
+        function toggleReaderMode() {
+            const sw = document.getElementById('reader-mode-switch');
+            const body = document.getElementById('article-body');
+            if (!sw || !body) return;
+            const isPro = sw.classList.toggle('active');
+            sw.setAttribute('aria-checked', isPro);
+            if (isPro) {
+                body.classList.remove('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+            } else {
+                body.classList.add('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
+            }
+            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
+        }
+        // Restore reader mode preference
+        (function() {
+            const mode = localStorage.getItem('readerMode');
+            if (mode === 'pro') {
+                const sw = document.getElementById('reader-mode-switch');
+                const body = document.getElementById('article-body');
+                if (sw && body) {
+                    sw.classList.add('active');
+                    sw.setAttribute('aria-checked', 'true');
+                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+                }
+            }
+        })();
     </script>
 </body>
 </html>

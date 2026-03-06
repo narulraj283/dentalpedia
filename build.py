@@ -185,6 +185,26 @@ def heading_slug(text):
 
 def markdown_to_html(text):
     """Convert markdown to HTML."""
+    # Clinical detail expandable blocks (:::clinical ... :::)
+    def clinical_block_repl(m):
+        inner = m.group(1).strip()
+        # Process bold/italic inside the block
+        inner = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', inner)
+        inner = re.sub(r'\*(.*?)\*', r'<em>\1</em>', inner)
+        # Convert paragraphs
+        paras = inner.split('\n\n')
+        inner_html = ''.join([f'<p>{p.strip()}</p>' for p in paras if p.strip()])
+        return (
+            '<details class="clinical-detail">'
+            '<summary class="clinical-detail-toggle">'
+            '<span class="clinical-icon">🔬</span> Clinical Detail <span class="clinical-badge">For Professionals</span>'
+            '<span class="clinical-chevron">▸</span>'
+            '</summary>'
+            f'<div class="clinical-detail-content">{inner_html}</div>'
+            '</details>'
+        )
+    text = re.sub(r'^:::clinical\s*\n(.*?)\n^:::', clinical_block_repl, text, flags=re.MULTILINE | re.DOTALL)
+
     # Headers — add id attributes for TOC anchor linking
     def h3_repl(m):
         s = heading_slug(m.group(1))
@@ -567,6 +587,34 @@ def get_page_template(title, content, canonical_url, description="", meta_tags="
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }}
+        function toggleReaderMode() {{
+            const sw = document.getElementById('reader-mode-switch');
+            const body = document.getElementById('article-body');
+            if (!sw || !body) return;
+            const isPro = sw.classList.toggle('active');
+            sw.setAttribute('aria-checked', isPro);
+            if (isPro) {{
+                body.classList.remove('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+            }} else {{
+                body.classList.add('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
+            }}
+            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
+        }}
+        // Restore reader mode preference
+        (function() {{
+            const mode = localStorage.getItem('readerMode');
+            if (mode === 'pro') {{
+                const sw = document.getElementById('reader-mode-switch');
+                const body = document.getElementById('article-body');
+                if (sw && body) {{
+                    sw.classList.add('active');
+                    sw.setAttribute('aria-checked', 'true');
+                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+                }}
+            }}
+        }})();
     </script>
 </body>
 </html>'''
@@ -760,7 +808,14 @@ def process_article(md_file):
 
                 {toc_html}
 
-                <div class="article-body">
+                <div class="reader-mode-toggle">
+                    <label>Reading Mode:</label>
+                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
+                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
+                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                </div>
+
+                <div class="article-body" id="article-body">
                     {body_html}
                 </div>
 

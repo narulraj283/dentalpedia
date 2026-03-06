@@ -29,7 +29,7 @@
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Fayetteville, NC","numberOfItems":12,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Owen Drive Family Dental","address":"203 Owen Dr, Fayetteville, NC 28304, USA","telephone":"(910) 994-1131"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Riverside Dental Care","address":"5815 Ramsey St, Fayetteville, NC 28311, USA","telephone":"(910) 469-1976"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Dental Love","address":"150 Francam Dr, Fayetteville, NC 28311, USA","telephone":"(910) 500-6660"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"CarolinasDentist","address":"300 Glensford Dr #103, Fayetteville, NC 28314, USA","telephone":"(910) 710-5460"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Cross Creek Dental, The Office of Dr. Rice &amp; Associates","address":"3622 Morganton Rd, Fayetteville, NC 28303, USA","telephone":"(910) 613-8363"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Brite Care Dental","address":"2901 Breezewood Ave, Fayetteville, NC 28303, USA","telephone":"(910) 568-5669"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"O2 Dental Group of Fayetteville","address":"1916 Skibo Rd Suite C3, Fayetteville, NC 28314, USA","telephone":"(910) 446-9027"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Affordable Dentures &amp; Implants","address":"3055 Sanderosa Rd, Fayetteville, NC 28312, USA","telephone":"(910) 900-0592"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"DOCS Dental: Fort Bragg","address":"8-5476 A Souter, Butner Rd, Fayetteville, NC 28307, USA","telephone":"(910) 466-6497"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Hometown Family Dental Centers","address":"8159 Raeford Rd, Fayetteville, NC 28304, USA","telephone":"(910) 208-4254"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"Ramsey Street Family Dental Care","address":"4136 Ramsey St, Fayetteville, NC 28311, USA","telephone":"(910) 488-8928"}},{"@type":"ListItem","position":12,"item":{"@type":"Dentist","name":"Village Family Dental- Frenectomy Clinic","address":"1031 Weiss Ave Ste 201, Fayetteville, NC 28305, USA","telephone":"(910) 483-0723"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=3e55c005">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=cfc39090">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -271,6 +271,34 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
+        function toggleReaderMode() {
+            const sw = document.getElementById('reader-mode-switch');
+            const body = document.getElementById('article-body');
+            if (!sw || !body) return;
+            const isPro = sw.classList.toggle('active');
+            sw.setAttribute('aria-checked', isPro);
+            if (isPro) {
+                body.classList.remove('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+            } else {
+                body.classList.add('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
+            }
+            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
+        }
+        // Restore reader mode preference
+        (function() {
+            const mode = localStorage.getItem('readerMode');
+            if (mode === 'pro') {
+                const sw = document.getElementById('reader-mode-switch');
+                const body = document.getElementById('article-body');
+                if (sw && body) {
+                    sw.classList.add('active');
+                    sw.setAttribute('aria-checked', 'true');
+                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+                }
+            }
+        })();
     </script>
 </body>
 </html>

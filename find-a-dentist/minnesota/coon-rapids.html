@@ -29,7 +29,7 @@
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Coon Rapids, MN","numberOfItems":11,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Summit Dental Care","address":"10756 Butternut St NW, Coon Rapids, MN 55448, USA","telephone":"(763) 757-4170"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Foley Dental Office","address":"11237 Foley Blvd NW, Coon Rapids, MN 55448, USA","telephone":"(763) 373-7738"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Cedar Bend Dental Care","address":"13040 Riverdale Dr NW #600, Coon Rapids, MN 55448, USA","telephone":"(763) 878-6289"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Riverdale Kidds Pediatric Dentistry &amp; Orthodontics","address":"3585 124th Ave NW #400, Coon Rapids, MN 55433, USA","telephone":"(763) 767-1524"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Matthew J Karban, DMD, MD, FACS","address":"3360 Northdale Blvd NW, Coon Rapids, MN 55448, USA","telephone":"(763) 201-6962"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Affordable Dentures &amp; Implants","address":"12761 Riverdale Blvd Suite 103, Coon Rapids, MN 55433, USA","telephone":"(351) 232-2109"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Aspen Dental - Coon Rapids, MN","address":"3570 River Rapids Dr ST 110, Coon Rapids, MN 55448, USA","telephone":"(651) 523-1093"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Gentle Dentistry - Coon Rapids Office","address":"97 85th Ave NW, Coon Rapids, MN 55433, USA","telephone":"(763) 225-8448"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Park Dental Riverdale","address":"3161 Northdale Blvd NW #100, Coon Rapids, MN 55433, USA","telephone":"(763) 210-7096"}},{"@type":"ListItem","position":10,"item":{"@type":"Dentist","name":"Northside Minnesota Oral &amp; Maxillofacial Surgeons","address":"11441 Osage St NW Ste 3, Coon Rapids, MN 55433, USA","telephone":"(763) 284-3159"}},{"@type":"ListItem","position":11,"item":{"@type":"Dentist","name":"The Dental Specialists","address":"3360 Northdale Blvd NW, Coon Rapids, MN 55448, USA","telephone":"(763) 233-3390"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=3e55c005">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=cfc39090">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -265,6 +265,34 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
+        function toggleReaderMode() {
+            const sw = document.getElementById('reader-mode-switch');
+            const body = document.getElementById('article-body');
+            if (!sw || !body) return;
+            const isPro = sw.classList.toggle('active');
+            sw.setAttribute('aria-checked', isPro);
+            if (isPro) {
+                body.classList.remove('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+            } else {
+                body.classList.add('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
+            }
+            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
+        }
+        // Restore reader mode preference
+        (function() {
+            const mode = localStorage.getItem('readerMode');
+            if (mode === 'pro') {
+                const sw = document.getElementById('reader-mode-switch');
+                const body = document.getElementById('article-body');
+                if (sw && body) {
+                    sw.classList.add('active');
+                    sw.setAttribute('aria-checked', 'true');
+                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+                }
+            }
+        })();
     </script>
 </body>
 </html>

@@ -29,7 +29,7 @@
             {"@context":"https://schema.org","@type":"ItemList","name":"Dentists in Montgomery, TX","numberOfItems":9,"itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"Dentist","name":"Scott Family Dental","address":"750 Fish Creek Thoroughfare Suite 260, Montgomery, TX 77316, USA","telephone":"(936) 289-9353"}},{"@type":"ListItem","position":2,"item":{"@type":"Dentist","name":"Mor Smiles 4 Kids: Josh Morales, DDS","address":"760 Fish Creek Thoroughfare Suite 2, Montgomery, TX 77316, USA","telephone":"(936) 276-6133"}},{"@type":"ListItem","position":3,"item":{"@type":"Dentist","name":"Dental Boutique Montgomery","address":"18784 TX-105 Suite #400, Montgomery, TX 77356, USA","telephone":"(832) 932-6535"}},{"@type":"ListItem","position":4,"item":{"@type":"Dentist","name":"Mariana N. Coconu, DDS - Lakeside Dental Practice","address":"16019 Hwy 105 W, Montgomery, TX 77356, USA","telephone":"(936) 588-8811"}},{"@type":"ListItem","position":5,"item":{"@type":"Dentist","name":"Woodforest Fine Dentistry, Michael Gillogly DDS","address":"791 Fish Creek Thoroughfare #40, Montgomery, TX 77316, USA","telephone":"(936) 262-1700"}},{"@type":"ListItem","position":6,"item":{"@type":"Dentist","name":"Stewart Creek Dental Care","address":"20175 Eva St, Montgomery, TX 77356, USA","telephone":"(936) 937-2529"}},{"@type":"ListItem","position":7,"item":{"@type":"Dentist","name":"Gentle Dental Care - Montgomery, TX","address":"16145 TX-105, Montgomery, TX 77356, USA","telephone":"(936) 246-3478"}},{"@type":"ListItem","position":8,"item":{"@type":"Dentist","name":"Wallingford Dentistry","address":"21105 Eva St #200, Montgomery, TX 77356, USA","telephone":"(936) 597-4333"}},{"@type":"ListItem","position":9,"item":{"@type":"Dentist","name":"Brian C. Pratt, DDS PA","address":"15260 Hwy 105 W St 222, Montgomery, TX 77356, USA","telephone":"(936) 582-1122"}}]}
             </script>
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=3e55c005">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=cfc39090">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -253,6 +253,34 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
+        function toggleReaderMode() {
+            const sw = document.getElementById('reader-mode-switch');
+            const body = document.getElementById('article-body');
+            if (!sw || !body) return;
+            const isPro = sw.classList.toggle('active');
+            sw.setAttribute('aria-checked', isPro);
+            if (isPro) {
+                body.classList.remove('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+            } else {
+                body.classList.add('hide-clinical');
+                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
+            }
+            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
+        }
+        // Restore reader mode preference
+        (function() {
+            const mode = localStorage.getItem('readerMode');
+            if (mode === 'pro') {
+                const sw = document.getElementById('reader-mode-switch');
+                const body = document.getElementById('article-body');
+                if (sw && body) {
+                    sw.classList.add('active');
+                    sw.setAttribute('aria-checked', 'true');
+                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
+                }
+            }
+        })();
     </script>
 </body>
 </html>
