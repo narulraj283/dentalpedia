@@ -1,116 +1,163 @@
 ---
-title: Wisdom Tooth Extraction Complications: Dry Socket Prevention
+title: After Wisdom Tooth Extraction: Your Complete Dry Socket Prevention Guide
 slug: wisdom-tooth-extraction-complications-dry-socket-prevention
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Clinical mechanisms, risk factors, and evidence-based prevention protocols for alveolar osteitis following third molar extraction.
+excerpt: Prevent dry socket with clear do's and don'ts for the critical first 72 hours after extraction.
 date: 2026-03-05
-read_time: 13 min
+read_time: 8 min
 reviewer_specialty: Oral and Maxillofacial Surgery
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 reviewed: true
 references:
-  - title: "Alveolar osteitis (dry socket) epidemiology: incidence and risk factors"
-    url: https://pubmed.ncbi.nlm.nih.gov/16380651/
-  - title: "Smoking as primary risk factor for alveolar osteitis after dental extraction"
-    url: https://pubmed.ncbi.nlm.nih.gov/16034247/
+  - title: "Alveolar osteitis epidemiology and incidence: meta-analysis of extraction complications"
+    url: "https://pubmed.ncbi.nlm.nih.gov/16380651/"
+  - title: "Smoking as primary modifiable risk factor for alveolar osteitis"
+    url: "https://pubmed.ncbi.nlm.nih.gov/16034247/"
   - title: "Primary closure techniques reducing dry socket incidence"
-    url: https://pubmed.ncbi.nlm.nih.gov/17451127/
-  - title: "Antibiotic prophylaxis and alveolar osteitis prevention"
-    url: https://pubmed.ncbi.nlm.nih.gov/28627365/
-  - title: "Intra-alveolar antimicrobial agents for dry socket prevention"
-    url: https://pubmed.ncbi.nlm.nih.gov/18019168/
-  - title: "Chlorhexidine rinses in dry socket prevention protocols"
-    url: https://pubmed.ncbi.nlm.nih.gov/23119272/
-  - title: "Oral contraceptives and risk of alveolar osteitis"
-    url: https://pubmed.ncbi.nlm.nih.gov/16516348/
-  - title: "Hemostasis optimization in third molar extraction"
-    url: https://pubmed.ncbi.nlm.nih.gov/22245588/
-  - title: "Management of alveolar osteitis: clinical protocol and outcomes"
-    url: https://pubmed.ncbi.nlm.nih.gov/22833084/
-  - title: "Bone quality assessment predicting complications after wisdom tooth extraction"
-    url: https://pubmed.ncbi.nlm.nih.gov/18632891/
+    url: "https://pubmed.ncbi.nlm.nih.gov/17451127/"
+  - title: "Chlorhexidine rinses and intra-alveolar antimicrobial agents for prevention"
+    url: "https://pubmed.ncbi.nlm.nih.gov/23119272/"
+  - title: "Oral contraceptive use and alveolar osteitis risk elevation"
+    url: "https://pubmed.ncbi.nlm.nih.gov/16516348/"
+  - title: "NSAIDs and hemostasis optimization in third molar extraction"
+    url: "https://pubmed.ncbi.nlm.nih.gov/22245588/"
+  - title: "Management protocols and clinical outcomes for established alveolar osteitis"
+    url: "https://pubmed.ncbi.nlm.nih.gov/22833084/"
+  - title: "Operative time and surgical trauma as dry socket risk modifiers"
+    url: "https://pubmed.ncbi.nlm.nih.gov/18632891/"
+  - title: "Antibiotic prophylaxis and alveolar osteitis prevention evidence"
+    url: "https://pubmed.ncbi.nlm.nih.gov/28627365/"
+  - title: "Intra-alveolar antimicrobial agents and hemostatic dressings in socket management"
+    url: "https://pubmed.ncbi.nlm.nih.gov/18019168/"
 ---
 
-## Understanding Alveolar Osteitis: Pathophysiology
+You just had your wisdom teeth out — now let's make sure you heal perfectly. The next 72 hours are critical. Dry socket (alveolar osteitis) is the most common complication after tooth extraction, affecting 3-5% of people who have wisdom teeth removed. But here's the good news: it's preventable. The rules are strict, but they work.
 
-Alveolar osteitis—commonly termed "dry socket"—represents a post-extraction complication involving delayed socket healing and bone exposure. The clinical presentation includes: exposed bone in the extraction site (appearing yellowish-white), severe pain disproportionate to expected post-extraction discomfort (typically sharp, throbbing pain beginning days 3-4), halitosis (foul odor from the socket), and occasionally regional lymphadenopathy (swollen neck lymph nodes).
+## What Is Dry Socket, Really?
 
-The pathophysiologic mechanism involves clot dissolution and osteoclastic bone resorption leading to bone exposure. Fibrinolytic activity increases dramatically in susceptible patients; bacteria (Staphylococcus aureus, Streptococcus species, anaerobes) or mechanical trauma disrupt the hemostatic clot, exposing bone. Unlike infection-driven osteomyelitis (which presents with fever and systemic signs), alveolar osteitis represents primarily mechanical complication with secondary inflammation rather than true bacterial infection. Blood cultures remain negative and histology demonstrates sterile bone necrosis and inflammation without bacterial invasion.
+Dry socket happens when the protective blood clot that should cover the extraction site gets dislodged or dissolves. Without that clot, bone is exposed. The bone hurts — a lot — and it's a slow, intense ache or throbbing pain that typically starts days 3-5 after extraction. You might also notice a bad taste, foul smell from the socket, or swollen lymph nodes in your neck.
 
-The distinction between alveolar osteitis and infection is clinically critical: fever, purulent drainage, and systemic symptoms suggest infection requiring antibiotics; typical alveolar osteitis manifests primarily as pain without fever and responds to local debridement and anti-inflammatory care rather than antibiotics.
+Here's what makes it frustrating: it's not an infection (no fever, no pus, no antibiotics that fix it). It's a mechanical problem. The clot was your body's way of protecting the healing bone. Once it's gone, you need professional intervention to manage the pain and help it heal.
 
-## Epidemiology and Incidence Rates
+The good news: only 2-5% of extractions result in dry socket. Most people heal fine. And if you follow these rules, you're in the low-risk group.
 
-Incidence varies significantly based on extraction complexity: simple extractions demonstrate 1-2% incidence, routine impactions 3-5%, and complex impactions 5-15% incidence. A meta-analysis analyzing 62 studies demonstrated overall incidence of 3.6% across diverse extraction types (95% confidence interval 3.2%-4.1%), with significant heterogeneity based on surgical factors.
+## The Do's and Don'ts: First 72 Hours (This Matters)
 
-Mandibular extractions carry 3-fold higher risk than maxillary extractions (likely due to denser bone and greater trauma during extraction). Female patients demonstrate slightly elevated risk relative to males (1.5-2 times increased relative risk). Older patients (>30-35 years) show increased incidence compared to younger patients; patient age >40 carries 2-3 times increased risk relative to patients <25 years. The mechanism underlying age-related risk increase may involve reduced healing capacity, altered bone metabolism, or increased surgical trauma in denser bone.
+**DO:**
+- Keep the area clean with gentle salt water rinses (start 24 hours after extraction): mix 1/2 teaspoon salt in 8 oz warm water, rinse gently after meals and before bed
+- Take ibuprofen or naproxen as directed by your dentist (anti-inflammatory effect reduces dry socket risk significantly)
+- Bite down firmly on gauze for 30-45 minutes after extraction to establish clot
+- Sleep with your head elevated on 2-3 pillows (reduces blood pressure to the area, minimizing oozing that can disturb the clot)
+- Stick to soft, cool foods (ice cream, yogurt, pudding, applesauce, smooth soup at room temperature)
+- Rest the first 24-48 hours; reduce physical activity for one week (elevated heart rate increases bleeding and clot disruption)
 
-## Risk Factors and Prevention Strategies
+**DON'T:**
+- Don't use straws for at least 5-7 days (the suction dislodges the clot)
+- Don't smoke or use any tobacco products for at least 72 hours (ideally 5-7 days) — smoking increases dry socket risk 3-5 fold
+- Don't spit forcefully; let saliva drool into a sink if needed (forceful spitting creates suction that can dislodge the clot)
+- Don't rinse vigorously or swish for 24 hours after extraction (let the clot settle)
+- Don't drink alcohol, especially with pain medication (both thin blood and alcohol interacts with pain meds)
+- Don't exercise or do strenuous activities for 3-5 days (elevated heart rate increases bleeding)
+- Don't poke or prod the extraction site with your tongue or fingers (I know it's tempting; don't do it)
+- Don't rinse with mouthwash containing alcohol for at least one week
 
-Smoking represents the strongest modifiable risk factor, increasing alveolar osteitis risk 3-5 fold compared to non-smokers. The mechanism involves multiple factors: tar and heat impair clot formation and wound healing, smoking reduces oxygen tension in healing tissues (contributing to necrosis), and smoking increases fibrinolytic activity. Cessation duration matters significantly: patients who quit smoking 24-48 hours before surgery and remain abstinent through week 2 post-extraction demonstrate risk reduction approaching 50% relative to continued smokers. Complete cessation for 72 hours preoperatively and 5-7 days postoperatively reduces risk 75% relative to continued smoking.
+## Day-by-Day Eating Guide
 
-Oral contraceptive use elevates alveolar osteitis risk 2-3 fold, particularly with estrogen-containing formulations. The mechanism may involve estrogen effects on bone metabolism, fibrinolytic activity enhancement, or altered inflammatory response. Women using oral contraceptives should be counseled regarding this risk; delaying elective extractions when possible (to timing outside high-risk menstrual cycle phases) represents one approach, though absolute risk reduction is modest. Non-steroidal anti-inflammatory drugs initiated preoperatively and continued postoperatively demonstrate measurable dry socket risk reduction (approximately 30-40% relative risk reduction).
+**Day 1 (Day of extraction):**
+You're numb and bleeding. Stick to nothing. Maybe ice chips or a popsicle once bleeding has stopped. Most dentists recommend no food for the first 24 hours; some say soft foods after a few hours if you're starving. If you eat, make it smooth and cool (yogurt, applesauce). No hot foods — heat increases bleeding.
 
-Surgical trauma represents a modifiable risk factor. Operative time exceeding 30 minutes per tooth correlates with increased risk (approximate doubling of alveolar osteitis incidence for each additional 30 minutes of operative time). Extended operative time necessitating greater bone removal and increased soft tissue manipulation increases trauma. Careful, methodical operative technique minimizing unnecessary trauma reduces risk.
+**Days 2-3:**
+Soft foods that require minimal chewing:
+- Pudding, applesauce, yogurt
+- Smoothies (drink with spoon, not straw)
+- Mashed potatoes
+- Soup at room temperature (not hot)
+- Ice cream, sorbet
+- Soft scrambled eggs
+- Oatmeal or soft cereal with milk
+- Cottage cheese
+- Soft pasta with butter or very soft sauce
 
-Inadequate hemostasis—failure to achieve complete socket hemorrhage control before closure—predicts increased alveolar osteitis incidence. Excessive bleeding suggests inadequate vessel ligation or primary closure problems. Ensuring complete hemostasis (bleeding reduced to oozing, controllable with 3-4 minute gauze pressure) before closure prevents this risk factor.
+No crunchy, hard, spicy, or hot foods. Nothing with seeds or small particles that could get lodged in the socket.
 
-Poor oral hygiene predicts elevated risk; bacterial colonization of the extraction site initiates fibrinolytic cascade. Patients demonstrating plaque accumulation and gingivitis should receive prophylactic scaling/root planing before elective extractions when feasible.
+**Days 4-7:**
+You can gradually progress to more normal foods as long as you're not chewing directly on the extraction site. Continue soft options but can introduce slightly more texture. Still avoid hot foods and anything you have to chew hard.
 
-Immunosuppression and systemic disease (uncontrolled diabetes with HbA1c >7%, cancer chemotherapy, transplant recipients on immunosuppression, HIV with CD4 <200 cells/μL) predispose to alveolar osteitis through impaired inflammatory response and wound healing.
+**After one week:**
+You can usually return to normal diet, though some tenderness might linger for a few more days.
 
-## Prevention Protocols: Evidence-Based Approach
+## Pain Management Without Messing Up Healing
 
-Antibiotic prophylaxis reduces alveolar osteitis incidence by approximately 35-40% across meta-analyses. A single preoperative dose (60 minutes before surgery) of amoxicillin-clavulanic acid 2 g orally or cefazolin 1-2 g IV provides optimal coverage against Staph aureus and Streptococcus species. Clindamycin 600 mg orally or IV suits penicillin-allergic patients. Prolonged postoperative antibiotic courses (5-7 days) provide modest additional benefit (approximately 10% additional risk reduction) beyond single preoperative prophylactic dose, with increased costs and antibiotic stewardship concerns.
+Your dentist will likely recommend or prescribe pain medication. Follow the schedule they give you, not just when pain appears. For dry socket prevention:
 
-Primary closure—suturing the extraction socket to approximate mucosal edges—represents one of the most effective prevention measures, reducing alveolar osteitis incidence by 40-50% relative to leaving sockets open. Interrupted or continuous suturing using absorbable sutures (chromic catgut 3-0 or 4-0, polyglactin 910) seals the socket, preventing food debris accumulation and reducing bacterial colonization.
+- **Ibuprofen (Advil, Motrin):** 600 mg every 6 hours for the first 3-5 days. Ibuprofen's anti-inflammatory effect is crucial for dry socket prevention. Don't skip doses thinking you're "tough" — this one matters.
+- **Naproxen (Aleve):** 500 mg twice daily (instead of ibuprofen). Same anti-inflammatory benefit.
+- **Acetaminophen (Tylenol):** Works for pain but has no anti-inflammatory effect. Less effective for this situation.
+- **Prescription pain medication:** If prescribed, use only as directed. These make the socket feel better but don't prevent complications. Don't use for more than 3-5 days.
 
-Intra-alveolar medicaments placed at extraction site closure provide measurable risk reduction. Options include:
+Do not mix ibuprofen and acetaminophen to "double-dose" pain relief. This is dangerous. Stick with one and use it as directed.
 
-Chlorhexidine-impregnated gelatin sponges placed directly into socket before closure reduce alveolar osteitis incidence approximately 25-35%. The antimicrobial effect persists 3-4 weeks post-placement through gradual chlorhexidine release.
+## If You Smoke (or Are Tempted to)
 
-Antibiotic-impregnated local delivery systems (lincomycin, tetracycline, or clindamycin-containing gels placed intra-socket) achieve approximately 25-30% relative risk reduction, though clinical adoption remains limited in many practices due to cost and complexity.
+Smoking is the single biggest risk factor for dry socket. Smoking 3-5 times within the first week after extraction increases dry socket risk 3-5 fold. The mechanism: smoke and heat impair clot formation, reduce oxygen to the healing area, and increase fibrinolytic activity (basically, enzymes that dissolve blood clots).
 
-Iodoform gauze (gauze impregnated with iodoform paste) provides antimicrobial properties and hemostatic effect; while not specifically reducing dry socket incidence compared to primary closure alone, iodoform-impregnated materials used historically for complication management suggest utility.
+If you quit smoking for just 72 hours before extraction and 5-7 days after, you cut your dry socket risk roughly in half. If you quit for 24 hours preoperatively and abstain through day 7, you reduce risk 75%.
 
-Preoperative chlorhexidine oral rinses (0.12% concentration, 15 mL twice daily for 3-4 days before extraction) reduce oral bacterial load and demonstrate 15-25% alveolar osteitis incidence reduction. Continuing chlorhexidine rinses postoperatively (twice daily for 1-2 weeks) maintains antimicrobial benefit.
+I know — nicotine withdrawal sucks. But healing sucks worse. One week without cigarettes is worth avoiding the constant throbbing pain of dry socket.
 
-NSAIDs initiated preoperatively and continued postoperatively reduce alveolar osteitis incidence approximately 30-40%. The mechanism involves reduced inflammatory mediator production (prostaglandins promote bone resorption and fibrinolysis). Ibuprofen 600 mg or naproxen 500 mg given 60 minutes before surgery, then continued every 6-8 hours for 72 hours postoperatively optimizes this effect. Individual patient factors (gastrointestinal disease, renal compromise, bleeding tendency) guide NSAID appropriateness.
+## Warning Signs: When to Call Your Dentist
 
-Hemostasis optimization represents critical prevention. Ensuring complete intraoperative hemorrhage control before closure, use of hemostatic agents (bone wax, collagen sponges, gelatin foam, topical thrombin), and primary closure achieve superior hemostasis. Patients demonstrating excessive postoperative bleeding (oozing lasting >24-48 hours) require assessment; inadequate hemostasis predicts increased alveolar osteitis risk.
+Most post-extraction discomfort is normal. Swelling peaks day 2-3, then improves. Pain should be manageable with ibuprofen. But call your dentist immediately if:
 
-## Risk Stratification and Individualized Prevention
+- **Increasing pain after day 3** (especially sharp, throbbing pain starting days 3-5)
+- **Foul taste or smell** from the socket
+- **Fever** (suggests infection, not just dry socket)
+- **Difficulty swallowing or breathing** (could indicate spreading infection)
+- **Swelling that worsens after day 3** rather than improving
+- **Bleeding that won't stop** after 2 hours of firm gauze pressure
 
-Low-risk extractions (simple extractions in young, healthy, non-smoking patients, minimal operative time <20 minutes) require: adequate operative technique, appropriate hemostasis, and standard postoperative instructions. Routine prophylactic antibiotics may be unnecessary; chlorhexidine preoperative rinses and primary closure represent appropriate minimum interventions.
+Most of these warrant urgent contact, not a "wait until tomorrow" situation.
 
-Moderate-risk extractions (routine impactions, average operative time 30-45 minutes, patient age 30-45, or any tobacco use) should include: preoperative antibiotic prophylaxis (single dose), preoperative chlorhexidine oral rinses, primary socket closure, postoperative chlorhexidine rinses (1-2 weeks), and NSAIDs (72 hours postoperatively). Intra-alveolar chlorhexidine-impregnated gelatin sponges provide additional risk reduction if available.
+:::clinical
+## Clinical Pathophysiology and Prevention Protocols
 
-High-risk extractions (complex impactions requiring >60 minutes operative time, patient age >45, active smoking, oral contraceptive use, immunosuppression, poor oral hygiene) warrant comprehensive prevention: preoperative antibiotic prophylaxis plus 5-7 day postoperative antibiotic course, preoperative chlorhexidine rinses (3-4 days), primary closure with careful hemostasis, intra-alveolar antimicrobial agent placement (chlorhexidine-impregnated gelatin sponges), NSAIDs (continue 5-7 days rather than standard 72 hours), and postoperative chlorhexidine rinses (2 weeks).
+**Alveolar Osteitis Pathophysiology:**
+Alveolar osteitis represents post-extraction complication involving delayed socket healing and bone exposure through clot dissolution and secondary osteoclastic resorption. Fibrinolytic activity increases dramatically in susceptible patients; bacterial contamination (Staphylococcus aureus, Streptococcus species, anaerobic organisms) or mechanical trauma disrupts hemostatic clot, exposing trabecular bone. Histopathologic examination documents sterile bone necrosis and inflammation without bacterial invasion, distinguishing alveolar osteitis from infection-driven osteomyelitis. Blood cultures typically remain negative. Clinical presentation includes exposed bone (yellowish-white appearance), severe pain disproportionate to typical post-extraction discomfort (often sharp, throbbing, unresponsive to standard analgesics), halitosis from socket contamination, and occasional regional lymphadenopathy. Onset timing (typically days 3-5 post-extraction) and lack of fever distinguish from infection.
 
-## Management of Alveolar Osteitis
+**Epidemiology and Risk Factor Stratification:**
+Meta-analysis of 62 studies demonstrates overall alveolar osteitis incidence of 3.6% (95% CI 3.2%-4.1%) across diverse extraction types. Incidence correlates directly with extraction complexity: simple extractions 1-2%, routine impactions 3-5%, complex impactions with extensive bone removal 5-15%. Mandibular extractions carry 3-fold increased risk relative to maxillary extractions due to denser bone requiring greater surgical trauma and extended operative time. Female patients demonstrate 1.5-2 fold increased incidence relative to males. Age >40 carries 2-3 fold increased relative risk compared to patients <25 years, with mechanism potentially involving reduced healing capacity or altered bone metabolism.
 
-When alveolar osteitis develops (typically days 3-5 post-extraction, presenting with severe pain), management begins with patient reassurance: the complication is self-limited, distressing but not dangerous, and responds to local care. Complete healing occurs within 7-14 days with appropriate management.
+**Smoking as Primary Modifiable Risk Factor:**
+Smoking represents the strongest modifiable risk factor, increasing alveolar osteitis incidence 3-5 fold. Mechanisms: tar and heat impair initial hemostatic response and wound healing; smoking reduces oxygen tension in healing tissues promoting necrosis; smoking increases fibrinolytic enzyme activity and tissue plasminogen activator (tPA) upregulation. Timing substantially impacts risk reduction: 24-48 hour preoperative cessation reduces incidence 30-40%; 72-hour preoperative plus 5-7 day postoperative abstinence reduces risk 75% relative to continued smoking. Individual patient counseling should quantify personal risk elevation and achievable risk reduction through specific cessation timeframes.
 
-Socket irrigation: gentle saline irrigation (0.9% saline using syringe and cannula, or warm salt water rinses of 1/2 teaspoon salt in 8 oz warm water) removes debris and loosened bone spicules. Multiple irrigation sessions daily (after meals and before bedtime) optimize cleaning. Vigorous irrigation should be avoided (can further disrupt remaining clot and increase pain).
+**Oral Contraceptive Use Risk Elevation:**
+Oral contraceptive use elevates alveolar osteitis risk 2-3 fold, particularly estrogen-containing formulations. Mechanism possibly involves estrogen effects on bone metabolism, enhanced fibrinolytic activity, or altered inflammatory response. Women using oral contraceptives warrant specific counseling. Elective extractions ideally scheduled during lower-estrogen menstrual cycle phases (days 1-10) when possible, though absolute risk reduction modest. Consider progestin-only formulations or alternative contraception timing for elective procedures.
 
-Medicated dressings: placement of medicated gauze (iodoform-impregnated paste, zinc oxide-eugenol cement, or chlorhexidine-saturated gauze) directly into the socket provides analgesia (eugenol and iodoform contain local anesthetic properties), antimicrobial coverage, and hemostatic effect. Dressings are changed every 24-48 hours; typical duration is 5-7 days until complete pain resolution and bone coverage by granulation tissue.
+**Hemostasis and Prevention Protocol:**
+Evidence-based prevention protocols: (1) Preoperative antibiotic prophylaxis (amoxicillin-clavulanic acid 2g or cefazolin 1-2g IV given 60 minutes preoperatively reduces incidence 35-40%); (2) Primary socket closure through suturing reduces incidence 40-50% relative to open sockets through prevention of food/debris accumulation and bacterial colonization; (3) Intra-alveolar antimicrobial agents—chlorhexidine-impregnated gelatin sponges achieve 25-35% relative risk reduction through persistent antimicrobial release over 3-4 weeks; (4) Preoperative chlorhexidine oral rinses (0.12%, 15mL twice daily for 3-4 days) reduce bacterial load providing 15-25% incidence reduction; (5) NSAIDs initiated preoperatively and continued 72 hours postoperatively achieve 30-40% relative risk reduction through reduced inflammatory mediator production (prostaglandins promote bone resorption and fibrinolysis); optimal regimen: ibuprofen 600mg or naproxen 500mg 60 minutes preoperatively, then every 6-8 hours × 72 hours.
 
-Analgesic therapy: NSAIDs (ibuprofen 600 mg every 6 hours, or naproxen 500 mg every 12 hours) remain first-line. Ibuprofen effectiveness exceeds acetaminophen for alveolar osteitis pain due to anti-inflammatory properties. Opioid analgesics (hydrocodone 5 mg every 4-6 hours as needed) may be necessary for severe pain unresponsive to NSAIDs, though 3-5 day limitation applies.
+**Management of Established Alveolar Osteitis:**
+When dry socket develops (typically days 3-5, severe pain onset), management begins with patient reassurance regarding self-limited course (7-14 days with appropriate care) and reassurance regarding safety (serious complications rare despite pain severity). Socket irrigation using 0.9% saline via syringe and cannula removes debris and loosened bone spicules; multiple daily irrigations (after meals, before bedtime) optimize cleaning. Vigorous irrigation contraindicated (can further disrupt clot and increase pain). Medicated dressing placement (iodoform-impregnated zinc oxide-eugenol paste, chlorhexidine-saturated gauze, or commercial dry socket pastes) provides local analgesia (eugenol and iodoform contain anesthetic properties), antimicrobial coverage, and hemostatic effect. Dressings changed every 24-48 hours; typical duration 5-7 days until pain resolution and bone coverage by granulation tissue. NSAIDs (ibuprofen 600mg q6h or naproxen 500mg q12h) provide first-line analgesic therapy; ibuprofen superior to acetaminophen due to anti-inflammatory properties. Opioid analgesics reserved for severe pain unresponsive to NSAIDs; typical limitation 3-5 days. Antibiotics reserved for signs of true infection (fever, purulent drainage, cellulitis); routine dry socket without infection signs does not benefit from systemic antibiotics.
+:::
 
-Antimicrobial therapy: antibiotics are reserved for alveolar osteitis with signs of true infection (fever, purulent drainage, cellulitis) rather than routine dry socket. When infection is suspected, amoxicillin-clavulanic acid 625 mg three times daily or clindamycin 300-450 mg three times daily for 7 days provides appropriate coverage.
+## What to Ask Your Dentist Before the Procedure
 
-Smoking and alcohol cessation: continuing smoking or alcohol use delays healing. Cessation during dry socket treatment period is critical.
+- "What's my personal dry socket risk based on complexity of my extraction?"
+- "Will you be using antibiotic prophylaxis and/or antimicrobial rinses?"
+- "Do you recommend primary closure (stitches)?"
+- "If I smoke, what's my increased risk, and what if I quit for one week?"
+- "What pain medication do you recommend, and how often should I take it?"
+- "What warning signs mean I should call you?"
+- "What's your protocol if dry socket develops?"
 
-Follow-up: reassess socket healing and pain reduction by postoperative day 5-7; if pain persists despite local care, reinspect for retained bone fragments or root tips requiring removal.
+## The Reality
 
-## Prevention Through Patient Selection and Counseling
+Dry socket is painful, inconvenient, and frustrating. But it's preventable. Follow these rules, take your anti-inflammatory medication on schedule, don't smoke, don't use straws, and keep the area clean. You'll be in the 95-97% who heal fine.
 
-Elective extraction timing should consider modifiable risk factors: delaying extractions in patients actively smoking allows cessation period preoperatively; women using oral contraceptives could ideally schedule extractions during lower-estrogen phases of menstrual cycle (day 1-10), though absolute risk reduction is modest; patients with uncontrolled diabetes (HbA1c >7%) benefit from glycemic control optimization before elective extractions.
+And if dry socket does develop, it's treatable. Uncomfortable for 5-7 days, then resolved. You survive it, your mouth heals, and you move on.
 
-Comprehensive informed consent discussion should address alveolar osteitis risk (quantified specifically: "3-5% risk with routine impactions; 5-15% with complex impactions"; "smoking increases risk 4-fold; stopping smoking reduces risk significantly"), personal risk factor modifications, prevention strategies being employed, warning signs requiring urgent contact (increasing pain after day 3, fever, difficulty swallowing), and management if dry socket develops.
+---
 
-## Conclusion
-
-Alveolar osteitis remains the most common post-extraction complication, affecting 3-5% of impacted wisdom tooth extractions. While multifactorial etiology means complete prevention proves impossible, evidence-based protocols incorporating antibiotic prophylaxis, primary closure, intra-alveolar antimicrobial agents, NSAIDs, preoperative chlorhexidine rinses, and meticulous operative technique reduce incidence significantly. Smoking cessation represents the single most impactful modifiable risk factor, with 72-hour preoperative cessation reducing risk 50% and sustained abstinence through 1-2 weeks achieving 75% risk reduction. When dry socket develops, systematic local care (irrigation, medicated dressings, NSAIDs) resolves symptoms within 1-2 weeks without long-term sequelae.
+**Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>**

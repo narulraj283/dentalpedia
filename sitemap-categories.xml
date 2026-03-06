@@ -46,6 +46,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/category/dental-anxiety-sedation.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/category/prosthodontics.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -62,11 +67,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/category/dental-implants.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/category/dental-anxiety-sedation.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -201,6 +201,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/dental-anxiety-sedation/overview-anxiety-sedation/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/prosthodontics/overview-prostho/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -227,11 +232,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/oral-surgery/surgical-complications/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/dental-anxiety-sedation/overview-anxiety-sedation/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
