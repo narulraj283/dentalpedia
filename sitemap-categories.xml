@@ -131,7 +131,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/preventive-care/overview-prevent/</loc>
+    <loc>https://dentalpedia.co/subcategory/preventive-care/overview-preventive/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -187,6 +187,11 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/oral-surgery/overview-surgery/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/preventive-care/overview-prevent/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -267,11 +272,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/general-dentistry/major-restorations/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/preventive-care/overview-preventive/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -432,11 +432,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/cosmetic-dentistry/restorations/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/dental-implants/implant-complications/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -606,12 +601,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/preventive-care/oral-hygiene/</loc>
+    <loc>https://dentalpedia.co/subcategory/tmj-sleep-dentistry/overview-tmj-sleep/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/sports-dentistry/mouth-guards/</loc>
+    <loc>https://dentalpedia.co/subcategory/preventive-care/oral-hygiene/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -706,11 +701,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/dental-practice-insurance/access-network/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/geriatric-dentistry/age-related-changes/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -751,7 +741,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/geriatric-dentistry/chronic-conditions/</loc>
+    <loc>https://dentalpedia.co/subcategory/implant-dentistry/implant-complications/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -781,12 +771,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/dental-practice-insurance/costs-payments/</loc>
+    <loc>https://dentalpedia.co/subcategory/emergency-dentistry/trauma-fracture/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/emergency-dentistry/trauma-fracture/</loc>
+    <loc>https://dentalpedia.co/subcategory/dental-practice-insurance/costs-payments/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
