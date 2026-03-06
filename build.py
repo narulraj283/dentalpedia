@@ -530,10 +530,22 @@ def minify_css():
 CRITICAL_CSS = '''<style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>'''
 
 
-def get_page_template(title, content, canonical_url, description="", meta_tags="", schema=""):
+def clean_title(t):
+    """Strip surrounding quotes from titles that came from YAML frontmatter."""
+    t = t.strip()
+    if (t.startswith('"') and t.endswith('"')) or (t.startswith("'") and t.endswith("'")):
+        t = t[1:-1]
+    return t
+
+
+def get_page_template(title, content, canonical_url, description="", meta_tags="", schema="", extra_head=""):
     """Generate full HTML page template."""
 
+    title = clean_title(title)
     css_file = f"/assets/css/style.min.css?v={minified_css_hash}" if minified_css_hash else "/assets/css/style.css"
+
+    # Brand suffix for title tag
+    title_tag = f"{html_mod.escape(title)} — DentalPedia" if "DentalPedia" not in title else html_mod.escape(title)
 
     # Auto-generate OG tags if not provided
     if not meta_tags:
@@ -553,9 +565,10 @@ def get_page_template(title, content, canonical_url, description="", meta_tags="
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{html_mod.escape(title)}</title>
+    <title>{title_tag}</title>
     <meta name="description" content="{html_mod.escape(description)}">
     <link rel="canonical" href="{canonical_url}">
+    {extra_head}
     <meta property="og:locale" content="en_US">
     <meta property="og:site_name" content="DentalPedia">
     {meta_tags}
@@ -720,7 +733,7 @@ def process_article(md_file):
         output_file.parent.mkdir(parents=True, exist_ok=True)
 
         canonical_url = f"{DOMAIN}/article/{slug}.html"
-        title = metadata.get('title', 'Untitled')
+        title = clean_title(metadata.get('title', 'Untitled'))
         excerpt = metadata.get('excerpt', '')
         category = metadata.get('category', '')
         category_slug = metadata.get('category_slug', '')
@@ -856,19 +869,27 @@ def process_article(md_file):
             "publisher": {"@type": "Organization", "name": "DentalPedia", "url": DOMAIN},
             "mainEntityOfPage": {"@type": "WebPage", "@id": canonical_url}
         }
-        if is_reviewed:
-            article_schema["reviewedBy"] = {
-                "@type": "Organization",
-                "name": "DentalPedia Dental Review Board",
-                "url": f"{DOMAIN}/editorial-standards.html"
-            }
+        # Clean citation format — extract just the citation text
         if references:
-            article_schema["citation"] = references
-
-        # Removed auto-generated FAQPage schema (was converting headings to fake Q&A)
+            clean_refs = []
+            for ref in references:
+                if isinstance(ref, dict):
+                    clean_refs.append(ref.get('title', str(ref)))
+                elif isinstance(ref, str):
+                    # Strip "title: " prefix if present from YAML parsing
+                    r = ref.strip()
+                    if r.startswith('title:'):
+                        r = r[6:].strip().strip('"').strip("'")
+                    clean_refs.append(r)
+                else:
+                    clean_refs.append(str(ref))
+            article_schema["citation"] = clean_refs
 
         all_schema = f'''<script type="application/ld+json">{json.dumps(breadcrumb_schema)}</script>
         <script type="application/ld+json">{json.dumps(article_schema)}</script>'''
+
+        # Alternate link to clinical version
+        extra_head = f'<link rel="alternate" href="{DOMAIN}/clinical/{slug}.html" title="Clinical Protocol">'
 
         page_html = get_page_template(
             title,
@@ -876,7 +897,8 @@ def process_article(md_file):
             canonical_url,
             excerpt,
             meta_tags,
-            all_schema
+            all_schema,
+            extra_head
         )
 
         with open(output_file, 'w', encoding='utf-8') as f:
@@ -3371,7 +3393,7 @@ def process_clinical_article(md_file):
         output_file.parent.mkdir(parents=True, exist_ok=True)
 
         canonical_url = f"{DOMAIN}/clinical/{slug}.html"
-        title = metadata.get('title', 'Untitled')
+        title = clean_title(metadata.get('title', 'Untitled'))
         excerpt = metadata.get('excerpt', '')
         category = metadata.get('category', '')
         category_slug = metadata.get('category_slug', '')
@@ -3502,6 +3524,11 @@ def process_clinical_article(md_file):
             for ref in references:
                 if isinstance(ref, dict):
                     citation_list.append(ref.get('title', ''))
+                elif isinstance(ref, str):
+                    r = ref.strip()
+                    if r.startswith('title:'):
+                        r = r[6:].strip().strip('"').strip("'")
+                    citation_list.append(r)
                 else:
                     citation_list.append(str(ref))
             article_schema["citation"] = citation_list
@@ -3509,13 +3536,17 @@ def process_clinical_article(md_file):
         all_schema = f'''<script type="application/ld+json">{json.dumps(breadcrumb_schema)}</script>
         <script type="application/ld+json">{json.dumps(article_schema)}</script>'''
 
+        # Alternate link to patient version
+        extra_head = f'<link rel="alternate" href="{DOMAIN}/article/{slug}.html" title="Patient Guide">'
+
         page_html = get_page_template(
             f"Clinical: {title}",
             article_content,
             canonical_url,
             excerpt,
             meta_tags,
-            all_schema
+            all_schema,
+            extra_head
         )
 
         with open(output_file, 'w', encoding='utf-8') as f:
