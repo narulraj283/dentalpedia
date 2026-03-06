@@ -47,18 +47,24 @@
             </button>
             <ul class="navbar-nav">
                 <li><a href="/">Home</a></li>
-                <li><a href="/categories.html">Categories</a></li>
-                <li><a href="/guides.html">Guides</a></li>
+                <li class="nav-dropdown">
+                    <a href="/categories.html" class="dropdown-toggle" onclick="if(window.innerWidth<769){event.preventDefault();this.parentElement.classList.toggle('open')}">For Patients ▾</a>
+                    <ul class="dropdown-menu">
+                        <li><a href="/categories.html">📚 All Topics</a></li>
+                        <li><a href="/guides.html">📖 Guides</a></li>
+                        <li><a href="/myths/">🔍 Myths vs Facts</a></li>
+                        <li><a href="/tools/dental-health-quiz.html">📊 Health Quiz</a></li>
+                    </ul>
+                </li>
+                <li><a href="/clinical/">For Professionals</a></li>
+                <li><a href="/find-a-dentist/">Find a Dentist</a></li>
                 <li class="nav-dropdown">
                     <a href="#" class="dropdown-toggle" onclick="event.preventDefault();this.parentElement.classList.toggle('open')">Tools ▾</a>
                     <ul class="dropdown-menu">
                         <li><a href="/tools/cost-calculator.html">💰 Cost Calculator</a></li>
-                        <li><a href="/tools/dental-health-quiz.html">📊 Health Quiz</a></li>
                         <li><a href="/compare/">📍 Cost by City</a></li>
                     </ul>
                 </li>
-                <li><a href="/find-a-dentist/">Find a Dentist</a></li>
-                <li><a href="/myths/">Myths vs Facts</a></li>
             </ul>
             <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode">🌓</button>
         </div>
@@ -78,7 +84,7 @@
                         <th style="padding: 0.75rem; border-bottom: 2px solid var(--border-color);">Austin, TX</th>
                         <th style="padding: 0.75rem; border-bottom: 2px solid var(--border-color);">Difference</th>
                     </tr></thead>
-                    <tbody><tr><td><a href="/locations/dental-implants-dallas-tx.html">Dental Implants</a></td><td>$3,780</td><td>$3,675</td><td><span style="color: #16a34a">-$105</span></td></tr><tr><td><a href="/locations/teeth-whitening-dallas-tx.html">Teeth Whitening</a></td><td>$540</td><td>$606</td><td><span style="color: #dc2626">+$66</span></td></tr><tr><td><a href="/locations/dental-veneers-dallas-tx.html">Dental Veneers</a></td><td>$1,515</td><td>$1,470</td><td><span style="color: #16a34a">-$45</span></td></tr><tr><td><a href="/locations/dental-crowns-dallas-tx.html">Dental Crowns</a></td><td>$1,104</td><td>$1,092</td><td><span style="color: #16a34a">-$12</span></td></tr><tr><td><a href="/locations/root-canal-dallas-tx.html">Root Canal Treatment</a></td><td>$1,104</td><td>$1,308</td><td><span style="color: #dc2626">+$204</span></td></tr><tr><td><a href="/locations/traditional-braces-dallas-tx.html">Traditional Braces</a></td><td>$5,450</td><td>$4,800</td><td><span style="color: #16a34a">-$650</span></td></tr><tr><td><a href="/locations/invisalign-clear-aligners-dallas-tx.html">Invisalign & Clear Aligners</a></td><td>$5,060</td><td>$5,885</td><td><span style="color: #dc2626">+$825</span></td></tr><tr><td><a href="/locations/dental-bridges-dallas-tx.html">Dental Bridges</a></td><td>$2,850</td><td>$2,760</td><td><span style="color: #16a34a">-$90</span></td></tr><tr><td><a href="/locations/dentures-dallas-tx.html">Dentures</a></td><td>$1,620</td><td>$1,440</td><td><span style="color: #16a34a">-$180</span></td></tr><tr><td><a href="/locations/tooth-extraction-dallas-tx.html">Tooth Extraction</a></td><td>$214</td><td>$208</td><td><span style="color: #16a34a">-$6</span></td></tr><tr><td><a href="/locations/wisdom-teeth-removal-dallas-tx.html">Wisdom Teeth Removal</a></td><td>$642</td><td>$636</td><td><span style="color: #16a34a">-$6</span></td></tr><tr><td><a href="/locations/dental-bonding-dallas-tx.html">Dental Bonding</a></td><td>$477</td><td>$445</td><td><span style="color: #16a34a">-$32</span></td></tr><tr><td><a href="/locations/gum-disease-treatment-dallas-tx.html">Gum Disease Treatment</a></td><td>$1,188</td><td>$1,140</td><td><span style="color: #16a34a">-$48</span></td></tr><tr><td><a href="/locations/dental-cleaning-prophylaxis-dallas-tx.html">Dental Cleaning (Prophylaxis)</a></td><td>$122</td><td>$114</td><td><span style="color: #16a34a">-$8</span></td></tr><tr><td><a href="/locations/deep-cleaning-scaling-root-planing-dallas-tx.html">Deep Cleaning (Scaling & Root Planing)</a></td><td>$936</td><td>$819</td><td><span style="color: #16a34a">-$117</span></td></tr><tr><td><a href="/locations/dental-fillings-dallas-tx.html">Dental Fillings</a></td><td>$190</td><td>$182</td><td><span style="color: #16a34a">-$8</span></td></tr><tr><td><a href="/locations/tmj-treatment-dallas-tx.html">TMJ Treatment</a></td><td>$1,455</td><td>$1,560</td><td><span style="color: #dc2626">+$105</span></td></tr><tr><td><a href="/locations/sleep-apnea-oral-appliance-dallas-tx.html">Sleep Apnea Oral Appliance</a></td><td>$1,880</td><td>$2,020</td><td><span style="color: #dc2626">+$140</span></td></tr><tr><td><a href="/locations/pediatric-dental-exam-dallas-tx.html">Pediatric Dental Exam</a></td><td>$153</td><td>$144</td><td><span style="color: #16a34a">-$9</span></td></tr><tr><td><a href="/locations/emergency-dental-care-dallas-tx.html">Emergency Dental Care</a></td><td>$693</td><td>$742</td><td><span style="color: #dc2626">+$49</span></td></tr></tbody>
+                    <tbody><tr><td><a href="/locations/dental-implants-dallas-tx.html">Dental Implants</a></td><td>$3,395</td><td>$3,640</td><td><span style="color: #dc2626">+$245</span></td></tr><tr><td><a href="/locations/teeth-whitening-dallas-tx.html">Teeth Whitening</a></td><td>$594</td><td>$606</td><td><span style="color: #dc2626">+$12</span></td></tr><tr><td><a href="/locations/dental-veneers-dallas-tx.html">Dental Veneers</a></td><td>$1,470</td><td>$1,440</td><td><span style="color: #16a34a">-$30</span></td></tr><tr><td><a href="/locations/dental-crowns-dallas-tx.html">Dental Crowns</a></td><td>$1,080</td><td>$1,176</td><td><span style="color: #dc2626">+$96</span></td></tr><tr><td><a href="/locations/root-canal-dallas-tx.html">Root Canal Treatment</a></td><td>$1,104</td><td>$1,224</td><td><span style="color: #dc2626">+$120</span></td></tr><tr><td><a href="/locations/traditional-braces-dallas-tx.html">Traditional Braces</a></td><td>$4,900</td><td>$4,850</td><td><span style="color: #16a34a">-$50</span></td></tr><tr><td><a href="/locations/invisalign-clear-aligners-dallas-tx.html">Invisalign & Clear Aligners</a></td><td>$5,115</td><td>$5,830</td><td><span style="color: #dc2626">+$715</span></td></tr><tr><td><a href="/locations/dental-bridges-dallas-tx.html">Dental Bridges</a></td><td>$3,240</td><td>$3,270</td><td><span style="color: #dc2626">+$30</span></td></tr><tr><td><a href="/locations/dentures-dallas-tx.html">Dentures</a></td><td>$1,635</td><td>$1,365</td><td><span style="color: #16a34a">-$270</span></td></tr><tr><td><a href="/locations/tooth-extraction-dallas-tx.html">Tooth Extraction</a></td><td>$196</td><td>$200</td><td><span style="color: #dc2626">+$4</span></td></tr><tr><td><a href="/locations/wisdom-teeth-removal-dallas-tx.html">Wisdom Teeth Removal</a></td><td>$558</td><td>$594</td><td><span style="color: #dc2626">+$36</span></td></tr><tr><td><a href="/locations/dental-bonding-dallas-tx.html">Dental Bonding</a></td><td>$445</td><td>$450</td><td><span style="color: #dc2626">+$5</span></td></tr><tr><td><a href="/locations/gum-disease-treatment-dallas-tx.html">Gum Disease Treatment</a></td><td>$1,296</td><td>$1,272</td><td><span style="color: #16a34a">-$24</span></td></tr><tr><td><a href="/locations/dental-cleaning-prophylaxis-dallas-tx.html">Dental Cleaning (Prophylaxis)</a></td><td>$127</td><td>$112</td><td><span style="color: #16a34a">-$15</span></td></tr><tr><td><a href="/locations/deep-cleaning-scaling-root-planing-dallas-tx.html">Deep Cleaning (Scaling & Root Planing)</a></td><td>$945</td><td>$909</td><td><span style="color: #16a34a">-$36</span></td></tr><tr><td><a href="/locations/dental-fillings-dallas-tx.html">Dental Fillings</a></td><td>$198</td><td>$184</td><td><span style="color: #16a34a">-$14</span></td></tr><tr><td><a href="/locations/tmj-treatment-dallas-tx.html">TMJ Treatment</a></td><td>$1,590</td><td>$1,440</td><td><span style="color: #16a34a">-$150</span></td></tr><tr><td><a href="/locations/sleep-apnea-oral-appliance-dallas-tx.html">Sleep Apnea Oral Appliance</a></td><td>$1,920</td><td>$2,080</td><td><span style="color: #dc2626">+$160</span></td></tr><tr><td><a href="/locations/pediatric-dental-exam-dallas-tx.html">Pediatric Dental Exam</a></td><td>$145</td><td>$147</td><td><span style="color: #dc2626">+$2</span></td></tr><tr><td><a href="/locations/emergency-dental-care-dallas-tx.html">Emergency Dental Care</a></td><td>$721</td><td>$728</td><td><span style="color: #dc2626">+$7</span></td></tr></tbody>
                 </table>
 
                 <div class="disclaimer" style="font-size: 0.85rem; color: var(--text-muted);">Cost estimates are approximate and based on regional averages. Actual costs vary by provider. Consult your dentist for accurate pricing.</div>
@@ -104,12 +110,19 @@
                     <p class="footer-text">Your trusted source for evidence-based dental health information. Browse 2,009 articles written and reviewed by dental professionals.</p>
                 </div>
                 <div class="footer-section">
-                    <div class="footer-title">Explore</div>
+                    <div class="footer-title">For Patients</div>
                     <ul class="footer-links">
-                        <li><a href="/categories.html">All Categories</a></li>
-                        <li><a href="/guides.html">Cornerstone Guides</a></li>
+                        <li><a href="/categories.html">All Topics</a></li>
+                        <li><a href="/guides.html">Guides</a></li>
                         <li><a href="/myths/">Myths vs Facts</a></li>
-                        <li><a href="/compare/">Cost Comparisons</a></li>
+                        <li><a href="/compare/">Cost by City</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <div class="footer-title">For Professionals</div>
+                    <ul class="footer-links">
+                        <li><a href="/clinical/">Clinical Protocols</a></li>
+                        <li><a href="/editorial-standards.html">Editorial Standards</a></li>
                     </ul>
                 </div>
                 <div class="footer-section">
