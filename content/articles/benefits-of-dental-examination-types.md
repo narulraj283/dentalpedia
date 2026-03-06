@@ -1,12 +1,12 @@
 ---
 title: "Benefits of Dental Examination Types"
-slug: "benefits-of-dental-examination-types"
-category: "General Dentistry"
-category_slug: "general-dentistry"
-subcategory: "Cleanings & Exams"
-subcategory_slug: "cleanings-exams"
-reviewer_specialty: "General Dentistry, Oral Pathology"
-excerpt: "Comprehensive guide to dental exam types. Comprehensive vs periodic vs limited exams, CDT codes, radiograph selection, and oral cancer screening protocol for systematic patient assessment."
+slug: benefits-of-dental-examination-types
+category: General Dentistry
+category_slug: general-dentistry
+subcategory: Cleanings & Exams
+subcategory_slug: cleanings-exams
+reviewer_specialty: General Dentistry, Oral Pathology
+excerpt: Comprehensive guide to dental exam types. Comprehensive vs periodic vs limited exams, CDT codes, radiograph selection, and oral cancer screening protocol for systematic patient assessment.
 date: "2026-03-05"
 read_time: 8
 reviewed: true

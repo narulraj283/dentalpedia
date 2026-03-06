@@ -1,12 +1,12 @@
 ---
 title: "Benefits of Crown vs Bridge Decision"
-slug: "benefits-of-crown-vs-bridge-decision"
-category: "General Dentistry"
-category_slug: "general-dentistry"
-subcategory: "Major Restorations"
-subcategory_slug: "major-restorations"
-reviewer_specialty: "Prosthodontics, Implant Dentistry"
-excerpt: "Clinical decision-making for missing tooth restoration. Crown on implant vs bridge comparison, case selection criteria, and evidence-based treatment planning algorithm."
+slug: benefits-of-crown-vs-bridge-decision
+category: General Dentistry
+category_slug: general-dentistry
+subcategory: Major Restorations
+subcategory_slug: major-restorations
+reviewer_specialty: Prosthodontics, Implant Dentistry
+excerpt: Clinical decision-making for missing tooth restoration. Crown on implant vs bridge comparison, case selection criteria, and evidence-based treatment planning algorithm.
 date: "2026-03-05"
 read_time: 8
 reviewed: true

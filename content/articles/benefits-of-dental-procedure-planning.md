@@ -1,12 +1,12 @@
 ---
 title: "Benefits of Dental Procedure Planning"
-slug: "benefits-of-dental-procedure-planning"
-category: "General Dentistry"
-category_slug: "general-dentistry"
-subcategory: "Treatment Planning"
-subcategory_slug: "treatment-planning"
-reviewer_specialty: "General Dentistry, Prosthodontics"
-excerpt: "Comprehensive treatment planning methodology. Sequencing phases, informed consent, managing multiple diagnoses, and interdisciplinary coordination for complex case success."
+slug: benefits-of-dental-procedure-planning
+category: General Dentistry
+category_slug: general-dentistry
+subcategory: Treatment Planning
+subcategory_slug: treatment-planning
+reviewer_specialty: General Dentistry, Prosthodontics
+excerpt: Comprehensive treatment planning methodology. Sequencing phases, informed consent, managing multiple diagnoses, and interdisciplinary coordination for complex case success.
 date: "2026-03-05"
 read_time: 8
 reviewed: true

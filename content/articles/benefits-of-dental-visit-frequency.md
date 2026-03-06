@@ -1,12 +1,12 @@
 ---
 title: "Benefits of Dental Visit Frequency"
-slug: "benefits-of-dental-visit-frequency"
-category: "Preventive Care"
-category_slug: "preventive-care"
-subcategory: "Preventive Care"
-subcategory_slug: "preventive-care"
-reviewer_specialty: "Preventive Dentistry, Periodontology"
-excerpt: "Evidence-based recall intervals. Risk-based scheduling vs traditional 6-month recall, CAMBRA protocols, periodontal maintenance frequency, and cost-effectiveness of personalized recall."
+slug: benefits-of-dental-visit-frequency
+category: Preventive Care
+category_slug: preventive-care
+subcategory: Preventive Care
+subcategory_slug: preventive-care
+reviewer_specialty: Preventive Dentistry, Periodontology
+excerpt: Evidence-based recall intervals. Risk-based scheduling vs traditional 6-month recall, CAMBRA protocols, periodontal maintenance frequency, and cost-effectiveness of personalized recall.
 date: "2026-03-05"
 read_time: 8
 reviewed: true

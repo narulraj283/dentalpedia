@@ -1,12 +1,12 @@
 ---
 title: "Benefits of Daily Teeth Cleaning"
-slug: "benefits-of-daily-teeth-cleaning"
-category: "Preventive Care"
-category_slug: "preventive-care"
-subcategory: "Oral Hygiene"
-subcategory_slug: "oral-hygiene"
-reviewer_specialty: "Preventive Dentistry, Periodontology"
-excerpt: "Evidence-based oral hygiene protocols. Modified Bass brushing technique, electric vs manual effectiveness, interdental cleaning hierarchy, and fluoride optimization for caries prevention."
+slug: benefits-of-daily-teeth-cleaning
+category: Preventive Care
+category_slug: preventive-care
+subcategory: Oral Hygiene
+subcategory_slug: oral-hygiene
+reviewer_specialty: Preventive Dentistry, Periodontology
+excerpt: Evidence-based oral hygiene protocols. Modified Bass brushing technique, electric vs manual effectiveness, interdental cleaning hierarchy, and fluoride optimization for caries prevention.
 date: "2026-03-05"
 read_time: 8
 reviewed: true

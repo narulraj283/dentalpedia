@@ -1,12 +1,12 @@
 ---
 title: "Benefits of Cosmetic Crown Selection"
-slug: "benefits-of-cosmetic-crown-selection"
-category: "Cosmetic Dentistry"
-category_slug: "cosmetic-dentistry"
-subcategory: "Restorations"
-subcategory_slug: "restorations"
-reviewer_specialty: "Prosthodontics, Cosmetic Dentistry"
-excerpt: "Master crown material selection for anterior aesthetics. Learn when to choose all-ceramic, zirconia, feldspathic, or PFM crowns with clinical depth and evidence-based guidance."
+slug: benefits-of-cosmetic-crown-selection
+category: Cosmetic Dentistry
+category_slug: cosmetic-dentistry
+subcategory: Restorations
+subcategory_slug: restorations
+reviewer_specialty: Prosthodontics, Cosmetic Dentistry
+excerpt: Master crown material selection for anterior aesthetics. Learn when to choose all-ceramic, zirconia, feldspathic, or PFM crowns with clinical depth and evidence-based guidance.
 date: "2026-03-05"
 read_time: 8
 reviewed: true

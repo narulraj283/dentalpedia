@@ -1,12 +1,12 @@
 ---
 title: "Benefits of Cosmetic Gum Shaping"
-slug: "benefits-of-cosmetic-gum-shaping"
-category: "Cosmetic Dentistry"
-category_slug: "cosmetic-dentistry"
-subcategory: "Gum Contouring"
-subcategory_slug: "gum-contouring"
-reviewer_specialty: "Periodontology, Cosmetic Dentistry"
-excerpt: "Complete clinical guide to gum contouring and crown lengthening. Master diagnosis of altered passive eruption, surgical techniques, and aesthetic zenith positioning for perfect smile design."
+slug: benefits-of-cosmetic-gum-shaping
+category: Cosmetic Dentistry
+category_slug: cosmetic-dentistry
+subcategory: Gum Contouring
+subcategory_slug: gum-contouring
+reviewer_specialty: Periodontology, Cosmetic Dentistry
+excerpt: Complete clinical guide to gum contouring and crown lengthening. Master diagnosis of altered passive eruption, surgical techniques, and aesthetic zenith positioning for perfect smile design.
 date: "2026-03-05"
 read_time: 9
 reviewed: true

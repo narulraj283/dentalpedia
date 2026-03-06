@@ -1,12 +1,12 @@
 ---
 title: "Benefits of Cosmetic Restoration Types"
-slug: "benefits-of-cosmetic-restoration-types"
-category: "Cosmetic Dentistry"
-category_slug: "cosmetic-dentistry"
-subcategory: "Restorations"
-subcategory_slug: "restorations"
-reviewer_specialty: "Cosmetic Dentistry, Prosthodontics"
-excerpt: "Compare cosmetic restoration options from bonding to aligners. Cost, longevity, and clinical outcomes for direct composite, veneers, crowns, teeth whitening, and gum contouring."
+slug: benefits-of-cosmetic-restoration-types
+category: Cosmetic Dentistry
+category_slug: cosmetic-dentistry
+subcategory: Restorations
+subcategory_slug: restorations
+reviewer_specialty: Cosmetic Dentistry, Prosthodontics
+excerpt: Compare cosmetic restoration options from bonding to aligners. Cost, longevity, and clinical outcomes for direct composite, veneers, crowns, teeth whitening, and gum contouring.
 date: "2026-03-05"
 read_time: 8
 reviewed: true

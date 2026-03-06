@@ -1,12 +1,12 @@
 ---
 title: "Benefits of Cosmetic Tooth Repair"
-slug: "benefits-of-cosmetic-tooth-repair"
-category: "Cosmetic Dentistry"
-category_slug: "cosmetic-dentistry"
-subcategory: "Tooth Repair"
-subcategory_slug: "tooth-repair"
-reviewer_specialty: "Cosmetic Dentistry, Endodontics"
-excerpt: "Master repair options for damaged anterior teeth. Ellis classification, reattachment versus buildup, post-core systems, and evidence-based clinical decision-making for traumatic injury."
+slug: benefits-of-cosmetic-tooth-repair
+category: Cosmetic Dentistry
+category_slug: cosmetic-dentistry
+subcategory: Tooth Repair
+subcategory_slug: tooth-repair
+reviewer_specialty: Cosmetic Dentistry, Endodontics
+excerpt: Master repair options for damaged anterior teeth. Ellis classification, reattachment versus buildup, post-core systems, and evidence-based clinical decision-making for traumatic injury.
 date: "2026-03-05"
 read_time: 8
 reviewed: true
