@@ -684,10 +684,10 @@ def get_related_guide_card(category_slug):
     guide = guides_by_category.get(category_slug)
     if not guide:
         return ''
-    return f'''<div class="related-guide-card" style="background: linear-gradient(135deg, #eff6ff, #f0fdf4); border: 1px solid #bfdbfe; border-radius: 12px; padding: 1.25rem; margin: 1.5rem 0;">
+    return f'''<div class="related-guide-card">
         <div style="font-weight: 600; margin-bottom: 0.5rem;">📖 Want the complete picture?</div>
-        <a href="/guides/{guide.get('slug')}.html" style="font-size: 1.1rem; font-weight: 700; color: #2563eb; text-decoration: none;">{html_mod.escape(guide.get('title', ''))}</a>
-        <p style="margin: 0.5rem 0 0; color: #64748b; font-size: 0.9rem;">{html_mod.escape(guide.get('meta_description', ''))}</p>
+        <a href="/guides/{guide.get('slug')}.html" class="related-guide-link">{html_mod.escape(guide.get('title', ''))}</a>
+        <p class="related-guide-desc">{html_mod.escape(guide.get('meta_description', ''))}</p>
     </div>'''
 
 
@@ -765,7 +765,7 @@ def process_article(md_file):
             takeaway_text = first_para.group(1)[:250]
             if len(first_para.group(1)) > 250:
                 takeaway_text = takeaway_text.rsplit(' ', 1)[0] + '...'
-            geo_box = f'<div class="key-takeaway" style="background: #eff6ff; border-left: 4px solid #2563eb; padding: 1rem 1.25rem; border-radius: 0 8px 8px 0; margin: 1.5rem 0; font-size: 0.95rem;"><strong>Key Takeaway:</strong> {takeaway_text}</div>'
+            geo_box = f'<div class="key-takeaway"><strong>Key Takeaway:</strong> {takeaway_text}</div>'
             # Insert after first heading
             body_html = re.sub(r'(</h2>)', r'\1' + geo_box, body_html, count=1)
 

@@ -2105,6 +2105,98 @@ html {
 }
 
 /* =============================================
+   Key Takeaway & Callout Boxes
+   CRITICAL: All colored-background boxes MUST
+   have explicit dark text colors for both modes.
+   ============================================= */
+.key-takeaway {
+  background: #eff6ff;
+  border-left: 4px solid #2563eb;
+  padding: 1rem 1.25rem;
+  border-radius: 0 8px 8px 0;
+  margin: 1.5rem 0;
+  font-size: 0.95rem;
+  color: #1e293b !important;
+  line-height: 1.6;
+}
+.key-takeaway strong {
+  color: #1e293b !important;
+}
+.key-takeaway a {
+  color: #2563eb !important;
+}
+[data-theme="dark"] .key-takeaway {
+  background: #1e2a3a;
+  border-left-color: #3b82f6;
+  color: #e2e8f0 !important;
+}
+[data-theme="dark"] .key-takeaway strong {
+  color: #f1f5f9 !important;
+}
+[data-theme="dark"] .key-takeaway a {
+  color: #60a5fa !important;
+}
+
+/* Related Guide Card */
+.related-guide-card {
+  background: linear-gradient(135deg, #eff6ff, #f0fdf4);
+  border: 1px solid #bfdbfe;
+  border-radius: 12px;
+  padding: 1.25rem;
+  margin: 1.5rem 0;
+  color: #1e293b !important;
+}
+.related-guide-card div {
+  color: #1e293b !important;
+}
+.related-guide-link {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: #2563eb !important;
+  text-decoration: none;
+}
+.related-guide-link:hover {
+  text-decoration: underline;
+}
+.related-guide-desc {
+  margin: 0.5rem 0 0;
+  color: #64748b !important;
+  font-size: 0.9rem;
+}
+[data-theme="dark"] .related-guide-card {
+  background: linear-gradient(135deg, #1e2a3a, #1a2e1a);
+  border-color: #334155;
+}
+[data-theme="dark"] .related-guide-card div {
+  color: #e2e8f0 !important;
+}
+[data-theme="dark"] .related-guide-link {
+  color: #60a5fa !important;
+}
+[data-theme="dark"] .related-guide-desc {
+  color: #94a3b8 !important;
+}
+
+/* Content Disclaimer Box */
+.content-disclaimer {
+  color: #1e293b;
+}
+[data-theme="dark"] .content-disclaimer {
+  color: #e2e8f0;
+}
+
+/* Article Review Info */
+.article-review-info {
+  color: #1e293b;
+}
+[data-theme="dark"] .article-review-info {
+  color: #cbd5e1;
+}
+[data-theme="dark"] .article-review-info p {
+  color: #cbd5e1;
+}
+
+/* =============================================
    Clinical Detail Expandable Blocks
    ============================================= */
 .clinical-detail {
