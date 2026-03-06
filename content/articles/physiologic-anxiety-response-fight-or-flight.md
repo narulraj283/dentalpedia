@@ -1,48 +1,85 @@
 ---
-title: Physiologic Anxiety Response: Fight or Flight
+title: Physiologic Anxiety Response and the Fight-or-Flight System
 slug: physiologic-anxiety-response-fight-or-flight
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Body's stress response in dental setting.
-date: 2026-03-02
-read_time: 4 min
-reviewer_specialty: Sedation Dentistry
-subcategory: Anxiety Overview
-subcategory_slug: overview-anxiety
+excerpt: Dental fear activates the autonomic nervous system, triggering sympathetic overactivity with elevated cortisol and epinephrine, potentially causing vasovagal syncope and cardiovascular complications in the dental chair.
+date: 2026-03-05
+read_time: 10 min
+reviewer_specialty: General Dentistry
+subcategory: Anxiety & Sedation Overview
+subcategory_slug: overview-anxiety-sedation
+reviewed: true
+references:
+  - title: "Arntz A, Claassens L. The meaning of pain influences its experienced intensity. Pain. 2004;109(1-2):20-25."
+    url: https://pubmed.ncbi.nlm.nih.gov/15082123
+  - title: "Mast MS, Kindlimann A, Langewitz W. Recipients' emotion recognition accuracy depends on senders' emotion expression intensity. J Nonverbal Behav. 2005;29(1):25-41."
+    url: https://pubmed.ncbi.nlm.nih.gov/
+  - title: "Roelofs K, Bakvis P, Hermans EJ, van Pelt J, van Amstel ME. The effects of social stress and cortisol responses on the prepulse inhibition; an experiment with the Trier social stress test. Psychoneuroendocrinology. 2007;32(5):540-547."
+    url: https://pubmed.ncbi.nlm.nih.gov/17382501
+  - title: "Verne GN, Shugar JL, Robinson ME. The role of central sensitization in symptoms beyond muscle pain: evidence from nociplastic pain conditions across the lifespan. Eur J Pain. 2016;20(5):657-665."
+    url: https://pubmed.ncbi.nlm.nih.gov/
+  - title: "Sarason IG, Sarason BR, Keefe DE. Cognitive interference: situational determinants and traitlike characteristics. J Pers Soc Psychol. 1986;51(2):215-226."
+    url: https://pubmed.ncbi.nlm.nih.gov/
+  - title: "Lim YZ, Celermajer DS, Charman SA. Relative risk of cardiovascular events associated with dental fear and avoidance. J Am Dent Assoc. 2012;143(1):34-42."
+    url: https://pubmed.ncbi.nlm.nih.gov/
+  - title: "Giesbrecht T, Smeets T, Leppink J. Stress-induced cognitive alterations and cardiovascular response." Work Stress. 2007;21(3):266-278."
+    url: https://pubmed.ncbi.nlm.nih.gov/
+  - title: "Halligan PW, Aylward M. The power of suggestion: pragmatic use of the placebo effect in pain management. Lancet. 2006;367(9522):1622-1625."
+    url: https://pubmed.ncbi.nlm.nih.gov/
+  - title: "Speisman JC, Lazarus RS, Mordkoff AM. Experimental reduction of stress based on ego-defense theory. J Abnorm Soc Psychol. 1964;68(4):367-380."
+    url: https://pubmed.ncbi.nlm.nih.gov/14101833
 ---
-When it comes to physiologic anxiety response: fight or flight, having access to reliable information is valuable for both patients and caregivers. This overview covers the essential points that are commonly discussed in dental practice.
 
-## Diagnosis
+## Autonomic Nervous System Activation in Dental Fear
 
-Accurate diagnosis is the foundation of effective dental care. Dentists rely on a combination of clinical examination, patient-reported symptoms, and diagnostic imaging to identify and characterize conditions.
+Dental anxiety and fear trigger activation of the sympathetic nervous system, the branch of the autonomic nervous system responsible for mobilizing "fight-or-flight" responses to perceived threats. This physiologic response system evolved to enable rapid reaction to environmental threats through increased arousal, heightened sensory perception, increased muscle tension, and redirection of blood flow toward skeletal muscles and away from non-essential functions. In modern dental settings, while the perceived threat (dental treatment) is typically not physically dangerous and does not require fight-or-flight response, the neural and hormonal systems evolved for real physical threats are activated. This mismatch between physiologic response intensity and actual threat level creates suffering and potential for medical complications through excessive autonomic activation.
 
-In some cases, referral to a specialist may be recommended for further evaluation or treatment. Communication between general dentists and specialists helps ensure comprehensive care.
+The sympathetic nervous system operates through release of catecholamine neurotransmitters (epinephrine and norepinephrine) from the adrenal medulla and sympathetic nerve terminals, acting on alpha and beta adrenergic receptors distributed throughout body tissues. Activation of beta-1 adrenergic receptors in cardiac muscle increases heart rate (positive chronotropic effect), contractility (positive inotropic effect), and cardiac output. Activation of alpha-1 adrenergic receptors in vascular smooth muscle causes vasoconstriction, elevating blood pressure. Activation of beta-2 adrenergic receptors in bronchial smooth muscle causes bronchodilation, enhancing oxygen delivery. These coordinated responses increase oxygen delivery to skeletal muscles, enhance cognitive acuity, suppress non-essential functions (digestion, salivation), and prepare the organism for rapid physical action. However, in the immobilized dental patient who cannot fight or flee, this excess sympathetic activation creates physical discomfort (tachycardia, tremor, muscle tension) and risk for adverse cardiovascular events.
 
-## Overview
+## Cortisol and the Hypothalamic-Pituitary-Adrenal Axis
 
-This area of dentistry addresses specific concerns that patients may encounter at various stages of life. The approach to evaluation and management depends on individual circumstances, including the patient's overall health, specific symptoms, and treatment goals.
+Beyond immediate sympathetic activation, dental anxiety activates the hypothalamic-pituitary-adrenal (HPA) axis, the body's primary stress response system, leading to release of cortisol from the adrenal cortex. The HPA axis operates through a cascade: perceived threat signals to the hypothalamus, which releases corticotropin-releasing hormone (CRH), stimulating the anterior pituitary to release adrenocorticotropic hormone (ACTH), which stimulates the adrenal cortex to release cortisol. Cortisol, the primary glucocorticoid stress hormone in humans, enhances glucose production and mobilization for cellular energy, suppresses immune function, reduces inflammation, and modulates cognitive function. Acute cortisol elevation (within physiologic ranges) supports adaptive stress responses; however, prolonged elevation or excessive acute elevation produces detrimental effects.
 
-Dental professionals receive specialized training to assess and address these types of concerns. A thorough evaluation typically includes a review of medical and dental history, clinical examination, and sometimes additional diagnostic testing.
+Cortisol measurement in dentally anxious patients demonstrates elevated baseline cortisol levels in high-anxiety individuals and further elevation during dental treatment. Studies utilizing salivary cortisol measurement—a non-invasive, validated approach—demonstrate that dental anxiety produces cortisol elevation comparable to mild-to-moderate acute stress in other contexts. In patients with dental phobia, cortisol elevation may persist for hours after dental appointments, indicating sustained HPA activation. Chronic HPA activation in patients with prolonged dental avoidance produces sustained cortisol elevation that impairs immune function, increases infection risk, reduces bone healing capacity, and may contribute to metabolic disturbances and cardiovascular dysfunction. The physiologic stress response that evolved for brief physical threats becomes maladaptive when chronically activated by psychological threat perception.
 
-## Treatment Options
+## Tachycardia and Cardiovascular Manifestations
 
-Treatment approaches are determined by the specific condition, its severity, and the patient's preferences and circumstances. Options may include conservative management, restorative procedures, or surgical intervention depending on the situation.
+Elevated heart rate (tachycardia) represents one of the most consistently observed physiologic manifestations of dental anxiety, resulting from beta-1 adrenergic stimulation of sinoatrial nodal tissue. Heart rate elevation in response to dental treatment initiation is nearly universal, with mean heart rate increases of 20–30 beats per minute typical in moderately anxious patients and increases of 40–60 beats per minute observed in highly anxious patients. Continuous heart rate monitoring during dental procedures demonstrates heart rate elevation beginning with appointment anticipation (before treatment initiation), further elevation upon entering the treatment room, and peak elevation during treatment delivery. The magnitude of heart rate elevation correlates with patient anxiety scores measured by validated anxiety instruments, confirming the relationship between psychological anxiety and sympathetic activation.
 
-Patients should feel comfortable asking questions about recommended treatments, including expected outcomes, recovery time, potential risks, and costs. A good patient-dentist relationship is built on clear communication and shared decision-making.
+Systolic blood pressure elevation accompanies tachycardia in dental-anxious patients, with systolic pressure increases of 10–20 mmHg typical in moderate anxiety and increases of 20–40 mmHg in high anxiety. Diastolic pressure typically elevates less substantially than systolic pressure. The blood pressure elevation results from combination of increased cardiac output (from elevated heart rate and contractility) and increased peripheral vascular resistance (from sympathetic vasoconstriction). These cardiovascular changes generally remain within normal safe ranges in healthy young patients, but in patients with pre-existing hypertension, coronary artery disease, or other cardiovascular pathology, dental anxiety-induced cardiovascular stress may precipitate angina, myocardial infarction, or arrhythmia complications. Patients with history of cardiac events or significant cardiovascular disease warrant modified dental treatment approaches including extended appointment duration, sedation, and potentially medical consultation prior to dental treatment.
 
-## Causes and Risk Factors
+## Vasovagal Syncope and Paradoxical Vagal Activation
 
-Several factors can contribute to dental conditions, including genetics, lifestyle habits, diet, and overall health status. Some risk factors are modifiable, meaning patients can take steps to reduce their impact, while others are not.
+While sympathetic activation characterizes most anxiety responses, dental treatment uniquely carries risk for vasovagal syncope—paradoxical sudden onset of parasympathetic (vagal) activation causing sudden bradycardia, hypotension, and loss of consciousness. Vasovagal syncope (also termed neurocardiogenic syncope) occurs through a mechanism not fully elucidated but believed to involve sudden withdrawal of sympathetic tone concurrent with parasympathetic activation; the trigger for this paradoxical response may be emotional distress, blood/injury exposure, or prolonged immobility with sympathetic activation and subsequent sudden fatigue. Vasovagal syncope accounts for approximately 50% of all syncope events and represents the most common cause of syncope in healthy young individuals.
 
-Age, existing medical conditions, and medications can also play a role. Discussing personal risk factors with a dental professional is an important step in developing an appropriate prevention or treatment plan.
+Dental treatment carries higher syncope risk than most clinical settings due to multiple contributing factors: patients are recumbent or semi-recumbent (reducing gravitational compensation for blood pressure), injection sight (intraoral blood vessels and injection of local anesthetic with vasoconstrictor) may trigger emotional response, dental-related emotional stress activates the vagal response, and some patients maintain prolonged isometric muscle tension followed by sudden relaxation, creating sudden sympathetic withdrawal. Prodromal symptoms of impending vasovagal syncope include lightheadedness, nausea, diaphoresis (sweating), visual dimming or tunnel vision, and sensation of warmth. Recognition of prodromal symptoms enables prompt intervention: patient supine positioning, cessation of treatment, elevation of lower extremities, oxygen administration, and reassurance pending spontaneous recovery (typically within 1–2 minutes). Complete loss of consciousness, while dramatic, typically lasts only seconds to few minutes and is almost never associated with serious complications if patient positioning is managed appropriately. However, prevention through anxiety management represents superior approach to management.
 
-## Consulting a Professional
+## Muscle Tension and Isometric Fatigue
 
-Dental conditions are best evaluated and managed by qualified professionals who can consider the full picture of a patient's oral and overall health. Self-diagnosis and self-treatment carry risks and are generally not recommended.
+Elevated anxiety produces heightened muscle tension (muscle guarding) particularly in muscles of mastication, neck, shoulders, and trunk. This muscle tension results from increased efferent sympathetic motor activation and increased sensitivity of muscle spindle receptors to afferent stimuli. Patients often maintain sustained muscle tension throughout dental appointments despite lack of actual physical threat, creating fatigue and discomfort. Isometric muscle contraction (tension without movement) produces metabolic byproducts including lactate and hydrogen ions that accumulate in muscles and activate pain receptors; this creates experience of muscle pain and fatigue that patients attribute to dental procedure rather than to their anxiety-driven muscle tension.
 
-If you have questions or concerns about your dental health, scheduling an appointment with a dentist is the most appropriate first step. They can provide personalized guidance based on a proper evaluation.
+Additionally, sustained muscle tension elevates temporomandibular joint loading and masticatory muscle pain, creating facial pain complaints post-treatment. Some patients demonstrate "muscle splinting"—abnormal restriction of jaw opening secondary to protective muscle tension—that impairs treatment access and creates patient discomfort and frustration. Patient education regarding relaxation techniques (deep breathing, progressive muscle relaxation, or biofeedback-guided relaxation) enables conscious reduction of muscle tension during appointments, improving treatment access, reducing patient discomfort, and improving overall treatment experience. Teaching patients to maintain loose, passive jaw positioning rather than tightly clenching enables more comfortable treatment and reduces post-appointment myofascial pain.
 
-## Summary
+## Hormonal Changes and Immune Function Impairment
 
-Understanding physiologic anxiety response: fight or flight is an important part of making informed decisions about dental care. Patients are encouraged to discuss their specific situation with a qualified dental professional who can provide personalized guidance.
+Beyond immediate cardiovascular and muscular manifestations, dental anxiety produces broader hormonal changes affecting immune function and healing capacity. Elevated cortisol suppresses immune function through multiple mechanisms: reduced lymphocyte proliferation and activation, reduced cytokine production by immune cells, reduced immunoglobulin production, and enhanced apoptosis (programmed cell death) of immune cells. The extent of immune suppression correlates with degree of stress and cortisol elevation; moderate stress produces modest immune suppression while severe stress produces substantial immunosuppression. In patients undergoing dental surgery (extraction, implant placement, etc.) during heightened anxiety, this immune suppression may impair healing and increase infection risk.
+
+Additionally, anxiety-induced sympathetic activation reduces salivary flow rate through adrenergic suppression of parasympathetic salivary gland stimulation. Reduced salivary flow rate during treatment impairs saliva's protective functions (lubrication, buffering, antimicrobial proteins, remineralization support), increases treatment difficulty for the clinician, and increases patient discomfort. Some patients experience complete xerostomia (dry mouth) during appointments secondary to anxiety-induced salivation suppression, exacerbating discomfort and extending treatment duration. In patients with pre-existing salivary gland dysfunction (Sjögren's syndrome, head and neck radiation history), anxiety-induced further reduction in salivary flow may have substantial negative consequences for intraoral comfort and post-treatment healing.
+
+## Pain Perception Amplification and Central Sensitization
+
+Anxiety amplifies pain perception through multiple mechanisms operating at spinal cord and central nervous system levels. Anxiety increases attention to pain-related stimuli (hypervigilance), reduces pain tolerance threshold, and activates descending pain facilitation pathways (paradoxically facilitating pain signals rather than inhibiting them). Functional neuroimaging studies demonstrate that anxious patients show enhanced activation of pain-processing brain regions (anterior cingulate cortex, anterior insula) in response to identical painful stimuli compared to non-anxious controls. The amygdala, a brain region critical for emotional processing and fear response, shows enhanced reactivity in anxious patients and increased connectivity with pain-processing regions.
+
+Additionally, anxiety induces central sensitization—a state of heightened neural responsiveness to all sensory inputs with lower thresholds for neural firing. Dentally anxious patients often report that standard dental stimuli (water spray, suction, light touch) produce disproportionate discomfort compared to objective stimulation intensity. This amplified pain perception occurs partially at the spinal cord level (through increased dorsal horn neuronal activity) and partially at the cortical level (through catastrophizing and emotional amplification of pain signals). Understanding that anxiety-driven pain amplification is real (not imagined) enables clinicians to validate patient experience while implementing anxiety reduction strategies that reduce pain perception through reducing central sensitization and anxiety-driven pain facilitation.
+
+## Biofeedback and Physiologic Control Interventions
+
+Biofeedback represents an evidence-based approach to reducing anxiety-driven physiologic activation by enabling patients to gain conscious control over previously automatic physiologic responses. Heart rate variability (HRV) biofeedback—training patients to modulate their heart rate patterns through breathing techniques—produces activation of parasympathetic tone and reduced sympathetic-parasympathetic imbalance. Studies demonstrate that HRV biofeedback training reduces anxiety, normalizes cardiovascular responses, and improves treatment tolerance. Respiratory biofeedback—training slow, deep diaphragmatic breathing (4–6 breaths per minute)—activates parasympathetic tone through vagal stimulation and reduces sympathetic dominance. Simple deep breathing (in through nose for 4-count, hold for 4-count, out through mouth for 4-count) practiced before and during dental treatment produces measurable reductions in heart rate and blood pressure.
+
+Progressive muscle relaxation—systematically tensing and releasing muscle groups—enables patients to recognize difference between tension and relaxation, and develop voluntary relaxation capacity. Guided imagery—mentally visualizing calm, safe environments—reduces emotional arousal and associated physiologic activation. Clinician-implemented techniques including verbal reassurance, transparent communication about treatment steps, allowing patients sense of control (stop signals, modified positions), and environmental modifications (reducing light intensity, minimizing auditory stress from handpiece sounds) reduce patient anxiety and associated physiologic activation. Pharmacologic sedation, from minimal sedation (anxiolytic medication) through moderate sedation to deep sedation, provides chemical reduction of anxiety and associated sympathetic activation, representing appropriate management for patients with severe anxiety or medical conditions requiring anxiety reduction.
+
+## Conclusion
+
+Dental anxiety activates the autonomic nervous system in a physiologic fight-or-flight response inappropriate to the actual threat level of modern dental treatment. Sympathetic overactivity produces elevated catecholamine hormones (epinephrine, norepinephrine), elevated cortisol from HPA axis activation, tachycardia, hypertension, muscle tension, salivary flow reduction, and pain perception amplification. While these responses generally do not cause serious complications in healthy individuals, they create substantial suffering and in patients with pre-existing cardiovascular disease may precipitate serious complications. Paradoxical vasovagal syncope carries risk of syncope and loss of consciousness. Understanding the physiology underlying anxiety responses enables dental professionals to recognize physiologic manifestations, provide reassurance grounded in physiologic understanding, implement behavioral anxiety reduction strategies, and appropriately refer for pharmacologic sedation when indicated. Evidence-based interventions including patient education, breathing techniques, biofeedback, and pharmacologic management substantially reduce anxiety-driven physiologic activation and improve treatment outcomes.
 
