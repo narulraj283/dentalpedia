@@ -176,11 +176,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/cosmetic-dentistry/veneers/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/emergency-dentistry/overview-emergency/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -192,6 +187,11 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/preventive-care/overview-prevent/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/cosmetic-dentistry/veneers/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
