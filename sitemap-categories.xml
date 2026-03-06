@@ -276,6 +276,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/oral-surgery/surgical-protocols/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/holistic-alternative-dentistry/overview-holistic/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -311,6 +316,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/orthodontics/orthodontic-treatment/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/dental-anxiety-sedation/anesthesia/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -331,12 +341,22 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/cosmetic-dentistry/occlusal-design/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/dental-anxiety-sedation/overview-anxiety/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/emergency-dentistry/dislodged-lost/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/oral-surgery/surgical-reconstruction/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -356,12 +376,32 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/prosthodontics/prosthodontic-design/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/dental-implants/implant-complications/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/oral-surgery/implant-surgery/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/dental-nutrition/nutrients-health/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/pediatric-dentistry/pediatric-development/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/orthodontics/orthodontic-diagnosis/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -387,6 +427,16 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/general-dentistry/root-canal-therapy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/oral-surgery/surgical-anesthesia/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/oral-surgery/alveolar-surgery/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -426,6 +476,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/oral-surgery/surgical-trauma/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/oral-surgery/bone-grafting/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -452,6 +507,16 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/oral-health-conditions/oral-lesions/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/prosthodontics/implant-prosthodontics/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/cosmetic-dentistry/esthetic-dentistry/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -491,12 +556,32 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/periodontics/periodontal-anatomy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/dental-practice-insurance/costs-payments/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/oral-surgery/patient-education/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/periodontics/graft-surgery/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/oral-surgery/anesthesia-management/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/geriatric-dentistry/older-adult-health/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
