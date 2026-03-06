@@ -23,27 +23,47 @@ references:
   - "Bourauel C, Vollmer D, Jäger A. Application of the finite element method to the initial tooth movement during intra-alveolar tooth splitting. J Biomech. 2000;33(8):975-984."
 ---
 
-## Physiologic Basis of Post-Extraction Ecchymosis
+## Why Bruising Happens After Tooth Extraction
 
-Post-extraction bruising results from hemorrhage into soft tissues surrounding the extraction site. During tooth removal, mechanical forces lacerate blood vessels within the periodontal ligament, alveolar bone, and surrounding connective tissue. Vascular disruption causes extravasation of red blood cells into tissue interstitium, creating the characteristic blue-purple discoloration.
+When your tooth comes out, the blood vessels surrounding it tear. These blood vessels are in the ligament holding your tooth in place, in the bone itself, and in the surrounding tissue. When they tear, red blood cells leak into the tissue spaces, creating bruising (medical term: ecchymosis). The extent of bruising depends entirely on how much trauma happened.
 
-The extent and severity of ecchymosis correlates directly with extraction trauma. Straightforward extractions of single-rooted teeth with minimal bone removal cause minimal hemorrhage; complex surgical removals involving bone sectioning, osteotomy, and elevated flap procedures produce extensive vascular trauma with ecchymosis extending into face, neck, and thorax. Surgical removal of impacted third molars consistently produces ecchymosis in 60-75% of cases, while uncomplicated simple extractions result in clinically apparent bruising in only 10-15% of cases.
+Simple extractions of single-rooted teeth (like many lower front teeth) cause minimal bleeding and visible bruising in only 10-15% of cases—you might barely notice it. Surgical extractions of impacted wisdom teeth or teeth needing bone removal produce extensive bruising in 60-75% of cases—this is normal and expected. Your surgeon's technique matters: gentle, atraumatic (trauma-free) technique minimizes bruising, while rough extraction techniques cause more. Additionally, the location affects where bruising appears. Extractions in your upper front area produce bruising on your upper lip and cheek. Extractions in your lower back teeth cause bruising along your jaw angle and neck area because different arteries supply those regions.
 
-Vascular anatomy influences ecchymosis distribution patterns. Extractions in the anterior maxilla typically produce ecchymosis in the buccal sulcus, upper lip, and cheek due to rich vascular supply from branches of the infraorbital and superior labial arteries. Mandibular posterior extractions produce ecchymosis extending inferiorly along the jaw angle into the neck due to lingual and submandibular artery involvement.
+## Who Gets More Bruising?
 
-## Risk Factors and Predisposing Conditions
+Several factors increase your bruising risk. **Age** is one: people over 40 develop 30-40% more bruising than younger people because blood vessels become more fragile with age. People over 60 might have bruising lasting 3-5 days longer than younger patients. **Blood thinners** (anticoagulants like warfarin, apixaban, or rivaroxaban) dramatically increase bruising—blood won't clot as easily, so you bruise 2-3 times more extensively and it lasts 5-7 days longer. Your oral surgeon will discuss timing with you—sometimes stopping blood thinners 24-48 hours before extraction helps; sometimes continuing them is safer. Never stop blood thinners without medical guidance.
 
-Patient age significantly influences ecchymosis severity. Patients over 40 years demonstrate 30-40% greater ecchymosis extent compared to younger patients due to reduced elastic fiber integrity in vessel walls and increased fragility from aging collagen degradation. Patients over 60 years show ecchymosis persistence 3-5 days longer than younger cohorts.
+**Platelet disorders** or other bleeding problems mean you'll bruise more severely. **Liver disease** impairs blood clotting factor production, causing excessive bruising. **Kidney disease** affects platelet function, potentially worsening bruising. If you have these conditions, tell your surgeon so they can plan accordingly and use extra hemostasis techniques (extra careful bleeding control).
 
-Anticoagulation therapy dramatically increases ecchymosis severity and duration. Patients on warfarin (target INR 2-3) demonstrate ecchymosis extending 2-3 times greater tissue areas compared to controls and persisting 5-7 days longer. Direct oral anticoagulants (apixaban, rivaroxaban) produce similar effects; cessation timing before elective extractions (24-48 hours) reduces ecchymosis severity by 40-50%.
+**Bisphosphonate medications** (used for osteoporosis or bone conditions) increase healing complications and bruising. If you're on these medications, discuss with your surgeon whether temporary discontinuation is possible. **Smoking** increases bruising by 20-30% because smoking impairs blood vessel function. Quitting smoking 2 weeks before extraction helps substantially—even quitting 48 hours before helps a little.
 
-Platelet disorders and bleeding diastheses increase ecchymosis risk substantially. Patients with thrombocytopenia (platelet counts below 50,000/μL) demonstrate spontaneous bruising; surgical trauma increases ecchymosis severity 3-4 fold. Bleeding disorder patients (Factor V deficiency, von Willebrand disease) develop ecchymosis out of proportion to extraction trauma severity.
+## The Bruising Timeline
 
-Bisphosphonate therapy presents specific risk factors for extraction complications. Patients receiving intravenous bisphosphonates (zoledronic acid) demonstrate healing delays and increased hemorrhage; osteonecrosis risk increases substantially when extractions occur during active bisphosphonate therapy. Withholding bisphosphonate therapy 2-3 weeks post-extraction reduces osteonecrosis risk by 60-70%.
+Here's what to expect: Bruising appears within **2-4 hours** after extraction as red blood cells enter the tissue. Initially it looks **red-purple**. By **24-48 hours**, it deepens to **blue-purple**—this is usually the darkest, worst-looking time. **Peak bruising occurs at 48-72 hours**—that's when it looks most dramatic.
 
-Liver disease (cirrhosis, hepatitis) impairs coagulation factor synthesis; patients with INR exceeding 1.5 demonstrate increased ecchymosis and prolonged bleeding. Renal disease reduces platelet function through uremic inhibitors; extractions in dialysis patients require careful hemostasis technique.
+Then it starts improving. At **5-7 days**, the color shifts to **yellow-green** as your body's cleanup cells (macrophages) break down the dead red blood cells and hemoglobin. At **7-10 days**, it becomes **yellow-brown** as hemoglobin further breaks down. **Complete resolution typically occurs by 14-21 days** for simple extractions. Complex surgical cases (wisdom teeth removal, multiple teeth, bone removal) might take 25-35 days to resolve.
 
-Smoking history influences ecchymosis severity and healing. Smokers demonstrate 20-30% increased ecchymosis extent due to impaired microvascular response and reduced tissue oxygenation. Smoking cessation 48 hours before extraction reduces ecchymosis severity by 15-20%; cessation 2 weeks before extraction approaches non-smoker ecchymosis levels.
+Age matters for timeline. Patients under 30 usually clear bruising by days 12-15. Those 40-60 might need 18-21 days. Patients over 60 might have some residual discoloration at 25-30 days. This is because older people's bodies process the bruising breakdown products more slowly.
+
+## Managing Bruising: What Actually Works
+
+**Ice immediately after extraction** is huge. Apply ice packs for 15-20 minutes every hour for the first 12-24 hours. Ice causes blood vessels to constrict (get narrower), reducing bleeding and bruising by 20-30%. Don't apply ice longer than 20 minutes at a time—you could damage tissue. Alternate 20 minutes on, 20 minutes off.
+
+**Compression dressings** (gentle pressure) over ice packs work—500-1,000 grams of pressure applied for 24-48 hours reduces hemorrhage by 30-40%. **Elevation** helps too—keep your head elevated about 30 degrees to horizontal for the first 24 hours. Gravity naturally reduces blood pooling in injured tissues.
+
+**Rest for 48 hours** reduces bruising progression. Avoid exercise, vigorous activity, and heavy lifting. Your heart is pumping blood harder during exercise, sending more blood to bruised tissues. After 48 hours, you can gradually resume activity. Don't do cardiovascular exercise until day 5-7 when clotting is well-established.
+
+**Heat after day 3-4** is fine and actually helps—once initial bleeding stops, heat promotes blood flow for healing. **NSAIDs** (ibuprofen 400-600mg every 6 hours) reduce inflammation and might reduce bruising by 15-25%, but don't start them until 6-12 hours post-extraction when initial clotting is secure. **Acetaminophen** (500-1,000mg) provides pain relief without affecting clotting.
+
+**Arnica** (a botanical remedy) has minimal evidence—studies show only 8-12% bruising reduction, basically insignificant. Topical vitamin K also lacks solid evidence. Focus on ice, elevation, and compression instead—these are proven.
+
+## When to Worry
+
+**Severe bruising** extending to your orbit (around your eye) requires monitoring for retrobulbar hemorrhage—if you develop eye pain, vision changes, or eye swelling, get emergency evaluation. **Bruising extending into your floor of mouth or throat** is concerning for airway obstruction—if you develop difficulty swallowing, voice changes, or breathing problems, go to the emergency room. **Infection** developing at 4+ days (increasing pain, pus, fever) needs antibiotic treatment. **Uncontrolled bleeding** 3-4 days after extraction (distinct from initial extraction bleeding) suggests complications requiring immediate follow-up.
+
+> **Key Takeaway:** Post-extraction bruising peaks at 48-72 hours, follows predictable color changes, and typically resolves within 14-21 days—ice, elevation, and compression in the first 24-48 hours significantly reduce severity.
+
+Learn more: [What to expect after tooth extraction](/article/tooth-extraction-recovery.html), [Managing extraction pain](/article/extraction-pain-management.html), or [Complications after dental surgery](/article/extraction-complications.html).
 
 ## Ecchymosis Timeline and Natural Resolution
 

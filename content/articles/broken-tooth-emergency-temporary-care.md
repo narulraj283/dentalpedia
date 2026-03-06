@@ -23,88 +23,60 @@ references:
   - "Demarco FF, Collares K, Coelho-de-Souza FH, et al. Anterior composite restorations: A systematic review on long-term survival and reasons for failure. Dent Mater. 2015;31(10):1214-1224."
 ---
 
-## Emergency Assessment and Initial Triage
+## What Your Dentist Does First
 
-When a patient presents with a fractured tooth, initial assessment focuses on fracture extent, pulpal status, and systemic complications. Intraoral and extraoral examination determines whether the fracture involves enamel alone (Ellis Class I), enamel and dentin (Ellis Class II), or exposed pulp (Ellis Class III). Gentle inspection with compressed air drying reveals pulpal exposure as visible bleeding from the fracture site.
+When you come in with a broken tooth, your dentist starts by examining what kind of break you have. They look at whether only the hard outer layer (enamel) is cracked, or if the yellowish layer under it (dentin) is exposed. They want to know if the break goes all the way to the nerve. They'll gently clean the area and look for bleeding (which means the nerve is exposed) or clear fluid (which means it's probably still okay).
 
-Radiographic assessment through periapical radiographs confirms fracture line location, root involvement, and alveolar bone integrity. Cone beam computed tomography provides three-dimensional visualization when multiple fractures or root fractures are suspected. Assessment of tooth mobility determines stability; minimal mobility suggests intact pulp and periodontal ligament, while excessive mobility suggests root fracture or severe periodontal damage.
+Your dentist takes X-rays to see the exact break line, check if the root is broken, and make sure your jaw bone is intact. They check how loose the tooth is—a solid tooth is good, but an overly loose tooth might mean a root fracture. They ask you about pain: simple chips don't usually hurt much unless your mouth rubs against sharp edges. Deeper breaks that expose dentin cause sensitivity to air and touch. If the nerve is exposed, you'll have significant pain.
 
-Pain assessment guides treatment intensity. Class I fractures typically present minimal pain unless sharp edges traumatize soft tissues. Class II fractures demonstrate dentin hypersensitivity, with pain reproducible by air jet exposure or tactile stimulation. Class III fractures (pulpal exposure) present with severe pain responsive to analgesics but persisting until pulpal inflammation resolves or treatment is instituted.
+## Temporary Sealing Materials
 
-## Provisional Restoration Materials and Techniques
+Your broken tooth needs to be sealed as soon as possible to stop bacteria from getting inside and damaging the nerve. Your dentist will use a temporary material—this is just to hold you over for 2-4 weeks while they monitor the tooth, not the permanent fix. The most common temporary materials are **glass ionomer cement** (a tooth-colored material that releases fluoride to strengthen surrounding teeth and fights bacteria) and **temporary acrylic** (an off-white material that hardens by chemical reaction).
 
-Temporary restoration materials must seal exposed dentin and pulp, prevent secondary contamination, provide patient comfort, and permit easy removal without damaging residual tooth structure. Glass ionomer cement (GIC) provides excellent provisional sealing with fluoride release (20 mg/mm² daily for first week, declining to background levels by 4 weeks) and antimicrobial activity.
+Glass ionomer is excellent because it hardens in 2-4 minutes and bonds directly to your tooth without needing any prep. Your dentist will clean the exposed area with a mild acid (polyacrylic acid) to prepare it—this actually improves how well the glass ionomer sticks by 40-60%. They'll carefully dry it (not too much) and press the material onto the exposed area.
 
-GIC powder-to-liquid ratio optimization ensures proper setting and mechanical properties. Standard ratio (typically 2.5:1 to 3:1 by weight) produces material with compressive strength of 150-200 MPa at 24 hours. GIC setting time ranges from 2-4 minutes at room temperature; warming the mixing slab and instruments accelerates setting to 90-120 seconds, facilitating clinical application timing.
+If your break is in a visible spot and you're worried about appearance, your dentist might use tooth-colored temporary composite resin instead, which hardens under a special blue light in 40-60 seconds. There's also **zinc oxide cement** (a very gentle material), though it sets slowly (takes overnight if you're in a hurry) and isn't as durable in your back teeth. Your dentist picks whichever material is best for your specific situation.
 
-Direct application technique involves conditioning exposed dentin with 10% polyacrylic acid for 10-20 seconds to remove smear layer and expose dentin tubules. This conditioning increases GIC retention by 40-60% compared to uncut dentin. Gentle air drying (without desiccation, which increases microleakage by 30-40%) followed by GIC insertion completes provisional sealing.
+## Managing Pain and Sensitivity
 
-Temporary acrylic resin materials provide alternative provisional materials with superior esthetic properties and longer working time. Acrylic powder mixed with monomer produces dough-like consistency ideal for fracture site filling. Acrylic restorations require chemical polymerization time of 10-15 minutes; light-polymerized flowable composite resins provide alternative with 40-60 second polymerization time.
+When dentin is exposed, the tiny tubes running through it get opened up, and this directly stimulates the nerve—that's why exposed dentin is so sensitive. Your dentist can apply special desensitizing treatments. **Potassium oxalate solutions** work within 24 hours by reducing nerve sensitivity by 25-40%. **Fluoride gels** (the same thing that strengthens normal teeth) seal those tiny tubes and reduce sensitivity by 80-90%, with protection lasting 3-4 weeks.
 
-Zinc oxide noneugenol cement (ZON) provides biocompatible provisional restoration with 48-hour setting time when protected from moisture. ZON demonstrates lower film strength (approximately 40-70 MPa) compared to GIC, limiting mechanical durability in high-stress areas. Eugenol content may complicate resin bonding in definitive restorations; removing ZON completely before resin application requires thorough tooth surface cleaning.
+Sometimes your dentist will use **bioactive materials** (like calcium-releasing cements) that actually release calcium into the tooth structure around the exposed area. These provide 2-3 weeks of pain relief. You'll also get over-the-counter pain medication instructions: **ibuprofen** (400-600mg) three times a day for 5-7 days reduces both pain and inflammation better than acetaminophen, though acetaminophen works fine if you can't take ibuprofen.
 
-## Pain Management and Dentin Desensitization
+## Building Your Temporary Restoration
 
-Exposed dentin creates hypersensitivity through open dentinal tubule pathways stimulating C-fiber nociceptors in the pulp. Application of topical desensitizing agents reduces pain significantly; potassium oxalate solutions (3-5% concentration) provide rapid pain relief through potassium ion diffusion into pulpal tissue (25-40% pain reduction within 24 hours).
+Your dentist carefully shapes the temporary restoration to be comfortable and not cause problems. They'll shape the front surface to match your tooth roughly—this helps you feel less self-conscious and protects soft tissues from sharp edges. But they won't build it up too much, because excessive buildup means more plaque sticks to it and your gum gets irritated.
 
-Fluoride gel application (1.1% sodium fluoride or 0.4% stannous fluoride) reduces dentin permeability through remineralization and protein precipitation within tubule lumens. Fluoride therapy reduces dentin permeability by 80-90%, with effects persisting 3-4 weeks. Topical application for 5-10 minutes provides optimal tubule occlusion.
+The biting surface is especially tricky. Your dentist makes it slightly lower than your original tooth position (about 0.5-1mm) to prevent the break from being stressed every time you chew. If they made it too short, the tooth would be under-protected and more easily reinjured. But if they left it in full contact with the opposite tooth, chewing forces would flex the break open and keep your nerve inflamed.
 
-Bioactive materials including calcium silicate compounds (white mineral trioxide aggregate equivalent formulations) provide 2-3 week pain reduction through calcium hydroxide ion release and protein pellicle formation. Bioactive material placement at fracture margins occluds dentin tubules and reduces patient sensitivity, supporting patient comfort during the provisional period.
+If you have a tooth fragment that broke off and you saved it, there's good news: your dentist can often reattach it using strong dental adhesive. This is like putting it back together with superglue for teeth. If they use about 2mm of overlap with bonding resin at the break line, they can restore 90-95% of the original tooth strength. This is ideal if the break is recent and the fragment is clean.
 
-Systemic analgesics manage pain until provisional restoration effectively seals fracture margins. Nonsteroidal anti-inflammatory drugs (NSAIDs: ibuprofen 400-600mg three times daily for 5-7 days) reduce inflammation-mediated pain; acetaminophen (500-1000mg three times daily) provides alternative for patients with NSAID contraindications.
+## Caring for Your Temporary Restoration
 
-## Provisional Restoration Shaping and Stabilization
+Brush gently around your temporary restoration with a soft toothbrush (soft enough that the bristles bend easily). Don't use whitening toothpaste because it contains abrasive particles that can wear away the temporary material. After 48 hours without cleaning, bacteria and plaque build up on your temporary restoration—so daily gentle brushing is important.
 
-Temporary restoration contours require careful attention to esthetic and functional considerations. Labial surface contouring should closely approximate natural tooth contours to minimize esthetic changes and patient psychological impact. Excessive build-out increases plaque retention by 30-40% and creates soft tissue irritation during healing.
+You can floss, but do it very gently to avoid pulling off the temporary restoration. If flossing bothers you, use a small interdental brush instead—it's actually better at removing bacteria (30-40% more effective) than floss, especially on temporary restorations. Avoid crossing directly through the broken area with floss until your dentist puts in the permanent restoration.
 
-Occlusal surface modification requires careful assessment to prevent premature contacts initiating fracture line motion. Temporary restorations should be placed slightly below original occlusal plane (0.5-1.0mm reduction) until inflammation resolves and definitive restoration begins. Excessive occlusal reduction risks pulpal irritation through reduced insulation; inadequate reduction perpetuates fracture line motion and inflammation.
+Watch what you eat. Soft foods like yogurt, applesauce, mashed potatoes, and smoothies are fine and won't stress your tooth. Avoid the broken tooth side when you chew. Don't eat hard foods (nuts, hard candy, ice), don't chew sticky foods (taffy, beef jerky, dried fruit), and avoid very hot foods (over 140°F) or very cold foods (below 40°F) because temperature extremes make exposed dentin hurt. Room temperature meals are ideal during this period.
 
-Contact point restoration in multiroot fractures requires careful assessment. Proximal contacts slightly below the original position reduce proximal tissue trauma and permit physiologic movement. Tight contacts on traumatized teeth increase pain and slow inflammation resolution; loose contacts require interdental hygiene modification until definitive restoration.
+## How Long the Temporary Restoration Stays
 
-Stabilization of Class II-III fractures with fractured portions provides optimal long-term outcomes. If the fractured portion is available, reattachment using adhesive techniques preserves maximum tooth structure. Tooth fragment reattachment requires clean fracture surfaces without contamination, placement of adhesive bonding system (etch-rinse or self-etch), and composite resin at fracture margin to secure fragment.
+Your temporary restoration should stay in place for 2-4 weeks minimum. This gives your tooth's nerve time to settle down from the trauma and tells you whether the nerve is still alive. At your 4-week checkup, your dentist tests whether the tooth is still vital (alive). They might apply ice to your tooth—if you feel the cold, the nerve is alive. If you don't feel it after 60 seconds, the nerve probably died.
 
-Fragment reattachment research demonstrates that 2mm overlapping resin at fracture surface provides optimal strength restoration (achieving 90-95% of original tooth strength). Resin thickness less than 1.5mm demonstrates reduced retention (15-20% fracture rate within 2 years); thickness exceeding 3mm provides minimal additional strength benefit while increasing clinical visibility.
+During this waiting period, your dentist's main goal is watching for complications. They'll take X-rays at 4 weeks looking for three specific things: the root dissolving from the inside out (resorption), the nerve space filling in (which usually means healing), or signs that the nerve died. Your tooth might change color—if it turns yellowish or light gray, that's usually good (old blood inside the tooth reabsorbing). If it turns gray or black, the nerve probably died. A pink tooth is rare and serious (it means root resorption is happening).
 
-## Provisional Period Duration and Pulpal Response Monitoring
+## When Your Temporary Restoration Fails
 
-Provisional restoration duration should permit adequate pulpal assessment before definitive restoration. A minimum 2-4 week provisional period allows pulpal inflammation to resolve and vitality status to stabilize. Pulpal response assessment at 4 weeks via thermal testing (ice stick application to buccal surface) guides definitive treatment planning.
+Temporary restorations sometimes come loose or break during the 2-4 week waiting period. If part of it separates and bacteria gets in, you need to get it fixed or replaced right away. Your dentist cleans off the old material gently, cleans and etches the tooth surface, and puts on new temporary material. If the material has deteriorated a lot (more than 20% of the surface), they'll usually replace the whole thing rather than just repair the weak spot.
 
-Positive vitality response at 4 weeks (typical with Class II fractures and some small Class III exposures) permits direct resin composite restoration without endodontic treatment. Negative response (absence of sensitivity within 60 seconds) suggests pulpal necrosis, necessitating root canal treatment before definitive restoration.
+Glass ionomer slowly wears away at about 0.1-0.2mm per week (faster than you'd notice), but it usually holds the seal well. Acrylic temporary restorations are more durable but might yellow slightly over 2-4 weeks. Either way, your temporary restoration is temporary—your dentist will remove it when it's time to put in your permanent restoration.
 
-Color changes during provisional period provide prognostic information. Yellow or light gray discoloration frequently represents pulpal hemorrhage with excellent healing potential; gray-black discoloration suggests pulpal necrosis or advanced inflammation, indicating endodontic treatment necessity. Pink discoloration (occurring in 1-2% of cases) indicates internal root resorption, complicating long-term prognosis substantially.
+## Moving to Your Permanent Fix
 
-Radiographic monitoring at 4 weeks detects early complications including external root resorption (appearing as root surface irregularities on radiographs), pulpal space narrowing (indicating inflammatory healing response), and alveolar bone fractures (if present). Root resorption detection rates improve with periapical radiographs taken at different angulations; conventional two-dimensional radiography detects resorption only after 30-40% of root surface has been resorbed.
+Once your dentist confirms your nerve is still alive (or decides what to do if it's not), they remove the temporary restoration. They use small ultrasonic tools to gently break it away without damaging the remaining tooth. They have to remove every last bit of temporary material—if even small particles stay on the tooth, they block the permanent bonding material and your new restoration might fail.
 
-## Provisional Period Oral Hygiene and Patient Instructions
+Your dentist cleans everything with a mild polishing paste, looks very carefully to make sure the tooth is completely clean, and then they're ready to apply permanent restoration. If your tooth has been waiting a few weeks, they'll etch (apply acid to) the tooth surface fresh to prepare it properly for bonding.
 
-Provisional restoration surfaces require daily gentle brushing with soft toothbrush (bristle diameter 0.1-0.2mm) to prevent biofilm accumulation. Plaque indices on temporary restorations typically reach 60-80% coverage within 48 hours without mechanical cleaning. Toothpaste selection should exclude whitening formulations containing abrasive particles that may damage provisional materials.
+> **Key Takeaway:** Temporary restoration of your broken tooth buys time for inflammation to settle and your dentist to assess whether your nerve is okay—this waiting period is crucial for planning the best permanent fix.
 
-Flossing around provisional restorations requires gentle technique to prevent material displacement or fracture. Interdental brushes provide superior biofilm removal compared to traditional floss in the provisional period, with bristle-brush techniques reducing plaque by 30-40% compared to floss. Patients should avoid crossing the fractured tooth area with floss until definitive restoration stabilizes the fracture line.
-
-Dietary modification reduces stress on provisional restorations and minimizes discomfort. Soft foods (yogurt, pudding, mashed potatoes) avoiding the fractured tooth side permit nutrition maintenance without excessive mastication forces on damaged tissues. Hard foods (nuts, candies, ice), chewy items (caramel, beef jerky), and sticky foods (dried fruits) risk provisional restoration displacement and fracture line reopening.
-
-Temperature sensitivity frequently accompanies exposed dentin, requiring dietary temperature modulation. Very hot foods (exceeding 60°C) and very cold foods (below 5°C) increase pain through fluid movement in dentinal tubules. Room temperature foods typically produce minimal discomfort after provisional sealing.
-
-## Provisional Restoration Repair and Replacement
-
-Provisional restorations may fracture or debond during the provisional period, necessitating urgent repair or replacement. Partial debonding (small areas of separation) should be replaced if separation extends more than 20% of the fracture surface or if secondary contamination occurs.
-
-Repair technique involves gentle cleaning of the failed restoration margins with an ultrasonic scaler to remove biofilm and debris, phosphoric acid conditioning of exposed tooth surface (15-20 seconds for resin composite repair, 10 seconds for GIC), and new material application to restore marginal seal. Repair materials should match original provisional material type when possible; GIC repairs to GIC surfaces demonstrate superior bonding compared to composite repairs to GIC.
-
-Provisional restoration durability typically permits maintenance for 4-8 weeks without replacement. GIC materials demonstrate progressive wear (approximately 0.1-0.2mm marginal wear per week) but maintain seal integrity if marginal adaptation remains intact. Acrylic provisional restorations demonstrate greater durability with minimal wear but may yellow slightly during the provisional period.
-
-## Transition to Definitive Restoration
-
-Removal of provisional materials before definitive restoration initiation requires careful technique to prevent additional tooth damage. Ultrasonic scalers with small tips (0.6-0.8mm diameter) gently fracture provisional material from the tooth surface; hand instruments may create unintended gouges in residual dentin. Complete removal of provisional materials and underlying debris is essential before etching procedures in composite restoration.
-
-Residual provisional material under etching creates bonding failure risk. Phosphoric acid does not demineralize residual GIC, ZON, or acrylic particles; these materials block resin infiltration and create weak interfaces with failure rates increasing 20-30% per retained particle area. Gentle cleaning with pumice and rubber cup followed by careful visual inspection confirms complete removal.
-
-Tooth conditioning for definitive restoration may require slight modification if substantial provisional time has elapsed. Residual smear layer from provisional removal should be eliminated; phosphoric acid etching (35-40% concentration, 15 seconds) followed by thorough rinsing and gentle drying prepares enamel and dentin optimally for adhesive application.
-
-## Summary and Clinical Recommendations
-
-Provisional restoration of fractured teeth in the emergency period focuses on pain relief, contamination prevention, and inflammation management rather than definitive esthetics. Glass ionomer cement provides biocompatible provisional sealing with adequate durability for 4-8 week provisional periods; light-polymerized composite resins offer superior esthetics when patient appearance concerns are significant.
-
-Initial assessment must establish fracture extent, pulpal status, and systemic complications before provisional material selection. Provisional materials must seal exposed dentin surfaces completely to prevent secondary pulpal contamination and maintain pulpal vitality. Pain management through topical desensitizers and systemic analgesics optimizes patient comfort during inflammation resolution.
-
-Provisional restorations remain in place until pulpal vitality can be reliably assessed (minimum 2-4 weeks) and definitive restoration planning is completed. Color changes, radiographic findings, and vitality tests guide definitive treatment determination; vitality-positive teeth proceed to resin composite restoration while necrotic teeth require endodontic treatment before restoration. Patient compliance with hygiene protocols and dietary modifications during the provisional period reduces complication rates and improves long-term outcomes.
+Learn more: [Understanding temporary versus permanent restorations](/article/temporary-restorations.html), [Managing tooth sensitivity](/article/sensitive-teeth-solutions.html), or [What to expect during tooth repair](/article/tooth-restoration-process.html).

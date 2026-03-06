@@ -21,98 +21,128 @@ references:
   - "Choi BH. Application of platelet-rich plasma to reduce swelling in third molar extraction. Oral Surg Oral Med Oral Pathol. 2010;67(8):890-895."
 ---
 
-## Pathophysiology of Postoperative Swelling
+## Why You Swell After Oral Surgery
 
-Postoperative swelling (edema) results from inflammatory response to surgical trauma. Tissue injury triggers release of prostaglandins (PGE2), leukotrienes, histamine, and complement factors (C3a, C5a), increasing capillary permeability. Fluid and protein migrate from vasculature into interstitial space, causing visible swelling within 2-6 hours of surgery. This inflammatory edema is a normal healing response but can be minimized through evidence-based interventions.
+When tissue is injured during oral surgery, your body reacts with inflammation—which is actually helpful but causes unwanted swelling. Your body releases inflammatory chemicals that make blood vessels leakier, so fluid seeps into surrounding tissues. This starts within 2-6 hours of surgery and is a completely normal healing response. The good news? Swelling is temporary and can be significantly reduced with the right approach.
 
-Swelling magnitude correlates with surgical trauma extent. Simple extractions produce minimal swelling (1-2 mm facial dimension increase). Complex extractions with significant bone removal produce moderate swelling (5-10 mm increase, visible facial asymmetry). Orthognathic surgery produces severe swelling (15-25 mm increase, significant airway concern), requiring intensive management protocols.
+The amount of swelling depends on how much trauma occurred. A simple extraction causes minimal swelling (maybe 1-2 millimeters facial width increase). Complex extractions with bone removal cause moderate swelling (5-10 millimeters, noticeably asymmetrical). Extensive reconstructive surgery produces severe swelling (15-25 millimeters, potentially concerning for airway).
 
-Swelling time course follows predictable pattern: minimal swelling 0-6 hours, rapid increase 12-24 hours, peak at 48-72 hours, gradual reduction 4-10 days, resolution by 2-4 weeks. Postoperative hematoma (blood collection within tissues) extends swelling duration and increases bruising. Preventing hematoma through meticulous hemostasis and early compression reduces swelling duration by 30-40%.
+Swelling follows a predictable timeline: barely noticeable at 6 hours, rapid increase by 24 hours, peak at 48-72 hours, then gradual improvement through day 10. Most swelling resolves in 2-4 weeks. Individual genetics, age, and healing ability affect your response—younger patients often swell more than older patients, and some people naturally swell more than others.
 
-Individual variation occurs based on genetics, age, ethnicity, and healing capacity. Younger patients typically show greater inflammatory response and swelling compared to older patients (>65 years). Female patients show marginally more swelling than males. Patients with reactive healing (atopic dermatitis, autoimmune conditions) show exaggerated swelling requiring intensive management.
+## Preventing Swelling During Surgery
 
-## Intraoperative Swelling Reduction Strategies
+Your surgeon's technique directly impacts your swelling. Gentle surgery that minimizes trauma, shorter operative times, and precise hemostasis all reduce inflammation. Rough technique extends operative time by 50%—which increases swelling by 30-40%. Epinephrine in your anesthetic reduces bleeding, which prevents hematoma (blood collection) that amplifies swelling.
 
-Minimizing surgical trauma is the primary swelling prevention strategy. Atraumatic tissue handling, minimal flap reflection area, careful hemostasis, and operative time minimization all reduce inflammatory response. Operative time >60 minutes produces significantly more swelling than <30 minutes. Efficient surgical technique reducing operative time by 50% reduces postoperative swelling by 30-40%.
+Your surgeon also controls swelling during surgery by careful hemostasis—stopping bleeding within 5-10 minutes and sometimes leaving a small drain to prevent blood accumulation. Meticulous hemostasis reduces swelling by 20-30% compared to incomplete hemostasis.
 
-Infiltration anesthesia with epinephrine reduces swelling through vasoconstriction. Using 1:100,000 epinephrine dilution (standard concentration in 1% lidocaine cartridges) provides 60-90 minutes of hemostasis and reduced bleeding. Higher epinephrine concentrations (1:50,000) provide longer hemostasis but increase cardiovascular effects risk.
+## Ice: Your Most Powerful Tool
 
-Careful flap hemostasis prevents postoperative hematoma (blood collection causing swelling). Identifying and ligating or cauterizing bleeders within 5-10 minutes of surgery eliminates major bleeding source. Aspiration of blood during surgery removes hemolyzed red blood cells that trigger intense inflammatory response. Studies show meticulous hemostasis reduces swelling by 20-30% compared to incomplete hemostasis protocols.
+Starting ice immediately after surgery gives the best results. Ice causes vasoconstriction (blood vessel narrowing), reducing fluid leakage by 30-50%. Apply ice for 20 minutes, then rest 20 minutes off, repeating for the first 24-48 hours continuously. This interval prevents tissue damage—continuous ice beyond 60 minutes risks frostbite.
 
-Surgical drain placement is controversial. Studies show closed-suction drains (2-3 mm silicone catheters) reduce postoperative hematoma formation by 40-60% and swelling by 15-25% when left in place 24 hours. However, drain-related complications (infection, scarring) offset benefits for routine procedures. Drains are beneficial for orthognathic surgery and extensive flap procedures.
+The first 24 hours of ice reduces swelling by 40-50%. Ice applied for the full 48 hours adds another 10% reduction. Ice beyond 48 hours provides minimal benefit. Wrap ice in a damp towel—direct ice on skin is uncomfortable and reduces compliance. Many patients prefer alternating ice packs on each side of their face.
 
-## Cryotherapy: Ice Application Protocols
+## Head Elevation and Pressure
 
-Cryotherapy (ice application) provides the most effective immediate postoperative swelling reduction. Ice induces vasoconstriction, reducing blood flow to the surgical area by 30-50%. The cold temperature reduces inflammatory mediator release and cell metabolic activity. Optimal effect occurs when ice is applied within 2 hours of surgery (ideally within 30 minutes).
+Gravity helps fluid drain away from your face. Sleep with your head elevated on 2-3 pillows (30-degree angle) for the first 3-5 nights. Reclining in a chair is even better than sleeping flat. Studies show elevation reduces swelling 15-25% compared to flat sleeping.
 
-Cryotherapy protocol: Apply ice packs (crushed ice in towel or commercial ice pack) directly to surgical site for 20 minutes, then 20 minutes rest, repeating for first 24-48 hours continuously. This intermittent application prevents tissue damage from prolonged ice contact while maintaining consistent cold exposure. Continuous ice >60 minutes risks frostbite and tissue damage.
+Compression dressings (firm wrapping around the face and jaw) restrict fluid accumulation. When applied immediately after surgery and maintained 24-48 hours, compression reduces swelling 15-20%. It works best combined with ice and elevation—the three together provide synergistic benefit.
 
-Effectiveness: Ice applied for first 24 hours reduces swelling by 40-50%. Ice applied only first 12 hours shows 30% swelling reduction. Ice applied 48 hours (24-hour protocol) provides maximal swelling reduction of 50-60%. Ice applied beyond 48 hours provides minimal additional benefit as inflammatory response naturally declines.
+Avoid dependent position (head below heart level). Don't bend forward or hang your head down for 3-5 days. This gravity-assisted fluid accumulation increases swelling noticeably.
 
-Patient tolerance improves with proper application. Wrapping ice packs in damp towels (ice-direct skin contact causes discomfort) improves compliance. Alternating between left and right ice packs allows skin warming without losing ice effectiveness. Clear instructions including "20 on, 20 off" pattern ensure proper technique—improper application (continuous ice, skin contact) reduces effectiveness and increases discomfort.
+## Medications That Reduce Swelling
 
-## Compression and Positioning Strategies
+Steroids dramatically reduce inflammation. A single dose of dexamethasone (4-8 milligrams) given before or just after surgery reduces swelling 40-60% at the 48-hour mark. Multiple doses (4 milligrams at 0, 8, and 16 hours post-op) provide superior reduction (55-65%). Beyond 3 doses, benefits plateau and infection risk increases.
 
-Compression of surgical site through pressure dressings reduces swelling by 15-20%. Firm (not painful) compression for 24-48 hours restricts fluid accumulation in tissues. Compression dressings applied in operating room should contact all surgical surfaces without cutting off blood supply (assess finger blood return color at 5, 15, 30 minutes).
+Non-steroidal anti-inflammatory drugs (NSAIDs) like ibuprofen reduce swelling 25-35%. Combined steroid + NSAID therapy achieves 60-70% swelling reduction—more effective than either alone. If your dentist prescribes these, take them on schedule (not just when it hurts) for the first 3-5 days.
 
-Head elevation above heart level reduces postoperative swelling through gravity-assisted fluid drainage. Patient should sleep on 2-3 pillows (30-degree elevation) for first 3-5 nights. Reclining position reduces swelling more effectively than flat supine position. Studies show head elevation to 30+ degrees reduces swelling by 15-25% compared to flat position.
+## Natural Anti-Inflammatory Support
 
-Compression garments (facial elastic bandages, compression head wraps) maintain pressure and elevation for extended periods. Cervicofacial compression tape applied immediately postoperatively and maintained 24-48 hours reduces swelling 20-25%. These garments improve patient compliance compared to manual head elevation instruction alone.
+Vitamin C (1000-2000 milligrams daily) in divided doses supports collagen and reduces inflammation 15-20%. Vitamin E (400-800 IU daily) provides additional antioxidant effect. Start these a few days before surgery if possible, continuing one week post-op.
 
-Avoid dependent position (head lower than heart) which increases swelling through gravitational fluid accumulation. Instruct patients to avoid bending below heart level for 3-5 days and to limit horizontal sleeping position (prefer elevation).
+Bromelain (pineapple enzyme) reduces protein-associated swelling when taken before and 3 days after surgery. Studies show 20-25% swelling reduction. Your health food store carries it, or ask your dentist.
 
-## Pharmacological Swelling Reduction
+## Eating and Drinking for Less Swelling
 
-Corticosteroids dramatically reduce inflammatory swelling when started intraoperatively or immediately postoperatively. Single preoperative dose of dexamethasone 4-8 mg IV reduces postoperative swelling by 40-60% at 48 hours. This single dose provides peak effect at 12-24 hours post-injection.
+Restrict salt to under 2000 milligrams daily for 3-5 days post-op—excess sodium causes fluid retention and worsens swelling 10-15%. Avoid processed foods, canned goods, and added salt. Adequate hydration (8-10 glasses water daily) actually reduces swelling by supporting lymphatic drainage—counterintuitively, restricting fluids makes swelling worse.
 
-Dosing protocols vary: (1) Single-dose protocol—4-8 mg dexamethasone IV or IM 30 minutes before anesthesia; (2) Multiple-dose protocol—4 mg dexamethasone IV or IM immediately post-op, repeat at 8 hours and 16 hours; (3) Oral protocol—4 mg dexamethasone oral TID for 3 days starting day of surgery.
+Warm beverages (not hot) promote circulation better than cold drinks. Avoid alcohol—it causes vasodilation and increases swelling.
 
-Multiple-dose protocols provide superior swelling reduction (55-65% at 48 hours) compared to single-dose. Three-dose protocol with dexamethasone 4 mg at 0, 8, and 16 hours achieves maximal effect. Extended dosing beyond 3 days shows no additional benefit and increases infection risk.
+## Advanced Drainage Techniques
 
-Non-steroidal anti-inflammatory drugs (NSAIDs) reduce swelling through inhibition of prostaglandin synthesis. Ibuprofen 600 mg every 6 hours for 48-72 hours or naproxen 500 mg twice daily reduce swelling by 25-35%. Combined NSAID + dexamethasone provides additive benefit (65-70% swelling reduction) superior to either agent alone.
+Manual lymphatic drainage—specialized light-touch massage—activates your lymphatic system to drain fluid. Fifteen-minute sessions twice daily for 3-5 days reduce swelling 15-20%. Your dentist or physical therapist might recommend this for significant swelling.
 
-Combination therapy: Dexamethasone 4 mg IM pre-op + ibuprofen 600 mg every 6 hours for 3 days achieves 60-65% swelling reduction. Acetaminophen addition (1000 mg TID) provides modest additional pain relief but minimal additional anti-edema effect.
+Gentle jaw opening exercises (passive, painless opening to 1-2 millimeters) starting day one promote muscle pumping action that enhances lymph drainage. Neck rotation and shoulder elevation exercises activate cervical lymphatics. Keep movements pain-free and gentle.
 
-## Nutritional and Dietary Modulation
+## Your At-Home Swelling Plan
 
-Antioxidant supplementation (vitamins C and E) reduces inflammatory markers and swelling duration. Vitamin C 1000-2000 mg daily in divided doses starting pre-operatively and continuing 1 week post-op reduces inflammation-related swelling by 15-20%. Vitamin E 400-800 IU daily provides additional antioxidant effect.
+Start immediately after surgery: ice 20 minutes on/20 minutes off continuously, head elevated on 2-3 pillows, minimal activity, soft foods. Continue through day 2 (ice remains most helpful). After 48 hours, you can switch to warm compresses (heat promotes circulation after initial swelling control completes).
 
-Bromelain (pineapple enzyme) and papain (papaya enzyme) have proteolytic activity reducing protein-bound edema. Bromelain 500-1000 mg daily (proteolytic activity units) starting pre-operatively and continuing 3 days post-op reduces swelling by 20-25%. Combination bromelain + trypsin shows additive benefit.
+Days 3-7: Continue elevation, resume activity gradually, maintain anti-inflammatory medications if prescribed. Most noticeable improvement happens days 3-5. Document swelling with photos or measurements comparing baseline. Seeing improvement motivates continued compliance.
 
-Salt restriction (sodium <2000 mg daily) reduces fluid retention. High sodium intake increases swelling by 10-15% through osmotic fluid retention. Patients should avoid processed foods, canned foods, and added salt for 3-5 days post-operatively.
+## When to Worry About Swelling
 
-Adequate hydration (8-10 glasses water daily) supports lymphatic fluid drainage. Counter-intuitively, restricting fluid doesn't reduce swelling; rather, adequate hydration promotes glymphatic clearance and reduces compensatory fluid retention. Warm (not hot) beverages promote vasodilation and circulation.
+Normal swelling peaks day 2-3, then improves steadily. Contact your dentist if swelling worsens after day 3, shows unilateral (one-sided) severe patterns, or compromises breathing/swallowing. These could indicate infection or hematoma requiring intervention.
 
-## Advanced Techniques: Lymphatic Drainage and Mechanical Methods
+Document baseline facial measurements (nose to chin distance, jaw width) before surgery. Compare daily through post-op week. Abnormal patterns—asymmetric, rapidly expanding, or not improving by day 7—need professional evaluation.
 
-Manual lymphatic drainage (MLD) massage promotes interstitial fluid movement toward regional lymph nodes. Specialized light-touch massage technique (1-2 finger pressure) applied to neck and jaw areas activates lymphatic vessels. Studies show 15-minute MLD sessions twice daily for 3-5 days reduce swelling by 15-20%.
+## What to Expect: The Timeline
 
-Physical therapy techniques: Gentle jaw opening exercises (passive opening to 1-2 mm) beginning day 1 post-op promote muscle pumping action enhancing lymphatic drainage. Neck rotation and shoulder elevation exercises activate cervical lymphatics. These exercises should be pain-free and gentle.
+Most dramatic swelling occurs day 2-3 (maximum level). Day 5-7, you'll notice real improvement. By day 14, most acute swelling resolves, though minor puffiness persists 3-4 weeks. Final contour definition (completely normal appearance) takes 8-12 weeks as residual inflammation and hematoma resorb.
 
-Hyaluronic acid topical application (cosmetic serums) provides minimal anti-swelling benefit, though may improve skin hydration supporting normal barrier function. Evidence is limited, and this is complementary rather than primary swelling reduction strategy.
+Realistic expectations matter—educate yourself that day 2-3 worsening is normal and expected. Patients who understand "maximum swelling means I'm at the worst point—it only improves from here" show better psychological coping than those expecting immediate improvement.
 
-Ultrasound therapy (therapeutic ultrasound at 1-3 MHz frequency) shows promise in some studies for swelling reduction through acoustic streaming and thermal effects. However, evidence is mixed, and ultrasound is typically reserved for chronic swelling rather than acute postoperative edema management.
+## Practical Pre-Surgery Planning
 
-## Patient Instructions for Home Management
+Before surgery, prepare by shopping for supplies: get plenty of ice packs (or bags of frozen peas—they conform better than ice), soft pillows for elevation, non-perishable soft foods, ice cream or yogurt from your freezer, soft beverages you enjoy cold, and bromelain supplements if available. Having supplies ready means you can focus on healing instead of last-minute shopping while swollen.
 
-Specific written instructions improve compliance and outcomes. Include: (1) First 24 hours: continuous ice (20 on/20 off), head elevation on 2-3 pillows, avoid heavy activity; (2) Days 2-3: continue ice if still beneficial, begin gentle warm compress after 48 hours if desired, continue elevation; (3) Days 4-7: resume normal activities as tolerated, continue anti-inflammatories if prescribed.
+The week before surgery, start taking vitamin C (1000-2000mg daily in divided doses) and consider bromelain supplements—beginning 3-4 days before surgery provides additional anti-inflammatory benefit by surgery day. Avoid NSAIDs only if your surgeon recommends it, but most surgeons encourage starting ibuprofen immediately post-op rather than waiting until pain develops.
 
-Temperature transition protocol: Patients often ask when to switch from ice to heat. Evidence supports: ice 24-48 hours (anti-swelling), then warm compress 48 hours+ (promote circulation). However, many patients prefer heat after 24-48 hours due to comfort, which is acceptable if they understand it may increase swelling slightly.
+## Recovery Day by Day: What to Actually Do
 
-Activity restrictions: Avoid heavy lifting (>10 lbs), strenuous exercise, or Valsalva maneuvers for 3-5 days. Avoid bending below heart level. Avoid vigorous rinsing or spitting first 24 hours. Sleeping elevated (recliner or multiple pillows) for 3-5 nights significantly reduces swelling.
+**Hours 0-2 (immediately after):** You're at the dental office—they'll place gauze and have you bite firmly for 30-45 minutes. Don't talk unnecessarily. Rest completely with your head elevated on pillows even while sitting in the waiting area.
 
-Medication adherence: Emphasize importance of taking NSAIDs and steroids on schedule (not just "as needed for pain") for first 3-5 days to reduce swelling. Dexamethasone may cause mild insomnia when taken after 4 PM; schedule afternoon dosing before 2 PM when possible.
+**Hours 2-6:** Get home, apply ice packs 15 minutes on, 15 minutes off continuously. Elevate your head on 2-3 pillows. If lying down, prop your upper body (not just your head) elevated. Gravity matters—true 30-degree elevation (your shoulders elevated, not just your head) provides maximum benefit. You might start taking ibuprofen if you feel pain starting (preventive dosing works better than waiting until you're hurting).
 
-## Swelling Monitoring and Complication Recognition
+**Hours 6-24:** Continue ice (benefit continues, especially important for first 24 hours), maintain elevation, keep cold beverages and soft foods as your diet. Minimal talking, minimal movement. Wear compression dressing if your surgeon provided one. Plan to spend your evening relaxing—watch movies, read, rest. This investment of one evening preventing activity provides major benefits.
 
-Excessive swelling exceeding expected limits suggests complications. Signs requiring contact with provider: rapid swelling increase after initial peak (suggests ongoing bleeding/hematoma), unilateral severe swelling (infection, nerve compression risk), difficulty swallowing or breathing (airway involvement), or swelling not improving by day 7 post-op.
+**Days 2-3 (peak swelling):** Expect maximum facial swelling. This is normal—it means inflammation is doing its job. Continue ice for as long as it feels good (many patients switch to warm compresses after 24-48 hours as ice becomes less comfortable). Take ibuprofen on schedule (don't wait for pain to develop—consistent dosing controls inflammation better than prn). If you received steroid prescription, take it as directed.
 
-Documenting swelling with soft tissue measurements (facial dimension comparisons: nose to chin, angle of mandible width, etc.) allows objective tracking. Photograph comparison from pre-op baseline through 1 week post-op provides visual documentation of normal healing progression.
+**Days 4-7:** Swelling begins noticeably improving. You'll see significant improvement daily now. Ice won't help anymore—switch to warm compresses if desired (though they're not necessary). Continue activity restriction through day 7 at minimum. Most people resume light exercise by day 5-7.
 
-## Swelling Prognosis and Timeline
+## Swelling Monitoring Tips
 
-Expected swelling resolution: Peak swelling at 48-72 hours represents the most swelling patients will experience. By day 5-7, swelling noticeably decreases. By 2 weeks, most acute edema resolves, though mild swelling may persist 3-4 weeks. Final contour definition typically achieved by 8-12 weeks as all inflammatory edema and residual hematoma resorption complete.
+Take baseline measurements or a photo before surgery under good lighting. Compare daily—knowing you're improving (even 5-10% daily) maintains motivation for following protocols. Document in a journal: "Day 3, swelling down 30% from peak, much less puffy under eyes, noticeably better." This visual/written progress prevents the psychological trap of "it's not getting better" when actually it's improving steadily.
 
-Patient satisfaction improves with accurate preoperative education. Explaining "maximum swelling occurs at 48-72 hours, then progressively improves" helps patients understand that day 2-3 worsening is expected and normal. Patients expecting maximum swelling day 1 are reassured when understanding the natural time course.
+If you notice swelling worsening after day 3, localized to one side, or accompanied by fever or pus drainage, contact your dentist immediately. Abnormal patterns might indicate infection or hematoma requiring intervention.
 
-Implementing evidence-based swelling reduction strategies—combining intraoperative atraumatic technique, immediate cryotherapy, corticosteroids, NSAIDs, compression, elevation, and patient compliance—minimizes postoperative discomfort and accelerates return to normal function.
+## Advanced Tips for Maximum Swelling Control
+
+Consider temporary work-from-home arrangement if possible, especially days 2-4 when swelling peaks. Being home lets you maintain ideal elevation and ice schedule without the pressure of appearing at the office. If you must return to work, understand that swelling won't significantly compromise your health or safety—it's appearance only. Many people work through post-op swelling without issue.
+
+Some surgeons recommend lymphatic drainage massage starting day 2 or 3. If yours does, follow these instructions carefully. These aren't ordinary massages—they're specific light-touch techniques activating lymphatic channels. Gentle, pressure-free movement upward and backward toward your neck facilitates fluid drainage.
+
+Neck and shoulder exercises (gentle rotations, elevation, no-resistance movements) activate cervical lymphatics enhancing drainage. Perform 5-10 minutes daily starting day 1-2. Avoid heavy resistance exercise—just gentle movement to activate muscular pumping action.
+
+## Dietary Considerations Beyond Soft Foods
+
+Beyond soft foods, focus on nutrition supporting healing. Protein intake (chicken broth, protein shakes, fish) provides amino acids for tissue repair. Vitamin C-rich foods (citrus when tolerance allows) support collagen formation. Zinc-rich foods (when you can eat them) support immune function and wound healing. Many patients add electrolyte drinks or broths to ensure adequate hydration and nutrients.
+
+Avoid hot beverages completely for the first 48 hours—heat is a vasodilator, promoting bleeding and swelling. Cool or room-temperature drinks only. After 48 hours, warm beverages (not hot) can actually promote circulation and feel more comfortable.
+
+## When to Worry and When Not To
+
+Normal swelling: increases days 0-3, peaks day 2-3, improves steadily day 4+. Asymmetric but following this timeline—normal. Moderate swelling affecting ability to speak clearly—normal. Even swelling affecting ability to see (puffiness obscuring vision slightly)—uncomfortable but normal.
+
+Concerning patterns requiring immediate contact: swelling worsening after day 3, severely asymmetric patterns suggesting one side has more problems, swelling so severe it affects breathing or swallowing, fever over 101°F, pus drainage, or spreading redness suggesting infection.
+
+Document your expectations in writing before surgery: "I expect moderate swelling peaking day 2-3, significant improvement by day 5, and resolution of most acute swelling by day 10-14." Reading this during peak swelling (when frustration is highest) reminds you this is expected and temporary.
+
+## Questions to Ask Before Surgery
+
+Ask your surgeon: "Based on my specific situation, how much swelling should I realistically expect?" "What specific medications do you recommend I take, and what's the exact schedule?" "Will you prescribe steroid medication, and if so, how many doses?" "Should I follow a specific compression schedule, and do I need special equipment?" "At what point do I contact you if swelling isn't following the expected timeline?"
+
+> **Key Takeaway:** Ice, elevation, compression, and anti-inflammatory medications started immediately after surgery reduce swelling 50-70%, significantly improving your comfort and appearance during recovery. Realistic expectations and consistent protocol adherence provide the best results.
+
+---
+
+**Related articles:** [Pain management after dental surgery](/article/post-op-pain-control.html) | [Recovery timeline: what to expect](/article/recovery-timeline-guide.html) | [Surgical complications and when to call](/article/surgical-complications-guide.html)

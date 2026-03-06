@@ -23,17 +23,21 @@ references:
   - "Philipp B, Schwan J, Graber T. Treatment planning for eating disorders. Dent Today. 1996;15(1):48-53."
 ---
 
-## Epidemiology and Oral Manifestations of Bulimia Nervosa
+## Understanding Bulimia's Dental Impact
 
-Bulimia nervosa affects approximately 1-3% of adolescent and young adult females, with increasing prevalence in males (10-25% of bulimia cases occur in male patients). The disorder involves recurrent episodes of binge eating followed by compensatory behaviors including self-induced vomiting, laxative abuse, fasting, or excessive exercise. Purging frequency ranges from 1-14 episodes weekly in most patients, with some severe cases exhibiting multiple daily episodes.
+Bulimia nervosa (an eating disorder involving binge eating followed by self-induced vomiting or other purging) affects 1-3% of teenage girls and young women, and increasingly males (10-25% of cases). The vomiting is the problem for your teeth. Stomach acid has a pH (acidity level) of 1.0-2.0—extremely acidic. Your tooth enamel starts dissolving when pH drops below 5.5. Even a single vomiting episode exposing teeth to stomach acid for 3-10 minutes causes significant demineralization (softening). Multiple daily episodes create continuous acid damage.
 
-Oral manifestations of bulimia vary substantially based on purging method and severity. Self-induced vomiting produces most severe and characteristic dental erosion patterns. Gastric contents have pH of 1.0-2.0; this extremely acidic environment demineralizes dental enamel (critical pH for enamel demineralization is 5.5) within minutes of exposure. Single vomiting episode exposes teeth to erosive pH for 3-10 minutes; multiple daily episodes create continuous acid exposure.
+The erosion (tooth wearing away) happens mainly on the **inside (lingual) surfaces and chewing surfaces (occlusal) of upper front teeth**—that's where gastric acid flows during regurgitation. **Lower teeth** are somewhat protected because your tongue shields them. The erosion pattern is distinctive—smooth, rounded, concave surfaces. This is different from GERD (chronic reflux—more posterior teeth affected) or acid from drinks (more patchy distribution based on where the liquid touched).
 
-Tooth surface loss (TSL) from bulimic erosion typically affects lingual and occlusal surfaces of maxillary teeth more severely than labial surfaces, reflecting the direction of gastric acid flow during regurgitation. Mandibular teeth often demonstrate less severe involvement due to protection from tongue positioning. Incisors, canines, and premolars usually show greater erosion compared to molars due to more direct acid contact during regurgitation.
+Besides tooth erosion, bulimia causes **enlarged parotid glands** (50-60% of purging patients—the glands swell from being stimulated repeatedly), **gum damage** from forceful vomiting, **mouth sores**, and **increased cavity risk** from damaged saliva. Your saliva normally protects teeth; vomiting disrupts its protective functions.
 
-Erosion patterns in bulimia differ distinctly from other erosion sources (gastroesophageal reflux disease [GERD], extrinsic acid consumption). Bulimic erosion characteristically demonstrates smooth loss of surface anatomy with rounded, concave lingual and occlusal surfaces; GERD-related erosion shows similar patterns but typically involves posterior teeth more severely; extrinsic acid erosion (from citric acid drinks, acidic foods) demonstrates more patchy distribution affecting tooth surfaces most exposed to erosive substance.
+## How Acid Destroys Teeth
 
-Associated oral findings in bulimia patients include enlarged parotid glands (present in 50-60% of patients with purging), caused by recurrent salivary gland stimulation during vomiting episodes; gingival damage from induced vomiting (trauma from forceful regurgitation); oral ulcerations from mechanical trauma during self-induced vomiting; and increased caries risk from reduced salivary protective factors.
+Your enamel (tooth's hard white outer layer) starts demineralizing immediately when exposed to pH below 5.5. Stomach acid at pH 1.0-2.0 causes demineralization in minutes. With repeated acid exposure, subsurface enamel weakens while the surface initially stays relatively intact. Eventually the surface breaks down, exposing yellow dentin (the softer layer underneath enamel) and visible erosion appears.
+
+Toothbrushing immediately after vomiting makes erosion worse because the softened enamel removes easily. Your saliva can partially buffer acid and remineralize teeth, but it needs 2-3 minutes to work—rapid vomiting doesn't give it time. Saliva in bulimic patients is often reduced in protective proteins and buffering capacity, making recovery slower.
+
+Cavities develop rapidly on eroded surfaces because exposed dentin has multiple vulnerability pathways, damaged saliva reduces protection, frequent acid creates a cavity-friendly environment, and binge eating episodes provide sugar that bacteria love.
 
 ## Pathophysiology of Acid-Induced Tooth Erosion
 
@@ -47,19 +51,43 @@ Mechanical factors compound acid erosion in bulimia. Toothbrushing immediately a
 
 Secondary caries frequently develops rapidly on eroded tooth surfaces in bulimia patients due to multiple factors: exposed dentin contains multiple caries risk pathways; saliva composition is altered (reduced protective proteins, altered ionic composition); frequent acid exposure and vomiting promote cariogenic bacterial environment; dietary patterns (frequent eating, high carbohydrate intake during binges) increase caries risk.
 
-## Clinical Diagnosis and Assessment
+## Spotting Bulimia at the Dentist
 
-Erosion severity assessment utilizes classification systems grading lesion extent. Simple classification divides erosion into three grades: Grade I (erosion limited to enamel, smooth concave surfaces), Grade II (erosion extending into dentin, with moderate surface loss), Grade III (severe erosion affecting substantial tooth structure and dentin exposure). Advanced assessments measure erosion depth quantitatively.
+Your dentist might be the first person to suspect bulimia based on dental signs. They see **Grade I erosion** (limited to enamel), **Grade II erosion** (into dentin with moderate loss), or **Grade III erosion** (severe loss exposing lots of dentin). The pattern is telltale: smooth, concave erosion on the inside surfaces of upper front teeth and chewing surfaces. Back teeth and outer surfaces are usually spared.
 
-Intraoral examination reveals characteristic erosion patterns. Lingual surfaces of maxillary anterior teeth demonstrate smooth, shallow concave erosion. Occlusal surfaces show erosion particularly affecting central fossae and cuspal slopes. Buccal surfaces typically remain relatively unaffected unless patient vomits with mouth open, exposing all tooth surfaces equally.
+Your dentist will gently ask about patterns in a nonjudgmental way. Questions about vomiting frequency, dietary patterns, and body image concerns help, but the key is creating a safe, non-judgmental environment where you feel comfortable talking honestly.
 
-Oral health history assessment should tactfully explore patterns suggestive of bulimia. Questions regarding regurgitation frequency, vomiting patterns, dietary restriction, and body image concerns may elicit information; however, direct questioning requires sensitivity and non-judgmental approach. Observing patient responses to normative questions can guide conversation naturally toward eating behavior assessment.
+Many bulimia patients have **dry mouth** (xerostomia)—saliva production drops 40-50% below normal. When your dentist measures saliva flow, it's reduced. **Salivary pH** (acidity) is higher than normal (6.5-6.8 vs. normal 7.0-7.5), meaning less buffering capacity. **Recovery time** from acid exposure takes 5-8 minutes instead of the normal 2-3 minutes. **Gum damage** from forceful vomiting shows as ulcerations or bleeding areas.
 
-Xerostomia (dry mouth) frequently accompanies bulimia due to salivary gland hypofunction from recurrent acid exposure and gland trauma. Stimulated saliva measurement (using paraffin-wax stimulated salivary flow method) demonstrates reduced flow rates in 40-50% of purging-type bulimia patients compared to normal values of 1.5-2.0 mL/minute.
+## Treatment: Interdisciplinary Approach
 
-Salivary pH assessment demonstrates lower buffering capacity in bulimia patients. Resting salivary pH may be reduced to 6.5-6.8 (normal 7.0-7.5), reflecting salivary gland dysfunction and reduced buffering protein concentration. pH recovery time following acid challenge is prolonged (5-8 minutes compared to normal 2-3 minutes).
+**Eating disorder treatment is the priority.** Cognitive-behavioral therapy (CBT), family therapy, and dialectical behavior therapy (DBT) treat the underlying disorder. **SSRI medications** (fluoxetine at higher doses—60mg daily, which is double typical depression doses) reduce binge-purge episodes by about 50%. Medicine works best with psychotherapy.
 
-Periodontal assessment reveals possible gingival trauma from forced vomiting, with ulcerations or bleeding at affected sites. Dental photography (with patient consent) documents erosion extent and provides baseline for monitoring progression.
+Your dentist's role is to screen for bulimia, treat acute complications, and support your medical/psychological treatment. Your dentist should be compassionate and nonjudgmental—many bulimia patients feel shame about the disorder and the dental damage. Reassure them treatment is possible and dental repair can follow once behaviors improve.
+
+## What Your Dentist Does During Active Bulimia
+
+**Don't do extensive tooth restoration yet.** Putting expensive work on actively purging teeth is futile—vomiting will destroy new restorations. Instead, focus on **protection and interim care**. Apply **high-fluoride products** (5,000ppm sodium fluoride gel daily for 5 days, then weekly) to strengthen remaining enamel. **Fluoride varnish** (22,600ppm) applied by your dentist every 3-6 months provides sustained protection.
+
+**Salivary substitutes** (artificial saliva products) help dry mouth. **Sodium bicarbonate rinses** (1 teaspoon baking soda in 8oz water, use 2-3 times daily or after vomiting) neutralize stomach acid residue. Rinse immediately after vomiting episodes. **Calcium supplementation** (1,000-1,500mg daily) may help remineralize enamel—discuss with your medical team for appropriate dosing.
+
+Use **prescription-strength fluoride toothpaste** (5,000ppm) twice daily. **Desensitizing toothpaste** reduces pain from exposed dentin. **Pain management** through acetaminophen or low-dose NSAIDs helps without interfering with healing.
+
+## Permanent Repair: After Recovery
+
+**Wait until bulimic behaviors have substantially resolved**—minimum 6-12 months purge-free, confirmed by your medical/psychological team. Premature restoration guarantees failure. Once stable, your dentist can do **composite resin restorations** for anterior teeth (85-90% success at 5 years) or **crowns** for severely damaged teeth. **All-ceramic crowns** look best for front teeth; **zirconia** offers better fracture resistance.
+
+**Posterior teeth** may need crowns for durability under chewing forces. Rebuilding might take multiple appointments spread over months. **Gingival sculpting** might be needed if gum damage is significant.
+
+## Prevention of Relapse
+
+Continue **fluoride applications** long-term—residual salivary dysfunction may persist months after eating disorder treatment. **Remineralization** is possible for early erosion. **Avoid acidic foods and drinks** to prevent extrinsic erosion. Use **straws** for acidic beverages. **Salivary stimulants** or medications like pilocarpine support saliva production if dysfunction persists.
+
+**Regular follow-ups** every 3-4 months initially, then 6-monthly once stable, monitor for erosion progression and detect relapse patterns early. Long-term success requires **interdisciplinary support**—dental team, therapists, medical providers working together. Recovery is possible with proper treatment.
+
+> **Key Takeaway:** Bulimia causes severe dental erosion through repeated stomach acid exposure, but eating disorder treatment prevents further damage and allows future dental repair once behaviors stabilize.
+
+Learn more: [Eating disorders and health](/article/eating-disorders-support.html), [Protecting teeth from erosion](/article/tooth-erosion-prevention.html), or [Salivary dysfunction treatment](/article/dry-mouth-solutions.html).
 
 ## Interdisciplinary Management Approach
 
