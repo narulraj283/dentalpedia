@@ -346,11 +346,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/dental-practice-insurance/patient-benefits/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/oral-health-conditions/overview-conditions/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -877,6 +872,11 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/orthodontics/treatment-options/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/dental-practice-insurance/patient-benefits/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
