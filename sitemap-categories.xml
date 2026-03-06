@@ -391,11 +391,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/orthodontics/adult-orthodontics/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/cosmetic-dentistry/occlusal-design/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -576,6 +571,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/oral-health-conditions/overview-oral-conditions/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/dental-nutrition/nutritional-medicine/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -722,11 +722,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/dental-practice-insurance/access-network/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/endodontics/post-core/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
