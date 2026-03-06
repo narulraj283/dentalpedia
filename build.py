@@ -733,8 +733,11 @@ def process_article(md_file):
         references = metadata.get('references', [])
         is_reviewed = metadata.get('reviewed', '').lower() == 'true' if metadata.get('reviewed') else False
 
+        # Strip :::clinical blocks from patient version (clinical content lives at /clinical/)
+        patient_body = re.sub(r'^:::clinical\s*\n.*?\n^:::\s*$', '', body, flags=re.MULTILINE | re.DOTALL)
+
         # Convert full markdown body to HTML
-        body_html = markdown_to_html(body)
+        body_html = markdown_to_html(patient_body)
 
         # Internal linking: auto-link mentions of other article titles
         body_html = create_internal_links(body_html, slug)

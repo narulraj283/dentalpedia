@@ -21,7 +21,7 @@ references:
   - "Malamed SF. Medical Emergencies in the Dental Office. Mosby; 2015."
 ---
 
-Anesthesia in dental and oral surgical procedures represents a partnership between the dental professional and patient, where informed understanding of what to expect, how to communicate during the procedure, and what to do after treatment all contribute to a comfortable, safe experience. This patient-focused guide addresses common questions and concerns regarding anesthesia options, pre-operative preparation, sensations during treatment, post-operative recovery, and practical strategies for managing the anesthetized state and subsequent recovery period.
+Understanding what to expect from anesthesia during dental procedures helps you feel less nervous and more in control. This guide walks you through what happens before your procedure, what you'll feel during it, and how to care for yourself afterward. It's really about partnership between you and your dentist—the better you understand what's happening, the more comfortable and confident you'll feel.
 
 ## Before Your Procedure: What to Expect and How to Prepare
 
@@ -117,6 +117,6 @@ If you are anxious about dental procedures and anesthesia:
 
 **Distraction Techniques**: Many offices permit patients to listen to music during treatment using headphones. This distraction reduces procedural anxiety and can make time pass more quickly from the patient's subjective perspective.
 
-## Conclusion: Partnering With Your Surgical Team for a Safe, Comfortable Experience
+## Working Together for Your Comfort
 
-Understanding anesthesia options, what to expect during and after treatment, and how to communicate with your surgical team transforms the surgical experience from anxiety-provoking to manageable and even positive. By actively participating in your care, asking questions, and following post-operative instructions carefully, you optimize both comfort and safety throughout the surgical process. Your surgeon and team are invested in your safety and satisfaction—communicate openly, follow recommendations, and know that modern anesthesia techniques prioritize your wellbeing throughout the entire surgical experience.
+The best dental experiences happen when you and your team work together. Understand your anesthesia options, ask questions, communicate openly during your procedure (raise your hand if you need a break), and follow post-operative instructions carefully. Your dentist and team genuinely care about making sure you're comfortable and safe. Modern anesthesia is incredibly safe when you're informed, cooperative, and know what to expect. Trust the process, speak up if something doesn't feel right, and remember that good communication is the key to a positive experience.
