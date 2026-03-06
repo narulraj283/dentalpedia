@@ -466,22 +466,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/dental-technology/digital-tools/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/pediatric-dentistry/overview-pediatric/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/endodontics/periapical-pathology/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/dental-technology/imaging-diagnostics/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -636,6 +626,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/dental-technology/imaging-diagnostics/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/orthodontics/treatment-mechanics/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -682,6 +677,11 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/geriatric-dentistry/age-related-changes/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/dental-technology/digital-tools/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
