@@ -261,6 +261,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/preventive-care/overview-preventive/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/tmj-sleep-dentistry/overview-tmj/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -432,11 +437,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/oral-surgery/implant-surgery/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/preventive-care/overview-preventive/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
