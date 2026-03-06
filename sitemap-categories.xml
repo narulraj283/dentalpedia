@@ -101,12 +101,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/category/dental-technology.html</loc>
+    <loc>https://dentalpedia.co/category/oral-health.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/category/oral-health.html</loc>
+    <loc>https://dentalpedia.co/category/dental-technology.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -501,6 +501,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/oral-health/overview-oral-health/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/prosthodontics/dentures/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -692,11 +697,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/dental-nutrition/harmful-foods/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/oral-health/overview-oral-health/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
