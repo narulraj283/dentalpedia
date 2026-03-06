@@ -536,7 +536,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/oral-health-conditions/infections-abscess/</loc>
+    <loc>https://dentalpedia.co/subcategory/oral-health-conditions/overview-oral-conditions/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -571,12 +571,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/oral-health-conditions/overview-oral-conditions/</loc>
+    <loc>https://dentalpedia.co/subcategory/dental-nutrition/nutritional-medicine/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/dental-nutrition/nutritional-medicine/</loc>
+    <loc>https://dentalpedia.co/subcategory/oral-health-conditions/infections-abscess/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
