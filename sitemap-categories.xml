@@ -31,11 +31,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/category/dental-practice-insurance.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/category/periodontics.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -62,6 +57,11 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/category/endodontics.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/category/dental-practice-insurance.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -151,11 +151,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/dental-practice-insurance/overview-practice/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/preventive-care/brushing-flossing/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -232,6 +227,11 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/pediatric-dentistry/primary-teeth-development/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/general-dentistry/overview-practice/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -407,11 +407,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/dental-practice-insurance/insurance-coverage/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/dental-practice-insurance/access-network/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -656,6 +651,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/oral-surgery/oral-surgery/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/oral-surgery/implant-planning/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -672,6 +672,11 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/preventive-care/oral-health-fundamentals/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/dental-practice-insurance/access-network/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
