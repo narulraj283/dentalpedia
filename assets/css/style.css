@@ -851,6 +851,45 @@ main {
   color: var(--text-primary);
   font-weight: 700;
 }
+/* FORCE dark text on all light-background callout boxes */
+.key-takeaway,
+.key-takeaway *,
+.related-guide-card,
+.related-guide-card *,
+.article-body .key-takeaway,
+.article-body .key-takeaway *,
+.article-body .related-guide-card,
+.article-body .related-guide-card * {
+  color: #1e293b !important;
+}
+.related-guide-card a {
+  color: #2563eb !important;
+}
+.related-guide-card p {
+  color: #64748b !important;
+}
+[data-theme="dark"] .key-takeaway,
+[data-theme="dark"] .key-takeaway * {
+  color: #e2e8f0 !important;
+}
+[data-theme="dark"] .key-takeaway {
+  background: #1e2a3a !important;
+  border-left-color: #3b82f6 !important;
+}
+[data-theme="dark"] .related-guide-card,
+[data-theme="dark"] .related-guide-card * {
+  color: #e2e8f0 !important;
+}
+[data-theme="dark"] .related-guide-card {
+  background: linear-gradient(135deg, #1e2a3a, #1a2e1a) !important;
+  border-color: #334155 !important;
+}
+[data-theme="dark"] .related-guide-card a {
+  color: #60a5fa !important;
+}
+[data-theme="dark"] .related-guide-card p {
+  color: #94a3b8 !important;
+}
 
 /* ==== TABLE OF CONTENTS ==== */
 .toc {
