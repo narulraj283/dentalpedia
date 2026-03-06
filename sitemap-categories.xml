@@ -196,11 +196,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/oral-surgery/surgical-care/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/general-dentistry/tooth-extraction/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -237,6 +232,11 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/dental-anxiety-sedation/overview-anxiety-sedation/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/oral-surgery/surgical-care/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -282,11 +282,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/general-dentistry/major-restorations/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/tmj-sleep-dentistry/overview-tmj/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -721,12 +716,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/oral-surgery/patient-education/</loc>
+    <loc>https://dentalpedia.co/subcategory/tmj-sleep-dentistry/overview-tmj/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/oral-health-conditions/overview-conditions/</loc>
+    <loc>https://dentalpedia.co/subcategory/oral-surgery/patient-education/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
