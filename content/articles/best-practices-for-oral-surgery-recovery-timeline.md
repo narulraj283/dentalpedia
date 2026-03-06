@@ -23,259 +23,228 @@ references:
   - "Darby I, et al. Implant stabilization in grafted and non-grafted extraction sockets: 6-month data. J Periodontol. 2009;80(8):1297-1305."
 ---
 
-## Immediate Postoperative Phase (0-24 Hours)
+## The First 24 Hours: Critical Recovery Time
 
-**First 2-4 Hours (Anesthesia Dissipation Period)**:
+**When the numbness wears off (2-4 hours after surgery):**
 
-Local anesthesia (typically bupivacaine 0.5% with 1:200,000 epinephrine) provides anesthesia lasting 4-8 hours depending on injection volume, vascularity, and agent used. Complete anesthesia during this window (lips, tongue, cheeks feel thick and numb) prevents patient from inadvertently chewing soft tissues, which occurs in 3-5% of patients during numbness.
+Your mouth will be numb for 4-8 hours. Don't eat or drink while numb because you might bite your cheek or tongue accidentally (happens to 3-5% of people). Once sensation returns, avoid hot foods and drinks—your mouth is still numb-ish and can't sense burns.
 
-Instructions (provided in writing and verbally):
-- Do not eat or drink while numb (aspiration risk, inadvertent soft tissue trauma)
-- Avoid hot foods/beverages when sensation returns (burn risk from desensitized tissue)
-- Expect oozing of blood-tinged saliva; continuous oozing indicates active bleeding requiring pressure application
+Some oozing of blood-tinged saliva is completely normal for the first 2-4 hours. But if it keeps bleeding steadily, that's a problem.
 
-**Bleeding Control (0-12 Hours)**:
+**Controlling bleeding:**
 
-Minor oozing for 2-4 hours post-operatively is expected and normal. Persistent bleeding indicates active bleeding vessel requiring intervention:
+If bleeding continues:
+1. Bite gently on clean gauze with steady pressure for 30 minutes straight (no peeking!)
+2. If it's still bleeding after 30 minutes, bite on a moistened tea bag instead (the tannin helps clots form) for another 30 minutes
+3. If still bleeding, call your dentist—you might need a suture redone or the bleeding vessel cauterized
 
-1. Bite on sterile gauze with 30 grams pressure for 30 minutes continuously (no peeking to check; continuous pressure necessary)
-2. If bleeding persists after 30 minutes, apply moistened tea bag (tannic acid promotes clot formation) with 30 minutes pressure
-3. If still bleeding, contact dentist for re-evaluation (may require suture replacement or cauterization)
+Blood-thinning medications (like warfarin, aspirin) cause 2-3 times more bleeding. Your dentist should have discussed stopping these before surgery.
 
-Bleeding typically resolves by 6-12 hours post-operatively. Patients taking warfarin (Coumadin), apixaban (Eliquat), dabigatran (Pradaxa), or aspirin show 2-3 fold increased bleeding duration; cessation decisions should be made pre-operatively by prescribing physician.
+**Managing pain:**
 
-**Pain Management (0-12 Hours)**:
+Pain usually starts 2-4 hours after the numbness wears off as your body's inflammation response kicks in. Pain can range from barely noticeable (simple extraction) to moderate-severe (surgical extraction or implant).
 
-Post-operative pain typically manifests 2-4 hours after anesthesia dissipation, as inflammatory mediators (prostaglandins, cytokines, substance P) accumulate at surgical site. Pain severity ranges from minimal (simple extractions) to moderate-severe (surgical extractions, implant placement).
+**Best pain control:**
+- Ibuprofen 400-600 mg every 4-6 hours (max 2,400 mg daily) is preferred
+- If you need opioids: hydrocodone 5-7.5 mg every 4-6 hours (max 30 mg daily)—but avoid opioids if possible because they cause constipation, drowsiness, and risk of dependence
+- Combining ibuprofen + acetaminophen (500-650 mg) works better than either alone
+- Take pain meds before the numbness completely wears off for best results
 
-Analgesic protocol:
-- Non-opioid preferred: Ibuprofen 400-600 mg every 4-6 hours (maximum 2,400 mg/day)
-- If opioid necessary: Hydrocodone 5-7.5 mg every 4-6 hours (maximum 30 mg/day); avoid if possible (opioid-related complications: respiratory depression, constipation, cognitive impairment, abuse risk)
-- Peak effect timing: NSAIDs require 45-60 minutes post-ingestion; preemptive dosing before anesthesia wears off optimal (prevents pain peak)
+**Reducing swelling:**
 
-Combination therapy (NSAID + acetaminophen 500-650 mg) provides superior analgesia than either agent alone without exceeding safety limits.
+Swelling peaks 48-72 hours after surgery from inflammatory chemicals being released. Ice early reduces peak swelling by 25-35%.
 
-**Swelling Control (0-12 Hours)**:
-
-Swelling results from inflammatory mediator release (histamine, prostaglandins, bradykinin, TNF-α) triggering blood vessel dilation and increased capillary permeability. Maximum swelling occurs 48-72 hours post-operatively; early ice application reduces peak swelling by 25-35%.
-
-Ice application protocol:
-- First 24 hours: Ice 20 minutes, off 20 minutes (4-minute delay permits vessel dilation reversal)
-- Application: Face/neck exterior (not intraoral, which causes tissue damage)
-- Optimal timing: Begin within first hour post-operatively (preemptive effect most pronounced early)
+Ice protocol:
+- Ice 20 minutes, then take it off for 20 minutes
+- Apply to face/neck exterior only (never inside your mouth)
+- Start within the first hour if possible
 
 Expected swelling timeline:
-- Hours 0-24: Gradual increase from baseline
-- Hours 24-48: Peak swelling (may obstruct airway slightly if extensive surgery)
-- Days 3-7: Gradual resolution
-- 2+ weeks: Complete resolution of visible swelling
+- 0-24 hours: Gradually gets worse
+- 24-48 hours: Peaks (worst swelling)
+- 3-7 days: Gradually improving
+- 2+ weeks: Almost gone
 
-Swelling exceeding expected limits indicates possible complication (infection, hematoma); contact dentist if:
-- Intraoral swelling touching opposite teeth/preventing closure
-- Extraoral swelling obstructing vision or restricting mouth opening <20mm
-- Associated fever >101.5°F or pus drainage
+Call your dentist if swelling:
+- Touches your opposite teeth when you close your mouth
+- Blocks your vision or prevents opening your mouth 20mm
+- Comes with fever (>101.5°F) or pus
 
-**Activity Restrictions (0-24 Hours)**:
+**Rest and no activity:**
 
-Physical activity increases blood pressure, increasing bleeding and swelling. Complete rest recommended:
-- Avoid strenuous exercise, heavy lifting (>10 lbs), or exertion
-- Remain recumbent or semi-recumbent (head elevated on 2-3 pillows) for first 24 hours
-- No hot beverages (thermal injury to healing tissue, vessel dilation increasing bleeding)
+Skip exercise and heavy lifting today. Stay lying down with your head elevated on 2-3 pillows. Avoid hot drinks (they increase bleeding by dilating blood vessels and can burn healing tissue).
 
-## Early Postoperative Phase (Days 2-7)
+## Days 2-7: Early Healing Phase
 
-**Suture Removal Timing** (typically day 7-10):
+**Stitches come out around day 7-10:**
 
-Sutures provide wound-edge approximation for 7-10 days until adequate epithelialization occurs. Removal at <7 days risks wound dehiscence (separation); removal >14 days allows suture material incorporation with permanent inflammation response.
+Stitches hold your wound closed while new skin grows over it. If they come out before 7 days, your wound might split open. If they stay in longer than 14 days, they can cause inflammation. Take them out around day 7-10. If you see signs of infection (red, draining, itchy), tell your dentist—they might come out earlier.
 
-Complications indicating earlier removal:
-- Suture thread erosion through tissue (visible ulceration)
-- Purulent drainage suggesting infection
-- Suture allergy (rare; presents as intense itching/erythema around suture)
+**Cleaning your mouth (days 2-7):**
 
-Post-removal: Surgical site should be completely sealed epitheliologically (no open areas); if dehiscence evident, resuture and reassess.
+It's a tricky balance—you want clean but don't want to disrupt the blood clot protecting your wound.
 
-**Oral Hygiene During Healing** (Days 2-7):
+Days 2-3: Be very gentle
+- Don't brush the surgical area
+- Rinse very gently with warm salt water (1/2 teaspoon salt in 8 oz water) 3-4 times daily after eating
+- Don't swish hard or spit forcefully (you'll dislodge the clot)
 
-Complex balance between infection prevention (through cleanliness) and wound protection:
+Days 4-7: Slowly return to normal
+- Brush gently with a soft toothbrush away from the surgical site
+- Keep salt water rinsing
+- Don't floss or use interdental brushes near the extraction area yet
+- If infection seems possible, use chlorhexidine 0.12% rinse twice daily starting day 3
 
-*Days 2-3*: Avoid mechanical disruption
-- No brushing surgical site area (permits blood clot stability)
-- Gentle warm saline rinses (0.5 teaspoon salt per 8 oz water) 3-4 times daily after meals (mechanical cleansing without instrumentation)
-- Avoid vigorous rinsing/spitting (clot disruption risk)
+**Pain keeps getting better:**
 
-*Days 4-7*: Cautious hygiene resumption
-- Soft-bristled toothbrush with gentle technique in non-surgical areas
-- Saline rinses continuing
-- Avoid interdental cleaning in extraction socket region (maintain clot)
-- Chlorhexidine 0.12% rinses (start day 3, twice daily) if infection suspected or high-risk patient (diabetic, immunocompromised)
+Pain drops 40-50% from day 1 to day 2-7 as the initial inflammation settles.
 
-**Pain Management (Days 2-7)**:
+- Take ibuprofen 400-600 mg every 6 hours for days 2-5
+- Stop opioids by day 2-3 if possible
+- Quit ibuprofen by day 5-7 unless pain persists (which suggests infection or healing problems)
 
-Pain typically diminishes 40-50% from day 1-2 levels (due to decreased inflammation peak). NSAID continuation remains optimal:
+**What to eat:**
 
-- Ibuprofen 400-600 mg every 6 hours for days 2-5
-- Discontinue by day 5-7 unless persistent pain (suggests delayed healing or infection)
-- Opioid discontinuation by day 2-3 whenever possible
+Days 1-3: Liquids and soft foods
+- Water, juice, soup broth
+- Yogurt, applesauce, smoothies
+- Skip: hot foods (burn risk), spicy foods (irritation), hard foods (damage the socket), crunchy foods (food bits in the wound)
 
-**Diet Management**:
+Days 4-7: Add more soft foods
+- Mashed potatoes, eggs, fish, cottage cheese
+- Soft pasta, pudding
+- Still skip hot, hard, and spicy
 
-Soft, cool foods optimal:
-- Days 1-3: Liquids (water, juices, soup broth), yogurt, applesauce
-- Days 4-7: Soft foods (mashed potatoes, eggs, fish, cottage cheese)
-- Avoid: Hot foods (burns), spicy foods (irritation), hard foods (socket trauma), crunchy foods (food debris accumulation)
+Protein is crucial—your body needs at least 60-80g daily to rebuild tissues. Low protein delays healing 20-30%.
 
-Nutrition critical for healing—inadequate protein intake impairs collagen synthesis 20-30%, delaying closure. Target minimum 60-80g protein daily.
+**Watch for problems (days 2-7):**
 
-**Monitoring for Early Complications** (Days 2-7):
+**Dry socket (alveolar osteitis):**
+- Shows up as severe throbbing pain (7-9/10) starting day 3-4, often going to your ear
+- The socket looks white or dead instead of red and healthy
+- Happens in 2-5% of normal extractions, 25% of wisdom teeth
+- Caused by: excessive rinsing/spitting, smoking, aggressive surgery, or infection
 
-**Alveolar Osteitis** ("dry socket"): Occurs in 2-5% of routine extractions, up to 25% of wisdom tooth extractions. Presents as severe throbbing pain (7-9/10) beginning day 3-4 post-extraction, often radiating to ear. White/necrotic appearance visible in socket (loss of red granulation tissue).
+Treatment: Saline/chlorhexidine rinses to clean it out, medicated gauze packing in the socket (pain relief from zinc oxide, eucalyptus oil), NSAIDs work better than opioids. Re-pack every 48 hours until pain stops (usually 1-2 weeks).
 
-Mechanism: Premature fibrinolysis of blood clot from:
-- Excessive rinsing/spitting (mechanical clot disruption)
-- Dry socket risk 5-8 fold higher in smokers (impaired clotting cascade)
-- Trauma (aggressive socket curettage)
-- Infection (bacterial fibrinolytic enzyme production)
+Prevention: Don't rinse/spit for 3 days, rinse with chlorhexidine twice daily for 2 weeks before surgery if you're at risk, avoid smoking.
 
-Treatment:
-- Patient irrigation with saline/chlorhexidine rinses to remove necrotic debris
-- Iodoform gauze or alvogel (zinc oxide, eugenol, iodoform) packing in socket (promotes healing, pain relief via eugenol anesthetic effect)
-- Pain control: NSAIDs superior to opioids for dry socket (inflammatory pain mechanism)
-- Re-packing every 48 hours until pain resolution (typically 7-10 days)
+**Infection:**
+- Fever over 101.5°F starting day 3-5
+- Swelling that keeps getting worse (should peak day 3 and improve, not get worse)
+- Pus or foul-smelling drainage
+- Swollen lymph nodes in your neck
+- Red spreading from the surgery site
 
-Prevention superior to treatment:
-- Pre-operative chlorhexidine rinses (0.12% twice daily 2+ weeks pre-op)
-- Avoid smoking/NSAIDs >1 week pre-surgery (NSAIDs impair platelet aggregation)
-- Careful operative technique (minimize trauma)
-- Post-operative instructions emphasizing no rinsing/spitting for 3+ days
+Treatment: Call your dentist immediately for a culture. You'll likely get:
+- Amoxicillin 500 mg three times daily, OR
+- Amoxicillin-clavulanate 500 mg three times daily, OR
+- Clindamycin 300 mg three times daily if allergic to penicillin
+Take for 7-10 days. If redness spreads to your skin, you might need IV antibiotics in a hospital.
 
-**Infection**: Presents day 3-5 with:
-- Fever (>101.5°F)
-- Increasing swelling (peak expected by day 3, but continued increase = infection)
-- Purulent drainage
-- Lymphadenopathy (submandibular node enlargement)
-- Spreading erythema
+**Hematoma (blood collection under the skin):**
+- Swelling with blue-purple discoloration
+- This is just blood that oozed into tissues (not dangerous)
+- Colors progress: blue-purple (days 1-3) → green (days 4-6) → yellow (days 7-10) as your body breaks down the blood
+- Usually no treatment needed—it resorbs on its own
+- Watch for infection since blood creates a low-oxygen environment bacteria love
+- Rarely needs draining if painful
 
-Treatment:
-- Bacterial culture (from purulent drainage) guides antibiotic selection
-- Empiric: Amoxicillin 500 mg three times daily OR amoxicillin-clavulanate 500 mg three times daily (7-10 day course)
-- Penicillin-allergic: Clindamycin 300 mg three times daily
-- Assess for associated cellulitis (spreading skin erythema); if present, may require IV antibiotics (hospitalization)
+## Weeks 2-4: Getting Back to Normal
 
-**Hematoma**: Swelling with blue-purple discoloration (venous oozing into tissues) indicates blood accumulation. Treatment:
-- Expect color gradual progression: blue-purple (days 1-3) → green (days 4-6) → yellow (days 7-10) as hemoglobin metabolized
-- No specific treatment needed (self-limiting); allow resorption
-- Monitor for infection (hematomas create hypoxic environment favoring bacterial growth)
-- Rarely requires aspiration if painful tension develops
+**Week 2:**
+- Your surgical site is sealed up with new skin
+- The tissues below are reorganizing
+- Pain is minimal
+- Stitches come out (if you still have them)
+- You can chew about 50-60% normally
 
-## Intermediate Postoperative Phase (Weeks 2-4)
+**Weeks 3-4:**
+- Tissues are maturing underneath
+- Bone starts remodeling at the edges
+- You can chew 75-85% normally
+- Sensation returns to normal
 
-**Healing Progression Timeline**:
+**Activity timeline:**
+- Week 1: Light activity, no exercise
+- Week 2: Walking and gentle movement okay
+- Weeks 3-4: Jogging and low-impact aerobics fine, but no heavy lifting or intense strength training yet
+- Week 4+: Most activities okay
+- Contact sports: Wait 4-6 weeks to avoid re-injury from impact
 
-**Week 2**:
-- Surface epithelialization complete (socket sealed; no exposed bone visible)
-- Granulation tissue reorganizes into fibrous tissue
-- Pain absent or minimal
-- Sutures removed (if present)
-- Chewing functionality 50-60% restored
+## Months 2-24: Long-Term Healing
 
-**Week 3-4**:
-- Fibrous tissue maturation continues (deep socket layers still organizing)
-- Bone remodeling begins at socket margins
-- Chewing functionality 75-85% restored
-- Complete tissue sensation normalized
+**Your bone changes for 18-24 months:**
 
-**Activity Resumption Timeline**:
+When your tooth comes out, your body fills the socket with bone. But here's what happens:
 
-- Week 1: Continue light activity; no exertion
-- Week 2: Gentle exercise permitted (walking, low-impact)
-- Week 3-4: Progressive activity resumption; strenuous exercise (running, weight lifting >25 lbs) permissible by week 4
-- Sport-specific: Contact sports restriction to week 4-6 (risk of reinjury via impact/trauma)
+Weeks 0-4: Blood clot fills the space
+Weeks 4-12: New bone forms fast (75-80% of socket fills)
+Weeks 12-24: Bone matures and reorganizes
+Months 6+: Slow changes continue; stable by 1 year
 
-## Late Postoperative Phase (Weeks 4-6 and Beyond)
+The socket height drops 4-6mm normally as bone resorbs. Resorption happens faster if:
+- Your roots were large (bigger hole to fill)
+- You're over 60 years old
+- You have osteoporosis
+- You smoke
 
-**Bone Healing and Remodeling**:
+**If you're getting an implant:**
 
-Extraction socket undergoes 18-24 month remodeling process:
+The bone integration process (called osseointegration):
+- Weeks 1-4: Initial blood clot forms
+- Weeks 4-8: New bone starts forming
+- Weeks 8-12: Bone grows around the implant
+- Months 3-6: Mature bone forms
 
-**0-4 weeks**: Clot removal, fibrin granulation tissue formation
-**4-12 weeks**: Rapid bone formation (woven bone), 75-80% socket filling
-**12-24 weeks**: Bone maturation, lamellar bone deposition, socket height reduction 4-6mm (normal resorption)
-**6+ months**: Continued slow resorption; ridge height stable by 12 months
+Most people wait 3-6 months for implants because it gives bone time to settle while staying strong enough for the implant. Lower jaw implants integrate faster (8-12 weeks) than upper jaw (12-16 weeks) because lower jaw bone is denser.
 
-Resorption rate increases with:
-- Tooth size (larger roots = larger sockets = greater resorption)
-- Age (older patients >60 years show 2-3 fold increased resorption)
-- Bone density (patients with osteoporosis show accelerated resorption)
-- Smoking (impairs bone healing 20-30%)
+Sometimes dentists place implants immediately (within 24 hours), but only for select cases with excellent bone and very skilled surgeons. Success rates are lower with this approach.
 
-Implications:
-- Implant placement timing: 3-6 months post-extraction allows initial socket healing while maintaining adequate bone volume
-- Immediate implant placement: Less resorption but requires ≥4mm residual bone width for stability
-- Alveolar ridge preservation: Bone graft placed at extraction (demineralized bone matrix, allograft, or allograft-DBM) reduces subsequent resorption 30-50%
+## Complications That Might Happen Later
 
-**Implant Osseointegration Timeline** (if implant placed):
+**Wound opening (dehiscence):**
 
-Osseointegration—direct bone contact with implant surface—occurs in sequential phases:
+Sometimes the wound splits apart after stitches come out. Small openings (less than 3mm) usually heal on their own. Bigger openings need to be restitched.
 
-**Weeks 1-4**: Clotting cascade, inflammatory phase, fibrin matrix formation
-**Weeks 4-8**: Bone cell recruitment, initial mineralization (woven bone)
-**Weeks 8-12**: Continued mineralization, vascular ingrowth, lamellar bone formation begins
-**Months 3-6**: Mature lamellar bone formation, primary stability transitions to secondary stability (bone compliance increases force transmission)
+**Numbness (paresthesia):**
 
-Clinical timeline:
-- Immediate loading (prosthetics on implant within 24 hours): Only for specific conditions with highly trained surgeons; ~5% implant failure rate if executed incorrectly versus standard protocol
-- Early loading (2-4 weeks post-placement): Select cases with excellent bone density and surgical technique; 2-3% failure rate
-- Conventional loading (3-6 months post-placement, depending on bone quality and implant design): Standard protocol; 1-2% failure rate
-- Mandibular implants: Osseointegrate faster (8-12 weeks) than maxillary (12-16 weeks) due to superior bone density
+Temporary numbness happens in:
+- 5-10% of regular extractions (almost always goes away)
+- 20-35% of wisdom tooth extractions (80-90% temporary)
+- Less than 5% of implant surgery
 
-## Delayed Complications (Beyond 1 Week)
+Numbness usually shows up immediately after surgery and clears within 3-7 days. Numbness that starts 1-2 weeks later means the nerve is compressed or inflamed—usually resolves in 4-8 weeks. Numbness lasting over 8 weeks might be permanent.
 
-**Wound Dehiscence**: Suture failure, premature suture removal, or re-trauma causes surgical site reopening.
+If numbness persists over 6 months, your surgeon might evaluate for nerve repair, but it only works 60% of the time if delayed.
 
-Presentation: Visible gap between wound edges, possible gaping 2-3mm
+**Sinus opening (after upper tooth extractions):**
 
-Management:
-- Small dehiscence (<3mm): Often heals secondarily (delayed epithelialization) without intervention; monitor for infection
-- Large dehiscence (>3mm): Resuture and allow healing
+When you extract upper back teeth, sometimes the extraction socket opens into your sinus cavity. This happens in 10-30% of upper back tooth removals.
 
-**Paresthesia** (numbness/altered sensation): Temporary or permanent nerve dysfunction occurs in:
-- 5-10% of routine extractions (temporary in >95%)
-- 20-35% of lower wisdom tooth extractions (temporary in 80-90%)
-- <5% of implant surgeries
+Small openings (3-4mm) close by themselves 85-90% of the time. Bigger ones might need surgical closure.
 
-Timing:
-- Immediately post-operative: Due to local anesthesia/mechanical nerve trauma (resolves 3-7 days as anesthesia clears)
-- 1-2 weeks post-op: Indicates nerve compression/inflammation; typically resolves within 4-8 weeks
-- >8 weeks post-op: May indicate permanent nerve injury; prognosis for recovery diminishes
+Don't rinse aggressively or use water picks—let it heal naturally. If you get sinus infection symptoms (fever, foul-smelling drainage, face swelling), see an ear-nose-throat doctor.
 
-Management: Observe for improvement; spontaneous resolution occurs in 80-90% within 2-3 months. If persistent >6 months, referral to oral surgeon for evaluation; nerve repair rarely indicated (success rates <60% if delayed >3 months)
+**Dry socket that won't quit:**
 
-**Sinus Perforation** (after maxillary extractions): Happens in 10-30% of maxillary molar extractions (higher if teeth had large roots extending into sinus). Presents with:
-- Nasal debris visibility in socket
-- Air flow sensation through socket (patient notices air escaping into mouth/nose when applying pressure)
+Occasionally dry socket symptoms continue over 2 weeks despite treatment. Keep rinsing with saline/chlorhexidine and get medicated packing every 3-5 days until pain stops (usually by 3-4 weeks). Rarely needs additional surgery.
 
-Prognosis:
-- Small perforations (<3-4mm): Close spontaneously in 85-90% of cases via blood clot epithelialization
-- Large perforations (>5mm): May require buccal flap closure (rotational flap covering defect)
+## Activity Return-to-Normal Guide
 
-Management: Avoid water irrigation/forceful rinsing; allow 4-6 weeks for spontaneous closure. If sinus infection develops (fever, foul-smelling drainage, facial swelling), referral to ENT/surgeon for evaluation.
+- Day 1: Bed rest, head elevated
+- Days 2-3: Light activity sitting down, no walking over 30 minutes
+- Days 4-7: Walking is fine, but avoid exertion
+- Week 2: Light exercise (walking, gentle stretching), no weight training
+- Weeks 3-4: Moderate activity (jogging, aerobics), light weights under 15 lbs
+- Week 4+: Full activity, including contact sports once pain-free
 
-**Dry Socket Persistence** (beyond 10-14 days): Occasionally, symptoms persist >2 weeks despite treatment.
+## Final Summary
 
-Management: Continued socket irrigation with saline/chlorhexidine, periodic alvogel packing every 3-5 days until symptoms resolve (typically by 3-4 weeks). Rarely requires socket re-opening/curettage.
+Recovery happens in stages: the first day controls bleeding and manages numbness; days 2-7 protect the wound and watch for problems; weeks 2-4 let you return to normal activities; months 2-24 your bone remodels and settles.
 
-## Return-to-Normal Activities Guide
+Main problems to watch for: dry socket (severe pain day 3-4), infection (fever, pus, swelling), and bleeding. All these are manageable with proper prevention and care.
 
-| Timeline | Activity |
-|----------|----------|
-| Day 1 | Complete rest, head elevated |
-| Days 2-3 | Light activity, seated; no walking >30 minutes |
-| Days 4-7 | Walking permitted; avoid exertion |
-| Week 2 | Light exercise (walking, stretching); no resistance training |
-| Week 3-4 | Moderate exercise (jogging, low-impact aerobics); weight training <15 lbs |
-| Week 4+ | Unrestricted activity; contact sports if pain-free |
+Pain is best controlled with NSAIDs like ibuprofen, not opioids. Bone naturally shrinks 4-6mm over the first 6 months—that's normal. If you're getting an implant, most dentists wait 3-6 months for best results.
 
-## Conclusion
-
-Postoperative recovery follows predictable timeline: immediate phase (0-24 hours) focuses on bleeding control and anesthesia monitoring; early phase (days 2-7) emphasizes wound protection and infection prevention; intermediate phase (weeks 2-4) involves activity resumption and pain resolution; late phase extends 6-24 months for complete bone healing and remodeling. Dry socket (alveolar osteitis), infection, and bleeding are primary early complications managed through preventive pre-operative protocols and appropriate post-operative care. Pain management emphasizes NSAIDs over opioids. Bone resorption of 4-6mm is normal over first 6 months; greater resorption suggests risk factors (smoking, osteoporosis, advanced age). Osseointegration following implant placement requires 3-6 months depending on bone quality and implant design. Close adherence to post-operative instructions and regular follow-up examination optimize healing and functional recovery.
+Follow your dentist's instructions carefully, go to all follow-up appointments, and tell your dentist immediately if anything feels wrong. Most people heal smoothly without complications.

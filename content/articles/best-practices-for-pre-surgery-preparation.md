@@ -23,98 +23,86 @@ references:
   - "Claes L, Recum AF. Fracture healing under the influence of mechanical stability. Clin Orthop Relat Res. 1998;355:S204-S214."
 ---
 
-## Medical History Assessment and Optimization
+## Getting Your Health Ready
 
-**Comprehensive Medical Questionnaire**: Complete medical history assessment begins weeks before scheduled surgery when possible. Clinicians should ask about: prior surgical complications (excessive bleeding, delayed healing, infection), anesthetic reactions (particularly malignant hyperthermia), cardiovascular conditions (hypertension, angina, myocardial infarction history, arrhythmias), respiratory conditions (asthma, COPD), metabolic conditions (diabetes, thyroid disorders), autoimmune conditions, bleeding disorders, and current medications including supplements and herbal products.
+Starting 2-4 weeks before surgery, your surgical team will ask about your medical history. They want to know about: any previous problems with bleeding or healing, allergies or reactions to anesthesia, heart problems, high blood pressure, asthma or lung issues, diabetes, thyroid problems, and any medications or supplements you take. Be honest and detailed—don't skip anything you think is unrelated because it might matter.
 
-Detailed medication history including dosing, frequency, and indication is essential. Patients often omit medications they believe "unrelated" to surgery; clinicians must specifically ask about: anticoagulants (warfarin, DOACs, aspirin), antiplatelets (clopidogrel, ticlopidine), NSAIDs, antihypertensives, antiarrhythmics, corticosteroids, anticonvulsants, and herbal products (particularly products affecting hemostasis like ginkgo, garlic, ginger, omega-3 fish oil).
+Tell them about ALL your medications, even ones you think are minor. This includes blood thinners (like warfarin or aspirin), blood pressure medications, diabetic medications, corticosteroids, and supplements. Certain medications interact with surgery and anesthesia, so your surgical team needs to know everything.
 
-**Cardiovascular Risk Assessment**: Patients with history of myocardial infarction, coronary artery disease, arrhythmias, or substantial cardiac risk factors require cardiovascular risk assessment. Current guidelines recommend EKG in patients >55 years with significant cardiac disease or multiple cardiac risk factors. Patients with recent myocardial infarction (<6 months) require clearance from cardiologist; procedures should be deferred minimum 6 weeks post-infarction (ideally >12 weeks) unless absolutely emergent.
+## Your Heart and Lungs
 
-Blood pressure should be assessed at pre-operative visit; elevated BP (systolic >180 mmHg or diastolic >110 mmHg) warrants deferral of elective procedures pending BP control. Hypertensive patients on chronic medications should continue antihypertensive therapy morning of surgery; abrupt discontinuation increases cardiovascular complications risk.
+If you've had a heart attack or have heart disease, your surgeon might order an EKG. If you had a recent heart attack, they'll probably want clearance from your cardiologist before doing elective surgery—definitely wait at least 6 weeks, ideally 12 weeks.
 
-**Diabetes and Glycemic Control**: Diabetic patients require assessment of current glycemic control. Fasting glucose >250 mg/dL (or random glucose >300 mg/dL) indicates suboptimal control warranting preoperative glucose management optimization. Hyperglycemia impairs immune function, reduces collagen synthesis, and increases infection risk 3-4 fold. Perioperative glucose targets of 140-180 mg/dL demonstrate optimal balance between hyperglycemia complications and hypoglycemia risk.
+If your blood pressure is super high (systolic above 180 or diastolic above 110), elective surgery gets postponed until it's better controlled. Keep taking your blood pressure medications the morning of surgery unless your surgeon says otherwise.
 
-Type 1 diabetic patients should check fasting glucose morning of surgery and adjust insulin accordingly (typically 50% dose reduction morning of surgery with monitoring). Type 2 diabetic patients on oral medications should hold metformin morning of surgery (particularly with procedures involving radiographic contrast or extended fasting) due to lactic acidosis risk; other oral agents typically continue. Patients on insulin should be advised to check glucose prior to surgery and adjust dosing.
+If you have asthma, bring your rescue inhaler (just in case, though you usually won't need it for dental surgery). If you have COPD and use home oxygen, keep using it.
 
-**Respiratory Assessment**: Patients with asthma history should bring rescue inhalers to procedures (though rescue inhalers are generally not needed for local anesthetic procedures). Patients with COPD on home oxygen should continue oxygen therapy; clinicians should be prepared to provide supplemental oxygen during and after procedures as needed.
+## Diabetes Management
 
-## Medication Management Perioperatively
+If you have diabetes, get your blood sugar under control before surgery. High blood sugar impairs healing and increases infection risk 3-4 times. Ideally, aim for fasting glucose between 140-180 mg/dL on surgery day.
 
-**Anticoagulant and Antiplatelet Management**: Patients on warfarin anticoagulation for atrial fibrillation, venous thromboembolism, or mechanical valves require individualized management. For minor oral surgery (extractions, implant placement), continuing warfarin typically proves safer than discontinuation because thromboembolism risk exceeds bleeding risk. INR should be assessed within 24 hours of elective surgery; target INR of 2-4 is acceptable for minor oral surgery. Most minor oral bleeding is controlled through local measures (pressure, hemostatic agents, sutures).
+If you're Type 1, check your fasting glucose the morning of surgery and usually cut your insulin dose in half. If you're Type 2 on oral medications, typically hold metformin the morning of surgery but continue other medications. Ask your surgeon specifically about your medications.
 
-For procedures carrying higher bleeding risk (extensive osseous surgery, implant placement requiring substantial bone removal), warfarin continuation versus temporary discontinuation should be discussed with patient's cardiologist. If warfarin is discontinued, bridging anticoagulation (enoxaparin 40 mg twice daily subcutaneously) is often used 48 hours before and after surgery.
+## Blood Thinners and Bleeding Risk
 
-Patients on aspirin (81-325 mg daily) for cardiovascular prophylaxis should continue aspirin preoperatively and postoperatively. Aspirin provides antiplatelet benefit and should not be discontinued for minor oral surgery (discontinuation increases cardiovascular risk >3 fold, while bleeding risk increase is modest). NSAIDs interfere with aspirin's antiplatelet effect; if NSAIDs are needed postoperatively, timing should ensure NSAID administration after aspirin dose intervals allowing aspirin effect to persist.
+This is important: most people on blood thinners should KEEP taking them for minor oral surgery. Stopping them increases blood clot risk, which is worse than having a little extra bleeding. Your surgeon will handle the bleeding with local methods (pressure, stitches, hemostatic agents).
 
-Direct oral anticoagulants (DOACs: apixaban, rivaroxaban, dabigatran, edoxaban) should generally continue perioperatively. These agents are rapidly reversible (unlike warfarin) and continuation typically proves preferable for minor oral surgery. Specific agent should be identified and dosing/timing confirmed with patient's provider.
+If you're on aspirin for heart health, keep taking it. NSAIDs can interfere with aspirin, so if you need pain medication after surgery, timing matters—take NSAIDs at different times than aspirin.
 
-**Clopidogrel (Plavix) and Ticlopidine**: These antiplatelet agents should generally continue through minor oral surgery unless specifically instructed by cardiologist to discontinue. Premature discontinuation increases acute stent thrombosis risk dramatically (10-25 fold increase in first weeks after discontinuation). Continuing these agents increases bleeding risk modestly but acceptably for minor oral surgery.
+If you're on warfarin, your surgeon will want your INR checked within 24 hours of surgery. An INR of 2-4 is acceptable for dental surgery.
 
-**Corticosteroid Supplementation**: Patients on chronic corticosteroid therapy (oral prednisone or equivalent) require perioperative supplementation due to suppressed adrenal function. Patients on corticosteroids >7.5 mg daily equivalent for >2 weeks have suppressed HPA axis and require supplemental corticosteroids. Guidelines recommend adding 25 mg hydrocortisone IV immediately preoperatively for minor surgical procedures, continued postoperatively if extended recovery period anticipated.
+If you're on newer blood thinners (like apixaban or rivaroxaban), usually just continue them. Confirm with your surgeon and your cardiologist.
 
-**NSAID Therapy Continuation**: NSAIDs should generally be held 24-48 hours preoperatively if possible due to increased bleeding risk. However, abrupt NSAID discontinuation in patients with arthritis, rheumatologic conditions, or chronic pain may worsen symptoms. If NSAIDs are continued preoperatively, timing to allow 24-48 hours washout before surgery is preferable; if washout is impossible, increasing perioperative hemostasis measures (local anesthetics with epinephrine, hemostatic agents, sutures) compensates for slightly increased bleeding risk.
+## Special Medications
 
-## Antimicrobial Prophylaxis
+If you take steroids (like prednisone) regularly, your surgeon might add extra steroid coverage during surgery. If you take blood pressure medications, keep taking them the morning of surgery with just a sip of water.
 
-**Indication for Prophylaxis**: Healthy patients undergoing minor oral surgery (routine extractions, simple procedures) do not require systemic antibiotic prophylaxis; local antimicrobial measures (chlorhexidine rinse, gentamicin-soaked gauze) provide adequate infection prevention. Patients with significant medical comorbidities (diabetes, severe immunosuppression, history of rheumatic heart disease, orthopedic implants, cardiac prostheses) require consideration of antimicrobial prophylaxis.
+NSAIDs increase bleeding risk, so ideally stop them 24-48 hours before surgery if possible. But if you have bad pain or arthritis, talk to your surgeon—the bleeding risk isn't huge for minor procedures.
 
-**Prophylactic Antibiotic Selection**: For patients requiring prophylaxis, amoxicillin (2 grams orally 1 hour before procedure) or clindamycin (600 mg orally 1 hour before procedure for penicillin-allergic patients) provide effective prophylaxis with excellent oral tissue penetration. Single preoperative dose provides adequate prophylaxis; post-operative antibiotics add minimal additional benefit for minor procedures and increase adverse effects risk.
+## Who Gets Antibiotics?
 
-**High-Risk Patients Requiring Specialized Prophylaxis**: Patients with valvular heart disease, prosthetic joints, cardiac prostheses, or significant immunosuppression may require more extensive prophylaxis. Guidelines recommend consulting with patient's cardiologist or orthopedic surgeon regarding specific prophylaxis protocols for these patients.
+Healthy people getting simple extractions don't need antibiotics before surgery. But if you have diabetes, a weak immune system, prosthetic joints, heart valve problems, or a history of heart infections, antibiotics are usually recommended. If you need them, typically one dose of amoxicillin (2 grams) or clindamycin (600 mg for penicillin allergy) one hour before surgery is enough.
 
-## Hematologic Assessment
+## Bleeding Tests
 
-**Bleeding Disorder Screening**: Patients with personal or family history of excessive bleeding, easy bruising, or prolonged bleeding after dental treatment require hematologic assessment before surgery. Screening CBC (platelet count), PT/INR, and PTT help identify coagulopathies before surgery. Patients with platelet counts <50,000 are at increased operative bleeding risk; procedures should be deferred pending evaluation and possible platelet transfusion.
+If you or your family has a history of excessive bleeding or bruising, your surgeon will order blood tests to check your clotting ability. If your blood cells are very low, surgery gets rescheduled.
 
-**Hemoglobin and Hematocrit**: Patients with significant anemia (hemoglobin <10 g/dL) should be evaluated preoperatively and hemoglobin optimized if possible. Moderate anemia (hemoglobin 10-12 g/dL) is generally well-tolerated for routine oral procedures but warrants consideration and discussion.
+## Don't Eat Before Surgery
 
-## Fasting Guidelines
+If you're getting general anesthesia or sedation, you typically can't eat or drink for 6 hours before surgery, and nothing to drink for 2-3 hours before. For local anesthesia only, you can eat and drink normally—some surgeons even recommend a light snack an hour before to prevent low blood sugar during long procedures.
 
-**NPO (Nothing by Mouth) Requirements**: Standard NPO guidelines recommend 6 hours minimum fasting from solid foods and 2-3 hours from clear liquids before general anesthesia or IV sedation. For local anesthesia procedures, eating and drinking can continue as normal; some clinicians recommend light snack 1-2 hours preoperatively to prevent hypoglycemia during extended procedures.
+Essential medications (blood pressure meds, seizure meds, heart meds) should be taken the morning of surgery with just a sip of water, even if you're fasting.
 
-**Medication Timing with Fasting**: Essential medications (antihypertensives, antiarrhythmics, seizure medications) should be taken with minimal water (sip only) morning of surgery despite NPO status. Medications that should be held morning of surgery: metformin (lactic acidosis risk with procedures), NSAIDs if possible (increased bleeding risk), and certain other agents as individualized.
+## Quit Smoking NOW
 
-## Smoking and Oral Health Optimization
+Smoking delays healing by 20-30% and increases infection risk 2-3 times. Quit NOW, at least 2 weeks before surgery (4 weeks is even better). If you're going to smoke, at least taper down. Nicotine patches or gum help, though they maintain some blood vessel constriction.
 
-**Smoking Cessation**: Smoking substantially impairs surgical healing, increasing infection risk 2-3 fold and delaying healing 20-30%. Patients should be strongly encouraged to abstain from smoking for minimum 2 weeks preoperatively; ideally 4 weeks or longer. Smoking cessation advice should be provided in writing with resources and encouragement. Nicotine replacement therapy may be considered, though nicotine gum/patches maintain some vasoconstriction effects.
+## Clean Your Teeth Really Well
 
-**Oral Hygiene Enhancement**: Patients should be instructed to perform enhanced oral hygiene (3-minute brushing twice daily, daily interdental cleaning, chlorhexidine rinses if available) for 1-2 weeks preoperatively. Superior preoperative oral hygiene reduces pathogenic bacteria and decreases infection risk 20-30%.
+Brush for 3 minutes twice daily, floss daily, and ideally get a professional cleaning 2-7 days before surgery (but not the day before—this can increase bleeding). Great oral hygiene reduces bacteria and decreases infection risk 20-30%.
 
-**Plaque and Calculus Removal**: Professional scaling performed 2-7 days preoperatively (not immediately before surgery to allow gingival inflammation to resolve) reduces bacterial load and decreases infection risk. Scaling within 24 hours of surgery may increase operative bleeding from gingival inflammation.
+## Managing Anxiety
 
-## Psychological Preparation and Anxiety Management
+It's normal to be nervous. Tell your surgeon if you're anxious. They can give you a sedative medication (like midazolam) 30-45 minutes before surgery, or use nitrous oxide during the procedure—both reduce anxiety by 30-40%. Knowing what to expect helps too. Ask your surgeon to explain the sounds and sensations you'll experience.
 
-**Anxiety Assessment and Discussion**: Dental anxiety is common, with 5-15% of patients experiencing severe anxiety affecting surgical outcomes. Anxious patients may have elevated stress hormones increasing bleeding risk and pain perception. Preoperative anxiolytic medications, reassurance, and discussion of operative procedures reduce anxiety and optimize outcomes.
+## Day Before Surgery
 
-**Preparation Discussion**: Explaining expected sensations (pressure, vibration, sounds) during surgery without dwelling on potentially anxiety-provoking details helps patients develop realistic expectations. Emphasizing that local anesthesia will prevent pain (though patient may feel pressure or hear instruments) reassures patients. Discussing expected postoperative symptoms (swelling, bruising, discomfort) normalizes recovery and prevents post-operative distress.
+Shower or bathe with regular soap and water. For mouth surgery, special antimicrobial scrubs don't add much benefit, so skip them. Don't shave the surgical area (microabrasions can harbor bacteria); if you need hair removed, clip it instead.
 
-**Anxiolytic Medication Options**: For patients with significant anxiety, oral midazolam (0.25-0.5 mg/kg, maximum 20 mg) administered 30-45 minutes preoperatively provides excellent anxiolysis. Alternatively, nitrous oxide inhalation (50% N₂O: 50% O₂ mixture) combined with local anesthesia reduces anxiety and pain perception 30-40%. These sedation options are appropriate for outpatient procedures and do not require intubation.
+Wear comfortable, loose clothing. Remove jewelry, piercings, and anything metal because it can interfere with monitoring equipment or cause burns during surgery. Hospital policies require removal anyway.
 
-## Physical Preparation Day Before Surgery
+Arrange your ride home NOW. If you're getting sedation or general anesthesia, you cannot drive afterward due to residual grogginess. You need someone to drive you or you need to arrange a taxi/rideshare.
 
-**Surgical Site Preparation**: Patients should bathe or shower the day before surgery using normal soap and water. Specialized antimicrobial scrubs (chlorhexidine or povidone-iodine) add minimal benefit for intraoral procedures. Hair clipping (not shaving, which creates microabrasions harboring bacteria) may be performed if extensive extraoral incisions are planned; shaving should be deferred to preoperative preparation.
+## Arrival and Final Checks
 
-**Clothing and Accessories**: Patients should wear comfortable, loose-fitting clothing to surgical appointments. Jewelry (ear rings, necklaces, rings, body piercings) should be removed preoperatively; hospital policies typically require removal anyway. Metal items may interfere with monitoring equipment or cause burns during electrosurgery if left in place.
+Arrive 15-30 minutes early for check-in. They'll review your consent form, confirm you fasted (if required), take your vital signs, and make sure you brought required documents. Your blood pressure and temperature will be checked. If BP is super high or you have a fever, they might postpone surgery.
 
-**Arrangements for Discharge**: Patients undergoing conscious sedation or general anesthesia cannot drive postoperatively due to residual sedation effects. Discharge arrangements (friend, family member, taxi, rideshare) must be confirmed preoperatively. Patients should be instructed that they cannot legally or safely operate vehicles for remainder of day after sedation procedures.
+## Special Situations
 
-## Pre-operative Arrival and Verification
+If you're immunocompromised (HIV, on immunosuppressants, or undergoing chemotherapy), you'll probably need antibiotics for 7-10 days after surgery instead of just one dose before.
 
-**Arrival Timing**: Patients should arrive 15-30 minutes before scheduled procedure time to allow check-in and final preparations. Excessive early arrival creates unnecessary wait time; excessive late arrival risks procedure delay or cancellation.
+If you're pregnant, elective surgery should wait until after delivery. Emergent surgery (infection, trauma) can happen, ideally in the second trimester when organogenesis is done and you're still comfortable.
 
-**Consent Verification**: Informed consent should be completed preoperatively, confirming patient understanding of procedure, expected outcomes, risks, benefits, and alternatives. Consent should verify that patient has fasted appropriately (if required), brought required documentation, and arranged transportation.
+## The Bottom Line
 
-**Final Vital Signs**: Blood pressure, heart rate, respiratory rate, and temperature should be assessed immediately preoperatively. Elevated BP warrants discussion with patient regarding anxiety level; persistent BP elevation >180/110 mmHg may warrant procedure deferral. Fever may indicate infection and warrant deferral of elective procedures pending medical evaluation.
-
-## Special Situations and Considerations
-
-**Immunocompromised Patients**: Patients with HIV, immunosuppressive therapy for transplant or rheumatologic conditions, or chemotherapy require extended antibiotic prophylaxis (typically 7-10 days postoperatively rather than single preoperative dose). Procedures should be scheduled when absolute neutrophil count is adequate if chemotherapy schedule permits.
-
-**Severe Systemic Disease**: Patients with American Society of Anesthesiologists (ASA) score of 4 or higher (severe systemic disease limiting activity) typically require hospital-based surgical procedures with appropriate monitoring capability rather than office-based oral surgery.
-
-**Pregnancy Considerations**: Elective procedures should be deferred until postpartum period. Emergent procedures (infection, trauma) can be performed during pregnancy but should be scheduled for second trimester when organogenesis is complete and patient is still relatively comfortable. Supine positioning should be avoided after first trimester due to aortocaval compression risk; left lateral tilt positioning is preferable.
-
-## Conclusion
-
-Comprehensive preoperative assessment and optimization 2-4 weeks before scheduled surgery substantially reduces perioperative complications and optimizes outcomes. Medical history assessment, medication management, antimicrobial prophylaxis when indicated, hematologic screening for high-risk patients, and psychological preparation facilitate successful surgical outcomes. Detailed patient instruction regarding fasting, smoking cessation, oral hygiene enhancement, and discharge arrangements ensure safe and efficient surgical delivery with minimal complications. Clinicians should recognize that preoperative preparation time invested yields substantial dividends in improved outcomes and patient satisfaction.
+Prep work before surgery sets you up for success. Fill out all forms completely and honestly, manage your medical conditions, take medications as directed, stop smoking, and arrange your ride home. The time and effort spent preparing dramatically improves your recovery and reduces complications. You've got this!
