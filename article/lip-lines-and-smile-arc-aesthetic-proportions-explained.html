@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#the-science-and-art-of-smile-aesthetics">The Science and Art of Smile Aesthetics</a></li><li><a href="#smile-arc-definition-and-clinical-significance">Smile Arc: Definition and Clinical Significance</a></li><li><a href="#incisor-display-at-rest-and-during-smile">Incisor Display: At Rest and During Smile</a></li><li><a href="#buccal-corridors-the-role-of-negative-space">Buccal Corridors: The Role of Negative Space</a></li><li><a href="#gingival-display-and-smile-proportion">Gingival Display and Smile Proportion</a></li><li><a href="#lip-line-classification-and-treatment-implications">Lip Line Classification and Treatment Implications</a></li><li><a href="#vertical-dimension-and-incisor-to-canine-relationships">Vertical Dimension and Incisor-to-Canine Relationships</a></li><li><a href="#maxillary-molar-position-and-posterior-display">Maxillary Molar Position and Posterior Display</a></li><li><a href="#color-contour-and-texture-in-smile-design">Color, Contour, and Texture in Smile Design</a></li><li><a href="#digital-smile-design-and-treatment-planning">Digital Smile Design and Treatment Planning</a></li><li><a href="#smile-design-integration-with-comprehensive-treatment">Smile Design Integration with Comprehensive Treatment</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/lip-lines-and-smile-arc-aesthetic-proportions-explained.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -264,34 +263,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

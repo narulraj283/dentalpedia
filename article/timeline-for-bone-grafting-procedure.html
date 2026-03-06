@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#bone-graft-healing-phases-and-timeline">Bone Graft Healing Phases and Timeline</a></li><li><a href="#graft-material-classification-and-characteristics">Graft Material Classification and Characteristics</a></li><li><a href="#immediate-post-operative-phase-0-3-days">Immediate Post-Operative Phase (0-3 Days)</a></li><li><a href="#inflammatory-phase-3-7-days">Inflammatory Phase (3-7 Days)</a></li><li><a href="#revascularization-phase-1-4-weeks">Revascularization Phase (1-4 Weeks)</a></li><li><a href="#new-bone-formation-phase-4-12-weeks">New Bone Formation Phase (4-12 Weeks)</a></li><li><a href="#graft-maturation-phase-3-9-months">Graft Maturation Phase (3-9 Months)</a></li><li><a href="#implant-placement-timing">Implant Placement Timing</a></li><li><a href="#guided-bone-regeneration-gbr-and-barrier-membranes">Guided Bone Regeneration (GBR) and Barrier Membranes</a></li><li><a href="#sinus-augmentation-timeline">Sinus Augmentation Timeline</a></li><li><a href="#cbct-assessment-of-graft-healing">CBCT Assessment of Graft Healing</a></li><li><a href="#healing-timeline-summary">Healing Timeline Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/timeline-for-bone-grafting-procedure.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -260,34 +259,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

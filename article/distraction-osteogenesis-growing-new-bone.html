@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-and-historical-development">Introduction and Historical Development</a></li><li><a href="#biological-mechanisms-and-osteogenic-response">Biological Mechanisms and Osteogenic Response</a></li><li><a href="#clinical-indications-and-patient-selection">Clinical Indications and Patient Selection</a></li><li><a href="#distraction-device-selection-and-design">Distraction Device Selection and Design</a></li><li><a href="#surgical-technique-and-osteotomy-design">Surgical Technique and Osteotomy Design</a></li><li><a href="#distraction-protocol-and-patient-management">Distraction Protocol and Patient Management</a></li><li><a href="#complications-and-management-strategies">Complications and Management Strategies</a></li><li><a href="#implant-integration-and-restoration-sequencing">Implant Integration and Restoration Sequencing</a></li><li><a href="#advantages-over-traditional-bone-grafting">Advantages Over Traditional Bone Grafting</a></li><li><a href="#limitations-and-future-directions">Limitations and Future Directions</a></li><li><a href="#conclusion-and-clinical-role">Conclusion and Clinical Role</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/distraction-osteogenesis-growing-new-bone.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -250,34 +249,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#the-misconception-that-all-crowding-represents-identical-malocclusion">The Misconception That All Crowding Represents Identical Malocclusion</a></li><li><a href="#the-falsehood-that-overbite-and-overjet-represent-identical-anterior-relationship-parameters">The Falsehood That Overbite and Overjet Represent Identical Anterior Relationship Parameters</a></li><li><a href="#misconceptions-about-open-bite-etiology-and-treatment-implications">Misconceptions About Open Bite Etiology and Treatment Implications</a></li><li><a href="#the-misconception-that-crossbite-proves-purely-esthetic">The Misconception That Crossbite Proves Purely Esthetic</a></li><li><a href="#misconceptions-about-class-iii-malocclusion-severity-and-treatment-timing">Misconceptions About Class III Malocclusion Severity and Treatment Timing</a></li><li><a href="#the-falsehood-that-bite-correction-proves-purely-esthetic">The Falsehood That Bite Correction Proves Purely Esthetic</a></li><li><a href="#misconceptions-about-overbite-and-vertical-dimension-relationships">Misconceptions About Overbite and Vertical Dimension Relationships</a></li><li><a href="#the-misconception-that-canine-guidance-proves-unnecessary">The Misconception That Canine Guidance Proves Unnecessary</a></li><li><a href="#misconceptions-about-midline-discrepancy-significance">Misconceptions About Midline Discrepancy Significance</a></li><li><a href="#the-falsehood-that-slight-crowding-proves-stable-without-treatment">The Falsehood That Slight Crowding Proves Stable Without Treatment</a></li><li><a href="#misconceptions-about-functional-appliance-efficacy-and-timing">Misconceptions About Functional Appliance Efficacy and Timing</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-bite-problems-explained.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -261,34 +260,13 @@ The misconception that functional consequences prove minimal prevents patient mo
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

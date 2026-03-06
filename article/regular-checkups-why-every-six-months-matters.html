@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#the-evolution-of-recall-intervals-from-arbitrary-to-evidence-based">The Evolution of Recall Intervals: From Arbitrary to Evidence-Based</a></li><li><a href="#risk-stratification-moving-beyond-the-six-month-standard">Risk Stratification: Moving Beyond the Six-Month Standard</a></li><li><a href="#comprehensive-examination-components-detecting-disease-before-symptoms-emerge">Comprehensive Examination Components: Detecting Disease Before Symptoms Emerge</a></li><li><a href="#professional-cleaning-benefits-supragingival-and-subgingival-biofilm-control">Professional Cleaning Benefits: Supragingival and Subgingival Biofilm Control</a></li><li><a href="#oral-cancer-screening-and-systemic-disease-detection">Oral Cancer Screening and Systemic Disease Detection</a></li><li><a href="#professional-fluoride-application-and-topical-remineralization">Professional Fluoride Application and Topical Remineralization</a></li><li><a href="#periodontal-disease-progression-and-early-intervention">Periodontal Disease Progression and Early Intervention</a></li><li><a href="#patient-education-and-behavioral-modification">Patient Education and Behavioral Modification</a></li><li><a href="#economic-and-public-health-perspectives-on-prevention">Economic and Public Health Perspectives on Prevention</a></li><li><a href="#conclusion-individualizing-prevention-in-the-modern-era">Conclusion: Individualizing Prevention in the Modern Era</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/regular-checkups-why-every-six-months-matters.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -224,34 +223,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

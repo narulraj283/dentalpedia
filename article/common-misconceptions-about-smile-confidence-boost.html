@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-smile-improvements-require-extensive-treatment-minor-enhancements-produce-negligible-confidence-benefit">Misconception 1: Smile Improvements Require Extensive Treatment; Minor Enhancements Produce Negligible Confidence Benefit</a></li><li><a href="#misconception-2-cosmetic-improvements-are-primarily-for-vanity-functional-and-health-benefits-are-minimal">Misconception 2: Cosmetic Improvements Are Primarily for Vanity; Functional and Health Benefits Are Minimal</a></li><li><a href="#misconception-3-smile-confidence-boost-is-primarily-psychological-social-outcomes-are-unrealistic">Misconception 3: Smile Confidence Boost Is Primarily Psychological; Social Outcomes Are Unrealistic</a></li><li><a href="#misconception-4-genetic-dental-appearance-cannot-be-substantially-improved-treatment-results-are-minimal">Misconception 4: Genetic Dental Appearance Cannot Be Substantially Improved; Treatment Results Are Minimal</a></li><li><a href="#misconception-5-professional-smile-design-is-unnecessary-patients-preferences-alone-should-guide-treatment">Misconception 5: Professional Smile Design Is Unnecessary; Patients' Preferences Alone Should Guide Treatment</a></li><li><a href="#misconception-6-all-cosmetic-procedures-provide-equivalent-longevity-selection-should-be-based-primarily-on-cost">Misconception 6: All Cosmetic Procedures Provide Equivalent Longevity; Selection Should Be Based Primarily on Cost</a></li><li><a href="#misconception-7-smile-confidence-improves-immediately-post-treatment-adjustment-period-is-unnecessary">Misconception 7: Smile Confidence Improves Immediately Post-Treatment; Adjustment Period Is Unnecessary</a></li><li><a href="#misconception-8-smile-confidence-is-permanent-once-established-maintenance-beyond-standard-care-is-unnecessary">Misconception 8: Smile Confidence Is Permanent Once Established; Maintenance Beyond Standard Care Is Unnecessary</a></li><li><a href="#misconception-9-smile-confidence-boost-requires-perfection-good-enough-results-cannot-improve-confidence-meaningfully">Misconception 9: Smile Confidence Boost Requires Perfection; "Good Enough" Results Cannot Improve Confidence Meaningfully</a></li><li><a href="#summary-and-clinical-pearls">Summary and Clinical Pearls</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-smile-confidence-boost.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -230,34 +229,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

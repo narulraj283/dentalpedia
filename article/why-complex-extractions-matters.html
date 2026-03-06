@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#defining-complex-extractions-and-surgical-complexity">Defining Complex Extractions and Surgical Complexity</a></li><li><a href="#indications-for-complex-extraction-management">Indications for Complex Extraction Management</a></li><li><a href="#surgical-anatomy-and-risk-assessment">Surgical Anatomy and Risk Assessment</a></li><li><a href="#impacted-third-molars-and-surgical-management">Impacted Third Molars and Surgical Management</a></li><li><a href="#nerve-injury-prevention-and-management">Nerve Injury Prevention and Management</a></li><li><a href="#alveolar-osteitis-and-post-extraction-complications">Alveolar Osteitis and Post-Extraction Complications</a></li><li><a href="#bone-removal-and-reconstruction">Bone Removal and Reconstruction</a></li><li><a href="#root-fragment-retention-and-delayed-complications">Root Fragment Retention and Delayed Complications</a></li><li><a href="#antibiotic-prophylaxis-and-infection-prevention">Antibiotic Prophylaxis and Infection Prevention</a></li><li><a href="#anesthesia-considerations-and-efficacy">Anesthesia Considerations and Efficacy</a></li><li><a href="#healing-and-post-operative-management">Healing and Post-Operative Management</a></li><li><a href="#implant-site-optimization-after-extraction">Implant Site Optimization After Extraction</a></li><li><a href="#informed-consent-and-patient-communication">Informed Consent and Patient Communication</a></li><li><a href="#appropriate-specialist-referral-criteria">Appropriate Specialist Referral Criteria</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/why-complex-extractions-matters.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -272,34 +271,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

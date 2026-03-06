@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-braces-as-health-and-quality-of-life-investment">Introduction: Braces as Health and Quality-of-Life Investment</a></li><li><a href="#dental-health-improved-hygiene-accessibility-and-caries-prevention">Dental Health: Improved Hygiene Accessibility and Caries Prevention</a></li><li><a href="#reduced-periodontal-disease-risk-through-improved-accessibility">Reduced Periodontal Disease Risk Through Improved Accessibility</a></li><li><a href="#masticatory-efficiency-functional-improvement-of-20-30">Masticatory Efficiency: Functional Improvement of 20-30%</a></li><li><a href="#tmd-symptom-reduction-and-prevention">TMD Symptom Reduction and Prevention</a></li><li><a href="#trauma-prevention-reducing-incisor-fracture-risk">Trauma Prevention: Reducing Incisor Fracture Risk</a></li><li><a href="#speech-improvement-for-specific-malocclusions">Speech Improvement for Specific Malocclusions</a></li><li><a href="#airway-and-sleep-related-breathing-benefits">Airway and Sleep-Related Breathing Benefits</a></li><li><a href="#pre-prosthetic-optimization-for-future-implants-or-bridges">Pre-Prosthetic Optimization for Future Implants or Bridges</a></li><li><a href="#psychological-and-psychosocial-benefits-quantified-quality-of-life-improvement">Psychological and Psychosocial Benefits: Quantified Quality-of-Life Improvement</a></li><li><a href="#self-confidence-and-social-acceptance">Self-Confidence and Social Acceptance</a></li><li><a href="#preventive-benefit-long-term-dental-longevity">Preventive Benefit: Long-Term Dental Longevity</a></li><li><a href="#behavioral-impact-improved-oral-health-maintenance-post-treatment">Behavioral Impact: Improved Oral Health Maintenance Post-Treatment</a></li><li><a href="#retention-and-long-term-stability">Retention and Long-Term Stability</a></li><li><a href="#treatment-timing-benefits-in-growing-patients">Treatment Timing Benefits in Growing Patients</a></li><li><a href="#summary-comprehensive-benefits-of-orthodontic-treatment">Summary: Comprehensive Benefits of Orthodontic Treatment</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/benefits-of-braces-benefits.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -298,34 +297,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

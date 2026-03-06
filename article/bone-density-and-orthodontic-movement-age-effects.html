@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#bone-physiology-and-density-changes-across-lifespan">Bone Physiology and Density Changes Across Lifespan</a></li><li><a href="#bone-remodeling-kinetics-in-different-age-groups">Bone Remodeling Kinetics in Different Age Groups</a></li><li><a href="#orthodontic-tooth-movement-rate-and-age-correlation">Orthodontic Tooth Movement Rate and Age Correlation</a></li><li><a href="#age-related-changes-in-alveolar-bone-structure">Age-Related Changes in Alveolar Bone Structure</a></li><li><a href="#mechanical-properties-and-load-tolerance">Mechanical Properties and Load Tolerance</a></li><li><a href="#force-application-principles-by-age">Force Application Principles by Age</a></li><li><a href="#root-resorption-risk-and-age-correlation">Root Resorption Risk and Age Correlation</a></li><li><a href="#bone-loss-and-periodontal-interaction">Bone Loss and Periodontal Interaction</a></li><li><a href="#bone-density-imaging-and-treatment-planning">Bone Density Imaging and Treatment Planning</a></li><li><a href="#anchorage-considerations-and-bone-support">Anchorage Considerations and Bone Support</a></li><li><a href="#adult-orthodontic-treatment-timing-and-expectations">Adult Orthodontic Treatment Timing and Expectations</a></li><li><a href="#medication-and-systemic-disease-effects-on-bone">Medication and Systemic Disease Effects on Bone</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/bone-density-and-orthodontic-movement-age-effects.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -292,34 +291,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

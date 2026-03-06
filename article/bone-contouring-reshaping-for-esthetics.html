@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#esthetic-implications-of-alveolar-morphology">Esthetic Implications of Alveolar Morphology</a></li><li><a href="#classification-of-bone-defects-and-contouring-approaches">Classification of Bone Defects and Contouring Approaches</a></li><li><a href="#bone-removal-techniques-and-instrumentation">Bone Removal Techniques and Instrumentation</a></li><li><a href="#surgical-contouring-techniques-for-common-defects">Surgical Contouring Techniques for Common Defects</a></li><li><a href="#emergence-profile-management">Emergence Profile Management</a></li><li><a href="#bone-morphology-and-gingival-display-optimization">Bone Morphology and Gingival Display Optimization</a></li><li><a href="#soft-tissue-response-and-healing-patterns">Soft Tissue Response and Healing Patterns</a></li><li><a href="#bone-contouring-at-esthetic-implant-zones">Bone Contouring at Esthetic Implant Zones</a></li><li><a href="#combination-approaches-contouring-with-augmentation">Combination Approaches: Contouring with Augmentation</a></li><li><a href="#osteotomy-techniques-for-ridge-splitting">Osteotomy Techniques for Ridge Splitting</a></li><li><a href="#functional-and-hygienic-considerations">Functional and Hygienic Considerations</a></li><li><a href="#clinical-decision-making-and-timing">Clinical Decision-Making and Timing</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/bone-contouring-reshaping-for-esthetics.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -282,34 +281,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

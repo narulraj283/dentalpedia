@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-all-commercial-mouthwashes-provide-equivalent-plaque-control">Misconception 1: All Commercial Mouthwashes Provide Equivalent Plaque Control</a></li><li><a href="#misconception-2-natural-or-herbal-mouthwashes-are-superior-to-chemical-formulations">Misconception 2: "Natural" or Herbal Mouthwashes Are Superior to Chemical Formulations</a></li><li><a href="#misconception-3-alcohol-content-in-mouthwashes-causes-oral-cancer">Misconception 3: Alcohol Content in Mouthwashes Causes Oral Cancer</a></li><li><a href="#misconception-4-more-expensive-mouthwashes-provide-superior-efficacy">Misconception 4: More Expensive Mouthwashes Provide Superior Efficacy</a></li><li><a href="#misconception-5-mouthwashes-address-the-root-cause-of-bad-breath">Misconception 5: Mouthwashes Address the Root Cause of Bad Breath</a></li><li><a href="#misconception-6-prescription-mouthwashes-are-superior-to-over-the-counter-options">Misconception 6: Prescription Mouthwashes Are Superior to Over-the-Counter Options</a></li><li><a href="#misconception-7-mouthwashes-replace-daily-brushing-and-flossing">Misconception 7: Mouthwashes Replace Daily Brushing and Flossing</a></li><li><a href="#misconception-8-extended-mouthwash-use-without-interruption-is-safe">Misconception 8: Extended Mouthwash Use Without Interruption Is Safe</a></li><li><a href="#misconception-9-fluoride-rinses-should-be-used-daily-by-all-patients">Misconception 9: Fluoride Rinses Should Be Used Daily by All Patients</a></li><li><a href="#misconception-10-whitening-mouthwashes-remove-intrinsic-tooth-discoloration">Misconception 10: "Whitening" Mouthwashes Remove Intrinsic Tooth Discoloration</a></li><li><a href="#clinical-selection-algorithm">Clinical Selection Algorithm</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-mouthwash-selection.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -238,34 +237,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

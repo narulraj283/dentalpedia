@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction">Introduction</a></li><li><a href="#mechanism-of-antimicrobial-action">Mechanism of Antimicrobial Action</a></li><li><a href="#clinical-concentrations-and-formulation-guidelines">Clinical Concentrations and Formulation Guidelines</a></li><li><a href="#pre-procedural-oral-rinse-protocols">Pre-Procedural Oral Rinse Protocols</a></li><li><a href="#viral-antisepsis-and-covid-19-era-evidence">Viral Antisepsis and COVID-19 Era Evidence</a></li><li><a href="#oral-and-nasal-tissue-effects">Oral and Nasal Tissue Effects</a></li><li><a href="#iodine-allergy-and-contraindication-assessment">Iodine Allergy and Contraindication Assessment</a></li><li><a href="#thyroid-function-and-systemic-iodine-absorption">Thyroid Function and Systemic Iodine Absorption</a></li><li><a href="#comparative-efficacy-against-chlorhexidine-and-hydrogen-peroxide">Comparative Efficacy Against Chlorhexidine and Hydrogen Peroxide</a></li><li><a href="#clinical-application-in-specific-dental-procedures">Clinical Application in Specific Dental Procedures</a></li><li><a href="#future-directions-and-evidence-gaps">Future Directions and Evidence Gaps</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/povidone-iodine-iodine-based-antiseptic.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -244,34 +243,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

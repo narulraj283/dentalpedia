@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-beyond-aesthetics-to-psychological-transformation">Introduction: Beyond Aesthetics to Psychological Transformation</a></li><li><a href="#facial-feature-hierarchy-smile-attractiveness-as-primary-determinant">Facial Feature Hierarchy: Smile Attractiveness as Primary Determinant</a></li><li><a href="#halo-effect-career-advancement-and-professional-perception">Halo Effect: Career Advancement and Professional Perception</a></li><li><a href="#self-esteem-quantification-using-validated-instruments">Self-Esteem Quantification Using Validated Instruments</a></li><li><a href="#social-perception-and-approachability">Social Perception and Approachability</a></li><li><a href="#anxiety-reduction-and-maintenance-motivation">Anxiety Reduction and Maintenance Motivation</a></li><li><a href="#functional-integration-with-cosmetic-functional-treatment">Functional Integration with Cosmetic-Functional Treatment</a></li><li><a href="#photographic-documentation-critical-for-treatment-planning-and-outcome-assessment">Photographic Documentation: Critical for Treatment Planning and Outcome Assessment</a></li><li><a href="#social-confidence-and-dating-success">Social Confidence and Dating Success</a></li><li><a href="#psychological-well-being-beyond-self-esteem">Psychological Well-being Beyond Self-Esteem</a></li><li><a href="#summary-comprehensive-benefits-of-smile-transformation">Summary: Comprehensive Benefits of Smile Transformation</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/benefits-of-before-and-after-smile.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -262,34 +261,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

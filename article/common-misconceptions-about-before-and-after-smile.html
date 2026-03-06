@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#the-misconception-that-largerwhiter-always-equals-better-aesthetics">The Misconception That Larger/Whiter Always Equals Better Aesthetics</a></li><li><a href="#the-falsehood-that-professional-whitening-proves-permanent">The Falsehood That Professional Whitening Proves Permanent</a></li><li><a href="#misconceptions-about-veneer-material-selection-and-longevity">Misconceptions About Veneer Material Selection and Longevity</a></li><li><a href="#the-misconception-that-veneers-eliminate-tooth-preparation">The Misconception That Veneers Eliminate Tooth Preparation</a></li><li><a href="#misconceptions-about-bonding-durability-and-failure-mechanisms">Misconceptions About Bonding Durability and Failure Mechanisms</a></li><li><a href="#the-falsehood-that-tooth-colored-restorations-dont-require-shade-management">The Falsehood That Tooth-Colored Restorations Don't Require Shade Management</a></li><li><a href="#misconceptions-about-smile-arc-and-buccal-corridor-assessment">Misconceptions About Smile Arc and Buccal Corridor Assessment</a></li><li><a href="#misconceptions-about-incisor-inclination-and-canine-relationships">Misconceptions About Incisor Inclination and Canine Relationships</a></li><li><a href="#misconceptions-about-gingival-esthetic-parameters">Misconceptions About Gingival Esthetic Parameters</a></li><li><a href="#misconceptions-about-treatment-timeline-and-staged-approach">Misconceptions About Treatment Timeline and Staged Approach</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-before-and-after-smile.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -238,34 +237,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

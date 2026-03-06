@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-all-tooth-chips-require-crown-restoration">Misconception: All Tooth Chips Require Crown Restoration</a></li><li><a href="#misconception-bonded-repairs-cannot-withstand-functional-load">Misconception: Bonded Repairs Cannot Withstand Functional Load</a></li><li><a href="#misconception-bonded-repairs-must-occur-immediately-after-trauma">Misconception: Bonded Repairs Must Occur Immediately After Trauma</a></li><li><a href="#misconception-fracture-repair-requires-complete-tooth-reshaping">Misconception: Fracture Repair Requires Complete Tooth Reshaping</a></li><li><a href="#misconception-fractured-incisal-edges-cannot-match-natural-contours">Misconception: Fractured Incisal Edges Cannot Match Natural Contours</a></li><li><a href="#misconception-root-surface-fractures-cannot-be-treated-conservatively">Misconception: Root-Surface Fractures Cannot Be Treated Conservatively</a></li><li><a href="#misconception-microabrasion-cannot-address-enamel-defects">Misconception: Microabrasion Cannot Address Enamel Defects</a></li><li><a href="#misconception-attrition-and-erosion-cannot-be-repaired-conservatively">Misconception: Attrition and Erosion Cannot Be Repaired Conservatively</a></li><li><a href="#misconception-composite-bonded-repairs-always-fail-in-high-stress-areas">Misconception: Composite-Bonded Repairs Always Fail in High-Stress Areas</a></li><li><a href="#misconception-repair-success-depends-solely-on-operator-technique">Misconception: Repair Success Depends Solely on Operator Technique</a></li><li><a href="#clinical-repair-algorithm">Clinical Repair Algorithm</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-cosmetic-tooth-repair.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -260,34 +259,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

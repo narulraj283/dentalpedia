@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction">Introduction</a></li><li><a href="#phase-1-acute-inflammation-and-hemostasis-days-1-3">Phase 1: Acute Inflammation and Hemostasis (Days 1-3)</a></li><li><a href="#phase-2-granulation-tissue-formation-and-early-epithelialization-days-4-7">Phase 2: Granulation Tissue Formation and Early Epithelialization (Days 4-7)</a></li><li><a href="#phase-3-epithelialization-and-early-bone-healing-weeks-2-3">Phase 3: Epithelialization and Early Bone Healing (Weeks 2-3)</a></li><li><a href="#phase-4-advanced-bone-healing-and-tissue-remodeling-weeks-4-12">Phase 4: Advanced Bone Healing and Tissue Remodeling (Weeks 4-12)</a></li><li><a href="#phase-5-long-term-remodeling-and-maturation-weeks-12-onward">Phase 5: Long-Term Remodeling and Maturation (Weeks 12 Onward)</a></li><li><a href="#procedure-specific-healing-timelines">Procedure-Specific Healing Timelines</a></li><li><a href="#postoperative-pain-management-and-activity-restrictions">Postoperative Pain Management and Activity Restrictions</a></li><li><a href="#comprehensive-recovery-timeline-summary">Comprehensive Recovery Timeline Summary</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/timeline-for-oral-surgery-recovery-timeline.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -485,34 +484,13 @@ Implant loading is typically delayed until adequate osseointegration is achieved
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

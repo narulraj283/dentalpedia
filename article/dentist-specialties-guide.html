@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-specialization-in-modern-dentistry">Introduction: Specialization in Modern Dentistry</a></li><li><a href="#periodontics-prevention-and-treatment-of-periodontal-disease">Periodontics: Prevention and Treatment of Periodontal Disease</a></li><li><a href="#prosthodontics-restoration-and-reconstruction-of-dentition">Prosthodontics: Restoration and Reconstruction of Dentition</a></li><li><a href="#orthodontics-dental-alignment-and-occlusal-development">Orthodontics: Dental Alignment and Occlusal Development</a></li><li><a href="#endodontics-root-canal-therapy-and-pulpal-pathology">Endodontics: Root Canal Therapy and Pulpal Pathology</a></li><li><a href="#oral-and-maxillofacial-surgery-surgical-management-of-oral-pathology">Oral and Maxillofacial Surgery: Surgical Management of Oral Pathology</a></li><li><a href="#pediatric-dentistry-oral-health-care-for-children">Pediatric Dentistry: Oral Health Care for Children</a></li><li><a href="#prosthodontics-maxillofacial-prosthetics-and-facial-rehabilitation">Prosthodontics: Maxillofacial Prosthetics and Facial Rehabilitation</a></li><li><a href="#public-health-dentistry-population-based-oral-health">Public Health Dentistry: Population-Based Oral Health</a></li><li><a href="#oral-and-maxillofacial-pathology-diagnosis-of-oral-diseases">Oral and Maxillofacial Pathology: Diagnosis of Oral Diseases</a></li><li><a href="#referral-network-development-and-outcome-optimization">Referral Network Development and Outcome Optimization</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/dentist-specialties-guide.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -242,34 +241,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

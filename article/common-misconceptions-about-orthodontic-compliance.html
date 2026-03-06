@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-defining-compliance-in-orthodontic-context">Introduction: Defining Compliance in Orthodontic Context</a></li><li><a href="#misconception-1-compliance-represents-patient-personality-characteristic-rather-than-behavior-requiring-environmental-support">Misconception 1: Compliance Represents Patient Personality Characteristic Rather than Behavior Requiring Environmental Support</a></li><li><a href="#misconception-2-age-correlates-consistently-with-orthodontic-compliance">Misconception 2: Age Correlates Consistently with Orthodontic Compliance</a></li><li><a href="#misconception-3-parental-involvement-automatically-improves-pediatric-compliance">Misconception 3: Parental Involvement Automatically Improves Pediatric Compliance</a></li><li><a href="#misconception-4-fixed-appliance-non-compliance-minimally-impacts-treatment-outcomes">Misconception 4: Fixed Appliance Non-Compliance Minimally Impacts Treatment Outcomes</a></li><li><a href="#misconception-5-clear-aligner-therapy-eliminates-compliance-requirements">Misconception 5: Clear Aligner Therapy Eliminates Compliance Requirements</a></li><li><a href="#misconception-6-elastics-wear-compliance-occurs-uniformly-across-daynight-cycles">Misconception 6: Elastics Wear Compliance Occurs Uniformly Across Day/Night Cycles</a></li><li><a href="#misconception-7-patient-age-at-treatment-initiation-predicts-compliance-trajectory">Misconception 7: Patient Age at Treatment Initiation Predicts Compliance Trajectory</a></li><li><a href="#misconception-8-verbal-compliance-instruction-achieves-behavior-change-without-environmental-reinforcement">Misconception 8: Verbal Compliance Instruction Achieves Behavior Change Without Environmental Reinforcement</a></li><li><a href="#misconception-9-elastics-noncompliance-merely-extends-treatment-duration-without-additional-complications">Misconception 9: Elastics Noncompliance Merely Extends Treatment Duration Without Additional Complications</a></li><li><a href="#misconception-10-treatment-plan-modifications-can-completely-offset-compliance-deficiency">Misconception 10: Treatment Plan Modifications Can Completely Offset Compliance Deficiency</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-orthodontic-compliance.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -240,34 +239,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

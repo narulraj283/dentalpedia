@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-minimally-invasive-techniques-always-produce-superior-outcomes">Misconception 1: Minimally Invasive Techniques Always Produce Superior Outcomes</a></li><li><a href="#misconception-2-surgical-instrumentation-type-does-not-substantially-influence-outcomes">Misconception 2: Surgical Instrumentation Type Does Not Substantially Influence Outcomes</a></li><li><a href="#misconception-3-extraction-technique-complexity-does-not-require-specialized-training">Misconception 3: Extraction Technique Complexity Does Not Require Specialized Training</a></li><li><a href="#misconception-4-flap-design-does-not-significantly-influence-surgical-outcomes">Misconception 4: Flap Design Does Not Significantly Influence Surgical Outcomes</a></li><li><a href="#misconception-5-bone-removal-technique-does-not-influence-subsequent-bone-healing">Misconception 5: Bone Removal Technique Does Not Influence Subsequent Bone Healing</a></li><li><a href="#misconception-6-guided-tissue-regeneration-technique-does-not-require-precise-barrier-placement">Misconception 6: Guided Tissue Regeneration Technique Does Not Require Precise Barrier Placement</a></li><li><a href="#misconception-7-antibiotic-irrigation-provides-equivalent-benefit-to-systemic-antibiotics">Misconception 7: Antibiotic Irrigation Provides Equivalent Benefit to Systemic Antibiotics</a></li><li><a href="#misconception-8-socket-preservation-does-not-alter-subsequent-implant-placement">Misconception 8: Socket Preservation Does Not Alter Subsequent Implant Placement</a></li><li><a href="#misconception-9-frenectomy-technique-does-not-substantially-influence-outcomes">Misconception 9: Frenectomy Technique Does Not Substantially Influence Outcomes</a></li><li><a href="#misconception-10-implant-angulation-does-not-influence-surgical-and-prosthetic-outcomes">Misconception 10: Implant Angulation Does Not Influence Surgical and Prosthetic Outcomes</a></li><li><a href="#technical-excellence-and-outcome-optimization">Technical Excellence and Outcome Optimization</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-surgical-technique-overview.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -214,34 +213,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#biofilm-a-paradigm-shift-in-plaque-understanding">Biofilm: A Paradigm Shift in Plaque Understanding</a></li><li><a href="#stage-1-acquired-pellicle-formation-0-minutes">Stage 1: Acquired Pellicle Formation (0 Minutes)</a></li><li><a href="#stage-2-early-colonization-0-4-hours-post-cleaning">Stage 2: Early Colonization (0-4 Hours Post-Cleaning)</a></li><li><a href="#stage-3-microcolony-development-and-co-aggregation-4-24-hours">Stage 3: Microcolony Development and Co-aggregation (4-24 Hours)</a></li><li><a href="#stage-4-bridge-colonization-and-bridging-species-24-72-hours">Stage 4: Bridge Colonization and Bridging Species (24-72 Hours)</a></li><li><a href="#stage-5-mature-biofilm-with-anaerobic-pathogens-2-3-weeks">Stage 5: Mature Biofilm with Anaerobic Pathogens (2-3 Weeks)</a></li><li><a href="#quorum-sensing-bacterial-communication-and-virulence-regulation">Quorum Sensing: Bacterial Communication and Virulence Regulation</a></li><li><a href="#extracellular-polysaccharide-matrix-structural-and-protective-functions">Extracellular Polysaccharide Matrix: Structural and Protective Functions</a></li><li><a href="#antimicrobial-resistance-1000-fold-increase-in-mature-biofilm">Antimicrobial Resistance: 1000-Fold Increase in Mature Biofilm</a></li><li><a href="#clinical-implications-for-biofilm-control">Clinical Implications for Biofilm Control</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/bacterial-plaque-formation-biofilm-development.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -267,34 +266,13 @@ This ecological succession explains periodontitis progression: healthy biofilm c
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

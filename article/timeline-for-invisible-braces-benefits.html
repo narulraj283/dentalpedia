@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-clear-aligner-technology-evolution">Introduction: Clear Aligner Technology Evolution</a></li><li><a href="#aligner-esthetics-primary-patient-motivation">Aligner Esthetics: Primary Patient Motivation</a></li><li><a href="#removability-and-patient-compliance-enhancement">Removability and Patient Compliance Enhancement</a></li><li><a href="#treatment-predictability-and-digital-planning-advantages">Treatment Predictability and Digital Planning Advantages</a></li><li><a href="#clinical-advantages-fewer-emergencies-and-enhanced-comfort">Clinical Advantages: Fewer Emergencies and Enhanced Comfort</a></li><li><a href="#limitations-and-complexity-constraints">Limitations and Complexity Constraints</a></li><li><a href="#treatment-timeline-and-duration-comparison">Treatment Timeline and Duration Comparison</a></li><li><a href="#case-selection-criteria-for-optimal-outcomes">Case Selection Criteria for Optimal Outcomes</a></li><li><a href="#outcomes-and-long-term-stability">Outcomes and Long-Term Stability</a></li><li><a href="#clinical-decision-making-algorithm">Clinical Decision-Making Algorithm</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/timeline-for-invisible-braces-benefits.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -325,34 +324,13 @@ However, complex cases often progress more slowly in aligners due to reduced for
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

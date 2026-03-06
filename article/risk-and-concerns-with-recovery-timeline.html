@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-to-recovery-timeline-variability">Introduction to Recovery Timeline Variability</a></li><li><a href="#individual-healing-variability-and-genetic-factors">Individual Healing Variability and Genetic Factors</a></li><li><a href="#comorbidity-effects-on-healing-timeline">Comorbidity Effects on Healing Timeline</a></li><li><a href="#age-related-healing-changes-and-timeline-extension">Age-Related Healing Changes and Timeline Extension</a></li><li><a href="#smoking-and-impaired-healing-kinetics">Smoking and Impaired Healing Kinetics</a></li><li><a href="#nutritional-deficiency-and-delayed-healing">Nutritional Deficiency and Delayed Healing</a></li><li><a href="#stress-and-sleep-effects-on-healing-timeline">Stress and Sleep Effects on Healing Timeline</a></li><li><a href="#medication-effects-on-healing">Medication Effects on Healing</a></li><li><a href="#healing-phase-variability-and-timeline-non-linearity">Healing Phase Variability and Timeline Non-Linearity</a></li><li><a href="#age-specific-considerations-in-healing-timeline">Age-Specific Considerations in Healing Timeline</a></li><li><a href="#infection-risk-throughout-healing-timeline">Infection Risk Throughout Healing Timeline</a></li><li><a href="#recovery-of-oral-function-timeline">Recovery of Oral Function Timeline</a></li><li><a href="#complication-development-within-healing-timeline">Complication Development Within Healing Timeline</a></li><li><a href="#documentation-and-timeline-establishment">Documentation and Timeline Establishment</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/risk-and-concerns-with-recovery-timeline.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -248,34 +247,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

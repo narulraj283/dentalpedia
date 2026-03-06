@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-bonding-is-permanent-and-requires-no-maintenance">Misconception: Bonding Is Permanent and Requires No Maintenance</a></li><li><a href="#misconception-shade-selection-is-subjective-and-cannot-be-verified">Misconception: Shade Selection Is Subjective and Cannot Be Verified</a></li><li><a href="#misconception-enamel-etching-is-harmful-to-tooth-structure">Misconception: Enamel Etching Is Harmful to Tooth Structure</a></li><li><a href="#misconception-all-adhesive-systems-perform-identically">Misconception: All Adhesive Systems Perform Identically</a></li><li><a href="#misconception-bonded-restorations-cannot-match-natural-shade-under-all-lighting">Misconception: Bonded Restorations Cannot Match Natural Shade Under All Lighting</a></li><li><a href="#misconception-bonding-placement-size-doesnt-affect-longevity">Misconception: Bonding Placement Size Doesn't Affect Longevity</a></li><li><a href="#misconception-bonding-cannot-withstand-significant-tooth-fractures">Misconception: Bonding Cannot Withstand Significant Tooth Fractures</a></li><li><a href="#misconception-surface-finishing-must-occur-immediately-after-placement">Misconception: Surface Finishing Must Occur Immediately After Placement</a></li><li><a href="#misconception-fluoride-application-weakens-composite-bonding">Misconception: Fluoride Application Weakens Composite Bonding</a></li><li><a href="#clinical-excellence-in-cosmetic-bonding">Clinical Excellence in Cosmetic Bonding</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-cosmetic-bonding-process.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -248,34 +247,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

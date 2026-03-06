@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-gummy-smile-always-requires-surgical-intervention">Misconception 1: Gummy Smile Always Requires Surgical Intervention</a></li><li><a href="#misconception-2-all-gummy-smiles-stem-from-excessive-bone">Misconception 2: All Gummy Smiles Stem from Excessive Bone</a></li><li><a href="#misconception-3-crown-lengthening-is-an-appropriate-treatment-for-vertical-maxillary-excess">Misconception 3: Crown Lengthening Is an Appropriate Treatment for Vertical Maxillary Excess</a></li><li><a href="#misconception-4-increased-gingival-display-always-represents-an-esthetic-problem">Misconception 4: Increased Gingival Display Always Represents an Esthetic Problem</a></li><li><a href="#misconception-5-botulinum-toxin-results-are-permanent">Misconception 5: Botulinum Toxin Results Are Permanent</a></li><li><a href="#misconception-6-periodontal-disease-causes-excessive-gingival-display">Misconception 6: Periodontal Disease Causes Excessive Gingival Display</a></li><li><a href="#misconception-7-orthodontic-treatment-cannot-improve-gummy-smile">Misconception 7: Orthodontic Treatment Cannot Improve Gummy Smile</a></li><li><a href="#misconception-8-gummy-smile-correction-results-in-compromised-esthetics">Misconception 8: Gummy Smile Correction Results in Compromised Esthetics</a></li><li><a href="#clinical-treatment-algorithm">Clinical Treatment Algorithm</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-gummy-smile-fix.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -210,34 +209,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#phase-1-comprehensive-treatment-planning-and-patient-consultation">Phase 1: Comprehensive Treatment Planning and Patient Consultation</a></li><li><a href="#phase-2-preparation-protocol-and-tooth-structure-conservation">Phase 2: Preparation Protocol and Tooth Structure Conservation</a></li><li><a href="#phase-3-impression-and-temporary-restoration-management">Phase 3: Impression and Temporary Restoration Management</a></li><li><a href="#phase-4-veneer-fabrication-process-laboratory-phase">Phase 4: Veneer Fabrication Process (Laboratory Phase)</a></li><li><a href="#phase-5-preparation-surface-pre-treatment-and-etching-protocol">Phase 5: Preparation Surface Pre-Treatment and Etching Protocol</a></li><li><a href="#phase-6-veneer-try-in-and-marginal-assessment">Phase 6: Veneer Try-In and Marginal Assessment</a></li><li><a href="#phase-7-cementation-technique-and-marginal-seal-optimization">Phase 7: Cementation Technique and Marginal Seal Optimization</a></li><li><a href="#phase-8-occlusal-adjustment-and-polish">Phase 8: Occlusal Adjustment and Polish</a></li><li><a href="#phase-9-post-operative-instructions-and-follow-up">Phase 9: Post-Operative Instructions and Follow-Up</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/best-practices-for-veneer-installation-steps.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -254,34 +253,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

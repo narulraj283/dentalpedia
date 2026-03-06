@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-the-diagnostic-significance-of-tooth-color-changes">Introduction: The Diagnostic Significance of Tooth Color Changes</a></li><li><a href="#extrinsic-versus-intrinsic-staining-differential-diagnosis">Extrinsic Versus Intrinsic Staining Differential Diagnosis</a></li><li><a href="#medication-induced-intrinsic-discoloration-risks">Medication-Induced Intrinsic Discoloration Risks</a></li><li><a href="#pulpal-necrosis-detection-and-associated-color-changes">Pulpal Necrosis Detection and Associated Color Changes</a></li><li><a href="#age-related-physiological-discoloration-and-natural-color-evolution">Age-Related Physiological Discoloration and Natural Color Evolution</a></li><li><a href="#discoloration-secondary-to-systemic-disease-and-metabolic-conditions">Discoloration Secondary to Systemic Disease and Metabolic Conditions</a></li><li><a href="#restoration-discoloration-and-margin-staining-complications">Restoration Discoloration and Margin Staining Complications</a></li><li><a href="#diagnostic-procedures-and-adjunctive-testing-for-discoloration">Diagnostic Procedures and Adjunctive Testing for Discoloration</a></li><li><a href="#treatment-misdiagnosis-and-inappropriate-intervention-risks">Treatment Misdiagnosis and Inappropriate Intervention Risks</a></li><li><a href="#management-and-treatment-sequencing-for-color-changes">Management and Treatment Sequencing for Color Changes</a></li><li><a href="#conclusion-systematic-approach-to-tooth-color-changes">Conclusion: Systematic Approach to Tooth Color Changes</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/risk-and-concerns-with-tooth-color-changes.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -234,34 +233,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

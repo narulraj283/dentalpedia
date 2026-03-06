@@ -76,7 +76,7 @@
     <div id="dashboard" style="display:none;">
         <div class="category-header">
             <h1>DentalPedia Admin Dashboard</h1>
-            <p>Build: 2026-03-06 21:41:37 &bull; <a href="#" onclick="document.getElementById('dashboard').style.display='none';document.getElementById('login-screen').style.display='block';return false;">Logout</a></p>
+            <p>Build: 2026-03-06 21:54:58 &bull; <a href="#" onclick="document.getElementById('dashboard').style.display='none';document.getElementById('login-screen').style.display='block';return false;">Logout</a></p>
         </div>
 
         <!-- Tab Navigation -->
@@ -105,7 +105,7 @@
             </div>
             <div class="admin-card">
                 <h3>Build Information</h3>
-                <p><strong>Build Time:</strong> 2026-03-06 21:41:37</p>
+                <p><strong>Build Time:</strong> 2026-03-06 21:54:58</p>
                 <p><strong>Categories:</strong> 22 &bull; <strong>Subcategories:</strong> 140</p>
                 <p><strong>Directory:</strong> 31,100 practices across 51 states, 7,268 cities</p>
                 <p><strong>Cost Pages:</strong> 20 procedures × 241 cities = 4,820 pages</p>
@@ -264,34 +264,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

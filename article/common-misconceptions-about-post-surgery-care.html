@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-rinsing-and-gentle-rinsing-wont-delay-healing">Misconception 1: Rinsing and Gentle Rinsing Won't Delay Healing</a></li><li><a href="#misconception-2-vigorous-activity-is-acceptable-after-48-hours">Misconception 2: Vigorous Activity Is Acceptable After 48 Hours</a></li><li><a href="#misconception-3-smoking-has-minimal-impact-on-early-healing">Misconception 3: Smoking Has Minimal Impact on Early Healing</a></li><li><a href="#misconception-4-pain-on-day-5-7-indicates-infection-not-dry-socket">Misconception 4: Pain on Day 5-7 Indicates Infection, Not Dry Socket</a></li><li><a href="#misconception-5-ice-application-after-24-hours-provides-no-benefit">Misconception 5: Ice Application After 24 Hours Provides No Benefit</a></li><li><a href="#misconception-6-prescribed-analgesics-should-be-used-only-when-necessary">Misconception 6: Prescribed Analgesics Should Be Used Only When Necessary</a></li><li><a href="#misconception-7-solids-can-be-reintroduced-after-clot-formation-appears-stable">Misconception 7: Solids Can Be Reintroduced After Clot Formation Appears Stable</a></li><li><a href="#misconception-8-medications-dont-need-adjustment-following-oral-surgery">Misconception 8: Medications Don't Need Adjustment Following Oral Surgery</a></li><li><a href="#misconception-9-antibiotics-are-routinely-necessary-following-extraction">Misconception 9: Antibiotics Are Routinely Necessary Following Extraction</a></li><li><a href="#summary-and-clinical-pearls">Summary and Clinical Pearls</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-post-surgery-care.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -228,34 +227,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

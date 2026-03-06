@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction">Introduction</a></li><li><a href="#epidemiology-of-childhood-dietary-patterns-and-oral-health-implications">Epidemiology of Childhood Dietary Patterns and Oral Health Implications</a></li><li><a href="#nutritional-requirements-and-oral-development">Nutritional Requirements and Oral Development</a></li><li><a href="#cariogenic-dietary-components-and-pathophysiology">Cariogenic Dietary Components and Pathophysiology</a></li><li><a href="#dietary-assessment-techniques-for-pediatric-populations">Dietary Assessment Techniques for Pediatric Populations</a></li><li><a href="#behavioral-dietary-counseling-approaches">Behavioral Dietary Counseling Approaches</a></li><li><a href="#specific-dietary-recommendations-for-oral-health-and-nutrition">Specific Dietary Recommendations for Oral Health and Nutrition</a></li><li><a href="#developmental-considerations-age-specific-counseling">Developmental Considerations: Age-Specific Counseling</a></li><li><a href="#fluoride-supplementation-and-dietary-considerations">Fluoride Supplementation and Dietary Considerations</a></li><li><a href="#special-dietary-situations-allergy-and-restriction-management">Special Dietary Situations: Allergy and Restriction Management</a></li><li><a href="#counseling-follow-up-and-behavior-change-monitoring">Counseling Follow-up and Behavior Change Monitoring</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/dietary-counseling-child-nutrition.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -262,34 +261,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

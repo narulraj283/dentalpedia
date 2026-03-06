@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-restorative-material-safety-concerns">Introduction: Restorative Material Safety Concerns</a></li><li><a href="#amalgam-toxicity-debate-and-safety-reassessment">Amalgam Toxicity Debate and Safety Reassessment</a></li><li><a href="#composite-resin-polymerization-and-shrinkage-stress">Composite Resin Polymerization and Shrinkage Stress</a></li><li><a href="#bis-phenol-a-bpa-leaching-and-endocrine-disruption-concerns">Bis-Phenol A (BPA) Leaching and Endocrine Disruption Concerns</a></li><li><a href="#glass-ionomer-cement-biocompatibility-and-fluoride-release">Glass Ionomer Cement Biocompatibility and Fluoride Release</a></li><li><a href="#adhesive-system-biocompatibility-and-leaching-compounds">Adhesive System Biocompatibility and Leaching Compounds</a></li><li><a href="#allergic-reactions-and-material-hypersensitivity">Allergic Reactions and Material Hypersensitivity</a></li><li><a href="#material-selection-based-on-clinical-indication-and-patient-factors">Material Selection Based on Clinical Indication and Patient Factors</a></li><li><a href="#conclusion-balanced-material-selection-and-patient-counseling">Conclusion: Balanced Material Selection and Patient Counseling</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/risk-and-concerns-with-filling-material-selection.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -222,34 +221,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

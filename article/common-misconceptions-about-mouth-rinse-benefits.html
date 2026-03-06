@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-mouthrinses-can-replace-mechanical-plaque-removal">Misconception 1: Mouthrinses Can Replace Mechanical Plaque Removal</a></li><li><a href="#misconception-2-chlorhexidine-can-be-used-indefinitely-without-adverse-effects">Misconception 2: Chlorhexidine Can Be Used Indefinitely Without Adverse Effects</a></li><li><a href="#misconception-3-all-antimicrobial-rinses-provide-equivalent-plaque-control">Misconception 3: All Antimicrobial Rinses Provide Equivalent Plaque Control</a></li><li><a href="#misconception-4-higher-chlorhexidine-concentrations-improve-efficacy">Misconception 4: Higher Chlorhexidine Concentrations Improve Efficacy</a></li><li><a href="#misconception-5-mouthrinses-eliminate-the-need-for-professional-scaling">Misconception 5: Mouthrinses Eliminate the Need for Professional Scaling</a></li><li><a href="#misconception-6-rinsing-immediately-after-brushing-improves-outcomes">Misconception 6: Rinsing Immediately After Brushing Improves Outcomes</a></li><li><a href="#misconception-7-alcohol-containing-rinses-increase-oral-cancer-risk">Misconception 7: Alcohol-Containing Rinses Increase Oral Cancer Risk</a></li><li><a href="#misconception-8-prescription-rinses-provide-superior-benefit-compared-to-over-the-counter-options">Misconception 8: Prescription Rinses Provide Superior Benefit Compared to Over-the-Counter Options</a></li><li><a href="#misconception-9-fluoride-rinses-should-be-used-daily-by-all-patients">Misconception 9: Fluoride Rinses Should Be Used Daily by All Patients</a></li><li><a href="#misconception-10-mouthrinses-can-treat-existing-periodontitis">Misconception 10: Mouthrinses Can Treat Existing Periodontitis</a></li><li><a href="#clinical-evidence-based-recommendations">Clinical Evidence-Based Recommendations</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-mouth-rinse-benefits.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -226,34 +225,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

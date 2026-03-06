@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#the-science-of-enamel-demineralization-and-remineralization-reversing-the-caries-process">The Science of Enamel Demineralization and Remineralization: Reversing the Caries Process</a></li><li><a href="#fluoride-mechanisms-the-gold-standard-for-enamel-remineralization">Fluoride Mechanisms: The Gold Standard for Enamel Remineralization</a></li><li><a href="#concentration-dependent-efficacy-balancing-safety-and-effectiveness">Concentration-Dependent Efficacy: Balancing Safety and Effectiveness</a></li><li><a href="#casein-phosphopeptide-amorphous-calcium-phosphate-cpp-acp-technology">Casein Phosphopeptide-Amorphous Calcium Phosphate (CPP-ACP) Technology</a></li><li><a href="#nano-hydroxyapatite-biomimetic-mineral-replacement">Nano-Hydroxyapatite: Biomimetic Mineral Replacement</a></li><li><a href="#bioactive-glass-and-calcium-silicate-technologies">Bioactive Glass and Calcium Silicate Technologies</a></li><li><a href="#combination-approaches-synergistic-remineralization">Combination Approaches: Synergistic Remineralization</a></li><li><a href="#clinical-application-individualizing-remineralization-therapy">Clinical Application: Individualizing Remineralization Therapy</a></li><li><a href="#special-populations-enamel-hypomineralization-and-developmental-defects">Special Populations: Enamel Hypomineralization and Developmental Defects</a></li><li><a href="#conclusion-evidence-based-remineralization-as-modern-caries-management">Conclusion: Evidence-Based Remineralization as Modern Caries Management</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/remineralizing-toothpaste-strengthening-weakened-enamel.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -236,34 +235,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

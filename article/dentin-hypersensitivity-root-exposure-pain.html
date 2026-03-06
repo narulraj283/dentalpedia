@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-epidemiology-and-clinical-significance">Introduction: Epidemiology and Clinical Significance</a></li><li><a href="#anatomical-basis-dentinal-tubule-exposure">Anatomical Basis: Dentinal Tubule Exposure</a></li><li><a href="#pathophysiology-the-hydrodynamic-mechanism">Pathophysiology: The Hydrodynamic Mechanism</a></li><li><a href="#etiology-gingival-recession-and-root-exposure">Etiology: Gingival Recession and Root Exposure</a></li><li><a href="#secondary-etiology-enamel-and-cementum-loss">Secondary Etiology: Enamel and Cementum Loss</a></li><li><a href="#clinical-presentation-and-diagnosis">Clinical Presentation and Diagnosis</a></li><li><a href="#risk-factors-and-prevention-strategies">Risk Factors and Prevention Strategies</a></li><li><a href="#topical-desensitizing-agents-mechanism-and-evidence">Topical Desensitizing Agents: Mechanism and Evidence</a></li><li><a href="#professional-desensitizing-treatments">Professional Desensitizing Treatments</a></li><li><a href="#restoration-of-gingival-defects-and-surgical-correction">Restoration of Gingival Defects and Surgical Correction</a></li><li><a href="#management-algorithm-and-treatment-sequencing">Management Algorithm and Treatment Sequencing</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/dentin-hypersensitivity-root-exposure-pain.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -242,34 +241,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

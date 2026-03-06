@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-a-healthy-appearance-means-no-pre-operative-workup-is-necessary">Misconception 1: A Healthy Appearance Means No Pre-Operative Workup Is Necessary</a></li><li><a href="#misconception-2-fasting-requirements-begin-only-1-2-hours-before-surgery">Misconception 2: Fasting Requirements Begin Only 1-2 Hours Before Surgery</a></li><li><a href="#misconception-3-blood-pressure-and-glucose-control-dont-significantly-impact-surgical-outcomes">Misconception 3: Blood Pressure and Glucose Control Don't Significantly Impact Surgical Outcomes</a></li><li><a href="#misconception-4-herbal-supplements-dont-require-discontinuation-before-surgery">Misconception 4: Herbal Supplements Don't Require Discontinuation Before Surgery</a></li><li><a href="#misconception-5-anticoagulation-therapy-requires-complete-discontinuation-before-minor-oral-surgery">Misconception 5: Anticoagulation Therapy Requires Complete Discontinuation Before Minor Oral Surgery</a></li><li><a href="#misconception-6-smoking-cessation-timing-has-no-impact-on-surgical-recovery">Misconception 6: Smoking Cessation Timing Has No Impact on Surgical Recovery</a></li><li><a href="#misconception-7-allergies-to-amoxicillin-mean-complete-beta-lactam-avoidance">Misconception 7: Allergies to Amoxicillin Mean Complete Beta-Lactam Avoidance</a></li><li><a href="#misconception-8-medications-can-be-taken-normally-on-the-morning-of-surgery">Misconception 8: Medications Can Be Taken Normally on the Morning of Surgery</a></li><li><a href="#misconception-9-psychological-readiness-requires-no-formal-assessment">Misconception 9: Psychological Readiness Requires No Formal Assessment</a></li><li><a href="#summary-and-clinical-pearls">Summary and Clinical Pearls</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-pre-surgery-preparation.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -230,34 +229,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

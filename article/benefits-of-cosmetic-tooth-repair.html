@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-to-cosmetic-tooth-repair">Introduction to Cosmetic Tooth Repair</a></li><li><a href="#ellis-classification-standardizing-injury-severity">Ellis Classification: Standardizing Injury Severity</a></li><li><a href="#direct-bonding-for-chip-repair">Direct Bonding for Chip Repair</a></li><li><a href="#fragment-reattachment-preserving-original-structure">Fragment Reattachment: Preserving Original Structure</a></li><li><a href="#direct-composite-buildup-for-larger-defects">Direct Composite Buildup for Larger Defects</a></li><li><a href="#veneer-restoration-aesthetic-excellence">Veneer Restoration: Aesthetic Excellence</a></li><li><a href="#endodontic-consideration-when-root-canal-becomes-necessary">Endodontic Consideration: When Root Canal Becomes Necessary</a></li><li><a href="#post-and-core-restoration-for-endodontically-treated-teeth">Post-and-Core Restoration for Endodontically Treated Teeth</a></li><li><a href="#sports-injury-management-and-prevention">Sports Injury Management and Prevention</a></li><li><a href="#follow-up-protocol-vitality-assessment">Follow-Up Protocol: Vitality Assessment</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/benefits-of-cosmetic-tooth-repair.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -323,34 +322,13 @@ Teeth showing loss of vitality progress to dark discoloration (internal resorpti
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

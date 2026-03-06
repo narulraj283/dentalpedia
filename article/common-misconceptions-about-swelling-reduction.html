@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-swelling-results-exclusively-from-inflammatory-fluid-accumulation">Misconception 1: Swelling Results Exclusively from Inflammatory Fluid Accumulation</a></li><li><a href="#misconception-2-ice-application-provides-maximal-benefit-indefinitely">Misconception 2: Ice Application Provides Maximal Benefit Indefinitely</a></li><li><a href="#misconception-3-nsaids-do-not-substantially-reduce-postoperative-swelling">Misconception 3: NSAIDs Do Not Substantially Reduce Postoperative Swelling</a></li><li><a href="#misconception-4-corticosteroids-provide-minimal-edema-reduction-benefit">Misconception 4: Corticosteroids Provide Minimal Edema Reduction Benefit</a></li><li><a href="#misconception-5-facial-compression-and-elevation-do-not-substantially-impact-edema">Misconception 5: Facial Compression and Elevation Do Not Substantially Impact Edema</a></li><li><a href="#misconception-6-antibiotics-reduce-postoperative-swelling">Misconception 6: Antibiotics Reduce Postoperative Swelling</a></li><li><a href="#misconception-7-vitamin-c-supplementation-significantly-reduces-postoperative-swelling">Misconception 7: Vitamin C Supplementation Significantly Reduces Postoperative Swelling</a></li><li><a href="#misconception-8-homeopathic-remedies-and-herbal-products-provide-equivalent-edema-control">Misconception 8: Homeopathic Remedies and Herbal Products Provide Equivalent Edema Control</a></li><li><a href="#misconception-9-all-patients-achieve-similar-edema-reduction-from-interventions">Misconception 9: All Patients Achieve Similar Edema Reduction from Interventions</a></li><li><a href="#misconception-10-swelling-control-is-irrelevant-to-functional-recovery">Misconception 10: Swelling Control Is Irrelevant to Functional Recovery</a></li><li><a href="#evidence-based-swelling-management-protocols">Evidence-Based Swelling Management Protocols</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-swelling-reduction.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -214,34 +213,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

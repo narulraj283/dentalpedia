@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-smile-makeovers-guarantee-unlimited-longevity">Misconception 1: Smile Makeovers Guarantee Unlimited Longevity</a></li><li><a href="#misconception-2-aesthetic-planning-requires-symmetry-in-all-planes">Misconception 2: Aesthetic Planning Requires Symmetry in All Planes</a></li><li><a href="#misconception-3-one-consultation-adequately-establishes-treatment-parameters">Misconception 3: One Consultation Adequately Establishes Treatment Parameters</a></li><li><a href="#misconception-4-professional-whitening-replaces-structural-restorations">Misconception 4: Professional Whitening Replaces Structural Restorations</a></li><li><a href="#misconception-5-smile-makeovers-correct-all-underlying-alignment-issues">Misconception 5: Smile Makeovers Correct All Underlying Alignment Issues</a></li><li><a href="#misconception-6-digital-smile-design-accurately-predicts-clinical-results">Misconception 6: Digital Smile Design Accurately Predicts Clinical Results</a></li><li><a href="#misconception-7-veneer-preparation-requires-minimal-tooth-reduction">Misconception 7: Veneer Preparation Requires Minimal Tooth Reduction</a></li><li><a href="#misconception-8-post-treatment-sensitivity-indicates-clinical-failure">Misconception 8: Post-Treatment Sensitivity Indicates Clinical Failure</a></li><li><a href="#misconception-9-all-restorations-require-identical-materials">Misconception 9: All Restorations Require Identical Materials</a></li><li><a href="#misconception-10-esthetic-treatment-eliminates-functional-optimization">Misconception 10: Esthetic Treatment Eliminates Functional Optimization</a></li><li><a href="#clinical-documentation-and-follow-up">Clinical Documentation and Follow-Up</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-smile-makeover-planning.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -214,34 +213,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

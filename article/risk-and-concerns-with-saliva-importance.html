@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-to-salivas-critical-protective-functions">Introduction to Saliva's Critical Protective Functions</a></li><li><a href="#xerostomia-definition-and-prevalence">Xerostomia Definition and Prevalence</a></li><li><a href="#medication-induced-xerostomia-complications">Medication-Induced Xerostomia Complications</a></li><li><a href="#caries-risk-elevation-from-salivary-dysfunction">Caries Risk Elevation from Salivary Dysfunction</a></li><li><a href="#opportunistic-oral-infections-in-xerostomic-patients">Opportunistic Oral Infections in Xerostomic Patients</a></li><li><a href="#radiation-induced-salivary-gland-damage">Radiation-Induced Salivary Gland Damage</a></li><li><a href="#sjögrens-syndrome-and-autoimmune-salivary-dysfunction">Sjögren's Syndrome and Autoimmune Salivary Dysfunction</a></li><li><a href="#artificial-saliva-limitations-and-effectiveness-questions">Artificial Saliva Limitations and Effectiveness Questions</a></li><li><a href="#salivary-stimulant-medications">Salivary Stimulant Medications</a></li><li><a href="#oral-comfort-and-function-impairment">Oral Comfort and Function Impairment</a></li><li><a href="#dietary-modifications-and-swallowing-challenges">Dietary Modifications and Swallowing Challenges</a></li><li><a href="#prevention-and-comprehensive-management-approach">Prevention and Comprehensive Management Approach</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/risk-and-concerns-with-saliva-importance.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -244,34 +243,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

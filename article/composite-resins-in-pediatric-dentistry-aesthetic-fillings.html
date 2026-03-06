@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#evolution-and-material-classification-of-composite-systems">Evolution and Material Classification of Composite Systems</a></li><li><a href="#adhesive-bonding-protocols-for-durable-pediatric-restorations">Adhesive Bonding Protocols for Durable Pediatric Restorations</a></li><li><a href="#volumetric-shrinkage-management-and-incremental-placement-technique">Volumetric Shrinkage Management and Incremental Placement Technique</a></li><li><a href="#clinical-longevity-data-and-failure-pattern-analysis">Clinical Longevity Data and Failure Pattern Analysis</a></li><li><a href="#shade-selection-stratification-and-aesthetic-excellence">Shade Selection, Stratification, and Aesthetic Excellence</a></li><li><a href="#marginal-adaptation-microleakage-and-long-term-durability">Marginal Adaptation, Microleakage, and Long-Term Durability</a></li><li><a href="#pediatric-specific-application-considerations-and-behavior-management">Pediatric-Specific Application Considerations and Behavior Management</a></li><li><a href="#post-operative-management-sensitivity-control-and-maintenance">Post-operative Management, Sensitivity Control, and Maintenance</a></li><li><a href="#emerging-materials-and-evidence-based-clinical-evolution">Emerging Materials and Evidence-Based Clinical Evolution</a></li><li><a href="#summary-and-clinical-pearls-for-evidence-based-practice">Summary and Clinical Pearls for Evidence-Based Practice</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/composite-resins-in-pediatric-dentistry-aesthetic-fillings.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -228,34 +227,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

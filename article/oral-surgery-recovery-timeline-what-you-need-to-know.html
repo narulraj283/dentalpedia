@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-what-to-expect-after-your-dental-surgery">Introduction: What to Expect After Your Dental Surgery</a></li><li><a href="#day-1-2-post-operative-hemostasis-control-and-pain-onset">Day 1-2 Post-Operative: Hemostasis Control and Pain Onset</a></li><li><a href="#day-3-5-peak-swelling-and-pain-improvement">Day 3-5: Peak Swelling and Pain Improvement</a></li><li><a href="#days-6-14-healing-progression-and-return-to-activity">Days 6-14: Healing Progression and Return to Activity</a></li><li><a href="#weeks-2-3-functional-recovery-and-diet-advancement">Weeks 2-3: Functional Recovery and Diet Advancement</a></li><li><a href="#weeks-4-12-beneath-the-surface-healing-and-long-term-recovery">Weeks 4-12: Beneath-the-Surface Healing and Long-Term Recovery</a></li><li><a href="#warning-signs-requiring-contact-with-your-surgeon">Warning Signs Requiring Contact With Your Surgeon</a></li><li><a href="#activity-restrictions-and-return-to-work-timeline">Activity Restrictions and Return-to-Work Timeline</a></li><li><a href="#managing-expectations-and-realistic-recovery-timelines">Managing Expectations and Realistic Recovery Timelines</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/oral-surgery-recovery-timeline-what-you-need-to-know.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -232,34 +231,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

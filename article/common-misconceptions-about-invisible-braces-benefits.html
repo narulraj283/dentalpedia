@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-clear-aligners-can-correct-any-malocclusion-that-fixed-braces-can-correct">Misconception 1: Clear Aligners Can Correct Any Malocclusion That Fixed Braces Can Correct</a></li><li><a href="#misconception-2-twenty-two-hours-daily-wear-is-a-suggestion-rather-than-a-requirement">Misconception 2: Twenty-Two Hours Daily Wear Is a Suggestion Rather Than a Requirement</a></li><li><a href="#misconception-3-clear-aligners-are-more-comfortable-than-fixed-braces">Misconception 3: Clear Aligners Are More Comfortable Than Fixed Braces</a></li><li><a href="#misconception-4-aligners-do-not-require-professional-monitoring">Misconception 4: Aligners Do Not Require Professional Monitoring</a></li><li><a href="#misconception-5-aligner-treatment-is-cheaper-than-fixed-appliance-therapy">Misconception 5: Aligner Treatment Is Cheaper Than Fixed Appliance Therapy</a></li><li><a href="#misconception-6-aligner-treatment-eliminates-plaque-accumulation">Misconception 6: Aligner Treatment Eliminates Plaque Accumulation</a></li><li><a href="#misconception-7-aligners-provide-superior-esthetic-results-compared-to-fixed-appliances">Misconception 7: Aligners Provide Superior Esthetic Results Compared to Fixed Appliances</a></li><li><a href="#misconception-8-aligner-treatment-eliminates-need-for-retention">Misconception 8: Aligner Treatment Eliminates Need for Retention</a></li><li><a href="#misconception-9-aligner-treated-dentitions-demonstrate-superior-periodontal-health-long-term">Misconception 9: Aligner-Treated Dentitions Demonstrate Superior Periodontal Health Long-Term</a></li><li><a href="#misconception-10-treatment-outcomes-depend-solely-on-appliance-choice">Misconception 10: Treatment Outcomes Depend Solely on Appliance Choice</a></li><li><a href="#clinical-treatment-algorithm">Clinical Treatment Algorithm</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-invisible-braces-benefits.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -218,34 +217,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

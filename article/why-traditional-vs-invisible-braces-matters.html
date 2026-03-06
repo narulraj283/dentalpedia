@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#theres-no-wrong-answer--just-the-right-answer-for-you">There's No Wrong Answer — Just the Right Answer for YOU</a></li><li><a href="#the-appearance-question">The Appearance Question</a></li><li><a href="#what-each-can-actually-fix">What Each Can Actually Fix</a></li><li><a href="#treatment-timeline-how-long-will-this-take">Treatment Timeline: How Long Will This Take?</a></li><li><a href="#cost-the-real-comparison">Cost: The Real Comparison</a></li><li><a href="#comfort-and-lifestyle">Comfort and Lifestyle</a></li><li><a href="#cleaning-and-oral-hygiene">Cleaning and Oral Hygiene</a></li><li><a href="#the-compliance-factor">The Compliance Factor</a></li><li><a href="#precision-and-refinement">Precision and Refinement</a></li><li><a href="#how-to-decide-your-personal-decision-framework">How to Decide: Your Personal Decision Framework</a></li><li><a href="#the-bottom-line-on-results">The Bottom Line on Results</a></li><li><a href="#what-to-ask-your-orthodontist">What to Ask Your Orthodontist</a></li><li><a href="#key-takeaway">Key Takeaway</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/why-traditional-vs-invisible-braces-matters.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -357,34 +356,13 @@ If you're 14 years old and forgetful, you might do better with braces that work 
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

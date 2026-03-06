@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#the-misconception-that-all-malocclusion-requires-identical-treatment">The Misconception That All Malocclusion Requires Identical Treatment</a></li><li><a href="#the-falsehood-that-all-brackets-perform-identically">The Falsehood That All Brackets Perform Identically</a></li><li><a href="#misconceptions-about-class-ii-elastic-protocols-and-compliance">Misconceptions About Class II Elastic Protocols and Compliance</a></li><li><a href="#the-misconception-that-class-iii-correction-requires-extraction">The Misconception That Class III Correction Requires Extraction</a></li><li><a href="#misconceptions-about-skeletal-anchorage-and-miniscrew-applications">Misconceptions About Skeletal Anchorage and Miniscrew Applications</a></li><li><a href="#the-falsehood-that-early-treatment-eliminates-adult-braces">The Falsehood That Early Treatment Eliminates Adult Braces</a></li><li><a href="#misconceptions-about-extraction-versus-non-extraction-outcomes">Misconceptions About Extraction Versus Non-Extraction Outcomes</a></li><li><a href="#misconceptions-about-bonded-versus-banded-molars">Misconceptions About Bonded Versus Banded Molars</a></li><li><a href="#the-misconception-that-tongue-thrust-prevents-stability">The Misconception That Tongue-Thrust Prevents Stability</a></li><li><a href="#misconceptions-about-retention-necessity-and-perpetual-wear">Misconceptions About Retention Necessity and Perpetual Wear</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-bite-correction-methods.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -238,34 +237,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

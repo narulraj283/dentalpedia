@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#inferior-alveolar-nerve-anatomy-and-injury-mechanisms">Inferior Alveolar Nerve Anatomy and Injury Mechanisms</a></li><li><a href="#lingual-nerve-injury-incidence-and-anatomic-considerations">Lingual Nerve Injury: Incidence and Anatomic Considerations</a></li><li><a href="#incidence-rates-and-risk-factors-for-trigeminal-nerve-injury">Incidence Rates and Risk Factors for Trigeminal Nerve Injury</a></li><li><a href="#sensory-recovery-timelines-and-prognostic-factors">Sensory Recovery Timelines and Prognostic Factors</a></li><li><a href="#prevention-strategies-and-surgical-technique-modifications">Prevention Strategies and Surgical Technique Modifications</a></li><li><a href="#microsurgical-repair-of-complete-nerve-transection">Microsurgical Repair of Complete Nerve Transection</a></li><li><a href="#laser-therapy-and-emerging-treatment-modalities-for-nerve-injury-recovery">Laser Therapy and Emerging Treatment Modalities for Nerve Injury Recovery</a></li><li><a href="#neuropathic-pain-and-phantom-sensation-management">Neuropathic Pain and Phantom Sensation Management</a></li><li><a href="#patient-communication-and-informed-consent">Patient Communication and Informed Consent</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/nerve-damage-paresthesia-after-extraction.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -242,34 +241,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

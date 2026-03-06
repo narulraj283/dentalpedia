@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#the-neurobiology-of-dental-anxiety-and-the-rationale-for-non-pharmacologic-management">The Neurobiology of Dental Anxiety and the Rationale for Non-Pharmacologic Management</a></li><li><a href="#diaphragmatic-breathing-physiologic-regulation-of-autonomic-function">Diaphragmatic Breathing: Physiologic Regulation of Autonomic Function</a></li><li><a href="#progressive-muscle-relaxation-systematic-tension-release-sequencing">Progressive Muscle Relaxation: Systematic Tension-Release Sequencing</a></li><li><a href="#guided-imagery-and-visualization-harnessing-the-brains-sensory-systems">Guided Imagery and Visualization: Harnessing the Brain's Sensory Systems</a></li><li><a href="#mindfulness-and-acceptance-based-approaches-present-moment-awareness">Mindfulness and Acceptance-Based Approaches: Present-Moment Awareness</a></li><li><a href="#biofeedback-and-real-time-physiologic-monitoring">Biofeedback and Real-Time Physiologic Monitoring</a></li><li><a href="#cognitive-behavioral-approaches-and-attention-modification">Cognitive-Behavioral Approaches and Attention Modification</a></li><li><a href="#systematic-desensitization-and-graduated-exposure">Systematic Desensitization and Graduated Exposure</a></li><li><a href="#integration-with-pharmacologic-and-conscious-sedation-approaches">Integration with Pharmacologic and Conscious Sedation Approaches</a></li><li><a href="#patient-education-and-long-term-anxiety-management">Patient Education and Long-Term Anxiety Management</a></li><li><a href="#conclusion-evidence-based-non-pharmacologic-anxiety-management">Conclusion: Evidence-Based Non-Pharmacologic Anxiety Management</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/relaxation-techniques-breathing-and-meditation.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -240,34 +239,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

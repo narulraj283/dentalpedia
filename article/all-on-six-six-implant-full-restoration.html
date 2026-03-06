@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#biomechanical-rationale-why-six-implants-outperform-four">Biomechanical Rationale: Why Six Implants Outperform Four</a></li><li><a href="#implant-positioning-strategy-in-all-on-six-design">Implant Positioning Strategy in All-on-Six Design</a></li><li><a href="#comparison-of-all-on-six-with-all-on-four-outcomes">Comparison of All-on-Six with All-on-Four Outcomes</a></li><li><a href="#indications-for-all-on-six-versus-all-on-four">Indications for All-on-Six Versus All-on-Four</a></li><li><a href="#surgical-complexity-and-operative-considerations">Surgical Complexity and Operative Considerations</a></li><li><a href="#maintenance-protocol-and-implant-monitoring">Maintenance Protocol and Implant Monitoring</a></li><li><a href="#cost-benefit-analysis-and-patient-counseling">Cost-Benefit Analysis and Patient Counseling</a></li><li><a href="#nobel-biocare-and-straumann-all-on-six-protocols">Nobel Biocare and Straumann All-on-Six Protocols</a></li><li><a href="#clinical-decision-making-algorithm">Clinical Decision-Making Algorithm</a></li><li><a href="#conclusion-the-all-on-six-advantage-for-optimal-outcomes">Conclusion: The All-on-Six Advantage for Optimal Outcomes</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/all-on-six-six-implant-full-restoration.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -246,34 +245,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

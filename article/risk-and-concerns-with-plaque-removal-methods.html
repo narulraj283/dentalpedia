@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-to-plaque-removal-complications">Introduction to Plaque Removal Complications</a></li><li><a href="#overaggressive-hand-instrumentation-and-root-surface-loss">Overaggressive Hand Instrumentation and Root Surface Loss</a></li><li><a href="#ultrasonic-instrumentation-and-thermal-injury">Ultrasonic Instrumentation and Thermal Injury</a></li><li><a href="#manual-instrumentation-root-surface-removal-and-sensitivity">Manual Instrumentation Root Surface Removal and Sensitivity</a></li><li><a href="#ultrasonic-instrumentation-and-incomplete-calculus-removal">Ultrasonic Instrumentation and Incomplete Calculus Removal</a></li><li><a href="#chemical-plaque-control-adverse-effects">Chemical Plaque Control Adverse Effects</a></li><li><a href="#ciancio-examined-antiseptic-agents-in-periodontal-therapy-establishing-that-while-agents-including-chlorhexidine-povidone-iodine-and-phenolic-compounds-provide-antimicrobial-effects-they-all-carry-risk-profiles-including-allergic-reactions-cytotoxicity-and-disruption-of-oral-microflora-povidone-iodine-while-effective-against-many-periodontal-pathogens-creates-iodine-absorption-risk-in-patients-with-thyroid-disorders-and-poses-allergic-reaction-risk-in-iodine-sensitive-individuals-essential-oil-based-mouthwashes-while-generally-well-tolerated-demonstrate-irritating-effects-at-full-strength-concentrations-and-incomplete-evidence-for-clinical-efficacy-when-diluted-to-safer-concentrations">Ciancio examined antiseptic agents in periodontal therapy, establishing that while agents including chlorhexidine, povidone-iodine, and phenolic compounds provide antimicrobial effects, they all carry risk profiles including allergic reactions, cytotoxicity, and disruption of oral microflora. Povidone-iodine, while effective against many periodontal pathogens, creates iodine absorption risk in patients with thyroid disorders and poses allergic reaction risk in iodine-sensitive individuals. Essential oil-based mouthwashes, while generally well-tolerated, demonstrate irritating effects at full-strength concentrations and incomplete evidence for clinical efficacy when diluted to safer concentrations.</a></li><li><a href="#gingival-recession-and-soft-tissue-damage-from-instrumentation">Gingival Recession and Soft Tissue Damage from Instrumentation</a></li><li><a href="#plaque-removal-device-trauma-in-aggressive-patients">Plaque Removal Device Trauma in Aggressive Patients</a></li><li><a href="#antibiotic-resistance-and-dysbiosis-from-subgingival-chemical-therapy">Antibiotic Resistance and Dysbiosis from Subgingival Chemical Therapy</a></li><li><a href="#recommendation-for-risk-minimization-in-plaque-removal">Recommendation for Risk Minimization in Plaque Removal</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/risk-and-concerns-with-plaque-removal-methods.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -228,34 +227,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

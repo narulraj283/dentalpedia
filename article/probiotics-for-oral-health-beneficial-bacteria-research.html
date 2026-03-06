@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-to-oral-probiotics-and-beneficial-oral-microbiota">Introduction to Oral Probiotics and Beneficial Oral Microbiota</a></li><li><a href="#lactobacillus-reuteri-antimicrobial-mechanisms-and-clinical-evidence">Lactobacillus reuteri: Antimicrobial Mechanisms and Clinical Evidence</a></li><li><a href="#streptococcus-salivarius-k12-and-m18-strains">Streptococcus salivarius K12 and M18 Strains</a></li><li><a href="#lactobacillus-paracasei-and-other-candidate-strains">Lactobacillus paracasei and Other Candidate Strains</a></li><li><a href="#oral-microbiota-modulation-mechanisms-and-biofilm-competition">Oral Microbiota Modulation Mechanisms and Biofilm Competition</a></li><li><a href="#clinical-delivery-systems-and-probiotic-stability">Clinical Delivery Systems and Probiotic Stability</a></li><li><a href="#systematic-review-evidence-and-meta-analysis-findings">Systematic Review Evidence and Meta-Analysis Findings</a></li><li><a href="#limitations-and-current-evidence-interpretation">Limitations and Current Evidence Interpretation</a></li><li><a href="#translational-considerations-and-future-research-directions">Translational Considerations and Future Research Directions</a></li><li><a href="#clinical-integration-and-patient-communication">Clinical Integration and Patient Communication</a></li><li><a href="#conclusion-current-evidence-and-future-potential">Conclusion: Current Evidence and Future Potential</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/probiotics-for-oral-health-beneficial-bacteria-research.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -236,34 +235,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-swelling-pathophysiology-and-management-principles">Introduction: Swelling Pathophysiology and Management Principles</a></li><li><a href="#post-operative-swelling-physiology-and-timeline">Post-Operative Swelling Physiology and Timeline</a></li><li><a href="#nsaid-efficacy-and-contraindications">NSAID Efficacy and Contraindications</a></li><li><a href="#corticosteroid-use-and-associated-risks">Corticosteroid Use and Associated Risks</a></li><li><a href="#ice-therapy-protocols-and-limitations">Ice Therapy Protocols and Limitations</a></li><li><a href="#heat-therapy-and-post-operative-pain-management">Heat Therapy and Post-Operative Pain Management</a></li><li><a href="#pharmacologic-pain-control-and-swelling-relationship">Pharmacologic Pain Control and Swelling Relationship</a></li><li><a href="#lymphatic-drainage-and-elevation-protocols">Lymphatic Drainage and Elevation Protocols</a></li><li><a href="#allergic-reactions-and-medication-sensitivities">Allergic Reactions and Medication Sensitivities</a></li><li><a href="#patient-education-and-expectation-management">Patient Education and Expectation Management</a></li><li><a href="#conclusion-multimodal-swelling-management-and-individualized-approach">Conclusion: Multimodal Swelling Management and Individualized Approach</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/risk-and-concerns-with-swelling-reduction.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -246,34 +245,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

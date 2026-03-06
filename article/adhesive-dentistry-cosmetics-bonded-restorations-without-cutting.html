@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#evolution-of-adhesive-systems-from-first-to-eighth-generation">Evolution of Adhesive Systems: From First to Eighth Generation</a></li><li><a href="#total-etch-versus-self-etch-versus-universal-adhesives">Total-Etch Versus Self-Etch Versus Universal Adhesives</a></li><li><a href="#composite-materials-nanofilled-microhybrid-and-nanohybrid-classifications">Composite Materials: Nanofilled, Microhybrid, and Nanohybrid Classifications</a></li><li><a href="#direct-bonded-restoration-technique-layering-curing-and-shade-mastery">Direct Bonded Restoration Technique: Layering, Curing, and Shade Mastery</a></li><li><a href="#direct-versus-indirect-bonded-restorations">Direct Versus Indirect Bonded Restorations</a></li><li><a href="#minimal-intervention-philosophy-and-case-selection">Minimal Intervention Philosophy and Case Selection</a></li><li><a href="#enamel-versus-dentin-bonding-chemistry-and-longevity">Enamel Versus Dentin Bonding: Chemistry and Longevity</a></li><li><a href="#finishing-and-polishing-protocols">Finishing and Polishing Protocols</a></li><li><a href="#longevity-data-and-evidence-based-expectations">Longevity Data and Evidence-Based Expectations</a></li><li><a href="#practical-recommendations-for-cosmetic-success">Practical Recommendations for Cosmetic Success</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -260,34 +259,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

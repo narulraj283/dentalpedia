@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-recovery-takes-a-few-days-regardless-of-procedure-type">Misconception 1: Recovery Takes "A Few Days" Regardless of Procedure Type</a></li><li><a href="#misconception-2-normal-pain-should-resolve-within-2-3-days">Misconception 2: Normal Pain Should Resolve Within 2-3 Days</a></li><li><a href="#misconception-3-swelling-peaks-within-24-hours-and-resolves-by-day-3">Misconception 3: Swelling Peaks Within 24 Hours and Resolves by Day 3</a></li><li><a href="#misconception-4-trismus-mouth-opening-limitation-resolves-within-one-week">Misconception 4: Trismus (Mouth Opening Limitation) Resolves Within One Week</a></li><li><a href="#misconception-5-limited-mouth-opening-is-purely-temporary-and-requires-no-treatment">Misconception 5: Limited Mouth Opening Is Purely Temporary and Requires No Treatment</a></li><li><a href="#misconception-6-patients-can-return-to-workschool-within-2-3-days-regardless-of-procedure">Misconception 6: Patients Can Return to Work/School Within 2-3 Days Regardless of Procedure</a></li><li><a href="#misconception-7-numbness-resolving-by-one-month-indicates-complete-nerve-recovery">Misconception 7: Numbness Resolving by One Month Indicates Complete Nerve Recovery</a></li><li><a href="#misconception-8-dietary-restrictions-apply-only-while-acute-pain-persists">Misconception 8: Dietary Restrictions Apply Only While Acute Pain Persists</a></li><li><a href="#misconception-9-tissue-remodeling-and-final-healing-stabilize-within-3-6-months">Misconception 9: Tissue Remodeling and Final Healing Stabilize Within 3-6 Months</a></li><li><a href="#summary-and-clinical-pearls">Summary and Clinical Pearls</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-recovery-timeline.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -228,34 +227,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

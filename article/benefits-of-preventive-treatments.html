@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#the-evidence-hierarchy-in-preventive-dentistry">The Evidence Hierarchy in Preventive Dentistry</a></li><li><a href="#fluoride-varnish-highest-evidence-for-topical-fluoride-application">Fluoride Varnish: Highest Evidence for Topical Fluoride Application</a></li><li><a href="#dental-sealants-mechanical-barrier-against-occlusal-caries">Dental Sealants: Mechanical Barrier Against Occlusal Caries</a></li><li><a href="#silver-diamine-fluoride-arrest-and-prevention-combined">Silver Diamine Fluoride: Arrest and Prevention Combined</a></li><li><a href="#prophylactic-cleaning-frequency-moving-from-protocol-to-risk-based-timing">Prophylactic Cleaning Frequency: Moving from Protocol to Risk-Based Timing</a></li><li><a href="#xylitol-substrate-elimination-and-fluoride-enhancement">Xylitol: Substrate Elimination and Fluoride Enhancement</a></li><li><a href="#calcium-phosphate-based-products-cpp-acp-and-mi-paste">Calcium Phosphate-Based Products: CPP-ACP and MI Paste</a></li><li><a href="#antimicrobial-rinses-chlorhexidine-and-povidone-iodine-applications">Antimicrobial Rinses: Chlorhexidine and Povidone-Iodine Applications</a></li><li><a href="#patient-education-and-behavioral-change-evidence-based-counseling">Patient Education and Behavioral Change: Evidence-Based Counseling</a></li><li><a href="#cambra-comprehensive-risk-based-prevention-model">CAMBRA: Comprehensive Risk-Based Prevention Model</a></li><li><a href="#cost-effectiveness-and-population-based-prevention">Cost-Effectiveness and Population-Based Prevention</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/benefits-of-preventive-treatments.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -248,34 +247,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

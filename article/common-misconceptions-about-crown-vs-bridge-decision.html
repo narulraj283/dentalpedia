@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-implant-therapy-is-always-superior-to-bridge-treatment">Misconception: Implant Therapy Is Always Superior to Bridge Treatment</a></li><li><a href="#misconception-bridge-treatment-always-requires-preparation-of-healthy-adjacent-teeth">Misconception: Bridge Treatment Always Requires Preparation of Healthy Adjacent Teeth</a></li><li><a href="#misconception-bridge-abutments-deteriorate-faster-than-remaining-natural-dentition">Misconception: Bridge Abutments Deteriorate Faster Than Remaining Natural Dentition</a></li><li><a href="#misconception-bone-resorption-beneath-bridge-pontics-prevents-implant-placement">Misconception: Bone Resorption Beneath Bridge Pontics Prevents Implant Placement</a></li><li><a href="#misconception-multiple-implants-are-always-preferable-to-bridge-treatment-for-multiple-missing-teeth">Misconception: Multiple Implants Are Always Preferable to Bridge Treatment for Multiple Missing Teeth</a></li><li><a href="#misconception-bridge-teeth-cannot-be-treated-endodontically">Misconception: Bridge Teeth Cannot Be Treated Endodontically</a></li><li><a href="#misconception-implant-treatment-cannot-fail-biologically-before-restoration-fabrication">Misconception: Implant Treatment Cannot Fail Biologically Before Restoration Fabrication</a></li><li><a href="#misconception-implant-placement-always-requires-bone-augmentation-after-bridge-removal">Misconception: Implant Placement Always Requires Bone Augmentation After Bridge Removal</a></li><li><a href="#misconception-bridge-cannot-be-modified-to-become-implant-supported">Misconception: Bridge Cannot Be Modified to Become Implant-Supported</a></li><li><a href="#clinical-decision-algorithm">Clinical Decision Algorithm</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-crown-vs-bridge-decision.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -256,34 +255,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

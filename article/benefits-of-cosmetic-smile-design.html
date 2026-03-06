@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#digital-smile-design-transforming-patient-communication">Digital Smile Design: Transforming Patient Communication</a></li><li><a href="#two-dimensional-analysis-foundation-of-smile-assessment">Two-Dimensional Analysis: Foundation of Smile Assessment</a></li><li><a href="#three-dimensional-digital-planning">Three-Dimensional Digital Planning</a></li><li><a href="#golden-proportion-debate-understanding-aesthetic-ratios">Golden Proportion Debate: Understanding Aesthetic Ratios</a></li><li><a href="#emotional-tooth-design-concept">Emotional Tooth Design Concept</a></li><li><a href="#smile-symmetry-assessment-and-dominance">Smile Symmetry Assessment and Dominance</a></li><li><a href="#phonetic-testing-validation-through-speech">Phonetic Testing: Validation Through Speech</a></li><li><a href="#diagnostic-mock-up-physical-validation">Diagnostic Mock-Up: Physical Validation</a></li><li><a href="#treatment-sequencing-and-phasing">Treatment Sequencing and Phasing</a></li><li><a href="#patient-communication-tools-and-approval">Patient Communication Tools and Approval</a></li><li><a href="#integration-with-treatment-planning">Integration with Treatment Planning</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/benefits-of-cosmetic-smile-design.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -328,34 +327,13 @@ Documentation of approved design in the treatment record protects both patient a
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

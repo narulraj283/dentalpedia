@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-extraction-decision-as-treatment-complexity-factor">Introduction: Extraction Decision as Treatment Complexity Factor</a></li><li><a href="#misconception-1-tooth-extraction-universally-represents-treatment-failure-rather-than-strategic-choice">Misconception 1: Tooth Extraction Universally Represents Treatment Failure Rather Than Strategic Choice</a></li><li><a href="#misconception-2-extraction-indicates-insufficient-arch-expansion-attempt-before-treatment-commitment">Misconception 2: Extraction Indicates Insufficient Arch Expansion Attempt Before Treatment Commitment</a></li><li><a href="#misconception-3-premolar-extraction-represents-only-rational-extraction-strategy">Misconception 3: Premolar Extraction Represents Only Rational Extraction Strategy</a></li><li><a href="#misconception-4-crowding-severity-of-6-8-mm-automatically-indicates-extraction-necessity">Misconception 4: Crowding Severity of 6-8 mm Automatically Indicates Extraction Necessity</a></li><li><a href="#misconception-5-extraction-automatically-creates-esthetic-compromise-through-loss-of-tooth-display">Misconception 5: Extraction Automatically Creates Esthetic Compromise Through Loss of Tooth Display</a></li><li><a href="#misconception-6-class-i-molar-relationships-cannot-be-achieved-without-first-premolar-extraction">Misconception 6: Class I Molar Relationships Cannot Be Achieved Without First Premolar Extraction</a></li><li><a href="#misconception-7-extraction-creates-permanent-posterior-space-closure-precluding-future-prosthodontic-rehabilitation">Misconception 7: Extraction Creates Permanent Posterior Space Closure Precluding Future Prosthodontic Rehabilitation</a></li><li><a href="#misconception-8-extraction-cases-demonstrate-inevitable-relapse-and-long-term-crowding-recurrence">Misconception 8: Extraction Cases Demonstrate Inevitable Relapse and Long-Term Crowding Recurrence</a></li><li><a href="#misconception-9-single-arch-extraction-never-represents-appropriate-strategy">Misconception 9: Single Arch Extraction Never Represents Appropriate Strategy</a></li><li><a href="#misconception-10-extraction-decisions-can-be-deferred-until-comprehensive-treatment-initiation">Misconception 10: Extraction Decisions Can Be Deferred Until Comprehensive Treatment Initiation</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-orthodontic-extraction-decision.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -238,34 +237,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

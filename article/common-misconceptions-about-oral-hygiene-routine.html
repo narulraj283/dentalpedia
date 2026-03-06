@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-separating-evidence-from-misconception">Introduction: Separating Evidence from Misconception</a></li><li><a href="#misconception-1-brushing-twice-daily-is-sufficient-for-all-patients">Misconception 1: Brushing Twice Daily is Sufficient for All Patients</a></li><li><a href="#misconception-2-electric-toothbrushes-are-universally-superior-to-manual-brushes">Misconception 2: Electric Toothbrushes are Universally Superior to Manual Brushes</a></li><li><a href="#misconception-3-toothpaste-fluoride-concentration-above-1450-ppm-f-provides-greater-benefit">Misconception 3: Toothpaste Fluoride Concentration Above 1,450 ppm F Provides Greater Benefit</a></li><li><a href="#misconception-4-flossing-is-optional-for-periodontal-health">Misconception 4: Flossing is Optional for Periodontal Health</a></li><li><a href="#misconception-5-antimicrobial-rinses-eliminate-the-need-for-mechanical-biofilm-control">Misconception 5: Antimicrobial Rinses Eliminate the Need for Mechanical Biofilm Control</a></li><li><a href="#misconception-6-whitening-toothpastes-provide-clinically-significant-shade-modification">Misconception 6: Whitening Toothpastes Provide Clinically Significant Shade Modification</a></li><li><a href="#misconception-7-rinsing-immediately-after-brushing-enhances-fluoride-protection">Misconception 7: Rinsing Immediately After Brushing Enhances Fluoride Protection</a></li><li><a href="#misconception-8-aggressive-brushing-technique-improves-plaque-removal">Misconception 8: Aggressive Brushing Technique Improves Plaque Removal</a></li><li><a href="#misconception-9-natural-or-herbal-toothpastes-provide-superior-safety-profiles">Misconception 9: Natural or Herbal Toothpastes Provide Superior Safety Profiles</a></li><li><a href="#misconception-10-oral-hygiene-alone-prevents-all-dental-disease">Misconception 10: Oral Hygiene Alone Prevents All Dental Disease</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-oral-hygiene-routine.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -232,34 +231,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

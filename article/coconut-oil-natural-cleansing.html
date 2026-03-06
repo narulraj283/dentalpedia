@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#molecular-composition-and-antimicrobial-mechanisms">Molecular Composition and Antimicrobial Mechanisms</a></li><li><a href="#oil-pulling-methodology-and-clinical-protocols">Oil Pulling Methodology and Clinical Protocols</a></li><li><a href="#efficacy-in-plaque-reduction-and-biofilm-control">Efficacy in Plaque Reduction and Biofilm Control</a></li><li><a href="#anti-inflammatory-and-periodontal-health-outcomes">Anti-Inflammatory and Periodontal Health Outcomes</a></li><li><a href="#halitosis-management-and-volatile-sulfur-compound-reduction">Halitosis Management and Volatile Sulfur Compound Reduction</a></li><li><a href="#microbial-selectivity-and-preservation-of-commensal-flora">Microbial Selectivity and Preservation of Commensal Flora</a></li><li><a href="#integration-with-mechanical-plaque-control-and-conventional-protocols">Integration with Mechanical Plaque Control and Conventional Protocols</a></li><li><a href="#adverse-effects-and-safety-considerations">Adverse Effects and Safety Considerations</a></li><li><a href="#comparison-with-evidence-based-conventional-alternatives">Comparison with Evidence-Based Conventional Alternatives</a></li><li><a href="#clinical-recommendations-and-patient-selection">Clinical Recommendations and Patient Selection</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/coconut-oil-natural-cleansing.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -204,34 +203,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

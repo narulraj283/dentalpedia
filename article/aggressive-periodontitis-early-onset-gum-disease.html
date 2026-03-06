@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#2018-aapefp-classification-reclassification-from-aggressive-to-grading-system">2018 AAP/EFP Classification Reclassification: From "Aggressive" to Grading System</a></li><li><a href="#aggregatibacter-actinomycetemcomitans-keystone-pathogen-in-rapid-progression">Aggregatibacter actinomycetemcomitans: Keystone Pathogen in Rapid Progression</a></li><li><a href="#genetic-susceptibility-il-1-polymorphisms-and-neutrophil-defects">Genetic Susceptibility: IL-1 Polymorphisms and Neutrophil Defects</a></li><li><a href="#clinical-presentation-first-molar-and-incisor-pattern">Clinical Presentation: First Molar and Incisor Pattern</a></li><li><a href="#radiographic-findings-vertical-bone-loss-pattern">Radiographic Findings: Vertical Bone Loss Pattern</a></li><li><a href="#treatment-protocol-scaling-and-root-planing-plus-systemic-antibiotics">Treatment Protocol: Scaling and Root Planing Plus Systemic Antibiotics</a></li><li><a href="#surgical-options-and-maintenance-requirements">Surgical Options and Maintenance Requirements</a></li><li><a href="#3-month-recall-maintenance-protocol">3-Month Recall Maintenance Protocol</a></li><li><a href="#prognosis-factors-and-treatment-predictability">Prognosis Factors and Treatment Predictability</a></li><li><a href="#contemporary-understanding-and-future-directions">Contemporary Understanding and Future Directions</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/aggressive-periodontitis-early-onset-gum-disease.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -345,34 +344,13 @@ Prognosis varies substantially: localized Grade C cases in compliant, non-smokin
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

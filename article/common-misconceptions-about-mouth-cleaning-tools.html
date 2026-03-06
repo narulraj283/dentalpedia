@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-manual-and-electric-toothbrushes-provide-equivalent-plaque-removal">Misconception 1: Manual and Electric Toothbrushes Provide Equivalent Plaque Removal</a></li><li><a href="#misconception-2-harder-toothbrush-bristles-remove-more-plaque">Misconception 2: Harder Toothbrush Bristles Remove More Plaque</a></li><li><a href="#misconception-3-flossing-provides-minimal-benefit-if-brushing-is-thorough">Misconception 3: Flossing Provides Minimal Benefit if Brushing Is Thorough</a></li><li><a href="#misconception-4-water-flossers-cannot-replace-string-floss">Misconception 4: Water Flossers Cannot Replace String Floss</a></li><li><a href="#misconception-5-mouthwash-can-substitute-for-mechanical-cleaning">Misconception 5: Mouthwash Can Substitute for Mechanical Cleaning</a></li><li><a href="#misconception-6-toothbrush-replacement-intervals-are-arbitrary">Misconception 6: Toothbrush Replacement Intervals Are Arbitrary</a></li><li><a href="#misconception-7-professional-cleaning-eliminates-need-for-daily-home-care">Misconception 7: Professional Cleaning Eliminates Need for Daily Home Care</a></li><li><a href="#misconception-8-sonic-toothbrushes-prove-superior-to-oscillating-rotating-designs">Misconception 8: Sonic Toothbrushes Prove Superior to Oscillating-Rotating Designs</a></li><li><a href="#misconception-9-interdental-brushes-suffice-without-floss-for-all-cases">Misconception 9: Interdental Brushes Suffice Without Floss for All Cases</a></li><li><a href="#misconception-10-tongue-scraping-eliminates-bad-breath">Misconception 10: Tongue Scraping Eliminates Bad Breath</a></li><li><a href="#clinical-implementation-guidelines">Clinical Implementation Guidelines</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-mouth-cleaning-tools.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -232,34 +231,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

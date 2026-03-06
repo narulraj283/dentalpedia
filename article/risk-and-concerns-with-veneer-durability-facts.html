@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-veneer-longevity-reality-versus-patient-expectations">Introduction: Veneer Longevity Reality Versus Patient Expectations</a></li><li><a href="#debonding-and-adhesive-integrity">Debonding and Adhesive Integrity</a></li><li><a href="#porcelain-veneer-fracture-mechanisms">Porcelain Veneer Fracture Mechanisms</a></li><li><a href="#composite-veneer-longevity-limitations">Composite Veneer Longevity Limitations</a></li><li><a href="#margin-discoloration-and-esthetic-complications">Margin Discoloration and Esthetic Complications</a></li><li><a href="#preparation-irreversibility-and-tooth-structure-loss">Preparation Irreversibility and Tooth Structure Loss</a></li><li><a href="#opposing-tooth-wear-and-occlusal-stress">Opposing Tooth Wear and Occlusal Stress</a></li><li><a href="#parafunction-and-behavioral-risk-factors">Parafunction and Behavioral Risk Factors</a></li><li><a href="#preparation-design-and-enamel-preservation">Preparation Design and Enamel Preservation</a></li><li><a href="#maintenance-and-professional-monitoring-requirements">Maintenance and Professional Monitoring Requirements</a></li><li><a href="#cost-effectiveness-and-long-term-financial-implications">Cost-Effectiveness and Long-term Financial Implications</a></li><li><a href="#conclusion-realistic-expectations-and-evidence-based-veneer-treatment">Conclusion: Realistic Expectations and Evidence-Based Veneer Treatment</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/risk-and-concerns-with-veneer-durability-facts.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -256,34 +255,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

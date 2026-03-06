@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#the-road-to-recovery-day-by-day-expectations">The Road to Recovery: Day-by-Day Expectations</a></li><li><a href="#today-immediately-post-surgery">Today (Immediately Post-Surgery)</a></li><li><a href="#day-1-tomorrow">Day 1 (Tomorrow)</a></li><li><a href="#days-2-3-this-weekend">Days 2-3 (This Weekend)</a></li><li><a href="#days-4-7-your-first-week-post-operative-visit">Days 4-7 (Your First Week Post-Operative Visit)</a></li><li><a href="#week-2-days-8-14">Week 2 (Days 8-14)</a></li><li><a href="#weeks-3-4-and-beyond">Weeks 3-4 and Beyond</a></li><li><a href="#soft-food-options-through-your-healing-week">Soft Food Options Through Your Healing Week</a></li><li><a href="#return-to-activity-timeline">Return-to-Activity Timeline</a></li><li><a href="#activity-examples-that-are-and-arent-allowed">Activity Examples That Are and Aren't Allowed</a></li><li><a href="#managing-swelling-at-home">Managing Swelling at Home</a></li><li><a href="#mouth-care-protecting-your-healing-mouth">Mouth Care: Protecting Your Healing Mouth</a></li><li><a href="#emergency-situations-when-to-call-immediately">Emergency Situations: When to Call Immediately</a></li><li><a href="#pain-medication-timing">Pain Medication Timing</a></li><li><a href="#follow-up-appointments">Follow-Up Appointments</a></li><li><a href="#medication-and-substance-precautions">Medication and Substance Precautions</a></li><li><a href="#realistic-healing-expectations">Realistic Healing Expectations</a></li><li><a href="#final-thoughts-youre-not-alone">Final Thoughts: You're Not Alone</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/post-surgery-care-what-you-need-to-know.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -396,34 +395,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

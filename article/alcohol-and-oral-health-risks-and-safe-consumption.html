@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#alcohol-related-oral-pathology-spectrum">Alcohol-Related Oral Pathology Spectrum</a></li><li><a href="#acetaldehyde-carcinogenesis-the-direct-mechanism">Acetaldehyde Carcinogenesis: The Direct Mechanism</a></li><li><a href="#dose-response-relationship-30gday-creates-significant-risk">Dose-Response Relationship: >30g/Day Creates Significant Risk</a></li><li><a href="#synergistic-tobacco-alcohol-interaction-multiplicative-not-additive">Synergistic Tobacco-Alcohol Interaction: Multiplicative Not Additive</a></li><li><a href="#salivary-gland-dysfunction-and-oral-complications">Salivary Gland Dysfunction and Oral Complications</a></li><li><a href="#zinc-deficiency-role-in-oral-complications">Zinc Deficiency Role in Oral Complications</a></li><li><a href="#nutritional-consequences-and-systemic-impacts">Nutritional Consequences and Systemic Impacts</a></li><li><a href="#screening-recommendations-and-intervention-protocols">Screening Recommendations and Intervention Protocols</a></li><li><a href="#safe-consumption-guidelines-and-evidence-based-recommendations">Safe Consumption Guidelines and Evidence-Based Recommendations</a></li><li><a href="#dental-considerations-in-alcohol-dependent-patients">Dental Considerations in Alcohol-Dependent Patients</a></li><li><a href="#practical-patient-communication">Practical Patient Communication</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/alcohol-and-oral-health-risks-and-safe-consumption.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -345,34 +344,13 @@ Dental treatment should support recovery: consider dental care as component of r
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

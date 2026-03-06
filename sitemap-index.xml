@@ -4,6 +4,9 @@
     <loc>https://dentalpedia.co/sitemap-articles.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>https://dentalpedia.co/sitemap-clinical.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>https://dentalpedia.co/sitemap-categories.xml</loc>
   </sitemap>
   <sitemap>

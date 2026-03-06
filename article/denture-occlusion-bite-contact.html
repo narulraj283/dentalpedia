@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#balanced-occlusion-principles-and-historical-development">Balanced Occlusion Principles and Historical Development</a></li><li><a href="#static-occlusal-relationships-and-centric-relation">Static Occlusal Relationships and Centric Relation</a></li><li><a href="#occlusal-plane-geometry-and-landmark-positioning">Occlusal Plane Geometry and Landmark Positioning</a></li><li><a href="#protrusive-guidance-and-anterior-occlusal-contacts">Protrusive Guidance and Anterior Occlusal Contacts</a></li><li><a href="#lateral-excursive-contacts-and-workingbalancing-side-positioning">Lateral Excursive Contacts and Working/Balancing Side Positioning</a></li><li><a href="#dynamic-occlusal-analysis-during-mastication">Dynamic Occlusal Analysis During Mastication</a></li><li><a href="#occlusal-adjustment-techniques-and-grinding-protocols">Occlusal Adjustment Techniques and Grinding Protocols</a></li><li><a href="#denture-base-material-properties-and-occlusal-stress">Denture Base Material Properties and Occlusal Stress</a></li><li><a href="#opposing-natural-dentition-considerations">Opposing Natural Dentition Considerations</a></li><li><a href="#temporary-relining-and-occlusal-changes">Temporary Relining and Occlusal Changes</a></li><li><a href="#patient-adaptation-and-neuromuscular-accommodation">Patient Adaptation and Neuromuscular Accommodation</a></li><li><a href="#long-term-occlusal-stability-and-maintenance">Long-Term Occlusal Stability and Maintenance</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/denture-occlusion-bite-contact.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -246,34 +245,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

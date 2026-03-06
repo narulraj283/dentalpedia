@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-healing-phase-framework-for-surgical-prediction">Introduction: Healing Phase Framework for Surgical Prediction</a></li><li><a href="#misconception-1-swelling-and-bruising-represent-complications-rather-than-normal-healing-response">Misconception 1: Swelling and Bruising Represent Complications Rather Than Normal Healing Response</a></li><li><a href="#misconception-2-persistent-post-operative-pain-beyond-48-hours-indicates-infection-or-complication">Misconception 2: Persistent Post-operative Pain Beyond 48 Hours Indicates Infection or Complication</a></li><li><a href="#misconception-3-complete-alveolar-bone-healing-occurs-within-2-4-weeks-post-extraction">Misconception 3: Complete Alveolar Bone Healing Occurs Within 2-4 Weeks Post-Extraction</a></li><li><a href="#misconception-4-cessation-of-oral-hygiene-represents-necessary-component-of-healing">Misconception 4: Cessation of Oral Hygiene Represents Necessary Component of Healing</a></li><li><a href="#misconception-5-return-to-normal-diet-can-occur-immediately-after-local-anesthesia-wears-off">Misconception 5: Return to Normal Diet Can Occur Immediately After Local Anesthesia Wears Off</a></li><li><a href="#misconception-6-bone-grafting-complications-mandate-graft-site-avoidance-until-complete-healing">Misconception 6: Bone Grafting Complications Mandate Graft Site Avoidance Until Complete Healing</a></li><li><a href="#misconception-7-implant-osseointegration-completes-within-6-8-weeks-enabling-rapid-restoration">Misconception 7: Implant Osseointegration Completes Within 6-8 Weeks Enabling Rapid Restoration</a></li><li><a href="#misconception-8-implant-esthetic-integration-achieves-completion-when-restoration-placement-occurs">Misconception 8: Implant Esthetic Integration Achieves Completion When Restoration Placement Occurs</a></li><li><a href="#misconception-9-smoking-minimally-impacts-post-operative-healing">Misconception 9: Smoking Minimally Impacts Post-operative Healing</a></li><li><a href="#misconception-10-post-operative-restrictions-continue-until-complete-alveolar-bone-healing-at-8-12-weeks">Misconception 10: Post-operative Restrictions Continue Until Complete Alveolar Bone Healing at 8-12 Weeks</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-oral-surgery-recovery-timeline.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -234,34 +233,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

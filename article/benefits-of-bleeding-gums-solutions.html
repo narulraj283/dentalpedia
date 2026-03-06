@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-bleeding-gums-as-diagnostic-and-treatment-opportunity">Introduction: Bleeding Gums as Diagnostic and Treatment Opportunity</a></li><li><a href="#gingivitis-as-reversible-disease-treatment-success-foundation">Gingivitis as Reversible Disease: Treatment Success Foundation</a></li><li><a href="#bleeding-on-probing-bop-as-quantifiable-treatment-outcome">Bleeding on Probing (BOP) as Quantifiable Treatment Outcome</a></li><li><a href="#early-periodontitis-detection-preventing-irreversible-loss">Early Periodontitis Detection: Preventing Irreversible Loss</a></li><li><a href="#bop-as-sensitive-indicator-of-systemic-disease">BOP as Sensitive Indicator of Systemic Disease</a></li><li><a href="#pregnancy-gingivitis-hormonal-modulation-of-gingival-response">Pregnancy Gingivitis: Hormonal Modulation of Gingival Response</a></li><li><a href="#home-care-protocol-patient-compliance-following-diagnosis">Home Care Protocol: Patient Compliance Following Diagnosis</a></li><li><a href="#medication-induced-gingival-overgrowth-drug-related-bleeding-pattern">Medication-Induced Gingival Overgrowth: Drug-Related Bleeding Pattern</a></li><li><a href="#re-evaluation-timeline-and-treatment-success-measurement">Re-evaluation Timeline and Treatment Success Measurement</a></li><li><a href="#prevention-of-periodontitis-through-early-gingivitis-treatment">Prevention of Periodontitis Through Early Gingivitis Treatment</a></li><li><a href="#summary-comprehensive-benefits-of-treating-bleeding-gums">Summary: Comprehensive Benefits of Treating Bleeding Gums</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/benefits-of-bleeding-gums-solutions.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -270,34 +269,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

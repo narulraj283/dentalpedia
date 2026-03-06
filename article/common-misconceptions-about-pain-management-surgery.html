@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-comprehensive-perioperative-analgesia-framework">Introduction: Comprehensive Perioperative Analgesia Framework</a></li><li><a href="#misconception-1-local-anesthetics-provide-complete-intraoperative-and-postoperative-pain-control">Misconception 1: Local Anesthetics Provide Complete Intraoperative and Postoperative Pain Control</a></li><li><a href="#misconception-2-postoperative-pain-necessarily-reflects-inadequate-surgical-technique">Misconception 2: Postoperative Pain Necessarily Reflects Inadequate Surgical Technique</a></li><li><a href="#misconception-3-prescription-opioids-represent-standard-postoperative-pain-management-for-all-oral-surgical-cases">Misconception 3: Prescription Opioids Represent Standard Postoperative Pain Management for All Oral Surgical Cases</a></li><li><a href="#misconception-4-pre-operative-anxiolytics-interfere-with-intraoperative-pain-assessment">Misconception 4: Pre-operative Anxiolytics Interfere With Intraoperative Pain Assessment</a></li><li><a href="#misconception-5-extended-regional-anesthesia-blocks-eliminate-postoperative-pain-requirement">Misconception 5: Extended Regional Anesthesia Blocks Eliminate Postoperative Pain Requirement</a></li><li><a href="#misconception-6-narcotic-prescriptions-substantially-exceed-patient-analgesic-requirement-for-typical-oral-surgical-cases">Misconception 6: Narcotic Prescriptions Substantially Exceed Patient Analgesic Requirement for Typical Oral Surgical Cases</a></li><li><a href="#misconception-7-nsaids-impair-surgical-healing-through-prostaglandin-inhibition">Misconception 7: NSAIDs Impair Surgical Healing Through Prostaglandin Inhibition</a></li><li><a href="#misconception-8-nitrous-oxide-oxygen-analgesia-provides-inadequate-analgesic-effect-for-oral-surgical-procedures">Misconception 8: Nitrous Oxide-Oxygen Analgesia Provides Inadequate Analgesic Effect for Oral Surgical Procedures</a></li><li><a href="#misconception-9-post-operative-swelling-inevitably-accompanies-oral-surgery-regardless-of-analgesic-selection">Misconception 9: Post-operative Swelling Inevitably Accompanies Oral Surgery Regardless of Analgesic Selection</a></li><li><a href="#misconception-10-pain-medication-should-be-withheld-until-postoperative-pain-emerges">Misconception 10: Pain Medication Should Be Withheld Until Postoperative Pain Emerges</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-pain-management-surgery.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -238,34 +237,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-all-impacted-teeth-require-surgical-extraction">Misconception 1: All Impacted Teeth Require Surgical Extraction</a></li><li><a href="#misconception-2-extraction-difficulty-cannot-be-predicted-preoperatively">Misconception 2: Extraction Difficulty Cannot Be Predicted Preoperatively</a></li><li><a href="#misconception-3-bone-removal-quantity-cannot-be-minimized">Misconception 3: Bone Removal Quantity Cannot Be Minimized</a></li><li><a href="#misconception-4-systemic-antibiotic-prophylaxis-unnecessary-for-routine-extractions">Misconception 4: Systemic Antibiotic Prophylaxis Unnecessary for Routine Extractions</a></li><li><a href="#misconception-5-extraction-socket-healing-time-cannot-be-predicted">Misconception 5: Extraction Socket Healing Time Cannot Be Predicted</a></li><li><a href="#misconception-6-inferior-alveolar-nerve-injury-risk-cannot-be-assessed-preoperatively">Misconception 6: Inferior Alveolar Nerve Injury Risk Cannot Be Assessed Preoperatively</a></li><li><a href="#misconception-7-postoperative-hemorrhage-cannot-be-prevented">Misconception 7: Postoperative Hemorrhage Cannot Be Prevented</a></li><li><a href="#misconception-8-extraction-timing-does-not-influence-outcome-quality">Misconception 8: Extraction Timing Does Not Influence Outcome Quality</a></li><li><a href="#misconception-9-all-extraction-sockets-result-in-equivalent-ridge-resorption">Misconception 9: All Extraction Sockets Result in Equivalent Ridge Resorption</a></li><li><a href="#misconception-10-multiple-tooth-extraction-requires-proportional-operative-time">Misconception 10: Multiple Tooth Extraction Requires Proportional Operative Time</a></li><li><a href="#evidence-based-extraction-decision-making">Evidence-Based Extraction Decision-Making</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-surgical-teeth-removal.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -214,34 +213,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

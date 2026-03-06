@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-evaluating-alternative-approaches-to-root-canal-therapy">Introduction: Evaluating Alternative Approaches to Root Canal Therapy</a></li><li><a href="#extraction-and-implant-restoration-as-an-alternative">Extraction and Implant Restoration as an Alternative</a></li><li><a href="#ozone-therapy-and-oxidative-disinfection-claims">Ozone Therapy and Oxidative Disinfection Claims</a></li><li><a href="#biological-dentistry-protocols-and-calcium-hydroxide-monotherapy">Biological Dentistry Protocols and Calcium Hydroxide Monotherapy</a></li><li><a href="#vital-pulp-therapy-and-partial-pulpotomy-approaches">Vital Pulp Therapy and Partial Pulpotomy Approaches</a></li><li><a href="#evidence-quality-assessment-and-informed-consent">Evidence Quality Assessment and Informed Consent</a></li><li><a href="#microbiological-principles-and-complete-bacterial-elimination">Microbiological Principles and Complete Bacterial Elimination</a></li><li><a href="#systemic-health-implications-of-untreated-apical-infection">Systemic Health Implications of Untreated Apical Infection</a></li><li><a href="#conclusion-evidence-based-decision-making">Conclusion: Evidence-Based Decision-Making</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/root-canal-alternatives-holistic-perspective.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -238,34 +237,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-cosmetic-improvement-can-be-optimized-without-addressing-underlying-periodontal-or-structural-issues">Misconception 1: Cosmetic Improvement Can Be Optimized Without Addressing Underlying Periodontal or Structural Issues</a></li><li><a href="#misconception-2-orthodontic-treatment-and-cosmetic-restoration-are-alternative-approaches-selection-should-depend-primarily-on-time-preferences">Misconception 2: Orthodontic Treatment and Cosmetic Restoration Are Alternative Approaches; Selection Should Depend Primarily on Time Preferences</a></li><li><a href="#misconception-3-tooth-shade-selection-is-isolated-decision-shade-choice-wont-significantly-affect-overall-esthetic-outcome">Misconception 3: Tooth Shade Selection Is Isolated Decision; Shade Choice Won't Significantly Affect Overall Esthetic Outcome</a></li><li><a href="#misconception-4-comprehensive-smile-redesign-is-always-necessary-targeting-specific-concerns-produces-equivalent-satisfaction">Misconception 4: Comprehensive Smile Redesign Is Always Necessary; Targeting Specific Concerns Produces Equivalent Satisfaction</a></li><li><a href="#misconception-5-bite-relationships-and-occlusal-considerations-are-irrelevant-to-cosmetic-success-esthetics-and-function-are-separate-concerns">Misconception 5: Bite Relationships and Occlusal Considerations Are Irrelevant to Cosmetic Success; Esthetics and Function Are Separate Concerns</a></li><li><a href="#misconception-6-cosmetic-treatment-planning-can-proceed-without-baseline-photography-and-documentation">Misconception 6: Cosmetic Treatment Planning Can Proceed Without Baseline Photography and Documentation</a></li><li><a href="#misconception-7-treatment-sequence-doesnt-significantly-impact-final-outcome-any-sequence-achieves-equivalent-results">Misconception 7: Treatment Sequence Doesn't Significantly Impact Final Outcome; Any Sequence Achieves Equivalent Results</a></li><li><a href="#misconception-8-smile-improvement-results-plateau-after-initial-treatment-long-term-stability-is-automatic-without-active-management">Misconception 8: Smile Improvement Results Plateau After Initial Treatment; Long-Term Stability Is Automatic Without Active Management</a></li><li><a href="#misconception-9-patient-satisfaction-depends-solely-on-technical-quality-of-treatment-communication-and-expectation-management-are-secondary">Misconception 9: Patient Satisfaction Depends Solely on Technical Quality of Treatment; Communication and Expectation Management Are Secondary</a></li><li><a href="#summary-and-clinical-pearls">Summary and Clinical Pearls</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-smile-improvement-options.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -228,34 +227,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

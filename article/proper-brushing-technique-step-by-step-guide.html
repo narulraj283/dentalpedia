@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction">Introduction</a></li><li><a href="#bristle-angulation-and-positioning-the-45-degree-principle">Bristle Angulation and Positioning: The 45-Degree Principle</a></li><li><a href="#systematic-tooth-surface-coverage-and-sectional-approach">Systematic Tooth Surface Coverage and Sectional Approach</a></li><li><a href="#motion-characteristics-vibration-versus-circular-versus-linear">Motion Characteristics: Vibration Versus Circular Versus Linear</a></li><li><a href="#duration-the-evidence-for-2-3-minute-brushing">Duration: The Evidence for 2-3 Minute Brushing</a></li><li><a href="#pressure-control-and-gentleness-avoiding-gingival-trauma">Pressure Control and Gentleness: Avoiding Gingival Trauma</a></li><li><a href="#common-errors-and-technique-faults">Common Errors and Technique Faults</a></li><li><a href="#toothbrush-type-manual-versus-electric-bristle-design-and-effectiveness">Toothbrush Type: Manual Versus Electric, Bristle Design, and Effectiveness</a></li><li><a href="#fluoride-toothpaste-and-adjunctive-agents-in-brushing">Fluoride Toothpaste and Adjunctive Agents in Brushing</a></li><li><a href="#patient-education-strategies-and-compliance-enhancement">Patient Education Strategies and Compliance Enhancement</a></li><li><a href="#conclusion">Conclusion</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/proper-brushing-technique-step-by-step-guide.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -226,34 +225,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

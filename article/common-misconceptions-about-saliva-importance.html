@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-salivas-role-in-cavity-prevention-is-minimal-compared-to-fluoride-or-oral-hygiene">Misconception 1: Saliva's Role in Cavity Prevention Is Minimal Compared to Fluoride or Oral Hygiene</a></li><li><a href="#misconception-2-dry-mouth-affects-only-comfort-cavity-risk-increases-are-manageable">Misconception 2: Dry Mouth Affects Only Comfort; Cavity Risk Increases Are Manageable</a></li><li><a href="#misconception-3-salivary-flow-reduction-with-age-is-normal-and-unavoidable">Misconception 3: Salivary Flow Reduction With Age Is Normal and Unavoidable</a></li><li><a href="#misconception-4-artificial-saliva-substitutes-provide-equivalent-protection-to-natural-saliva">Misconception 4: Artificial Saliva Substitutes Provide Equivalent Protection to Natural Saliva</a></li><li><a href="#misconception-5-salivary-buffering-capacity-cannot-be-improved-high-risk-patients-are-doomed-to-cavity-disease">Misconception 5: Salivary Buffering Capacity Cannot Be Improved; High-Risk Patients Are Doomed to Cavity Disease</a></li><li><a href="#misconception-6-sugar-free-gum-is-all-thats-needed-for-salivary-stimulation-in-xerostomic-patients">Misconception 6: Sugar-Free Gum Is All That's Needed for Salivary Stimulation in Xerostomic Patients</a></li><li><a href="#misconception-7-salivary-dysfunction-cannot-be-corrected-only-management-is-possible">Misconception 7: Salivary Dysfunction Cannot Be Corrected; Only Management Is Possible</a></li><li><a href="#misconception-8-saliva-testing-is-unnecessary-clinical-observation-suffices-for-assessment">Misconception 8: Saliva Testing Is Unnecessary; Clinical Observation Suffices for Assessment</a></li><li><a href="#misconception-9-xerostomia-associated-cavity-progression-is-inevitable-once-diagnosed">Misconception 9: Xerostomia-Associated Cavity Progression Is Inevitable Once Diagnosed</a></li><li><a href="#summary-and-clinical-pearls">Summary and Clinical Pearls</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-saliva-importance.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -224,34 +223,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

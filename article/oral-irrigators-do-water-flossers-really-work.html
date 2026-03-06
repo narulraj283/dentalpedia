@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-water-irrigation-efficacy-and-clinical-evidence">Introduction: Water Irrigation Efficacy and Clinical Evidence</a></li><li><a href="#mechanism-of-cavitation-and-biofilm-disruption">Mechanism of Cavitation and Biofilm Disruption</a></li><li><a href="#waterpik-clinical-studies-efficacy-versus-string-floss">Waterpik Clinical Studies: Efficacy Versus String Floss</a></li><li><a href="#optimal-pressure-settings-and-technique-specifications">Optimal Pressure Settings and Technique Specifications</a></li><li><a href="#water-flossers-for-implants-bridges-and-periodontal-disease">Water Flossers for Implants, Bridges, and Periodontal Disease</a></li><li><a href="#subgingival-irrigation-antimicrobial-delivery-and-clinical-outcomes">Subgingival Irrigation: Antimicrobial Delivery and Clinical Outcomes</a></li><li><a href="#patient-selection-and-limitations-when-water-flossers-are-not-optimal">Patient Selection and Limitations: When Water Flossers Are Not Optimal</a></li><li><a href="#comparison-to-other-interdental-aids">Comparison to Other Interdental Aids</a></li><li><a href="#maintenance-cost-effectiveness-and-long-term-sustainability">Maintenance, Cost-Effectiveness, and Long-Term Sustainability</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/oral-irrigators-do-water-flossers-really-work.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -216,34 +215,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

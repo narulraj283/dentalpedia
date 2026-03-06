@@ -43,6 +43,7 @@ CITIES_PER_BATCH = 100
 # Paths
 CONTENT_DIR = Path("content/articles")
 OUTPUT_DIR = Path("article")
+CLINICAL_DIR = Path("clinical")
 SITE_ROOT = Path(".")
 DATA_DIR = Path("data")
 
@@ -587,34 +588,13 @@ def get_page_template(title, content, canonical_url, description="", meta_tags="
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }}
-        function toggleReaderMode() {{
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {{
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            }} else {{
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }}
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }}
-        // Restore reader mode preference
-        (function() {{
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {{
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {{
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }}
-            }}
-        }})();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {{
+            t.addEventListener('click', function() {{
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            }});
+        }});
     </script>
 </body>
 </html>'''
@@ -808,11 +788,10 @@ def process_article(md_file):
 
                 {toc_html}
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/{slug}.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -1718,6 +1697,27 @@ def generate_sitemaps():
 '''
     articles_sitemap += '</urlset>'
 
+    # Clinical sitemap
+    clinical_sitemap = '''<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>{base_url}/clinical/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+'''.format(base_url=base_url)
+    for article in all_articles:
+        slug = article.get('slug', '')
+        date = article.get('date', '')
+        clinical_sitemap += f'''  <url>
+    <loc>{base_url}/clinical/{slug}.html</loc>
+    <lastmod>{date}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+'''
+    clinical_sitemap += '</urlset>'
+
     # Categories sitemap
     categories_sitemap = '''<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -1856,6 +1856,9 @@ def generate_sitemaps():
     <loc>{base_url}/sitemap-articles.xml</loc>
   </sitemap>
   <sitemap>
+    <loc>{base_url}/sitemap-clinical.xml</loc>
+  </sitemap>
+  <sitemap>
     <loc>{base_url}/sitemap-categories.xml</loc>
   </sitemap>
   <sitemap>
@@ -1872,6 +1875,9 @@ def generate_sitemaps():
     # Write sitemaps
     with open(SITE_ROOT / "sitemap-articles.xml", 'w', encoding='utf-8') as f:
         f.write(articles_sitemap)
+
+    with open(SITE_ROOT / "sitemap-clinical.xml", 'w', encoding='utf-8') as f:
+        f.write(clinical_sitemap)
 
     with open(SITE_ROOT / "sitemap-categories.xml", 'w', encoding='utf-8') as f:
         f.write(categories_sitemap)
@@ -3289,6 +3295,292 @@ def generate_ekwa_landing_page():
     logger.info("Generated Ekwa premium landing page")
 
 
+def markdown_to_html_clinical(text):
+    """Convert markdown to HTML for clinical pages — renders :::clinical blocks as inline content (not collapsed)."""
+    # Strip :::clinical / ::: markers but keep the content as regular text
+    text = re.sub(r'^:::clinical\s*\n', '', text, flags=re.MULTILINE)
+    text = re.sub(r'^:::\s*$', '', text, flags=re.MULTILINE)
+
+    # Headers — add id attributes for TOC anchor linking
+    def h3_repl(m):
+        s = heading_slug(m.group(1))
+        return f'<h3 id="{s}">{m.group(1)}</h3>'
+    def h2_repl(m):
+        s = heading_slug(m.group(1))
+        return f'<h2 id="{s}">{m.group(1)}</h2>'
+
+    text = re.sub(r'^### (.*?)$', h3_repl, text, flags=re.MULTILINE)
+    text = re.sub(r'^## (.*?)$', h2_repl, text, flags=re.MULTILINE)
+    text = re.sub(r'^# (.*?)$', r'<h1>\1</h1>', text, flags=re.MULTILINE)
+
+    # Bold and italic
+    text = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', text)
+    text = re.sub(r'\*(.*?)\*', r'<em>\1</em>', text)
+    text = re.sub(r'_(.*?)_', r'<em>\1</em>', text)
+
+    # Links
+    text = re.sub(r'\[(.*?)\]\((.*?)\)', r'<a href="\2">\1</a>', text)
+
+    # Code blocks
+    text = re.sub(r'```(.*?)```', r'<pre><code>\1</code></pre>', text, flags=re.DOTALL)
+    text = re.sub(r'`(.*?)`', r'<code>\1</code>', text)
+
+    # Lists
+    lines = text.split('\n')
+    result = []
+    in_list = False
+    for line in lines:
+        if line.strip().startswith('- '):
+            if not in_list:
+                result.append('<ul>')
+                in_list = True
+            result.append(f'<li>{line.strip()[2:]}</li>')
+        elif in_list and line.strip():
+            result.append('</ul>')
+            in_list = False
+            result.append(line)
+        else:
+            result.append(line)
+    if in_list:
+        result.append('</ul>')
+    text = '\n'.join(result)
+
+    # Paragraphs
+    paragraphs = text.split('\n\n')
+    text = '\n\n'.join([f'<p>{p}</p>' if p.strip() and not p.strip().startswith('<') else p for p in paragraphs])
+
+    return text
+
+
+def process_clinical_article(md_file):
+    """Process a single article file and generate a clinical-focused HTML page at /clinical/slug.html."""
+    try:
+        with open(md_file, 'r', encoding='utf-8') as f:
+            content = f.read()
+
+        metadata, body = parse_markdown_frontmatter(content)
+
+        if 'slug' not in metadata:
+            return None
+
+        slug = metadata['slug']
+        output_file = CLINICAL_DIR / f"{slug}.html"
+        output_file.parent.mkdir(parents=True, exist_ok=True)
+
+        canonical_url = f"{DOMAIN}/clinical/{slug}.html"
+        title = metadata.get('title', 'Untitled')
+        excerpt = metadata.get('excerpt', '')
+        category = metadata.get('category', '')
+        category_slug = metadata.get('category_slug', '')
+        reviewer_specialty = metadata.get('reviewer_specialty', 'General Dentistry')
+        subcategory = metadata.get('subcategory', '')
+        subcategory_slug = metadata.get('subcategory_slug', '')
+        date = metadata.get('date', '')
+        read_time = metadata.get('read_time', '5 min')
+        references = metadata.get('references', [])
+
+        # Convert markdown to HTML — clinical version renders all content inline
+        body_html = markdown_to_html_clinical(body)
+
+        # Internal linking within clinical section
+        body_html = create_internal_links(body_html, slug)
+
+        # Table of contents
+        headings = extract_headings(body_html)
+        toc_html = generate_toc_html(headings) if headings else ''
+
+        # Breadcrumb
+        breadcrumb = f'<nav class="article-breadcrumb"><a href="/">Home</a> / <a href="/clinical/">Clinical</a> / <a href="/category/{category_slug}.html">{html_mod.escape(category)}</a>'
+        if subcategory and subcategory_slug:
+            breadcrumb += f' / {html_mod.escape(subcategory)}'
+        breadcrumb += f' / {html_mod.escape(title)}</nav>'
+
+        # References section (proper academic format)
+        references_html = ""
+        if references:
+            references_html = '<div class="article-references"><h2>References</h2><ol>'
+            for ref in references:
+                if isinstance(ref, dict):
+                    ref_title = ref.get('title', '')
+                    ref_url = ref.get('url', '')
+                    if ref_url:
+                        references_html += f'<li><a href="{ref_url}" target="_blank" rel="noopener">{html_mod.escape(ref_title)}</a></li>'
+                    else:
+                        references_html += f'<li>{html_mod.escape(ref_title)}</li>'
+                else:
+                    references_html += f'<li>{html_mod.escape(str(ref))}</li>'
+            references_html += '</ol></div>'
+
+        article_content = f'''
+        <div class="article-page clinical-article">
+            <article class="content-width">
+                {breadcrumb}
+                <header class="article-header">
+                    <div style="display:inline-block;background:#6366f1;color:#fff;font-size:0.75rem;font-weight:700;padding:0.25rem 0.75rem;border-radius:99px;margin-bottom:0.75rem;letter-spacing:0.05em;text-transform:uppercase">Clinical Protocol</div>
+                    <h1>{html_mod.escape(title)}</h1>
+                    <div class="article-meta">
+                        <span>Specialty: {html_mod.escape(reviewer_specialty)}</span>
+                        <span>Updated {date}</span>
+                    </div>
+                    <div class="article-meta-secondary">
+                        <span>⏱️ {read_time}</span>
+                        <span>📚 <a href="/category/{category_slug}.html">{html_mod.escape(category)}</a></span>
+                    </div>
+                </header>
+
+                {toc_html}
+
+                <div class="patient-crosslink" style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#16a34a">👤</span>
+                    <span style="color:#64748b">Looking for the patient guide?</span>
+                    <a href="/article/{slug}.html" style="color:#16a34a;font-weight:600;text-decoration:none">View Patient Version →</a>
+                </div>
+
+                <div class="article-body" id="article-body">
+                    {body_html}
+                </div>
+
+                {references_html}
+
+                <div class="article-review-info">
+                    <p><strong>Clinical Reference</strong> — This protocol is compiled from peer-reviewed literature and established clinical guidelines. It is intended as a professional reference and does not constitute medical advice. Clinical decisions should be based on individual patient assessment.</p>
+                </div>
+
+                {generate_share_buttons(title, canonical_url)}
+            </article>
+        </div>
+        '''
+
+        meta_tags = f'''
+        <meta property="og:title" content="Clinical Protocol: {html_mod.escape(title)}">
+        <meta property="og:description" content="{html_mod.escape(excerpt)}">
+        <meta property="og:url" content="{canonical_url}">
+        <meta property="og:type" content="article">
+        <meta property="article:section" content="{html_mod.escape(category)}">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:title" content="Clinical: {html_mod.escape(title)}">
+        <meta name="twitter:description" content="{html_mod.escape(excerpt)}">
+        '''
+
+        # BreadcrumbList structured data
+        breadcrumb_items = [
+            {"@type": "ListItem", "position": 1, "name": "Home", "item": DOMAIN},
+            {"@type": "ListItem", "position": 2, "name": "Clinical", "item": f"{DOMAIN}/clinical/"},
+            {"@type": "ListItem", "position": 3, "name": category, "item": f"{DOMAIN}/category/{category_slug}.html"}
+        ]
+        pos = 4
+        if subcategory and subcategory_slug:
+            breadcrumb_items.append({"@type": "ListItem", "position": pos, "name": subcategory})
+            pos += 1
+        breadcrumb_items.append({"@type": "ListItem", "position": pos, "name": title})
+
+        breadcrumb_schema = {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": breadcrumb_items
+        }
+
+        # MedicalScholarlyArticle structured data
+        article_schema = {
+            "@context": "https://schema.org",
+            "@type": "MedicalScholarlyArticle",
+            "headline": title,
+            "description": excerpt,
+            "datePublished": date,
+            "dateModified": date,
+            "url": canonical_url,
+            "author": {"@type": "Organization", "name": "DentalPedia", "url": DOMAIN},
+            "publisher": {"@type": "Organization", "name": "DentalPedia", "url": DOMAIN},
+            "mainEntityOfPage": {"@type": "WebPage", "@id": canonical_url},
+            "about": {"@type": "MedicalSpecialty", "name": reviewer_specialty}
+        }
+        if references:
+            citation_list = []
+            for ref in references:
+                if isinstance(ref, dict):
+                    citation_list.append(ref.get('title', ''))
+                else:
+                    citation_list.append(str(ref))
+            article_schema["citation"] = citation_list
+
+        all_schema = f'''<script type="application/ld+json">{json.dumps(breadcrumb_schema)}</script>
+        <script type="application/ld+json">{json.dumps(article_schema)}</script>'''
+
+        page_html = get_page_template(
+            f"Clinical: {title}",
+            article_content,
+            canonical_url,
+            excerpt,
+            meta_tags,
+            all_schema
+        )
+
+        with open(output_file, 'w', encoding='utf-8') as f:
+            f.write(page_html)
+
+        return slug
+
+    except Exception as e:
+        logger.error(f"Error processing clinical article {md_file}: {e}")
+        return None
+
+
+def generate_clinical_index():
+    """Generate the /clinical/index.html landing page."""
+    logger.info("Generating clinical section index...")
+
+    # Group articles by category for the index
+    clinical_cats = defaultdict(list)
+    for article in all_articles:
+        clinical_cats[article.get('category', 'Uncategorized')].append(article)
+
+    cards_html = '<div class="categories-grid">'
+    for cat_name in sorted(clinical_cats.keys()):
+        articles = clinical_cats[cat_name]
+        cat_slug = articles[0].get('category_slug', '') if articles else ''
+        cards_html += f'''
+        <div class="category-card" style="cursor:default;">
+            <div class="category-icon">🔬</div>
+            <div class="category-name">{html_mod.escape(cat_name)}</div>
+            <div class="category-count">{len(articles)} clinical protocols</div>
+            <div style="margin-top:0.75rem;">'''
+        for a in articles[:5]:
+            a_slug = a.get('slug', '')
+            a_title = a.get('title', '')
+            cards_html += f'<a href="/clinical/{a_slug}.html" style="display:block;font-size:0.85rem;color:var(--accent);margin:0.25rem 0;text-decoration:none;">{html_mod.escape(a_title)}</a>'
+        if len(articles) > 5:
+            cards_html += f'<span style="font-size:0.8rem;color:var(--text-secondary);">+{len(articles)-5} more protocols</span>'
+        cards_html += '</div></div>'
+    cards_html += '</div>'
+
+    content = f'''
+    <div class="content-width" style="padding: 2rem 0;">
+        <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; Clinical Protocols</nav>
+        <div style="display:inline-block;background:#6366f1;color:#fff;font-size:0.75rem;font-weight:700;padding:0.25rem 0.75rem;border-radius:99px;margin-bottom:0.75rem;letter-spacing:0.05em;text-transform:uppercase">For Dental Professionals</div>
+        <h1>Clinical Protocols & Evidence-Based References</h1>
+        <p style="color: var(--text-secondary);max-width:700px;">Evidence-based clinical protocols compiled from peer-reviewed literature and established guidelines. {len(all_articles):,} protocols across {len(clinical_cats)} specialties.</p>
+        <div class="patient-crosslink" style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:10px;padding:0.75rem 1rem;margin:1.5rem 0;font-size:0.88rem;display:inline-flex;align-items:center;gap:0.5rem">
+            <span style="color:#16a34a">👤</span>
+            <span style="color:#64748b">Patient?</span>
+            <a href="/categories.html" style="color:#16a34a;font-weight:600;text-decoration:none">Browse Patient Articles →</a>
+        </div>
+        {cards_html}
+    </div>
+    '''
+
+    CLINICAL_DIR.mkdir(parents=True, exist_ok=True)
+    page_html = get_page_template(
+        "Clinical Protocols — DentalPedia",
+        content,
+        f"{DOMAIN}/clinical/",
+        f"Evidence-based clinical protocols for dental professionals. {len(all_articles):,} protocols across {len(clinical_cats)} dental specialties."
+    )
+
+    with open(CLINICAL_DIR / "index.html", 'w', encoding='utf-8') as f:
+        f.write(page_html)
+    logger.info("Generated clinical index page")
+
+
 def main():
     """Main build function."""
     logger.info("Starting DentalPedia build...")
@@ -3301,24 +3593,34 @@ def main():
 
     # Ensure output directories exist
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    CLINICAL_DIR.mkdir(parents=True, exist_ok=True)
 
-    # Process all articles
+    # Process all articles (patient + clinical versions)
     logger.info("Processing articles...")
 
     all_md_files = list(CONTENT_DIR.glob("*.md"))
 
-    completed = 0
+    completed_patient = 0
+    completed_clinical = 0
     with ThreadPoolExecutor(max_workers=8) as executor:
-        futures = {executor.submit(process_article, md): md for md in all_md_files}
-        for future in as_completed(futures):
-            if future.result():
-                completed += 1
+        # Patient articles
+        patient_futures = {executor.submit(process_article, md): md for md in all_md_files}
+        # Clinical articles
+        clinical_futures = {executor.submit(process_clinical_article, md): md for md in all_md_files}
 
-    logger.info(f"Processed {completed} articles")
+        for future in as_completed(patient_futures):
+            if future.result():
+                completed_patient += 1
+        for future in as_completed(clinical_futures):
+            if future.result():
+                completed_clinical += 1
+
+    logger.info(f"Processed {completed_patient} patient articles + {completed_clinical} clinical articles")
 
     # Generate pages
     generate_homepage()
     generate_categories_index()
+    generate_clinical_index()
     generate_category_pages()
     generate_subcategory_pages()
     generate_city_pages()

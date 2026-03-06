@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction">Introduction</a></li><li><a href="#pediatric-anxiety-assessment-and-patient-selection">Pediatric Anxiety Assessment and Patient Selection</a></li><li><a href="#midazolam-syrup-first-line-pediatric-anxiolytic">Midazolam Syrup: First-Line Pediatric Anxiolytic</a></li><li><a href="#hydroxyzine-for-pediatric-anxiety">Hydroxyzine for Pediatric Anxiety</a></li><li><a href="#melatonin-emerging-anxiolytic-alternative">Melatonin: Emerging Anxiolytic Alternative</a></li><li><a href="#dosing-calculations-and-weight-based-administration">Dosing Calculations and Weight-Based Administration</a></li><li><a href="#parental-informed-consent-and-communication">Parental Informed Consent and Communication</a></li><li><a href="#monitoring-requirements-and-emergency-preparedness">Monitoring Requirements and Emergency Preparedness</a></li><li><a href="#safety-considerations-and-contraindications-in-pediatric-populations">Safety Considerations and Contraindications in Pediatric Populations</a></li><li><a href="#adverse-effects-and-management-strategies">Adverse Effects and Management Strategies</a></li><li><a href="#post-operative-instructions-and-parent-guidance">Post-Operative Instructions and Parent Guidance</a></li><li><a href="#training-and-credentials-for-practitioners">Training and Credentials for Practitioners</a></li><li><a href="#conclusion-and-clinical-best-practices">Conclusion and Clinical Best Practices</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/premedication-for-anxious-children.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -272,34 +271,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

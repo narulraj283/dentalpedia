@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#real-world-compliance-distribution-and-patient-reporting-bias">Real-World Compliance Distribution and Patient Reporting Bias</a></li><li><a href="#trayminder-and-passive-compliance-monitoring">TrayMinder and Passive Compliance Monitoring</a></li><li><a href="#dental-monitoring-ai-and-real-time-treatment-assessment">Dental Monitoring AI and Real-Time Treatment Assessment</a></li><li><a href="#force-decay-curves-and-therapeutic-window">Force Decay Curves and Therapeutic Window</a></li><li><a href="#sequential-movement-planning-and-biomechanical-staging">Sequential Movement Planning and Biomechanical Staging</a></li><li><a href="#ipr-interproximal-reduction-timing-and-amount">IPR (Interproximal Reduction) Timing and Amount</a></li><li><a href="#attachment-optimization-for-force-control">Attachment Optimization for Force Control</a></li><li><a href="#power-ridges-for-torque-control-and-bite-ramps">Power Ridges for Torque Control and Bite Ramps</a></li><li><a href="#lifestyle-integration-strategies">Lifestyle Integration Strategies</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/aligner-wear-schedule-what-you-need-to-know.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -251,34 +250,13 @@ Even without TrayMinder, orthodontists can assess compliance through clinical ev
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

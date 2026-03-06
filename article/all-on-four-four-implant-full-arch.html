@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#the-all-on-4-protocol-origins-and-evolution">The All-on-4 Protocol: Origins and Evolution</a></li><li><a href="#the-biomechanical-rationale-why-four-implants-suffice">The Biomechanical Rationale: Why Four Implants Suffice</a></li><li><a href="#the-maló-protocol-immediate-loading">The Maló Protocol: Immediate Loading</a></li><li><a href="#surgical-technique-and-implant-specifications">Surgical Technique and Implant Specifications</a></li><li><a href="#provisional-prosthesis-immediate-vs-conventional">Provisional Prosthesis: Immediate vs. Conventional</a></li><li><a href="#conversion-and-definitive-prosthesis">Conversion and Definitive Prosthesis</a></li><li><a href="#prosthetic-material-options">Prosthetic Material Options</a></li><li><a href="#bone-density-requirements-and-patient-selection">Bone Density Requirements and Patient Selection</a></li><li><a href="#implant-failure-rates-and-success">Implant Failure Rates and Success</a></li><li><a href="#cost-comparison-all-on-4-vs-conventional-implant-supported-denture">Cost Comparison: All-on-4 vs. Conventional Implant-Supported Denture</a></li><li><a href="#maintenance-and-long-term-care">Maintenance and Long-Term Care</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/all-on-four-four-implant-full-arch.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -431,34 +430,13 @@ All-on-4 represents a genuinely transformative treatment for completely edentulo
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-pain-etiology-and-individualized-management">Introduction: Pain Etiology and Individualized Management</a></li><li><a href="#misconception-1-all-dental-pain-responds-equivalently-to-nsaids">Misconception 1: All Dental Pain Responds Equivalently to NSAIDs</a></li><li><a href="#misconception-2-stronger-opioid-doses-necessarily-produce-proportionally-greater-pain-relief">Misconception 2: Stronger Opioid Doses Necessarily Produce Proportionally Greater Pain Relief</a></li><li><a href="#misconception-3-topical-anesthetics-provide-adequate-pain-control-for-procedures-causing-moderate-to-severe-pain">Misconception 3: Topical Anesthetics Provide Adequate Pain Control for Procedures Causing Moderate-to-Severe Pain</a></li><li><a href="#misconception-4-injectable-anesthetic-agents-demonstrate-equivalent-analgesic-efficacy-when-properly-administered">Misconception 4: Injectable Anesthetic Agents Demonstrate Equivalent Analgesic Efficacy When Properly Administered</a></li><li><a href="#misconception-5-pulpal-pain-severity-correlates-linearly-with-endodontic-treatment-requirement">Misconception 5: Pulpal Pain Severity Correlates Linearly With Endodontic Treatment Requirement</a></li><li><a href="#misconception-6-systemic-analgesic-administration-is-universally-appropriate-for-odontogenic-pain-without-local-intervention">Misconception 6: Systemic Analgesic Administration is Universally Appropriate for Odontogenic Pain Without Local Intervention</a></li><li><a href="#misconception-7-combination-analgesics-consistently-produce-superior-pain-relief-compared-to-single-agents">Misconception 7: Combination Analgesics Consistently Produce Superior Pain Relief Compared to Single Agents</a></li><li><a href="#misconception-8-psychological-factors-minimally-influence-pain-perception-and-analgesic-requirements">Misconception 8: Psychological Factors Minimally Influence Pain Perception and Analgesic Requirements</a></li><li><a href="#misconception-9-dental-pain-etiology-can-be-determined-definitively-based-on-symptom-presentation">Misconception 9: Dental Pain Etiology Can Be Determined Definitively Based on Symptom Presentation</a></li><li><a href="#misconception-10-pain-medication-instructions-regarding-frequency-and-duration-can-be-safely-ignored">Misconception 10: Pain Medication Instructions Regarding Frequency and Duration Can Be Safely Ignored</a></li><li><a href="#summary">Summary</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-pain-relief-methods.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -234,34 +233,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

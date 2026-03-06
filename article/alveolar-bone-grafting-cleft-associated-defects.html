@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#epidemiology-and-natural-history-of-cleft-defects">Epidemiology and Natural History of Cleft Defects</a></li><li><a href="#timing-of-alveolar-bone-grafting-the-critical-mixed-dentition-window">Timing of Alveolar Bone Grafting: The Critical Mixed Dentition Window</a></li><li><a href="#surgical-technique-mucoperiosteal-flap-and-graft-placement">Surgical Technique: Mucoperiosteal Flap and Graft Placement</a></li><li><a href="#donor-sites-for-bone-grafting">Donor Sites for Bone Grafting</a></li><li><a href="#success-assessment-bergland-scale-and-volumetric-analysis">Success Assessment: Bergland Scale and Volumetric Analysis</a></li><li><a href="#orthodontic-preparation-and-canine-eruption-management">Orthodontic Preparation and Canine Eruption Management</a></li><li><a href="#complications-and-management">Complications and Management</a></li><li><a href="#interdisciplinary-team-coordination">Interdisciplinary Team Coordination</a></li><li><a href="#conclusion-achieving-optimal-outcomes-through-precise-timing-and-technique">Conclusion: Achieving Optimal Outcomes Through Precise Timing and Technique</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/alveolar-bone-grafting-cleft-associated-defects.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -273,34 +272,13 @@ Bergland Grade 1-2 (success rate) occurs in 70-80% of age-appropriate alveolar g
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

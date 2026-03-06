@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#misconception-1-surgical-complications-are-rare-and-unpredictable">Misconception 1: Surgical Complications Are Rare and Unpredictable</a></li><li><a href="#misconception-2-antibiotic-prophylaxis-prevents-all-surgical-site-infections">Misconception 2: Antibiotic Prophylaxis Prevents All Surgical Site Infections</a></li><li><a href="#misconception-3-nerve-damage-results-from-technical-error-exclusively">Misconception 3: Nerve Damage Results from Technical Error Exclusively</a></li><li><a href="#misconception-4-hemorrhage-control-relies-exclusively-on-surgical-hemostasis">Misconception 4: Hemorrhage Control Relies Exclusively on Surgical Hemostasis</a></li><li><a href="#misconception-5-local-anesthetic-complications-cannot-be-anticipated">Misconception 5: Local Anesthetic Complications Cannot Be Anticipated</a></li><li><a href="#misconception-6-dry-socket-represents-inevitable-complication">Misconception 6: Dry Socket Represents Inevitable Complication</a></li><li><a href="#misconception-7-swelling-and-pain-indicate-serious-complications">Misconception 7: Swelling and Pain Indicate Serious Complications</a></li><li><a href="#misconception-8-trismus-indicates-tissue-infection">Misconception 8: Trismus Indicates Tissue Infection</a></li><li><a href="#misconception-9-all-sensory-impairment-represents-permanent-nerve-damage">Misconception 9: All Sensory Impairment Represents Permanent Nerve Damage</a></li><li><a href="#misconception-10-sinus-complications-represent-uncommon-events">Misconception 10: Sinus Complications Represent Uncommon Events</a></li><li><a href="#clinical-risk-stratification">Clinical Risk Stratification</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/common-misconceptions-about-surgical-complications.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -214,34 +213,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

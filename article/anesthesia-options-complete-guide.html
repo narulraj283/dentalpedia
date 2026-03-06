@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#topical-anesthesia-benzocaine-lidocaine-and-application">Topical Anesthesia: Benzocaine, Lidocaine, and Application</a></li><li><a href="#infiltration-versus-block-when-each-is-appropriate">Infiltration Versus Block: When Each Is Appropriate</a></li><li><a href="#nitrous-oxide-sedation-pharmacology-and-protocol">Nitrous Oxide Sedation: Pharmacology and Protocol</a></li><li><a href="#oral-sedation-triazolam-diazepam-and-others">Oral Sedation: Triazolam, Diazepam, and Others</a></li><li><a href="#intravenous-conscious-sedation-advantages-and-recovery">Intravenous Conscious Sedation: Advantages and Recovery</a></li><li><a href="#deep-sedation-and-general-anesthesia-when-indicated">Deep Sedation and General Anesthesia: When Indicated</a></li><li><a href="#special-populations-pediatric-and-geriatric-dosing">Special Populations: Pediatric and Geriatric Dosing</a></li><li><a href="#drug-interactions-and-medication-screening">Drug Interactions and Medication Screening</a></li><li><a href="#informed-consent-and-patient-education">Informed Consent and Patient Education</a></li><li><a href="#conclusion-matching-anesthesia-to-individual-patient-needs">Conclusion: Matching Anesthesia to Individual Patient Needs</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/anesthesia-options-complete-guide.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -248,34 +247,13 @@ These interactions require either: use of plain local anesthetics without epinep
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>

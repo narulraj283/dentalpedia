@@ -84,11 +84,10 @@
 
                 <div class="toc"><div class="toc-title">Table of Contents</div><ul class="toc-list"><li><a href="#introduction-to-comprehensive-preventive-treatment-strategies">Introduction to Comprehensive Preventive Treatment Strategies</a></li><li><a href="#fluoride-therapies-mechanisms-and-applications">Fluoride Therapies: Mechanisms and Applications</a></li><li><a href="#pit-and-fissure-sealants-mechanism-and-clinical-application">Pit and Fissure Sealants: Mechanism and Clinical Application</a></li><li><a href="#professional-mechanical-plaque-removal-and-prophylaxis">Professional Mechanical Plaque Removal and Prophylaxis</a></li><li><a href="#antimicrobial-rinses-and-topical-antiseptic-agents">Antimicrobial Rinses and Topical Antiseptic Agents</a></li><li><a href="#xylitol-and-sugar-substitutes-in-preventive-strategy">Xylitol and Sugar Substitutes in Preventive Strategy</a></li><li><a href="#dietary-modification-and-nutritional-counseling">Dietary Modification and Nutritional Counseling</a></li><li><a href="#calcium-and-phosphate-technologies">Calcium and Phosphate Technologies</a></li><li><a href="#salivary-flow-assessment-and-xerostomia-management">Salivary Flow Assessment and Xerostomia Management</a></li><li><a href="#remineralization-technologies-and-early-lesion-management">Remineralization Technologies and Early Lesion Management</a></li><li><a href="#patient-education-and-behavioral-modification-strategies">Patient Education and Behavioral Modification Strategies</a></li><li><a href="#conclusion-integration-of-preventive-treatments-into-comprehensive-oral-health-management">Conclusion: Integration of Preventive Treatments Into Comprehensive Oral Health Management</a></li></ul></div>
 
-                <div class="reader-mode-toggle">
-                    <label>Reading Mode:</label>
-                    <span class="reader-mode-label" id="mode-label-patient">Patient</span>
-                    <div class="reader-mode-switch" id="reader-mode-switch" onclick="toggleReaderMode()" role="switch" aria-checked="false" tabindex="0"></div>
-                    <span class="reader-mode-label" id="mode-label-pro">Professional</span>
+                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:#6366f1">🔬</span>
+                    <span style="color:#64748b">Dental professional?</span>
+                    <a href="/clinical/preventive-treatments-complete-guide.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -242,34 +241,13 @@
             html.setAttribute('data-theme', next);
             localStorage.setItem('theme', next);
         }
-        function toggleReaderMode() {
-            const sw = document.getElementById('reader-mode-switch');
-            const body = document.getElementById('article-body');
-            if (!sw || !body) return;
-            const isPro = sw.classList.toggle('active');
-            sw.setAttribute('aria-checked', isPro);
-            if (isPro) {
-                body.classList.remove('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-            } else {
-                body.classList.add('hide-clinical');
-                document.querySelectorAll('.clinical-detail').forEach(d => d.removeAttribute('open'));
-            }
-            localStorage.setItem('readerMode', isPro ? 'pro' : 'patient');
-        }
-        // Restore reader mode preference
-        (function() {
-            const mode = localStorage.getItem('readerMode');
-            if (mode === 'pro') {
-                const sw = document.getElementById('reader-mode-switch');
-                const body = document.getElementById('article-body');
-                if (sw && body) {
-                    sw.classList.add('active');
-                    sw.setAttribute('aria-checked', 'true');
-                    document.querySelectorAll('.clinical-detail').forEach(d => d.setAttribute('open',''));
-                }
-            }
-        })();
+        // Clinical detail expand/collapse
+        document.querySelectorAll('.clinical-detail-toggle').forEach(function(t) {
+            t.addEventListener('click', function() {
+                const chevron = t.querySelector('.clinical-chevron');
+                if (chevron) chevron.textContent = t.parentElement.open ? '▸' : '▾';
+            });
+        });
     </script>
 </body>
 </html>
