@@ -61,6 +61,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/category/dental-implants.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/category/dental-anxiety-sedation.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -82,11 +87,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/category/sports-dentistry.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/category/dental-implants.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -221,6 +221,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/dental-implants/overview-implants/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/orthodontics/alignment-straightening/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -297,11 +302,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/orthodontics/treatment-duration/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/dental-implants/overview-implants/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
