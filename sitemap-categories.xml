@@ -321,11 +321,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/cosmetic-dentistry/bonding-contouring/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/oral-health-conditions/overview-oral-conditions/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -507,6 +502,11 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/oral-health-conditions/infections-abscess/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/cosmetic-dentistry/bonding-contouring/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
