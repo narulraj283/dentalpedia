@@ -486,11 +486,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/general-dentistry/root-canal-therapy/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/oral-surgery/surgical-anesthesia/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -661,6 +656,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/general-dentistry/root-canal-therapy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/dental-technology/imaging-diagnostics/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -766,7 +766,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/dental-technology/laser-technology/</loc>
+    <loc>https://dentalpedia.co/subcategory/general-dentistry/laser-technology/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -861,7 +861,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/tmj-sleep-dentistry/bruxism/</loc>
+    <loc>https://dentalpedia.co/subcategory/general-dentistry/bruxism/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
