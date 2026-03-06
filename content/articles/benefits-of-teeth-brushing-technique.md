@@ -23,21 +23,25 @@ references:
   - "Sowinski JA, Cummins D. Plaque Removal Potential of a Powered Versus Manual Toothbrush. Journal of Periodontal Research. 2008;43(4):395-402."
 ---
 
-## Introduction to Proper Brushing Technique
+## Why Brushing Technique Matters
 
-Tooth brushing remains the foundation of plaque removal and oral disease prevention, yet studies demonstrate that many people brush incorrectly, using excessive force, wrong angles, or inefficient patterns. Evidence-based brushing techniques maximize plaque removal while minimizing gingival recession and tooth abrasion. Understanding the rationale behind proper technique—why 45-degree angles matter, why gentle pressure is superior to aggressive scrubbing, and why two minutes removes more plaque than one minute—enables patients to optimize their oral hygiene and clinicians to provide effective patient education.
+Most people brush wrong. Wrong angle, too much force, too fast, skipping areas. Evidence-based brushing removes more plaque, prevents gum recession, and prevents tooth wear. Understanding the "why" behind proper technique—why angle matters, why gentle is better than aggressive, why two minutes beats one—helps you brush better and prevents long-term problems.
 
-The most commonly recommended technique is the Modified Bass method, which combines the gingival-targeting benefit of the original Bass technique with easier everyday application. Adherence to proven techniques consistently reduces cavity incidence, gingivitis prevalence, and the severity of periodontal disease.
+The Modified Bass technique (most recommended) combines how to target the gum line with practical, everyday brushing. When people stick to proven techniques, cavities decrease, gum disease decreases, and serious periodontal disease decreases.
 
-## Modified Bass Technique: The Gold Standard
+## The Right Way: Modified Bass Technique
 
-**Position and Angle**: The Modified Bass technique positions the toothbrush bristles at a 45-degree angle to the gingival margin (the border between tooth and gum). This angle is crucial—steeper angles (perpendicular to the gum) miss subgingival plaque, while shallower angles (<30 degrees) contact primarily the tooth crown and miss the critical gingival margin area where disease-initiating plaque accumulates.
+**The Angle**:
+Position bristles at 45 degrees to the gum line. This matters. Too steep (straight into the gum) misses below-gum plaque. Too shallow (flat along the tooth) misses the gum-line plaque where disease starts.
 
-**Bristle Position**: The bristle tips should point slightly apically (toward the tooth root) from the 45-degree axis, allowing the bristles to penetrate slightly subgingivally. In health, bristles entering the sulcus are safe because the healthy sulcus (1-2 mm deep) accommodates bristles without damaging epithelium. In disease (with deeper pockets), the 45-degree angle with slight subgingival penetration is still appropriate for plaque removal on exposed root surfaces.
+**Bristle Position**:
+Point bristles slightly toward the root. They'll penetrate slightly below the gum line, which is fine and actually helpful for removing disease-causing plaque.
 
-**Motion**: Short vibratory motions (approximately 1-2 mm amplitude) are performed while maintaining the 45-degree angle. The bristles vibrate rather than scrub. Multiple gentle vibrations (approximately 10-20 per tooth segment) dislodge plaque through gentle friction. The vibration is performed without rolling the brush handle—the common mistake of immediately rolling the brush away from the gingiva defeats the purpose by sweeping the bristles away before plaque removal occurs.
+**The Motion**:
+Use short vibrations (1-2 mm) while holding the 45-degree angle. Vibrate gently 10-20 times per tooth area. Don't scrub or press hard. The vibration works, not the force.
 
-**Roll Away**: After completing vibratory motions on the gingival third of the tooth, the brush is rolled occlusally (away from the gingiva toward the biting surface) to clean the coronal surfaces. This two-phase approach—vibrate at gingival margin, then roll occlusally—ensures both subgingival and coronal plaque removal.
+**Then Roll Away**:
+After vibrating at the gum line, roll the brush toward the biting surface to clean the outer tooth surface. This two-step—vibrate at gum, then roll away—cleans both the critical gum line and the tooth crown.
 
 ## Comparison of Other Brushing Techniques
 
