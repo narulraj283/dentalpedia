@@ -46,17 +46,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/category/prosthodontics.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/category/holistic-alternative-dentistry.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dentalpedia.co/category/endodontics.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/category/prosthodontics.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -206,7 +206,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/general-dentistry/fillings-restorations/</loc>
+    <loc>https://dentalpedia.co/subcategory/prosthodontics/overview-prostho/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -231,7 +231,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/prosthodontics/overview-prostho/</loc>
+    <loc>https://dentalpedia.co/subcategory/general-dentistry/fillings-restorations/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -331,7 +331,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/oral-health-conditions/overview-conditions/</loc>
+    <loc>https://dentalpedia.co/subcategory/oral-health-conditions/overview-oral-conditions/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -347,11 +347,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/dental-implants/single-implant-restoration/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/oral-health-conditions/overview-oral-conditions/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -412,11 +407,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/oral-surgery/implant-surgery/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/dental-nutrition/nutrients-health/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -686,11 +676,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/dental-nutrition/harmful-foods/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/oral-surgery/bone-reconstruction/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -742,6 +727,11 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/oral-surgery/patient-education/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/oral-health-conditions/overview-conditions/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -817,6 +807,11 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/general-dentistry/pain-management/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/dental-nutrition/harmful-foods/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
