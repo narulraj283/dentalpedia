@@ -406,11 +406,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/emergency-dentistry/dislodged-lost/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/oral-surgery/surgical-reconstruction/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -637,11 +632,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/pediatric-dentistry/pediatric-care/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/holistic-alternative-dentistry/biocompatible-materials/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
