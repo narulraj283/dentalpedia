@@ -296,7 +296,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/dental-anxiety-sedation/sedation-options/</loc>
+    <loc>https://dentalpedia.co/subcategory/dental-anxiety-sedation/overview-anxiety-sedation/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -317,11 +317,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/general-dentistry/restorative-materials/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/dental-anxiety-sedation/overview-anxiety-sedation/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -356,17 +351,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/periodontics/scaling-planing/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/dental-implants/single-implant-restoration/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/oral-health-conditions/decay-cavity/</loc>
+    <loc>https://dentalpedia.co/subcategory/oral-health-conditions/overview-oral-conditions/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -456,6 +446,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/tmj-sleep-dentistry/overview-tmj-sleep/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/oral-surgery/surgical-anesthesia/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -467,11 +462,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/oral-health/overview-oral-health/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/oral-health-conditions/overview-oral-conditions/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -492,6 +482,11 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/general-dentistry/restorative-trauma/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/dental-anxiety-sedation/sedation-options/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -566,17 +561,17 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/tmj-sleep-dentistry/overview-tmj-sleep/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/preventive-care/oral-hygiene/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/preventive-care/periodontal-maintenance/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/periodontics/scaling-planing/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -691,11 +686,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/pediatric-dentistry/behavior-management/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/dental-nutrition/harmful-foods/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -747,11 +737,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/emergency-dentistry/trauma-fracture/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/dental-practice-insurance/costs-payments/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
