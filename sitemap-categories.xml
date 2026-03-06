@@ -326,11 +326,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/endodontics/root-canal-treatment/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/sports-dentistry/overview-sports/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -642,6 +637,11 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/general-dentistry/oral-pathology/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/general-dentistry/root-canal-treatment/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
