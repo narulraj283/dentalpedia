@@ -942,7 +942,7 @@ def generate_categories_index():
     cards_html += '</div>'
 
     content = f'''
-    <div class="content-width" style="padding: 2rem 0;">
+    <div style="padding: 2rem 0;">
         <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; Categories</nav>
         <h1>All Categories</h1>
         <p style="color: var(--text-secondary);">{len(articles_by_category)} categories covering {len(all_articles):,} articles</p>
@@ -1051,7 +1051,7 @@ def generate_category_pages():
             canonical_url = f"{DOMAIN}/category/{filename}"
 
             content = f'''
-            <div class="content-width" style="padding: 2rem 0;">
+            <div style="padding: 2rem 0;">
                 <nav class="breadcrumb">
                     <a href="/">Home</a> &rsaquo; <a href="/categories.html">Categories</a> &rsaquo; {html_mod.escape(category_name)}
                 </nav>

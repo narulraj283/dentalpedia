@@ -192,6 +192,7 @@ blockquote {
 .content-width {
   max-width: var(--content-width);
   margin: 0 auto;
+  padding: 0 1rem;
 }
 
 main {
@@ -1728,6 +1729,32 @@ main {
 
   .section-title {
     font-size: 1.35rem;
+  }
+
+  /* Mobile touch target minimum 44px */
+  .article-card,
+  .category-card,
+  .pagination a,
+  .breadcrumb a {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+  }
+
+  .article-card,
+  .category-card {
+    display: block;
+    min-height: auto;
+    padding: 1rem;
+  }
+
+  .pagination a {
+    padding: 0.75rem 1rem;
+  }
+
+  /* Ensure content-width doesn't overflow on mobile */
+  .content-width {
+    max-width: 100%;
   }
 }
 
