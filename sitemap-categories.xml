@@ -76,6 +76,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/category/sports-dentistry.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/category/dental-implants.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -86,7 +91,12 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/category/sports-dentistry.html</loc>
+    <loc>https://dentalpedia.co/category/oral-health-conditions.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/category/dental-technology.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -96,17 +106,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/category/oral-health-conditions.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/category/oral-health.html</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/category/dental-technology.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -281,7 +281,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/tmj-sleep-dentistry/sleep-apnea/</loc>
+    <loc>https://dentalpedia.co/subcategory/tmj-sleep-dentistry/overview-tmj-sleep/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/sports-dentistry/overview-sports/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -321,17 +326,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/sports-dentistry/overview-sports/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/cosmetic-dentistry/bonding-contouring/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/geriatric-dentistry/overview-geriatric/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -401,6 +396,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/dental-technology/overview-technology/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/sports-dentistry/athletic-performance/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -431,6 +431,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://dentalpedia.co/subcategory/geriatric-dentistry/overview-geriatric/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://dentalpedia.co/subcategory/orthodontics/orthodontic-diagnosis/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -442,11 +447,6 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/holistic-alternative-dentistry/mind-body/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://dentalpedia.co/subcategory/tmj-sleep-dentistry/overview-tmj-sleep/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -536,11 +536,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://dentalpedia.co/subcategory/dental-technology/overview-technology/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://dentalpedia.co/subcategory/oral-surgery/surgical-trauma/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
@@ -587,6 +582,11 @@
   </url>
   <url>
     <loc>https://dentalpedia.co/subcategory/pediatric-dentistry/pediatric-care/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dentalpedia.co/subcategory/tmj-sleep-dentistry/sleep-apnea/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
