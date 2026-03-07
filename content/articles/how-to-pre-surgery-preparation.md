@@ -1,9 +1,9 @@
 ---
-title: Pre-Operative Preparation Protocol for Oral and Maxillofacial Surgery
+title: "Pre-Surgery Preparation: Getting Ready"
 slug: how-to-pre-surgery-preparation
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive clinical guidelines for pre-operative optimization, medical clearance, medications management, and patient education prior to oral."
+excerpt: "Prepare for your dental surgery with these helpful tips. Learn what to do before your procedure for the best outcome."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true
@@ -24,7 +24,7 @@ references:
   - title: "Informed Consent and Risk Communication in Oral Surgery"
     url: https://www.ncbi.nlm.nih.gov/pubmed/29401727
   - title: "Cardiovascular Risk Assessment in Surgical Patients"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/30146287
+    url: https://www.ncbi.nlm.nh.gov/pubmed/30146287
   - title: "Medication Interactions and Bleeding Risk in Oral Surgery"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28956466
   - title: "Smoking Cessation and Surgical Outcomes"
@@ -33,21 +33,53 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/24851640
 ---
 
-Thorough pre-operative preparation significantly impacts surgical outcomes, complication rates, and patient satisfaction. Evidence demonstrates that patients receiving comprehensive pre-operative evaluation, optimization, education, and anxiety management experience fewer complications, require less post-operative analgesia, heal faster, and report greater satisfaction than those without adequate preparation. This guide outlines essential pre-operative protocols for oral surgical patients.
+Preparing properly for your dental surgery sets you up for success. Most preparation is simple: following a few basic rules dramatically improves outcomes and reduces complications. Learning more about [managing pain after dental surgery](/article/how-to-pain-management-surgery.html) can help you understand this better.
 
-## Medical History Review and Risk Stratification
+## Medications Before Surgery
 
-Complete medical and medication history provides essential information for identifying contraindications, optimizing anesthesia selection, determining antibiotic prophylaxis necessity, and planning appropriate hemostasis measures. Surgeons should obtain updated medical history at least 24-48 hours pre-operatively, identifying changes since the initial consultation. Critical conditions requiring special consideration include cardiovascular disease, hypertension, diabetes, bleeding disorders, immunosuppression, respiratory disease, liver or kidney dysfunction, and medication use, particularly anticoagulants and antiplatelet agents.
+Tell your dentist about all medications and supplements you're taking. Be especially honest about blood thinners (like warfarin or aspirin), diabetes medications, and blood pressure medicines. Your dentist will let you know whether to continue or stop each one before surgery.
 
-Cardiovascular disease represents the most significant medical risk factor for surgical complications. Patients with history of myocardial infarction, angina, arrhythmia, or stroke require additional evaluation, possibly including electrocardiogram and cardiology clearance for more extensive procedures. Hypertension should be reasonably controlled pre-operatively; uncontrolled hypertension (>160/100 mm Hg) increases hemorrhage risk and should be addressed before elective surgery. Diabetes, whether type 1 or type 2, increases infection risk 2-4 fold and impairs wound healing; procedures should be scheduled early in the day with careful glucose monitoring and possible insulin adjustment.
+Most blood pressure and heart medications continue as normal. Blood thinner medications usually continue too unless your dentist specifically says to stop them. Learning more about [post-operative instructions: your recovery checklist](/article/how-to-post-operative-instructions.html) can help you understand this better. Diabetes medications might need adjustment depending on your fasting status—ask your dentist. Some medications can affect bleeding or anesthesia, so your dentist needs the full list.
 
-Bleeding disorders—hereditary or acquired—require specialized management. Patients with hemophilia, factor deficiencies, or von Willebrand disease require coordination with hematology and possible factor replacement. Anticoagulation patients (warfarin, apixaban, rivaroxaban, dabigatran) require individualized management; current evidence supports continuing anticoagulation through most minor oral surgery without increased bleeding risk if local hemostasis measures are applied. More extensive surgery may require temporary anticoagulation interruption with medical team coordination.
+## Before Surgery Day
 
-## Medication Review and Perioperative Adjustment
+Get a good night's sleep the night before. Sleep helps your body heal faster and makes surgery day easier.
 
-Current medications can significantly impact surgical outcomes. Anticoagulants and antiplatelet agents (aspirin, clopidogrel, warfarin, novel anticoagulants) require careful management. Most minor oral surgery can proceed with continued anticoagulation if local hemostasis is optimized; discontinuation carries higher stroke/thrombosis risk than minor bleeding increase. Discuss continuation versus modification with the prescribing physician and anesthesia provider.
+Eat a light meal 2-3 hours before surgery (unless your dentist said to fast). Don't show up hungry, but also don't eat a heavy meal that makes you feel full or nauseous.
 
-Nonsteroidal anti-inflammatory drugs (NSAIDs) should be discussed pre-operatively. While these can increase minor oozing, the anti-inflammatory benefits often outweigh risks and can be restarted 24-48 hours post-operatively. Selective serotonin reuptake inhibitors (SSRIs) can increase minor bleeding but should not be discontinued abruptly due to withdrawal risks. Corticosteroid-dependent patients require supplementation during surgery; adrenal suppression can develop with chronic therapy and necessitate stress-dose steroids perioperatively.
+Brush and floss normally the morning of your surgery—clean teeth are less likely to get infected.
+
+Wear comfortable, loose clothing. You won't be able to wear anything tight around your neck or arms where your dentist might need to monitor your vital signs.
+
+Leave valuables at home. Bring your insurance card and ID.
+
+## Anxiety is Normal
+
+Many people feel nervous before surgery. That's completely normal. Tell your dentist about your anxiety—they can help. Sometimes mild anxiety medication before surgery helps patients feel more comfortable. Don't try to hide your nervousness; communication helps your dentist take care of you better.
+
+> **Key Takeaway:** Good pre-surgery preparation means taking medications as directed, disclosing your full medical history, avoiding heavy meals, and being honest about your anxiety.
+
+## Day of Surgery
+
+Have someone drive you. You won't be safe driving after surgery, even if you feel okay.
+
+Arrive a few minutes early so you're not rushed.
+
+Bring your medication list and insurance card.
+
+Wear comfortable clothes.
+
+Be prepared to answer health questions again—your dentist will confirm your medical history before surgery.
+
+## Conclusion
+
+Pre-surgery preparation is straightforward: take your medications, be honest about your health and medications, eat lightly, sleep well, and have a ride home arranged. These simple steps help your surgery go smoothly and set up good recovery.
+
+## Related Articles You May Find Helpful
+
+- [Managing Pain After Dental Surgery](/article/how-to-pain-management-surgery.html)
+- [Post-Operative Instructions: Your Recovery Checklist](/article/how-to-post-operative-instructions.html)
+- [Your Tooth Extraction Recovery Timeline](/article/how-to-oral-surgery-recovery-timeline.html)
 
 Sedating medications, muscle relaxants, and opioids should be identified and discussed with anesthesia providers regarding adjustment or avoidance on surgical day. Herbal supplements (echinacea, garlic, ginkgo, ginseng, St. John's wort) can affect bleeding, inflammation, and anesthetic metabolism; patients should discontinue at least 1-2 weeks pre-operatively if possible. Metformin can be continued; insulin should be adjusted based on fasting requirements and blood glucose.
 
