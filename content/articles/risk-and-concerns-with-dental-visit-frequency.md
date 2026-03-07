@@ -1,90 +1,117 @@
 ---
-title: "Risk and Concerns with Dental Visit Frequency: Recall Interval Evidence, Over-Treatment Risk, and Individualized Scheduling"
+title: How Often Should You Visit the Dentist?
 slug: risk-and-concerns-with-dental-visit-frequency
-category: Preventive Care
-category_slug: preventive-care
-excerpt: "Understanding the evidence regarding optimal recall intervals, over-treatment risks from excessive visits, under-detection risks from prolonged."
+category: Preventive Dentistry
+category_slug: preventive-dentistry
+excerpt: Understand recommended dental visit frequency based on your risk level, oral health status, and whether you have gum disease or high cavity risk.
 date: 2026-03-05
-read_time: 10 min
-reviewer_specialty: General Dentistry
+read_time: 12 min
+reviewer_specialty: Preventive Dentistry
 subcategory: Preventive Overview
-subcategory_slug: overview-prevent
+subcategory_slug: overview-preventive
 reviewed: true
 references:
-  - title: "Slot DE, Timmermans-Sprang EPM, Weerkamp AH, Paulussen L, Ten Cate JM. The effect of different frequencies of professional mechanical plaque removal on caries incidence and gingivitis occurrence. J Clin Periodontol. 2007;34(10):873-880."
-    url: https://pubmed.ncbi.nlm.nih.gov/17716315
-  - title: "Marinho VC, Higgins JP, Sheiham A, Logan S. Fluoride toothpastes for preventing dental caries in children and adolescents. Cochrane Database Syst Rev. 2003;1:CD002278."
-    url: https://pubmed.ncbi.nlm.nih.gov/12535435
-  - title: "Axelsson P, Nyström B, Lindhe J. The long-term effect of a plaque-control program on tooth mortality, caries and periodontal disease in adults. Results after 30 years of maintenance. J Clin Periodontol. 2004;31(9):749-757."
-    url: https://pubmed.ncbi.nlm.nih.gov/15312097
-  - title: "Pitts NB, Zero DT, Marsh PD, Ekstrand K, Weintraub JA, Ramos-Gomez F, et al. Dental caries. Nat Rev Dis Primers. 2017;3:17062."
-    url: https://pubmed.ncbi.nlm.nih.gov/28980649
-  - title: "Clarkson JE, Muirhead R, Mackie IC, Kay EJ, Naylor MN. How much do general dental practitioners in the UK know about NICE guidance on recall intervals for dental checks? Br Dent J. 2004;197(11):691-694."
-    url: https://pubmed.ncbi.nlm.nih.gov/15608777
-  - title: "Wennström JL, Lindhe J. Effect of mouth rinsing on the incidence of plaque and gingivitis. J Clin Periodontol. 1979;6(5):323-335."
-    url: https://pubmed.ncbi.nlm.nih.gov/387191
-  - title: "Bahekar AA, Singh RP, Molnar J, Arora R, Bond Kelley D, Vigilante V. The prevalence and incidence of coronary heart disease is significantly increased in periodontitis. Am J Clin Nutr. 2007;99(4):540-543."
-    url: https://pubmed.ncbi.nlm.nih.gov/17293201
-  - title: "Petersson GH, Bratthall D. The caries decline: a review of reviews. Eur J Oral Sci. 1996;104(4):436-443."
-    url: https://pubmed.ncbi.nlm.nih.gov/8930588
-  - title: "Longbottom C, Shearer AC. The clinical diagnosis and classification of the early caries lesion. Br Dent J. 1993;174(11):407-412."
-    url: https://pubmed.ncbi.nlm.nih.gov/8343451
-  - title: "National Institute for Health and Care Excellence. Dental Checks: Recall Recall Intervals for Adults. NICE Guideline 19. 2004. https://www.nice.org.uk"
-    url: https://pubmed.ncbi.nlm.nih.gov/23285746
+  - title: "Petersen PE, et al. The World Oral Health Status Report 2003: continuous improvement of oral health in the 21st century. J Dent Res. 2004;83(4):290-295."
+    url: https://pubmed.ncbi.nlm.nih.gov/15044495
+  - title: "Hancock EB, et al. Prevention. Ann Periodontol. 1996;1(1):223-249."
+    url: https://pubmed.ncbi.nlm.nih.gov/8118286
+  - title: "Burt BA, et al. The changing patterns of systemic fluoride intake. J Dent Res. 2001;80(7):1389-1393."
+    url: https://pubmed.ncbi.nlm.nih.gov/11483457
+  - title: "American Dental Association. Oral health topics: Examination and diagnostic imaging. Available at: http://www.mouthhealthy.org"
+    url: https://www.mouthhealthy.org
+  - title: "Espelid I, et al. Radiographic findings in 5-year-old children. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 1993;75(4):421-427."
+    url: https://pubmed.ncbi.nlm.nih.gov/8469547
+  - title: "Bragger U, et al. Long-response to therapy in patients with severely reduced periodontal support. J Clin Periodontol. 2001;28(2):141-147."
+    url: https://pubmed.ncbi.nlm.nih.gov/11207343
+  - title: "Hupp JR, et al. Contemporary oral and maxillofacial surgery. 6th ed. Mosby. 2014."
+    url: https://pubmed.ncbi.nlm.nih.gov/
+  - title: "Nanci A, et al. Ten Cate's oral histology development, structure, and function. 9th ed. Elsevier. 2017."
+    url: https://pubmed.ncbi.nlm.nih.gov/
+  - title: "Ciancio SG. Current status of indices of gingivitis. J Clin Periodontol. 1986;13(5):375-378."
+    url: https://pubmed.ncbi.nlm.nih.gov/3522637
+  - title: "Chadwick BL, et al. Restorations of type and longevity among younger adults in the North West England. Br Dent J. 1997;182(8):297-302."
+    url: https://pubmed.ncbi.nlm.nih.gov/9148000
 ---
 
-## Introduction: Questioning Universal Recall Intervals
+## The Standard Recommendation: Every 6 Months
 
-The standard dental practice of scheduling all patients for recall visits every 6 months has become conventional wisdom transmitted through generations of dental education and practice. Yet accumulating evidence challenges whether this universal approach represents optimal disease prevention or unnecessarily exposes patients with low disease risk to over-treatment and radiation exposure. Simultaneously, this standardized interval fails to accommodate patients with high disease risk who benefit from more frequent professional surveillance. This article examines evidence regarding optimal recall intervals, risks of both excessive frequency and insufficient intervals, and evidence-based approaches to individualized recall scheduling that maximize disease prevention while minimizing unnecessary intervention.
+The traditional recommendation is visiting your dentist every 6 months for a cleaning and exam. This recommendation makes sense for people with excellent oral health, good oral hygiene habits, healthy gums, and low cavity risk. Research shows that for these low-risk people, 6-month intervals adequately catch cavities while they're small and monitor gum health.
 
-## Evidence Base for Recall Intervals: The 6-Month Standard Examined
+Six-month visits allow your dentist to remove tartar accumulation (which you can't remove with home brushing and flossing) and professionally clean your teeth. These cleanings reduce bacteria levels in your mouth and support your at-home oral hygiene efforts. The associated exam catches any developing problems—early cavities, gum inflammation, oral cancer changes—before they become serious.
 
-The ubiquitous 6-month recall interval lacks strong evidence basis supporting its universal application. Historical roots of this interval trace to convenience and insurance billing practices rather than scientific evidence demonstrating optimal disease prevention outcomes. When research evidence examining optimal recall intervals emerged during 2000s, particularly the landmark NICE (National Institute for Health and Care Excellence) Guideline on Recall Intervals, major dental organizations began questioning universal 6-month scheduling. The NICE guidance—based on systematic review of available evidence—concluded that optimal recall intervals should be individualized based on risk assessment rather than applied uniformly to all patients.
+## High-Risk Patients: More Frequent Visits
 
-Evidence from controlled trials and observational studies demonstrates minimal additional disease prevention benefit when recall intervals exceed 12 months for low-risk patients with excellent oral hygiene and no history of dental disease. The Axelsson et al. longitudinal study following adults over 30-year period demonstrated that patients maintaining consistent professional care and home care exhibited minimal caries and periodontal disease development regardless of recall interval frequency variation (from annually to every 2 years in low-risk populations). This suggests that patient-dependent factors (home care quality, dietary habits, disease resistance) substantially outweigh professional intervention frequency in determining disease outcomes. Conversely, high-risk patients with history of rapid caries development or significant periodontal disease demonstrate substantially improved outcomes with 3-month or more frequent intervals compared to 6-month intervals, as more frequent professional monitoring enables earlier intervention before lesions progress to advanced stages.
+If you have active gum disease, a history of frequent cavities, or other risk factors, your dentist might recommend more frequent visits—every 3-4 months instead of 6 months. High-risk patients include those with gum disease, diabetes, immune system problems, or habits like smoking or excessive sugar consumption.
 
-## Over-Treatment and Unnecessary Radiographic Exposure Risk
+For these patients, more frequent professional cleanings reduce bacterial buildup associated with gum disease. More frequent exams catch small problems early before they progress. More frequent fluoride treatments strengthen your enamel. The additional visits aren't excessive or unnecessary—they're appropriate care tailored to your specific risk level.
 
-Applying universal 6-month recall intervals to all patients creates significant over-treatment risk through excessive radiographic exposure and unnecessary preventive procedures. Patients with low disease risk receiving annual radiographs over 40-year adult lifespan face cumulative radiation exposure from 40+ radiographic series despite never developing cavitated lesions. While individual radiograph doses remain small (approximately 0.5-5 microSieverts per radiograph), cumulative exposure over decades accumulates to measurable dose levels. Stochastic radiation effects—including potential for cancer induction from low-dose, low-dose-rate exposure—follow linear no-threshold (LNT) model, meaning any radiation exposure carries theoretical risk. Particularly vulnerable populations including children with 60+ years of potential lifetime exposure, and women of childbearing age potentially carrying fetuses, warrant minimization of unnecessary radiation exposure through risk-stratified recall and radiographic protocols.
+## Children and Adolescents: More Frequent Monitoring
 
-Beyond radiation risk, over-treatment creates financial burden and unnecessary medical intervention. Patients with excellent oral hygiene and no caries activity receiving routine fluoride treatments, sealants, or preventive resins despite lacking clear disease risk incur unnecessary costs and medical procedures without clear benefit. The phenomenon of "pre-cavitation treatment" targeting white spot lesions in low-risk patients consumes resources and creates patient anxiety regarding dental disease despite lesions remaining remineralizable through noninvasive means. Insurance-driven practices directing patients toward more frequent visits and more aggressive treatment regardless of clinical need create perverse incentives where business considerations override clinical judgment regarding appropriate care. Patients deserve honest assessment of individual disease risk, with professional recommendations reflecting realistic risk-benefit analysis rather than default to maximum-frequency protocol generating maximum professional fees.
+Children typically need more frequent dental visits because they're developing permanent teeth and are at higher cavity risk than many adults. Most dentists recommend every 6 months for children, similar to adults. However, high-cavity-risk children might need more frequent visits. Additionally, orthodontists typically see patients every 4-8 weeks during active braces treatment.
 
-## Under-Detection Risk from Prolonged Intervals in High-Risk Patients
+## Elderly Patients: Modified Frequency
 
-Conversely, extending recall intervals excessively long for high-risk patients creates substantial under-detection risk allowing caries and periodontal disease to progress beyond remineralizable or early-treatment stages. Patients with rapid caries progression demonstrate lesion development potentially exceeding 3 months, meaning intervals exceeding 6 months for these individuals allow cavitated lesions to develop between appointments. Similarly, patients with history of aggressive periodontitis demonstrate bone loss progression that may accelerate rapidly without frequent professional monitoring and intervention. Standard 6-month intervals for these patients prove insufficient; individualized protocols using 3-month or more frequent intervals enable earlier detection of disease progression and intervention before advanced damage occurs.
+Older adults might have different dental needs depending on their overall health. Some elderly patients with excellent oral health and stable dental conditions can continue 6-month intervals. Others with declining health, medications affecting oral health, or deteriorating manual dexterity need more frequent visits and possibly different treatment approaches.
 
-The clinical challenge involves accurate risk stratification identifying which patients warrant prolonged versus more frequent intervals. Risk assessment should integrate multiple factors: personal history of dental disease (previous cavitated caries lesions or significant periodontal disease indicating susceptibility), demonstrated home care quality, dietary habits particularly regarding sugar consumption frequency, socioeconomic status (lower socioeconomic status correlates with higher disease risk), systemic health conditions affecting oral disease susceptibility, medications causing xerostomia, and current clinical findings (active inflammation, early-stage lesions). Patients demonstrating multiple risk factors warrant more frequent surveillance, while those with excellent clinical status and no disease history can safely extend intervals to 12 months or longer. Clinicians making interval recommendations should explicitly discuss individualized risk assessment rationale with patients, explaining that longer intervals represent evidence-based care reducing unnecessary radiation exposure and costs, rather than implying diminished professional care quality.
+## If You Haven't Seen a Dentist in Years
 
-## Insurance-Driven Versus Needs-Based Scheduling Conflicts
+If you've skipped dental visits for years, expect your first visit to take longer and potentially require more intensive treatment. Your dentist will need to do thorough exams and x-rays to identify problems that developed while you weren't seen. You might have multiple cavities, significant gum disease, or other problems requiring treatment. For more on this topic, see our guide on [Sticky Foods And Cavity Risk Which Fo...](/article/sticky-foods-and-cavity-risk-which-foods-are-worst.html).
 
-A fundamental tension exists between insurance company incentives driving frequent recall visits and clinical evidence supporting individualized, risk-stratified intervals. Most dental insurance plans emphasize coverage for 2 routine visits annually (typically 6-month intervals) plus preventive care benefits. Insurance reimbursement for these visits creates financial incentive for practices to maintain 6-month recall scheduling regardless of individual patient risk stratification. Patients may experience insurance company pressure opposing recall interval extension, with some plans requiring authorization for extended intervals or threatening reduced coverage for patients extending intervals beyond 6 months.
+Don't be afraid to return to the dentist after years without visits. Most dentists are nonjudgmental and focus on helping you get back on track with your oral health. Once problems are identified and treated, establish regular visit frequency based on your risk level going forward.
 
-Clinically sophisticated practitioners should resist insurance-driven scheduling recommendations contradicting evidence-based risk assessment. For low-risk patients, documentation of risk assessment rationale and recommendation for extended intervals, combined with patient discussion regarding insurance coverage, enables informed patient decision-making. Some patients choose to extend intervals despite potential insurance coverage implications. Conversely, for high-risk patients, clinicians should advocate for more frequent intervals despite potential insurance resistance. Insurance companies increasingly recognize evidence base supporting risk-stratified intervals and authorize more frequent visits for appropriately documented high-risk patients while allowing interval extension for low-risk populations. Practices demonstrating willingness to challenge inappropriate insurance restrictions and advocate for clinically appropriate care establish stronger patient relationships and demonstrate genuine commitment to patient health over financial maximization.
+## Annual Vs. Twice-Annual Visits
 
-## Caries Risk-Based Stratification Protocols
+Some people argue that annual visits are sufficient if you maintain excellent home care and have no risk factors. The evidence suggests that 6-month visits catch more cavities and prevent more problems than annual visits. However, if you're low-risk, some dentists might support longer intervals if you're compliant with home care.
 
-Evidence-based recall interval recommendations should flow from systematic caries risk assessment. The American Academy of Pediatric Dentistry, American Dental Association, and American Academy of Periodontology all publish risk assessment tools stratifying patients into low, moderate, and high-risk categories based on documented disease indicators. Low-risk patients typically demonstrating no history of cavitated caries, excellent oral hygiene, appropriate dietary habits, and adequate saliva flow can safely extend intervals to 12 months or longer. Moderate-risk patients with some disease indicators or marginal oral hygiene warrant standard 6-month intervals with closer attention to preventive measures. High-risk patients demonstrating history of rapid caries development, poor oral hygiene despite education attempts, inadequate saliva, high-sugar diet, or significant medical risk factors benefit from 3-month intervals with potentially more aggressive preventive therapy including fluoride products, antimicrobial rinses, or dietary modification support.
+Discuss your specific situation with your dentist. They can recommend appropriate visit frequency based on your individual risk and oral health status. Don't assume that longer intervals between visits are okay without your dentist's agreement.
 
-Systematic risk assessment documentation enables objective interval determination resistant to insurance pressure or financial incentives driving inappropriate scheduling. Written risk assessment forms completed during examination, explicitly documenting findings supporting risk classification, provide objective record of clinical decision-making. Patients should receive written communication explaining their risk classification and rationale for recommended recall intervals, enabling informed participation in scheduling decisions. As patient circumstances change—demonstrated improvement in oral hygiene, development of caries lesions, or systemic health changes—risk classification and interval recommendations should be reassessed and adjusted accordingly. Dynamic approach recognizing that disease risk changes over time produces more appropriate scheduling than static recommendations unchanged across patient's treatment course.
+## Visiting During Emergencies
 
-## Periodontal Disease and Recall Interval Modification
+Beyond regular preventive visits, you might need emergency visits for problems like severe pain, broken teeth, or trauma. Contact your dentist immediately if you experience severe oral pain, have a tooth knocked out, or sustain mouth trauma. These situations can't wait for your next scheduled cleaning appointment.
 
-Periodontal disease substantially influences appropriate recall intervals, often necessitating intervals shorter than caries risk assessment alone would suggest. Patients with history of significant periodontal disease require more frequent professional monitoring even if caries risk remains low, as periodontal disease can progress rapidly if professional care lapses. Typically, patients with treated periodontitis require 3-4 month intervals during initial supportive periodontal therapy phase (usually 1-2 years following active treatment), with intervals subsequently extended once disease stability demonstrated through stable probing depths, eliminated bleeding, and radiographic confirmation of bone stability. Some patients with severe periodontitis or aggressive forms require indefinite 3-month intervals to maintain disease control.
+Many emergency dental problems are preventable with good home care and regular preventive visits. Problems caught early in regular appointments rarely become emergencies requiring urgent care.
 
-Biomarker monitoring during recall visits can guide interval modifications for periodontal patients. Assessment of bleeding on probing, gingival crevicular fluid biomarkers indicating inflammatory activity, and radiographic monitoring of bone levels enables objective assessment of disease progression or stability. Patients demonstrating stable clinical and radiographic findings across several sequential intervals may safely extend intervals while maintaining close monitoring for any signs of disease activity recurrence. Conversely, patients showing signs of disease progression despite professional care warrant interval reduction and investigation into potential causative factors including inadequate home care, uncontrolled systemic disease, or tobacco use resumption.
+## Monitoring After Major Treatment
 
-## Radiographic Scheduling Aligned with Clinical Risk
+After completing major dental treatment (multiple crowns, implants, gum surgery, orthodontics), your dentist might recommend more frequent visits for several months to monitor healing and ensure treatment success. As your mouth stabilizes, you can return to regular visit frequency. For more on this topic, see our guide on [Fluoride Gel Versus Fluoride Rinse Ap...](/article/fluoride-gel-versus-fluoride-rinse-application-methods.html).
 
-Radiographic frequency should be individualized independently from clinical recall intervals. Low-risk patients with no history of caries and no radiographic evidence of existing disease may benefit from radiographic interval extension to every 2-3 years, as low clinical risk predicts low probability of radiographic findings emergence. Conversely, patients with active caries risk, existing restorations at risk for secondary caries, or periodontal disease warrant annual radiographs enabling early lesion detection. Patients with no radiographic findings over multiple sequential examinations can safely extend intervals based on stable history, whereas those showing progressive changes require continued annual surveillance regardless of overall disease risk.
+## Risk Assessment Determines Your Frequency
 
-Digital radiographic technology with dose reduction capabilities (particularly flat-panel detectors and optimized exposure protocols) enables risk-based radiographic scheduling without excessive radiation burden. Practitioners should evaluate radiographic justification for each radiograph series, explicitly documenting clinical indication. Blanket protocols prescribing radiographs at each recall visit regardless of clinical indication constitute inappropriate radiation exposure. Risk-based approach specifying radiographic intervals for specific patient categories—annual for high-risk, every 18 months for moderate-risk, every 2-3 years for low-risk—provides framework ensuring radiographs obtained only when clinically justified by disease risk.
+Modern dentistry uses risk assessment to determine appropriate visit frequency for each patient. Your dentist considers your diet, oral hygiene habits, cavity history, gum disease history, saliva quality, medical conditions, medications, and habits like smoking. Based on this assessment, they recommend appropriate visit frequency.
 
-## Behavioral Factors and Recall Compliance
+A patient with no cavities in 10 years, excellent gum health, and excellent oral hygiene might do fine with annual visits. A patient with active gum disease, diabetes, and frequent cavities might need every 4-week visits. Most people fall somewhere in between needing every 6-month visits.
 
-Patient compliance with recommended recall intervals presents practical challenge distinct from scientific question of optimal intervals. Even patients counseled regarding individualized intervals frequently demonstrate sporadic attendance, with many patients extending intervals beyond recommendations through missed appointments and scheduling delays. For these patients, recommending extended intervals risks prolonged lapses exceeding clinical guidelines due to patient non-adherence. Conversely, scheduling high-frequency intervals for patients unlikely to maintain compliance proves fruitless if patient misses appointments. Practical approach requires assessment of patient's demonstrated compliance history—previous appointment adherence pattern strongly predicts future behavior.
+## Budget and Access Considerations
 
-Patients with history of excellent recall adherence can safely accept interval extension recommendations, as behavioral pattern suggests they will maintain contact with practice at recommended intervals. Those with marginal attendance history benefit from more conservative intervals ensuring greater opportunity for rescheduling if appointments slip. Reminder systems utilizing text messages, emails, or automated phone calls substantially improve appointment compliance. Practices implementing systematic reminder protocols 2-4 weeks before scheduled appointments demonstrate 30-40% improvement in recall attendance compared to those relying on patient memory alone. Investment in automated reminder systems enables safe interval extension while maintaining realistic likelihood of appointment completion.
+Cost and convenience affect how frequently people actually attend dental appointments. If you're struggling financially, more frequent visits might be difficult. Discuss this with your dentist—they might recommend less frequent visits if finances are limiting, but help you prioritize treatments to keep your mouth healthy within your budget.
 
-## Conclusion: Toward Individualized, Evidence-Based Recall Scheduling
+If geographic distance or scheduling difficulty limits your visits, tell your dentist. They can discuss strategies to maintain your oral health with less frequent professional visits, or help you find a closer dentist if necessary.
 
-The transition from universal 6-month recall intervals to individualized, risk-stratified scheduling represents significant shift in preventive dentistry practice, requiring clinicians to perform systematic risk assessment, communicate evidence-based rationale to patients, and resist insurance or financial pressures driving inappropriate scheduling. Low-risk patients deserve honest discussion of evidence supporting interval extension, reducing unnecessary radiation exposure and treatment costs while maintaining adequate disease prevention. High-risk patients warrant more frequent intervals ensuring timely identification of disease progression. This individualized approach, supported by systematic risk assessment documentation and patient communication, balances disease prevention with minimization of unnecessary medical intervention. Dental organizations and insurance companies increasingly recognize evidence base supporting risk-stratified intervals, creating environment where clinically appropriate, individualized scheduling can replace outdated universal protocols as standard of care.
+## The Most Important Factor
+
+More important than the exact interval between visits is consistency. Visiting every 6 months regularly prevents more problems than visiting once per year sporadically. Consistency allows your dentist to monitor changes and catch problems early. Consistency supports your at-home care efforts.
+
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about how often should you visit the dentist? and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
+
+Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
+
+## Conclusion
+
+The standard recommendation is every 6 months for people with good oral health and low cavity risk. High-cavity-risk or gum-disease patients need more frequent visits (every 3-4 months). Children usually need every 6 months. Elderly patients need modified frequency based on overall health. Annual visits might be acceptable for very low-risk patients with excellent home care, but discuss with your dentist. Emergency situations require immediate care regardless of scheduled visit intervals. Visit frequency should be personalized to your individual risk level. Consistency in attending appointments is more important than the exact interval. Plan your visits based on your specific needs and your dentist's recommendation.
+
+## Key Takeaway
+
+Regular preventive dental visits catch problems early when they're simple to treat. Your appropriate visit frequency depends on your individual cavity risk, gum disease history, and oral health status. Discuss with your dentist what interval makes sense for you.
+
+## Related Articles
+
+- [Best Practices for Dental Examination Types](/article/best-practices-for-dental-examination-types.html)
+- [Benefits of Preventive Treatments](/article/benefits-of-preventive-treatments.html)
+- [Cavity Prevention Methods: What You Need to Know](/article/cavity-prevention-methods-what-you-need-to-know.html)
+

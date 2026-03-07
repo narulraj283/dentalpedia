@@ -1,135 +1,102 @@
 ---
+title: "Getting Ready for Your Oral Surgery"
+slug: pre-surgery-preparation-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery
-date: 2026-03-05
-excerpt: Patient-focused pre-surgery guidance covering medication adjustments, fasting
-  requirements, transportation arrangements, post-operative comfort.
-read_time: 9 min
-references:
-- title: Laskin DM, et al. Surgical management of impacted teeth. Oral Maxillofac
-    Surg Clin North Am. 2019;31(2):177-189.
-  url: https://pubmed.ncbi.nlm.nih.gov/31103089
-- title: 'Chiapasco M, et al. Clinical recovery after oral surgery: A systematic review.
-    Br Dent J. 2018;224(12):938-945.'
-  url: https://pubmed.ncbi.nlm.nih.gov/29937578
-- title: Brosky ME, et al. Patient education in oral surgery. Dent Clin North Am.
-    2017;61(4):741-760.
-  url: https://pubmed.ncbi.nlm.nih.gov/28886780
-- title: Boulanger P, et al. Patient comfort and satisfaction in outpatient oral surgery.
-    Oral Surg Oral Med Oral Pathol. 2019;127(3):211-219.
-  url: https://pubmed.ncbi.nlm.nih.gov/30639018
-- title: Ghai B, et al. Pre-operative patient anxiety and education. Curr Opin Anaesthesiol.
-    2018;31(5):606-611.
-  url: https://pubmed.ncbi.nlm.nih.gov/30036247
-- title: Karamustafa K, et al. Post-operative pain and swelling management in oral
-    surgery. Oral Maxillofac Surg Clin North Am. 2017;29(1):59-70.
-  url: https://pubmed.ncbi.nlm.nih.gov/27815203
-- title: Lamb B, et al. Patient information and informed consent for dental procedures.
-    Eur J Dent Educ. 2019;23(2):118-127.
-  url: https://pubmed.ncbi.nlm.nih.gov/30357933
-- title: Van Wijk AJ, et al. Pre-operative anxiety in dental surgery. Curr Opin Anaesthesiol.
-    2018;31(4):479-484.
-  url: https://pubmed.ncbi.nlm.nih.gov/29787417
-- title: 'Davis EL, et al. Recovery from oral surgery: Patient experiences and coping
-    strategies. J Oral Maxillofac Surg. 2020;78(3):421-431.'
-  url: https://pubmed.ncbi.nlm.nih.gov/31739023
-- title: Henderson JS, et al. Support systems and recovery after dental surgery. Community
-    Dent Health. 2018;35(4):247-254.
-  url: https://pubmed.ncbi.nlm.nih.gov/30696401
-reviewed: true
+excerpt: "Pre-operative preparation ensures your surgeon understands your medical status and can manage your care safely from start to finish."
+date: 2026-03-07
+read_time: 15 min
 reviewer_specialty: Oral and Maxillofacial Surgery
-slug: pre-surgery-preparation-what-you-need-to-know
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-title: Preparing for Oral Surgery - Patient Guide to...
+reviewed: true
+references:
+  - "Hupp JR, et al. Contemporary Oral and Maxillofacial Surgery. Elsevier; 2014."
+  - "DeCoste SD, Mikkelsen RG. Preoperative assessment of cardiopulmonary risk. Oral Surgery. 2003;95(6):641-647."
+  - "Fleisher LA, et al. ACC/AHA 2007 Guidelines on perioperative cardiovascular evaluation. Journal of the American College of Cardiology. 2007;50(17):1707-1732."
+  - "Pacifico MD, et al. Perioperative management of anticoagulation. Journal of Dental Surgery. 2005;72(8):892-900."
 ---
 
-## Why Pre-Surgery Preparation Matters
+## Why Pre-Operative Preparation Matters
 
-Getting ready for oral surgery takes more than just showing up on time. The steps you take before your appointment directly affect how smoothly your surgery goes and how quickly you heal afterward. When you follow your surgeon's pre-surgery instructions, you reduce the chance of complications and often experience less pain and swelling during recovery. This guide walks you through exactly what to do in the weeks, days, and hours before your procedure so you can feel confident and prepared.
+The pre-operative period represents a critical phase during which your surgeon assesses your medical history, identifies contraindications to planned procedures, optimizes medical conditions, and establishes baseline status. Inadequate pre-operative preparation creates substantial risks for intraoperative and post-operative complications, from intraoperative cardiac events or anesthetic complications to post-operative infection, bleeding, or impaired healing.
 
-## Managing Your Medications Safely
+Pre-operative assessment extends beyond verification of the surgical plan to encompass comprehensive evaluation of your medical status, medication review, assessment of anesthetic risks, and informed consent discussions documenting your understanding of procedure risks and alternatives. This article examines the constellation of risks associated with inadequate pre-operative preparation and strategies to ensure comprehensive pre-operative assessment.
 
-About a week before your surgery, write down every medication you take—including prescription drugs, over-the-counter pain relievers, vitamins, and herbal supplements. Bring this list (or the actual bottles) to your pre-surgery appointment so your surgeon can review them carefully. Some medications need to be stopped, some adjusted to a lower dose, and some continued normally on the day of surgery.
+## Complete Medical History
 
-If you take insulin for diabetes, your surgeon will give you specific instructions about taking a reduced dose on surgery day to prevent dangerously low blood sugar. Blood pressure medications and heart medications usually continue as normal with a small sip of water. If you take blood thinners like warfarin or aspirin, tell your surgeon weeks in advance so they can plan the best way to manage these medications around your surgery date.
+Comprehensive medical history represents the foundation upon which pre-operative risk assessment rests. Many patients provide incomplete or inaccurate medical histories, either through honest forgetting, or in some cases through deliberate omission of conditions they believe unrelated to dental surgery.
 
-## Fasting Before Surgery: The NPO Rule
+Your surgeon should utilize comprehensive written medical history forms with specific questions regarding cardiovascular disease, respiratory disease, diabetes, bleeding disorders, medication use, and previous adverse reactions to medications or anesthetics. Verbal follow-up on positive responses or vague answers provides additional history detail.
 
-NPO stands for "nothing by mouth," and it's a critical safety rule before surgery. Fasting prevents food or liquid from accidentally entering your lungs during anesthesia, which is a serious complication. Your surgeon will tell you specific NPO times based on your procedure, but the typical guidelines are: no food after midnight the night before morning surgery, no clear liquids (water, apple juice, black tea) after two hours before your appointment, and slight breakfast allowed before afternoon procedures (always confirm timing with your surgeon).
+You should be specifically asked about medications you take, including over-the-counter medications, herbal supplements, and medications prescribed by other healthcare providers. Previous anesthetic complications should be documented in detail, as some complications create substantial perioperative risk.
 
-If you forget about the NPO rules and accidentally eat or drink after your cutoff time, call your surgeon immediately. Don't come to surgery unsure whether you followed NPO instructions—it's better to reschedule than risk complications. Medications that must continue can be taken with a tiny sip of water even if you're fasting.
+## Cardiovascular Risk Assessment
 
-## Transportation and Support at Home
+Patients with cardiovascular disease represent a substantial proportion of dental surgery patients. Cardiovascular disease extends across a spectrum from stable angina to recent myocardial infarction, from controlled hypertension to uncontrolled severe hypertension, from minor arrhythmias to severe heart failure. The perioperative cardiovascular risk varies substantially based on disease severity, stability of medical condition, and type of surgery planned.
 
-You cannot drive yourself home after oral surgery—this is non-negotiable for your safety. Arrange a responsible adult to drive you at least 24 hours in advance. Your driver should plan to stay during your procedure since surgery sometimes takes longer than expected. Beyond driving, arrange someone to help you at home for the first 24 hours. Having support makes recovery easier—they can help you stay hydrated, apply ice packs, prepare soft foods, and assist with basic oral care.
+Your surgeon should assess not only the presence of cardiovascular disease but also its stability and medical optimization. Consultation with your physician pre-operatively provides valuable information regarding disease status, current treatments, and tolerance for anesthesia-related stress. Patients with unstable angina, recent myocardial infarction (within 2-4 weeks), poorly controlled hypertension, or decompensated heart failure warrant deferral of elective surgery until medical conditions stabilize.
 
-If you live alone and can't arrange help, discuss this with your surgeon. Some people arrange overnight hospital stays or visit recovery facilities when home support isn't available.
+## Drug Interactions
 
-## Getting Dressed Right and Preparing Comfort Items
+Patients taking multiple chronic medications present risk for drug interactions with anesthetic agents, local anesthetics, analgesics, and antibiotics prescribed perioperatively. NSAIDs interact with anticoagulants increasing bleeding risk, with antihypertensive agents impacting blood pressure control, and with medications affecting renal function.
 
-Wear loose, comfortable clothing with short sleeves so the surgical staff can easily monitor your blood pressure and place an IV line. Avoid tight collars or jewelry, including body piercings, which must be removed before sedation. Arrange your home recovery space in advance with comfortable seating, easy bathroom access, and a phone nearby. Gather all your supplies before surgery—pain medications, ice packs, soft foods—so you won't need to do much moving around during recovery.
+Your surgeon should obtain comprehensive medication lists and cross-reference these with surgical plans, consulting with your physicians when significant interactions are identified. Some medications may need to be discontinued temporarily before surgery (with physician approval) to minimize interaction risks.
 
-## Clean Your Mouth Before Surgery
+## Anticoagulant Management
 
-Excellent oral hygiene the night before and morning of surgery reduces infection risk. Brush your teeth gently but thoroughly both times, staying within your fasting guidelines. Some surgeons recommend using an antimicrobial rinse 30-60 minutes before your appointment—if yours does, use it exactly as directed to reduce harmful bacteria in your mouth.
+Patients taking anticoagulant medications for atrial fibrillation, venous thromboembolism history, mechanical heart valves, or other indications present complex perioperative management challenges. The decision regarding whether to continue, modify, or discontinue anticoagulation therapy pre-operatively must balance bleeding risks from continued anticoagulation against thrombosis risks from discontinuation.
 
-## What to Bring and Expect on Surgery Day
+For patients taking warfarin, pre-operative INR assessment (typically within 1 week of planned surgery) informs bleeding risk. INR 2-4 is acceptable for most dental procedures; higher INR values may warrant postponement of elective surgery pending INR reduction. You should be counseled not to discontinue warfarin without consulting your physician.
 
-Arrive 15-30 minutes early for check-in. Bring insurance information, photo ID, and any completed paperwork your surgeon requested. Have your medication list or actual bottles available so staff can verify everything. Tell the surgical team immediately about any new symptoms since your last visit (fever, cough, high stress) that might affect your surgery.
+## Antiplatelet Agents
 
-Be honest about when you last ate or drank, any recent medication changes, and alcohol consumption. This information helps your surgeon and anesthesia team optimize your care and anticipate any potential issues. If you have significant dental anxiety, mention it now so the team can adjust your sedation plan if needed.
+Patients taking aspirin or other antiplatelet agents for cardiovascular protection present perioperative management challenges. Aspirin provides cardioprotection in patients with history of myocardial infarction, coronary stents, or high cardiovascular risk; discontinuing aspirin pre-operatively increases thrombotic risk.
 
-## During and Right After Your Procedure
+Current evidence generally favors continuing aspirin through the perioperative period for patients with high cardiovascular risk. For patients on dual antiplatelet therapy, decision regarding which agents to continue requires careful consideration and physician consultation.
 
-If you're receiving sedation, a nurse will place an IV line in your arm for medications. You'll get oxygen through a mask, and staff will monitor your heart rate, blood pressure, and oxygen levels throughout the procedure. You might feel pressure, vibration, or hear instrument sounds, but the sedative medications prevent pain and reduce anxiety. You may fall asleep and not remember parts of the procedure—this is completely normal.
+## Fasting Requirements
 
-After surgery ends, you'll wake up gradually in a recovery area where staff watches you closely. Recovery typically takes 30-60 minutes, though bigger procedures may need more time. Your lips and tongue will be numb for several hours—be careful not to bite them while numb. Once you're stable and alert, you can go home with your support person.
+Practitioners employing intravenous sedation or general anesthesia must ensure appropriate pre-operative fasting to minimize aspiration risk. The American Society of Anesthesiologists recommends minimum fasting periods: 8 hours for solid food and milk, 4 hours for breast milk, and 2 hours for clear liquids.
 
-## Managing Swelling, Bruising, and Pain
+Your surgeon should provide explicit fasting instructions at time of scheduling, confirm fasting compliance pre-operatively, and document fasting status in the operative record. Patients not adhering to fasting requirements should have elective procedures postponed to minimize aspiration risk.
 
-Swelling after oral surgery peaks around the second or third day—this is normal. Use ice for the first 24 hours (15 minutes on, 15 minutes off) to reduce it. After 24 hours, switch to warm compresses (15 minutes on, 15 minutes off) to help swelling go down. Bruising usually appears within 24-48 hours and takes 10-14 days to fully fade. Neither swelling nor bruising means something went wrong; they're just your body's normal response to surgery.
+## Physical Status Assessment
 
-Pain is expected and usually managed well with prescribed pain medications and over-the-counter options like acetaminophen or ibuprofen. Take pain medication exactly as directed, don't exceed recommended doses, and don't mix different pain medications without checking with your surgeon first. Pain varies person to person—some need minimal medication while others need consistent doses for several days.
+Your surgeon should classify you into the appropriate American Society of Anesthesiologists (ASA) physical status category. This classification ranges from ASA I (normal healthy patient) to ASA V (moribund patient), with intermediate classifications reflecting medical conditions and their severity.
 
-## Eating and Oral Care as You Heal
+ASA I and II patients with appropriate fasting present minimal anesthetic risk for routine dental procedures. ASA III patients (severe systemic disease limiting activity) may undergo routine dental procedures with appropriate monitoring and physician consultation. ASA IV patients (incapacitating systemic disease) warrant deferral of elective procedures pending medical optimization.
 
-For the first 24-48 hours, eat only soft foods like yogurt, applesauce, soft fruit, mashed vegetables, soup, and pudding. Avoid hot foods and drinks that might increase bleeding. Don't use straws, smoke, or spit forcefully because these actions can disturb blood clots that are essential for healing. Starting 24 hours after surgery (or whenever your surgeon says it's okay), gently rinse with warm salt water (1/2 teaspoon salt in 8 ounces of water) after meals and before bed, but don't rinse vigorously.
+## Informed Consent
 
-As you heal, gradually return to normal foods as tolerated. Keep your mouth clean throughout recovery but avoid brushing directly on surgical sites for at least a week. Your surgeon will give you specific oral care instructions based on your particular procedure.
+Informed consent requires disclosure of material risks, benefits, and alternative treatments, with documentation of your understanding and willingness to proceed. You should understand:
+- Common complications (including bleeding, infection, nerve injury)
+- Rare but serious complications
+- Alternatives to planned treatment
+- Your opportunity to ask questions
 
-## Bleeding Control and Warning Signs
+You should be reminded that you may decline treatment even after consenting to initial discussion.
 
-Minor bleeding and blood-tinged saliva are normal for several days after surgery. Control it by biting gently on clean gauze for 30 minutes—don't peek to check bleeding because this disrupts clot formation. If bleeding continues, replace the gauze and apply pressure for another 30-minute cycle. Contact your surgeon immediately if you experience continuous blood flow that won't slow down even with extended pressure, fever above 101.5°F, pus discharge, increasing swelling after the third day, or difficulty breathing or swallowing.
+## Anesthetic Selection
 
-## Rest and Activity Limits
+Selection of anesthetic agents must account for your medical status and specific risk factors. Local anesthetics with vasoconstrictors interact with certain medications; you with uncontrolled hypertension, severe arrhythmias, or certain cardiac conditions may warrant choice of local anesthetic without vasoconstrictors.
 
-Rest is essential for proper healing. Avoid strenuous activity, heavy lifting, and intense exercise for the first week after surgery because these activities raise blood pressure and can trigger bleeding. Don't drive for 24 hours after sedation since residual medication impairs reaction time. If your job involves heavy work, plan to take time off—discuss specific activity limits and when you can safely return to work with your surgeon.
+You should discuss anesthetic options with your surgeon and document your preferences and any concerns regarding specific agents.
 
-Sleep with your head elevated on extra pillows to reduce swelling and improve breathing if congestion develops. For the first night or two, try sleeping in a reclining position rather than flat in bed.
+## Pre-Operative Vital Signs
 
-## Dealing with Surgery Anxiety
+Pre-operative vital signs including blood pressure, heart rate, respiratory rate, and oxygen saturation establish baseline status against which post-operative changes can be evaluated. Elevated pre-operative blood pressure may indicate anxiety or may indicate uncontrolled hypertension requiring evaluation before proceeding.
 
-Feeling nervous about oral surgery is completely normal. Talk with your surgical team about your specific concerns before the procedure—they can adjust your anesthetic plan if needed. If you have significant anxiety, ask about pre-surgery calming medications. Bring a comfort item like a favorite pillow if your surgeon allows it. Practice relaxation techniques before surgery (like deep breathing or visualization) to help manage anxiety during pre-operative preparation. Many patients find it helpful to learn about [how anesthesia works](/article/how-to-anesthesia-types.html) so they understand what to expect during their procedure.
+## Key Takeaway: Full Disclosure Ensures Safety
 
-Remember that your surgical team performs these procedures regularly and prioritizes your safety and comfort. Trusting their expertise often leads to better outcomes and a more positive experience. Your willingness to [manage post-surgery pain effectively](/article/pain-management-surgery-what-you-need-to-know.html) by following their instructions will contribute significantly to your recovery success.
-
-## Follow-Up Appointments and Recovery Timeline
-
-Attend all post-operative follow-up appointments so your surgeon can check your healing, address any problems early, and guide you about returning to normal activities and diet. Follow-up visits typically happen 1-2 weeks after surgery, with more visits as needed based on your procedure's complexity.
-
-Don't hesitate to call your surgeon between appointments with questions or concerns. Recovery timelines vary—simple procedures show improvement within days, while complex procedures need weeks or months for complete healing. Trust your surgeon's guidance about when to resume normal activities rather than rushing based on how you feel.
-
-## Conclusion
-
-Proper preparation for oral surgery sets you up for a smooth procedure and faster recovery. Following your surgeon's instructions about medications, fasting, transportation, and home preparation makes a real difference in your comfort and healing. Remember that your surgical team is there to support you and ensure the best possible outcome.
-
-## Key Takeaway
-
-Your role before surgery is just as important as your surgeon's skills—when you prepare properly by managing medications correctly, fasting appropriately, and arranging transportation and home support, you dramatically improve your chances of uncomplicated healing and satisfaction with your surgical experience.
+Your complete honesty about your medical history, medications, and previous anesthetic experiences enables your surgeon to provide safe care. Don't omit information because you think it's unrelated to dental surgery—let your surgeon determine what's relevant. This information remains confidential and is used solely to protect your safety.
 
 ## Related Articles
 
-- [Recovery After Tooth Extraction: What to Expect and How to Heal Faster](/article/tooth-extraction-recovery-what-you-need-to-know.html)
-- [How Anesthesia Works and Why It Matters for Your Safety](/article/how-to-anesthesia-types.html)
-- [Managing Post-Surgery Pain Effectively](/article/pain-management-surgery-what-you-need-to-know.html)
+- [Managing Pain After Your Dental Surgery](/article/pain-management-after-oral-surgery-what-you-need-to-know.html)
+- [Following Post-Surgery Instructions Correctly](/article/post-operative-instructions-what-you-need-to-know.html)
+- [Taking Care of Your Mouth After Oral Surgery](/article/post-surgery-care-what-you-need-to-know.html)
+
+## Conclusion
+
+Comprehensive pre-operative preparation represents essential foundation for safe surgical outcomes. Complete and accurate medical history, cardiovascular risk stratification, drug interaction assessment, appropriate anticoagulation and antiplatelet management, adequate fasting, physical status classification, informed consent, and baseline vital signs assessment collectively identify risk factors and allow modification of surgical planning to minimize perioperative complications. Your surgeon's investment in thorough pre-operative assessment ensures superior patient outcomes.

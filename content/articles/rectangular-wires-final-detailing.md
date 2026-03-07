@@ -1,113 +1,108 @@
 ---
-title: Rectangular Archwires and Final Detailing in Orthodontic Treatment
-slug: rectangular-wires-final-detailing
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "Rectangular archwire mechanics enable precise expression of third-order torque during finishing phases, directly controlling root position and final."
 date: 2026-03-05
+excerpt: Rectangular archwire mechanics enable precise expression of third-order torque
+  during finishing phases, directly controlling root position and final.
 read_time: 9 min
+references:
+- title: 'Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics. 5th ed. St.
+    Louis: Mosby Elsevier; 2012.'
+  url: https://pubmed.ncbi.nlm.nih.gov/23558590
+- title: Bennett JC, McLaughlin RP, Trevisi HJ. Fundamentals of orthodontic treatment
+    outcome. Quintessence Publishing; 2001.
+  url: https://pubmed.ncbi.nlm.nih.gov/11742268
+- title: Barrera-Mora JM, Baccetti T, Franchi L, Cordodí T. Longitudinal cephalometric
+    comparison of patients treated with the Jasper Jumper and conventional appliances.
+    American Journal of Orthodontics and Dentofacial Orthopedics. 2010;137(6):744-749.
+  url: https://pubmed.ncbi.nlm.nih.gov/20685526
+- title: Creekmore TD, Eklund MK. The possibility of skeletal changes in adult Class
+    II patients. Angle Orthodontist. 1997;67(4):301-312.
+  url: https://pubmed.ncbi.nlm.nih.gov/9220893
+- title: Burstone CJ. The mechanics of the segmented arch appliances. Angle Orthodontist.
+    1981;51(1):48-61.
+  url: https://pubmed.ncbi.nlm.nih.gov/6939354
+- title: Thurow RC. Atlas of orthodontic principles and techniques. Mosby; 1970.
+  url: https://pubmed.ncbi.nlm.nih.gov/6939354
+- title: Andrews LF. The six keys to normal intercuspation. Angle Orthodontist. 1972;42(4):296-309.
+  url: https://pubmed.ncbi.nlm.nih.gov/4505933
+- title: Roth RH. Functional occlusion for the orthodontist. Journal of Clinical Orthodontics.
+    1981;15(1):32-40.
+  url: https://pubmed.ncbi.nlm.nih.gov/6937255
+- title: Sacristan-Ruiz J, Valiño-Alba LM, Valiño-Zárate MM, et al. Influence of archwire
+    stiffness and bracket slot dimensions on the control of tooth movements. American
+    Journal of Orthodontics and Dentofacial Orthopedics. 2011;139(5):590-598.
+  url: https://pubmed.ncbi.nlm.nih.gov/21536172
+- title: Lombardi RE. The principles of visual perception and their clinical application
+    to denture esthetics. Journal of Prosthetic Dentistry. 1973;29(4):358-382.
+  url: https://pubmed.ncbi.nlm.nih.gov/4632819
+reviewed: true
 reviewer_specialty: Orthodontics
+slug: rectangular-wires-final-detailing
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - title: "Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics. 5th ed. St. Louis: Mosby Elsevier; 2012."
-    url: https://pubmed.ncbi.nlm.nih.gov/23558590
-  - title: "Bennett JC, McLaughlin RP, Trevisi HJ. Fundamentals of orthodontic treatment outcome. Quintessence Publishing; 2001."
-    url: https://pubmed.ncbi.nlm.nih.gov/11742268
-  - title: "Barrera-Mora JM, Baccetti T, Franchi L, Cordodí T. Longitudinal cephalometric comparison of patients treated with the Jasper Jumper and conventional appliances. American Journal of Orthodontics and Dentofacial Orthopedics. 2010;137(6):744-749."
-    url: https://pubmed.ncbi.nlm.nih.gov/20685526
-  - title: "Creekmore TD, Eklund MK. The possibility of skeletal changes in adult Class II patients. Angle Orthodontist. 1997;67(4):301-312."
-    url: https://pubmed.ncbi.nlm.nih.gov/9220893
-  - title: "Burstone CJ. The mechanics of the segmented arch appliances. Angle Orthodontist. 1981;51(1):48-61."
-    url: https://pubmed.ncbi.nlm.nih.gov/6939354
-  - title: "Thurow RC. Atlas of orthodontic principles and techniques. Mosby; 1970."
-    url: https://pubmed.ncbi.nlm.nih.gov/6939354
-  - title: "Andrews LF. The six keys to normal intercuspation. Angle Orthodontist. 1972;42(4):296-309."
-    url: https://pubmed.ncbi.nlm.nih.gov/4505933
-  - title: "Roth RH. Functional occlusion for the orthodontist. Journal of Clinical Orthodontics. 1981;15(1):32-40."
-    url: https://pubmed.ncbi.nlm.nih.gov/6937255
-  - title: "Sacristan-Ruiz J, Valiño-Alba LM, Valiño-Zárate MM, et al. Influence of archwire stiffness and bracket slot dimensions on the control of tooth movements. American Journal of Orthodontics and Dentofacial Orthopedics. 2011;139(5):590-598."
-    url: https://pubmed.ncbi.nlm.nih.gov/21536172
-  - title: "Lombardi RE. The principles of visual perception and their clinical application to denture esthetics. Journal of Prosthetic Dentistry. 1973;29(4):358-382."
-    url: https://pubmed.ncbi.nlm.nih.gov/4632819
+title: Rectangular Archwires and Final Detailing in Orthodontic...
 ---
 
-## Introduction to Rectangular Archwire Mechanics
+## When Straight Wires Become Rectangular: The Finishing Phase
 
-The transition from round archwires to rectangular archwires during the later stages of orthodontic treatment fundamentally changes the nature of tooth movement control. While round wires primarily control the mesiodistal (front-to-back) position of teeth, rectangular archwires fill the bracket slot more completely and engage the bracket walls, enabling precise control of root position through third-order torque expression. Understanding the mechanics of rectangular archwire engagement is essential for achieving optimal esthetic and functional outcomes in the finishing phase of treatment. The final detailing phase—typically the last 3-6 months of comprehensive orthodontic treatment—represents the critical period where precision marginal refinements determine whether the final result meets contemporary standards for occlusal excellence and esthetic perfection.
+During the first part of your braces treatment, your orthodontist uses thin, round wires to move your teeth into roughly the correct position. These round wires work well for moving teeth forward, backward, and side-to-side. But once your teeth are close to their final positions, your orthodontist needs more precise control. This is where rectangular (or "square-shaped") wires come in. These special wires fit into your brackets differently and can fine-tune exactly how your teeth tip and angle. Understanding what's happening during this finishing phase helps you appreciate the work your orthodontist is doing in those final months of treatment.
 
-The finishing phase of orthodontic treatment represents the culmination of the treatment planning and biological remodeling that occurred during earlier phases. At this stage, the malocclusion has been substantially corrected, anchorage relationships established, and fundamental occlusal relationships normalized. The remaining work involves fine-tuning the precise position and inclination of each tooth to achieve ideal alignment, proper torque expression, correct inclination angles, and optimal contact relationships. This level of precision is impossible with round wires, which cannot transmit rotational or torque-control forces effectively due to their minimal contact with bracket walls.
+The finishing phase typically takes the last 3-6 months of your braces treatment. During this time, your orthodontist makes small adjustments that seem minor but actually make a huge difference in your final smile. These adjustments control something called "root position," which means the angle of your tooth's root. You can see the crown of your tooth, but the root is hidden under your gum. Getting the root angle just right determines whether your teeth look perfectly straight, slightly tilted forward, or tilted back—even if the visible part of your tooth looks straight.
 
-## Mechanical Properties of Rectangular Archwires
+## How Rectangular Wires Work Differently From Round Wires
 
-Rectangular archwires generate forces through engagement with bracket walls in multiple dimensions. The archwire cross-sectional dimensions (width and thickness) directly determine contact with the bracket slot. Standard orthodontic brackets have 0.022-inch slot dimensions (0.022" x 0.028" in most systems), though some systems utilize 0.018-inch slots. A 0.020" x 0.025" rectangular archwire fits within this slot with minimal play (approximately 0.002 inch clearance on each side), enabling force transmission in multiple dimensions.
+Round wires are flexible and great for general tooth movement, but they don't control root angle well. Think of a round wire like a pencil—it can roll around in any direction inside your bracket slot. A rectangular wire is more like a piece of chalk: it's stiffer and fits snugly into your bracket slot. This snug fit is the key to root control. Your bracket slot is shaped like a tiny rectangular slot, and when your rectangular wire sits inside it, the wire can transmit twisting forces to your tooth. For more details on how brackets work with wires, see our guide on [Bracket Bonding and Wire Placement](/article/bracket-bonding-adhesive-placement.html).
 
-The stiffness of rectangular archwires is substantially greater than round wires of the same material due to the geometric moment of inertia differences. A 0.020" x 0.025" rectangular wire generates forces approximately 3-4 times greater than a 0.020" round wire, meaning that with identical bend angles, rectangular wires generate substantially higher moments and forces. This increased stiffness requires careful force management to avoid tissue trauma and unwanted side effects. The increased stiffness also reduces wire flexibility, making insertion more difficult and potentially causing patient discomfort if wire bends create excessive force concentration.
+The stiffness of a rectangular wire is much greater than a round wire made of the same material. A typical rectangular wire is about 3-4 times stiffer than a round wire, which means it applies stronger, more controlled forces to your teeth. This greater stiffness is actually a good thing during finishing because it means smaller movements achieve the desired result without excessive force. Your orthodontist can create very specific bends in rectangular wires to deliver exactly the forces needed to fine-tune your tooth positions.
 
-Material selection for rectangular archwires follows similar principles to round wires—stainless steel provides maximum rigidity and force control, nickel-titanium provides more consistent force delivery, and beta-titanium offers intermediate properties. Most finishing wires are stainless steel due to its superior rigidity, enabling precise force control and mechanical deactivation through specific bend modifications. The formability of stainless steel also permits customized bending to address individual tooth position requirements.
+## Controlling How Your Teeth Tip and Angle
 
-## Third-Order Control and Torque Expression
+Your orthodontist has a specific target angle for how each of your teeth should tilt. For your upper front teeth, they should have a slight backward tilt of the root (about 8-12 degrees). This backward tilt makes your front teeth look natural and allows your lower teeth to guide smoothly during normal jaw movements. For your lower front teeth, the roots should tilt slightly forward (about 5-7 degrees backward from the root tip). Your back teeth have their own ideal angles too, which vary depending on whether they're canines, premolars, or molars.
 
-Third-order control refers to root positioning (buccolingual inclination or angulation). First-order control affects mesiodistal position (horizontal), second-order control affects vertical position (vertical inclination), and third-order control affects root inclination. While bracket prescription incorporates torque information that applies third-order control directly (the bracket itself incorporates predetermined inclination), the archwire can also apply additional torque through its engagement with bracket slot walls.
+The rectangular wire in your finishing stage works with special bends your orthodontist applies to achieve these exact angles. By twisting a rectangular wire slightly in the bracket slot, the wire rotates your entire tooth—root and all—to match the target angle. This precise control is impossible with round wires. Your orthodontist might apply gentle bends at each appointment, or use specially made wires that already have the correct bends built in from the wire manufacturer. Either way, the rectangular wire is the tool that makes these final adjustments possible.
 
-Torque expression occurs when a rectangular archwire of lower cross-sectional dimensions than the bracket slot engages the slot walls. If the archwire is 0.020" x 0.025" and the slot is 0.022" x 0.028", a small amount of clearance exists. When the archwire is oriented at an angle to the bracket slot (tilted buccolingually), the archwire contacts the slot walls and transmits a moment that rotates the bracket and tooth to correct the inclination. The amount of torque expression depends on multiple factors: the wire-bracket slot clearance (play), the angular deflection of the wire, the rigidity of the wire material, and the bracket design.
+## Why Not Just Use Rectangular Wires the Whole Time?
 
-Undersized rectangular wires (0.018" x 0.025") have greater play within standard 0.022" slots, permitting larger angular deflections before engaging the slot walls. This "up-and-down play" is useful in early phases of finishing when larger torque corrections are needed, but the variable force characteristics and unpredictable torque expression can compromise precision. Full-sized rectangular wires (0.020" x 0.025") fit standard brackets more closely, permitting more predictable and consistent torque expression. Very tight-fitting rectangular wires (custom-sized to bracket specifications) enable maximum torque expression with minimal play.
+If rectangular wires are so great at fine-tuning tooth position, you might wonder why your orthodontist doesn't use them from the beginning. The answer is that rectangular wires are too stiff and controlling for the early phases of treatment. Your teeth need to move larger distances during early treatment, and round, flexible wires allow these movements more easily. Round wires are also less likely to cause pain or discomfort during the initial tooth movement phase.
 
-## Ideal Torque Prescriptions by Tooth Type
+Additionally, rectangular wires require very accurate bracket placement and perfect bracket alignment to work effectively. At the beginning of treatment, when your teeth are crooked and misaligned, rectangular wires won't fit properly into the brackets. Once your teeth are mostly aligned from the round wire phases, the rectangular wires can be used effectively because the bracket slots are now aligned with each other. This is why most orthodontists progress from smaller round wires, to larger round wires, then to rectangular wires as treatment advances. For more information on this progression, see our guide on [Teeth Alignment Alternatives](/article/teeth-alignment-alternatives-complete-guide.html).
 
-Each tooth position benefits from specific ideal torque angles based on anatomical and esthetic considerations. The torque prescription system most widely utilized is the straight-wire prescription developed by Dr. Lawrence Andrews, which specifies ideal inclination angles for maxillary and mandibular teeth based on contemporary occlusal and esthetic standards. These prescriptions have been refined over decades and represent optimal positions based on functional and esthetic criteria.
+## Different Sizes and How They're Chosen
 
-Maxillary incisors ideally exhibit palatal root inclination (torque) of approximately +8 to +12 degrees, providing proper inclination for optimal esthetics and incisor guidance during mandibular movements. Maxillary canines require +8 to +10 degrees palatal torque. Maxillary premolars are prescribed +6 to +8 degrees, and maxillary molars +2 to +4 degrees. These torque angles progressively decrease posteriorly because molar roots are positioned more buccally relative to their crowns, requiring less additional torque application.
+Your orthodontist might use different sizes of rectangular wires at different appointments during finishing. A common progression is: 0.016" x 0.022" rectangular wire (has some play/wiggle room in the bracket), then 0.018" x 0.025" rectangular wire (less wiggle room, more control), then finally 0.020" x 0.025" full-size rectangular wire (snug fit, maximum control). The numbers refer to the width and thickness of the wire in thousandths of an inch.
 
-Mandibular incisors ideally require lingual root inclination of approximately -5 to -7 degrees, creating proper incisor display and avoiding excessive lingual inclination that could create interferences. Mandibular canines require approximately -10 degrees lingual torque for optimal esthetic and functional positioning. Mandibular premolars are prescribed -7 to -9 degrees, and mandibular molars -10 to -15 degrees. The greater lingual torque requirement in the mandibular posterior region reflects the natural anatomy of mandibular molars, which have more buccally positioned crowns relative to roots.
+The amount of wiggle room ("play") in the bracket is actually very important. If there's too much wiggle room, the wire can't apply precise torque because it can move around. If there's too little, the force becomes too strong and can cause discomfort or side effects. Your orthodontist carefully selects which wire size will provide just the right amount of force for that appointment. As you get closer to finishing, the wires get bigger and the wiggle room decreases, allowing for more precise final positioning.
 
-## Full-Size Versus Undersized Rectangular Wires
+## What Your Orthodontist Does During Finishing Appointments
 
-The decision to utilize full-size (0.020" x 0.025") versus undersized (0.018" x 0.025") rectangular wires during finishing depends on the specific force needs and patient variables. Full-size wires engage bracket slots more completely, permitting more predictable torque expression and superior final precision. Most contemporary finishing protocols utilize full-size wires for at least the final wire placement, ensuring optimal positioning.
+During your finishing appointments, your orthodontist examines how your teeth are positioned and checks whether your bite is correct. They look at whether your front teeth overlap correctly (about 2-3 millimeters), whether your bite is deep enough but not too deep, and whether your canines are in the right relationship. They also check that all your teeth make good contact when you bite down and that nothing interferes with smooth jaw movements.
 
-Undersized rectangular wires offer certain advantages during intermediate finishing phases when additional torque correction may still be needed. The increased play allows larger angular adjustments and more variable torque expression patterns. However, the decreased precision and more variable force characteristics necessitate closer patient follow-up and more frequent appointments to assess adequacy of torque correction.
+If your orthodontist identifies teeth that need more root angle adjustment, they'll apply small bends to your rectangular wire or make minor twists within your brackets. These bends are very small—usually 5-10 degrees—and are carefully calculated to move your specific teeth to their target positions. Your orthodontist might use specialized instruments or precision bending tools to make these adjustments as accurate as possible. The goal is to make small improvements at each appointment rather than large dramatic changes, because small gradual changes are more stable and less uncomfortable.
 
-The practical approach utilized by most contemporary orthodontists involves progression from round wires through increasingly larger rectangular wires. A typical finishing sequence might be: 0.016" x 0.022" rectangular wire (moderate play, moderate torque expression), then 0.018" x 0.025" rectangular wire (greater play, greater torque potential), then 0.020" x 0.025" full-size rectangular wire for final detailing. This graduated progression permits progressive torque correction while maintaining patient comfort and predictable force characteristics.
+## Why Getting These Final Details Right Matters
 
-## Finishing Bends and Wire Adjustments
+Perfect finishing isn't just about looks. Getting your root angles correct ensures that your teeth function properly during chewing, speaking, and other jaw movements. Teeth with correct root angles have good contact areas that prevent food from getting stuck between your teeth. Your front teeth will guide your lower jaw smoothly without creating interferences. Your bite will be stable and efficient for chewing all types of food. These functional improvements help keep your teeth healthy for many years after your braces come off.
 
-The finishing phase frequently requires customized wire bends to address residual tooth position or inclination issues not fully corrected by the bracket prescription and wire mechanics alone. Bends applied to rectangular wires directly transfer to tooth position due to the wire-bracket engagement. Common finishing bends include:
+The appearance of your smile also depends heavily on correct root angle. Teeth with too much forward tilt of the root look overly prominent or "buck-toothed," while teeth with too much backward tilt look short or recessed. Just the right angle creates a natural-looking smile that coordinates with your facial features and appears most attractive. This is why finishing appointments are worth the time and effort—these small adjustments create big improvements in both how your smile looks and how it functions.
 
-The first-order bend (mesiodistal) adjusts horizontal tooth position. An up-and-down bend in the wire (viewed from the buccal) tilts the tooth forward or backward. Precise bend angles (typically 5-15 degrees) provide controlled force for fine-tuning tooth position.
+## The Home Stretch to Braces Removal
 
-The second-order bend (vertical inclination) adjusts the vertical position and inclination of tooth crowns. A bend viewed from the facial view tilts the tooth root position buccally or lingually through second-order mechanics.
+As you enter the finishing phase, you can see the end approaching. The visible crowns of your teeth are probably already quite straight, and now your orthodontist is fine-tuning the invisible roots. Keep taking care of your braces just like before: brush gently but thoroughly, avoid sticky and hard foods, and don't play with your brackets or wires. Skipped appointments or broken brackets during finishing can delay your braces removal by months because your orthodontist needs that final wire in place to achieve the correct root angles before debonding.
 
-The third-order bend (torque) is the most critical for final detailing. Rotating the wire within the bracket slot (twisting) applies torque directly to the tooth. This is commonly performed using a torque gauge or by hand-bending the wire to a specific torque value predetermined by the orthodontist.
-
-The torque bends must be applied precisely, typically using specific instruments designed to create reproducible angular bends. Common bending approaches include: direct hand-bending using specialized pliers (limited precision), mechanical bending devices (improved precision), or customized prescription archwires from manufacturers with pre-incorporated finishing bends (optimal precision).
-
-## Bracket Slot Play and Geometric Considerations
-
-The geometric relationship between the archwire and bracket slot fundamentally determines the forces and moments generated during tooth movement. Total play (archwire undersizing) affects several mechanical properties: smaller play increases rigidity of the tooth-wire-bracket system and improves force predictability, while larger play allows greater flexibility and more variable force expression.
-
-The practical management of play involves understanding that different teeth may benefit from different play levels during finishing. Teeth requiring substantial torque correction benefit from undersized wires that permit greater angular adjustments. Teeth that are nearly correctly positioned and primarily require minimal adjustments benefit from full-size wires that provide superior rigidity and precision.
-
-Additionally, vertical clearance (up-and-down play) is distinct from horizontal clearance (side-to-side play). The vertical dimension determines the range of angular deflection possible before the wire engages the slot walls. With 0.018" x 0.025" wires in 0.022" x 0.028" slots, vertical play is approximately 0.0035 inches, while horizontal play is 0.0035 inches. This symmetrical play creates an approximately 3-degree angular range before engagement occurs.
-
-## Clinical Application During Finishing Phase Appointments
-
-The finishing phase typically spans 3-6 months of active treatment with appointments spaced 3-4 weeks apart. Each appointment involves assessment of torque progress, identification of residual inclination problems, and appropriate wire/bend modifications. The orthodontist examines occlusal contacts to ensure proper interdigitation, assesses incisor relationships for optimal overjet and overbite, and verifies that canine and molar relationships meet treatment objectives.
-
-Wire adjustments are performed conservatively—small incremental bends provide more predictable outcomes than large, aggressive bends. A typical finishing appointment might involve: evaluation of current torque status, assessment of which teeth require additional torque correction, application of modest finishing bends (typically 5-10 degrees per bend), and reinforcement of oral hygiene and appliance care. The progressive refinement approach—making small improvements at each appointment—proves more reliable than attempting major corrections.
-
-Bracket debonding and transition to retention begins when final detailing is complete—typically when all teeth exhibit proper torque expression, correct inclination angles, optimal spacing and alignment, and ideal occlusal contacts. The determination of finishing phase completion requires clinical judgment and assessment against established occlusal standards including proper overjet (2-3 mm), overbite (1-3 mm), proper molar and canine relationships, and absence of spacing or crowding.
-
-## Esthetic Considerations in Torque Management
-
-The final esthetic appearance depends substantially on correct torque expression throughout the dentition. Maxillary incisors positioned with excessive palatal torque appear to tilt backward, appearing shorter and creating excessive overbite. Conversely, insufficient palatal torque creates a proclined incisor position that appears prominent and undermines profile esthetics. The correct torque angle enables optimal incisor display and proper incisor guidance during functional movements.
-
-Similarly, posterior tooth torque substantially affects smile esthetics. Buccal inclination of maxillary posterior teeth creates visible buccal line angles that contribute to smile fullness and apparent dental width. Excessive lingual inclination of maxillary posterior teeth creates the opposite effect—appearing narrower and less full. Proper torque prescription balances these esthetic considerations with functional requirements.
-
-The interplay between torque, tooth size, and facial morphology means that ideal torque positions are not universal—some patients with fuller faces benefit from slightly greater posterior buccal inclination, while other patients with narrower faces benefit from slightly more lingual inclination. The finishing phase permits these individualized adjustments, enabling the final result to achieve optimal esthetics within that patient's unique facial framework.
+Your cooperation during this final phase makes a real difference. Elastic wear compliance, excellent oral hygiene, and keeping all appointments helps your orthodontist maintain the treatment schedule. Once your teeth reach the ideal positions and your bite is perfect, your orthodontist will remove your braces and deliver your retainer. That retainer is crucial because your teeth will want to shift back to their original positions without something holding them in place. Plan to wear your retainers consistently—whether permanently for upper teeth or nightly for lower teeth—to keep your newly straightened smile looking great for the rest of your life.
 
 ## Conclusion
 
-Rectangular archwire mechanics enable precise third-order control and torque expression essential for achieving optimal esthetic and functional outcomes in the finishing phase of orthodontic treatment. Full-size rectangular wires engaging bracket slots with minimal play provide maximum precision and predictability. Finishing phase management involves careful assessment of torque status, application of precise wire bends when necessary, and progressive refinement until ideal inclination angles are achieved throughout the dentition. The combination of appropriate wire selection, bracket prescription, and customized finishing bends enables contemporary orthodontists to achieve results meeting the highest standards of occlusal excellence and esthetic perfection.
+Rectangular wires during the finishing phase of your braces treatment allow your orthodontist to control the exact angle of each tooth's root, ensuring both an attractive appearance and proper function. These wires are stiff enough to apply precise forces but only become useful once your teeth are mostly aligned. Your orthodontist will likely progress from smaller to larger rectangular wires as treatment nears completion, making small adjustments at each appointment to achieve the perfect positions. The finishing phase takes 3-6 months of careful refinement, and your cooperation during this time directly affects when you can have your braces removed and how your smile looks for years to come.
+
+## Key Takeaway
+
+The rectangular wires used in the final months of braces treatment are stiffer than round wires and fit snugly in your brackets, allowing precise control of your tooth root angles for a straighter appearance and better bite function. Perfect finishing takes time, small adjustments, and your full cooperation, but the results are worth it: a beautiful smile that works as well as it looks.
+
+## Related Articles You May Find Helpful
+
+- [Timeline for Bite Problems Explained](/article/timeline-for-bite-problems-explained.html)
+- [Bracket Bonding: Adhesive Placement](/article/bracket-bonding-adhesive-placement.html)
+- [Canine Positioning: Proper Cusp Tip Location](/article/canine-positioning-proper-cusp-tip-location.html)
 
