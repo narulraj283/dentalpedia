@@ -1,93 +1,108 @@
 ---
-title: Orofacial Granulomatosis - Inflammatory Swelling, Granulomatous Cheilitis, and Treatment Protocols
+title: "Orofacial Granulomatosis"
 slug: orofacial-granulomatosis-inflammatory-swelling
 category: Oral Health Conditions
 category_slug: oral-health-conditions
-excerpt: "Melkersson-Rosenthal syndrome, granulomatous cheilitis etiology, histopathology, differential diagnosis with Crohn's disease, intralesional."
+excerpt: "Orofacial granulomatosis: persistent swelling, triggers, treatments, systemic disease screening, and long-term management."
 date: 2026-03-05
-read_time: 11 min
+read_time: 9 min
 reviewer_specialty: General Dentistry
 subcategory: Infections & Abscesses
 subcategory_slug: infections-abscess
 reviewed: true
 references:
-  - title: "Wiesner U, Wurst M, Tschachler E. Orofacial Granulomatosis - A Case Report and Literature Review. J Oral Maxillofac Surg. 2008;66(2):334-340."
-    url: https://pubmed.ncbi.nlm.nih.gov/18201615
-  - title: "MacLeod RI, Ellis IE. Orofacial Granulomatosis. Oral Dis. 2007;13(2):194-199."
-    url: https://pubmed.ncbi.nlm.nih.gov/17371347
-  - title: "Melkersson-Rosenthal Syndrome Review. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2010;109(2):e19-e24."
-    url: https://pubmed.ncbi.nlm.nih.gov/20123389
-  - title: "Schlosser BJ, Mirowski GW. Orofacial Granulomatosis and Related Disorders. Dermatol Clin. 2007;25(4):571-582."
-    url: https://pubmed.ncbi.nlm.nih.gov/17903619
-  - title: "Cheshire N, Foster GE. Orofacial Granulomatosis: Diagnosis and Management. Curr Opin Infect Dis. 2008;21(2):142-149."
-    url: https://pubmed.ncbi.nlm.nih.gov/18317034
-  - title: "Gallo CB, Burkhart NW, Bioulac-Sage P. Orofacial Granulomatosis: Spectrum of Clinical Histologic and Therapeutic Features. J Periodontol. 2009;80(10):1593-1609."
-    url: https://pubmed.ncbi.nlm.nih.gov/19792845
-  - title: "Zakrzewska JM, Chan ES, Thornhill MH. Cinnamon as a Source of Allergen in Orofacial Granulomatosis. Br Dent J. 2005;198(6):355-358."
-    url: https://pubmed.ncbi.nlm.nih.gov/15809696
-  - title: "Fedchenko NA, De Paepe A. The Use of Corticosteroids in Granulomatous Disorders. Clin Rev Allergy Immunol. 2009;36(2-3):213-228."
-    url: https://pubmed.ncbi.nlm.nih.gov/19107608
+  - "Wiesner U, Wurst M, Tschachler E. Orofacial Granulomatosis - A Case Report and Literature Review. J Oral Maxillofac Surg. 2008;66(2):334-340."
+  - "MacLeod RI, Ellis IE. Orofacial Granulomatosis. Oral Dis. 2007;13(2):194-199."
+  - "Schlosser BJ, Mirowski GW. Orofacial Granulomatosis and Related Disorders. Dermatol Clin. 2007;25(4):571-582."
+  - "Zakrzewska JM, Chan ES, Thornhill MH. Cinnamon as a Source of Allergen in Orofacial Granulomatosis. Br Dent J. 2005;198(6):355-358."
 ---
 
-## Introduction: Definition and Classification of Granulomatous Orofacial Disease
+## What Is Orofacial Granulomatosis?
 
-Orofacial granulomatosis (OFG) represents a group of conditions characterized by granulomatous inflammation (immune cell aggregates containing specialized antigen-presenting cells called granulomas) affecting the orofacial tissues, presenting clinically as chronic swelling, particularly of the lips and gingiva, often without infectious or malignant etiology. The condition encompasses two major clinical presentations: isolated orofacial granulomatosis (limited to oral and perioral tissues) and Melkersson-Rosenthal syndrome (a classic triad of recurrent lip swelling, facial palsy, and fissured tongue, though not all three features are always present). OFG represents a diagnostic and management challenge because granulomas in oral tissues can result from multiple underlying etiologies—some cases represent local contact dermatitis from allergens (such as cinnamon, which is well-documented as a common cause), others represent early manifestations of systemic granulomatous diseases like sarcoidosis or Crohn's disease, and many cases remain idiopathic (cause unknown) despite extensive investigation.
+Orofacial granulomatosis is a condition where your mouth and lip tissues become persistently swollen due to chronic inflammation. Your lips may become noticeably enlarged, your gums may be swollen and red, and the swelling can become disfiguring if severe. The inside of your mouth feels firm and thick rather than normal and soft. The swelling is usually painless unless secondary ulcers develop from the tissue becoming so swollen it breaks down.
 
-The clinical presentation typically involves recurrent or persistent swelling of the lip(s), particularly the upper lip, with associated lip enlargement that can become disfiguring if chronic. Gingival swelling is also common, with hyperplasia and erythema. Intraoral ulcerations may occur as secondary features when swelling becomes so extensive that tissue breakdown occurs. The swelling is characteristically non-pitting (firm to hard, not compressible like typical edema) and painless unless secondary ulceration has occurred. The course is variable—some cases show recurrent episodes with periods of remission, others show progressive chronic swelling. The distinction between isolated OFG and Melkersson-Rosenthal syndrome is somewhat arbitrary; current understanding suggests these represent the same disease spectrum rather than distinct entities, with Melkersson-Rosenthal representing OFG with additional systemic features.
+The condition can be isolated (affecting only your mouth) or part of a systemic disease like Crohn's disease (which also affects your digestive system). Some cases are caused by specific food allergens (most commonly cinnamon), while others remain idiopathic (cause unknown) despite extensive investigation.
 
-## Histopathological Features and Diagnostic Criteria
+## Melkersson-Rosenthal Syndrome: A Special Form
 
-The diagnostic hallmark is the identification of non-caseating granulomas on histopathology—collections of epithelioid cells (activated macrophages) and lymphocytes forming organized aggregates within the connective tissue, without central necrosis (which distinguishes this from tuberculous granulomas that show caseating necrosis). The inflammatory infiltrate in OFG is predominantly composed of CD4+ T lymphocytes and activated macrophages, consistent with cell-mediated immune response rather than antibody-mediated response. Early lesions show mixed inflammatory cell infiltration with granuloma formation; established lesions show predominantly granulomatous inflammation. Edema is prominent, with extracellular fluid accumulation in the dermis and submucosa, accounting for the characteristic swelling appearance clinically.
+Melkersson-Rosenthal syndrome is a related condition with a classic three-part presentation: recurrent lip swelling (usually temporary episodes with periods of improvement), facial nerve paralysis (facial weakness on one side), and fissured tongue (a pattern of cracks on your tongue surface). However, many people have only one or two of these features—the full triad is actually uncommon.
 
-Diagnosis requires correlation of histopathology with clinical presentation and exclusion of other granulomatous diseases. The diagnostic approach includes: (1) Biopsy of involved tissue confirming non-caseating granulomatous inflammation; (2) Exclusion of infectious causes—tuberculosis (TB) and fungal infections (histoplasmosis, coccidioidomycosis) can present similarly with granulomatous inflammation; tuberculin skin test (TST) and fungal serologies help exclude infection; (3) Exclusion of systemic disease—sarcoidosis and Crohn's disease both present with granulomatous inflammation; chest imaging (CXR for sarcoidosis) and gastrointestinal evaluation (colonoscopy for Crohn's disease if GI symptoms present) assess for systemic involvement; (4) Assessment of allergic triggers—careful dietary and exposure history, patch testing (though formal patch testing for food allergens is less standardized than dermatologic patch testing), and trial elimination of suspected allergens.
+The lip swelling in Melkersson-Rosenthal can be periodic (temporary episodes separated by weeks or months) or persistent. The facial nerve involvement (if present) may be temporary (recovering within weeks) or permanent (causing lasting facial asymmetry).
 
-## Melkersson-Rosenthal Syndrome: The Classic Triad and Spectrum
+## What Causes the Swelling?
 
-Melkersson-Rosenthal syndrome presents with the classic triad of: (1) recurrent lip swelling (typically upper lip, often periodic), (2) facial palsy (cranial nerve VII involvement causing facial asymmetry and inability to close eye/smile fully on affected side), and (3) fissured tongue (lingua plicata—a normal variant in some populations but part of the syndrome triad when present with granulomatous features). However, many patients with Melkersson-Rosenthal syndrome present with only 1-2 components of the triad; the full triad is actually uncommon, making diagnosis sometimes challenging when evaluating isolated lip swelling or facial palsy.
+Your body's immune system triggers inflammation that causes swelling. A biopsy shows granulomas—collections of immune cells—within your mouth tissues. These granulomas are non-infectious and represent your immune system reacting to something, though exactly what trigger is often unclear.
 
-The lip swelling in Melkersson-Rosenthal syndrome is characteristically diffuse, affecting the entire lip or substantial portions, though it can occasionally be more localized. The swelling may be persistent or intermittently worse and better, with episodes sometimes triggered by stress, infection, or specific foods. The facial palsy, when present, is typically unilateral (one-sided) and can be either temporary (resolving within weeks) or persistent (permanent facial asymmetry). The neurological involvement distinguishes Melkersson-Rosenthal from purely cutaneous/mucosal orofacial granulomatosis, though the pathophysiology linking granulomatous inflammation to facial nerve involvement is not completely understood—proposed mechanisms include granulomatous infiltration of the facial nerve itself, local inflammation affecting the nerve, or autoimmune processes.
+Common triggers include cinnamon (well-documented as an allergen in many cases), other food additives (benzoates, salicylates), or sometimes manifestations of systemic disease (Crohn's disease, sarcoidosis). In many cases, no specific trigger is ever identified.
 
-## Contact Allergen Identification: Cinnamon and Food-Related Triggers
+## Recognizing Symptoms
 
-Cinnamon has emerged as a well-documented contact allergen in OFG, identified in multiple case reports and case series as a causative agent triggering granulomatous inflammation. Cinnamon contains cinnamaldehyde and other volatile compounds that can trigger type IV hypersensitivity (delayed-type cell-mediated immune response) in susceptible individuals. Cases of OFG linked to cinnamon exposure typically involved regular consumption of cinnamon-containing products (cinnamon-flavored gum, candy, spice, or dental products containing cinnamon flavoring). Complete resolution of lip swelling and granulomatous inflammation following elimination of cinnamon sources has been documented in multiple cases, supporting a direct causative role rather than coincidence.
+Early signs include occasional swelling of your lips or gums that seems to come and go. You might notice your mouth feels tight or restricted. Your lips may appear swollen or fuller than normal. Some people experience mild burning sensation in affected areas.
 
-Beyond cinnamon, other food allergens have been implicated in OFG cases, though the evidence is more limited. Documented associations include: benzoates (food preservatives common in processed foods and beverages), salicylates (naturally occurring compounds in many fruits and vegetables), and various flavorings and additives. The challenge in identifying causative allergens is that formal patch testing for food allergens lacks standardization and reproducibility compared to dermatologic patch testing. Instead, identification relies on careful history taking (symptom onset correlated with dietary changes), symptom response to elimination diets, and exclusion of other causes. If cinnamon ingestion is identified, complete elimination should be attempted—this includes cinnamon-flavored products, cinnamon spice, dental products with cinnamon flavoring, and assessment of hidden cinnamon in processed foods.
+As swelling becomes more pronounced, functional problems develop: difficulty eating due to enlarged lips, difficulty with speech due to lip swelling or tongue involvement, or difficulty with oral hygiene due to swollen gums. Some people develop painful ulcers on the swollen tissues when swelling becomes so severe the tissue breaks down.
 
-Trial elimination diets are sometimes helpful but require patience—complete clearance of the offending allergen from tissues and restoration of normal immune tolerance may require 4-8 weeks. If symptoms improve substantially or resolve after eliminating a specific allergen, rechallenge testing (deliberately reintroducing the allergen to observe whether symptoms recur) can confirm causality. However, rechallenge carries the risk of triggering severe symptoms, so it's often avoided in practice in favor of permanent elimination if the allergen is identified.
+## Investigation: Finding the Cause
 
-## Systemic Disease Exclusion and Crohn's Disease Differentiation
+Your dentist or doctor will likely recommend a biopsy to confirm granulomatous inflammation. Imaging may be ordered to assess extent of involvement. Screening for systemic disease (Crohn's disease, sarcoidosis) may include blood tests, chest imaging, or gastrointestinal evaluation if you have symptoms suggesting systemic involvement. For more on this topic, see our guide on [Oral Submucous Fibrosis Restricted Mo...](/article/oral-submucous-fibrosis-restricted-mouth-opening.html).
 
-Distinction between isolated OFG and OFG secondary to systemic disease is critical for management decisions, as systemic disease requires comprehensive treatment beyond local management. Crohn's disease (chronic inflammatory bowel disease) commonly affects the orofacial tissues, presenting with granulomatous cheilitis (identical histologically to OFG) and orofacial granulomatosis features. However, Crohn's disease additionally involves the gastrointestinal tract, causing diarrhea, abdominal pain, weight loss, and often bloody stools. A comprehensive history screening for GI symptoms—do you have chronic diarrhea, abdominal pain, weight loss, blood in stool?—helps identify Crohn's disease. Patients with concerning GI symptoms require gastroenterology referral and colonoscopy to evaluate for bowel involvement.
+Specific trigger identification often involves careful dietary history. If you chew cinnamon gum, eat cinnamon-containing foods, use cinnamon-flavored dental products, or consume cinnamon supplements, that's a strong suspect trigger. Other possible triggers include various food additives and preservatives.
 
-Sarcoidosis (a multisystem granulomatous disease of unknown cause) can present with orofacial involvement, though orofacial manifestations are uncommon. Sarcoidosis typically involves lungs (causing cough, dyspnea, chest symptoms), lymph nodes (causing systemic lymphadenopathy), eyes (causing anterior uveitis), and sometimes skin. Chest radiography showing hilar lymphadenopathy or pulmonary involvement suggests sarcoidosis. Serum calcium level (elevated in sarcoidosis due to activated macrophages producing vitamin D) and ACE inhibitor level (elevated in sarcoidosis) can support diagnosis.
+## Treatment: What Works
 
-Other granulomatous conditions to exclude include tuberculosis (requires TB exposure history, positive tuberculin skin test, TB culture confirmation), fungal infections (histoplasmosis, coccidioidomycosis—requires exposure history, fungal serologies), berylliosis (beryllium exposure history, beryllium lymphocyte proliferation test), and hypersensitivity pneumonitis (organic antigen exposure history such as bird feather exposure).
+### Intralesional Steroid Injections
 
-## Intralesional Corticosteroid Injection Therapy: Technique and Outcomes
+Steroid injections directly into swollen areas reduce inflammation and swelling in about sixty to eighty percent of patients. Your dentist or doctor injects triamcinolone directly into affected areas, usually multiple injections spaced two to four weeks apart for a series of two to four treatments.
 
-Intralesional triamcinolone acetonide injection represents the first-line pharmacologic treatment for symptomatic OFG/Melkersson-Rosenthal syndrome, chosen for its local anti-inflammatory effect and relative safety profile compared to systemic corticosteroids. The injection technique involves: (1) identifying the area of maximal swelling and induration (usually the lip center), (2) using a 25-27 gauge needle, (3) injecting triamcinolone acetonide (typically 10-40mg per injection, with dose depending on lesion extent and patient tolerance) directly into the swollen tissue, distributing the injection throughout the affected area via multiple small deposits rather than single large injection, (4) spacing injections 2-4 weeks apart for series of 2-4 treatments, assessing response after the first injection before committing to additional injections.
+Response typically takes one to two weeks to become visible, with progressive improvement over subsequent weeks. About thirty to forty percent achieve substantial improvement or complete resolution. Another thirty to forty percent experience partial improvement (some swelling reduction). The remaining twenty to thirty percent don't respond significantly.
 
-Clinical response to intralesional steroid injection occurs in approximately 60-80% of patients, with partial to complete resolution of swelling. Response typically begins 1-2 weeks after injection and progresses over subsequent weeks. Complete resolution occurs in 30-40% of cases; partial improvement (reduction in swelling severity without complete normalization) occurs in additional 30-40% of cases. Non-responders (20-30% of patients) require alternative approaches. Side effects of intralesional steroid injection are minimal when doses remain modest and injection frequency is limited; local side effects can include minor skin atrophy (slight depression or texture change at injection site, usually reversible), telangiectasia (visible small blood vessels), and hypopigmentation or hyperpigmentation (particularly in darker-skinned individuals). Systemic side effects are negligible with the modest doses and local administration used in OFG management.
+### Identifying and Eliminating Triggers
 
-## Systemic Pharmacotherapy: Corticosteroids, Sulfasalazine, and Immunomodulators
+If cinnamon or another specific allergen is identified, complete elimination is essential. This requires careful label reading because cinnamon appears in many processed foods, breakfast cereals, baked goods, condiments, and dental products. Complete avoidance for four to eight weeks allows significant improvement in many cases.
 
-Systemic corticosteroid therapy (such as prednisone 0.5-1mg/kg daily initially, then tapering) is indicated for patients with: extensive involvement refractory to intralesional injections, facial nerve involvement (where local therapy cannot reach the nerve), or suspicion of systemic disease requiring broader immunosuppression. Systemic corticosteroids produce rapid response, with improvement typically visible within 1-2 weeks at adequate doses. However, long-term systemic corticosteroids carry significant risks (infection, osteoporosis, diabetes exacerbation, hypertension, weight gain) that limit their use to induction therapy with tapering toward minimal maintenance dose or discontinuation.
+For idiopathic cases, broad elimination diets (avoiding common allergens, processed foods, additives) are sometimes tried empirically, though results are variable.
 
-Sulfasalazine (1-2 grams twice daily) is increasingly used as steroid-sparing immunosuppressive therapy for chronic OFG management, particularly in patients requiring long-term treatment. The mechanism involves both anti-inflammatory effects and a presumed immunomodulatory effect on T-cell function. Clinical trials show sulfasalazine improves swelling and granulomatous inflammation in 50-70% of OFG patients, with onset of benefit typically requiring 6-8 weeks. Sulfasalazine has the advantage of long safety history (used for decades in inflammatory bowel disease treatment) but carries risks of GI upset, allergic reactions (rash), and rare serious effects (aplastic anemia, hepatotoxicity) requiring baseline and periodic laboratory monitoring.
+### Systemic Anti-inflammatory Medication
 
-Alternative immunomodulatory agents include azathioprine (1-2mg/kg daily, typically requiring 3-6 months for onset of benefit), mycophenolate mofetil, and infliximab (TNF-alpha inhibitor antibody, reserved for severe refractory cases). These agents provide alternatives for patients not responding to or intolerant of corticosteroids and sulfasalazine but require more intensive monitoring and have higher side effect profiles.
+If intralesional steroids are insufficient or if you have systemic disease, oral corticosteroids (prednisone) can be prescribed initially, then tapered to find the minimal effective dose. However, long-term systemic steroids carry significant risks (infection, osteoporosis, diabetes), so they're typically used short-term.
 
-## Dietary Elimination Protocols: Evidence-Based Approach
+Sulfasalazine (a steroid-sparing immunosuppressive agent) is increasingly used for chronic management, providing improvement in fifty to seventy percent of patients, though results take six to eight weeks to appear.
 
-If cinnamon or other specific allergen is identified, elimination diet should be comprehensive. This requires careful reading of all food labels, awareness of hidden sources (cinnamon is present in many processed foods, baked goods, breakfast cereals, condiments, dental products), and potentially consulting with a dietitian familiar with elimination diets. Complete elimination typically requires 4-8 weeks before significant improvement becomes apparent. Gradual improvement may occur rather than dramatic response—swelling may decrease slightly each week, with fuller response evident only after several weeks of strict elimination.
+## When Swelling Indicates Systemic Disease
 
-For idiopathic cases where no specific allergen is identified, broad elimination diets (avoiding common allergens such as processed foods, additives, preservatives, dairy, etc.) are sometimes tried empirically with variable results. The challenge is distinguishing true allergen response from placebo response in conditions with intermittent symptoms—some improvement might occur coincidentally as part of the disease's natural fluctuation rather than from dietary change. An evidence-based approach involves: (1) identifying specific suspected allergens through history, (2) eliminating one suspected allergen at a time while monitoring symptoms over 4-6 weeks, (3) reintroducing if no benefit occurs to determine whether it's truly causative, (4) maintaining long-term elimination if clear benefit documented.
+If you have orofacial granulomatosis with other symptoms (chronic diarrhea, abdominal pain, weight loss, blood in stool), Crohn's disease must be evaluated. This requires colonoscopy and evaluation by a gastroenterologist. For more on this topic, see our guide on [Mouth Ulcer Care What You Need To Know](/article/mouth-ulcer-care-what-you-need-to-know.html).
 
-## Monitoring and Long-term Management Strategies
+If you have constitutional symptoms (unexplained fever, fatigue, lymphadenopathy) or respiratory symptoms (cough, dyspnea), sarcoidosis should be considered, requiring chest imaging and possibly biopsy.
 
-Long-term management of OFG involves periodic clinical monitoring for disease progression, response to treatment, and development of complications. Patients should maintain regular dental and medical follow-up to: (1) assess swelling severity (measuring lip dimensions or photographic documentation for objective comparison), (2) monitor for development of secondary complications (ulceration, infection, functional impairment), (3) assess neurological status if facial nerve involvement present (documenting degree of facial weakness or recovery), (4) reassess for systemic disease if not already excluded definitively.
+## Managing Melkersson-Rosenthal Syndrome
 
-Patients with Melkersson-Rosenthal syndrome require occasional neurological assessment—facial nerve function should be documented (House-Brackmann scale or similar grading) at baseline and periodically, as recovery from facial palsy may occur spontaneously over weeks to months, or palsy may persist permanently. Some patients experience facial palsy episodes separated by years, requiring understanding that recurrence is a feature of the disease.
+If you have facial nerve involvement (facial weakness), monitor recovery: some people recover completely over weeks to months; others experience permanent weakness. Facial nerve function should be documented at baseline and periodically.
 
-The prognosis of OFG is variable—some patients achieve complete long-term remission, others experience intermittent flares with periods of quiescence, and some show chronic persistent swelling refractory to all therapeutic attempts. Understanding this variability and establishing realistic expectations (complete cure may not be achievable but symptom management is usually possible) helps guide patient management and prevents frustration when complete normalization doesn't occur despite aggressive treatment.
+Understand that Melkersson-Rosenthal is characterized by periodic flares—recurrent episodes of lip swelling separated by quiescent periods. Some people experience episodes separated by years. This unpredictability is part of the disease; you're not doing something wrong if episodes recur.
 
+## Long-Term Outlook
+
+The prognosis is variable: some people achieve complete long-term remission, others experience intermittent flares with quiescent periods, and some have chronic persistent swelling despite aggressive treatment. Understanding this variability and establishing realistic expectations helps guide management.
+
+Most people can achieve reasonable symptom control even if complete cure isn't possible. The goal is minimizing swelling and functional impairment, not achieving permanent perfect normalcy.
+
+## Monitoring and Follow-up
+
+Regular dental and medical follow-up helps monitor progression and treatment response. Measure your lip dimensions or take photographs for objective comparison. Watch for development of secondary complications (ulcers, infection, functional impairment).
+
+If facial nerve involvement is present, document facial function periodically to track any changes in severity or recovery.
+
+> **Key Takeaway:** Orofacial granulomatosis causes persistent mouth and lip swelling from granulomatous inflammation. Some cases are triggered by specific allergens (cinnamon is well-documented), others are associated with systemic disease (Crohn's disease, sarcoidosis), and some remain idiopathic. Intralesional steroid injections help in most cases. Identify and eliminate triggers if possible. Systemic disease must be evaluated and treated if present. Prognosis is variable but most people can achieve reasonable symptom control.
+
+
+
+## Conclusion
+
+Taking care of your oral health means staying informed about topics like orofacial granulomatosis. The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
+
+Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+
+## Related Articles You May Find Helpful
+
+- [Mouth Sores and Ulcers: Causes, Treatment, and Prevention](/article/mouth-ulcers-and-canker-sores-treatment-and-prevention.html)
+- [Gum Swelling: Causes and What You Can Do](/article/gum-disease-stages-complete-guide.html)
+- [Food Allergies and Oral Health: Connection and Management](/article/allergic-reactions-mouth-tongue.html)

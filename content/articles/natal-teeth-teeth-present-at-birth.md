@@ -33,63 +33,109 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/8057347
 ---
 
-Natal teeth—permanent or primary teeth present at birth—represent a distinctive pediatric dentistry encounter occurring in approximately 1 in 2,000-3,000 infants. These teeth differ fundamentally from neonatal teeth (teeth erupting within the first month following birth) through timing of emergence; the distinction guides management decisions regarding extraction versus observation. Natal tooth presentation frequently creates parental anxiety and concerns regarding potential systemic disease associations, though isolated natal teeth typically prove benign developmental variations. Understanding the embryologic basis distinguishing natal teeth from other tooth anomalies, assessing systemic disease associations warranting investigation, and determining appropriate management strategies—ranging from observation and counseling to extraction when complications develop—enables dentists to provide evidence-based pediatric guidance. Riga-Fede syndrome, a distinctive complication arising from natal tooth contact with infant oral tissues, represents an important consideration in management decisions.
+It can be shocking for parents when a newborn is born with teeth already visible. If your baby was born with teeth already erupted, your pediatrician may have mentioned "natal teeth." You might wonder: Is this normal? Does it need treatment? Will my baby need them removed? This guide explains what natal teeth are, why they happen, and what you should know about caring for your baby.
 
-## Classification and Embryologic Basis
+## What Are Natal Teeth?
 
-Natal teeth represent teeth that have completed root development and erupted before the infant's birth or are visibly erupted at the time of delivery. Primary (deciduous) natal teeth account for approximately 85% of presentations; these represent prematurely erupted primary dentition teeth in normal development sequence. Permanent natal teeth account for approximately 15% of presentations; these represent either prematurely erupted permanent teeth or supernumerary teeth with permanent dentition origin. The distinction guides long-term management: primary natal teeth require monitoring but eventually shed naturally in normal sequence (though potentially months before expected primary tooth exfoliation), while permanent natal teeth represent pathologically premature emergence requiring intervention if complications develop.
+Natal teeth are teeth that are already visible in your baby's mouth at birth or present at the time of delivery. They're different from neonatal teeth, which erupt (come in) during the first month after birth. The distinction matters because natal and neonatal teeth may require different management.
 
-Embryologically, natal teeth represent teeth that have completed root development (or near-completion) and exceeded normal eruption inhibition through mechanisms that typically restrict primary tooth eruption until 6-9 months of age. The chronology of primary tooth eruption places mandibular central incisors at 6-9 months and maxillary central incisors at 7-10 months; therefore, primary teeth visible at birth represent approximately 6-9 months acceleration compared to normal eruption timeline. The etiology of this accelerated eruption remains incompletely understood but may involve: abnormalities in eruption inhibition proteins (hemidesmosomes, enamel matrix proteins) reducing physical impedance to tooth eruption, enhanced resorption of dental follicle tissues permitting premature follicle opening, or subtle developmental variations in eruption timing control.
+Most natal teeth (about 85%) are actually your baby's primary teeth (baby teeth) that have erupted very early—sometimes 6-9 months earlier than normal. Primary teeth typically start appearing around 6-9 months of age, so a tooth visible at birth represents very early eruption.
 
-Supernumerary teeth (odontomas, ectopic permanent successional teeth) may present as natal teeth, requiring radiographic assessment to differentiate from prematurely erupted normal primary teeth. Approximately 5-10% of natal teeth represent supernumerary teeth; these require different management considerations than normal primary teeth. Radiographic assessment distinguishes normal primary dentition teeth (visible at expected positions with normal morphology) from supernumerary or ectopic teeth, though radiographic interpretation proves challenging in newborns due to minimal bone mineralization.
+The remaining 15% of natal teeth are either permanent teeth that have erupted too early or supernumerary teeth (extra teeth). These require closer evaluation by your dentist because they may need different management than normal primary teeth.
 
-## Systemic Associations and Syndrome Considerations
+## Why Do Babies Get Natal Teeth?
 
-While isolated natal teeth typically prove benign, multiple natal teeth (more than two) warrant investigation for systemic associations. Syndromic presentations include: trisomy 13 (Patau syndrome), trisomy 18 (Edwards syndrome), trisomy 21 (Down syndrome), cleidocranial dysostosis (autosomal dominant skeletal dysplasia with supernumerary teeth), Ellis-van Creveld syndrome (ectodermal dysplasia with natal teeth occurrence), and other ectodermal dysplasias. However, the vast majority of isolated natal teeth represent sporadic benign findings without syndromic associations; extensive genetic evaluation is not warranted in patients with one or two isolated natal teeth and otherwise normal development.
+The exact cause of natal teeth isn't completely understood. Normally, hormones and developmental signals keep primary teeth from erupting until your baby is around 6-9 months old. With natal teeth, something is different about these developmental controls.
 
-Evaluation for systemic associations should focus on clinical indicators: multiple natal teeth (more than two), markedly abnormal tooth morphology (enamel dysplasia, hypomineralization), associated cleft or facial abnormalities, skeletal abnormalities, or other developmental anomalies. If such features are present, appropriate genetic evaluation and specialist referral become warranted. However, these scenarios prove relatively uncommon; most natal tooth presentations represent sporadic, benign findings requiring minimal investigation beyond clinical assessment and reassurance.
+Possible explanations include:
+- Abnormalities in the proteins that normally hold teeth back and prevent early eruption
+- Faster-than-normal dissolution of the tissues surrounding the tooth roots, allowing teeth to push through earlier
+- Minor variations in the signals that control tooth eruption timing
 
-## Complications and Riga-Fede Syndrome
+In most cases, a single natal tooth or two natal teeth represent a random variation in development with no underlying medical condition. Your baby's developmental history, appearance, and growth pattern will likely be completely normal.
 
-Riga-Fede syndrome represents the most significant complication of natal teeth, occurring in approximately 5-10% of cases. This condition results from repeated contact of the sharp incisal edge of natal teeth with the infant's tongue, creating ulceration and traumatic injury of the ventral tongue surface. The ulcer presents as a painful hemorrhagic lesion with fibrinous base, frequently inhibiting nursing and potentially creating concerns regarding malignancy among parents and healthcare providers.
+## How Often Does This Happen?
 
-Clinical presentation includes: 1-3 mm ulcer on the ventral tongue surface directly beneath the offending natal tooth, pain during nursing causing feeding difficulty and excessive drooling, and risk of secondary infection creating abscess formation or cellulitis in severe cases. Differential diagnosis includes congenital syphilis (pemphigus syphiliticus), neonatal herpes simplex virus, and oral thrush, necessitating careful examination to distinguish Riga-Fede ulceration from systemic infections. Direct visualization of the natal tooth and identification of injury proximity to the ulcer enables definitive diagnosis; serologic testing for syphilis and herpes simplex, or candidal culture, permits exclusion of infectious etiologies when diagnostic uncertainty exists.
+Natal teeth are relatively rare but not unheard of. They occur in approximately 1 in 2,000 to 1 in 3,000 newborns. So while your baby is unusual, your pediatrician and dentist have experience managing this situation. For more on this topic, see our guide on [Parent Education Teaching Proper Hygiene](/article/parent-education-teaching-proper-hygiene.html).
 
-## Extraction Decisions and Technique Considerations
+## Is Your Baby's Natal Tooth Normal or Supernumerary?
 
-Extraction indications include: Riga-Fede syndrome with ongoing tongue trauma and feeding difficulty, severe tooth mobility creating aspiration risk, systemic disease association with supernumerary teeth requiring removal, or elective parental preference. Contraindications include: isolated natal teeth without complications, adequate tooth stability without mobility risk, and absence of secondary trauma or complications. Observation with parental education and follow-up assessment at 2-4 week intervals represents appropriate management for uncomplicated natal teeth.
+Your pediatrician or dentist needs to determine whether your baby's natal tooth is a normally-developing primary tooth that erupted early, or something unusual like a supernumerary (extra) tooth. This distinction is important for your baby's long-term dental health.
 
-When extraction proves necessary, the technique should emphasize minimal trauma and complete tooth removal. Extraction in newborns without local anesthesia represents a consideration due to systemic risks of local anesthetic injection in infants; however, careful infiltration anesthesia with 2% lidocaine in limited quantity (0.2-0.3 mL maximum) beneath the tooth permits pain-free extraction. Some clinicians prefer simple avulsion after waiting for natural shedding, as primary natal teeth frequently shed within weeks to months after birth due to minimal root development and rapid resorption. However, if extraction proves necessary, gentle elevation using appropriate instruments followed by careful forceps application with minimal tissue trauma minimizes complications.
+Normal primary teeth erupt in a predictable pattern at predictable positions. They have normal size and appearance. If your baby's natal tooth appears to be a normal primary tooth—either a lower front tooth or upper front tooth in the expected position—it's almost certainly a normal tooth that just came in very early.
 
-Surgical complications remain minimal with appropriate technique; extraction morbidity typically limited to minor post-operative oozing (usually controlled with gentle gauze pressure for 5-10 minutes). Dry socket and other complications common in older patients do not typically occur in infants due to minimal post-operative coagulation and rapid healing. Post-operative instructions should emphasize: gentle tissue handling, confirmation of adequate coagulation before discharge, and parental observation for delayed bleeding (rare but possible in anticoagulated infants or those with coagulation disorders).
+Supernumerary teeth, by contrast, appear in unusual locations, have unusual shapes, or are additional teeth beyond the normal 20 primary teeth. If your dentist suspects your baby has a supernumerary tooth, they may recommend an X-ray to assess the situation.
 
-## Management of Trauma and Aspirational Risk
+## When Natal Teeth Might Indicate Underlying Conditions
 
-Natal teeth demonstrating excessive mobility (movement greater than 2-3 mm with digital pressure) create aspiration risk if mobility permits tooth to completely dislodge during feeding or play. Radiographic assessment of tooth mobility through periodontal ligament space evaluation guides extraction decisions; teeth with minimal root development and extensive periodontal ligament space demonstrate greater mobility. Extraction of grossly mobile teeth eliminates aspiration risk and facilitates parental reassurance.
+While most natal teeth are harmless variations, multiple natal teeth (more than two) may warrant investigation for underlying systemic conditions. Certain genetic syndromes and developmental disorders are associated with natal teeth, including:
 
-Tongue trauma from natal teeth may create additional complications beyond Riga-Fede syndrome; ongoing irritation may create chronic ulceration, ankyloglossia-like presentation with restricted tongue mobility, or fibrosis of tongue tissues impairing future speech and swallowing development. Protective measures prior to extraction might include: application of protective coverings (soft wax, orthodontic composite, or soft plastic covers) to natal tooth incisal edges, creating a barrier preventing direct tongue contact. However, such protective measures prove temporary; definitive extraction when complications occur remains the standard approach.
+- Trisomy 13 (Patau syndrome)
+- Trisomy 18 (Edwards syndrome)
+- Trisomy 21 (Down syndrome)
+- Cleidocranial dysostosis (an inherited skeletal condition)
+- Ellis-van Creveld syndrome (an inherited condition affecting multiple body systems)
 
-## Differential Diagnosis and Distinguishing from Supernumerary Teeth
+However, keep in mind: the vast majority of babies with one or two natal teeth have no underlying condition. Your baby's pediatrician will assess whether any additional evaluation is needed based on your baby's overall development, appearance, and family history. If your baby is developing normally and has no other unusual features, extensive genetic testing is usually not necessary.
 
-Supernumerary teeth presenting as natal teeth require different management considerations. Radiographic and clinical features distinguishing supernumerary from normal primary teeth include: abnormal tooth position (frequently more lingual or anterior to expected primary tooth position), markedly abnormal morphology (cone-shaped, small size, or asymmetric shape), and absence of corresponding primary tooth position vacancy or delayed primary tooth eruption.
+## Potential Complications: Riga-Fede Syndrome
 
-Mesiodens (supernumerary teeth in the anterior maxilla between central incisors) occasionally present as natal teeth; these typically demonstrate markedly abnormal morphology and require extraction both to prevent malocclusion and mechanical complications. Hyperodontia (multiple supernumerary teeth) associated with cleidocranial dysostosis or other ectodermal dysplasias may present with multiple natal teeth; comprehensive radiographic assessment and systemic evaluation become necessary in such presentations.
+One important complication you should know about is Riga-Fede syndrome. This occurs when your baby's natal tooth rubs against the soft tissues of your baby's mouth or tongue, causing irritation and ulceration (sores). For more on this topic, see our guide on [Fluoride Varnish Pediatric High Strength](/article/fluoride-varnish-pediatric-high-strength.html).
 
-Radiographic assessment utilizing periapical and occlusal views enables identification of supernumerary tooth position relative to normal primary dentition. Three-dimensional assessment via CBCT (if clinically justified) permits definitive characterization of supernumerary teeth location and relationship to developing permanent teeth. Supernumerary natal teeth typically require extraction; however, extracted tooth position and expected permanent tooth development should be documented to guide future orthodontic planning.
+Signs of Riga-Fede syndrome include:
+- Visible ulcers (sores) on your baby's lower lip or tongue
+- Bleeding from the affected area
+- Your baby seeming uncomfortable while nursing or eating
+- Your baby appearing to have pain in the mouth
 
-## Parental Counseling and Reassurance
+If your baby develops these symptoms, your pediatrician or dentist may recommend removing the natal tooth to prevent ongoing irritation and allow the ulcers to heal.
 
-Parental anxiety frequently accompanies natal tooth discovery; education regarding benign nature of isolated natal teeth, expected natural shedding, and low risk of complications provides substantial reassurance. Parents should understand: isolated natal teeth represent sporadic benign findings, multiple natal teeth warrant evaluation but typically prove benign, normal exfoliation occurs months to years earlier than expected (but represents normal physiologic process), and complications remain uncommon (occurring in <10% of cases).
+## Should Your Baby's Natal Tooth Be Removed?
 
-Parental expectations should be established regarding expected primary tooth shedding; parents should understand that natal teeth typically shed by 12-18 months of age (compared to 6-9 months for normal primary incisors). This extended retention may create cosmetic concerns if visible in photos, but represents normal physiology in natal teeth cases. Documentation in the patient's permanent record regarding natal teeth presence, extraction if performed, and expected exfoliation timeline facilitates appropriate follow-up and guides future pediatric dental management.
+Whether your baby's natal tooth needs to be removed depends on several factors:
 
-Parents should be counseled regarding Riga-Fede syndrome symptoms warranting urgent evaluation: tongue ulceration, feeding difficulty, or signs of infection. Assessment at 2-4 week follow-up visits enables detection of developing complications and timely extraction if needed. Clear communication regarding low complication rates and benign nature of uncomplicated natal teeth optimizes parental satisfaction and prevents unnecessary treatments or excessive concern.
+**Keep the tooth if:**
+- It's stable and not loose
+- Your baby has no irritation or ulceration
+- The tooth is a normally-developing primary tooth
+- Your baby is nursing or feeding without difficulty
+- Your pediatrician sees no complications
 
-## Long-Term Outcomes and Primary Dentition Development
+**Consider removing the tooth if:**
+- Your baby has Riga-Fede syndrome (irritation and ulcers)
+- The tooth is so loose it's a choking risk
+- The tooth interferes with nursing or feeding
+- The tooth is a supernumerary (extra) tooth in an abnormal location
 
-Natal teeth that shed spontaneously, and those extracted due to complications, typically do not compromise primary dentition development. Remaining primary teeth erupt on normal schedule despite premature loss of natal teeth; the developmental clock governing primary tooth eruption proceeds unaffected. However, extraction trauma to alveolar bone, particularly if inadequate healing occurs, theoretically might affect adjacent primary tooth eruption position; in practice, such complications prove rare with gentle extraction technique.
+Your dentist can evaluate your baby's specific situation and make recommendations. If removal is necessary, most natal teeth can be easily extracted under local anesthesia, though this is rare for otherwise healthy natal teeth.
 
-Permanent tooth development proceeds normally following natal tooth presence or extraction; permanent tooth positions and eruption timing remain unaffected. Radiographic monitoring of permanent dentition development should occur at standard pediatric dentistry recall intervals; no specific surveillance of permanent teeth is warranted solely due to natal tooth history. The vast majority of patients with natal teeth history demonstrate completely normal permanent dentition without associated abnormalities.
+## Nursing and Feeding With Natal Teeth
 
-Psychological and behavioral aspects deserve mention; some parents develop anxiety regarding their infant's oral development following natal tooth experience. Reassurance regarding normal primary and permanent tooth development, and standard pediatric dental care guidance, frequently suffices. However, parents demonstrating excessive dental anxiety may benefit from education reinforcing that natal teeth represent isolated anomalies without syndromic implications in most cases.
+Many babies nurse successfully with natal teeth without any problems. The tooth typically doesn't interfere with breastfeeding if it's stable and your baby has no irritation. If your baby has just a single small natal tooth and nursing is going well, there's usually no need to remove it.
 
+However, some mothers find breastfeeding uncomfortable if the tooth causes irritation to their breast or if the baby bites down during feeding. If this occurs, discuss options with your pediatrician and dentist.
+
+## Your Baby's Future Dental Development
+
+If your baby's natal tooth is a normal primary tooth that erupted early, it will shed at the normal time for that tooth—not earlier because it came in early. For example, primary lower front teeth normally shed around 6-7 years of age, and your baby's early-erupted tooth will shed at approximately that same age.
+
+This is important to know because some parents worry their baby will be missing teeth when peers still have their baby teeth. That's unlikely—the eruption schedule adjusts so your baby will have teeth at approximately the same developmental stage as other children.
+
+## When to See Your Dentist
+
+Your pediatrician will likely refer your baby to a pediatric dentist for evaluation. You should schedule this appointment soon after birth if you haven't already. The pediatric dentist will:
+- Confirm whether the tooth is normal or supernumerary
+- Check for any instability or risk of loosening
+- Assess whether ulceration or irritation is present
+- Take an X-ray if needed to understand what's happening with other developing teeth
+- Discuss management options and answer your questions
+
+## Conclusion
+
+**Key Takeaway:** Natal teeth—teeth present at birth—occur in about 1 in 2,500 babies and usually represent a normal primary tooth that erupted very early. In most cases, natal teeth need no treatment and will shed at the normal age. Multiple natal teeth, unusual tooth appearance, or complications from irritation may warrant closer evaluation or removal. Schedule a dental evaluation to ensure your baby's dental development is proceeding normally, and don't hesitate to ask your pediatric dentist questions about your baby's long-term dental health.
+
+## Related Articles
+
+- [Baby Teeth Eruption: What to Expect from Infancy Through Age 3](https://example.com/baby-teeth-eruption)
+- [Caring for Your Baby's First Teeth](https://example.com/baby-teeth-care)
+- [Pediatric Dental Health: Tips for New Parents](https://example.com/pediatric-dental-tips)

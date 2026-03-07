@@ -1,89 +1,100 @@
 ---
-title: Oral Soft Tissue Wounds and Lacerations - Assessment, Suturing, and Healing Management
+title: "Mouth Cuts and Wounds"
 slug: oral-soft-tissue-wounds-laceration-care
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Intraoral laceration assessment, through-and-through injuries, suturing techniques, absorbable versus non-absorbable sutures, antibiotic protocols,."
+excerpt: "After a mouth cut or injury: how to stop bleeding, when stitches are needed, how to care for healing, signs of infection, and when to see a surgeon."
 date: 2026-03-05
-read_time: 10 min
+read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
 reviewed: true
 references:
-  - title: "Stassen LF, Bouwman JJ. A Review of the Methods for Closure of Intraoral Wounds Following Removal of Impacted Teeth. Oral Surg Oral Med Oral Pathol. 1987;64(4):410-414."
-    url: https://pubmed.ncbi.nlm.nih.gov/3478409
-  - title: "Grandi G, Tschopp H. Intraoral Wounds: Microbiology, Healing, and Antibiotic Therapy. Oral Surg Oral Med Oral Pathol. 1986;61(6):540-545."
-    url: https://pubmed.ncbi.nlm.nih.gov/3519904
-  - title: "Blume PA, Walters J, Payne W, et al. Comparison of Cleaning Methods of Diabetic Foot Wounds. Diabetes Care. 2007;30(3):622-627."
-    url: https://pubmed.ncbi.nlm.nih.gov/17327337
-  - title: "Stone HH, Haejim C. Infectious Complications Following Oral Surgery. J Oral Surg. 1980;38(6):409-415."
-    url: https://pubmed.ncbi.nlm.nih.gov/6771178
-  - title: "Sorensen AA, Bozeman CB, Nehrbass ME, et al. Wound Healing and Infection in Hand Surgery: Biology and Approach. J Hand Surg. 2012;37A(4):735-742."
-    url: https://pubmed.ncbi.nlm.nih.gov/22410195
-  - title: "Edlich RF, Rodeheaver GT, Morgan RF, et al. Principles of Emergency Wound Management. Ann Emerg Med. 1988;17(12):1284-1302."
-    url: https://pubmed.ncbi.nlm.nih.gov/3057920
-  - title: "Chuong R, Donoff RB, Guralnick WC. The Absorbable Suture: A Review of the Literature. Oral Surg Oral Med Oral Pathol. 1986;61(1):2-8."
-    url: https://pubmed.ncbi.nlm.nih.gov/3457031
-  - title: "Low DE. Prophylactic Use of Cephalosporins in Oral and Maxillofacial Surgery. Oral Surg Oral Med Oral Pathol. 1994;77(2):187-198."
-    url: https://pubmed.ncbi.nlm.nih.gov/8139838
+  - "Stassen LF, Bouwman JJ. A Review of the Methods for Closure of Intraoral Wounds Following Removal of Impacted Teeth. Oral Surg Oral Med Oral Pathol. 1987;64(4):410-414."
+  - "Grandi G, Tschopp H. Intraoral Wounds: Microbiology, Healing, and Antibiotic Therapy. Oral Surg Oral Med Oral Pathol. 1986;61(6):540-545."
+  - "Stone HH, Haejim C. Infectious Complications Following Oral Surgery. J Oral Surg. 1980;38(6):409-415."
+  - "Edlich RF, Rodeheaver GT, Morgan RF, et al. Principles of Emergency Wound Management. Ann Emerg Med. 1988;17(12):1284-1302."
 ---
 
-## Introduction: Classification and Initial Injury Assessment
+## Mouth Injuries Happen: Here's What To Do
 
-Intraoral lacerations represent the most common soft tissue injuries seen in general dentistry and represent a category distinct from extraoral wounds due to unique microbial flora, high vascularity enabling rapid healing, and specialized anatomical considerations affecting treatment approach. Intraoral injuries range from minor surface abrasions (affecting only epithelium) through full-thickness mucosal lacerations to through-and-through injuries affecting both mucosa and underlying structures (bone, muscle, or deeper tissues). The initial assessment systematically addresses three critical questions: (1) Does the injury require suture closure or will it heal uneventfully with conservative management? (2) Are there underlying structural injuries (mandible/maxilla fractures, muscle or nerve involvement)? (3) What is the contamination status and infection risk? The answers guide treatment intensity and follow-up protocols.
+Mouth cuts and injuries occur from falls, sports impacts, accidental biting your cheek, or dental procedures. The good news: your mouth's excellent blood supply actually helps these wounds heal faster than similar injuries elsewhere on your body. Most mouth injuries heal well with conservative care. Understanding what to do immediately and what to watch for helps ensure your injury heals properly.
 
-Hemostasis (bleeding control) represents the first immediate priority, achieved through direct pressure (with gauze applied for 10-15 minutes continuously) or, for persistent bleeding, topical hemostatic agents (1:1000 epinephrine application, 3% hydrogen peroxide irrigation to visualize wound depth, or absorbable hemostatic agents such as collagen or thrombin products). Maintaining visualization of the wound's full depth and extent requires adequate hemorrhage control—continuing treatment through active bleeding prevents accurate assessment and suture placement. Once hemorrhage is controlled to allow clear visualization, wound exploration includes evaluation of depth (epithelial only, superficial, full-thickness, or through-and-through), involvement of underlying structures (muscle, bone, nerve involvement), contamination (presence of foreign material, debris, or heavily soiled content), and size. Wounds >5mm in depth or >1cm in length benefit substantially from suture closure, while minor epithelial abrasions heal adequately without intervention through the oral mucosa's remarkable natural regenerative capacity.
+## Stopping the Bleeding
 
-## Hemostasis Techniques and Epinephrine Application in Intraoral Wounds
+Mouth injuries bleed more than many people expect because your mouth has very rich blood supply. This is actually good for healing long-term, but it's concerning in the moment. Here's how to control bleeding:
 
-Direct pressure with a sterile, dry gauze sponge represents the most effective and universally accessible initial hemostasis technique, applied with continuous firm pressure for the full 10-15 minute duration—intermittent pressure is ineffective as it disrupts platelet aggregation and fibrin clot formation. The pressure should be sufficient to control bleeding without causing excessive compression that damages surrounding tissues (the force should approximate gentle but firm fingertip pressure, not crushing force). Visualization during hemostasis maintenance should avoid repeatedly removing the gauze to check whether bleeding has stopped, as this disrupts developing clots; instead, replace with fresh gauze only when the previous gauze has become saturated with blood. Suction-assisted hemostasis is often necessary to maintain visibility—concurrent gentle suction (set at moderate power, 60-80mm Hg, not the maximum setting which can disrupt clots) combined with slow, steady removal of gauge allows blood removal without clot disruption.
+Bite down firmly on a clean gauze pad with continuous pressure for thirty to forty-five minutes. This allows your blood to clot and stop flowing. The pressure must be continuous—releasing and re-checking stops the clotting process and restarts bleeding. After forty-five minutes, gently remove the gauze to check whether bleeding has stopped. If it has, you're done. If bleeding continues, replace with fresh gauze and continue pressure for another thirty minutes. Most mouth bleeds stop within an hour using firm, continuous pressure.
 
-Topical epinephrine application (1:1000 dilution, typically from a local anesthetic cartridge) significantly enhances hemostasis through vasoconstriction and should be applied directly to bleeding wound surfaces once initial hemorrhage control allows visualization. Epinephrine-soaked gauze applied to the wound for 3-5 minutes produces reliable hemostasis in most injuries not involving major vessels. The maximum epinephrine exposure during hemostasis management (approximately 0.5-1.0 mL of 1:1000 solution topically) produces negligible systemic absorption and is safe across all age groups and medical conditions where topical application is appropriate. Persistent bleeding despite 15+ minutes of direct pressure with topical epinephrine suggests either inadequately controlled pressure, wound depth exceeding simple suturing (potentially requiring ligation of larger vessels), or systemic coagulopathy requiring hematologic evaluation before proceeding with surgical treatment. Hydrogen peroxide rinse (3% solution applied directly to the wound after hemostasis allows visualization) bubbles actively when in contact with blood and bacterial contamination, aiding visualization of wound depth while providing modest antimicrobial activity—though this antimicrobial effect is minimal in clinical practice compared to direct mechanical cleaning.
+If bleeding persists beyond an hour of continuous pressure, you can apply a small amount of epinephrine-containing local anesthetic (from a dental office) directly to the wound, which causes blood vessels to constrict and reduces bleeding. Hospital emergency departments can also manage persistent bleeding with cautery or suturing if home pressure doesn't control it. Persistent bleeding isn't common and usually indicates an unusually large vessel was injured.
 
-## Wound Cleaning and Contamination Management
+## Cleaning the Wound
 
-Thorough wound cleaning removes foreign material, debris, and bacterial contamination, directly reducing infection risk. The optimal cleaning approach combines mechanical removal (gentle scrubbing with soft-bristle brush or gauze soaked in saline or dilute hydrogen peroxide) with high-volume irrigation (500mL+ of normal saline, sterile water, or dilute chlorhexidine solution delivered via syringe with gentle, continuous flushing motion). The irrigation pressure should be sufficient to dislodge debris (approximately 10-12 psi generated from a 30mL syringe with 18-gauge needle or catheter) but not so aggressive as to force bacteria deeper into tissues or cause additional trauma. Intraoral wounds with heavy contamination (particularly through-and-through injuries where saliva and debris have traversed the full tissue depth) require more aggressive initial irrigation—500mL minimum of saline irrigation ensures adequate debris removal.
+Once bleeding is controlled enough to allow visualization, gently clean the wound by rinsing with saline (salt water) or clean water from a syringe. The goal is removing any dirt, debris, or foreign material that could cause infection. Use gentle, continuous irrigation—approximately one cup of saline applied slowly—to wash out the wound. Don't scrub aggressively; gentle rinsing works.
 
-Devitalized or severely bruised tissue margins should be minimally debrided—oral mucosa has remarkable regenerative capacity even from edges that appear marginally viable on initial inspection. Unlike skin where nonviable tissue must be aggressively debrided, intraoral soft tissue benefits from conservative debridement limited to clearly nonviable fragments that would otherwise serve as foreign bodies. The high vascularity of oral mucosa (which creates the rapid bleeding seen in intraoral injuries) also enables excellent healing of apparently marginal tissue that would not survive in extraoral locations. Traumatic lacerations with irregular edges should not be converted to geometric wounds by aggressive trimming—healing occurs equally well from irregular margins, and the tissue preservation is more important than esthetic wound geometry.
+After rinsing, you can gently rinse with dilute hydrogen peroxide (three percent solution), which foams when in contact with blood and helps visualize the wound depth while providing mild antimicrobial activity. This helps you and your dentist understand how deep the injury extends.
 
-Exploration for foreign material includes visual inspection, careful palpation of wound margins with sterile gloved fingertip (feeling for debris, fragments, or embedded particles), and sometimes radiographic evaluation if significant trauma and contamination suggest foreign body presence (such as tooth fragment, metal, or other radiopaque material). Through-and-through injuries require particular attention to the deeper exit wound—visualization from the opposite side of the mucosa ensures debris removal at the exit site where drainage occurs. Oral wounds' excellent vascular supply and constant irrigation by saliva actually provide inherent antimicrobial protection superior to most extraoral wounds, making aggressive antibiotic therapy less critical—clean oral wounds have substantially lower infection rates compared to equivalent soft tissue injuries at other body sites.
+## Does Your Injury Need Stitches?
 
-## Suturing Techniques: Absorbable Versus Non-Absorbable Materials
+Small cuts (less than one centimeter across, involving only surface layers) usually heal fine without stitches. Larger cuts or deep cuts benefit from stitches to hold the edges together and promote healing. As a general rule: if the edges of the wound gap open and won't stay together naturally, stitches help. If the wound involves the lip edge (where visible appearance matters), stitches are important for good cosmetic alignment.
 
-Material selection for intraoral wound closure relies on two primary categories: absorbable sutures (dissolving naturally over time) and non-absorbable sutures (requiring removal). Absorbable sutures undergo enzymatic breakdown in tissue over predictable timeframes, with timeline determined by material chemistry:
-- Chromic catgut (derived from catgut—intestinal submucosa treated with chromium salts): absorption 7-14 days, tensile strength loss within 3-5 days
-- Polyglactin 910 (Vicryl): absorption 14-21 days, tensile strength retention through 14 days
-- Poliglecaprone 25 (Monocryl): absorption 14-21 days, tensile strength retention through 7-10 days
-- Polydioxanone (PDS): absorption 180+ days, tensile strength retention through 30+ days
+Stitches used inside the mouth are often absorbable (dissolving naturally over one to three weeks), so you don't need them removed. Non-absorbable stitches require removal at seven to ten days. Ask your dentist which type they use.
 
-For most intraoral soft tissue lacerations, absorbable sutures (particularly polyglactin 910 or chromic catgut) are ideal because they eliminate the need for removal appointments—a critical advantage for pediatric patients, anxious patients, or those with limited treatment adherence. The intraoral environment's warm temperature, alkaline pH, and enzymatic activity accelerate absorption compared to theoretical timelines; sutures typically lose function by day 7-10 in oral wounds despite longer labeled absorption times. Non-absorbable sutures (silk, nylon, polypropylene) require removal typically at 7-10 days, which necessitates a return appointment and patient compliance—advantageous only when precise tension control is needed or when suture removal allows wound inspection.
+## Wound Care After Initial Treatment
 
-Suturing technique for intraoral wounds typically employs simple interrupted sutures (the most common technique), where individual sutures approximate wound edges independently. Each suture involves: (1) needle insertion perpendicular to wound edge at distance equal to suture diameter (typically 3-4mm from edge) on one side, (2) passage across the wound beneath the epithelial surface (approximately 3-4mm depth), (3) exit from the opposite wound edge at equivalent distance from margin, (4) gentle tension (creating wound edge approximation without strangulation), and (5) knot formation (typically a surgeon's knot: two throws in one direction, then one throw in opposite direction for security). Spacing between individual sutures should be 5-7mm apart; closer spacing provides no advantage in intraoral wounds and may increase irritation.
+Once your wound is cleaned and possibly stitched, care is straightforward. For the first twenty-four hours, avoid hot foods and beverages (which increase blood flow and bleeding risk) and stick to soft, cool foods. Avoid hard, crunchy foods that could disrupt healing or cause pain. Numbness may persist if local anesthetic was used, so be careful not to bite your lip or cheek while numb. For more on this topic, see our guide on [Oral Biopsies Diagnosis Of Suspicious...](/article/oral-biopsies-diagnosis-of-suspicious-lesions.html).
 
-## Through-and-Through Injuries: Special Considerations and Staged Closure
+Starting twenty-four hours after the injury, gently rinse with warm salt water (one-half teaspoon salt in eight ounces warm water) four to five times daily, especially after meals. This keeps the area clean without disrupting healing. Don't rinse forcefully—let the salt water gently flow over the wound.
 
-Through-and-through lacerations (wounds extending from epithelial surface through full mucosa thickness and potentially through the opposite surface, such as cheek lacerations extending from intraoral to extraoral surfaces) require specific management acknowledging the distinct healing environments on each side. The extraoral skin component (if present) requires different handling than the intraoral mucosal component due to different vascular supply and environmental conditions. Management approach depends on injury depth and the question of whether the wound truly extends through all tissue planes or stops short of full penetration.
+## Infection Signs: When to Call Your Dentist
 
-For injuries truly through-and-through, the standard approach involves: (1) thorough cleaning and inspection of both the entry (intraoral) and exit (extraoral) sites, (2) identification of involved deeper structures (muscle, bone involvement requiring more extensive management), (3) closure in layers when possible—starting with deep mucosal/muscular layer (if muscle is involved) using absorbable sutures in interrupted fashion, (4) closure of superficial mucosa or skin (depending on location), and (5) careful alignment of landmarks (such as lip vermilion margin or oral commissure if involved) to prevent functional or esthetic deformity. The intraoral layer typically heals rapidly (7-10 days) even without suture support due to excellent vascular supply and saliva irrigation; the extraoral skin component determines the timeline and approach since skin healing is slower and scarring is more problematic.
+Mouth wounds rarely get infected because of the excellent blood supply and constant salivary irrigation. However, watch for signs that infection is developing: increasing swelling after day three, spreading redness, purulent drainage (pus), fever, or foul odor from the wound. These warrant immediate contact with your dentist or emergency services.
 
-Minor through-and-through lacerations (puncture wounds or small diameter injuries) may be managed by closure of the deepest involved layer only—some surgeons advocate leaving the opposing surface unsutured, relying on natural healing and the theory that unsutured surfaces actually heal with less scarring and contracture. However, most practitioners prefer closure of all layers to ensure primary healing and prevent complications. The critical principle is that through-and-through injuries require extra assessment for involvement of deeper structures (muscle requiring repair, bone fractures requiring stabilization) that simple soft tissue closure won't address.
+Most mouth infections respond to antibiotics if caught early. If pus accumulates and forms an abscess, your dentist may need to drain it by lancing the area to allow pus to escape. This is a simple procedure but important for infection management.
 
-## Antibiotic Protocols and Infection Risk Management
+## Healing Timeline
 
-Infection risk in intraoral lacerations is substantially lower than extraoral soft tissue injuries due to the excellent blood supply, constant salivary irrigation, and oral mucosa's inherent antimicrobial environment. Clean traumatic intraoral lacerations without heavy contamination have documented infection rates of 2-5% despite no prophylactic antibiotics—lower than extraoral wounds treated identically. Contaminated wounds (heavy soil, delayed treatment >12-24 hours, obvious bacterial contamination) or through-and-through injuries warrant prophylactic antibiotics: amoxicillin 500mg orally TID for 5-7 days (or amoxicillin-clavulanate if significant anaerobic contamination concern), or cephalexin 500mg orally TID for 5-7 days (for penicillin-allergic patients). Severe contamination or immunocompromised patients (diabetes, immunosuppression, HIV) warrant broader coverage or IV antibiotics if hospitalization is required.
+Your mouth heals remarkably fast. Immediately after injury, bleeding dominates. By day two to three, swelling peaks and then gradually improves. By day seven to ten, surface healing is usually complete and any non-absorbable stitches can be removed. Pain gradually decreases over this period, typically mild to moderate by day four and improving daily thereafter.
 
-Clinical signs of developing infection include increasing erythema beyond initial injury extent, swelling persisting beyond day 3 or increasing after initial improvement, purulent discharge, lymphadenopathy, fever, or systemic signs. Intraoral abscess formation from infected laceration is rare but serious and presents as localized swelling with possible fluctuance, pain with function, and constitutional symptoms. Management of suspected infection includes wound culture (if discharge available), antibiotic initiation (broader coverage if not already started), possible needle aspiration for source identification, and close follow-up monitoring. Infected wounds that fail to improve within 48-72 hours of appropriate antibiotics may require incision and drainage if fluctuance is present.
+Complete deep healing takes longer (two to four weeks), though the wound appears healed much earlier. Avoid disturbing the area with your tongue or fingers during healing, even though it's tempting to explore the injury.
 
-## Healing Timeline and Expected Progression
+## Specific Situations: Through-and-Through Wounds
 
-Intraoral soft tissue healing follows a characteristic timeline—the initial inflammatory phase (0-3 days) is marked by pain, swelling, and variable function depending on injury location. Lacerations involving the lips, ventral tongue, or floor of mouth (high-motion areas) create greater functional impairment than injuries to keratinized gingiva or hard palate (immobile tissue). Swelling typically peaks at 48-72 hours post-injury and gradually decreases through days 4-7. Suture removal (if non-absorbable materials used) should occur at 7-10 days in most locations; absorbable sutures may be left in place longer (10-14 days) as they lose function gradually rather than being abruptly removed.
+If your injury goes completely through your mouth tissue to the outside of your face (such as a cheek laceration going from inside the mouth through the cheek to the outside), this requires more careful management. Both the inside and outside wound need to be cleaned, inspected, and closed properly. Often this requires layered closure (closing the deep tissues separately from superficial tissues) for optimal healing and minimized scarring.
 
-Re-epithelialization (surface closure) occurs rapidly in intraoral wounds—superficial wounds close within 3-5 days, deeper wounds within 7-10 days. Functional healing (return to normal function without pain or bleeding) typically occurs within 10-14 days for simple lacerations. Complete tensile strength recovery requires 3-4 weeks, though subjective healing appears complete much earlier. Scarring in intraoral locations is less prominent than extraoral sites due to mucosal tissue's properties; older scars often become less visible over 6-12 months as new collagen remodels the scar tissue. Communication with patients regarding expected timeline prevents unnecessary concerns—explaining that initial swelling will increase then resolve, that sutures (if non-absorbable) will be removed at day 7, and that complete healing takes 2-3 weeks helps set realistic expectations and improves compliance with post-operative instructions.
+These injuries should see an oral surgeon or emergency room for proper layered closure and assessment of whether deeper structures (muscle, salivary glands, nerves) were injured.
 
-## Post-Operative Instructions and Complication Management
+## Scarring and Long-term Appearance
 
-Post-operative care emphasizes protecting the healing wound while maintaining adequate oral hygiene. Instructions include: (1) soft diet (avoiding hard, hot, or spicy foods that might disrupt healing or irritate the wound), (2) rinse with warm salt water (0.5 teaspoon salt in 8 ounces warm water) 4-5 times daily starting 24 hours post-injury (initial period uses gentle pressure; later phases use more vigorous rinsing to mechanically cleanse), (3) avoid smoking, alcohol, and tobacco products (which impair healing and increase infection risk), (4) maintain oral hygiene but avoid direct trauma to the healing wound (gentle brushing away from the injury site), and (5) pain management as needed (acetaminophen or ibuprofen for most patients; narcotic analgesia rarely needed beyond 2-3 days).
+Mouth tissues heal with excellent cosmetic outcomes because of rich blood supply and the oral mucosa's regenerative properties. Even wounds with irregular edges typically heal with minimal visible scar. Scars in the mouth are usually less visible than similar injuries elsewhere because the oral environment promotes tissue remodeling. For more on this topic, see our guide on [Suturing Technique Surgical Closure](/article/suturing-technique-surgical-closure.html).
 
-Specific warning signs requiring early re-evaluation include: increasing swelling after day 3, spreading erythema suggesting cellulitis, purulent drainage, fever, inability to function despite healing appearance, or persistent significant pain beyond the expected 7-10 day timeline. Hematoma formation (localized blood collection causing bluish discoloration and firmness) is common but self-limiting—warm compresses after the first 48 hours promote resorption. Keloid scar formation is rare in intraoral locations (more common in extraoral skin) but can occur in patients with keloid tendency; these require corticosteroid injection or surgical revision if they become functionally problematic. The vast majority of intraoral soft tissue injuries heal uneventfully with excellent functional and esthetic outcomes when managed with appropriate suturing technique, infection prevention, and patient education.
+If you're concerned about scarring in visible areas (such as the lip), discuss scar management with your dentist—options exist for minimizing scar appearance if needed after initial healing.
 
+## Preventing Mouth Injuries
+
+Sports-related mouth injuries are preventable with proper mouthguards. Any child or adult participating in contact sports should wear a custom-fitted mouthguard. These dramatically reduce the risk of tooth loss, jaw fractures, and soft tissue injuries during athletic activity.
+
+Falls are common causes of mouth injuries in young children. Supervision, safe play environments, and soft-padded furniture in areas where children play reduce fall risk.
+
+## When to See a Dentist
+
+See your dentist if: the wound won't stop bleeding after an hour of pressure, the wound is deep or involves the lip edge (where stitches may help cosmetic outcome), you suspect foreign material is embedded in the wound, signs of infection develop, or you're concerned about how the wound is healing.
+
+For injuries at night or weekends when your regular dentist isn't available, many communities have emergency dental services or hospital emergency departments that can provide initial assessment and treatment.
+
+> **Key Takeaway:** Most mouth injuries heal quickly due to your mouth's excellent blood supply. Apply firm pressure to stop bleeding, rinse gently to clean the wound, and watch for infection signs. Stitches may help with deeper wounds or those involving the lip. Call your dentist if bleeding won't stop, if you're concerned about healing, or if signs of infection develop.
+
+
+
+## Conclusion
+
+Taking care of your oral health means staying informed about topics like mouth cuts and wounds. The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
+
+Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+
+## Related Articles You May Find Helpful
+
+- [Oral Surgery Recovery: Day-by-Day What to Expect](/article/oral-surgery-recovery-timeline-what-you-need-to-know.html)
+- [Emergency Dental Care: What to Do When Injured](/article/how-to-emergency-dental-care.html)
+- [Mouthguards for Athletes: Preventing Sports Injuries](/article/sports-mouthguards-for-young-athletes.html)
