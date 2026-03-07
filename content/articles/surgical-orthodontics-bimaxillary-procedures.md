@@ -1,11 +1,11 @@
 ---
-title: Orthognathic Surgery - Bimaxillary Procedures, Planning, and Postoperative Orthodontics
+title: Orthognathic Surgery - Understanding Jaw Correction Surgery
 slug: surgical-orthodontics-bimaxillary-procedures
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive protocol for Le Fort I + BSSO bimaxillary surgery including cephalometric analysis, virtual planning, fixation methods, and."
+excerpt: Patient guide to orthognathic surgery, when both jaws need repositioning, surgical planning, and what to expect.
 date: 2026-03-05
-read_time: 13 min
+read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgeon
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
@@ -35,100 +35,123 @@ references:
 
 ## Introduction
 
-Bimaxillary orthognathic surgery represents the most comprehensive approach to correcting complex dentofacial deformities involving both the maxilla and mandible. Combined maxillary (Le Fort I osteotomy) and mandibular (bilateral sagittal split osteotomy/BSSO) surgery enables correction of anterior-posterior, vertical, and transverse skeletal discrepancies that cannot be adequately treated with single-jaw procedures. Success requires sophisticated surgical planning incorporating cephalometric analysis, three-dimensional (3D) imaging, model surgery, virtual surgical planning, precise intraoperative technique, and methodical postoperative orthodontics to stabilize the surgical correction. This review addresses the surgical planning process, anatomical considerations specific to bimaxillary procedures, fixation methodology, and factors affecting long-term stability.
+If you have a significant bite problem or jaw misalignment, your orthodontist or surgeon might suggest orthognathic surgery. This is a sophisticated surgical procedure that corrects your upper and/or lower jaw to improve function, appearance, and dental bite. It's not just braces—it's repositioning your actual jaw bones. This guide explains what bimaxillary surgery (both jaws) involves, why it helps, and what your journey looks like from planning through recovery.
 
-## Preoperative Assessment and Planning
+## When You Might Need This Surgery
 
-### Cephalometric Analysis
+You're a candidate for orthognathic surgery if: your upper and lower jaws are severely misaligned; your bite is severely off (underbite, overbite, or crossbite); your teeth can't close properly; you have difficulty chewing or swallowing; you have sleep apnea related to jaw position; or your jaw is asymmetrical (uneven). Learn more about [benefits of anesthesia types](/article/benefits-of-anesthesia-types.html) for additional guidance.
 
-Cephalometric radiography (lateral skull radiograph standardized for magnification and patient positioning) remains fundamental for orthognathic treatment planning, though increasingly supplemented by 3D imaging. **Key measurements** for bimaxillary surgery planning include:
+**Bimaxillary Surgery Specifically**: This means both your upper jaw and lower jaw need repositioning. Your surgeon does both procedures in one surgery, or sometimes staged (separate surgeries a few months apart).
 
-**Maxillary position**: Anterior-posterior position (distance from point A to nasion perpendicular or vertical reference line), assessed relative to cranial base (SNA angle: normal 82±4 degrees). Vertical position evaluated via anterior nasal spine to palatal plane relationship to maxillary molars.
+## The Planning Process
 
-**Mandibular position**: Anterior-posterior position (point B distance), assessed via SNB angle (normal 80±4 degrees). Vertical dimensions: gonial angle (normal 120±7 degrees, <120 indicates hypodivergence, >130 indicates hyperdivergence), posterior facial height (inferior anterior facial height/total anterior facial height ratio), and facial axis of growth.
+**3D Imaging**: You'll get detailed 3D scans of your skull and jaws. This lets your surgeon see exact bone position and movement needed.
 
-**Occlusal plane angulation**: Normal occlusal plane intersects nasion-sella-point A line at approximately 7 degrees. Steep occlusal planes (>15 degrees) indicate vertical maxillary excess; flat planes (<5 degrees) indicate vertical maxillary deficiency.
+**Virtual Planning**: Your surgeon uses computer software to simulate the planned jaw movements. You might even see what your face will look like afterward.
 
-**Chin position**: Pogonion (most anterior point of mandibular symphysis) position relative to cranial base and maxilla. Pogonion-to-nasion perpendicular distance determines chin projection. Menton (most inferior point of mandible) vertical position relative to maxilla determines lower posterior facial height.
+**Braces First**: Before surgery, you'll wear braces for 12-18 months. This aligns your teeth within your current jaws. This prep work is critical for success—it's not cosmetic, it's necessary.
 
-### Three-Dimensional Imaging and Virtual Planning
+**Surgical Guides**: Your surgeon creates special guides and plates based on your virtual plan. These ensure precise positioning during surgery.
 
-**CBCT imaging** (cone beam computed tomography) provides superior bony anatomical detail compared to 2D cephalometry, enabling visualization of: (1) transverse asymmetries not apparent on sagittal cephalometry, (2) vertical discrepancies and asymmetries, (3) posterior anatomical structures (ramus, condyle, posterior body), and (4) impaction patterns or supernumerary dentition. CBCT protocols for orthognathic planning utilize 0.4-0.5 mm slice thickness for maximal skeletal detail.
+**Expected Improvements**: You'll see improved chewing function, better appearance (especially profile), better breathing (less snoring, better sleep apnea), and complete bite correction.
 
-**3D virtual planning software** (Dolphin 3D, OrthoAnalyzer, Proplan, others) enables: (1) 3D virtual models of maxilla and mandible from CBCT data, (2) simulation of planned surgical movements, (3) prediction of dental occlusion post-surgery, (4) assessment of airway dimension changes (critical in vertical maxillary excess cases with potential for sleep apnea), and (5) generation of surgical guides and wafers.
+## Understanding the Surgical Procedures
 
-Virtual planning process: (1) CBCT is segmented (computer identifies maxillary and mandibular bone from soft tissue), (2) dental models are registered/aligned to CBCT data, (3) planned surgical movements are simulated in 3D (e.g., maxilla advanced 8 mm, rotated counterclockwise 2 degrees; mandible advanced 5 mm, rotated 1 degree), (4) resultant occlusion is assessed for anterior-posterior and vertical dimension changes, and (5) surgical wafers/guides are generated based on planned movements.
+**Upper Jaw (Le Fort I)**: Your surgeon makes a cut inside your mouth above your teeth, separates your upper jaw from your skull, moves it to the correct position, and secures it with small plates and screws. You'll heal with the jaw in its new position.
 
-### Model Surgery
+**Lower Jaw (Bilateral Sagittal Split)**: Your surgeon makes cuts inside your mouth at the angle of your jaw, carefully splits the jawbone, moves it forward or backward, and secures it with plates and screws.
 
-Model surgery (surgical rehearsal on dental casts) enables: (1) verification of planned movements' feasibility, (2) assessment of molar and incisor relationship changes, (3) identification of interferences or undercuts, and (4) prediction of surgical changes relative to the planned vector. Process: (1) maxillary and mandibular casts are mounted on an articulator in pre-treatment occlusion, (2) maxillary cast is separated from the articulator at the planned osteotomy level (typically 5 mm above apical margin of teeth), (3) maxillary cast is moved to the planned position and blocked in place with wax, (4) mandibular cast is then repositioned into the new maxillary position, and (5) surgical wafer is fabricated from the post-treatment casts to guide intraoperative positioning.
+**Timing**: Both surgeries happen while you're under general anesthesia in one operative session. You're unconscious the entire time.
 
-## Maxillary Surgery: Le Fort I Osteotomy
+## What Happens During Recovery
 
-The Le Fort I osteotomy (transpalatal maxillary osteotomy) separates the maxilla above the apical margins of teeth and above the roots of the zygomatic process, enabling movement in all three dimensions. **Anatomical landmarks** for incision placement and osteotomy design include:
+**First Week**: Pain peaks around day 2-3, swelling peaks day 3. Your jaw is mostly immobilized (using elastic bands connecting upper and lower teeth) for the first 4-6 weeks. You'll eat soft foods through a straw or blender.
 
-**Incision placement**: Intraoral vestibular incision (buccal mucosa) extending from the distal aspect of one first molar to the contralateral first molar, approximately 4-5 mm apical to the mucogingival junction. Placement 4-5 mm apical to the junction preserves attached gingiva and reduces recession risk.
+**Weeks 2-6**: Swelling gradually resolves. Pain decreases. You can start gentle jaw opening exercises. Your surgeon might adjust the elastic bands to allow gradual movement.
 
-**Osteotomy design**: Horizontal cut through the maxillary facial process above the apices of the maxillary teeth (typically 5-7 mm apical to the cementoenamel junction, ensuring clearance from apical foramina of anterior teeth). Vertical cuts through the lateral maxillary wall between first and second molars. Palatal cut completes the Le Fort I; three approaches exist: (1) complete palatal osteotomy (cutting through entire palate horizontally 5 mm apical to palatine sutures), (2) partial palatal osteotomy (cutting anterior hard palate but preserving posterior hard palate connective tissue), and (3) palatal split (preserving palatal mucosa and splitting posterior palate between teeth). Partial/split approaches reduce postoperative palatal sensation loss (occurring in 20-30% of patients with complete osteotomy) and reduce palatal scarring/contraction risk.
+**Weeks 7-12**: You transition to regular soft diet. Swelling is mostly resolved. Jaw function improves significantly. Return to normal diet by week 12.
 
-**Anatomical hazards**: Infraorbital neurovascular bundle (identified at the infraorbital foramen, located ~12 mm inferior to the orbital rim; careful elevation of periosteum and gentle soft tissue handling preserve sensation). Pterygoid plates (posterior attachment; controlled fracture of pterygoid plates occurs as maxilla is mobilized, not requiring surgical fracture). Nasal septum (preserved intact to prevent airway compromise).
+**Months 3-6**: Final bite refinement with braces (your surgeon coordinates with your orthodontist). You might have slight asymmetries that need fine-tuning.
 
-**Maxillary mobilization and positioning**: Gentle elevation using Le Fort osteotome or broad periosteal elevator mobilizes the maxilla after osteotomy completion; excessive force causes pterygoid plate fracture or unnecessary vascular trauma. The maxilla is repositioned using surgical guides (based on model surgery or virtual planning), ensuring 3-dimensional accuracy. Positioning is verified by examining molar relationships and anterior incisor overlap.
+## Pain and Swelling
 
-## Mandibular Surgery: Bilateral Sagittal Split Osteotomy (BSSO)
+**Pain**: Expect pain for 7-10 days that's controlled with prescribed pain medicine. It's usually less intense than people expect.
 
-The BSSO separates the mandible along the sagittal plane within the body/angle, enabling anterior-posterior advancement or setback. This remains the most common mandibular procedure for orthognathic surgery.
+**Swelling**: Significant for the first 2-3 weeks, gradually improving over months. Your face looks different immediately post-op but improves dramatically over 2-3 months as swelling goes down.
 
-**Anatomical landmarks**: Inferior alveolar nerve location (within the mandibular canal, running from the lingula medially toward the inferior alveolar foramen anteriorly). The canal is identified on CBCT; average depth below the exterior cortical surface varies by anatomical location (deeper in posterior body, shallower in anterior symphysis). Preoperative CBCT enables precise identification of canal location and enables surgery planning to preserve neurovascular structures.
+**Numbness**: Common after lower jaw surgery (affecting lower lip and chin). Usually resolves within 2-8 weeks. Permanent numbness is rare.
 
-**Incision and access**: Intraoral approach via mucosa over the external oblique line (buccal cortex), with incision placed 5-10 mm buccal to the external oblique ridge. Incision extends from the distal aspect of first molar to approximately the canine region, with careful mucoperiosteal elevation to expose the external cortex while preserving the attached gingiva.
+## Risks and Complications
 
-**Sagittal split osteotomy**: (1) sagittal (vertical) cut is made through the buccal cortex at the anterior aspect of the mandible, approximately 5-8 mm anterior to the first molar, extending from the apical margin of teeth to the inferior border of the mandible (depth ~1-1.5 cm below the external surface, positioning the cut within the cancellous bone between cortical plates); (2) horizontal cut connects the sagittal cut to the internal oblique ridge; (3) the mandible is gently split along the sagittal plane using controlled fracture (osteotome and mallet) or motorized oscillating saw, creating a split that extends posteriorly along the mandibular ramus (avoiding the inferior alveolar nerve and vascular bundle, which remain in the proximal segment).
+**Relapse**: Your jaw might move slightly back toward its original position. Modern surgery and fixation minimize this (usually <10% of movement).
 
-**Proximal segment preservation**: The medial aspect of the ramus and the inferior alveolar neurovascular bundle remain attached to the proximal segment (posterior mandible), ensuring blood supply preservation and minimizing neurosensory morbidity.
+**Nerve Damage**: Temporary numbness is common. Permanent numbness is rare (<2%).
 
-**Anterior segment mobilization**: The anterior mandible (symphysis, body to first molar, with attached teeth and gingiva) is mobilized anteriorly or posteriorly into the planned position, typically 5-10 mm advancement being the maximum comfortable advancement without significant neurovascular compromise.
+**Bite Issues**: Early post-op bite is corrected with elastic bands and braces.
 
-## Fixation Methods
+**Infection**: Uncommon with proper antibiotics and care.
 
-### Intermaxillary Fixation (IMF)
+## What You Can't Do
 
-IMF maintains established occlusion between maxilla and mandible during bone healing. **Methods** include: (1) arch bars (stainless steel bars cemented to teeth with composite or bonded with composite resin), connected with elastic bands or wire, applied preoperatively before jaw surgery; (2) composite bonded splints (tooth-colored material bonded to lingual surfaces of maxillary and mandibular anterior teeth, faster and simpler than arch bars, reversible); (3) screw-supported occlusal plane guides (titanium screws placed in anterior maxilla/mandible with maxilla-mandible connectors, enabling precise occlusal control).
+- Chew hard or crunchy foods for 12 weeks
+- Heavy exercise or contact sports for 4-6 weeks
+- Smoke (increases complications significantly)
+- Drink alcohol for 7-10 days
+- Use straws for 48 hours (suction affects healing)
+- Rinse vigorously for 24 hours
 
-IMF duration varies by fixation technique: (1) rigid fixation (plates securing both jaws) enables IMF removal immediately postoperatively or after 2-4 weeks; (2) non-rigid fixation (elastic bands) typically requires 4-6 weeks IMF. Modern technique prefers early IMF release (2-3 weeks) to enable function and begin postoperative orthodontics while maintaining some soft tissue healing.
+## Important Timeline
 
-### Rigid Fixation (Internal Fixation)
+- **Month -18 to -12**: Braces to align teeth in current jaw
+- **Month -3 to -1**: Final surgical planning and preparation
+- **Month 0**: Surgery day
+- **Months 1-3**: Rapid recovery and swelling reduction
+- **Months 3-6**: Braces for final bite refinement
+- **Year 1+**: Wearing retainers to maintain results
 
-Titanium plates (2.0 mm dynamic compression plates, 1.8-2.0 mm spacing between screw holes) secure the osteotomy segments in three dimensions, enabling immediate function and eliminating need for prolonged IMF.
+## Questions to Ask Your Surgeon
 
-**Maxillary fixation**: Typically 2-4 plates (one-plate approach places the plate on the facial surface of the maxilla at the Le Fort osteotomy level; two-plate approach places a plate on the facial surface and a second plate on the nasal aperture margin, providing superior rotational control). Plate placement across the planned osteotomy ensures segment stability.
+1. Will my surgery be both jaws or one jaw?
+2. How experienced are you with this procedure?
+3. What does my specific jaw movement involve?
+4. How long until I can return to work?
+5. When can I return to exercise?
+6. What's your personal success rate?
+7. What complications have you managed?
 
-**Mandibular fixation**: Typically 2 plates (one plate on each side of the sagittal split, securing the proximal segment to the anterior segment). Plate placement medial to the inferior border of the mandible preserves the bony contour of the inferior border.
+## Expected Outcomes
 
-## Bimaxillary Surgery Sequencing
+**Functional**: Excellent chewing, no more difficulty swallowing, often improved breathing.
 
-Controversy exists regarding maxillary-first versus mandibular-first sequencing. **Maxillary-first approach**: (1) maxilla is mobilized and fixated first, establishing maxillary position relative to the cranial base; (2) mandible is then mobilized into relationship with the new maxillary position, determining final mandibular position. This approach is anatomically logical (maxilla is relatively fixed structures, mandible adjusts to maxilla). **Mandibular-first approach**: (1) mandible is mobilized and fixated first; (2) maxilla is positioned relative to the new mandibular position. This approach is mechanically advantageous in some cases (reducing relapse risk) but less commonly employed.
+**Appearance**: Significant improvement in facial profile, better balance, improved smile.
 
-## Postoperative Orthodontics
+**Psychological**: Most people report major confidence boost and life improvement.
 
-Postoperative orthodontics (typically 3-8 months duration) refines the occlusion achieved by surgery. Preoperative orthodontics (typically 12-18 months) aligns teeth within their respective dental arches, eliminating dental compensations and enabling the surgeon to focus on skeletal correction. Without preoperative orthodontics, the surgeon must correct both dental compensation and skeletal deformity.
+**Stability**: Research shows 85-90% of surgical correction remains stable long-term.
 
-**Post-op orthodontic goals**: (1) establish optimal interdigitation of maxillary and mandibular teeth, (2) achieve optimal anterior-posterior and vertical relationships, (3) establish proper overjet (4-6 mm) and overbite (2-3 mm), and (4) achieve coincident midlines and minimal rotations. Braces remain affixed for 3-6 months postoperatively, using light forces (25-50g for incisors, 50-100g for molars) to enable active movement while accommodating healing tissues.
+## What to Expect During Your Visit
 
-## Stability and Relapse
+Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
 
-Long-term skeletal stability (5-10 year follow-up) demonstrates that surgical corrections are largely stable. **Relapse rates** (percentage of surgical movement that is lost postoperatively) typically range from 10-20% for maxillary movements and 5-15% for mandibular movements. Factors affecting stability include: (1) magnitude of movement (larger movements show slightly higher relapse), (2) direction of movement (vertical movements show higher relapse than anterior-posterior), and (3) surgeon technique and rigidity of fixation.
+During any procedure, your comfort is a top priority. Your dental team will make sure you understand what is happening and check in with you regularly. Modern dental techniques and anesthesia options mean that most patients experience minimal discomfort during and after treatment. If you feel anxious about any part of the process, let your dentist know so they can adjust their approach to help you feel more at ease.
 
-**Condylar seatedness** (position of the mandibular condyle in the temporal fossa) is critical for stability. Surgery performed with the condyle seated in centric relation, followed by proper IMF and postoperative guidance, results in lower relapse rates (5-10%) compared to surgery with mandible in habitual closure (relapse 15-25%).
 
-## Complications
+## Tips for Long-Term Success
 
-**Neurosensory morbidity**: Inferior alveolar nerve injury results in temporary hypoesthesia/paresthesia in 30-50% of BSSO patients, with permanent sensory loss in 2-5%. Greater palatine nerve injury (from Le Fort I) causes palatal sensation loss in 20-50% of patients, usually resolving within 6-12 months.
+Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
 
-**Condylar sag**: Improper surgical technique or IMF loss can result in condylar descent (inferior positioning), causing open bite relapse or TMJ dysfunction.
+Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
 
-**Airway changes**: Maxillary advancement can reduce nasopharyngeal airway dimension by 10-30% in some cases; conversely, mandibular advancement may improve airway. Preoperative sleep apnea assessment (sleep study) is indicated in obstructive sleep apnea patients before maxillary advancement.
 
 ## Conclusion
 
-Bimaxillary orthognathic surgery represents a sophisticated surgical discipline requiring comprehensive preoperative planning (cephalometric analysis, 3D imaging, model surgery, virtual planning), meticulous intraoperative technique, appropriate fixation methodology, and systematic postoperative orthodontics. Understanding the anatomical constraints, neurovascular relationships, and healing biology enables surgeons to achieve predictable skeletal corrections with minimal morbidity. Long-term stability of surgical corrections (relapse rates 10-20%) with proper technique and postoperative management enables achievement of esthetic and functional outcomes that significantly improve patients' quality of life and psychological well-being.
+Bimaxillary orthognathic surgery is a sophisticated, well-established procedure that fixes serious jaw and bite problems. Recovery takes time (plan on 3-4 months for substantial improvement, 6-12 months for complete resolution), but results last. Your life after surgery—better function, better appearance, better confidence—makes it worthwhile for people who need it.
+
+## Key Takeaway
+
+Orthognathic surgery corrects jaw position and bite that braces alone can't fix. Learn more about [benefits of anesthesia options](/article/benefits-of-anesthesia-options.html) for additional guidance. It requires planning, patience during recovery, and commitment to post-op care, but results transform function and appearance.
+
+## Related Articles
+- [Understanding Surgical Success Rates](/articles/surgical-success-rates-what-you-need-to-know)
+- [Healing After Oral Surgery - Day-by-Day Expectations](/articles/surgical-site-healing-what-you-need-to-know)
+- [Pain Management After Oral Surgery](/articles/how-to-pain-management-surgery)

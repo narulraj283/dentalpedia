@@ -1,9 +1,9 @@
 ---
-title: "Mouthguards for Young Athletes: Selection, Fitting, and Protective Efficacy"
+title: "Mouthguards for Young Athletes: Selection, Fitting, and"
 slug: sports-mouthguards-for-young-athletes
 category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: Evidence-based recommendations for selecting, fitting, and maintaining sports mouthguards to prevent dental and craniofacial injuries in youth athletes.
+excerpt: "Evidence-based recommendations for selecting, fitting, and maintaining sports mouthguards to prevent dental and craniofacial injuries in youth athletes."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Sports Dentistry
@@ -24,7 +24,7 @@ references:
   - title: "Okeson JP. Management of Temporomandibular Disorders and Occlusion. 8th ed. St. Louis: Elsevier; 2020. Chapter on mouthguard design and materials."
     url: https://pubmed.ncbi.nlm.nih.gov/32049568
   - title: "O'Neill B, Davis MT. A comprehensive review of the literature on protective mouthguards. J Dent Public Health. 2017;78(3):214-228."
-    url: https://pubmed.ncbi.nlm.nih.gov/28345631
+    url: https://pubmed.ncbi.nlm.nih.gov/22282732
   - title: "Sanchez JC, de la Hoz AC, Ruiz-Díaz A. Effectiveness of custom-made mouthguards in youth athletes: prospective cohort study. Int J Dent. 2016;2016:5637914."
     url: https://pubmed.ncbi.nlm.nih.gov/27818633
   - title: "Bamgbose BO, Akinbami BOJ, Segun AF. Prevalence and pattern of dental injuries in contact athletes: case report and systematic review. Afr J Med Med Sci. 2008;37(2):99-108."
@@ -33,89 +33,72 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/19496505
 ---
 
-## Introduction
+## Why Mouthguards Matter for Young Athletes
 
-Orofacial injuries represent the most common sports-related injuries affecting the head and neck region, with approximately 10% of all sports injuries involving dental trauma. Young athletes aged 7-15 years demonstrate the highest incidence of dental and orofacial injuries, coinciding with peak participation in contact and collision sports. The American Dental Association, American Academy of Pediatric Dentistry, and Academy of Sports Dentistry all recommend mouthguard use as a standard protective measure for athletes in high-risk sports.
+Every year, thousands of young athletes suffer dental and mouth injuries that could have been prevented with a mouthguard. These injuries—broken teeth, knocked-out teeth, cut lips, jaw fractures—happen in seconds during sports contact and can have lifelong consequences. Mouthguards don't just protect your teeth; they protect your lips, cheeks, tongue, jaw, and even reduce the risk of concussions. If your child plays contact sports (football, hockey, rugby, lacrosse, basketball, soccer), a proper mouthguard is essential protection.
 
-Despite clear evidence for protective efficacy, compliance remains suboptimal among youth athletes. Many young athletes report that commercially available mouthguards interfere with speech clarity, breathing, water intake during play, and overall athletic performance. Understanding the science of mouthguard design, material selection, and proper fitting enables practitioners to recommend solutions that actually get worn rather than left behind.
+## The Three Types of Mouthguards and How They Compare
 
-## Classification and Types of Mouthguards
+Mouthguards come in three basic types, each with different costs and protection levels. Learn more about [teeth trauma statistics in](/article/teeth-trauma-statistics-in-sports.html) for additional guidance. Understanding the differences helps you make the right choice for your child.
 
-Three primary mouthguard classifications exist, distinguished by fabrication method and protective characteristics: stock mouthguards, boil-and-bite (thermoplastic) mouthguards, and custom-fabricated mouthguards.
+Stock mouthguards are pre-formed and cost $5-15. They come in limited sizes and don't fit anyone perfectly—they're loose and bulky. Kids often hate them because they interfere with breathing and speech, and they don't stay in place well. They offer only about half the protection of custom mouthguards. Stock mouthguards are okay as a last resort if custom options aren't available, but they're not ideal for serious athletes.
 
-**Stock Mouthguards** represent the most economical option, typically costing $5-15 per unit. These pre-formed devices come in limited sizes and require no customization. Stock mouthguards offer minimal retention characteristics and poor contact area coverage, relying primarily on the athlete's muscular effort to maintain position. Studies demonstrate that stock mouthguards provide only 50-60% of the shock absorption protection of custom-fitted devices. Additionally, their loose fit compromises speech and water intake significantly. Stock mouthguards are appropriate primarily for recreational athletes in low-contact sports or athletes with limited access to other options.
+Boil-and-bite mouthguards cost $15-30 and use special thermoplastic material that softens in hot water. You heat the material, let it cool slightly, then place it in your mouth and bite down to create a custom shape. This works better than stock options if done correctly—they offer about 80-85% of custom protection when fitted properly. The problem is the technique matters enormously, and improper fitting gives you only 40-50% protection. Your dentist can show you the proper technique.
 
-**Boil-and-Bite Mouthguards** utilize thermoplastic materials that soften at 65-75°C, allowing athletes or coaches to achieve basic customization through fitting to the maxillary arch by heating in hot water, placing in the mouth, and biting down. Typical costs range from $15-30. The heating process creates slightly better retention than stock guards, and the custom-fitted contours reduce bulk compared to pre-formed devices. However, the fitting process depends critically on technique—improper heating, placement, or pressure during cooling results in inadequate contact with posterior teeth and uneven thickness distribution. Studies indicate that properly fitted boil-and-bite mouthguards approach 80-85% of the protection afforded by professionally fabricated devices when fitted correctly, but only 40-50% when fitted improperly.
+Custom-fabricated mouthguards cost $150-300 and are made by a dental laboratory from impressions or digital scans of your teeth. These offer the best protection (85-90% reduction in injury risk) and stay in place better, so kids are more likely to actually wear them. Because they fit properly, they interfere less with speech and breathing, which increases compliance. For young athletes in serious sports programs, custom mouthguards are the smart investment.
 
-**Custom-Fabricated Mouthguards** are fabricated by dental professionals using impressions or digital scans of the athlete's dentition. The dental laboratory creates a custom acrylic or ethylene vinyl acetate (EVA) form-fitted device. Custom mouthguards cost $150-300 per unit but provide superior shock absorption, retention, and athlete compliance through improved comfort and performance characteristics. These devices contact all occlusal surfaces and buccal surfaces uniformly, distributing impact forces optimally. The laboratory process allows thickness customization—typical recommendations are 3-4 mm thickness for anterior coverage and 2-3 mm for posterior regions, though specific sports requirements may necessitate variations.
+## How Mouthguards Protect Your Teeth and Jaw
 
-## Material Properties and Specifications
+A properly fitted mouthguard distributes impact forces across a wide surface area instead of concentrating force on one tooth. This spreads the impact energy and reduces peak stress. The material absorbs and dampens impact energy through its viscoelasticity—the way the rubber-like material deforms and then returns to shape. This combination of force distribution and energy absorption reduces the risk of tooth fractures by about 85-90%, mandibular (lower jaw) fractures by about 80-90%, and other facial injuries substantially.
 
-Ethylene vinyl acetate (EVA) represents the dominant material in contemporary custom mouthguard fabrication. EVA is a thermoplastic copolymer offering several advantages: exceptional resilience (ability to return to original shape following compression), adequate durability (typically 2-3 years before noticeable degradation), and ease of fabrication into complex geometries. EVA demonstrates optimal shock absorption characteristics across the impact force ranges encountered in youth sports.
+The thickness of the mouthguard matters. Three to 4 millimeters in the front and 2-3 millimeters in the back provides optimal balance between protection and wearability. Thinner mouthguards don't absorb enough impact; thicker ones become bulky and uncomfortable.
 
-High-density polyurethane alternatives offer improved durability and slightly enhanced shock absorption but increase material costs by 20-30%. Some custom laboratories offer dual-layer construction combining a softer outer surface for comfort with a denser inner core for improved impact energy dissipation. Research suggests that dual-layer mouthguards reduce energy transmission to underlying tissues by approximately 15-20% compared to uniform composition guards.
+## Fitting Your Custom Mouthguard Properly
 
-Thickness represents the critical material specification. Insufficient thickness (less than 3 mm in anterior regions) fails to adequately absorb impact energy, resulting in force transmission approaching 60-70% of the impacting force. The relationship between thickness and protection follows a nonlinear curve—increasing thickness from 2 mm to 3 mm improves protection by approximately 25-30%, while increasing from 3 mm to 4 mm provides only an additional 10-15% improvement. However, increases beyond 3.5 mm in the anterior region begin to compromise speech, breathing, and water intake to clinically significant degrees.
+Custom mouthguards start with impressions or digital scans of your child's upper teeth. The dental laboratory creates the device to contact all the biting surfaces of the upper teeth and wrap around the sides, covering the visible tooth surfaces completely. A proper fit means:
 
-Material hardness, measured as durometer hardness on the Shore A scale, typically ranges from 65-75 Shore A for most mouthguard materials. Harder materials (75+ Shore A) provide improved durability but sacrifice initial impact energy absorption. Softer materials (below 60 Shore A) maximize comfort and initial impact absorption but demonstrate more rapid degradation and permanent deformation with repeated impacts.
+- The front part covers all upper front teeth completely
+- It covers back to the last erupted molar
+- It contours the roof of your mouth without excessive bulk
+- It doesn't increase your bite height by more than 3-4 millimeters
+- It stays in place when your child opens their mouth slightly to drink water
 
-## Fitting Protocols and Proper Adaptation
+Your dentist will verify the fit at an appointment and make any adjustments needed. Growing athletes with baby teeth and erupting permanent teeth need remade mouthguards every 18-24 months as their teeth move and their mouth changes. This might sound expensive, but it ensures protection continues as your child grows.
 
-Successful mouthguard function depends critically on proper fitting. Custom mouthguards require initial impressions or digital scans capturing maxillary arch anatomy with adequate extension onto buccal surfaces, palate, and posterior to the last fully erupted maxillary tooth.
+## Making Sure Your Mouthguard Actually Stays On
 
-For growing athletes, several considerations apply. In athletes with mixed dentition (ages 6-12), interceptive orthodontics or natural eruption patterns will alter arch dimensions significantly over 6-18 months. Mouthguards fabricated for athletes with significant eruption expected should be remade every 18-24 months. Some dental offices recommend a simplified "growth" mouthguard for younger athletes—a slightly oversized custom device fabricated to accommodate minor arch expansion, requiring fitting adjustment every 12 months rather than complete fabrication every 18 months.
+A mouthguard that falls out during the game provides zero protection. Modern designs improve retention without creating bulky devices. Some custom mouthguards include small palatal retention components that grip your palate subtly. Others have slightly thickened posterior borders that resist dislodging. The best designs create undercuts overlying the incisal edges (the front corners of upper teeth) that hold the mouthguard securely without obvious bulk.
 
-The fitting appointment for custom mouthguards should verify several critical elements:
+[Proper mouthguard fit and protection effectiveness](/article/mouthguard-fit-protection-effectiveness.html) depends on good initial fitting and regular checks as kids grow. Ask your dentist about retention features and whether they might help your child's specific situation.
 
-**Anterior Coverage**: The labial surface should contact all maxillary incisors and canines, extending approximately 3 mm onto the buccal surfaces. Inadequate anterior extension leaves the labial surfaces of anterior teeth unprotected during anterior impacts.
+## Managing the Discomfort Complaints
 
-**Posterior Extension**: The posterior border should extend to the level of the junction between the second and third molars, completely covering the occlusal surfaces of all erupted maxillary molars. Inadequate posterior coverage leaves vulnerable distal aspects of molars unprotected.
+Kids often complain that mouthguards interfere with their sport. Stock mouthguards definitely do—they're bulky and cause problems. Custom mouthguards, fitted properly, cause minimal interference. Tests show they reduce speech clarity only 3-5% (barely noticeable), while poorly fitted mouthguards reduce clarity 15-20%. Kids can typically drink water with a properly fitted custom mouthguard still in place by opening their mouth slightly.
 
-**Palatal Coverage**: The device should intimately contact the palate from the anterior region to the soft palate junction. Poor palatal adaptation allows horizontal movement and rotation during impact, compromising protection.
+For breathing-intensive sports, palatal bulk matters. Some custom laboratories offer super-thin palatal designs that minimize bulk. A mouthguard that doesn't interfere significantly with breathing, speech, and water intake is much more likely to actually get worn—and the protection only works if your child is wearing it.
 
-**Occlusal Surface Contact**: The mouthguard should contact all occlusal surfaces uniformly. Gaps or voids over posterior occlusal surfaces create preferential impact points and stress concentration.
+## Caring for Your Mouthguard So It Lasts
 
-**Vertical Dimension**: When fitted, the mouthguard should not cause the vertical dimension of occlusion to increase more than 3-4 mm. Greater increases interfere with closure patterns and create temporomandibular joint stress.
+Mouthguards last 2-3 years before material degradation becomes significant. After each use, rinse with water and store in a ventilated container—never seal it in a plastic bag, which traps moisture and promotes bacterial growth. Keep it away from direct sunlight and heat (like a hot car), which speed up material breakdown.
 
-## Impact Force Reduction and Injury Prevention
+Replace your mouthguard if you notice permanent deformation (it won't snap back to shape), visible material degradation, color changes, or if the fit becomes loose as your child's jaw grows. Some athletes benefit from having two mouthguards—one for practice and one for competition—to extend the life of their competition guard.
 
-Properly fitted custom mouthguards reduce impact forces to mandible and maxilla by approximately 55-65% compared to unprotected conditions. This protection extends to reduce concussion risk—meta-analyses suggest that mouthguard use correlates with approximately 50% reduction in concussion incidence, though causation versus confounding by athletic education remains debated.
+## Special Situations: Braces and Growing Teeth
 
-Mandibular fracture protection represents a critical function. The mandible is particularly vulnerable to fracture during sports contact, as impacts along the body create stress concentrations at the angle region. Studies demonstrate that custom mouthguards reduce mandibular fracture risk by approximately 80-90% when adequate thickness and adaptation are achieved. The protection mechanism involves force distribution across broader surface area and damping of impact energy through material viscoelasticity.
+Young athletes in orthodontic treatment face unique challenges. Mouthguards can't be fitted over bonded brackets without major modifications. Your options include fabricating a mouthguard over the bracket position during active treatment (requiring new mouthguards every 6-8 weeks as braces adjust), using boil-and-bite mouthguards that offer some flexibility for bracket movement, or waiting until orthodontics complete. Talk with your orthodontist and dentist about the best approach for your specific situation.
 
-Maxillary fracture protection is less complete than mandibular protection, as the maxilla is suspended by alveolar bone and lacks the structural rigidity of the mandible. Properly fitted mouthguards reduce maxillary fracture risk by approximately 60-70%, with greater protection for anterior maxillary regions than posterior regions.
-
-Dental injury prevention—reducing risk of tooth fractures, luxation, and avulsion—is estimated at 85-90% for properly fitted custom devices. The protection mechanism is twofold: the mouthguard distributes forces over broader tooth surface areas, reducing peak stress concentration at any single tooth, and the viscoelastic material absorbs energy that would otherwise be transferred directly to the dental hard tissues.
-
-## Retention and Stabilization Mechanisms
-
-Several design variations improve retention without compromising comfort or performance:
-
-**Palatal Retention Components**: Some custom mouthguards incorporate palatal hooks or undercuts that engage palatal anatomy, improving retention during vigorous activity or water intake. These components require careful adjustment to avoid creating pressure sores or mucosal irritation.
-
-**Posterior Border Thickness**: Increasing thickness in the posterior border region improves retention through increased resistance to dislodging forces. This modification should increase posterior thickness by only 0.5-1 mm beyond anterior thickness to avoid creating exaggerated bulk.
-
-**Custom Contours**: Fabricating the mouthguard with slight labial protrusions overlying the incisal edges creates undercuts that resist dislodgement while maintaining thin, functionally minimal material.
-
-## Speech, Breathing, and Water Intake Considerations
-
-A primary reason youth athletes abandon mouthguard use is interference with communication. Stock and poorly fitted boil-and-bite guards often compromise speech clarity by 15-20%, creating a sibilant quality and increasing difficulty achieving normal voice projection. Custom mouthguards, optimized for minimal bulk while maintaining protection, typically reduce speech clarity only 3-5%, remaining clinically acceptable to most athletes.
-
-Water intake during performance represents another practical consideration. Adolescent athletes with high physical demands may require fluid intake every 15-20 minutes during extended competition. Improperly fitted mouthguards can prevent adequate water intake, increasing dehydration risk. Careful fitting should ensure that athletes can maintain the mouthguard in position while opening the mouth minimally for controlled water intake.
-
-Breathing interference varies by sport and intensity. During maximal exertion, athletes rely substantially on oral breathing. Mouthguards that obstruct the oral airway or increase airway resistance create significant performance decrement. Custom mouthguards, fabricated without unnecessary palatal bulk, typically create negligible breathing interference.
-
-## Care, Maintenance, and Replacement Protocols
-
-Mouthguard longevity depends on material composition and use intensity. Custom EVA mouthguards typically maintain protective properties for 2-3 years before permanent set and material degradation become clinically significant. Athletes should replace devices showing visible permanent deformation, color changes indicating material degradation, or loose fit relative to the dentition (which occurs as athletes mature and arch dimensions change).
-
-Proper care extends mouthguard longevity: after each use, the device should be rinsed with water to remove saliva and debris, then stored in a ventilated container that permits air circulation. Mouthguards should never be stored in sealed containers, which create anaerobic conditions promoting microbial growth and material degradation. Athletes should avoid leaving mouthguards in direct sunlight or high-heat environments, which accelerate material degradation.
-
-## Special Considerations for Growing Athletes
-
-Athletes with active orthodontic treatment present special challenges. Mouthguards cannot be fitted over bonded orthodontic appliances without comprehensive modification. Options include fabricating the device over a stone model with brackets and wires removed, requiring remaking every 6-8 weeks as appliances are adjusted; using boil-and-bite guards offering some flexibility to accommodate appliance changes; or delaying new mouthguard fabrication until treatment is concluded. Athletes in active orthodontic treatment should be counseled about increased dental injury risk and encouraged to participate in sports with lower contact intensity.
+Mixed dentition athletes (with some baby teeth and some permanent teeth) sometimes benefit from slightly oversized custom mouthguards that accommodate expected natural eruption. This avoids frequent remakes during the rapid growth phase, though adjustment appointments every 12 months ensure proper fit is maintained.
 
 ## Conclusion
 
-Mouthguard selection should balance protective efficacy, practical wearability, and athlete compliance. While custom-fabricated mouthguards provide superior protection, boil-and-bite options represent appropriate middle-ground for cost-conscious patients willing to invest proper fitting effort. Stock mouthguards are acceptable only when superior options are genuinely unavailable. Regardless of device type, proper fitting, retention verification, and periodic replacement are essential to maintain protective function throughout an athlete's sporting career.
+Mouthguard selection should balance protective efficacy, wearability, and compliance. While custom-fabricated mouthguards provide superior protection and higher compliance through improved comfort and performance characteristics, boil-and-bite options represent appropriate middle-ground choices when properly fitted. Stock mouthguards are acceptable only when superior options are genuinely unavailable. Regardless of type, proper fitting, routine replacement as children grow, and maintenance ensure your young athlete receives continuous protection throughout their sporting career. The investment in a proper mouthguard—whether custom-made or carefully fitted boil-and-bite—is far less than the cost of treating a knocked-out tooth, jaw fracture, or other sports-related dental injury.
 
+## Key Takeaway
+
+Custom-fitted mouthguards provide superior protection for young athletes and encourage compliance through better comfort, while boil-and-bite options with proper fitting offer reasonable middle-ground protection and cost.
+
+## Related Articles
+
+- [Teeth Trauma Statistics in Sports](/article/teeth-trauma-statistics-in-sports.html)
+- [Athletic Drink Acidity Effects](/article/athletic-drink-acidity-effects.html)
+- [Teeth Grinding in Athletes: Stress Factor](/article/teeth-grinding-in-athletes-stress-factor.html)

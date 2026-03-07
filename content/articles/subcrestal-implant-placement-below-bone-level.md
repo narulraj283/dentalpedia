@@ -1,9 +1,9 @@
 ---
-title: Subcrestal Implant Placement - Below Bone Level Benefits and Protocols
+title: "Below-Bone Dental Implants: Why Your Dentist Might Place"
 slug: subcrestal-implant-placement-below-bone-level
 category: Dental Implants
 category_slug: dental-implants
-excerpt: "Clinical rationale for subcrestal implant positioning, crestal bone preservation mechanics, platform switching synergy, and prosthetic considerations."
+excerpt: "Learn why dentists place implants below the bone level for better appearance and long-term success."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Implant Prosthodontics
@@ -32,83 +32,94 @@ references:
   - title: "Brodie AM, Thompson GA. Coronal microsurgery for preservation of natural dentition. Dent Clin North Am. 2016;60(3):429-443."
     url: https://pubmed.ncbi.nlm.nih.gov/27336626
 ---
+## Introduction
 
-## Rationale for Subcrestal Implant Positioning
+When your dentist places a dental implant to replace a missing tooth, the depth at which they place it matters more than most patients realize. Placing an implant slightly below the bone level, rather than right at the bone surface, results in better-looking implants that last longer. Understanding why your dentist might recommend subcrestal placement helps you make informed decisions about your implant.
 
-Subcrestal implant placement represents a paradigm shift from the traditional concept of placing implants at the level of the alveolar crest. Subcrestal positioning, where the implant platform is intentionally placed 1-4 millimeters apical to the crestal bone level, has demonstrated superior clinical outcomes for crestal bone preservation and esthetic integration. The biological rationale centers on the establishment of a supracrestal connective tissue zone, which mimics natural tooth anatomy and provides a biological "buffer" against resorptive forces.
+## Why Below-Bone Placement Is Better
 
-The vertical bone resorption pattern observed with crestal implant placement follows a predictable trajectory: approximately 1.2 mm of bone loss occurs during the first year post-insertion, with progressive annual losses of 0.1-0.2 mm thereafter. In contrast, subcrestal positioning reduces first-year bone loss to 0.3-0.5 mm, representing a 60% reduction in initial resorption. This preservation of marginal bone translates directly to enhanced esthetic outcomes, as minimal recession reveals the underlying implant-supported restoration without exposure of gray metal implant threads or abutment margins.
+Your natural teeth have tissues above the bone that help maintain its shape and support the tooth. Learn more about [peri implantitis implant gum](/article/peri-implantitis-implant-gum-disease.html) for additional guidance. When a dental implant sits right at the bone level, your body needs to create these same tissues around the implant, which causes the bone to resorb (shrink). Bone loss is the main reason implants can look unnatural over time, with the implant becoming visible through the gum or the gum receding away from the implant.
 
-## Bone Remodeling Mechanics and Crestal Bone Preservation
+By placing the implant 1-4 millimeters below the bone level, your dentist pre-emptively creates the space your tissues need, eliminating the resorption. This keeps your bone and gums stable and in a better position for a natural-looking result.
 
-The mechanobiological basis for crestal bone resorption with crestal-level implants involves a concept termed "biological width equilibration." In natural teeth, the supracrestal connective tissue (epithelial attachment, junctional epithelium, and connective tissue fibers) occupies approximately 3.5 millimeters apical from the contact point to the alveolar crest in healthy periodontium. When implants are placed at the crestal level with standard abutment-implant junctions positioned at or above bone, tissues must remodel to reestablish this biological width, resulting in osteoclastic activity and marginal bone resorption until the tissues achieve dimensions of approximately 3.5 mm.
+Research shows the difference clearly: implants placed at the bone level lose about 1. Learn more about [sinus lift creating space](/article/sinus-lift-creating-space-for-upper-implants.html) for additional guidance.2 mm of bone in the first year, while subcrestal implants lose only 0.3-0.5 mm. Over 5-10 years, this difference is dramatic—the difference between a good-looking implant and one with visible problems.
 
-Subcrestal placement eliminates the need for extensive biological width remodeling. By positioning the implant-abutment junction 2-3 mm below the crestal bone, the pre-existing distance for tissue development is already satisfied, minimizing resorptive bone loss. Biomechanical analysis reveals that subcrestal positioning also distributes occlusal forces more favorably—the geometry of implant bodies and bone contact distributes vertical and lateral loads through a greater bone surface area, reducing localized stress concentrations that trigger osteoclastic remodeling.
+## Combined with Platform Switching
 
-Radiographic studies quantifying crestal bone levels in subcrestal versus crestal implant cohorts demonstrate this effect consistently. In a prospective 5-year study, crestal-placement implants experienced mean bone loss of 2.1 ± 0.7 mm, while subcrestal implants (positioned 2 mm below bone) experienced only 0.8 ± 0.4 mm loss, with difference most pronounced at the 1-year interval. The superior outcomes with subcrestal placement apply across different implant systems and designs, suggesting the benefit is related to biomechanical principles rather than implant-specific factors.
+The benefits are even better when subcrestal placement is combined with platform switching (where the crown's connection piece is narrower than the implant itself). Together, these techniques reduce bone loss by about 40-50% compared to implants placed at bone level without platform switching.
 
-## Platform Switching Synergy with Subcrestal Placement
+This means your implant looks natural not just immediately after placement but continues looking natural for decades.
 
-Platform switching—where the abutment diameter is smaller than the implant platform diameter, creating a horizontal offset at the implant-abutment interface—synergizes remarkably with subcrestal implant placement for crestal bone preservation. While platform switching alone reduces crestal bone loss by approximately 20-30%, combining platform switching with subcrestal placement provides additive benefits, reducing bone loss by 40-50% compared to crestal, non-switched implants.
+## Planning Your Subcrestal Implant
 
-The mechanical advantage of platform switching involves several factors. First, the offset platform geometry creates a "shelving" effect where bone contact geometry favors load transfer more favorably distributed than standard implant platforms. Second, platform switching positions the implant-abutment microgap (which serves as a nidus for bacterial colonization and immune-mediated osteoclastic activity) more apically, distancing it from the crestal bone zone most vulnerable to resorption. Third, the internal geometry of the abutment-implant interface—typically a Morse taper connection with platform switching—provides superior mechanical stability and sealing compared to external hex or internal hex connections without platform switching.
+Successful subcrestal placement requires careful planning:
 
-Clinical studies evaluating the combined effect demonstrate sustained benefits. In a 10-year prospective study, subcrestal implants with platform switching exhibited crestal bone loss of 0.7 ± 0.5 mm (stable after 3 years), while subcrestal implants without platform switching lost 1.1 ± 0.6 mm, and crestal-level switching implants lost 1.5 ± 0.7 mm. These differences are clinically significant for esthetic cases, where 1 mm of bone loss can convert an ideal esthetic outcome into one with visible recession and implant thread exposure. The platform switching benefit appears greatest in the anterior esthetic zone where bone loss of even 0.5-1.0 mm dramatically impacts smile esthetics and pink tissue contours.
+**3D planning.** Your dentist uses a 3D scan (CBCT) to visualize your bone, identify the proper implant position, and plan exactly how deep to place the implant.
 
-## Morse Taper Connections and Implant-Abutment Interface
+**Surgical guides.** A custom surgical guide ensures your dentist places the implant at the exact planned depth with precision. This level of accuracy is important for optimal esthetic outcomes.
 
-The implant-abutment interface configuration critically influences the success of subcrestal implant placement. Morse taper (or conical) connections, characterized by internal tapered geometries of typically 6-11 degrees, provide superior mechanical stability and microbial sealing compared to butt-join designs (internal or external hex). The Morse taper design creates line contact between the implant and abutment, distributing the seating force uniformly and preventing the rocking or micro-motion that occurs with non-tapered connections.
+**Possible bone shaping.** In some cases, your dentist might need to reshape the bone slightly to achieve the ideal position. This is done carefully to maintain adequate bone volume around the implant.
 
-The sealing properties of Morse taper connections are substantial. Microleakage studies using bacterial detection and dye penetration reveal that Morse taper connections limit bacterial ingress to <50 micrometers from the interface, compared to >100 micrometers for hex connections and >200 micrometers for butt-join designs. This superior sealing is critical in subcrestal implants, where the implant-abutment junction is positioned at or near bone level, directly adjacent to the supracrestal soft tissue and bone interface. Bacterial colonization and lipopolysaccharide (LPS) endotoxin leakage at the implant-abutment interface trigger macrophage infiltration and osteoclastic activation, directly contributing to crestal bone loss.
+## Soft Tissue Considerations
 
-Morse taper implants typically demonstrate internal geometries with 1.5-2.0 mm internal connection heights and conical angles of 6-11 degrees, with higher angles providing greater retention. The friction-fit seating mechanism means that abutments require careful seating—hand-seating alone is insufficient; seating devices or laboratory protocols ensuring proper taper engagement to the maximal depth are essential. Clinical insertion torque specifications for Morse taper abutments range from 25-45 Ncm depending on the implant system, with verification through insertion torque gauges confirming proper seating. Improper seating—common when clinicians hand-tighten abutments without reaching maximal insertion depth—results in micromotion and loss of the sealing advantage.
+The soft tissue (gum) around your implant is just as important as the bone. For the best esthetic results in the front of your mouth, you need adequate gum thickness (at least 1.5-2 mm). 
 
-## Crestal Bone Preservation and Mucosal Recession Prevention
+If your gum is thin, your dentist might recommend a soft tissue graft (taking gum tissue from another area of your mouth) done 4-6 weeks before implant placement. This ensures adequate soft tissue thickness to protect the implant and provide a natural appearance.
 
-The ultimate goal of subcrestal implant placement is preservation of crestal bone and prevention of mucosal recession that reveals implant threads, gray abutment margins, or implant body shadows through translucent thin gingiva. The esthetic implications are profound: patients with preserved crestal bone and healthy pink tissues experience high satisfaction with implant smiles, while those with 1-2 mm of recession and exposed implant-related structures frequently request retreatment despite functionally successful implants.
+## Custom Abutments for Esthetics
 
-The mucosal recession pattern with implants differs from natural teeth. Natural tooth recession follows a specific trajectory governed by inflammation; once inflammation resolves, recession stabilizes. Implant recession, in contrast, follows the resorbing bone contour, and continues so long as bone resorption continues. Thus, crestal bone preservation directly prevents soft tissue recession. Clinical studies quantifying soft tissue position changes demonstrate this relationship: patients with crestal bone loss >1.5 mm experience mean mucosal recession of 1.2 ± 0.4 mm, while those with stable bone (<0.5 mm loss) experience recession of only 0.2 ± 0.3 mm.
+With subcrestal placement, the connection between the implant and crown might be positioned below your gumline. To handle this, custom abutments (instead of prefabricated ones) are often recommended. These are precisely shaped to provide the right emergence profile—the transition from the implant to the crown that mimics a natural tooth.
 
-The thickness of the supracrestal soft tissue zone (epithelium, junctional epithelium, and connective tissue) also influences recession risk. In anterior esthetic zones, thin gingiva (<1.5 mm thickness) exhibits greater recession potential even with preserved bone. Subcrestal positioning allows thicker soft tissue zones to form by creating additional space apically. Some clinicians advocate soft tissue augmentation concurrent with implant placement when gingival biotype is thin; connective tissue grafts or acellular dermal matrix materials can thicken the supracrestal soft tissue by 1-2 mm, providing insurance against future recession.
+## What to Expect
 
-## Surgical Protocols for Subcrestal Placement
+**Timeline.** Plan for 4-6 months from implant placement to final crown, though sometimes shorter timelines are possible with excellent bone quality.
 
-Surgical technique for accurate subcrestal placement requires precise planning and intraoperative control. The primary challenge is establishing a reference point for proper implant depth positioning. Several surgical protocols address this:
+**Temporary crown.** A temporary crown guides soft tissue healing during the osseointegration period (when bone bonds to the implant).
 
-**Implant Planning and Positioning Template**: Cone beam computed tomography (CBCT) with surgical planning software allows 3D visualization of available bone, identification of vital structures (inferior alveolar canal, nasal floor, maxillary sinus), and precise pre-surgical implant positioning. Virtual implant placement defines the exact depth positioning required. Surgical guides fabricated from the digital plan ensure consistent positioning of drills and implants at the planned depth, reducing positional errors to <0.5 mm. Fully guided surgery using patient-specific surgical guides provides the most precise depth control, particularly valuable in esthetic cases where 1 mm positioning errors significantly impact outcomes.
+**Adjustments.** You'll have several follow-up appointments for adjustments and fine-tuning the final crown.
 
-**Intraoperative Depth Control**: When surgical guides are unavailable, intraoperative techniques ensure subcrestal placement. Pre-measured drill sleeves with depth stops can be positioned to control drilling depth relative to the crestal bone level. The surgeon identifies the crestal bone during the alveolectomy/osteotomy preparation, then uses the depth-stopped drills to ensure the final implant seating depth targets 2-3 mm apical to bone. Alternatively, custom abutments with predetermined emergence profiles can be used—the abutment is placed during surgery to verify that the implant platform sits at the intended subcrestal depth.
+## Questions to Ask Your Dentist
 
-**Bone Contouring and Alveolectomy**: Intentional bone contouring (alveolectomy) may be necessary to achieve subcrestal positioning in cases where natural bone morphology places the crest too coronally. For example, in maxillary anterior teeth with high bone crests, creating a slight depression around the implant site allows subcrestal positioning without over-preparing bone. This must be performed carefully to maintain adequate bone volume (minimum 6 mm mesio-distally, 7-8 mm bucco-lingually, and 8-10 mm apico-coronally around the implant body).
+When you visit your dentist to discuss subcrestal implant placement below bone level, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
 
-## Prosthetic Considerations and Abutment Selection
+It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
-The prosthetic design and abutment selection directly influence the success of subcrestal implant therapy. Several considerations are essential:
 
-**Abutment Type Selection**: 
-- *Stock abutments* (titanium or zirconia) pre-manufactured in discrete height and angulation combinations provide ready options but may not perfectly match the individual implant position or emergence profile requirements in anterior cases.
-- *Custom abutments* (milled from titanium, zirconia, or composite materials) allow precise customization of emergence profile, height, angulation, and subgingival contours to match natural tooth anatomy. Custom zirconia or ceramic abutments offer superior esthetics in anterior zones where implant positioning may require visualization of subgingival abutment contours through thin gingiva.
+## Tips for Long-Term Success
 
-**Emergence Profile Design**: The transitional contours of the abutment from implant body to crown are critical. Natural teeth exhibit a convex emergence profile bucco-lingually, with the widest bucco-lingual dimension approximately at the junction of the coronal and middle third of the root. Implant abutments should mimic this anatomy to support natural soft tissue contours and prevent soft tissue collapse or recession that accompanies concave or inadequate emergence profiles. For subcrestal implants, the emergence profile must smoothly transition from the narrow implant platform or abutment body to the broader anatomic contour of the crown, all within the confines of the supracrestal soft tissue zone.
+Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
 
-**Screw-Retained versus Cement-Retained Restorations**: Subcrestal implants complicate cement-retained restorations because the implant-abutment junction lies at or near soft tissue level. Excess cement not removed during delivery can remain subgingivally, triggering peri-implantitis. Screw-retained restorations eliminate this risk but may require custom abutments with screw-access channels that allow the crown screw-hole to be positioned lingually (out of esthetic view) rather than occlusally. Screw-retained restorations with custom abutments are generally preferred for subcrestal implants, particularly in anterior cases.
+Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
 
-## Clinical Management: Esthetic Zone Protocol
 
-For anterior single implants in the esthetic zone with subcrestal positioning:
+## When to Talk to Your Dentist
 
-1. **Pre-operative Planning (6-8 weeks pre-implant surgery)**: CBCT scanning with surgical planning software; graft assessment for gingival augmentation need; shade and smile analysis; esthetic wax-up or digital mock-up
+If you have any concerns about subcrestal implant placement below bone level, bringing them up at your next dental appointment is always a good idea. Your dentist has the training and experience to evaluate your situation and recommend the most appropriate course of action. Even concerns that seem minor can sometimes indicate an underlying issue that benefits from early attention.
 
-2. **Soft Tissue Augmentation (if needed)**: Connective tissue graft or acellular dermal matrix applied 4-6 weeks pre-implant surgery to achieve adequate gingival thickness (≥1.5-2.0 mm)
+Many patients find it helpful to write down their questions before an appointment. This ensures you don't forget anything important during your visit. Your dentist appreciates when you take an active role in your oral health, and open communication helps build a strong partnership between you and your dental care team. Remember that no question is too small or too simple to ask.
 
-3. **Implant Placement**: Fully-guided surgery or depth-controlled instrumentation targeting 2 mm subcrestal positioning; primary stability of ≥35 Ncm insertion torque; immediate or early loading based on bone quality and stability
+Pay attention to any changes in your mouth between dental visits. If you notice new symptoms like persistent pain, swelling, bleeding, or sensitivity, don't wait for your scheduled appointment. Contact your dental office to describe what you are experiencing, and they can advise whether you need to come in sooner.
 
-4. **Abutment Selection**: Custom zirconia abutment selected (rather than stock) to allow optimal emergence profile design and esthetic abutment contour if subgingival visualization is required
 
-5. **Provisional Restoration**: Placed 4-6 weeks post-implant (early loading) to guide soft tissue architecture; contours refined over subsequent healing (6-12 weeks)
+## Prevention and Daily Care
 
-6. **Final Restoration**: Definitive crown delivered 4-6 months post-implant; screw-retained design preferred to avoid excess cement
+One of the best ways to protect your dental health is through consistent daily care. Brushing your teeth at least twice a day with fluoride toothpaste removes plaque and bacteria that can lead to decay and gum disease. Using a soft-bristled toothbrush and gentle circular motions helps clean your teeth effectively without damaging your enamel or irritating your gums.
+
+Flossing once daily reaches the areas between your teeth that your toothbrush cannot access. These tight spaces are common spots where food particles and plaque collect, so regular flossing plays an important role in preventing cavities and gum problems. If traditional floss is difficult to use, ask your dentist about alternatives like water flossers or interdental brushes.
+
+Your diet also has a significant impact on your oral health. Limiting sugary snacks and acidic beverages helps protect your tooth enamel from erosion. Drinking plenty of water throughout the day rinses away food particles and keeps your mouth hydrated. Crunchy fruits and vegetables like apples, carrots, and celery can help clean your teeth naturally between brushings.
+
 
 ## Conclusion
 
-Subcrestal implant placement has become the standard of care for esthetic implant cases, supported by decades of clinical evidence demonstrating superior crestal bone preservation, reduced soft tissue recession, and improved long-term esthetic outcomes. Combined with platform switching, Morse taper connections, and careful prosthetic design, subcrestal positioning provides the optimal biologic and mechanical environment for implant success and patient satisfaction.
+Subcrestal implant placement, often combined with platform switching and soft tissue optimization, provides superior esthetic and functional outcomes. While it requires more careful planning, the long-term benefits—better bone preservation, healthier soft tissues, and more natural appearance—make it the standard of care for esthetic implant cases.
+
+## Key Takeaway
+
+Placing your implant slightly below the bone level preserves bone and gums, resulting in an implant that looks natural and lasts longer than implants placed at bone level.
+
+## Related Articles
+
+- [Peri-Implantitis: Implant Gum Disease](/peri-implantitis-implant-gum-disease)
+- [Sinus Lift: Creating Space for Upper Implants](/sinus-lift-creating-space-for-upper-implants)
+- [Single Tooth Implant: Replacing One Tooth](/single-tooth-implant-replacing-one-tooth)
