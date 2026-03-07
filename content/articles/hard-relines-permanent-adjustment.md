@@ -114,6 +114,14 @@ Frequency depends on individual bone resorption rate, age, and overall health
 
 Your dentist monitors fit at regular visits and recommends relines when needed. More frequent adjustments prevent problems from worsening. Some denture-wearers benefit from more frequent short appointments rather than one major reline appointment.
 
+## The Bone Resorption Timeline
+
+Understanding bone loss helps you appreciate why relines are necessary. When you first lose teeth, bone beneath your denture shrinks rapidly during the first year as your body adjusts to tooth loss and stops stimulating bone maintenance. This is why initial relines are needed within 6-12 months. After that initial period, bone continues resorbing but at a slower, more predictable rate. The second reline might not be needed for 5-10 years, but it will eventually be needed. Some patients live their entire lives making only 2-3 relines on a single denture; others need more frequent relines depending on their individual bone loss rate. Medications, health conditions, and age all influence resorption speed.
+
+## Adjustment After Relining
+
+After your denture returns from the laboratory with the new reline, your dentist checks fit carefully. They verify that the reline material is in full contact with your entire jaw (not just partial contact), adjust any high spots causing discomfort, and polish the entire surface. Sometimes the dentist makes small adjustments on the reline itself, smoothing areas that feel rough or uneven. You should feel an immediate difference in stability compared to your loose denture—the improvement in retention is often noticeable right away.
+
 ## Conclusion
 
 Hard relines restore proper denture fit and retention as your jaw shape changes from bone loss. The process is straightforward, relatively inexpensive, and extends denture life significantly. Regular monitoring by your dentist and timely relines keep dentures fitting well and functioning properly.

@@ -121,6 +121,16 @@ When your child starts school or spends time with peers, some awareness of their
 
 If habits aren't broken before braces, they complicate treatment. Tongue thrust opposes braces; thumb sucking can break brackets. Breaking habits before orthodontics improves treatment outcomes and reduces treatment duration. Some orthodontists won't start treatment until habits are resolved because they know the treatment will fail otherwise.
 
+## Working With Your Pediatric Dentist
+
+Your pediatric dentist becomes an essential partner in habit-breaking. They understand child development and have experience with thousands of children breaking these habits. Regular dental visits every 3-6 months during the habit-breaking process help monitor progress and adjust strategies as needed. Your dentist can recommend local specialists like speech-language pathologists for tongue thrust retraining or behavioral therapists if your child has anxiety or stress contributing to the habit.
+
+Communication between you, your dentist, and your child creates the best outcomes. Your dentist views habit-breaking as a long-term partnership, not a quick fix. They celebrate small wins and adjust strategies when something isn't working.
+
+## Cost and Time Investment
+
+Breaking habits takes time—usually weeks to months. The good news: pediatric dentists don't charge extra for habit-breaking counseling; it's part of preventive care. Specialized appliances (if needed) typically cost $300-800 and are often covered by insurance since they prevent malocclusion that would require expensive orthodontics later. Early intervention saves money by preventing the need for major orthodontic correction.
+
 ## Conclusion
 
 Thumb sucking and tongue thrust are common childhood habits. While age-appropriate thumb sucking is normal, persistent habits can affect bite development. Effective intervention combines positive reinforcement, addressing triggers, appliances if needed, and professional guidance. Success requires consistency and often the child's motivation to change.

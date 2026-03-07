@@ -108,3 +108,9 @@ Your final shade is limited by your starting shade and tooth structure. Very dar
 > **Key Takeaway:** Professional whitening typically achieves 4-8 shade improvement (dramatic visible change) lasting 6-12 months, with tooth sensitivity affecting 60-80% of patients but resolving within 1-2 weeks, and affordable maintenance touch-ups sustaining results long-term.
 
 **Learn More:** Explore [tooth color changes over time](/article/best-practices-for-tooth-color-changes.html), understand [shade matching for restorations](/article/best-practices-for-teeth-shade-matching.html), and learn about [preventing tooth decay](/article/best-practices-for-tooth-decay-prevention.html).
+
+## Related Articles
+
+- [Best Practices For Teeth Shade Matching](/article/best-practices-for-teeth-shade-matching.html)
+- [Best Practices For Tooth Color Changes](/article/best-practices-for-tooth-color-changes.html)
+- [Best Practices For Smile Makeover Planning](/article/best-practices-for-smile-makeover-planning.html)

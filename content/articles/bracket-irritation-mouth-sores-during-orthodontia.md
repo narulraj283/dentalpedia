@@ -118,3 +118,8 @@ If you keep getting sores in the same spot, your orthodontist might need to repo
 
 **Related articles:** [Bracket Bonding and Adhesive Placement](/article/bracket-bonding-adhesive-placement.html) | [Braces Discomfort Relief: What You Need to Know](/article/braces-discomfort-relief-what-you-need-to-know.html) | [Braces Pain and Discomfort: First Week Experience](/article/braces-pain-and-discomfort-first-week-experience.html)
 
+## Related Articles
+
+- [Braces Discomfort Relief Complete Guide](/article/braces-discomfort-relief-complete-guide.html)
+- [Bracket Bonding Adhesive Placement](/article/bracket-bonding-adhesive-placement.html)
+- [Braces Pain And Discomfort First Week Experience](/article/braces-pain-and-discomfort-first-week-experience.html)

@@ -87,6 +87,18 @@ If you notice any warning signs, increase your home care intensity immediately�
 
 Research increasingly links gum disease to systemic health problems—heart disease, stroke, diabetes complications, respiratory infections, and pregnancy complications. The relationship is bidirectional: gum disease increases systemic disease risk, and systemic diseases (like diabetes) increase gum disease risk. This connection emphasizes why gum disease prevention is important for your overall health, not just your teeth.
 
+## Building Habits That Stick
+
+Prevention requires habits, not just knowledge. You probably know you should brush and floss, but actually doing it every day is harder than understanding it. The secret to building lasting habits: start small and attach new habits to existing routines. Brush before your morning coffee (attach to existing routine). Floss after your evening meal (attach to eating routine). Don't try to overhaul everything at once—one change at a time is more sustainable. Use habit trackers (phone apps, calendars, or even a simple checklist) to track your consistency. Most habits become automatic after 3-4 weeks of consistent daily practice—what feels effortful initially becomes second nature.
+
+## What to Do If You Notice Early Signs
+
+If you notice bleeding when you floss or brush, don't panic. Bleeding indicates your gums are inflamed from plaque accumulation—a completely reversible situation. Increase your flossing consistency (daily), brush more carefully, and continue for 1-2 weeks. Most people see bleeding resolve within 7-10 days of improved oral hygiene. If bleeding persists beyond 2 weeks despite diligent care, or if it's accompanied by other signs (swelling, pain, bad breath), contact your dentist. Early intervention prevents progression to periodontitis.
+
+## Nutrition and Lifestyle for Gum Health
+
+Beyond the basics of brushing and flossing, your overall health supports gum health. Adequate sleep, regular exercise, and stress management all boost immune function, which helps your body control bacteria. A balanced diet rich in vitamin C (citrus, berries, vegetables) and minerals (calcium, phosphorus) specifically supports gum tissue health and bone strength. Staying hydrated supports saliva production, which has protective properties. These lifestyle factors aren't gimmicks—they're science-backed contributors to your body's ability to maintain healthy gums.
+
 ## Conclusion
 
 Gum disease prevention is straightforward: brush, floss, visit your dentist regularly, and manage risk factors like smoking. Most people who develop gum disease could have prevented it with consistent daily care. Make these habits automatic, and you'll enjoy healthy gums for life.

@@ -104,3 +104,9 @@ If a porcelain veneer chips by less than 1mm, it can be repaired with composite 
 > **Key Takeaway:** Composite veneers last 6-10 years and are easily repaired, while porcelain veneers last 10-20+ years with minimal maintenance, but success for both depends more on careful preparation and your bite habits than the material itself.
 
 [Learning about your bite](/article/best-practices-for-traditional-vs-invisible-braces.html) | [Preparation and installation details](/article/best-practices-for-veneer-installation-steps.html) | [Understanding margin placement](/article/bevel-and-finish-line-placement-cosmetic-margins.html)
+
+## Related Articles
+
+- [Best Practices For Veneer Installation Steps](/article/best-practices-for-veneer-installation-steps.html)
+- [Best Practices For Tooth Gap Closure](/article/best-practices-for-tooth-gap-closure.html)
+- [Bevel And Finish Line Placement Cosmetic Margins](/article/bevel-and-finish-line-placement-cosmetic-margins.html)

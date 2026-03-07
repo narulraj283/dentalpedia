@@ -92,6 +92,22 @@ During root canal treatment, you shouldn't feel the files moving inside your too
 
 Your endodontist determines working length—how deep the file should go—using X-rays and electronic length measurement. Accuracy prevents pushing material beyond the root tip, which can cause pain and periapical inflammation. Electronic apex locators are remarkably accurate, helping your endodontist work precisely at the appropriate depth.
 
+## The Dance Between Files and Irrigation
+
+What many patients don't realize is that files alone don't do all the work. The chemical irrigation solutions (sodium hypochlorite and chlorhexidine) are equally important as the mechanical action of files. These chemicals dissolve tissue that files can't physically remove, kill bacteria that files don't directly contact, and flush away debris. Your endodontist alternates between file work and irrigation—use a file, irrigate, use a larger file, irrigate again. This back-and-forth ensures maximum cleaning effectiveness. The entire process is methodical but not rushed; quality preparation prevents treatment failure.
+
+## Instrument Materials and Advances
+
+Modern files are made from nickel-titanium (NiTi), a material that's more flexible than older stainless steel files. This flexibility allows files to navigate curved canals more safely without breaking. Some files have special designs with cutting flutes optimized for different purposes. Your endodontist selects file sequences designed for your tooth's anatomy. Understanding that your endodontist has carefully selected specific files and sequences for your particular situation—rather than just using the same technique for every tooth—shows how personalized root canal treatment truly is.
+
+## What Happens to Files After Use
+
+Used files are carefully cleaned to remove all debris and tissue, then sterilized in an autoclave. If a file shows any sign of damage or dulling, it's discarded—only sharp, undamaged files are used clinically. This ensures maximum cutting efficiency and safety.
+
+## Time Investment in Proper Instrumentation
+
+The instrumentation phase typically takes 30-60 minutes depending on tooth complexity, canal number, and curvature. Some teeth have straight, wide canals that instrument quickly. Others have severely curved, narrow canals that require meticulous, slower work. Your endodontist won't rush this phase—thorough instrumentation is foundation-critical for long-term success. You're actually seeing excellent patient care when your appointment takes longer; it means your endodontist is working methodically rather than hastily.
+
 ## Conclusion
 
 Hand files are essential endodontic tools that clean and shape root canals. When used with proper technique, they safely and effectively remove infected tissue and bacteria, essential for root canal success. Understanding their role helps you appreciate the care your endodontist takes during treatment.

@@ -116,6 +116,18 @@ Professional cleaning typically combines:
 
 This multi-modal approach ensures thorough cleaning and optimal disease control.
 
+## Pain and Sensitivity Management
+
+Your dentist manages discomfort throughout instrumentation. Local anesthesia numbs your mouth, so you feel pressure and vibration but not pain. However, some people feel sensitivity near the gumline where the root surface is exposed. Your dentist can apply topical anesthetic gel to these sensitive areas before instrumentation. If you're still uncomfortable, signal your dentist—they can provide additional local anesthetic. Some patients benefit from taking ibuprofen 30 minutes before their appointment to reduce post-treatment inflammation. Your dentist wants you comfortable; speaking up about discomfort during treatment ensures they can adjust their approach.
+
+## Post-Treatment Sensitivity and Recovery
+
+It's normal to have some sensitivity for 1-2 weeks after deep cleaning. Cold water, cold air, and sweet foods might trigger sensitivity. Using a soft toothbrush, sensitivity toothpaste, and being gentle when brushing helps. Avoid acidic foods and drinks temporarily, as they increase sensitivity. Most sensitivity resolves completely within 2-3 weeks as your gums heal and the root surface toughens. If sensitivity persists beyond 2-3 weeks, see your dentist—occasionally a root canal or bonded restoration is needed to address persistent sensitivity.
+
+## How Often Is Deep Cleaning Needed?
+
+If your dentist detects gum disease, deep cleaning is a one-time or occasional treatment depending on disease severity. Your dentist might recommend one 4-quadrant deep cleaning, or might stage it over 2-4 appointments (one quadrant at a time), depending on your overall health and disease severity. After initial deep cleaning, your dentist monitors you with regular maintenance cleanings every 3-4 months to prevent disease recurrence. Once disease is controlled, you might eventually return to regular 6-month cleanings if your gum health improves.
+
 ## Conclusion
 
 Hand scalers and curettes are essential gum disease treatment tools. When properly used, they effectively remove tartar and bacteria from subgingival areas, essential for disease control. Understanding how these instruments work helps you appreciate your treatment.

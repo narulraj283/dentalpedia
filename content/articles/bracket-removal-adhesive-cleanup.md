@@ -93,3 +93,8 @@ Many orthodontists recommend: nightly retainer wear for the first year after tre
 
 **Related articles:** [Bracket Bonding and Adhesive Placement](/article/bracket-bonding-adhesive-placement.html) | [Bracket Placement and Exact Positioning](/article/bracket-placement-exact-positioning.html) | [Braces Food Restrictions: What You Need to Know](/article/braces-food-restrictions-what-you-need-to-know.html)
 
+## Related Articles
+
+- [Bracket Placement Exact Positioning](/article/bracket-placement-exact-positioning.html)
+- [Bracket Bonding Adhesive Placement](/article/bracket-bonding-adhesive-placement.html)
+- [Best Practices For Retainer Importance](/article/best-practices-for-retainer-importance.html)

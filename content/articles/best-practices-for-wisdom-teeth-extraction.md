@@ -117,3 +117,9 @@ Systematic patient questioning at postoperative visits regarding sensory changes
 Evidence-based third molar management emphasizes extraction indication rigor—restricting extraction to symptomatic or pathological cases rather than prophylactic extraction of asymptomatic teeth. When extraction is indicated, preoperative assessment through panoramic radiography and CBCT (in high-risk cases) enables surgical planning that optimizes outcomes.
 
 Operative technique emphasizing minimal tissue trauma, careful bone removal with heat control, strategic tooth sectioning to reduce force requirements, and meticulous hemostasis combines with chlorhexidine-based alveolar osteitis prevention protocols to minimize morbidity. Comprehensive informed consent addressing realistic complication risks (alveolar osteitis 5-15%, transient paresthesia 0.5-2%, permanent sensory loss 0.05-0.5%) and postoperative instructions emphasizing smoking avoidance, pain management optimization, and swelling reduction strategies substantially improve patient outcomes and satisfaction. Systematic monitoring at 1-week and 3-month intervals enables early identification of delayed complications requiring intervention.
+
+## Related Articles
+
+- [Best Practices For Recovery Timeline](/article/best-practices-for-recovery-timeline.html)
+- [Best Practices For Tooth Extraction Recovery](/article/best-practices-for-tooth-extraction-recovery.html)
+- [Best Practices For Surgical Complications](/article/best-practices-for-surgical-complications.html)

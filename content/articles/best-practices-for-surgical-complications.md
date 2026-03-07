@@ -199,3 +199,9 @@ Before your procedure:
 > **Key Takeaway:** Most surgical complications are prevented through proper pre-operative assessment, gentle technique, meticulous post-operative care, and your compliance with instructions—serious complications are rare when both dentist and patient do their part.
 
 **Read more**: [Recovery After Extraction](/article/best-practices-for-recovery-after-extraction.html) | [Recovery Timeline](/article/best-practices-for-recovery-timeline.html)
+
+## Related Articles
+
+- [Best Practices For Recovery Timeline](/article/best-practices-for-recovery-timeline.html)
+- [Best Practices For Tooth Extraction Recovery](/article/best-practices-for-tooth-extraction-recovery.html)
+- [Best Practices For Wisdom Teeth Extraction](/article/best-practices-for-wisdom-teeth-extraction.html)

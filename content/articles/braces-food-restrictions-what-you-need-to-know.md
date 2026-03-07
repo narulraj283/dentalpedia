@@ -121,3 +121,8 @@ Think about what you'll feel like when your braces come off on time because you 
 
 **Related articles:** [Braces Food Restrictions: Complete Guide](/article/braces-food-restrictions-complete-guide.html) | [Braces Discomfort Relief: What You Need to Know](/article/braces-discomfort-relief-what-you-need-to-know.html) | [Braces Pain and Discomfort: First Week Experience](/article/braces-pain-and-discomfort-first-week-experience.html)
 
+## Related Articles
+
+- [Braces Food Restrictions Complete Guide](/article/braces-food-restrictions-complete-guide.html)
+- [Braces Care Instructions What You Need To Know](/article/braces-care-instructions-what-you-need-to-know.html)
+- [Braces Pain And Discomfort First Week Experience](/article/braces-pain-and-discomfort-first-week-experience.html)

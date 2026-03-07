@@ -97,3 +97,8 @@ The most successful patients work with their orthodontist to create a personaliz
 
 **Related articles:** [Braces Pain and Discomfort: First Week Experience and Management Protocols](/article/braces-pain-and-discomfort-first-week-experience.html) | [Braces Food Restrictions: What You Need to Know](/article/braces-food-restrictions-what-you-need-to-know.html) | [Bracket Irritation and Mouth Sores During Orthodontia](/article/bracket-irritation-mouth-sores-during-orthodontia.html)
 
+## Related Articles
+
+- [Braces Discomfort Relief Complete Guide](/article/braces-discomfort-relief-complete-guide.html)
+- [Braces Pain And Discomfort First Week Experience](/article/braces-pain-and-discomfort-first-week-experience.html)
+- [Braces Food Restrictions What You Need To Know](/article/braces-food-restrictions-what-you-need-to-know.html)

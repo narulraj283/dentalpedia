@@ -104,6 +104,18 @@ Teeth that have been traumatically injured might need root canal treatment, even
 
 Restored teeth need the same care as natural teeth—brushing, flossing, and professional monitoring. If you've had a crown or other restoration after injury, protect it by avoiding hard foods and proper oral care.
 
+## Follow-Up Appointments and Monitoring
+
+Don't miss follow-up appointments after an oral injury. Your dentist wants to verify healing is progressing normally, check for signs of infection, and monitor teeth for complications. Even if an injury seems to have healed fine, ongoing monitoring catches problems early. Sometimes teeth that seem fine initially develop problems weeks or months later. Regular monitoring catches these before they become serious.
+
+## Returning to Normal Activities After Injury
+
+Return to normal activities gradually. Soft foods for the first 1-2 weeks. Return to normal eating as swelling resolves and comfort improves. Gentle brushing around injured areas for the first week or two, then return to normal brushing. Return to sports with a mouthguard after healing is complete (typically 2-3 weeks). Avoid high-risk activities immediately after injury.
+
+## Insurance and Cost Considerations
+
+If your injury was accident-related, your health insurance might cover treatment costs. Some accidents are covered under homeowner's or auto insurance depending on circumstances. Cosmetic restoration (making a restored tooth appear identical to the original) might not be covered, but emergency treatment usually is. Ask your dentist about insurance coverage and out-of-pocket costs.
+
 ## Conclusion
 
 Oral injuries need prompt evaluation. For knocked-out teeth, speed is critical—get to your dentist immediately. For other injuries, apply ice, manage bleeding, and seek professional care within 24 hours if the injury is significant.

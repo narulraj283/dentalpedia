@@ -122,6 +122,18 @@ Surprisingly, pain management relates to hemostasis. Pain increases heart rate a
 
 **Aspirin and NSAIDs:** These have minor bleeding effects and usually don't require special precautions or dose adjustment.
 
+## What Excessive Bleeding Feels Like During Surgery
+
+If you're aware during your procedure, you might notice if bleeding is occurring. Your surgeon's suction might work more frequently, or you might taste blood. This doesn't indicate a problem—your surgeon is simply managing the bleeding. You shouldn't feel pain (you're numb), just awareness of activity. If something makes you uncomfortable or nervous, raise your hand or signal your surgeon—they can pause and give you additional anesthetic or a break.
+
+## Long-Term Clot Stability
+
+The clot that forms after surgery should remain stable for 7-10 days while new bone and tissue form. During this critical healing period, protect your clot from disturbance. Avoid smoking (smoke irritates and can dislodge clots), don't use straws (suction can pull out clots), avoid vigorous rinsing, and don't poke the area with your tongue. These aren't restrictions forever—just during the first week while the clot is most vulnerable. After a week, the clot is more established and stable, though you should continue gentle care for another week or two.
+
+## Infection Risk Related to Hemostasis
+
+When hemostasis is successful and clots form properly, infection risk decreases because good blood flow (enabled by clot stability) delivers infection-fighting cells to the area. A well-controlled surgical site heals faster and cleaner than one with ongoing bleeding or poor hemostasis. This is another reason your surgeon prioritizes hemostasis—it's not just about stopping bleeding; it's about creating optimal healing conditions.
+
 ## Conclusion
 
 Hemostasis—controlling surgical bleeding—is essential for safe, successful dental surgery. Your surgeon uses multiple techniques adapted to your individual situation. Proper hemostasis allows efficient surgery, clear visualization, and normal healing. Understanding hemostasis helps you appreciate your surgeon's care and follow post-operative instructions properly.

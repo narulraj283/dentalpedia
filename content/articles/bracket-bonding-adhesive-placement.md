@@ -107,3 +107,8 @@ Before bonding, ask: Are you using direct or indirect bonding? What type of adhe
 
 **Related articles:** [Bracket Placement and Exact Positioning](/article/bracket-placement-exact-positioning.html) | [Bracket Removal and Adhesive Cleanup](/article/bracket-removal-adhesive-cleanup.html) | [Braces Food Restrictions: What You Need to Know](/article/braces-food-restrictions-what-you-need-to-know.html)
 
+## Related Articles
+
+- [Bracket Placement Exact Positioning](/article/bracket-placement-exact-positioning.html)
+- [Bracket Removal Adhesive Cleanup](/article/bracket-removal-adhesive-cleanup.html)
+- [Bracket Irritation Mouth Sores During Orthodontia](/article/bracket-irritation-mouth-sores-during-orthodontia.html)

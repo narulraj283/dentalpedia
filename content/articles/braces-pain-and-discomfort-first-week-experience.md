@@ -103,3 +103,8 @@ Patients should receive written pain management instructions detailing: timing o
 
 First-week orthodontic pain represents normal physiological response to mechanical force application, typically peaking 24-36 hours post-placement and resolving completely within 7-10 days. Immediate NSAID administration (ibuprofen 200-400 mg, naproxen sodium 220 mg), cryotherapy, soft diet maintenance, and gentle oral hygiene minimize discomfort while preserving treatment effectiveness. Supplementary topical anesthetics and low-level laser therapy further optimize patient comfort in pain-sensitive populations. Clinicians should assess pain intensity at each visit, document responses, and adjust management protocols based on individual tolerance. Patient education emphasizing temporary pain nature, combined with evidence-based interventions, enhances treatment satisfaction and improves long-term compliance in >85% of patients.
 
+## Related Articles
+
+- [Braces Discomfort Relief Complete Guide](/article/braces-discomfort-relief-complete-guide.html)
+- [Braces Food Restrictions Complete Guide](/article/braces-food-restrictions-complete-guide.html)
+- [Bracket Irritation Mouth Sores During Orthodontia](/article/bracket-irritation-mouth-sores-during-orthodontia.html)

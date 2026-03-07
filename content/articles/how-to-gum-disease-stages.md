@@ -99,6 +99,18 @@ The key is catching gum disease early and committing to treatment. Gingivitis re
 
 But at each stage, you must commit to better home care and comply with professional recommendations. Many people improve initially, then regress when they return to old habits. Gum disease management requires ongoing discipline—it's not a one-time treatment but a lifestyle commitment.
 
+## The Reversibility Question
+
+An important distinction: gingivitis is completely reversible—once you eliminate inflammation, your gums return to perfect health with no lasting damage. Periodontitis, once bone is lost, is not fully reversible. You can stop further progression and stabilize, but bone doesn't regrow. This is why early detection matters so much. Catching disease at the gingivitis stage means you get a complete cure. Catching it at the early periodontitis stage means you can still prevent additional bone loss, though the bone already lost won't come back.
+
+## What Happens If You Ignore Warning Signs
+
+If you see bleeding and ignore it, disease progresses. You might go months without symptoms while disease silently worsens—bones shrinking, more teeth becoming involved. Then one day you notice your teeth feel slightly loose, or your bite feels different. By then, significant bone loss has occurred. Ignoring early warning signs hoping they'll resolve is how people reach severe stages. Every month of delay makes treatment more complex and outcomes less favorable. That's why your dentist stresses prompt evaluation of warning signs—early action prevents catastrophic progression.
+
+## Staging Determines Treatment Aggressiveness
+
+Your dentist assigns a stage based on probing depths, bone loss, and other measurements. This staging determines how aggressive your treatment needs to be. Gingivitis treatment is simple home care adjustments. Early periodontitis needs scaling and root planing. Moderate periodontitis might need surgery. Severe periodontitis might require extraction and replacement. The stage also determines follow-up frequency—gingivitis might need nothing more than regular brushing and flossing with regular professional cleanings. Severe periodontitis needs professional visits every 3 months indefinitely. Understanding your stage helps you understand why your dentist recommends the specific treatment and follow-up plan they suggest.
+
 ## Conclusion
 
 Gum disease progresses from reversible gingivitis to irreversible periodontitis. Early detection and aggressive treatment at the gingivitis or early periodontitis stage gives you the best chance of keeping your teeth long-term. Ignoring symptoms and delaying treatment allows disease to progress to severe stages where tooth loss becomes likely.

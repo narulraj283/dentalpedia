@@ -109,3 +109,8 @@ At the end of your treatment, when your brackets come off, your orthodontist wil
 
 **Related articles:** [Bracket Bonding and Adhesive Placement](/article/bracket-bonding-adhesive-placement.html) | [Bracket Removal and Adhesive Cleanup](/article/bracket-removal-adhesive-cleanup.html) | [Braces Food Restrictions: What You Need to Know](/article/braces-food-restrictions-what-you-need-to-know.html)
 
+## Related Articles
+
+- [Bracket Bonding Adhesive Placement](/article/bracket-bonding-adhesive-placement.html)
+- [Bracket Removal Adhesive Cleanup](/article/bracket-removal-adhesive-cleanup.html)
+- [Braces Benefits Complete Guide](/article/braces-benefits-complete-guide.html)

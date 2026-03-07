@@ -115,3 +115,8 @@ Bring your own questions and concerns to your dental visits. Your pediatric dent
 
 **Related articles:** [Braces Food Restrictions: What You Need to Know](/article/braces-food-restrictions-what-you-need-to-know.html) | [Oral Health Habits: Complete Guide](/article/oral-health-habits-complete-guide.html)
 
+## Related Articles
+
+- [Best Practices For Tooth Decay Prevention](/article/best-practices-for-tooth-decay-prevention.html)
+- [Best Practices For Saliva Importance](/article/best-practices-for-saliva-importance.html)
+- [Bottle Feeding And Early Childhood Caries](/article/bottle-feeding-and-early-childhood-caries.html)
