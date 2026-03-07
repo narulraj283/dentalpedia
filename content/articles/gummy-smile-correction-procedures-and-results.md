@@ -11,104 +11,132 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 reviewed: true
 references:
-  - title: "Etiology and Classification of Excessive Gingival Display (Gummy Smile)"
+  - title: "Etiology and Classification of Excessive Gingival Display"
     url: https://pubmed.ncbi.nlm.nih.gov/28407947/
-  - title: "Esthetic Perception of Gingival Display: Patient and Clinician Perspectives"
+  - title: "Esthetic Perception of Gingival Display"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12897
-  - title: "Anterior Alveolar Bone Height and Gingival Display: Morphometric Analysis"
+  - title: "Crown Lengthening for Gummy Smile"
     url: https://pubmed.ncbi.nlm.nih.gov/27516176/
-  - title: "Botulinum Toxin for Gummy Smile Treatment: Mechanism and Clinical Applications"
+  - title: "Botulinum Toxin for Gummy Smile"
     url: https://pubmed.ncbi.nlm.nih.gov/26541152/
-  - title: "Surgical Crown Lengthening and Osseous Recontour for Gummy Smile Correction"
+  - title: "Surgical Treatment of Gummy Smile"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12901
-  - title: "Laser-Assisted Gingival Contouring and Smile Design Optimization"
+  - title: "Laser-Assisted Gingival Contouring"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jdi.13063
-  - title: "Lip Repositioning Surgery and Vertical Maxillary Advancement for Gummy Smile"
+  - title: "Lip Repositioning Surgery"
     url: https://pubmed.ncbi.nlm.nih.gov/24960262/
-  - title: "Esthetic Outcomes of Multimodal Gummy Smile Treatment Approaches"
+  - title: "Esthetic Outcomes of Gummy Smile Treatment"
     url: https://onlinelibrary.wiley.com/doi/full/10.1111/jcpe.12847
-  - title: "Treatment Planning for Gummy Smile: Integration of Periodontal and Orthodontic Approaches"
-    url: https://pubmed.ncbi.nlm.nih.gov/28407976/
 ---
 
-Excessive gingival display during smiling—commonly termed "gummy smile"—affects 10-30% of the population and represents a significant esthetic concern for many patients. While clinically benign, gummy smile significantly impacts patient confidence and satisfaction with their smile. Modern treatment options encompassing non-surgical and surgical approaches enable customized correction based on underlying etiology. This comprehensive review examines classification, treatment selection, and clinical outcomes.
+## Fixing Your Gummy Smile: Options and Results
 
-## Classification and Etiological Assessment
+A gummy smile—showing too much gum tissue when smiling—affects 10-30% of people and bothers many of them cosmetically. Treatment options range from simple non-surgical approaches to surgical procedures depending on the underlying cause. Understanding your options helps you make informed decisions.
 
-Gummy smile classification systems guide treatment selection. Excessive gingival display is defined as >3 millimeters of visible gingiva during full smile. Mild gummy smile displays 3-7 millimeters; moderate displays 8-10 millimeters; severe exceeds 10 millimeters of gingival exposure.
+## What Causes a Gummy Smile?
 
-The etiology determines optimal treatment approach. Excessive vertical maxillary development (skeletal anterior maxillary height exceeding normal proportions) represents the most common cause (40-50% of cases). These patients demonstrate increased anterior facial height, with maxillary molars positioned superiorly creating clockwise rotation of the occlusal plane. Dental compensation occurs with increased maxillary incisor eruption to maintain incisor contact.
+**Excessive Vertical Jaw Growth:** The most common cause (40-50%). Your upper jaw naturally developed more height than typical. Teeth erupt more fully, exposing more gingiva.
 
-Hypermobility or hyperactivity of the upper lip musculature—causing elevation of the lip above normal levels during smiling—accounts for 15-20% of cases. These patients have normal skeletal and dental anatomy but excessive lip movement reveals gingiva during full smiling.
+**Hyperactive Lip Muscles:** 15-20% of cases involve muscles pulling your lip higher than normal during smiling, revealing excessive gingiva.
 
-Altered passive eruption, where teeth erupt normally but the gingival tissue does not recede to the appropriate level relative to the cemento-enamel junction (CEJ), creates short clinical crown appearance with excessive exposed gingiva. Approximately 15-25% of gummy smile cases involve altered passive eruption.
+**Altered Passive Eruption:** 15-25% involves teeth erupting normally but gingival tissue not receding appropriately, making teeth appear short and gingiva excessive.
 
-Short teeth or microdontia (teeth developmentally smaller than normal) with normal gingival levels creates disproportionate gingiva-to-tooth-crown ratio. Restorative or orthodontic tooth lengthening may address this etiology.
+**Short Teeth:** Teeth naturally smaller than normal or appearing short from excessive gingival coverage.
 
-Combined etiologies occur frequently—patients may demonstrate mild skeletal vertical excess combined with moderate lip hyperactivity. Treatment planning must address all contributing factors for optimal esthetic outcome.
+**Combined Causes:** Many people have multiple contributing factors.
 
-## Non-Surgical Treatment: Botulinum Toxin Injection
+[Learn about professional cleanings and what they remove](/article/professional-cleanings-what-they-remove-that-home-care-cant.html). [Discover best practices for wisdom teeth extraction](/article/best-practices-for-wisdom-teeth-extraction.html). [Understand digital scanning for modern impressions](/article/digital-scanning-modern-impression.html).
 
-Botulinum toxin (Botox) injection into the levator labii superioris (LLS), zygomaticus major, and buccinator muscles reduces muscle contractility, limiting lip elevation during smiling. The procedure involves ultrasound or anatomical landmark identification of target muscles, with 4-8 units of botulinum toxin injected per muscle to achieve balanced smile correction.
+## Non-Surgical Options
 
-Clinical onset requires 3-5 days, with maximum effect at 2-3 weeks. Duration of effect averages 3-4 months, requiring repeat injections for sustained correction. Patient satisfaction with botulinum toxin treatment exceeds 85% in studies specifically addressing lip hyperactivity etiology, with minimal adverse effects when properly dosed.
+**Botulinum Toxin Injection:** Injected into lip muscles to reduce muscle contraction during smiling. Results appear within 3-7 days, lasting 3-4 months. Works best for muscle hyperactivity causing excessive lip elevation. Cost-effective but temporary.
 
-Advantages of botulinum toxin include non-surgical administration, rapid onset, reversibility (allowing treatment discontinuation), and ability to combine with other treatments. Disadvantages include temporary duration requiring ongoing treatment commitment, difficulty achieving complete elimination of gummy smile in severe cases, and risk of over-correction creating unnatural smile if excessive dosing occurs.
+**Orthodontics:** Can sometimes improve gummy smile through intrusion of upper teeth or maxillary repositioning. Works only for appropriate cases.
 
-Botulinum toxin works optimally in patients with hypermobile lip representing primary gummy smile etiology. Patients with significant skeletal contribution benefit less from botulinum toxin alone, requiring additional interventions addressing skeletal anatomy.
+## Surgical Treatment
 
-## Surgical Crown Lengthening and Osseous Contouring
+**Crown Lengthening:** Gingival tissue and bone are surgically contoured to make teeth appear longer and reduce excessive gingival display. Excellent for teeth appearing short from excessive gingival coverage. Results are permanent.
 
-Surgical crown lengthening involves apical repositioning of the gingival margin through soft tissue and osseous (bone) removal. The procedure physically shortens the amount of visible gingiva by moving the gingival zenith (highest point of gingival contour) more apically. This approach directly addresses excessive gingival display by reducing exposed tissue height.
+**Lip Repositioning:** Surgical reduction of the vertical distance muscle contracts, lowering lip position. Permanent results, addresses muscle hyperactivity causes.
 
-The procedure typically involves either apical positioning of the gingival flap alone or combined with osseous surgery. Flap-only approaches achieve approximately 1-2 millimeters of gingival apical repositioning. Combined flap and osseous surgery achieves 3-5 millimeters repositioning by removing bone creating space for deeper final gingival position.
+**Maxillary Surgery:** For severe skeletal vertical excess, surgical advancement can reposition upper jaw. Complex procedure with significant recovery but addresses root cause.
 
-Osseous recontouring—reshaping alveolar bone to eliminate excessively prominent anterior alveolar ridge—reduces the biological width (distance from alveolar crest to CEJ) requirement. Bone removal allows final gingival position closer to tooth crown, creating shorter clinical crown appearance with less exposed gingiva.
+**Gingival Contouring:** Gingival tissue is sculpted to create proper contours and reduce visible gingiva. Often combined with other procedures.
 
-Clinical outcomes from crown lengthening show 80-90% of patients achieve satisfactory gingival level reduction in moderate cases. Severe cases may require combination approaches. Gingival scars typically heal imperceptibly, with final esthetics improving over 6-12 months as tissues mature.
+**Laser-Assisted Contouring:** Lasers precisely remove excess gingiva with minimal bleeding and faster healing than surgical knives.
 
-Complications include temporary or permanent root sensitivity from exposed dentin, though sensitivity typically decreases over months. Altered tooth-to-crown ratios may require restorative treatment if teeth appear too short relative to optimal proportions. Vertical bone loss from osseous surgery may compromise future implant or restorative options if significant bone is removed.
+## Assessing Your Candidacy
 
-## Lip Repositioning Surgery
+Success depends on identifying your cause. Crown lengthening works best for altered passive eruption where teeth are naturally short because gingiva hasn't receded properly. Lip repositioning works for muscle hyperactivity causing excessive lip elevation. Orthodontics works for appropriate skeletal cases where tooth intrusion can reduce gingival display. Maxillary surgery addresses severe skeletal vertical excess but is complex and rarely chosen purely for esthetics.
 
-Lip repositioning techniques surgically elevate and stabilize the maxillary lip in a more superior position, reducing gingival display during smiling. Various techniques including lip repositioning (removing mucosa and/or muscle superiorly and suturing at higher position), frenectomy combined with muscle alteration, and muscle repositioning have been described.
+Your dentist or periodontist assesses your cause through examination and imaging, recommending appropriate treatment. They might use digital photography and smile analysis to show you exactly what's happening and what different treatments would achieve. Digital technology allows visualization of predicted outcomes before treatment, helping you make informed decisions.
 
-Surgical approaches vary: full-thickness lip procedures remove labial mucosa and underlying muscle, creating higher resting lip line and reducing smile elevation. Submucosal approaches remove or reposition muscle without removing mucosa, affecting dynamic smile characteristics with less alteration of resting appearance.
+Your surgeon will also assess your bone quantity and gingival thickness, ensuring you're a good surgical candidate. Some people have inadequate bone or tissue for surgical treatment, making conservative approaches or different procedures more appropriate.
 
-Success rates from lip repositioning surgery exceed 85% in reducing gummy smile in patients with hypermobile lips. Combined approaches addressing both muscular and skeletal components achieve optimal esthetics. Results are permanent, unlike botulinum toxin requiring ongoing injections.
+## Results and Expectations
 
-Potential complications include over-correction creating reduced smile animation, altered lip sensation from nerve manipulation, and asymmetries if procedures are not perfectly executed. Short-term swelling and bruising typically resolve within 2-4 weeks. Patient satisfaction remains high (80-90%) when patient expectations align with realistic outcomes.
+Non-surgical (botulinum toxin): 60-80% reduction in gingival display, lasting 3-4 months.
 
-## Maxillary Vertical Reduction Surgery
+Surgical crown lengthening: 70-90% reduction in gingival display, permanent results.
 
-Severe skeletal anterior maxillary excess creating significant vertical facial height and gummy smile may warrant maxillary surgical advancement or intrusion. Le Fort I osteotomy with maxillary impaction (upward repositioning) reduces vertical maxillary dimensions, correcting gummy smile etiology. These procedures represent major surgical interventions requiring orthodontic coordination and multiple-day hospitalization.
+Lip repositioning: 50-80% reduction, permanent results.
 
-Indications for skeletal surgery include severe gummy smile (>8 millimeters gingival display) with skeletal anterior maxillary excess creating significant facial esthetic and functional concerns beyond gummy smile alone. Orthognathic surgical planning integrates correction of vertical excess with other potential skeletal discrepancies including anteroposterior or transverse deficiencies.
+Combined approaches: Often superior results addressing multiple causes.
 
-Outcomes from maxillary impaction show excellent gummy smile correction—typically reducing visible gingiva by 5-8 millimeters or more. Combined with other surgical corrections, optimal facial proportions and smile esthetics can be achieved. Recovery requires 4-8 weeks for functional return, with complete healing and final esthetics developing over 6-12 months.
+Full esthetic results typically stabilize 4-8 weeks after surgery, with continued improvement over 6 months.
 
-Complications include relapse (partial loss of surgical correction) occurring in 20-30% of cases, particularly with greater correction magnitude. Occlusal changes may require postoperative orthodontia. Potential sensory changes in teeth and hard palate typically resolve within 3-6 months.
+## Recovery and Aftercare
 
-## Restorative and Orthodontic Approaches
+**Crown Lengthening:** 1-2 weeks of discomfort, 2-4 weeks of swelling, 6-8 weeks to see final results.
 
-Restorative correction of gummy smile may involve porcelain veneers, composite restorations, or complete crowns increasing visible tooth crown height. Longer restorations reduce relative gingival visibility by increasing tooth-to-gingiva proportion. Optimal results require conservative preparation preserving tooth structure and maintaining natural-appearing restoration length proportions.
+**Lip Repositioning:** 1-2 weeks of surgical discomfort, temporary speech changes, 2-4 weeks until comfortable function.
 
-Composite veneer additions can lengthen anterior teeth 2-3 millimeters, substantially reducing gummy smile appearance. Veneers create improved smile line proportions at lower cost and with less tooth preparation compared to full crowns. Longevity averages 5-10 years with periodic polishing and repair.
+**Botulinum Toxin:** Minimal downtime, some swelling possible, results appear over days.
 
-Orthodontic treatment addressing skeletal maxillary protrusion or anterior open bite may secondarily reduce gummy smile in select patients. Intrusion of maxillary anterior teeth combined with skeletal correction reduces gingival display. Orthodontic treatment alone rarely resolves significant gummy smile, but contributes to comprehensive treatment in multimodal cases.
+Avoid aggressive tooth brushing and flossing in treated areas during initial healing. Pain medication and antibiotics as prescribed prevent complications.
 
-## Treatment Planning Algorithm
+## Longevity
 
-Optimal gummy smile treatment requires integration of etiological assessment with patient goals and preferences. Patients with isolated hypermobile lips show excellent response to botulinum toxin or lip repositioning surgery. Patients with altered passive eruption or excessive gingival display from excessively prominent anterior ridge benefit from crown lengthening surgery.
+Botulinum toxin is temporary (3-4 months). Surgical procedures provide permanent results, though aging changes gums and lips over years. Maintenance procedures may be needed decades later.
 
-Patients with mild-to-moderate skeletal anterior maxillary excess benefit from combination approaches: orthodontia addressing sagittal and vertical dimensions with maxillary intrusion, possibly combined with gingival reduction surgery or botulinum toxin for dynamic smile control. Patients with severe skeletal deficiency may warrant orthognathic surgical consultation.
+## Complications (Rare)
 
-Combined surgical approaches addressing multiple contributing etiologies achieve superior results compared to single-modality treatment. Patient age, healing capacity, and tolerance for recovery time influence procedure selection. Younger patients may benefit from more definitive surgical approaches, while older patients may prefer lower-morbidity options.
+**Excessive Tissue Loss:** Crown lengthening removes tissue—excessive removal can look unnatural. Proper technique prevents this.
 
-## Long-Term Outcomes and Stability
+**Altered Smile:** Changes to gingival contours slightly alter smile esthetics. This usually looks improved, but expectations should be realistic.
 
-Results from gummy smile correction procedures show excellent long-term stability when appropriate procedures address identified etiologies. Surgical correction results remain stable indefinitely. Botulinum toxin effects require perpetual maintenance with 3-4 month injection intervals. Patient satisfaction with outcomes exceeds 85% across most treatment modalities in appropriately selected cases.
+**Healing Issues:** Post-operative infection or delayed healing is rare with proper care but possible.
 
-Esthetic improvements extend beyond gummy smile reduction—patients typically report substantially improved confidence, increased smiling, and improved quality of life following successful treatment. These psychological benefits often exceed expectations and justify treatment investment in motivated patients.
+**Tooth Sensitivity:** Some temporary sensitivity to tooth roots exposed during crown lengthening, usually resolving with time or desensitizing treatments.
 
-Understanding gummy smile etiology through careful clinical assessment, combined with multimodal treatment addressing all contributing factors, enables predictable, satisfactory correction. Modern treatment options accommodate diverse patient preferences, from temporary non-surgical interventions to permanent surgical solutions, enabling optimization of smile esthetics and patient satisfaction.
+## What to Expect: Consultation and Treatment Planning
+
+When you consult about gummy smile correction, your dentist will perform comprehensive assessment. They'll examine your smile, take photos and measurements, evaluate your bite, and discuss your concerns. They'll show you before-and-after examples of similar cases. They'll explain what's realistic for your situation—sometimes complete elimination isn't achievable, but significant improvement is.
+
+If surgical treatment is recommended, your dentist will discuss timing (allowing any orthodontics to complete first), recovery expectations, and costs. They'll explain the specific procedure they recommend and why it's best for your cause.
+
+## Cost and Insurance Considerations
+
+Gummy smile correction is typically considered cosmetic and not covered by insurance. Botulinum toxin injections cost $300-600 per session (lasting 3-4 months). Crown lengthening surgery ranges from $1,500-4,000 depending on how many teeth are involved. Lip repositioning typically costs $2,000-5,000. Combined approaches cost more but often provide superior results. Ask your dentist for specific pricing before proceeding.
+
+## Timeline to Results
+
+Results don't appear immediately. Botulinum toxin requires 3-7 days to show effect and 2 weeks to peak effect. Surgical crown lengthening shows initial results within 2 weeks but takes 6-8 weeks for swelling to fully resolve and 6 months for complete maturation. This extended timeline is why patience matters—judging results too early gives an incomplete picture.
+
+## Combination Approaches
+
+Many patients benefit from combining approaches. Crown lengthening plus orthodontics addresses both gingival and skeletal components. Lip repositioning plus crown lengthening addresses multiple causes. Often these combined approaches yield superior esthetic results compared to single treatments, though they require longer recovery and higher costs.
+
+## Conclusion
+
+Gummy smile treatment depends on underlying cause. Non-surgical botulinum toxin injection works for muscle hyperactivity but is temporary. Surgical approaches (crown lengthening, lip repositioning) address causes effectively and permanently. Combined approaches often yield optimal esthetic results. Understanding your cause allows selection of appropriate treatment.
+
+## Key Takeaway
+
+Gummy smile treatment options vary from temporary botulinum toxin injection to permanent surgical procedures depending on underlying cause. Proper assessment determines which approach works best for your situation.
+
+## Related Articles
+
+- [Professional cleanings: What they remove that home care can't](/article/professional-cleanings-what-they-remove-that-home-care-cant.html)
+- [Best practices for wisdom teeth extraction](/article/best-practices-for-wisdom-teeth-extraction.html)
+- [Digital scanning: Modern impressions](/article/digital-scanning-modern-impression.html)

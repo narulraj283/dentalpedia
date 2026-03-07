@@ -29,78 +29,138 @@ references:
     url: "https://pubmed.ncbi.nlm.nih.gov/21976429/"
 ---
 
-## Overview
+## Saving Teeth With Gum Disease By Regenerating Bone
 
-Guided tissue regeneration (GTR) represents a scientifically established surgical approach for restoring periodontal tissues—cementum, periodontal ligament, and alveolar bone—that have been destroyed by periodontitis. The technique employs physical barrier membranes to selectively exclude epithelial tissue migration while permitting repopulation of the periodontal defect by bone-forming and periodontal ligament-forming cells. This selective compartmentalization enables regeneration of functional periodontal attachment supporting tooth viability and stability. Decades of clinical evidence demonstrate that GTR procedures achieve predictable regeneration in intrabony periodontal defects, with radiographic defect fill averaging 60-80% and clinical attachment gain of 2-4mm in sites treated with barrier membranes compared to scaling and root planing alone. The technique has become increasingly refined through membrane technology advancement, incorporation of growth factors and graft materials, and refined surgical protocols optimizing conditions for periodontal regeneration.
+When gum disease gets serious, it destroys the bone and ligament supporting your teeth. Once that supporting system is gone, your teeth loosen and can eventually fall out. But there's a remarkable procedure called guided tissue regeneration (GTR) that can actually regrow some of that lost bone and ligament.
 
-## Pathophysiology of Periodontal Defects
+GTR is different from regular periodontal treatment. Instead of just cleaning away disease and hoping the tissue grows back randomly, GTR creates controlled conditions that guide your body to rebuild the specific structures it lost.
 
-Understanding the pathophysiologic basis of periodontal defects and the biological events following surgical intervention establishes the scientific rationale for GTR implementation. Periodontitis destroys all three periodontal tissues through bacterial virulence factors and host inflammatory response, creating infrabony defects characterized by apical bone loss, root surface exposure, and absence of functional periodontal attachment. Untreated, these defects progress apically, eventually resulting in tooth loss. Following traditional scaling and root planing (SRP), the epithelium heals by proliferation at rapid rates (approximately 0.5mm/day), while periodontal ligament and osteoblasts migrate more slowly (approximately 0.1mm/day from surrounding tissues and apical regions of the defect). The rapid epithelial proliferation establishes a long junctional epithelium along the previously diseased root surface without regenerating functional periodontal attachment, essentially sealing the defect with epithelial tissue rather than restoring periodontal structures.
+The procedure uses a barrier membrane—the same concept as in bone regeneration for implants, but applied to saving your natural teeth. The membrane blocks epithelial tissue (the thin layer lining your mouth) from growing into the defect, giving slower-moving bone and periodontal ligament cells a chance to colonize the space first. The result? Your tooth gets new supporting bone and ligament, restoring stability and attachment.
 
-GTR fundamentally alters this healing sequence by physically excluding epithelium while maintaining optimal conditions for slower-migrating osteogenic and ligament-forming cells. The barrier membrane creates a protected space that allows selectively migration of cells from the periodontal ligament within the remaining tooth root structure and from the bone marrow and bone surface surrounding the defect. Bone-forming cells and periodontal ligament fibroblasts, freed from competition with rapidly proliferating epithelium, gradually repopulate the defect space. Over 4-12 weeks, these cells progressively restore bone, cementum formation, and functional periodontal ligament attachment, converting a potentially extractable tooth into one with restored periodontal support.
+## Understanding Why Your Gums Need Help Healing
 
-## Classification of Periodontal Defects Suitable for Regeneration
+Here's the fundamental problem with untreated gum disease. When periodontitis destroys bone and ligament around a tooth, the body tries to heal. But the fastest-growing cells in the area are epithelial cells—they multiply about five times faster than bone cells or ligament cells.
 
-Periodontal defects demonstrate variable anatomy affecting GTR outcomes and appropriateness. Intrabony defects (vertical or angular defects with bone walls on mesial and/or distal aspects) respond optimally to GTR, with defect fill rates frequently exceeding 70%. These defects are classified by remaining bone wall configuration: two-wall defects (bone walls remaining on mesial and distal aspects but not facial) demonstrate superior regeneration compared to one-wall defects (bone wall remaining on only one aspect). Shallow defects (less than 4mm depth) regenerate less predictably as defect volume limits space available for bone formation. Three-wall defects (bone walls on mesial, distal, and facial aspects) demonstrate the most favorable biology for regeneration, as the contained geometry maintains optimal cell migration patterns and protects developing tissues from external mechanical forces.
+So what happens naturally? The epithelial cells win the race and quickly cover over the defect. They form what's called a "long junctional epithelium"—basically scar tissue sealing the pocket. The tooth gets a band-aid instead of real healing. Without the supporting ligament and bone, the tooth remains loose and destined for loss.
 
-Furcation defects represent a specialized periodontal lesion affecting multirooted teeth, where bone loss extends into the space between root processes. Class I furcation defects (early horizontal bone loss not extending beyond the furcation entrance) respond favorably to GTR or non-surgical management. Class II defects (horizontal bone loss extending beyond the furcation entrance but not completely through the furcation) demonstrate moderate response to regenerative procedures. Class III furcation defects (complete through-and-through bone loss) respond poorly to regeneration due to lack of contained space and extensive epithelial migration. Crater defects (interproximal bone loss with bone remaining on facial and lingual aspects) present less favorable anatomy for regeneration compared to true intrabony defects and may benefit from alternative approaches including enamel matrix derivative application.
+GTR changes this scenario. By placing a barrier membrane, your periodontist gives the slower-growing cells—bone-forming cells and ligament-forming cells—a protected space to work in. The epithelial cells are blocked out. Over the next several weeks, cells from your tooth root, from the bone around the defect, and from bone marrow gradually repopulate the defect space and regenerate real periodontal structures. It's not scar tissue—it's new functional attachment.
 
-## Membrane Selection and Biologic Properties
+## Types of Gum Disease Defects GTR Can Help
 
-Barrier membrane characteristics substantially influence GTR outcomes. Non-resorbable membranes, particularly expanded polytetrafluoroethylene (ePTFE), demonstrate excellent biocompatibility, complete epithelial exclusion, and minimal tissue integration, requiring removal after 4-6 weeks. The ePTFE material maintains dimensional stability throughout healing and effectively maintains space for periodontal regeneration. However, exposure of non-resorbable membranes to the oral environment occurs in approximately 10-30% of cases, potentially reducing regenerative outcomes if early exposure permits epithelial tissue ingrowth. Exposed ePTFE membranes require removal but not necessarily complete tissue regeneration abandonment, as bone formation frequently occurs despite membrane exposure.
+Your periodontist can tell by how much bone remains around the defect whether GTR will work well for you.
 
-Resorbable membranes, composed of collagen (derived from porcine dermis or bovine tendon), polylactic acid, or other biopolymers, are progressively degraded through proteolytic activity and gradual tissue remodeling. Collagen membranes provide excellent biocompatibility, promote hemostasis (particularly valuable in post-operative bleeding control), and resorb over 4-12 weeks depending on material composition. Resorbable membranes eliminate the need for removal surgery while maintaining tissue-protective properties during critical healing phases. Contemporary collagen membranes demonstrate regenerative outcomes comparable to non-resorbable membranes (defect fill of 65-75% vs. 70-80% with ePTFE), with superior safety profiles regarding oral exposure. The biologic properties of collagen membranes, including incorporation into healing tissues and stimulation of tissue repair mechanisms, represent potential advantages over completely biologically inert ePTFE, though evidence regarding superior outcomes remains inconsistent across clinical studies.
+**The Best Candidates**: Vertical or angular bone defects—where bone loss is deeper and contained by remaining bone on multiple sides—respond best to GTR. These defects often have bone remaining on two or even three sides (mesial, distal, and facial). This remaining bone acts like the walls of a container, helping direct cell migration and protecting the developing new bone. When two or three sides of bone remain, bone fill often reaches 70 percent or more. [Learn about fissure sealants that prevent decay](/article/fissure-sealant-application-child-prevention.html).
 
-Hybrid membranes combining elements of both material types represent emerging technologies, incorporating biologic collagen components with plastic polymer reinforcement to enhance mechanical properties while maintaining biologic activity. These membranes require further clinical validation to establish superiority over existing membrane types, though preliminary evidence suggests excellent tissue integration with strong mechanical properties.
+**Moderate Candidates**: Some defects have bone remaining on only one side. These still respond reasonably well to GTR, but the outcomes aren't quite as predictable or complete as the better-contained defects.
 
-## Surgical Protocol and Procedural Technique
+**Furcation Defects**: When bone loss extends into the space between the roots of a multirooted tooth (a furcation defect), GTR can help if it's caught early. Early-stage furcation defects respond decently. Advanced furcations where the defect goes completely through the furcation respond poorly to regeneration.
 
-Optimal GTR outcomes require meticulous surgical technique optimizing tissue healing conditions and membrane positioning. Pre-operative assessment utilizes cone-beam computed tomography or conventional radiography to determine defect volume, remaining bone wall configuration, and anatomic relationships to adjacent vital structures. Defects amenable to regeneration typically possess two or three remaining bone walls with adequate defect depth (minimum 4mm for predictable regeneration) and contained geometry.
+Your periodontist will take special X-rays to see exactly what type of defect you have and whether GTR is likely to succeed.
 
-The surgical approach involves elevation of a full-thickness flap designed to provide complete defect access while maintaining adequate facial and lingual soft tissue coverage for membrane. The critical periodontal lesion area undergoes thorough debridement, removing all calculus, contaminated cementum, and granulation tissue using area-specific curettes or ultrasonic instrumentation. Scaling must achieve complete removal of all calculus deposits extending to the apical extent of the osseous defect. Root surface instrumentation aims to create a biocompatible surface supporting cell adhesion and periodontal ligament regeneration—some studies suggest that complete cementum removal improves outcomes by exposing dentin surfaces rich in growth factors, though this remains somewhat controversial.
+## Choosing the Right Membrane
 
-The membrane placement follows complete defect preparation and debridement. Non-resorbable membranes typically require fixation with microplates or bone tacks to maintain dimensional stability throughout healing. Membrane extension should reach 3-4mm beyond the alveolar ridge margin and extend apically to the apex of the defect while remaining fully subperiosteal. Graft material incorporation varies among practitioners; some surgeons place bone graft or bone substitute material beneath the membrane to maintain defect volume and provide osteogenic scaffold, while others employ GTR without supplemental graft material, relying on tissue regeneration from the surrounding periodontal ligament and bone margins.
+Your periodontist has two main choices of barriers.
 
-Primary flap closure over the membrane proves essential for preventing bacterial contamination and epithelial ingrowth. Closure tension should remain minimal to prevent flap blanching or impaired vascular supply. Interrupted sutures maintained for 2-3 weeks facilitate healing without tension. Membrane exposure, should it occur, typically becomes apparent at 2-4 weeks post-operatively and necessitates membrane removal or meticulous local wound care to prevent infection while preserving underlying regenerating tissues.
+**Non-Resorbable Membranes (e-PTFE)**: These are made from tough, durable plastic that your body can't break down. They provide excellent barrier function and don't dissolve—they maintain their shape perfectly. The advantage is complete protection throughout healing. The disadvantage is you need a second surgery 4-6 weeks later to remove the membrane. Also, in about 10-30 percent of cases, the membrane becomes exposed through the gums, though this doesn't necessarily mean the regeneration fails—bone often forms anyway.
 
-## Growth Factors and Regenerative Adjuncts
+**Resorbable Membranes (Collagen-Based)**: These are made from animal-derived collagen that your body gradually breaks down and absorbs over 4-12 weeks. You don't need a second surgery—your body takes care of removing the membrane. They work almost as well as non-resorbable membranes in terms of regenerative outcomes (65-75 percent defect fill vs. 70-80 percent). They also promote better tissue healing by providing biological signals that enhance recovery. If exposed to the mouth, collagen membranes are actually safer than non-resorbable ones because your body can just absorb them.
 
-Incorporation of growth factors and biologic molecules has emerged as a complementary approach to GTR membrane therapy, with evidence suggesting enhanced regenerative outcomes through accelerated cell proliferation and differentiation. Bone morphogenetic protein (BMP), transforming growth factor-beta (TGF-β), and fibroblast growth factor (FGF) have demonstrated ability to enhance bone formation and periodontal regeneration in pre-clinical models and select clinical studies. The FDA-approved enamel matrix derivative (EMD), containing proteins from developing tooth enamel, demonstrates growth factor activity and enhances periodontal regeneration when applied to instrumented root surfaces during GTR procedures.
+Most modern periodontists prefer resorbable membranes because the single-stage surgery is less invasive, though both types work well.
 
-Clinical evidence supporting combined GTR with EMD shows improved attachment gain (approximately 3.6mm with EMD + GTR vs. 2.8mm with GTR alone) and enhanced bone fill compared to GTR monotherapy. EMD application precedes membrane placement, coating the instrumented root surface to promote cellular interactions and growth factor signaling. The precise mechanisms through which EMD enhances regeneration remain subject of ongoing investigation, though evidence suggests enhanced recruitment and differentiation of periodontal ligament progenitor cells.
+## What Happens During Your GTR Procedure
 
-Platelet-derived growth factors (PDGF) and similar autologous growth factors derived from patient blood represent alternative biologic approaches, though evidence regarding superiority over membrane-based approaches remains limited. The current evidence suggests that barrier membrane properties remain the primary determinant of regenerative outcome, with growth factor adjuncts providing supplemental enhancement rather than independently driving substantial tissue regeneration.
+Your periodontist carefully plans the surgery beforehand. They'll take special X-rays to understand exactly what your defect looks like, how deep it goes, and whether there's enough remaining bone to make GTR worthwhile.
 
-## Defect Characteristics Predicting Regenerative Success
+**Surgical Access**: Your periodontist makes an incision to expose the bone defect. The flap is designed to give complete access to the problematic area while preserving enough tissue to cover the membrane afterward.
 
-Clinical outcomes of GTR demonstrate substantial variation based on pre-operative defect characteristics and surgical technique factors. Defects with three remaining bone walls demonstrate regenerative outcomes exceeding 80% defect fill, substantially superior to one-wall defects (typically 40-50% defect fill). Defect volume and depth appear inversely correlated with regenerative outcomes—very shallow defects (less than 3mm depth) and extremely deep defects (greater than 9mm depth) demonstrate reduced regeneration compared to moderate-depth defects (4-8mm). Defects in posterior regions demonstrate superior regeneration compared to anterior teeth, possibly due to superior vascularity and periodontal ligament dimensions in posterior teeth.
+**Thorough Debridement**: All calculus (tartar) is carefully removed from the root surface and the bone. This is critical—any remaining calculus will prevent healing and regeneration. The periodontist uses special curettes (hand instruments) to thoroughly clean every millimeter, making sure the root surface is completely clean down to the apex of the defect.
 
-Tooth type influences outcomes, with molars demonstrating superior regeneration to incisors and canines. Class I furcation defects respond favorably to GTR (60-70% defect fill) while Class II furcations demonstrate less consistent regeneration. Pre-operative attachment loss magnitude correlates directly with regeneration capacity; teeth with less than 5mm pre-operative attachment loss demonstrate better regenerative outcomes than severely compromised teeth with 8+ mm attachment loss. Patient factors including smoking (substantially reducing regenerative outcomes), diabetes (particularly with poor glycemic control), and age appear to influence outcomes, though age itself shows minimal correlation with regeneration in non-smoking patients.
+**Root Surface Preparation**: Some periodontists believe that lightly removing the cementum (outer layer of the root) exposes underlying dentin that contains growth factors enhancing regeneration. Others preserve as much cementum as possible. Your periodontist will choose based on their experience and the specific defect.
 
-## Long-term Outcomes and Regenerative Stability
+**Membrane Placement**: The membrane is positioned over the cleaned defect, extending 3-4 millimeters above the bone crest (the top edge of the remaining bone). It needs to stay completely subperiosteal (under the tissue lining the bone). For non-resorbable membranes, the periodontist might secure it with tiny plates or bone tacks to keep it absolutely stable.
 
-Long-term stability of regenerated tissues represents a critical measure of GTR success. Ten-year follow-up studies demonstrate that regenerated attachment gains remain relatively stable, with modest resorption of approximately 10-20% of the initially gained attachment. Clinical attachment gains of 3-4mm achieved at regenerative surgery are frequently maintained at 3-5mm at 10-year evaluation, substantially superior to sites treated with scaling and root planing alone, which demonstrate continuous progression of attachment loss over equivalent time periods. Radiographic bone levels similarly demonstrate stability with long-term regeneration, though complete restoration to pre-disease levels occurs in less than 20% of sites.
+**Sometimes a Graft**: Some periodontists place bone graft material or bone substitute under the membrane to help maintain the space and provide a scaffold. Others rely on regeneration from surrounding tissues alone. Both approaches can work.
 
-Functional periodontal attachment (assessed through probing stability, absence of inflammation, and suppressed bacterial colonization) appears achieved in most successfully regenerated sites. Regenerated periodontal ligament demonstrates histologic characteristics of functional ligament including proper fiber orientation, vascularity, and cellular composition. This regenerated functionality substantially improves prognosis for regenerated teeth, with long-term extraction rates for successfully regenerated sites (less than 5% over 10 years) substantially lower than for teeth with persistent, untreated periodontal defects.
+**Closure**: The gum tissue is stitched back over the membrane, and the wound heals underneath. Closure must be tension-free so the blood supply isn't compromised.
 
-## Integration with Comprehensive Periodontal Treatment
+## The Healing Timeline
 
-GTR should be conceptualized as one component of comprehensive periodontal therapy rather than as a standalone treatment approach. Non-surgical therapy (scaling and root planing, plaque control instruction, modification of risk factors) must precede regenerative surgery, as uncontrolled periodontal disease and inadequate plaque control severely compromise outcomes. Post-regenerative maintenance therapy becomes particularly critical, as the regenerated tissues remain vulnerable to recurrent periodontal disease. Supportive periodontal therapy at 3-4 month intervals, rigorous patient home care, and modification of risk factors (particularly smoking cessation) are essential for maintaining regenerative gains. Sites that successfully maintain plaque control and receive appropriate supportive care demonstrate sustained benefits over decades, while sites with inadequate maintenance frequently develop recurrent disease affecting the regenerated tissues.
+Regeneration doesn't happen overnight. Here's what takes place under the surface:
 
-## References
+**Weeks 1-2**: A blood clot forms and wound healing begins. Vascularity (blood supply) increases. Early inflammatory response and cleaning up of any remaining unhealthy tissue happens.
 
-Gottlow, J., Nyman, S., Lindhe, J., Karring, T., & Wennström, J. (1986). New attachment formation in the human periodontium by guided tissue regeneration. Journal of Clinical Periodontology, 13(6), 604-616.
+**Weeks 2-4**: This is the critical window. Bone-forming cells and periodontal ligament cells gradually migrate into the space from the bone and ligament around the defect's margins. The epithelial cells are blocked by the membrane, so these slower-growing cells have their chance.
 
-Cortellini, P., & Tonetti, M. S. (2011). Clinical application of the stem cell-containing supraalveolar angulated flap for regenerative purposes: a proof-of-concept study. Journal of Clinical Periodontology, 32(4), 413-419.
+**Weeks 4-12**: New bone and ligament tissue forms. The periodontal ligament, which anchors your tooth to the bone, begins to regenerate. New cementum (a bone-like substance covering the root) forms. Blood vessels grow throughout the new tissue.
 
-Sculean, A., Donos, N., Blaes, A., & Lauermann, M. (2000). Long-term results following treatment of intra-bony periodontal defects with enamel matrix proteins. Journal of Clinical Periodontology, 27(5), 347-352.
+**By 3 Months**: Enough new bone and attachment has usually formed to substantially improve tooth stability and pocket depth.
 
-Heijl, L., Nygren, H., & Lendahl, U. (1997). Wound healing following treatment of intra-bony periodontal defects with enamel matrix derivative (Emdogain) in humans. Journal of Clinical Periodontology, 24(10), 724-729.
+**By 6 Months**: Regeneration is essentially complete, and the tissues have matured.
 
-Trombelli, L., Simonelli, A., Pramstraller, M., Wikesjo, U. M., & Farina, R. (2010). Single flap approach with and without guided tissue regeneration and a bioactive enamel matrix derivative in intra-bony periodontal defects. Journal of Clinical Periodontology, 32(5), 540-546.
+Your periodontist might take new X-rays at 3-6 months to assess how much bone has filled back in.
 
-Mörmann, W., & Ciancio, S. G. (1992). Guided tissue regeneration in furcation defects. Journal of Clinical Periodontology, 19(2), 106-112.
+## Adding Growth Factors for Better Results
 
-Mayfield, L., & Liljenberg, B. (1999). Guided tissue regeneration and the progression of furcation-involved teeth. Journal of Clinical Periodontology, 26(4), 240-245.
+Some periodontists enhance GTR by adding biological molecules that stimulate tissue growth.
 
-Murphy, K. G., Gunsolley, J. C. (2003). Guided tissue regeneration for the treatment of periodontal intrabony and furcation defects. Annals of Periodontology, 8(1), 266-302.
+**Enamel Matrix Derivative (EMD)**: This is a protein extract from developing tooth enamel that contains growth factors. When applied to the instrumented root surface before placing the membrane, it accelerates cell migration and bone formation. Studies show that GTR combined with EMD produces better results than GTR alone—about 3.6 millimeters of new attachment compared to 2.8 millimeters with GTR alone.
+
+These additions aren't always necessary, but they can improve outcomes, especially in challenging defects.
+
+## Success Rates and What to Expect
+
+GTR is a reliable procedure with predictable outcomes when done properly.
+
+**Defect Fill**: On X-rays, treated bone defects typically fill 60-80 percent. In many cases, you'll see significant bone regrowth that was previously gone.
+
+**Clinical Attachment Gain**: Most patients gain 2-4 millimeters of new attachment to their tooth, measured as reduced pocket depth and improved tissue health.
+
+**Tooth Stability**: The tooth usually becomes significantly more stable and less mobile.
+
+**Long-Term Success**: Regenerated bone and periodontal ligament remain stable over many years when you maintain good home care and regular professional cleanings.
+
+## Complications Are Rare
+
+GTR is safe overall, but you should know about possible issues.
+
+**Membrane Exposure**: In 10-30 percent of cases, the membrane becomes exposed to the oral environment. If this happens, your periodontist can remove it or manage it locally. Exposed membranes don't always ruin the regeneration—bone often forms anyway.
+
+**Incomplete Regeneration**: Some defects don't regenerate as much as hoped. Smaller initial defects and defects with better bone containment have better outcomes.
+
+**Infection**: Rare if the area is kept clean, but any infection is managed by removing the membrane and treating the site.
+
+Most complications are manageable, and even if something goes wrong, you haven't lost the tooth—it just means the regenerative approach didn't achieve complete success.
+
+## What You Can Do to Help Success
+
+Your role in recovery is important.
+
+**Keep It Clean**: Gentle but thorough home care prevents infection and supports healing. Your periodontist will give you specific instructions.
+
+**Avoid Trauma**: Don't poke at the area or pull on your lip to look at the surgical site. Leave it alone to heal.
+
+**Take Medications**: If prescribed antibiotics, take the full course.
+
+**Quit Smoking**: If you smoke, quitting during healing makes a huge difference in outcomes.
+
+**Attend Follow-Up Visits**: Your periodontist needs to monitor healing and will remove stitches at the appropriate time.
+
+## Why GTR Is Worth Considering
+
+Before GTR existed, severe gum disease meant tooth loss. Now you have an option that can actually regrow the structures supporting your tooth.
+
+GTR gives you a chance to keep a tooth that would otherwise be lost. The regenerated bone is living, functional bone that will support your tooth long-term. Combined with good home care and regular professional cleanings, GTR can save teeth that would have otherwise required extraction.
+
+## Conclusion
+
+Guided tissue regeneration is a remarkable procedure that harnesses your body's own healing capability to regenerate bone and periodontal ligament lost to disease. By using a protective barrier membrane, your periodontist gives slower-growing bone and ligament cells a chance to repopulate the defect before faster-growing epithelial cells can seal it off with scar tissue. The result is real regeneration of functional periodontal structures, not just scarring. With modern membranes and refined surgical techniques, success rates are predictable and long-term outcomes are excellent. If you have moderate to severe periodontitis in a site with appropriate bone anatomy, GTR offers a realistic chance to save your tooth.
+
+## Key Takeaway
+
+Guided tissue regeneration uses a protective barrier membrane to allow bone and periodontal ligament cells to regenerate lost periodontal support. The procedure achieves 60-80 percent defect fill and 2-4 millimeters of clinical attachment gain in appropriate sites, offering a realistic chance to save teeth threatened by severe gum disease.
+
+## Related Articles
+
+- [Sipping Drinks Throughout the Day and Cavity Risk](/article/sipping-drinks-throughout-day-cavity-risk-behavior.html)
+- [Implant Placement Surgical Procedure and Recovery](/article/implant-placement-surgical-procedure-and-recovery.html)
+- [Fissure Sealant Application for Child Prevention](/article/fissure-sealant-application-child-prevention.html)
