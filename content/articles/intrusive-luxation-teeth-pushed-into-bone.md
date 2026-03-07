@@ -1,129 +1,123 @@
 ---
-title: Intrusive Luxation - Teeth Pushed Into Bone - Pediatric and Permanent Dentition Management
+title: "Intrusive Luxation: Emergency Care for Teeth Pushed Into"
 slug: intrusive-luxation-teeth-pushed-into-bone
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Intrusive luxation represents the most severe dentoalveolar injury with distinct management differences between primary and permanent dentition."
+excerpt: "Intrusive luxation happens when trauma drives teeth deep into bone. Understanding emergency care and treatment options helps preserve your tooth."
 date: 2026-03-05
-read_time: 9 min
+read_time: 7 min
 reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
-subcategory: Surgical Overview
-subcategory_slug: overview-surgery
+subcategory: Trauma & Emergency Care
+subcategory_slug: trauma-emergency
 references:
-  - title: "Andreasen classification of dentoalveolar injuries: clinical application and outcomes"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/12710911
-  - title: "Intrusive luxation in primary versus permanent dentition: prognosis comparison"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/21219286
-  - title: "Spontaneous re-eruption of intruded permanent incisors: monitoring protocol"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/23159140
-  - title: "Surgical repositioning of intruded permanent incisors: technique and outcomes"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/25648588
-  - title: "Pulpal survival and vitality recovery following intrusive luxation"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/19345131
-  - title: "Root resorption pathways following intrusive luxation injury"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/25068482
-  - title: "Orthodontic extrusion versus surgical repositioning for intruded teeth"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/22359206
-  - title: "Long-term outcomes of intruded teeth: 15-year prospective study"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/24457676
+  - title: "Intrusive luxation management and outcomes"
+    url: https://www.ncbi.nlm.nih.gov/pubmed/26780343
+  - title: "Recovery after extraction and oral surgery"
+    url: https://www.ncbi.nlm.nih.gov/pubmed/28883831
+  - title: "Surgical success rates and complications"
+    url: https://www.ncbi.nlm.nih.gov/pubmed/26439738
 ---
 
-## Intrusive Luxation: Definition and Clinical Significance
+Intrusive luxation is a dental injury where trauma forcefully drives your tooth into its bone socket. The tooth looks shorter, your bite feels off, and you might have severe swelling and pain. This injury is a dental emergency because it damages the tooth's blood supply, nerve, and supporting bone. Immediate professional care is essential to save the tooth.
 
-Intrusive luxation, also termed intrusion, is characterized by axial displacement of a tooth apically into the alveolar socket with compression of surrounding tissues. This injury pattern represents the most severe form of dentoalveolar trauma in the Andreasen classification system, carrying the highest morbidity and complications. Unlike extrusive luxation where the tooth is displaced occlusally and loosened, intrusive luxation compresses the periodontal ligament, crushes vascular structures, and displaces alveolar bone around the tooth.
+## What Exactly Is Intrusive Luxation?
 
-The clinical presentation differs markedly between primary and permanent dentition. In primary dentition, intrusions occur in 7-16% of traumatic injuries and generally carry more favorable prognoses due to physiologic root resorption pathways that facilitate eventual shedding. In permanent dentition, intrusions represent 0.3-3% of injuries but carry significantly worse prognoses with higher complications including pulpal necrosis (50-80%), ankylosis (5-15%), and root resorption (15-30%).
+The term "intrusive luxation" describes forced inward movement of a tooth. The tooth is pushed vertically into bone rather than knocked sideways (lateral luxation) or knocked out (avulsion). The tooth remains in your mouth but appears shortened because part of it is now buried in bone.
 
-## Andreasen Classification and Severity Determination
+Unlike a simple dislocation that you might fix by putting something back in place, intrusive luxation requires careful professional repositioning. The trauma damages structures inside and around the tooth—the nerve, blood vessels, and bone supporting it. These structures need time and appropriate care to heal.
 
-The Andreasen classification system, established as the gold standard in traumatic injury categorization, identifies intrusive luxation through specific diagnostic criteria. A tooth qualifies as intruded when the clinical crown is displaced below the level of adjacent teeth and the tooth cannot be moved to the normal position by digital pressure. The crown incisal edge position determines classification more than radiographic findings alone.
+## Immediate First Aid
 
-Severity assessment divides intrusions into three categories based on apical displacement distance: minor intrusions (less than 3 mm), moderate intrusions (3-6 mm), and severe intrusions (greater than 6 mm). This classification directly influences treatment selection, with minor intrusions often managed conservatively through observation, while moderate to severe intrusions typically require active intervention.
+If you experience intrusive luxation:
 
-## Differences Between Primary and Permanent Dentition Management
+1. **Stop any activity** immediately
+2. **Apply ice** to the outside of your cheek to reduce swelling
+3. **Avoid touching the tooth** with your fingers or tongue
+4. **Go to a dentist or emergency room immediately**
 
-Primary dentition intrusions demonstrate markedly different healing characteristics. The deciduous tooth's imminent shedding, typically within months to a few years post-injury, means complications like pulpal necrosis and resorption do not carry the same clinical significance as in permanent teeth. Most primary intrusions (80-90%) spontaneously re-erupt without intervention, with the physiologic eruption process completing the extrusion.
+**Don't attempt to reposition the tooth yourself.** Additional manipulation causes more damage. Professional gentle repositioning is necessary.
 
-Treatment in primary dentition emphasizes observation unless severe intrusion interferes with occlusion or permanent tooth development. Documentation of position through photographs and radiographs guides monitoring. The primary tooth should be examined at 1, 4, 8, and 12 weeks, with reassessment of re-eruption trajectory. Extraction is indicated only if the intruded tooth interferes with occlusion after 4 weeks or if severe inflammation develops. Surgical repositioning in primary dentition is rarely indicated.
+## Professional Evaluation
 
-Permanent dentition intrusions warrant more aggressive management. The tooth will be retained for decades, necessitating restoration of physiologic function and prevention of secondary complications. Treatment decisions balance immediate trauma (from surgical intervention) against delayed trauma (from extended immobilization or leaving the tooth intruded).
+Your dentist or oral surgeon examines the tooth and surrounding area. They'll take X-rays showing the extent of intrusion and whether bone or root is fractured. They'll check your bite and assess whether other teeth or your jaw are injured. This evaluation guides treatment decisions.
 
-## Clinical Assessment and Diagnostic Procedures
+## Treatment Options
 
-Comprehensive assessment begins with medical history review including injury mechanism, time elapsed since trauma, and any intervening treatment. The patient's developmental stage (stage of root formation) influences prognosis significantly, with teeth demonstrating incomplete root formation at injury showing higher recovery rates.
+**Observation and monitoring** works for mild intrusions. The tooth is allowed to erupt naturally back to normal position over weeks or months as bone remodels. A soft splint might stabilize it during healing.
 
-Visual examination documents the degree of intrusion by comparing the injured tooth's incisal edge position to contralateral homologous teeth. Photography with a scale provides objective baseline documentation. The clinician should assess mobility: intruded teeth show significantly reduced movement compared to normal teeth due to compression. Percussion assessment reveals dull tone compared to normal resonance in uninjured teeth.
+**Gentle repositioning** is typically performed for moderate to severe intrusions. Your oral surgeon carefully and slowly moves the tooth back to proper position. This requires skill to avoid additional damage. After repositioning, the tooth is splinted for 1-2 weeks while bone stabilizes it.
 
-Gingival examination documents lacerations, ecchymosis, and edema extent. The clinician should palpate gingival tissues to detect underlying fracture crepitus. Periodontal pocket probing should be deferred acutely to avoid disrupting clotted blood and early healing.
+**Orthodontic repositioning** is sometimes used, especially in children. Gentle orthodontic forces gradually pull the tooth back to position over several weeks. This approach works well because it avoids the trauma of forceful repositioning.
 
-Radiographic assessment using periapical radiographs with varied horizontal angulations reveals three-dimensional tooth position, root apex position relative to adjacent roots or anatomical structures (inferior alveolar canal, nasal floor, maxillary sinus), alveolar bone fracture patterns, and socket wall integrity. Supplemental occlusal radiographs assess crown angulation. Panoramic radiographs identify skeletal fractures complicating the injury.
+## Pulp Vitality and Root Canal
 
-Pulpal vitality testing using both electric pulp tester (EPT) and thermal testing (ice application, warm gutta-percha) establishes baseline status, though results should be interpreted cautiously in the acute phase. Baseline EPT readings should be recorded quantitatively when available, providing objective comparison data.
+The trauma of intrusive luxation almost always damages the nerve (pulp) inside your tooth. Learning more about [why recovery timeline matters](/article/why-recovery-timeline-matters.html) can help you understand this better. Most intruded teeth eventually require root canal treatment. Some dentists perform root canal therapy immediately; others wait to see if the pulp survives the injury.
 
-## Treatment Algorithm for Minor Intrusions
+If the pulp dies (becomes infected), the tooth darkens and might cause pain or infection. Root canal treatment becomes necessary if this occurs. Without treatment, infection spreads to surrounding bone, causing more serious problems.
 
-Minor intrusions (less than 3 mm) in teeth with incomplete root development represent ideal candidates for observation. The periodontal ligament demonstrates remarkable healing capacity with ability to gradually pull the tooth occlusally through normal mastication and eruption forces. Spontaneous re-eruption occurs in 50-80% of cases within 2-12 weeks.
+## Recovery Timeline
 
-Monitoring protocol during observation includes clinical examination at 2-4 week intervals documenting incisal edge position changes. Radiographic assessment at 4 and 8 weeks documents root apex movement and periapical changes. Vitality testing should be repeated at 4-week intervals, as delayed recovery of response frequently occurs.
+The first few days are uncomfortable with significant swelling and pain. Pain management with prescribed medication and ice helps. Soft foods are necessary because chewing aggravates the area.
 
-Patient education emphasizes dietary modifications to soft foods reducing masticatory force on the traumatized tooth. Normal oral hygiene should be maintained gently, avoiding excessive brushing near the healing gingival tissues. The patient should avoid traumatic contacts during mastication and speech.
+The splint stays in place for 1-2 weeks while bone stabilizes around the tooth. After splint removal, avoid chewing on the tooth and surrounding area for several more weeks while deeper healing continues.
 
-Treatment escalation becomes necessary if re-eruption fails to progress by 4-6 weeks, if the tooth remains intruded beyond 8 weeks, or if vitality testing shows no improvement by 12 weeks. At these decision points, active intervention through surgical repositioning or orthodontic extrusion should be initiated.
+Full recovery takes months. Swelling gradually improves over 2-3 weeks. The tooth's ultimate fate—whether it survives long-term or needs extraction—becomes clearer over weeks and months. Learning more about [orthognathic surgery planning severe skeletal issues](/article/orthognathic-surgery-planning-severe-skeletal-issues.html) can help you understand this better. Regular follow-up visits monitor progress.
 
-## Spontaneous Re-eruption Monitoring and Documentation
+## Possible Complications
 
-During the observation phase, documentation of re-eruption trajectory guides decision-making. Clinical measurement of vertical distance from the injured tooth's incisal edge to a fixed point (such as adjacent teeth incisal edges) provides objective data. Radiographic measurements using calibrated periapical radiographs, comparing root apex position to fixed anatomical landmarks or adjacent tooth apices, quantify movement.
+- **Pulp necrosis** (nerve death) requiring root canal treatment
+- **Continued looseness** despite repositioning
+- **Infection** spreading to surrounding bone
+- **Root resorption** (root dissolving away) from the trauma
+- **Tooth darkening** as the pulp dies
+- **Eventual tooth loss** if damage is too extensive
 
-The re-eruption rate typically ranges from 1-3 mm per week in favorable cases, though some teeth move more slowly. Initial rapid movement in the first 2-4 weeks often decelerates in subsequent weeks. Movement cessation before complete eruption indicates need for intervention.
+Early professional care reduces these complications but cannot eliminate them completely.
 
-Complications during observation warrant intervention consideration. Severe inflammation with purulent exudate, increasing pain despite analgesics, or developing gingival abscesses suggest pulpal necrosis or secondary infection requiring endodontic intervention or extraction. The presence of these findings should prompt reevaluation of the observation strategy.
+## When Extraction Might Be Necessary
 
-## Surgical Repositioning Technique and Timing
+If the tooth is very severely intruded, or if complications develop despite treatment, extraction might eventually become necessary. This is a difficult decision, but preserving a severely damaged tooth sometimes causes more problems than removing it and replacing it with an implant or bridge.
 
-Surgical intervention becomes necessary for severe intrusions, intrusions failing spontaneous re-eruption, or teeth approaching root maturity. The surgical protocol begins with local anesthesia infiltration providing adequate hemostasis and analgesia. Full-thickness mucoperiosteal flap reflection using a design preserving gingival architecture provides direct visualization of the alveolar socket and intruded root.
+Your dentist will discuss this possibility honestly if it seems likely based on the injury's severity.
 
-The tooth requires gentle elevation using periosteal elevators or specialized extraction forceps applied with deliberate, sustained pressure rather than rapid manipulation. Multiple elevation directions may be necessary to break the compression before gradual tooth extraction. The socket walls may require careful widening with a small round bur to accommodate the root without creating additional trauma.
+## Preventing Intrusive Injuries
 
-Following repositioning to proper anatomical position with correct axial inclination and occlusal contact, the tooth requires immediate stabilization through semi-rigid splinting. The composite-wire-composite splint design provides optimal immobilization with minimal restriction of physiologic movement. The 0.6 mm stainless steel wire embedded in composite resin, bonded to the injured tooth plus one tooth on each side, prevents re-intrusion while allowing vertical movement within the splint constraints.
+Contact sports carry highest injury risk. Custom-fitted mouthguards provide excellent protection. Store-bought mouthguards are better than nothing but don't fit as well. Athletes should use custom mouthguards consistently.
 
-Splinting duration follows evidence-based guidelines: 4 weeks for teeth with complete root development, and 4-8 weeks for teeth with incomplete root formation. Splint removal before 4 weeks significantly increases re-intrusion risk. Removal after 8-12 weeks increases ankylosis risk.
+Avoiding high-risk activities or being cautious during them (avoiding falls, wearing helmets during cycling, etc.) reduces injury risk.
 
-## Orthodontic Extrusion as Alternative Treatment
+## Emotional Impact
 
-Orthodontic extrusion provides an alternative to surgical intervention, particularly when surgical expertise is unavailable or patient factors contraindicate surgery. Light continuous forces (50-75 grams for incisors) applied through fixed appliances or clear aligners slowly extract the intruded tooth over 4-12 weeks through periodontal remodeling.
+Significant dental trauma can be psychologically difficult. The sudden injury, changed appearance, multiple treatment appointments, uncertainty about outcomes, and potential for tooth loss create stress and anxiety. Seeking mental health support is appropriate if you're struggling with trauma aftermath.
 
-This approach potentially preserves more periodontal ligament function compared to acute surgical extraction, though clinical outcomes remain comparable between methods in most studies. Treatment monitoring at 2-week intervals ensures force magnitude remains appropriate and documents extrusion progress. Many clinicians recommend elective pulpotomy combined with orthodontic extrusion, removing potentially damaged coronal pulp tissue while preserving apical vitality.
 
-Advantages include concurrent management of other malocclusion features and potential for better periodontal preservation. Disadvantages include longer treatment duration and the challenges of applying controlled forces to traumatized teeth with compromised periodontal support.
+## Questions to Ask Your Dentist
 
-## Pulpal Management and Endodontic Intervention
+When you visit your dentist, ask about intrusive luxation teeth pushed into bone and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
 
-Intrusive trauma injures the pulp in nearly 100% of cases through vascular disruption and inflammatory mediator release. However, pulpal necrosis (50-80%) does not develop immediately in all teeth. The decision regarding endodontic treatment timing requires clinical judgment and serial monitoring.
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
-The accepted protocol recommends monitoring vitality at baseline, 3 weeks, 6 weeks, 8 weeks, and 12 weeks post-injury. A tooth demonstrating absent vitality response at 8-12 weeks post-injury should undergo conventional root canal treatment. Treatment utilizes larger apical file sizes than typical due to apical area widening from trauma.
 
-Some clinicians advocate pulpotomy combined with calcium hydroxide dressing in the first 2-4 weeks post-injury, particularly in teeth with incomplete root formation where revascularization potential remains high. This approach eliminates the pro-inflammatory pulp chamber environment, potentially preventing progression to complete necrosis. Monthly vitality reassessment guides the need for definitive root canal completion.
+## Protecting Your Results Long-Term
 
-## Root Resorption Prevention and Management
+Once you've addressed intrusive luxation teeth pushed into bone, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
 
-External root resorption, occurring in 15-30% of intruded teeth, represents a common serious sequela. Inflammatory resorption occurs acutely post-injury, while replacement resorption develops more slowly as ankylosed areas enlarge. Prevention focuses on minimizing injury duration and achieving stabilization quickly.
 
-Some clinicians advocate topical corticosteroid application (dexamethasone-containing solutions) to suppress inflammatory mediators driving resorption, though clinical evidence remains limited. Systemic corticosteroid therapy (particularly dexamethasone 0.5 mg/kg for 5-7 days) may suppress resorption activity when initiated immediately post-injury.
+## What to Expect at Your Appointment
 
-Radiographic monitoring every 3 months during the first year post-injury, then every 6 months, documents resorption progression. Linear root length measurements on standardized radiographs allow quantitative assessment. Early-identified resorption may be arrested through endodontic intervention and apical sealing with bioceramics like mineral trioxide aggregate.
+During your dental visit, your dentist will explain all the details about intrusive luxation teeth pushed into bone and answer your questions. They'll walk you through each step of the process so you know exactly what's happening. Many patients feel nervous about dental procedures, but understanding what to expect helps ease those worries significantly.
 
-## Long-Term Prognosis and Outcomes
+Your dentist will also discuss the expected results, how long the process takes, and what aftercare looks like. They can show you before-and-after examples from similar cases and help you set realistic expectations. Don't hesitate to bring a list of questions with you—your dental team wants you to feel fully informed and comfortable with your care plan.
 
-Long-term follow-up studies demonstrate variable outcomes depending on injury severity and treatment approach. Teeth managed with prompt surgical repositioning and splinting within 2 weeks show improved periodontal healing compared to delayed intervention. Prognosis appears significantly better for teeth with complete root formation at injury, moderate rather than severe intrusion, and younger patient age.
+## Conclusion
 
-Crown discoloration occurs in 35-50% of cases, representing either hemosiderin staining from pulpal hemorrhage or actual pulpal necrosis-associated darkening. Some discoloration improves with time as hemosiderin is cleared, while necrotic darkening persists requiring esthetic restoration.
+Intrusive luxation requires immediate professional emergency care. The sooner treatment begins, the better the tooth's chance of survival. If you experience this injury, seek professional care immediately rather than waiting and hoping the tooth improves on its own.
 
-Ankylosis, representing fusion of tooth root to alveolar bone, develops in 5-15% of intruded permanent incisors. Clinical findings include metallic percussion tone and radiographic loss of periodontal space. Severely ankylosed teeth may require extraction to preserve bone architecture, with space restoration through orthodontic movement or implant placement.
+> **Key Takeaway:** Intrusive luxation requires emergency care—immediate professional repositioning and appropriate follow-up give the tooth the best chance of surviving the injury.
 
-## Comprehensive Monitoring Protocol
+## Related Articles
 
-Long-term care requires systematic clinical and radiographic monitoring: baseline (immediately post-injury), 1 week, 4 weeks, 8 weeks, 12 weeks, 6 months, 1 year, and annually thereafter for 5+ years. Clinical examination documents mobility, percussion tone, gingival architecture, crown color, and functional status. Radiographic assessment evaluates root resorption, periapical healing, and periodontal space integrity.
-
-Patient education regarding realistic prognosis, potential complications, and long-term management expectations ensures informed consent and participation in follow-up protocols. Functional and esthetic restoration can be deferred until vitality status is established and pulpal inflammation resolves, typically 12+ months post-injury.
-
+- [Why Recovery After Extraction Matters](/article/why-recovery-after-extraction-matters.html)
+- [Oral Surgery Recovery Timeline: What You Need to Know](/article/oral-surgery-recovery-timeline-what-you-need-to-know.html)
+- [Impacted Teeth Removal: Canines, Molars, and Premolars](/article/impacted-teeth-removal-canines-molars-and-premolars.html)

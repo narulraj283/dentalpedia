@@ -1,9 +1,9 @@
 ---
-title: "Luxation: Partially Displaced Tooth"
+title: "Luxation: When Your Tooth Gets Partially Knocked Loose"
 slug: luxation-partially-displaced-tooth
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: "Management of laterally luxated, extrusive luxated, and intrusive displaced teeth, including immediate repositioning technique, rigid splinting."
+excerpt: A luxated tooth is partially knocked loose from its socket. Learn what to do immediately and how to save your tooth after this traumatic injury.
 date: 2026-03-05
 read_time: 9 min
 reviewed: true
@@ -33,65 +33,88 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/27001271
 ---
 
-Luxation injuries, characterized by partial or complete displacement of teeth from their normal anatomical position within the alveolar socket, represent common dental traumatic emergencies requiring prompt recognition and appropriate management to optimize preservation of pulpal vitality and periodontal healing. Unlike avulsion (complete tooth exfoliation), luxation injuries retain tooth-socket contact with varying degrees of displacement, creating fundamentally different treatment approaches and prognostic outcomes. Three primary luxation classifications—lateral luxation (horizontal displacement), extrusive luxation (apical displacement with partial exfoliation), and intrusive luxation (apical displacement with intra-alveolar positioning)—each present distinct clinical presentations and treatment requirements demanding familiarity with evidence-based management protocols.
+## What Is Luxation?
 
-## Etiology and Clinical Presentation
+A luxated tooth is one that's been partially knocked out of its socket—the tooth is displaced but hasn't completely fallen out. It might be pushed sideways, pushed up, or pushed down into the socket. Unlike avulsion (a completely knocked-out tooth), the luxated tooth still has some connection to its socket, though it's usually loose and painful.
 
-Luxation injuries typically result from high-impact blunt force trauma to the anterior dentition, with mechanism of injury determining displacement direction and severity. Lateral impact forces commonly produce lateral luxation with horizontal tooth displacement and frequent associated alveolar fracture, while vertical or axial impact forces characteristically generate extrusive or intrusive displacement depending on force magnitude and vector direction. Sports-related trauma accounts for substantial proportions of luxation injuries, particularly in younger populations, with falls and motor vehicle accidents representing additional significant etiologies.
+Luxation is a serious injury that requires immediate professional care. The key difference from other dental injuries is that the tooth hasn't fully exfoliated, so there's real potential for saving it if you act quickly. Your tooth's connection to its socket determines whether the nerve will survive, so quick repositioning is crucial.
 
-Lateral luxation presents clinically with obvious horizontal tooth displacement, loose mobility without complete exfoliation, and frequently associated gingival and mucosal lacerations at the trauma site. Palpation typically elicits tooth mobility exceeding normal physiologic limits, with the tooth mobile in multiple directions despite remaining partially within the socket. Occlusal contact is frequently disrupted, with laterally luxated teeth typically exhibiting premature contact in one direction and absence of contact in the opposite direction. Radiographic assessment frequently reveals associated alveolar fracture with fracture lines extending through the facial and lingual alveolar plates adjacent to the luxated tooth.
+## Types of Luxation
 
-Extrusive luxation manifests clinically as vertical tooth displacement with partial emergence from the alveolar socket. The tooth appears to be partially "popping out" with loose, exaggerated mobility and visible length increase compared to adjacent teeth. Occlusal contact is absent or severely diminished, with the luxated tooth typically in infraoclusal position. Gingival and periodontal ligament (PDL) damage frequently accompanies extrusive luxation, with bleeding from gingival margin and PDL space evident clinically.
+Lateral luxation means the tooth is pushed sideways, often with its root shifted within the socket. The tooth might look like it's jutting out to the side, and you'll see obvious displacement compared to your other teeth.
 
-Intrusive luxation represents the most severe displacement variant, with the tooth driven apically back into the alveolar socket, appearing shortened compared to contralateral teeth. Unlike extrusion where the tooth protrudes from normal position, intrusive luxation involves intra-alveolar displacement without external emergence. Clinical assessment reveals the tooth in complete or near-complete infraoclusal position, with minimal to no mobility because the tooth remains encased within surrounding alveolar bone. The severely compromised pulpal and PDL blood supply accompanying intrusive luxation creates the highest risk for pulpal necrosis among luxation variants.
+Extrusive luxation means the tooth is pulled upward or downward, partially emerging from the socket. The tooth looks like it's coming out of your mouth, but it's not completely gone.
 
-## Immediate Management and Repositioning Protocols
+Intrusive luxation (the most serious type) means the tooth is pushed down into the socket, making the tooth appear shorter than it should be. This type causes the most damage to the pulp (nerve) because the nerve blood supply gets compressed.
 
-Immediate management of luxation injuries takes precedence over diagnostic imaging and formal assessment, as delays in repositioning reduce the probability of successful pulpal revascularization and PDL healing. Following appropriate trauma history and airway/breathing/circulation assessment, the clinician should examine the luxated tooth, palpate surrounding alveolar structures for fracture assessment, and immediately proceed to tooth repositioning using manual pressure techniques.
+## Immediate Actions to Take
 
-Lateral luxation repositioning involves gentle but firm manual pressure applied to the luxated tooth, guiding it back toward the normal anatomical position. The clinician's hand position should stabilize the adjacent teeth with one hand while applying repositioning pressure with the opposing hand, preventing transmission of repositioning force to neighboring teeth. Pressure should be applied gradually, permitting gentle translation of the tooth root within the alveolar socket as the tooth moves toward correct position. Once the tooth appears to be in its original position based on alignment with adjacent teeth and restoration of normal contact relationships, further gentle pressure may be applied to ensure complete seating.
+Call your dentist immediately or go to the emergency room if it's after hours. This is a true emergency that needs same-day professional care. Don't waste time—the sooner your tooth is repositioned, the better the chance of the nerve surviving.
 
-Extrusive luxation repositioning follows similar principles, with gentle vertical pressure applied to the extruded tooth crown, guiding the tooth apically back into the socket. The clinician should use one-handed pressure from the incisal aspect, leveraging the tooth root within the socket, permitting gradual return to normal position. Excessive force should be avoided, as aggressive repositioning may cause additional alveolar fracture or exacerbate PDL damage.
+While waiting for professional help, try to gently reposition your tooth back to its normal position if you can do it without excessive force. Use gentle manual pressure and try to align it with adjacent teeth. This helps reduce the time the tooth spends out of position. Don't be aggressive—if the tooth resists, stop and wait for your dentist.
 
-Intrusive luxation management presents greater complexity, as the tooth is already positioned apically within the socket. In pediatric populations with open apices, watchful waiting permitting spontaneous eruption over subsequent weeks often proves successful, with the tooth gradually returning toward normal position through combination of alveolar bone remodeling and normal eruption mechanisms. In mature permanent teeth with closed apices, surgical repositioning or orthodontic extrusion becomes necessary, as spontaneous eruption will not occur. Current evidence suggests that gentle orthodontic repositioning over several weeks produces superior outcomes compared to immediate surgical repositioning, which risks additional PDL trauma.
+Once repositioned as much as you can, apply ice to the outside of your mouth to reduce swelling. Avoid eating on that side. If the tooth has sharp edges cutting your cheek, apply orthodontic wax to reduce irritation. Take over-the-counter pain medication if needed.
 
-## Splinting Strategy and Immobilization Duration
+## Professional Repositioning
 
-Following successful repositioning, rigid splinting becomes essential to prevent further displacement and promote PDL and alveolar healing. Orthodontic wire-and-resin splints bonded to the buccal surfaces of the luxated tooth and two adjacent stable teeth remain the gold standard for luxation injury splinting. The splint should extend across three teeth (the luxated tooth and one adjacent tooth on each side), providing sufficient stability to prevent movement while remaining flexible enough to permit physiologic tooth mobility.
+When you arrive at your dentist's office, they'll immediately reposition your tooth properly using gentle manual pressure. For laterally luxated teeth, your dentist carefully guides the tooth back to its normal position. Learning more about [dental trauma in athletes prevention and treatment](/article/dental-trauma-in-athletes-prevention-and-treatment.html) can help you understand this better. For extruded teeth, your dentist gently presses the tooth back into the socket. For intruded teeth, the approach is more complex—your dentist might gently try to move it back to position, or they might wait and see if it naturally erupts back, or they might recommend orthodontic repositioning.
 
-Splinting duration for luxation injuries varies with injury severity: lateral luxation and extrusive luxation typically require 2 weeks of immobilization, while intrusive luxation necessitates 3-4 weeks of splinting given the more severe PDL injury. Some evidence supports continuation of splinting to 4 weeks for lateral luxation in cases with significant alveolar fracture, as longer immobilization appears to enhance alveolar healing. However, excessive splinting duration beyond 4 weeks increases risk for ankylosis and periodontal complications, suggesting that the upper limit of beneficial immobilization remains approximately 3-4 weeks.
+This initial repositioning should happen as quickly as possible. It's typically gentle and fast. Getting the tooth back into position within the first hour gives the tooth its best chance of surviving.
 
-Splint integrity should be verified at follow-up visits, with any splint failure (broken resin, wire loosening, or displaced bonding) requiring immediate repair to maintain immobilization effectiveness. Patients should be counseled regarding splint restrictions, including soft diet, avoidance of anterior tooth use for mastication, and careful oral hygiene around the splinted teeth without aggressive manipulation.
+## Splinting Your Tooth
 
-## Pulpal Assessment and Endodontic Timing
+After repositioning, your dentist will splint your tooth (attach it to adjacent healthy teeth) using a wire and resin bonded to your teeth. This keeps the tooth immobilized while healing occurs. The splint is typically left in place for 2 to 4 weeks, depending on injury severity.
 
-Luxation injuries create substantial risk for pulpal necrosis, with incidence varying based on displacement severity and time to repositioning. Immediate pulpal assessment using electric pulp testing (EPT) or cold responsiveness testing provides baseline pulpal status documentation, though these tests lack perfect sensitivity for accurately predicting pulpal necrosis in acute trauma situations. Absent pulpal responses immediately after trauma do not necessarily indicate pulpal necrosis, as transient pulpal inflammation or edema may temporarily suppress sensibility.
+A splint isn't something you remove—it's professionally applied and stays in place. You need to take special care with eating (soft diet, avoiding using your front teeth for biting) and cleaning around the splint area. Your dentist will give you specific instructions for splint care.
 
-Delayed pulpal assessment, typically 2-4 weeks after injury, provides more reliable indication of pulpal vitality status. Teeth demonstrating return of sensibility during follow-up visits generally maintain viable pulp, while persistent absence of sensibility at subsequent evaluations suggests pulpal necrosis requiring endodontic treatment. Many traumatized teeth demonstrate initial loss of sensibility that gradually recovers over weeks to months; hence, immediate endodontic treatment of luxated teeth demonstrating absent sensibility is typically inappropriate unless pulpal necrosis with apical pathology becomes evident.
+## Pulp Health and When You Might Need Root Canal
 
-Current evidence-based guidelines recommend delaying endodontic treatment of luxated teeth until clear evidence of pulpal necrosis exists (typically demonstrated by persistent absence of sensibility responses combined with radiographic evidence of apical periodontitis or internal resorption). Premature endodontic treatment of teeth that might undergo spontaneous revascularization wastes tooth structure and commits the tooth to a more limited biological future.
+When a tooth is luxated, the nerve (pulp) is at risk. After injury, your tooth might initially not respond to sensitivity tests (like cold stimulation). This doesn't necessarily mean the nerve is dead—trauma causes inflammation that temporarily suppresses sensitivity. Your dentist won't usually recommend root canal treatment immediately.
 
-## Radiographic Assessment and Monitoring
+Instead, your dentist will monitor your tooth's response to sensitivity tests over the coming weeks. If the tooth regains its response, the nerve is likely alive. If it remains unresponsive for several months combined with X-ray evidence of infection, root canal treatment becomes necessary.
 
-Initial radiographic assessment should document alveolar fracture presence, extent of displacement, and root-to-alveolar relationships before and after repositioning. Periapical radiographs provide optimal detail for assessing PDL space, alveolar bone, and root morphology, while occlusal radiographs may better demonstrate extent of alveolar fracture lines.
+The key is not rushing into root canal treatment before knowing whether the nerve will recover. Waiting to see if the tooth regains vitality (especially in younger patients) gives the tooth its best chance of remaining vital long-term.
 
-Serial radiographic follow-up at 4 weeks, 8 weeks, and 6-12 months after injury permits assessment of healing progression. Early radiographic changes include apparent widening of the PDL space and alveolar fracture line visualization. Progressive healing is demonstrated by gradual narrowing of the PDL space, consolidation of alveolar fracture lines, and restoration of normal alveolar bone density. Unfavorable radiographic changes including persistent PDL space widening, progressive bone loss, or appearance of root resorption require intervention modification and possible endodontic treatment.
+## Eating Restrictions and Care
 
-## Periodontal Healing and Long-Term Outcomes
+With a splinted tooth, you need to avoid crunchy, hard, and sticky foods. Eat soft foods that don't require biting down hard. Avoid using your front teeth to bite into anything. This restriction typically lasts the full splinting period (2 to 4 weeks).
 
-The periodontal healing following luxation injury remains variable, with outcomes influenced by injury severity, time to repositioning, duration of immobilization, and patient age. Lateral luxation with minimal alveolar fracture demonstrates favorable healing prospects, with most teeth achieving firm reattachment and restoration of normal periodontal ligament and alveolar bone within 8-12 weeks. Extrusive luxation creates more substantial PDL damage, with healing typically progressing over 12-16 weeks.
+Brushing and flossing require extra care to avoid disturbing the splint. Learning more about [reimplanted teeth salvaging avulsed permanent teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html) can help you understand this better. Your dentist will show you how to clean around the splint without dislodging it. Many patients find it easier to rinse with warm salt water several times daily instead of aggressive brushing.
 
-Intrusive luxation results in the most severe PDL injury, with healing frequently delayed and complicated by increased risk for ankylosis (fusion of tooth root to surrounding alveolar bone preventing normal function). Ankylosis risk increases substantially in teeth immobilized for excessive durations (>4 weeks) and in patients demonstrating limited capacity for rapid PDL healing.
+## Monitoring Your Tooth's Recovery
 
-Monitoring periodontal attachment during follow-up visits should assess probing depths, absence of gingival bleeding, tooth stability, and absence of mobility exceeding normal physiologic limits. Teeth demonstrating persistent excessive mobility, recurrent gingival bleeding, or progressive pocket depth increase at follow-up visits warrant reevaluation and possible endodontic or surgical intervention.
+You'll have follow-up appointments to monitor healing. Your dentist will check that the splint is intact, assess for any signs of infection or complications, and eventually remove the splint once healing is sufficient. Once the splint is removed, you still need to be somewhat careful with the tooth for several months as healing continues.
 
-## Prognosis and Follow-Up Protocols
+Your tooth will be X-rayed periodically to monitor for problems like root resorption (the bone dissolving around the root) or signs of nerve death. These complications sometimes develop gradually, which is why long-term follow-up is important.
 
-Overall prognosis for luxated permanent teeth depends on injury severity classification, with lateral and extrusive luxation demonstrating approximately 85-95% long-term retention rates with appropriate management, compared to intrusive luxation with retention rates of 50-70% due to elevated ankylosis risk. Immature teeth with incomplete root development and open apices demonstrate better prognosis than fully mature teeth, as the open apex provides additional PDL blood supply pathway and spontaneous revascularization occurs more readily.
+## Long-Term Prognosis
 
-Long-term follow-up should continue for a minimum of 5 years post-injury, with clinical and radiographic assessment at 6 months, 1 year, and annually thereafter to detect delayed complications including root resorption, pulpal necrosis, or ankylosis. Patient education regarding dietary modification, traumatic injury prevention (mouthguard use in contact sports), and prompt professional intervention if subsequent trauma occurs significantly influences long-term outcomes.
+The prognosis for a luxated tooth depends on the type of luxation and how quickly you got professional care. Lateral and extrusive luxation have decent long-term success rates (85 to 95 percent of teeth remain viable long-term with appropriate care). Intrusive luxation has a less favorable prognosis (50 to 70 percent long-term survival) because the nerve damage is often more severe.
+
+Teeth with complete healing show normal function and appearance. Some teeth might eventually need root canal treatment even months or years later if nerve damage becomes apparent. Others fully recover and function normally for decades.
+
+## Preventing Future Trauma
+
+If you're an athlete, a properly fitted mouthguard significantly reduces tooth trauma risk. Mouthguards distribute impact forces and protect teeth during contact sports. This is one of the best investments you can make if you play sports.
+
+Avoid behaviors that increase trauma risk—don't get into fights, don't engage in high-risk activities with facial trauma potential, and be careful in high-risk situations. Most dental trauma is preventable through reasonable precautions.
+
+## When You Should Be Concerned
+
+Contact your dentist immediately if you notice increasing pain despite splinting, signs of infection (fever, swelling, pus), or if the splint becomes loose. These signs might indicate complications requiring intervention. Also, if your tooth shows increasing mobility after the splint is removed, contact your dentist.
+
+Long-term monitoring means continuing dental visits even after you think healing is complete. Your dentist should see your tooth at six months, one year, and annually thereafter for several years to ensure no delayed complications develop.
+
+
 
 ## Conclusion
 
-Luxation injuries demand immediate recognition and appropriate repositioning technique to maximize pulpal revascularization and PDL healing potential. Rigid splinting for 2-4 weeks followed by careful follow-up assessment permits spontaneous healing in most cases, with delayed endodontic intervention undertaken only when clear evidence of pulpal necrosis emerges. Long-term prognosis remains favorable for lateral and extrusive luxation with appropriate management, though intrusive luxation carries substantially increased risk for ankylosis and loss of tooth vitality.
+Taking care of your oral health means staying informed about luxation partially displaced tooth. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
 
+> **Key Takeaway:** A luxated (partially displaced) tooth is an emergency requiring same-day professional care. Immediate gentle repositioning and splinting for 2-4 weeks provides the best chance of saving the tooth. Avoid hard and sticky foods while splinted. Long-term success depends on type of luxation and treatment timing, with most teeth healing well when properly managed.
+
+## Related Articles You May Find Helpful
+
+- [Dental Trauma in Athletes: Prevention and Treatment](/article/dental-trauma-in-athletes-prevention-and-treatment.html)
+- [Reimplanted Teeth: Saving a Knocked-Out Tooth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html)
+- [Knocked Out Tooth: What to Do in the First Hour](/article/knocked-out-tooth-what-to-do-in-the-first-hour.html)
