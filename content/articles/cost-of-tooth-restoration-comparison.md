@@ -3,7 +3,7 @@ title: Cost of Tooth Restoration Comparison
 slug: cost-of-tooth-restoration-comparison
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Restoration costs vary from $150-$300 for amalgam fillings to $200-$600 for composite restorations and $800-$2,500 for full coverage crowns depending on material and damage extent.
+excerpt: Choose between amalgam ($150-$300), composite ($200-$600), and crown ($800-$2,500) restorations based on cavity size and location.
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry
@@ -23,70 +23,81 @@ references:
   - "Willershausen I, Hasselmann U, Willershausen B. Longevity of tooth-colored restorations in relation to surface roughness and general/specific plant characteristics. J Oral Rehabil. 2000;27(2):120-125."
 ---
 
-## Amalgam Restoration Characteristics and Cost
+## Filling Options for Cavities
 
-Dental amalgam (mercury-silver alloy containing 50-70% mercury, 15-30% silver, 5-10% tin, 2-6% copper) remains the most economical restoration material, costing $100-$300 for single-surface restorations and $150-$400 for multi-surface repairs. Material cost per restoration averages $5-$15; practitioner fees dominate total cost. Amalgam demonstrates superior longevity compared to composite alternatives: survival rates reach 90% at 10 years and 70% at 20 years, substantially exceeding composite composite's 50-60% 10-year survival in posterior high-stress locations.
+When you have a cavity, your dentist removes decayed tooth structure and restores it with filling material. You have choices: amalgam (silver), composite (tooth-colored), glass ionomer, or sometimes more complex options. Each has different costs, longevity, and appearance implications.
 
-Amalgam placement requires standard preparation with minimal tool-related complexity: isolation with rubber dam ($25-$50), preparation with high-speed handpiece ($50-$150 labor), material insertion with condensation instruments ($15-$30 labor), finishing and polishing ($25-$50 labor), and occlusal adjustment ($15-$30 labor). Practitioner time averages 30-45 minutes per tooth including cleanup; at typical dental fee-for-service rates ($150-$250 hourly), labor cost totals $75-$187 per restoration.
+Cavity size determines complexity. Small cavities affecting one tooth surface are straightforward. Large cavities affecting multiple surfaces or requiring root canal treatment are complex and expensive. Location matters too—front teeth need aesthetic composite; back teeth might use amalgam or composite.
 
-Amalgam toxicity concerns remain clinically insignificant per FDA and ADA guidance despite decades of controversy; mercury concentration in ambient exhaled air from amalgam restorations measures negligible levels with no measurable health risk. However, patient preference increasingly favors composite alternatives despite increased cost: 85% of dental schools no longer teach amalgam placement, with composite dominance in contemporary practice.
+## Amalgam Fillings: Durable and Affordable
 
-## Composite Resin Restoration Costs and Longevity
+Amalgam (mercury-silver alloy) fillings cost $150 to $300 per filling. A simple one-surface cavity costs toward lower end; large multi-surface cavities cost more. Amalgam is extremely durable, lasting 10 to 30 years. For large back-tooth cavities, amalgam is still unsurpassed for longevity and value.
 
-Resin-based composite restorations cost $200-$600 for single-surface anterior restorations, $300-$800 for multi-surface anterior restorations, $250-$700 for single-surface posterior restorations, and $400-$1,200 for multi-surface posterior restorations. Material cost remains modest at $15-$40 per restoration; practitioner fees reflecting technique sensitivity dominate cost. Posterior composite restorations command 20-40% cost premiums compared to amalgam equivalents due to extended placement time (45-60 minutes vs. 30-45 minutes for amalgam), greater technical skill required, and need for adhesive systems ($20-$50 per restoration).
+The downside: amalgam is silver-colored and conspicuous on front teeth. Many patients don't want visible silver fillings for esthetic reasons. Amalgam also requires removal of slightly more tooth structure than composite. Some patients avoid amalgam due to mercury concerns (though scientific evidence supports safety at dental doses).
 
-Composite longevity demonstrates inferior performance compared to amalgam in high-stress posterior locations: 10-year survival rates reach 50-60% in posterior restorations versus 90% for amalgam. Anterior composite restorations demonstrate superior performance (65-75% 10-year survival) due to reduced occlusal stress. Restoration failure mechanisms differ fundamentally: amalgam failures typically result from secondary caries at margins or bulk fracture from stress concentration, while composite failures result from marginal degradation, wear, microleakage, and polymerization shrinkage-induced voids.
+## Composite Fillings: Aesthetic and Popular
 
-Composite advantages justify elevated cost for many patients: superior esthetics (shade matching, minimal visibility of restoration), conservative preparation (mercury-free material), ability to repair rather than replace, and potential for bonded restoration providing superior stress distribution compared to mechanically retained amalgam. Composite shade degradation (yellowing) occurs progressively: average shade shift measures 1-2 shade units at 5 years requiring esthetic refinishing (cost $150-$300 per tooth) or complete replacement ($200-$600).
+Tooth-colored composite fillings cost $200 to $600 per filling. They're tooth-colored, making them invisible cosmetically. Composite bonds to tooth structure, requiring slightly less tooth removal than amalgam. Composite works on front or back teeth.
 
-## Glass Ionomer and Resin-Modified Glass Ionomer Restorations
+The downside: composite lasts 5 to 10 years typically—shorter than amalgam. Composite can stain, chip, or fracture. You'll likely replace composite fillings multiple times over a lifetime. For small cosmetic cavities, composite's appearance benefit justifies the cost. For large back-tooth cavities, amalgam's superior longevity might be more cost-effective long-term.
 
-Conventional glass ionomer (polyalkenoate) cements cost $15-$30 per restoration and demonstrate modest clinical performance: 5-year survival rates approximate 40-50% due to wear resistance limitations and moisture sensitivity. Primary clinical applications include Class III restorations (interproximal), Class V restorations (cervical), and temporary restorations pending definitive treatment. Practitioner placement time averages 20-30 minutes; total restoration cost averages $100-$250.
+## Glass Ionomer: Moderate Option
 
-Resin-modified glass ionomer (hybrid system combining glass ionomer and resin components) costs $20-$45 per restoration with substantially improved properties: 5-year survival rates reach 65-75% compared to conventional glass ionomer's 40-50%. Resin-modified glass ionomers demonstrate superior wear resistance, moisture stability, and bond strength; clinical applications expand to Class I (occlusal), Class II (occlusal-proximal), and Class V (cervical) restorations. Placement time averages 25-35 minutes; total restoration cost ranges $150-$350.
+Glass ionomer (tooth-colored, fluoride-releasing) costs $200 to $400 per filling. It releases fluoride, providing additional cavity protection. Glass ionomer bonds to tooth without etching enamel. It's less technique-sensitive than composite.
 
-Fluoride-releasing properties of glass ionomer-based restorations provide modest caries inhibition around restoration margins; longitudinal studies demonstrate 10-15% reduction in secondary caries incidence compared to amalgam and composite alternatives. This benefit justifies selection in high-caries-risk patients or patients with multiple restorations despite superior longevity of amalgam or composite approaches.
+The downside: glass ionomer is less durable than composite or amalgam, lasting 5 to 7 years. It wears faster and stains more readily. Glass ionomer works for temporary restorations or situations where fluoride release is beneficial, but it's falling out of favor as composite improves.
 
-## Crown Restorations and Multi-Surface Therapy
+## Large Cavity Restoration: When Fillings Fail
 
-Full-coverage crown restorations cost $800-$2,500 depending on material selection: preformed stainless steel crowns ($200-$400) for pediatric applications, porcelain-fused-to-metal (PFM) crowns ($800-$1,500), all-ceramic zirconia crowns ($1,200-$2,000), lithium disilicate glass ceramic crowns ($1,000-$2,500), and precious metal crowns ($2,000-$4,000+). Laboratory costs compose $300-$600 of total fees; clinical fees for preparation, impression, trial, and delivery average $500-$1,400.
+When cavities are very large (affecting multiple tooth surfaces, more than half the tooth), simple fillings fail. These cavities need onlay (partial coverage) or crown (full coverage) restorations. An onlay costs $800 to $1,500. A crown costs $800 to $2,500.
 
-Crown placement requires destructive tooth preparation removing 20-30% of tooth structure to accommodate restoration; this irreversible treatment necessitates comprehensive diagnosis confirming crown necessity versus conservative restoration sufficiency. Indications include large restorations (>50% of remaining tooth structure missing), pulpotomy or root canal therapy requiring strength reinforcement, severe discoloration, or structural defects precluding conservative restoration.
+Onlays and crowns require laboratory fabrication (1 to 2 weeks) and tooth preparation. They last substantially longer than fillings—10 to 15 years for crowns, providing superior longevity and strength for large cavities. For large cavities, investing in a crown now prevents extraction and implant costs ($4,000 to $8,000) later.
 
-Crown longevity substantially exceeds large composite restorations: porcelain-fused-to-metal crowns demonstrate 95% survival at 5 years and 85% at 15 years. All-ceramic crowns achieve comparable 90% 5-year survival with superior esthetics. Crown replacement after 15-20 years costs $1,000-$3,000 depending on tooth condition and material selection. Lifetime (40-year) restoration cost including replacement averaged $2,000-$4,000 per tooth compared to $1,500-$2,500 for large composite restorations requiring multiple replacements.
+## Root Canal Treatment: When Pulp is Involved
 
-## Inlay, Onlay, and Partial Coverage Restorations
+If decay reaches the nerve (pulp), you need root canal treatment. This costs $800 to $1,200 plus restoration. The tooth is then fragile and usually needs a crown ($800 to $2,000) for stability. Total cost: $1,600 to $3,200.
 
-Indirect cast restorations (inlays, onlays, overlay veneers) cost $500-$1,500 depending on material and tooth location: cast gold inlays/onlays cost $800-$1,500, porcelain inlays/onlays cost $600-$1,200, and resin inlays/onlays cost $500-$1,000. Laboratory costs typically compose 50-60% of fees; indirect restorations' superior longevity (90%+ 10-year survival) compared to direct composite (60-70% 10-year survival) justify cost premiums for patients with large cavities and extended treatment timelines.
+Preventing decay before it reaches the nerve is infinitely cheaper. Treating small cavities with simple fillings ($200 to $600) prevents progression to root canal and crown ($1,600 to $3,200). This underscores the value of prompt cavity treatment.
 
-Indirect restoration advantages include superior marginal adaptation (laboratory precision exceeds clinical delivery), superior esthetic control through laboratory refinement, reduced polymerization shrinkage through dual-cure or light-cure systems, and superior occlusal surface anatomy development through intaglio technology. Placement time averages 45-60 minutes including preparation, impression, provisioning, try-in, and delivery, offsetting cost advantage through extended appointment duration.
+## Cost-Effectiveness Over Time
 
-Material selection substantially affects longevity and cost: cast gold restorations achieve 95%+ survival at 15 years but pose esthetic limitations and marginal cost premiums. Porcelain restorations achieve 85-90% 15-year survival with superior esthetics compared to gold. Bonded composite inlays/onlays achieve 75-80% 10-year survival, approaching direct composite performance despite indirect delivery technique and associated cost increase.
+Small one-surface cavity on back tooth:
+- Amalgam: $200 initially, potentially lasts 20 years = $200 total
+- Composite: $300 initially, replace every 7 years = $900 over 21 years
 
-## Bonded Veneer Restorations and Conservative Approaches
+Large three-surface cavity on back tooth:
+- Amalgam: $400 initially, lasts 15-20 years = $400 to $600 total
+- Composite: $500 initially, replace every 7 years = $1,500 over 21 years
+- Crown: $1,500 initially, lasts 15 years = $1,500 total
 
-Conservative bonded restoration alternatives preserve tooth structure while providing esthetic coverage: bonded resin veneers ($400-$800 per tooth) provide anterior esthetics comparable to full-coverage crowns or indirect veneers with minimal tooth preparation (0.5 mm reduction). Composite veneer longevity (5-8 years typically) substantially trails porcelain veneers (10-15 years) and crowns (15-20 years), necessitating periodic replacement. Cost-benefit analysis comparing bonded veneer replacement ($400-$800 every 5-8 years) versus single crown investment ($800-$2,500 with 15-20 year longevity) demonstrates initial veneer cost advantage eroding as replacement cycles accumulate.
+Front tooth cavity (cosmetic is important):
+- Composite: $400 initially, replace every 7 years = $1,200 over 21 years
+- Veneer: $1,200 initially, lasts 12-15 years = $2,400 over 30 years
 
-Bonded composite restoration of moderate cavities (25-50% of crown surface involvement) demonstrates 65-75% 10-year survival comparable to direct composite filling in posterior teeth when bonded to dentin extensively. Placement time extends 45-60 minutes compared to 20-30 minutes for standard composite filling due to anatomic complexity and marginal sealing requirements. Cost ranges $300-$600 per tooth, approaching cost-effectiveness threshold where crown consideration becomes reasonable.
+## Tooth Preparation and Pain
 
-## Material Selection Based on Functional Demands
+Cavity removal is painless with local anesthesia. Your dentist numbs the tooth and surrounding area with injection. Once numb, you feel no pain—only pressure and vibration from the drill. The process takes 15 to 45 minutes depending on cavity size. [Learn more about preventing cavities](/article/cost-of-tooth-decay-prevention.html).
 
-Posterior restoration material selection should consider occlusal stress: high-stress patients (bruxism, clenching, parafunctional habits, heavy forces on small posterior teeth) demonstrate superior longevity with amalgam (90% 10-year) and gold restorations (95%+ 15-year) compared to composite (60% 10-year). Patients with moderate stress and good compliance demonstrate acceptable performance with composite restorations despite cost increase.
+## Replacement and Repair Costs
 
-Anterior restoration material selection increasingly favors composite due to esthetic demands: amalgam anterior restorations cosmetically unacceptable to most patients despite superior longevity. Composite anterior restorations command universal acceptance despite 10-15 year replacement cycles. Porcelain veneers ($600-$2,500 per tooth) provide superior esthetics and longevity compared to composite bonding but require destructive tooth preparation, limiting selection to severely compromised teeth or patients prioritizing esthetics over conservation.
+Composite fillings often need repair or replacement before they fail completely. Repair costs $75 to $150. Replacement costs $200 to $600. Over a lifetime, composite filling repairs accumulate. Amalgam rarely needs repair—it lasts or fails completely.
 
-## Cost Comparison and Long-term Planning
+A cracked or failed filling requires immediate replacement to prevent further decay. Delaying replacement risks expanding cavity and potential root canal need. Address any loose or cracked restorations promptly.
 
-20-year cost analysis comparing restoration options reveals significant variations:
-- Amalgam single-surface restoration: $150-$300 initial, 90% survival predicts $250-$400 total cost over 20 years (single replacement at year 18-20)
-- Composite single-surface restoration: $200-$600 initial, 60% 10-year survival predicts $800-$1,600 total cost over 20 years (one-two replacements)
-- Indirect composite inlay: $500-$1,000 initial, 80% 10-year survival predicts $600-$1,500 total cost (one replacement)
-- Crown restoration: $800-$2,500 initial, 85% 15-year survival predicts $1,200-$3,500 total cost (one replacement)
+## Conclusion
 
-Conservative composite restoration ($200-$600) proves most economical short-term; amalgam ($150-$300) achieves lowest total cost over extended timelines through superior longevity. Indirect and crown restorations prove economical only in extensive cavities where direct composite survival decreases below 50% at 10 years due to large bulk and stress concentration.
+For small cosmetic cavities: composite fillings ($200-$600) provide invisible restoration for 5 to 10 years.
 
-## Insurance Coverage and Patient Considerations
+For small functional cavities: amalgam ($150-$300) lasts 15 to 30 years with superior durability.
 
-Dental insurance typically covers 50-80% of restoration costs, with annual maximum benefits ($1,000-$2,500) frequently limiting coverage. Most plans classify amalgam as primary covered material, with composite coverage capped at amalgam equivalent cost (typically $100-$200 per surface cost difference); patients receive balance of composite cost as out-of-pocket expense ($50-$200 per surface depending on plan and restoration size). Bonded veneers, crowns, and indirect restorations typically experience lower coverage percentages (25-50%) recognizing increased cost and esthetic benefits.
+For large cavities: crowns ($800-$2,000) provide superior longevity and strength compared to fillings.
 
-Patients should clarify insurance coverage pre-treatment: cost differences between restoration options significantly impact patient decision-making. Selecting lowest-cost covered option (amalgam or resin-modified glass ionomer) requires patient understanding that superior longevity options (composite, indirect restorations, crowns) require substantial out-of-pocket investment despite superior long-term value.
+For cavities approaching nerve: prompt treatment prevents root canal ($800-$1,200) and crown costs.
+
+## Related Articles You May Find Helpful
+
+- [Cavity Prevention and Early Detection](/article/cost-of-tooth-decay-prevention.html)
+- [Root Canal Treatment to Save Teeth](/article/cost-of-tooth-structure-layers.html)
+- [Understanding Tooth Structure](/article/cost-of-tooth-structure-layers.html)
+
+> **Key Takeaway:** Small cavities cost $150-$600 for fillings; large cavities cost $800-$2,500 for crowns. Composite looks better but lasts shorter than amalgam. Prevent expensive root canals and crowns by treating small cavities promptly. Talk to your dentist about which restoration material is best for your specific cavity.
