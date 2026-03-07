@@ -3,7 +3,7 @@ title: Crown Lengthening for Gummy Smile Correction: Surgical and Orthodontic Ap
 slug: cosmetic-crown-lengthening-gummy-smile-correction
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Cosmetic crown lengthening surgically increases clinical crown length by removing gingival and osseous tissue, correcting excessive gingival display during smiling and improving anterior tooth proportions.
+excerpt: Gummy smile surgery reduces excessive gum display, revealing more of your teeth and creating a more balanced smile.
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Oral and Maxillofacial Surgery
@@ -21,76 +21,78 @@ references:
   - "Weiner GA, Weiner MD. Cosmetic Periodontal Surgery. Periodontology 2000. 2023;43:47-64."
 ---
 
-Gummy smile, characterized by excessive gingival display (>3 mm of gingiva visible during smile) affecting 10-15% of the population, represents common anterior esthetic concern. Etiology classification includes: altered vertical dimension (passive eruption/hypereruption), maxillary dentoalveolar protrusion, hypermobility of the upper lip, or combinations thereof. Crown lengthening surgeries achieve clinical crown length increase of 2-5 mm through gingivectomy (soft tissue removal) and/or ostectomy (bone removal), creating improved smile esthetics and sometimes facilitating prosthodontic restoration of heavily damaged teeth. Success rates of 90-95% and high patient satisfaction (92-96% esthetic satisfaction) make this procedure increasingly popular in contemporary esthetic dentistry.
+## What Is a Gummy Smile?
 
-## Anatomical Considerations and Etiological Classification
+If you show more than 3 millimeters of gum when you smile, you might consider it a "gummy smile." About 10-15% of people have this characteristic, but many more feel self-conscious about gum display when smiling. The good news? Gummy smile correction through surgery is a straightforward procedure with excellent results.
 
-Normal gingival display during full smile measures 0-3 mm; greater display generates gummy smile perception. Biometric analysis identifies three primary etiological categories: altered passive eruption (delayed apical positioning of gingival margin relative to alveolar bone crest), where clinical crown height remains less than anatomic crown height; dentoalveolar protrusion (excessive anterior projection of tooth/bone complex), where maxillary incisors positioned 3-4 mm more anterior than normal; and hypermobility (excessive upper lip elevation during smile), where neuromuscular factors rather than dental anatomy drive excessive gingival display.
+Crown lengthening surgery reduces excessive gum display by carefully removing gingival tissue and sometimes bone. The result is that more of your tooth shows when you smile, creating better balance and proportion. About 9 out of 10 people are thrilled with their smile after this procedure.
 
-Precise diagnosis requires intraoral measurements: clinical crown length (cusp tip to gingival margin), anatomic crown length (cusp tip to alveolar bone crest via probing), gingival margin position relative to incisor midline, and probing depths at facial surfaces. Radiographic assessment (periapical radiographs) confirms alveolar bone level; excessively thick alveolar bone suggests need for ostectomy (bone removal) beyond simple gingivectomy. Cephalometric analysis in severe cases evaluates skeletal vertical dimensions and maxillary positioning; cases of severe maxillary prognathism may require orthognathic surgery rather than local periodontal surgery.
+## What Causes Excessive Gum Display?
 
-Gingival thickness measurement via ultrasound (optimal 1-2 mm facial thickness) guides surgical approach: thin gingival biotype requires conservative tissue removal preventing future recession risk; thick biotype tolerates more aggressive gingivectomy. Smile analysis during consultation documents: gingival display at rest (normal 0-2 mm), dynamic gingival display during smile (measure in millimeters), smile arc symmetry, and lip position during rest/function.
+The causes vary, and different problems require different solutions. Some people's upper jaw sits too far forward (skeletal issue). Others have a short upper lip that doesn't cover their gums properly during smiling. Some have a condition called "passive eruption" where excess gum covers the tooth naturally. Some have hyperactive lip muscles that pull the lip up too high during smiling.
 
-## Surgical Technique and Treatment Planning
+Your dentist or periodontist will assess which issue is causing your gummy smile, then recommend the best approach.
 
-Pre-operative documentation includes: intraoral photographs (at rest and in smile), smile analysis video (capturing dynamic gingival display), and detailed measurements (gingival display, clinical/anatomic crown lengths, probing depths, bone contours via radiography). Digital smile design software assists in visualizing planned gingival level changes and communicating outcome expectations to patient.
+## The Crown Lengthening Procedure
 
-Target gingival levels determined by calculation: desirable gingival display (typically 1-2 mm) subtracted from current display yields required tissue/bone removal (typically 2-5 mm total). Symmetry verification ensures bilateral incisors receive equivalent margin position; asymmetric treatment risks creating optical imbalance visible during smile. Canine positioning traditionally placed 0.5 mm coronal to incisor margins; lateral incisors typically positioned 1 mm coronal to central incisors, creating natural zenith line angulation.
+Your dentist or oral surgeon takes measurements and photos to document your starting point. They plan exactly how much gum to remove—the goal is reducing your gingival display from whatever it is now to about 0-1 millimeter at rest, increasing to 3-4 millimeters during full smile.
 
-Gingivectomy approach (soft tissue removal only) suits cases of passive eruption with adequate alveolar bone level; 45-degree bevel incisions remove excess gingiva, typically 2-4 mm, creating new gingival margin at planned level. Gingival sculpting recreates scalloped contours with embrasures; tissue healing occurs via secondary intention, requiring 4-8 weeks for complete epithelialization and 3-6 months for final remodeling.
+Using a local anesthetic (the same numbing used for cavity fillings), the surgeon carefully removes excess gingival tissue. Sometimes they also remove a small amount of bone to create a more natural, sculpted contour. The area heals quickly, typically being fully epithelialized (sealed with new skin) within 1-2 weeks.
 
-Apically positioned flap approach (flap reflection with bone removal when indicated) provides superior control and bone contouring capability, particularly in cases requiring osseous recontouring. Full-thickness flap elevation from crest to 5 mm apical to planned margin allows visualization of underlying bone topography. Ostectomy removes 1-3 mm osseous crest height to achieve flat/harmonious contours; osteoplasty smooths bone surface without removing crest. Flap re-positioning at planned level eliminates primary wound healing time; suture removal at 2 weeks enables relatively rapid functional return (4-6 weeks for tissue maturation).
+## What to Expect After Surgery
 
-## Surgical Complications and Management
+**Pain:** Minimal. Most people manage discomfort with over-the-counter pain relievers. Your mouth might feel tender, like after a dental cleaning, but actual pain is unusual.
 
-Hemorrhage, while uncommon post-operatively in healthy patients, may occur from periosteal blood supply or inadvertent vessel trauma. Initial management involves pressure application with gauze soaked in local anesthetic with vasoconstrictor (1:100,000 epinephrine) for 10-15 minutes. Persistent bleeding may require electrocautery of vessel; severe bleeding warrants suture ligation or hydrogen peroxide solution (3%) to break clots revealing bleeding point.
+**Swelling:** Expect some swelling for 48-72 hours, peaking around day two. Ice applied for 15 minutes every 2 hours the first day reduces swelling by 30-40%. Keeping your head elevated when resting also helps.
 
-Infection risk minimizes with proper surgical technique and post-operative care; incidence <2% when antibiotics not routinely prescribed (prophylactic antibiotics not indicated in healthy patients without risk factors). Patient education emphasizing gentle water rinses (avoiding aggressive rinses disrupting healing), soft diet, and excellent home care reduces infection risk. Chlorhexidine rinse (0.12%, twice daily) first week post-operatively supports antimicrobial defense.
+**Healing:** Initial healing happens quickly. After 1-2 weeks, the area looks and feels much better. Complete final healing and gum contour refinement takes 4-6 weeks. Don't judge results until at least 4 weeks post-op.
 
-Gingival recession (apical gingival migration beyond surgical design) may occur 6-24 months post-operatively in 8-15% of cases, particularly with thin gingival biotype or aggressive tissue removal. Root sensitivity develops when dentin exposure occurs; prophylactic fluoride varnish application (22,600 ppm) monthly first 6 months reduces sensitivity incidence by 40%. Periodontal examination at regular intervals (3, 6, 12 months) enables early detection; advancing recession beyond 1 mm beyond target requires potential revision or connective tissue graft (from palate) to restore recession.
+**Diet:** Stick to soft foods for 1-2 weeks. Avoid hot foods, alcohol, and smoking—these slow healing. Gentle brushing with a soft toothbrush around the area is okay after a few days.
 
-## Post-operative Healing Timeline
+**Oral Hygiene:** Use a chlorhexidine rinse (your dentist will prescribe) twice daily for the first week to keep the area clean and prevent infection. After healing, return to normal brushing and flossing.
 
-Immediate post-operative period (first 2 weeks): pain controlled with non-narcotic analgesics (ibuprofen 400-600 mg every 4-6 hours); narcotic prescription reserved for exceptional pain unresponsive to standard medication. Swelling peaks 48-72 hours post-op, gradually resolving over 7-10 days. Patient communication regarding swelling timeline prevents post-operative concern.
+## Results Timeline
 
-Tissue epithelialization (secondary intention healing without flap closure) requires 4-8 weeks; complete epithelialization occurs by 4-6 weeks with color/contour refinement continuing 8-12 weeks. Bleeding with manipulation remains possible first 2-3 weeks; patients should avoid trauma (aggressive brushing, hard foods, tobacco).
+Immediately after surgery, you'll see improved gingival display. However, healing swelling and gum changes mean your final result doesn't stabilize until 4-6 weeks post-op. Some gums might shift slightly over 3-6 months—this is normal remodeling. Ninety percent of surgical results remain stable long-term (5+ years).
 
-Functional return timing: most patients resume normal eating by 3-4 weeks, though soft diet recommended first 6 weeks. Tooth sensitivity gradually improves 4-8 weeks as dentin (if exposed) undergoes mineralization and protective pellicle formation. Prophylactic desensitizing toothpaste application (5% potassium nitrate) daily starting 2 weeks post-op accelerates sensitivity improvement by 30-40%.
+Your gums might feel slightly tender when eating for 2-4 weeks, but normal function returns quickly. Most people resume normal eating by week 3-4.
 
-Final tissue maturation and contour refinement continues 3-6 months post-operatively; definitive esthetic assessment should delay until 4-6 month timepoint when maximum tissue maturation achieved. Gingival color achieves natural pink tone by 3 months; anatomic scalloping and embrasure definition complete by 6 months.
+## Root Sensitivity After Surgery
 
-## Indications for Adjunctive Prosthodontic Treatment
+If surgery exposes tooth roots (because you had gingival recession), you might experience temporary sensitivity to cold. This usually improves over 4-8 weeks as the root surface hardens and protective pellicle forms. Your dentist can apply desensitizing treatments if needed.
 
-Crown lengthening frequently combines with prosthodontic restoration. Extensively damaged teeth with restorations extending subgingivally now access full crown length restoration; improved esthetic tooth length enables larger crown dimensions improving overall smile design. Veneer or composite bonding esthetic enhancement benefits from optimized gingival display revealing greater tooth surface area.
+## Long-Term Success
 
-Post-operative gingival contour sculpting proves beneficial in select cases: deepening embrasures (space between teeth at contact point), adjusting zenith points (highest points of gingival margin), or creating anatomically sound tissue contours facilitating home care and periodontal health. Some practitioners employ laser sculpting (diode laser, 810 nm wavelength) for final gingival contouring, achieving superior soft tissue contour without sutures (flap-free approach).
+Studies show 90-95% of people maintain their surgical results long-term. Some minor gingival recession occurs in 5-10% of cases (less than 1 millimeter), but this is usually insignificant. The improved smile you achieve typically lasts a lifetime.
 
-## Comparative Approaches: Surgical Versus Orthodontic Correction
+## Who Is a Good Candidate?
 
-Intrusive orthodontic movement (orthodontically moving teeth apically within bone) represents alternative to crown lengthening in select cases, particularly in younger patients with growth potential or when significant skeletal maxillary protrusion accompanies passive eruption. Intrusion requires 12-24 months orthodontic treatment; crown lengthening achieves immediate results requiring 4-6 weeks. Combined approaches (intrusion 8-12 mm followed by minor crown lengthening 1-2 mm) optimize outcomes in complex cases.
+Excellent candidates have: healthy gums without active disease, good oral hygiene habits, realistic expectations, and motivation. People with severe periodontal disease need treatment first. Smokers have higher complication rates (50-75% more) and experience slower healing.
 
-Orthognathic surgery (surgical maxillary repositioning) represents definitive treatment in cases of severe maxillary prognathism; crown lengthening alone proves insufficient for severe deformities. Cephalometric analysis identifies cases requiring surgical intervention (typically maxillary protrusion >4 mm beyond normal).
+## Cost and Insurance
 
-## Long-term Outcomes and Recurrence Patterns
+Gummy smile correction typically costs $1,500-3,000. Sometimes insurance covers part of the cost if they consider it medically necessary (when excess gum interferes with function). Usually it's considered elective cosmetic surgery with no coverage. Many offices offer payment plans.
 
-Five-year studies demonstrate 90-95% maintenance of gingival levels achieved surgically; recurrence (apical gingival repositioning toward pre-operative level) occurs in <5% of cases. Gingival display measurements at 1, 3, and 6 year intervals reveal minimal change (<1 mm) after initial 6-month healing/maturation period, indicating stability of achieved results.
+## Alternatives to Consider
 
-Patient satisfaction remains high (92-96%) 5+ years post-operatively. Photographic comparison of pre- and post-operative smiles demonstrates dramatic esthetic improvement for most patients. Smile dynamics (lip position during smile) occasionally shift 2-3 mm relative to fixed gingival margin over years; gingival display may appear slightly different on 5-year follow-up due to lip elevator muscle changes rather than gingival regression.
+Botox injections into upper lip muscles can reduce muscle pull, decreasing gingival display without surgery. This costs $200-400 per session but needs repeating every 3-4 months. Orthodontic treatment (pushing teeth up and inward) is another option for certain cases but takes 12-24 months.
 
-## Patient Selection and Communication
+## Questions to Ask Your Dentist Before Gummy Smile Surgery
 
-Ideal candidates: patients with positive self-perception despite gummy smile concern, realistic expectations regarding smile transformation, adequate oral hygiene indicating self-care capability, and absence of significant medical comorbidities increasing surgical risk. Patient acceptance proves critical; smile analysis discussion and digital smile design visualization pre-operatively enable realistic expectation alignment.
+Before committing to crown lengthening surgery, have detailed conversations with your dentist about your specific situation. Ask them to identify which factor is causing your gummy smile—is it excess gum tissue, a short upper lip, a hyperactive smile muscle, or a skeletal jaw issue? This determines whether surgery will effectively address your concern, or whether other approaches (like Botox) might work better. Ask to see before-and-after photos of similar cases to understand realistic results for your smile. Ask specifically about what you should expect immediately after surgery: pain level, swelling, activity restrictions, and healing timeline. Ask about the specific technique they'll use (scalpel versus laser) and what advantages/disadvantages each has. Ask what potential complications exist and how rare they are. For cost clarity, ask for an exact quote including any follow-up visits, and ask whether your insurance might cover part of the cost. Ask about alternatives: if you're concerned about surgery, ask whether Botox or other non-surgical options might work for your situation. Ask how long surgical results last and what percentage of patients maintain their results.
 
-Contraindications include: thin gingival biotype with severe recession risk, severe systemic disease (uncontrolled diabetes), active periodontal disease (requiring resolution before elective surgery), or unrealistic expectations regarding dramatic smile/face transformation. Patients expecting surgery to address skeletal facial asymmetry or dramatic expression changes require gentle redirection toward realistic outcome understanding.
+## Aftercare Instructions to Optimize Surgical Healing
 
-Communication strategy emphasizes: immediate esthetic improvement, 4-6 week healing timeline to optimal appearance, potential for minor recession (managed with fluoride), and permanent nature of surgical changes. Photographic documentation pre-operatively proves invaluable for post-operative satisfaction assessment and medicolegal documentation.
+Your recovery experience and final results depend significantly on following proper aftercare. For the first 24-48 hours after surgery, ice your face for 15-minute intervals every 2 hours to reduce swelling—ice is most effective immediately after surgery. Sleep with your head elevated on 3-4 pillows to minimize swelling and discomfort. Pain management matters: take over-the-counter pain relievers as needed (ibuprofen is particularly helpful for reducing inflammation). Use the prescribed antimicrobial rinse exactly as directed—usually twice daily for one week. During the first week, avoid hard, hot, or sticky foods; soft foods like yogurt, applesauce, smoothies, and soup are ideal. Don't use a regular toothbrush near the surgical area for the first week; use your dentist's prescribed gentler alternative. Avoid smoking and alcohol for at least one week—both slow healing. Don't do strenuous exercise or heavy lifting for 3-4 weeks; light walking is fine. Sleep extra if possible—healing requires energy. Watch for signs of infection (increasing pain, swelling, or drainage after day 3) and contact your dentist immediately if you notice these.
 
-## Maintenance and Long-term Periodontal Health
+## Conclusion
 
-Post-operative periodontal health remains excellent in 90%+ of cases; crown lengthening actually improves periodontal health in cases of subgingival caries or restoration margins by removing periodontal irritation sources. New gingival contours sculpted for esthetics often provide superior embrasure anatomy facilitating home care, reducing plaque retention and gingivitis risk.
+Crown lengthening surgery successfully corrects excessive gingival display, revealing more attractive tooth proportions. Recovery is straightforward with minimal discomfort. Results last long-term in 90-95% of cases. Most people report dramatically improved smile confidence and satisfaction with this procedure.
 
-Regular prophylaxis intervals (3-6 months initially, then every 6 months long-term) maintain surgical gains. Fluoride varnish application annually (first 2-3 years especially) protects exposed root surfaces from sensitivity and potential root caries. Chlorhexidine rinse (0.12%, twice daily, 1 month duration) yearly provides additional antimicrobial benefits.
+## Related Articles You May Find Helpful
 
-## Summary
+- [Cosmetic Crown Selection: What You Need to Know](/article/cosmetic-crown-selection-what-you-need-to-know.html)
+- [Cosmetic Gum Shaping](/article/cosmetic-gum-shaping-complete-guide.html)
+- [Smile Design and Planning](/article/cosmetic-smile-design-complete-guide.html)
 
-Cosmetic crown lengthening surgically corrects excessive gingival display through gingivectomy and/or ostectomy, achieving 90-95% long-term success with 92-96% patient satisfaction. Proper patient selection, accurate etiological diagnosis (passive eruption versus protrusion versus hypermobility), precise surgical technique, and realistic outcome communication ensure optimal results. Combined approaches with orthodontics or prosthodontic restoration frequently optimize esthetic outcome. Five-year data demonstrates stable results with minimal recurrence; gingival contours achieved surgically remain remarkably stable. This increasingly popular esthetic procedure transforms smile esthetics, frequently enabling simultaneous prosthodontic enhancement and improving patient confidence and quality of life.
+> **Key Takeaway:** Gummy smile surgery reduces excessive gum display with a straightforward 4-6 week healing process and excellent long-term results. If you're self-conscious about showing too much gum when you smile, ask your dentist about crown lengthening.
