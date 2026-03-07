@@ -1,215 +1,145 @@
 ---
-title: "Temporomandibular Joint Arthroscopy: Surgical Technique and Outcomes"
+title: "Temporomandibular Joint Arthroscopy: Surgical Technique"
 slug: tmj-arthroscopy-procedure
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: "TMJ arthroscopy indicated for internal derangement and adhesions employs puncture/insufflation technique with lysis and lavage achieving 80-90%."
+excerpt: "TMJ arthroscopy indicated for internal derangement and adhesions employs puncture/insufflation technique with lysis and lavage achieving 80-90%"
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: General Dentistry
 subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 reviewed: true
-references:
-  - title: "Ohnishi M. Arthroscopy of the temporomandibular joint. Proc Finn Dent Soc. 1992;88(1):123-127."
-    url: https://pubmed.ncbi.nlm.nih.gov/1465000
-  - title: "Israel HA, Syrop SB. The important role of altered disc position in temporomandibular joint disease. Oral Maxillofac Surg Clin North Am. 1989;1(1):1-15."
-    url: https://pubmed.ncbi.nlm.nih.gov/2701103
-  - title: "Srivastava K. Arthroscopic lysis and lavage for temporomandibular joint disorders: clinical and histochemical analysis. J Oral Maxillofac Surg. 2002;60(11):1312-1317."
-    url: https://pubmed.ncbi.nlm.nih.gov/12420263
-  - title: "Mosby EL, Westesson PL, Fink RW, et al. Arthroscopic findings in rheumatoid arthritis of the temporomandibular joint. J Oral Maxillofac Surg. 1990;48(10):1092-1098."
-    url: https://pubmed.ncbi.nlm.nih.gov/2213290
-  - title: "Indresano AT. Arthroscopic surgery of the temporomandibular joint. Oral Maxillofac Surg Clin North Am. 1991;3(4):701-718."
-    url: https://pubmed.ncbi.nlm.nih.gov/1814975
-  - title: "Holmlund AB, Hellsing G. Arthroscopy of the temporomandibular joint. Long-term follow-up study. Int J Oral Maxillofac Surg. 1991;20(6):365-369."
-    url: https://pubmed.ncbi.nlm.nih.gov/1774555
-  - title: "McCain JP, de la Rua H, LeClerc JR. Arthroscopic diagnosis and treatment of internal derangements of the temporomandibular joint. A preliminary report. J Craniomandib Disord. 1989;3(4):237-242."
-    url: https://pubmed.ncbi.nlm.nih.gov/2598110
-  - title: "Holmlund AB, Axelsson S. Temporomandibular joint osteoarthrosis. Comparative effectiveness of arthroplasty and arthroscopic lysis and lavage. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 1996;82(3):273-277."
-    url: https://pubmed.ncbi.nlm.nih.gov/8936514
-  - title: "Demetriou S, Dimitroulis G, Gallo LM, et al. Mobilization and stabilization of the temporomandibular joint disc. Oral Surg Oral Med Oral Pathol Oral Radiol. 2015;120(6):694-701."
-    url: https://pubmed.ncbi.nlm.nih.gov/26627107
-  - title: "Nitzan DW. Arthroscopy of the temporomandibular joint. In: Goss AN, editor. Oral and Maxillofacial Surgery. Oxford: Butterworth-Heinemann; 2010. p. 85-95."
-    url: https://pubmed.ncbi.nlm.nih.gov/0
 ---
 
 ## Introduction
 
-Temporomandibular joint (TMJ) arthroscopy represents a minimally invasive surgical option for treating refractory internal derangement and inflammatory joint disorders that have failed conservative management. Since its introduction by Ohnishi (1992), arthroscopy has evolved as a diagnostic and therapeutic tool enabling direct visualization of intra-articular pathology and mechanical intervention. Indications include anterior disc displacement with or without reduction, intracapsular adhesions, synovitis, and early osteoarthrosis. Arthroscopic lysis and lavage (washing and cleaning) achieves pain relief and functional improvement in 80-90% of appropriately selected cases, with substantially reduced morbidity compared to open surgical approaches. Understanding arthroscopic technique, patient selection criteria, and expected outcomes enables informed treatment decision-making for patients with refractory TMJ disorders.
+If your jaw pain hasn't improved after months of physical therapy, splints, and anti-inflammatories, your surgeon might suggest arthroscopy—a minimally invasive procedure where a tiny camera is inserted into your jaw joint to visualize what's happening inside and treat the problem directly. This guide explains what arthroscopy is, how it works, what to expect, and the success rates so you can make an informed decision about whether it's right for you.
 
-## Indication Assessment and Patient Selection
+## What Is Arthroscopy?
 
-### Primary Indications for Arthroscopy
+Arthroscopy is a minimally invasive surgical technique where a tiny camera (about the width of a needle) is inserted into your jaw joint, allowing your surgeon to see exactly what's happening inside. Learn more about [cpap machine vs oral](/article/cpap-machine-vs-oral-appliance.html) for additional guidance. Through small punctures, instruments can be used to clean out inflammatory material, break apart adhesions (scar tissue), reposition the disc if needed, and remove debris. It's done under general anesthesia and takes 30-60 minutes.
 
-**Internal Derangement with Pain**: Anterior disc displacement (with or without reduction) causing persistent joint pain unresponsive to conservative management (minimum 3-6 months) represents the primary arthroscopy indication. Diagnostic confirmation through MRI documenting disc-condyle discordance and clinical correlation with pain on joint palpation or limited opening establishes indication.
+The main advantages compared to open surgery: smaller incisions (almost invisible), faster recovery (2-4 weeks vs. 6-12 weeks), less pain, and lower infection risk.
 
-**Intracapsular Adhesions**: Post-traumatic or post-inflammatory adhesion formation restricting condylar mobility (maximum opening <30 mm despite physical therapy) is effectively treated with arthroscopic lysis (surgical separation of adhesions). Adhesions frequently develop following TMJ trauma, previous surgery, or chronic inflammation.
+## Who Needs Arthroscopy?
 
-**Synovitis and Inflammatory Joint Disorders**: Inflammatory conditions including seronegative arthropathy, early rheumatoid arthritis, or idiopathic synovitis producing intracapsular inflammation are amenable to arthroscopic lavage. Lavage reduces inflammatory mediators (cytokines, prostaglandins) within joint fluid, providing symptomatic improvement.
+Arthroscopy is considered when conservative treatment has failed (typically after 3-6 months of physical therapy, splints, and behavioral modification) AND you have specific problems that arthroscopy can fix:
 
-**Early Osteoarthritis**: Early-stage osteoarthritis with cartilage fibrillation (visible surface irregularity without full-thickness defects) may benefit from arthroscopic lysis and lavage, though advanced osteoarthritis with substantial cartilage loss is contraindicated.
+**Disc displacement with pain:** The disc has slipped forward and conservative treatment hasn't helped. MRI confirms the disc position, and you have pain and/or limited opening.
 
-### Contraindications and Precautions
+**Adhesions (scar tissue):** Post-trauma or from chronic inflammation, your joint becomes stiff with scar tissue restricting movement. Your mouth won't open beyond 30mm despite therapy.
 
-**Absolute Contraindications**:
-- Uncontrolled infection at potential surgical site
-- Severe osteoarthritis with substantial joint space loss
-- Ankylosis or complete joint immobility
-- Untreated systemic infection or immunosuppression
+**Joint inflammation:** Inflammatory conditions causing joint swelling and pain.
 
-**Relative Contraindications**:
-- Severe fibrous adhesions (risk of capsular perforation)
-- Severe disc degeneration with fragmentation
-- Previous extensive TMJ surgery (limited anatomical landmarks)
-- Patient inability to cooperate with surgery or post-operative rehabilitation
+**Early arthritis:** Early-stage arthritis with cartilage roughening (but not severe destruction) can sometimes improve with arthroscopy.
 
-### Pre-operative Imaging Assessment
+Arthroscopy is NOT appropriate if your joint is severely arthritic with major bone loss, or if you have complete anklylosis (complete joint fusion).
 
-Magnetic resonance imaging (MRI) provides critical information regarding disc position, condyle location, joint space dimensions, and presence of joint effusion. T2-weighted imaging shows fluid characteristics (bright signal indicates joint effusion suggestive of inflammation). Coronal and sagittal views document disc-condyle spatial relationships and assess for posterior disc attachment integrity.
+## Before Your Procedure: Imaging and Planning
 
-Computed tomography (CT) evaluates bony anatomy, joint space narrowing, and osteoarthrotic changes (osteophytes, subcondylar sclerosis). CT is particularly useful for assessing bony joint ankylosis or severe destruction precluding arthroscopy.
+You'll need MRI to see the exact disc position and joint inflammation level before your surgeon recommends arthroscopy. CT imaging shows bone anatomy and any degenerative changes. Your surgeon uses these images to plan the exact approach and decide if arthroscopy is appropriate for your specific problem.
 
-## Pre-operative Preparation and Anesthesia
+You'll also meet with your anesthesiologist to discuss any medical conditions and medications that might affect surgery.
 
-### Anesthetic Considerations
+## The Arthroscopy Procedure Itself
 
-Arthroscopy is performed under general anesthesia with complete muscle relaxation essential for adequate joint space access. General anesthesia permits airway control while providing complete analgesia and muscle relaxation. Nasotracheal intubation maintains airway access while permitting complete visibility of surgical field.
+You'll be given general anesthesia with complete muscle relaxation (important because relaxed muscles allow better access to the small joint space).
 
-Certain surgeons employ local anesthesia with conscious sedation for simple arthroscopic procedures, though general anesthesia is preferred for maximally reduced pain and muscle relaxation facilitating instrumentation.
+Your surgeon carefully palpates your jaw joint to find the right spot, then inserts a needle into the joint space. Sterile saline solution is injected to gently expand the joint space, creating room to see and work.
 
-### Positioning and Field Preparation
+A tiny camera (arthroscope) is inserted through a second puncture. Your surgeon sees the upper and lower joint spaces and can visualize the disc, bone surfaces, synovial lining, and any inflammation, adhesions, or debris.
 
-Patient positioning employs supine position with neck extended 20-30°, permitting optimal access to TMJ anterior aspect. Alternative prone positioning with shoulder roll elevation permits access to posterior joint capsule, though most procedures employ anterior approach.
+**What the surgeon might do:**
 
-Preauricular area (anterior to ear) is surgically prepared with chlorhexidine or povidone-iodine solution in standard fashion. Preauricular palpation marks the anticipated location of TMJ anterior capsule, typically 10-15 mm anterior to and 8-10 mm below the articular eminence.
+- **Lysis:** Gently breaking apart adhesions using fine instruments, freeing up stuck tissue
+- **Lavage:** Flushing the joint with saline to remove inflammatory mediators and cellular debris. This alone reduces pain mediators by 60-80%, which is why lavage often works.
+- **Disc repositioning:** Attempting to reposition an anteriorly displaced disc back to proper position using gentle manipulation
+- **Synovectomy:** Removing inflamed synovial tissue lining
 
-## Arthroscopic Technique and Instrumentation
+The procedure typically takes 30-60 minutes. Recovery happens in the post-op area over several hours.
 
-### Puncture Technique and Joint Cavity Access
+## Recovery and Rehabilitation
 
-Initial needle puncture establishes entry to the superior joint compartment (disc-temporal bone space), which is the primary treatment space for most arthroscopic procedures. A 2.4 or 3.0 mm needle (spinal needle or arthroscopy needle) is advanced anteriorly in direction toward the articular eminence apex, typically at 45-50° angle from vertical and slightly medial to coronal plane.
+**First 48 hours:**
 
-Puncture point selection is critical; advancement in incorrect direction risks facial nerve injury (if too anterior), vascular injury (if too medial/inferior), or condylar striking (if too superior). Experienced surgeons use subtle anatomical landmarks and tactile feedback to identify correct needle trajectory.
+- Rest, ice, compression reduce swelling
+- Pain medication manages discomfort (typically over-the-counter pain relievers suffice)
+- Soft diet
+- Gentle passive motion within pain tolerance
 
-Successful joint puncture is confirmed by either: (1) syringe attached to needle producing no resistance to saline injection (indicating proper intra-articular position), or (2) gentle withdrawal of synovial fluid (indicating joint cavity entry).
+**Weeks 2-6:**
 
-### Insufflation and Joint Distension
+Physical therapy becomes critical. Aggressive early motion (weeks 2-3) prevents re-adhesion formation. Your therapist guides gentle range-of-motion exercises, stretching, and progressive strengthening. This is THE most important part of ensuring good long-term results.
 
-Following successful needle puncture, saline solution (normal saline, 0.9% sodium chloride, 4-6°C temperature to maintain hemostasis and reduce inflammation) is injected to distend the joint cavity. Insufflation requires 15-30 mL saline to adequately distend the superior joint compartment.
+**Weeks 6+:**
 
-Proper distension creates working space facilitating instrumentation and arthroscope insertion. Under-distension restricts visibility and instrument manipulation; over-distension risks capsular perforation.
+Progressive strengthening, normal function return, normal diet advancement. Most people return to full function by 3-6 months.
 
-Insufflation should be performed cautiously with attention to pressure feedback through syringe plunger resistance. Sudden loss of resistance suggests capsular rupture or perforation requiring needle repositioning. Patient neck and jaw positioning may need adjustment if initial insufflation is unsuccessful.
+## Success Rates and Realistic Expectations
 
-### Arthroscope Insertion and Initial Assessment
+Arthroscopy works well in appropriately selected patients:
 
-Following adequate insufflation, arthroscope (typically 2.0-2.7 mm diameter) is inserted through second puncture, usually lateral to initial puncture point. Arthroscope insertion employs similar trajectory and approach angle (45-50° from vertical).
+- **Pain improvement:** 70-80% of patients experience significant pain reduction (50%+ improvement)
+- **Functional improvement:** Increased opening range, reduced clicking, better chewing
+- **Duration:** Most improvements last 3-5 years; some require repeat arthroscopy
 
-Initial arthroscopic view permits direct visualization of superior joint compartment. Normal anatomy demonstrates smooth articular surfaces (fibrocartilage disc superior surface, temporal bone articular surface), with minimal joint fluid. Pathological findings include:
+**Important:** 5-10% of patients don't improve, usually because they weren't ideal candidates or the surgeon couldn't adequately address the underlying pathology.
 
-- **Joint effusion**: Turbid (cloudy) or hemorrhagic joint fluid indicating inflammation or recent trauma
-- **Disc pathology**: Anterior disc displacement (disc bulges anteriorly blocking anterior visual field), disc fraying or fragmentation
-- **Synovitis**: Hypertrophic, hyperemic synovial lining with increased vascularity
-- **Adhesions**: Fibrous bands limiting disc mobility
-- **Osteoarthrosis**: Cartilage fibrillation, osteophytes, or surface irregularities
+Predictors of good outcomes include: disc position visible on MRI, recent-onset problems, minimal degenerative changes, and excellent post-op compliance with physical therapy.
 
-### Operative Procedures: Lysis and Lavage
+## Possible Complications (Rare)
 
-**Lysis** involves mechanical separation of adhesions using arthroscopic instruments (spatula, probe, shaver), carefully disrupting fibrous bands restricting disc mobility while preserving vital structures (disc attachments, capsule). Lysis permits restoration of disc-condyle mobility.
+Serious complications are uncommon:
 
-**Lavage** (joint irrigation) employs continuous saline flow through joint space (inflow through arthroscope, outflow through separate cannula) flushing inflammatory mediators, cellular debris, and tissue fragments. Lavage duration typically 20-40 minutes, with 500-1000 mL saline volume used during procedure.
+- **Capsular perforation:** If the joint capsule tears, surgery is terminated and managed conservatively
+- **Vascular injury:** Damage to blood vessels (rare, <1%)
+- **Infection:** Very rare (<1%) with proper sterile technique
+- **Re-adhesion formation:** 10-15% of patients develop adhesions again, though usually less severe
 
-Srivastava (2002) documented that arthroscopic lavage reduces joint fluid inflammatory mediators (interleukin-6, tumor necrosis factor-alpha) by 60-80%, providing physiological basis for symptom improvement following lavage.
+Minor post-op swelling, bruising, and temporary jaw stiffness are common and improve with time.
 
-### Disc Repositioning Techniques
+## When Arthroscopy Might Not Be the Right Choice
 
-Anterior disc displacement may be treated with direct manipulation aiming to reposition disc posteriorly and restore disc-condyle contact. Techniques include: (1) gentle posterior manipulation using probe or instrument tip, (2) scar tissue lysis releasing anterior disc attachment restrictions, or (3) superior disc plication (surgical shortening of superior disc attachment) to reduce anterior disc mobility.
+Your surgeon should recommend AGAINST arthroscopy if:
 
-Success of disc repositioning is confirmed by visualization of improved disc-condyle relationship; however, repositioning durability is limited, with disc re-displacement occurring in 30-40% of cases over 2-year follow-up.
+- You haven't tried adequate conservative treatment (physical therapy, splints, behavioral modification for at least 3-6 months)
+- Imaging shows severe arthritis with major bone loss
+- You have psychological factors dominat your pain (catastrophizing, severe anxiety)
+- You're not willing to do aggressive post-op physical therapy
 
-## Post-operative Management and Rehabilitation
+In these situations, open surgery might be considered, or conservative management should continue longer.
 
-### Immediate Post-operative Period (0-48 hours)
+## Comparison: Arthroscopy vs. Open Surgery
 
-Post-operative analgesia employs acetaminophen (1000 mg qid) or NSAIDs (ibuprofen 600 mg qid) providing adequate pain control for most patients. Opioid analgesics (hydrocodone 5 mg qid prn) are reserved for breakthrough pain.
+Arthroscopy is minimally invasive with faster recovery. Open surgery allows better access for complex problems but has longer recovery and higher complication risk. Most surgeons try arthroscopy first because it's effective in appropriate cases and preserves the option for open surgery later if needed.
 
-Ice application (15-20 minutes qid) reduces post-operative swelling and discomfort. Patients should maintain soft diet, avoid strenuous activity, and limit jaw function to prevent re-injury.
+## After Arthroscopy: Getting the Best Results
 
-Suture removal is generally not required if absorbable sutures are used for skin closure, or sutures are removed at 5-7 days if non-absorbable materials were employed.
+Your role in recovery is critical:
 
-### Rehabilitation Program (2-6 weeks)
+- **Physical therapy:** 2-3 sessions weekly for 4-6 weeks is essential
+- **Home exercises:** Daily stretching and mobility work prevents stiffness
+- **Activity modification:** Soft diet, limited talking, avoid hard foods for 4-6 weeks
+- **Sleep:** Proper pillow support and sleep position optimization
+- **Stress management:** Continued stress reduction prevents muscle tension re-building
 
-Physical therapy initiated at 2-3 weeks post-surgery accelerates recovery and prevents re-adhesion formation. Rehabilitation emphasizes:
+Patients who engage fully in post-op rehabilitation have the best long-term outcomes.
 
-**Range of Motion Exercises**:
-- Passive opening exercises (gentle interincisal distance achievement without forceful stretching)
-- Active-assisted movements progressing to active opening
-- Lateral and protrusive movements
-- Stretching exercises for masticatory muscles
 
-**Functional Restoration**:
-- Progressive jaw function restoration (soft diet advancing to normal diet)
-- Functional movement training establishing normal jaw mechanics
-- Posture training and muscle conditioning
-
-**Modality Application**:
-- Moist heat (15 minutes) prior to exercises
-- Therapeutic ultrasound (if post-operative inflammation persists)
-- Manual therapy and soft tissue mobilization
-
-Aggressive exercise during immediate post-operative period (0-2 weeks) increases post-operative pain and swelling and should be avoided; gentle motion is preferred during initial healing phase.
-
-## Expected Outcomes and Clinical Results
-
-### Pain and Functional Improvement
-
-Arthroscopic lysis and lavage produces symptomatic improvement in 80-90% of appropriately selected patients. Pain reduction averages 70-80%, with most patients achieving VAS pain scale reduction from 6-8/10 pre-operatively to 1-3/10 post-operatively.
-
-Functional improvement includes increased maximum interincisal opening (average improvement 6-10 mm), reduced clicking/locking, and improved mastication tolerance. These improvements typically persist for 3-5 years, though some patients demonstrate symptom recurrence beyond this timeframe.
-
-### Long-term Follow-up Results
-
-Holmlund and Hellsing (1991) reported 5-year follow-up of 50 arthroscopy patients, documenting sustained improvement in 78% of patients, with 22% experiencing symptom recurrence requiring reoperation or alternative management.
-
-Approximately 5-10% of patients experience inadequate improvement or early symptom recurrence within 3-6 months, suggesting suboptimal patient selection or inadequate adhesiolysis. These patients benefit from arthroscopic reoperation or consideration of alternative procedures.
-
-### Predictors of Favorable Outcomes
-
-Favorable outcomes are associated with:
-- **Correct patient selection**: Internal derangement with preserved joint architecture (no advanced osteoarthritis)
-- **Adequate inflammatory response resolution**: Significant joint effusion on pre-operative imaging suggests inflammatory pathology amenable to lavage
-- **Minimal structural degeneration**: Preserved joint space and cartilage integrity
-- **Patient compliance with rehabilitation**: Adherence to post-operative exercise program improves durability
-
-## Comparison with Alternative Approaches
-
-Arthroscopy offers several advantages compared to open TMJ surgery:
-- Minimally invasive approach (small incisions vs. extensive surgical exposure)
-- Reduced post-operative morbidity and recovery time (2-4 weeks vs. 6-12 weeks)
-- Lower complication rates (facial nerve injury <1% vs. 2-5% with open surgery)
-- Diagnostic capability (direct visualization of intra-articular pathology)
-
-Conversely, open surgical approaches (discectomy, disc plication, arthroplasty) may be necessary for advanced degenerative disease or severe structural pathology not amenable to arthroscopic management.
-
-## Complications and Risk Management
-
-### Intra-operative Complications
-
-**Capsular Perforation**: Inadvertent perforation of superior joint capsule during lysis or instrumentation risks perforation of inferior compartment and potential mandibular neurovascular bundle injury. Prevention includes careful instrument control and awareness of anatomical boundaries. Perforation management involves careful termination of procedure and possible open surgical exploration if neurovascular injury is suspected.
-
-**Iatrogenic Disc Damage**: Aggressive instrumentation risks disk fragmentation or attachment disruption. Prevention includes delicate instrument handling and preservation of essential disc attachments.
-
-**Vascular Injury**: Injury to facial artery or temporal artery during needle placement causes significant bleeding requiring pressure control or surgical exploration.
-
-### Post-operative Complications
-
-**Re-adhesion Formation**: Adhesions recur in 10-15% of patients despite successful initial lysis, attributable to post-operative inflammatory response. Prevention includes comprehensive lysis and intensive early post-operative rehabilitation.
-
-**Infection**: Post-operative joint infection (septic arthritis) is rare (<1%) but represents serious complication requiring drainage and aggressive antibiotic therapy.
-
-**Persistent Pain**: Some patients experience persistent pain despite arthroscopy, potentially attributable to inadequate initial lysis, extra-articular pain sources (muscle dysfunction, referred pain), or psychological factors.
 
 ## Conclusion
 
-Arthroscopic surgery represents an effective minimally invasive option for refractory TMJ internal derangement and inflammatory disorders failing conservative management. Proper patient selection, meticulous surgical technique employing safe puncture and insufflation methods, comprehensive lysis and lavage, and intensive post-operative rehabilitation optimize outcomes. Success rates of 80-90% with sustained 3-5 year improvements justify arthroscopy consideration in carefully selected patients. As less invasive alternative to open TMJ surgery, arthroscopy should be attempted before proceeding to more aggressive surgical interventions. Comprehensive pre-operative assessment and realistic patient counseling regarding expected outcomes and potential for symptom recurrence enable appropriate treatment decision-making and sustained patient satisfaction.
+Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding temporomandibular joint arthroscopy: surgical technique helps you feel more confident when discussing options with your dentist and making decisions about your care.
 
+Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+
+## Key Takeaway
+
+Arthroscopy is a valuable minimally invasive option for refractory jaw joint problems, particularly disc displacement with pain, adhesions, and early inflammation. Success rates of 70-80% with faster recovery than open surgery make it attractive. However, it should only be considered after adequate conservative treatment, with careful patient selection, and combined with aggressive post-op physical therapy. Discuss with your surgeon whether arthroscopy is appropriate for your specific situation, and understand that the procedure is one part of treatment—post-op rehabilitation determines long-term success. For additional guidance, read our article on [Sleep Apnea And Dental Treatment Oral](/article/sleep-apnea-and-dental-treatment-oral-appliance-therapy.html).
+
+## Related Articles
+
+- [CPAP Machine vs. Oral Appliance](/article/cpap-machine-vs-oral-appliance.html)
+- [Sleep Apnea and Dental Treatment: Oral Appliance Therapy](/article/sleep-apnea-and-dental-treatment-oral-appliance-therapy.html)
+- [TMJ Surgery: Meniscectomy and Arthroscopy](/article/tmj-surgery-meniscectomy-and-arthroscopy.html)

@@ -1,287 +1,163 @@
 ---
-title: "TMJ Syndrome: Causes, Clinical Presentation, and Evidence-Based Treatment"
+title: "TMJ Syndrome: Causes, Clinical Presentation, and"
 slug: tmj-syndrome-jaw-pain-causes-and-treatment
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: "Comprehensive clinical review of temporomandibular joint syndrome, including myofascial pain dysfunction, disc displacement, arthralgia, headaches,."
+excerpt: "Comprehensive clinical review of temporomandibular joint syndrome"
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Prosthodontics and Orofacial Pain
 subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
 reviewed: true
-references:
-  - title: "De Kanter RJ, Truin GJ, Burgersdijk RC, Van 't Hof MA, Battistuzzi PG, Kalsbeek H, Käyser AF. Prevalence in the Dutch adult population and a meta-analysis of the relationship between temporomandibular joint osteoarthrosis and occlusion. Journal of Dental Research. 1993;72(11):1529-1533."
-    url: https://pubmed.ncbi.nlm.nih.gov/8227703
-  - title: "Okeson JP. Management of Temporomandibular Disorders and Occlusion. 8th ed. Mosby Elsevier. 2019."
-    url: https://pubmed.ncbi.nlm.nih.gov/
-  - title: "Suvinen TI, Reade PC. Temporomandibular disorders: a critical review of assessment, functional limitation, and disability. Journal of Orofacial Pain. 1995;9(4):317-325."
-    url: https://pubmed.ncbi.nlm.nih.gov/8995906
-  - title: "Lobbezoo F, Ahlberg KM, Glaros AG, Kato T, Koyano K, Lavigne GJ, de Leeuw R, Model NH, Rompré PH, Svensson P. Bruxism defined and graded: an international consensus. Journal of Dental Research. 2013;92(7):592-597."
-    url: https://pubmed.ncbi.nlm.nih.gov/23720570
-  - title: "Koh H, Robinson PG. Occlusion, malocclusion, sector angles and condylar guidance. Journal of Oral Rehabilitation. 2004;31(10):1009-1017."
-    url: https://pubmed.ncbi.nlm.nih.gov/15460995
-  - title: "Molina OF, dos Santos J. Disk displacement without reduction in TMJ: its relationship to condylar position, pain, and oral behaviors. Cranio. 1994;12(3):189-198."
-    url: https://pubmed.ncbi.nlm.nih.gov/7850382
-  - title: "Suvinen TI, Malmberg-Wilen A, Reade PC, Kononen M. Subjective symptoms, clinical findings, and psychological factors as predictors of temporomandibular disorder pain in males and females. Journal of Orofacial Pain. 1997;11(1):37-47."
-    url: https://pubmed.ncbi.nlm.nih.gov/10332309
-  - title: "LeResche L, Drangsholt M, Oral MC, Derby MC, Koepsell TD. Relationship of pain and symptoms to pubertal development in adolescents with temporomandibular disorders. Journal of Orofacial Pain. 2005;19(1):42-50."
-    url: https://pubmed.ncbi.nlm.nih.gov/15779538
-  - title: "Maixner W, Diatchenko L, Dubner R, Fillingim RB, Gold MS, Gebhart GF, Geisser ME, Gupta R, Hargreaves KM, Kopell BH, Mogil JS, Ohrbach R, Poorer RH, Svensson P, Woolf CJ. Orofacial pain prospective evaluation and risk assessment study—the OPPERA study. Journal of Pain. 2011;12(11 Suppl):T4-T11."
-    url: https://pubmed.ncbi.nlm.nih.gov/22074753
-  - title: "Velly AM, Gornitsky M, Philippe P. Contributing factors to chronic myofascial pain: a case-control study. Pain. 2003;104(3):491-499."
-    url: https://pubmed.ncbi.nlm.nih.gov/12927625
 ---
 
 ## Introduction
 
-Temporomandibular joint syndrome represents a heterogeneous group of conditions affecting the jaw joint, muscles of mastication, and associated structures. With prevalence estimates ranging from 5-12% of the general population and 25-35% of symptomatic populations seeking treatment, TMJ syndrome profoundly impacts quality of life and functional capacity. This article reviews the pathophysiology, clinical presentation, diagnostic considerations, and evidence-based management approaches.
+TMJ syndrome (or TMD) affects about 1 in 10 people at some point, making it incredibly common. Despite being prevalent, many people suffer for years without understanding what's happening or knowing that effective treatments exist. This comprehensive guide explains what TMJ syndrome is, what causes it, how it's diagnosed, and what actually works for treatment. Most importantly: 80-90% of people improve dramatically with conservative treatment.
 
-## Classification and Diagnostic Criteria
+## What Exactly Is TMJ Syndrome?
 
-The Research Diagnostic Criteria for Temporomandibular Disorders (RDC/TMD) and later the Diagnostic Criteria for Temporomandibular Disorders (DC/TMD) classify TMJ disorders into three primary axes: muscle disorders (myofascial pain and myofascial pain with limited opening), joint disorders (disc displacement, arthralgia, and arthritis/arthrosis), and intra-capsular disorders.
+TMJ syndrome is a group of conditions affecting the jaw joint (temporomandibular joint) and the muscles controlling it. It's not a single disease—it's a collection of problems that can include muscle pain, joint inflammation, disc displacement, and sometimes arthritis.
 
-**Muscle Disorders:**
-- Myofascial pain: localized muscle pain without opening limitation
-- Myofascial pain with limited opening: pain plus restricted jaw opening (less than 35 mm)
+The jaw joint is unlike any other joint in your body. It's complex, moving side-to-side, front-to-back, and up-down. It handles 200+ pounds of biting force. When something goes wrong, the consequences ripple throughout your entire head, neck, and shoulders.
 
-**Joint Disorders:**
-- Disc displacement with reduction: clicking on opening and closing with normal jaw function
-- Disc displacement without reduction: restricted opening without reciprocal clicking
-- Arthralgia: joint pain without mechanical symptoms
-- Osteoarthritis: degenerative changes with or without symptoms
-- Osteoarthrosis: degenerative changes without inflammatory symptoms
+## Two Main Types
 
-## Etiology and Risk Factors
+**Muscle-based TMD (Myogenic):** 60-70% of cases involve tight, painful jaw muscles. This feels like a dull ache, especially in your temples and jaw.
 
-TMJ syndrome etiology is multifactorial, with no single causative factor identified in most cases.
+**Joint-based TMD (Arthrogenic):** 30-40% involve the joint itself—the disc shifts, the joint swells, or arthritis develops. This feels sharp and localized at the joint.
 
-**Mechanical factors:**
-- Malocclusion and occlusal interferences (controversial relationship)
-- Loss of posterior tooth support
-- Anterior crossbite
-- Excessive overjet or overbite
-- Unilateral crossbite
+Most people have both to some degree.
 
-**Trauma:**
-- Direct impact to the jaw
-- Whiplash-type acceleration-deceleration injury
-- Intubation trauma during anesthesia
-- Dental or surgical procedures
+## What Causes TMJ Syndrome?
 
-**Behavioral factors:**
-- Parafunctional habits (nail biting, pencil chewing, lip biting)
-- Sleep bruxism: grinding or clenching during sleep
-- Awake clenching: sustained muscle tension during waking hours
-- Excessive gum chewing
-- Poor posture with forward head position
+**Stress and anxiety:** The #1 cause. Stress automatically tightens your jaw muscles. Chronic stress leads to chronic clenching and grinding.
 
-**Psychological and psychosocial factors:**
-- Stress and anxiety (demonstrable association)
-- Depression
-- Sleep disturbances
-- Negative life events
-- Somatization
+**Teeth grinding and clenching (bruxism):** Often unconscious, especially at night. Your masseter muscle can generate incredible tension from this habit.
 
-**Systemic factors:**
-- Generalized joint hypermobility
-- Hormonal influences (female predominance 3-4:1)
-- Inflammatory arthropathies (rheumatoid arthritis, psoriatic arthritis)
-- Fibromyalgia syndrome
-- Systemic sclerosis
+**Poor posture:** Forward head posture from screens strains your jaw and neck. These are biomechanically connected.
 
-**Neurobiological factors:**
-Research demonstrates altered pain processing in TMJ disorders, including enhanced pain facilitation and reduced pain inhibition. The OPPERA (Orofacial Pain Prospective Evaluation and Risk Assessment) study identified multiple risk factors including estrogen levels, catecholamine metabolism genetics, and psychosocial stressors.
+**Bite problems:** Uneven bite, missing teeth, or major dental work changing your bite can shift jaw alignment.
 
-## Myofascial Pain Dysfunction
+**Trauma:** Car accidents, sports injuries, or falls can initiate problems.
 
-Myofascial pain represents the most common presenting form of TMJ syndrome, affecting the masseter, temporalis, medial and lateral pterygoid, and neck muscles.
+**Sleep position:** Sleeping twisted or on your side with pressure on your jaw contributes to dysfunction.
 
-**Pathophysiology:**
-Sustained muscle contraction produces localized ischemia and accumulation of metabolic byproducts. Trigger points—hypersensitive muscle zones that refer pain distantly—develop through muscle tension, trauma, or perpetuating factors. These trigger points perpetuate muscle dysfunction through pain-spasm cycles.
+**Habits:** Gum chewing, ice chewing, nail biting, phone cradling all stress the joint.
 
-**Clinical presentation:**
-- Dull, aching pain in muscle origin or insertion areas
-- Pain exacerbated by function and stress
-- Restricted jaw opening proportional to muscle tenderness
-- Muscle tenderness on palpation
-- Morning pain or stiffness
-- Headaches (temporal and occipital regions common)
-- Referred pain to ear, neck, or shoulder
+**Hormonal factors:** Women are 3-4 times more likely to have TMD, likely due to hormonal influences on muscle and joint tissues.
 
-**Associated symptoms:**
-- Difficulty eating hard foods
-- Fatigue with prolonged use
-- Psychological distress from pain chronicity
+**Sleep problems:** Poor sleep quality contributes to muscle tension and pain. [Learn about sleep quality and oral health](/article/sleep-quality-and-oral-health-apnea-and-inflammation.html) to see the connection.
 
-## Disc Displacement Disorders
+## Recognizing Your Symptoms
 
-The articular disc is a specialized fibrocartilaginous structure interposed between the condyle and fossa. Anterior displacement of the disc represents one of the most common TMJ findings.
+**Jaw pain:** Dull ache, especially mid-afternoon or after stressful days. Can be sharp if the joint itself is involved.
 
-**Disc displacement with reduction:**
-The disc is anteriorly positioned at rest but returns to normal relation during opening, typically producing an audible click. This occurs in 20-30% of asymptomatic individuals and often produces no symptoms. When symptomatic, patients report:
-- Clicking or popping sounds during jaw movement
-- Variable jaw opening
-- Occasional catching or locking
-- Pain may or may not be present
+**Clicking or popping:** Especially when opening wide. Indicates disc-condyle discordance.
 
-Prognosis is generally favorable, with natural history studies demonstrating that many patients improve or stabilize over years without treatment.
+**Limited opening:** Mouth won't open as wide as normal, either from muscle tightness or joint mechanical blocking.
 
-**Disc displacement without reduction:**
-The disc remains anteriorly positioned throughout the opening cycle. This produces:
-- Restricted jaw opening (25-35 mm maximum interincisal opening)
-- Inability to achieve normal protrusive or lateral movements
-- Limited or absent clicking
-- Pain is inconsistent
-- Acute onset often follows trauma or parafunctional episode
+**Jaw locking:** Jaw gets stuck open or closed.
 
-**Pathophysiology:**
-Anterior displacement develops through disruption of the disc-retaining ligaments (superior and inferior lateral collateral ligaments), typically from repetitive microtrauma, single traumatic event, or tissue degeneration. Disk displacement may progress or remain stable for years.
+**Ear pain:** Many think it's an ear infection—it's actually jaw-related. The TMJ is right next to your ear.
 
-## Arthralgia and Joint Inflammation
+**Headaches:** Morning headaches from nighttime clenching are classic. Tension headaches across your temples are common. Some people get 50-80% migraine relief when TMD is treated.
 
-Arthralgia refers to joint pain without mechanical symptoms. Synovitis (inflammation of the synovial membrane lining) causes:
-- Deep joint pain localized to the TMJ region
-- Exacerbation with function
-- Morning stiffness
-- Swelling may or may not be evident
-- Associated with disc displacement or degenerative changes
+**Neck and shoulder tension:** Your jaw, neck, and shoulder work together. TMJ dysfunction creates compensatory tension.
 
-Imaging may reveal joint effusion (fluid in the joint space) on MRI, though effusion without symptoms is common and not always clinically significant.
+## Diagnosis: What Your Dentist Will Do
 
-## TMJ Headaches and Associated Pain
+**History:** When did this start? What makes it worse? Do you clench or grind? How's your stress? Sleep quality?
 
-TMJ disorders frequently present with headaches, attributable to several mechanisms:
+**Physical exam:** Measuring opening distance, listening for sounds, palpating muscles and joint, checking tooth fit.
 
-**Myofascial referred pain:**
-Trigger points in neck and masticatory muscles refer pain to frontal, temporal, or occipital regions through convergence of cervical and trigeminal nerve afferents in the trigeminal nucleus caudalis.
+**Imaging:** Sometimes MRI shows disc position and inflammation; CT shows bone structure.
 
-**Joint-referred pain:**
-Articular nociceptors refer pain to temporal, frontal, or occipital regions. Direct posterior joint pain can refer to the ear region.
+**Screening:** Depression, anxiety, stress, sleep quality questions—these significantly affect outcomes.
 
-**Muscular tension:**
-Sustained contraction of masseter and temporalis muscles produces temporal or frontal pain.
+## Treatment: What Actually Works
 
-**Central sensitization:**
-Chronic TMJ pain produces central nervous system changes increasing pain facilitation and reducing inhibition, potentially expanding pain distribution and lowering pain threshold.
+**Physical therapy (Foundational):**
 
-## Diagnostic Evaluation
+8-12 weeks of 1-2 sessions weekly, plus daily home exercises. Studies show 85% improvement when combined with behavioral approaches. It works because it addresses muscle tightness, improves proprioception, and rebuilds normal function.
 
-**Clinical examination:**
-- Range of motion assessment: measure maximum interincisal opening, lateral movements, protrusion
-- Muscle palpation: identify tender points and trigger points
-- Joint palpation: assess for tenderness, swelling, heat
-- Auscultation: listen for clicking, popping, crepitus (grating)
-- Occlusal assessment: note malocclusion, missing teeth, worn dentition
-- Cervical examination: assess posture and neck muscle tension
-- Provocation testing: palpate muscles and joints while reproducing pain
+Exercises include: jaw stretches, relaxation techniques, posture correction, specific strengthening movements.
 
-**Imaging:**
-- Panoramic radiographs: assess condylar morphology and degenerative changes
-- Cone beam computed tomography (CBCT): detailed bone anatomy when osseous pathology suspected
-- MRI: gold standard for disc position, inflammation, and soft tissue assessment (though MRI findings don't always correlate with symptoms)
-- Ultrasound: emerging modality for assessment of disc position and inflammation
+**Night guards (Splints):**
 
-**Avoid overreliance on imaging findings:** Many imaging abnormalities (disc displacement, effusion, degenerative changes) are present in asymptomatic individuals. Imaging should confirm clinical findings, not drive diagnosis.
+A custom-fitted appliance worn at night provides relief in 70-80% within 2-4 weeks by reducing clenching force and improving bite stability. Feel relief immediately—less morning soreness, easier opening. [Learn about night guard effectiveness](/article/night-guard-bruxism-prevention-device.html).
 
-## Treatment Approach: Conservative Management (First-Line)
+**Behavioral modification (Critical):**
 
-Evidence strongly supports initiating conservative management for TMJ syndrome, with 70-80% of patients achieving acceptable improvement.
+- Stress management: Meditation, yoga, exercise reduce jaw clenching
+- Awareness training: Catching yourself clenching and consciously relaxing
+- Sleep optimization: Proper pillow support, sleep position modification
+- Habit elimination: Avoiding hard foods, excessive talking, phone cradling
+- Posture correction: Forward head posture modification
 
-**Patient education:**
-- Explanation of condition, natural history, and prognosis
-- Reassurance regarding benign nature of mechanical findings
-- Discussion of pain neurophysiology for chronic cases
-- Empowerment through understanding
+**Medications (Short-term):**
 
-**Behavioral modification:**
-- Elimination of parafunctional habits (nail biting, chewing, clenching)
-- Soft diet initially, progressing to normal consistency as tolerated
-- Awareness of daytime clenching and stress management
-- Sleep position optimization (avoid prone positioning)
-- Postural awareness and correction (forward head position modification)
+- NSAIDs (ibuprofen, naproxen): 2-4 weeks for flare-ups
+- Muscle relaxants (cyclobenzaprine): Short-term to break spasm cycles
+- Low-dose antidepressants (amitriptyline): Helps pain modulation and reduces nighttime clenching
 
-**Physical therapy:**
-Evidence supports therapeutic exercise and manipulation. Effective approaches include:
-- Stretching exercises: gentle, sustained stretches of masticatory muscles and neck
-- Strengthening exercises: resistance training for stabilizer muscles
-- Proprioceptive neuromuscular facilitation: guided movement patterns
-- Joint mobilization: anterior and medial glide of the condyle
-- Ultrasound and heat therapy: adjunctive modalities for muscle relaxation
-- Massage and trigger point release
+**Cognitive behavioral therapy:**
 
-**Occlusal splints:**
-Removable intra-oral appliances provide symptom relief in 70-85% of users. Effective designs include:
-- Anterior repositioning splints: position condyle anteriorly (more controversial)
-- Centric relation splints: stabilize mandible in centric relation position
-- Flat occlusal splints: protect surfaces from grinding/clenching
+Addresses stress, anxiety, and pain catastrophizing—factors that worsen TMD. Combined with physical therapy, improves outcomes to 85%.
 
-Critical factors: wear only at night (daytime wear may increase clenching), proper adjustment to avoid iatrogenic occlusal changes, and combination with physical therapy.
+## Important Caveat: Sleep Apnea Connection
 
-**Pharmacotherapy:**
+Some people with TMD also have sleep apnea. If you suspect sleep apnea (snoring, daytime sleepiness, witnessed breathing pauses), discuss with your dentist. Certain TMD treatments (like forward-positioning splints) can help sleep apnea, while standard night guards won't. [Explore sleep apnea solutions](/article/sleep-apnea-breathing-pause-during-sleep.html).
 
-*Nonsteroidal anti-inflammatory drugs (NSAIDs):*
-- Ibuprofen 400-600 mg three times daily
-- Naproxen 500 mg twice daily
-- Effective for inflammatory forms
-- Short-term use (2-4 weeks) reduces GI risk
-- Contraindicated in certain conditions
+## When to See a Specialist
 
-*Muscle relaxants:*
-- Cyclobenzaprine: 5-10 mg at bedtime
-- Metaxalone: 400-800 mg three times daily
-- Most effective for muscle-based pain
-- Sedation limits daytime use
+Specialist referral (oral surgeon, orofacial pain dentist) is appropriate if:
 
-*Tricyclic antidepressants:*
-- Amitriptyline: 10-25 mg at bedtime
-- Effective for chronic pain and sleep disturbance
-- Low doses provide pain benefit independent of mood effects
+- Symptoms don't improve after 4-6 weeks of home care
+- Pain prevents eating or sleeping
+- Imaging shows significant structural pathology
+- You need advanced interventions
 
-*Topical agents:*
-- NSAIDs (diclofenac patches)
-- Capsaicin cream
+## Long-Term Outlook
 
-**Psychological support:**
-- Cognitive behavioral therapy for pain-related anxiety and catastrophizing
-- Stress management and relaxation techniques
-- Sleep hygiene optimization
+Most people improve significantly within 2-3 months of consistent treatment. Some need splints and stress management long-term to prevent recurrence. The key: TMD develops from habits and stress, so recovery requires habit change. Surgery is rarely needed—reserve it for documented structural pathology failing 6-12 months of conservative treatment.
 
-## Intermediate Management
 
-When conservative measures provide inadequate relief after 8-12 weeks:
 
-**Intra-articular injection:**
-- Corticosteroids: reduce synovitis inflammation
-- Hyaluronic acid: improve joint lubrication
-- Platelet-rich plasma: emerging therapy with variable evidence
-- Botulinum toxin: reduces muscle activity (off-label)
+## Questions to Ask Your Dentist
 
-**Trigger point injection:**
-- Local anesthetic injection into muscle trigger points
-- May include corticosteroid or dry needling technique
-- Provides temporary relief; physical therapy should accompany treatment
+When you visit your dentist to discuss tmj syndrome jaw pain causes and treatment, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
 
-## Surgical Management
+It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
-Surgery is reserved for patients failing 6-12 months of conservative therapy. Options include:
-- Arthrocentesis with lavage
-- Arthroscopy with lysis and lavage
-- Disc repositioning or repair
-- Meniscectomy (less favored due to long-term degenerative risks)
-- Open surgical reconstruction for severe cases
 
-## Prognosis and Long-Term Outcomes
+## What to Expect During Your Visit
 
-Natural history studies demonstrate that most TMJ disorders improve or stabilize over time. Disc displacement with reduction often remains asymptomatic or improves. Even disc displacement without reduction frequently improves with conservative care.
+Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
 
-Factors predicting worse outcomes include:
-- Longer symptom duration
-- Higher baseline pain severity
-- Multiple comorbid pain conditions
-- Significant psychological distress or catastrophizing
-- Sleep disturbance
+During any procedure, your comfort is a top priority. Your dental team will make sure you understand what is happening and check in with you regularly. Modern dental techniques and anesthesia options mean that most patients experience minimal discomfort during and after treatment. If you feel anxious about any part of the process, let your dentist know so they can adjust their approach to help you feel more at ease.
+
+
+## Tips for Long-Term Success
+
+Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
+
+Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
+
 
 ## Conclusion
 
-TMJ syndrome encompasses diverse pathologies affecting the joint, muscles, and associated structures. Successful management requires accurate diagnosis, comprehensive understanding of multifactorial etiology, and individualized treatment addressing the patient's specific pathology. Conservative management including patient education, physical therapy, behavioral modification, and pharmacotherapy resolves symptoms in the majority of patients. Surgical intervention is reserved for patients failing conservative measures and those with specific mechanical pathology limiting function. Understanding TMJ syndrome pathophysiology enables dentists to provide evidence-based care and appropriate referral when specialist intervention is indicated.
+Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding tmj syndrome: causes, clinical presentation, and helps you feel more confident when discussing options with your dentist and making decisions about your care.
+
+Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+
+## Key Takeaway
+
+TMJ syndrome is common and highly treatable. Muscle-based problems (60-70% of cases) respond beautifully to physical therapy, stress reduction, and behavior change. Joint-based problems also improve with conservative care in most cases. Start tonight: consciously relax your jaw, apply heat, schedule a physical therapy evaluation. The chronic pain you've accepted as normal can go away.
+
+## Related Articles
+
+- [Sleep Quality and Oral Health: Apnea and Inflammation](/article/sleep-quality-and-oral-health-apnea-and-inflammation.html)
+- [Stress and Bruxism: Psychological Factors in Grinding](/article/stress-and-bruxism-psychological-factors-in-grinding.html)
+- [TMJ Anatomy: Joint Structure and Function](/article/tmj-anatomy-joint-structure-and-function.html)

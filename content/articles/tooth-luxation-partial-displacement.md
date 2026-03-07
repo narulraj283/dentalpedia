@@ -1,9 +1,9 @@
 ---
-title: Tooth Luxation and Partial Displacement Injuries
+title: "Tooth Luxation and Partial Displacement - Emergency"
 slug: tooth-luxation-partial-displacement
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: "IADT management guidelines for lateral, extrusive, and intrusive luxation injuries including repositioning, splinting protocols, pulp monitoring, and."
+excerpt: Learn what to do for a displaced tooth including immediate care, treatment options, recovery timeline, and preventing long-term complications.
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Emergency Dentistry
@@ -33,195 +33,159 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/18184173
 ---
 
-## Introduction to Dental Luxation Injuries
+## Understanding Tooth Luxation
 
-Dental luxation represents partial or complete displacement of a tooth from its alveolar socket without loss of tooth structure or communication with the outside. Luxation injuries are the most common injuries to permanent teeth, accounting for 50% of all dental traumatic injuries in the mixed dentition. These injuries are distinct from fractures in that tooth structure remains intact, though periodontal ligament (PDL) and pulpal tissues sustain significant trauma.
+Dental luxation represents partial or complete displacement of a tooth from its socket without loss of tooth structure. Luxation injuries are the most common injuries to permanent teeth, accounting for 50% of all dental traumatic injuries. These injuries are distinct from fractures—tooth structure remains intact, though the periodontal ligament (which anchors the tooth) and pulp (nerve tissue) sustain significant trauma.
 
-The International Association of Dental Traumatology (IADT) provides evidence-based guidelines for luxation management. These guidelines emphasize rapid diagnosis, immediate repositioning, appropriate stabilization, and systematic follow-up to minimize complications including pulp necrosis, root resorption, ankylosis, and permanent loss of tooth vitality.
+The International Association of Dental Traumatology (IADT) provides evidence-based guidelines for luxation management. These guidelines emphasize rapid diagnosis, immediate repositioning, appropriate stabilization, and systematic follow-up to minimize complications including pulp necrosis, root resorption, ankylosis, and permanent tooth loss.
 
-## Classification of Luxation Injuries
+## Types of Tooth Luxation
 
-### Lateral Luxation
+### Lateral Luxation (Most Common)
 
 Lateral luxation involves displacement of the tooth crown horizontally, typically in the buccal or lingual direction, while the apex remains embedded in alveolar bone.
 
-**Clinical Presentation**
-The tooth appears pushed sideways relative to adjacent teeth. The occlusal contact is lost or abnormal. The crown typically displays buccolingual displacement, though mesiodistal displacement also occurs. Visible misalignment is obvious, though sometimes obscured by swelling. Associated labial or lingual gingival recession may be apparent.
+**What You'll Notice**:
+- Tooth appears pushed sideways relative to adjacent teeth
+- Occlusal contact is lost or abnormal
+- Visible misalignment, sometimes obscured by swelling
+- Associated gingival recession may be apparent
 
-**Radiographic Findings**
-Periapical radiographs show tilting or deviation of the tooth from its normal vertical axis. The lamina dura may appear disrupted. Periodontal space widening on the tension side (opposite the direction of displacement) and compression on the pressure side is evident. Root apex positioning relative to alveolar crest confirms the displacement direction.
+**Initial Treatment**: Your dentist applies local anesthesia, then gently repositions the tooth back to normal position using digital pressure and controlled force. The repositioned tooth requires immobilization for 4 weeks using flexible wire-composite splinting or thermoplastic splints. This flexibility promotes healing of the periodontal ligament better than rigid fixation.
 
-**Pathophysiology**
-The PDL sustains significant disruption, with stretching on the tension side and compression on the pressure side. Some PDL fibers tear or rupture. The pulp typically sustains concussive injury, though pulpal blood vessels may remain patent. The alveolar bone surrounding the apex compresses, reducing space for the tooth to return to its normal position. Periodontal ligament healing initiates immediately upon injury, progressing rapidly over the first 2 weeks.
+**Healing Timeline**: Lateral luxations heal relatively well—approximately 85-90% of teeth retain long-term vitality. Root resorption occurs in less than 5% of cases. Healing is typically complete by 12 weeks.
 
-### Extrusive Luxation (Avulsion Partial/Subluxation)
+### Extrusive Luxation (Partial Avulsion)
 
-Extrusive luxation involves axial displacement of the tooth occlusally or incisally, with apical PDL fibers remaining stretched and the tooth partially protruded from the socket.
+Extrusive luxation involves axial displacement of the tooth occlusally (outward), with apical periodontal ligament fibers remaining stretched and the tooth partially protruding from the socket.
 
-**Clinical Presentation**
-The affected tooth appears longer than adjacent teeth, with visible intrusion of the tooth into the alveolar socket during occlusion. The tooth is mobile and may extrude further during palpation. Pain is significant, particularly upon contact or function. Swelling of surrounding tissues is common.
+**What You'll Notice**:
+- Affected tooth appears longer than adjacent teeth
+- Tooth is mobile
+- Significant pain, particularly upon contact
+- Swelling of surrounding tissues
 
-**Radiographic Characteristics**
-Periapical radiographs demonstrate increased periodontal space around the tooth root, indicating PDL disruption. The root appears displaced occlusally relative to the socket. Lamina dura disruption is evident around the entire root perimeter. Severity ranges from subtle radiographic changes in mild extrusions to dramatic tooth displacement in severe cases.
+**Initial Treatment**: Using gentle digital pressure, your dentist repositions the extruded tooth into its normal position. For severely extruded teeth, multiple appointments may be necessary with gradual repositioning over several visits to minimize injury. Like lateral luxations, the tooth undergoes flexible splinting for 4 weeks.
 
-**Healing Considerations**
-Extensive PDL disruption occurs throughout the apical and lateral regions. Virtually all PDL fibers connecting the tooth to alveolar bone are damaged. Massive inflammatory response develops due to PDL necrosis and bacterial contamination. Healing is slower than lateral luxation due to more extensive tissue damage.
+**Healing Timeline**: Good prognosis when treated promptly. Pulpal necrosis occurs in 30-50% of moderately extruded teeth. Root resorption develops in 5-15% of cases. Delayed treatment significantly worsens outcomes.
 
-### Intrusive Luxation
+**Special Note**: Teeth extruded more than 5-7mm show pulpal necrosis in nearly all cases. Aggressive repositioning is avoided in these cases; gradual orthodontic repositioning over weeks minimizes further injury.
 
-Intrusive luxation involves axial displacement of the tooth apically, with the crown driven into the alveolar bone. The tooth becomes partially embedded, appearing shorter than adjacent teeth.
+### Intrusive Luxation (Most Severe)
 
-**Clinical Presentation**
-The affected tooth appears shorter than adjacent teeth and is often not visible at the incisal edge level. The tooth is firmly fixed in position with minimal mobility. Pain is typically less prominent than with other luxation types, surprisingly. Concussion and pulpal symptoms may not be immediately apparent.
+Intrusive luxation involves axial displacement of the tooth apically (inward), with the crown driven into the alveolar bone. The tooth becomes partially embedded, appearing shorter than adjacent teeth.
 
-**Radiographic Features**
-Periapical radiographs show the tooth crown positioned apical to the plane of adjacent teeth. The root apex may contact or penetrate the apical cortical plate. Severe compression of surrounding alveolar bone creates a dense radiographic appearance. The lamina dura is absent or severely disrupted.
+**What You'll Notice**:
+- Affected tooth appears shorter than adjacent teeth
+- Often not visible at the incisal edge level
+- Tooth is firmly fixed in position with minimal mobility
+- Pain is typically less prominent than with other luxation types
 
-**Pathophysiology**
-Intrusion creates the most severe PDL injury of all luxation types. Virtually all PDL fibers are compressed and disrupted. The pulp sustains significant concussive injury with frequent pulpal vessels crushing and thrombosis. Pulpal necrosis occurs in 95%+ of intruded permanent incisors. Bone compression and resorption necessarily occurs for the tooth to intrude. Ankylosis (direct bone-to-root contact) frequently develops during healing, particularly if treatment is delayed.
+**Initial Treatment**: Many authorities recommend observing intruded teeth and allowing passive eruption over 3-6 months rather than immediate forced repositioning. This approach respects the severe periodontal ligament trauma. The tooth gradually erupts to normal position as alveolar bone remodels. Approximately 50-70% of teeth spontaneously erupt to acceptable positions within 6 months.
 
-## IADT Management Guidelines: General Principles
+If passive eruption fails or is unacceptable (severe esthetic compromise), passive open coil springs or fixed orthodontic appliances exert gentle continuous force, gradually extruding the tooth to normal position over 4-16 weeks.
 
-### Initial Assessment
+**Healing Timeline**: Poorest prognosis of all luxation types. Pulpal necrosis occurs in 95%+ of cases. Root resorption develops in 40-60% of cases despite appropriate treatment. Long-term tooth loss rates exceed other luxation types. However, contemporary management with early root canal therapy has improved outcomes.
 
-**Immediate History**
-Documentation of trauma mechanism, timing of injury, and initial tooth position guides prognosis. Tetanus status assessment is essential in contaminated wounds. Associated injuries (lip lacerations, bone fractures) require evaluation. Patient medical history, including antibiotic allergies and current medications, must be noted.
+## Immediate Care: What to Do Right After Injury
 
-**General Examination**
-Facial symmetry assessment rules out jaw fractures. Intraoral examination documents soft tissue lacerations, bone fractures, and alveolar process integrity. Any tooth fragments are identified and preserved. Other traumatized teeth require assessment.
+### First Minutes
 
-**Tooth-Specific Examination**
-Individual tooth percussion identifies immobility (potential ankylosis) versus hypermobility (PDL disruption). Tooth thermal and electric vitality tests are performed as baselines. Visual tooth discoloration assessment establishes baseline for monitoring post-traumatic color changes. Palpation and visual assessment determine crown and root fracture presence.
+1. **Verify no jaw fracture** by gently assessing facial symmetry
+2. **Check for other tooth injuries** affecting multiple teeth
+3. **Avoid touching the root** if considering reimplantation
+4. **Rinse the area gently** with water if visibly dirty, but don't scrub the tooth
+5. **Contact your dentist immediately**—time is critical
 
-### Timing of Treatment
+### Time Is Critical
 
-Prognosis substantially improves when repositioning occurs within 30 minutes of injury. The IADT considers treatment within 4-6 hours as acceptable, though outcomes are less favorable. Delayed treatment (beyond 24 hours) shows significantly worse outcomes due to PDL cell death, bacterial colonization, and initial healing processes already initiated. Time-sensitive nature necessitates immediate professional dental evaluation.
+Prognosis substantially improves when treatment occurs within 30 minutes of injury. Treatment within 4-6 hours is acceptable with less favorable outcomes. Delayed treatment beyond 24 hours shows significantly worse outcomes due to periodontal ligament cell death and bacterial colonization.
 
-## Management by Luxation Type
+## Professional Treatment Timeline
 
-### Lateral Luxation Management (IADT Protocol)
+### Initial Evaluation (Within 24 Hours)
 
-**Immediate Treatment Steps**
+Your dentist will:
+- Take a detailed injury history
+- Perform comprehensive oral examination
+- Assess tooth vitality using electrical and cold tests
+- Take radiographs to confirm tooth position
+- Determine treatment approach based on luxation type
 
-1. **Local Anesthesia:** Adequate local anesthesia, preferably infiltration near the luxated tooth plus lingual/palatal infiltration, prevents pain during manipulation.
+### Repositioning and Splinting
 
-2. **Repositioning:** Gentle horizontal pressure returns the tooth to its normal position. The clinician applies steady, controlled pressure—sudden force risks further PDL damage. Simultaneous lingual/palatal pressure from inside the mouth combined with buccal pressure from outside facilitates repositioning. Confirmation of correct position involves visual alignment with adjacent teeth and verification of normal occlusal contact.
+**Lateral Luxation**: Gentle horizontal pressure returns tooth to normal position. Flexible wire-composite splints (0.4-0.6mm stainless steel wire bonded to buccal surfaces) immobilize the tooth for 4 weeks.
 
-3. **Splinting:** The repositioned tooth requires immobilization to allow PDL healing. The IADT recommends flexible splinting (non-rigid) for 4 weeks.
+**Extrusive Luxation**: Gentle repositioning with similar splinting protocol for 4 weeks.
 
-**Splinting Methods for Lateral Luxation**
+**Intrusive Luxation**: Allow passive eruption for 3-6 months, or use orthodontic extrusion if esthetically unacceptable. Minimal or no splinting is preferred during passive eruption.
 
-**Flexible Wire-Composite Splints:** 0.4-0.6mm stainless steel wire is bonded to the buccal surfaces of the affected tooth and adjacent teeth using composite resin. The wire permits physiologic tooth mobility while preventing gross displacement. This flexibility appears to promote superior PDL healing compared to rigid fixation. Typical configuration involves splinting the luxated tooth to at least one tooth on each side (spanning 3-5 teeth total).
+### Root Canal Therapy Timing
 
-**Vacuum-Formed Thermoplastic Splints:** Custom thermoplastic trays conform to tooth surfaces, maintaining tooth position through passive retention. These remove easily for cleaning but require consistent wearing throughout the 4-week healing period. Efficacy equals that of bonded wire splints in many studies.
+For lateral luxations, tooth vitality is monitored at 3-4 week intervals. If the tooth exhibits normal sensibility at 4 weeks post-injury, no immediate endodontic intervention is required. If the tooth becomes non-responsive, root canal therapy is indicated at 2-3 weeks post-injury to prevent root resorption.
 
-**Root Canal Therapy Considerations:**
-Root canal treatment is not routinely initiated immediately after lateral luxation. Rather, tooth vitality is monitored at 3-4 week intervals. If the tooth exhibits normal sensibility at 4 weeks post-injury, no immediate endodontic intervention is required. If the tooth becomes non-responsive at any point, root canal therapy is indicated at 2-3 weeks post-injury to prevent root resorption. The window of opportunity for preventing resorption extends 2 weeks post-injury; initiation beyond this timeframe shows diminishing effectiveness.
+For extrusive and intrusive luxations showing pulpal necrosis or non-vitality, endodontic therapy at 2-3 weeks post-injury is routinely initiated to prevent root resorption progression.
 
-### Extrusive Luxation Management (IADT Protocol)
+## Splint Removal and Retention
 
-**Treatment Sequence**
+At 4 weeks, if clinical tooth mobility has resolved and radiographic healing is progressing, splints are removed. Premature removal risks re-displacement. Prolonged splinting beyond 4 weeks does not improve healing.
 
-1. **Gentle Repositioning:** Using digital pressure and sometimes tooth forceps, the extruded tooth is gently repositioned into its normal position. For severely extruded teeth, multiple appointments may be necessary, with gradual repositioning over several visits to minimize PDL shock from sudden repositioning.
+Following splint removal, the periodontal ligament remains partially healed for several weeks to months. During this period, the tooth requires protection from excessive forces. Patients should avoid hard foods and contact sports involving facial impact.
 
-2. **4-Week Flexible Splinting:** The repositioned tooth undergoes flexible splinting (wire-composite or thermoplastic) for 4 weeks, following identical splinting principles as lateral luxation.
+## Long-Term Monitoring
 
-3. **Root Canal Therapy Timing:** Root canal treatment initiation depends on response to repositioning and vitality testing. If the tooth exhibits initial vitality that persists through repositioning, monitoring continues. Non-responsive teeth require root canal therapy at 2-3 weeks post-injury. Some clinicians recommend routine root canal treatment at 7-10 days post-injury in severely extruded teeth given the high likelihood of pulpal necrosis.
+Luxated teeth require extended follow-up extending years beyond initial injury to detect late complications:
 
-**Special Considerations:**
-The extent of extrusion correlates directly with pulpal complications. Teeth extruded more than 5-7mm show pulpal necrosis in nearly all cases. Aggressive repositioning should be avoided in these cases; gradual orthodontic repositioning over weeks may minimize further PDL and vascular injury.
-
-### Intrusive Luxation Management (IADT Protocol)
-
-Intrusive luxation management differs substantially from extrusive and lateral luxation due to the severe nature of injury.
-
-**Treatment Options**
-
-**Passive Eruption (Primary Recommendation for Young Permanent Teeth):**
-Many authorities recommend observing intruded teeth and allowing passive eruption over 3-6 months rather than immediate forced repositioning. This approach respects the severe PDL trauma and potential bone resorption complications. The tooth gradually erupts to normal position as alveolar bone remodels. During this period, no splinting is employed. Approximately 50-70% of teeth spontaneously erupt to acceptable positions within 6 months.
-
-**Active Orthodontic Repositioning:**
-If passive eruption fails or is deemed unacceptable (severe esthetic compromise), passive open coil springs or fixed orthodontic appliances exert gentle continuous force, gradually extruding the tooth to normal position. This approach requires 4-16 weeks depending on intrusion severity. Risk of root resorption exists but is typically less than with immediate forceful repositioning.
-
-**Surgical Extrusion (Rare):**
-Only in exceptional circumstances (severe intrusion with root apex contacting alveolar crest, anticipated ankylosis) is surgical extrusion considered. This approach carries high morbidity and is generally avoided.
-
-**Root Canal Therapy:**
-Given the 95%+ rate of pulpal necrosis in intruded permanent incisors, root canal therapy is routinely initiated at 2-3 weeks post-injury. Early intervention prevents root resorption progression. Calcium hydroxide paste may be applied to the root canal to inhibit external root resorption.
-
-**Splinting:**
-Minimally splinted or unsplinted management is preferred for intruded teeth during passive eruption. The flexible periodontal ligament appears to facilitate healing better than rigid immobilization. If orthodontic extrusion is employed, light continuous force (50-100g) via appliances provides adequate stabilization.
-
-## Splinting Duration and Removal
-
-The IADT recommends flexible splinting for 4 weeks for lateral and extrusive luxations. At 4 weeks, if clinical tooth mobility has resolved and radiographic healing is progressing, splints are removed. Premature removal risks re-displacement. Prolonged splinting beyond 4 weeks in uncomplicated cases does not improve healing and may impede natural healing processes.
-
-## Post-Splint Stabilization and Retention
-
-Following splint removal, the periodontal ligament remains partially healed for several weeks to months. During this period, the tooth requires protection from excessive forces. Patients should avoid hard foods and contact sports involving facial impact. Some clinicians recommend continued nighttime splint wear for 2-4 weeks post-removal.
-
-## Pulp Vitality Monitoring
-
-### Vitality Testing Protocol
-
-**Initial Baseline (Within 24 Hours):**
-Both electric pulp testing and cold sensibility tests (ice or CO2 snow) establish baseline responses. The contralateral uninjured tooth of the same type provides control responses. Non-response at baseline does not indicate absence of vitality—traumatized pulps may exhibit temporary loss of response.
-
-**Follow-Up Vitality Testing Schedule:**
-- 2 weeks post-injury
-- 4 weeks (at splint removal)
-- 3 months post-injury
-- 6 months post-injury
-- 12 months post-injury (and annually for 5 years)
-
-A single non-response does not definitively indicate pulpal necrosis. Continued non-responsiveness across multiple testing occasions, particularly combined with radiographic evidence of root resorption or periapical changes, indicates definitive pulpal necrosis.
-
-## Root Resorption Monitoring and Prevention
-
-External inflammatory resorption represents the most serious long-term complication of luxation injuries, particularly in extruded and intruded teeth. The resorption process initiates when PDL damage permits bacterial and inflammatory exudate contact with root surfaces.
-
-### Prevention Strategies
-
-**Root Canal Therapy Timing:**
-Initiating root canal treatment at 2-3 weeks post-injury, before extensive root resorption develops, substantially prevents progression. Calcium hydroxide intracanal medication provides additional anti-resorptive effects through its alkaline pH. In extruded and intruded teeth showing pulpal necrosis or non-vitality, endodontic therapy at 2-3 weeks post-injury is indicated.
-
-**Splinting and Immobilization:**
-Flexible splinting for 4 weeks minimizes further PDL disruption and inflammation. Rigid splinting beyond 4 weeks does not improve outcomes.
-
-### Resorption Detection
-
-Radiographic monitoring at 3-month intervals allows resorption detection before extensive root loss occurs. Periapical radiographs demonstrate blunting or indentation of the root apex and progressive shortening. Combined clinical-radiographic assessment guides intervention timing.
-
-## Antibiotic and Pharmacologic Recommendations
-
-**Systemic Antibiotics:**
-The IADT recommends systemic antibiotics in contaminated injuries, particularly those with dirty or puncture-type trauma. Amoxicillin 500mg three times daily (or alternatives for allergic patients) for 7 days is standard. Prophylactic antibiotics in clean injuries show less benefit.
-
-**Anti-Inflammatory Medication:**
-Some evidence supports short-term nonsteroidal anti-inflammatory drug (NSAID) use to reduce inflammatory resorption. Ibuprofen 400-600mg three times daily for 7-10 days may provide benefit, particularly in extruded or intruded teeth. Risk-benefit assessment is necessary in individual cases.
-
-**Tetanus Prophylaxis:**
-Contaminated wounds require tetanus update if the patient's last tetanus vaccination exceeds 5 years.
-
-## Long-Term Follow-Up Schedule
-
-Luxated teeth require extended follow-up extending years beyond initial injury to detect late complications.
-
-**Schedule:**
+**Follow-up Schedule**:
 - 4 weeks: Splint removal assessment
-- 3 months: Radiographic examination (resorption screening, periapical changes)
+- 3 months: Radiographic examination (resorption screening)
 - 6 months: Clinical and radiographic assessment
 - 12 months: Comprehensive clinical-radiographic examination
 - Annually for 5 years post-injury
 
-## Prognosis by Injury Type
+## Recognizing Complications
 
-**Lateral Luxation:** Excellent prognosis with appropriate treatment. Approximately 85-90% of teeth retain long-term vitality. Root resorption occurs in less than 5% of cases. Healing is typically complete by 12 weeks.
+### Root Resorption
 
-**Extrusive Luxation:** Good prognosis when treated promptly. Pulpal necrosis occurs in 30-50% of moderately extruded teeth. Root resorption develops in 5-15% of cases. Delayed treatment significantly worsens outcomes.
+External inflammatory resorption represents the most serious long-term complication, particularly in extruded and intruded teeth. The resorption process initiates when periodontal ligament damage permits bacterial and inflammatory exudate contact with root surfaces.
 
-**Intrusive Luxation:** Poorest prognosis. Pulpal necrosis occurs in 95%+ of cases. Root resorption develops in 40-60% of cases despite appropriate treatment. Long-term tooth loss rates exceed other luxation types. However, contemporary management with early root canal therapy and calcium hydroxide placement has improved outcomes.
+**Prevention Strategies**:
+- Root canal therapy at 2-3 weeks post-injury substantially prevents progression
+- Calcium hydroxide intracanal medication provides anti-resorptive effects through alkaline pH
+- Flexible splinting minimizes further periodontal disruption
+
+**Detection**: Radiographic monitoring at 3-month intervals allows resorption detection before extensive root loss occurs. Periapical radiographs demonstrate blunting or indentation of the root apex and progressive shortening.
+
+### Pulpal Necrosis
+
+If vitality testing shows persistent non-responsiveness across multiple occasions, particularly combined with radiographic evidence of root resorption or periapical changes, definitive pulpal necrosis is indicated. Root canal therapy should be initiated.
+
+## Warning Signs to Watch For
+
+- **Severe persistent pain**: Particularly if starting days 2-5 post-injury
+- **Fever or chills**: Suggests infection
+- **Pus or purulent drainage**: Indicates infection requiring antibiotic treatment
+- **Increasing swelling**: Beyond normal post-injury swelling
+- **Numbness persistence**: Temporary post-injury numbness is normal; persistent numbness beyond 3-4 weeks suggests nerve involvement
+
+## For More Information
+
+See [finding-emergency-dental-care-options-beyond-hours](/article/finding-emergency-dental-care-options-beyond-hours.html), [timeline-for-emergency-tooth-pain](/article/timeline-for-emergency-tooth-pain.html), and [reimplanted-teeth-salvaging-avulsed-permanent-teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html).
+
+
 
 ## Conclusion
 
-Dental luxation injuries require immediate evaluation and treatment following IADT-endorsed protocols. Flexible splinting for 4 weeks, combined with systematic vitality monitoring and root resorption screening, optimizes outcomes. Extended follow-up extending years post-injury detects late complications, allowing timely intervention before tooth loss occurs.
+Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding tooth luxation and partial displacement - emergency helps you feel more confident when discussing options with your dentist and making decisions about your care.
+
+Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+
+## Key Takeaway
+
+Tooth luxation injuries require immediate professional evaluation and treatment. Following evidence-based protocols maximizes the likelihood of retaining tooth vitality and function. Extended follow-up extending years post-injury detects late complications, allowing timely intervention before tooth loss occurs.
+
+## Related Articles
+
+- [finding-emergency-dental-care-options-beyond-hours](/article/finding-emergency-dental-care-options-beyond-hours.html)
+- [timeline-for-emergency-tooth-pain](/article/timeline-for-emergency-tooth-pain.html)
+- [reimplanted-teeth-salvaging-avulsed-permanent-teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html)
