@@ -1,99 +1,112 @@
 ---
-title: Overjet and Overbite—Understanding Different Anterior Relationships
-slug: overjet-and-overbite-different-anterior-relationships
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Overjet and overbite are distinct malocclusions requiring different diagnostic approaches and treatment strategies in orthodontic management.
 date: 2026-03-05
-read_time: 11 min
+excerpt: Many people use the words "overjet" and "overbite" interchangeably, but they
+  actually describe two different tooth relationships.
+read_time: 7 min
+references:
+- title: Proffit WR, Fields HW, Larson B, Sarver DM. Contemporary Orthodontics. 6th
+    ed. Elsevier; 2018:Chapter 2-3.
+  url: https://pubmed.ncbi.nlm.nih.gov/29893438
+- title: Angle EH. Classification of malocclusion. Dent Cosmos. 1899;41(5):248-264.
+  url: https://pubmed.ncbi.nlm.nih.gov/9968124
+- title: Björk A, Skieller V. Growth changes in the anterior face height during and
+    after treatment with Class II elastics and a headgear. Am J Orthod. 1984;86(1):7-23.
+  url: https://pubmed.ncbi.nlm.nih.gov/6588661
+- title: Upadhyay M, Yadav S. Dentoalveolar and skeletal changes following correction
+    of Class II Division 1 malocclusion with functional appliances. J Orthod Res.
+    2014;2(2):99-108.
+  url: https://pubmed.ncbi.nlm.nih.gov/24678607
+- title: El-Mangoury NH, Gamal AY. Orthodontic management of skeletal anterior open
+    bite with severe deep bite. Am J Orthod Dentofacial Orthop. 1999;116(5):545-552.
+  url: https://pubmed.ncbi.nlm.nih.gov/10547512
+- title: Thuer U, Ingervall B. Vertical dental and skeletal dimensions and relationships
+    between anterior and posterior facial heights before and after surgical correction
+    of anterior open bite. Eur J Orthod. 1986;8(1):27-38.
+  url: https://pubmed.ncbi.nlm.nih.gov/3457981
+- title: Baccetti T, Franchi L, Stahl F. Longitudinal assessment of dentolabial relationship
+    changes in untreated children. Angle Orthod. 2009;79(6):1132-1140.
+  url: https://pubmed.ncbi.nlm.nih.gov/19852595
+- title: Janson G, Brambilla Ade D, Ferreira PM, Henriques JF, Freitas MR. Class II
+    treatment success rate in untreated indirect anchorage. Am J Orthod Dentofacial
+    Orthop. 2004;126(5):572-579.
+  url: https://pubmed.ncbi.nlm.nih.gov/15520648
+- title: 'Nanda R, Margolis MJ. Clinical Management of Orthodontic Problems: Anterior-Posterior
+    Relationships. Dent Clin North Am. 2011;55(2):203-223.'
+  url: https://pubmed.ncbi.nlm.nih.gov/21443779
+- title: Kim YH. Anterior relationship correction in Class II Division 1 malocclusion
+    with extraction. Angle Orthod. 1987;57(2):100-116.
+  url: https://pubmed.ncbi.nlm.nih.gov/3472816
+reviewed: true
 reviewer_specialty: Orthodontics
+slug: overjet-and-overbite-different-anterior-relationships
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - title: "Proffit WR, Fields HW, Larson B, Sarver DM. Contemporary Orthodontics. 6th ed. Elsevier; 2018:Chapter 2-3."
-    url: https://pubmed.ncbi.nlm.nih.gov/29893438
-  - title: "Angle EH. Classification of malocclusion. Dent Cosmos. 1899;41(5):248-264."
-    url: https://pubmed.ncbi.nlm.nih.gov/9968124
-  - title: "Björk A, Skieller V. Growth changes in the anterior face height during and after treatment with Class II elastics and a headgear. Am J Orthod. 1984;86(1):7-23."
-    url: https://pubmed.ncbi.nlm.nih.gov/6588661
-  - title: "Upadhyay M, Yadav S. Dentoalveolar and skeletal changes following correction of Class II Division 1 malocclusion with functional appliances. J Orthod Res. 2014;2(2):99-108."
-    url: https://pubmed.ncbi.nlm.nih.gov/24678607
-  - title: "El-Mangoury NH, Gamal AY. Orthodontic management of skeletal anterior open bite with severe deep bite. Am J Orthod Dentofacial Orthop. 1999;116(5):545-552."
-    url: https://pubmed.ncbi.nlm.nih.gov/10547512
-  - title: "Thuer U, Ingervall B. Vertical dental and skeletal dimensions and relationships between anterior and posterior facial heights before and after surgical correction of anterior open bite. Eur J Orthod. 1986;8(1):27-38."
-    url: https://pubmed.ncbi.nlm.nih.gov/3457981
-  - title: "Baccetti T, Franchi L, Stahl F. Longitudinal assessment of dentolabial relationship changes in untreated children. Angle Orthod. 2009;79(6):1132-1140."
-    url: https://pubmed.ncbi.nlm.nih.gov/19852595
-  - title: "Janson G, Brambilla Ade D, Ferreira PM, Henriques JF, Freitas MR. Class II treatment success rate in untreated indirect anchorage. Am J Orthod Dentofacial Orthop. 2004;126(5):572-579."
-    url: https://pubmed.ncbi.nlm.nih.gov/15520648
-  - title: "Nanda R, Margolis MJ. Clinical Management of Orthodontic Problems: Anterior-Posterior Relationships. Dent Clin North Am. 2011;55(2):203-223."
-    url: https://pubmed.ncbi.nlm.nih.gov/21443779
-  - title: "Kim YH. Anterior relationship correction in Class II Division 1 malocclusion with extraction. Angle Orthod. 1987;57(2):100-116."
-    url: https://pubmed.ncbi.nlm.nih.gov/3472816
+title: 'Overjet and Overbite: Understanding Different Anterior...'
 ---
 
-# Defining Overjet and Overbite in Clinical Practice
+## What's the Difference Between Overjet and Overbite?
 
-Overjet and overbite represent two distinct yet frequently confused anterior dental relationships that require separate diagnostic frameworks and therapeutic approaches. Overjet is defined as the horizontal (anteroposterior) overlap of maxillary and mandibular incisors, measured from the facial surface of the mandibular incisor to the incisal edge of the maxillary incisor in a perpendicular plane. Normal overjet ranges from 2-3 mm in mixed and permanent dentitions. Overbite, conversely, refers to the vertical (superoinferior) overlap of incisors, measured as the distance the maxillary incisor edges overlap the mandibular incisor edges when the teeth are in centric occlusion. Normal vertical overlap is 2-3 mm as well.
+Many people use the words "overjet" and "overbite" interchangeably, but they actually describe two different tooth relationships. Understanding the difference can help you better understand your orthodontist's treatment plan and goals. Your front teeth have both a horizontal (side-to-side) relationship and a vertical (top-to-bottom) relationship, and problems with either one might require treatment.
 
-The clinical significance of distinguishing these relationships lies in their differential etiologies and treatment implications. Excessive overjet (>3.5 mm) is often associated with anteroposterior skeletal discrepancies, maxillary prognathism, mandibular retrognathism, or dental dentoalveolar compensation patterns. Excessive overbite (>5 mm), defined as deep bite, frequently results from vertical maxillary deficiency, anterior tooth eruption patterns, or loss of posterior support through severe skeletal anterior open bite with compensatory anterior eruption. Understanding whether a malocclusion is fundamentally horizontal or vertical in nature allows clinicians to select appropriate mechanical strategies and predict growth modulation effects in growing patients.
+**Overjet** refers to the horizontal distance between your upper and lower front teeth. When you look at your smile from the side, overjet is how far your upper teeth stick out in front of your lower teeth. In a healthy bite, this distance should be about 2-3 millimeters—just enough that your upper teeth slightly overlap your lower teeth. Imagine a perfectly proportioned smile where the upper teeth are just slightly ahead of the lower teeth, like one row of fence pickets set in front of another.
 
-# Precise Measurement Methodologies and Diagnostic Protocols
+**Overbite**, on the other hand, is the vertical overlap between your front teeth. Looking at your bite from the front, overbite is how much your upper teeth overlap downward over your lower teeth. Again, a healthy overlap is about 2-3 millimeters—your lower front teeth should show just slightly behind your upper front teeth. This vertical relationship is separate from your horizontal relationship.
 
-Accurate measurement of overjet and overbite is essential for baseline documentation, treatment planning, and progress assessment. Overjet is most reliably measured with a millimeter ruler or digital caliper positioned perpendicular to the occlusal plane, with the rule held parallel to the maxillary occlusal plane, measuring from the labial surface of the mandibular central incisor to the incisal edge of the maxillary central incisor. Cephalometric assessment provides additional skeletal dimension—the ANB angle (angle formed by points A-Nasion-B) assesses anteroposterior jaw relationship, with normal range 0-4 degrees. When ANB exceeds 4 degrees, skeletal Class II jaw relationship is confirmed, often accompanying increased overjet. The SNA angle (typically 82 degrees normal) and SNB angle (typically 80 degrees normal) independently evaluate maxillary and mandibular position relative to the anterior cranial base.
+## Why Does Excessive Overjet Happen?
 
-Overbite measurement is taken vertically from the incisal edge of the maxillary central incisor perpendicular to the occlusal plane to the incisal edge of the mandibular central incisor. In cases of anterior open bite, negative values are recorded—for example, -2 mm indicates a 2 mm vertical gap. Posterior vertical dimensions are assessed using the MP to SN angle (mandibular plane angle), with normal values 32-35 degrees. Increased MP to SN angles (>38 degrees) indicate hyperdivergent skeletal patterns predisposing to anterior open bite, while decreased angles (<28 degrees) suggest hypodivergent patterns prone to deep bite development. Digital three-dimensional imaging and CBCT have enhanced the ability to assess inclinations and buccolingual positions of incisors, allowing more comprehensive treatment planning in complex cases.
+Overjet problems develop when your upper teeth are pushed too far forward. Sometimes your upper jaw is naturally positioned ahead of your lower jaw, creating skeletal overjet. Other times, your lower jaw is naturally positioned too far back, creating the same overjet appearance. In some cases, your upper teeth are just tipped forward in their sockets even though your jaws are well-positioned—this is dental overjet rather than skeletal. Your orthodontist determines which type you have because the treatment approach differs.
 
-# Skeletal Versus Dental Components: Differential Diagnosis
+## Why Does Deep Bite Happen?
 
-Establishing whether anteroposterior or vertical discrepancies are primarily skeletal or dental is crucial for treatment planning and mechanics selection. A patient with moderate overjet of 5 mm may have ANB angle of 8 degrees (skeletal Class II) or normal ANB of 2 degrees with maxillary dentoalveolar protrusion—these presentations require fundamentally different approaches. In skeletal Class II with normal dental relationships (where maxillary first molars are mesial to mandibular first molars), dental compensation by maxillary incisor proclination may already be present. Increasing proclination further creates esthetic and periodontal risks, suggesting the need for skeletal or molar distalization mechanics rather than simple incisor retraction.
+Deep bite, also called excessive overbite, happens when your upper front teeth overlap your lower teeth too much. In some cases, your lower front teeth are completely hidden behind your upper teeth. This can occur for several reasons. Sometimes your upper jaw is naturally taller than average. Other times, your lower front teeth erupted in a way that created excessive overlap. Sometimes a deep bite develops because your back teeth don't support your bite properly. Regardless of the cause, deep bite can cause problems that make treatment worthwhile.
 
-Similarly, deep bite etiology determines treatment sequencing and mechanics. A patient with normal or reduced MP to SN angle (28-32 degrees) and 8 mm overbite likely has maxillary vertical deficiency or true vertical maxillary insufficiency. This patient is not candidate for simple intrusion mechanics, which would worsen the hypodivergent pattern. Instead, intermaxillary elastics with posterior eruption permitting or surgical assistance may be indicated. Conversely, a hyperdivergent patient (MP to SN >38 degrees) with anterior open bite of 3 mm has fundamentally different vertical dimensions—intrusive mechanics on anterior teeth and/or restriction of posterior eruption through fixed functional or surgical approaches becomes appropriate. Lateral cephalometric analysis combined with vertical ratio measurements (posterior facial height divided by anterior facial height, normal 0.80-0.85) guides these decisions.
+## Why These Bite Problems Matter
 
-# Classification Systems and Malocclusion Patterns
+Both excessive overjet and deep bite create real problems beyond appearance. Protruding front teeth are more likely to get damaged if you hit your face or during sports activities. They also affect your ability to close your lips comfortably, leading to mouth breathing that dries out your mouth and increases cavity risk. Deep bite can wear down your front teeth prematurely, grinding them flatter over time. It also stresses your jaw joints, potentially causing jaw pain.
 
-The Angle classification system, introduced in 1899, remains foundational for anterior relationship categorization despite its limitations in assessing vertical dimensions. Class I malocclusion features the mandibular first molar in the buccal groove of the maxillary first molar, with overjet 0-3 mm and overbite 0-3 mm. Class II Division 1 features mandibular molars positioned distally with increased overjet (typically >4 mm) and normal to increased overbite. Class II Division 2 shows distal molar relationship combined with maxillary central incisor lingual inclination, resulting in normal or reduced overjet despite the distal molar position—these present different challenges as incisor torque correction is essential.
+Understanding that these aren't just cosmetic problems helps explain why your orthodontist recommends treatment. Modern orthodontics offers excellent solutions for both conditions, and starting treatment at the right age produces the best results.
 
-Class III malocclusion presents anterior crossbite with negative overjet, mandibular molars positioned mesially, and frequently normal or increased overbite. Modern classification systems incorporate vertical dimensions more explicitly. The vertical dimension problem table recognizes four categories: normal vertical dimension, anterior open bite, deep bite, and anterior openbite with posterior collapse. This permits simultaneous description of sagittal and vertical discrepancies. For example, a patient with Class II Division 1 malocclusion plus anterior open bite is classified as "Class II Division 1 with anterior open bite," directing attention to the need for vertical correction in addition to anteroposterior correction. Such comprehensive classification prevents oversimplification of treatment needs.
+## How Your Orthodontist Measures Your Bite
 
-# Overjet Correction: Mechanics and Timing
+Your orthodontist measures your bite precisely during your first visit to create a detailed treatment plan. They use a small ruler to measure exactly how many millimeters your upper teeth extend past your lower teeth (overjet) and how much they overlap vertically (overbite). Your orthodontist also takes special X-rays to evaluate your jaw relationship. These measurements help determine whether your bite problem is primarily due to your jaw positions or primarily due to your tooth positions.
 
-Overjet correction in growing patients with Class II skeletal patterns benefits from early intervention using functional and growth-modifying appliances. Twin-block appliances, designed by Clark, position the mandible forward through bilateral occlusal coverage, with posterior component angles typically 75-80 degrees. Clinical studies demonstrate that twin-block therapy in patients with mean age 11-12 years produces approximately 5-7 mm forward mandibular displacement and 2-3 mm reduction in maxillary dentoalveolar protrusion. The ANB angle reduces by approximately 2-3 degrees over 12-18 months of active treatment. Success depends on adequate eruption of permanent teeth, high patient compliance (24/7 wear expected), and skeletal maturity sufficient to permit response—typically patients aged 7-10 years show optimal growth modification.
+With these measurements, your orthodontist can predict what treatment approach will work best for you. [For more details about different alignment options, see our guide on best-practices-for-teeth-alignment-alternatives](/article/best-practices-for-teeth-alignment-alternatives.html).
 
-Herbst appliance therapy, using fixed bilateral ramus-to-maxilla mechanisms, provides more consistent mandibular advancement without patient compliance requirements. Studies by Ruf and colleagues document ANB angle reductions of 3-4 degrees and overjet corrections of 5-8 mm over 18-24 months. The appliance maintains constant forward positioning, preventing regression during sleep or meal times. Treatment timing for Herbst therapy is typically early permanent dentition (ages 9-12) before significant skeletal maturation. Disadvantages include complex construction, need for precise fitting, and occasional anterior open bite development in hyperdivergent patients during treatment. Fixed Herbst mechanics in combination with fixed appliances allow simultaneous correction of multiple parameters but increase treatment duration and complexity.
+## Treatment Options for Overjet Problems
 
-In non-growing or minimally growing patients, overjet correction relies on dental mechanics using fixed appliances. Class II elastics (5/16" 5/16-inch diameter, 1/4" diameter), typically 3.5-4.5 oz force, create distalizing force on maxillary molars and distalization on mandibular molars while generating forward pull on mandibular incisors—a biomechanical outcome that must be carefully managed to prevent anterior incisor inclination and root resorption. Treatment duration for dental Class II correction averages 18-24 months. Maxillary incisor proclination of 5-10 degrees often occurs, acceptable in many cases but problematic in already proclined or protruded dentitions. Headgear therapy, particularly cervical-pull or combination pull mechanics, provides distal movement of maxillary molars (approximately 3-4 mm average) and can reduce maxillary skeletal prognathism in growing patients. However, cervical pull mechanics increase vertical dimensions and posterior face height, contraindicated in already hyperdivergent patients.
+Orthodontists have several ways to correct excessive overjet, and the best approach depends on your age and whether your jaws are still growing. Growing children benefit from growth-directing appliances that guide the lower jaw forward as it develops. Functional appliances work 24/7 to encourage your jaw to grow in a better direction, and most effective treatment happens between ages 8-11 when jaw growth is rapid.
 
-# Deep Bite Correction: Strategies for Different Etiologies
+For non-growing patients or adults, fixed braces work by carefully moving teeth into better positions. Invisible aligners also correct overjet effectively, though they require excellent compliance. The treatment approach that works best for you depends on your specific situation.
 
-Deep bite correction varies dramatically based on underlying skeletal and dental patterns. In hypodivergent patients (reduced vertical dimensions), intrusion of maxillary and/or mandibular anterior teeth must be balanced against the need to maintain or increase posterior vertical dimensions. Absolute intrusion (incisor root movement apical to the alveolar crest) is rarely possible with conventional mechanics—orthodontic force achieves dentoalveolar intrusion (tooth and alveolar bone movement occlusally) with resulting alveolar bone resorption apical to the tooth. High-magnitude continuous forces (200-300 g for maxillary incisors), applied through closed-coil springs or elastomeric chains, produce approximately 1-2 mm dentoalveolar intrusion over 12 months with significant risk of root resorption, estimated at 1-3 mm average root shortening in treated teeth.
+## Correction of Deep Bite
 
-Alternative strategies for hypodivergent deep bite include posterior extrusion-eruption permitting. By selectively reducing posterior forces and allowing natural eruption of maxillary and mandibular molars, the occlusal plane rotates clockwise, increasing anterior overbite space without intrusion mechanics. This approach preserves root length and alveolar integrity but requires careful vertical dimension monitoring to prevent posterior open bite development. Treatment duration extends 24-36 months. In severe cases unresponsive to conservative mechanics, surgical-orthodontic correction combining maxillary anterior subapical osteotomy with segmental posterior intrusion may be indicated, allowing predictable 3-5 mm vertical correction.
+Correcting deep bite requires different approaches depending on whether the problem is primarily dental or skeletal. Your orthodontist might use bite turbos—small buildups placed on your back teeth that prevent your bite from closing completely while your back teeth naturally erupt and close the gap. In other cases, braces apply careful upward forces to your front teeth while restricting eruption of back teeth.
 
-Hyperdivergent patients with anterior open bite and deep bite combination present paradoxical mechanics. These patients typically show excessive anterior facial height and posterior maxillary vertical deficiency. Intrusion of anterior teeth with eruption restriction of posterior teeth through mechanics and bite turbos on posterior teeth, combined with intermaxillary elastics, creates counterclockwise rotation of the occlusal plane and anterior closure. Bite turbos (composite or acrylic buildups on lingual surfaces of maxillary molars) contact mandibular molars during closure, restricting eruption and creating mechanical advantage for anterior closure. Treatment requires 24-30 months minimum. Surgical-orthodontic treatment involving maxillary posterior impaction (Le Fort I with posterior set-down) combined with orthodontics produces more stable, predictable results for severe open bite with hyperdivergence.
+Severe deep bite sometimes benefits from minor oral surgery combined with orthodontics. Your orthodontist explains the best approach during your consultation, considering your age, jaw growth pattern, and specific needs.
 
-# Class II Skeletal Management: Comprehensive Approach
+## Class I, Class II, and Class III Bites
 
-Class II skeletal malocclusions (ANB >4 degrees) with associated overjet require multifaceted treatment planning addressing whether the problem is maxillary prognathism, mandibular retrognathism, or both. In children, functional appliance therapy targeting mandibular advancement shows benefits in early permanent dentition (ages 8-11). A 2004 meta-analysis by Janson and colleagues demonstrated that Class II treatment with indirect anchorage (allowing molar distalization) achieved successful Class I occlusion in 74.1% of cases, while similar treatment without molar distalization achieved Class I in only 51.4% of cases. This suggests molar distalization mechanics significantly improve outcomes.
+Orthodontists categorize bites based on how your back molars fit together. **Class I** is the ideal bite—your back teeth fit perfectly together and your front teeth have healthy relationships. **Class II** bites involve your lower back teeth positioned too far back, usually causing excessive overjet. This is the most common type. **Class III** bites have your lower back teeth positioned too far forward, creating an underbite where your lower front teeth are actually ahead of your upper teeth.
 
-Miniscrew-assisted orthodontics has revolutionized Class II treatment without extraction, permitting reliable maxillary molar distalization 3-5 mm with minimal side effects. Miniscrews placed in maxillary buccal alveolus or palate can distal maxillary molars at 3-5 mm over 6-9 months using 150-200 g continuous force, avoiding reciprocal anterior movement common with elastics. Studies document ANB angle reduction of 2-3 degrees and overjet reduction of 4-6 mm without maxillary incisor proclination. Treatment is non-extraction and requires only patient cooperation for elastic chain wear, reducing compliance demands compared to functional appliances.
+Treatment goals change based on your classification. Class II treatment focuses on correcting that overjet, while Class III treatment approaches the problem differently. Your orthodontist explains your specific classification and treatment goals based on your situation.
 
-In severe skeletal Class II (ANB >6 degrees) with horizontal growth pattern and significant overjet (>7 mm), orthognathic surgery combining bilateral sagittal split osteotomy (BSSO) for mandibular advancement with maxillary posterior segmentation or Le Fort I setback may be indicated. Surgical correction permits 8-15 mm forward mandibular movement or 5-10 mm maxillary setback, achieving normal anteroposterior relationships unattainable with orthodontics alone. Pre-surgical orthodontics (6-12 months) aligns teeth within each arch, and post-surgical mechanics (6-12 months) refine intercuspation. Patient selection requires completion of growth, typically age 16+ for females and 18+ for males, confirmed through cervical vertebral maturation assessment.
+## Retention After Treatment
 
-# Treatment Timing and Growth Considerations
+Once your orthodontist removes your braces, your teeth naturally want to return to their original positions. This is why retainers are absolutely essential. Most patients wear retainers full-time initially, then transition to night-time wear. Some people need retainers permanently to maintain their corrected bite.
 
-Treatment timing significantly influences outcome quality and stability in Class II and deep bite correction. Early intervention in late mixed dentition (ages 8-11) with functional appliances exploits natural growth, achieving 2-4 mm average forward mandibular displacement when bones are still actively remodeling. Studies by Baccetti documenting longitudinal changes show that untreated Class II children experience continued maxillary dentoalveolar growth averaging 2-3 mm per year from ages 8-12, suggesting functional appliance therapy early intercepts this natural compensation before it becomes entrenched.
+[For more on orthodontic alternatives, see our article on aligner wear time to understand the importance of consistent treatment](/article/aligner-wear-time-why-22-hours-daily-is-critical.html).
 
-Early primary dentition intervention (ages 3-5) is controversial. While interceptive therapy may eliminate some 25% of malocclusions in untreated populations (natural self-correction rate), evidence for early appliance use improving outcomes remains limited. Habit-breaking appliances (particularly for thumb sucking and tongue thrust) may prevent anterior open bite development in primary dentition, but comprehensive fixed appliance therapy is deferred until permanent teeth are erupting.
+## Related Articles You May Find Helpful
 
-In non-growing patients, treatment timing becomes less critical for skeletal correction but remains important for mechanical efficiency. Fixed appliance therapy duration averages 18-24 months regardless of patient age, but patients over age 40 show slightly increased root resorption risk (estimated additional 0.5-1 mm root loss) from sustained orthodontic forces. This risk remains clinically acceptable with appropriate force magnitude (125-150 g for incisors) and periodic holiday periods.
+- [Best Practices for Teeth Alignment Alternatives](/article/best-practices-for-teeth-alignment-alternatives.html)
+- [Aligner Wear Time: Why 22 Hours Daily Is Critical](/article/aligner-wear-time-why-22-hours-daily-is-critical.html)
+- [Cost of Teeth Movement Speed](/article/cost-of-teeth-movement-speed.html)
 
-# Stability and Retention Protocols
+## Conclusion
 
-Long-term stability of overjet and overbite corrections depends critically on appropriate retention strategy. After functional appliance or fixed appliance therapy, 12-24 months of retention is essential—shorter periods show significantly higher relapse rates. Hawley retainers with active components (crimps and springs) maintain overjet and overbite dimensions but permit some settling. Thermoplastic retention (vacuum-formed or pressure-formed polyethylene terephtalate glycol retainers) maintains all three dimensions and is increasingly preferred, particularly in deep bite cases where any space closure creates relapse risk.
+Overjet and overbite describe different tooth relationships, and modern orthodontics offers proven solutions for both. Whether your concern is how far your teeth stick out or how they overlap vertically, your orthodontist can create a treatment plan tailored to your needs. Starting treatment at the right age, whether in childhood when growth can be guided or in adulthood when tooth movement works effectively, produces excellent long-term results. The key is completing treatment and wearing your retainers as recommended to maintain your beautiful new smile.
 
-For deep bite cases requiring significant intrusion, long-term fixed retention (bonded composite lingual bars from canine to canine) is recommended for minimum 2 years following debonding. This prevents relapse of intruded anterior teeth, which show highest recidivism of any orthodontic movement. Data from the University of Washington Orthodontic Department show that incisors intruded >2 mm relapse approximately 50% of original movement without retention, compared to 10-15% relapse with fixed retention protocols. Class II correction stability is superior, with overjet maintained within 1 mm of post-treatment dimension in 80-85% of cases with appropriate retention.
-
-Regular retention monitoring (6-month intervals for first 2 years) ensures early detection and management of relapse. Transition from fixed to removable retention typically occurs at 2-3 years post-treatment. Indefinite part-time retention (3 nights weekly or weekends) is increasingly recommended for severe malocclusions, as complete cessation of retention shows measurable relapse over 10-year follow-up periods. Patient education regarding relapse potential and retention necessity significantly improves compliance and long-term stability.
+> **Key Takeaway:** Overjet is the horizontal distance your upper teeth stick out past your lower teeth, while overbite is the vertical overlap between them. Both relationships affect your bite function, dental health, and appearance. Your orthodontist can correct both conditions effectively when treatment begins at the appropriate time and you maintain good retention habits afterward.
 

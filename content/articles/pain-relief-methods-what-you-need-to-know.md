@@ -1,109 +1,111 @@
 ---
-title: "Dental Pain Relief: A Patient's Guide to Managing Tooth Pain at Home"
-slug: pain-relief-methods-what-you-need-to-know
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Patient-focused strategies for over-the-counter and home remedies for dental pain, anxiety-pain connections, and when to seek emergency care.
 date: 2026-03-05
+excerpt: Patient-focused strategies for over-the-counter and home remedies for dental
+  pain, anxiety-pain connections, and when to seek emergency care.
 read_time: 10 min
+references:
+- title: Hersh EV, Pinto A, Moore PA. Adverse drug interactions involving common prescription
+    and over-the-counter analgesic agents. Clin Ther. 2007;29(11):2477-2497.
+  url: https://pubmed.ncbi.nlm.nih.gov/18158142
+- title: 'Ong CKS, Seymour RA, Lirk P, et al. Combining paracetamol (acetaminophen)
+    with nonsteroidal antiinflammatory drugs: A qualitative systematic review of analgesic
+    efficacy for acute postoperative pain. Anesth Analg. 2010;110(4):1170-1179.'
+  url: https://pubmed.ncbi.nlm.nih.gov/20142348
+- title: 'Chou R, Gordon DB, de Leon-Casasola OA, et al. Management of Postoperative
+    Pain: A Clinical Practice Guideline From the American Pain Society, American Society
+    of Regional Anesthesia and Pain Medicine, and American Society of Anesthesiologists.
+    J Pain. 2016;17(2):131-157.'
+  url: https://pubmed.ncbi.nlm.nih.gov/26827847
+- title: Davey CM, Patterson P. Pain control in psychologically impaired patients.
+    Gen Dent. 2015;63(3):e45-e48.
+  url: https://pubmed.ncbi.nlm.nih.gov/25760645
+- title: Kehlet H, Dahl JB. The value of 'multimodal' analgesia in postoperative pain
+    treatment. Anesth Analg. 1993;77(5):1048-1056.
+  url: https://pubmed.ncbi.nlm.nih.gov/8105724
+- title: Wara-aswapati N, Pitiphat W, Chandrapho N, et al. Effectiveness of a herbal
+    toothpaste on the healing of aphthous ulcers in the oral cavity. Oral Surg Oral
+    Med Oral Pathol Oral Radiol Endod. 2001;92(2):142-146.
+  url: https://pubmed.ncbi.nlm.nih.gov/11505263
+- title: 'Breivik H, Collett B, Ventafridda V, et al. Survey of chronic pain in Europe:
+    Prevalence, impact on daily life, and treatment. Eur J Pain. 2006;10(4):287-333.'
+  url: https://pubmed.ncbi.nlm.nih.gov/16095934
+- title: 'Davies SL, Logan HL, Dahaba MM. Attrition in dental anxiety research: what''s
+    missing from the studies? J Dent Res. 2012;91(7 Suppl):79S-85S.'
+  url: https://pubmed.ncbi.nlm.nih.gov/22699679
+- title: Cormican LB, Bahammam F, Katz J. Psychological approaches to pain management.
+    J Can Dent Assoc. 2008;74(4):373-373.
+  url: https://pubmed.ncbi.nlm.nih.gov/18435896
+- title: 'Armfield JM, Spencer AJ, Stewart JF. Dental fear in Australia: who''s afraid
+    of the dentist? Aust Dent J. 2006;51(1):78-85.'
+  url: https://pubmed.ncbi.nlm.nih.gov/16669482
+reviewed: true
 reviewer_specialty: General Dentistry and Oral Medicine
+slug: pain-relief-methods-what-you-need-to-know
 subcategory: General Overview
 subcategory_slug: overview-general
-reviewed: true
-references:
-  - title: "Hersh EV, Pinto A, Moore PA. Adverse drug interactions involving common prescription and over-the-counter analgesic agents. Clin Ther. 2007;29(11):2477-2497."
-    url: https://pubmed.ncbi.nlm.nih.gov/18158142
-  - title: "Ong CKS, Seymour RA, Lirk P, et al. Combining paracetamol (acetaminophen) with nonsteroidal antiinflammatory drugs: A qualitative systematic review of analgesic efficacy for acute postoperative pain. Anesth Analg. 2010;110(4):1170-1179."
-    url: https://pubmed.ncbi.nlm.nih.gov/20142348
-  - title: "Chou R, Gordon DB, de Leon-Casasola OA, et al. Management of Postoperative Pain: A Clinical Practice Guideline From the American Pain Society, American Society of Regional Anesthesia and Pain Medicine, and American Society of Anesthesiologists. J Pain. 2016;17(2):131-157."
-    url: https://pubmed.ncbi.nlm.nih.gov/26827847
-  - title: "Davey CM, Patterson P. Pain control in psychologically impaired patients. Gen Dent. 2015;63(3):e45-e48."
-    url: https://pubmed.ncbi.nlm.nih.gov/25760645
-  - title: "Kehlet H, Dahl JB. The value of 'multimodal' analgesia in postoperative pain treatment. Anesth Analg. 1993;77(5):1048-1056."
-    url: https://pubmed.ncbi.nlm.nih.gov/8105724
-  - title: "Wara-aswapati N, Pitiphat W, Chandrapho N, et al. Effectiveness of a herbal toothpaste on the healing of aphthous ulcers in the oral cavity. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2001;92(2):142-146."
-    url: https://pubmed.ncbi.nlm.nih.gov/11505263
-  - title: "Breivik H, Collett B, Ventafridda V, et al. Survey of chronic pain in Europe: Prevalence, impact on daily life, and treatment. Eur J Pain. 2006;10(4):287-333."
-    url: https://pubmed.ncbi.nlm.nih.gov/16095934
-  - title: "Davies SL, Logan HL, Dahaba MM. Attrition in dental anxiety research: what's missing from the studies? J Dent Res. 2012;91(7 Suppl):79S-85S."
-    url: https://pubmed.ncbi.nlm.nih.gov/22699679
-  - title: "Cormican LB, Bahammam F, Katz J. Psychological approaches to pain management. J Can Dent Assoc. 2008;74(4):373-373."
-    url: https://pubmed.ncbi.nlm.nih.gov/18435896
-  - title: "Armfield JM, Spencer AJ, Stewart JF. Dental fear in Australia: who's afraid of the dentist? Aust Dent J. 2006;51(1):78-85."
-    url: https://pubmed.ncbi.nlm.nih.gov/16669482
+title: 'Dental Pain Relief: A Patient''s Guide to Managing Tooth...'
 ---
 
-## Over-the-Counter Pain Medications: Evidence-Based Options
+## Quick Pain Relief Options
 
-Dental pain requires prompt treatment, and over-the-counter pain relievers provide safe, effective options for home management while awaiting dental appointments. Ibuprofen (Advil, Motrin) at 400-600 mg doses represents the most effective OTC option for tooth pain. The anti-inflammatory action reduces swelling around the tooth root and inflamed nerve tissue, providing superior pain relief compared to acetaminophen alone. Standard dosing involves taking ibuprofen every 6-8 hours, with maximum daily dose reaching 1200 mg for OTC use (2400 mg with medical supervision). Start with 600 mg for more severe pain; 400 mg suffices for mild discomfort.
+When you have sudden tooth pain and can't immediately see your dentist, over-the-counter medications provide effective temporary relief. Ibuprofen at 400 to 600mg doses is your best first choice for tooth pain. It works by reducing inflammation, which is usually the main cause of dental pain. Take ibuprofen every 6 hours as needed, with maximum of 1200mg daily for over-the-counter use.
 
-Acetaminophen (Tylenol) at 1000 mg dosing provides complementary pain relief through different mechanisms than ibuprofen. While somewhat less effective than ibuprofen for dental pain specifically, combining both medications creates synergistic effects producing superior analgesia. The ideal approach uses ibuprofen 600 mg every 6 hours alternated with acetaminophen 1000 mg every 6 hours, allowing dosing every 3 hours while remaining within safe daily limits. This combination works better than either medication alone, with many patients experiencing significant pain reduction allowing better sleep and function.
+Acetaminophen at 500 to 1000mg also relieves pain effectively, though it works differently than ibuprofen. Combining both medications together works better than either one alone because they target pain through different mechanisms. Take ibuprofen at 8am, acetaminophen at 11am, ibuprofen at 2pm, acetaminophen at 5pm, and so on. This pattern keeps pain medication in your system all the time without exceeding safe daily limits. Many people find this combination provides much better pain control than either medication alone.
 
-Naproxen sodium (Aleve) at 220 mg dose provides extended duration lasting 8-12 hours, requiring only twice-daily dosing. For some patients, longer-acting medications prove more convenient than frequent dosing schedules. Maximum daily naproxen dose reaches 550 mg daily (one tablet) for extended use, though up to 1100 mg (two tablets) may be taken initially. Read OTC medication labels carefully—many combination products contain hidden acetaminophen, and exceeding 4000 mg daily acetaminophen total (from all sources combined) risks liver damage.
+## Topical and Home Remedies
 
-Aspirin 500-1000 mg provides analgesic effects comparable to ibuprofen, though less commonly recommended due to bleeding risk in oral surgery patients and potential stomach irritation. Patients on anticoagulants (warfarin, apixaban) should avoid aspirin without consulting their dentist or physician. Buffered aspirin formulations reduce stomach upset in sensitive patients.
+Topical anesthetics containing benzocaine numb the painful area directly, providing quick but temporary relief lasting 15 to 30 minutes. Apply directly to the painful tooth or surrounding gum. These work best for early pain management while waiting for your dentist appointment. Clove oil is a natural anesthetic with real pain-relieving properties. Apply a small amount on a cotton ball directly to the painful area for temporary numbing.
 
-## Topical Pain Relief Products
+Salt water rinses reduce pain and inflammation naturally. Mix 1/2 teaspoon salt in 8 ounces warm water and rinse after meals and before bed. This is safe, inexpensive, and soothing. Ice applied to your cheek over the painful tooth reduces swelling and numbs the area. Apply ice for 15 to 20 minutes at a time, with breaks in between. Avoid extremely hot or cold foods and drinks, though—they often make pain worse even though they feel temporarily soothing.
 
-Topical benzocaine oral anesthetic products (Orajel, Cepacol) provide rapid numbing when applied directly to painful teeth or gums, with onset within 30-60 seconds. These products work best for surface pain from exposed tooth roots or gum irritation, providing 30-60 minutes temporary relief. Apply directly to clean, dry tooth/gum area, and avoid eating/drinking for 30 minutes post-application to prevent swallowing the anesthetic. Overuse can numb swallowing reflexes; use only as directed on packaging.
+## When Tooth Pain Requires Emergency Care
 
-Clove oil contains eugenol, a natural anesthetic with analgesic properties supported by scientific evidence. Apply directly to painful tooth using a cotton ball, leaving in place for several minutes. Clove oil provides excellent temporary pain relief (1-2 hours) and antimicrobial benefits without systemic side effects. Some patients find clove oil superior to commercial anesthetics for rapid pain reduction. Avoid swallowing excess clove oil, which can irritate stomach.
+Most dental pain, while very uncomfortable, doesn't constitute a dental emergency. However, certain situations warrant calling your dentist immediately or seeking emergency care. Severe pain accompanied by fever suggests possible dental infection requiring urgent treatment. Facial swelling in the cheek or jaw area, especially if it affects your ability to swallow, requires immediate attention—this indicates spreading infection.
 
-Oral gel products containing benzocaine plus other analgesic ingredients (zinc oxide, menthol, petroleum) provide longer-lasting relief compared to benzocaine alone. Products like Sorbithane and Zilactin combine surface anesthesia with topical analgesic ingredients. These products prove particularly effective for temperature-sensitive teeth pain.
+Difficulty opening your mouth widely, difficulty swallowing saliva, or difficulty breathing all suggest serious infection requiring urgent professional care. Tooth pain from injury or trauma (hit to the mouth, cracked tooth from accident) needs prompt evaluation to assess damage and prevent tooth loss. Don't assume severe pain will resolve on its own—dental problems that cause significant pain are often serious infections requiring professional treatment.
 
-## Home Remedies with Scientific Evidence
+## Managing Tooth Sensitivity
 
-Salt water rinses provide effective pain reduction for inflamed gums through antimicrobial action and local anesthesia. Mix 1/2 teaspoon salt in 8 ounces warm water, rinse thoroughly multiple times daily. The osmotic effect reduces swelling while salt's antimicrobial properties combat bacterial infection contributing to pain. This remedy costs pennies and carries no adverse effects, making it a safe first-line approach.
+Tooth sensitivity—sharp pain triggered by cold, heat, sweets, or brushing—often improves with desensitizing toothpaste used regularly. These products block sensation from reaching the nerve through dentin tubules. Use them twice daily with a soft-bristled toothbrush. Results develop gradually over 2 to 4 weeks. Avoid aggressive brushing and acidic foods and drinks, as both worsen sensitivity. For more on this topic, see our guide on [Benefits Of Pain Relief Methods](/article/benefits-of-pain-relief-methods.html).
 
-Ice application provides rapid temporary pain relief through local anesthesia and reduced blood flow to inflamed tissues. Place ice chips in a plastic bag, wrap in cloth, and apply to cheek overlying the painful tooth for 15-minute intervals. Avoid direct ice contact with skin. Alternate ice application with 15-minute rest periods—use ice for 15 minutes, rest 15 minutes, repeat up to 4 times. This approach works best in early pain stages before severe swelling develops.
+Professional fluoride treatments from your dentist work much better than store-bought products. A single professional treatment often reduces sensitivity significantly. Discuss sensitivity with your dentist at your next visit—if it's severe or persistent, they can recommend additional treatment options like fluoride gel or bonded resin coatings.
 
-Honey possesses antimicrobial and anti-inflammatory properties, with research supporting effectiveness for oral wound healing and infection prevention. Manuka honey particularly demonstrates superior antibacterial activity against oral pathogens. Apply honey directly to painful tooth or gum area, leaving in place as long as possible. While not providing rapid analgesia like ibuprofen, honey addresses underlying infection reducing pain sources. Honey also soothes irritated tissues and promotes healing.
+## The Role of Anxiety in Dental Pain
 
-Ginger root provides natural anti-inflammatory effects. Steep fresh ginger slices in hot water 10-15 minutes, cool to room temperature (hot beverages can increase tooth sensitivity pain), and rinse thoroughly. Alternatively, place a small piece of fresh ginger against the painful tooth. Ginger's anti-inflammatory compounds reduce swelling and pain through mechanisms complementary to medications.
+Anxiety and fear actually increase pain perception. When you're anxious about dental procedures, your muscles tense, your stress hormones increase, and your pain sensitivity increases. This creates a cycle where anxiety causes more pain, which causes more anxiety. Managing anxiety helps manage pain. Deep breathing before and during appointments reduces anxiety significantly.
 
-Peppermint tea contains menthol providing mild numbing and antispasmodic effects. Steep peppermint tea bag 5-10 minutes, cool to room temperature, then apply directly to painful area or use as rinse. Some patients find the menthol's cooling sensation provides temporary pain relief, though efficacy remains less dramatic than commercial anesthetics.
+If you have dental anxiety, tell your dentist. They can explain procedures in detail, go slowly, use hand signals so you can communicate during procedures, and take breaks when needed. Some dentists use relaxation techniques, guided imagery, or even mild sedation for anxious patients. Addressing anxiety isn't just about feeling more comfortable—it actually reduces the pain you experience during treatment.
 
-## Managing Anxiety-Related Dental Pain Amplification
+## Preventing Dental Pain Through Home Care
 
-Dental anxiety significantly amplifies pain perception through multiple mechanisms: anxiety increases muscle tension in jaw and neck, activates sympathetic nervous system heightening pain sensitivity, and triggers catastrophic thinking amplifying pain experience. Recognizing anxiety's role in pain perception allows targeted interventions reducing pain intensity.
+The best approach to dental pain is prevention through good home care. Brush twice daily with a soft toothbrush using gentle, short strokes. Floss daily to remove plaque between teeth where brushes can't reach. Use fluoride toothpaste to strengthen enamel. Rinse with fluoride mouthwash to protect vulnerable areas.
 
-Relaxation techniques including progressive muscle relaxation—systematically tensing then releasing muscle groups—reduce muscle tension amplifying dental pain. Start with facial muscles, progressively moving through neck, shoulders, and body. Perform this exercise before sleep and during pain episodes to reduce muscle-mediated pain components. Deep breathing exercises (4-count inhale, 7-count hold, 8-count exhale) activate parasympathetic nervous system, counteracting anxiety's sympathetic activation. Practice deep breathing during painful episodes for immediate pain reduction.
+Avoid sugary and acidic foods and drinks that create cavities and sensitivity. Don't use your teeth to open things—this breaks teeth and causes pain. Wear a mouth guard during sports to prevent traumatic injury. See your dentist regularly for cleanings and early cavity detection. Addressing cavities when small is much less painful than waiting until they're large and deep.
 
-Guided imagery involves visualizing peaceful, relaxing scenarios creating mental state incompatible with pain and anxiety. Close eyes, visualize detailed peaceful setting (beach, forest, favorite location), engage all senses in visualization. Ten-minute guided imagery sessions reduce pain intensity by 20-30% in most patients through mental mechanisms interrupting pain perception. Free guided imagery recordings available online through meditation apps (Calm, Headspace) provide professional guidance.
+## When to Stop Delaying Professional Care
 
-Distraction through focused attention on non-pain stimuli redirects attention from pain perception. Watch engaging movies/TV shows, read absorbing books, engage in hobbies during pain periods. Attention research demonstrates pain perception requires conscious attention; distraction legitimately reduces pain through neurobiological mechanisms rather than simply ignoring pain.
+While home pain relief helps temporarily, it doesn't fix the underlying problem. A cavity causing pain will continue getting worse if untreated, eventually causing infection and tooth loss. A cracked tooth will deteriorate without treatment. Gum disease causing pain won't improve without professional care. Home remedies provide temporary comfort while you arrange professional treatment—they're not substitutes for dental care. For more on this topic, see our guide on [Biofilm Maturation 24 Hour Plaque Dev...](/article/biofilm-maturation-24-hour-plaque-development.html).
 
-Cognitive reframing transforms catastrophic pain thoughts into realistic assessments. Anxiety-driven thoughts ("This pain will never stop," "The pain means something's wrong with me") amplify pain perception. Replacing with realistic thoughts ("This pain is temporary and manageable," "My dentist can fix this," "Ibuprofen will help within 30 minutes") reduces anxiety and pain. Identifying specific anxious thoughts, examining evidence, and developing realistic alternatives provides powerful pain reduction.
+If you're delaying dental care due to fear or cost concerns, talk with your dentist about options. Many dentists offer payment plans for expensive procedures. Anxiety treatments are available. Delaying care only makes problems worse and more expensive to fix. Getting treatment sooner prevents the need for more serious and costly interventions later.
 
-## When to Seek Emergency Dental Care
+## Combination Strategies for Best Results
 
-Severe dental pain warrants prompt professional evaluation, as certain conditions require immediate treatment preventing serious complications. Uncontrolled pain despite appropriate medications, pain radiating to jaw joint or ear, fever with facial swelling, difficulty swallowing or breathing, or recently developed facial asymmetry all indicate urgent conditions requiring professional assessment.
+Using multiple pain relief approaches simultaneously works better than relying on medication alone. For example: take ibuprofen 600mg combined with acetaminophen 1000mg, apply topical anesthetic, use ice on your cheek, eat soft room-temperature foods, sleep with your head elevated, use salt water rinses, and avoid stress-inducing situations. This multi-pronged approach addresses pain from different angles.
 
-Severe pain with sudden onset often indicates pulpitis (nerve tissue inflammation) or abscess formation. Pulpitis typically produces sharp, lancinating pain triggered by temperature extremes or biting. Abscesses present with constant, deep-aching pain often accompanied by swelling, fever, and sometimes pus drainage. Both conditions may resolve transiently (suggesting pain has peaked and declining), but this temporary improvement doesn't indicate problem resolution—treatment remains necessary.
+Schedule your dental appointment while managing pain with home remedies. Pain indicates a problem requiring professional diagnosis and treatment. Your dentist will identify the cause and fix it, providing permanent relief rather than temporary pain management.
 
-Traumatic tooth injuries (chips, cracks, knocked-out teeth) require same-day evaluation. Knocked-out teeth may be replanted if treated quickly (ideally within 30 minutes). Fractured teeth with exposed pulp create severe pain and infection risk. Post-operative pain after dental work that increases after day 3-4 (normal post-operative pain peaks at 24-48 hours then decreases) suggests complications requiring evaluation.
+## Conclusion
 
-Most dental offices provide emergency access for severe pain. Call your dentist's office even outside normal hours; recorded messages typically provide emergency contact information. If unable to reach your dentist, hospital emergency departments can provide pain management and oral surgeons for emergencies. Do not delay seeking care thinking pain will resolve—dental infections spread rapidly with serious consequences.
+Over-the-counter ibuprofen and acetaminophen, combined with topical treatments, ice, salt water rinses, and lifestyle modifications, provide effective temporary dental pain relief. However, dental pain indicates an underlying problem requiring professional evaluation and treatment. Use these strategies to manage pain until you see your dentist, not as a permanent solution. Delaying professional care allows problems to worsen and become more difficult and expensive to treat.
 
-## Long-Term Pain Management and Preventive Approaches
+## Key Takeaway
 
-Maintaining excellent oral hygiene prevents cavities causing pain, with twice-daily brushing (2 minutes duration), daily flossing, and professional cleanings reducing caries risk by 80-90%. Fluoride toothpaste (1450 ppm fluoride minimum) strengthens enamel's resistance to decay. Electric toothbrushes provide superior plaque removal compared to manual brushing, particularly for individuals with limited dexterity.
+Manage dental pain at home with ibuprofen and acetaminophen taken together on a regular schedule, topical anesthetics, ice, and salt water rinses—but schedule a dental appointment promptly. Don't let anxiety or cost concerns delay professional care; addressing dental problems early prevents serious infections and tooth loss. Professional treatment provides permanent pain relief by fixing the underlying cause, not just temporary symptom management.
 
-Dietary modifications reducing sugar and acidic beverage consumption dramatically decrease cavity risk. Sugar feeds cavity-causing bacteria; acidic beverages (soda, sports drinks, citrus juices) erode protective enamel. Consume sugary foods with meals rather than between meals (saliva production with meals buffers acid and remineralizes early decay). Drink water instead of sugary or acidic beverages.
+## Related Articles
 
-Regular dental checkups (every 6 months for most, every 3 months for individuals with gum disease or frequent cavities) identify problems early before pain develops. Early cavities often produce no pain; professional detection during cleanings allows simple, painless treatment. Professional fluoride applications and sealants on back teeth provide additional cavity prevention.
-
-Dentin hypersensitivity (sharp pain from exposed tooth roots) responds to desensitizing toothpaste containing potassium nitrate or strontium chloride. Use consistently (twice daily for 2-4 weeks) for progressive improvement. Professional fluoride treatments or bonded composite resin seal exposed root surfaces. Gum recession exposing roots often requires gum grafting procedures.
-
----
-
-**References:**
-1. Hersh EV, Pinto A, Moore PA. Adverse drug interactions involving common prescription and over-the-counter analgesic agents. Clin Ther. 2007;29(11):2477-2497.
-2. Ong CKS, Seymour RA, Lirk P, et al. Combining paracetamol (acetaminophen) with nonsteroidal antiinflammatory drugs: A qualitative systematic review of analgesic efficacy for acute postoperative pain. Anesth Analg. 2010;110(4):1170-1179.
-3. Chou R, Gordon DB, de Leon-Casasola OA, et al. Management of Postoperative Pain: A Clinical Practice Guideline From the American Pain Society, American Society of Regional Anesthesia and Pain Medicine, and American Society of Anesthesiologists. J Pain. 2016;17(2):131-157.
-4. Kehlet H, Dahl JB. The value of 'multimodal' analgesia in postoperative pain treatment. Anesth Analg. 1993;77(5):1048-1056.
-5. Wara-aswapati N, Pitiphat W, Chandrapho N, et al. Effectiveness of a herbal toothpaste on the healing of aphthous ulcers in the oral cavity. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2001;92(2):142-146.
-6. Breivik H, Collett B, Ventafridda V, et al. Survey of chronic pain in Europe: Prevalence, impact on daily life, and treatment. Eur J Pain. 2006;10(4):287-333.
-7. Davies SL, Logan HL, Dahaba MM. Attrition in dental anxiety research: what's missing from the studies? J Dent Res. 2012;91(7 Suppl):79S-85S.
-8. Cormican LB, Bahammam F, Katz J. Psychological approaches to pain management. J Can Dent Assoc. 2008;74(4):373-373.
-9. Armfield JM, Spencer AJ, Stewart JF. Dental fear in Australia: who's afraid of the dentist? Aust Dent J. 2006;51(1):78-85.
+- [Benefits of Pain Relief Methods](/article/benefits-of-pain-relief-methods.html)
+- [Biofilm Maturation: 24-Hour Plaque Development](/article/biofilm-maturation-24-hour-plaque-development.html)
+- [Root Caries: Decay on Exposed Roots](/article/root-caries-decay-on-exposed-roots.html)
