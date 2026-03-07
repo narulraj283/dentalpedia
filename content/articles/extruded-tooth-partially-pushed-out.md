@@ -21,68 +21,98 @@ references:
   - "Glendor U. Epidemiology of traumatic dental injuries—a 12 year review of the literature. Dent Traumatol. 2008;24(6):603-611."
 ---
 
-## Classification and Incidence of Traumatic Extrusion
+## What an Extruded Tooth Is
 
-Traumatic extrusion, technically classified as partial luxation, represents partial tooth displacement from the alveolar socket with pulpal and periodontal ligament (PDL) stretching but without complete separation. Extrusion injuries account for 7-22% of traumatic dental injuries and occur most frequently in young patients aged 7-14 years during sports activities, falls, or interpersonal violence. Impact mechanism determines extrusion severity—lateral forces typically cause greater displacement than axial compression forces.
+When you get a blow to your mouth during sports, a fall, or an accident, your tooth might get pushed partially out of its socket. We call this extrusion or luxation. The tooth is still there and still connected, but it's sticking up higher than it should. This happens to lots of people, especially kids and teenagers.
 
-Extrusion severity ranges from minimal displacement (1-2 millimeters) to substantial extrusion (>5 millimeters) approaching complete avulsion status. Clinical classification divides extrusion injuries based on displacement distance: mild extrusion (1-3 millimeters), moderate extrusion (3-5 millimeters), and severe extrusion (>5 millimeters). Severity directly correlates with PDL damage extent, pulpal injury probability, and ultimate survival prognosis. Understanding injury severity enables appropriate prognostic communication with patients and families regarding expected outcomes.
+The good news is that if you act quickly, you can usually save the tooth. The time between the injury and getting treatment is super important.
 
-## Clinical Presentation and Immediate Assessment
+## How Bad Is the Damage?
 
-Patients present immediately post-trauma with tooth elevated above normal occlusal plane, often with bleeding from gingival margin indicating periodontal ligament and soft tissue injury. Occlusal trauma created by abnormal tooth position causes discomfort and proprioceptive awareness of displaced tooth. Mild extrusions may appear subtle on visual inspection, requiring direct comparison with contralateral tooth to appreciate displacement.
+A slightly extruded tooth (pushed out just a little bit) is less serious than one pushed out a lot. The more it's pushed out, the more damage there is to the ligaments holding the tooth in place and possibly to the nerve inside the tooth.
 
-Radiographic assessment using periapical and occlusal projections documents extrusion severity, assesses alveolar bone damage, evaluates root morphology and apical development status, and identifies associated fractures. Computed tomography provides three-dimensional assessment in complex cases with multiple tooth displacement or suspected mandibular fracture. Root development stage significantly impacts prognostic factors—immature teeth with open apices demonstrate superior healing potential than mature teeth with completely formed roots.
+If your tooth is pushed up just a little, you have a very good chance of saving it. If it's pushed up a lot, you still have a good chance, but it might need root canal treatment later.
 
-Pulpal viability assessment remains challenging immediately post-injury, as most extruded teeth retain pulpal blood flow despite PDL damage. Electric pulp testing (EPT) shows reduced response acutely due to PDL inflammation; reliability increases after several weeks when pulpal status stabilizes. Periapical radiography remains the most reliable early assessment tool, with normal appearance suggesting preserved pulpal vitality. Teeth demonstrating apical radiolucency within 4 weeks require endodontic therapy.
+## Immediate Steps—What to Do Right Now
 
-## Immediate Repositioning Technique
+This is where every minute counts. Ideally, the tooth should be pushed back into place within 30 minutes. If someone at the scene (a coach, another adult) knows how to do this safely, it can make a huge difference.
 
-Successful extrusion treatment mandates rapid repositioning—ideally within 30 minutes but acceptable within 24 hours with declining success probability. Parent or coach emergency intervention at injury site, if trained, significantly improves outcomes through minimized repositioning delay. Emergency first aid training should include extrusion repositioning education for schools and athletic programs with high injury risk.
+How to reposition an extruded tooth:
+1. Seat the person upright with their head tilted back
+2. Gently hold the tooth and push it straight down toward the correct position
+3. Apply steady, gentle pressure for a couple of minutes—don't force it
+4. Make sure the tooth sits at the right height compared to the neighboring teeth
+5. Have the person bite gently to verify it's in the right spot
 
-Repositioning technique requires gentleness to avoid complete avulsion and additional PDL damage. Patient should be seated in upright position with head tilted back for visibility and accessibility. Operator grasps tooth in labial position and applies gentle axial pressure, gradually moving tooth apically toward normal occlusal position. Continuous gentle pressure for 2-3 minutes allows gradual tooth movement and PDL lengthening without abrupt shock loading. Patient should be instructed to close slowly into centric occlusion, verifying tooth returns to appropriate position without occlusal interference.
+Don't push hard or try to force it. If it's not moving smoothly, stop and go to the dentist instead. Sometimes trying too hard can make it worse.
 
-Repositioned teeth should not contact antagonist teeth in maximum intercuspation or excursive movements. Minor occlusal adjustment files remove contact points preventing re-extrusion or continued traumatic loading. Excessive force repositioning risks complete avulsion; if resistance develops, professional intervention should be immediately sought rather than forcing tooth into position.
+## After Repositioning
 
-## Periodontal Ligament Stabilization and Healing
+Once the tooth is back in position, it needs to be held there so it can heal. Your dentist will attach a thin wire or composite splint (kind of like an invisible brace) to hold the tooth in place for 2 to 6 weeks depending on how bad the injury was. This keeps it stable while the attachment structures heal.
 
-Successful extrusion treatment emphasizes rapid PDL stabilization through active repositioning followed by passive stabilization allowing spontaneous healing. Flex splinting (0.5-1.0 millimeter metal-wire or fiber-reinforced composite) bonded to labial surfaces of extruded tooth and adjacent teeth maintains repositioned position without restricting physiologic tooth movement. Splint should be passive, providing position maintenance without applying additional displacement forces.
+Bite on some gauze for a few minutes to help stop any bleeding, then get to your dentist right away for proper care.
 
-Splint retention duration depends on extrusion severity and PDL healing progression. Mild extrusions require 2-3 weeks stabilization; moderate extrusions 3-4 weeks; severe extrusions 4-6 weeks. Splint removal timing balances PDL healing requirements against risks of prolonged immobilization causing ankylosis. Premature splint removal risks re-extrusion from PDL healing force, while prolonged stabilization risks periodontal attachment loss and ankylosis development.
+## What Happens to the Nerve
 
-Radiographic assessment at 2-4 weeks documents PDL space preservation and absence of developing apical radiolucency. PDL space narrowing appears normal during healing and doesn't indicate failure; disappearance of PDL space suggests ankylosis requiring periodontal evaluation and possible extraction consideration.
+Even if the tooth looks fine after repositioning, the nerve inside might be damaged. About 20 to 40 percent of extruded teeth lose their nerve within 1 to 2 years. Your dentist will watch for this with regular exams and X-rays. If the nerve dies, the tooth will need a root canal.
 
-## Pulpal Status Monitoring and Endodontic Considerations
+If your tooth starts to turn darker or grayish (discoloration), or if it becomes sensitive or gets an infection, you'll probably need root canal treatment. For kids whose teeth are still growing, special treatments can help the tooth keep developing normally even if the nerve is damaged.
 
-Traumatized extruded teeth face 20-40% pulpal necrosis risk within 1-2 years post-injury despite initial viability appearance. Regular clinical and radiographic monitoring enables early necrosis detection requiring endodontic intervention. Teeth developing apical radiolucency, discoloration progression, or negative EPT response warrant endodontic referral. Root resorption manifestations including shortening on sequential radiographs indicate significant pathology requiring urgent intervention.
+## Healing and Attachment
 
-Immature teeth (open apex) with pulpal necrosis face substantial complications—external root resorption progresses rapidly in traumatized immature teeth without pulpal vitality. Early pulpal necrosis recognition and treatment arrest resorption progression. Apexification procedures using calcium hydroxide or mineral trioxide aggregate (MTA) support continued root development and apical closure when possible.
+The ligaments that hold your tooth in place will try to heal. Your dentist will check on this with X-rays to make sure everything is healing the way it should. The splint comes off after a few weeks, but you need to be careful for several months while everything finishes healing.
 
-Mature teeth with pulpal necrosis require standard endodontic treatment protocols. Root canal therapy should be initiated within 1-2 weeks of necrosis confirmation to prevent resorption progression. Walking bleach application (sodium perborate/hydrogen peroxide mixture) addresses crown discoloration developing post-injury, though timing should follow endodontic completion to avoid chemical resorption risk.
+Sometimes the bone around the tooth gets damaged too. Your dentist will make sure the bone is healing properly and might take X-rays at different times to check.
 
-## Soft Tissue and Bone Injury Management
+## Following Instructions Is Critical
 
-Traumatic extrusion inevitably damages gingival and periodontal tissues requiring comprehensive wound management. Gingival lacerations should be cleaned with sterile saline and sutured using absorbable material (4-0 polyglactin 910) restoring anatomic position. Foreign material embedded in gingiva from trauma environment must be removed to prevent chronic inflammation.
+During healing, avoid:
+- Chewing on the affected tooth
+- Eating hard or sticky foods
+- Playing sports or doing strenuous activity
+- Biting on the tooth directly
 
-Alveolar bone fractures occasionally accompany extrusion, particularly in severe injuries or polytrauma situations. Radiographic assessment identifies bone fractures requiring reduction and stabilization. Segment fractures should be reduced and held in position through tooth splinting if possible, or through dedicated bone plate fixation if splinting proves inadequate. Bone fragments should not be aggressively removed unless completely separated—remaining in position supports healing and revascularization.
+Soft foods are your friend while healing is happening.
 
-Periodontal probing at 2-4 weeks post-injury documents attachment loss and periodontal pocket development. Aggressive plaque removal and periodontal instruction support healing. Periodontal grafting may be considered 2-3 months post-injury in sites showing substantial bone loss. Early periodontal intervention prevents chronic periodontal disease development common in traumatized teeth.
+## Long-Term Monitoring
 
-## Systemic Antibiotic and Prophylaxis Protocols
+You're not done after a few weeks of splinting. You need regular check-ups for at least 5 to 10 years to make sure:
+- The nerve stays healthy or if it dies, it gets proper treatment
+- The bone around the tooth stays healthy
+- The attachment structures heal properly
+- No infection develops
 
-Systemic antibiotics reduce infection risk in contaminated wounds and open alveolar fractures. Amoxicillin-clavulanate (875 mg twice daily for 7-10 days) targets oral flora including gram-positive cocci and anaerobes. Alternative coverage includes amoxicillin (500 mg three times daily) with metronidazole (400-500 mg three times daily) for anaerobic coverage. Immunocompromised patients warrant more aggressive antibiotic protocols including broader-spectrum agents.
+Your dentist will probably want to see you at 2 weeks, 4 to 6 weeks, 3 months, 6 months, 1 year, and then yearly. X-rays at different times help track what's happening.
 
-Tetanus prophylaxis requires assessment of tetanus immunization status. Patients with clean injuries and adequate immunization (within 10 years) require no tetanus therapy. Dirty/contaminated wounds require booster shot if >5 years since last immunization. Non-immunized or inadequately immunized patients require tetanus immune globulin (TIG) in addition to tetanus toxoid.
+## What Affects Your Chances
 
-## Long-term Monitoring and Outcome Prediction
+You have the best chance of saving your tooth if:
+- Treatment happens within 30 minutes
+- The tooth is put back and splinted right away
+- You're young (kids' teeth heal better than adult teeth)
+- The tooth hasn't fully formed yet (open root apex)
+- There are no other injuries
 
-Successful extrusion treatment requires extended monitoring—minimum 5-10 years post-injury to assess long-term tooth survival and periodontal integrity. Follow-up appointments at 2 weeks, 4-6 weeks, 3 months, 6 months, 12 months, and annually thereafter document healing progression and identify pathology early. Radiographs at 4 weeks, 6 months, 1 year, and annually assess pulpal and apical status.
+If there are delays or the tooth was really badly pushed out, your chances go down. But even in tough situations, modern treatment can often save the tooth.
 
-Factors predicting favorable outcomes include rapid repositioning (within 30 minutes), immediate splinting, young age, mature tooth with closed apex, and absence of other injuries. Unfavorable factors include delay >2 hours, severe initial displacement, immature tooth status, and associated fractures. Most repositioned extruded teeth survive 5-10+ years with appropriate management; 20-30% ultimately require extraction due to persistent pathology or resorption.
+## What Happens If It Doesn't Work Out
 
-## Prognosis and Patient Counseling
+Even with the best treatment, about 20 to 40 percent of extruded teeth eventually get lost because of problems that develop 1 to 5 years later. But that means 60 to 80 percent are saved long-term, which is pretty good considering the injury.
 
-Immediate extrusion treatment typically achieves 80-90% tooth survival at 1 year and 60-80% at 5 years. Most tooth loss occurs between 1-5 years post-injury through progressive resorption or recurrent pulpal necrosis. Patient communication should emphasize that immediate treatment represents emergency intervention with realistic survival estimates rather than guaranteed success. Family should be counseled regarding possible future need for endodontic therapy, crown restoration, or extraction with replacement.
+If your tooth eventually can't be saved, you'll need replacement. Your dentist will discuss options with you when the time comes—implants, bridges, or partial dentures are all possible.
+
+## Prevention
+
+Wearing a mouthguard during sports is the best prevention. A properly fitted mouthguard significantly reduces the chance of tooth extrusion and other mouth injuries.
 
 ## Conclusion
 
-Traumatic extrusion requires urgent repositioning and stabilization to optimize PDL healing and tooth survival. Immediate intervention within 30 minutes significantly improves outcomes. Extended monitoring and appropriate endodontic and periodontal management support long-term preservation of traumatized teeth.
+A partially extruded tooth is an emergency that needs immediate attention. Getting it repositioned and stabilized quickly gives you the best chance of saving it. Even if complications develop later, modern dental treatment can often save the tooth or replace it if necessary.
+
+## Related Articles You May Find Helpful
+
+- [Reimplanted Teeth: Salvaging Avulsed Permanent Teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html)
+- [Risk and Concerns with Mouth Injuries Treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html)
+- [Dental Abscess: Infection and Urgent Treatment](/article/dental-abscess-infection-and-urgent-treatment.html)
+
+> **Key Takeaway:** A partially extruded tooth needs to be pushed back into place within 30 minutes for the best chance of saving it. Call your dentist right away if this happens. Talk to your dentist about which options are right for your specific situation.
