@@ -1,9 +1,9 @@
 ---
-title: Timeline for Mouth Ulcer Care: Aphthous Ulcer Management and Healing Progression
+title: "Timeline for Mouth Ulcer Care: Aphthous Ulcer Management and Healing Progression"
 slug: timeline-for-mouth-ulcer-care
 category: Oral Health Conditions
 category_slug: oral-health-conditions
-excerpt: Comprehensive guide to aphthous ulcer classification, healing timelines, and evidence-based topical and systemic treatments for minor, major, and herpetiform ulcerations.
+excerpt: "Comprehensive guide to aphthous ulcer classification, healing timelines, and evidence-based topical and systemic treatments for minor, major, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

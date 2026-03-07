@@ -1,9 +1,9 @@
 ---
-title: Lost Filling or Crown: Temporary and Permanent Solutions
+title: "Lost Filling or Crown: Temporary and Permanent Solutions"
 slug: lost-filling-or-crown-temporary-and-permanent-solutions
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Evidence-based management of lost restorations, including immediate triage, temporary stabilization, symptom management, and definitive restoration options with consideration of underlying tooth structure integrity.
+excerpt: "Evidence-based management of lost restorations, including immediate triage, temporary stabilization, symptom management, and definitive restoration."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

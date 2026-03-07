@@ -1,5 +1,5 @@
 ---
-title: Mouth Ulcer Care: What You Need to Know
+title: "Mouth Ulcer Care: What You Need to Know"
 slug: mouth-ulcer-care-what-you-need-to-know
 category: Oral Health Conditions
 category_slug: oral-health-conditions

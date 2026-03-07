@@ -3,7 +3,7 @@ title: Vitamin D and Calcium Absorption for Bone and Tooth Health
 slug: vitamin-d-and-calcium-absorption-bone-and-tooth-health
 category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: Vitamin D enhances calcium absorption and regulates bone metabolism, directly impacting alveolar bone density, implant osseointegration, and long-term tooth health.
+excerpt: "Vitamin D enhances calcium absorption and regulates bone metabolism, directly impacting alveolar bone density, implant osseointegration, and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontology

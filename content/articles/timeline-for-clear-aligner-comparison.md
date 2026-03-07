@@ -1,9 +1,9 @@
 ---
-title: Clear Aligner Systems Compared: Technical Specifications, Movement Capabilities, and Clinical Outcome Timeline
+title: "Clear Aligner Systems Compared: Technical Specifications, Movement Capabilities, and Clinical Outcome Timeline"
 slug: timeline-for-clear-aligner-comparison
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Contemporary clear aligner systems including Invisalign, ClearCorrect, and SureSmile differ in material properties, treatment timing, and capability for complex tooth movements, requiring careful case selection.
+excerpt: "Contemporary clear aligner systems including Invisalign, ClearCorrect, and SureSmile differ in material properties, treatment timing, and capability."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontics

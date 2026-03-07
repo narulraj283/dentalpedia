@@ -3,7 +3,7 @@ title: Why Recovery Timeline Matters
 slug: why-recovery-timeline-matters
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Extraction socket healing follows predictable phases: initial hemostasis (0-3 days), inflammation (3-14 days), early ossification (14-60 days), and bone remodeling (60-365 days). Clinical milestones guide tissue healing assessment and resumption of normal function.
+excerpt: "Extraction socket healing follows predictable phases: initial hemostasis (0-3 days), inflammation (3-14 days), early ossification (14-60 days), and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery

@@ -3,7 +3,7 @@ title: Tartar Prevention - Calculus Formation and Inhibition Strategies
 slug: how-to-tartar-prevention
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Dental calculus (tartar) formation results from calcium phosphate mineralization of bacterial biofilm, with prevention through mechanical plaque removal, antimicrobial agents, salivary modulation, and anti-tartar toothpaste compounds.
+excerpt: "Dental calculus (tartar) formation results from calcium phosphate mineralization of bacterial biofilm, with prevention through mechanical plaque."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -3,7 +3,7 @@ title: Laser Dentistry Applications and Safety
 slug: laser-dentistry-applications-and-safety
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Comprehensive overview of laser technology applications in modern dentistry, including ablative and non-ablative systems, clinical protocols, safety guidelines, and evidence-based efficacy across soft tissue and hard tissue procedures.
+excerpt: "Comprehensive overview of laser technology applications in modern dentistry, including ablative and non-ablative systems, clinical protocols, safety."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -3,7 +3,7 @@ title: Comprehensive Post-Surgery Care Guidelines for Oral Surgical Patients
 slug: how-to-post-surgery-care
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Evidence-based post-operative care protocols addressing wound healing, complication prevention, and functional recovery following oral and maxillofacial surgical procedures.
+excerpt: "Evidence-based post-operative care protocols addressing wound healing, complication prevention, and functional recovery following oral and."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

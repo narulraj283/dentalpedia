@@ -1,9 +1,9 @@
 ---
-title: Shade Matching Science: Advanced Clinical Guide to Color Selection and Tooth Shade Protocols
+title: "Shade Matching Science: Advanced Clinical Guide to Color Selection and Tooth Shade Protocols"
 slug: teeth-shade-matching-complete-guide
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Master professional shade matching using Vita Classical, VITA 3D-Master, Munsell color systems, spectrophotometry, digital devices, metamerism management, and value selection priority.
+excerpt: "Master professional shade matching using Vita Classical, VITA 3D-Master, Munsell color systems, spectrophotometry, digital devices, metamerism."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Prosthodontist

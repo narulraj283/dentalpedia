@@ -1,5 +1,5 @@
 ---
-title: Endodontic Surgery: Apicoectomy and Periapical Surgery
+title: "Endodontic Surgery: Apicoectomy and Periapical Surgery"
 slug: endodontic-surgery-apicoectomy-and-periapical-surgery
 category: Endodontics
 category_slug: endodontics
@@ -21,7 +21,7 @@ references:
   - "Moiseiwitsch JR. Anatomy of the inferior alveolar nerve: relevant to oral and maxillofacial surgery. J Oral Maxillofac Surg. 1995;53(12):1447-1449."
 ---
 
-When a tooth's root canal treatment doesn't completely resolve an infection, surgery might be necessary to save the tooth. Endodontic surgery (apicoectomy) removes the infected root tip and seals it permanently. Understanding this procedure helps you make informed decisions about keeping an infected tooth.
+When a tooth's root canal treatment doesn't completely resolve an infection, surgery might be necessary to save the tooth. Learning more about [root canal therapy complete pulp removal](/article/root-canal-therapy-complete-pulp-removal.html) can help you understand this better. Endodontic surgery (apicoectomy) removes the infected root tip and seals it permanently. Understanding this procedure helps you make informed decisions about keeping an infected tooth.
 
 ## When Surgery Becomes Necessary
 
@@ -95,7 +95,7 @@ Modern endodontic surgery has excellent success rates:
 
 **Mid-term**: X-rays at 6-12 months document bone fill and lesion resolution.
 
-**Long-term**: Follow-up X-rays at 12-24 months document complete healing. Larger lesions might require 24-36 month follow-up before complete healing is evident.
+**Long-term**: Follow-up X-rays at 12-24 months document complete healing. Learning more about [root canal retreatment when resin occurs](/article/root-canal-retreatment-when-resin-occurs.html) can help you understand this better. Larger lesions might require 24-36 month follow-up before complete healing is evident.
 
 **Normal healing progression**: Initially, bleeding and inflammation are expected. Within 2 weeks, epithelial coverage (gum healing) is complete. Over months, bone gradually fills the surgical site, visible on X-rays as increased bone density.
 
@@ -134,6 +134,8 @@ After successful endodontic surgery:
 ## Conclusion
 
 Endodontic surgery saves teeth that standard root canal treatment can't resolve. Modern microsurgical techniques achieve success rates exceeding 90% in appropriately selected cases. Recovery is usually rapid with minimal discomfort. If you've had root canal treatment failure or persistent symptoms, discuss whether surgical options might save your tooth. The alternative—extraction and replacement—costs more and requires more extensive treatment. Talk to your endodontist about which options are right for your specific situation.
+
+
 
 ## Related Articles You May Find Helpful
 

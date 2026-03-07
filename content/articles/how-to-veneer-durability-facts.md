@@ -3,7 +3,7 @@ title: How to Veneer Durability Facts
 slug: how-to-veneer-durability-facts
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Porcelain veneer longevity averages 15-20 years with failure rates of 5-10% at 10 years, while composite veneer durability of 5-8 years necessitates planned replacement cycles.
+excerpt: "Porcelain veneer longevity averages 15-20 years with failure rates of 5-10% at 10 years, while composite veneer durability of 5-8 years necessitates."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

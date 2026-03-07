@@ -3,7 +3,7 @@ title: Piezoelectric Ultrasonic Scaler Tips and Technology
 slug: ultrasonic-scaler-tip-piezo-technology
 category: Dental Technology
 category_slug: dental-technology
-excerpt: Piezoelectric ultrasonic scalers use crystal oscillation at 25-50 kHz with linear motion patterns to efficiently remove calculus and provide superior clinical outcomes.
+excerpt: "Piezoelectric ultrasonic scalers use crystal oscillation at 25-50 kHz with linear motion patterns to efficiently remove calculus and provide superior."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Periodontology

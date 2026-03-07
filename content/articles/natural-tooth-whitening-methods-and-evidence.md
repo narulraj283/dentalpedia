@@ -1,6 +1,6 @@
 ---
 title: "Natural Tooth Whitening Methods: Evidence-Based Approaches"
-excerpt: "Examine scientifically-validated natural whitening methods, from oil pulling to activated charcoal, including efficacy data and safety considerations versus professional treatments."
+excerpt: "Examine scientifically-validated natural whitening methods, from oil pulling to activated charcoal, including efficacy data and safety considerations."
 category: "preventive-care"
 subcategory: "Preventive Overview"
 page_type: "overview-preventive"

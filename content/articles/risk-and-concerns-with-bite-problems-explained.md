@@ -3,7 +3,7 @@ title: Risk and Concerns with Bite Problems Explained
 slug: risk-and-concerns-with-bite-problems-explained
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Malocclusion presents significant risks including TMJ disorders, masticatory dysfunction, speech impairment, and psychological consequences requiring comprehensive orthodontic intervention.
+excerpt: "Malocclusion presents significant risks including TMJ disorders, masticatory dysfunction, speech impairment, and psychological consequences requiring."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontics

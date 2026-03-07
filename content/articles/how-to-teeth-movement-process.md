@@ -3,7 +3,7 @@ title: Biomechanics of Orthodontic Tooth Movement and Periodontal Remodeling
 slug: how-to-teeth-movement-process
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Orthodontic tooth movement depends on pressure-tension theory, osteoclastic resorption, and osteoblastic formation driven by periodontal ligament stress exceeding 25-75 grams optimal force range.
+excerpt: "Orthodontic tooth movement depends on pressure-tension theory, osteoclastic resorption, and osteoblastic formation driven by periodontal ligament."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

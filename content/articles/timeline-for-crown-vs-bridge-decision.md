@@ -1,5 +1,5 @@
 ---
-title: Crown Versus Fixed Partial Denture: Clinical Decision-Making Timeline
+title: "Crown Versus Fixed Partial Denture: Clinical Decision-Making Timeline"
 slug: timeline-for-crown-vs-bridge-decision
 category: Prosthodontics
 category_slug: prosthodontics

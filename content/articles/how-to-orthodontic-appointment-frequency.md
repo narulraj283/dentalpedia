@@ -3,7 +3,7 @@ title: Optimal Orthodontic Appointment Frequency and Treatment Intervals During 
 slug: how-to-orthodontic-appointment-frequency
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Evidence-based appointment scheduling protocols for fixed appliances, clear aligners, and lingual braces based on biomechanical tooth movement and force magnitude requirements.
+excerpt: "Evidence-based appointment scheduling protocols for fixed appliances, clear aligners, and lingual braces based on biomechanical tooth movement and."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

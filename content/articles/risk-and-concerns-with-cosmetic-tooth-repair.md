@@ -3,7 +3,7 @@ title: Risks and Concerns with Esthetic Restoration Repair and Maintenance
 slug: risk-and-concerns-with-cosmetic-tooth-repair
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Understanding complications of restoration repair including color instability, secondary caries, pulp irritation, occlusal disturbance, and challenges in repair-versus-replacement decisions affecting long-term esthetic and structural outcomes.
+excerpt: "Understanding complications of restoration repair including color instability, secondary caries, pulp irritation, occlusal disturbance, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic Dentistry

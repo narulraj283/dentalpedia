@@ -1,5 +1,5 @@
 ---
-title: Zinc Compounds: Odor-Fighting Action
+title: "Zinc Compounds: Odor-Fighting Action"
 slug: zinc-compounds-odor-fighting-action
 category: Dental Nutrition
 category_slug: dental-nutrition

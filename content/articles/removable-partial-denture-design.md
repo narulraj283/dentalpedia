@@ -3,7 +3,7 @@ title: "Removable Partial Denture Design Principles"
 slug: removable-partial-denture-design
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: "Comprehensive RPD design principles: Kennedy classification, Applegate rules, major connector selection, guide planes, path of insertion, altered cast technique, and diagnostic planning."
+excerpt: "Comprehensive RPD design principles: Kennedy classification, Applegate rules, major connector selection, guide planes, path of insertion, altered."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontics

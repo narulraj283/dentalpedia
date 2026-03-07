@@ -25,7 +25,7 @@ references:
 
 ## Filling Options for Cavities
 
-When you have a cavity, your dentist removes decayed tooth structure and restores it with filling material. You have choices: amalgam (silver), composite (tooth-colored), glass ionomer, or sometimes more complex options. Each has different costs, longevity, and appearance implications.
+When you have a cavity, your dentist removes decayed tooth structure and restores it with filling material. Learning more about [cost of tooth decay prevention](/article/cost-of-tooth-decay-prevention.html) can help you understand this better. You have choices: amalgam (silver), composite (tooth-colored), glass ionomer, or sometimes more complex options. Each has different costs, longevity, and appearance implications.
 
 Cavity size determines complexity. Small cavities affecting one tooth surface are straightforward. Large cavities affecting multiple surfaces or requiring root canal treatment are complex and expensive. Location matters too—front teeth need aesthetic composite; back teeth might use amalgam or composite.
 
@@ -84,6 +84,14 @@ Composite fillings often need repair or replacement before they fail completely.
 
 A cracked or failed filling requires immediate replacement to prevent further decay. Delaying replacement risks expanding cavity and potential root canal need. Address any loose or cracked restorations promptly.
 
+
+## Questions to Ask Your Dentist
+
+When your dentist recommends a filling or restoration, ask which material options are appropriate for your specific cavity. Ask about the expected lifespan of each option and the total cost over time, not just the initial price. Find out whether your insurance covers different materials differently—some plans pay more for amalgam than composite on back teeth. Ask whether the cavity is small enough for a simple filling or large enough to need a crown. If a crown is recommended, ask about different crown materials and their cost-durability trade-offs. Getting clear answers helps you choose the restoration that fits both your budget and your long-term needs.
+
+## Making Your Restoration Last
+
+Once you've invested in a dental restoration, protect it to get the longest possible lifespan. Avoid chewing ice, hard candy, or other extremely hard foods that can crack fillings and crowns. If you grind your teeth at night, ask your dentist about a night guard—grinding can reduce filling lifespan by half. Brush and floss carefully around restorations to prevent new decay at the margins where filling meets tooth. Attend regular dental checkups so your dentist can spot small problems like worn or cracked fillings before they become big problems requiring crowns or root canals. A $50 dental visit that catches a failing filling early can save you $1,000 or more in emergency treatment later.
 ## Conclusion
 
 For small cosmetic cavities: composite fillings ($200-$600) provide invisible restoration for 5 to 10 years.
@@ -93,6 +101,8 @@ For small functional cavities: amalgam ($150-$300) lasts 15 to 30 years with sup
 For large cavities: crowns ($800-$2,000) provide superior longevity and strength compared to fillings.
 
 For cavities approaching nerve: prompt treatment prevents root canal ($800-$1,200) and crown costs.
+
+
 
 ## Related Articles You May Find Helpful
 

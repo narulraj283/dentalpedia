@@ -1,5 +1,5 @@
 ---
-title: Implant Maintenance: Long-Term Care and Cleaning
+title: "Implant Maintenance: Long-Term Care and Cleaning"
 slug: implant-maintenance-long-term-care-and-cleaning
 category: Dental Implants
 category_slug: dental-implants

@@ -1,9 +1,9 @@
 ---
-title: Toothpaste Fluoride Content: PPM and Recommendations for Adults and Children
+title: "Toothpaste Fluoride Content: PPM and Recommendations for Adults and Children"
 slug: toothpaste-fluoride-content-ppm-and-recommendations
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Clinical guidance on fluoride concentrations (ppm), effectiveness thresholds, prescription formulations, children's formulations, and fluoride safety considerations.
+excerpt: "Clinical guidance on fluoride concentrations (ppm), effectiveness thresholds, prescription formulations, children's formulations, and fluoride safety."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

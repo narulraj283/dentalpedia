@@ -1,5 +1,5 @@
 ---
-title: Extraction Complication Timeline: Prevention, Recognition, and Management
+title: "Extraction Complication Timeline: Prevention, Recognition, and Management"
 slug: timeline-for-extraction-complications
 category: Oral Surgery
 category_slug: oral-surgery

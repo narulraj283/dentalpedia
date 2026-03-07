@@ -38,7 +38,7 @@ This takes two minutes and is the most important check you can do.
 
 Dentists come with different levels of training:
 - **General dentist**: 4-year dental school
-- **Specialist**: General dentist + 2-3 additional years of specialty training
+- **Specialist**: General dentist + 2-3 additional years of specialty training You may also want to read about [dentist specialties guide](/article/dentist-specialties-guide.html).
 
 Specialists have studied their specific area intensely. For root canals, see an endodontist (specialist in root canal treatment). For implants, look for someone with implant-specific training or a prosthodontist (specialist in complex restorations). For difficult cases, specialists generally get better results.
 
@@ -90,7 +90,7 @@ A good first visit should include:
 - A real discussion about what they find
 - Multiple treatment options explained
 - Clear information about costs
-- Answers to your questions
+- Answers to your questions You may also want to read about [dental insurance navigation](/article/dental-insurance-navigation.html).
 
 If a dentist gives you the same treatment recommendation for every patient, or pressures you to decide immediately, that's a red flag.
 
@@ -143,9 +143,23 @@ After your first visit, ask yourself:
 
 Trust your instincts. If something feels off, it might be. Dentistry is a long-term relationship.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about finding quality dentist reviews and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
+## Protecting Your Results Long-Term
+
+Once you've addressed finding quality dentist reviews, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+
 ## Conclusion
 
 Finding a good dentist involves checking credentials, reading thoughtful reviews, and trusting your own judgment about whether they communicate well and care about your needs. Take time with this decision—a good dentist is worth the effort to find.
+
+
 
 ## Related Articles You May Find Helpful
 

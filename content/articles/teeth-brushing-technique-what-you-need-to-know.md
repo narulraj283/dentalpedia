@@ -1,5 +1,5 @@
 ---
-title: Teeth Brushing Technique: What You Need to Know
+title: "Teeth Brushing Technique: What You Need to Know"
 slug: teeth-brushing-technique-what-you-need-to-know
 category: Preventive Care
 category_slug: preventive-care

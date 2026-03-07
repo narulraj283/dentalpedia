@@ -1,9 +1,9 @@
 ---
-title: Shade Rebound After Tooth Whitening: Mechanisms, Prevention, and Long-Term Maintenance
+title: "Shade Rebound After Tooth Whitening: Mechanisms, Prevention, and Long-Term Maintenance"
 slug: shade-rebound-why-teeth-may-darken-after-whitening
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Post-whitening shade regression results from rehydration of enamel and intrinsic color stabilization. Understanding rebound mechanisms enables realistic expectation setting and optimized touch-up protocols for sustained esthetic results.
+excerpt: "Post-whitening shade regression results from rehydration of enamel and intrinsic color stabilization."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentist

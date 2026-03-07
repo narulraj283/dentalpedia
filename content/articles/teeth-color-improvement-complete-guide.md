@@ -1,9 +1,9 @@
 ---
-title: Teeth Color Improvement: Complete Clinical Guide
+title: "Teeth Color Improvement: Complete Clinical Guide"
 slug: teeth-color-improvement-complete-guide
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensive analysis of tooth color modification techniques including bleaching, veneers, bonding, microabrasion, internal bleaching, and shade matching systems.
+excerpt: "Comprehensive analysis of tooth color modification techniques including bleaching, veneers, bonding, microabrasion, internal bleaching, and shade."
 date: 2026-03-05
 read_time: 14 min
 reviewer_specialty: Cosmetic Dentist

@@ -3,7 +3,7 @@ title: Refined Carbohydrates Versus Complex Carbohydrates and Dental Caries Risk
 slug: refined-carbs-vs-complex-carbs-decay-risk
 category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: Fermentable carbohydrate cariogenicity depends on frequency, duration, and type rather than total consumption, with refined carbohydrates demonstrating substantially greater decay risk than complex carbohydrates.
+excerpt: "Fermentable carbohydrate cariogenicity depends on frequency, duration, and type rather than total consumption, with refined carbohydrates."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

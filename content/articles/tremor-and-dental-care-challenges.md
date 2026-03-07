@@ -3,7 +3,7 @@ title: Dental Care with Tremor Disorders - Modified Hygiene and Prosthodontic St
 slug: tremor-and-dental-care-challenges
 category: Geriatric Dentistry
 category_slug: geriatric-dentistry
-excerpt: Evidence-based strategies for managing dental care in patients with tremor disorders including Parkinson's disease, essential tremor, and modified hygiene techniques.
+excerpt: "Evidence-based strategies for managing dental care in patients with tremor disorders including Parkinson's disease, essential tremor, and modified."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Prosthodontics

@@ -3,7 +3,7 @@ title: Soft Tissue Esthetics Around Implants - Emergence Profile Design
 slug: soft-tissue-esthetics-around-implants-emergence-profile
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Mastering emergence profile design, platform switching, and peri-implant tissue conditioning ensures predictable esthetic outcomes and long-term soft tissue stability around dental implants.
+excerpt: "Mastering emergence profile design, platform switching, and peri-implant tissue conditioning ensures predictable esthetic outcomes and long-term soft."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Prosthodontics

@@ -1,9 +1,9 @@
 ---
-title: Manual vs Electric Toothbrushes: Efficiency and Effectiveness Comparison
+title: "Manual vs Electric Toothbrushes: Efficiency and Effectiveness Comparison"
 slug: toothbrush-selection-manual-vs-electric-efficiency
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based analysis of manual versus electric toothbrush efficacy from Cochrane reviews, plaque removal comparison, gingivitis reduction data, and cost-effectiveness.
+excerpt: "Evidence-based analysis of manual versus electric toothbrush efficacy from Cochrane reviews, plaque removal comparison, gingivitis reduction data,."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

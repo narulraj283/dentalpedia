@@ -1,9 +1,9 @@
 ---
-title: How Dentists Match Tooth Color: Patient Guide to Shade Selection and Expectations
+title: "How Dentists Match Tooth Color: Patient Guide to Shade Selection and Expectations"
 slug: teeth-shade-matching-what-you-need-to-know
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Understand how dentists choose tooth color for restorations, factors affecting appearance, digital tools, lab communication, and managing realistic expectations.
+excerpt: "Understand how dentists choose tooth color for restorations, factors affecting appearance, digital tools, lab communication, and managing realistic."
 date: 2026-03-05
 read_time: 7 min
 reviewer_specialty: Prosthodontist

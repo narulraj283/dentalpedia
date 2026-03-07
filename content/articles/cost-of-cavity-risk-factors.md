@@ -3,7 +3,8 @@ title: Cost of Cavity Risk Factors
 slug: cost-of-cavity-risk-factors
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Understand what increases your cavity risk and what it costs. Learn about bacteria, diet, dry mouth, and other factors that affect how many cavities you get.
+excerpt: Not everyone gets cavities at the same rate. Learning more about \1 can help
+  you understand this better.
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry
@@ -11,19 +12,26 @@ subcategory: General Overview
 subcategory_slug: overview-general
 reviewed: true
 references:
-  - "Selwitz RH, Ismail AI, Pitts NB. Dental caries. Lancet. 2007;369(9555):51-59."
-  - "Kassebaum NJ, Bernabé E, Dahiya M, et al. Global burden of untreated caries: a systematic review and metaregression. J Dent Res. 2015;94(5):650-658."
-  - "Fejerskov O, Nyvad B, Kidd EAM. Dental Caries: The Disease and Its Clinical Management. 3rd ed. Wiley-Blackwell; 2015."
-  - "Lagerweij MD, van Loveren C. Declining dental caries in children: policy implementation in The Netherlands. Caries Res. 2015;49 Suppl 1:22-28."
-  - "Pitts NB, Chestnutt IG, Evans D, et al. Understanding dental carries: Part 1—Aetiology of dental caries. Br Dent J. 2017;223(8):389-393."
-  - "Touger-Decker R, van Loveren C. Sugars and dental caries. Am J Clin Nutr. 2003;78(4):881S-892S."
-  - "Zero DT. Recalling the cause of disease: how to manage dental caries. J Am Dent Assoc. 2015;146(8):618-626."
-  - "Domejean S, Featherstone JD. The caries ecosystem. J Dent Res. 2013;92(2):112-117."
-  - "Schwendicke F, Dorfer CE, Kneist S, Paris S. Mutans streptococci transmission pathways—A systematic review. J Oral Rehabil. 2014;41(4):301-309."
-  - "Young DA, Featherstone JD, Roth JR. Curing the silent epidemic: caries management in the 21st century and beyond. J Dent Educ. 2007;71(10):1339-1350."
+- Selwitz RH, Ismail AI, Pitts NB. Dental caries. Lancet. 2007;369(9555):51-59.
+- 'Kassebaum NJ, Bernabé E, Dahiya M, et al. Global burden of untreated caries: a
+  systematic review and metaregression. J Dent Res. 2015;94(5):650-658.'
+- 'Fejerskov O, Nyvad B, Kidd EAM. Dental Caries: The Disease and Its Clinical Management.
+  3rd ed. Wiley-Blackwell; 2015.'
+- 'Lagerweij MD, van Loveren C. Declining dental caries in children: policy implementation
+  in The Netherlands. Caries Res. 2015;49 Suppl 1:22-28.'
+- 'Pitts NB, Chestnutt IG, Evans D, et al. Understanding dental carries: Part 1—Aetiology
+  of dental caries. Br Dent J. 2017;223(8):389-393.'
+- Touger-Decker R, van Loveren C. Sugars and dental caries. Am J Clin Nutr. 2003;78(4):881S-892S.
+- 'Zero DT. Recalling the cause of disease: how to manage dental caries. J Am Dent
+  Assoc. 2015;146(8):618-626.'
+- Domejean S, Featherstone JD. The caries ecosystem. J Dent Res. 2013;92(2):112-117.
+- Schwendicke F, Dorfer CE, Kneist S, Paris S. Mutans streptococci transmission pathways—A
+  systematic review. J Oral Rehabil. 2014;41(4):301-309.
+- 'Young DA, Featherstone JD, Roth JR. Curing the silent epidemic: caries management
+  in the 21st century and beyond. J Dent Educ. 2007;71(10):1339-1350.'
 ---
 
-Not everyone gets cavities at the same rate. Some people brush twice a day and never see a cavity, while others seem to get them constantly. The difference comes down to risk factors. Your dentist uses these factors to figure out your personal cavity risk level, which determines what prevention you need and what it will cost. Understanding your own risk helps you know whether you're getting enough care.
+Not everyone gets cavities at the same rate. Learning more about [cost of cavity prevention methods](/article/cost-of-cavity-prevention-methods.html) can help you understand this better. Some people brush twice a day and never see a cavity, while others seem to get them constantly. The difference comes down to risk factors. Your dentist uses these factors to figure out your personal cavity risk level, which determines what prevention you need and what it will cost. Understanding your own risk helps you know whether you're getting enough care.
 
 ## How Your Risk is Determined
 
@@ -55,7 +63,7 @@ Babies and toddlers who get cavities need special attention, and treating primar
 
 Teenagers are another high-risk group because of diet changes and sometimes reduced brushing habits. A teenager eating 100+ grams of sugar per day might get 6 to 8 cavities per year, costing $1,800 to $3,600 in fillings. Intensive prevention during the teen years ($1,200 to $1,800 per year) actually saves money by preventing those cavities.
 
-Adults have lower cavity risk overall, but some still get them frequently, especially if they have gum disease and root exposure. Root cavities can be especially expensive to fix and hard to prevent without daily fluoride rinses.
+Adults have lower cavity risk overall, but some still get them frequently, especially if they have gum disease and root exposure. Learning more about [cost of emergency tooth pain](/article/cost-of-emergency-tooth-pain.html) can help you understand this better. Root cavities can be especially expensive to fix and hard to prevent without daily fluoride rinses.
 
 ## Diabetes and Other Health Conditions
 
@@ -76,6 +84,8 @@ Here's something many people don't realize: stress and financial stress actually
 ## Conclusion
 
 Your personal cavity risk depends on bacteria levels, diet, saliva, age, health conditions, and habits. Understanding your risk factors helps you and your dentist figure out the right amount of prevention. If you're high-risk, spending more on prevention now prevents way more expensive fillings, root canals, and implants later. The good news is that many risk factors—like diet and brushing habits—are completely in your control and cost little or nothing to improve. Talk to your dentist about which factors affect you most and what you can do to lower your cavity risk.
+
+
 
 ## Related Articles You May Find Helpful
 

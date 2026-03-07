@@ -1,9 +1,9 @@
 ---
-title: Sleep Apnea and Oral Appliances: A Treatment Alternative
+title: "Sleep Apnea and Oral Appliances: A Treatment Alternative"
 slug: sleep-apnea-and-oral-appliances-treatment-alternative
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Comparing mandibular advancement devices with CPAP reveals MAD superior adherence, with various appliance designs offering flexibility in managing obstructive sleep apnea while considering dental side effects.
+excerpt: "Comparing mandibular advancement devices with CPAP reveals MAD superior adherence, with various appliance designs offering flexibility in managing."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Sleep Medicine Dentistry

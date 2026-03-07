@@ -3,7 +3,7 @@ title: How to Wisdom Teeth Extraction
 slug: how-to-wisdom-teeth-extraction
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Wisdom teeth extraction classification using Pell-Gregory impaction levels and Winter's angulation determines surgical complexity and directly predicts extraction duration and complication rates.
+excerpt: "Wisdom teeth extraction classification using Pell-Gregory impaction levels and Winter's angulation determines surgical complexity and directly."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery

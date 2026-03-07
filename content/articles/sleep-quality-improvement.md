@@ -1,9 +1,9 @@
 ---
-title: Sleep Quality Improvement: Strategies for Dental Patients
+title: "Sleep Quality Improvement: Strategies for Dental Patients"
 slug: sleep-quality-improvement
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Sleep hygiene optimization through cognitive behavioral therapy, chronotherapy, environmental modifications, and pain management supports improved sleep quality; dental professionals guide patients in managing sleep disruption.
+excerpt: "Sleep hygiene optimization through cognitive behavioral therapy, chronotherapy, environmental modifications, and pain management supports improved."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Sleep Medicine Dentistry

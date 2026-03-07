@@ -1,9 +1,9 @@
 ---
-title: Mouthwash Selection: Antibacterial vs. Fluoride Formulations
+title: "Mouthwash Selection: Antibacterial vs. Fluoride Formulations"
 slug: mouthwash-selection-antibacterial-vs-fluoride
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based mouthwash selection requires understanding distinct antimicrobial mechanisms, fluoride bioavailability, and clinical efficacy data to optimize preventive outcomes.
+excerpt: "Evidence-based mouthwash selection requires understanding distinct antimicrobial mechanisms, fluoride bioavailability, and clinical efficacy data to."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

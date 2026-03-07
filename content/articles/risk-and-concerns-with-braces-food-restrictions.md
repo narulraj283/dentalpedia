@@ -3,7 +3,7 @@ title: Risk and Concerns with Braces Food Restrictions
 slug: risk-and-concerns-with-braces-food-restrictions
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Dietary restrictions with braces prevent bracket damage and archwire displacement while maintaining adequate nutrition throughout extended treatment periods.
+excerpt: "Dietary restrictions with braces prevent bracket damage and archwire displacement while maintaining adequate nutrition throughout extended treatment."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontics

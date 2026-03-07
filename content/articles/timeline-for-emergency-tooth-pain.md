@@ -1,5 +1,5 @@
 ---
-title: Emergency Dental Pain Management: Triage and Treatment Timeline
+title: "Emergency Dental Pain Management: Triage and Treatment Timeline"
 slug: timeline-for-emergency-tooth-pain
 category: Emergency Dentistry
 category_slug: emergency-dentistry

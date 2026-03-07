@@ -3,7 +3,7 @@ title: Why Orthodontic Compliance Matters
 slug: why-orthodontic-compliance-matters
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Evidence-based analysis of orthodontic compliance impacts on treatment duration, final outcomes, appointment attendance, appliance care, and long-term stability in fixed appliance therapy.
+excerpt: "Evidence-based analysis of orthodontic compliance impacts on treatment duration, final outcomes, appointment attendance, appliance care, and."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Orthodontics

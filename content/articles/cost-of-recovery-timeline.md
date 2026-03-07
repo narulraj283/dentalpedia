@@ -51,7 +51,7 @@ Costs during this phase:
 - Follow-up visit (if needed): $50-$150
 - Total: $10-$175
 
-By day 5-7, many people stop needing pain medication and switch to ibuprofen as needed. Swelling decreases noticeably every day. By day 7-10, you look fairly normal again.
+By day 5-7, many people stop needing pain medication and switch to ibuprofen as needed. Learning more about [pain management post op](/article/pain-management-post-op.html) can help you understand this better. Swelling decreases noticeably every day. By day 7-10, you look fairly normal again.
 
 Your dentist might remove sutures around day 7-10 (costs included in initial surgery fee) and check that healing is progressing normally.
 
@@ -63,7 +63,7 @@ Costs during this phase:
 - Minimal medication: $0-$5
 - Return to normal diet: $0 additional cost
 - Final follow-up visit (if needed): $0-$100
-- Total: $0-$105
+- Total: $0-$105 You may also want to read about [accelerate healing](/article/accelerate-healing.html).
 
 You can resume work, school, and normal social activities. Contact sports should wait until day 21-28 for simple extractions, longer for complex cases.
 
@@ -132,9 +132,23 @@ Follow activity restrictions even if you feel good—rushing activity can cause 
 
 Manage pain effectively by taking medication regularly, not waiting until pain is severe.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about recovery timeline and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
+## Protecting Your Results Long-Term
+
+Once you've addressed recovery timeline, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+
 ## Conclusion
 
 Most extraction recovery follows a predictable timeline: 3 days of significant discomfort, 10-14 days total, then gradual return to normal. Costs concentrate in the first 10 days ($25-$325 for supplies and medication). The biggest cost is often lost work time. Understanding this timeline helps you plan appropriately and prepare financially. Budget conservatively—some people heal faster than expected, but a few will have complications extending recovery. Discuss your specific timeline with your dentist based on your procedure complexity and health situation.
+
+
 
 ## Related Articles You May Find Helpful
 

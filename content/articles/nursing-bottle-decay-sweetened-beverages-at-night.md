@@ -3,7 +3,7 @@ title: Nursing Bottle Decay and Early Childhood Caries From Sweetened Beverages
 slug: nursing-bottle-decay-sweetened-beverages-at-night
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Early childhood caries from nighttime sweetened beverage exposure represents a preventable dental disease affecting infants and toddlers, requiring education and behavior modification.
+excerpt: "Early childhood caries from nighttime sweetened beverage exposure represents a preventable dental disease affecting infants and toddlers, requiring."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Pediatric Dentistry

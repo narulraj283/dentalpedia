@@ -45,11 +45,11 @@ So 2-3 minutes is the sweet spot: long enough to be effective, but not so long t
 
 Using light pressure is important. You should apply about 150-200 grams of force (about the weight of a light pen). Many people brush too hard. Excessive pressure (more than 300 grams) doesn't remove more plaque and actually damages your gums by causing recession and abrasion.
 
-If you're a "hard brusher," gentle is better. Soft toothbrushes are gentler than hard or medium bristles.
+If you're a "hard brusher," gentle is better. Learning more about [common misconceptions about cavity prevention methods](/article/common-misconceptions-about-cavity-prevention-methods.html) can help you understand this better. Soft toothbrushes are gentler than hard or medium bristles.
 
 ## You Can't Brush Instead of Floss
 
-Many people skip flossing because they brush well. But your toothbrush can't reach between your teeth where about 40-50% of your tooth surfaces are. That's where floss comes in.
+Many people skip flossing because they brush well. Learning more about [common misconceptions about cavity risk factors](/article/common-misconceptions-about-cavity-risk-factors.html) can help you understand this better. But your toothbrush can't reach between your teeth where about 40-50% of your tooth surfaces are. That's where floss comes in.
 
 Flossing removes about 80% of the plaque between your teeth. Brushing alone, even with perfect technique, can only reach about 60-70% of your tooth surfaces. You need both brushing and flossing.
 
@@ -93,9 +93,23 @@ Make nighttime brushing a priority even if you're tired.
 
 After brushing with fluoride toothpaste, rinse minimally with water or don't rinse at all. The fluoride works better if you leave some on your teeth rather than rinsing it all away. You only need a quick rinse to remove excess paste.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about daily teeth cleaning and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
+## Protecting Your Results Long-Term
+
+Once you've addressed daily teeth cleaning, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+
 ## Conclusion
 
 Effective daily cleaning requires proper brushing technique (the Bass technique works best), brushing for 2-3 minutes with light pressure, fluoride toothpaste, and daily interdental cleaning. Just going through the motions doesn't prevent cavities and gum disease. But doing it right significantly reduces your disease risk.
+
+
 
 ## Related Articles You May Find Helpful
 

@@ -3,7 +3,7 @@ title: Tetanus Risk in Oral Trauma and Vaccination Prophylaxis
 slug: tetanus-risk-puncture-wound-prophylaxis
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Clostridium tetani epidemiology, wound classification, vaccination status assessment, TdaP booster protocols, immunoglobulin indications, and dental office emergency preparedness.
+excerpt: "Clostridium tetani epidemiology, wound classification, vaccination status assessment, TdaP booster protocols, immunoglobulin indications, and dental."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Emergency Dentistry

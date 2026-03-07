@@ -1,9 +1,9 @@
 ---
-title: Sticky Foods and Cavity Risk: Retention Time, Stephan Curve, and Dietary Caries Prevention
+title: "Sticky Foods and Cavity Risk: Retention Time, Stephan Curve, and Dietary Caries Prevention"
 slug: sticky-foods-and-cavity-risk-which-foods-are-worst
 category: Preventive Dentistry
 category_slug: preventive-care
-excerpt: Evidence-based analysis of food stickiness, cariogenicity, plaque retention kinetics, and Stephan curve dynamics specific to dried fruits, caramels, and gummy candies.
+excerpt: "Evidence-based analysis of food stickiness, cariogenicity, plaque retention kinetics, and Stephan curve dynamics specific to dried fruits, caramels,."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentist

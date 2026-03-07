@@ -3,7 +3,7 @@ title: Mouthwash Selection Based on Clinical Needs and Evidence-Based Recommenda
 slug: how-to-mouthwash-selection
 category: Preventive Care
 category_slug: preventive-care
-excerpt: "Rational mouthwash selection requires matching specific clinical indications (caries prevention, gingivitis control, malodor, xerostomia) to formulations with evidence-supported active ingredients and acceptable side effect profiles."
+excerpt: "Rational mouthwash selection requires matching specific clinical indications (caries prevention, gingivitis control, malodor, xerostomia) to."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

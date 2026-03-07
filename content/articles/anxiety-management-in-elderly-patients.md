@@ -1,9 +1,9 @@
 ---
-title: Anxiety Management in Elderly Patients: Safe Sedation and Behavioral Protocols
+title: "Anxiety Management in Elderly Patients: Safe Sedation and"
 slug: anxiety-management-in-elderly-patients
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Comprehensive guide to managing dental anxiety in geriatric populations—pharmacokinetic changes, polypharmacy interactions, benzodiazepine risks, and non-pharmacological behavioral protocols.
+excerpt: "About 1 in 10 to 1 in 5 older adults feel anxious about dental visits."
 date: 2026-03-05
 read_time: 19 min
 reviewer_specialty: Geriatric Dentistry & Anesthesiology
@@ -158,5 +158,5 @@ Honest communication with your dentist about your anxiety, medications, and heal
 - [Dental Anxiety Origins: Childhood Trauma and Long-Term Psychological Impact](/article/dental-anxiety-origins-childhood-trauma.html)
 
 
-> **Key Takeaway:** Understanding anxiety management in elderly patients helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** About 1 in 10 to 1 in 5 older adults feel anxious about dental visits. Your dentist can help you understand what steps are right for your specific needs.
 

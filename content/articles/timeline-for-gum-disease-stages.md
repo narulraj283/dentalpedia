@@ -5,7 +5,7 @@ category: Periodontics
 category_slug: periodontics
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
-excerpt: Evidence-based staging classification (Stage I-IV), grading system (A/B/C), clinical manifestations, treatment sequencing, and prognosis by stage and grade.
+excerpt: "Evidence-based staging classification (Stage I-IV), grading system (A/B/C), clinical manifestations, treatment sequencing, and prognosis by stage and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontology

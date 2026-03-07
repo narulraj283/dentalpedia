@@ -3,7 +3,7 @@ title: Why Smile Enhancement Options Matters
 slug: why-smile-enhancement-options-matters
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Smile enhancement options range from minimally invasive whitening (0 tooth reduction, 6-24 month duration) through composite bonding (minimal reduction, 5-10 year longevity) to surgical approaches (gingivectomy, bone contouring). Clinical evidence guides selection based on esthetic goals and tooth structure preservation.
+excerpt: "Smile enhancement options range from minimally invasive whitening (0 tooth reduction, 6-24 month duration) through composite bonding (minimal."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

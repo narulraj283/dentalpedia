@@ -1,9 +1,9 @@
 ---
-title: Rapid Palatal Expansion: Widening the Upper Jaw and Skeletal Growth Modification
+title: "Rapid Palatal Expansion: Widening the Upper Jaw and Skeletal Growth Modification"
 slug: palatal-expander-widening-upper-jaw-growth
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Clinical overview of rapid palatal expansion mechanics, Hyrax and Haas appliances, activation protocols, midpalatal suture separation, and skeletal versus dental effects.
+excerpt: "Clinical overview of rapid palatal expansion mechanics, Hyrax and Haas appliances, activation protocols, midpalatal suture separation, and skeletal."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontics

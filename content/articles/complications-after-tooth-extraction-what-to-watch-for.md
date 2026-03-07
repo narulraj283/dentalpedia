@@ -1,5 +1,5 @@
 ---
-title: Complications After Tooth Extraction: Warning Signs and What to Do
+title: "Complications After Tooth Extraction: Warning Signs and"
 slug: complications-after-tooth-extraction-what-to-watch-for
 category: Oral Surgery
 category_slug: oral-surgery
@@ -35,7 +35,7 @@ You should feel progressively better each day. If you're getting worse instead o
 
 Dry socket happens when your blood clot dislodges, exposing bone to your mouth bacteria. It occurs in 3-5% of routine extractions, 8-15% of surgical extractions, and up to 30% of wisdom tooth extractions in high-risk patients. Symptoms appear 2-4 days post-extraction: sudden severe, throbbing pain (much worse than expected extraction pain), foul smell or taste from the socket, sometimes swelling or fever.
 
-Risk factors include: smoking (4-12 times higher risk), female sex (2-fold higher), traumatic extraction, complex cases, and poor oral hygiene. Smoking within 72 hours post-extraction is the biggest modifiable risk factor.
+Risk factors include: smoking (4-12 times higher risk), female sex (2-fold higher), traumatic extraction, complex cases, and poor oral hygiene. Learning more about [common misconceptions about tooth extraction recovery](/article/common-misconceptions-about-tooth-extraction-recovery.html) can help you understand this better. Smoking within 72 hours post-extraction is the biggest modifiable risk factor.
 
 Treatment involves: gentle irrigation of the socket to remove debris, placement of medicated paste (eugenol-containing or corticosteroid) into the socket, and pain management with ibuprofen plus acetaminophen. Most dry sockets resolve within 7-10 days with treatment, though residual soreness can persist 2+ weeks.
 
@@ -51,7 +51,7 @@ Signs of spreading infection: fever above 102°F, swelling spreading to face/nec
 
 Some bleeding the day of extraction is normal. Biting on gauze for 20-30 minutes with firm pressure should stop most bleeding. If you're just seeing pink-tinged saliva (no actual blood pooling in your mouth), that's normal oozing.
 
-Concerning bleeding: active red blood pooling in your mouth that doesn't stop with 30 minutes of gauze pressure, blood still flowing noticeably 2-3 hours post-extraction, or sudden bleeding developing days 1-3 post-extraction. Call your dentist immediately if these occur.
+Concerning bleeding: active red blood pooling in your mouth that doesn't stop with 30 minutes of gauze pressure, blood still flowing noticeably 2-3 hours post-extraction, or sudden bleeding developing days 1-3 post-extraction. Learning more about [complex extractions what you need to know](/article/complex-extractions-what-you-need-to-know.html) can help you understand this better. Call your dentist immediately if these occur.
 
 Management: return to dental office for proper hemostasis, possible suturing of bleeding vessel, possible placement of hemostatic agents (topical thrombin, epinephrine-soaked gauze). If you take blood thinners (warfarin, apixaban), inform your dentist—they coordinate with your physician about management.
 
@@ -112,6 +112,8 @@ If this isn't your timeline, call your dentist.
 ## Conclusion
 
 Most extractions heal without complications. Knowing normal healing progression versus warning signs helps you catch real problems early. Call your dentist if: pain worsens after day 3, fever above 101.5°F develops, swelling worsens after day 3, or bleeding doesn't stop with pressure. Early treatment prevents complications from becoming serious.
+
+
 
 ## Related Articles You May Find Helpful
 

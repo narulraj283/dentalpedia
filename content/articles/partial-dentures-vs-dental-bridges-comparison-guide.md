@@ -3,7 +3,7 @@ title: Partial Dentures vs. Dental Bridges—A Comprehensive Comparison Guide
 slug: partial-dentures-vs-dental-bridges-comparison-guide
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Understand the clinical and practical differences between removable partial dentures and fixed partial dentures to guide optimal patient treatment selection.
+excerpt: "Understand the clinical and practical differences between removable partial dentures and fixed partial dentures to guide optimal patient treatment."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Prosthodontics

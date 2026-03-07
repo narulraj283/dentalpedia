@@ -1,5 +1,5 @@
 ---
-title: Intraoral Cameras: See Your Teeth in Detail
+title: "Intraoral Cameras: See Your Teeth in Detail"
 slug: intraoral-cameras-see-your-teeth-in-detail
 category: Dental Technology
 category_slug: dental-technology

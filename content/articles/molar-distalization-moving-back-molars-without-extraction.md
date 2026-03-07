@@ -1,11 +1,11 @@
 ---
-title: Molar Distalization: Moving Back Molars Without Extraction
+title: "Molar Distalization: Moving Back Molars Without Extraction"
 slug: molar-distalization-moving-back-molars-without-extraction
 category: Orthodontics
 category_slug: orthodontics
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-excerpt: Molar distalization employs specific biomechanical appliances to achieve posterior tooth movement through skeletal and dental mechanisms, enabling space creation for anterior alignment without tooth extraction—a nonextraction alternative for select Class II malocclusions.
+excerpt: "Molar distalization employs specific biomechanical appliances to achieve posterior tooth movement through skeletal and dental mechanisms, enabling."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

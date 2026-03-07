@@ -3,7 +3,7 @@ title: Natural Mouthwash Options Beyond Salt Water
 slug: natural-mouthwash-options-salt-water-and-alternatives
 category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: Evidence-based natural mouthwash alternatives including saline rinses, herbal formulations, and essential oil products, with clinical efficacy compared to chlorhexidine standards.
+excerpt: "Evidence-based natural mouthwash alternatives including saline rinses, herbal formulations, and essential oil products, with clinical efficacy."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

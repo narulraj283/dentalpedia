@@ -3,7 +3,7 @@ title: Orofacial Myofascial Pain - Muscle Pain Syndromes, Trigger Points, and Tr
 slug: orofacial-myofascial-pain-muscle-related-oral-pain
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Masticatory muscle pain syndromes, trigger point mapping, dry needling technique, botulinum toxin dosing, occlusal splint design, behavioral therapy protocols, and outcomes assessment.
+excerpt: "Masticatory muscle pain syndromes, trigger point mapping, dry needling technique, botulinum toxin dosing, occlusal splint design, behavioral therapy."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

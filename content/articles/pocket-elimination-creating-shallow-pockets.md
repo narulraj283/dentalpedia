@@ -3,7 +3,7 @@ title: Pocket Elimination and Creation of Shallow Periodontal Pockets
 slug: pocket-elimination-creating-shallow-pockets
 category: Periodontics
 category_slug: periodontics
-excerpt: Osseous resective surgery and modified Widman flap techniques create mechanically stable, maintainable periodontal pockets through predictable bone recontouring.
+excerpt: "Osseous resective surgery and modified Widman flap techniques create mechanically stable, maintainable periodontal pockets through predictable bone."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontics

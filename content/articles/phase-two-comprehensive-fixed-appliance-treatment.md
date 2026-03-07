@@ -3,7 +3,7 @@ title: Phase Two Comprehensive Fixed Appliance Treatment
 slug: phase-two-comprehensive-fixed-appliance-treatment
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive fixed appliance therapy aligns all permanent teeth through systematic bracket selection, wire sequencing, and precise three-dimensional tooth control with finishing mechanics.
+excerpt: "Comprehensive fixed appliance therapy aligns all permanent teeth through systematic bracket selection, wire sequencing, and precise three-dimensional."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontics

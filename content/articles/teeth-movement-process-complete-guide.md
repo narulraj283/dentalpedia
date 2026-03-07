@@ -1,9 +1,9 @@
 ---
-title: The Biology of Tooth Movement: A Complete Clinical Guide to Orthodontic Mechanics
+title: "The Biology of Tooth Movement: A Complete Clinical Guide to Orthodontic Mechanics"
 slug: teeth-movement-process-complete-guide
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Master the cellular mechanisms driving orthodontic tooth movement, including pressure-tension theory, PDL remodeling, osteoclast activation, and evidence-based force parameters.
+excerpt: "Master the cellular mechanisms driving orthodontic tooth movement, including pressure-tension theory, PDL remodeling, osteoclast activation, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontist

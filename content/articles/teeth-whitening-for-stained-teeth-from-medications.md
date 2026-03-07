@@ -1,9 +1,9 @@
 ---
-title: Teeth Whitening for Medication-Induced Staining: Treatment Protocols and Veneer Alternatives
+title: "Teeth Whitening for Medication-Induced Staining: Treatment Protocols and Veneer Alternatives"
 slug: teeth-whitening-for-stained-teeth-from-medications
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensive strategies for managing tetracycline, minocycline, and other medication-induced discoloration through walking bleach, microabrasion, and veneer masking.
+excerpt: "Comprehensive strategies for managing tetracycline, minocycline, and other medication-induced discoloration through walking bleach, microabrasion,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

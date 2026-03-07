@@ -1,9 +1,9 @@
 ---
-title: Guided Bone Regeneration in Dental Surgery: Principles and Clinical Applications
+title: "Guided Bone Regeneration in Dental Surgery: Principles and"
 slug: guided-bone-regeneration-in-dental-surgery
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Systematic approach to bone regeneration employing barrier membranes, bone grafting materials, and guided tissue engineering for implant site development and periodontal defect management.
+excerpt: "If you've lost significant bone in your jaw, dental implants might not be an option—unless you rebuild that bone."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery

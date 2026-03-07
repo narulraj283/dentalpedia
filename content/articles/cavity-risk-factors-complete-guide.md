@@ -1,5 +1,5 @@
 ---
-title: Cavity Risk Factors: Complete Guide
+title: "Cavity Risk Factors: Complete Guide"
 slug: cavity-risk-factors-complete-guide
 category: Preventive Care
 category_slug: preventive-care

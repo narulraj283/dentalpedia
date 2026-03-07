@@ -1,9 +1,9 @@
 ---
-title: Maxillary Sinus Augmentation: Bone Grafting Techniques for Upper Implant Placement
+title: "Maxillary Sinus Augmentation: Bone Grafting Techniques for Upper Implant Placement"
 slug: sinus-lift-creating-space-for-upper-implants
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Maxillary sinus augmentation enables implant placement in the posterior maxilla through lateral window or crestal approaches with various bone graft materials and timing considerations.
+excerpt: "Maxillary sinus augmentation enables implant placement in the posterior maxilla through lateral window or crestal approaches with various bone graft."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral Surgery

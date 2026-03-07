@@ -1,9 +1,9 @@
 ---
-title: Protective Mouth Guards: Preventing Dental Trauma
+title: "Protective Mouth Guards: Preventing Dental Trauma"
 slug: protective-mouth-guards-preventing-dental-trauma
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Custom-fabricated mouth guards provide superior impact absorption (30-50% force reduction) compared to boil-and-bite and stock guards through precise fit, optimal material thickness, and sport-specific design.
+excerpt: "Custom-fabricated mouth guards provide superior impact absorption (30-50% force reduction) compared to boil-and-bite and stock guards through precise."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

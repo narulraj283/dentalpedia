@@ -3,7 +3,7 @@ title: Cost of Cavity Diagnosis Process
 slug: cost-of-cavity-diagnosis-process
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Your dentist uses different methods to detect cavities before they become expensive problems. The cost of diagnosis tools ranges from $0 to a few dollars, and investing in early detection saves you hundreds in treatment costs.
+excerpt: "How do you know if you have a cavity? Your dentist uses several tools to detect cavities, each with different costs and benefits."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

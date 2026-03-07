@@ -3,7 +3,7 @@ title: Proper Fitting of Stainless Steel Crowns in Pediatric Dentistry
 slug: stainless-steel-crown-fit-proper-sizing
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Technical protocols for stainless steel crown selection, tooth preparation, sizing measurement, crimping, and margin adaptation for optimal clinical outcomes.
+excerpt: "Technical protocols for stainless steel crown selection, tooth preparation, sizing measurement, crimping, and margin adaptation for optimal clinical."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Pediatric Dentistry

@@ -3,7 +3,7 @@ title: Surgical Tooth Removal - Exodontia Principles and Impacted Teeth Manageme
 slug: how-to-surgical-teeth-removal
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Surgical tooth removal encompasses both routine exodontia of erupted teeth and complex extraction of impacted teeth, requiring anatomical understanding, systematic instrumentation, and precise technique minimizing trauma and morbidity.
+excerpt: "Surgical tooth removal encompasses both routine exodontia of erupted teeth and complex extraction of impacted teeth, requiring anatomical."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -1,9 +1,9 @@
 ---
-title: Gum Disease Stages: What You Need to Know
+title: "Gum Disease Stages: What You Need to Know"
 slug: gum-disease-stages-what-you-need-to-know
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Patient-focused guide to recognizing gingivitis and periodontitis stages, understanding diagnostic procedures, and recognizing when professional intervention is critical.
+excerpt: "More than half of American adults over 30 have gum disease, but most don't realize it. You could have it right now and not know."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry
@@ -108,6 +108,12 @@ Act immediately if you notice:
 After treatment, you'll need supportive periodontal therapy appointments every 3-6 months. These aren't optional. Patients attending 80% of recommended appointments keep 80-90% of their treatment gains over 5+ years. Those skipping appointments experience significant relapse and disease progression.
 
 Periodontitis is chronic—it needs ongoing management like diabetes or hypertension. Your home care, regular appointments, and management of risk factors (smoking, stress, diabetes) determine your long-term outcome.
+
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about gum disease stages what you need to know and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
 
 ## Conclusion
 

@@ -3,7 +3,7 @@ title: Post-Surgery Care - What You Need to Know After Oral Surgery
 slug: post-surgery-care-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Patient-friendly post-operative guide covering day-by-day expectations, soft food options, activity return timeline, emergency contacts, and managing healing complications.
+excerpt: "Patient-friendly post-operative guide covering day-by-day expectations, soft food options, activity return timeline, emergency contacts, and managing."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery

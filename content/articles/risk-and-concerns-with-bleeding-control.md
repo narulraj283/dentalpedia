@@ -3,7 +3,7 @@ title: Risk and Concerns with Bleeding Control
 slug: risk-and-concerns-with-bleeding-control
 category: Oral and Maxillofacial Surgery
 category_slug: oral-surgery
-excerpt: Post-operative hemorrhage management requires understanding anticoagulant effects, hemostatic agent selection, and systemic factors affecting coagulation to prevent complications in surgical patients.
+excerpt: "Post-operative hemorrhage management requires understanding anticoagulant effects, hemostatic agent selection, and systemic factors affecting."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery

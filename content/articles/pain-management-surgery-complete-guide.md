@@ -1,5 +1,5 @@
 ---
-title: Comprehensive Surgical Pain Management: Clinical Protocols in Oral Surgery
+title: "Comprehensive Surgical Pain Management: Clinical Protocols in Oral Surgery"
 slug: pain-management-surgery-complete-guide
 category: Oral Surgery
 category_slug: oral-surgery

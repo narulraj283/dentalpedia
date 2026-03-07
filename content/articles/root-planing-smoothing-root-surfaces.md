@@ -3,7 +3,7 @@ title: Root Planing - Smoothing Root Surfaces in Periodontal Therapy
 slug: root-planing-smoothing-root-surfaces
 category: Periodontics
 category_slug: periodontics
-excerpt: Master root planing instrumentation technique, endpoint detection, healing response, comparative outcomes of hand vs ultrasonic instrumentation, and root surface changes that facilitate periodontal healing and bacterial suppression.
+excerpt: "Master root planing instrumentation technique, endpoint detection, healing response, comparative outcomes of hand vs ultrasonic instrumentation, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontist

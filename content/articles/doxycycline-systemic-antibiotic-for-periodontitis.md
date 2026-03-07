@@ -1,5 +1,5 @@
 ---
-title: Doxycycline: Systemic Antibiotic for Periodontitis
+title: "Doxycycline: Systemic Antibiotic for Periodontitis"
 slug: doxycycline-systemic-antibiotic-for-periodontitis
 category: Periodontics
 category_slug: periodontics
@@ -80,6 +80,8 @@ Over the longer term, people who get doxycycline as part of their treatment have
 Doxycycline can be a powerful tool for fighting serious gum disease, especially when standard cleaning isn't enough or when you have aggressive disease. The low-dose form is particularly appealing because it's safe long-term and helps your mouth in multiple ways beyond just killing bacteria. Talk to your dentist about whether doxycycline might help your specific gum disease situation and what combination of treatments would give you the best results.
 
 Remember that doxycycline works best as part of a complete plan that includes professional cleaning, excellent home care, and controlling other health problems like diabetes. Your dentist can help you decide if doxycycline is right for you and monitor how well it's working.
+
+To understand your gum disease better, learn about [periodontal disease and how to prevent tooth loss](/article/periodontal-disease-and-tooth-loss-prevention.html). It's also helpful to know [the timeline for how gum disease progresses](/article/timeline-for-gum-disease-stages.html) so you can catch problems early. Understanding [your periodontal ligament and how teeth are attached](/article/periodontal-ligament-tooth-attachment-system.html) helps you appreciate why gum disease is so serious.
 
 ## Related Articles You May Find Helpful
 

@@ -3,7 +3,7 @@ title: Temporary Crowns Protecting Teeth During Multi-Visit Treatment
 slug: temporary-crown-protecting-tooth-during-treatment
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Provisional restoration materials, fabrication methods, cementation protocols, pulp protection strategies, margin integrity, and occlusal considerations for single and multi-visit preparations.
+excerpt: "Provisional restoration materials, fabrication methods, cementation protocols, pulp protection strategies, margin integrity, and occlusal."
 date: 2026-03-05
 read_time: 14 min
 reviewer_specialty: Prosthodontics

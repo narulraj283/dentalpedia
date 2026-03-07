@@ -1,5 +1,5 @@
 ---
-title: Dental Pain Relief: A Patient's Guide to Managing Tooth Pain at Home
+title: "Dental Pain Relief: A Patient's Guide to Managing Tooth Pain at Home"
 slug: pain-relief-methods-what-you-need-to-know
 category: General Dentistry
 category_slug: general-dentistry

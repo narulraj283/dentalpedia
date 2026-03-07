@@ -3,7 +3,7 @@ title: "Risk and Concerns with Dental Visit Frequency: Recall Interval Evidence,
 slug: risk-and-concerns-with-dental-visit-frequency
 category: Preventive Care
 category_slug: preventive-care
-excerpt: "Understanding the evidence regarding optimal recall intervals, over-treatment risks from excessive visits, under-detection risks from prolonged intervals, and NICE guidance for individualized recall scheduling based on disease risk."
+excerpt: "Understanding the evidence regarding optimal recall intervals, over-treatment risks from excessive visits, under-detection risks from prolonged."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

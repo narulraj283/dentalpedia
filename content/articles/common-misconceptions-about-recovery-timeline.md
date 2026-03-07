@@ -43,7 +43,7 @@ Plan time off starting the day of surgery. Simple extractions often allow return
 
 Pain resolution doesn't mean your tissues are healed or that you can resume all activity. You might feel minimal pain by day 7, but your extraction site remains fragile. Soft tissue is still healing, and bone is in early healing phases.
 
-"Healed" refers to actual tissue healing completion, not pain relief. The timeline differs: pain resolution comes first (5 to 7 days or a bit longer), then soft tissue healing (1 to 2 weeks), then bone healing (8 to 12 weeks). Resuming activity should follow tissue healing, not pain relief.
+"Healed" refers to actual tissue healing completion, not pain relief. Learning more about [timeline for recovery timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. The timeline differs: pain resolution comes first (5 to 7 days or a bit longer), then soft tissue healing (1 to 2 weeks), then bone healing (8 to 12 weeks). Resuming activity should follow tissue healing, not pain relief.
 
 ## Myth 4: You Can Return to Strenuous Exercise Within a Week
 
@@ -55,7 +55,7 @@ Why? Exercise increases blood pressure, which increases bleeding and swelling. S
 
 Wisdom teeth (third molars), especially impacted ones, require more complex extraction and have longer recovery timelines. Simple third molar extraction might require 1 week off work. Impacted third molars often require 2 weeks off work and have more significant swelling and pain.
 
-If you're extracting multiple wisdom teeth (often recommended), recovery is typically 2 to 3 weeks. Single wisdom tooth extraction might be faster, but don't assume wisdom teeth have simple recovery timelines.
+If you're extracting multiple wisdom teeth (often recommended), recovery is typically 2 to 3 weeks. Learning more about [swelling reduction what you need to know](/article/swelling-reduction-what-you-need-to-know.html) can help you understand this better. Single wisdom tooth extraction might be faster, but don't assume wisdom teeth have simple recovery timelines.
 
 ## Myth 6: Bone Grafting Requires Proportionally Longer Recovery
 
@@ -87,9 +87,17 @@ Individual variation in healing is substantial. Some people swell minimally, oth
 
 Your dentist can give approximate timelines based on your procedure type, but individual variation means your actual recovery might be slightly faster or slower. Plan for typical timeline but remain flexible based on how you're actually healing.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about recovery timeline and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
 ## Conclusion
 
 Realistic recovery depends on procedure complexity: simple extractions allow return to light work in 3 to 5 days; complex extractions or implant placement require 1 to 2 weeks. Bone healing continues for 8 to 12 weeks beyond when soft tissue heals. Strenuous activity and normal diet resume within 1 to 2 weeks for simple procedures, potentially longer for complex ones. Most complete functional recovery takes 2 to 4 weeks.
+
+
 
 ## Related Articles You May Find Helpful
 

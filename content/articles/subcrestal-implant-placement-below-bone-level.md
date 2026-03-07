@@ -3,7 +3,7 @@ title: Subcrestal Implant Placement - Below Bone Level Benefits and Protocols
 slug: subcrestal-implant-placement-below-bone-level
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Clinical rationale for subcrestal implant positioning, crestal bone preservation mechanics, platform switching synergy, and prosthetic considerations for optimal esthetic outcomes.
+excerpt: "Clinical rationale for subcrestal implant positioning, crestal bone preservation mechanics, platform switching synergy, and prosthetic considerations."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Implant Prosthodontics

@@ -3,7 +3,7 @@ title: Gingival Bleeding Etiology and Evidence-Based Treatment
 slug: how-to-bleeding-gums-solutions
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Bleeding gums result from gingivitis caused by plaque biofilm accumulation, treatable through mechanical removal, antimicrobial rinses, and behavioral modification of oral hygiene.
+excerpt: "Bleeding gums when you brush or floss can be alarming, but you're definitely not alone."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

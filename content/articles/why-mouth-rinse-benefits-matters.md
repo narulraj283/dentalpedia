@@ -3,7 +3,7 @@ title: Why Mouthwash Selection Benefits Matter for Oral Health
 slug: why-mouth-rinse-benefits-matters
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based mouthwash selection addresses therapeutic indications, active ingredient efficacy, patient-specific needs, and proper use timing for optimal oral health outcomes.
+excerpt: "Evidence-based mouthwash selection addresses therapeutic indications, active ingredient efficacy, patient-specific needs, and proper use timing for."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry and Periodontics

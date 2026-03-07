@@ -3,7 +3,7 @@ title: Plaque Staining Revealing Biofilm Location
 slug: plaque-staining-revealing-biofilm-location
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Disclosing agents reveal biofilm location through selective staining, enabling visualization for patient motivation and clinical assessment using O'Leary plaque indices and digital imaging.
+excerpt: "Disclosing agents reveal biofilm location through selective staining, enabling visualization for patient motivation and clinical assessment using."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

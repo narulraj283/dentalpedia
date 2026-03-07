@@ -3,7 +3,7 @@ title: Stainless Steel Crowns as Durable Restorations for Primary Teeth
 slug: stainless-steel-crowns-durable-restoration-for-baby-teeth
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Clinical indications, evidence for durability, material properties, success rates, and alternative esthetic options for stainless steel crowns in primary dentition.
+excerpt: "Clinical indications, evidence for durability, material properties, success rates, and alternative esthetic options for stainless steel crowns in."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Pediatric Dentistry

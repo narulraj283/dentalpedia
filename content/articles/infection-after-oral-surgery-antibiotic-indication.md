@@ -1,9 +1,9 @@
 ---
-title: Infection After Oral Surgery: Antibiotic Indication
+title: "Infection After Oral Surgery: Antibiotic Indication"
 slug: infection-after-oral-surgery-antibiotic-indication
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive evidence-based guidelines for post-operative infection management, antibiotic selection, prophylactic protocols, and recognition of surgical site infections following oral and maxillofacial surgical procedures.
+excerpt: "Comprehensive evidence-based guidelines for post-operative infection management, antibiotic selection, prophylactic protocols, and recognition of."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

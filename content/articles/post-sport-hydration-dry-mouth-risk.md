@@ -3,7 +3,7 @@ title: Post-Sport Hydration and Dry Mouth Risk in Athletes - Saliva Flow and Ora
 slug: post-sport-hydration-dry-mouth-risk
 category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: Exercise-induced xerostomia mechanisms, sports drink pH and erosion consequences, oral breathing during exercise, hydration strategies, and saliva flow restoration for athletic performance.
+excerpt: "Exercise-induced xerostomia mechanisms, sports drink pH and erosion consequences, oral breathing during exercise, hydration strategies, and saliva."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

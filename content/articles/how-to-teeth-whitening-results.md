@@ -3,7 +3,7 @@ title: Clinical Outcomes and Expected Results From Professional Teeth Whitening
 slug: how-to-teeth-whitening-results
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Professional teeth whitening achieves 2-8 VITA shade unit improvement with 50% shade retention at 6 months and 30-40% retention at 12 months, varying based on stain type and lifestyle factors.
+excerpt: "Professional teeth whitening achieves 2-8 VITA shade unit improvement with 50% shade retention at 6 months and 30-40% retention at 12 months, varying."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

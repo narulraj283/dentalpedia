@@ -3,7 +3,7 @@ title: Dental Pain Relief Options and Timelines
 slug: timeline-for-pain-relief-methods
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Comprehensive overview of dental pain relief methods including OTC analgesics, prescription options, topical agents, and physical therapy modalities with clinical efficacy data.
+excerpt: "Comprehensive overview of dental pain relief methods including OTC analgesics, prescription options, topical agents, and physical therapy modalities."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

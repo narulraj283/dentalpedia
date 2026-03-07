@@ -31,7 +31,7 @@ Local anesthesia is a numbing injection that makes the tooth and surrounding are
 
 **Cost**: $50-$100 (usually included in procedure cost)
 
-**How it works**: Your dentist injects numbing medication around the tooth. It takes 3-5 minutes to work. You'll feel pressure and vibration but no pain. The numbness lasts 2-4 hours depending on the medication.
+**How it works**: Your dentist injects numbing medication around the tooth. Learning more about [impacted teeth removal canines molars and premolars](/article/impacted-teeth-removal-canines-molars-and-premolars.html) can help you understand this better. It takes 3-5 minutes to work. You'll feel pressure and vibration but no pain. The numbness lasts 2-4 hours depending on the medication.
 
 **What you can do**: You drive yourself, go back to work, and do normal activities.
 
@@ -71,7 +71,7 @@ Your dentist gives you a pill to take 30-45 minutes before treatment. It makes y
 
 ## IV Sedation (Twilight Anesthesia)
 
-IV sedation is stronger than oral sedation. A needle in your arm delivers medication directly into your bloodstream. You're semiconscious—drowsy but aware.
+IV sedation is stronger than oral sedation. Learning more about [piezosurgery ultrasonic bone cutting precision](/article/piezosurgery-ultrasonic-bone-cutting-precision.html) can help you understand this better. A needle in your arm delivers medication directly into your bloodstream. You're semiconscious—drowsy but aware.
 
 **Cost**: $400-$900 per appointment
 - Anesthesia provider fee: $300-$600
@@ -180,7 +180,9 @@ Tell your dentist about:
 
 Dental anesthesia ranges from simple local numbing ($50-$100, included in most procedures) to IV sedation ($400-$900) to general anesthesia in a hospital ($900-$2,300+). Your choice depends on the procedure complexity and your anxiety level. Most routine dental work needs only local anesthesia. Anxious patients benefit from nitrous oxide ($100-$150) or oral sedation ($150-$300). Complex surgery or extreme anxiety may warrant IV or general anesthesia. Talk to your dentist about your comfort level, and together you'll choose the best option for you.
 
-> ## Related Articles You May Find Helpful
+> 
+
+## Related Articles You May Find Helpful
 
 - [Impacted Teeth Removal Canines Molars And Premolars](/article/impacted-teeth-removal-canines-molars-and-premolars.html)
 - [Piezosurgery Ultrasonic Bone Cutting Precision](/article/piezosurgery-ultrasonic-bone-cutting-precision.html)

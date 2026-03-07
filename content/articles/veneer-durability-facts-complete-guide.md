@@ -3,7 +3,7 @@ title: Cosmetic Veneer Durability and Longevity Evidence
 slug: veneer-durability-facts-complete-guide
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Porcelain veneers demonstrate 93% survival at 15 years; composite veneers show 70% at 10 years; longevity depends on bonding substrate, failure modes, and maintenance protocols.
+excerpt: "Porcelain veneers demonstrate 93% survival at 15 years; composite veneers show 70% at 10 years; longevity depends on bonding substrate, failure."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontics

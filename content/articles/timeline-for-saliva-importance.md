@@ -1,9 +1,9 @@
 ---
-title: The Critical Role of Saliva in Oral Health: Functions, Clinical Significance, and Disease Prevention
+title: "The Critical Role of Saliva in Oral Health: Functions, Clinical Significance, and Disease Prevention"
 slug: timeline-for-saliva-importance
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Saliva is essential for maintaining oral health through buffering, antimicrobial protection, remineralization, and lubrication—understanding its functions helps clinicians identify and manage xerostomia and related conditions.
+excerpt: "Saliva is essential for maintaining oral health through buffering, antimicrobial protection, remineralization, and lubrication—understanding its."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

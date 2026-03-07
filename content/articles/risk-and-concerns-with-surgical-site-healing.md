@@ -3,7 +3,7 @@ title: Surgical Wound Healing Complications and Risk Factors
 slug: risk-and-concerns-with-surgical-site-healing
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive analysis of wound healing complications including dehiscence, foreign body reaction, infection signs, vascular insufficiency, systemic factors, and diabetes-specific impacts.
+excerpt: "Comprehensive analysis of wound healing complications including dehiscence, foreign body reaction, infection signs, vascular insufficiency, systemic."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

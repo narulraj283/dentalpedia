@@ -3,7 +3,7 @@ title: Optimizing Orthodontic Movement Speed and Acceleration Techniques
 slug: timeline-for-teeth-movement-speed
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Understand movement speed determinants including force optimization, bone density effects, root morphology, and accelerated techniques with clinical applications.
+excerpt: "Understand movement speed determinants including force optimization, bone density effects, root morphology, and accelerated techniques with clinical."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

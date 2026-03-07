@@ -3,7 +3,7 @@ title: "A Patient's Guide to Dental Visit Frequency"
 slug: best-practices-for-dental-visit-frequency
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based clinical guidelines for determining optimal examination and prophylaxis frequency based on caries risk, periodontal status, and individual patient factors.
+excerpt: "For decades, dentists recommended everyone come in every 6 months."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry
@@ -120,5 +120,5 @@ Ask your dentist what risk category they place you in and why. Ask about the rec
 - [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
 
 
-> **Key Takeaway:** Understanding a patient's guide to dental visit frequency helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** For decades, dentists recommended everyone come in every 6 months. Your dentist can help you understand what steps are right for your specific needs.
 

@@ -49,7 +49,7 @@ Eating soft foods for 2-3 days costs a bit more than normal groceries. Instead o
 
 ## Lost Work Time
 
-The biggest hidden cost is missing work while recovering. Most people can return to desk work after 3-5 days, costing $300-$600 in lost wages at an average $60/day. Physical workers often need 7-10 days off, losing $600-$1,200. If you have paid time off, this doesn't cost you extra money, but it's important to budget for it anyway.
+The biggest hidden cost is missing work while recovering. Learning more about [extraction what to expect](/article/extraction-what-to-expect.html) can help you understand this better. Most people can return to desk work after 3-5 days, costing $300-$600 in lost wages at an average $60/day. Physical workers often need 7-10 days off, losing $600-$1,200. If you have paid time off, this doesn't cost you extra money, but it's important to budget for it anyway.
 
 ## Complications and Treatment Costs
 
@@ -69,7 +69,7 @@ Extraction alone costs $100-$300, but living with a missing tooth often requires
 
 ## Insurance Coverage Details
 
-Most insurance covers 50-80% of extraction costs, meaning you pay 20-50% out-of-pocket. If you have a $1,000 annual maximum benefit and get multiple extractions, you'll quickly exceed coverage and pay full price for remaining extractions.
+Most insurance covers 50-80% of extraction costs, meaning you pay 20-50% out-of-pocket. Learning more about [post extraction pain](/article/post-extraction-pain.html) can help you understand this better. If you have a $1,000 annual maximum benefit and get multiple extractions, you'll quickly exceed coverage and pay full price for remaining extractions.
 
 Check with your insurance before extraction to understand your specific coverage.
 
@@ -156,6 +156,8 @@ Most concerns are minor and manageable with phone guidance. Don't hesitate to ca
 ## Conclusion
 
 Extraction recovery costs $200-$400 for a simple tooth, or $300-$800 if you lose work time. Most of this goes to pain medication ($10-$50), supplies ($5-$15), and dietary changes ($5-$15). The biggest cost is often lost work time. Budget conservatively, follow your dentist's recovery instructions carefully to prevent complications, and plan your recovery time strategically. Talk to your dentist before extraction about what you can expect cost-wise so there are no surprises.
+
+
 
 ## Related Articles You May Find Helpful
 

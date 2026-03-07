@@ -1,9 +1,9 @@
 ---
-title: Ligature Wire Selection and Bracket Engagement: Mechanics, Force Delivery, and Clinical Protocol
+title: "Ligature Wire Selection and Bracket Engagement: Mechanics, Force Delivery, and Clinical Protocol"
 slug: tie-wire-securing-wire-to-bracket
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive analysis of stainless steel ligature wire selection, ligation techniques, and comparative friction characteristics between conventional and self-ligating bracket systems.
+excerpt: "Comprehensive analysis of stainless steel ligature wire selection, ligation techniques, and comparative friction characteristics between conventional."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Orthodontics

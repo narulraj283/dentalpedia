@@ -3,7 +3,7 @@ title: "Iatrogenic Enamel Damage During Bracket Bonding: Prevention and Manageme
 slug: iatrogenic-damage-bracket-bonding-side-effects
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Fixed appliance therapy risks iatrogenic enamel damage through bracket bonding and removal procedures. Careful application technique, surface preparation optimization, and systematic debonding protocols minimize subsurface enamel loss while maintaining long-term esthetic and mechanical integrity of affected teeth.
+excerpt: "Fixed appliance therapy risks iatrogenic enamel damage through bracket bonding and removal procedures."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

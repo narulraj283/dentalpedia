@@ -1,9 +1,9 @@
 ---
-title: Adult Orthodontic Treatment Timeline: Conventional Braces, Ceramic, Lingual, and Aligner Comparisons
+title: "Adult Orthodontic Treatment Timeline: Conventional Braces, Ceramic, Lingual, and Aligner Comparisons"
 slug: timeline-for-adult-braces-options
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive timeline analysis of adult orthodontic treatment modalities including duration variability, periodontal considerations, and accelerated treatment options.
+excerpt: "Comprehensive timeline analysis of adult orthodontic treatment modalities including duration variability, periodontal considerations, and accelerated."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Orthodontics and Adult Dentistry

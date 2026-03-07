@@ -3,7 +3,7 @@ title: Twin Block Appliance for Class II Correction - Functional Mandibular Adva
 slug: twin-block-appliance-correcting-overbite-non-surgically
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Twin Block functional appliance design, mandibular advancement mechanics, Class II correction protocols, compliance factors, and clinical outcomes in adolescents.
+excerpt: "Twin Block functional appliance design, mandibular advancement mechanics, Class II correction protocols, compliance factors, and clinical outcomes in."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

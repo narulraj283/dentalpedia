@@ -1,9 +1,9 @@
 ---
-title: Mucogingival Surgery: Gum Tissue Reconstruction
+title: "Mucogingival Surgery: Gum Tissue Reconstruction"
 slug: mucogingival-surgery-gum-tissue-reconstruction
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Master surgical gum tissue reconstruction techniques, graft options, root coverage procedures, and evidence-based outcomes for optimal periodontal tissue restoration.
+excerpt: "Master surgical gum tissue reconstruction techniques, graft options, root coverage procedures, and evidence-based outcomes for optimal periodontal."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -3,7 +3,7 @@ title: Risks and Concerns with Cosmetic Crown Selection and Outcomes
 slug: risk-and-concerns-with-cosmetic-crown-selection
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Understanding material-specific crown risks including all-ceramic fracture, PFM esthetic limitations, zirconia opacity, preparation trauma, shade mismatch, and margin recession affecting esthetic outcomes and tooth longevity.
+excerpt: "Understanding material-specific crown risks including all-ceramic fracture, PFM esthetic limitations, zirconia opacity, preparation trauma, shade."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic Dentistry

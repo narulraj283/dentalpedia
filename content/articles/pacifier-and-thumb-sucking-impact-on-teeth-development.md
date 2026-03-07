@@ -3,7 +3,7 @@ title: Pacifier and Thumb Sucking Impact—Malocclusion Development from Non-Nut
 slug: pacifier-and-thumb-sucking-impact-on-teeth-development
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Non-nutritive sucking habits beyond age 3-4 years significantly increase risk of anterior open bite, posterior crossbite, and functional occlusal patterns requiring intervention.
+excerpt: "Non-nutritive sucking habits beyond age 3-4 years significantly increase risk of anterior open bite, posterior crossbite, and functional occlusal."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Pediatric Dentistry

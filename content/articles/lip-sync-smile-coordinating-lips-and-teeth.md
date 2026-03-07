@@ -1,9 +1,9 @@
 ---
-title: Lip Sync Smile: Integrating Lip and Tooth Aesthetics
+title: "Lip Sync Smile: Integrating Lip and Tooth Aesthetics"
 slug: lip-sync-smile-coordinating-lips-and-teeth
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Optimal smile aesthetics require perfect coordination between tooth characteristics and lips—including color harmony, size proportions, and dynamic movement patterns during facial expressions.
+excerpt: "Optimal smile aesthetics require perfect coordination between tooth characteristics and lips—including color harmony, size proportions, and dynamic."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

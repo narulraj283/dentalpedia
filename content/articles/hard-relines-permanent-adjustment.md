@@ -1,5 +1,5 @@
 ---
-title: Hard Relines: Permanent Adjustment
+title: "Hard Relines: Permanent Adjustment"
 slug: hard-relines-permanent-adjustment
 category: Prosthodontics
 category_slug: prosthodontics

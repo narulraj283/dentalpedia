@@ -3,7 +3,7 @@ title: Why Caries Risk Assessment Matters for Personalized Dental Care
 slug: why-cavity-risk-factors-matters
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Systematic caries risk assessment enables personalized prevention strategies, appropriate resource allocation, and early intervention targeting behavior modification.
+excerpt: "Systematic caries risk assessment enables personalized prevention strategies, appropriate resource allocation, and early intervention targeting."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

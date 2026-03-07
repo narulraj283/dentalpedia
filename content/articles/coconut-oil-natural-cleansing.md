@@ -1,5 +1,5 @@
 ---
-title: Oil Pulling with Coconut Oil: Clinical Efficacy in Oral Hygiene and Periodontal Health
+title: "Oil Pulling with Coconut Oil: Clinical Efficacy in Oral"
 slug: coconut-oil-natural-cleansing
 category: Preventive Care
 category_slug: preventive-care

@@ -1,9 +1,9 @@
 ---
-title: Caries Risk Assessment and Key Vulnerability Factors: Clinical Timeline for Identifying High-Risk Patients
+title: "Caries Risk Assessment and Key Vulnerability Factors: Clinical Timeline for Identifying High-Risk Patients"
 slug: timeline-for-cavity-risk-factors
 category: Preventive Dentistry
 category_slug: preventive-care
-excerpt: Comprehensive caries risk assessment integrates salivary flow, bacterial biofilm load, dietary patterns, and systemic factors to identify patients requiring intensive preventive protocols.
+excerpt: "Comprehensive caries risk assessment integrates salivary flow, bacterial biofilm load, dietary patterns, and systemic factors to identify patients."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

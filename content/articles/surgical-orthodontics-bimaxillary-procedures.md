@@ -3,7 +3,7 @@ title: Orthognathic Surgery - Bimaxillary Procedures, Planning, and Postoperativ
 slug: surgical-orthodontics-bimaxillary-procedures
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive protocol for Le Fort I + BSSO bimaxillary surgery including cephalometric analysis, virtual planning, fixation methods, and postoperative stability.
+excerpt: "Comprehensive protocol for Le Fort I + BSSO bimaxillary surgery including cephalometric analysis, virtual planning, fixation methods, and."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Oral and Maxillofacial Surgeon

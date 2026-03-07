@@ -1,5 +1,5 @@
 ---
-title: Foundation Buildup: Preparing Your Tooth for a Crown
+title: "Foundation Buildup: Preparing Your Tooth for a Crown"
 slug: foundation-for-crown-tooth-preparation
 category: General Dentistry
 category_slug: general-dentistry
@@ -19,7 +19,7 @@ You've been told you need a crown, and your dentist mentioned something about a 
 
 ## What is a Core Buildup and Why You Might Need One
 
-When your tooth has lost significant structure, there isn't enough tooth left to support a crown properly. Imagine trying to hammer a nail into soft wood—it won't stay. A core buildup restores the missing tooth structure by building it up with strong material. This creates the proper shape and height your crown needs to seat correctly and function properly.
+When your tooth has lost significant structure, there isn't enough tooth left to support a crown properly. Learning more about [hydrodynamic theory sensitivity explanation](/article/hydrodynamic-theory-sensitivity-explanation.html) can help you understand this better. Imagine trying to hammer a nail into soft wood—it won't stay. A core buildup restores the missing tooth structure by building it up with strong material. This creates the proper shape and height your crown needs to seat correctly and function properly.
 
 You might need a core buildup if you've had a large filling that failed, undergone a root canal treatment (which removes the inside of the tooth, making it weaker), or experienced significant decay. If more than 50% of your tooth's original structure is gone, a core buildup is usually necessary. Your dentist examines the remaining tooth structure and determines whether buildup is needed.
 
@@ -51,7 +51,7 @@ A good buildup also distributes chewing forces evenly across your tooth. This pr
 
 ## What Happens If the Buildup Fails
 
-If your buildup comes loose or the bonding fails, you'll probably notice a gap or slight movement when chewing. This isn't an emergency, but you should schedule an appointment soon. Your dentist can usually repair or replace the buildup without removing your crown, though sometimes the crown needs to be removed and re-cemented.
+If your buildup comes loose or the bonding fails, you'll probably notice a gap or slight movement when chewing. Learning more about [cavity formation process complete guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. This isn't an emergency, but you should schedule an appointment soon. Your dentist can usually repair or replace the buildup without removing your crown, though sometimes the crown needs to be removed and re-cemented.
 
 Catching a failing buildup early prevents more serious problems. If bacteria get under the crown and destroy the remaining tooth structure, extraction might become necessary. That's why regular dental checkups are important—your dentist can spot problems early.
 
@@ -76,6 +76,8 @@ The investment in a quality buildup and crown at the beginning pays dividends in
 ## Conclusion
 
 A core buildup is essentially insurance for your crown's longevity. It provides the solid foundation that allows your crown to function perfectly and last decades. Yes, it adds to the overall cost of crown treatment, but it's a worthwhile investment that prevents much more expensive problems down the road. Your dentist will explain your specific situation and recommend the best approach for your tooth.
+
+
 
 ## Related Articles You May Find Helpful
 

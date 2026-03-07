@@ -5,7 +5,7 @@ category: Periodontics
 category_slug: periodontics
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
-excerpt: Comprehensive prevention framework addressing daily plaque removal, professional prophylaxis intervals, risk factor modification, and evidence-based maintenance protocols for periodontal health.
+excerpt: "Comprehensive prevention framework addressing daily plaque removal, professional prophylaxis intervals, risk factor modification, and evidence-based."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontology

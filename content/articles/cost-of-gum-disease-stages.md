@@ -41,7 +41,7 @@ If gingivitis goes untreated, it becomes periodontitis, which means you're losin
 
 Now treatment gets more involved. You'll need scaling and root planing (deep cleaning) which costs $150-250 per quadrant (your mouth is divided into four sections). If you only need it in 1-2 quadrants, you're looking at $300-500 total. Add the exam and X-rays, and initial treatment is around $500-750. That seems like more, but you're still in an affordable range.
 
-After the deep cleaning, you'll need maintenance cleanings more often—every 3-4 months instead of the standard 6 months. These cost $150-200 each, so four visits per year cost about $600-800 annually. Insurance usually covers these at 80%, so you'd pay about $120-160 per year out-of-pocket. First-year costs total around $1,000-1,300, then $450-800 per year after that.
+After the deep cleaning, you'll need maintenance cleanings more often—every 3-4 months instead of the standard 6 months. Learning more about [cost of gum disease prevention](/article/cost-of-gum-disease-prevention.html) can help you understand this better. These cost $150-200 each, so four visits per year cost about $600-800 annually. Insurance usually covers these at 80%, so you'd pay about $120-160 per year out-of-pocket. First-year costs total around $1,000-1,300, then $450-800 per year after that.
 
 Some dentists also recommend an antimicrobial rinse ($24-72 for a 3-6 month course) or an upgraded electric toothbrush ($50-150) to help you keep things clean at home. Over five years, you're looking at about $2,000-3,500 in total costs for stage 2 disease—which is absolutely worth it compared to what stage 3 or 4 costs.
 
@@ -63,7 +63,7 @@ If you do need surgery, add another $8,000-15,000 right there. You'll also need 
 
 ## The Tooth Loss Scenario (The Worst-Case Cost)
 
-Here's where it gets really expensive: if stage 4 disease isn't controlled or progresses too far, you lose teeth. Extractions cost $150-300 per tooth. Then you face implant replacement at $2,000-5,000 per tooth. Lose six teeth and you're looking at $12,000-48,000 just for implants. Some people end up with implant problems that cost another $1,000-3,000 to fix.
+Here's where it gets really expensive: if stage 4 disease isn't controlled or progresses too far, you lose teeth. Learning more about [cost of gum health maintenance](/article/cost-of-gum-health-maintenance.html) can help you understand this better. Extractions cost $150-300 per tooth. Then you face implant replacement at $2,000-5,000 per tooth. Lose six teeth and you're looking at $12,000-48,000 just for implants. Some people end up with implant problems that cost another $1,000-3,000 to fix.
 
 A patient losing teeth to gum disease faces cumulative costs of $20,000-50,000 or more, when they could have spent just $1,000-2,000 on stage 1 treatment and prevented the whole cascade of problems.
 
@@ -97,6 +97,8 @@ Here's the lifestyle aspect too: early treatment is simpler. You do some deeper 
 ## Conclusion
 
 Gum disease costs escalate dramatically with each stage: $200-400 for early disease, $1,500-3,000 for moderate disease, $5,000-15,000+ for advanced disease, and $12,000-48,000 if you lose teeth. The financial incentive for early detection is enormous—catching it at stage 1 or 2 saves you thousands and keeps your teeth for life. Talk to your dentist about early screening and treatment for gum disease.
+
+
 
 ## Related Articles You May Find Helpful
 

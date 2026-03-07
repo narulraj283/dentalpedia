@@ -1,9 +1,9 @@
 ---
-title: Sleep Apnea Symptoms: Recognition and Assessment
+title: "Sleep Apnea Symptoms: Recognition and Assessment"
 slug: sleep-apnea-symptoms
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Sleep apnea symptoms extend beyond snoring and daytime somnolence, including witnessed apneas, morning headaches, nocturia, and mood disturbance; the Epworth Sleepiness Scale aids symptom quantification.
+excerpt: "Sleep apnea symptoms extend beyond snoring and daytime somnolence, including witnessed apneas, morning headaches, nocturia, and mood disturbance; the."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Sleep Medicine Dentistry

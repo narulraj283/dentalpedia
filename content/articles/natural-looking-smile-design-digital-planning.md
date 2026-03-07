@@ -1,9 +1,9 @@
 ---
-title: Natural-Looking Smile Design: Digital Planning and Execution
+title: "Natural-Looking Smile Design: Digital Planning and Execution"
 slug: natural-looking-smile-design-digital-planning
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Digital smile design integrates facial analysis, golden proportions, and advanced software to communicate treatment goals and guide laboratory fabrication for optimal esthetic results.
+excerpt: "Digital smile design integrates facial analysis, golden proportions, and advanced software to communicate treatment goals and guide laboratory."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

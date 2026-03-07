@@ -3,7 +3,7 @@ title: Risk and Concerns with Braces Benefits
 slug: risk-and-concerns-with-braces-benefits
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Orthodontic treatment carries significant risks including root resorption, white spot lesions, TMJ changes, and periodontal effects requiring careful patient selection and monitoring.
+excerpt: "Orthodontic treatment carries significant risks including root resorption, white spot lesions, TMJ changes, and periodontal effects requiring careful."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

@@ -1,9 +1,9 @@
 ---
-title: Post-Extraction and Oral Surgery Recovery Timeline: Day-by-Day Clinical Healing Progression
+title: "Post-Extraction and Oral Surgery Recovery Timeline: Day-by-Day Clinical Healing Progression"
 slug: how-to-oral-surgery-recovery-timeline
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Comprehensive post-surgical recovery protocols with detailed timeline for hemostasis, edema management, alveolar bone healing, and return-to-function milestones.
+excerpt: "Comprehensive post-surgical recovery protocols with detailed timeline for hemostasis, edema management, alveolar bone healing, and return-to-function."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery

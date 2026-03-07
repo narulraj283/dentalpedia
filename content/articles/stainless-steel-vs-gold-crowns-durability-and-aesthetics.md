@@ -1,5 +1,5 @@
 ---
-title: Stainless Steel vs Gold Crowns: Durability, Marginal Adaptation, and Clinical Selection
+title: "Stainless Steel vs Gold Crowns: Durability, Marginal Adaptation, and Clinical Selection"
 slug: stainless-steel-vs-gold-crowns-durability-and-aesthetics
 category: Prosthodontics
 category_slug: prosthodontics

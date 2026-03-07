@@ -3,7 +3,7 @@ title: Biological Mechanisms of Tooth Movement and Periodontal Ligament Response
 slug: timeline-for-teeth-movement-process
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Understand tooth movement biology including force application mechanics, periodontal ligament response, bone remodeling cycles, and biological movement rate optimization.
+excerpt: "Understand tooth movement biology including force application mechanics, periodontal ligament response, bone remodeling cycles, and biological."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

@@ -3,7 +3,7 @@ title: Saliva Composition and Function - A Complete Clinical Guide
 slug: saliva-importance-complete-guide
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Understanding saliva's complex composition, buffering capacity, and antimicrobial mechanisms is essential for managing oral health and diagnosing salivary dysfunction disorders.
+excerpt: "Understanding saliva's complex composition, buffering capacity, and antimicrobial mechanisms is essential for managing oral health and diagnosing."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

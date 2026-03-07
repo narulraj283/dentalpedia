@@ -1,9 +1,9 @@
 ---
-title: Multimodal Pain Management Protocols for Oral Surgery: Anesthesia, Analgesics, and Anti-Inflammatory Strategies
+title: "Multimodal Pain Management Protocols for Oral Surgery: Anesthesia, Analgesics, and Anti-Inflammatory Strategies"
 slug: how-to-pain-management-surgery
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive pain management including local anesthesia techniques, NSAIDs, opioid protocols, corticosteroid adjuncts, and nerve block approaches for optimal post-surgical comfort.
+excerpt: "Comprehensive pain management including local anesthesia techniques, NSAIDs, opioid protocols, corticosteroid adjuncts, and nerve block approaches."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery

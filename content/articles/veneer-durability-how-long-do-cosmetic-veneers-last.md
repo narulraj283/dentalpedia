@@ -1,9 +1,9 @@
 ---
-title: Veneer Lifespan and Clinical Survival: Material and Design Comparisons
+title: "Veneer Lifespan and Clinical Survival: Material and Design Comparisons"
 slug: veneer-durability-how-long-do-cosmetic-veneers-last
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Veneer lifespan varies by material type, design, and patient factors; porcelain survives 15+ years, composite 5-10 years; bruxism and bonding substrate critically influence durability.
+excerpt: "Veneer lifespan varies by material type, design, and patient factors; porcelain survives 15+ years, composite 5-10 years; bruxism and bonding."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontics

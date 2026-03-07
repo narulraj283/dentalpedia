@@ -1,5 +1,5 @@
 ---
-title: Intraoral Camera: High-Resolution Imaging
+title: "Intraoral Camera: High-Resolution Imaging"
 slug: intraoral-camera-high-resolution-imaging
 category: Dental Technology
 category_slug: dental-technology

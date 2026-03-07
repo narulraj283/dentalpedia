@@ -1,5 +1,5 @@
 ---
-title: Interdental Cleaning: Beyond Traditional Floss
+title: "Interdental Cleaning: Beyond Traditional Floss"
 slug: interdental-cleaning-beyond-traditional-floss
 category: Preventive Care
 category_slug: preventive-care

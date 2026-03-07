@@ -3,7 +3,7 @@ title: Sugar Impact on Teeth - Cavity Formation and Metabolic Pathways
 slug: sugar-impact-on-teeth-cavity-formation
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Streptococcus mutans fermentation pathways, EPS biofilm production, acidification kinetics, demineralization mechanisms, remineralization windows, and sugar substitutes comparison.
+excerpt: "Streptococcus mutans fermentation pathways, EPS biofilm production, acidification kinetics, demineralization mechanisms, remineralization windows,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Preventive Dentistry

@@ -1,9 +1,9 @@
 ---
-title: Primary Tooth Shedding: Normal Exfoliation Sequence and Root Resorption Physiology
+title: "Primary Tooth Shedding: Normal Exfoliation Sequence and Root Resorption Physiology"
 slug: primary-tooth-shedding-normal-exfoliation-timeline
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Evidence-based clinical guide to physiologic primary tooth exfoliation, normal resorption patterns, normal timeline variation, and management of delayed shedding.
+excerpt: "Evidence-based clinical guide to physiologic primary tooth exfoliation, normal resorption patterns, normal timeline variation, and management of."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Pediatric Dentistry

@@ -3,7 +3,7 @@ title: Vitamins and Tooth Remineralization
 slug: vitamins-and-tooth-remineralization
 category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: Nutritional support for remineralization involves calcium, phosphorus, vitamin D, vitamin K2, and fluoride working synergistically to repair early enamel lesions and strengthen tooth structure.
+excerpt: "Nutritional support for remineralization involves calcium, phosphorus, vitamin D, vitamin K2, and fluoride working synergistically to repair early."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Preventive Dentistry

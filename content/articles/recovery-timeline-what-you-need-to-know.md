@@ -3,7 +3,7 @@ title: Surgical Recovery Timeline—What You Need to Know About Healing
 slug: recovery-timeline-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Patient-focused guide explaining activity restrictions by procedure type, expected return-to-work timelines, factors affecting healing speed, and realistic expectations for recovery progression.
+excerpt: "Patient-focused guide explaining activity restrictions by procedure type, expected return-to-work timelines, factors affecting healing speed, and."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Oral and Maxillofacial Surgery

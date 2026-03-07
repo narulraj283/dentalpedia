@@ -3,7 +3,7 @@ title: Why Post-Operative Instructions Matter
 slug: why-post-operative-instructions-matters
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Evidence-based analysis of post-operative instruction protocols following oral surgery, including wound care, activity restrictions, infection prevention, complication recognition, and outcomes associated with patient adherence.
+excerpt: "Evidence-based analysis of post-operative instruction protocols following oral surgery, including wound care, activity restrictions, infection."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Oral and Maxillofacial Surgery

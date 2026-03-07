@@ -3,7 +3,7 @@ title: Round Wires - Gentle Initial Alignment Phase in Orthodontics
 slug: round-wires-gentle-initial-alignment
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Master round wire mechanics, understand nickel-titanium superelastic properties, optimize force delivery, plan wire size progression, ensure proper bracket engagement, and achieve efficient leveling for teeth with severe malposition.
+excerpt: "Master round wire mechanics, understand nickel-titanium superelastic properties, optimize force delivery, plan wire size progression, ensure proper."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontist

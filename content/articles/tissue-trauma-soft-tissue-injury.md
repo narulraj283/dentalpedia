@@ -1,9 +1,9 @@
 ---
-title: Oral Soft Tissue Injuries: Emergency Management and Healing Protocols
+title: "Oral Soft Tissue Injuries: Emergency Management and Healing Protocols"
 slug: tissue-trauma-soft-tissue-injury
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Oral soft tissue injuries including lacerations, contusions, and thermal burns require immediate hemostasis, primary wound closure with meticulous suturing technique, and systematic infection prevention protocols.
+excerpt: "Oral soft tissue injuries including lacerations, contusions, and thermal burns require immediate hemostasis, primary wound closure with meticulous."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: General Dentistry

@@ -3,7 +3,7 @@ title: Why Post-Surgery Care Matters
 slug: why-post-surgery-care-matters
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive evidence on post-operative care requirements, healing phases, long-term outcomes correlation with care protocols, and patient-specific factors affecting post-surgical recovery in oral and maxillofacial procedures.
+excerpt: "Comprehensive evidence on post-operative care requirements, healing phases, long-term outcomes correlation with care protocols, and patient-specific."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Oral and Maxillofacial Surgery

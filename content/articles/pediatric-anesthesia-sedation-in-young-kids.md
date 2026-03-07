@@ -3,7 +3,7 @@ title: Pediatric Anesthesia and Sedation in Young Children—Clinical Guidelines
 slug: pediatric-anesthesia-sedation-in-young-kids
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Understand pediatric sedation levels, drug selection strategies, monitoring requirements, and safety considerations for managing anxiety and enabling treatment in young children.
+excerpt: "Understand pediatric sedation levels, drug selection strategies, monitoring requirements, and safety considerations for managing anxiety and enabling."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Pediatric Dentistry

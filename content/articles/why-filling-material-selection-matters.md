@@ -3,7 +3,7 @@ title: Why Filling Material Selection Matters - Balancing Longevity, Biocompatib
 slug: why-filling-material-selection-matters
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Filling material selection affects long-term restoration success through material properties including longevity, biocompatibility, tooth preservation, and functional requirements.
+excerpt: "Filling material selection affects long-term restoration success through material properties including longevity, biocompatibility, tooth."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Restorative Dentistry

@@ -3,7 +3,7 @@ title: Why Orthodontic Appointment Frequency Matters
 slug: why-orthodontic-appointment-frequency-matters
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Clinical evidence on optimal orthodontic appointment intervals, force decay kinetics, archwire stress relaxation, and patient compliance outcomes in fixed appliance therapy.
+excerpt: "Clinical evidence on optimal orthodontic appointment intervals, force decay kinetics, archwire stress relaxation, and patient compliance outcomes in."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Orthodontics

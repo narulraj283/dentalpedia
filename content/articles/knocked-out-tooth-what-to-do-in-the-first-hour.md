@@ -3,7 +3,7 @@ title: Knocked Out Tooth? Save It Now - Your Action Plan for the First Hour
 slug: knocked-out-tooth-what-to-do-in-the-first-hour
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Urgent first-aid guide for avulsed teeth explaining how to save a tooth through proper immediate handling, storage, and emergency care. Every minute counts.
+excerpt: "Urgent first-aid guide for avulsed teeth explaining how to save a tooth through proper immediate handling, storage, and emergency care."
 date: 2026-03-05
 read_time: 8 min
 reviewed: true

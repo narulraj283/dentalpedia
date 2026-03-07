@@ -1,9 +1,9 @@
 ---
-title: Sjögren's Syndrome and Xerostomia: Autoimmune Salivary Gland Dysfunction and Oral Health Management
+title: "Sjögren's Syndrome and Xerostomia: Autoimmune Salivary Gland Dysfunction and Oral Health Management"
 slug: sjögrens-syndrome-autoimmune-dry-mouth-disease
 category: Oral Health Conditions
 category_slug: oral-health-conditions
-excerpt: Sjögren's syndrome causes autoimmune destruction of salivary glands resulting in severe xerostomia requiring comprehensive oral management and systemic treatment coordination.
+excerpt: "Sjögren's syndrome causes autoimmune destruction of salivary glands resulting in severe xerostomia requiring comprehensive oral management and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: General Dentistry

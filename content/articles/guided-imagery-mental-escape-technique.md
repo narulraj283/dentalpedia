@@ -1,5 +1,5 @@
 ---
-title: Guided Imagery: Mental Escape Technique for Dental Anxiety
+title: "Guided Imagery: Mental Escape Technique for Dental Anxiety"
 slug: guided-imagery-mental-escape-technique
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation

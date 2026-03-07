@@ -41,7 +41,7 @@ The amount of swelling depends on how complex the extraction was. Simple extract
 
 ## Myth 3: You Can Eat Normal Food by Day 3 or 4
 
-A soft diet should continue through at least day 7, preferably longer. Yes, your pain might be decreasing by day 3 and 4, but your extraction site is still fragile. Biting hard on or near the extraction site can dislodge clots and reopen healing sockets.
+A soft diet should continue through at least day 7, preferably longer. Learning more about [timeline for recovery timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. Yes, your pain might be decreasing by day 3 and 4, but your extraction site is still fragile. Biting hard on or near the extraction site can dislodge clots and reopen healing sockets.
 
 Soft foods protect your healing site. By days 7 to 10, you can gradually introduce softer regular foods, chewing carefully away from the extraction site. By week 2 to 3, most foods are okay if you continue being cautious about the extraction site. Complete diet normalization takes 3 to 4 weeks.
 
@@ -65,7 +65,7 @@ Simple guideline: avoid rinsing day 1, gentle salt water rinses only after day 3
 
 ## Myth 7: You Should Avoid All Activity for Weeks
 
-You don't need bed rest beyond day 0 to 1. Light activity (walking, gentle household tasks) is fine within days 1 to 3. Desk work resumes by day 3 to 5 for simple extractions. By week 2, most people return to normal activity except heavy lifting or strenuous exercise.
+You don't need bed rest beyond day 0 to 1. Learning more about [swelling reduction what you need to know](/article/swelling-reduction-what-you-need-to-know.html) can help you understand this better. Light activity (walking, gentle household tasks) is fine within days 1 to 3. Desk work resumes by day 3 to 5 for simple extractions. By week 2, most people return to normal activity except heavy lifting or strenuous exercise.
 
 Return to work and activity gradually, but don't prolong rest beyond what's necessary. The first few days matter most; after that, gradual activity increase supports healing rather than delaying it.
 
@@ -90,6 +90,8 @@ When your gum appears healed, you can gradually return to normal activity and di
 ## Conclusion
 
 Extraction recovery follows predictable patterns: pain peaks days 1 to 3, swelling peaks day 2 to 3, soft tissue heals within 1 to 2 weeks, and bone heals within 8 to 12 weeks. Soft diet and activity modification for 1 to 2 weeks support healing. Bleeding and mild discomfort for several days are expected responses, not complications.
+
+
 
 ## Related Articles You May Find Helpful
 

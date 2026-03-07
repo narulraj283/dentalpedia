@@ -3,7 +3,7 @@ title: "Removable Prosthodontics Basics: Complete and Partial Dentures"
 slug: removable-prosthodontics-basics
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: "Complete vs partial dentures, implant-supported overdentures, treatment planning, impression techniques, jaw relation records, denture insertion appointments, and adjustment protocols."
+excerpt: "Complete vs partial dentures, implant-supported overdentures, treatment planning, impression techniques, jaw relation records, denture insertion."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontics

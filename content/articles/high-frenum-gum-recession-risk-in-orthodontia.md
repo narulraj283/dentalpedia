@@ -1,9 +1,9 @@
 ---
-title: High Frenum: Gum Recession Risk in Orthodontia
+title: "High Frenum: Gum Recession Risk in Orthodontia"
 slug: high-frenum-gum-recession-risk-in-orthodontia
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Clinical assessment of high or thick maxillary frenum attachment and associated gingival recession risk during orthodontic tooth movement in growing patients.
+excerpt: "Between your upper front teeth, there's a small piece of tissue called the frenum that connects your lip to your gum."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Pediatric Dentistry

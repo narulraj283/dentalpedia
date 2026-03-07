@@ -5,7 +5,7 @@ category: General Dentistry
 category_slug: general-dentistry
 subcategory: General Overview
 subcategory_slug: overview-general
-excerpt: Comprehensive infection control framework including sterilization protocols, surface disinfection, waterline management, hand hygiene, PPE, and compliance standards.
+excerpt: "Comprehensive infection control framework including sterilization protocols, surface disinfection, waterline management, hand hygiene, PPE, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Infection Control and General Dentistry

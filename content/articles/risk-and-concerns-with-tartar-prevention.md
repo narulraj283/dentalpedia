@@ -3,7 +3,7 @@ title: Risk and Concerns with Tartar Prevention
 slug: risk-and-concerns-with-tartar-prevention
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Understanding the limitations of tartar prevention methods, anti-tartar toothpaste efficacy, and why professional removal remains essential despite preventive strategies.
+excerpt: "Understanding the limitations of tartar prevention methods, anti-tartar toothpaste efficacy, and why professional removal remains essential despite."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

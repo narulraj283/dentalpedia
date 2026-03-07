@@ -1,9 +1,9 @@
 ---
-title: Guide to Dental Bonding and Composite Resin: Adhesive Restorative Techniques
+title: "Guide to Dental Bonding and Composite Resin: Adhesive"
 slug: guide-to-dental-bonding-and-composite-resin
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Comprehensive review of adhesive dentistry principles, composite resin materials, clinical bonding techniques, and long-term restoration performance predictors.
+excerpt: "When you get a cavity filled today, your dentist likely uses a tooth-colored material called composite resin instead of silver amalgam."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

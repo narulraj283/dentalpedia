@@ -3,7 +3,7 @@ title: Psychological Risks and Expectations Management in Cosmetic Dentistry
 slug: risk-and-concerns-with-smile-confidence-boost
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Understanding body dysmorphic disorder screening, unrealistic expectations, and informed consent protocols essential for managing psychological outcomes in cosmetic dental procedures.
+excerpt: "Understanding body dysmorphic disorder screening, unrealistic expectations, and informed consent protocols essential for managing psychological."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

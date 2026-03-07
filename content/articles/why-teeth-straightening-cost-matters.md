@@ -3,7 +3,7 @@ title: Why Teeth Straightening Cost Matters
 slug: why-teeth-straightening-cost-matters
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Economic analysis of orthodontic treatment costs, factors influencing pricing, appliance systems comparison, and evidence-based cost-effectiveness across treatment modalities.
+excerpt: "Economic analysis of orthodontic treatment costs, factors influencing pricing, appliance systems comparison, and evidence-based cost-effectiveness."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Orthodontics

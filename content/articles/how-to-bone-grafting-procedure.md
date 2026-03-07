@@ -3,7 +3,7 @@ title: Bone Grafting Procedures in Implant Dentistry
 slug: how-to-bone-grafting-procedure
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Bone grafting restores lost alveolar ridge volume using autografts, allografts, xenografts, or alloplasts to establish adequate support for dental implants.
+excerpt: "When you lose a tooth, your jawbone starts shrinking almost immediately."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery

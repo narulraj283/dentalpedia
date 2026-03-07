@@ -3,7 +3,7 @@ title: Traditional Metal Braces Components—Brackets, Wires, and Mechanics Expl
 slug: traditional-metal-braces-brackets-and-wires-explained
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Metal braces components including bracket anatomy, wire sequencing from nitinol to stainless steel, ligation methods, and auxiliary devices work synergistically to apply graduated forces for systematic tooth movement and three-dimensional control.
+excerpt: "Metal braces components including bracket anatomy, wire sequencing from nitinol to stainless steel, ligation methods, and auxiliary devices work."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

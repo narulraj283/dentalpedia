@@ -1,9 +1,9 @@
 ---
-title: Dental Anesthesia Types and Delivery Methods: Infiltration, Block, Topical, Sedation, and General Anesthesia Selection
+title: "Dental Anesthesia Types and Delivery Methods: Infiltration, Block, Topical, Sedation, and General Anesthesia Selection"
 slug: timeline-for-anesthesia-types
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Comprehensive classification of dental anesthesia modalities including mechanism of action, clinical application, efficacy profiles, and appropriate case selection criteria.
+excerpt: "Comprehensive classification of dental anesthesia modalities including mechanism of action, clinical application, efficacy profiles, and appropriate."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Dental Anesthesia and Pain Management

@@ -3,7 +3,7 @@ title: Orthodontic Tooth Movement Velocity and Rate Determinants in Clinical Pra
 slug: how-to-teeth-movement-speed
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Optimal orthodontic movement rates of 1-1.5mm monthly reflect biological bone remodeling capacity, with variation based on appliance efficiency, force magnitude, and patient-specific biological factors.
+excerpt: "Optimal orthodontic movement rates of 1-1.5mm monthly reflect biological bone remodeling capacity, with variation based on appliance efficiency,."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

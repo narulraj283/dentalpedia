@@ -3,7 +3,7 @@ title: "Risk and Concerns with Dental Procedure Planning: Pitfalls, Sequencing E
 slug: risk-and-concerns-with-dental-procedure-planning
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: "Understanding treatment planning pitfalls, sequencing errors, incomplete diagnosis consequences, cost estimation failures, and informed consent gaps that undermine treatment success and patient satisfaction."
+excerpt: "Understanding treatment planning pitfalls, sequencing errors, incomplete diagnosis consequences, cost estimation failures, and informed consent gaps."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

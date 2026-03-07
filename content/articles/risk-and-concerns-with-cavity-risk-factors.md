@@ -3,7 +3,7 @@ title: Risks and Concerns with Cavity Risk Factors and Assessment
 slug: risk-and-concerns-with-cavity-risk-factors
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Understanding the limitations of caries risk assessment, multifactorial etiology, xerostomia complications, and the challenges of CAMBRA protocols in clinical practice.
+excerpt: "Understanding the limitations of caries risk assessment, multifactorial etiology, xerostomia complications, and the challenges of CAMBRA protocols in."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: General Dentistry

@@ -1,11 +1,11 @@
 ---
-title: Modified Widman Flap: Conservative Approach
+title: "Modified Widman Flap: Conservative Approach"
 slug: modified-widman-flap-conservative-approach
 category: Periodontics
 category_slug: periodontics
 subcategory: Periodontal Overview
 subcategory_slug: overview-perio
-excerpt: The modified Widman flap represents a cornerstone periodontal surgical technique emphasizing access to subgingival surfaces with minimal tissue trauma and superior soft tissue preservation—the gold standard for sites requiring surgical periodontal therapy.
+excerpt: "The modified Widman flap represents a cornerstone periodontal surgical technique emphasizing access to subgingival surfaces with minimal tissue."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

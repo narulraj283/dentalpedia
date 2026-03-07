@@ -1,5 +1,5 @@
 ---
-title: Maintenance of Cosmetic Dentistry: Longevity and Care
+title: "Maintenance of Cosmetic Dentistry: Longevity and Care"
 slug: maintenance-of-cosmetic-dentistry-longevity-and-care
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry

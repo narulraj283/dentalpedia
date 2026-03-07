@@ -1,9 +1,9 @@
 ---
-title: Straw Use and Dental Erosion Prevention: Fluid Dynamics, Tooth Contact, and Evidence-Based Efficacy
+title: "Straw Use and Dental Erosion Prevention: Fluid Dynamics, Tooth Contact, and Evidence-Based Efficacy"
 slug: straw-use-for-beverages-does-it-really-help
 category: Preventive Dentistry
 category_slug: preventive-care
-excerpt: Analysis of straw positioning, fluid dynamics mechanics, contact angle reduction, and clinical evidence for protective effects against dental erosion and staining.
+excerpt: "Analysis of straw positioning, fluid dynamics mechanics, contact angle reduction, and clinical evidence for protective effects against dental erosion."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentist

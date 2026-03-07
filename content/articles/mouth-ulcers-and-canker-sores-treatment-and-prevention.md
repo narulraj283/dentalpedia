@@ -1,9 +1,9 @@
 ---
-title: Mouth Ulcers and Canker Sores: Treatment and Prevention
+title: "Mouth Ulcers and Canker Sores: Treatment and Prevention"
 slug: mouth-ulcers-and-canker-sores-treatment-and-prevention
 category: Oral Health Conditions
 category_slug: oral-health-conditions
-excerpt: Canker sore etiology encompasses mechanical trauma, nutritional deficiency, and immunologic dysfunction requiring distinct treatment protocols by severity classification.
+excerpt: "Canker sore etiology encompasses mechanical trauma, nutritional deficiency, and immunologic dysfunction requiring distinct treatment protocols by."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral Medicine

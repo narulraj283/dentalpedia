@@ -3,7 +3,7 @@ title: Magnesium for Teeth and Bones
 slug: magnesium-for-teeth-and-bones
 category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: Magnesium as a critical cofactor in hydroxyapatite mineralization, bone remodeling, and cellular energy metabolism, with implications for alveolar bone density, periodontal health, and long-term tooth retention.
+excerpt: "Magnesium as a critical cofactor in hydroxyapatite mineralization, bone remodeling, and cellular energy metabolism, with implications for alveolar."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

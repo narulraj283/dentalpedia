@@ -3,7 +3,7 @@ title: Braces vs. Aligners - Which One Is Right for Your Smile?
 slug: why-traditional-vs-invisible-braces-matters
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Patient-friendly comparison of traditional metal braces versus clear aligners including effectiveness, treatment time, cost, cosmetics, and what each can realistically fix.
+excerpt: "Patient-friendly comparison of traditional metal braces versus clear aligners including effectiveness, treatment time, cost, cosmetics, and what each."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontics

@@ -1,9 +1,9 @@
 ---
-title: Bulimia and Dental Erosion: Eating Disorder Oral Manifestations and Clinical Management
+title: "Bulimia and Dental Erosion: Eating Disorder Oral"
 slug: bulimia-and-dental-erosion-eating-disorder-effects
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Bulimic-related tooth erosion pathophysiology, diagnostic characteristics, and interdisciplinary management protocols
+excerpt: "Bulimia nervosa (an eating disorder involving binge eating followed by self-induced vomiting or other purging) affects 1-3% of teenage girls and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry
@@ -92,6 +92,12 @@ Continue **fluoride applications** long-term—residual salivary dysfunction may
 - [All-Ceramic Crowns: Metal-Free Restoration Solutions](/article/all-ceramic-crown-metal-free-restoration.html)
 - [Apex Sealing in Endodontics: Complete Root Canal Closure for Treatment Success](/article/apex-sealing-complete-root-canal-closure.html)
 - [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
+
+
+
+## Conclusion
+
+Taking care of your oral health means staying informed about bulimia and dental erosion eating disorder effects. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
 
 > **Key Takeaway:** Bulimia causes severe dental erosion through repeated stomach acid exposure, but eating disorder treatment prevents further damage and allows future dental repair once behaviors stabilize.
 

@@ -3,7 +3,7 @@ title: Orofacial Granulomatosis - Inflammatory Swelling, Granulomatous Cheilitis
 slug: orofacial-granulomatosis-inflammatory-swelling
 category: Oral Health Conditions
 category_slug: oral-health-conditions
-excerpt: Melkersson-Rosenthal syndrome, granulomatous cheilitis etiology, histopathology, differential diagnosis with Crohn's disease, intralesional corticosteroid therapy, dietary elimination protocols, and immunomodulator options.
+excerpt: "Melkersson-Rosenthal syndrome, granulomatous cheilitis etiology, histopathology, differential diagnosis with Crohn's disease, intralesional."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

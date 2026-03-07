@@ -1,5 +1,5 @@
 ---
-title: Implant Placement: Surgical Procedure and Recovery
+title: "Implant Placement: Surgical Procedure and Recovery"
 slug: implant-placement-surgical-procedure-and-recovery
 category: Dental Implants
 category_slug: dental-implants

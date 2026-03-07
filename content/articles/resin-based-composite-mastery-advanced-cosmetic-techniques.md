@@ -3,7 +3,7 @@ title: Resin-Based Composite Mastery Advanced Cosmetic Techniques
 slug: resin-based-composite-mastery-advanced-cosmetic-techniques
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Master advanced direct composite techniques including layering strategies, opacity characterization, and finishing protocols for superior esthetic outcomes.
+excerpt: "Master advanced direct composite techniques including layering strategies, opacity characterization, and finishing protocols for superior esthetic."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic Dentistry

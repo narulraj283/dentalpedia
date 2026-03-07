@@ -1,5 +1,5 @@
 ---
-title: Gum Disease Prevention: What You Need to Know for Optimal Oral Health
+title: "Gum Disease Prevention: What You Need to Know for Optimal"
 slug: gum-disease-prevention-what-you-need-to-know
 category: Preventive Care
 category_slug: preventive-care

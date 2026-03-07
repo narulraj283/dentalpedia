@@ -3,7 +3,7 @@ title: Pediatric Orthodontics—When Should Your Child See an Orthodontist?
 slug: pediatric-orthodontics-when-should-my-child-see-an-orthodontist
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Understand AAO recommendations for pediatric orthodontic evaluation, early warning signs for malocclusion, and Phase I treatment timing in mixed dentition patients.
+excerpt: "Understand AAO recommendations for pediatric orthodontic evaluation, early warning signs for malocclusion, and Phase I treatment timing in mixed."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Pediatric Dentistry

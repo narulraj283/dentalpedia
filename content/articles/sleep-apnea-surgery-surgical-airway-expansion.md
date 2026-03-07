@@ -1,9 +1,9 @@
 ---
-title: Sleep Apnea Surgery: Surgical Airway Expansion Approaches
+title: "Sleep Apnea Surgery: Surgical Airway Expansion Approaches"
 slug: sleep-apnea-surgery-surgical-airway-expansion
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Surgical treatment of obstructive sleep apnea encompasses multiple approaches including uvulopalatopharyngoplasty, maxillomandibular advancement, and newer hypoglossal nerve stimulation technology.
+excerpt: "Surgical treatment of obstructive sleep apnea encompasses multiple approaches including uvulopalatopharyngoplasty, maxillomandibular advancement, and."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Sleep Medicine Dentistry

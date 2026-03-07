@@ -1,9 +1,9 @@
 ---
-title: Mechanical Plaque Removal: Manual Cleaning
+title: "Mechanical Plaque Removal: Manual Cleaning"
 slug: mechanical-plaque-removal-manual-cleaning
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based manual toothbrushing techniques, interdental cleaning strategies, and biofilm control optimization for caries and periodontal disease prevention.
+excerpt: "Evidence-based manual toothbrushing techniques, interdental cleaning strategies, and biofilm control optimization for caries and periodontal disease."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

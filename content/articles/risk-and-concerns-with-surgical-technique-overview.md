@@ -3,7 +3,7 @@ title: Surgical Technique Risks and Technical Considerations
 slug: risk-and-concerns-with-surgical-technique-overview
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Detailed analysis of technique-related surgical risks including minimally invasive versus traditional approaches, flap design, suturing complications, and instrument-related injuries.
+excerpt: "Detailed analysis of technique-related surgical risks including minimally invasive versus traditional approaches, flap design, suturing."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

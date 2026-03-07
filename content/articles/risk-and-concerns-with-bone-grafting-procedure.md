@@ -3,7 +3,7 @@ title: Risk and Concerns with Bone Grafting Procedure
 slug: risk-and-concerns-with-bone-grafting-procedure
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Bone grafting complications including donor site morbidity, membrane exposure, graft failure, and infection require thorough patient selection and meticulous surgical technique to optimize implant support.
+excerpt: "Bone grafting complications including donor site morbidity, membrane exposure, graft failure, and infection require thorough patient selection and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontics

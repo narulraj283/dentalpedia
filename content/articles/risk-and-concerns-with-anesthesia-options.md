@@ -3,7 +3,7 @@ title: Local Anesthesia Complications - Allergic Reactions, Epinephrine Effects,
 slug: risk-and-concerns-with-anesthesia-options
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Local anesthesia complications include allergic reactions to ester anesthetics, cardiac effects from epinephrine, and needle trauma from improper injection techniques requiring careful drug selection and technique.
+excerpt: "Local anesthesia complications include allergic reactions to ester anesthetics, cardiac effects from epinephrine, and needle trauma from improper."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentist

@@ -1,9 +1,9 @@
 ---
-title: Preventive Dental Treatments: Complete Clinical Guide
+title: "Preventive Dental Treatments: Complete Clinical Guide"
 slug: preventive-treatments-complete-guide
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Comprehensive overview of evidence-based preventive treatments including fluoride therapies, sealants, professional cleaning, antimicrobial agents, and dietary modification strategies.
+excerpt: "Comprehensive overview of evidence-based preventive treatments including fluoride therapies, sealants, professional cleaning, antimicrobial agents,."
 date: 2026-03-05
 read_time: 14 min
 reviewer_specialty: General Dentistry

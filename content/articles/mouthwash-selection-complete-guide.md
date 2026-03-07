@@ -1,9 +1,9 @@
 ---
-title: Mouthwash Selection: Complete Guide
+title: "Mouthwash Selection: Complete Guide"
 slug: mouthwash-selection-complete-guide
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Navigate mouthwash selection with evidence-based guidance on active ingredients, therapeutic efficacy, and personalized recommendations for caries prevention, periodontal health, and oral hygiene optimization.
+excerpt: "Navigate mouthwash selection with evidence-based guidance on active ingredients, therapeutic efficacy, and personalized recommendations for caries."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

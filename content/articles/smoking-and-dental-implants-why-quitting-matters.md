@@ -3,7 +3,7 @@ title: Smoking and Dental Implants - Why Quitting Matters
 slug: smoking-and-dental-implants-why-quitting-matters
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Smoking dramatically increases dental implant failure rates through nicotine-induced vasoconstriction and impaired bone integration—discover why cessation before surgery is essential.
+excerpt: "Smoking dramatically increases dental implant failure rates through nicotine-induced vasoconstriction and impaired bone integration—discover why."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Prosthodontics

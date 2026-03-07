@@ -3,7 +3,7 @@ title: "Relaxation Techniques: Breathing and Meditation for Dental Anxiety"
 slug: relaxation-techniques-breathing-and-meditation
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: "Evidence-based relaxation techniques including diaphragmatic breathing, progressive muscle relaxation, guided imagery, and mindfulness reduce dental anxiety physiologically and psychologically without medication."
+excerpt: "Evidence-based relaxation techniques including diaphragmatic breathing, progressive muscle relaxation, guided imagery, and mindfulness reduce dental."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Behavioral Dentistry

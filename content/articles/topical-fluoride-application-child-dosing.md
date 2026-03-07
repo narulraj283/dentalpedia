@@ -3,7 +3,7 @@ title: Topical Fluoride Application and Child Dosing Guidelines
 slug: topical-fluoride-application-child-dosing
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Professional topical fluoride application protocols for children include varnish, gel, and foam formulations with specific ppm concentrations and age-based dosing recommendations to optimize caries prevention while minimizing ingestion risks.
+excerpt: "Professional topical fluoride application protocols for children include varnish, gel, and foam formulations with specific ppm concentrations and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Pediatric Dentistry

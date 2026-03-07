@@ -3,7 +3,7 @@ title: Understanding Natural Tooth Shade and Baseline Color Assessment
 slug: natural-tooth-shade-understanding-baseline
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Clinical assessment of tooth color using Vita shade guides, intrinsic versus extrinsic factors, dentin opacity, age-related changes, and standardized shade matching protocols for accurate cosmetic dentistry.
+excerpt: "Clinical assessment of tooth color using Vita shade guides, intrinsic versus extrinsic factors, dentin opacity, age-related changes, and standardized."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

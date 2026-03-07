@@ -1,9 +1,9 @@
 ---
-title: Sliding Scale Dental Fees: Accessible Dental Care Programs
+title: "Sliding Scale Dental Fees: Accessible Dental Care Programs"
 slug: sliding-scale-dental-fees
 category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: Sliding scale dental fee programs enable income-based pricing, broadening access to dental care through federally qualified health centers, dental schools, and charitable organizations.
+excerpt: "Sliding scale dental fee programs enable income-based pricing, broadening access to dental care through federally qualified health centers, dental."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Dental Practice Management

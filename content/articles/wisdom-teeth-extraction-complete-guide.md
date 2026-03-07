@@ -1,5 +1,5 @@
 ---
-title: Wisdom Teeth Extraction: Complete Guide
+title: "Wisdom Teeth Extraction: Complete Guide"
 slug: wisdom-teeth-extraction-complete-guide
 category: Oral Surgery
 category_slug: oral-surgery

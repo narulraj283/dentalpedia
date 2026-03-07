@@ -1,9 +1,9 @@
 ---
-title: How to Eliminate Bad Breath: Causes and Solutions
+title: "How to Eliminate Bad Breath: Causes and Solutions"
 slug: how-to-bad-breath-elimination
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Bad breath is usually caused by bacteria in your mouth, gum disease, or tongue coating. Learn what causes bad breath and the simple, effective steps you can take to eliminate it for good.
+excerpt: "If you struggle with bad breath, you're not alone. About 1 in 4 people deal with this problem, and the good news is that it's usually treatable."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

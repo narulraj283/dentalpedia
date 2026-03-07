@@ -3,7 +3,7 @@ title: "Risk and Concerns with Filling Material Selection: Amalgam Mercury Debat
 slug: risk-and-concerns-with-filling-material-selection
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: "Examining safety concerns with amalgam mercury toxicity, composite BPA leaching, glass ionomer fluoride release variability, polymerization shrinkage effects, and allergic reactions influencing evidence-based material selection."
+excerpt: "Examining safety concerns with amalgam mercury toxicity, composite BPA leaching, glass ionomer fluoride release variability, polymerization shrinkage."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

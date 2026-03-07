@@ -1,9 +1,9 @@
 ---
-title: Mouth Cleaning Tools: Complete Guide
+title: "Mouth Cleaning Tools: Complete Guide"
 slug: mouth-cleaning-tools-complete-guide
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Effective oral hygiene requires understanding mechanical and chemical cleaning modalities. Selecting appropriate tools based on individual anatomy, periodontal status, and dexterity maximizes plaque biofilm removal and supports long-term oral health.
+excerpt: "Effective oral hygiene requires understanding mechanical and chemical cleaning modalities."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

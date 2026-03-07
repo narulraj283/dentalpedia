@@ -3,7 +3,7 @@ title: Root Canal Retreatment - When Resin Occurs
 slug: root-canal-retreatment-when-resin-occurs
 category: Endodontics
 category_slug: endodontics
-excerpt: Comprehensive analysis of endodontic retreatment indications, persistent infection causes, retreatment technique, success rates compared to initial therapy, and identification of treatability vs. non-treatable failures.
+excerpt: "Comprehensive analysis of endodontic retreatment indications, persistent infection causes, retreatment technique, success rates compared to initial."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Endodontics

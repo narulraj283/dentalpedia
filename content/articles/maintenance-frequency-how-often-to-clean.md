@@ -1,9 +1,9 @@
 ---
-title: Maintenance Frequency: How Often to Clean
+title: "Maintenance Frequency: How Often to Clean"
 slug: maintenance-frequency-how-often-to-clean
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based recall intervals and professional maintenance scheduling for periodontally-treated patients, stratified by disease severity and individual risk factors.
+excerpt: "Evidence-based recall intervals and professional maintenance scheduling for periodontally-treated patients, stratified by disease severity and."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

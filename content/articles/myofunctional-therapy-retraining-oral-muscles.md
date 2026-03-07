@@ -1,9 +1,9 @@
 ---
-title: Myofunctional Therapy: Retraining Oral Muscles
+title: "Myofunctional Therapy: Retraining Oral Muscles"
 slug: myofunctional-therapy-retraining-oral-muscles
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Understand myofunctional disorders, tongue thrust correction, breathing pattern optimization, and evidence-based therapy outcomes supporting orthodontic stability and oral development.
+excerpt: "Understand myofunctional disorders, tongue thrust correction, breathing pattern optimization, and evidence-based therapy outcomes supporting."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

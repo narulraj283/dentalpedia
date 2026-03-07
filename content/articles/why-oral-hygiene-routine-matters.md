@@ -3,7 +3,7 @@ title: Why Your Daily Oral Hygiene Routine Matters More Than You Think
 slug: why-oral-hygiene-routine-matters
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Consistent oral hygiene routines control biofilm, prevent gingivitis, reduce caries, optimize sequence, and require sustainable time investment for lifelong benefits.
+excerpt: "Consistent oral hygiene routines control biofilm, prevent gingivitis, reduce caries, optimize sequence, and require sustainable time investment for."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Preventive Dentistry and Periodontics

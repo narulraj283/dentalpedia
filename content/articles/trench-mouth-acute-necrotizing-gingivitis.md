@@ -3,7 +3,7 @@ title: Trench Mouth (Acute Necrotizing Ulcerative Gingivitis) - Diagnosis and Ev
 slug: trench-mouth-acute-necrotizing-gingivitis
 category: Periodontics
 category_slug: periodontics
-excerpt: Acute necrotizing ulcerative gingivitis (ANUG) pathophysiology, clinical presentation, and treatment protocols including antimicrobial and debridement strategies.
+excerpt: "Acute necrotizing ulcerative gingivitis (ANUG) pathophysiology, clinical presentation, and treatment protocols including antimicrobial and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontics

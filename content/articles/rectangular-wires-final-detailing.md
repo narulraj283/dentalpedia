@@ -3,7 +3,7 @@ title: Rectangular Archwires and Final Detailing in Orthodontic Treatment
 slug: rectangular-wires-final-detailing
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Rectangular archwire mechanics enable precise expression of third-order torque during finishing phases, directly controlling root position and final inclination for optimal esthetics and long-term stability.
+excerpt: "Rectangular archwire mechanics enable precise expression of third-order torque during finishing phases, directly controlling root position and final."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

@@ -1,5 +1,5 @@
 ---
-title: Athletic Whitening Considerations: Enamel Integrity and Performance Mouthguard Integration
+title: "Athletic Whitening Considerations: Enamel Integrity and Performance Mouthguard Integration"
 slug: teeth-whitening-for-athletes
 category: Sports Dentistry
 category_slug: sports-dentistry

@@ -111,7 +111,7 @@ This spreading-over-time approach lets you enjoy improvements at each phase.
 
 Professional whitening deserves more detail because it's the most popular entry point to cosmetic dentistry.
 
-**In-office whitening** uses 15-35% hydrogen peroxide activated by a special light. Results appear in one 45-60 minute appointment. Your teeth lighten 5-8 shades in a single visit. Cost is $500-$1,200 depending on the office and specific system.
+**In-office whitening** uses 15-35% hydrogen peroxide activated by a special light. Learning more about [whitening vs veneers](/article/whitening-vs-veneers.html) can help you understand this better. Results appear in one 45-60 minute appointment. Your teeth lighten 5-8 shades in a single visit. Cost is $500-$1,200 depending on the office and specific system.
 
 Results are dramatic because the concentration is high and activation is professional-grade. Your teeth become noticeably whiter—brighter than whitening strips or toothpaste can achieve.
 
@@ -133,7 +133,7 @@ Veneers range from $800-$2,500 per tooth, but what accounts for this price varia
 
 **Laboratory quality**: High-end labs produce veneers with better shade matching, better margin (edge) quality, and better durability. Cheaper labs cut corners. You might not see the difference immediately, but it appears years later.
 
-**Material type**: Lithium disilicate (e.g., IPS e.max) is the gold standard for esthetics and durability. It costs more but delivers superior results. Cheaper ceramics look okay but might have less natural translucency or durability.
+**Material type**: Lithium disilicate (e.g., IPS e.max) is the gold standard for esthetics and durability. Learning more about [cosmetic longevity](/article/cosmetic-longevity.html) can help you understand this better. It costs more but delivers superior results. Cheaper ceramics look okay but might have less natural translucency or durability.
 
 **Thickness and fabrication**: Thinner, expertly-fabricated veneers look more natural. Thick, hastily-made veneers look synthetic and obvious. This requires skill and time, which costs more.
 
@@ -208,6 +208,8 @@ This consultation costs $150-$400 but prevents regret and remakes.
 ## Conclusion
 
 Smile enhancement costs range from $500 for whitening to $25,000 for comprehensive veneers. Treatment choice depends on your specific problems and budget. Phased approach spreads costs. Maintenance costs $300-$700 yearly. Financing makes even expensive options affordable. Talk to your dentist about what combination of treatments gives you the smile you want at a price you can handle.
+
+
 
 ## Related Articles You May Find Helpful
 

@@ -1,9 +1,9 @@
 ---
-title: Mouthguard Fit: Protection Effectiveness
+title: "Mouthguard Fit: Protection Effectiveness"
 slug: mouthguard-fit-protection-effectiveness
 category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: Achieve maximum facial and dental trauma protection through proper custom mouthguard fit, retention optimization, and evidence-based material selection for athletic performance.
+excerpt: "Achieve maximum facial and dental trauma protection through proper custom mouthguard fit, retention optimization, and evidence-based material."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -1,5 +1,5 @@
 ---
-title: Gum Contouring for Cosmetics: Reshaping Tissue for Enhanced Smile Design
+title: "Gum Contouring for Cosmetics: Reshaping Tissue for Enhanced"
 slug: gum-contouring-for-cosmetics-reshaping-tissue
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
@@ -39,7 +39,7 @@ Gum contouring reshapes your gums to enhance your smile design. Unlike treating 
 
 Cosmetic dentists have learned what makes a gum line esthetically pleasing:
 
-**Symmetry**: Both sides of your smile should mirror each other. If one side of your gum line is higher or shaped differently, even slightly, it throws off your whole smile.
+**Symmetry**: Both sides of your smile should mirror each other. Learning more about [bone grafting procedure what you need to know](/article/bone-grafting-procedure-what-you-need-to-know.html) can help you understand this better. If one side of your gum line is higher or shaped differently, even slightly, it throws off your whole smile.
 
 **Scalloping**: Your gum line should have gentle curves, like hills and valleys, following the shape of your teeth. A completely flat gum line looks unnatural.
 
@@ -172,6 +172,8 @@ Gum contouring reshapes your gums to create an ideal frame for your smile. By cr
 ## Key Takeaway
 
 Gum contouring reshapes your gum line to create ideal symmetry, proportion, and esthetics. Using lasers or surgical techniques, your cosmetic dentist can lengthen teeth, create even contours, and frame your smile beautifully. Results are immediate and permanent, making gum contouring a powerful cosmetic tool.
+
+
 
 ## Related Articles
 

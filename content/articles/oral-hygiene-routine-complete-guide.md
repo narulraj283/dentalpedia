@@ -3,7 +3,7 @@ title: Oral Hygiene Routine Complete Guide - Master Brushing Techniques and Dail
 slug: oral-hygiene-routine-complete-guide
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based techniques for mechanical plaque removal including Bass technique, Stillman method, flossing strategies, and interdental aid selection with clinical outcomes.
+excerpt: "Evidence-based techniques for mechanical plaque removal including Bass technique, Stillman method, flossing strategies, and interdental aid selection."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

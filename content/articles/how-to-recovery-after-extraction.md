@@ -1,9 +1,9 @@
 ---
-title: Post-Extraction Recovery: Clinical Management and Healing Protocols
+title: "Post-Extraction Recovery: Clinical Management and Healing Protocols"
 slug: how-to-recovery-after-extraction
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Evidence-based recovery protocols following tooth extraction addressing hemostasis, clot stability, pain management, and complications including dry socket and infection prevention.
+excerpt: "Evidence-based recovery protocols following tooth extraction addressing hemostasis, clot stability, pain management, and complications including dry."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

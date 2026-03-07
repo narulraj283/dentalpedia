@@ -3,7 +3,7 @@ title: Risk and Concerns with Teeth Bleaching Safety
 slug: risk-and-concerns-with-teeth-bleaching-safety
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensive analysis of bleaching safety concerns including hydrogen peroxide concentration risks, pulpal inflammation, enamel effects, mucosal burns, and the dangers of over-the-counter bleaching products.
+excerpt: "Comprehensive analysis of bleaching safety concerns including hydrogen peroxide concentration risks, pulpal inflammation, enamel effects, mucosal."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Cosmetic Dentistry

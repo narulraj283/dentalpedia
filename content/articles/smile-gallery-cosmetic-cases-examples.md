@@ -1,9 +1,9 @@
 ---
-title: Smile Gallery: Cosmetic Cases and Examples
+title: "Smile Gallery: Cosmetic Cases and Examples"
 slug: smile-gallery-cosmetic-cases-examples
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Clinical case documentation through comprehensive before-and-after photography establishes professional credibility, enables patient education regarding treatment possibilities, and preserves medicolegal records; standardized photography protocols and informed consent processes ensure ethical, compliant case presentation.
+excerpt: "Clinical case documentation through comprehensive before-and-after photography establishes professional credibility, enables patient education."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry and Professional Standards

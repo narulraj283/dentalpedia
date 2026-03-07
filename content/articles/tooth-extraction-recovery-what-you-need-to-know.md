@@ -3,7 +3,7 @@ title: Tooth Extraction Recovery - What You Need to Know Day-by-Day
 slug: tooth-extraction-recovery-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Patient guide to extraction recovery with day-by-day expectations, pain management, diet guidance, activity restrictions, warning signs, and when to return to normal.
+excerpt: "Patient guide to extraction recovery with day-by-day expectations, pain management, diet guidance, activity restrictions, warning signs, and when to."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

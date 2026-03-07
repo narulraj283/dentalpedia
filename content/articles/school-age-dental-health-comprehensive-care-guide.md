@@ -3,7 +3,7 @@ title: School-Age Dental Health - Comprehensive Care Guide for Mixed Dentition
 slug: school-age-dental-health-comprehensive-care-guide
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Clinical overview of school-age oral health management, mixed dentition milestones, sealant timing and placement, sports guard fitting, caries prevention strategies, and prevention program implementation.
+excerpt: "Clinical overview of school-age oral health management, mixed dentition milestones, sealant timing and placement, sports guard fitting, caries."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Pediatric Dentistry

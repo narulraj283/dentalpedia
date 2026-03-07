@@ -3,7 +3,7 @@ title: How to Cosmetic Gum Shaping
 slug: how-to-cosmetic-gum-shaping
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Cosmetic gum contouring using electrocautery, laser, or scalpel techniques reduces excessive gingival display, creates symmetrical architecture, and optimizes smile aesthetics.
+excerpt: "If you see too much gum when you smile, cosmetic gum shaping can help. This procedure reduces excessive gum display to create a more balanced smile."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

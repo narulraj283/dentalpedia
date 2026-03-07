@@ -3,7 +3,7 @@ title: Overlay Restorations—Full Cuspal Coverage Indications and Clinical Prot
 slug: overlay-full-cuspal-coverage
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Overlay restorations provide full cuspal coverage with conservative tooth preparation, offering esthetic and protective benefits in selected clinical scenarios.
+excerpt: "Overlay restorations provide full cuspal coverage with conservative tooth preparation, offering esthetic and protective benefits in selected clinical."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Prosthodontics

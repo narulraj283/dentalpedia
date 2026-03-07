@@ -1,9 +1,9 @@
 ---
-title: Periodontal Disease and Tooth Loss Prevention: Evidence-Based Intervention Strategies
+title: "Periodontal Disease and Tooth Loss Prevention: Evidence-Based Intervention Strategies"
 slug: periodontal-disease-and-tooth-loss-prevention
 category: Periodontics
 category_slug: periodontics
-excerpt: Untreated periodontitis progressively destroys alveolar bone and periodontal attachment, leading to tooth mobility and loss; scaling, root planing, and surgical pocket reduction combined with compliance to maintenance protocols prevent tooth loss in 85-90% of patients.
+excerpt: "Untreated periodontitis progressively destroys alveolar bone and periodontal attachment, leading to tooth mobility and loss; scaling, root planing,."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Periodontics

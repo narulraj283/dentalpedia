@@ -3,7 +3,7 @@ title: "Immediate Denture: Esthetic and Functional Restoration on Extraction Day
 slug: immediate-denture-teeth-same-day-as-extraction
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Immediate dentures—prosthetic appliances fabricated before tooth extraction and inserted simultaneously with extraction—restore esthetics and function within hours of tooth loss. Careful treatment planning, accurate impressions of pre-extraction anatomy, and systematic adjustment protocols optimize clinical outcomes and patient acceptance during the critical transition period from natural to artificial dentition.
+excerpt: "Immediate dentures—prosthetic appliances fabricated before tooth extraction and inserted simultaneously with extraction—restore esthetics and."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

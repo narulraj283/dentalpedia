@@ -1,9 +1,9 @@
 ---
-title: Mouth Rinse Benefits: Complete Guide
+title: "Mouth Rinse Benefits: Complete Guide"
 slug: mouth-rinse-benefits-complete-guide
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Antimicrobial and therapeutic mouthrinses supplement mechanical cleaning by reducing oral pathogenic microorganisms and facilitating healing. Strategic selection based on active ingredients and clinical indication optimizes efficacy while minimizing adverse effects.
+excerpt: "Antimicrobial and therapeutic mouthrinses supplement mechanical cleaning by reducing oral pathogenic microorganisms and facilitating healing."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

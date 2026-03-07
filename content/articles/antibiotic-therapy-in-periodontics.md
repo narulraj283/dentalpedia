@@ -1,9 +1,9 @@
 ---
-title: Antibiotic Therapy in Periodontics: Evidence-Based Protocols for Aggressive and Refractory Disease
+title: "Antibiotic Therapy in Periodontics: Evidence-Based"
 slug: antibiotic-therapy-in-periodontics
 category: Periodontics
 category_slug: periodontics
-excerpt: Master systemic and local antibiotic delivery in periodontal therapy—from the amoxicillin-metronidazole gold standard to subantimicrobial doxycycline protocols, with clinical evidence, dosing, and resistance prevention.
+excerpt: "Regular deep cleaning works great for most gum disease patients. But sometimes your gums stay sick even after treatment."
 date: 2026-03-05
 read_time: 18 min
 reviewer_specialty: Periodontics
@@ -107,5 +107,5 @@ Your best defense is still daily brushing, flossing, and regular professional cl
 - [Alcohol and Periodontitis: Increased Risk](/article/alcohol-and-periodontitis-increased-risk.html)
 
 
-> **Key Takeaway:** Understanding antibiotic therapy in periodontics helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** Regular deep cleaning works great for most gum disease patients. Your dentist can help you understand what steps are right for your specific needs.
 

@@ -1,9 +1,9 @@
 ---
-title: "Herbal Mouthwashes: Clinical Evidence, Efficacy, and Comparison with Conventional Antiseptics"
+title: "Herbal Mouthwashes: Clinical Evidence, Efficacy, and"
 slug: herbal-mouthwashes-effectiveness-and-evidence
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based analysis of herbal rinse formulations, antimicrobial mechanisms, clinical outcomes, and systematic comparison with conventional chlorhexidine-based rinses.
+excerpt: "For thousands of years, people around the world have used plants to care for their teeth and gums."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

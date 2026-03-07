@@ -3,7 +3,7 @@ title: Sugar-Free Gum Effectiveness - Saliva Stimulation and Caries Prevention
 slug: sugar-free-gum-effectiveness-saliva-stimulation-benefits
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Xylitol mechanisms and dosing, saliva stimulation kinetics, buffering capacity enhancement, CPP-ACP gum evidence, caries reduction data, and ADA seal criteria for sugar-free gum.
+excerpt: "Xylitol mechanisms and dosing, saliva stimulation kinetics, buffering capacity enhancement, CPP-ACP gum evidence, caries reduction data, and ADA seal."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Preventive Dentistry

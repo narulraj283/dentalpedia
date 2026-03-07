@@ -1,5 +1,5 @@
 ---
-title: Implant Orthodontics: Anchoring to Implants
+title: "Implant Orthodontics: Anchoring to Implants"
 slug: implant-orthodontics-anchoring-to-implants
 category: Orthodontics
 category_slug: orthodontics

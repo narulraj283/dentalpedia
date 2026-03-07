@@ -1,9 +1,9 @@
 ---
-title: Toothpaste for Children: Age-Appropriate Fluoride Concentrations and Safety
+title: "Toothpaste for Children: Age-Appropriate Fluoride Concentrations and Safety"
 slug: toothpaste-for-children-age-appropriate-fluoride
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Clinical guidance on pediatric toothpaste selection by age, fluoride concentrations, swallowing risk, flavor considerations, and prescription formulations for high-risk children.
+excerpt: "Clinical guidance on pediatric toothpaste selection by age, fluoride concentrations, swallowing risk, flavor considerations, and prescription."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Pediatric Dentistry

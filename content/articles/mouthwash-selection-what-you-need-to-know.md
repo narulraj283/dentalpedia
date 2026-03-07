@@ -1,9 +1,9 @@
 ---
-title: Mouthwash Selection: What You Need to Know
+title: "Mouthwash Selection: What You Need to Know"
 slug: mouthwash-selection-what-you-need-to-know
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Master mouthwash selection by evaluating active ingredients, therapeutic claims, and clinical evidence to optimize your daily oral hygiene routine with products matching your specific needs.
+excerpt: "Master mouthwash selection by evaluating active ingredients, therapeutic claims, and clinical evidence to optimize your daily oral hygiene routine."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

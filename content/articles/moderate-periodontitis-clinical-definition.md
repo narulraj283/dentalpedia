@@ -1,11 +1,11 @@
 ---
-title: Moderate Periodontitis: Clinical Definition
+title: "Moderate Periodontitis: Clinical Definition"
 slug: moderate-periodontitis-clinical-definition
 category: Periodontics
 category_slug: periodontics
 subcategory: Periodontal Overview
 subcategory_slug: overview-perio
-excerpt: Moderate periodontitis represents clinically significant periodontal disease characterized by measurable alveolar bone loss, increased probing depths, and gingival inflammation—a critical juncture where intervention profoundly influences long-term periodontal prognosis.
+excerpt: "Moderate periodontitis represents clinically significant periodontal disease characterized by measurable alveolar bone loss, increased probing."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

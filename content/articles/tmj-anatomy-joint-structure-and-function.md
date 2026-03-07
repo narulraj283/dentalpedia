@@ -1,9 +1,9 @@
 ---
-title: Temporomandibular Joint Anatomy: Structure, Ligaments, and Biomechanics
+title: "Temporomandibular Joint Anatomy: Structure, Ligaments, and Biomechanics"
 slug: tmj-anatomy-joint-structure-and-function
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: TMJ anatomy comprises mandibular condyle, temporal fossa, fibrocartilage disc, and supporting ligaments, with joint biomechanics featuring rotation and translation movements enabling complex mandibular function.
+excerpt: "TMJ anatomy comprises mandibular condyle, temporal fossa, fibrocartilage disc, and supporting ligaments, with joint biomechanics featuring rotation."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: General Dentistry

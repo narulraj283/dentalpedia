@@ -3,7 +3,7 @@ title: Why Infection Prevention Matters in Dental Practice
 slug: why-infection-prevention-matters
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Infection control protocols prevent cross-contamination, ensure patient safety, maintain regulatory compliance, and reduce disease transmission risks in dental settings.
+excerpt: "Infection control protocols prevent cross-contamination, ensure patient safety, maintain regulatory compliance, and reduce disease transmission risks."
 date: 2026-03-05
 read_time: 14 min
 reviewer_specialty: Dental Public Health and Infection Control

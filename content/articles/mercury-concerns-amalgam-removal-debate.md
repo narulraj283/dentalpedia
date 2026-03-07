@@ -1,5 +1,5 @@
 ---
-title: Mercury Concerns: Amalgam Removal Debate
+title: "Mercury Concerns: Amalgam Removal Debate"
 slug: mercury-concerns-amalgam-removal-debate
 category: General Dentistry
 category_slug: general-dentistry

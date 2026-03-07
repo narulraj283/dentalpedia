@@ -3,7 +3,7 @@ title: Planning Risks in Comprehensive Smile Makeover Cases
 slug: risk-and-concerns-with-smile-makeover-planning
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensive analysis of makeover planning pitfalls, cost escalation trajectories, treatment sequencing errors, temporary restoration challenges, and laboratory communication failures.
+excerpt: "Comprehensive analysis of makeover planning pitfalls, cost escalation trajectories, treatment sequencing errors, temporary restoration challenges,."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

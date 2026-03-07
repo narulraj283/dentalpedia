@@ -49,7 +49,7 @@ These products don't solve the problem completely—they just help manage sympto
 
 ## Saliva-Stimulating Medications
 
-If you produce some saliva, pilocarpine tablets can stimulate more production. They cost $0.50-$1.00 per tablet, and you take them three times daily ($45-$90 monthly). About 40-50% of people see improvement.
+If you produce some saliva, pilocarpine tablets can stimulate more production. Learning more about [medications dry mouth](/article/medications-dry-mouth.html) can help you understand this better. They cost $0.50-$1.00 per tablet, and you take them three times daily ($45-$90 monthly). About 40-50% of people see improvement.
 
 Cevimeline is a newer option costing $0.75-$1.50 per capsule ($65-$135 monthly) with potentially fewer side effects.
 
@@ -140,7 +140,7 @@ Not everyone who thinks they have dry mouth actually does. Some people have subj
 
 Your dentist does two tests:
 
-**Unstimulated saliva flow test**: You sit quietly for 5 minutes, and saliva is collected. Less than 0.3 mL per minute indicates hypofunction (dry mouth).
+**Unstimulated saliva flow test**: You sit quietly for 5 minutes, and saliva is collected. Learning more about [dry mouth home care](/article/dry-mouth-home-care.html) can help you understand this better. Less than 0.3 mL per minute indicates hypofunction (dry mouth).
 
 **Stimulated saliva flow test**: You chew gum or suck on lemon while saliva is collected over 5 minutes. Normal is above 1.0 mL per minute. Lower indicates impaired response to stimulation.
 
@@ -207,6 +207,8 @@ Dental insurance might cover enhanced preventive care (fluoride applications, fr
 ## Conclusion
 
 Dry mouth affects 10-15% of people and requires lifelong management costing $1,800-$4,700 yearly if managed well. Untreated, it costs $10,500-$33,000 in treatment of preventable problems. Early detection through testing ($25-$50) and proper management—including saliva replacement ($600-$2,400 yearly), protective treatments ($500-$1,200 yearly), and professional monitoring—prevents serious complications. Talk to your dentist if you have dry mouth symptoms. Early intervention saves thousands in future treatment.
+
+
 
 ## Related Articles You May Find Helpful
 

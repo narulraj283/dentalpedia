@@ -3,7 +3,7 @@ title: Ultrasonic Scaling Effectiveness in Calculus Removal and Periodontal Trea
 slug: ultrasonic-scaling-vibration-removes-calculus
 category: Periodontics
 category_slug: periodontics
-excerpt: Ultrasonic scaling demonstrates superior efficiency in removing calculus compared to hand instruments, with excellent subgingival access, bactericidal effects, and enhanced patient comfort.
+excerpt: "Ultrasonic scaling demonstrates superior efficiency in removing calculus compared to hand instruments, with excellent subgingival access,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontology

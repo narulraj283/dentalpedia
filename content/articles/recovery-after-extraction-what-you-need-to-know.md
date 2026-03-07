@@ -3,7 +3,7 @@ title: Recovery After Tooth Extraction—What You Need to Know
 slug: recovery-after-extraction-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Patient-focused guide to extraction recovery covering day-by-day expectations, pain management strategies, dietary progression, oral hygiene protocols, and warning signs requiring immediate attention.
+excerpt: "Patient-focused guide to extraction recovery covering day-by-day expectations, pain management strategies, dietary progression, oral hygiene."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Oral and Maxillofacial Surgery

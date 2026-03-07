@@ -3,7 +3,7 @@ title: Water vs. Other Beverages for Teeth
 slug: water-best-beverage-for-teeth
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Water maintains neutral pH and contains no sugars or erosive acids, making it fundamentally superior to sodas (pH 2.5), juices (pH 3.5), and sports drinks for long-term dental health.
+excerpt: "Water maintains neutral pH and contains no sugars or erosive acids, making it fundamentally superior to sodas (pH 2.5), juices (pH 3.5), and sports."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

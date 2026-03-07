@@ -3,7 +3,7 @@ title: Risk and Concerns with Wisdom Teeth Extraction
 slug: risk-and-concerns-with-wisdom-teeth-extraction
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive analysis of third molar extraction risks including inferior alveolar nerve injury, lingual nerve damage, dry socket, maxillary sinus communication, jaw fracture, and infection.
+excerpt: "Comprehensive analysis of third molar extraction risks including inferior alveolar nerve injury, lingual nerve damage, dry socket, maxillary sinus."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

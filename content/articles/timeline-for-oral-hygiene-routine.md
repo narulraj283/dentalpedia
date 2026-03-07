@@ -1,9 +1,9 @@
 ---
-title: Timeline for Oral Hygiene Routine: Optimal Sequence and Evidence-Based Frequency Recommendations
+title: "Timeline for Oral Hygiene Routine: Optimal Sequence and Evidence-Based Frequency Recommendations"
 slug: timeline-for-oral-hygiene-routine
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Comprehensive guide to mechanically and chemically optimal oral hygiene sequencing, timing of interventions, and duration requirements for achieving maximal plaque removal.
+excerpt: "Comprehensive guide to mechanically and chemically optimal oral hygiene sequencing, timing of interventions, and duration requirements for achieving."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

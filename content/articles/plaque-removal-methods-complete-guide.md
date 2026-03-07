@@ -3,7 +3,7 @@ title: Plaque Removal Methods Complete Guide
 slug: plaque-removal-methods-complete-guide
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Comprehensive plaque control requires mechanical removal combined with optional chemotherapeutic agents, employing multiple interdental aids beyond brushing to achieve supragingival and subgingival biofilm disruption.
+excerpt: "Comprehensive plaque control requires mechanical removal combined with optional chemotherapeutic agents, employing multiple interdental aids beyond."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

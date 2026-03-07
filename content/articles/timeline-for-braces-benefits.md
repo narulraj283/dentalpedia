@@ -3,7 +3,7 @@ title: Timeline for Braces Benefits and Treatment Progression
 slug: timeline-for-braces-benefits
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Orthodontic treatment benefits manifest through predictable stages over 18-36 months, with visible alignment improvements evident within weeks and bite correction progressing throughout treatment.
+excerpt: "Orthodontic treatment benefits manifest through predictable stages over 18-36 months, with visible alignment improvements evident within weeks and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontics

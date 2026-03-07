@@ -3,7 +3,7 @@ title: Why Teeth Movement Process Matters
 slug: why-teeth-movement-process-matters
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Understanding the biological mechanisms of orthodontic tooth movement, including force application principles, periodontal remodeling, and evidence-based appliance systems.
+excerpt: "Understanding the biological mechanisms of orthodontic tooth movement, including force application principles, periodontal remodeling, and."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Orthodontics

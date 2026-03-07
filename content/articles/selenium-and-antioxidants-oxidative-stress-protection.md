@@ -3,7 +3,7 @@ title: Selenium and Antioxidants - Oxidative Stress Protection in Periodontal He
 slug: selenium-and-antioxidants-oxidative-stress-protection
 category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: Selenium functions as a critical antioxidant cofactor through glutathione peroxidase activity, protecting periodontal tissues from oxidative stress and inflammatory damage.
+excerpt: "Selenium functions as a critical antioxidant cofactor through glutathione peroxidase activity, protecting periodontal tissues from oxidative stress."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Dental Nutrition

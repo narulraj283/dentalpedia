@@ -3,7 +3,7 @@ title: Post-Traumatic Stress and Dentistry - Trauma-Informed Care and Recovery
 slug: post-traumatic-stress-and-dentistry
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: PTSD-related dental care avoidance mechanisms, trauma-informed clinical principles, trigger management strategies, graded exposure therapy, and provider communication frameworks.
+excerpt: "PTSD-related dental care avoidance mechanisms, trauma-informed clinical principles, trigger management strategies, graded exposure therapy, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

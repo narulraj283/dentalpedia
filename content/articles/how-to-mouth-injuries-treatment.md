@@ -1,5 +1,5 @@
 ---
-title: Mouth Injuries Treatment: First Aid and Recovery
+title: "Mouth Injuries Treatment: First Aid and Recovery"
 slug: how-to-mouth-injuries-treatment
 category: General Dentistry
 category_slug: general-dentistry
@@ -25,7 +25,7 @@ A tooth knocked loose, a split lip, or gum damage from sports or accidents needs
 
 ## Knocked-Out Tooth (Avulsion)
 
-**Immediate action:** Time is critical. The tooth is most likely to survive if replanted within 15 minutes, though it's worth trying up to 2 hours.
+**Immediate action:** Time is critical. Learning more about [best practices for cavity diagnosis process](/article/best-practices-for-cavity-diagnosis-process.html) can help you understand this better. The tooth is most likely to survive if replanted within 15 minutes, though it's worth trying up to 2 hours.
 
 1. Find the tooth
 2. Rinse it gently with saline or milk (NOT tap water)
@@ -51,7 +51,7 @@ If a tooth is pushed up into the gum, don't try to push it back out yourself. Se
 
 ## Soft Tissue Injuries
 
-**Bitten lip or cheek:** Apply ice to reduce swelling and bleeding. If bleeding continues for more than 15 minutes or the wound is very deep, see an ER or urgent care.
+**Bitten lip or cheek:** Apply ice to reduce swelling and bleeding. Learning more about [benefits of tooth color changes](/article/benefits-of-tooth-color-changes.html) can help you understand this better. If bleeding continues for more than 15 minutes or the wound is very deep, see an ER or urgent care.
 
 **Cut gum:** Rinse gently with salt water. Apply pressure with a clean cloth if bleeding continues. Most gum cuts heal quickly. If they don't stop bleeding or are very deep, see your dentist.
 
@@ -123,6 +123,8 @@ Oral injuries need prompt evaluation. For knocked-out teeth, speed is criticalâ€
 ## Key Takeaway
 
 Knocked-out teeth have best success if replanted within 15 minutes. For other injuries: ice, soft foods, salt water rinses, and prompt dental evaluation. See your dentist today for any traumatic injury.
+
+
 
 ## Related Articles
 

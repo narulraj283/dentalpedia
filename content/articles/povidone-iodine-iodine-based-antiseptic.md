@@ -3,7 +3,7 @@ title: Povidone-Iodine in Dentistry - Evidence-Based Antimicrobial Protocols
 slug: povidone-iodine-iodine-based-antiseptic
 category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: Povidone-iodine provides rapid antimicrobial action across bacterial, viral, and fungal pathogens with clinically validated concentrations and minimal oral tissue toxicity when used appropriately.
+excerpt: "Povidone-iodine provides rapid antimicrobial action across bacterial, viral, and fungal pathogens with clinically validated concentrations and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontics

@@ -1,9 +1,9 @@
 ---
-title: Severe Gum Bleeding: Assessment, Emergency Warning Signs, and When to Seek Immediate Care
+title: "Severe Gum Bleeding: Assessment, Emergency Warning Signs, and When to Seek Immediate Care"
 slug: severe-gum-bleeding-when-to-seek-help
 category: Periodontics
 category_slug: periodontics
-excerpt: Spontaneous or severe gingival bleeding indicates potential underlying systemic disease including coagulopathy, leukemia, or medication effects requiring urgent medical evaluation beyond routine dental management.
+excerpt: "Spontaneous or severe gingival bleeding indicates potential underlying systemic disease including coagulopathy, leukemia, or medication effects."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Periodontist

@@ -1,9 +1,9 @@
 ---
-title: Overbleaching: Excessive Whitening and Enamel Damage
+title: "Overbleaching: Excessive Whitening and Enamel Damage"
 slug: overbleaching-excessive-whitening-damage
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Understand enamel microhardness changes, dentin sensitivity mechanisms, hydrogen peroxide concentration limits, recovery protocols, and safe whitening guidelines.
+excerpt: "Understand enamel microhardness changes, dentin sensitivity mechanisms, hydrogen peroxide concentration limits, recovery protocols, and safe."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentist

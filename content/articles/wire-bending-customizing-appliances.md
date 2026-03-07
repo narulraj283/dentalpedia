@@ -1,5 +1,5 @@
 ---
-title: Wire Bending: Customizing Appliances
+title: "Wire Bending: Customizing Appliances"
 slug: wire-bending-customizing-appliances
 category: Orthodontics
 category_slug: orthodontics

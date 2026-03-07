@@ -3,7 +3,7 @@ title: Whitening Gel Concentration and Strength Levels
 slug: whitening-gel-concentration-strength-levels
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Whitening gels range from carbamide peroxide 10-22% (at-home) to hydrogen peroxide 35-40% (in-office), with concentration directly correlating to whitening efficacy and sensitivity risk.
+excerpt: "Whitening gels range from carbamide peroxide 10-22% (at-home) to hydrogen peroxide 35-40% (in-office), with concentration directly correlating to."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

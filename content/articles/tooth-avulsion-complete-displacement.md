@@ -1,9 +1,9 @@
 ---
-title: Tooth Avulsion (Complete Displacement): Management Guidelines and Replantation Outcomes
+title: "Tooth Avulsion (Complete Displacement): Management Guidelines and Replantation Outcomes"
 slug: tooth-avulsion-complete-displacement
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Evidence-based clinical guide to emergency management of avulsed teeth, including IADT guidelines, handling protocols, storage media options, replantation technique, splinting duration, endodontic considerations, and prognostic factors.
+excerpt: "Evidence-based clinical guide to emergency management of avulsed teeth, including IADT guidelines, handling protocols, storage media options,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Endodontics and Traumatic Dental Injury

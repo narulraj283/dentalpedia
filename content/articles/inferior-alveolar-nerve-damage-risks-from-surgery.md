@@ -1,9 +1,9 @@
 ---
-title: Inferior Alveolar Nerve: Damage Risks from Surgery
+title: "Inferior Alveolar Nerve: Damage Risks from Surgery"
 slug: inferior-alveolar-nerve-damage-risks-from-surgery
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive overview of inferior alveolar nerve anatomy, injury mechanisms, risk stratification, neurosensory assessment protocols, and microsurgical management of traumatic nerve injuries during dentoalveolar and implant procedures.
+excerpt: "Comprehensive overview of inferior alveolar nerve anatomy, injury mechanisms, risk stratification, neurosensory assessment protocols, and."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

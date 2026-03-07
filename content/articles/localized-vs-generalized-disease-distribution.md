@@ -3,7 +3,7 @@ title: Localized vs Generalized Disease Distribution in Periodontitis
 slug: localized-vs-generalized-disease-distribution
 category: Periodontics
 category_slug: periodontics
-excerpt: Understanding the clinical, microbiological, and treatment implications of localized versus generalized periodontitis, including disease classification, pathogenic mechanisms, and differential management strategies.
+excerpt: "Understanding the clinical, microbiological, and treatment implications of localized versus generalized periodontitis, including disease."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

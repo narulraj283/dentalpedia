@@ -3,7 +3,7 @@ title: Maintaining Oral Hygiene with Braces
 slug: maintaining-oral-hygiene-with-braces
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive evidence-based strategies for optimal plaque control during fixed appliance therapy, including interdental cleaning protocols, specialized instrumentation, dietary modifications, and clinical outcomes of superior versus suboptimal hygiene maintenance.
+excerpt: "Comprehensive evidence-based strategies for optimal plaque control during fixed appliance therapy, including interdental cleaning protocols,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

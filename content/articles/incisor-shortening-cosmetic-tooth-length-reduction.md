@@ -1,9 +1,9 @@
 ---
-title: Incisor Shortening: Cosmetic Tooth Length Reduction
+title: "Incisor Shortening: Cosmetic Tooth Length Reduction"
 slug: incisor-shortening-cosmetic-tooth-length-reduction
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensive overview of incisor shortening techniques including incisal grinding, gingival augmentation, and combined periodontal-restorative approaches for correcting oversized anterior teeth and excessive gingival display.
+excerpt: "Comprehensive overview of incisor shortening techniques including incisal grinding, gingival augmentation, and combined periodontal-restorative."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -1,9 +1,9 @@
 ---
-title: Oral Surgical Success Rates: Evidence-Based Outcome Data and Patient Factors Affecting Clinical Outcomes
+title: "Oral Surgical Success Rates: Evidence-Based Outcome Data and Patient Factors Affecting Clinical Outcomes"
 slug: timeline-for-surgical-success-rates
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Oral surgical procedures demonstrate high success rates with proper technique and patient optimization—understanding outcome data and patient factors enables clinicians to set realistic expectations and identify factors improving outcomes.
+excerpt: "Oral surgical procedures demonstrate high success rates with proper technique and patient optimization—understanding outcome data and patient factors."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

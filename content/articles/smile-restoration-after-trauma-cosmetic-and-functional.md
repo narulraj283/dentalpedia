@@ -3,7 +3,7 @@ title: Smile Restoration After Trauma - Cosmetic and Functional Rehabilitation
 slug: smile-restoration-after-trauma-cosmetic-and-functional
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Post-trauma esthetic rehabilitation including fractured anterior teeth, avulsion repair, discoloration management, and integrated orthodontic-restorative treatment approaches.
+excerpt: "Post-trauma esthetic rehabilitation including fractured anterior teeth, avulsion repair, discoloration management, and integrated."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

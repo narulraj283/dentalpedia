@@ -3,7 +3,7 @@ title: Pathogenic Bacteria—Key Players in the Development of Gum Disease
 slug: pathogenic-bacteria-key-players-in-gum-disease
 category: Periodontics
 category_slug: periodontics
-excerpt: Explore the role of specific pathogenic bacteria in periodontal disease pathogenesis, their virulence mechanisms, and their clinical implications for diagnosis and treatment.
+excerpt: "Explore the role of specific pathogenic bacteria in periodontal disease pathogenesis, their virulence mechanisms, and their clinical implications for."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Periodontics

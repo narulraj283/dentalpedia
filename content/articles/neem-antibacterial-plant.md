@@ -1,9 +1,9 @@
 ---
-title: Neem as an Antibacterial Agent: Clinical Evidence and Oral Applications
+title: "Neem as an Antibacterial Agent: Clinical Evidence and Oral Applications"
 slug: neem-antibacterial-plant
 category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: Comprehensive review of Azadirachta indica (neem) antimicrobial compounds, nimbidin and azadirachtin mechanisms, in-vitro antibacterial evidence, neem bark extract applications, and limitations of contemporary research.
+excerpt: "Comprehensive review of Azadirachta indica (neem) antimicrobial compounds, nimbidin and azadirachtin mechanisms, in-vitro antibacterial evidence,."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

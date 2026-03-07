@@ -3,7 +3,7 @@ title: Interpreting Surgical Success Rates and Realistic Outcome Expectations
 slug: risk-and-concerns-with-surgical-success-rates
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Analysis of success rate interpretation variability, surgeon experience effects, case complexity influences, patient compliance impact, comorbidity role, and realistic expectation management.
+excerpt: "Analysis of success rate interpretation variability, surgeon experience effects, case complexity influences, patient compliance impact, comorbidity."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

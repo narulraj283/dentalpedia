@@ -3,7 +3,7 @@ title: Tenacious Calculus Removal and Advanced Instrumentation Strategies
 slug: tenacious-calculus-firmly-attached-deposits
 category: Periodontics
 category_slug: periodontics
-excerpt: Tenacious calculus attachment mechanisms, ultrasonic versus hand instrumentation, magnetostrictive versus piezoelectric technologies, tip selection criteria, and root surface debridement endpoints.
+excerpt: "Tenacious calculus attachment mechanisms, ultrasonic versus hand instrumentation, magnetostrictive versus piezoelectric technologies, tip selection."
 date: 2026-03-05
 read_time: 14 min
 reviewer_specialty: Periodontics

@@ -3,7 +3,7 @@ title: Iron for Healthy Gums - Nutritional Support for Periodontal Health
 slug: iron-for-healthy-gums
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Iron plays essential biochemical roles in maintaining healthy gingival tissues and supporting periodontium function. Understanding the connection between iron nutrition and periodontal health enables comprehensive oral health management.
+excerpt: "Iron plays essential biochemical roles in maintaining healthy gingival tissues and supporting periodontium function."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

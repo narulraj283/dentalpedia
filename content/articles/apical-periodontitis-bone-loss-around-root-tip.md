@@ -1,9 +1,9 @@
 ---
-title: Apical Periodontitis: Understanding Bone Loss and Periapical Inflammation
+title: "Apical Periodontitis: Understanding Bone Loss and"
 slug: apical-periodontitis-bone-loss-around-root-tip
 category: Endodontics
 category_slug: endodontics
-excerpt: Comprehensive guide to periapical pathology—acute versus chronic forms, PAI scoring systems, CBCT sensitivity advantages, differential diagnosis challenges, RCT success rates (85-97%), and surgical retreatment protocols.
+excerpt: "When a tooth's nerve dies, bacteria colonize the inside of the tooth and release toxins through the root tip opening."
 date: 2026-03-05
 read_time: 18 min
 reviewer_specialty: Endodontics
@@ -137,5 +137,5 @@ Success requires both excellent root canal sealing AND excellent crown sealing. 
 - [Calcified Canals: Root Canal Obstruction and Pulpal Canal Space Management](/article/calcified-canals-root-canal-obstruction.html)
 
 
-> **Key Takeaway:** Understanding apical periodontitis helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** When a tooth's nerve dies, bacteria colonize the inside of the tooth and release toxins through the root tip opening. Your dentist can help you understand what steps are right for your specific needs.
 

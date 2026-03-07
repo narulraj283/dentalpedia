@@ -3,7 +3,7 @@ title: "Risk and Concerns with Daily Teeth Cleaning: Avoiding Abrasion, Recessio
 slug: risk-and-concerns-with-daily-teeth-cleaning
 category: Preventive Care
 category_slug: preventive-care
-excerpt: "Understanding the risks of tooth abrasion from over-brushing, selecting appropriate toothbrush bristles, identifying flossing technique errors, and preventing gingival recession through proper daily oral hygiene methods."
+excerpt: "Understanding the risks of tooth abrasion from over-brushing, selecting appropriate toothbrush bristles, identifying flossing technique errors, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Preventive Dentistry

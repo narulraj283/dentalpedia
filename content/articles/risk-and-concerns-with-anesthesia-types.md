@@ -3,7 +3,7 @@ title: Anesthesia Spectrum - From Local to General Anesthesia, Sedation Risks an
 slug: risk-and-concerns-with-anesthesia-types
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Dental anesthesia ranges from local to general anesthesia with conscious sedation between; conscious sedation carries airway obstruction, hypoxemia, and hypotension risks requiring ASA classification.
+excerpt: "Dental anesthesia ranges from local to general anesthesia with conscious sedation between; conscious sedation carries airway obstruction, hypoxemia,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Anesthesiologist

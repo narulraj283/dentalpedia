@@ -1,9 +1,9 @@
 ---
-title: Lip Tie: Comprehensive Impact on Infant and Child Development
+title: "Lip Tie: Comprehensive Impact on Infant and Child Development"
 slug: lip-tie-impact-on-feeding-and-development
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Restrictive labial frenum affects not only infant feeding but also oral motor development, speech acquisition, and dental development, with cascading impacts throughout childhood development.
+excerpt: "Restrictive labial frenum affects not only infant feeding but also oral motor development, speech acquisition, and dental development, with cascading."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Pediatric Dentistry

@@ -1,11 +1,11 @@
 ---
-title: Mobility and Migration: Tooth Movement Patterns
+title: "Mobility and Migration: Tooth Movement Patterns"
 slug: mobility-and-migration-tooth-movement-patterns
 category: Periodontics
 category_slug: periodontics
 subcategory: Periodontal Overview
 subcategory_slug: overview-perio
-excerpt: Tooth mobility and pathological migration represent clinical manifestations of advanced periodontal disease characterized by progressive alveolar bone loss and periodontal ligament destruction—cardinal signs warranting comprehensive periodontal reassessment and treatment modification.
+excerpt: "Tooth mobility and pathological migration represent clinical manifestations of advanced periodontal disease characterized by progressive alveolar."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

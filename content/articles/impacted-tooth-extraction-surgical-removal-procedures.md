@@ -1,9 +1,9 @@
 ---
-title: Impacted Tooth Extraction: Surgical Removal Procedures
+title: "Impacted Tooth Extraction: Surgical Removal Procedures"
 slug: impacted-tooth-extraction-surgical-removal-procedures
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive guide to surgical extraction of impacted teeth, including classification systems, assessment protocols, and evidence-based surgical techniques for wisdom teeth and retained teeth.
+excerpt: "Comprehensive guide to surgical extraction of impacted teeth, including classification systems, assessment protocols, and evidence-based surgical."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

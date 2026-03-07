@@ -3,7 +3,7 @@ title: Long-Term Veneer Success and Evidence-Based Longevity Protocols
 slug: veneer-durability-long-term-success
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Long-term veneer success requires evidence-based survival rates, prognostic factor management, structured maintenance protocols, and strategic debonding/replacement decisions.
+excerpt: "Long-term veneer success requires evidence-based survival rates, prognostic factor management, structured maintenance protocols, and strategic."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontics

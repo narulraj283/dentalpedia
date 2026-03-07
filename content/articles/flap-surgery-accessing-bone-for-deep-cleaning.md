@@ -1,5 +1,5 @@
 ---
-title: Flap Surgery: Accessing Bone for Deep Cleaning
+title: "Flap Surgery: Accessing Bone for Deep Cleaning"
 slug: flap-surgery-accessing-bone-for-deep-cleaning
 category: Periodontics
 category_slug: periodontics
@@ -35,7 +35,7 @@ The decision to do flap surgery depends on several factors: how deep your pocket
 
 ## How Your Dentist Performs the Procedure
 
-There are different types of flap surgery, but they all follow a similar pattern. Your dentist makes a small cut along your gum line and carefully lifts the tissue back, like a flap. This exposes the tooth roots and underlying bone. Once everything is visible, your dentist thoroughly removes the bacteria, calculus, and damaged tissue. They might also reshape the bone if needed to help your gums fit better around your teeth.
+There are different types of flap surgery, but they all follow a similar pattern. Learning more about [timeline for gum disease stages](/article/timeline-for-gum-disease-stages.html) can help you understand this better. Your dentist makes a small cut along your gum line and carefully lifts the tissue back, like a flap. This exposes the tooth roots and underlying bone. Once everything is visible, your dentist thoroughly removes the bacteria, calculus, and damaged tissue. They might also reshape the bone if needed to help your gums fit better around your teeth.
 
 Some dentists use a technique called the Modified Widman flap, which preserves as much healthy tissue as possible. Others might use microsurgical techniques with special magnifying glasses and tiny instruments to cause even less trauma to your tissues. After cleaning everything thoroughly, your dentist gently places the flap back and closes it with fine stitches.
 
@@ -47,7 +47,7 @@ Bone grafting materials can also be used. These might come from your own bone (t
 
 ## What Happens After Your Surgery
 
-After flap surgery, you'll need to care for your mouth gently. Your dentist will give you specific instructions about eating soft foods, taking prescribed medications, and how to keep the area clean without disturbing the stitches. Most people experience mild discomfort rather than severe pain—especially if the surgeon used gentle microsurgical techniques.
+After flap surgery, you'll need to care for your mouth gently. Learning more about [sonic scaler oscillating frequency](/article/sonic-scaler-oscillating-frequency.html) can help you understand this better. Your dentist will give you specific instructions about eating soft foods, taking prescribed medications, and how to keep the area clean without disturbing the stitches. Most people experience mild discomfort rather than severe pain—especially if the surgeon used gentle microsurgical techniques.
 
 Your gums will go through predictable healing stages. The first two weeks involve inflammation as your body fights any remaining bacteria. Weeks three and four bring new tissue growth, and the healing process continues for up to a year as the bone and gum tissue mature. You'll have a follow-up appointment to remove your stitches, usually within one to two weeks.
 
@@ -80,6 +80,8 @@ In rare cases, gum disease can return if you don't maintain excellent oral hygie
 Flap surgery gives your dentist access to deep areas where disease hides, allowing thorough cleaning and assessment of bone damage. While it might sound intimidating, many patients find it's actually a positive turning point in controlling their gum disease. The procedure opens the door to healing, but you're the one who has to walk through it by maintaining excellent home care and keeping your follow-up appointments.
 
 Talk to your dentist about whether flap surgery is right for you and what you can realistically expect from the procedure. Understanding the process helps you prepare mentally and emotionally for what's ahead.
+
+
 
 ## Related Articles You May Find Helpful
 

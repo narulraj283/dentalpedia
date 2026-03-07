@@ -1,9 +1,9 @@
 ---
-title: Lingual Braces: Discreet Fixed Appliance Orthodontics
+title: "Lingual Braces: Discreet Fixed Appliance Orthodontics"
 slug: lingual-braces-hidden-behind-the-teeth-alignment
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Lingual braces are fixed orthodontic appliances bonded to the palatal and lingual tooth surfaces, providing completely discreet alignment correction with advanced bracket systems and customized wire mechanics.
+excerpt: "Lingual braces are fixed orthodontic appliances bonded to the palatal and lingual tooth surfaces, providing completely discreet alignment correction."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

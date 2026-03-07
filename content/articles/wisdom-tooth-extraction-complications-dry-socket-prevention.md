@@ -1,5 +1,5 @@
 ---
-title: After Wisdom Tooth Extraction: Your Complete Dry Socket Prevention Guide
+title: "After Wisdom Tooth Extraction: Your Complete Dry Socket Prevention Guide"
 slug: wisdom-tooth-extraction-complications-dry-socket-prevention
 category: Oral Surgery
 category_slug: oral-surgery

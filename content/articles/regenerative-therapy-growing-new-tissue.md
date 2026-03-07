@@ -3,7 +3,7 @@ title: Regenerative Therapy and Growing New Periodontal Tissue
 slug: regenerative-therapy-growing-new-tissue
 category: Periodontics
 category_slug: periodontics
-excerpt: Periodontal regeneration principles employ guided tissue regeneration, enamel matrix proteins, growth factors, and scaffold-based approaches to stimulate formation of new cementum, periodontal ligament, and alveolar bone.
+excerpt: "Periodontal regeneration principles employ guided tissue regeneration, enamel matrix proteins, growth factors, and scaffold-based approaches to."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontics

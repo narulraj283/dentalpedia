@@ -3,7 +3,7 @@ title: Scaling Instrumentation Techniques - Hand Curettes, Ultrasonic Tips, and 
 slug: scaling-technique-instrumentation-methods
 category: Periodontics
 category_slug: periodontics
-excerpt: Detailed clinical guide to scaling instrument selection, Gracey curette applications, universal scalers, ultrasonic instrumentation, stroke mechanics, tissue management, and ergonomic practices for clinician health.
+excerpt: "Detailed clinical guide to scaling instrument selection, Gracey curette applications, universal scalers, ultrasonic instrumentation, stroke."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontics

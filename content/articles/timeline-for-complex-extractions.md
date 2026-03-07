@@ -1,9 +1,9 @@
 ---
-title: Complex Tooth Extraction Timeline: Surgical Planning, Bone Removal, Healing Phases, and Dry Socket Prevention
+title: "Complex Tooth Extraction Timeline: Surgical Planning, Bone Removal, Healing Phases, and Dry Socket Prevention"
 slug: timeline-for-complex-extractions
 category: Oral and Maxillofacial Surgery
 category_slug: oral-surgery
-excerpt: Complex extractions spanning weeks to months involve comprehensive pre-operative assessment, bone removal technique, multi-phase healing, and heightened monitoring for alveolar osteitis.
+excerpt: "Complex extractions spanning weeks to months involve comprehensive pre-operative assessment, bone removal technique, multi-phase healing, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

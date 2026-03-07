@@ -1,9 +1,9 @@
 ---
-title: Self-Ligating Braces: Reduced Friction and Improved Orthodontic Efficiency
+title: "Self-Ligating Braces: Reduced Friction and Improved Orthodontic Efficiency"
 slug: self-ligating-braces-reduced-friction-and-efficiency
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Self-ligating braces significantly reduce friction during tooth movement through innovative bracket design, enabling faster treatment times and improved patient comfort.
+excerpt: "Self-ligating braces significantly reduce friction during tooth movement through innovative bracket design, enabling faster treatment times and."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontist

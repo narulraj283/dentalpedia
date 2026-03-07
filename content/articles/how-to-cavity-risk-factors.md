@@ -3,7 +3,7 @@ title: Cavity Risk Factors and Caries Susceptibility Assessment
 slug: how-to-cavity-risk-factors
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Cavity risk involves modifiable factors (diet, hygiene, fluoride, biofilm) and non-modifiable factors (genetics, saliva quality, socioeconomic status) determining individual caries susceptibility.
+excerpt: "Your cavity risk depends on several factors—some you can control and some you can't."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

@@ -5,7 +5,7 @@ category: Preventive Care
 category_slug: preventive-care
 subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
-excerpt: Comprehensive evidence on how flossing reduces interproximal disease, with timing, technique variations, and patient populations requiring specialized approaches.
+excerpt: "Comprehensive evidence on how flossing reduces interproximal disease, with timing, technique variations, and patient populations requiring."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontology and Preventive Dentistry

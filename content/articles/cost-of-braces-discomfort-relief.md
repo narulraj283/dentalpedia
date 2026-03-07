@@ -60,7 +60,7 @@ The timeline is the same at every appointment, so you know what to expect.
 **Combination approach**:
 - Ibuprofen + acetaminophen together provides superior relief to either alone
 - Ibuprofen 400mg + acetaminophen 500mg every 6 hours
-- Safe when dosed properly
+- Safe when dosed properly You may also want to read about [why braces food restrictions matters](/article/why-braces-food-restrictions-matters.html).
 
 **Topical numbing products** (Orajel):
 - Cost: $5-$10
@@ -155,7 +155,7 @@ The timeline is the same at every appointment, so you know what to expect.
 - Wax (described above): $3-$5
 - Soft toothbrush bristles over area: $0
 - Topical numbing gel: $5-$10
-- Request orthodontist to smooth bracket: $0
+- Request orthodontist to smooth bracket: $0 You may also want to read about [herbst appliance fixed mandibular advancement](/article/herbst-appliance-fixed-mandibular-advancement.html).
 
 **Duration**: Usually resolves within 1-2 weeks as you adjust
 
@@ -291,7 +291,9 @@ Understanding the pain timeline helps:
 
 Braces soreness is normal, temporary (peaks days 2-3, improves by week 1-2), and very manageable. Ibuprofen ($1-$2 per adjustment) plus soft foods ($0) provides 90%+ pain relief. Wax ($3-$5 for entire treatment) prevents mechanical irritation. Ice and warm saltwater rinses cost nothing. Total discomfort management cost: $30-$75 per treatment cycle, or $1-$3 monthly. The minimal cost of pain management is far less than treatment switching or discontinuing braces. Most people adapt within 2-3 appointments and find later discomfort less bothersome as they adjust psychologically.
 
-> ## Related Articles You May Find Helpful
+> 
+
+## Related Articles You May Find Helpful
 
 - [Why Braces Food Restrictions Matters](/article/why-braces-food-restrictions-matters.html)
 - [Herbst Appliance Fixed Mandibular Advancement](/article/herbst-appliance-fixed-mandibular-advancement.html)

@@ -1,9 +1,9 @@
 ---
-title: Microorganism Succession: Sequential Bacteria in Dental Biofilm
+title: "Microorganism Succession: Sequential Bacteria in Dental Biofilm"
 slug: microorganism-succession-sequential-bacteria
 category: Preventive Care
 category_slug: preventive-care
-excerpt: The temporal dynamics of oral bacterial colonization and biofilm maturation, understanding succession patterns critical to understanding caries and periodontitis pathogenesis.
+excerpt: "The temporal dynamics of oral bacterial colonization and biofilm maturation, understanding succession patterns critical to understanding caries and."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

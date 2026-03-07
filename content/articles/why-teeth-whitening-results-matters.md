@@ -3,7 +3,7 @@ title: Teeth Whitening - What Really Works and How to Get Your Best Smile
 slug: why-teeth-whitening-results-matters
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Patient-friendly guide comparing whitening options (toothpaste, strips, trays, in-office), realistic expectations for shade improvement, managing sensitivity, and why crowns don't whiten.
+excerpt: "Patient-friendly guide comparing whitening options (toothpaste, strips, trays, in-office), realistic expectations for shade improvement, managing."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

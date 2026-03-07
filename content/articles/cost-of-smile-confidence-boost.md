@@ -62,7 +62,7 @@ Most practices offer:
 - Third-party financing (CareCredit, PatientFi) with 0% for 6-12 months, then 16-26% if you miss the deadline
 - Payment plans spread across 12-36 months
 
-This makes expensive treatment affordable. A $12,000 smile makeover becomes $333-$500 monthly—manageable for many people.
+This makes expensive treatment affordable. Learning more about [whitening options](/article/whitening-options.html) can help you understand this better. A $12,000 smile makeover becomes $333-$500 monthly—manageable for many people.
 
 ## Psychological Benefits Are Real
 
@@ -128,7 +128,7 @@ Confidence doesn't appear overnight after treatment. It builds:
 
 **3-6 months**: Smiling feels natural again. You're not thinking about your teeth anymore—they're just part of you that looks better.
 
-**6+ months**: Confidence feels like a baseline. You might forget you had treatment done. This is when the real long-term confidence benefit kicks in—it's no longer exciting, it's just normal.
+**6+ months**: Confidence feels like a baseline. Learning more about [veneers vs bonding](/article/veneers-vs-bonding.html) can help you understand this better. You might forget you had treatment done. This is when the real long-term confidence benefit kicks in—it's no longer exciting, it's just normal.
 
 ## The Cost-to-Confidence Ratio
 
@@ -213,6 +213,8 @@ Orthodontics takes longer than veneers but preserves your natural teeth.
 ## Conclusion
 
 Smile improvements range from $500 for professional whitening to $25,000+ for comprehensive cosmetic work. Insurance doesn't cover cosmetic treatment, so these are out-of-pocket expenses. Financing options make even expensive treatment affordable—$12,000 veneers become $300-$500 monthly. Maintenance costs $300-$700 yearly. The confidence and professional benefits often justify the investment. Discuss options with your dentist—they'll recommend what makes sense for your goals and budget.
+
+
 
 ## Related Articles You May Find Helpful
 

@@ -3,7 +3,7 @@ title: Retention After Braces Importance of Retainers
 slug: retention-after-braces-importance-of-retainers
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Evidence-based analysis of lifetime retention necessity, relapse rates without retainers, periodontal fiber reorganization timelines, and thermoplastic retainer longevity.
+excerpt: "Evidence-based analysis of lifetime retention necessity, relapse rates without retainers, periodontal fiber reorganization timelines, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

@@ -1,9 +1,9 @@
 ---
-title: Veneer Installation Steps: What You Need to Know
+title: "Veneer Installation Steps: What You Need to Know"
 slug: veneer-installation-steps-what-you-need-to-know
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Patient-focused guide to the veneer treatment process, covering appointment sequence, expectations for each visit, temporary veneers, final bonding, and essential aftercare instructions.
+excerpt: "Patient-focused guide to the veneer treatment process, covering appointment sequence, expectations for each visit, temporary veneers, final bonding,."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

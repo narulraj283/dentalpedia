@@ -3,7 +3,7 @@ title: Sugar and Tooth Decay - How Diet Affects Your Teeth
 slug: sugar-and-tooth-decay-how-diet-affects-your-teeth
 category: Preventive Care
 category_slug: preventive-care
-excerpt: The Stephan curve mechanism, critical pH 5.5, fermentable carbohydrate frequency versus amount, sugar types, sugar alcohols, and WHO dietary guidelines for caries prevention.
+excerpt: "The Stephan curve mechanism, critical pH 5.5, fermentable carbohydrate frequency versus amount, sugar types, sugar alcohols, and WHO dietary."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Preventive Dentistry

@@ -3,7 +3,7 @@ title: How to Tooth Extraction Recovery
 slug: how-to-tooth-extraction-recovery
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Post-extraction recovery requires evidence-based management of hemostasis, inflammation, and osseous healing, with most complete bone remodeling occurring within 12 months.
+excerpt: "Post-extraction recovery requires evidence-based management of hemostasis, inflammation, and osseous healing, with most complete bone remodeling."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery

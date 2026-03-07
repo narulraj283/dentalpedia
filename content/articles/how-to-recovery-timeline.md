@@ -1,9 +1,9 @@
 ---
-title: Surgical Recovery Timeline: From Extraction to Complete Healing
+title: "Surgical Recovery Timeline: From Extraction to Complete Healing"
 slug: how-to-recovery-timeline
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive healing timeline detailing post-operative progression from immediate surgery through complete bone remodeling, with clinical milestones and expected outcomes.
+excerpt: "Comprehensive healing timeline detailing post-operative progression from immediate surgery through complete bone remodeling, with clinical milestones."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

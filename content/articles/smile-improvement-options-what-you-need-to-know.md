@@ -3,7 +3,7 @@ title: Smile Improvement Options - What You Need to Know as a Patient
 slug: smile-improvement-options-what-you-need-to-know
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Patient guide to smile enhancement treatments, understanding what each option involves, recovery expectations, maintenance needs, and financial planning for cosmetic dental improvements.
+excerpt: "Patient guide to smile enhancement treatments, understanding what each option involves, recovery expectations, maintenance needs, and financial."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

@@ -1,9 +1,9 @@
 ---
-title: The Periodontal Ligament: Anatomy, Function, and Regenerative Capacity of the Tooth Attachment System
+title: "The Periodontal Ligament: Anatomy, Function, and Regenerative Capacity of the Tooth Attachment System"
 slug: periodontal-ligament-tooth-attachment-system
 category: Periodontics
 category_slug: periodontics
-excerpt: The periodontal ligament comprises specialized connective tissue with mechanoreceptor capacity, stem cell populations, and extraordinary regenerative potential; understanding PDL anatomy enables optimization of orthodontic mechanics and improvement of trauma management protocols.
+excerpt: "The periodontal ligament comprises specialized connective tissue with mechanoreceptor capacity, stem cell populations, and extraordinary regenerative."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontics

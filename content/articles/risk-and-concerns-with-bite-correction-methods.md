@@ -3,7 +3,7 @@ title: Bite Correction Methods - Malocclusion Treatment Approaches, Risks and Su
 slug: risk-and-concerns-with-bite-correction-methods
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Malocclusion correction includes fixed appliances, functional appliances, TADs, orthognathic surgery, and occlusal equilibration; each approach carries distinct risks requiring careful case selection.
+excerpt: "Malocclusion correction includes fixed appliances, functional appliances, TADs, orthognathic surgery, and occlusal equilibration; each approach."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontist

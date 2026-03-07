@@ -3,7 +3,7 @@ title: Sonic vs Oscillating Toothbrushes - Which Is Better for Plaque and Gingiv
 slug: sonic-vs-oscillating-toothbrushes-which-is-better
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Comprehensive evidence comparing sonic toothbrushes (30,000+ movements per minute) and oscillating-rotating mechanisms demonstrates equivalent effectiveness for plaque removal and gingivitis reduction, with efficacy dependent on brushing technique and patient compliance.
+excerpt: "Comprehensive evidence comparing sonic toothbrushes (30,000+ movements per minute) and oscillating-rotating mechanisms demonstrates equivalent."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Preventive Dentistry

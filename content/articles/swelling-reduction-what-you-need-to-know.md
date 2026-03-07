@@ -1,5 +1,5 @@
 ---
-title: Reducing Swelling After Oral Surgery: What You Need to Know
+title: "Reducing Swelling After Oral Surgery: What You Need to Know"
 slug: swelling-reduction-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery

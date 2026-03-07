@@ -3,7 +3,7 @@ title: Multiple Medications and Oral Health
 slug: multiple-medications-and-oral-health
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Polypharmacy creates diverse oral health consequences including xerostomia, gingival hyperplasia, and medication-induced ulceration requiring systematic assessment and management.
+excerpt: "Polypharmacy creates diverse oral health consequences including xerostomia, gingival hyperplasia, and medication-induced ulceration requiring."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Geriatric Dentistry

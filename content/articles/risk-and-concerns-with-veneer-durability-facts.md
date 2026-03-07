@@ -3,7 +3,7 @@ title: Risk and Concerns with Veneer Durability Facts
 slug: risk-and-concerns-with-veneer-durability-facts
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Porcelain and composite veneer longevity depends fundamentally on preparation design, margin location, adhesive integrity, and behavioral factors, with debonding, fracture, and margin discoloration representing common complications requiring evidence-based case selection.
+excerpt: "Porcelain and composite veneer longevity depends fundamentally on preparation design, margin location, adhesive integrity, and behavioral factors,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic Dentistry

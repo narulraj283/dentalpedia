@@ -1,5 +1,5 @@
 ---
-title: Zygomatic Implant: Cheekbone Anchored
+title: "Zygomatic Implant: Cheekbone Anchored"
 slug: zygomatic-implant-cheekbone-anchored
 category: Dental Implants
 category_slug: dental-implants

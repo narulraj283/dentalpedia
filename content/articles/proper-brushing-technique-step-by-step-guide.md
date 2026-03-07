@@ -1,9 +1,9 @@
 ---
-title: Proper Brushing Technique: Step-by-Step Guide
+title: "Proper Brushing Technique: Step-by-Step Guide"
 slug: proper-brushing-technique-step-by-step-guide
 category: Preventive Care
 category_slug: preventive-care
-excerpt: The Modified Bass technique with 45-degree bristle angulation, systematic approach, and 2-3 minute duration removes plaque most effectively and prevents periodontal disease.
+excerpt: "The Modified Bass technique with 45-degree bristle angulation, systematic approach, and 2-3 minute duration removes plaque most effectively and."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

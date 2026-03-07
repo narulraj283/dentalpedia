@@ -1,5 +1,5 @@
 ---
-title: Interceptive Extraction: Preventing Future Problems
+title: "Interceptive Extraction: Preventing Future Problems"
 slug: interceptive-extraction-preventing-future-problems
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry

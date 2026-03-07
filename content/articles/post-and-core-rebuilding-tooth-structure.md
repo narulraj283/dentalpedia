@@ -3,7 +3,7 @@ title: Post and Core—Rebuilding Severely Compromised Tooth Structure
 slug: post-and-core-rebuilding-tooth-structure
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Fiber posts and cast posts provide retention for core buildups restoring functional tooth contour after endodontic treatment, with ferrule effect critical to longevity.
+excerpt: "Fiber posts and cast posts provide retention for core buildups restoring functional tooth contour after endodontic treatment, with ferrule effect."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontics

@@ -1,9 +1,9 @@
 ---
-title: Toothbrush Selection Complete Guide: Manual, Powered, and Special Populations
+title: "Toothbrush Selection Complete Guide: Manual, Powered, and Special Populations"
 slug: toothbrush-selection-complete-guide
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Comprehensive clinical evidence on toothbrush types, powered versus manual efficacy, special populations, and ADA recommendations for optimal oral hygiene outcomes.
+excerpt: "Comprehensive clinical evidence on toothbrush types, powered versus manual efficacy, special populations, and ADA recommendations for optimal oral."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

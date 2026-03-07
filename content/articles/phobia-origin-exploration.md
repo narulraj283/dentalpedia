@@ -3,7 +3,7 @@ title: Dental Phobia Origins and Contributing Factors
 slug: phobia-origin-exploration
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Dental phobia develops through classical conditioning, vicarious learning, traumatic experiences, and cognitive vulnerabilities that combine to create persistent, irrational fear of dental treatment.
+excerpt: "Dental phobia develops through classical conditioning, vicarious learning, traumatic experiences, and cognitive vulnerabilities that combine to."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

@@ -1,5 +1,5 @@
 ---
-title: Teeth Straightening Without Braces: Modern Alternatives to Traditional Orthodontics
+title: "Teeth Straightening Without Braces: Modern Alternatives to Traditional Orthodontics"
 slug: teeth-straightening-without-braces-modern-alternatives
 category: Orthodontics
 category_slug: orthodontics

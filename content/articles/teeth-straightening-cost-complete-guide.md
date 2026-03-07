@@ -1,9 +1,9 @@
 ---
-title: Orthodontic Treatment Cost Analysis: Comprehensive Pricing Guide for Braces, Aligners, and Advanced Techniques
+title: "Orthodontic Treatment Cost Analysis: Comprehensive Pricing Guide for Braces, Aligners, and Advanced Techniques"
 slug: teeth-straightening-cost-complete-guide
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Complete breakdown of orthodontic treatment costs including fixed appliances, clear aligners, lingual braces, insurance coverage, payment strategies, and cost-modifying factors.
+excerpt: "Complete breakdown of orthodontic treatment costs including fixed appliances, clear aligners, lingual braces, insurance coverage, payment strategies,."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontist

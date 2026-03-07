@@ -3,7 +3,7 @@ title: "Removable Partial Denture Clasp Design and Comfort"
 slug: removable-partial-denture-clasp-design-and-comfort
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: "Clasp design critically influences RPD retention and patient comfort. Learn Akers clasps, RPI clasps, RPA clasps, material selection, surveying, retentive undercuts, and optimizing patient tolerance."
+excerpt: "Clasp design critically influences RPD retention and patient comfort."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontics

@@ -3,7 +3,7 @@ title: Risk and Concerns with Oral Surgery Recovery Timeline
 slug: risk-concerns-oral-surgery-recovery-timeline
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Inadequate understanding of oral surgery recovery timelines leads to premature activity resumption, medication noncompliance, wound complications, and infection recognition delays with serious consequences.
+excerpt: "Inadequate understanding of oral surgery recovery timelines leads to premature activity resumption, medication noncompliance, wound complications,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

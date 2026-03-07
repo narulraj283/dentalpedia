@@ -3,7 +3,7 @@ title: Root Canal Alternatives - Holistic Perspective
 slug: root-canal-alternatives-holistic-perspective
 category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: Critical evaluation of alternative approaches to conventional root canal therapy including extraction and implant restoration, ozone therapy, biological dentistry protocols, calcium hydroxide treatments, and evidence-based assessment.
+excerpt: "Critical evaluation of alternative approaches to conventional root canal therapy including extraction and implant restoration, ozone therapy,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

@@ -1,5 +1,5 @@
 ---
-title: Pain Management After Dental Surgery: Evidence-Based Analgesia Strategies
+title: "Pain Management After Dental Surgery: Evidence-Based Analgesia Strategies"
 slug: pain-management-post-surgery-analgesia
 category: General Dentistry
 category_slug: general-dentistry

@@ -3,7 +3,7 @@ title: Periodontal Probing Depth Measurement and Pocket Assessment
 slug: probing-depth-measuring-pocket-severity
 category: Periodontics
 category_slug: periodontics
-excerpt: Clinical methodology for accurate periodontal pocket measurement, probe selection, force calibration, bleeding assessment, and relationship between clinical and histologic attachment levels.
+excerpt: "Clinical methodology for accurate periodontal pocket measurement, probe selection, force calibration, bleeding assessment, and relationship between."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Periodontics

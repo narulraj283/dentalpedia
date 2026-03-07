@@ -3,7 +3,7 @@ title: Risk and Concerns with Gum Disease Prevention
 slug: risk-and-concerns-with-gum-disease-prevention
 category: Periodontics
 category_slug: periodontics
-excerpt: Examining the limitations of periodontal disease prevention, genetic influences that override prevention efforts, and compliance challenges in maintaining periodontal health.
+excerpt: "Examining the limitations of periodontal disease prevention, genetic influences that override prevention efforts, and compliance challenges in."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontics

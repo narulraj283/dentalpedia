@@ -3,7 +3,7 @@ title: Tell-Show-Do Communication Technique Detail and Clinical Application
 slug: tell-show-do-technique-communication-method
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Detailed Tell-Show-Do implementation with verbal explanation protocols, demonstration methodology, desensitization frameworks, anxiety assessment tools, and documentation strategies.
+excerpt: "Detailed Tell-Show-Do implementation with verbal explanation protocols, demonstration methodology, desensitization frameworks, anxiety assessment."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Pediatric Dentistry

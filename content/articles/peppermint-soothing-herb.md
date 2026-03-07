@@ -3,7 +3,7 @@ title: Peppermint in Dentistry—Clinical Evidence, Antimicrobial Properties, an
 slug: peppermint-soothing-herb
 category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: Explore the clinical and antimicrobial properties of peppermint, menthol effects, oral application evidence, and limitations of herbal approaches in evidence-based dental practice.
+excerpt: "Explore the clinical and antimicrobial properties of peppermint, menthol effects, oral application evidence, and limitations of herbal approaches in."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

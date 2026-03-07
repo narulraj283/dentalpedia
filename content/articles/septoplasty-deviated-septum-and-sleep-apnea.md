@@ -1,9 +1,9 @@
 ---
-title: Septoplasty and Deviated Septum: Nasal Airway Assessment in Sleep-Disordered Breathing
+title: "Septoplasty and Deviated Septum: Nasal Airway Assessment in Sleep-Disordered Breathing"
 slug: septoplasty-deviated-septum-and-sleep-apnea
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Nasal obstruction from deviated septum significantly contributes to sleep-disordered breathing. Dental professionals should recognize the relationship between airway anatomy and sleep apnea for comprehensive patient management.
+excerpt: "Nasal obstruction from deviated septum significantly contributes to sleep-disordered breathing."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Sleep Medicine Dentist

@@ -3,7 +3,7 @@ title: Root Canal Therapy - Complete Pulp Removal
 slug: root-canal-therapy-complete-pulp-removal
 category: Endodontics
 category_slug: endodontics
-excerpt: Comprehensive analysis of complete root canal therapy technique including access design, working length determination, instrumentation sequence, modern irrigation protocols, and gutta-percha obturation methods with seal evaluation.
+excerpt: "Comprehensive analysis of complete root canal therapy technique including access design, working length determination, instrumentation sequence,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Endodontics

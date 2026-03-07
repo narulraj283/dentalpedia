@@ -1,9 +1,9 @@
 ---
-title: Incisor Lengthening: Cosmetic Extension Procedures
+title: "Incisor Lengthening: Cosmetic Extension Procedures"
 slug: incisor-lengthening-cosmetic-extension-procedures
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensive overview of modern incisor lengthening techniques, including direct bonding, porcelain veneers, and crown restorations for achieving optimal anterior aesthetics and proportions.
+excerpt: "Comprehensive overview of modern incisor lengthening techniques, including direct bonding, porcelain veneers, and crown restorations for achieving."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

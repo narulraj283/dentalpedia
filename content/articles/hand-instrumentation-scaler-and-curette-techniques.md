@@ -1,5 +1,5 @@
 ---
-title: Hand Instrumentation: Scaler and Curette Techniques
+title: "Hand Instrumentation: Scaler and Curette Techniques"
 slug: hand-instrumentation-scaler-and-curette-techniques
 category: Periodontics
 category_slug: periodontics

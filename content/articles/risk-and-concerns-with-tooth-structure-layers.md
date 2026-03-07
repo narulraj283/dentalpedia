@@ -3,7 +3,7 @@ title: Risk and Concerns with Tooth Structure Layers
 slug: risk-and-concerns-with-tooth-structure-layers
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Enamel, dentin, cementum, and pulp exhibit distinct anatomical properties and damage vulnerabilities that fundamentally determine restoration prognosis, requiring careful handling to preserve remaining tooth structure and avoid irreversible complications.
+excerpt: "Enamel, dentin, cementum, and pulp exhibit distinct anatomical properties and damage vulnerabilities that fundamentally determine restoration."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

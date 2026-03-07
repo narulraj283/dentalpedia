@@ -3,7 +3,7 @@ title: Surgical Management of Severe Malocclusion and Bite Discrepancies
 slug: jaw-surgery-for-severe-bite-problems
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Orthognathic surgical approaches to correcting significant Class II and Class III malocclusions, open bites, and other severe bite problems refractory to orthodontics alone.
+excerpt: "Orthognathic surgical approaches to correcting significant Class II and Class III malocclusions, open bites, and other severe bite problems."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

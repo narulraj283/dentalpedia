@@ -3,7 +3,7 @@ title: Risk and Concerns with Post-Surgical Care in Oral Surgery
 slug: risk-and-concerns-with-post-surgery-care
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Examining post-surgical care risks including infection from wound care failures, blood clot dislodgement, premature physical activity, and medication management errors.
+excerpt: "Examining post-surgical care risks including infection from wound care failures, blood clot dislodgement, premature physical activity, and medication."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

@@ -1,9 +1,9 @@
 ---
-title: Digit Sucking and Thumb Sucking: Duration-Dependent Malocclusion Effects and Intervention Timing
+title: "Digit Sucking and Thumb Sucking: Duration-Dependent Malocclusion Effects and Intervention Timing"
 slug: thumb-sucking-impact-delayed-weaning-effects
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Evidence-based assessment of thumb and digit sucking habits, critical intensity thresholds, malocclusion sequelae, and timing-dependent intervention strategies.
+excerpt: "Evidence-based assessment of thumb and digit sucking habits, critical intensity thresholds, malocclusion sequelae, and timing-dependent intervention."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Pediatric Dentistry and Orthodontics

@@ -1,5 +1,5 @@
 ---
-title: Implant Selection Criteria: Anatomy
+title: "Implant Selection Criteria: Anatomy"
 slug: implant-selection-criteria-anatomy
 category: Dental Implants
 category_slug: dental-implants

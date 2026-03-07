@@ -1,5 +1,5 @@
 ---
-title: Intermaxillary Elastics: Bite Correction Elastics
+title: "Intermaxillary Elastics: Bite Correction Elastics"
 slug: intermaxillary-elastics-bite-correction-elastics
 category: Orthodontics
 category_slug: orthodontics

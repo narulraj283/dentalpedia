@@ -3,7 +3,7 @@ title: Suture Placement and Knot-Tying Techniques for Oral Surgical Closure
 slug: knot-tying-secure-suture-closure
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive technical guide to suture materials, knot-tying techniques, tension management, and post-operative wound healing protocols in oral and maxillofacial surgery.
+excerpt: "Comprehensive technical guide to suture materials, knot-tying techniques, tension management, and post-operative wound healing protocols in oral and."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

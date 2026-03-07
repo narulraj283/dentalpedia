@@ -1,5 +1,5 @@
 ---
-title: Teeth Bleaching Safety: What You Need to Know
+title: "Teeth Bleaching Safety: What You Need to Know"
 slug: teeth-bleaching-safety-what-you-need-to-know
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry

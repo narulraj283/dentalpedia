@@ -3,7 +3,7 @@ title: MTA Biocompatible Root Repair Material
 slug: mta-biocompatible-root-repair-material
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Understand mineral trioxide aggregate technology, biocompatibility mechanisms, clinical applications, and superior performance outcomes in endodontic repair procedures.
+excerpt: "Understand mineral trioxide aggregate technology, biocompatibility mechanisms, clinical applications, and superior performance outcomes in endodontic."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -3,7 +3,7 @@ title: Space Maintenance in Mixed Dentition - Preserving Room for Permanent Teet
 slug: space-maintenance-preserving-room-for-permanent-teeth
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Space analysis using Tanaka-Johnston and Moyers predictive methods guides eruption space assessment and maintenance decisions, preventing crowding through selective extractions and guidance techniques in mixed dentition management.
+excerpt: "Space analysis using Tanaka-Johnston and Moyers predictive methods guides eruption space assessment and maintenance decisions, preventing crowding."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Pediatric Dentistry

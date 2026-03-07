@@ -3,7 +3,7 @@ title: Porcelain Crowns—The Gold Standard for Cosmetic Restoration
 slug: porcelain-crowns-the-gold-standard-for-cosmetic-restoration
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: All-ceramic crowns including lithium disilicate and zirconia provide superior esthetics with excellent clinical longevity when properly designed, cemented, and maintained.
+excerpt: "All-ceramic crowns including lithium disilicate and zirconia provide superior esthetics with excellent clinical longevity when properly designed,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic Dentistry

@@ -3,7 +3,7 @@ title: "Reparative Dentin: The Tooth's Protective Response to Injury"
 slug: reparative-dentin-tooth-response-to-injury
 category: Endodontics
 category_slug: endodontics
-excerpt: "Tertiary dentin formation and reparative mechanisms: reactionary vs reparative dentin, odontoblast signaling, TGF-beta, bioactive materials, and vital pulp therapy rationale for preserving tooth vitality."
+excerpt: "Tertiary dentin formation and reparative mechanisms: reactionary vs reparative dentin, odontoblast signaling, TGF-beta, bioactive materials, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Endodontics

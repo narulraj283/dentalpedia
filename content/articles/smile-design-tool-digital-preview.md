@@ -1,9 +1,9 @@
 ---
-title: Smile Design Tool: Digital Preview and Treatment Visualization
+title: "Smile Design Tool: Digital Preview and Treatment Visualization"
 slug: smile-design-tool-digital-preview
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Digital smile design software enables 2D-to-3D workflow transforming facial photographs into interactive models; integration with computerized fabrication technologies creates mock-ups bridging previewed designs and final restorations, enhancing treatment communication and outcome predictability.
+excerpt: "Digital smile design software enables 2D-to-3D workflow transforming facial photographs into interactive models; integration with computerized."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Digital Dentistry and Cosmetic Technology

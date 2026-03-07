@@ -1,9 +1,9 @@
 ---
-title: Wisdom Tooth Extraction: Surgical Indications, Timing, and Recovery Timeline
+title: "Wisdom Tooth Extraction: Surgical Indications, Timing, and Recovery Timeline"
 slug: timeline-for-wisdom-teeth-extraction
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Wisdom tooth removal indications include impaction, pericoronitis, caries, and developmental anomalies, with optimal timing ages 17-25, surgical techniques varying by impaction depth, and dry socket occurring in 2-5% of cases.
+excerpt: "Wisdom tooth removal indications include impaction, pericoronitis, caries, and developmental anomalies, with optimal timing ages 17-25, surgical."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Oral and Maxillofacial Surgery

@@ -3,7 +3,7 @@ title: "Risk and Concerns with Crown vs Bridge Decision: Clinical Decision-Makin
 slug: risk-and-concerns-with-crown-vs-bridge-decision
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: "Understanding the critical risks in choosing between dental crowns and bridges, including abutment preparation consequences, cantilever complications, and long-term prosthodontic outcomes."
+excerpt: "Understanding the critical risks in choosing between dental crowns and bridges, including abutment preparation consequences, cantilever."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontics

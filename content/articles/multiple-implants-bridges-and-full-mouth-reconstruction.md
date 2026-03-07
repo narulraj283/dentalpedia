@@ -3,7 +3,7 @@ title: Multiple Implants, Bridges, and Full-Mouth Reconstruction
 slug: multiple-implants-bridges-and-full-mouth-reconstruction
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Full-arch rehabilitation through implant-supported prosthetics requires strategic planning, guided surgical placement, and sophisticated prosthetic design for optimal long-term outcomes.
+excerpt: "Full-arch rehabilitation through implant-supported prosthetics requires strategic planning, guided surgical placement, and sophisticated prosthetic."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Prosthodontics

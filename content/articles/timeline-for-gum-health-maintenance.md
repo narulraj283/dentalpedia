@@ -5,7 +5,7 @@ category: Periodontics
 category_slug: periodontics
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
-excerpt: Evidence-based post-therapeutic maintenance intervals, probing depth monitoring techniques, bleeding response interpretation, and adjunctive therapies for periodontal stability.
+excerpt: "Evidence-based post-therapeutic maintenance intervals, probing depth monitoring techniques, bleeding response interpretation, and adjunctive."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontology

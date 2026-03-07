@@ -3,7 +3,7 @@ title: Teething Pain Management and Comfort Strategies for Infants
 slug: teething-pain-comfort-and-management
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Evidence-based teething management spanning eruption timeline, symptom differentiation, and FDA-compliant comfort measures including safe dosing protocols for parents.
+excerpt: "Evidence-based teething management spanning eruption timeline, symptom differentiation, and FDA-compliant comfort measures including safe dosing."
 date: 2026-03-05
 read_time: 14 min
 reviewer_specialty: Pediatric Dentistry

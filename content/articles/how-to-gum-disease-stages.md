@@ -1,5 +1,5 @@
 ---
-title: Gum Disease Stages: Gingivitis to Periodontitis
+title: "Gum Disease Stages: Gingivitis to Periodontitis"
 slug: how-to-gum-disease-stages
 category: General Dentistry
 category_slug: general-dentistry
@@ -37,7 +37,7 @@ Good news: gingivitis is reversible. More frequent brushing, flossing, and profe
 
 ## Stage 3: Mild Periodontitis
 
-When plaque progresses beneath the gum line, periodontitis develops. Gum pockets deepen to 4-5mm. Bleeding increases. X-rays show early bone loss around the tooth roots. Your dentist might notice pus or notice that your gums don't reattach tightly to your teeth after cleaning.
+When plaque progresses beneath the gum line, periodontitis develops. Learning more about [cost of mouth ulcer care](/article/cost-of-mouth-ulcer-care.html) can help you understand this better. Gum pockets deepen to 4-5mm. Bleeding increases. X-rays show early bone loss around the tooth roots. Your dentist might notice pus or notice that your gums don't reattach tightly to your teeth after cleaning.
 
 Mild periodontitis requires professional treatment beyond simple cleaning. Your dentist performs scaling and root planing (deep cleaning) under anesthesia to remove tartar beneath the gum line. You might need antimicrobial rinses or antibiotics. Home care becomes even more critical.
 
@@ -83,7 +83,7 @@ If measurements show worsening (pockets deepening, new bleeding, bone loss), you
 
 ## Factors Affecting Progression
 
-Some people progress quickly through stages; others stabilize at early stages for years. Factors affecting progression include:
+Some people progress quickly through stages; others stabilize at early stages for years. Learning more about [risk and concerns with bad breath elimination](/article/risk-and-concerns-with-bad-breath-elimination.html) can help you understand this better. Factors affecting progression include:
 - Your genetics and immune response (some people inherit susceptibility)
 - Your smoking status (smokers progress faster)
 - Your diabetes control (poorly controlled diabetes accelerates disease)
@@ -118,6 +118,8 @@ Gum disease progresses from reversible gingivitis to irreversible periodontitis.
 ## Key Takeaway
 
 Healthy gums don't bleed. Bleeding gums indicate gingivitis (reversible) or periodontitis (requiring professional treatment). Early treatment stops progression. Severe untreated periodontitis leads to tooth loss.
+
+
 
 ## Related Articles
 

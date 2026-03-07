@@ -3,7 +3,7 @@ title: Rotational Movements - Three-Dimensional Tooth Control in Orthodontics
 slug: rotational-movements-three-dimensional-tooth-control
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Master three-dimensional tooth movement mechanics, moment-to-force ratios, couple systems, center of rotation control, wire-bracket interaction, and biomechanical principles governing efficient rotational correction.
+excerpt: "Master three-dimensional tooth movement mechanics, moment-to-force ratios, couple systems, center of rotation control, wire-bracket interaction, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontist

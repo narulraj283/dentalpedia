@@ -1,9 +1,9 @@
 ---
-title: Sleep Apnea and Dental Treatment: Oral Appliance Therapy
+title: "Sleep Apnea and Dental Treatment: Oral Appliance Therapy"
 slug: sleep-apnea-and-dental-treatment-oral-appliance-therapy
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Oral appliance therapy represents a viable alternative to CPAP for managing obstructive sleep apnea, with mandibular advancement devices showing significant efficacy in reducing apnea-hypopnea index.
+excerpt: "Oral appliance therapy represents a viable alternative to CPAP for managing obstructive sleep apnea, with mandibular advancement devices showing."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Sleep Medicine Dentistry

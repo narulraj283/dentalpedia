@@ -1,9 +1,9 @@
 ---
-title: Tooth Extraction Recovery Timeline: Healing Phases, Bone Fill Progression, and Complication Management
+title: "Tooth Extraction Recovery Timeline: Healing Phases, Bone Fill Progression, and Complication Management"
 slug: timeline-for-tooth-extraction-recovery
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Extraction recovery progresses through distinct phases including clot stabilization, granulation tissue formation, epithelialization, bone fill, and complete bone remodeling over 3-6 months.
+excerpt: "Extraction recovery progresses through distinct phases including clot stabilization, granulation tissue formation, epithelialization, bone fill, and."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Oral and Maxillofacial Surgeon

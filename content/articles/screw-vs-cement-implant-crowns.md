@@ -3,7 +3,7 @@ title: Screw-Retained vs Cement-Retained Implant Crowns - Clinical Consideration
 slug: screw-vs-cement-implant-crowns
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Comprehensive comparison of screw-retained and cement-retained implant prostheses, evaluating retrievability, esthetic potential, cement extrusion risk, peri-implantitis association, and evidence-based selection criteria.
+excerpt: "Comprehensive comparison of screw-retained and cement-retained implant prostheses, evaluating retrievability, esthetic potential, cement extrusion."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Prosthodontics

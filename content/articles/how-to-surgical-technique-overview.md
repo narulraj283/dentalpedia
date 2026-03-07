@@ -3,7 +3,7 @@ title: Oral Surgical Technique Overview - Fundamental Principles and Methods
 slug: how-to-surgical-technique-overview
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Modern oral surgical technique integrates anatomical principles, evidence-based instrumentation, atraumatic tissue handling, and systematic flap management to minimize morbidity while optimizing functional and esthetic outcomes.
+excerpt: "Modern oral surgical technique integrates anatomical principles, evidence-based instrumentation, atraumatic tissue handling, and systematic flap."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

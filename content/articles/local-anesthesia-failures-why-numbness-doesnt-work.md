@@ -1,9 +1,9 @@
 ---
-title: Local Anesthesia Failures in Dentistry: Mechanisms and Solutions
+title: "Local Anesthesia Failures in Dentistry: Mechanisms and Solutions"
 slug: local-anesthesia-failures-why-numbness-doesnt-work
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Local anesthesia failure—inadequate or absent numbness—results from anatomical variations, inflammation, technical factors, and specific clinical conditions, requiring supplemental techniques for successful pain control.
+excerpt: "Local anesthesia failure—inadequate or absent numbness—results from anatomical variations, inflammation, technical factors, and specific clinical."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery

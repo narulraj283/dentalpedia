@@ -3,7 +3,7 @@ title: Root Canal Therapy Success Rate and Long-Term Outcomes
 slug: root-canal-therapy-success-rate-and-long-term-outcomes
 category: Endodontics
 category_slug: endodontics
-excerpt: Comprehensive analysis of RCT success criteria, healing assessment methodology, Toronto study outcomes, prognostic factors, tooth type influence, restoration impact on long-term survival, and patient follow-up strategies.
+excerpt: "Comprehensive analysis of RCT success criteria, healing assessment methodology, Toronto study outcomes, prognostic factors, tooth type influence,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Endodontics

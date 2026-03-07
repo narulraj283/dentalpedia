@@ -3,7 +3,7 @@ title: "Reimplanted Teeth: Salvaging Avulsed Permanent Teeth"
 slug: reimplanted-teeth-salvaging-avulsed-permanent-teeth
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: "Complete tooth avulsion requires immediate intervention. Learn the critical timeline, proper storage media, reimplantation technique, splinting protocols, and endodontic management for maximizing long-term tooth retention."
+excerpt: "Complete tooth avulsion requires immediate intervention."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Endodontics

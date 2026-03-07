@@ -1,9 +1,9 @@
 ---
-title: The Psychological Impact of Smile Improvement: Self-Esteem, Social Perception, and Treatment Outcomes
+title: "The Psychological Impact of Smile Improvement: Self-Esteem, Social Perception, and Treatment Outcomes"
 slug: timeline-for-smile-confidence-boost
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Smile enhancement profoundly affects psychological wellbeing, self-esteem, and social interactions—evidence-based data demonstrates significant quality-of-life improvements following cosmetic dental treatment.
+excerpt: "Smile enhancement profoundly affects psychological wellbeing, self-esteem, and social interactions—evidence-based data demonstrates significant."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

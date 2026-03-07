@@ -3,7 +3,7 @@ title: Rubber Dam Isolation - Moisture Control Techniques in Endodontics
 slug: rubber-dam-isolation-moisture-control
 category: Endodontics
 category_slug: endodontics
-excerpt: Master rubber dam placement technique, select appropriate clamps (Ivory, Hygenic) and punch patterns, compare winged versus wingless designs, optimize patient comfort, and evaluate alternative isolation systems.
+excerpt: "Master rubber dam placement technique, select appropriate clamps (Ivory, Hygenic) and punch patterns, compare winged versus wingless designs,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Endodontist

@@ -3,7 +3,7 @@ title: How to Traditional vs Invisible Braces
 slug: how-to-traditional-vs-invisible-braces
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Fixed appliance therapy and clear aligner technology achieve comparable final occlusal outcomes, though appliances provide superior three-dimensional control and predictability in complex cases.
+excerpt: "Fixed appliance therapy and clear aligner technology achieve comparable final occlusal outcomes, though appliances provide superior three-dimensional."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

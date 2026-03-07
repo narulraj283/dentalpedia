@@ -1,9 +1,9 @@
 ---
-title: Sensitivity After Tooth Whitening: Mechanisms and Evidence-Based Management Strategies
+title: "Sensitivity After Tooth Whitening: Mechanisms and Evidence-Based Management Strategies"
 slug: sensitivity-after-whitening-management
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Post-bleaching tooth sensitivity results from A-delta fiber activation and altered dentin permeability. Effective management through desensitizing protocols and preventive strategies significantly improves patient comfort.
+excerpt: "Post-bleaching tooth sensitivity results from A-delta fiber activation and altered dentin permeability."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentist

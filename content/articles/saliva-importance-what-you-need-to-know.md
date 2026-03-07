@@ -3,7 +3,7 @@ title: Why Saliva Matters - A Patient's Guide to Oral Health
 slug: saliva-importance-what-you-need-to-know
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Learn why saliva is your mouth's natural defense system, how to recognize dry mouth symptoms, and what practical strategies can help you maintain optimal oral health.
+excerpt: "Learn why saliva is your mouth's natural defense system, how to recognize dry mouth symptoms, and what practical strategies can help you maintain."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

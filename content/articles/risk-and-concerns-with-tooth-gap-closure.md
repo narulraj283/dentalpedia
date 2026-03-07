@@ -3,7 +3,7 @@ title: Risk and Concerns with Tooth Gap Closure
 slug: risk-and-concerns-with-tooth-gap-closure
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Gap closure through orthodontics, bonding, or veneers carries risks including diastema recurrence, bonding fracture, margin discoloration, and frenectomy complications requiring careful case selection and maintenance protocols.
+excerpt: "Gap closure through orthodontics, bonding, or veneers carries risks including diastema recurrence, bonding fracture, margin discoloration, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

@@ -29,7 +29,7 @@ Have you ever wondered why a blast of cold air from your air conditioner hitting
 
 Your tooth is not solid all the way through. It contains a network of tiny channels called tubules that run from the outer part of the tooth (called dentin) toward the nerve in the center (the pulp). These tubules contain a thin fluid that's part of your tooth's living tissue. The number and size of these tubules varies—there are more and larger tubules closer to the nerve, and fewer and smaller ones on the outer surface of the tooth.
 
-Think of dentin like a sponge with millions of tiny straws running through it. Each straw (tubule) contains fluid and a thin nerve fiber from the central nerve of the tooth. This fluid is normally in a balanced state, not moving in or out. But when something disturbs this balance—cold, heat, pressure, or acidic chemicals—the fluid moves, and this movement is what triggers pain.
+Think of dentin like a sponge with millions of tiny straws running through it. Learning more about [dentin hypersensitivity root exposure pain](/article/dentin-hypersensitivity-root-exposure-pain.html) can help you understand this better. Each straw (tubule) contains fluid and a thin nerve fiber from the central nerve of the tooth. This fluid is normally in a balanced state, not moving in or out. But when something disturbs this balance—cold, heat, pressure, or acidic chemicals—the fluid moves, and this movement is what triggers pain.
 
 ## How Fluid Movement Causes Pain: The Hydrodynamic Mechanism
 
@@ -43,7 +43,7 @@ The more fluid movement there is, the more pain you feel. This explains why a sm
 
 Not all exposed tooth roots cause the same level of sensitivity. Several factors affect how much pain you experience. The diameter of the tubule opening matters—larger openings allow more fluid movement and more pain. Tubules that are partially sealed by mineralized deposits (from saliva or previous exposure) cause less pain because fluid movement is restricted. Teeth that have been exposed for a long time often become less sensitive because your body's natural healing response partially seals the tubules.
 
-The kind of stimulus also matters. Mechanical pressure (like aggressive brushing) creates more fluid movement than mild temperature changes. Osmotic stimuli (sweet or acidic substances) create gradual fluid movement, while temperature changes create rapid movement, and rapid movement causes sharper pain.
+The kind of stimulus also matters. Learning more about [desensitizing ingredients potassium nitrate and strontium](/article/desensitizing-ingredients-potassium-nitrate-and-strontium.html) can help you understand this better. Mechanical pressure (like aggressive brushing) creates more fluid movement than mild temperature changes. Osmotic stimuli (sweet or acidic substances) create gradual fluid movement, while temperature changes create rapid movement, and rapid movement causes sharper pain.
 
 Individual variation in nerve sensitivity also plays a role. Some people's nerves are simply more responsive to fluid movement than others, which is why some people with significant root exposure have manageable sensitivity while others with less exposure suffer more.
 
@@ -82,6 +82,8 @@ For the best long-term results, combine immediate sealing (from your dentist) wi
 ## Conclusion
 
 Tooth sensitivity happens when fluid inside your tooth's tubules moves in response to cold, heat, pressure, or chemical stimuli. This fluid movement stimulates the nerve and causes pain. Desensitizing treatments work by sealing or partially blocking the tubules to prevent fluid movement. Home-use products take a few weeks of regular use to build up enough sealing material, while professional treatments provide faster relief by depositing more sealing material or creating complete barriers to fluid movement. Understanding how fluid movement causes sensitivity helps explain why preventing tubule exposure is better than treating sensitivity after it develops. Talk to your dentist about which options are right for your specific situation.
+
+
 
 ## Related Articles You May Find Helpful
 

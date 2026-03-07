@@ -3,7 +3,7 @@ title: Sedation Safety - Monitoring Standards and Emergency Protocols
 slug: sedation-safety-monitoring-during-procedure
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Comprehensive monitoring during dental sedation including pulse oximetry, capnography, blood pressure, and ECG combined with emergency preparedness ensures optimal patient safety.
+excerpt: "Comprehensive monitoring during dental sedation including pulse oximetry, capnography, blood pressure, and ECG combined with emergency preparedness."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Dental Anesthesia

@@ -3,7 +3,7 @@ title: Etiology and Clinical Management of Progressive Tooth Color Changes
 slug: how-to-tooth-color-changes
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Tooth discoloration results from age-related dentin sclerosis, dietary staining, medication effects, and internal hemorrhage, requiring differential diagnosis to guide appropriate management strategies.
+excerpt: "Tooth discoloration results from age-related dentin sclerosis, dietary staining, medication effects, and internal hemorrhage, requiring differential."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

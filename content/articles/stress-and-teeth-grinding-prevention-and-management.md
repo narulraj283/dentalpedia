@@ -1,9 +1,9 @@
 ---
-title: Comprehensive Bruxism Management: Occlusal Splint Design, Behavioral Therapy, Pharmacotherapy, and Monitoring with Portable Devices
+title: "Comprehensive Bruxism Management: Occlusal Splint Design, Behavioral Therapy, Pharmacotherapy, and Monitoring with Portable Devices"
 slug: stress-and-teeth-grinding-prevention-and-management
 category: General Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Evidence-based bruxism management integrating occlusal splints, sleep hygiene, muscle relaxants, botulinum toxin, and BiteStrip monitoring for personalized treatment protocols.
+excerpt: "Evidence-based bruxism management integrating occlusal splints, sleep hygiene, muscle relaxants, botulinum toxin, and BiteStrip monitoring for."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: TMJ/Sleep Dentistry Specialist

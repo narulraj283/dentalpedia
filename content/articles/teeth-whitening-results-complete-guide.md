@@ -1,5 +1,5 @@
 ---
-title: Teeth Whitening Results: Complete Guide to Shade Improvement and Longevity
+title: "Teeth Whitening Results: Complete Guide to Shade Improvement and Longevity"
 slug: teeth-whitening-results-complete-guide
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry

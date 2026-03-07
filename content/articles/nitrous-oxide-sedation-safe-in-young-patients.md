@@ -5,7 +5,7 @@ category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 subcategory: Pediatric Overview
 subcategory_slug: overview-pediatric
-excerpt: Nitrous oxide provides safe, effective anxiety management in pediatric dentistry, enabling anxious children to tolerate necessary treatment without adverse effects.
+excerpt: "Nitrous oxide provides safe, effective anxiety management in pediatric dentistry, enabling anxious children to tolerate necessary treatment without."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -1,9 +1,9 @@
 ---
-title: Temporomandibular Disorders Overview: Classification, Diagnosis, and Management
+title: "Temporomandibular Disorders Overview: Classification, Diagnosis, and Management"
 slug: tmd-temporomandibular-disorder-overview
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: TMD classification distinguishes myogenic from arthrogenic disorders using DC/TMD diagnostic criteria, with prevalence 5-12% and conservative management including physical therapy, splint therapy, and pharmacotherapy.
+excerpt: "TMD classification distinguishes myogenic from arthrogenic disorders using DC/TMD diagnostic criteria, with prevalence 5-12% and conservative."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: General Dentistry

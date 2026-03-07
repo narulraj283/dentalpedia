@@ -1,6 +1,6 @@
 ---
 title: "Nighttime Grinding: Effects on Teeth and Long-Term Complications"
-excerpt: "Examine the mechanism of sleep bruxism, progressive dental damage patterns, risk factors, and cascade of complications affecting teeth, restorations, and jaw health."
+excerpt: "Examine the mechanism of sleep bruxism, progressive dental damage patterns, risk factors, and cascade of complications affecting teeth, restorations,."
 category: "tmj-sleep-dentistry"
 subcategory: "TMJ & Sleep Overview"
 page_type: "overview-tmj-sleep"

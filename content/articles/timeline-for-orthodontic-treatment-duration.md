@@ -1,9 +1,9 @@
 ---
-title: Timeline for Orthodontic Treatment Duration: Factors Predicting Duration and Evidence-Based Timeline Estimates
+title: "Timeline for Orthodontic Treatment Duration: Factors"
 slug: timeline-for-orthodontic-treatment-duration
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive analysis of factors determining orthodontic treatment duration including case severity, extraction patterns, patient age, compliance, and technique selection.
+excerpt: "Comprehensive analysis of factors determining orthodontic treatment duration including case severity, extraction patterns, patient age, compliance,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontics
@@ -11,26 +11,7 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 reviewed: true
 references:
-  - title: "Proffit WR, Henry W, Fields HW, Sarver DM. Contemporary Orthodontics. 5th ed. St. Louis: Mosby; 2012."
-    url: https://pubmed.ncbi.nlm.nih.gov/22095409
-  - title: "Burstone CJ. The mechanics of tooth movement. In: Krauts SJ, Graber TM, eds. Orthodontics: Current Principles and Techniques. 3rd ed. St. Louis: Mosby; 2000."
-    url: https://pubmed.ncbi.nlm.nih.gov/10642839
-  - title: "Papageorgiou SN, Konstantinidis K, Papadopoulou K. Clinical effectiveness of Invisalign system: A systematic review. Prog Orthod. 2016;17(1):1-11."
-    url: https://pubmed.ncbi.nlm.nih.gov/26852946
-  - title: "Luppanapornlarp S, Johnston Jr LE. The effects of premolar-extraction: a long-term comparison of outcomes in "clear-cut" extraction and nonextraction Class II patients. Angle Orthod. 1993;63(4):257-272."
-    url: https://pubmed.ncbi.nlm.nih.gov/8297083
-  - title: "Djeu G, Hayes C, Zawaideh S. Correlation between CBCT radiographic sagittal discrepancies and interarch discrepancies. Angle Orthod. 2014;84(3):474-480."
-    url: https://pubmed.ncbi.nlm.nih.gov/24003952
-  - title: "Miles PG, Smith H, Weyant RJ. Augmenting the effectiveness of clear aligner therapy: High-frequency vibration and a proposed model for aligner engagement and disengagement. Semin Orthod. 2016;22(1):36-42."
-    url: https://pubmed.ncbi.nlm.nih.gov/27330315
-  - title: "Buschang PH, Campbell PM. Accelerating tooth movement with alveolar distraction procedures. JADA. 2003;134(10):1343-1350."
-    url: https://pubmed.ncbi.nlm.nih.gov/14620709
-  - title: "Hartsfield Jr JK, Morford LA, Otero RM. Genetic factors in external apical root resorption and orthodontic treatment response. Crit Rev Oral Biol Med. 1999;10(1):115-130."
-    url: https://pubmed.ncbi.nlm.nih.gov/10759412
-  - title: "Daskalogiannakis J, Paschos E, Tarimtsis K. Distalization of maxillary molars with a modified Pendulum appliance. World J Orthod. 2005;6(1):17-24."
-    url: https://pubmed.ncbi.nlm.nih.gov/15849315
-  - title: "Keim RG, Gottlieb EL, Nelson AH, Vogels III DS. 2003 JCO Study of Orthodontic Diagnosis and Treatment Procedures, Part 1: Results and Trends. J Clin Orthod. 2003;37(6):275-304."
-    url: https://pubmed.ncbi.nlm.nih.gov/12955798
+  - "title: 'Proffit WR, Henry W, Fields HW, Sarver DM. Contemporary Orthodontics. 5th ed. St. Louis: Mosby; 2012."
 ---
 
 ## Introduction

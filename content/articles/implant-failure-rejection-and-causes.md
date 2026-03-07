@@ -1,9 +1,9 @@
 ---
-title: Implant Failure: Rejection and Causes
+title: "Implant Failure: Rejection and Causes"
 slug: implant-failure-rejection-and-causes
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Detailed examination of implant rejection mechanisms, biological compatibility factors, failure causation patterns, and risk mitigation strategies for maximizing implant longevity.
+excerpt: "Detailed examination of implant rejection mechanisms, biological compatibility factors, failure causation patterns, and risk mitigation strategies."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

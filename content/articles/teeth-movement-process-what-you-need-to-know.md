@@ -1,9 +1,9 @@
 ---
-title: How Teeth Move: What Patients Need to Know About Orthodontic Treatment
+title: "How Teeth Move: What Patients Need to Know About"
 slug: teeth-movement-process-what-you-need-to-know
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Understand the bone remodeling process behind orthodontic treatment, why it takes time, pain expectations, and what factors help teeth move faster and more comfortably.
+excerpt: "Understand the bone remodeling process behind orthodontic treatment, why it takes time, pain expectations, and what factors help teeth move faster."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Orthodontist
@@ -11,26 +11,7 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 reviewed: true
 references:
-  - title: "Long H, Zhou Y, Ye N, Liao LQ, Mo SS, Jian SL, et al. The effectiveness and adverse effects of high-frequency vibration on orthodontic tooth movement. J Dent Res. 2013;92(10):914-919."
-    url: https://pubmed.ncbi.nlm.nih.gov/23956426
-  - title: "Uribe F, Mehr R, Mathews M, Janakiraman N, Allareddy V. In vivo effects of vibrational appliances on alveolar bone. Am J Orthod Dentofacial Orthop. 2014;145(4):476-485."
-    url: https://pubmed.ncbi.nlm.nih.gov/24656005
-  - title: "Sekhavat AR, Mousavizade K, Pakshir HR, Seiedy M. Effect of corticotomy-facilitated orthodontics and low-level laser therapy on orthodontic tooth movement and root resorption: A randomized controlled trial. Dent Res J. 2016;13(1):30-37."
-    url: https://pubmed.ncbi.nlm.nih.gov/26981151
-  - title: "Iijima M, Muguruma T, Brantley WA, Choe HC, Nakagaki S. Effect of bracket and wire dimensions on moments and moment-to-force ratios. Am J Orthod Dentofacial Orthop. 2006;129(2):212-221."
-    url: https://pubmed.ncbi.nlm.nih.gov/16473712
-  - title: "Fields HW, Proffit WR, Case JB. Variables affecting the pattern of orofacial growth. Semin Orthod. 1998;4(1):12-34."
-    url: https://pubmed.ncbi.nlm.nih.gov/9680912
-  - title: "Ren Y, Maltha JC, Van 't Hof MA, Kuijpers-Jagtman AM. Age effect on stress distribution in the periodontal ligament. J Dent Res. 2003;82(1):38-42."
-    url: https://pubmed.ncbi.nlm.nih.gov/12508045
-  - title: "Iwasaki LR, Gibson CS, Crouch LD, Marx DB, Pandey JP, Nickel JC. Speed of tooth movement is related to stress and systemic inflammation in a rat model. Eur J Orthod. 2005;27(3):231-237."
-    url: https://pubmed.ncbi.nlm.nih.gov/15947227
-  - title: "Krishnan V, Davidovitch Z. On "the stage of the dentator" and the theory of the differential force technique. Am J Orthod Dentofacial Orthop. 2015;148(6):1063-1072."
-    url: https://pubmed.ncbi.nlm.nih.gov/26606227
-  - title: "McNamara JA Jr. Maxillary transverse expansion. Am J Orthod Dentofacial Orthop. 1992;101(4):386-396."
-    url: https://pubmed.ncbi.nlm.nih.gov/1564203
-  - title: "Lund H, Gréve G, Semb G. Treatment efficiency of Class II correction in one phase of orthodontic treatment. Am J Orthod Dentofacial Orthop. 2012;142(5):636-645."
-    url: https://pubmed.ncbi.nlm.nih.gov/23116509
+  - "title: 'Long H, Zhou Y, Ye N, Liao LQ, Mo SS, Jian SL, et al. The effectiveness and adverse effects of high-frequency vibration on orthodontic tooth movement. J Dent Res. 2013;92(10):914-919."
 ---
 
 ## How Orthodontic Treatment Actually Works

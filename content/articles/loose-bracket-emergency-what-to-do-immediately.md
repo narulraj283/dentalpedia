@@ -1,9 +1,9 @@
 ---
-title: Loose Bracket Emergency: What to Do Immediately
+title: "Loose Bracket Emergency: What to Do Immediately"
 slug: loose-bracket-emergency-what-to-do-immediately
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Immediate management of bracket debonding during fixed appliance therapy, including emergency stabilization, temporary protective measures, and proper clinical reattachment protocols to prevent treatment delay.
+excerpt: "Immediate management of bracket debonding during fixed appliance therapy, including emergency stabilization, temporary protective measures, and."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

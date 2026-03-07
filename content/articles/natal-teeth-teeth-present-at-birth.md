@@ -1,9 +1,9 @@
 ---
-title: Natal Teeth: Teeth Present at Birth
+title: "Natal Teeth: Teeth Present at Birth"
 slug: natal-teeth-teeth-present-at-birth
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Natal teeth require differentiation from neonatal teeth and assessment for developmental normality versus supernumerary status to guide appropriate management decisions.
+excerpt: "Natal teeth require differentiation from neonatal teeth and assessment for developmental normality versus supernumerary status to guide appropriate."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Pediatric Dentistry

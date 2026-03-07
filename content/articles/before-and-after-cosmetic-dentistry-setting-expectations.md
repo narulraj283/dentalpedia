@@ -1,9 +1,9 @@
 ---
-title: Before and After Cosmetic Dentistry: Setting Expectations
+title: "Before and After Cosmetic Dentistry: Setting Expectations"
 slug: before-and-after-cosmetic-dentistry-setting-expectations
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Informed consent and realistic expectations for cosmetic procedures through digital smile design, diagnostic mock-ups, photography standards, and psychological screening.
+excerpt: "Before starting cosmetic dental work, you need an honest conversation with your dentist about what's actually possible."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Cosmetic Dentistry
@@ -106,5 +106,5 @@ Your dentist is your partner in oral health. The more openly you communicate abo
 
 Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
 
-> **Key Takeaway:** Understanding before and after cosmetic dentistry helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** Before starting cosmetic dental work, you need an honest conversation with your dentist about what's actually possible. Your dentist can help you understand what steps are right for your specific needs.
 

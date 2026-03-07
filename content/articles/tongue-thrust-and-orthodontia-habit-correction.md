@@ -1,9 +1,9 @@
 ---
-title: Tongue Thrust and Orthodontia: Diagnosis and Habit Correction Strategies
+title: "Tongue Thrust and Orthodontia: Diagnosis and Habit Correction Strategies"
 slug: tongue-thrust-and-orthodontia-habit-correction
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive review of orofacial myofunctional disorders affecting orthodontic outcomes, tongue thrust etiology, diagnostic criteria, and evidence-based correction strategies for pediatric patients.
+excerpt: "Comprehensive review of orofacial myofunctional disorders affecting orthodontic outcomes, tongue thrust etiology, diagnostic criteria, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontics

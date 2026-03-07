@@ -1,9 +1,9 @@
 ---
-title: Square Archwires in Orthodontics: Torque Expression and Root Position Control
+title: "Square Archwires in Orthodontics: Torque Expression and Root Position Control"
 slug: square-wires-precise-angle-control
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Technical analysis of square archwire geometry, slot-wire interactions, and torque expression mechanics for precise dental root control during finishing stages.
+excerpt: "Technical analysis of square archwire geometry, slot-wire interactions, and torque expression mechanics for precise dental root control during."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Orthodontics

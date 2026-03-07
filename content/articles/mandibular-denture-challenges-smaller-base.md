@@ -1,5 +1,5 @@
 ---
-title: Mandibular Denture Challenges: Smaller Base
+title: "Mandibular Denture Challenges: Smaller Base"
 slug: mandibular-denture-challenges-smaller-base
 category: Prosthodontics
 category_slug: prosthodontics

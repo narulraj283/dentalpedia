@@ -1,9 +1,9 @@
 ---
-title: Myofunctional Therapy: Evidence-Based Techniques for Correcting Abnormal Swallowing
+title: "Myofunctional Therapy: Evidence-Based Techniques for Correcting Abnormal Swallowing"
 slug: tongue-thrust-therapy-correcting-abnormal-swallow
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive guide to myofunctional therapy techniques for resolving tongue thrust and abnormal swallowing patterns, including exercise protocols, success rates, and integration with orthodontic treatment.
+excerpt: "Comprehensive guide to myofunctional therapy techniques for resolving tongue thrust and abnormal swallowing patterns, including exercise protocols,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orofacial Myology

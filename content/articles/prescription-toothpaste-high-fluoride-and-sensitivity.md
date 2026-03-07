@@ -3,7 +3,7 @@ title: Prescription Fluoride Toothpastes - High-Potency Formulations for Caries 
 slug: prescription-toothpaste-high-fluoride-and-sensitivity
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Prescription fluoride toothpastes (5000+ ppm) provide superior caries prevention and sensitivity reduction compared to over-the-counter formulations in high-risk patients when combined with appropriate usage protocols and monitoring.
+excerpt: "Prescription fluoride toothpastes (5000+ ppm) provide superior caries prevention and sensitivity reduction compared to over-the-counter formulations."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

@@ -3,7 +3,7 @@ title: Why Gum Disease Prevention Matters - Protecting Teeth, Systemic Health, a
 slug: why-gum-disease-prevention-matters
 category: Periodontics
 category_slug: periodontics
-excerpt: Preventing periodontal disease protects against tooth loss, reduces systemic complications including cardiovascular disease and diabetes complications, and preserves quality of life.
+excerpt: "Preventing periodontal disease protects against tooth loss, reduces systemic complications including cardiovascular disease and diabetes."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Periodontics

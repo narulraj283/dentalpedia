@@ -3,7 +3,7 @@ title: Risk and Concerns with Teeth Movement Speed
 slug: risk-and-concerns-with-teeth-movement-speed
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Examining complications from accelerated orthodontic techniques including MOPs, corticotomy procedures, vibration therapy, and the safety profile of biologics in rapid tooth movement.
+excerpt: "Examining complications from accelerated orthodontic techniques including MOPs, corticotomy procedures, vibration therapy, and the safety profile of."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Orthodontics

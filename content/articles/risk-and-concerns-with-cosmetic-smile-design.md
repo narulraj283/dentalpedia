@@ -3,7 +3,7 @@ title: Risks and Concerns with Digital Smile Design and Esthetic Planning
 slug: risk-and-concerns-with-cosmetic-smile-design
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Understanding limitations of digital smile design including unrealistic expectations, proportional analysis errors, facial asymmetry, mock-up discrepancies, and communication gaps affecting esthetic outcomes and patient satisfaction.
+excerpt: "Understanding limitations of digital smile design including unrealistic expectations, proportional analysis errors, facial asymmetry, mock-up."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

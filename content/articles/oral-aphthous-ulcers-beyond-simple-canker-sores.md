@@ -1,11 +1,11 @@
 ---
-title: Oral Aphthous Ulcers: Beyond Simple Canker Sores
+title: "Oral Aphthous Ulcers: Beyond Simple Canker Sores"
 slug: oral-aphthous-ulcers-beyond-simple-canker-sores
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 subcategory: Oral Health Conditions Overview
 subcategory_slug: overview-oral-conditions
-excerpt: Aphthous ulcers, though often benign and self-limiting, can signal underlying nutritional deficiencies, autoimmune conditions, or recurrent patterns warranting clinical investigation and appropriate management strategies.
+excerpt: "Aphthous ulcers, though often benign and self-limiting, can signal underlying nutritional deficiencies, autoimmune conditions, or recurrent patterns."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

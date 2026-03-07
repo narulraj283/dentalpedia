@@ -3,7 +3,7 @@ title: Why Tooth Color Changes Matters
 slug: why-tooth-color-changes-matters
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Clinical analysis of physiologic and pathologic tooth color changes, diagnostic significance, etiologic assessment, and management strategies for color modifications.
+excerpt: "Clinical analysis of physiologic and pathologic tooth color changes, diagnostic significance, etiologic assessment, and management strategies for."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: General Dentistry

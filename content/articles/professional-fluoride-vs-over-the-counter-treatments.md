@@ -3,7 +3,7 @@ title: Professional Fluoride vs Over-the-Counter Treatments
 slug: professional-fluoride-vs-over-the-counter-treatments
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Professional fluoride varnish (22,600 ppm) and APF gels significantly outperform consumer products (1,000-1,500 ppm) in caries prevention through extended contact time and enhanced bioavailability.
+excerpt: "Professional fluoride varnish (22,600 ppm) and APF gels significantly outperform consumer products (1,000-1,500 ppm) in caries prevention through."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

@@ -1,5 +1,5 @@
 ---
-title: Dental Examination Types: What to Expect at Your Visit
+title: "Dental Examination Types: What to Expect at Your Visit"
 slug: how-to-dental-examination-types
 category: General Dentistry
 category_slug: general-dentistry

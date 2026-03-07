@@ -1,11 +1,11 @@
 ---
-title: Open Bite from Thumb Sucking: Prevention and Treatment
+title: "Open Bite from Thumb Sucking: Prevention and Treatment"
 slug: open-bite-from-thumb-sucking-prevention-and-treatment
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
 subcategory: Pediatric Overview
 subcategory_slug: overview-pediatric
-excerpt: Open bite from digit sucking represents a common developmental malocclusion requiring early intervention through habit cessation, behavioral modification, and sometimes interceptive orthodontic appliances to prevent long-term skeletal and dental complications.
+excerpt: "Open bite from digit sucking represents a common developmental malocclusion requiring early intervention through habit cessation, behavioral."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

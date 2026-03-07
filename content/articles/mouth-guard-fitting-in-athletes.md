@@ -3,7 +3,7 @@ title: Mouth Guard Fitting in Athletes
 slug: mouth-guard-fitting-in-athletes
 category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: Custom-fitted mouthguards reduce orofacial trauma risk in contact and collision sports by 60% compared to no protection. Proper construction, fit, and athlete compliance determine effectiveness in preventing dental injuries and associated concussion morbidity.
+excerpt: "Custom-fitted mouthguards reduce orofacial trauma risk in contact and collision sports by 60% compared to no protection."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

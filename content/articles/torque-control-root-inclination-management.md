@@ -3,7 +3,7 @@ title: Torque Control and Root Inclination Management in Orthodontics
 slug: torque-control-root-inclination-management
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Orthodontic torque control, defined as third-order movement, is managed through bracket prescription selection, wire-slot clearance, progressive torque expression, and anchorage mechanics to achieve precise root positioning in three-dimensional space.
+excerpt: "Orthodontic torque control, defined as third-order movement, is managed through bracket prescription selection, wire-slot clearance, progressive."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

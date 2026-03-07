@@ -3,7 +3,7 @@ title: Risk and Concerns with Saliva Importance in General Dentistry
 slug: risk-and-concerns-with-saliva-importance
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Examining saliva dysfunction consequences, xerostomia complications, medication-induced dry mouth, radiation-induced salivary damage, Sjögren's syndrome, and artificial saliva limitations.
+excerpt: "Examining saliva dysfunction consequences, xerostomia complications, medication-induced dry mouth, radiation-induced salivary damage, Sjögren's."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: General Dentistry

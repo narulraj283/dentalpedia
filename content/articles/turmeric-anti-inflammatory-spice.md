@@ -3,7 +3,7 @@ title: Turmeric in Oral Health - Curcumin Anti-Inflammatory Mechanisms and Clini
 slug: turmeric-anti-inflammatory-spice
 category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: Curcumin's anti-inflammatory and antimicrobial mechanisms, clinical efficacy in periodontal disease, oral rinse protocols, and limitations of current evidence.
+excerpt: "Curcumin's anti-inflammatory and antimicrobial mechanisms, clinical efficacy in periodontal disease, oral rinse protocols, and limitations of current."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

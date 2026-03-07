@@ -3,7 +3,7 @@ title: Why Choosing the Right Mouthwash Matters for Oral Health
 slug: why-mouthwash-selection-matters
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Choosing appropriate mouthwash based on clinical indications, active ingredients, and evidence-based selection ensures therapeutic benefit while avoiding harmful products.
+excerpt: "Choosing appropriate mouthwash based on clinical indications, active ingredients, and evidence-based selection ensures therapeutic benefit while."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry and Public Health

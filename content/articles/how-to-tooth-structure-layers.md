@@ -3,7 +3,7 @@ title: How to Tooth Structure Layers
 slug: how-to-tooth-structure-layers
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Tooth microarchitecture comprises enamel (96% hydroxyapatite), dentin (tubule-laden substrate), pulp chamber, cementum, and periodontal ligament—each with distinct properties governing longevity.
+excerpt: "Tooth microarchitecture comprises enamel (96% hydroxyapatite), dentin (tubule-laden substrate), pulp chamber, cementum, and periodontal ligament—each."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

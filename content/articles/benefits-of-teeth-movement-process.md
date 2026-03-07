@@ -1,9 +1,9 @@
 ---
-title: The Biology of Orthodontic Tooth Movement - Pressure-Tension Theory and Optimal Forces
+title: The Biology of Orthodontic Tooth Movement -
 slug: benefits-of-teeth-movement-process
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Understanding pressure-tension theory and optimal force levels enables orthodontists to move teeth efficiently while minimizing damage to bone, periodontal ligaments, and tooth roots.
+excerpt: "When you get braces, you might wonder: what's actually happening inside your mouth to make teeth move? The answer is pretty amazing."
 date: 2026-03-06
 read_time: 8 min
 reviewer_specialty: Orthodontics
@@ -96,5 +96,5 @@ The process of moving teeth is really a conversation between the forces from you
 - [Adult Braces Options: Complete Guide](/article/adult-braces-options-complete-guide.html)
 
 
-> **Key Takeaway:** Understanding the biology of orthodontic tooth movement - pressure-tension theory and optimal forces helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** When you get braces, you might wonder: what's actually happening inside your mouth to make teeth move? Your dentist can help you understand what steps are right for your specific needs.
 

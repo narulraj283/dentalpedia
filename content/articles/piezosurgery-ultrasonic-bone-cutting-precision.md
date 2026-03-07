@@ -3,7 +3,7 @@ title: Piezosurgery and Ultrasonic Bone Cutting Precision
 slug: piezosurgery-ultrasonic-bone-cutting-precision
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Piezoelectric ultrasonic bone surgery selectively cuts mineralized tissue while preserving soft tissues through frequency-specific oscillation, enabling precise implant site preparation and sinus lift procedures.
+excerpt: "Piezoelectric ultrasonic bone surgery selectively cuts mineralized tissue while preserving soft tissues through frequency-specific oscillation,."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery

@@ -1,5 +1,5 @@
 ---
-title: Teething Myths: Separating Evidence-Based Facts from Folk Remedies
+title: "Teething Myths: Separating Evidence-Based Facts from Folk Remedies"
 slug: teething-myths-separating-fact-from-folk-remedy
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry

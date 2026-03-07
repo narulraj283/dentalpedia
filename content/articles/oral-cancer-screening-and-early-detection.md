@@ -5,7 +5,7 @@ category: Oral Health Conditions
 category_slug: oral-health-conditions
 subcategory: Oral Health Conditions Overview
 subcategory_slug: overview-oral-conditions
-excerpt: Systematic oral cancer screening integrated into routine dental care enables early detection of suspicious lesions, substantially improving prognosis and treatment outcomes while potentially reducing treatment morbidity and mortality.
+excerpt: "Systematic oral cancer screening integrated into routine dental care enables early detection of suspicious lesions, substantially improving prognosis."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

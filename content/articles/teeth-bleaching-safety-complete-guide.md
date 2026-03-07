@@ -1,9 +1,9 @@
 ---
-title: Teeth Bleaching Safety: Complete Clinical Guide
+title: "Teeth Bleaching Safety: Complete Clinical Guide"
 slug: teeth-bleaching-safety-complete-guide
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Clinical overview of tooth bleaching chemistry, peroxide concentrations, pulp cytotoxicity, enamel effects, and evidence-based safety protocols for professional whitening.
+excerpt: "Clinical overview of tooth bleaching chemistry, peroxide concentrations, pulp cytotoxicity, enamel effects, and evidence-based safety protocols for."
 date: 2026-03-05
 read_time: 14 min
 reviewer_specialty: Cosmetic Dentist

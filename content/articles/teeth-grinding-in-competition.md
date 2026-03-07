@@ -1,9 +1,9 @@
 ---
-title: Teeth Grinding in Competition: Physiological Basis and Dental Implications
+title: "Teeth Grinding in Competition: Physiological Basis and Dental Implications"
 slug: teeth-grinding-in-competition
 category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: Competition-related clenching physiology, isometric contraction benefits, force amplification mechanisms, dental damage risks, performance mouthguard design, monitoring approaches.
+excerpt: "Competition-related clenching physiology, isometric contraction benefits, force amplification mechanisms, dental damage risks, performance mouthguard."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Sports Dentist

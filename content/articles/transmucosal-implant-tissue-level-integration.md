@@ -3,7 +3,7 @@ title: Transmucosal Implant Design and Tissue-Level Integration
 slug: transmucosal-implant-tissue-level-integration
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Tissue-level dental implants feature transmucosal design with polished collar, one-stage surgical protocol, and soft tissue integration mechanisms that differ substantially from bone-level implants in biomechanical and clinical characteristics.
+excerpt: "Tissue-level dental implants feature transmucosal design with polished collar, one-stage surgical protocol, and soft tissue integration mechanisms."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Prosthodontics

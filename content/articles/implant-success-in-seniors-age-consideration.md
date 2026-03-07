@@ -1,9 +1,9 @@
 ---
-title: Implant Success in Seniors: Age Consideration
+title: "Implant Success in Seniors: Age Consideration"
 slug: implant-success-in-seniors-age-consideration
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Advanced age is not a contraindication for dental implant therapy. Evidence demonstrates excellent long-term outcomes in healthy older adults with appropriate medical evaluation and adequate bone support.
+excerpt: "Advanced age is not a contraindication for dental implant therapy."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

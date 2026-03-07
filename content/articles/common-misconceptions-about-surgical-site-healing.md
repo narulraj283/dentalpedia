@@ -1,5 +1,5 @@
 ---
-title: Surgical Site Healing in Oral Surgery: Physiology and Clinical Management
+title: "Surgical Site Healing in Oral Surgery: Physiology and"
 slug: common-misconceptions-about-surgical-site-healing
 category: Oral Surgery
 category_slug: oral-surgery
@@ -33,7 +33,7 @@ Each stage matters and builds on the previous one. You can't skip ahead, which i
 
 Here's something surprising: when the wound looks closed on the surface (usually around 7-10 days after surgery), your mouth isn't actually completely healed yet. The surface closure is important, but underneath, your bone and deeper tissues are still healing. In fact, bone heals much more slowly than soft tissue.
 
-Real bone healing takes months. Your bone starts filling back in around 12 weeks but reaches full strength around 6 months or longer. This is why your dentist might tell you to wait several months after extraction before getting an implant—the bone needs time to be strong enough to support it. Even though you might feel fine after a couple weeks, healing at the bone level continues well after you stop feeling sore.
+Real bone healing takes months. Learning more about [timeline for recovery timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. Your bone starts filling back in around 12 weeks but reaches full strength around 6 months or longer. This is why your dentist might tell you to wait several months after extraction before getting an implant—the bone needs time to be strong enough to support it. Even though you might feel fine after a couple weeks, healing at the bone level continues well after you stop feeling sore.
 
 ## Is It Concerning If There's Bleeding or Drainage?
 
@@ -86,6 +86,8 @@ If you can't quit completely before surgery, even cutting back helps. After surg
 ## Conclusion
 
 Healing after oral surgery is a natural process that your body manages really well when you follow post-operative instructions. Understanding that healing has distinct stages helps you know what's normal versus what needs attention. Most importantly, if something seems off, reach out to your dental team—they'd rather answer a question than have problems develop unnoticed.
+
+
 
 ## Related Articles You May Find Helpful
 

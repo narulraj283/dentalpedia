@@ -1,11 +1,11 @@
 ---
-title: Oral Hygiene Devices and Equipment: Efficacy, Technique, and Patient Selection
+title: "Oral Hygiene Devices and Equipment: Efficacy, Technique, and Patient Selection"
 slug: timeline-for-mouth-cleaning-tools
 category: Preventive Care
 category_slug: preventive-care
 subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
-excerpt: Comprehensive evaluation of toothbrush types, powered toothbrushes, interdental brushes, water flossers, and specialized devices with evidence-based selection criteria.
+excerpt: "Comprehensive evaluation of toothbrush types, powered toothbrushes, interdental brushes, water flossers, and specialized devices with evidence-based."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

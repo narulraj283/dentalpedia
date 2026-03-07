@@ -1,11 +1,11 @@
 ---
-title: Onlay: Conservative Crown Alternative
+title: "Onlay: Conservative Crown Alternative"
 slug: onlay-conservative-crown-alternative
 category: Prosthodontics
 category_slug: prosthodontics
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
-excerpt: Onlays offer a minimally invasive restoration option that preserves tooth structure while providing superior strength and longevity compared to traditional fillings, making them an ideal choice for moderate to large cuspal restorations.
+excerpt: "Onlays offer a minimally invasive restoration option that preserves tooth structure while providing superior strength and longevity compared to."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

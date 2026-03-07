@@ -1,9 +1,9 @@
 ---
-title: Timeline for Orthodontic Appointment Frequency: Adjustment Intervals and Visit Scheduling Protocols
+title: "Timeline for Orthodontic Appointment Frequency: Adjustment Intervals and Visit Scheduling Protocols"
 slug: timeline-for-orthodontic-appointment-frequency
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Evidence-based guidance for optimal orthodontic visit intervals based on appliance type, treatment phase, tooth movement rates, and clinical monitoring requirements.
+excerpt: "Evidence-based guidance for optimal orthodontic visit intervals based on appliance type, treatment phase, tooth movement rates, and clinical."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontics

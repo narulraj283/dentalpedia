@@ -3,7 +3,7 @@ title: "Ligature: Elastic Fastener for Bracket"
 slug: ligature-elastic-fastener-for-bracket
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive examination of elastic ligature materials, characteristics, wire engagement mechanics, force delivery properties, and clinical application strategies for optimal force control and tooth movement during orthodontic treatment.
+excerpt: "Comprehensive examination of elastic ligature materials, characteristics, wire engagement mechanics, force delivery properties, and clinical."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

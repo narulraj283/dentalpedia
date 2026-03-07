@@ -3,7 +3,7 @@ title: "Understanding Dental Procedure Planning — A Patient Guide"
 slug: best-practices-for-dental-procedure-planning
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Evidence-based clinical protocols for comprehensive treatment planning including diagnosis, sequencing, cost estimation, and patient communication strategies.
+excerpt: "Your dentist examining your teeth is step one. Figuring out how to best treat what they found is step two—and it's where good treatment planning."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry
@@ -159,5 +159,5 @@ When your dentist sits down to discuss your plan, listen carefully, ask question
 - [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
 
 
-> **Key Takeaway:** Understanding understanding dental procedure planning — a patient guide helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** Your dentist examining your teeth is step one. Your dentist can help you understand what steps are right for your specific needs.
 

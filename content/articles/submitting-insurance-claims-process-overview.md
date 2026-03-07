@@ -3,7 +3,7 @@ title: Submitting Insurance Claims - Process Overview and Common Issues
 slug: submitting-insurance-claims-process-overview
 category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: CDT coding, ADA claim form completion, electronic versus paper submission, pre-authorization workflows, documentation requirements, denial reasons, and appeals strategies.
+excerpt: "CDT coding, ADA claim form completion, electronic versus paper submission, pre-authorization workflows, documentation requirements, denial reasons,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Dental Practice Management

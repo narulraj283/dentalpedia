@@ -3,7 +3,7 @@ title: Root Canal Treatment - Complete Step-by-Step Guide
 slug: root-canal-treatment-complete-step-by-step-guide
 category: Endodontics
 category_slug: endodontics
-excerpt: Master the fundamental endodontic technique with evidence-based protocols for preoperative assessment, access preparation, canal location, mechanical instrumentation, irrigation, obturation, and coronal restoration.
+excerpt: "Master the fundamental endodontic technique with evidence-based protocols for preoperative assessment, access preparation, canal location, mechanical."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Endodontist

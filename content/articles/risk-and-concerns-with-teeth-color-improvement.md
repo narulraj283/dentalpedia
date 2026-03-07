@@ -3,7 +3,7 @@ title: Risk and Concerns with Teeth Color Improvement
 slug: risk-and-concerns-with-teeth-color-improvement
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Understanding the limitations of tooth bleaching for intrinsic stains, tetracycline discoloration resistance, age-related color changes, and when veneers become the only viable option.
+excerpt: "Understanding the limitations of tooth bleaching for intrinsic stains, tetracycline discoloration resistance, age-related color changes, and when."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic Dentistry

@@ -1,9 +1,9 @@
 ---
-title: "Holistic Dentistry: Philosophy and Systemic Health Connection"
+title: "Holistic Dentistry: Philosophy and Systemic Health"
 slug: holistic-dentistry-philosophy-systemic-health
 category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: Examination of holistic dentistry philosophy, evidence-based systemic health relationships with oral disease, and integration with conventional dental science.
+excerpt: "Holistic dentistry looks at your whole body's health, not just your teeth."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry
@@ -86,6 +86,14 @@ Be cautious about extreme claims. While oral health affects your whole body, no 
 ## Key Takeaway
 
 Your mouth is part of your body, not separate from it. Real, science-backed connections exist between your oral health and your heart health, diabetes, and pregnancy outcomes. Taking care of your teeth and gums isn't just cosmetic—it's health care. Work with your dentist and doctor as a team to keep both your mouth and your whole body healthy.
+
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about holistic dentistry philosophy systemic health and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Conclusion
 

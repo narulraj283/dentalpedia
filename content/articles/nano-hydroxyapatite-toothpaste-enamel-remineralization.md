@@ -1,6 +1,6 @@
 ---
 title: "Nano-Hydroxyapatite Toothpaste: Advanced Enamel Remineralization"
-excerpt: "Discover how nano-hydroxyapatite technology in modern toothpaste actively remineralizes weakened enamel, offering clinically-proven protection against decay and sensitivity without fluoride."
+excerpt: "Discover how nano-hydroxyapatite technology in modern toothpaste actively remineralizes weakened enamel, offering clinically-proven protection."
 category: "preventive-care"
 subcategory: "Preventive Overview"
 page_type: "overview-preventive"

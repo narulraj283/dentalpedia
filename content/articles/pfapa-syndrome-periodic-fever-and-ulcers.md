@@ -1,9 +1,9 @@
 ---
-title: PFAPA Syndrome: Periodic Fever, Oral Ulcers, Pharyngitis, and Adenitis in Pediatric Patients
+title: "PFAPA Syndrome: Periodic Fever, Oral Ulcers, Pharyngitis, and Adenitis in Pediatric Patients"
 slug: pfapa-syndrome-periodic-fever-and-ulcers
 category: Oral Health Conditions
 category_slug: oral-health-conditions
-excerpt: PFAPA syndrome, comprising periodic fever, oral aphthous ulcers, pharyngitis, and cervical adenitis, represents the most common autoinflammatory disorder in children; corticosteroid administration and tonsillectomy provide effective management strategies with excellent long-term prognoses.
+excerpt: "PFAPA syndrome, comprising periodic fever, oral aphthous ulcers, pharyngitis, and cervical adenitis, represents the most common autoinflammatory."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: General Dentistry

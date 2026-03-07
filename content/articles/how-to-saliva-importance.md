@@ -1,9 +1,9 @@
 ---
-title: Saliva Composition and Function: Critical Mechanisms in Oral Health
+title: "Saliva Composition and Function: Critical Mechanisms in Oral Health"
 slug: how-to-saliva-importance
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Comprehensive analysis of salivary components, buffering capacity, antimicrobial proteins, remineralization mechanisms, and management of xerostomia for optimal oral disease prevention.
+excerpt: "Comprehensive analysis of salivary components, buffering capacity, antimicrobial proteins, remineralization mechanisms, and management of xerostomia."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -3,7 +3,7 @@ title: Post-Operative Pain After Oral Surgery - Expected Discomfort and Normal T
 slug: post-operative-pain-expected-discomfort
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Clinical assessment of normal versus abnormal post-operative pain patterns, pain scales, multimodal analgesia protocols, and evidence-based opioid-sparing approaches.
+excerpt: "Clinical assessment of normal versus abnormal post-operative pain patterns, pain scales, multimodal analgesia protocols, and evidence-based."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

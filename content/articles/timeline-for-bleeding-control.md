@@ -3,7 +3,7 @@ title: Timeline for Post-Surgical Bleeding Control and Management
 slug: timeline-for-bleeding-control
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Post-surgical bleeding management follows evidence-based protocols with specific timelines for hemostasis, from immediate pressure application through delayed bleeding management.
+excerpt: "Post-surgical bleeding management follows evidence-based protocols with specific timelines for hemostasis, from immediate pressure application."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery

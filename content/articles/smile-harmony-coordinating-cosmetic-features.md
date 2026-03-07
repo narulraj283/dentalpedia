@@ -3,7 +3,7 @@ title: Smile Harmony - Coordinating Cosmetic Features for Optimal Results
 slug: smile-harmony-coordinating-cosmetic-features
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Master the principles of smile harmony by understanding tooth-lip-gum coordination, facial thirds, buccal corridors, and alignment principles that create naturally beautiful smiles.
+excerpt: "Master the principles of smile harmony by understanding tooth-lip-gum coordination, facial thirds, buccal corridors, and alignment principles that."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

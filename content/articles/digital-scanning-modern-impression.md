@@ -1,9 +1,9 @@
 ---
-title: Digital Scanning: Modern Impression
+title: "Digital Scanning: Modern Impression"
 slug: digital-scanning-modern-impression
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Contemporary intraoral optical scanning provides precise three-dimensional tooth and tissue capture at submillimeter accuracy, replacing traditional impression materials across all restorative applications.
+excerpt: "Digital scanning is a big deal in modern dentistry."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry
@@ -39,7 +39,7 @@ The third method is confocal microscopy, which scans at multiple depth levels to
 
 ## How Accurate Are These Scanners Really?
 
-The accuracy of a digital scan is measured in micrometers (millionths of a meter). Most modern scanners are accurate to about 40 to 120 micrometers. But here's what matters clinically: your crown's edge can have a gap of 80 to 120 micrometers and still fit perfectly fine. Modern scanners easily achieve that level of accuracy. If you scan the same tooth twice, the two scans will be almost identical—within only 10 to 40 micrometers of each other. That's excellent repeatability.
+The accuracy of a digital scan is measured in micrometers (millionths of a meter). Learning more about [digital impression intraoral scanning](/article/digital-impression-intraoral-scanning.html) can help you understand this better. Most modern scanners are accurate to about 40 to 120 micrometers. But here's what matters clinically: your crown's edge can have a gap of 80 to 120 micrometers and still fit perfectly fine. Modern scanners easily achieve that level of accuracy. If you scan the same tooth twice, the two scans will be almost identical—within only 10 to 40 micrometers of each other. That's excellent repeatability.
 
 Where you're scanning matters for accuracy. Your front teeth are easier to scan because they're visible and reflect light well—the scanner is accurate to about 30 to 60 micrometers. Back teeth are harder because they're in shadow and have complex bumpy surfaces, so accuracy drops to about 80 to 120 micrometers. The margin (where the tooth preparation ends and your real tooth begins) is hardest to scan because it's just a thin line at the gum edge, so that's accurate to about 50 to 150 micrometers depending on how your gums look.
 
@@ -67,7 +67,7 @@ For a single tooth crown, your dentist needs about 15 to 20 seconds of scanning 
 
 Speed matters. If your dentist scans too fast (faster than 10 millimeters per second), the scanner might miss details. If they scan too slowly (slower than 2 millimeters per second), your natural head movements create problems. Your dentist will find the right pace.
 
-To see the margin (the line where your tooth preparation ends) clearly, your dentist will probably place a small retraction cord—a thin string—to gently hold back your gum for a few seconds. This is much gentler than the full tray used for traditional impressions and usually takes just a few seconds. After your dentist scans the margin, the cord comes right out.
+To see the margin (the line where your tooth preparation ends) clearly, your dentist will probably place a small retraction cord—a thin string—to gently hold back your gum for a few seconds. Learning more about [digital impression technology no more putty trays](/article/digital-impression-technology-no-more-putty-trays.html) can help you understand this better. This is much gentler than the full tray used for traditional impressions and usually takes just a few seconds. After your dentist scans the margin, the cord comes right out.
 
 Lighting helps too. Your dentist might adjust the room lighting or use the scanner's built-in light to get good visibility, especially for back teeth where shadows can interfere. Good lighting means better accuracy and fewer areas that need to be rescanned.
 
@@ -98,6 +98,8 @@ Back teeth are harder to scan because they're in the back of your mouth in shado
 ## Conclusion
 
 Digital scanning is transforming dentistry. It's fast, accurate, and comfortable—no more gagging and no more putty trays. Your crown will fit better and last longer. The technology keeps improving, and more dentists are adopting it every year. If your dentist offers digital scanning, I strongly recommend it. You'll have a better experience and a better crown.
+
+
 
 ## Related Articles
 

@@ -1,9 +1,9 @@
 ---
-title: Nano-Composites: Advanced Filling Technology
+title: "Nano-Composites: Advanced Filling Technology"
 slug: nano-composites-advanced-filling-technology
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Explore nanotechnology in dental composites, superior mechanical properties, esthetic refinements, and clinical performance advantages in modern restorative dentistry.
+excerpt: "Explore nanotechnology in dental composites, superior mechanical properties, esthetic refinements, and clinical performance advantages in modern."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

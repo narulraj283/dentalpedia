@@ -1,5 +1,5 @@
 ---
-title: When Your Child Screams at the Dentist: It's Not Your Fault
+title: "When Your Child Screams at the Dentist: It's Not Your Fault"
 slug: dental-anxiety-in-children-overcoming-fear
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
@@ -33,11 +33,11 @@ This is the research-backed method. Gradual exposure to feared situations while 
 
 **Weeks 1-2: Familiarization.** Talk casually about the dentist. Read children's books about dental visits. If possible, visit the dental office building (but not the appointment). Let your child see it's a normal place. This normalizes through repeated exposure.
 
-**Visit 1: Observation only.** First real appointment is examination only. No instruments, zero invasive procedures. The dentist just looks in your child's mouth, counts teeth, maybe takes a photo. Total time: 10-15 minutes. Goal: "That wasn't so bad. The dentist is a normal person."
+**Visit 1: Observation only.** First real appointment is examination only. Learning more about [dental anxiety origins childhood trauma](/article/dental-anxiety-origins-childhood-trauma.html) can help you understand this better. No instruments, zero invasive procedures. The dentist just looks in your child's mouth, counts teeth, maybe takes a photo. Total time: 10-15 minutes. Goal: "That wasn't so bad. The dentist is a normal person."
 
 **Visit 2: Light contact.** Dentist uses mirror to look more carefully, maybe touches a tooth with a finger. Your child hears sounds and sees equipment but it's not used on them. Equipment demonstration happens: "See? It's just a tiny mirror."
 
-**Visits 3+: Gradual procedures.** Gentle polish, maybe suction, fluoride. Slowly adding complexity as your child's comfort increases. This takes 4-6 appointments instead of 1, but it prevents retraumatization and builds confidence.
+**Visits 3+: Gradual procedures.** Gentle polish, maybe suction, fluoride. Learning more about [timeline for anesthesia options](/article/timeline-for-anesthesia-options.html) can help you understand this better. Slowly adding complexity as your child's comfort increases. This takes 4-6 appointments instead of 1, but it prevents retraumatization and builds confidence.
 
 Research shows children getting gradual desensitization have 60-75% less anxiety on future visits compared to kids forced through quickly. It feels slower, but it's actually faster because you prevent retraumatization and build lasting confidence.
 
@@ -84,6 +84,8 @@ Your child who screamed at the mention of dentist will eventually attend appoint
 Dental anxiety in children is learned behavior, highly treatable through systematic desensitization, behavioral guidance, and support. Gradual exposure over multiple appointments builds confidence more effectively than rushing treatment. Parental anxiety management and positive messaging substantially amplify behavioral management. Tell-show-do technique, distraction, and coping statements reduce anxiety. Sedation enables treatment for 10-20% with severe anxiety while preventing retraumatization. Most anxious children become confident dental patients through consistent positive experiences with supportive technique.
 
 Talk to your pediatric dentist about a gradual desensitization plan if your child has significant dental anxiety.
+
+
 
 ## Related Articles You May Find Helpful
 

@@ -3,7 +3,7 @@ title: Invisalign Cost Factors - What Affects Your Treatment Price - Comprehensi
 slug: invisalign-cost-factors-what-affects-your-treatment-price
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Clear aligner therapy cost varies significantly based on case complexity, treatment duration, and geographic factors. This comprehensive guide explains the key variables determining Invisalign pricing, comparison with fixed appliances, and insurance considerations.
+excerpt: "Clear aligner therapy cost varies significantly based on case complexity, treatment duration, and geographic factors."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

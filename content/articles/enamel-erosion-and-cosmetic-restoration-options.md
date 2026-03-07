@@ -3,7 +3,7 @@ title: Enamel Erosion and Cosmetic Restoration Options
 slug: enamel-erosion-and-cosmetic-restoration-options
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Evidence-based cosmetic treatment protocols for erosive enamel loss with comparative outcomes data.
+excerpt: "Enamel erosion happens when acidic foods and beverages, or stomach acid, wear away your tooth's outer layer."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry
@@ -25,7 +25,7 @@ Enamel erosion happens when acidic foods and beverages, or stomach acid, wear aw
 
 ## How Enamel Erosion Happens
 
-Your tooth enamel is the hardest substance in your body, but it dissolves in acids. When you consume acidic foods and drinks—citrus fruits, soda, energy drinks, wine—the acid softens your enamel. If you also brush immediately after acid exposure, you're scrubbing away partially softened enamel. Over months or years, this repeated acid exposure gradually wears your enamel away.
+Your tooth enamel is the hardest substance in your body, but it dissolves in acids. Learning more about [timeline for teeth color improvement](/article/timeline-for-teeth-color-improvement.html) can help you understand this better. When you consume acidic foods and drinks—citrus fruits, soda, energy drinks, wine—the acid softens your enamel. If you also brush immediately after acid exposure, you're scrubbing away partially softened enamel. Over months or years, this repeated acid exposure gradually wears your enamel away.
 
 Some people have erosion from stomach acid (called GERD, or acid reflux). The acid comes back up from your stomach into your mouth, bathing your teeth in acid, especially at night. Bulimia nervosa causes severe erosion because repeated vomiting exposes teeth to powerful stomach acid.
 
@@ -61,7 +61,7 @@ Your dentist applies tooth-colored resin material directly to the eroded area, b
 
 Advantages include quick treatment (usually one appointment), reversibility (if you change your mind later, it can be removed), and excellent appearance when done by a skilled dentist. The color closely matches your natural teeth.
 
-Disadvantages include some color change over 5-10 years (composite absorbs water and stains slightly), susceptibility to chipping if you grind your teeth or chew hard objects, and need for replacement every 7-10 years as wear develops.
+Disadvantages include some color change over 5-10 years (composite absorbs water and stains slightly), susceptibility to chipping if you grind your teeth or chew hard objects, and need for replacement every 7-10 years as wear develops. You may also want to read about [benefits of teeth alignment alternatives](/article/benefits-of-teeth-alignment-alternatives.html).
 
 ## Porcelain and Ceramic Restorations
 
@@ -105,6 +105,8 @@ Composite restorations need professional polishing yearly and replacement every 
 ## Conclusion
 
 Enamel erosion is preventable through limiting acid exposure, managing reflux, using fluoride, and proper brushing technique. Once erosion occurs, stopping progression is the priority. Conservative approaches (fluoride, desensitizing toothpaste) work for mild erosion. Composite bonding provides economical restoration for moderate erosion. Porcelain and ceramic restorations offer superior esthetics and durability for extensive erosion. Work with your dentist to determine which option best fits your situation, budget, and goals. Talk to your dentist about which options are right for your specific situation.
+
+
 
 ## Related Articles You May Find Helpful
 

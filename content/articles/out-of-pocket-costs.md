@@ -1,9 +1,9 @@
 ---
-title: Out-of-Pocket Dental Costs: Maximizing Your Benefits
+title: "Out-of-Pocket Dental Costs: Maximizing Your Benefits"
 slug: out-of-pocket-costs
 category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: Navigate dental cost structures, insurance optimization strategies, payment plans, HSA/FSA usage, and negotiation tactics to reduce your treatment expenses.
+excerpt: "Navigate dental cost structures, insurance optimization strategies, payment plans, HSA/FSA usage, and negotiation tactics to reduce your treatment."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Dental Practice Manager

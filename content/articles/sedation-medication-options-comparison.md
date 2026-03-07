@@ -3,7 +3,7 @@ title: Sedation Medication Comparison - Pharmacology and Clinical Application
 slug: sedation-medication-options-comparison
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Dental sedation medications including benzodiazepines, propofol, ketamine, and dexmedetomidine vary substantially in onset, duration, metabolism, and reversal characteristics.
+excerpt: "Dental sedation medications including benzodiazepines, propofol, ketamine, and dexmedetomidine vary substantially in onset, duration, metabolism, and."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Dental Anesthesia

@@ -3,7 +3,7 @@ title: Comprehensive Guide to Teeth Bleaching Safety and Clinical Protocols
 slug: how-to-teeth-bleaching-safety
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Professional teeth bleaching requires understanding hydrogen peroxide chemistry, enamel effects, and FDA-regulated protocols to prevent pulp damage and irreversible sensitivity.
+excerpt: "Professional teeth bleaching requires understanding hydrogen peroxide chemistry, enamel effects, and FDA-regulated protocols to prevent pulp damage."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

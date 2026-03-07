@@ -1,9 +1,9 @@
 ---
-title: Physiologic Anxiety Response and the Fight-or-Flight System
+title: "Physiologic Anxiety Response and the Fight-or-Flight System"
 slug: physiologic-anxiety-response-fight-or-flight
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Dental fear activates the autonomic nervous system, triggering sympathetic overactivity with elevated cortisol and epinephrine, potentially causing vasovagal syncope and cardiovascular complications in the dental chair.
+excerpt: "Dental fear activates the autonomic nervous system, triggering sympathetic overactivity with elevated cortisol and epinephrine, potentially causing."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry
@@ -11,24 +11,7 @@ subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-anxiety-sedation
 reviewed: true
 references:
-  - title: "Arntz A, Claassens L. The meaning of pain influences its experienced intensity. Pain. 2004;109(1-2):20-25."
-    url: https://pubmed.ncbi.nlm.nih.gov/15082123
-  - title: "Mast MS, Kindlimann A, Langewitz W. Recipients' emotion recognition accuracy depends on senders' emotion expression intensity. J Nonverbal Behav. 2005;29(1):25-41."
-    url: https://pubmed.ncbi.nlm.nih.gov/
-  - title: "Roelofs K, Bakvis P, Hermans EJ, van Pelt J, van Amstel ME. The effects of social stress and cortisol responses on the prepulse inhibition; an experiment with the Trier social stress test. Psychoneuroendocrinology. 2007;32(5):540-547."
-    url: https://pubmed.ncbi.nlm.nih.gov/17382501
-  - title: "Verne GN, Shugar JL, Robinson ME. The role of central sensitization in symptoms beyond muscle pain: evidence from nociplastic pain conditions across the lifespan. Eur J Pain. 2016;20(5):657-665."
-    url: https://pubmed.ncbi.nlm.nih.gov/
-  - title: "Sarason IG, Sarason BR, Keefe DE. Cognitive interference: situational determinants and traitlike characteristics. J Pers Soc Psychol. 1986;51(2):215-226."
-    url: https://pubmed.ncbi.nlm.nih.gov/
-  - title: "Lim YZ, Celermajer DS, Charman SA. Relative risk of cardiovascular events associated with dental fear and avoidance. J Am Dent Assoc. 2012;143(1):34-42."
-    url: https://pubmed.ncbi.nlm.nih.gov/
-  - title: "Giesbrecht T, Smeets T, Leppink J. Stress-induced cognitive alterations and cardiovascular response." Work Stress. 2007;21(3):266-278."
-    url: https://pubmed.ncbi.nlm.nih.gov/
-  - title: "Halligan PW, Aylward M. The power of suggestion: pragmatic use of the placebo effect in pain management. Lancet. 2006;367(9522):1622-1625."
-    url: https://pubmed.ncbi.nlm.nih.gov/
-  - title: "Speisman JC, Lazarus RS, Mordkoff AM. Experimental reduction of stress based on ego-defense theory. J Abnorm Soc Psychol. 1964;68(4):367-380."
-    url: https://pubmed.ncbi.nlm.nih.gov/14101833
+  - "title: 'Arntz A, Claassens L. The meaning of pain influences its experienced intensity. Pain. 2004;109(1-2):20-25."
 ---
 
 ## Autonomic Nervous System Activation in Dental Fear

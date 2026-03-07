@@ -3,7 +3,7 @@ title: "Hydrodynamic Theory: Explaining Dentin Hypersensitivity"
 slug: hydrodynamic-theory-sensitivity-explanation
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Brännström's hydrodynamic theory explains dentin sensitivity through fluid movement in exposed dentinal tubules, establishing the mechanistic foundation for evidence-based desensitization therapies targeting tubule occlusion and nerve blockade.
+excerpt: "Brännström's hydrodynamic theory explains dentin sensitivity through fluid movement in exposed dentinal tubules, establishing the mechanistic."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

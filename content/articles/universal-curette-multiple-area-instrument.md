@@ -3,7 +3,7 @@ title: Universal Curettes and Area-Specific Instrumentation Techniques
 slug: universal-curette-multiple-area-instrument
 category: Periodontics
 category_slug: periodontics
-excerpt: Universal curettes with bilateral cutting edges enable versatile periodontal instrumentation across multiple tooth surfaces, with proper adaptation and sharpening critical for clinical efficacy.
+excerpt: "Universal curettes with bilateral cutting edges enable versatile periodontal instrumentation across multiple tooth surfaces, with proper adaptation."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontology

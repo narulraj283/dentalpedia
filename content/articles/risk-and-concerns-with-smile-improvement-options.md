@@ -3,7 +3,7 @@ title: Risks of Treatment Selection in Smile Improvement Planning
 slug: risk-and-concerns-with-smile-improvement-options
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Analysis of over-treatment risks, conservative versus aggressive approaches, procedural irreversibility, and treatment planning complexity in multi-component cosmetic cases.
+excerpt: "Analysis of over-treatment risks, conservative versus aggressive approaches, procedural irreversibility, and treatment planning complexity in."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

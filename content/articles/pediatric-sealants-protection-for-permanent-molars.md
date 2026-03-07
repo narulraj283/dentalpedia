@@ -3,7 +3,7 @@ title: Pediatric Sealants—Protection for Permanent Molars in Children
 slug: pediatric-sealants-protection-for-permanent-molars
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Understand pit and fissure sealant evidence, material selection, application technique, retention rates, and timing for optimal caries prevention in children.
+excerpt: "Understand pit and fissure sealant evidence, material selection, application technique, retention rates, and timing for optimal caries prevention in."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Pediatric Dentistry

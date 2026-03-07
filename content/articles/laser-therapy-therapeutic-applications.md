@@ -3,7 +3,7 @@ title: "Laser Therapy: Therapeutic Applications"
 slug: laser-therapy-therapeutic-applications
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Evidence-based examination of low-level laser therapy (LLLT) and photobiomodulation in dentistry, including mechanisms of action, applications in pain management, oral mucositis treatment, implant osseointegration, and periodontal wound healing.
+excerpt: "Evidence-based examination of low-level laser therapy (LLLT) and photobiomodulation in dentistry, including mechanisms of action, applications in."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

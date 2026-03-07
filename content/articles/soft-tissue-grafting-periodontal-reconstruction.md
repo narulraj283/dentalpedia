@@ -3,7 +3,7 @@ title: Soft Tissue Grafting and Periodontal Reconstruction - Advanced Tissue Man
 slug: soft-tissue-grafting-periodontal-reconstruction
 category: Periodontics
 category_slug: periodontics
-excerpt: Advanced soft tissue grafting protocols, donor site management, harvesting techniques, and recipient site preparation enable comprehensive periodontal reconstruction and esthetic restoration of compromised dentition.
+excerpt: "Advanced soft tissue grafting protocols, donor site management, harvesting techniques, and recipient site preparation enable comprehensive."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Periodontics

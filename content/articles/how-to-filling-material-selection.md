@@ -1,5 +1,5 @@
 ---
-title: Filling Material Selection: Composite, Amalgam, Glass Ionomer
+title: "Filling Material Selection: Composite, Amalgam, Glass"
 slug: how-to-filling-material-selection
 category: General Dentistry
 category_slug: general-dentistry
@@ -25,7 +25,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/19654949
 ---
 
-When your dentist says you need a filling, the next question is often: what kind? Your dentist might give you options, or might recommend one specific material. Understanding what's available helps you make an informed choice.
+When your dentist says you need a filling, the next question is often: what kind? Learning more about [anesthesia in oral surgery safety and options](/article/anesthesia-in-oral-surgery-safety-and-options.html) can help you understand this better. Your dentist might give you options, or might recommend one specific material. Understanding what's available helps you make an informed choice.
 
 ## Composite Resin Fillings: Tooth-Colored and Popular
 
@@ -65,7 +65,7 @@ Glass ionomer is a fluoride-releasing material used most often in kids' teeth an
 
 **Cost:** Similar to composite, $150-250.
 
-**Best use:** Primary (baby) teeth, root surface cavities in adults, and patients where durability is less critical.
+**Best use:** Primary (baby) teeth, root surface cavities in adults, and patients where durability is less critical. You may also want to read about [complete dentures from extraction to full restoration](/article/complete-dentures-from-extraction-to-full-restoration.html).
 
 ## How Your Dentist Chooses
 
@@ -122,6 +122,8 @@ Both composite and amalgam are solid choices depending on your priorities. Want 
 ## Key Takeaway
 
 Composite resin is tooth-colored, popular, and lasts 7-10 years on average. Amalgam is durable (15-20+ years), less expensive, but visible. Glass ionomer releases fluoride and is best for temporary or kid's teeth. Choose based on location, size, and your priorities.
+
+
 
 ## Related Articles
 

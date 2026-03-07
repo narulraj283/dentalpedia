@@ -3,7 +3,7 @@ title: Why Toothbrush Selection Matters
 slug: why-toothbrush-selection-matters
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based toothbrush selection criteria including bristle characteristics, brush head size, electric versus manual efficacy, and plaque removal protocols.
+excerpt: "Evidence-based toothbrush selection criteria including bristle characteristics, brush head size, electric versus manual efficacy, and plaque removal."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Preventive Dentistry

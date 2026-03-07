@@ -3,7 +3,7 @@ title: "Hypodontia in Children: Etiology, Diagnosis, and Multidisciplinary Manag
 slug: hypodontia-in-children-missing-permanent-teeth
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Hypodontia—congenital absence of permanent teeth—affects 3-10% of populations with significant variation by ethnicity. Early detection, multidisciplinary assessment, and individualized treatment planning optimize long-term functional and esthetic outcomes, balancing space maintenance, orthodontics, and restorative rehabilitation.
+excerpt: "Hypodontia—congenital absence of permanent teeth—affects 3-10% of populations with significant variation by ethnicity."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -3,7 +3,7 @@ title: Tooth Extraction Recovery Timeline and Healing Phases
 slug: timeline-for-recovery-after-extraction
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive analysis of post-extraction healing phases including blood clot formation, granulation tissue development, epithelialization, and osseous remodeling timelines.
+excerpt: "Comprehensive analysis of post-extraction healing phases including blood clot formation, granulation tissue development, epithelialization, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

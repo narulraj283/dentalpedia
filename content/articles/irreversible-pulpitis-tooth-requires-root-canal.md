@@ -3,7 +3,7 @@ title: Irreversible Pulpitis - Tooth Requires Root Canal - Clinical Diagnosis an
 slug: irreversible-pulpitis-tooth-requires-root-canal
 category: Endodontics
 category_slug: endodontics
-excerpt: Irreversible pulpitis represents a pathological state where pulpal inflammation is too severe to recover, necessitating pulp removal through endodontic treatment. This clinical guide covers diagnostic criteria, differential diagnosis, emergency management, and treatment protocols.
+excerpt: "Irreversible pulpitis represents a pathological state where pulpal inflammation is too severe to recover, necessitating pulp removal through."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

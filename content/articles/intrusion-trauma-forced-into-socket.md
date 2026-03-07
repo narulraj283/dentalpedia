@@ -3,7 +3,7 @@ title: Intrusion Trauma - Forced Into Socket - Emergency Management and Treatmen
 slug: intrusion-trauma-forced-into-socket
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Intrusion trauma involving axial displacement of teeth into alveolar bone represents a dental emergency requiring immediate assessment and specialized management. This clinical guide covers emergency protocols, diagnostic procedures, and evidence-based treatment algorithms.
+excerpt: "Intrusion trauma involving axial displacement of teeth into alveolar bone represents a dental emergency requiring immediate assessment and."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

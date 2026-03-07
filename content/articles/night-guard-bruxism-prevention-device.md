@@ -1,6 +1,6 @@
 ---
 title: "Night Guard for Bruxism: Effective Prevention Device and Proper Use"
-excerpt: "Discover how night guards protect teeth from grinding damage, proper fitting procedures, maintenance requirements, and efficacy in preventing bruxism-related complications."
+excerpt: "Discover how night guards protect teeth from grinding damage, proper fitting procedures, maintenance requirements, and efficacy in preventing."
 category: "tmj-sleep-dentistry"
 subcategory: "TMJ & Sleep Overview"
 page_type: "overview-tmj-sleep"

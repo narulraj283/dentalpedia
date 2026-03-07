@@ -3,7 +3,7 @@ title: Risks and Concerns with Clear Aligner Therapy Compared to Fixed Appliance
 slug: risk-and-concerns-with-clear-aligner-comparison
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Understanding the clinical limitations, case complexity restrictions, compliance dependency, attachment concerns, interproximal reduction risks, and comparative outcomes of clear aligners versus conventional fixed appliances.
+excerpt: "Understanding the clinical limitations, case complexity restrictions, compliance dependency, attachment concerns, interproximal reduction risks, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

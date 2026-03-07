@@ -1,5 +1,5 @@
 ---
-title: Wisdom Teeth Recovery: Timeline and Pain Management
+title: "Wisdom Teeth Recovery: Timeline and Pain Management"
 slug: wisdom-teeth-recovery-timeline-and-pain-management
 category: Oral Surgery
 category_slug: oral-surgery

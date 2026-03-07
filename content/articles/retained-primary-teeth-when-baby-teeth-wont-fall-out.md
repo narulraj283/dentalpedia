@@ -3,7 +3,7 @@ title: Retained Primary Teeth When Baby Teeth Won't Fall Out
 slug: retained-primary-teeth-when-baby-teeth-wont-fall-out
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Understand the etiology, diagnosis, and management of retained primary teeth including ankylosed teeth, missing successors, and strategic extraction or decoronation.
+excerpt: "Understand the etiology, diagnosis, and management of retained primary teeth including ankylosed teeth, missing successors, and strategic extraction."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Pediatric Dentistry

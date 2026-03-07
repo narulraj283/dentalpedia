@@ -3,7 +3,7 @@ title: Oral Tumor Removal and Surgical Management - TNM Staging, Margins, and Re
 slug: tumor-removal-oral-cancer-surgical-excision
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Surgical management of oral cancer encompassing TNM staging, margin assessment, neck dissection, reconstruction techniques, and adjuvant therapy considerations.
+excerpt: "Surgical management of oral cancer encompassing TNM staging, margin assessment, neck dissection, reconstruction techniques, and adjuvant therapy."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

@@ -1,5 +1,5 @@
 ---
-title: Gum Contouring for a Better Smile: Gummy Smile Solutions
+title: "Gum Contouring for a Better Smile: Gummy Smile Solutions"
 slug: gum-contouring-for-a-better-smile-gummy-smile-solutions
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
@@ -47,7 +47,7 @@ There are several reasons your smile might show a lot of gum:
 
 **Jaw Position**: In rare cases, the upper jaw is positioned lower than ideal (a skeletal issue), naturally showing more gum.
 
-**Combination**: Many people have a combination—some extra gum plus some tooth shortness plus significant lip movement.
+**Combination**: Many people have a combination—some extra gum plus some tooth shortness plus significant lip movement. You may also want to read about [stress distribution load sharing](/article/stress-distribution-load-sharing.html).
 
 Your cosmetic dentist will evaluate which factor or factors are causing your gummy smile. This determines which solution will work best for you.
 
@@ -168,6 +168,8 @@ A gummy smile is purely cosmetic and doesn't affect your oral health. But if it 
 ## Key Takeaway
 
 Gum contouring removes excess gum tissue to reveal more of your teeth and create a more balanced smile. The procedure is quick, healing is rapid, results are immediately visible and permanent. Most people achieve their ideal smile with gum contouring alone or combined with other cosmetic approaches like crowns or Botox.
+
+
 
 ## Related Articles
 

@@ -1,9 +1,9 @@
 ---
-title: Digital Impression Technology: No More Putty Trays
+title: "Digital Impression Technology: No More Putty Trays"
 slug: digital-impression-technology-no-more-putty-trays
 category: Dental Technology
 category_slug: dental-technology
-excerpt: Optical scanning eliminates polyether and alginate impression materials, replacing gag-inducing trays with precise 3D digital capture enabling streamlined laboratory workflows and superior restorations.
+excerpt: "If you've ever had a dental crown made, you know the experience: your dentist packs a tray of gooey putty into your mouth and asks you to hold it."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry
@@ -41,7 +41,7 @@ Another huge advantage is speed. Your dentist can send your digital scan to the 
 
 When your dentist sends a digital scan to the lab, the lab doesn't have to create a stone model anymore. That saves them 2 to 4 hours per crown. Instead, the scan becomes a computer model instantly, and the lab technician starts designing your crown right away using specialized software. The computer can show exactly how your crown will look, check that it fits perfectly with your bite, and make sure the edges match your tooth perfectly. If something doesn't look right, the technician can fix it on the computer before any physical crown is made.
 
-This is where quality control gets really good. The lab technician can measure every part of your crown digitally to make sure it's accurate before they ever mill the crown out of ceramic or metal. They can virtually check your shade (color), contour (shape), and how your bite lines up. If there's a problem, they catch it immediately. This reduces the number of crowns that need to be remade because of design errors.
+This is where quality control gets really good. Learning more about [digital impression intraoral scanning](/article/digital-impression-intraoral-scanning.html) can help you understand this better. The lab technician can measure every part of your crown digitally to make sure it's accurate before they ever mill the crown out of ceramic or metal. They can virtually check your shade (color), contour (shape), and how your bite lines up. If there's a problem, they catch it immediately. This reduces the number of crowns that need to be remade because of design errors.
 
 The lab also saves a ton of money and reduces waste. They don't have to keep stockpiles of stone, trays, and other materials. They can track exactly what materials they need and order only what they'll use. The milling machines get instructions optimized for the specific material being used, whether it's ceramic, metal, or something else. This efficiency means your crown gets better quality at a lower cost.
 
@@ -59,7 +59,7 @@ If your dentist scans your tooth twice, the two scans will be almost identicalâ€
 
 Before your crown goes to the lab, your dentist can check the digital scan on the computer to make absolutely sure everything was captured correctly. The software can verify that the margins (edges of the tooth preparation) are clear, show where the tooth preparation ends, and confirm that your bite relationship is recorded. If something is missing or unclear, your dentist can scan just that specific area again instead of doing the whole tooth. This quality control process means your crown gets made right the first time.
 
-The result is a crown that fits beautifully. Crowns made from digital scans fit about 15 to 25 percent better than crowns from traditional impressions. A digital crown has a gap of only 65 to 85 micrometers between the crown and tooth, while a traditional crown typically has a gap of 110 to 150 micrometers. A smaller gap means less food and bacteria can sneak underneath, so your crown lasts longer and is less likely to get a cavity around the edge.
+The result is a crown that fits beautifully. Learning more about [digital smile design planning beautiful smiles](/article/digital-smile-design-planning-beautiful-smiles.html) can help you understand this better. Crowns made from digital scans fit about 15 to 25 percent better than crowns from traditional impressions. A digital crown has a gap of only 65 to 85 micrometers between the crown and tooth, while a traditional crown typically has a gap of 110 to 150 micrometers. A smaller gap means less food and bacteria can sneak underneath, so your crown lasts longer and is less likely to get a cavity around the edge.
 
 ## How Digital Scanning Saves Money (For Your Dentist and You)
 
@@ -88,6 +88,8 @@ When your dentist first gets a scanner, appointments might take a few extra minu
 ## Conclusion
 
 Digital scanning is the future of dentistry. It eliminates the gagging, discomfort, and unpredictability of putty trays. Your crowns fit better, get made faster, and are less likely to need redoing. The technology keeps improving, and it's becoming the standard at most modern dental practices. If your dentist offers digital scanning, take them up on itâ€”you'll have a much more pleasant experience and a better-fitting restoration.
+
+
 
 ## Related Articles
 

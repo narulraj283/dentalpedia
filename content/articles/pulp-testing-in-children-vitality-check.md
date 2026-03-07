@@ -1,9 +1,9 @@
 ---
-title: Pulp Testing in Children: Vitality Check Methods
+title: "Pulp Testing in Children: Vitality Check Methods"
 slug: pulp-testing-in-children-vitality-check
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Pulp testing in primary teeth presents unique challenges; cold testing shows poor reliability, while EPT and laser Doppler flowmetry offer improved vitality assessment in young patients.
+excerpt: "Pulp testing in primary teeth presents unique challenges; cold testing shows poor reliability, while EPT and laser Doppler flowmetry offer improved."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Pediatric Dentistry

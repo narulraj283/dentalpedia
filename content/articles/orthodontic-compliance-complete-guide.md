@@ -3,7 +3,7 @@ title: Orthodontic Compliance Complete Guide
 slug: orthodontic-compliance-complete-guide
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive clinical strategies for optimizing patient compliance with elastics, removable appliances, aligners, and monitoring protocols throughout orthodontic treatment.
+excerpt: "Comprehensive clinical strategies for optimizing patient compliance with elastics, removable appliances, aligners, and monitoring protocols."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontics

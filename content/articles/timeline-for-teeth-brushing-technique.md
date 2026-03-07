@@ -3,7 +3,7 @@ title: Evidence-Based Tooth Brushing Techniques and Mechanical Plaque Removal
 slug: timeline-for-teeth-brushing-technique
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Master optimal brushing technique including Bass method, circular motions, power brush advantages, pressure control, duration standards, and error prevention.
+excerpt: "Master optimal brushing technique including Bass method, circular motions, power brush advantages, pressure control, duration standards, and error."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

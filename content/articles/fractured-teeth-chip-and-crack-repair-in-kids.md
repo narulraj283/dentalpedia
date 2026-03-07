@@ -1,5 +1,5 @@
 ---
-title: Broken or Chipped Teeth in Children: Treatment and Recovery
+title: "Broken or Chipped Teeth in Children: Treatment and Recovery"
 slug: fractured-teeth-chip-and-crack-repair-in-kids
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
@@ -19,7 +19,7 @@ Your child runs in crying—they fell off their bike and broke a tooth. Don't pa
 
 ## Identifying What Type of Break Your Child Has
 
-Tooth breaks come in different levels of severity. If only the white outer layer (enamel) is broken and it's smooth to touch, that's the simplest type—your dentist might just smooth it out or add a small cosmetic restoration. If the break goes into the yellow layer underneath (dentin), the tooth is more sensitive and definitely needs treatment. If the break goes all the way into the pink nerve area in the center, that's the most serious type and requires immediate attention from your dentist.
+Tooth breaks come in different levels of severity. Learning more about [reimplanted teeth salvaging avulsed permanent teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html) can help you understand this better. If only the white outer layer (enamel) is broken and it's smooth to touch, that's the simplest type—your dentist might just smooth it out or add a small cosmetic restoration. If the break goes into the yellow layer underneath (dentin), the tooth is more sensitive and definitely needs treatment. If the break goes all the way into the pink nerve area in the center, that's the most serious type and requires immediate attention from your dentist.
 
 Check your child's mouth gently. Does the tooth feel wiggly? Is there pain? Is there a piece of tooth missing? All of this information helps your dentist know how serious the break is and what to do about it.
 
@@ -37,7 +37,7 @@ Your dentist will probably want to check on the tooth at your next checkup (in 2
 
 ## Moderate Breaks: Into the Yellow Layer
 
-If the break goes into the dentin (the yellow layer), the exposed tooth structure needs to be sealed. Leaving it open creates two problems: first, your child experiences sensitivity to temperature and touch, and second, bacteria can sneak in and eventually damage the nerve inside.
+If the break goes into the dentin (the yellow layer), the exposed tooth structure needs to be sealed. Learning more about [risk and concerns with mouth injuries treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html) can help you understand this better. Leaving it open creates two problems: first, your child experiences sensitivity to temperature and touch, and second, bacteria can sneak in and eventually damage the nerve inside.
 
 Your dentist will clean the area and place a restoration—usually tooth-colored material that bonds to the remaining tooth. This seals out bacteria and restores appearance. The tooth is sensitive for a while after the injury, and your dentist might recommend avoiding really hot or cold foods for a few days.
 
@@ -84,6 +84,8 @@ Reassure your child that this happened to lots of kids and most teeth fix beauti
 ## Conclusion
 
 Broken teeth are scary in the moment, but in most cases dentists can repair them well. Quick action, proper treatment, and careful follow-up during healing ensure the best possible outcome. Your child's tooth has an excellent chance of staying healthy and functional for life. Talk to your dentist about which options are right for your child's specific situation.
+
+
 
 ## Related Articles You May Find Helpful
 

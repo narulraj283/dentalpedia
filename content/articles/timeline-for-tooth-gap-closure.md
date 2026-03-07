@@ -1,9 +1,9 @@
 ---
-title: Diastema Closure: Direct Bonding, Veneers, Orthodontics, and Treatment Selection
+title: "Diastema Closure: Direct Bonding, Veneers, Orthodontics, and Treatment Selection"
 slug: timeline-for-tooth-gap-closure
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Diastema closure employs multiple treatment modalities including composite bonding, porcelain veneers, orthodontics, and frenectomy, each with distinct indications and longevity profiles.
+excerpt: "Diastema closure employs multiple treatment modalities including composite bonding, porcelain veneers, orthodontics, and frenectomy, each with."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic Dentist

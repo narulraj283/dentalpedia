@@ -1,9 +1,9 @@
 ---
-title: Timeline for Mouth Rinse Benefits: Evidence-Based Efficacy of Therapeutic Mouthwashes
+title: "Timeline for Mouth Rinse Benefits: Evidence-Based Efficacy of Therapeutic Mouthwashes"
 slug: timeline-for-mouth-rinse-benefits
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Discover how different mouthwash formulations provide measurable anti-plaque, antimicrobial, and caries-preventive benefits within specific timeframes based on clinical evidence.
+excerpt: "Discover how different mouthwash formulations provide measurable anti-plaque, antimicrobial, and caries-preventive benefits within specific."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

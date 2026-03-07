@@ -1,9 +1,9 @@
 ---
-title: Dental Restorations Compared: Amalgam, Composite, Ceramic, and Gold Longevity, Cost, and Indications
+title: "Dental Restorations Compared: Amalgam, Composite, Ceramic, and Gold Longevity, Cost, and Indications"
 slug: timeline-for-tooth-restoration-comparison
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Direct and indirect restorations including amalgam, composite, ceramic, and gold possess distinct longevity profiles, cost structures, and clinical indications based on preparation size and location.
+excerpt: "Direct and indirect restorations including amalgam, composite, ceramic, and gold possess distinct longevity profiles, cost structures, and clinical."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: General Dentist

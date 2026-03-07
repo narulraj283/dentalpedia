@@ -3,7 +3,7 @@ title: Adult Braces Options - Clinical Risks and Treatment Modifications for Mat
 slug: risk-and-concerns-with-adult-braces-options
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Adult orthodontic treatment modifies protocols for reduced bone density, compromised periodontal status, and accelerated root resorption risk while offering bracket options and clear aligners.
+excerpt: "Adult orthodontic treatment modifies protocols for reduced bone density, compromised periodontal status, and accelerated root resorption risk while."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontist

@@ -3,7 +3,7 @@ title: Kennedy Classification System for Removable Partial Dentures
 slug: kennedy-classification-partial-denture-types
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Comprehensive overview of Kennedy classification for partial denture design, clinical applications, and prosthodontic treatment planning for partially edentulous patients.
+excerpt: "Comprehensive overview of Kennedy classification for partial denture design, clinical applications, and prosthodontic treatment planning for."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

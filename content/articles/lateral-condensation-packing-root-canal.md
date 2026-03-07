@@ -3,7 +3,7 @@ title: "Lateral Condensation: Packing Root Canal"
 slug: lateral-condensation-packing-root-canal
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Comprehensive clinical guide to lateral condensation technique, including master cone selection, spreader pressure parameters, accessory cone placement, sealer flow optimization, radiographic verification, and troubleshooting common lateral condensation failures.
+excerpt: "Comprehensive clinical guide to lateral condensation technique, including master cone selection, spreader pressure parameters, accessory cone."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

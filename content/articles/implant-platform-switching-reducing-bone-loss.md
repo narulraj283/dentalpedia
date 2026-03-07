@@ -1,5 +1,5 @@
 ---
-title: Implant Platform Switching: Reducing Bone Loss
+title: "Implant Platform Switching: Reducing Bone Loss"
 slug: implant-platform-switching-reducing-bone-loss
 category: Dental Implants
 category_slug: dental-implants

@@ -1,9 +1,9 @@
 ---
-title: Osseous Surgery: Reshaping Bone Architecture
+title: "Osseous Surgery: Reshaping Bone Architecture"
 slug: osseous-surgery-reshaping-bone-architecture
 category: Periodontics
 category_slug: periodontics
-excerpt: Explore regenerative versus resective approaches, bone grafting materials, guided tissue regeneration, advanced surgical techniques, and post-operative bone remodeling.
+excerpt: "Explore regenerative versus resective approaches, bone grafting materials, guided tissue regeneration, advanced surgical techniques, and."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Periodontist

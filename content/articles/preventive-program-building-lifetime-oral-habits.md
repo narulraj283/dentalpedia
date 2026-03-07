@@ -3,7 +3,7 @@ title: Building a Preventive Program and Establishing Lifetime Oral Health Habit
 slug: preventive-program-building-lifetime-oral-habits
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Comprehensive strategies for designing personalized preventive programs across the lifespan using evidence-based risk assessment, age-appropriate interventions, and behavioral modification techniques.
+excerpt: "Comprehensive strategies for designing personalized preventive programs across the lifespan using evidence-based risk assessment, age-appropriate."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: General Dentistry

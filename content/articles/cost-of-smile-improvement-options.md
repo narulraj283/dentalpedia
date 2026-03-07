@@ -1,5 +1,5 @@
 ---
-title: Cost of Smile Improvement Options and Treatment Planning Strategies
+title: Cost of Smile Improvement Options and Treatment Planning
 slug: cost-of-smile-improvement-options
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
@@ -30,7 +30,7 @@ Every smile is different, and every person has different goals and budgets. Smar
 ## Assessing Your Smile
 
 Start by understanding what you want to change:
-- **Shade:** Too dark? Whitening might be all you need ($500-$1,500)
+- **Shade:** Too dark? Learning more about [ortho vs cosmetic](/article/ortho-vs-cosmetic.html) can help you understand this better. Whitening might be all you need ($500-$1,500)
 - **Shape:** Chipped or worn edges? Bonding works ($150-$400 per tooth)
 - **Alignment:** Crooked? Might need orthodontics ($4,000-$8,000) or veneers to camouflage
 - **Multiple issues:** Combination treatment planned systematically
@@ -149,7 +149,7 @@ The cheaper option often makes sense unless you have specific risk factors.
 After initial treatment:
 - Cleanings: $75-$150 per visit (2-3 yearly = $150-$450/year)
 - Touch-ups: $100-$300/year
-- Whitening: $200-$400/year (if doing whitening)
+- Whitening: $200-$400/year (if doing whitening) You may also want to read about [smile design process](/article/smile-design-process.html).
 
 **Total: $300-$700 yearly**
 
@@ -241,6 +241,8 @@ When possible:
 ## Conclusion
 
 Smile improvement planning should match your specific concerns and budget. Start with diagnostic consultation ($150-$400) to identify what you need. Phase treatment from affordable (whitening $500-$1,500) to major work (veneers $6,000-$25,000). Use financing to spread costs. Plan maintenance ($300-$700 yearly). Avoid over-treatment by choosing appropriate solutions for each problem. Work with your dentist to develop a plan that makes sense for your goals and wallet.
+
+
 
 ## Related Articles You May Find Helpful
 

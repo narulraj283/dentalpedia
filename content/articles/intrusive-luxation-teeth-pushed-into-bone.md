@@ -3,7 +3,7 @@ title: Intrusive Luxation - Teeth Pushed Into Bone - Pediatric and Permanent Den
 slug: intrusive-luxation-teeth-pushed-into-bone
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Intrusive luxation represents the most severe dentoalveolar injury with distinct management differences between primary and permanent dentition. This guide covers Andreasen classification, treatment algorithms, spontaneous re-eruption monitoring, surgical repositioning protocols, and long-term outcome expectations.
+excerpt: "Intrusive luxation represents the most severe dentoalveolar injury with distinct management differences between primary and permanent dentition."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -6,7 +6,7 @@ category_slug: general-dentistry
 subcategory: Major Restorations
 subcategory_slug: major-restorations
 reviewer_specialty: Prosthodontics, Implant Dentistry
-excerpt: Clinical decision-making for missing tooth restoration. Crown on implant vs bridge comparison, case selection criteria, and evidence-based treatment planning algorithm.
+excerpt: "Losing a tooth—whether from decay, injury, or extraction—leaves a gap that affects how you eat and smile."
 date: "2026-03-05"
 read_time: 8
 reviewed: true
@@ -125,5 +125,5 @@ Your dentist is your partner in oral health. The more openly you communicate abo
 
 Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
 
-> **Key Takeaway:** Understanding benefits of crown vs bridge decision helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** Losing a tooth—whether from decay, injury, or extraction—leaves a gap that affects how you eat and smile. Your dentist can help you understand what steps are right for your specific needs.
 

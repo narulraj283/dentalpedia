@@ -3,7 +3,7 @@ title: Patient Rights in Dentistry—Understanding Your Informed Consent, Privac
 slug: patient-rights-in-dentistry
 category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: Explore the legal and ethical protections that safeguard patient autonomy, privacy, and access to dental care including informed consent, HIPAA protections, and complaint resolution processes.
+excerpt: "Explore the legal and ethical protections that safeguard patient autonomy, privacy, and access to dental care including informed consent, HIPAA."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

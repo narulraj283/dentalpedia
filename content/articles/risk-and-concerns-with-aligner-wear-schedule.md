@@ -3,7 +3,7 @@ title: Clear Aligner Wear Schedule - Compliance Requirements and Tracking Proble
 slug: risk-and-concerns-with-aligner-wear-schedule
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Aligner therapy requires strict 22-hour daily wear to maintain tracking; inadequate compliance causes attachment failures, prediction errors, and requires refinement aligners compromising efficiency.
+excerpt: "Aligner therapy requires strict 22-hour daily wear to maintain tracking; inadequate compliance causes attachment failures, prediction errors, and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontist

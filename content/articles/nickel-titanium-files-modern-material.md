@@ -5,7 +5,7 @@ category: Endodontics
 category_slug: endodontics
 subcategory: Endodontic Overview
 subcategory_slug: overview-endo
-excerpt: Nickel-titanium instruments revolutionized root canal treatment, offering superior flexibility and fracture resistance compared to stainless steel alternatives.
+excerpt: "Nickel-titanium instruments revolutionized root canal treatment, offering superior flexibility and fracture resistance compared to stainless steel."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -3,7 +3,7 @@ title: Why Oral Surgery Recovery Timeline Matters
 slug: why-oral-surgery-recovery-timeline-matters
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive clinical evidence on oral surgery recovery timelines, including socket healing phases, bone remodeling processes, and evidence-based protocols for managing post-extraction recovery.
+excerpt: "Comprehensive clinical evidence on oral surgery recovery timelines, including socket healing phases, bone remodeling processes, and evidence-based."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Oral and Maxillofacial Surgery

@@ -1,9 +1,9 @@
 ---
-title: Implant Crown Selection: Ceramic vs Zirconia
+title: "Implant Crown Selection: Ceramic vs Zirconia"
 slug: implant-crown-selection-ceramic-vs-zirconia
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Detailed comparison of ceramic and zirconia crown materials for implant restorations including esthetic properties, mechanical performance, longevity, and clinical applications.
+excerpt: "Detailed comparison of ceramic and zirconia crown materials for implant restorations including esthetic properties, mechanical performance,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

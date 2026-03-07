@@ -3,7 +3,7 @@ title: Why Pain Management in Surgery Matters
 slug: why-pain-management-surgery-matters
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive analysis of intraoperative and post-operative pain management protocols in oral surgery, including local anesthetic options, adjunctive medications, and evidence-based analgesic strategies.
+excerpt: "Comprehensive analysis of intraoperative and post-operative pain management protocols in oral surgery, including local anesthetic options, adjunctive."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Oral and Maxillofacial Surgery

@@ -3,7 +3,7 @@ title: Oral Submucous Fibrosis - Areca Nut Etiology, Staging, and Treatment Opti
 slug: oral-submucous-fibrosis-restricted-mouth-opening
 category: Oral Health Conditions
 category_slug: oral-health-conditions
-excerpt: Areca nut and betel quid carcinogenesis, histopathological features, clinical staging systems, intralesional injection therapy (hyaluronidase, steroids), surgical management, and malignant transformation risk quantification.
+excerpt: "Areca nut and betel quid carcinogenesis, histopathological features, clinical staging systems, intralesional injection therapy (hyaluronidase,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

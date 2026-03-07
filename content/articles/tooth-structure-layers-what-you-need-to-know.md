@@ -1,9 +1,9 @@
 ---
-title: Tooth Structure and Layers: What You Need to Know
+title: "Tooth Structure and Layers: What You Need to Know"
 slug: tooth-structure-layers-what-you-need-to-know
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Patient-friendly guide to tooth anatomy, how each layer functions, why damage matters, how dentists repair each layer, and prevention strategies for maintaining tooth structure.
+excerpt: "Patient-friendly guide to tooth anatomy, how each layer functions, why damage matters, how dentists repair each layer, and prevention strategies for."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: General Dentistry

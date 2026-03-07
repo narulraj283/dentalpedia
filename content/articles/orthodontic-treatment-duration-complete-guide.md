@@ -3,7 +3,7 @@ title: Orthodontic Treatment Duration Complete Guide
 slug: orthodontic-treatment-duration-complete-guide
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Evidence-based factors affecting treatment time, malocclusion complexity scoring, biological response variability, and accelerated orthodontic technologies.
+excerpt: "Evidence-based factors affecting treatment time, malocclusion complexity scoring, biological response variability, and accelerated orthodontic."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Orthodontics

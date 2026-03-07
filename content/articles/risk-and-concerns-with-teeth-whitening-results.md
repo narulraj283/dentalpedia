@@ -3,7 +3,7 @@ title: Risk and Concerns with Teeth Whitening Results
 slug: risk-and-concerns-with-teeth-whitening-results
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Professional teeth whitening delivers variable outcomes influenced by tooth structure, stain type, and baseline pigmentation, with significant relapse rates and sensitivity complications requiring evidence-based patient management.
+excerpt: "Professional teeth whitening delivers variable outcomes influenced by tooth structure, stain type, and baseline pigmentation, with significant."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

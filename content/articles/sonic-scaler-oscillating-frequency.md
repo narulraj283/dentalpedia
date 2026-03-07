@@ -3,7 +3,7 @@ title: Sonic Scalers - Oscillating Frequency and Subgingival Plaque Removal
 slug: sonic-scaler-oscillating-frequency
 category: Periodontics
 category_slug: periodontics
-excerpt: Sonic scalers operating at 3,000-8,000 Hz frequency with elliptical tip motion achieve effective subgingival calculus removal with superior patient comfort compared to manual instrumentation and ultrasonic devices.
+excerpt: "Sonic scalers operating at 3,000-8,000 Hz frequency with elliptical tip motion achieve effective subgingival calculus removal with superior patient."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontics

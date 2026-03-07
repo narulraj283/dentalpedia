@@ -1,9 +1,9 @@
 ---
-title: Tongue Cleaning Evidence: Effectiveness Against Oral Biofilm and Halitosis
+title: "Tongue Cleaning Evidence: Effectiveness Against Oral Biofilm and Halitosis"
 slug: tongue-cleaning-effectiveness-against-oral-bacteria
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based review of tongue cleaning methods, biofilm reduction efficacy, halitosis reduction mechanisms, and clinical recommendations for optimal oral hygiene outcomes.
+excerpt: "Evidence-based review of tongue cleaning methods, biofilm reduction efficacy, halitosis reduction mechanisms, and clinical recommendations for."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontics

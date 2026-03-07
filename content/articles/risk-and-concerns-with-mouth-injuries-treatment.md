@@ -3,7 +3,7 @@ title: Risk and Concerns with Mouth Injuries Treatment
 slug: risk-and-concerns-with-mouth-injuries-treatment
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Examining oral trauma management risks including delayed treatment consequences, reimplantation complications, soft tissue wound challenges, and infection progression in dental emergencies.
+excerpt: "Examining oral trauma management risks including delayed treatment consequences, reimplantation complications, soft tissue wound challenges, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: General Dentistry

@@ -3,7 +3,7 @@ title: Risk and Concerns with Plaque Removal Methods in Preventive Care
 slug: risk-and-concerns-with-plaque-removal-methods
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Examining clinical complications from aggressive scaling, ultrasonic instrumentation thermal effects, and chemical plaque control side effects in preventive dentistry.
+excerpt: "Examining clinical complications from aggressive scaling, ultrasonic instrumentation thermal effects, and chemical plaque control side effects in."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Preventive Dentistry

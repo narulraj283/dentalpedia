@@ -1,9 +1,9 @@
 ---
-title: The Timeline of Cavity Formation: Understanding Caries Progression From Initial Demineralization to Pulp Involvement
+title: "The Timeline of Cavity Formation: Understanding Caries Progression From Initial Demineralization to Pulp Involvement"
 slug: timeline-for-cavity-formation-process
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Dental caries progress through distinct histological stages over weeks to months, beginning with subsurface demineralization and potentially reaching the pulp chamber if untreated.
+excerpt: "Dental caries progress through distinct histological stages over weeks to months, beginning with subsurface demineralization and potentially reaching."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

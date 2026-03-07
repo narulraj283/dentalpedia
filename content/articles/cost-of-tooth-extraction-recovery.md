@@ -33,7 +33,7 @@ Simple extraction takes 15 to 30 minutes in the dental chair. Local anesthesia k
 
 Surgical extraction of impacted, retained, or fractured teeth costs $500 to $2,500 per tooth. Horizontally impacted wisdom teeth cost $800 to $1,200 each. Vertically or partially impacted wisdom teeth cost $500 to $800 each. Deeply impacted teeth requiring bone removal and tooth sectioning cost $1,200 to $2,500 each. Four wisdom teeth extraction (if all surgical) totals $2,000 to $5,000.
 
-Surgical extraction requires an oral surgeon, takes 30 to 60 minutes per tooth, involves bone removal and sometimes tooth sectioning, and requires sutures. Recovery is 7 to 10 days with swelling, bruising, and discomfort. Surgical extraction is more invasive but sometimes medically necessary.
+Surgical extraction requires an oral surgeon, takes 30 to 60 minutes per tooth, involves bone removal and sometimes tooth sectioning, and requires sutures. Learning more about [cost of tooth decay prevention](/article/cost-of-tooth-decay-prevention.html) can help you understand this better. Recovery is 7 to 10 days with swelling, bruising, and discomfort. Surgical extraction is more invasive but sometimes medically necessary.
 
 ## Anesthesia and Pain Management Options
 
@@ -53,7 +53,7 @@ Weeks 3-12: Bone fills the socket progressively. By 8 weeks, about 40 to 50 perc
 
 Over-the-counter ibuprofen (400-600 mg) costs $0.10 to $0.20 per dose and works adequately for 70 to 80 percent of patients. Generic ibuprofen for a 5 to 7 day period costs about $2 to $5 total.
 
-Prescription pain medication (oxycodone or hydrocodone) costs $1 to $3 per tablet. A 5 to 7 day supply costs $20 to $100. Most patients need narcotic pain medication only 3 to 5 days. If pain persists beyond 7 days, you might have complications (dry socket, infection) requiring professional evaluation ($100 to $300).
+Prescription pain medication (oxycodone or hydrocodone) costs $1 to $3 per tablet. Learning more about [cost of tooth restoration comparison](/article/cost-of-tooth-restoration-comparison.html) can help you understand this better. A 5 to 7 day supply costs $20 to $100. Most patients need narcotic pain medication only 3 to 5 days. If pain persists beyond 7 days, you might have complications (dry socket, infection) requiring professional evaluation ($100 to $300).
 
 ## Dry Socket: Painful Complication
 
@@ -100,6 +100,8 @@ Most dental insurance covers 50 to 80 percent of extraction costs for medically 
 ## Conclusion
 
 Simple tooth extraction costs $75 to $300 with quick recovery. Surgical extraction costs $500 to $2,500 with 7 to 10 day recovery. Budget for aftercare supplies, pain medication, and possible complications. Plan for tooth replacement costing $2,000 to $7,000 per tooth.
+
+
 
 ## Related Articles You May Find Helpful
 

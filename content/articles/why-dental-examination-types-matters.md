@@ -3,7 +3,7 @@ title: Why Different Dental Examination Types Matter in Patient Care
 slug: why-dental-examination-types-matters
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Early disease detection, oral cancer screening protocols, risk assessment methodology, treatment planning optimization, and prevention strategy development.
+excerpt: "Early disease detection, oral cancer screening protocols, risk assessment methodology, treatment planning optimization, and prevention strategy."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

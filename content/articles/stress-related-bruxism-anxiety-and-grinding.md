@@ -3,7 +3,7 @@ title: Stress-Related Bruxism, Anxiety, and Grinding - Clinical Management
 slug: stress-related-bruxism-anxiety-and-grinding
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Understanding the neuroendocrine mechanisms of anxiety-driven bruxism and evidence-based treatment protocols including polysomnographic assessment and occlusal guard design.
+excerpt: "Understanding the neuroendocrine mechanisms of anxiety-driven bruxism and evidence-based treatment protocols including polysomnographic assessment."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Sleep Medicine Dentistry

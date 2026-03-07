@@ -3,7 +3,7 @@ title: Surgical Success Rates Across Oral Surgery - Evidence-Based Outcome Data
 slug: surgical-success-rates-complete-guide
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive analysis of success rates for wisdom teeth extraction, implants, apicoectomy, and orthognathic surgery with factors affecting outcomes and evidence quality.
+excerpt: "Comprehensive analysis of success rates for wisdom teeth extraction, implants, apicoectomy, and orthognathic surgery with factors affecting outcomes."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgeon

@@ -6,7 +6,7 @@ category_slug: preventive-care
 subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
 reviewer_specialty: Preventive Dentistry
-excerpt: Comprehensive clinical evidence on interdental cleaning efficacy, comparing traditional floss, interdental brushes, water flossers, and other tools with specific technique recommendations and compliance strategies.
+excerpt: "Everyone knows they should floss, but only about 30% of adults actually do it regularly."
 date: 2026-03-05
 read_time: 8 min
 reviewed: true
@@ -148,5 +148,5 @@ Interdental cleaning represents an indispensable component of oral hygiene compl
 - [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
 
 
-> **Key Takeaway:** Understanding the benefits of flossing helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** Everyone knows they should floss, but only about 30% of adults actually do it regularly. Your dentist can help you understand what steps are right for your specific needs.
 

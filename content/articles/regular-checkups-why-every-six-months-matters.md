@@ -3,7 +3,7 @@ title: "Regular Checkups: Why Every Six Months Matters"
 slug: regular-checkups-why-every-six-months-matters
 category: Preventive Care
 category_slug: preventive-care
-excerpt: "The science behind the six-month recall interval: evidence-based examination protocols, risk stratification, and how comprehensive checkups prevent serious dental disease progression."
+excerpt: "The science behind the six-month recall interval: evidence-based examination protocols, risk stratification, and how comprehensive checkups prevent."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

@@ -1,5 +1,5 @@
 ---
-title: Implant Materials: Titanium vs Zirconia Implants
+title: "Implant Materials: Titanium vs Zirconia Implants"
 slug: implant-materials-titanium-vs-zirconia-implants
 category: Dental Implants
 category_slug: dental-implants

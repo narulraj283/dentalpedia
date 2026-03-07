@@ -1,6 +1,6 @@
 ---
 title: "No-Prep Veneers: Conservative Cosmetic Transformation without Tooth Structure Removal"
-excerpt: "Explore how no-prep veneers achieve dramatic aesthetic improvements while preserving tooth structure, including material options, techniques, and candidacy assessment."
+excerpt: "Explore how no-prep veneers achieve dramatic aesthetic improvements while preserving tooth structure, including material options, techniques, and."
 category: "dental-technology"
 subcategory: "Technology Overview"
 page_type: "overview-technology"

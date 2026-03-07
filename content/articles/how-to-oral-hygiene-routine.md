@@ -3,7 +3,7 @@ title: Establishing an Effective Daily Oral Hygiene Routine for Caries and Perio
 slug: how-to-oral-hygiene-routine
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Comprehensive daily oral hygiene protocols combining mechanical plaque removal, chemical adjuncts, and timing strategies to achieve optimal periodontal health and caries prevention.
+excerpt: "Comprehensive daily oral hygiene protocols combining mechanical plaque removal, chemical adjuncts, and timing strategies to achieve optimal."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

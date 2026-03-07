@@ -3,7 +3,7 @@ title: Nerve Damage and Paresthesia Following Tooth Extraction
 slug: nerve-damage-paresthesia-after-extraction
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive analysis of trigeminal nerve injuries following dental extraction, inferior alveolar and lingual nerve damage mechanisms, incidence rates, microsurgical repair strategies, sensory recovery timelines, and prevention protocols.
+excerpt: "Comprehensive analysis of trigeminal nerve injuries following dental extraction, inferior alveolar and lingual nerve damage mechanisms, incidence."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

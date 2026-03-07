@@ -3,7 +3,7 @@ title: Post-Sedation Instructions - Complete Recovery Monitoring and Safety Guid
 slug: post-sedation-instructions
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Comprehensive post-sedation recovery protocols including escort requirements, driving restrictions, dietary guidelines, and evidence-based safety monitoring for different sedation modalities.
+excerpt: "Comprehensive post-sedation recovery protocols including escort requirements, driving restrictions, dietary guidelines, and evidence-based safety."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

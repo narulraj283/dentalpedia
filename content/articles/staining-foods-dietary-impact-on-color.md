@@ -1,9 +1,9 @@
 ---
-title: Foods and Beverages That Stain Teeth: Dietary Impact on Tooth Color
+title: "Foods and Beverages That Stain Teeth: Dietary Impact on Tooth Color"
 slug: staining-foods-dietary-impact-on-color
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Understanding chromogenic compounds in common foods and beverages, mechanisms of dietary staining, and evidence-based prevention strategies for color preservation.
+excerpt: "Understanding chromogenic compounds in common foods and beverages, mechanisms of dietary staining, and evidence-based prevention strategies for color."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Preventive Dentistry

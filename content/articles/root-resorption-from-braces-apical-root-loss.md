@@ -3,7 +3,7 @@ title: Orthodontic Root Resorption - Minimizing Apical Root Loss During Braces
 slug: root-resorption-from-braces-apical-root-loss
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Master orthodontic-induced root resorption (OIRR) mechanisms, identify genetic and clinical risk factors, implement evidence-based monitoring protocols, optimize force management, and manage severe cases through treatment modification.
+excerpt: "Master orthodontic-induced root resorption (OIRR) mechanisms, identify genetic and clinical risk factors, implement evidence-based monitoring."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontist

@@ -3,7 +3,7 @@ title: Tooth Extraction Aftercare, Recovery, and Complication Management
 slug: tooth-extraction-aftercare-recovery-and-complications
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Clinical guide to post-extraction care including gauze protocol, activity restrictions, dietary recommendations, and management of complications like dry socket and infection.
+excerpt: "Clinical guide to post-extraction care including gauze protocol, activity restrictions, dietary recommendations, and management of complications like."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

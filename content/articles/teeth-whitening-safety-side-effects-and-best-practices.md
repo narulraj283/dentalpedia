@@ -1,9 +1,9 @@
 ---
-title: Teeth Whitening Safety: Side Effects, Risk Mitigation, and Clinical Best Practices
+title: "Teeth Whitening Safety: Side Effects, Risk Mitigation, and Clinical Best Practices"
 slug: teeth-whitening-safety-side-effects-and-best-practices
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensive safety profile of tooth whitening including sensitivity prevalence, pulp effects, enamel changes, contraindications, and risk reduction strategies.
+excerpt: "Comprehensive safety profile of tooth whitening including sensitivity prevalence, pulp effects, enamel changes, contraindications, and risk reduction."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

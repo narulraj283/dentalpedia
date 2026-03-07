@@ -1,9 +1,9 @@
 ---
-title: Stainless Steel Endodontic Files: Metallurgy, Properties, and Clinical Applications
+title: "Stainless Steel Endodontic Files: Metallurgy, Properties, and Clinical Applications"
 slug: stainless-steel-files-traditional-material
 category: Endodontics
 category_slug: endodontics
-excerpt: Comprehensive analysis of stainless steel file metallurgy, cutting efficiency, ISO standards, sequential filing technique, and clinical advantages in traditional endodontic instrumentation.
+excerpt: "Comprehensive analysis of stainless steel file metallurgy, cutting efficiency, ISO standards, sequential filing technique, and clinical advantages in."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Endodontics

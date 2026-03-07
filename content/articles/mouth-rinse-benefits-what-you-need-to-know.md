@@ -1,9 +1,9 @@
 ---
-title: Mouth Rinse Benefits: What You Need to Know
+title: "Mouth Rinse Benefits: What You Need to Know"
 slug: mouth-rinse-benefits-what-you-need-to-know
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Selecting appropriate mouthrinse formulations based on clinical need—antimicrobial activity for inflammation, fluoride for caries risk, or specific therapeutic agents—enhances mechanical cleaning efficacy. Professional guidance ensures optimal selection avoiding unnecessary products.
+excerpt: "Selecting appropriate mouthrinse formulations based on clinical need—antimicrobial activity for inflammation, fluoride for caries risk, or specific."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

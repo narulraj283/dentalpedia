@@ -1,9 +1,9 @@
 ---
-title: Tooth Gap Closure: What You Need to Know
+title: "Tooth Gap Closure: What You Need to Know"
 slug: tooth-gap-closure-what-you-need-to-know
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Learn about diastema causes, treatment options including orthodontics and cosmetic bonding, costs, timelines, and maintenance strategies to achieve your ideal smile.
+excerpt: "Learn about diastema causes, treatment options including orthodontics and cosmetic bonding, costs, timelines, and maintenance strategies to achieve."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

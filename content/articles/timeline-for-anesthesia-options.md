@@ -1,9 +1,9 @@
 ---
-title: Dental Anesthesia Timeline: Onset, Duration, and Recovery Profiles Across Anesthetic Modalities
+title: "Dental Anesthesia Timeline: Onset, Duration, and Recovery Profiles Across Anesthetic Modalities"
 slug: timeline-for-anesthesia-options
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Comprehensive timeline analysis of local anesthetic onset, duration variability across agent types, sedation pharmacokinetics, and general anesthesia induction/emergence profiles.
+excerpt: "Comprehensive timeline analysis of local anesthetic onset, duration variability across agent types, sedation pharmacokinetics, and general anesthesia."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Dental Anesthesia and Pain Management

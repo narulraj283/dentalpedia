@@ -3,7 +3,7 @@ title: Three-Unit Fixed Partial Dentures for Limited Space Edentulous Sites
 slug: three-unit-bridge-limited-space-solution
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Ante's law application, connector design specifications, material selection for three-unit bridges, preparation principles, pontic design, cementation protocols, and clinical longevity data.
+excerpt: "Ante's law application, connector design specifications, material selection for three-unit bridges, preparation principles, pontic design,."
 date: 2026-03-05
 read_time: 15 min
 reviewer_specialty: Prosthodontics

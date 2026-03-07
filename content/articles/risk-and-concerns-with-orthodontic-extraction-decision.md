@@ -3,7 +3,7 @@ title: Risk and Concerns with Orthodontic Extraction Decision
 slug: risk-concerns-orthodontic-extraction-decision
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Extraction versus non-extraction treatment planning remains controversial with extraction carrying risks of profile changes, anchorage loss, space closure challenges, and irreversible permanent tooth loss.
+excerpt: "Extraction versus non-extraction treatment planning remains controversial with extraction carrying risks of profile changes, anchorage loss, space."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Orthodontics

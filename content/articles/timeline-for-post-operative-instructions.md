@@ -3,7 +3,7 @@ title: Post-Operative Instructions and Recovery Timelines for Oral Surgery
 slug: timeline-for-post-operative-instructions
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive post-operative care protocols for oral surgical procedures including immediate management, dietary modifications, activity restrictions, and complication recognition.
+excerpt: "Comprehensive post-operative care protocols for oral surgical procedures including immediate management, dietary modifications, activity."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

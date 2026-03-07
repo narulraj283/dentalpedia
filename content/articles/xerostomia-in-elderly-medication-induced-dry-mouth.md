@@ -1,5 +1,5 @@
 ---
-title: Xerostomia in Elderly: Medication-Induced Dry Mouth
+title: "Xerostomia in Elderly: Medication-Induced Dry Mouth"
 slug: xerostomia-in-elderly-medication-induced-dry-mouth
 category: Geriatric Dentistry
 category_slug: geriatric-dentistry

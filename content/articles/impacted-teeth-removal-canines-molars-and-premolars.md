@@ -3,7 +3,7 @@ title: "Impacted Teeth Removal: Surgical Techniques for Canines, Molars, and Pre
 slug: impacted-teeth-removal-canines-molars-and-premolars
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Impacted teeth—teeth unable to erupt into normal occlusal position—require surgical extraction and/or orthodontic traction. Specific surgical techniques vary by tooth type: maxillary canines benefit from closed eruption, mandibular molars require strategic bone removal, and premolars demand careful soft tissue management. Evidence-based protocols optimize functional outcomes while minimizing nerve injury and bone loss.
+excerpt: "Impacted teeth—teeth unable to erupt into normal occlusal position—require surgical extraction and/or orthodontic traction."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

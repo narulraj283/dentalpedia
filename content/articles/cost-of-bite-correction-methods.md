@@ -74,7 +74,7 @@ Bite problems range from minor spacing to severe misalignment requiring surgery.
 
 **Clear aligners**: $3,500-$6,000 (often needs refinements $1,000-$2,000)
 - 18-30 months
-- 85-90% success for moderate cases
+- 85-90% success for moderate cases You may also want to read about [why braces food restrictions matters](/article/why-braces-food-restrictions-matters.html).
 
 **Best for moderate cases**: Fixed braces offer highest success and control; aligners work but may need extended treatment.
 
@@ -116,7 +116,7 @@ You need a consultation ($200-$400) where your orthodontist:
 - Advance lower teeth
 - Cost: Standard braces ($4,500-$6,500)
 - Timeline: 24-30 months
-- Success: 90-95%
+- Success: 90-95% You may also want to read about [herbst appliance fixed mandibular advancement](/article/herbst-appliance-fixed-mandibular-advancement.html).
 
 **Dental correction with extraction**:
 - Extract upper first bicuspids
@@ -233,7 +233,9 @@ After correction, retainers keep teeth straight:
 
 Bite correction costs vary dramatically based on severity: simple crowding costs $2,500-$5,000 and takes 18 months; moderate bite problems cost $4,500-$7,500 and take 24-30 months; severe skeletal problems cost $20,000-$40,000 with surgery and take 18-36 months. Most problems can be corrected with braces or aligners if caught while you're growing. Severe adult skeletal problems may require surgical correction for optimal results. Start with a consultation to understand your specific problem and best options.
 
-> ## Related Articles You May Find Helpful
+> 
+
+## Related Articles You May Find Helpful
 
 - [Why Braces Food Restrictions Matters](/article/why-braces-food-restrictions-matters.html)
 - [Herbst Appliance Fixed Mandibular Advancement](/article/herbst-appliance-fixed-mandibular-advancement.html)

@@ -3,7 +3,7 @@ title: Root Canal Sealers in Endodontic Treatment
 slug: sealer-cementing-root-canal-system
 category: Endodontics
 category_slug: endodontics
-excerpt: Root canal sealers are critical components of obturation systems that enhance sealing ability, biocompatibility, and clinical success of endodontic treatment.
+excerpt: "Root canal sealers are critical components of obturation systems that enhance sealing ability, biocompatibility, and clinical success of endodontic."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Endodontics

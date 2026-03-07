@@ -3,7 +3,7 @@ title: Sclerotic Dentin - Formation, Clinical Implications, and Bonding Challeng
 slug: sclerotic-dentin-blocked-tubules
 category: Endodontics
 category_slug: endodontics
-excerpt: Clinical overview of sclerotic dentin formation, tubular occlusion mechanisms, aging effects on dentin properties, adhesive challenges, preparation modifications, and bonding strategy selection.
+excerpt: "Clinical overview of sclerotic dentin formation, tubular occlusion mechanisms, aging effects on dentin properties, adhesive challenges, preparation."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Endodontics

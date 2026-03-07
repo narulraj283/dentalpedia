@@ -1,5 +1,5 @@
 ---
-title: Tongue Tie Release: What Parents Need to Know
+title: "Tongue Tie Release: What Parents Need to Know"
 slug: frenulum-removal-frenotomy-and-tongue-tie-release
 category: Oral Surgery
 category_slug: oral-surgery
@@ -15,7 +15,7 @@ references:
   - "Messner AH, Lalakea ML. Ankyloglossia: incidence, associated conditions, and complications of frenotomy. Laryngoscope. 2000;110(3):771-775."
 ---
 
-Your newborn is having trouble nursing, or you've heard about "tongue tie." What is this and why should you care? A tongue tie, medically called ankyloglossia, means a tissue under your baby's tongue is too short or attached in the wrong place, restricting how much the tongue can move. This seems like a tiny problem, but it can significantly affect feeding, speech development, and even your baby's long-term oral health. The good news is that a simple, quick procedure releases the restriction and solves the problem.
+Your newborn is having trouble nursing, or you've heard about "tongue tie." What is this and why should you care? Learning more about [fluoride varnish pediatric high strength](/article/fluoride-varnish-pediatric-high-strength.html) can help you understand this better. A tongue tie, medically called ankyloglossia, means a tissue under your baby's tongue is too short or attached in the wrong place, restricting how much the tongue can move. This seems like a tiny problem, but it can significantly affect feeding, speech development, and even your baby's long-term oral health. The good news is that a simple, quick procedure releases the restriction and solves the problem.
 
 ## What is Tongue Tie?
 
@@ -35,7 +35,7 @@ Beyond infancy, tongue tie can affect speech development. Sounds like "t," "d," 
 
 If left untreated, tongue tie causes physical problems with teeth and gums. The restricted frenum pulls down hard on the tissue between your lower front teeth, causing gum recession (the gum pulls away from the teeth). The front teeth can develop spaces between them because the tongue isn't providing normal pressure while growing.
 
-The bite can develop an anterior open bite—front teeth don't touch when back teeth are closed—because the tongue pushes forward abnormally during development.
+The bite can develop an anterior open bite—front teeth don't touch when back teeth are closed—because the tongue pushes forward abnormally during development. You may also want to read about [thumb sucking impact delayed weaning effects](/article/thumb-sucking-impact-delayed-weaning-effects.html).
 
 ## The Tongue Tie Release Procedure
 
@@ -82,6 +82,8 @@ Follow-up appointments at 2-4 weeks, 2-3 months, and 6-12 months monitor healing
 ## Conclusion
 
 Tongue tie is a simple problem with a simple solution. If your baby is having trouble nursing or you suspect tongue tie, talk to your pediatrician or dentist. Early identification and treatment prevent feeding difficulties, maternal pain, and long-term complications with speech and teeth. Discuss which options are right for your child's specific situation.
+
+
 
 ## Related Articles You May Find Helpful
 

@@ -3,7 +3,7 @@ title: Risk and Concerns with Recovery Timeline Variability in Oral Surgery
 slug: risk-and-concerns-with-recovery-timeline
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Examining recovery timeline risk factors including individual healing variability, comorbidity effects, smoking impact, age-related changes, and nutritional deficiency consequences.
+excerpt: "Examining recovery timeline risk factors including individual healing variability, comorbidity effects, smoking impact, age-related changes, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

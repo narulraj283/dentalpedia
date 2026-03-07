@@ -1,9 +1,9 @@
 ---
-title: Infant Tongue-Tie (Ankyloglossia): Assessment, Early Recognition, and Intervention Timing
+title: "Infant Tongue-Tie (Ankyloglossia): Assessment, Early Recognition, and Intervention Timing"
 slug: tongue-tie-ankyloglossia-in-infants-and-toddlers
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Clinical guide to identifying ankyloglossia in infants and toddlers, using evidence-based assessment tools, determining intervention need, and providing appropriate provider referral and post-procedure care guidance.
+excerpt: "Clinical guide to identifying ankyloglossia in infants and toddlers, using evidence-based assessment tools, determining intervention need, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Pediatric Dentistry and Pediatrics

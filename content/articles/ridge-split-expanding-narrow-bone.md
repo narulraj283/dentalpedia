@@ -3,7 +3,7 @@ title: Ridge Split Technique - Bone Expansion for Narrow Ridges and Dental Impla
 slug: ridge-split-expanding-narrow-bone
 category: Prosthodontics
 category_slug: dental-implants
-excerpt: Ridge splitting expands deficient bone through piezoelectric instruments and internal spreading, enabling simultaneous implant placement while avoiding block grafting morbidity.
+excerpt: "Ridge splitting expands deficient bone through piezoelectric instruments and internal spreading, enabling simultaneous implant placement while."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgeon

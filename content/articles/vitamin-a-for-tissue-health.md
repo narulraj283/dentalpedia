@@ -1,9 +1,9 @@
 ---
-title: Vitamin A for Tissue Health: Oral Epithelium and Immune Function
+title: "Vitamin A for Tissue Health: Oral Epithelium and Immune Function"
 slug: vitamin-a-for-tissue-health
 category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: Comprehensive review of vitamin A's role in oral health, epithelial maintenance, immune function, wound healing, deficiency manifestations, dietary sources, and supplementation guidelines.
+excerpt: "Comprehensive review of vitamin A's role in oral health, epithelial maintenance, immune function, wound healing, deficiency manifestations, dietary."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Dental Nutrition

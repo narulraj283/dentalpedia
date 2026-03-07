@@ -1,9 +1,9 @@
 ---
-title: Smile Enhancement Treatment Options: Comprehensive Selection Guide
+title: "Smile Enhancement Treatment Options: Comprehensive Selection Guide"
 slug: how-to-smile-enhancement-options
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Clinical comparison of cosmetic treatment modalities including whitening, bonding, veneers, crowns, and orthodontics with selection criteria, longevity, and outcome considerations.
+excerpt: "Clinical comparison of cosmetic treatment modalities including whitening, bonding, veneers, crowns, and orthodontics with selection criteria,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

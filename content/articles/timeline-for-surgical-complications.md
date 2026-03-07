@@ -1,9 +1,9 @@
 ---
-title: Oral Surgical Complications: Classification, Timeline, Risk Stratification, and Management Protocols
+title: "Oral Surgical Complications: Classification, Timeline, Risk Stratification, and Management Protocols"
 slug: timeline-for-surgical-complications
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Surgical complications occur across intraoperative, early postoperative, and delayed phases—understanding complication timelines and risk factors enables clinicians to implement preventive strategies and manage complications effectively.
+excerpt: "Surgical complications occur across intraoperative, early postoperative, and delayed phases—understanding complication timelines and risk factors."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

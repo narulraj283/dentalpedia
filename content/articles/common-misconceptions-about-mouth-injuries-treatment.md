@@ -36,7 +36,7 @@ This is the scenario where time is everything. A tooth that's replanted within 1
 
 Milk is remarkable for preserving tooth viability—it maintains the pH and osmotic balance needed for the cells around the root to stay alive. If you don't have milk, saline works. Water is better than nothing but isn't ideal (osmotic pressure differences damage cells).
 
-The goal is to preserve the periodontal ligament (the tissue around the root), not the tooth's prettiness or color.
+The goal is to preserve the periodontal ligament (the tissue around the root), not the tooth's prettiness or color. You may also want to read about [hydrodynamic theory sensitivity explanation](/article/hydrodynamic-theory-sensitivity-explanation.html).
 
 ## Myth: My Tooth Is Too Damaged, Don't Bother Replanting It
 
@@ -54,7 +54,7 @@ Delayed treatment (treating a crack days or weeks later) is much less successful
 
 ## Myth: A Cracked Tooth Will Be Painful Immediately
 
-Not always. Sometimes a crack causes no pain initially because the nerve tissue is fine. Pain might develop hours or days later. Some cracked teeth never cause pain. But the lack of pain doesn't mean the tooth is fine—it just means inflammation hasn't started yet.
+Not always. Learning more about [cavity formation process complete guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. Sometimes a crack causes no pain initially because the nerve tissue is fine. Pain might develop hours or days later. Some cracked teeth never cause pain. But the lack of pain doesn't mean the tooth is fine—it just means inflammation hasn't started yet.
 
 Any crack warrants professional evaluation. Your dentist can determine whether the pulp is endangered and what treatment makes sense.
 
@@ -96,9 +96,19 @@ Knocked-out baby teeth generally shouldn't be replanted—the trauma and infecti
 
 Cracked or loose baby teeth might be monitored rather than treated, since they'll eventually shed anyway. Your dentist guides this decision based on the tooth's age and timeline.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about mouth injuries treatment and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
 ## Conclusion
 
 Traumatic mouth injuries need rapid professional evaluation. Knocked-out teeth have excellent survival chances if replanted within 15-30 minutes—delay dramatically reduces success. Time is critical: immediate action matters more than waiting for perfect conditions. Cracked teeth might not need root canal immediately, but they need professional assessment and often require stabilization. Professional closure of mouth lacerations improves healing. Antibiotic prophylaxis reduces infection risk after traumatic injuries.
+
+
 
 ## Related Articles You May Find Helpful
 

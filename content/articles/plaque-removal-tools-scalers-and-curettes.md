@@ -3,7 +3,7 @@ title: Plaque Removal Tools Scalers and Curettes
 slug: plaque-removal-tools-scalers-and-curettes
 category: Periodontics
 category_slug: periodontics
-excerpt: Hand and ultrasonic instruments including gracey curettes, universal curettes, and sickle scalers enable professional subgingival plaque disruption and root surface treatment during periodontal therapy.
+excerpt: "Hand and ultrasonic instruments including gracey curettes, universal curettes, and sickle scalers enable professional subgingival plaque disruption."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontics

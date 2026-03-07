@@ -1,9 +1,9 @@
 ---
-title: Stress Distribution in Implant Systems: Finite Element Analysis, Platform Switching, and Load-Sharing Biomechanics
+title: "Stress Distribution in Implant Systems: Finite Element Analysis, Platform Switching, and Load-Sharing Biomechanics"
 slug: stress-distribution-load-sharing
 category: Prosthodontics
 category_slug: dental-implants
-excerpt: Quantitative finite element analysis of stress distribution patterns in implant systems with focus on cortical/cancellous bone loading, platform switching, and cantilever effects on peri-implant structures.
+excerpt: "Quantitative finite element analysis of stress distribution patterns in implant systems with focus on cortical/cancellous bone loading, platform."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Implant Prosthodontist

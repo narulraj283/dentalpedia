@@ -3,7 +3,7 @@ title: Why Orthodontic Extraction Decision Matters
 slug: why-orthodontic-extraction-decision-matters
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Clinical decision-making framework for extraction versus non-extraction in orthodontics, including crowding severity assessment, profile impact, periodontal status, and evidence-based patient selection criteria.
+excerpt: "Clinical decision-making framework for extraction versus non-extraction in orthodontics, including crowding severity assessment, profile impact,."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Orthodontics

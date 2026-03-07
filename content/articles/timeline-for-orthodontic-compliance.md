@@ -1,9 +1,9 @@
 ---
-title: Timeline for Orthodontic Compliance: Elastic Wear, Aligner Adherence, and Patient Compliance Tracking
+title: "Timeline for Orthodontic Compliance: Elastic Wear, Aligner Adherence, and Patient Compliance Tracking"
 slug: timeline-for-orthodontic-compliance
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive guide to measuring and improving orthodontic patient compliance with focus on elastic wear patterns, aligner adherence monitoring, and treatment timeline impact.
+excerpt: "Comprehensive guide to measuring and improving orthodontic patient compliance with focus on elastic wear patterns, aligner adherence monitoring, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

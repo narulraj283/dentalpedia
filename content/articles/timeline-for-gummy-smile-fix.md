@@ -1,11 +1,11 @@
 ---
-title: Gummy Smile Correction: Etiology, Treatment Modalities, and Clinical Outcomes
+title: "Gummy Smile Correction: Etiology, Treatment Modalities, and Clinical Outcomes"
 slug: timeline-for-gummy-smile-fix
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
-excerpt: Comprehensive evaluation of gummy smile etiologies, surgical crown lengthening, lip repositioning techniques, botulinum toxin applications, and evidence-based treatment selection algorithms.
+excerpt: "Comprehensive evaluation of gummy smile etiologies, surgical crown lengthening, lip repositioning techniques, botulinum toxin applications, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic and Periodontal Surgery

@@ -1,5 +1,5 @@
 ---
-title: Coil Spring Mechanics in Orthodontics: Force Delivery, Clinical Applications, and Tooth Movement Optimization
+title: "Coil Spring Mechanics in Orthodontics: Force Delivery,"
 slug: coil-spring-compression-spring-force
 category: Orthodontics
 category_slug: orthodontics

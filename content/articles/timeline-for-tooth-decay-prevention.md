@@ -1,9 +1,9 @@
 ---
-title: Comprehensive Caries Prevention: Fluoride Use, Sealants, Diet, Saliva Optimization, and Risk Assessment
+title: "Comprehensive Caries Prevention: Fluoride Use, Sealants, Diet, Saliva Optimization, and Risk Assessment"
 slug: timeline-for-tooth-decay-prevention
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based caries prevention integrates fluoride applications, dental sealants, dietary modification, saliva enhancement, and individualized risk assessment across all age groups.
+excerpt: "Evidence-based caries prevention integrates fluoride applications, dental sealants, dietary modification, saliva enhancement, and individualized risk."
 date: 2026-03-05
 read_time: 14 min
 reviewer_specialty: Preventive Dentist

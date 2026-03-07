@@ -3,7 +3,7 @@ title: Oral Irrigators and Water Flossers - Do They Really Work for Plaque Remov
 slug: oral-irrigators-do-water-flossers-really-work
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based analysis of water flosser efficacy versus string floss, mechanism of cavitation biofilm disruption, Waterpik clinical studies, optimal pressure settings, and indications for implants and orthodontics.
+excerpt: "Evidence-based analysis of water flosser efficacy versus string floss, mechanism of cavitation biofilm disruption, Waterpik clinical studies, optimal."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

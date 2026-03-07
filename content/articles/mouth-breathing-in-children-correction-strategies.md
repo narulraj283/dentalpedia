@@ -1,9 +1,9 @@
 ---
-title: Mouth Breathing in Children: Correction Strategies
+title: "Mouth Breathing in Children: Correction Strategies"
 slug: mouth-breathing-in-children-correction-strategies
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Strategic intervention during childhood can reverse mouth breathing patterns and prevent lifelong malocclusion. Evidence-based approaches address underlying causes while establishing nasal breathing habits through systematic myofunctional retraining.
+excerpt: "Strategic intervention during childhood can reverse mouth breathing patterns and prevent lifelong malocclusion."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Pediatric Dentistry

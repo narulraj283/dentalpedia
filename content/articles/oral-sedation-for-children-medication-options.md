@@ -3,7 +3,7 @@ title: Oral Sedation for Children - Medication Options, Dosing, and Clinical Pro
 slug: oral-sedation-for-children-medication-options
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Evidence-based pediatric oral sedation using midazolam, hydroxyzine, and ketamine; dosing calculations, monitoring requirements, ASA classification, recovery protocols, and complications.
+excerpt: "Evidence-based pediatric oral sedation using midazolam, hydroxyzine, and ketamine; dosing calculations, monitoring requirements, ASA classification,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Pediatric Dentistry

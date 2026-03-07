@@ -1,9 +1,9 @@
 ---
-title: Stomatitis Herpetiformis: Grouped Oral Ulcers, Differential Diagnosis, and Colchicine Therapy
+title: "Stomatitis Herpetiformis: Grouped Oral Ulcers, Differential Diagnosis, and Colchicine Therapy"
 slug: stomatitis-herpetiformis-grouped-ulcers
 category: General Dentistry
 category_slug: oral-health-conditions
-excerpt: Clinical presentation, histopathologic features, differential diagnosis from HSV-1 infection, and evidence-based treatment with colchicine and dapsone for grouped aphthous-like ulcers.
+excerpt: "Clinical presentation, histopathologic features, differential diagnosis from HSV-1 infection, and evidence-based treatment with colchicine and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral Medicine Specialist

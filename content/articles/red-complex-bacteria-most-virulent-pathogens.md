@@ -3,7 +3,7 @@ title: Red Complex Bacteria and Most Virulent Periodontal Pathogens
 slug: red-complex-bacteria-most-virulent-pathogens
 category: Periodontics
 category_slug: periodontics
-excerpt: Socransky's red complex bacteria—particularly P. gingivalis, T. denticola, and T. forsythia—represent the most virulent periodontal pathogens, utilizing sophisticated virulence mechanisms and synergistic interactions that drive severe periodontitis.
+excerpt: "Socransky's red complex bacteria—particularly P. gingivalis, T. denticola, and T."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontics

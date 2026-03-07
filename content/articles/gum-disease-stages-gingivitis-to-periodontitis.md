@@ -1,9 +1,9 @@
 ---
-title: Gum Disease Stages: Gingivitis to Periodontitis
+title: "Gum Disease Stages: Gingivitis to Periodontitis"
 slug: gum-disease-stages-gingivitis-to-periodontitis
 category: Periodontics
 category_slug: periodontics
-excerpt: Clinical progression from reversible gingivitis through irreversible periodontitis stages with intervention milestones and prognostic indicators.
+excerpt: "Your gums don't go from healthy to diseased overnight. Gum disease progresses through predictable stages, each with specific warning signs."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Periodontics

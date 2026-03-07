@@ -1,9 +1,9 @@
 ---
-title: Before and After Smile Makeovers: Transform Your Smile
+title: "Before and After Smile Makeovers: Transform Your Smile"
 slug: how-to-before-and-after-smile
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: A smile makeover combines whitening, veneers, and gum contouring to transform how you look. Discover the steps, options, and results you can expect from smile makeover treatment.
+excerpt: "A smile makeover can transform not just your teeth, but your confidence and quality of life."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

@@ -3,7 +3,7 @@ title: Tooth Whitening Safety Protocols and Peroxide Chemistry in Bleaching
 slug: timeline-for-teeth-bleaching-safety
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Master bleaching safety through peroxide chemistry understanding, enamel effects analysis, pulp protection protocols, and sensitivity management strategies.
+excerpt: "Master bleaching safety through peroxide chemistry understanding, enamel effects analysis, pulp protection protocols, and sensitivity management."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

@@ -1,6 +1,6 @@
 ---
 title: "Nickel-Titanium Rotary Instruments: Advanced Endodontic Technology"
-excerpt: "Explore how nickel-titanium rotary systems revolutionized root canal preparation with superior flexibility, resistance to fracture, and more efficient canal shaping than hand instruments."
+excerpt: "Explore how nickel-titanium rotary systems revolutionized root canal preparation with superior flexibility, resistance to fracture, and more."
 category: "endodontics"
 subcategory: "Endodontic Overview"
 page_type: "overview-endo"

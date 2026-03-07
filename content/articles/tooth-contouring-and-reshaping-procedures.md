@@ -3,7 +3,7 @@ title: Tooth Contouring and Reshaping - Enameloplasty Clinical Techniques
 slug: tooth-contouring-and-reshaping-procedures
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Master enameloplasty techniques including indications, enamel thickness limits, diamond bur selection, and tooth reshaping protocols for cosmetic enhancement.
+excerpt: "Master enameloplasty techniques including indications, enamel thickness limits, diamond bur selection, and tooth reshaping protocols for cosmetic."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Cosmetic Dentistry

@@ -3,7 +3,7 @@ title: Risk and Concerns with Tooth Color Changes
 slug: risk-and-concerns-with-tooth-color-changes
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Tooth discoloration changes warrant careful differential diagnosis to distinguish physiological aging from pathological processes including medication effects, pulpal necrosis, and systemic disease markers requiring prompt clinical investigation.
+excerpt: "Tooth discoloration changes warrant careful differential diagnosis to distinguish physiological aging from pathological processes including."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

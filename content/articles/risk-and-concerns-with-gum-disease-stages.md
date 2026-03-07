@@ -3,7 +3,7 @@ title: Risk and Concerns with Gum Disease Stages
 slug: risk-and-concerns-with-gum-disease-stages
 category: Periodontics
 category_slug: periodontics
-excerpt: Examining limitations in staging and grading periodontal disease, clinical measurement variability, bleeding on probing interpretation challenges, and attachment loss assessment limitations.
+excerpt: "Examining limitations in staging and grading periodontal disease, clinical measurement variability, bleeding on probing interpretation challenges,."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontics

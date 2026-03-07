@@ -1,9 +1,9 @@
 ---
-title: Orthodontic Treatment Costs Explained: Patient Guide to Pricing, Insurance, and Financing
+title: "Orthodontic Treatment Costs Explained: Patient Guide to Pricing, Insurance, and Financing"
 slug: teeth-straightening-cost-what-you-need-to-know
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Navigate orthodontic costs with expert guidance on typical pricing by treatment type, insurance coverage, financing options, and hidden expenses to budget for.
+excerpt: "Navigate orthodontic costs with expert guidance on typical pricing by treatment type, insurance coverage, financing options, and hidden expenses to."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Orthodontist

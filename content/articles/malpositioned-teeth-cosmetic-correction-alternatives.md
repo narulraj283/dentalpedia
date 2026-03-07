@@ -1,5 +1,5 @@
 ---
-title: Malpositioned Teeth: Cosmetic Correction Alternatives
+title: "Malpositioned Teeth: Cosmetic Correction Alternatives"
 slug: malpositioned-teeth-cosmetic-correction-alternatives
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry

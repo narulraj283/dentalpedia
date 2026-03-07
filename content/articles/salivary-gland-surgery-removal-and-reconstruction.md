@@ -3,7 +3,7 @@ title: Salivary Gland Surgery - Removal, Reconstruction, and Tumor Management
 slug: salivary-gland-surgery-removal-and-reconstruction
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive review of salivary gland pathology management, including sialolithiasis treatment, malignancy resection, sialoendoscopic interventions, and surgical reconstruction principles.
+excerpt: "Comprehensive review of salivary gland pathology management, including sialolithiasis treatment, malignancy resection, sialoendoscopic interventions,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

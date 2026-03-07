@@ -3,7 +3,7 @@ title: "Cosmetic Gum Shaping: What Every Patient Should Know"
 slug: best-practices-for-cosmetic-gum-shaping
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Evidence-based clinical approaches to esthetic gum contouring, tissue grafting, and smile design with wound healing timelines.
+excerpt: "Your gums frame your teeth just like a mat frames a picture."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry
@@ -94,5 +94,5 @@ Your gums might seem like background to your teeth, but they're actually the sta
 - [Anterior Guidance: How Incisor Position Controls Bite Mechanics](/article/anterior-guidance-incisor-controlling-bite.html)
 
 
-> **Key Takeaway:** Understanding cosmetic gum shaping helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** Your gums frame your teeth just like a mat frames a picture. Your dentist can help you understand what steps are right for your specific needs.
 

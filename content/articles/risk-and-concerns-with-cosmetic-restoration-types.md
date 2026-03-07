@@ -3,7 +3,7 @@ title: Comparative Risks of Cosmetic Restoration Types and Material Selection
 slug: risk-and-concerns-with-cosmetic-restoration-types
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Understanding comparative risks and limitations of veneers, crowns, bonded restorations, and direct veneers including tooth structure loss, reversibility, material failures, and clinical outcomes affecting long-term tooth preservation.
+excerpt: "Understanding comparative risks and limitations of veneers, crowns, bonded restorations, and direct veneers including tooth structure loss,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic Dentistry

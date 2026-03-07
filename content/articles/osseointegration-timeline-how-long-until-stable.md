@@ -1,9 +1,9 @@
 ---
-title: Osseointegration Timeline: How Long Until Stable
+title: "Osseointegration Timeline: How Long Until Stable"
 slug: osseointegration-timeline-how-long-until-stable
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Track implant healing phase by phase, understand ISQ stability measurements, learn when implants achieve loading readiness, and why patience determines success.
+excerpt: "Track implant healing phase by phase, understand ISQ stability measurements, learn when implants achieve loading readiness, and why patience."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Implant Prosthodontist

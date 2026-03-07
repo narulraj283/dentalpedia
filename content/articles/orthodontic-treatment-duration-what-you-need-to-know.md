@@ -1,5 +1,5 @@
 ---
-title: Orthodontic Treatment Duration: What You Need to Know
+title: "Orthodontic Treatment Duration: What You Need to Know"
 slug: orthodontic-treatment-duration-what-you-need-to-know
 category: Orthodontics
 category_slug: orthodontics

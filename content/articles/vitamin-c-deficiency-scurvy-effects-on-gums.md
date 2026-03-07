@@ -1,9 +1,9 @@
 ---
-title: Vitamin C Deficiency and Scurvy: Effects on Gingival Health
+title: "Vitamin C Deficiency and Scurvy: Effects on Gingival Health"
 slug: vitamin-c-deficiency-scurvy-effects-on-gums
 category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: Comprehensive analysis of vitamin C deficiency and scurvy's oral manifestations, collagen synthesis impairment, gingival hemorrhage, periodontal destruction, diagnosis, and ascorbic acid supplementation protocols.
+excerpt: "Comprehensive analysis of vitamin C deficiency and scurvy's oral manifestations, collagen synthesis impairment, gingival hemorrhage, periodontal."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Dental Nutrition

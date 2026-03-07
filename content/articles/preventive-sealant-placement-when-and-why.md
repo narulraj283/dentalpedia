@@ -1,9 +1,9 @@
 ---
-title: Preventive Sealant Placement: Clinical Decision-Making, Timing, and Technique
+title: "Preventive Sealant Placement: Clinical Decision-Making, Timing, and Technique"
 slug: preventive-sealant-placement-when-and-why
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based clinical practice guidelines for pit and fissure sealant placement, including patient selection criteria, optimal eruption timing, moisture control, material selection, and cost-effectiveness.
+excerpt: "Evidence-based clinical practice guidelines for pit and fissure sealant placement, including patient selection criteria, optimal eruption timing,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: General Dentistry

@@ -1,9 +1,9 @@
 ---
-title: Local Antibiotic Delivery: Arestin and Atridox
+title: "Local Antibiotic Delivery: Arestin and Atridox"
 slug: local-antibiotic-delivery-arestin-and-atridox
 category: Periodontics
 category_slug: periodontics
-excerpt: Sustained-release antibiotic microspheres and gels placed directly into periodontal pockets as adjunctive therapy to scaling and root planing for improved clinical outcomes in moderate to severe periodontal disease.
+excerpt: "Sustained-release antibiotic microspheres and gels placed directly into periodontal pockets as adjunctive therapy to scaling and root planing for."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

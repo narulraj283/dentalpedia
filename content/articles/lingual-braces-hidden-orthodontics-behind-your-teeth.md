@@ -1,9 +1,9 @@
 ---
-title: Lingual Braces: Comprehensive Guide to Invisible Orthodontic Treatment
+title: "Lingual Braces: Comprehensive Guide to Invisible Orthodontic Treatment"
 slug: lingual-braces-hidden-orthodontics-behind-your-teeth
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Complete overview of lingual braces, the invisible orthodontic solution placed on the inner tooth surfaces for discreet adult correction with minimal aesthetic impact during treatment.
+excerpt: "Complete overview of lingual braces, the invisible orthodontic solution placed on the inner tooth surfaces for discreet adult correction with minimal."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

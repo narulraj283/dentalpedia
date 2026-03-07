@@ -3,7 +3,7 @@ title: Comprehensive Post-Surgical Care and Recovery Strategies in Oral Surgery
 slug: timeline-for-post-surgery-care
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Evidence-based post-surgical care protocols including pain management, swelling control, dietary progression, activity guidelines, and comprehensive healing timelines.
+excerpt: "Evidence-based post-surgical care protocols including pain management, swelling control, dietary progression, activity guidelines, and comprehensive."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Oral and Maxillofacial Surgery

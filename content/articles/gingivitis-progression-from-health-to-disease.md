@@ -1,5 +1,5 @@
 ---
-title: Gingivitis Progression: From Health to Disease
+title: "Gingivitis Progression: From Health to Disease"
 slug: gingivitis-progression-from-health-to-disease
 category: Periodontics
 category_slug: periodontics

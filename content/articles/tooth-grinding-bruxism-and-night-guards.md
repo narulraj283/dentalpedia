@@ -3,7 +3,7 @@ title: Tooth Grinding (Bruxism) and Night Guards
 slug: tooth-grinding-bruxism-and-night-guards
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Comprehensive guide to sleep and awake bruxism, diagnostic methods including EMG, night guard types, materials, efficacy evidence, and management strategies.
+excerpt: "Comprehensive guide to sleep and awake bruxism, diagnostic methods including EMG, night guard types, materials, efficacy evidence, and management."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: TMJ & Sleep Dentistry

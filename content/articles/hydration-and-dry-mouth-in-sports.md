@@ -3,7 +3,7 @@ title: Hydration and Dry Mouth in Sports
 slug: hydration-and-dry-mouth-in-sports
 category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: Xerostomia in athletic populations significantly elevates caries risk and compromises performance. Strategic hydration protocols and salivary interventions preserve oral health during intense training and competition.
+excerpt: "Xerostomia in athletic populations significantly elevates caries risk and compromises performance."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

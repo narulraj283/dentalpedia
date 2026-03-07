@@ -3,7 +3,7 @@ title: Risk and Concerns with Toothbrush Selection
 slug: risk-and-concerns-with-toothbrush-selection
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Toothbrush selection errors including inappropriate bristle hardness, inadequate head size, and failure to replace worn brushes compromise oral hygiene efficacy and may cause gingival trauma and enamel abrasion in vulnerable populations.
+excerpt: "Toothbrush selection errors including inappropriate bristle hardness, inadequate head size, and failure to replace worn brushes compromise oral."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

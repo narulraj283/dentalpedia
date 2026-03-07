@@ -3,7 +3,7 @@ title: Dental Treatment During Pregnancy - Safety, Timing, and Trimester-Specifi
 slug: pregnancy-and-dental-care-safety-and-timing
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Dental treatment during pregnancy requires understanding of medication teratogenicity, optimal timing by trimester, and evidence-based approaches to common pregnancy-related dental conditions ensuring maternal and fetal safety.
+excerpt: "Dental treatment during pregnancy requires understanding of medication teratogenicity, optimal timing by trimester, and evidence-based approaches to."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

@@ -1,9 +1,9 @@
 ---
-title: Probiotics for Oral Health: Beneficial Bacteria Research and Clinical Applications
+title: "Probiotics for Oral Health: Beneficial Bacteria Research and Clinical Applications"
 slug: probiotics-for-oral-health-beneficial-bacteria-research
 category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: Evidence-based review of oral probiotic strains including Lactobacillus reuteri and S. salivarius K12/M18, mechanisms of action, caries and periodontal prevention evidence, and clinical delivery systems.
+excerpt: "Evidence-based review of oral probiotic strains including Lactobacillus reuteri and S."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: General Dentistry

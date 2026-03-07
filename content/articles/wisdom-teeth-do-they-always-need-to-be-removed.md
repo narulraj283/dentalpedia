@@ -1,5 +1,5 @@
 ---
-title: Wisdom Teeth: Do They Always Need to Be Removed?
+title: "Wisdom Teeth: Do They Always Need to Be Removed?"
 slug: wisdom-teeth-do-they-always-need-to-be-removed
 category: Oral Surgery
 category_slug: oral-surgery

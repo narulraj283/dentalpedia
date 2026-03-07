@@ -56,7 +56,7 @@ Keep everything simple and in one consistent location. Visual cues like a pictur
 
 ## Daily Cleaning Steps That Work
 
-**Use alkaline peroxide tablets:** Drop a tablet in water and soak dentures for 30 minutes daily or overnight. This is simpler than multiple manual cleanings.
+**Use alkaline peroxide tablets:** Drop a tablet in water and soak dentures for 30 minutes daily or overnight. Learning more about [denture care and maintenance daily cleaning and storage](/article/denture-care-and-maintenance-daily-cleaning-and-storage.html) can help you understand this better. This is simpler than multiple manual cleanings.
 
 **Gentle brush cleaning:** Use a soft toothbrush (never hard brushes—they damage dentures) and mild dish soap or denture cleaner. Avoid harsh scrubbing.
 
@@ -94,7 +94,7 @@ Some people with dementia resist denture insertion or become agitated about dent
 
 **Stay calm and gentle:** Use a calm voice and gentle approach. Forcing dentures in creates negative associations.
 
-**Choose better times:** Try inserting dentures when your loved one is calm and relaxed, perhaps after meals or familiar activities.
+**Choose better times:** Try inserting dentures when your loved one is calm and relaxed, perhaps after meals or familiar activities. You may also want to read about [denture soaking overnight maintenance](/article/denture-soaking-overnight-maintenance.html).
 
 **Use simple language:** Say "teeth go in now" rather than complex explanations.
 
@@ -159,6 +159,8 @@ But it's also important to recognize your limits. If denture management becomes 
 ## Conclusion
 
 Managing dentures for someone with dementia requires patience, consistency, and flexibility. Early-stage dementia may require minimal intervention, while late-stage care requires full assistance. Regular professional monitoring, consistent daily care routines, and willingness to modify or discontinue dentures when appropriate ensure your loved one's oral health and comfort throughout the disease progression.
+
+
 
 ## Related Articles You May Find Helpful
 

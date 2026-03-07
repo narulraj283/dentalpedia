@@ -3,7 +3,7 @@ title: Root Caries - Decay on Exposed Root Surfaces
 slug: root-caries-decay-on-exposed-roots
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Understand root surface caries pathogenesis, cementum vulnerability, epidemiology in elderly populations, remineralization strategies including fluoride and silver diamine fluoride, and evidence-based GIC restorations for high-risk patients.
+excerpt: "Understand root surface caries pathogenesis, cementum vulnerability, epidemiology in elderly populations, remineralization strategies including."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontist

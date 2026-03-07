@@ -3,7 +3,7 @@ title: Platelet-Rich Fibrin (PRF) and Growth Factor Enhancement
 slug: platelet-rich-fibrin-growth-factor-enhancement
 category: Periodontics
 category_slug: periodontics
-excerpt: PRF concentrates autologous growth factors through controlled centrifugation, enhancing bone regeneration and soft tissue healing in periodontal and surgical applications.
+excerpt: "PRF concentrates autologous growth factors through controlled centrifugation, enhancing bone regeneration and soft tissue healing in periodontal and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Periodontics

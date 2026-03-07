@@ -3,7 +3,7 @@ title: Old Restoration Replacement—Cosmetic and Functional Upgrade Strategies
 slug: old-restoration-replacement-cosmetic-and-functional-upgrade
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Replacement of aged restorations addresses esthetic deficiencies, functional decay, and biocompatibility concerns through modern materials and techniques enhancing smile aesthetics and longevity.
+excerpt: "Replacement of aged restorations addresses esthetic deficiencies, functional decay, and biocompatibility concerns through modern materials and."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

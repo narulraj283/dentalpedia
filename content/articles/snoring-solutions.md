@@ -3,7 +3,7 @@ title: Snoring Solutions
 slug: snoring-solutions
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Comprehensive snoring evaluation distinguishes primary snoring from obstructive sleep apnea, guiding selection between positional therapy, oral appliances, and surgical options.
+excerpt: "Comprehensive snoring evaluation distinguishes primary snoring from obstructive sleep apnea, guiding selection between positional therapy, oral."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

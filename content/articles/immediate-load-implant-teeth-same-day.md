@@ -3,7 +3,7 @@ title: "Immediate Load Implants: Prosthetic Restoration on Implant Placement Day
 slug: immediate-load-implant-teeth-same-day
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Immediate load implant protocols deliver functional prosthetic restoration on implant placement day, eliminating the 3-6 month healing wait of traditional osseointegration. Stringent primary stability requirements (>35 Ncm torque, ISQ >65), occlusal design modifications, and careful patient selection optimize success while maintaining implant survival rates equivalent to conventional approaches.
+excerpt: "Immediate load implant protocols deliver functional prosthetic restoration on implant placement day, eliminating the 3-6 month healing wait of."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

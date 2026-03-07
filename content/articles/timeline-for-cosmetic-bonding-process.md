@@ -1,9 +1,9 @@
 ---
-title: Direct Composite Bonding Technique: Step-by-Step Clinical Protocol and Longevity Considerations
+title: "Direct Composite Bonding Technique: Step-by-Step Clinical Protocol and Longevity Considerations"
 slug: timeline-for-cosmetic-bonding-process
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Direct composite bonding requires meticulous tooth preparation, precise etching timing, bond strength optimization, and strategic composite layering for optimal esthetic and functional longevity.
+excerpt: "Direct composite bonding requires meticulous tooth preparation, precise etching timing, bond strength optimization, and strategic composite layering."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

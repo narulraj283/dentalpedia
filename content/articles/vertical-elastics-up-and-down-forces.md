@@ -1,9 +1,9 @@
 ---
-title: Vertical Elastics: Up and Down Forces in Orthodontics
+title: "Vertical Elastics: Up and Down Forces in Orthodontics"
 slug: vertical-elastics-up-and-down-forces
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive guide to vertical elastics in orthodontics including open bite closure, extrusion mechanics, force levels, wear schedules, box elastics, triangle elastics, and compliance strategies.
+excerpt: "Comprehensive guide to vertical elastics in orthodontics including open bite closure, extrusion mechanics, force levels, wear schedules, box."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontics

@@ -1,9 +1,9 @@
 ---
-title: Antioxidants and Oral Inflammation: Nutritional Support for Periodontal Health
+title: "Antioxidants and Oral Inflammation: Nutritional Support for"
 slug: antioxidants-fighting-oral-inflammation
 category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: Evidence-based antioxidant supplementation for periodontal disease—vitamin C, E, CoQ10, and polyphenols with clinical dosing, serum markers, and adjunctive protocols to reduce ROS-driven inflammation.
+excerpt: "Your gums don't get sick just because bacteria attack them."
 date: 2026-03-05
 read_time: 17 min
 reviewer_specialty: Dental Nutrition & Periodontology
@@ -138,5 +138,5 @@ This approach supports what your immune system is trying to do naturally—fight
 - [Balanced Diet and Dental Health](/article/balanced-diet-and-dental-health.html)
 
 
-> **Key Takeaway:** Understanding antioxidants and oral inflammation helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** Your gums don't get sick just because bacteria attack them. Your dentist can help you understand what steps are right for your specific needs.
 

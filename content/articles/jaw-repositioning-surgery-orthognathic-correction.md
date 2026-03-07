@@ -3,7 +3,7 @@ title: Orthognathic Surgery - Diagnosis, Planning, and Surgical Correction of De
 slug: jaw-repositioning-surgery-orthognathic-correction
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive overview of orthognathic surgical correction for severe dentofacial deformities including treatment planning, surgical techniques, functional and esthetic outcomes.
+excerpt: "Comprehensive overview of orthognathic surgical correction for severe dentofacial deformities including treatment planning, surgical techniques,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

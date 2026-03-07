@@ -3,7 +3,7 @@ title: Risks and Concerns with Cosmetic Gum Shaping and Crown Lengthening
 slug: risk-and-concerns-with-cosmetic-gum-shaping
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Understanding complications of gingivectomy and crown lengthening procedures including biological width violation, gingival recession, uneven healing, nerve damage, and bone exposure affecting periodontal health and esthetic outcomes.
+excerpt: "Understanding complications of gingivectomy and crown lengthening procedures including biological width violation, gingival recession, uneven."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

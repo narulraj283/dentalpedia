@@ -3,7 +3,7 @@ title: Rotary NiTi Files - Motorized Instrumentation and File Systems
 slug: rotary-files-motorized-instrumentation
 category: Endodontics
 category_slug: endodontics
-excerpt: Master rotary nickel-titanium file systems, compare ProTaper, WaveOne, and Vortex designs, understand metallurgical advances (M-Wire, CM wire), optimize torque and speed parameters, and implement separation prevention strategies.
+excerpt: "Master rotary nickel-titanium file systems, compare ProTaper, WaveOne, and Vortex designs, understand metallurgical advances (M-Wire, CM wire),."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Endodontist

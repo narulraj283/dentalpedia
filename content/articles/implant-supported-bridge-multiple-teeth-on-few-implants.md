@@ -1,9 +1,9 @@
 ---
-title: Implant-Supported Bridge: Multiple Teeth on Few Implants
+title: "Implant-Supported Bridge: Multiple Teeth on Few Implants"
 slug: implant-supported-bridge-multiple-teeth-on-few-implants
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Implant-supported fixed bridges replace multiple missing teeth using fewer implants than single-tooth restorations, optimizing biomechanics, esthetics, and cost-effectiveness through strategic treatment planning.
+excerpt: "Implant-supported fixed bridges replace multiple missing teeth using fewer implants than single-tooth restorations, optimizing biomechanics,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

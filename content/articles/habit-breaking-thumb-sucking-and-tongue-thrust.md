@@ -1,5 +1,5 @@
 ---
-title: Habit Breaking: Thumb Sucking and Tongue Thrust
+title: "Habit Breaking: Thumb Sucking and Tongue Thrust"
 slug: habit-breaking-thumb-sucking-and-tongue-thrust
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry

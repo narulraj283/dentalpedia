@@ -25,7 +25,7 @@ references:
 
 After tooth extraction, a blood clot forms in the socket where your tooth was. This clot is crucial—it stops bleeding, protects the bone underneath, and helps healing happen. Dry socket occurs when this clot dissolves or falls out too early, usually around days 3-4 after extraction. When the clot is gone, the bone and nerves underneath become exposed, causing severe throbbing pain that can last a week or more.
 
-Dry socket (also called alveolar osteitis) happens in about 2-5% of simple tooth extractions, but it's more common with wisdom teeth removal—about 20-40% of wisdom tooth extraction patients experience it. While dry socket isn't dangerous and will eventually heal on its own, the pain is significant and requires treatment, so preventing it is much better than treating it after it develops.
+Dry socket (also called alveolar osteitis) happens in about 2-5% of simple tooth extractions, but it's more common with wisdom teeth removal—about 20-40% of wisdom tooth extraction patients experience it. Learning more about [swelling reduction what you need to know](/article/swelling-reduction-what-you-need-to-know.html) can help you understand this better. While dry socket isn't dangerous and will eventually heal on its own, the pain is significant and requires treatment, so preventing it is much better than treating it after it develops.
 
 ## Who's at Higher Risk for Dry Socket
 
@@ -61,7 +61,7 @@ Avoid secondhand smoke exposure too, if possible. The heat from others' smoke ca
 
 It's normal to have some pain and swelling for the first few days after extraction—this is your body healing. Pain should gradually improve day by day. If you have moderate pain that's controlled with over-the-counter pain medication (acetaminophen or ibuprofen) for the first 2-3 days, that's normal.
 
-Dry socket is different. The severe, throbbing pain typically starts around day 3-4 and either doesn't improve with over-the-counter pain medication or actually gets worse. You might notice the socket looks empty or white. You might have a bad taste in your mouth. If you experience these symptoms, contact your surgeon immediately. Don't wait, hoping it will improve on its own—getting treatment quickly significantly reduces pain duration.
+Dry socket is different. Learning more about [impacted teeth removal canines molars and premolars](/article/impacted-teeth-removal-canines-molars-and-premolars.html) can help you understand this better. The severe, throbbing pain typically starts around day 3-4 and either doesn't improve with over-the-counter pain medication or actually gets worse. You might notice the socket looks empty or white. You might have a bad taste in your mouth. If you experience these symptoms, contact your surgeon immediately. Don't wait, hoping it will improve on its own—getting treatment quickly significantly reduces pain duration.
 
 ## Treating Dry Socket If It Develops
 
@@ -84,6 +84,8 @@ Contact your surgeon immediately if you experience fever (temperature above 101 
 Dry socket causes severe pain but is preventable through careful surgical technique and your commitment to post-operative instructions. Most people who follow directions carefully never get dry socket. If it does develop, prompt treatment dramatically reduces pain and gets you healing quickly. Smoking cessation before extraction and gentle care after extraction are your best defenses.
 
 Work with your surgeon to understand your specific risk factors and what you need to do for optimal healing. If you have any concerns during your recovery, don't hesitate to contact your surgeon.
+
+
 
 ## Related Articles You May Find Helpful
 

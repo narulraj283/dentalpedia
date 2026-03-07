@@ -1,5 +1,5 @@
 ---
-title: Intraoral Camera Cosmetic Documentation: Before and After
+title: "Intraoral Camera Cosmetic Documentation: Before and After"
 slug: intraoral-camera-cosmetic-documentation-before-and-after
 category: Dental Technology
 category_slug: dental-technology

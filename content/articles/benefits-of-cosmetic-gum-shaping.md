@@ -6,7 +6,7 @@ category_slug: cosmetic-dentistry
 subcategory: Gum Contouring
 subcategory_slug: gum-contouring
 reviewer_specialty: Periodontology, Cosmetic Dentistry
-excerpt: Complete clinical guide to gum contouring and crown lengthening. Master diagnosis of altered passive eruption, surgical techniques, and aesthetic zenith positioning for perfect smile design.
+excerpt: "Imagine looking in the mirror and seeing way too much gum showing when you smile—that's what people call a 'gummy smile.' For some people, showing a."
 date: "2026-03-05"
 read_time: 9
 reviewed: true
@@ -106,5 +106,5 @@ Your dentist is your partner in oral health. The more openly you communicate abo
 
 Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
 
-> **Key Takeaway:** Understanding benefits of cosmetic gum shaping helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** Imagine looking in the mirror and seeing way too much gum showing when you smile—that's what people call a "gummy smile." For some people, showing a lot of gum when they smile bothers them so much that they feel self-conscious. Your dentist can help you understand what steps are right for your specific needs.
 

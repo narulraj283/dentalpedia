@@ -3,7 +3,7 @@ title: Progressive Loading in Dental Implants
 slug: progressive-loading-gradual-force
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Progressive loading protocols gradually increase mechanical forces to implants to optimize osseointegration, requiring 3-6 months early loading, with consideration of bone density and provisional restorations.
+excerpt: "Progressive loading protocols gradually increase mechanical forces to implants to optimize osseointegration, requiring 3-6 months early loading, with."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Prosthodontics

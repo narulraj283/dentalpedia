@@ -1,9 +1,9 @@
 ---
-title: Orthodontic Treatment in Periodontally Compromised Patients: Mechanical Considerations and Clinical Protocols
+title: "Orthodontic Treatment in Periodontally Compromised Patients: Mechanical Considerations and Clinical Protocols"
 slug: periodontal-disease-and-braces-compatibility-issues
 category: Periodontics
 category_slug: periodontics
-excerpt: Orthodontic treatment in patients with reduced periodontal support requires modified force protocols, enhanced monitoring, and careful case selection to prevent iatrogenic bone loss during tooth movement.
+excerpt: "Orthodontic treatment in patients with reduced periodontal support requires modified force protocols, enhanced monitoring, and careful case selection."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Periodontics

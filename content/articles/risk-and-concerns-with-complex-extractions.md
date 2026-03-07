@@ -3,7 +3,7 @@ title: Risks and Concerns with Complex Tooth Extractions
 slug: risk-and-concerns-with-complex-extractions
 category: Oral and Maxillofacial Surgery
 category_slug: oral-surgery
-excerpt: Understanding complications of surgical tooth extractions including nerve injury, sinus communication, hemorrhage, jaw fracture, infection, and healing complications affecting patient morbidity and outcomes.
+excerpt: "Understanding complications of surgical tooth extractions including nerve injury, sinus communication, hemorrhage, jaw fracture, infection, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

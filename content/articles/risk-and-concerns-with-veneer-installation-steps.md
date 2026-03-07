@@ -3,7 +3,7 @@ title: Risk and Concerns with Veneer Installation Steps
 slug: risk-and-concerns-with-veneer-installation-steps
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Understand the critical risks and complications associated with dental veneer preparation, including enamel removal irreversibility, bonding failures, sensitivity, and laboratory errors.
+excerpt: "Understand the critical risks and complications associated with dental veneer preparation, including enamel removal irreversibility, bonding."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

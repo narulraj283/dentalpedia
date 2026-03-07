@@ -1,5 +1,5 @@
 ---
-title: CBCT Imaging: Cone Beam CT Scan
+title: "CBCT Imaging: Cone Beam CT Scan"
 slug: cbct-imaging-cone-beam-ct-scan
 category: General Dentistry
 category_slug: general-dentistry
@@ -37,7 +37,7 @@ The resulting images are incredibly detailed. Your dentist can view your teeth a
 
 CBCT machines come in different sizes, and this matters for radiation exposure. A small focused scan that captures just your front teeth uses minimal radiation—roughly equivalent to a few regular dental X-rays. A full-mouth scan that captures your entire jaw and upper face delivers more radiation.
 
-Your dentist should only recommend the size of scan needed for your specific situation. If you need information about your front teeth, there's no reason to scan your entire jaw. Good practitioners use the principle of "as low as reasonably achievable" (ALARA) when it comes to radiation.
+Your dentist should only recommend the size of scan needed for your specific situation. Learning more about [cavity formation process what you need to know](/article/cavity-formation-process-what-you-need-to-know.html) can help you understand this better. If you need information about your front teeth, there's no reason to scan your entire jaw. Good practitioners use the principle of "as low as reasonably achievable" (ALARA) when it comes to radiation.
 
 The scan quality depends on several factors. Newer machines generally produce clearer images. The machine settings also matter—a lower quality scan uses less radiation but provides less detail. Your dentist should use settings that provide adequate detail for their specific question.
 
@@ -65,7 +65,7 @@ If you have a suspicious lump in your jaw or ongoing pain with no obvious cause,
 
 If you have jaw pain, clicking, or difficulty opening your mouth, CBCT can show whether your joint bones are damaged. It reveals erosions, arthritis, or abnormal bone growth. While it doesn't show soft tissues like the joint disk as clearly as an MRI would, it provides excellent bone detail.
 
-Your dentist can also use CBCT to assess your overall bite and jaw position, which is helpful when planning orthodontics (braces) or other bite-related treatment.
+Your dentist can also use CBCT to assess your overall bite and jaw position, which is helpful when planning orthodontics (braces) or other bite-related treatment. You may also want to read about [benefits of bite force and teeth](/article/benefits-of-bite-force-and-teeth.html).
 
 ## What CBCT Can't Do Well
 
@@ -90,6 +90,8 @@ Children also deserve special consideration. Growing children have higher risk f
 ## Conclusion
 
 CBCT is a powerful tool that provides 3D views of your teeth and jaw—information that helps your dentist plan complex procedures like implants with greater accuracy and confidence. When used appropriately for specific clinical questions, CBCT improves outcomes and reduces complications. Understand that CBCT should be used strategically, not routinely, and that good dentists can explain exactly why they're recommending it for your situation.
+
+
 
 ## Related Articles You May Find Helpful
 

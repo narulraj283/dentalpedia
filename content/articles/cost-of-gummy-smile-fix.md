@@ -3,7 +3,7 @@ title: Cost of Gummy Smile Fix
 slug: cost-of-gummy-smile-fix
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Fixing a gummy smile costs $1,500-8,000 depending on the cause—from non-surgical options like dermal fillers to surgical correction, with many options to fit your budget.
+excerpt: "A 'gummy smile' is when more than 3mm of gum tissue shows when you smile."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry
@@ -25,7 +25,7 @@ references:
 
 A "gummy smile" is when more than 3mm of gum tissue shows when you smile. About one in five to three in seven people have this issue, and it's one of the most common cosmetic concerns we hear about. The good news? There are multiple ways to fix it, ranging from affordable non-surgical options to more involved surgical corrections. Let's explore the options and costs.
 
-The reason you have a gummy smile depends on what caused it. Maybe your teeth are too short, your upper jaw is positioned too far down, your upper lip is short, or your gum tissue is just naturally thick. Finding out the cause helps you choose the right (and most cost-effective) solution.
+The reason you have a gummy smile depends on what caused it. Learning more about [cost of teeth alignment alternatives](/article/cost-of-teeth-alignment-alternatives.html) can help you understand this better. Maybe your teeth are too short, your upper jaw is positioned too far down, your upper lip is short, or your gum tissue is just naturally thick. Finding out the cause helps you choose the right (and most cost-effective) solution.
 
 ## Quick Non-Surgical Option: Dermal Fillers
 
@@ -90,6 +90,8 @@ Talk to your dentist about which underlying cause your smile has. That determine
 ## Conclusion
 
 Fixing a gummy smile costs anywhere from $300 for temporary fillers to $16,000 for major jaw surgery, depending on the cause and your preferred solution. Non-surgical options are cheaper but temporary. Surgical options cost more but are permanent. The best choice depends on what's causing your gummy smile and your budget. Talk to your dentist about the root cause of your smile and which fix is right for your specific situation.
+
+
 
 ## Related Articles You May Find Helpful
 

@@ -1,9 +1,9 @@
 ---
-title: Mouth Injuries Treatment: What You Need to Know
+title: "Mouth Injuries Treatment: What You Need to Know"
 slug: mouth-injuries-treatment-what-you-need-to-know
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Immediate first-aid response following mouth injury determines tooth salvageability. Knowing proper handling of avulsed teeth, securing emergency evaluation, and understanding long-term treatment requirements empowers patients to protect dental investments.
+excerpt: "Immediate first-aid response following mouth injury determines tooth salvageability."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

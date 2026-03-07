@@ -1,5 +1,5 @@
 ---
-title: Micro-Abrasion Technique: Surface Stain Removal
+title: "Micro-Abrasion Technique: Surface Stain Removal"
 slug: micro-abrasion-technique-surface-stain-removal
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry

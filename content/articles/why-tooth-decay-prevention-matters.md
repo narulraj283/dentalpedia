@@ -3,7 +3,7 @@ title: Why Tooth Decay Prevention Matters
 slug: why-tooth-decay-prevention-matters
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based caries prevention protocols, fluoride applications, dietary management, antimicrobial strategies, and risk-based intervention approaches for clinical practice.
+excerpt: "Evidence-based caries prevention protocols, fluoride applications, dietary management, antimicrobial strategies, and risk-based intervention."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Preventive Dentistry

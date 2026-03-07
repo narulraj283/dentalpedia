@@ -3,7 +3,7 @@ title: IV Sedation Monitoring Equipment and Standards
 slug: iv-sedation-monitoring-equipment
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Essential monitoring devices and protocols for safe intravenous sedation in dental practice, including pulse oximetry, capnography, electrocardiography, and blood pressure monitoring.
+excerpt: "Essential monitoring devices and protocols for safe intravenous sedation in dental practice, including pulse oximetry, capnography,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

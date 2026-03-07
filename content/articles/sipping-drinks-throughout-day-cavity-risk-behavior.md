@@ -1,5 +1,5 @@
 ---
-title: Sipping Beverages Throughout the Day: Stephan Curve, Caries Risk, and pH Recovery Time
+title: "Sipping Beverages Throughout the Day: Stephan Curve, Caries Risk, and pH Recovery Time"
 slug: sipping-drinks-throughout-day-cavity-risk-behavior
 category: Dental Nutrition
 category_slug: dental-nutrition

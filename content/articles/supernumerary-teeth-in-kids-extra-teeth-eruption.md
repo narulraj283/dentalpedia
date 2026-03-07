@@ -3,7 +3,7 @@ title: Supernumerary Teeth in Kids - Extra Teeth and Eruption Patterns
 slug: supernumerary-teeth-in-kids-extra-teeth-eruption
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Mesiodens, paramolars, distomolars, prevalence rates, etiology theories, complications including crowding and delayed eruption, radiographic detection, surgical management timing.
+excerpt: "Mesiodens, paramolars, distomolars, prevalence rates, etiology theories, complications including crowding and delayed eruption, radiographic."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Pediatric Dentistry

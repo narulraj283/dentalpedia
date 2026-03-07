@@ -3,7 +3,7 @@ title: Bad Breath Elimination - Halitosis Etiology, Diagnosis with Halimeter, an
 slug: risk-and-concerns-with-bad-breath-elimination
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Halitosis results from volatile sulfur compounds produced by anaerobic bacteria on tongue and teeth; diagnosis uses Halimeter to measure VSCs; treatment addresses periodontal disease and tongue coating.
+excerpt: "Halitosis results from volatile sulfur compounds produced by anaerobic bacteria on tongue and teeth; diagnosis uses Halimeter to measure VSCs;."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentist

@@ -3,7 +3,7 @@ title: Informed Consent Importance
 slug: informed-consent-importance
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Comprehensive analysis of informed consent principles in dental practice, including legal framework, disclosure requirements, documentation standards, and ethical obligations ensuring patient autonomy in treatment decision-making.
+excerpt: "Comprehensive analysis of informed consent principles in dental practice, including legal framework, disclosure requirements, documentation."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

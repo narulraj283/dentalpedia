@@ -1,9 +1,9 @@
 ---
-title: Mucogingival Deformities: Tissue Deficiency Problems
+title: "Mucogingival Deformities: Tissue Deficiency Problems"
 slug: mucogingival-deformities-tissue-deficiency-problems
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Comprehensive analysis of gingival recession, attached gingiva deficiency, alveolar ridge deformities, and periodontal tissue inadequacy affecting esthetics and function.
+excerpt: "Comprehensive analysis of gingival recession, attached gingiva deficiency, alveolar ridge deformities, and periodontal tissue inadequacy affecting."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

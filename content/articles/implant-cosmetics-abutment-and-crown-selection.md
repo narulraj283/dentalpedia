@@ -1,9 +1,9 @@
 ---
-title: Implant Cosmetics: Abutment and Crown Selection
+title: "Implant Cosmetics: Abutment and Crown Selection"
 slug: implant-cosmetics-abutment-and-crown-selection
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Detailed analysis of esthetic component selection strategies including abutment materials, crown design, soft tissue contours, and shade characterization for natural-appearing implant restorations.
+excerpt: "Detailed analysis of esthetic component selection strategies including abutment materials, crown design, soft tissue contours, and shade."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

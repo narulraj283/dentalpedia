@@ -1,9 +1,9 @@
 ---
-title: Mouth Ulcer Care: Complete Guide
+title: "Mouth Ulcer Care: Complete Guide"
 slug: mouth-ulcer-care-complete-guide
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Oral ulcers result from diverse etiologies requiring accurate diagnosis guiding appropriate management. Understanding causative factors, topical and systemic treatments, and when professional evaluation is necessary optimizes healing and prevents complications.
+excerpt: "Oral ulcers result from diverse etiologies requiring accurate diagnosis guiding appropriate management."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

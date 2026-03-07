@@ -6,7 +6,7 @@ category_slug: oral-surgery
 subcategory: Surgical Complications
 subcategory_slug: surgical-complications
 reviewer_specialty: Oral and Maxillofacial Surgery
-excerpt: Comprehensive clinical guide to extraction complication recognition and management, including dry socket, hemorrhage control, root fracture assessment, oroantral communication closure, and nerve injury protocols.
+excerpt: "Getting a tooth pulled might seem simple, but sometimes complications happen afterward."
 date: 2026-03-05
 read_time: 8 min
 reviewed: true
@@ -160,5 +160,5 @@ Extraction complications demand systematic recognition and appropriate evidence-
 - [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
 
 
-> **Key Takeaway:** Understanding benefits of extraction complications helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** Getting a tooth pulled might seem simple, but sometimes complications happen afterward. Your dentist can help you understand what steps are right for your specific needs.
 

@@ -3,7 +3,7 @@ title: Risk and Concerns with Mouth Cleaning Tools
 slug: risk-and-concerns-with-mouth-cleaning-tools
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Examining risks from oral hygiene tool misuse including interdental brush gum damage, tongue scraper trauma, powered toothbrush abrasion, and water flosser pressure injury.
+excerpt: "Examining risks from oral hygiene tool misuse including interdental brush gum damage, tongue scraper trauma, powered toothbrush abrasion, and water."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

@@ -1,9 +1,9 @@
 ---
-title: Oral Herpes Simplex: Pathophysiology, Symptoms, and Evidence-Based Treatment
+title: "Oral Herpes Simplex: Pathophysiology, Symptoms, and Evidence-Based Treatment"
 slug: oral-herpes-simplex-causes-symptoms-and-treatment
 category: Oral Health Conditions
 category_slug: oral-health-conditions
-excerpt: Comprehensive clinical review of herpes simplex virus pathophysiology, primary herpetic gingivostomatitis, recurrent herpes labialis, antiviral protocols using acyclovir and valacyclovir, and differential diagnosis strategies.
+excerpt: "Comprehensive clinical review of herpes simplex virus pathophysiology, primary herpetic gingivostomatitis, recurrent herpes labialis, antiviral."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

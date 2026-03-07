@@ -3,7 +3,7 @@ title: Soft Relines and Tissue Conditioning
 slug: soft-relines-tissue-conditioning
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Soft reline materials and tissue conditioners restore denture fit and patient comfort through functional impression technique and strategic material replacement intervals.
+excerpt: "Soft reline materials and tissue conditioners restore denture fit and patient comfort through functional impression technique and strategic material."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Prosthodontics

@@ -1,9 +1,9 @@
 ---
-title: Supportive Periodontal Therapy: Evidence-Based Recall Intervals and Long-Term Management Outcomes
+title: "Supportive Periodontal Therapy: Evidence-Based Recall Intervals and Long-Term Management Outcomes"
 slug: periodontal-maintenance-ongoing-therapy
 category: Periodontics
 category_slug: periodontics
-excerpt: Supportive periodontal therapy (SPT) employing 3-month versus 6-month recall intervals demonstrates that intensive recall schedules prevent disease recurrence and tooth loss, with outcomes determined by disease severity, smoking status, and patient compliance.
+excerpt: "Supportive periodontal therapy (SPT) employing 3-month versus 6-month recall intervals demonstrates that intensive recall schedules prevent disease."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Periodontics

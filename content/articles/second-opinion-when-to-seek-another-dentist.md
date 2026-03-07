@@ -3,7 +3,7 @@ title: Seeking a Second Opinion in Dentistry
 slug: second-opinion-when-to-seek-another-dentist
 category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: Understanding when to seek a second opinion, patient rights, and how to navigate specialist referrals ensures informed treatment decisions and optimal dental care outcomes.
+excerpt: "Understanding when to seek a second opinion, patient rights, and how to navigate specialist referrals ensures informed treatment decisions and."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Dental Practice Management

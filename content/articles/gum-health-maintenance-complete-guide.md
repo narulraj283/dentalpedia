@@ -1,9 +1,9 @@
 ---
-title: Gum Health Maintenance: Complete Guide
+title: "Gum Health Maintenance: Complete Guide"
 slug: gum-health-maintenance-complete-guide
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Clinical evidence-based strategies for long-term gum health maintenance through personal oral hygiene, professional care, and periodontal surveillance.
+excerpt: "Once you have healthy gums, keeping them that way requires consistent habits."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

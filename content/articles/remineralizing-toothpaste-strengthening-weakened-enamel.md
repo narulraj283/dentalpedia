@@ -3,7 +3,7 @@ title: "Remineralizing Toothpaste: Strengthening Weakened Enamel"
 slug: remineralizing-toothpaste-strengthening-weakened-enamel
 category: Preventive Care
 category_slug: preventive-care
-excerpt: "Modern remineralization science: fluoride mechanisms, CPP-ACP technology, nano-hydroxyapatite, bioactive glass, and calcium phosphate compounds for arresting early caries and strengthening demineralized enamel."
+excerpt: "Modern remineralization science: fluoride mechanisms, CPP-ACP technology, nano-hydroxyapatite, bioactive glass, and calcium phosphate compounds for."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Preventive Dentistry

@@ -3,7 +3,7 @@ title: Mandibular and Maxillary Fractures - Classification, Imaging, and Treatme
 slug: jaw-fracture-trauma-and-stabilization
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Evaluation and management of jaw fractures including Le Fort classification, mandibular fracture patterns, imaging protocols, and stabilization techniques including open reduction and internal fixation.
+excerpt: "Evaluation and management of jaw fractures including Le Fort classification, mandibular fracture patterns, imaging protocols, and stabilization."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

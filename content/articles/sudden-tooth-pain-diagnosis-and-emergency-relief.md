@@ -3,7 +3,7 @@ title: Sudden Tooth Pain - Diagnosis and Emergency Relief Strategies
 slug: sudden-tooth-pain-diagnosis-and-emergency-relief
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Differential diagnosis of acute dental pain including pulpitis, cracked tooth, periapical abscess, periodontal pathology, diagnostic testing protocols, and emergency management algorithms.
+excerpt: "Differential diagnosis of acute dental pain including pulpitis, cracked tooth, periapical abscess, periodontal pathology, diagnostic testing."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Emergency Medicine Dentistry

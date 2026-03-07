@@ -1,9 +1,9 @@
 ---
-title: Toothbrush Bristle Hardness: Soft vs Medium vs Hard Comparison
+title: "Toothbrush Bristle Hardness: Soft vs Medium vs Hard Comparison"
 slug: toothbrush-bristle-hardness-soft-vs-medium-vs-hard
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Clinical evidence comparing soft, medium, and hard toothbrush bristles regarding plaque removal efficacy, gingival abrasion risk, and gingival recession outcomes.
+excerpt: "Clinical evidence comparing soft, medium, and hard toothbrush bristles regarding plaque removal efficacy, gingival abrasion risk, and gingival."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Periodontics

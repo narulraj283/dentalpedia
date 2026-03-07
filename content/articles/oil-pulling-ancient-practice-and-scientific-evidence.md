@@ -3,7 +3,7 @@ title: Oil Pulling—Ancient Practice and Current Scientific Evidence
 slug: oil-pulling-ancient-practice-and-scientific-evidence
 category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: Oil pulling, an Ayurvedic practice involving oil swishing, lacks robust scientific evidence supporting claimed benefits as a substitute for evidence-based oral health practices.
+excerpt: "Oil pulling, an Ayurvedic practice involving oil swishing, lacks robust scientific evidence supporting claimed benefits as a substitute for."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

@@ -3,7 +3,7 @@ title: Muscle Tension and Myofascial Pain Patterns in the Masticatory System
 slug: muscle-tension-myofascial-pain-pattern
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Myofascial pain disorders involve trigger point pathophysiology requiring systematic palpation assessment, physical therapy, and botulinum toxin therapy for symptomatic relief.
+excerpt: "Myofascial pain disorders involve trigger point pathophysiology requiring systematic palpation assessment, physical therapy, and botulinum toxin."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orofacial Pain

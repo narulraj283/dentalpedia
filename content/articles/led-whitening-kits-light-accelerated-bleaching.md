@@ -3,7 +3,7 @@ title: "LED Whitening Kits: Light-Accelerated Bleaching"
 slug: led-whitening-kits-light-accelerated-bleaching
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Comprehensive examination of LED light-accelerated tooth whitening, including bleaching agent chemistry, light wavelength effects, clinical protocols, efficacy comparisons with non-light systems, safety parameters, and evidence-based outcome predictions.
+excerpt: "Comprehensive examination of LED light-accelerated tooth whitening, including bleaching agent chemistry, light wavelength effects, clinical."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

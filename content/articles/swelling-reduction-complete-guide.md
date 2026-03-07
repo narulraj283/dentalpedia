@@ -1,5 +1,5 @@
 ---
-title: Swelling Reduction After Oral Surgery: Complete Clinical Guide
+title: "Swelling Reduction After Oral Surgery: Complete Clinical Guide"
 slug: swelling-reduction-complete-guide
 category: Oral Surgery
 category_slug: oral-surgery

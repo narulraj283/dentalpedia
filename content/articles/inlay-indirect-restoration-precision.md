@@ -1,9 +1,9 @@
 ---
-title: Inlay: Indirect Restoration Precision
+title: "Inlay: Indirect Restoration Precision"
 slug: inlay-indirect-restoration-precision
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Comprehensive overview of indirect inlay restoration design, material options, fabrication techniques including CAD/CAM and lab-based methods, preparation protocols, bonding mechanics, and clinical outcomes.
+excerpt: "Comprehensive overview of indirect inlay restoration design, material options, fabrication techniques including CAD/CAM and lab-based methods,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

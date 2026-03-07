@@ -1,5 +1,5 @@
 ---
-title: Graft Harvesting: Soft Tissue Source Selection and Surgical Technique
+title: "Graft Harvesting: Soft Tissue Source Selection and Surgical"
 slug: graft-harvesting-soft-tissue-source-selection
 category: Oral Surgery
 category_slug: oral-surgery

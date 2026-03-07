@@ -1,9 +1,9 @@
 ---
-title: Periodontal Dressing and Post-Treatment Wound Management: Materials, Techniques, and Clinical Outcomes
+title: "Periodontal Dressing and Post-Treatment Wound Management: Materials, Techniques, and Clinical Outcomes"
 slug: periodontal-pack-post-treatment-dressing
 category: Periodontics
 category_slug: periodontics
-excerpt: Periodontal dressing materials including zinc oxide eugenol and cyanoacrylate-based compounds provide post-operative protection and hemostasis; contemporary evidence suggests dressings may provide modest comfort benefits with variable effects on healing outcomes.
+excerpt: "Periodontal dressing materials including zinc oxide eugenol and cyanoacrylate-based compounds provide post-operative protection and hemostasis;."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontics

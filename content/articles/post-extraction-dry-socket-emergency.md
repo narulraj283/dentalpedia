@@ -3,7 +3,7 @@ title: Post-Extraction Dry Socket (Alveolar Osteitis)—Emergency Management
 slug: post-extraction-dry-socket-emergency
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Alveolar osteitis (dry socket) results from clot dissolution or failure to form, presenting with severe pain and requiring prompt treatment with medicated dressings.
+excerpt: "Alveolar osteitis (dry socket) results from clot dissolution or failure to form, presenting with severe pain and requiring prompt treatment with."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

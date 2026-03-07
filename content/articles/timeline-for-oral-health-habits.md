@@ -1,9 +1,9 @@
 ---
-title: Timeline for Oral Health Habits: Building Sustainable Behavioral Change Through Habit Formation
+title: "Timeline for Oral Health Habits: Building Sustainable Behavioral Change Through Habit Formation"
 slug: timeline-for-oral-health-habits
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based framework for establishing lasting oral health behaviors using habit stacking, behavioral psychology, and age-appropriate interventions for families and individuals.
+excerpt: "Evidence-based framework for establishing lasting oral health behaviors using habit stacking, behavioral psychology, and age-appropriate."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Preventive Dentistry

@@ -3,7 +3,7 @@ title: Pediatric Anxiolytic Premedication - Protocols for Anxious Children in De
 slug: premedication-for-anxious-children
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Pediatric anxiolytic premedication using midazolam syrup, hydroxyzine, and melatonin provides effective anxiety reduction in young patients, with careful dosing by weight and parental informed consent ensuring optimal outcomes.
+excerpt: "Pediatric anxiolytic premedication using midazolam syrup, hydroxyzine, and melatonin provides effective anxiety reduction in young patients, with."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Pediatric Dentistry

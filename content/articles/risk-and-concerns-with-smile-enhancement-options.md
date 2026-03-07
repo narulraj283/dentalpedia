@@ -3,7 +3,7 @@ title: Comprehensive Risk Assessment of Smile Enhancement Procedures
 slug: risk-and-concerns-with-smile-enhancement-options
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Detailed analysis of veneer complications, whitening sensitivity, bonding limitations, gum contouring risks, and comparative risk profiles across enhancement modalities.
+excerpt: "Detailed analysis of veneer complications, whitening sensitivity, bonding limitations, gum contouring risks, and comparative risk profiles across."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic Dentistry

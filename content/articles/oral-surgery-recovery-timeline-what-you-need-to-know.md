@@ -3,7 +3,7 @@ title: Oral Surgery Recovery Timeline - What You Need to Know About After-Care
 slug: oral-surgery-recovery-timeline-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Patient-focused post-operative timeline, day-by-day expectations, swelling and pain progression, when to contact surgeon, activity restrictions, return to work timeline, and warning signs of complications.
+excerpt: "Patient-focused post-operative timeline, day-by-day expectations, swelling and pain progression, when to contact surgeon, activity restrictions,."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery

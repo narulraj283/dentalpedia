@@ -1,9 +1,9 @@
 ---
-title: Stem Cell Therapy and Periodontal Regeneration: Current Clinical Evidence and Future Directions
+title: "Stem Cell Therapy and Periodontal Regeneration: Current Clinical Evidence and Future Directions"
 slug: stem-cell-therapy-future-periodontal-treatment
 category: Periodontics
 category_slug: periodontics
-excerpt: Comprehensive review of periodontal ligament stem cells, dental pulp stem cells, and bone marrow-derived stem cells for periodontal regeneration with clinical trials and biomaterial scaffolds.
+excerpt: "Comprehensive review of periodontal ligament stem cells, dental pulp stem cells, and bone marrow-derived stem cells for periodontal regeneration with."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Periodontist

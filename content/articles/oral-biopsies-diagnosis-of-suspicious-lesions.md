@@ -1,11 +1,11 @@
 ---
-title: Oral Biopsies: Diagnosis of Suspicious Lesions
+title: "Oral Biopsies: Diagnosis of Suspicious Lesions"
 slug: oral-biopsies-diagnosis-of-suspicious-lesions
 category: Oral Surgery
 category_slug: oral-surgery
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-excerpt: Oral biopsies provide definitive histopathologic diagnosis of suspicious mucosal lesions, enabling early detection of malignancy and appropriate intervention for benign conditions through minimally invasive tissue sampling techniques.
+excerpt: "Oral biopsies provide definitive histopathologic diagnosis of suspicious mucosal lesions, enabling early detection of malignancy and appropriate."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

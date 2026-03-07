@@ -3,7 +3,7 @@ title: Complete Recovery Timeline Guide for Oral Surgical Procedures
 slug: recovery-timeline-complete-guide
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive recovery timeline comparison for various oral surgical procedures including simple extractions, surgical extractions, wisdom teeth removal, implant placement, bone grafting, and orthognathic surgery.
+excerpt: "Comprehensive recovery timeline comparison for various oral surgical procedures including simple extractions, surgical extractions, wisdom teeth."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery

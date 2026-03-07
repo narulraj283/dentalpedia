@@ -1,9 +1,9 @@
 ---
-title: TMJ Syndrome: Causes, Clinical Presentation, and Evidence-Based Treatment
+title: "TMJ Syndrome: Causes, Clinical Presentation, and Evidence-Based Treatment"
 slug: tmj-syndrome-jaw-pain-causes-and-treatment
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Comprehensive clinical review of temporomandibular joint syndrome, including myofascial pain dysfunction, disc displacement, arthralgia, headaches, and evidence-based treatment progression from conservative to surgical options.
+excerpt: "Comprehensive clinical review of temporomandibular joint syndrome, including myofascial pain dysfunction, disc displacement, arthralgia, headaches,."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Prosthodontics and Orofacial Pain

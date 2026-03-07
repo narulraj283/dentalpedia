@@ -3,7 +3,7 @@ title: Risk and Concerns with Oral Health Habits
 slug: risk-concerns-oral-health-habits
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Poor oral health habits create cumulative damage through inadequate plaque removal, overly aggressive cleaning, inappropriate product selection, and timing errors that compound to produce preventable dental disease.
+excerpt: "Poor oral health habits create cumulative damage through inadequate plaque removal, overly aggressive cleaning, inappropriate product selection, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Preventive Dentistry

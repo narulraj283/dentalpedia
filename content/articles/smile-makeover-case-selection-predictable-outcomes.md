@@ -3,7 +3,7 @@ title: Smile Makeover Case Selection and Achieving Predictable Outcomes
 slug: smile-makeover-case-selection-predictable-outcomes
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Learn case selection criteria, complexity classification systems, predictability factors, risk assessment, and patient motivation evaluation for successful smile makeover outcomes.
+excerpt: "Learn case selection criteria, complexity classification systems, predictability factors, risk assessment, and patient motivation evaluation for."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

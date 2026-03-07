@@ -3,7 +3,7 @@ title: Pacifier Use Timing and Malocclusion Risk—Age-Dependent Effects and Ces
 slug: pacifier-use-timing-and-malocclusion-risk
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Age-specific windows and duration thresholds for pacifier use directly impact malocclusion risk, with cessation by age 3 years preventing 85-90% of habit-related dental problems.
+excerpt: "Age-specific windows and duration thresholds for pacifier use directly impact malocclusion risk, with cessation by age 3 years preventing 85-90% of."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Pediatric Dentistry

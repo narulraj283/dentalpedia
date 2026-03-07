@@ -3,7 +3,7 @@ title: Surgical Success Rates in Oral Surgery - Outcome Metrics and Predictors
 slug: how-to-surgical-success-rates
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Oral surgical success rates vary substantially by procedure type, patient factors, and surgeon experience, with comprehensive outcome assessment incorporating complication incidence, functional restoration, and patient satisfaction measures.
+excerpt: "Oral surgical success rates vary substantially by procedure type, patient factors, and surgeon experience, with comprehensive outcome assessment."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

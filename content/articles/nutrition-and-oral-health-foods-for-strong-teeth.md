@@ -3,7 +3,7 @@ title: Nutrition and Oral Health—Foods and Nutrients for Strong Teeth
 slug: nutrition-and-oral-health-foods-for-strong-teeth
 category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: Strategic nutritional choices support tooth structure development, mineralization, and disease resistance while limiting cariogenic and erosive dietary factors.
+excerpt: "Strategic nutritional choices support tooth structure development, mineralization, and disease resistance while limiting cariogenic and erosive."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

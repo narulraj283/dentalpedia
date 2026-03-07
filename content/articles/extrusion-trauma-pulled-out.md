@@ -1,9 +1,9 @@
 ---
-title: Traumatic Tooth Extrusion: Luxation Injuries and Comprehensive Emergency Management
+title: "Traumatic Tooth Extrusion: Luxation Injuries and"
 slug: extrusion-trauma-pulled-out
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Traumatic tooth extrusion requires immediate repositioning within 30 minutes; delayed intervention significantly reduces long-term tooth survival probability.
+excerpt: "When you get a side blow to your mouth during sports or an accident, your tooth can get pushed partially out of its socket."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery
@@ -41,7 +41,7 @@ When the tooth gets hit and pushed out, several things get injured:
 - The nerve inside might get hurt
 - The soft tissues (gums) get torn and bleed
 
-The good news is that if you act quickly, many of these things can heal. The periodontal ligament has a special ability to heal if the tooth gets put back in the right position within about 30 minutes. After that, healing gets harder.
+The good news is that if you act quickly, many of these things can heal. Learning more about [reimplanted teeth salvaging avulsed permanent teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html) can help you understand this better. The periodontal ligament has a special ability to heal if the tooth gets put back in the right position within about 30 minutes. After that, healing gets harder.
 
 ## The Critical Time Window
 
@@ -71,7 +71,7 @@ Even if everything looks fine right after treatment, there's a risk that the ner
 Your dentist will watch for nerve problems by:
 - Looking for changes in tooth color (darkening or graying)
 - Taking X-rays to look for problems at the root tip
-- Testing whether the tooth responds to temperature
+- Testing whether the tooth responds to temperature You may also want to read about [risk and concerns with mouth injuries treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html).
 
 If the nerve dies, you'll probably need root canal treatment. But catching it early makes treatment simpler.
 
@@ -132,6 +132,8 @@ The best thing you can do is prevent the injury in the first place. If you play 
 ## Conclusion
 
 A partially extruded tooth is a dental emergency, but with quick treatment, most teeth are saved. The first 30 minutes are critical. After that, careful management and follow-up care determine whether you'll keep your tooth long-term.
+
+
 
 ## Related Articles You May Find Helpful
 

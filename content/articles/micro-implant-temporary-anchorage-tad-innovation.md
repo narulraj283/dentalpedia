@@ -1,5 +1,5 @@
 ---
-title: Micro-Implant Temporary Anchorage: TAD Innovation
+title: "Micro-Implant Temporary Anchorage: TAD Innovation"
 slug: micro-implant-temporary-anchorage-tad-innovation
 category: Orthodontics
 category_slug: orthodontics

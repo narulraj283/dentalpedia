@@ -3,7 +3,7 @@ title: Risk and Concerns with Gum Health Maintenance
 slug: risk-and-concerns-with-gum-health-maintenance
 category: Periodontics
 category_slug: periodontics
-excerpt: Examining periodontal maintenance therapy challenges, reinfection risks, long-term compliance issues, and complications including antibiotic resistance in treated patients.
+excerpt: "Examining periodontal maintenance therapy challenges, reinfection risks, long-term compliance issues, and complications including antibiotic."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontics

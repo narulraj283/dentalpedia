@@ -1,5 +1,5 @@
 ---
-title: Mouthguards for Young Athletes: Selection, Fitting, and Protective Efficacy
+title: "Mouthguards for Young Athletes: Selection, Fitting, and Protective Efficacy"
 slug: sports-mouthguards-for-young-athletes
 category: Sports Dentistry
 category_slug: sports-dentistry

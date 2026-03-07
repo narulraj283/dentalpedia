@@ -1,5 +1,5 @@
 ---
-title: Teeth Color Improvement: What You Need to Know
+title: "Teeth Color Improvement: What You Need to Know"
 slug: teeth-color-improvement-what-you-need-to-know
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry

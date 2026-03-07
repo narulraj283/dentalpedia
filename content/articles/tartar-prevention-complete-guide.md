@@ -1,9 +1,9 @@
 ---
-title: Tartar Prevention: Complete Clinical Guide to Calculus Control
+title: "Tartar Prevention: Complete Clinical Guide to Calculus Control"
 slug: tartar-prevention-complete-guide
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Comprehensive evidence-based strategies for calculus prevention including mineralization mechanisms, biofilm control, saliva factors, and professional protocols.
+excerpt: "Comprehensive evidence-based strategies for calculus prevention including mineralization mechanisms, biofilm control, saliva factors, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Preventive Dentistry

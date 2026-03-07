@@ -3,7 +3,7 @@ title: Surgical Site Healing - Phases and Biological Responses
 slug: how-to-surgical-site-healing
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Post-operative wound healing progresses through hemostasis, inflammation, proliferation, and remodeling phases, with strategic management optimizing epithelialization, angiogenesis, and bone regeneration for accelerated recovery.
+excerpt: "Post-operative wound healing progresses through hemostasis, inflammation, proliferation, and remodeling phases, with strategic management optimizing."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

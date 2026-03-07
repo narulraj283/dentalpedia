@@ -3,7 +3,7 @@ title: Natural Tooth Whitening Remedies and Evidence-Based Approaches
 slug: natural-remedies-whitening-without-chemicals
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensive review of natural whitening methods including oil pulling, baking soda, and activated charcoal, with clinical evidence versus folklore and comparison to professional whitening standards.
+excerpt: "Comprehensive review of natural whitening methods including oil pulling, baking soda, and activated charcoal, with clinical evidence versus folklore."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

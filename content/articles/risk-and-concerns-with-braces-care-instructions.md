@@ -3,7 +3,7 @@ title: Risk and Concerns with Braces Care Instructions
 slug: risk-and-concerns-with-braces-care-instructions
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Orthodontic hygiene challenges including bracket breakage, wire trauma, dietary restrictions, and emergency management require comprehensive patient education and preparedness.
+excerpt: "Orthodontic hygiene challenges including bracket breakage, wire trauma, dietary restrictions, and emergency management require comprehensive patient."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontics

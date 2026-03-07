@@ -3,7 +3,7 @@ title: Dental Transposition—When Teeth Erupt in Wrong Sequence
 slug: transposition-teeth-in-wrong-sequence
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Dental transposition involves teeth erupting in exchanged positional sequences, with prevalence 0.33% in most populations, classified by type and location, with genetic and developmental etiologic factors influencing occurrence.
+excerpt: "Dental transposition involves teeth erupting in exchanged positional sequences, with prevalence 0.33% in most populations, classified by type and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontics

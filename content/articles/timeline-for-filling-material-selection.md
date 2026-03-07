@@ -1,5 +1,5 @@
 ---
-title: Dental Filling Material Selection: Properties, Indications, and Clinical Performance
+title: "Dental Filling Material Selection: Properties, Indications, and Clinical Performance"
 slug: timeline-for-filling-material-selection
 category: General Dentistry
 category_slug: general-dentistry

@@ -1,11 +1,11 @@
 ---
-title: Oral Health Habits: Complete Guide
+title: "Oral Health Habits: Complete Guide"
 slug: oral-health-habits-complete-guide
 category: Preventive Care
 category_slug: preventive-care
 subcategory: Preventive Overview
 subcategory_slug: overview-preventive
-excerpt: Comprehensive oral health habits including proper brushing and flossing techniques, dietary modifications, and professional care establish the foundation for lifelong dental health, disease prevention, and optimal systemic health outcomes.
+excerpt: "Comprehensive oral health habits including proper brushing and flossing techniques, dietary modifications, and professional care establish the."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

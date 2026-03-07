@@ -3,7 +3,7 @@ title: Orthodontic Transposition Management—Moving Teeth to New Positions
 slug: transposition-moving-teeth-to-new-positions
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Orthodontic transposition correction involves canine-premolar and canine-lateral incisors transpositions, requiring comprehensive diagnosis, treatment planning, root proximity assessment via CBCT, and biomechanical strategies to correct severe positional discrepancies.
+excerpt: "Orthodontic transposition correction involves canine-premolar and canine-lateral incisors transpositions, requiring comprehensive diagnosis,."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontics

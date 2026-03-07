@@ -3,7 +3,7 @@ title: Veneer Thickness and Minimal Preparation Veneers
 slug: veneer-thickness-minimal-preparation
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Overview of minimal-prep and no-prep veneer systems, veneer thickness ranges (0.3-0.5mm), enamel preservation, bonding considerations, and clinical outcomes.
+excerpt: "Overview of minimal-prep and no-prep veneer systems, veneer thickness ranges (0.3-0.5mm), enamel preservation, bonding considerations, and clinical."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

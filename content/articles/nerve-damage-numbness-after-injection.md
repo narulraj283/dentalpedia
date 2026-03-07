@@ -1,6 +1,6 @@
 ---
 title: "Nerve Damage and Numbness After Dental Injection: Causes and Recovery"
-excerpt: "Understand paresthesia following anesthetic injection, mechanisms of inferior alveolar and lingual nerve injury, recovery timelines, and evidence-based management strategies."
+excerpt: "Understand paresthesia following anesthetic injection, mechanisms of inferior alveolar and lingual nerve injury, recovery timelines, and."
 category: "general-dentistry"
 subcategory: "General Overview"
 page_type: "overview-general"

@@ -1,5 +1,5 @@
 ---
-title: Wisdom Teeth Extraction: What You Need to Know
+title: "Wisdom Teeth Extraction: What You Need to Know"
 slug: wisdom-teeth-extraction-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery

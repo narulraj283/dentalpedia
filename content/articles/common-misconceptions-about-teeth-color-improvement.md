@@ -35,7 +35,7 @@ After about 12-14 weeks of treatment, additional bleaching gives minimal extra i
 
 Yes, enormously. Surface stains (from coffee, tea, red wine, or tobacco) whiten 8-12 shade units in just 1-2 weeks because bleaching easily removes surface chromophores. But deep stains in dentin (from aging, tetracycline antibiotics taken as a child, or birth defects) only lighten 3-5 shade units maximum, even with months of treatment. Tetracycline stains are particularly stubborn—only 2-4 shade units improvement possible.
 
-For these stubborn stains, whitening alone might not be enough. Bonding or veneers combined with whitening works better.
+For these stubborn stains, whitening alone might not be enough. Learning more about [common misconceptions about teeth whitening results](/article/common-misconceptions-about-teeth-whitening-results.html) can help you understand this better. Bonding or veneers combined with whitening works better.
 
 ## Do Results Really Last Forever?
 
@@ -57,7 +57,7 @@ Your dentist can plan around this: either do bonding before whitening, or plan r
 
 ## Are Stronger Bleaching Gels Proportionally Better?
 
-No. While stronger gels work faster, there's a plateau effect. Using 35-40% hydrogen peroxide in-office achieves similar ultimate shade change as using 10% carbamide peroxide (equivalent to 3.5% hydrogen peroxide) at home for 2-3 weeks. The difference is speed, not final result.
+No. Learning more about [common misconceptions about teeth bleaching safety](/article/common-misconceptions-about-teeth-bleaching-safety.html) can help you understand this better. While stronger gels work faster, there's a plateau effect. Using 35-40% hydrogen peroxide in-office achieves similar ultimate shade change as using 10% carbamide peroxide (equivalent to 3.5% hydrogen peroxide) at home for 2-3 weeks. The difference is speed, not final result.
 
 What matters is safe concentration levels—going stronger than necessary just increases risks without better outcomes.
 
@@ -88,6 +88,8 @@ Teeth whitening results don't last forever, but several strategies help you main
 ## Conclusion
 
 Realistic tooth whitening achieves 5-7 shade units of improvement, works better on surface stains than deep discoloration, requires maintenance touch-ups every 12-18 months, and causes temporary sensitivity in about half of people. Professional bleaching dramatically outperforms store-bought products. For severe intrinsic discoloration, combining whitening with bonding or veneers works better than whitening alone. Understanding what whitening can realistically accomplish helps you make the right choice about whether it's the best treatment for your specific situation.
+
+
 
 ## Related Articles You May Find Helpful
 

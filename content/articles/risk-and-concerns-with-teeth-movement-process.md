@@ -3,7 +3,7 @@ title: Risk and Concerns with Teeth Movement Process
 slug: risk-and-concerns-with-teeth-movement-process
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Understanding the biological complications of orthodontic tooth movement including root resorption, PDL damage, hyalinization zones, and alveolar bone adaptation risks.
+excerpt: "Understanding the biological complications of orthodontic tooth movement including root resorption, PDL damage, hyalinization zones, and alveolar."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Orthodontics

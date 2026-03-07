@@ -3,7 +3,7 @@ title: Perioperative Pain Management in Oral and Maxillofacial Surgery
 slug: timeline-for-pain-management-surgery
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Evidence-based perioperative pain management strategies including preemptive analgesia, multimodal approaches, and opioid-sparing protocols for optimal surgical outcomes.
+excerpt: "Evidence-based perioperative pain management strategies including preemptive analgesia, multimodal approaches, and opioid-sparing protocols for."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

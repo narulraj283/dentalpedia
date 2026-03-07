@@ -1,9 +1,9 @@
 ---
-title: Tooth Whitening Methods: Professional vs At-Home Treatments Comparison
+title: "Tooth Whitening Methods: Professional vs At-Home Treatments Comparison"
 slug: tooth-whitening-methods-professional-vs-at-home-treatments
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensive comparison of in-office professional whitening versus at-home custom tray and over-the-counter options with effectiveness data and cost analysis.
+excerpt: "Comprehensive comparison of in-office professional whitening versus at-home custom tray and over-the-counter options with effectiveness data and cost."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

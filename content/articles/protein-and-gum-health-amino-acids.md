@@ -1,9 +1,9 @@
 ---
-title: Protein and Gum Health: The Role of Amino Acids
+title: "Protein and Gum Health: The Role of Amino Acids"
 slug: protein-and-gum-health-amino-acids
 category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: Protein and specific amino acids (proline, lysine) are essential for collagen synthesis, periodontal healing, and maintaining gingival integrity; deficiency accelerates periodontal disease.
+excerpt: "Protein and specific amino acids (proline, lysine) are essential for collagen synthesis, periodontal healing, and maintaining gingival integrity;."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

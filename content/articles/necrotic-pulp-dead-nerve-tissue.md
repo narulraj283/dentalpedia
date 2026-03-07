@@ -1,9 +1,9 @@
 ---
-title: Pulp Necrosis and Dead Nerve Tissue: Diagnosis, Pathology, and Treatment
+title: "Pulp Necrosis and Dead Nerve Tissue: Diagnosis, Pathology, and Treatment"
 slug: necrotic-pulp-dead-nerve-tissue
 category: Endodontics
 category_slug: endodontics
-excerpt: Clinical understanding of pulp necrosis etiology, diagnostic methods including electric pulp testing and thermal testing, periapical pathology, and endodontic treatment protocols for management of necrotic pulp tissue.
+excerpt: "Clinical understanding of pulp necrosis etiology, diagnostic methods including electric pulp testing and thermal testing, periapical pathology, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Endodontics

@@ -3,7 +3,7 @@ title: Comprehensive Surgical Complication Risk Management in Oral Surgery
 slug: risk-and-concerns-with-surgical-complications
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Detailed analysis of hemorrhage, infection, nerve injury, sinus perforation, osteonecrosis, and medication-related surgical complications with evidence-based management protocols.
+excerpt: "Detailed analysis of hemorrhage, infection, nerve injury, sinus perforation, osteonecrosis, and medication-related surgical complications with."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

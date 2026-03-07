@@ -3,7 +3,7 @@ title: Preventive Dental Treatments and Risk-Based Scheduling Protocols
 slug: timeline-for-preventive-treatments
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based preventive treatment modalities including prophylaxis, fluoride varnish, sealants, silver diamine fluoride, and oral cancer screening with risk-stratified intervals.
+excerpt: "Evidence-based preventive treatment modalities including prophylaxis, fluoride varnish, sealants, silver diamine fluoride, and oral cancer screening."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Preventive Dentistry

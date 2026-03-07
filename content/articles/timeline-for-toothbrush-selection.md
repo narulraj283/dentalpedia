@@ -1,9 +1,9 @@
 ---
-title: Toothbrush Selection Guide: Manual vs. Electric, Bristle Types, Design Features, and Replacement Protocols
+title: "Toothbrush Selection Guide: Manual vs. Electric, Bristle Types, Design Features, and Replacement Protocols"
 slug: timeline-for-toothbrush-selection
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based toothbrush selection considers manual versus powered options, bristle types, head size, and design features to optimize plaque removal and reduce gingival trauma.
+excerpt: "Evidence-based toothbrush selection considers manual versus powered options, bristle types, head size, and design features to optimize plaque removal."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Preventive Dentist

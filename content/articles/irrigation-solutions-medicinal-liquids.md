@@ -3,7 +3,7 @@ title: Irrigation Solutions - Medicinal Liquids - Clinical Properties and Applic
 slug: irrigation-solutions-medicinal-liquids
 category: Endodontics
 category_slug: endodontics
-excerpt: Irrigation solutions represent critical components of endodontic and periodontal therapy, providing antimicrobial action, tissue dissolution, and debris removal. This comprehensive guide covers solution properties, concentrations, activation methods, and clinical applications.
+excerpt: "Irrigation solutions represent critical components of endodontic and periodontal therapy, providing antimicrobial action, tissue dissolution, and."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

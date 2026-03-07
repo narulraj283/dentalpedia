@@ -3,7 +3,7 @@ title: Surgical vs. Simple Extraction - When Is Surgery Necessary?
 slug: surgical-tooth-extraction-when-and-why-its-necessary
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Clinical criteria distinguishing surgical from simple extraction, impaction classification, anatomical factors affecting extraction method, and decision-making algorithms.
+excerpt: "Clinical criteria distinguishing surgical from simple extraction, impaction classification, anatomical factors affecting extraction method, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

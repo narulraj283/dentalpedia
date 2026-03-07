@@ -39,7 +39,7 @@ Bridges work well when you have healthy teeth on both sides of the gap. The brid
 
 ## Crown on a Bridge
 
-If you have a crown on a damaged tooth, that's a single tooth restoration. If you have a bridge, the crowns on the abutment teeth (side teeth) are technically part of the bridge, not separate crowns. The cost is usually quoted as one price for the whole bridge, including the abutment crowns.
+If you have a crown on a damaged tooth, that's a single tooth restoration. Learning more about [cost of cosmetic crown selection](/article/cost-of-cosmetic-crown-selection.html) can help you understand this better. If you have a bridge, the crowns on the abutment teeth (side teeth) are technically part of the bridge, not separate crowns. The cost is usually quoted as one price for the whole bridge, including the abutment crowns.
 
 ## Implant Instead of Crown or Bridge
 
@@ -82,7 +82,7 @@ A single crown for a damaged tooth:
 
 A crown requires:
 - That the tooth have enough structure to support it
-- If the tooth is heavily damaged, you might need additional treatment (root canal, buildup) before the crown
+- If the tooth is heavily damaged, you might need additional treatment (root canal, buildup) before the crown You may also want to read about [cost of extraction complications](/article/cost-of-extraction-complications.html).
 
 ## Multiple Missing Teeth
 
@@ -126,6 +126,8 @@ Sometimes an implant is better because:
 ## Conclusion
 
 A single crown costs $800 to $1,500 for a damaged tooth and lasts 10 to 15 years. A bridge costs $2,400 to $6,000 to replace a missing tooth but requires altering two neighboring teeth. An implant costs $2,500 to $6,000 but avoids altering other teeth and often lasts 20+ years. Your choice depends on your specific situation, your tooth condition, your bone structure, insurance coverage, timeline needs, and personal preferences. Talk to your dentist about which option makes the most sense for your situation.
+
+
 
 ## Related Articles You May Find Helpful
 

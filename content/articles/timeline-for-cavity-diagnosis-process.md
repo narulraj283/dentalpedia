@@ -3,7 +3,7 @@ title: Timeline for Cavity Diagnosis Process and Caries Detection Methods
 slug: timeline-for-cavity-diagnosis-process
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Modern caries diagnosis combines visual-tactile examination, radiographic imaging, and emerging technologies for optimal early detection enabling minimally invasive treatment.
+excerpt: "Modern caries diagnosis combines visual-tactile examination, radiographic imaging, and emerging technologies for optimal early detection enabling."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

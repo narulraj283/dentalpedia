@@ -3,7 +3,7 @@ title: Post-Root Canal Treatment Pain - Normal or Concerning?
 slug: post-root-canal-treatment-pain-normal-or-concerning
 category: Endodontics
 category_slug: endodontics
-excerpt: Comprehensive clinical assessment of post-endodontic flare-ups, expected pain duration, interappointment pain management, and signs distinguishing normal post-operative discomfort from treatment failure.
+excerpt: "Comprehensive clinical assessment of post-endodontic flare-ups, expected pain duration, interappointment pain management, and signs distinguishing."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Endodontics

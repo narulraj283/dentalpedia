@@ -3,7 +3,7 @@ title: "Laser Surgery: CO2 and Er:YAG Applications"
 slug: laser-surgery-co2-and-er-yag-applications
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive examination of CO2 and Er:YAG laser systems in oral and maxillofacial surgery, including wavelength physics, tissue interaction mechanisms, ablation parameters, surgical indications, and comparative efficacy across soft and hard tissue procedures.
+excerpt: "Comprehensive examination of CO2 and Er:YAG laser systems in oral and maxillofacial surgery, including wavelength physics, tissue interaction."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

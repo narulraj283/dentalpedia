@@ -3,7 +3,7 @@ title: Oral Microbiome Modulation Through Probiotics and Beneficial Bacteria
 slug: probiotics-for-oral-health
 category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: Comprehensive review of oral microbiome structure, probiotic strains including Weissella cibaria, biofilm competition mechanisms, and clinical applications in preventive and alternative dental practice.
+excerpt: "Comprehensive review of oral microbiome structure, probiotic strains including Weissella cibaria, biofilm competition mechanisms, and clinical."
 date: 2026-03-05
 read_time: 14 min
 reviewer_specialty: General Dentistry

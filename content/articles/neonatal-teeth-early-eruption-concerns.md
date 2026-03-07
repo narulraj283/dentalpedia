@@ -1,6 +1,6 @@
 ---
 title: "Neonatal Teeth: Early Eruption Concerns and Clinical Management"
-excerpt: "Understand neonatal and natal teeth presentation, associated complications, and evidence-based management approaches for teeth erupting during the first month of life."
+excerpt: "Understand neonatal and natal teeth presentation, associated complications, and evidence-based management approaches for teeth erupting during the."
 category: "general-dentistry"
 subcategory: "General Overview"
 page_type: "overview-general"

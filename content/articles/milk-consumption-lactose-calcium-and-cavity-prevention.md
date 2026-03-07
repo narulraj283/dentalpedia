@@ -1,5 +1,5 @@
 ---
-title: Milk Consumption: Lactose, Calcium, and Cavity Prevention
+title: "Milk Consumption: Lactose, Calcium, and Cavity Prevention"
 slug: milk-consumption-lactose-calcium-and-cavity-prevention
 category: Preventive Care
 category_slug: preventive-care

@@ -1,9 +1,9 @@
 ---
-title: Veneer Installation Process: Step-by-Step Clinical Placement Protocol
+title: "Veneer Installation Process: Step-by-Step Clinical Placement Protocol"
 slug: timeline-for-veneer-installation-steps
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Veneer placement requires precise preparation (0.3-0.7mm reduction), digital smile design consultation, temporary provisionals, and adhesive cementation using hydrofluoric acid etch and silane coupling protocols.
+excerpt: "Veneer placement requires precise preparation (0.3-0.7mm reduction), digital smile design consultation, temporary provisionals, and adhesive."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic Dentistry

@@ -3,7 +3,7 @@ title: How to Tooth Gap Closure
 slug: how-to-tooth-gap-closure
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Diastema (midline gap) closure requires diagnosis of causative factors and selection from fixed orthodontic treatment, composite bonding, or prosthetic restorations based on gap width and esthetic goals.
+excerpt: "Diastema (midline gap) closure requires diagnosis of causative factors and selection from fixed orthodontic treatment, composite bonding, or."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

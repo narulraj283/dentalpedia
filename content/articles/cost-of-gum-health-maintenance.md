@@ -41,7 +41,7 @@ Professional visits are only half the battle. At home, you need good tools and p
 
 Quality toothbrush and floss: $15-30 monthly, so about $180-360 per year. If you want an electric toothbrush (which works better), expect $50-150 upfront, then $60-120 per year for replacement heads. Water flossers are another option at $40-100 upfront. Total home care supplies: $200-400 to start, then $200-300 annually.
 
-You might also use antimicrobial rinses periodically ($5-15 per bottle, lasting a month). Some people do courses of these 3-4 times per year, spending $50-150 annually. Your dentist might also recommend professional home care coaching sessions—a hygienist can show you better technique in 30-45 minute sessions for $50-100 each. If you need 2-4 sessions yearly, that's $100-400.
+You might also use antimicrobial rinses periodically ($5-15 per bottle, lasting a month). Learning more about [cost of gum disease prevention](/article/cost-of-gum-disease-prevention.html) can help you understand this better. Some people do courses of these 3-4 times per year, spending $50-150 annually. Your dentist might also recommend professional home care coaching sessions—a hygienist can show you better technique in 30-45 minute sessions for $50-100 each. If you need 2-4 sessions yearly, that's $100-400.
 
 Total home care investment: $300-600 annually for supplies, plus $0-400 for professional coaching. Still a bargain compared to the thousands you'd pay for disease recurrence.
 
@@ -92,6 +92,8 @@ Recent research shows links between gum disease and heart disease and diabetes. 
 ## Conclusion
 
 Gum health maintenance through regular professional visits and home care costs $500-1,500 yearly and keeps your teeth and protects your overall health. Skipping maintenance leads to disease recurrence costing $5,000-20,000 in treatment and eventual tooth loss costing $12,000-48,000 for replacements. The math is simple: maintain your gums affordably or lose your teeth expensively. Stay consistent with your maintenance visits and talk to your dentist about what schedule is right for your specific situation.
+
+
 
 ## Related Articles You May Find Helpful
 

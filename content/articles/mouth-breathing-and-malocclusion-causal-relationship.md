@@ -1,9 +1,9 @@
 ---
-title: Mouth Breathing and Malocclusion: Causal Relationship
+title: "Mouth Breathing and Malocclusion: Causal Relationship"
 slug: mouth-breathing-and-malocclusion-causal-relationship
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Chronic oral breathing fundamentally alters craniofacial development, creating architectural changes that precipitate malocclusion. Understanding this pathway enables early intervention and prevention of complex orthodontic cases.
+excerpt: "Chronic oral breathing fundamentally alters craniofacial development, creating architectural changes that precipitate malocclusion."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

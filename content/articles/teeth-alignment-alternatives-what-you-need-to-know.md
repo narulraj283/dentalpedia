@@ -1,9 +1,9 @@
 ---
-title: Teeth Alignment Alternatives: What You Need to Know
+title: "Teeth Alignment Alternatives: What You Need to Know"
 slug: teeth-alignment-alternatives-what-you-need-to-know
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Explore modern orthodontic options from traditional braces to clear aligners, understanding treatment duration, costs, and how to choose the right provider.
+excerpt: "Explore modern orthodontic options from traditional braces to clear aligners, understanding treatment duration, costs, and how to choose the right."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontist

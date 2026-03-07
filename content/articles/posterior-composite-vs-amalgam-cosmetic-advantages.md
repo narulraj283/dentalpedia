@@ -3,7 +3,7 @@ title: Posterior Composite vs Amalgam - Cosmetic Advantages and Clinical Longevi
 slug: posterior-composite-vs-amalgam-cosmetic-advantages
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Direct posterior composite restorations, longevity comparison, advanced bonding techniques, layering protocols, Class II considerations, and esthetic outcomes versus traditional amalgam.
+excerpt: "Direct posterior composite restorations, longevity comparison, advanced bonding techniques, layering protocols, Class II considerations, and esthetic."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic Dentistry

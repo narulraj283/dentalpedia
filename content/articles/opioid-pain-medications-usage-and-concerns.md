@@ -1,11 +1,11 @@
 ---
-title: Opioid Pain Medications: Usage and Concerns
+title: "Opioid Pain Medications: Usage and Concerns"
 slug: opioid-pain-medications-usage-and-concerns
 category: Oral Surgery
 category_slug: oral-surgery
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-excerpt: Opioid medications present complex risks including addiction potential and dependence, prompting dental professionals to reevaluate prescribing practices and emphasize multimodal pain management strategies with non-opioid alternatives and judicious opioid use.
+excerpt: "Opioid medications present complex risks including addiction potential and dependence, prompting dental professionals to reevaluate prescribing."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

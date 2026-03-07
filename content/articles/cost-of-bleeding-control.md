@@ -227,6 +227,14 @@ The small cost of hemostatic materials (typically $50-$300) prevents far larger 
 - Will I need blood work before surgery if I take blood thinners?
 - What's your emergency contact if secondary bleeding occurs after hours?
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about bleeding control and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
 ## Conclusion
 
 Hemostatic materials ($50-$350 per application) prevent bleeding complications costing $3,000-$11,500+. Collagen-based products cost $80-$250; gelatin costs $20-$60; modern options cost $200-$350. Choice depends on bleeding severity and procedure complexity. Most surgical fees include basic hemostasis costs. Proper post-op care (following instructions, avoiding straws, no smoking) prevents secondary bleeding. Your surgeon will select appropriate hemostatic materials based on your procedure and bleeding severity.

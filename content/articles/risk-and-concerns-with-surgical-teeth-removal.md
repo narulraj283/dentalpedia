@@ -3,7 +3,7 @@ title: Extraction Risks by Tooth Complexity and Clinical Presentation
 slug: risk-and-concerns-with-surgical-teeth-removal
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive analysis of tooth extraction risks stratified by complexity, impaction classification, third molar specific risks, pediatric extraction considerations, and geriatric complications.
+excerpt: "Comprehensive analysis of tooth extraction risks stratified by complexity, impaction classification, third molar specific risks, pediatric extraction."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

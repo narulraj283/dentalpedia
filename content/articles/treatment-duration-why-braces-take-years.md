@@ -3,7 +3,7 @@ title: Why Does Orthodontic Treatment Take Years? Understanding Bone Biology and
 slug: treatment-duration-why-braces-take-years
 category: Orthodontics
 category_slug: orthodontics
-excerpt: The biological mechanisms explaining why orthodontic treatment requires 18-36 months, including bone remodeling, force optimization, and compliance factors.
+excerpt: "The biological mechanisms explaining why orthodontic treatment requires 18-36 months, including bone remodeling, force optimization, and compliance."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

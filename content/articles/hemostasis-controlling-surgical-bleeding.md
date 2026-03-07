@@ -1,5 +1,5 @@
 ---
-title: Hemostasis: Controlling Surgical Bleeding
+title: "Hemostasis: Controlling Surgical Bleeding"
 slug: hemostasis-controlling-surgical-bleeding
 category: Oral Surgery
 category_slug: oral-surgery

@@ -1,9 +1,9 @@
 ---
-title: Braces Versus Clear Aligners: Treatment Effectiveness, Esthetics, Compliance, and Clinical Decision-Making
+title: "Braces Versus Clear Aligners: Treatment Effectiveness, Esthetics, Compliance, and Clinical Decision-Making"
 slug: timeline-for-traditional-vs-invisible-braces
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Traditional fixed appliances and clear aligner systems represent distinct orthodontic modalities with different effectiveness profiles, esthetic considerations, and applicability to specific malocclusions.
+excerpt: "Traditional fixed appliances and clear aligner systems represent distinct orthodontic modalities with different effectiveness profiles, esthetic."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Orthodontist

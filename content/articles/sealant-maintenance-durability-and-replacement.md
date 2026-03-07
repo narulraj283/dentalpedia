@@ -3,7 +3,7 @@ title: Sealant Maintenance, Durability, and Replacement Protocols
 slug: sealant-maintenance-durability-and-replacement
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Comprehensive review of sealant retention rates, durability factors, partial versus complete loss distinction, clinical re-evaluation criteria, replacement protocols, and long-term cost-effectiveness analysis.
+excerpt: "Comprehensive review of sealant retention rates, durability factors, partial versus complete loss distinction, clinical re-evaluation criteria,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

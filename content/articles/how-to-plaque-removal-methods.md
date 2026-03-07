@@ -1,9 +1,9 @@
 ---
-title: Comprehensive Plaque Removal Methods: Mechanical, Chemical, and Professional Approaches for Biofilm Control
+title: "Comprehensive Plaque Removal Methods: Mechanical, Chemical, and Professional Approaches for Biofilm Control"
 slug: how-to-plaque-removal-methods
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based plaque removal techniques including mechanical cleaning, interdental methods, antimicrobial agents, and professional scaling protocols for optimal biofilm management and periodontal health.
+excerpt: "Evidence-based plaque removal techniques including mechanical cleaning, interdental methods, antimicrobial agents, and professional scaling protocols."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

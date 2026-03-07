@@ -1,9 +1,9 @@
 ---
-title: Maxillary Denture: Upper Denture Retention
+title: "Maxillary Denture: Upper Denture Retention"
 slug: maxillary-denture-upper-denture-retention
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Comprehensive retention optimization through border extension, ridge morphology assessment, and mechanical stability strategies in complete maxillary dentures.
+excerpt: "Comprehensive retention optimization through border extension, ridge morphology assessment, and mechanical stability strategies in complete maxillary."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

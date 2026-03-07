@@ -117,5 +117,5 @@ Your dentist is your partner in oral health. The more openly you communicate abo
 
 Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
 
-> **Key Takeaway:** Understanding anesthesia options in oral surgery helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** Dental anesthesia is very safe, but like any medical procedure, complications can rarely happen. Your dentist can help you understand what steps are right for your specific needs.
 

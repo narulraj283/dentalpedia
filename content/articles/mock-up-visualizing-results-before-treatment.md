@@ -1,11 +1,11 @@
 ---
-title: Mock-Up: Visualizing Results Before Treatment
+title: "Mock-Up: Visualizing Results Before Treatment"
 slug: mock-up-visualizing-results-before-treatment
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
-excerpt: Digital and physical mock-ups enable patients to preview treatment outcomes before proceeding with cosmetic procedures, improving informed consent, establishing realistic expectations, and optimizing final restoration design through collaborative treatment planning.
+excerpt: "Digital and physical mock-ups enable patients to preview treatment outcomes before proceeding with cosmetic procedures, improving informed consent,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

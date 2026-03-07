@@ -1,9 +1,9 @@
 ---
-title: What to Expect: Pain Management After Oral Surgery
+title: "What to Expect: Pain Management After Oral Surgery"
 slug: pain-management-surgery-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Patient-focused guide to post-surgical pain management expectations, medication timing, physical interventions, and warning signs requiring professional contact.
+excerpt: "Patient-focused guide to post-surgical pain management expectations, medication timing, physical interventions, and warning signs requiring."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery

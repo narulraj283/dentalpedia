@@ -3,7 +3,7 @@ title: Scaling and Root Planing - Non-Surgical Periodontal Treatment Protocol
 slug: scaling-and-root-planing-non-surgical-gum-treatment
 category: Periodontics
 category_slug: periodontics
-excerpt: Comprehensive clinical guide to SRP procedure, instrumentation techniques, healing response evaluation, adjunctive antimicrobial therapy, and re-evaluation protocols for optimal periodontal outcomes.
+excerpt: "Comprehensive clinical guide to SRP procedure, instrumentation techniques, healing response evaluation, adjunctive antimicrobial therapy, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Periodontics

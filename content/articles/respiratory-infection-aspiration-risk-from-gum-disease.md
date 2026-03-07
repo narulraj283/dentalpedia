@@ -3,7 +3,7 @@ title: Respiratory Infection and Aspiration Risk From Gum Disease
 slug: respiratory-infection-aspiration-risk-from-gum-disease
 category: Periodontics
 category_slug: periodontics
-excerpt: Understand the critical link between periodontal disease, aspiration pneumonia risk, and ventilator-associated complications in medically compromised populations.
+excerpt: "Understand the critical link between periodontal disease, aspiration pneumonia risk, and ventilator-associated complications in medically compromised."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontics

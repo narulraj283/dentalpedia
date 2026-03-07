@@ -3,7 +3,7 @@ title: "Removable Retainers: Hawley vs Essix Comparison"
 slug: removable-retainers-hawley-vs-essix-comparison
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "Hawley retainers vs vacuum-formed Essix retainers: design principles, durability, esthetic profiles, patient compliance, clinical effectiveness, and evidence for long-term retention success."
+excerpt: "Hawley retainers vs vacuum-formed Essix retainers: design principles, durability, esthetic profiles, patient compliance, clinical effectiveness, and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontics

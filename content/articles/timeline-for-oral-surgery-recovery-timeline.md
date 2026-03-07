@@ -1,9 +1,9 @@
 ---
-title: Timeline for Oral Surgery Recovery: Post-Surgical Healing Milestones and Expected Recovery Progression
+title: "Timeline for Oral Surgery Recovery: Post-Surgical Healing Milestones and Expected Recovery Progression"
 slug: timeline-for-oral-surgery-recovery-timeline
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive guide to post-operative healing phases from acute inflammation through bone remodeling, with phase-specific management and expected milestones across surgical modalities.
+excerpt: "Comprehensive guide to post-operative healing phases from acute inflammation through bone remodeling, with phase-specific management and expected."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

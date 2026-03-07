@@ -3,7 +3,7 @@ title: Why Saliva Importance Matters
 slug: why-saliva-importance-matters
 category: Oral Health Conditions
 category_slug: oral-health-conditions
-excerpt: Salivary flow rates below 1 mL/minute impair protective functions and increase caries risk 3-4 fold and oral candidiasis incidence 2-3 fold. Understanding saliva composition, antimicrobial mechanisms, and xerostomia management is essential for protecting oral health.
+excerpt: "Salivary flow rates below 1 mL/minute impair protective functions and increase caries risk 3-4 fold and oral candidiasis incidence 2-3 fold."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

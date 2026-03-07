@@ -3,7 +3,7 @@ title: Smile Makeover Planning - The Complete Clinical Guide
 slug: smile-makeover-planning-complete-guide
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensive smile makeover planning guide covering diagnostic phases, treatment sequencing, provisional restorations, laboratory communication, and clinical delivery protocols.
+excerpt: "Comprehensive smile makeover planning guide covering diagnostic phases, treatment sequencing, provisional restorations, laboratory communication, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

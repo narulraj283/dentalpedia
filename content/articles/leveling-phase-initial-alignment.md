@@ -3,7 +3,7 @@ title: "Leveling Phase: Initial Alignment"
 slug: leveling-phase-initial-alignment
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive guide to the leveling and aligning phase of orthodontic treatment, including wire sequencing, force application principles, bracket engagement optimization, and management of anterior-posterior and transverse discrepancies during initial alignment.
+excerpt: "Comprehensive guide to the leveling and aligning phase of orthodontic treatment, including wire sequencing, force application principles, bracket."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

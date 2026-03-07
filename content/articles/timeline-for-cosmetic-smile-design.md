@@ -1,9 +1,9 @@
 ---
-title: Digital Smile Design Workflow: Facial Analysis, DSD Software, Mock-Up Trials, and Treatment Sequencing
+title: "Digital Smile Design Workflow: Facial Analysis, DSD Software, Mock-Up Trials, and Treatment Sequencing"
 slug: timeline-for-cosmetic-smile-design
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Systematic digital smile design using facial analysis, DSD software, and mock-up protocols ensures predictable esthetic outcomes through precise treatment planning and patient communication.
+excerpt: "Systematic digital smile design using facial analysis, DSD software, and mock-up protocols ensures predictable esthetic outcomes through precise."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

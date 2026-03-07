@@ -1,9 +1,9 @@
 ---
-title: Implant Failure: Causes and Prevention Strategies
+title: "Implant Failure: Causes and Prevention Strategies"
 slug: implant-failure-causes-and-prevention-strategies
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Comprehensive analysis of early and late implant failure mechanisms including peri-implantitis pathogenesis, occlusal overload, biomechanical factors, and evidence-based prevention strategies.
+excerpt: "Comprehensive analysis of early and late implant failure mechanisms including peri-implantitis pathogenesis, occlusal overload, biomechanical."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

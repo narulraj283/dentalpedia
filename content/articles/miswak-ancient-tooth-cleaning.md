@@ -1,11 +1,11 @@
 ---
-title: Miswak: Ancient Tooth Cleaning
+title: "Miswak: Ancient Tooth Cleaning"
 slug: miswak-ancient-tooth-cleaning
 category: Preventive Care
 category_slug: preventive-care
 subcategory: Preventive Overview
 subcategory_slug: overview-preventive
-excerpt: Miswak, the ancient dental care stick derived from salvadora persica roots, demonstrates antimicrobial and mechanical efficacy comparable to modern toothbrushes when used appropriately—bridging traditional practices with contemporary preventive dentistry evidence.
+excerpt: "Miswak, the ancient dental care stick derived from salvadora persica roots, demonstrates antimicrobial and mechanical efficacy comparable to modern."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

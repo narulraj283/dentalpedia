@@ -3,7 +3,7 @@ title: Wound Healing After Oral Surgery - Phases, Timeline, and Optimization Str
 slug: surgical-site-healing-complete-guide
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive clinical guide to hemostasis, inflammation, proliferation, and remodeling phases, with evidence-based optimization strategies for bone and soft tissue healing.
+excerpt: "Comprehensive clinical guide to hemostasis, inflammation, proliferation, and remodeling phases, with evidence-based optimization strategies for bone."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgeon

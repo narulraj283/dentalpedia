@@ -1,5 +1,5 @@
 ---
-title: Osseous Surgery: Bone Contouring for Health
+title: "Osseous Surgery: Bone Contouring for Health"
 slug: osseous-surgery-bone-contouring-for-health
 category: Periodontics
 category_slug: periodontics

@@ -3,7 +3,7 @@ title: Pre-Surgery Preparation for Oral and Maxillofacial Surgery - Clinical Che
 slug: pre-surgery-preparation-complete-guide
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive pre-operative assessment including medication review, anticoagulant management, prophylactic antibiotics, imaging acquisition, and informed consent reduces surgical complications and optimizes patient outcomes.
+excerpt: "Comprehensive pre-operative assessment including medication review, anticoagulant management, prophylactic antibiotics, imaging acquisition, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

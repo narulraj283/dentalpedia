@@ -1,5 +1,5 @@
 ---
-title: Teeth Whitening with Custom Trays: Safe and Effective
+title: "Teeth Whitening with Custom Trays: Safe and Effective"
 slug: gel-trays-overnight-whitening
 category: Preventive Care
 category_slug: preventive-care
@@ -39,9 +39,9 @@ Results aren't dramatic—you're not going from stained yellow to Hollywood-whit
 
 ## Managing Sensitivity
 
-Some people experience tooth sensitivity while using whitening trays. The bleaching agent penetrates to the pulp, causing temporary sensitivity to cold. Most people tolerate this fine, experiencing mild discomfort. Some people find it bothersome.
+Some people experience tooth sensitivity while using whitening trays. Learning more about [oral health habits complete guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. The bleaching agent penetrates to the pulp, causing temporary sensitivity to cold. Most people tolerate this fine, experiencing mild discomfort. Some people find it bothersome.
 
-If sensitivity becomes a problem, several strategies help: reduce tray wear to 4-6 hours instead of overnight, use the trays every other night instead of every night, apply potassium nitrate desensitizing gel to your teeth before wearing the tray, or simply take a break for a few days.
+If sensitivity becomes a problem, several strategies help: reduce tray wear to 4-6 hours instead of overnight, use the trays every other night instead of every night, apply potassium nitrate desensitizing gel to your teeth before wearing the tray, or simply take a break for a few days. You may also want to read about [benefits of tartar prevention](/article/benefits-of-tartar-prevention.html).
 
 Persistent sensitivity after completing treatment usually resolves within a few weeks. Sensitivity is temporary and reversible—it indicates the bleaching agent is penetrating but doesn't mean you're causing permanent damage.
 
@@ -92,6 +92,8 @@ Most people feel the improvement in their appearance justifies the cost and time
 ## Conclusion
 
 Custom whitening trays are an effective, safe, and affordable way to whiten your teeth. With proper use and realistic expectations, most people achieve meaningful whitening that boosts confidence. Discuss with your dentist whether this option is right for you.
+
+
 
 ## Related Articles You May Find Helpful
 

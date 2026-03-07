@@ -1,9 +1,9 @@
 ---
-title: Dental Trauma Statistics in Sports: Epidemiology and Prevention Strategies
+title: "Dental Trauma Statistics in Sports: Epidemiology and Prevention Strategies"
 slug: teeth-trauma-statistics-in-sports
 category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: Comprehensive analysis of sport-related dental trauma epidemiology, identifying high-risk sports and quantifying mouthguard protective efficacy at 60% injury reduction.
+excerpt: "Comprehensive analysis of sport-related dental trauma epidemiology, identifying high-risk sports and quantifying mouthguard protective efficacy at."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Sports Dentistry

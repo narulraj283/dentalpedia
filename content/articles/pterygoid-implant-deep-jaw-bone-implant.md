@@ -1,9 +1,9 @@
 ---
-title: Pterygoid Implants: Deep Jaw Bone Implants
+title: "Pterygoid Implants: Deep Jaw Bone Implants"
 slug: pterygoid-implant-deep-jaw-bone-implant
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Pterygoid implants utilize the posterior maxilla's pterygoid region anatomy, avoiding sinus grafting through tilted implant biomechanics, with success rates 95%+ and maxillary posterior extension.
+excerpt: "Pterygoid implants utilize the posterior maxilla's pterygoid region anatomy, avoiding sinus grafting through tilted implant biomechanics, with."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Implant Surgery

@@ -3,7 +3,7 @@ title: Oral Soft Tissue Wounds and Lacerations - Assessment, Suturing, and Heali
 slug: oral-soft-tissue-wounds-laceration-care
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Intraoral laceration assessment, through-and-through injuries, suturing techniques, absorbable versus non-absorbable sutures, antibiotic protocols, hemostasis, and healing timeline prediction.
+excerpt: "Intraoral laceration assessment, through-and-through injuries, suturing techniques, absorbable versus non-absorbable sutures, antibiotic protocols,."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery

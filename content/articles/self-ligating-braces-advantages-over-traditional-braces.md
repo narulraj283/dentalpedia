@@ -3,7 +3,7 @@ title: Self-Ligating Braces - Advantages and Clinical Evidence
 slug: self-ligating-braces-advantages-over-traditional-braces
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Self-ligating brackets with passive and active designs reduce friction compared to conventional brackets, though treatment time advantages remain equivocal in clinical evidence.
+excerpt: "Self-ligating brackets with passive and active designs reduce friction compared to conventional brackets, though treatment time advantages remain."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

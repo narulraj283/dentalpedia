@@ -3,7 +3,7 @@ title: Subgingival Irrigation - Below Gum Cleaning and Antimicrobial Delivery
 slug: subgingival-irrigation-below-gum-cleaning
 category: Periodontics
 category_slug: periodontics
-excerpt: Subgingival irrigation delivery systems, antimicrobial agent selection, pocket penetration mechanics, and clinical evidence for adjunctive use with scaling and root planing.
+excerpt: "Subgingival irrigation delivery systems, antimicrobial agent selection, pocket penetration mechanics, and clinical evidence for adjunctive use with."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontics

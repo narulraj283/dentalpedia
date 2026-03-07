@@ -3,7 +3,7 @@ title: Risk and Concerns with Teeth Brushing Technique
 slug: risk-and-concerns-with-teeth-brushing-technique
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Understanding how improper brushing technique causes cervical abrasion, gingival recession, enamel damage, and how to counsel patients on evidence-based brushing methods.
+excerpt: "Understanding how improper brushing technique causes cervical abrasion, gingival recession, enamel damage, and how to counsel patients on."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

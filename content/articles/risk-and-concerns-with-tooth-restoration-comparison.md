@@ -3,7 +3,7 @@ title: Risk and Concerns with Tooth Restoration Comparison
 slug: risk-and-concerns-with-tooth-restoration-comparison
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Restoration material selection fundamentally determines longevity, esthetics, and clinical complications, with direct composites, glass-ionomers, amalgam, and indirect restorations each presenting distinct biological and mechanical trade-offs.
+excerpt: "Restoration material selection fundamentally determines longevity, esthetics, and clinical complications, with direct composites, glass-ionomers,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Prosthodontics

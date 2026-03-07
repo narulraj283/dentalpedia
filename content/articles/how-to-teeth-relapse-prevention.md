@@ -3,7 +3,7 @@ title: Retention Strategies and Relapse Prevention Following Orthodontic Treatme
 slug: how-to-teeth-relapse-prevention
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Post-treatment retention requires permanent fixed lingual wire or nightly aligner wear to counteract inherent relapse mechanisms from gingival fiber reorientation and elastic property recovery.
+excerpt: "Post-treatment retention requires permanent fixed lingual wire or nightly aligner wear to counteract inherent relapse mechanisms from gingival fiber."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

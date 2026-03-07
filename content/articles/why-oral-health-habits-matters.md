@@ -3,7 +3,7 @@ title: Why Oral Health Habits Matter for Your Whole Body and Wallet
 slug: why-oral-health-habits-matters
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Daily oral health habits prevent disease, improve systemic health outcomes, enhance quality of life, reduce lifetime costs, and establish sustainable routines.
+excerpt: "Daily oral health habits prevent disease, improve systemic health outcomes, enhance quality of life, reduce lifetime costs, and establish sustainable."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Preventive Dentistry and Behavioral Health

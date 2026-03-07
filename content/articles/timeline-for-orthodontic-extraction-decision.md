@@ -1,9 +1,9 @@
 ---
-title: Timeline for Orthodontic Extraction Decision: Space Analysis and Evidence-Based Decision-Making
+title: "Timeline for Orthodontic Extraction Decision: Space"
 slug: timeline-for-orthodontic-extraction-decision
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive framework for extraction versus non-extraction treatment planning including space analysis, Bolton analysis, anchorage considerations, and non-extraction alternatives.
+excerpt: "Comprehensive framework for extraction versus non-extraction treatment planning including space analysis, Bolton analysis, anchorage considerations,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics
@@ -11,26 +11,7 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 reviewed: true
 references:
-  - title: "Tweed CH. The frankfort-mandibular plane angle in orthodontic diagnosis, treatment planning and prognosis. Angle Orthod. 1946;16(1-2):8-21."
-    url: https://pubmed.ncbi.nlm.nih.gov/20255254
-  - title: "Bolton WA. Disharmony in tooth size and its relation to the analysis and treatment of malocclusion. Angle Orthod. 1958;28(3):113-130."
-    url: https://pubmed.ncbi.nlm.nih.gov/13533489
-  - title: "Bailey LTJ, Esmailnejad JJ, Maeda N. The effects of extraction and nonextraction orthodontic treatment on dentoalveolar support and facial musculature. Am J Orthod Dentofacial Orthop. 1997;112(6):727-737."
-    url: https://pubmed.ncbi.nlm.nih.gov/9456752
-  - title: "Luppanapornlarp S, Johnston Jr LE. The effects of premolar-extraction: a long-term comparison of outcomes in "clear-cut" extraction and nonextraction Class II patients. Angle Orthod. 1993;63(4):257-272."
-    url: https://pubmed.ncbi.nlm.nih.gov/8297083
-  - title: "Bounds D. Extraction and non-extraction orthodontics: a systematic review. Semin Orthod. 2014;20(1):18-30."
-    url: https://pubmed.ncbi.nlm.nih.gov/24576912
-  - title: "McNamara Jr JA, Brudon WL. Orthodontic and Orthopedic Treatment in the Mixed Dentition. Ann Arbor: Needham Press; 1993."
-    url: https://pubmed.ncbi.nlm.nih.gov/8210432
-  - title: "Burstone CJ. The biomechanics of tooth movement. In: Sicher H, DuBrul EL, eds. Oral Anatomy. 7th ed. St. Louis: Mosby; 1980."
-    url: https://pubmed.ncbi.nlm.nih.gov/6993813
-  - title: "Capelli Jr J. Long-term evaluation of dental and skeletal changes after extraction and non-extraction orthodontic therapy. Angle Orthod. 2013;83(1):20-26."
-    url: https://pubmed.ncbi.nlm.nih.gov/22816699
-  - title: "De Freitas MR, Janson G, Freitas KM. Skeletal and dental characteristics related to forward maxillary positioning in Class II division 1 malocclusion. Angle Orthod. 2010;80(3):396-403."
-    url: https://pubmed.ncbi.nlm.nih.gov/20050735
-  - title: "Steadman SR. Changing philosophies in orthognathic surgery. J Oral Surg. 1978;36(3):205-214."
-    url: https://pubmed.ncbi.nlm.nih.gov/274784
+  - "title: 'Tweed CH. The frankfort-mandibular plane angle in orthodontic diagnosis, treatment planning and prognosis. Angle Orthod. 1946;16(1-2):8-21."
 ---
 
 ## Introduction

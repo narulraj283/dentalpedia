@@ -1,5 +1,5 @@
 ---
-title: Implant Material Properties: Strength vs Esthetics
+title: "Implant Material Properties: Strength vs Esthetics"
 slug: implant-material-properties-strength-vs-esthetics
 category: Dental Implants
 category_slug: dental-implants

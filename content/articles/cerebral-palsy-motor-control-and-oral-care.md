@@ -1,9 +1,9 @@
 ---
-title: Cerebral Palsy: Motor Control and Oral Care
+title: "Cerebral Palsy: Motor Control and Oral Care"
 slug: cerebral-palsy-motor-control-and-oral-care
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: If your child has cerebral palsy, you may face unique challenges with oral hygiene and dental health. Learn how to navigate these challenges with practical strategies and supportive care.
+excerpt: "Caring for your child's teeth can feel overwhelming when cerebral palsy affects their motor control."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Pediatric Dentistry
@@ -27,7 +27,7 @@ Caring for your child's teeth can feel overwhelming when cerebral palsy affects 
 
 ## Understanding Cerebral Palsy and Dental Challenges
 
-Cerebral palsy (CP) affects how your child's brain controls muscles and movement. It doesn't get worse over time, but it does create unique challenges for oral care. Depending on how much it affects your child's arms, hands, and ability to reach their mouth, you might need to help with brushing or try special tools that make it easier.
+Cerebral palsy (CP) affects how your child's brain controls muscles and movement. Learning more about [child toothbrush age appropriate sizes and features](/article/child-toothbrush-age-appropriate-sizes-and-features.html) can help you understand this better. It doesn't get worse over time, but it does create unique challenges for oral care. Depending on how much it affects your child's arms, hands, and ability to reach their mouth, you might need to help with brushing or try special tools that make it easier.
 
 Many children with cerebral palsy are at higher risk for cavities—as much as 40-50% higher than other children. This happens because of difficulty with brushing, eating softer foods that are more likely to cause cavities, and sometimes less saliva production. The good news? Understanding these risks means you can take extra steps to protect your child's teeth.
 
@@ -92,6 +92,8 @@ Your pediatrician, school, or local disability organization can help you find th
 ## Conclusion
 
 Your child can have healthy teeth even with cerebral palsy—it just takes planning, the right tools, and a supportive dental team. Start with realistic expectations, use adaptive equipment that works for your family, and visit your dentist regularly. You're doing an important job protecting your child's oral health.
+
+
 
 ## Related Articles You May Find Helpful
 

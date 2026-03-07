@@ -3,7 +3,7 @@ title: Esthetic Dentistry and the Psychology of Smile Confidence
 slug: how-to-smile-confidence-boost
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Clinical analysis of smile characteristics, psychosocial impacts of dental esthetics, and evidence-based cosmetic treatment approaches for confidence enhancement and quality of life improvement.
+excerpt: "Clinical analysis of smile characteristics, psychosocial impacts of dental esthetics, and evidence-based cosmetic treatment approaches for confidence."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

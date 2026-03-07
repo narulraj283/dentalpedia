@@ -3,7 +3,7 @@ title: Risk and Concerns with Cavity Formation Process
 slug: risk-and-concerns-with-cavity-formation-process
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Dental caries pathogenesis involves demineralization-remineralization balance disruption, microbial biofilm production, dietary carbohydrate exposure, and pH dynamics requiring comprehensive understanding.
+excerpt: "Dental caries pathogenesis involves demineralization-remineralization balance disruption, microbial biofilm production, dietary carbohydrate."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

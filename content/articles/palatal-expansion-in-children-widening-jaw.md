@@ -1,9 +1,9 @@
 ---
-title: Palatal Expansion in Children: Growth Modification and Posterior Crossbite Correction
+title: "Palatal Expansion in Children: Growth Modification and Posterior Crossbite Correction"
 slug: palatal-expansion-in-children-widening-jaw
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Pediatric palatal expansion mechanics, optimal timing during growth, activation schedules, retention protocols, and CBCT evaluation methods for treatment planning.
+excerpt: "Pediatric palatal expansion mechanics, optimal timing during growth, activation schedules, retention protocols, and CBCT evaluation methods for."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontics and Pediatric Dentistry

@@ -3,7 +3,7 @@ title: Tooth Luxation and Partial Displacement Injuries
 slug: tooth-luxation-partial-displacement
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: IADT management guidelines for lateral, extrusive, and intrusive luxation injuries including repositioning, splinting protocols, pulp monitoring, and follow-up schedules.
+excerpt: "IADT management guidelines for lateral, extrusive, and intrusive luxation injuries including repositioning, splinting protocols, pulp monitoring, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Emergency Dentistry

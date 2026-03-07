@@ -1,9 +1,9 @@
 ---
-title: Tooth Shape and Tooth Wear: Cosmetic and Functional Implications
+title: "Tooth Shape and Tooth Wear: Cosmetic and Functional Implications"
 slug: tooth-shape-and-tooth-wear-cosmetic-implications
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Morphopsychological classification of tooth form, wear effects on esthetics and function, restoration of worn dentition, and additive cosmetic techniques for shape optimization.
+excerpt: "Morphopsychological classification of tooth form, wear effects on esthetics and function, restoration of worn dentition, and additive cosmetic."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

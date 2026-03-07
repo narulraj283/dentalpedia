@@ -1,9 +1,9 @@
 ---
-title: Smile Design: Creating Aesthetically Pleasing Smiles
+title: "Smile Design: Creating Aesthetically Pleasing Smiles"
 slug: smile-design-creating-aesthetically-pleasing-smiles
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Evidence-based smile design principles incorporating golden proportion, recurring esthetic dental (RED) principles, tooth size relationships, and gingival and lip dynamics establish the foundation for creating naturally attractive, harmonious smiles aligned with patient facial anatomy.
+excerpt: "Evidence-based smile design principles incorporating golden proportion, recurring esthetic dental (RED) principles, tooth size relationships, and."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Cosmetic Dentistry and Esthetic Design

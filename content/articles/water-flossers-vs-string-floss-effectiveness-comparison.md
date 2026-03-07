@@ -3,7 +3,7 @@ title: Water Flossers vs. String Floss Effectiveness Comparison
 slug: water-flossers-vs-string-floss-effectiveness-comparison
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Water flossers remove plaque 29% more effectively than string floss in clinical studies, with superior efficacy for implant care, orthodontia, and patients with poor manual dexterity.
+excerpt: "Water flossers remove plaque 29% more effectively than string floss in clinical studies, with superior efficacy for implant care, orthodontia, and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

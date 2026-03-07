@@ -3,7 +3,7 @@ title: Orthodontic Compliance and Patient Adherence to Mechanical and Behavioral
 slug: how-to-orthodontic-compliance
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive analysis of patient compliance factors, behavioral strategies, and clinical monitoring techniques to optimize adherence to fixed appliance and clear aligner treatment protocols.
+excerpt: "Comprehensive analysis of patient compliance factors, behavioral strategies, and clinical monitoring techniques to optimize adherence to fixed."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

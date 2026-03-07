@@ -27,7 +27,7 @@ When you need a filling, your dentist probably mentions several options. You mig
 
 ## Amalgam: The Old Reliable Choice
 
-Amalgam (those silver fillings) have been around for over 150 years, and they have an impressive track record. Studies show they last an average of 15+ years—that's significantly longer than newer composite materials. About 90% of amalgam fillings are still holding strong at 10 years, and many last 20 years or more. Amalgam is tough, withstands chewing forces really well, and doesn't require as much precise technique as composite does.
+Amalgam (those silver fillings) have been around for over 150 years, and they have an impressive track record. Learning more about [complete guide to dental exams and cleanings](/article/complete-guide-to-dental-exams-and-cleanings.html) can help you understand this better. Studies show they last an average of 15+ years—that's significantly longer than newer composite materials. About 90% of amalgam fillings are still holding strong at 10 years, and many last 20 years or more. Amalgam is tough, withstands chewing forces really well, and doesn't require as much precise technique as composite does.
 
 The worry many people have about amalgam is mercury. Here's the science: the mercury in set amalgam is chemically locked into the material and stays put. The amount you're exposed to is negligible—about 1-5 micrograms daily from an amalgam filling, which is way less than what you get from eating certain foods. The American Dental Association and FDA have both confirmed that amalgam is safe for non-pregnant people who aren't allergic to it.
 
@@ -45,7 +45,7 @@ That said, if you're very concerned or allergic to mercury, composite fillings a
 
 ## Glass Ionomer: Limited but Useful
 
-Glass ionomer is a material that releases fluoride, which helps prevent decay. It's decent for cervical cavities (cavities near your gum line) or specific situations where you need the fluoride benefit. However, it's not strong enough for cavities where you do a lot of chewing. Glass ionomer fillings typically last 8-10 years and are less common now that composite has improved.
+Glass ionomer is a material that releases fluoride, which helps prevent decay. Learning more about [composite resin durability longevity of bonded restorations](/article/composite-resin-durability-longevity-of-bonded-restorations.html) can help you understand this better. It's decent for cervical cavities (cavities near your gum line) or specific situations where you need the fluoride benefit. However, it's not strong enough for cavities where you do a lot of chewing. Glass ionomer fillings typically last 8-10 years and are less common now that composite has improved.
 
 ## Ceramic Restorations: The Premium Option
 
@@ -71,9 +71,19 @@ For people concerned about anything containing mercury: composite is your option
 
 One thing to understand: no filling is truly "permanent." Even the best amalgam eventually needs replacing. Plan for amalgam to last 15-20 years, composite 7-12 years, and glass ionomer about 8-10 years. When your dentist recommends replacing an old filling, it's usually because the seal is breaking down, not because the material has simply worn out.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about tooth restoration comparison and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
 ## Conclusion
 
 Amalgam is more durable and lasts longer, while composite is more esthetically pleasing but typically needs replacement sooner. Both are safe—the choice depends on location, budget, and your personal preferences. The most important factor isn't the material; it's how well your dentist places it and how well you care for your teeth afterward.
+
+
 
 ## Related Articles You May Find Helpful
 

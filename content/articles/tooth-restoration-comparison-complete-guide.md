@@ -1,9 +1,9 @@
 ---
-title: Tooth Restoration Materials: A Complete Comparison Guide
+title: "Tooth Restoration Materials: A Complete Comparison Guide"
 slug: tooth-restoration-comparison-complete-guide
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Comprehensive clinical analysis of composite, amalgam, glass ionomer, ceramic, and gold restorations including properties, survival rates, and selection criteria by cavity classification.
+excerpt: "Comprehensive clinical analysis of composite, amalgam, glass ionomer, ceramic, and gold restorations including properties, survival rates, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

@@ -1,9 +1,9 @@
 ---
-title: Parental Education on Pediatric Oral Hygiene: Age-Appropriate Guidance and Fluoride Protocols
+title: "Parental Education on Pediatric Oral Hygiene: Age-Appropriate Guidance and Fluoride Protocols"
 slug: parent-education-teaching-proper-hygiene
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Age-specific oral hygiene instruction, fluoride toothpaste dosing, supervised brushing milestones, dietary counseling for cavity prevention, and anticipatory guidance for parents.
+excerpt: "Age-specific oral hygiene instruction, fluoride toothpaste dosing, supervised brushing milestones, dietary counseling for cavity prevention, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Pediatric Dentistry

@@ -1,9 +1,9 @@
 ---
-title: Mouth Cleaning Tools: What You Need to Know
+title: "Mouth Cleaning Tools: What You Need to Know"
 slug: mouth-cleaning-tools-what-you-need-to-know
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Strategic combination of mechanical and chemical cleaning tools prevents biofilm-dependent diseases. Matching tool selection to individual anatomy and risk factors optimizes plaque removal efficiency and long-term periodontal and caries prevention.
+excerpt: "Strategic combination of mechanical and chemical cleaning tools prevents biofilm-dependent diseases."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

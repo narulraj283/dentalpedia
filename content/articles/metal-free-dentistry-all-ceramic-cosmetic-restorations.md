@@ -1,5 +1,5 @@
 ---
-title: Metal-Free Dentistry: All-Ceramic Cosmetic Restorations
+title: "Metal-Free Dentistry: All-Ceramic Cosmetic Restorations"
 slug: metal-free-dentistry-all-ceramic-cosmetic-restorations
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry

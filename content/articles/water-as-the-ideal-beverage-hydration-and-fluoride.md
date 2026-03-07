@@ -3,7 +3,7 @@ title: Water as the Ideal Beverage for Oral Health, Hydration, and Fluoride Deli
 slug: water-as-the-ideal-beverage-hydration-and-fluoride
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Water is the ideal beverage for oral health due to its neutral pH, absence of fermentable sugars and acids, saliva support, and systemic hydration necessary for oral disease prevention.
+excerpt: "Water is the ideal beverage for oral health due to its neutral pH, absence of fermentable sugars and acids, saliva support, and systemic hydration."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

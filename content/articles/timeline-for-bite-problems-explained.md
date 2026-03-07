@@ -3,7 +3,7 @@ title: Timeline for Bite Problems Explained - Malocclusion Development
 slug: timeline-for-bite-problems-explained
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Malocclusion development follows predictable patterns from primary dentition through permanent dentition, with specific treatment windows for optimal intervention.
+excerpt: "Malocclusion development follows predictable patterns from primary dentition through permanent dentition, with specific treatment windows for optimal."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

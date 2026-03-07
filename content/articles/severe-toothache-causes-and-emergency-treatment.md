@@ -1,9 +1,9 @@
 ---
-title: Severe Toothache: Differential Diagnosis, Emergency Management, and Treatment Protocols
+title: "Severe Toothache: Differential Diagnosis, Emergency Management, and Treatment Protocols"
 slug: severe-toothache-causes-and-emergency-treatment
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Acute dental pain requires systematic differential diagnosis to distinguish irreversible pulpitis, periapical abscess, cracked tooth, and other etiologies for appropriate emergency management and definitive treatment.
+excerpt: "Acute dental pain requires systematic differential diagnosis to distinguish irreversible pulpitis, periapical abscess, cracked tooth, and other."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Emergency Dentist

@@ -1,5 +1,5 @@
 ---
-title: Guided Bone Regeneration: Membrane-Protected Growth
+title: "Guided Bone Regeneration: Membrane-Protected Growth"
 slug: guided-bone-regeneration-membrane-protected-growth
 category: Oral Surgery
 category_slug: oral-surgery

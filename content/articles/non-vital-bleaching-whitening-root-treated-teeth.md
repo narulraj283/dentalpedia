@@ -1,6 +1,6 @@
 ---
 title: "Non-Vital Bleaching: Whitening Root-Treated Discolored Teeth"
-excerpt: "Master non-vital bleaching techniques for endodontically treated teeth, including internal bleaching protocols, material selection, and management of intrinsic discoloration."
+excerpt: "Master non-vital bleaching techniques for endodontically treated teeth, including internal bleaching protocols, material selection, and management of."
 category: "dental-technology"
 subcategory: "Technology Overview"
 page_type: "overview-technology"

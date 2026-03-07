@@ -3,7 +3,7 @@ title: Risk and Concerns with Tooth Extraction Recovery
 slug: risk-and-concerns-with-tooth-extraction-recovery
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Tooth extraction recovery complications including alveolar osteitis, infection, sequestrum formation, paresthesia, and prolonged bleeding create substantial morbidity requiring evidence-based prevention and management strategies.
+excerpt: "Tooth extraction recovery complications including alveolar osteitis, infection, sequestrum formation, paresthesia, and prolonged bleeding create."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

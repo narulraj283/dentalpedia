@@ -1,9 +1,9 @@
 ---
-title: Cognitive Decline and Oral Care: Clinical Challenges, Caregiver Strategies, and Specialized Interventions
+title: "Cognitive Decline and Oral Care: Clinical Challenges,"
 slug: cognitive-decline-oral-care-challenges
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: How cognitive decline affects dental health, what caregivers need to know about oral care, and how to maintain good mouth health when memory or thinking changes.
+excerpt: "When someone experiences cognitive decline—from mild memory problems all the way to advanced dementia—their oral health often suffers significantly."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Geriatric Dentistry

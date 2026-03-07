@@ -1,9 +1,9 @@
 ---
-title: Implant Anatomy: Fixture, Abutment, and Crown
+title: "Implant Anatomy: Fixture, Abutment, and Crown"
 slug: implant-anatomy-fixture-abutment-and-crown
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Detailed examination of implant system components including fixture design, abutment types, connection interfaces, and crown characteristics essential for clinical success.
+excerpt: "Detailed examination of implant system components including fixture design, abutment types, connection interfaces, and crown characteristics."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

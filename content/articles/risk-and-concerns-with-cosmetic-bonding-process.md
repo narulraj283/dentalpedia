@@ -3,7 +3,7 @@ title: Risks and Concerns with Direct Cosmetic Bonding
 slug: risk-and-concerns-with-cosmetic-bonding-process
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Understanding limitations of direct resin bonding including staining susceptibility, fracture vulnerability, color matching challenges, longevity limitations, and repair complexities compared to other esthetic restoration options.
+excerpt: "Understanding limitations of direct resin bonding including staining susceptibility, fracture vulnerability, color matching challenges, longevity."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

@@ -3,7 +3,7 @@ title: Teledentistry Remote Consultation and Follow-Up Care Integration
 slug: teledentistry-remote-dental-consultation-and-follow-up
 category: Dental Technology
 category_slug: dental-technology
-excerpt: Comprehensive teledentistry implementation covering synchronous and asynchronous modalities, licensing requirements, reimbursement codes, clinical triage protocols, and limitations for clinical decision-making.
+excerpt: "Comprehensive teledentistry implementation covering synchronous and asynchronous modalities, licensing requirements, reimbursement codes, clinical."
 date: 2026-03-05
 read_time: 15 min
 reviewer_specialty: Dental Technology

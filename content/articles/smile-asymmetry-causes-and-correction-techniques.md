@@ -1,9 +1,9 @@
 ---
-title: Smile Asymmetry: Causes and Correction Techniques
+title: "Smile Asymmetry: Causes and Correction Techniques"
 slug: smile-asymmetry-causes-and-correction-techniques
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Facial and dental asymmetries significantly impact smile aesthetics; understanding their etiology and employing multimodal correction techniques—from cant correction to botulinum toxin—enables clinicians to achieve harmonious smile outcomes.
+excerpt: "Facial and dental asymmetries significantly impact smile aesthetics; understanding their etiology and employing multimodal correction techniques—from."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic and Restorative Dentistry

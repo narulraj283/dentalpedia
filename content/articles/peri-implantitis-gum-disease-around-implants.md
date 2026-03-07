@@ -3,7 +3,7 @@ title: Peri-Implantitis—Gum Disease Around Dental Implants, Classification, an
 slug: peri-implantitis-gum-disease-around-implants
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Understand the distinction between peri-implant mucositis and peri-implantitis, risk factors, diagnostic criteria, non-surgical and surgical treatment, and supportive therapy.
+excerpt: "Understand the distinction between peri-implant mucositis and peri-implantitis, risk factors, diagnostic criteria, non-surgical and surgical."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Prosthodontics

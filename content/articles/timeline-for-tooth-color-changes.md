@@ -1,9 +1,9 @@
 ---
-title: Understanding Tooth Color Changes: Intrinsic and Extrinsic Causes, Aging Effects, and Treatment Approaches
+title: "Understanding Tooth Color Changes: Intrinsic and Extrinsic Causes, Aging Effects, and Treatment Approaches"
 slug: timeline-for-tooth-color-changes
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Tooth color changes result from intrinsic and extrinsic causes with distinct treatment approaches, including aging-related changes, medication effects, trauma, and dietary chromogens.
+excerpt: "Tooth color changes result from intrinsic and extrinsic causes with distinct treatment approaches, including aging-related changes, medication."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Cosmetic Dentist

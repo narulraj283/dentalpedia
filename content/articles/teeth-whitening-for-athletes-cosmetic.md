@@ -1,5 +1,5 @@
 ---
-title: Teeth Whitening for Athletes: Managing Discoloration and Cosmetic Enhancement
+title: "Teeth Whitening for Athletes: Managing Discoloration and Cosmetic Enhancement"
 slug: teeth-whitening-for-athletes-cosmetic
 category: Sports Dentistry
 category_slug: sports-dentistry

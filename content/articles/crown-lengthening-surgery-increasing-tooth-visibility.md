@@ -1,9 +1,9 @@
 ---
-title: Crown Lengthening Surgery: Periodontal and Prosthodontic Indications
+title: "Crown Lengthening Surgery: Periodontal and Prosthodontic"
 slug: crown-lengthening-surgery-increasing-tooth-visibility
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Surgical techniques for increasing clinical crown length, biologic width restoration, and esthetic outcomes.
+excerpt: "Sometimes a tooth looks shorter than it should be because gum tissue covers too much of it."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery
@@ -21,7 +21,7 @@ references:
   - "Lanning SK, Waldrop TC, Gunsolley JC, Maynard JG. Surgical crown lengthening: evaluation of the biological width. J Periodontol. 2003;74(10):1464-1474."
 ---
 
-Sometimes a tooth looks shorter than it should be because gum tissue covers too much of it. Crown lengthening is a surgical procedure that removes bone and reshapes gum tissue to make the visible part of the tooth longer. This might be necessary for functional or cosmetic reasons. Let's explore when this procedure is needed and what it involves.
+Sometimes a tooth looks shorter than it should be because gum tissue covers too much of it. Learning more about [timeline for recovery timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. Crown lengthening is a surgical procedure that removes bone and reshapes gum tissue to make the visible part of the tooth longer. This might be necessary for functional or cosmetic reasons. Let's explore when this procedure is needed and what it involves.
 
 ## Why Crown Lengthening Is Needed
 
@@ -57,7 +57,7 @@ The gum will gradually heal over several weeks. Importantly, the gum position wi
 
 ## Timeline for Full Healing
 
-Initial healing happens in the first two weeks. However, full healing and stabilization of the gum position takes three to six months. This is why your surgeon will usually recommend waiting at least six weeks before placing a crown on a crown-lengthened tooth—it gives the area time to stabilize.
+Initial healing happens in the first two weeks. Learning more about [surgical complications complete guide](/article/surgical-complications-complete-guide.html) can help you understand this better. However, full healing and stabilization of the gum position takes three to six months. This is why your surgeon will usually recommend waiting at least six weeks before placing a crown on a crown-lengthened tooth—it gives the area time to stabilize.
 
 After about three months, the bone position and gum levels are quite stable, and you can usually proceed with your crown or restorations. The bone may continue to remodel slightly for another three months, but most of the significant changes have occurred.
 
@@ -84,6 +84,8 @@ After the procedure, regular dental hygiene is important. Gentle brushing and fl
 ## Conclusion
 
 Crown lengthening is a successful surgical procedure that either functionally allows proper restoration placement by respecting your gum's biological needs, or cosmetically improves your smile by reducing gum display. When performed by an experienced surgical dentist and followed with proper aftercare, results are predictable and long-lasting. If your dentist has recommended crown lengthening, it's likely the best solution for achieving your goals.
+
+
 
 ## Related Articles You May Find Helpful
 

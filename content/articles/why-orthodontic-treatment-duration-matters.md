@@ -3,7 +3,7 @@ title: Why Orthodontic Treatment Duration Matters
 slug: why-orthodontic-treatment-duration-matters
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Clinical factors determining orthodontic treatment duration including biological tooth movement rates, appliance efficiency, patient compliance, skeletal maturity, and evidence-based timeline expectations.
+excerpt: "Clinical factors determining orthodontic treatment duration including biological tooth movement rates, appliance efficiency, patient compliance,."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Orthodontics

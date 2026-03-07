@@ -3,7 +3,7 @@ title: "High Smile Line: Excessive Gum Display"
 slug: high-smile-line-excessive-gum-display
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensive evaluation and treatment of excessive gingival display during smiling, including surgical, orthodontic, and restorative management approaches.
+excerpt: "If you show a lot of gum when you smile, you're not alone. About 1 in 10 people experience what's commonly called a 'gummy smile.' The good news?"
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry
@@ -82,6 +82,14 @@ Patient satisfaction is generally very high. About 90% of people who choose surg
 ## Key Takeaway
 
 A gummy smile is very treatable, and you have multiple good options. Whether you choose surgery, braces, Botox, or a combination approach, your smile can look the way you want it to. Talk with your dentist about your goals and concerns, and together you can create a plan that works for your situation.
+
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about high smile line excessive gum display and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
 ## Conclusion
 

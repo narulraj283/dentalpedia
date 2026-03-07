@@ -3,7 +3,7 @@ title: How to Clear Aligner Comparison
 slug: how-to-clear-aligner-comparison
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Invisalign, SmileDirectClub, and ClearCorrect offer distinct clinical profiles, material properties, and case complexity limitations for orthodontic treatment planning.
+excerpt: "Clear aligners are transparent plastic trays that straighten your teeth without brackets and wires."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics
@@ -47,7 +47,7 @@ Invisalign works best for mild to moderate crowding and bite problems. It's not 
 
 ## SmileDirectClub: The At-Home Option
 
-SmileDirectClub is a direct-to-consumer service where you order aligners online without going to an orthodontist. You send 3D scans of your teeth, and they create a treatment plan. A dentist or orthodontist reviews it remotely, but you don't have in-person appointments.
+SmileDirectClub is a direct-to-consumer service where you order aligners online without going to an orthodontist. Learning more about [how to orthodontic compliance](/article/how-to-orthodontic-compliance.html) can help you understand this better. You send 3D scans of your teeth, and they create a treatment plan. A dentist or orthodontist reviews it remotely, but you don't have in-person appointments.
 
 SmileDirectClub works best for simple cases: mild crowding (less than 5 mm), slight gaps, and small rotations. The aligners are made from similar plastic as other systems and apply gentle forces. Treatment is faster—usually 4-6 months—because the cases are simpler.
 
@@ -118,6 +118,8 @@ All three systems work with similar plastic materials, but they differ in superv
 ## Key Takeaway
 
 Clear aligners straighten teeth without the look of metal braces, but they require serious commitment. You must wear them 20+ hours daily for the system to work. Invisalign is most sophisticated and works for complex cases. SmileDirectClub is simpler and cheaper but only for mild crowding. Choose based on your case complexity and how committed you are to wearing aligners, not just on cost or convenience. After treatment, you'll need permanent retention to keep your straight teeth stable long-term.
+
+
 
 ## Related Articles
 

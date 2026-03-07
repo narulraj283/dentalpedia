@@ -1,5 +1,5 @@
 ---
-title: Implant Overload: Too Much Force
+title: "Implant Overload: Too Much Force"
 slug: implant-overload-too-much-force
 category: Dental Implants
 category_slug: dental-implants

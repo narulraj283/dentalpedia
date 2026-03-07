@@ -3,7 +3,7 @@ title: Natural Toothpaste Ingredients and Evidence-Based Formulations
 slug: natural-toothpaste-ingredients
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Clinical analysis of natural toothpaste components including hydroxyapatite, xylitol, baking soda, essential oils, and calcium carbonate, with evidence for efficacy and safety in preventive dentistry.
+excerpt: "Clinical analysis of natural toothpaste components including hydroxyapatite, xylitol, baking soda, essential oils, and calcium carbonate, with."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Preventive Dentistry

@@ -3,7 +3,7 @@ title: Why Extraction Complications Matter - Prevention Strategies, Early Recogn
 slug: why-extraction-complications-matters
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Understanding extraction complications enables prevention through proper case selection, early recognition of pathology, and appropriate referral for complex cases.
+excerpt: "Understanding extraction complications enables prevention through proper case selection, early recognition of pathology, and appropriate referral for."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery

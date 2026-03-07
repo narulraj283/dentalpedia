@@ -1,9 +1,9 @@
 ---
-title: Managing Separation Anxiety in Pediatric Dentistry: Behavior Guidance and Parental Involvement
+title: "Managing Separation Anxiety in Pediatric Dentistry: Behavior Guidance and Parental Involvement"
 slug: parent-child-separation-managing-anxiety
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Evidence-based behavior guidance strategies, separation anxiety assessment using Frankl scale, tell-show-do techniques, and optimal parental presence decisions for pediatric patients.
+excerpt: "Evidence-based behavior guidance strategies, separation anxiety assessment using Frankl scale, tell-show-do techniques, and optimal parental presence."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Pediatric Dentistry

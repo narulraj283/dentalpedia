@@ -1,9 +1,9 @@
 ---
-title: Infection Prevention: Complete Guide
+title: "Infection Prevention: Complete Guide"
 slug: infection-prevention-complete-guide
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Comprehensive evidence-based strategies for preventing oral infections through home care protocols, professional interventions, risk factor modification, and immunological enhancement across patient populations.
+excerpt: "Comprehensive evidence-based strategies for preventing oral infections through home care protocols, professional interventions, risk factor."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

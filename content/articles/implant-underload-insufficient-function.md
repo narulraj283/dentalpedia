@@ -1,9 +1,9 @@
 ---
-title: Implant Underload: Insufficient Function
+title: "Implant Underload: Insufficient Function"
 slug: implant-underload-insufficient-function
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Implant underload—insufficient functional loading—impairs osseointegration and permits bone resorption despite successful implant integration, reducing long-term implant longevity and requiring functional rehabilitation.
+excerpt: "Implant underload—insufficient functional loading—impairs osseointegration and permits bone resorption despite successful implant integration,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

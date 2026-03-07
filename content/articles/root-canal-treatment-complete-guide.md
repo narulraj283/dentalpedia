@@ -3,7 +3,7 @@ title: Root Canal Treatment - What You Need to Know to Save Your Tooth
 slug: root-canal-treatment-complete-guide
 category: Endodontics
 category_slug: endodontics
-excerpt: Patient-friendly guide to root canal treatment explaining what happens, why it's necessary, what to expect during the procedure, and how recovery typically progresses. Modern root canals are comfortable and highly successful.
+excerpt: "Patient-friendly guide to root canal treatment explaining what happens, why it's necessary, what to expect during the procedure, and how recovery."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Endodontics

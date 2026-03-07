@@ -3,7 +3,7 @@ title: Sinus Floor Elevation and Schneiderian Membrane Management in Bone Augmen
 slug: sinus-lift-surgery-creating-implant-space
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Understanding Schneiderian membrane anatomy and careful surgical management enables successful sinus floor elevation for implant placement with minimal complications.
+excerpt: "Understanding Schneiderian membrane anatomy and careful surgical management enables successful sinus floor elevation for implant placement with."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral Surgery

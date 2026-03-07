@@ -1,9 +1,9 @@
 ---
-title: Peri-implantitis: Pathogenesis, Diagnosis, and Management of Implant Gum Disease
+title: "Peri-implantitis: Pathogenesis, Diagnosis, and Management of Implant Gum Disease"
 slug: peri-implantitis-implant-gum-disease
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Peri-implantitis represents a progressive inflammatory disease affecting the tissues surrounding dental implants, characterized by bone loss and potential implant failure if left untreated.
+excerpt: "Peri-implantitis represents a progressive inflammatory disease affecting the tissues surrounding dental implants, characterized by bone loss and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontics

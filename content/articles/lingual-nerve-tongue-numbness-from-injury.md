@@ -1,9 +1,9 @@
 ---
-title: Lingual Nerve Injury: Causes, Assessment, and Recovery
+title: "Lingual Nerve Injury: Causes, Assessment, and Recovery"
 slug: lingual-nerve-tongue-numbness-from-injury
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Lingual nerve injury causes sensory disturbance of the anterior two-thirds of the tongue and floor of mouth, most commonly during third molar extraction, with variable recovery dependent on injury mechanism and time to treatment.
+excerpt: "Lingual nerve injury causes sensory disturbance of the anterior two-thirds of the tongue and floor of mouth, most commonly during third molar."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery

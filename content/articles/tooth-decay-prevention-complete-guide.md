@@ -3,7 +3,7 @@ title: Tooth Decay Prevention - Complete Clinical and Evidence-Based Guide
 slug: tooth-decay-prevention-complete-guide
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Comprehensive guide to caries prevention including risk assessment, fluoride strategies, sealants, dietary counseling, antimicrobial approaches, and silver diamine fluoride.
+excerpt: "Comprehensive guide to caries prevention including risk assessment, fluoride strategies, sealants, dietary counseling, antimicrobial approaches, and."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Preventive Dentistry

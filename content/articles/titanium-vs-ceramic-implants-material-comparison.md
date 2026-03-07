@@ -1,9 +1,9 @@
 ---
-title: Titanium Versus Ceramic Implants: Material Properties and Clinical Evidence
+title: "Titanium Versus Ceramic Implants: Material Properties and Clinical Evidence"
 slug: titanium-vs-ceramic-implants-material-comparison
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Implant materials comparing Grade 4/5 titanium osseointegration with yttria-tetragonal zirconia polycrystal properties, esthetic advantages, and evidence-based clinical outcomes for implant selection.
+excerpt: "Implant materials comparing Grade 4/5 titanium osseointegration with yttria-tetragonal zirconia polycrystal properties, esthetic advantages, and."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Prosthodontics

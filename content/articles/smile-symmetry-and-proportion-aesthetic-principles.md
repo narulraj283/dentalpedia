@@ -3,7 +3,7 @@ title: Smile Symmetry and Proportion - Essential Aesthetic Principles
 slug: smile-symmetry-and-proportion-aesthetic-principles
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Master esthetic proportions including recurring dental ratio, tooth width-height ratios, gingival zenith positioning, papilla height, and symmetry tolerance thresholds in smile design.
+excerpt: "Master esthetic proportions including recurring dental ratio, tooth width-height ratios, gingival zenith positioning, papilla height, and symmetry."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

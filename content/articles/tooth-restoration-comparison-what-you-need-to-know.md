@@ -1,9 +1,9 @@
 ---
-title: Types of Tooth Fillings and Restorations: What You Need to Know
+title: "Types of Tooth Fillings and Restorations: What You Need to Know"
 slug: tooth-restoration-comparison-what-you-need-to-know
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Patient-friendly guide to filling types, materials, costs, longevity, esthetic considerations, and questions to ask your dentist when choosing restorations.
+excerpt: "Patient-friendly guide to filling types, materials, costs, longevity, esthetic considerations, and questions to ask your dentist when choosing."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

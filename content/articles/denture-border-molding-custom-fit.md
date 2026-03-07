@@ -1,5 +1,5 @@
 ---
-title: What Is Border Molding and Why Your Dentist Does It for Your Dentures
+title: What Is Border Molding and Why Your Dentist Does It for
 slug: denture-border-molding-custom-fit
 category: Prosthodontics
 category_slug: prosthodontics
@@ -21,7 +21,7 @@ references:
   - "Jepsen S, et al. Periodontal disease and per denture quality. Journal of Clinical Periodontology. 2012;39(Suppl 12):181-195."
 ---
 
-You might hear your dentist mention "border molding" when discussing your dentures, but what does this actually mean? Border molding is an important step in making sure your dentures fit properly and stay stable. Understanding what it is and why it matters helps you appreciate the detail that goes into creating good-fitting dentures.
+You might hear your dentist mention "border molding" when discussing your dentures, but what does this actually mean? Learning more about [denture adjustment and fitting the initial process](/article/denture-adjustment-and-fitting-the-initial-process.html) can help you understand this better. Border molding is an important step in making sure your dentures fit properly and stay stable. Understanding what it is and why it matters helps you appreciate the detail that goes into creating good-fitting dentures.
 
 ## What Is Border Molding?
 
@@ -61,7 +61,7 @@ Lower denture borders run around your tongue, along the floor of your mouth, and
 
 ## Materials Used for Border Molding
 
-Dental laboratories create borders from acrylic resin, the same material as the rest of the denture. Sometimes denturists use special border molding materials during the laboratory phase that capture the shape of the tissues. These materials are then replaced with final acrylic resin.
+Dental laboratories create borders from acrylic resin, the same material as the rest of the denture. Learning more about [denture fit and pressure optimal contact points](/article/denture-fit-and-pressure-optimal-contact-points.html) can help you understand this better. Sometimes denturists use special border molding materials during the laboratory phase that capture the shape of the tissues. These materials are then replaced with final acrylic resin.
 
 Your dentist might use functional border molding materials during adjustment appointments. These materials soften with gentle heat or simply record tissue shape, allowing your dentist to refine the borders based on actual mouth function.
 
@@ -84,6 +84,8 @@ Denture borders need to be reconsidered periodically as your jaw bone shrinks. A
 ## Conclusion
 
 Border molding shapes denture edges to fit precisely against your gums and mouth tissues while accommodating normal muscle movements. Precise borders create a seal that improves retention, prevent irritation, and create natural appearance. Laboratory molding creates initial borders, but adjustment appointments usually refine them further based on how your mouth actually functions. Good border molding significantly improves denture retention and comfort. Tell your dentist about any border areas causing irritation so they can adjust them. Talk to your dentist about which options are right for your specific situation.
+
+
 
 ## Related Articles You May Find Helpful
 

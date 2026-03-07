@@ -3,7 +3,7 @@ title: Smile Confidence Building Through Dentistry
 slug: smile-confidence-building-through-dentistry
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Dental esthetics profoundly impact psychosocial functioning, self-esteem, and social confidence; evidence-based cosmetic treatment addressing esthetic concerns produces measurable improvements in quality of life, social interaction frequency, and psychological well-being.
+excerpt: "Dental esthetics profoundly impact psychosocial functioning, self-esteem, and social confidence; evidence-based cosmetic treatment addressing."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Behavioral Dentistry and Cosmetic Dentistry

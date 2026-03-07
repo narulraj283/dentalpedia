@@ -3,7 +3,7 @@ title: Timeline for Bleeding Gums Solutions and Resolution
 slug: timeline-for-bleeding-gums-solutions
 category: Periodontics
 category_slug: periodontics
-excerpt: Gingival bleeding reversal follows predictable timelines based on etiology, with clinical improvement evident within days to weeks of appropriate treatment initiation.
+excerpt: "Gingival bleeding reversal follows predictable timelines based on etiology, with clinical improvement evident within days to weeks of appropriate."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontics

@@ -1,9 +1,9 @@
 ---
-title: Apicectomy: Surgical Removal of the Tooth Apex and Modern Microsurgical Technique
+title: "Apicectomy: Surgical Removal of the Tooth Apex and Modern"
 slug: apicectomy-removing-tooth-apex
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Modern endodontic surgery—microsurgical apicectomy with 3mm root resection at 0° bevel, ultrasonic retroprep 3mm depth, MTA/Biodentine root-end fill, 90-95% success rates, and CBCT pre-surgical planning.
+excerpt: "Sometimes root canal treatment doesn't work. The infection persists or the tooth stays painful despite excellent root canal treatment."
 date: 2026-03-05
 read_time: 17 min
 reviewer_specialty: Oral Surgery & Endodontics
@@ -173,5 +173,5 @@ Your dentist is your partner in oral health. The more openly you communicate abo
 
 Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
 
-> **Key Takeaway:** Understanding apicectomy helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** Sometimes root canal treatment doesn't work. Your dentist can help you understand what steps are right for your specific needs.
 

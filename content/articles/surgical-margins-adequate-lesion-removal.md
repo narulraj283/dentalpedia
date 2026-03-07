@@ -3,7 +3,7 @@ title: Surgical Margins in Oral Pathology - Adequate Lesion Removal and Margin A
 slug: surgical-margins-adequate-lesion-removal
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Clinical protocols for surgical margin definition, frozen section histopathology, Mohs technique application, dysplasia management, and specimen orientation.
+excerpt: "Clinical protocols for surgical margin definition, frozen section histopathology, Mohs technique application, dysplasia management, and specimen."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgeon

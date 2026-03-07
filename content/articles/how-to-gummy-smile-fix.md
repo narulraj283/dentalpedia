@@ -1,5 +1,5 @@
 ---
-title: Gummy Smile Fix: Cosmetic Solutions
+title: "Gummy Smile Fix: Cosmetic Solutions"
 slug: how-to-gummy-smile-fix
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
@@ -49,7 +49,7 @@ Your dentist will examine your specific situation and recommend what works best.
 
 After gum contouring, expect 1-2 weeks of mild discomfort and 2-3 weeks of swelling. You can usually return to normal activities within days but should avoid vigorous exercise for 2 weeks. Most people see results by week 3-4, with continued improvement as swelling resolves over weeks 4-8.
 
-During the recovery period, you might notice slight oozing (blood-tinged saliva) for the first few days. This is normal and stops on its own. Your mouth might feel tender when eating hard or crunchy foods—stick with soft foods for the first week. You can gently rinse with salt water (1/2 teaspoon salt in 8 oz warm water) starting 24 hours after the procedure to keep the area clean.
+During the recovery period, you might notice slight oozing (blood-tinged saliva) for the first few days. Learning more about [smile makeover planning what you need to know](/article/smile-makeover-planning-what-you-need-to-know.html) can help you understand this better. This is normal and stops on its own. Your mouth might feel tender when eating hard or crunchy foods—stick with soft foods for the first week. You can gently rinse with salt water (1/2 teaspoon salt in 8 oz warm water) starting 24 hours after the procedure to keep the area clean.
 
 After Botox injection, results appear within 3-7 days and peak at 2 weeks. There's minimal downtime—you might have slight swelling the first day but can resume normal activities immediately. Effects gradually wear off after 3-4 months, requiring repeat injections if you want to maintain results.
 
@@ -65,7 +65,7 @@ Some patients combine gum contouring with other smile improvements. If your teet
 
 ## Managing Expectations
 
-It's important to understand what gummy smile treatment accomplishes: it reduces visible gum tissue so more tooth shows when you smile. This creates better aesthetic proportions. However, it won't change your overall smile shape or tooth color. If you have other smile concerns (crooked teeth, discolored teeth, gaps), you might want to address those in addition to gum contouring.
+It's important to understand what gummy smile treatment accomplishes: it reduces visible gum tissue so more tooth shows when you smile. Learning more about [how to cosmetic restoration types](/article/how-to-cosmetic-restoration-types.html) can help you understand this better. This creates better aesthetic proportions. However, it won't change your overall smile shape or tooth color. If you have other smile concerns (crooked teeth, discolored teeth, gaps), you might want to address those in addition to gum contouring.
 
 Some people find that once they treat their gummy smile, they're motivated to pursue other cosmetic improvements. Others find gum correction alone satisfies them completely. Your dentist can show you before-and-after photos of similar cases to help you visualize potential results.
 
@@ -110,6 +110,8 @@ If gum tissue bothers you when smiling, cosmetic gum correction can help. Discus
 ## Key Takeaway
 
 Gummy smile treatment includes gum contouring (surgical, permanent), Botox (temporary, 3-4 months), or jaw surgery (rare). Choice depends on cause, budget, and whether you prefer permanent or temporary solutions.
+
+
 
 ## Related Articles
 

@@ -3,7 +3,7 @@ title: How Bite Force Affects Your Teeth
 slug: how-to-bite-force-and-teeth
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Your bite force can be incredibly powerful—and it affects how long your teeth and restorations last. Learn how bite force works and what you can do to protect your teeth.
+excerpt: "Your bite is incredibly powerful. Your back molars can bite down with a force of 900 pounds or more—that's like having a 400-pound weight pressing on."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry
@@ -45,7 +45,7 @@ Your bite force doesn't distribute evenly across all your teeth. Your molars do 
 
 There's a weak spot on every tooth: the neck, where the crown of the tooth meets the root. This area is thinner and more vulnerable to stress. When you're biting hard and the force comes from an angle, that stress concentration really damages this area. That's why you often see small notches or V-shaped cavities right at the gumline on teeth that have high bite force.
 
-If you've had a root canal, that tooth is especially vulnerable. Without the nerve inside, the tooth becomes drier and more brittle, like a dead tree branch that snaps easily.
+If you've had a root canal, that tooth is especially vulnerable. Learning more about [benefits of bite force and teeth](/article/benefits-of-bite-force-and-teeth.html) can help you understand this better. Without the nerve inside, the tooth becomes drier and more brittle, like a dead tree branch that snaps easily.
 
 ## Teeth Grinding: The Silent Destroyer
 
@@ -102,6 +102,8 @@ Your bite force is powerful and affects how long your teeth and restorations las
 ## Conclusion
 
 Understanding your bite force isn't just interesting science—it's practical information that helps you make better decisions about protecting your teeth. Your dentist uses this knowledge to help your restorations last longer and your teeth stay healthy. If you grind your teeth or have a strong bite, working with your dentist on protective strategies makes a real difference in your long-term dental health.
+
+
 
 ## Related Articles
 

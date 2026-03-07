@@ -3,7 +3,7 @@ title: Restoration Shade Guide and Color Selection Methods
 slug: restoration-shade-guide-color-selection
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensively explore shade selection systems including Vita Classical and 3D-Master guides, spectrophotometry, metamerism, and digital shade matching technologies.
+excerpt: "Comprehensively explore shade selection systems including Vita Classical and 3D-Master guides, spectrophotometry, metamerism, and digital shade."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic Dentistry

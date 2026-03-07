@@ -1,9 +1,9 @@
 ---
-title: Teeth Alignment Alternatives: Complete Comparison of Treatment Options
+title: "Teeth Alignment Alternatives: Complete Comparison of Treatment Options"
 slug: teeth-alignment-alternatives-complete-guide
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive comparison of traditional braces, ceramic braces, lingual braces, clear aligners, accelerated orthodontics, and surgical options with case selection criteria.
+excerpt: "Comprehensive comparison of traditional braces, ceramic braces, lingual braces, clear aligners, accelerated orthodontics, and surgical options with."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Orthodontics

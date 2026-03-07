@@ -1,9 +1,9 @@
 ---
-title: Sippy Cups and Early Childhood Caries: Transition to Cup Drinking and Prevention Strategies
+title: "Sippy Cups and Early Childhood Caries: Transition to Cup Drinking and Prevention Strategies"
 slug: sippy-cups-and-tooth-decay-transition-to-cup-drinking
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Sippy cup usage presents significant caries risk in young children through prolonged beverage contact, inappropriate contents, and delayed transition to open cup drinking.
+excerpt: "Sippy cup usage presents significant caries risk in young children through prolonged beverage contact, inappropriate contents, and delayed transition."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Pediatric Dentistry

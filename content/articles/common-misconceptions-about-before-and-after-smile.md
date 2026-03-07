@@ -29,7 +29,7 @@ Natural front teeth have specific proportions. The two front teeth (central inci
 
 ## Myth: Whiter Is Always Better
 
-Another common misconception is that the whitest possible shade is best. Very white, bright teeth sometimes look artificial—especially in larger restorations. The whitest shade (imagine bright white like a piece of paper) rarely looks natural. Most naturally beautiful teeth fall somewhere in the range of medium to slightly light shades, with some slight natural color variation.
+Another common misconception is that the whitest possible shade is best. Learning more about [combined ortho and cosmetic approach best results](/article/combined-ortho-and-cosmetic-approach-best-results.html) can help you understand this better. Very white, bright teeth sometimes look artificial—especially in larger restorations. The whitest shade (imagine bright white like a piece of paper) rarely looks natural. Most naturally beautiful teeth fall somewhere in the range of medium to slightly light shades, with some slight natural color variation.
 
 Additionally, if you select restorations that are much whiter than your natural teeth, they'll stand out unnaturally. A better approach is whitening your natural teeth first (if desired), then matching restorations to your whitened teeth. This creates a coordinated, natural appearance rather than obviously artificial bright restorations surrounded by darker natural teeth.
 
@@ -49,7 +49,7 @@ Sometimes achieving optimal smile aesthetics requires gum work in addition to to
 
 Many patients look at cosmetic dentistry before-and-after photos and expect identical results. While these photos show real patient outcomes, your results might look different because every person's face, smile, and expectations are unique. Before-and-after photos show one person's transformation; your transformation will reflect your unique features and goals.
 
-Use before-and-after photos to understand what's possible and get ideas for your own smile goals. But discuss specifically what you want for your smile with your dentist rather than expecting to look identical to someone in a photo.
+Use before-and-after photos to understand what's possible and get ideas for your own smile goals. Learning more about [color selection for dental restorations](/article/color-selection-for-dental-restorations.html) can help you understand this better. But discuss specifically what you want for your smile with your dentist rather than expecting to look identical to someone in a photo.
 
 ## Digital Smile Design Can Help
 
@@ -69,9 +69,19 @@ Sometimes the most beautiful smile improvements are conservative—making subtle
 
 Discuss conservative versus dramatic approaches with your dentist. They can advise what would work best for your specific situation and goals. Sometimes less intervention creates more beautiful results than trying to change everything dramatically.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about before and after smile and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
 ## Conclusion
 
 Beautiful smile design involves proportioning teeth appropriately to your face, selecting natural-looking shades, considering gum esthetics, and making changes that harmonize with your features. Professional smile design principles ensure results look beautiful and natural rather than obviously artificial.
+
+
 
 ## Related Articles You May Find Helpful
 

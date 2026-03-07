@@ -1,9 +1,9 @@
 ---
-title: Systemic Disease Links: The Bidirectional Relationship Between Diabetes and Gum Disease
+title: "Systemic Disease Links: The Bidirectional Relationship Between Diabetes and Gum Disease"
 slug: systemic-disease-links-diabetes-and-gum-disease
 category: Periodontics
 category_slug: periodontics
-excerpt: Evidence-based analysis of bidirectional diabetes-periodontitis relationship, AGE products, neutrophil dysfunction, and clinical implications for treatment.
+excerpt: "Evidence-based analysis of bidirectional diabetes-periodontitis relationship, AGE products, neutrophil dysfunction, and clinical implications for."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Periodontics

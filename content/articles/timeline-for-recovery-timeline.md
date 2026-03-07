@@ -3,7 +3,7 @@ title: General Oral Surgery Recovery Timeline and Functional Recovery Guidelines
 slug: timeline-for-recovery-timeline
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive recovery timelines for oral surgical procedures including pain progression, activity restrictions, functional recovery, and return-to-work guidelines.
+excerpt: "Comprehensive recovery timelines for oral surgical procedures including pain progression, activity restrictions, functional recovery, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

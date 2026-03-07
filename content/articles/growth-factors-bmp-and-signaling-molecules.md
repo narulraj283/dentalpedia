@@ -1,9 +1,9 @@
 ---
-title: Growth Factors, BMP, and Signaling Molecules in Periodontal Regeneration
+title: Growth Factors, BMP, and Signaling Molecules in Periodontal
 slug: growth-factors-bmp-and-signaling-molecules
 category: Periodontics
 category_slug: periodontics
-excerpt: Molecular mechanisms of bone morphogenetic proteins and signaling molecules mediating regeneration of periodontal tissues through guided tissue and bone regeneration.
+excerpt: "When gum disease damages the tissues holding your teeth in place—the gums, bone, and ligaments—your body has natural ways to try to repair itself."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Periodontics

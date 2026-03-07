@@ -3,7 +3,7 @@ title: Why Smile Confidence Boost Matters
 slug: why-smile-confidence-boost-matters
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Cosmetic dental improvements increase self-rated smile attractiveness by 65-85% and produce measurable psychosocial benefits including improved social confidence and oral health engagement. Evidence-based esthetic protocols address specific smile parameters including tooth color, alignment, and gingival display.
+excerpt: "Cosmetic dental improvements increase self-rated smile attractiveness by 65-85% and produce measurable psychosocial benefits including improved."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

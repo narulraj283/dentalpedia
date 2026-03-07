@@ -3,7 +3,7 @@ title: Traditional Metal Braces Treatment Process and Patient Care Guidelines
 slug: traditional-metal-braces-process-and-care
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Metal braces treatment progression encompasses bonding protocols, systematic wire advancement, periodic adjustments, comprehensive oral hygiene requirements, dietary modifications, emergency management, and final debonding to achieve stable treatment outcomes.
+excerpt: "Metal braces treatment progression encompasses bonding protocols, systematic wire advancement, periodic adjustments, comprehensive oral hygiene."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontics

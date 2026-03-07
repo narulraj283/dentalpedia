@@ -3,7 +3,7 @@ title: "Risk and Concerns with Flossing Benefits: Evidence Debate, Technique Tra
 slug: risk-and-concerns-with-flossing-benefits
 category: Preventive Care
 category_slug: preventive-care
-excerpt: "Understanding the clinical evidence regarding flossing effectiveness, technique-related injuries from improper flossing, embrasure anatomy considerations, and interdental cleaning alternatives providing comparable plaque removal."
+excerpt: "Understanding the clinical evidence regarding flossing effectiveness, technique-related injuries from improper flossing, embrasure anatomy."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Preventive Dentistry

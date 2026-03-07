@@ -1,9 +1,9 @@
 ---
-title: Cleft Lip and Palate Surgery: Multidisciplinary Approach
+title: "Cleft Lip and Palate Surgery: Multidisciplinary Approach"
 slug: cleft-lip-and-palate-surgery-multidisciplinary-approach
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Cleft lip and palate repair requires a team approach combining surgery, orthodontics, speech therapy, and more. Learn what to expect and how to get the best outcomes for your child.
+excerpt: "Learning that your baby has a cleft lip or palate can bring up strong emotions."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Oral and Maxillofacial Surgery

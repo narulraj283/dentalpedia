@@ -3,7 +3,7 @@ title: Space Maintainers for Premature Tooth Loss - Indications and Device Selec
 slug: space-maintainer-after-premature-tooth-loss
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Space maintainers prevent orthodontic complications from premature primary tooth loss, with device selection based on tooth type, loss location, and eruption timing of permanent successors.
+excerpt: "Space maintainers prevent orthodontic complications from premature primary tooth loss, with device selection based on tooth type, loss location, and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Pediatric Dentistry

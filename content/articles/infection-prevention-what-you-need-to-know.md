@@ -1,9 +1,9 @@
 ---
-title: Infection Prevention: What You Need to Know
+title: "Infection Prevention: What You Need to Know"
 slug: infection-prevention-what-you-need-to-know
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Patient-focused guide to understanding infection prevention strategies, personal risk factors, behavioral modifications, and recognition of early infection signs for maintaining optimal oral health and preventing dental disease progression.
+excerpt: "Patient-focused guide to understanding infection prevention strategies, personal risk factors, behavioral modifications, and recognition of early."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

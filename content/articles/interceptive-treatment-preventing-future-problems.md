@@ -1,5 +1,5 @@
 ---
-title: Interceptive Treatment: Preventing Future Problems
+title: "Interceptive Treatment: Preventing Future Problems"
 slug: interceptive-treatment-preventing-future-problems
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry

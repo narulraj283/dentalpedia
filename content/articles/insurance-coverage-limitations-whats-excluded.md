@@ -1,5 +1,5 @@
 ---
-title: Insurance Coverage Limitations: What's Excluded
+title: "Insurance Coverage Limitations: What's Excluded"
 slug: insurance-coverage-limitations-whats-excluded
 category: Dental Practice & Insurance
 category_slug: dental-practice-insurance

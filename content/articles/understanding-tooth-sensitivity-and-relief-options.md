@@ -3,7 +3,7 @@ title: Dentin Hypersensitivity and Evidence-Based Relief Options
 slug: understanding-tooth-sensitivity-and-relief-options
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Dentin hypersensitivity results from exposed dentinal tubules and involves the hydrodynamic mechanism; treatment options include potassium nitrate, fluoride, oxalates, HEMA resins, and laser therapy.
+excerpt: "Dentin hypersensitivity results from exposed dentinal tubules and involves the hydrodynamic mechanism; treatment options include potassium nitrate,."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

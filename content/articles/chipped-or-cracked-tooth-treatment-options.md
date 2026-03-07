@@ -1,5 +1,5 @@
 ---
-title: Chipped or Cracked Tooth: Treatment Options and What to Expect
+title: "Chipped or Cracked Tooth: Treatment Options and What to"
 slug: chipped-or-cracked-tooth-treatment-options
 category: General Dentistry
 category_slug: general-dentistry
@@ -33,7 +33,7 @@ Tooth damage falls into several categories depending on what layers of the tooth
 
 **Deep cracks involving the pulp:** The crack extends into the pulp chamber (the nerve-containing center). These cause pain and usually require root canal treatment.
 
-**Root fractures:** The fracture extends below the gum line into the tooth root. These are more serious and require special evaluation.
+**Root fractures:** The fracture extends below the gum line into the tooth root. Learning more about [cavity formation process what you need to know](/article/cavity-formation-process-what-you-need-to-know.html) can help you understand this better. These are more serious and require special evaluation.
 
 ## Diagnosing Tooth Damage
 
@@ -47,7 +47,7 @@ If only the outer enamel is chipped and inner dentin isn't exposed, treatment is
 
 If the chip creates sharp edges irritating your tongue or cheek, your dentist can simply smooth the edge by polishing. For larger cosmetic concerns, tooth-colored composite bonding creates a restoration that looks completely natural. Modern adhesive techniques bond composite directly to enamel without needing to remove healthy tooth structure.
 
-Composite bondings on front teeth typically last 8-12 years. Eventually, they may need replacement, but they're an excellent first solution that preserves maximum tooth structure.
+Composite bondings on front teeth typically last 8-12 years. Learning more about [benefits of bite force and teeth](/article/benefits-of-bite-force-and-teeth.html) can help you understand this better. Eventually, they may need replacement, but they're an excellent first solution that preserves maximum tooth structure.
 
 ## Enamel-Dentin Chips: Composite Restorations
 
@@ -117,6 +117,8 @@ Grinding your teeth (bruxism) increases fracture risk of restored teeth. If you 
 ## Conclusion
 
 Chipped or cracked teeth have excellent treatment options depending on damage extent. Enamel-only chips may need only smoothing or simple bonded restoration. Enamel-dentin chips are restored with composite bonding lasting 8-12 years. Cracks approaching the nerve might benefit from pulp capping. Deep cracks into the nerve require root canal treatment. Prompt evaluation and treatment dramatically improve outcomes and usually mean simpler, less expensive solutions.
+
+
 
 ## Related Articles You May Find Helpful
 

@@ -1,9 +1,9 @@
 ---
-title: Professional Teeth Whitening Results: Timeline, Shade Improvement, and Maintenance Protocols
+title: "Professional Teeth Whitening Results: Timeline, Shade Improvement, and Maintenance Protocols"
 slug: timeline-for-teeth-whitening-results
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Teeth whitening delivers predictable shade improvement with careful management of expectations, maintenance protocols, and understanding of factors affecting longevity of results.
+excerpt: "Teeth whitening delivers predictable shade improvement with careful management of expectations, maintenance protocols, and understanding of factors."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentist

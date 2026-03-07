@@ -3,7 +3,7 @@ title: Vertical Dimension Changes Affecting Facial Height
 slug: vertical-dimension-changes-affecting-facial-height
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Analysis of vertical dimension of occlusion (VDO), measurement methods, loss from dental wear and tooth loss, facial consequences, assessment techniques, and restoration protocols.
+excerpt: "Analysis of vertical dimension of occlusion (VDO), measurement methods, loss from dental wear and tooth loss, facial consequences, assessment."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontics

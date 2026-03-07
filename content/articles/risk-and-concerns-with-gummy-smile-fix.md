@@ -1,9 +1,9 @@
 ---
-title: Risk and Concerns with Gummy Smile Fix
+title: "Risk and Concerns with Gummy Smile Fix"
 slug: risk-and-concerns-with-gummy-smile-fix
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Examining gummy smile correction complications including crown lengthening risks, lip repositioning concerns, botulinum toxin limitations, and orthognathic surgery complications.
+excerpt: "Examining gummy smile correction complications including crown lengthening risks, lip repositioning concerns, botulinum toxin limitations, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry
@@ -11,26 +11,7 @@ subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 reviewed: true
 references:
-  - title: "Shacham M, Tal H, Forgione AG, Standing R. Periodontal and orthodontic considerations in esthetic crown lengthening. Dent Clin North Am. 2011;55(2):265-280."
-    url: https://pubmed.ncbi.nlm.nih.gov/21398107
-  - title: "Kokich VO, Kiyak HA, Shapiro PA. Comparing the perception of dentists and lay people to altered dental esthetics. J Esthet Dent. 1999;11(6):311-324."
-    url: https://pubmed.ncbi.nlm.nih.gov/10825866
-  - title: "Misch CE, Misch CO, Misch CM, et al. Dental implantology. St. Louis: Mosby; 2008."
-    url: https://pubmed.ncbi.nlm.nih.gov/24009319
-  - title: "Coad CT, Coard A, Jablonski-Momeni A, Lieberman M, Bellay A, Robbins J. Upper lip repositioning for the management of excessive gingival display. Compend Contin Educ Dent. 2011;32(10):72-78."
-    url: https://pubmed.ncbi.nlm.nih.gov/22224389
-  - title: "Pederson WR. Lip position and support in relation to facial aesthetics and anterior tooth position. J Esthet Dent. 1995;7(3):126-136."
-    url: https://pubmed.ncbi.nlm.nih.gov/9456945
-  - title: "Kane DJ, Philips RS. Orthognathic surgery for the correction of dentofacial deformities. J Oral Surg. 1978;36(6):429-434."
-    url: https://pubmed.ncbi.nlm.nih.gov/347040
-  - title: "Soriano FG, Pavan AJ, Lourenço EJ. Clinical and radiographic evaluation of the maxillary anterior region after alveolar bone grafting in patients with alveolar clefts: long-term follow-up. Cleft Palate Craniofac J. 2002;39(2):175-180."
-    url: https://pubmed.ncbi.nlm.nih.gov/11984910
-  - title: "Friedman PM, Jih MH, Skover GR, et al. Treatment of atrophic acne scars with botulinum toxin in porcine skin. Dermatol Surg. 2002;28(12):1088-1091."
-    url: https://pubmed.ncbi.nlm.nih.gov/12472483
-  - title: "Gennaro P, Marini R, Mummolo S, et al. Esthetic clinical parameters in the assessment of the "gummy smile". J Esthet Restor Dent. 2011;23(4):235-242."
-    url: https://pubmed.ncbi.nlm.nih.gov/21854393
-  - title: "Rubin R. Botulinum toxin-induced modifications to the mechanism of oral function. Plast Reconstr Surg. 2003;111(3):1207-1214."
-    url: https://pubmed.ncbi.nlm.nih.gov/12621194
+  - "title: 'Shacham M, Tal H, Forgione AG, Standing R. Periodontal and orthodontic considerations in esthetic crown lengthening. Dent Clin North Am. 2011;55(2):265-280."
 ---
 
 # Risk and Concerns with Gummy Smile Fix

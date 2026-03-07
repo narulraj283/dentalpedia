@@ -1,9 +1,9 @@
 ---
-title: How to Correct Your Bite: Treatment Methods Explained
+title: "How to Correct Your Bite: Treatment Methods Explained"
 slug: how-to-bite-correction-methods
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Learn about the different ways to correct your bite, from braces and clear aligners to functional appliances. Discover which option is best for your bite problem.
+excerpt: "Your bite is how your upper and lower teeth come together when you close your mouth."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

@@ -1,5 +1,5 @@
 ---
-title: Extrusion: Partial Tooth Displacement and Emergency Response Protocols
+title: "Extrusion: Partial Tooth Displacement and Emergency"
 slug: extrusion-tooth-pulled-out-slightly
 category: Emergency Dentistry
 category_slug: emergency-dentistry
@@ -29,7 +29,7 @@ These injuries are more common than you might think, especially in kids and teen
 
 ## How Much Damage Is There
 
-The amount of damage depends on how far the tooth was pushed out. A tooth pushed out just a tiny bit has less damage than one pushed out a lot. The more it's displaced, the more damage there is to the connecting ligaments and nerve.
+The amount of damage depends on how far the tooth was pushed out. Learning more about [reimplanted teeth salvaging avulsed permanent teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html) can help you understand this better. A tooth pushed out just a tiny bit has less damage than one pushed out a lot. The more it's displaced, the more damage there is to the connecting ligaments and nerve.
 
 Your dentist will take X-rays to see exactly where the tooth is and what kind of damage you have. They'll also look at whether your tooth's root is fully formed or still growing, since that affects treatment.
 
@@ -44,7 +44,7 @@ The periodontal ligament can heal if the tooth is put back quickly. There's actu
 If you or someone with you knows what to do in the first few minutes, it can make a big difference. The tooth should be gently pushed back into place as soon as possible—within 30 minutes is ideal, though within 24 hours is still acceptable.
 
 If it happens during school or sports:
-1. Gently hold the tooth
+1. Learning more about [risk and concerns with mouth injuries treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html) can help you understand this better. Gently hold the tooth
 2. Apply steady, gentle pressure to push it back toward normal position
 3. Don't force it—use gentle, continuous pressure for a few minutes
 4. Check that it looks level with the neighboring teeth
@@ -110,6 +110,8 @@ Even if none of these things are perfectly in your favor, modern treatment still
 ## Conclusion
 
 A partially extruded tooth is a dental emergency, but it's one that usually has a good outcome with quick treatment. Getting to your dentist the same day makes the biggest difference. After that, following instructions for splint care and attending all follow-up appointments gives your tooth the best chance of healing properly.
+
+
 
 ## Related Articles You May Find Helpful
 

@@ -3,7 +3,7 @@ title: Laser Lip Lightening and Pigmentation Reduction
 slug: lips-laser-lightening-reducing-dark-lips-pigmentation
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Laser lip lightening uses specialized laser systems to reduce melanin pigmentation in lips, addressing hyperpigmentation from genetics, smoking, medications, or solar exposure.
+excerpt: "Laser lip lightening uses specialized laser systems to reduce melanin pigmentation in lips, addressing hyperpigmentation from genetics, smoking,."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

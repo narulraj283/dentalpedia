@@ -3,7 +3,7 @@ title: How to Toothbrush Selection
 slug: how-to-toothbrush-selection
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Toothbrush selection based on bristle properties (stiffness <0.20mm diameter), design features, and individual patient needs optimizes oral hygiene effectiveness by 15-30%.
+excerpt: "Toothbrush selection based on bristle properties (stiffness <0.20mm diameter), design features, and individual patient needs optimizes oral hygiene."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

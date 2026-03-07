@@ -3,7 +3,7 @@ title: Tooth Preparation for Cosmetic Restorations
 slug: tooth-preparation-cosmetic-anatomy
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Clinical guide to veneer and crown preparation including minimal vs full prep, depth cuts, silicone index verification, enamel preservation, and preparation design by restoration type.
+excerpt: "Clinical guide to veneer and crown preparation including minimal vs full prep, depth cuts, silicone index verification, enamel preservation, and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

@@ -3,7 +3,7 @@ title: Comprehensive Overview of Tooth Alignment Modalities and Treatment Select
 slug: timeline-for-teeth-alignment-alternatives
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Evaluate treatment options for malocclusion including fixed appliances, clear aligners, accelerated techniques, surgical-orthodontic approaches, and retention strategies.
+excerpt: "Evaluate treatment options for malocclusion including fixed appliances, clear aligners, accelerated techniques, surgical-orthodontic approaches, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontics

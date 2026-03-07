@@ -3,7 +3,7 @@ title: Why Preventive Treatments Matters
 slug: why-preventive-treatments-matters
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based preventive dentistry reduces cavity incidence by 80% and periodontal disease progression by 60%. Learn specific clinical protocols including fluoride applications, sealants, and antimicrobial strategies supported by decades of clinical research.
+excerpt: "Evidence-based preventive dentistry reduces cavity incidence by 80% and periodontal disease progression by 60%."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

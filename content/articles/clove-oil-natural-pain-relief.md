@@ -1,5 +1,5 @@
 ---
-title: Clove Oil for Dental Pain: Clinical Evidence and Therapeutic Applications
+title: "Clove Oil for Dental Pain: Clinical Evidence and"
 slug: clove-oil-natural-pain-relief
 category: Oral Health
 category_slug: oral-health

@@ -3,7 +3,7 @@ title: Why Recovery After Extraction Matters
 slug: why-recovery-after-extraction-matters
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Post-extraction socket management over 7-14 days determines healing outcome and infection risk. Clinical protocols emphasize hemostasis, clot protection, and wound care to minimize complications and optimize alveolar bone healing.
+excerpt: "Post-extraction socket management over 7-14 days determines healing outcome and infection risk."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery

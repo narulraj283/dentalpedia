@@ -3,7 +3,7 @@ title: Risk and Concerns with Teeth Alignment Alternatives
 slug: risk-and-concerns-with-teeth-alignment-alternatives
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Examining the clinical risks of non-supervised orthodontic treatment, including inadequate bite correction, TMJ complications, and long-term periodontal consequences of incomplete alignment.
+excerpt: "Examining the clinical risks of non-supervised orthodontic treatment, including inadequate bite correction, TMJ complications, and long-term."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontics

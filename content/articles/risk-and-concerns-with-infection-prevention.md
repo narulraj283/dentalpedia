@@ -3,7 +3,7 @@ title: Risk and Concerns with Infection Prevention
 slug: risk-and-concerns-with-infection-prevention
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Examining infection control challenges in dental practice, cross-contamination risks, sterilization failures, aerosol transmission, and management of immunocompromised patients.
+excerpt: "Examining infection control challenges in dental practice, cross-contamination risks, sterilization failures, aerosol transmission, and management of."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

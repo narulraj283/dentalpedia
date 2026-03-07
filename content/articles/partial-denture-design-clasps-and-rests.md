@@ -1,9 +1,9 @@
 ---
-title: Removable Partial Denture Design: Kennedy Classification, Clasp Design, and Framework Principles
+title: "Removable Partial Denture Design: Kennedy Classification, Clasp Design, and Framework Principles"
 slug: partial-denture-design-clasps-and-rests
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Kennedy classification systems, clasp design principles, clasp arms mechanics, rest seat preparation, major/minor connectors, indirect retention strategies, and RPD framework design.
+excerpt: "Kennedy classification systems, clasp design principles, clasp arms mechanics, rest seat preparation, major/minor connectors, indirect retention."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Prosthodontics

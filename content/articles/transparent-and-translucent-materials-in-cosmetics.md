@@ -3,7 +3,7 @@ title: Transparent and Translucent Materials in Cosmetic Dentistry
 slug: transparent-and-translucent-materials-in-cosmetics
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Translucent dental materials including feldspathic porcelain, lithium disilicate, and composite resins with translucency modifiers enable natural esthetic restoration through layering techniques and light optical dynamics.
+excerpt: "Translucent dental materials including feldspathic porcelain, lithium disilicate, and composite resins with translucency modifiers enable natural."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

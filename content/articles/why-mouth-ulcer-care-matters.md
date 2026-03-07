@@ -3,7 +3,7 @@ title: Why Oral Ulcer Management Matters for Healing and Health
 slug: why-mouth-ulcer-care-matters
 category: Oral Health Conditions
 category_slug: oral-health-conditions
-excerpt: Comprehensive ulcer management provides pain relief, accelerates healing, enables malignancy screening, and identifies underlying systemic conditions affecting oral health.
+excerpt: "Comprehensive ulcer management provides pain relief, accelerates healing, enables malignancy screening, and identifies underlying systemic conditions."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral Medicine and Pathology

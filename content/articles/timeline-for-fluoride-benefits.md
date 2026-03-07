@@ -5,7 +5,7 @@ category: Preventive Care
 category_slug: preventive-care
 subcategory: Preventive Overview
 subcategory_slug: overview-prevent
-excerpt: Clinical evidence on fluoride remineralization timelines, topical and systemic delivery mechanisms, dosing protocols, and age-specific safety considerations.
+excerpt: "Clinical evidence on fluoride remineralization timelines, topical and systemic delivery mechanisms, dosing protocols, and age-specific safety."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry and Cariology

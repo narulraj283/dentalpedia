@@ -1,9 +1,9 @@
 ---
-title: Tooth Discoloration: Causes, Classifications, and Treatment-Specific Approaches
+title: "Tooth Discoloration: Causes, Classifications, and Treatment-Specific Approaches"
 slug: tooth-color-changes-complete-guide
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensive clinical review of extrinsic and intrinsic tooth discoloration, including classification of causes, pathophysiologic mechanisms, and evidence-based treatment options matched to discoloration etiology.
+excerpt: "Comprehensive clinical review of extrinsic and intrinsic tooth discoloration, including classification of causes, pathophysiologic mechanisms, and."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Cosmetic and Restorative Dentistry

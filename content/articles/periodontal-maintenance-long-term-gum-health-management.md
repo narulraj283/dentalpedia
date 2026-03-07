@@ -1,9 +1,9 @@
 ---
-title: Periodontal Maintenance Protocols: Long-Term Gum Health Management and Supportive Therapy
+title: "Periodontal Maintenance Protocols: Long-Term Gum Health Management and Supportive Therapy"
 slug: periodontal-maintenance-long-term-gum-health-management
 category: Periodontics
 category_slug: periodontics
-excerpt: Post-periodontal therapy maintenance represents the critical determinant of long-term success, employing risk-stratified recall intervals, behavioral reinforcement, and professional interventions preventing disease recurrence and tooth loss.
+excerpt: "Post-periodontal therapy maintenance represents the critical determinant of long-term success, employing risk-stratified recall intervals, behavioral."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Periodontics

@@ -3,7 +3,7 @@ title: "Reline and Adjustment of Dentures Over Time"
 slug: reline-and-adjustment-of-dentures-over-time
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: "Dentures require periodic relines and adjustments to accommodate ongoing bone resorption and maintain retention. Learn hard vs soft techniques, timing, tissue conditioners, and managing denture-supporting bone changes."
+excerpt: "Dentures require periodic relines and adjustments to accommodate ongoing bone resorption and maintain retention."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontics

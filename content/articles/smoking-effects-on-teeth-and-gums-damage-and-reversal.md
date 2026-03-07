@@ -3,7 +3,7 @@ title: Smoking Effects on Teeth and Gums - Damage and Reversal
 slug: smoking-effects-on-teeth-and-gums-damage-and-reversal
 category: Periodontics
 category_slug: periodontics
-excerpt: Smoking accelerates periodontitis, causes intrinsic staining, promotes oral cancer, and impairs bone healing—but many effects are partially reversible through cessation.
+excerpt: "Smoking accelerates periodontitis, causes intrinsic staining, promotes oral cancer, and impairs bone healing—but many effects are partially."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Periodontics

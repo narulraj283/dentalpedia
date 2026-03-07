@@ -3,7 +3,7 @@ title: Risk and Concerns with Mouth Rinse Benefits
 slug: risk-and-concerns-with-mouth-rinse-benefits
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Examining mouthwash risks including alcohol-containing rinse concerns, chlorhexidine staining, taste alteration, oral microbiome disruption, and antimicrobial resistance development.
+excerpt: "Examining mouthwash risks including alcohol-containing rinse concerns, chlorhexidine staining, taste alteration, oral microbiome disruption, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

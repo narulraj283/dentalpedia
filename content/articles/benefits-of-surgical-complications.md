@@ -3,7 +3,7 @@ title: "Surgical Complications: What Patients Need to Know"
 slug: benefits-of-surgical-complications
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Recognizing and managing surgical complications—intraoperative hemorrhage, dry socket, infection, nerve injury, delayed bleeding—with procedure-specific complication rates and when to seek emergency care.
+excerpt: "Most dental surgery goes smoothly. But complications happen occasionally, and knowing what could happen—and what to do if it does—helps you make."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery
@@ -98,5 +98,5 @@ Surgical complications in dental procedures range from expected (swelling, pain)
 - [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
 
 
-> **Key Takeaway:** Understanding benefits of surgical complications helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** Most dental surgery goes smoothly. Your dentist can help you understand what steps are right for your specific needs.
 

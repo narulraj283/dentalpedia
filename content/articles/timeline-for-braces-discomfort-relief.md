@@ -3,7 +3,7 @@ title: Timeline for Braces Discomfort Relief and Pain Management
 slug: timeline-for-braces-discomfort-relief
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Orthodontic discomfort follows predictable patterns with initial soreness lasting 3-7 days, post-adjustment pain peaking at 24-36 hours, and various non-pharmacologic and pharmacologic management strategies providing effective relief.
+excerpt: "Orthodontic discomfort follows predictable patterns with initial soreness lasting 3-7 days, post-adjustment pain peaking at 24-36 hours, and various."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

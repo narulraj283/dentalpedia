@@ -3,7 +3,7 @@ title: Post-Sedation Recovery - Phases, Discharge Criteria, and Care Management
 slug: sedation-recovery-period
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Post-sedation recovery follows predictable phases with discharge criteria guided by Aldrete scoring, escort requirements, and careful attention to next-day cognitive and motor effects.
+excerpt: "Post-sedation recovery follows predictable phases with discharge criteria guided by Aldrete scoring, escort requirements, and careful attention to."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Dental Anesthesia

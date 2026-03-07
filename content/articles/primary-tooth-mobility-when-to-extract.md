@@ -3,7 +3,7 @@ title: Primary Tooth Mobility Assessment and Extraction Decision-Making
 slug: primary-tooth-mobility-when-to-extract
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Clinical guidelines for assessing primary tooth resorption patterns, determining extraction necessity, managing space maintenance, and evaluating successor tooth development.
+excerpt: "Clinical guidelines for assessing primary tooth resorption patterns, determining extraction necessity, managing space maintenance, and evaluating."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Pediatric Dentistry

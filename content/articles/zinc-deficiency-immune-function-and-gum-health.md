@@ -1,5 +1,5 @@
 ---
-title: Zinc Deficiency: Immune Function and Gum Health
+title: "Zinc Deficiency: Immune Function and Gum Health"
 slug: zinc-deficiency-immune-function-and-gum-health
 category: Dental Nutrition
 category_slug: dental-nutrition

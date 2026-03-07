@@ -1,9 +1,9 @@
 ---
-title: Cosmetic Restoration Options Compared: Porcelain Veneers, Composite Bonding, Whitening, Inlays, and Crowns
+title: "Cosmetic Restoration Options Compared: Porcelain Veneers, Composite Bonding, Whitening, Inlays, and Crowns"
 slug: timeline-for-cosmetic-restoration-types
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensive comparison of cosmetic restoration modalities—veneers, composite bonding, teeth whitening, inlays, and crowns—guides treatment selection based on clinical presentation, tooth structure preservation, and longevity requirements.
+excerpt: "Comprehensive comparison of cosmetic restoration modalities—veneers, composite bonding, teeth whitening, inlays, and crowns—guides treatment."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

@@ -1,9 +1,9 @@
 ---
-title: Genetic Susceptibility to Periodontitis: Family Risk Factors and Gene-Environment Interactions
+title: "Genetic Susceptibility to Periodontitis: Family Risk Factors and Gene-Environment Interactions"
 slug: periodontal-disease-genetics-family-risk-factors
 category: Periodontics
 category_slug: periodontics
-excerpt: Genetic polymorphisms particularly in interleukin-1 system and immune response genes predispose individuals to enhanced periodontitis susceptibility; gene-environment interactions with smoking, diet, and bacterial colonization modulate disease expression and severity.
+excerpt: "Genetic polymorphisms particularly in interleukin-1 system and immune response genes predispose individuals to enhanced periodontitis susceptibility;."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontics

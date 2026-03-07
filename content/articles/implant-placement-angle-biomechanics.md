@@ -1,5 +1,5 @@
 ---
-title: Implant Placement Angle: Biomechanics
+title: "Implant Placement Angle: Biomechanics"
 slug: implant-placement-angle-biomechanics
 category: Dental Implants
 category_slug: dental-implants

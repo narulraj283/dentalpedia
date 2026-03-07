@@ -3,7 +3,7 @@ title: Oral Hygiene Routine - What You Need to Know About Daily Protocols
 slug: oral-hygiene-routine-what-you-need-to-know
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Practical daily oral hygiene protocols, morning versus evening routines, timing around meals, common mistakes that reduce efficacy, and plaque disclosure techniques for self-assessment.
+excerpt: "Practical daily oral hygiene protocols, morning versus evening routines, timing around meals, common mistakes that reduce efficacy, and plaque."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

@@ -1,9 +1,9 @@
 ---
-title: Lumineers: Minimal Prep Veneers Explained
+title: "Lumineers: Minimal Prep Veneers Explained"
 slug: lumineers-minimal-prep-veneers-explained
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Ultra-thin ceramic veneers (0.2-0.3 mm) requiring minimal to no tooth preparation, manufactured via CAD/CAM technology, offering reversible esthetic enhancement with preserved tooth structure and moderate clinical durability.
+excerpt: "Ultra-thin ceramic veneers (0.2-0.3 mm) requiring minimal to no tooth preparation, manufactured via CAD/CAM technology, offering reversible esthetic."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

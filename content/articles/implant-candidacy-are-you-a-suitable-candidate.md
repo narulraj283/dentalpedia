@@ -1,9 +1,9 @@
 ---
-title: Implant Candidacy: Are You a Suitable Candidate?
+title: "Implant Candidacy: Are You a Suitable Candidate?"
 slug: implant-candidacy-are-you-a-suitable-candidate
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Comprehensive evaluation framework for implant candidacy including bone requirements, systemic health considerations, anatomical constraints, and patient factors influencing treatment outcomes.
+excerpt: "Comprehensive evaluation framework for implant candidacy including bone requirements, systemic health considerations, anatomical constraints, and."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

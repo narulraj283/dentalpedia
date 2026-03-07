@@ -1,9 +1,9 @@
 ---
-title: Behçet's Disease: Recurrent Mouth Ulcers
+title: "Behçet's Disease: Recurrent Mouth Ulcers"
 slug: behcets-disease-recurrent-mouth-ulcers
 category: Oral Health Conditions
 category_slug: oral-health-conditions
-excerpt: Systemic vasculitis with recurrent oral ulcers, diagnostic criteria, epidemiology, pathogenesis, and evidence-based management strategies.
+excerpt: "Behçet's disease is a rare condition that causes painful ulcers (sores) in your mouth and other parts of your body."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: General Dentistry
@@ -132,5 +132,5 @@ The good news is that Behçet's disease is manageable. Many people have effectiv
 - [Geographic Tongue: Harmless Pattern on Tongue Surface](/article/geographic-tongue-harmless-pattern-on-tongue-surface.html)
 
 
-> **Key Takeaway:** Understanding behçet's disease helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** Behçet's disease is a rare condition that causes painful ulcers (sores) in your mouth and other parts of your body. Your dentist can help you understand what steps are right for your specific needs.
 

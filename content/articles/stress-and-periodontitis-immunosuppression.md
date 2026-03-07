@@ -1,9 +1,9 @@
 ---
-title: Psychoneuroimmunology of Periodontitis: Cortisol-Mediated Immune Dysregulation and Stress-Induced Disease Progression
+title: "Psychoneuroimmunology of Periodontitis: Cortisol-Mediated Immune Dysregulation and Stress-Induced Disease Progression"
 slug: stress-and-periodontitis-immunosuppression
 category: Periodontics
 category_slug: periodontics
-excerpt: Mechanistic analysis of stress hormones suppressing Th1 immunity, dysregulating IL-6 and TNF-α, impairing neutrophil function, and clinical evidence for stress management as adjunctive periodontitis therapy.
+excerpt: "Mechanistic analysis of stress hormones suppressing Th1 immunity, dysregulating IL-6 and TNF-α, impairing neutrophil function, and clinical evidence."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontist

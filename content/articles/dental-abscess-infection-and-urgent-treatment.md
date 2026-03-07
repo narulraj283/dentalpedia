@@ -1,5 +1,5 @@
 ---
-title: Dental Abscess: Why It's an Emergency and What You Should Do
+title: "Dental Abscess: Why It's an Emergency and What You Should Do"
 slug: dental-abscess-infection-and-urgent-treatment
 category: Emergency Dentistry
 category_slug: emergency-dentistry
@@ -31,7 +31,7 @@ Gum disease can also cause abscesses. If you have deep periodontal pockets with 
 
 Pain is the classic sign—often sharp, constant, throbbing pain in one tooth. Cold water or touching the tooth hurts. Swelling around the tooth is common, either inside your mouth (gum swelling) or externally (your face or jaw swelling). Some people develop a small "pimple" on their gum above the problem tooth, draining pus with a bad taste. Fever, swollen lymph nodes in your neck, and general feeling of being unwell accompany bigger abscesses.
 
-The danger signs requiring immediate care: spreading swelling (face swelling that gets bigger hour by hour), difficulty swallowing or opening your mouth, difficulty breathing or speaking, or fever above 101°F. These suggest the infection is escaping local containment and becoming systemic. You need emergency treatment right away.
+The danger signs requiring immediate care: spreading swelling (face swelling that gets bigger hour by hour), difficulty swallowing or opening your mouth, difficulty breathing or speaking, or fever above 101°F. Learning more about [lost filling or crown temporary and permanent solutions](/article/lost-filling-or-crown-temporary-and-permanent-solutions.html) can help you understand this better. These suggest the infection is escaping local containment and becoming systemic. You need emergency treatment right away.
 
 ## When You Should Get Emergency Care
 
@@ -43,7 +43,7 @@ For smaller abscesses (localized pain and mild swelling), next-day dental appoin
 
 For periapical abscess (nerve-related), root canal therapy is the definitive treatment. Your dentist removes the dead nerve tissue and infected contents from inside the tooth, cleans and shapes the canal, and fills it with a biocompatible material. This eliminates the bacteria source. Most teeth with root canal therapy last for decades afterward. Alternative is tooth extraction if the tooth is hopeless, but root canal preserves your tooth.
 
-For some large abscesses, incision and drainage might precede root canal therapy. Your dentist makes a small incision in the swollen area to release the pus and relieve pressure. This doesn't cure the infection but provides immediate pain relief while antibiotics start working. After the swelling reduces and infection calms, root canal therapy happens.
+For some large abscesses, incision and drainage might precede root canal therapy. Learning more about [dental trauma in athletes prevention and treatment](/article/dental-trauma-in-athletes-prevention-and-treatment.html) can help you understand this better. Your dentist makes a small incision in the swollen area to release the pus and relieve pressure. This doesn't cure the infection but provides immediate pain relief while antibiotics start working. After the swelling reduces and infection calms, root canal therapy happens.
 
 Antibiotics support treatment by controlling the systemic infection while local treatment addresses the source. You might take amoxicillin or clindamycin (if allergic to penicillin) for 7-10 days. But antibiotics alone don't cure abscess—they just prevent spread. You still need the local treatment (root canal or extraction).
 
@@ -68,6 +68,8 @@ You can't treat an abscess at home. Antibiotics sometimes prescribed for "tooth 
 Dental abscesses are infections requiring professional treatment—either root canal therapy (for nerve-related) or extraction. Pain and swelling are warning signs. Danger signs (spreading swelling, fever, difficulty swallowing) indicate emergency status requiring immediate care. Delaying treatment risks spreading infection into deeper spaces, potential sepsis, and greater bone loss. Root canal therapy successfully treats 85-90% of abscesses while preserving your tooth. Prevention through cavity treatment and good oral hygiene avoids abscess development entirely. If you suspect abscess, contact your dentist same-day; if after-hours with fever or swelling, go to the ER.
 
 If you're experiencing tooth pain with swelling, contact your dentist immediately or go to an emergency dental clinic for evaluation and treatment.
+
+
 
 ## Related Articles You May Find Helpful
 

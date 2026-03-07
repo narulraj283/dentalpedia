@@ -1,5 +1,5 @@
 ---
-title: Wire Sequence: Progression of Wires
+title: "Wire Sequence: Progression of Wires"
 slug: wire-sequence-progression-of-wires
 category: Orthodontics
 category_slug: orthodontics

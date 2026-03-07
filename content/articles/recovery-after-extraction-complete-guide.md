@@ -3,7 +3,7 @@ title: Complete Guide to Recovery After Tooth Extraction and Socket Healing
 slug: recovery-after-extraction-complete-guide
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Tooth extraction initiates a predictable biological healing cascade involving socket healing phases, bone remodeling, and collagen reorganization that determines long-term alveolar bone outcomes.
+excerpt: "Tooth extraction initiates a predictable biological healing cascade involving socket healing phases, bone remodeling, and collagen reorganization."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery

@@ -1,9 +1,9 @@
 ---
-title: Systemic Fluoride During Development: Safety Thresholds and Caries Prevention
+title: "Systemic Fluoride During Development: Safety Thresholds and Caries Prevention"
 slug: systemic-fluoride-during-development-safety-thresholds
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based analysis of water fluoridation safety, dosing protocols, dental fluorosis risk assessment, and optimal age-specific fluoride recommendations.
+excerpt: "Evidence-based analysis of water fluoridation safety, dosing protocols, dental fluorosis risk assessment, and optimal age-specific fluoride."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Preventive Dentistry

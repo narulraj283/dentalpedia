@@ -3,7 +3,7 @@ title: Snacking Habits and Cavity Formation - Frequency Effect
 slug: snacking-habits-and-cavity-formation-frequency-effect
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Snacking frequency determines caries risk more than snacking volume—multiple daily snacks create continuous acid attacks that overwhelm remineralization capacity.
+excerpt: "Snacking frequency determines caries risk more than snacking volume—multiple daily snacks create continuous acid attacks that overwhelm."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

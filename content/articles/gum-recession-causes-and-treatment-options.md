@@ -1,9 +1,9 @@
 ---
-title: Gum Recession: Causes and Treatment Options
+title: "Gum Recession: Causes and Treatment Options"
 slug: gum-recession-causes-and-treatment-options
 category: Periodontics
 category_slug: periodontics
-excerpt: Clinical assessment, etiology, and evidence-based surgical and non-surgical management of gingival recession with prognostication considerations.
+excerpt: "Gum recession—when gum tissue pulls back and tooth roots become exposed—affects many people."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Periodontics

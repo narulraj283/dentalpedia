@@ -27,7 +27,7 @@ Your teeth don't stay one color forever. Understanding why they change color hel
 
 ## Is All Yellow Staining from Poor Hygiene?
 
-No. Surface staining from coffee, tea, and other sources represents only 30-40% of color changes. While poor hygiene does contribute, much tooth discoloration comes from other causes. Surface stains (called extrinsic stains) come off with professional cleaning, improving color 70-85%.
+No. Learning more about [common misconceptions about teeth whitening results](/article/common-misconceptions-about-teeth-whitening-results.html) can help you understand this better. Surface staining from coffee, tea, and other sources represents only 30-40% of color changes. While poor hygiene does contribute, much tooth discoloration comes from other causes. Surface stains (called extrinsic stains) come off with professional cleaning, improving color 70-85%.
 
 But 60-70% of color changes are intrinsic—meaning the discoloration is inside the tooth structure, not on the surface. Those need different approaches.
 
@@ -45,7 +45,7 @@ So if you seal the access well (with a proper composite filling or crown), the t
 
 ## Is Tetracycline Staining Really Permanent?
 
-Not completely. If you took tetracycline (an antibiotic) as a child, it can stain teeth blue-gray or brown depending on how much you took. Many people think this is permanent. Actually, these stains somewhat lighten naturally over 10-20 years through light exposure.
+Not completely. Learning more about [common misconceptions about teeth color improvement](/article/common-misconceptions-about-teeth-color-improvement.html) can help you understand this better. If you took tetracycline (an antibiotic) as a child, it can stain teeth blue-gray or brown depending on how much you took. Many people think this is permanent. Actually, these stains somewhat lighten naturally over 10-20 years through light exposure.
 
 Also, surface staining can be removed by carefully removing a tiny layer of enamel surface (microabrasion). Internal staining responds poorly to whitening (only 2-4 shade improvements) but often improves enough with combination approaches for patient acceptance.
 
@@ -90,6 +90,8 @@ While some tooth color changes are inevitable with aging, you can slow down disc
 ## Conclusion
 
 Tooth color changes happen for many reasons: surface staining (preventable through cleaning and hygiene), normal aging (darkening over decades is biological), dead tooth tissue (preventable with good sealing), previous medications like tetracycline (partially reversible), and materials degrading. Understanding the cause helps determine the right treatment approach—some things can be whitened, some need restoration, and some are just normal aging that doesn't need treatment.
+
+
 
 ## Related Articles You May Find Helpful
 

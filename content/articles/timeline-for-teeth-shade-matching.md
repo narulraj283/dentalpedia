@@ -3,7 +3,7 @@ title: Dental Shade Selection and Color Communication with Spectrophotometry
 slug: timeline-for-teeth-shade-matching
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Master shade selection through visual guides, spectrophotometry, lighting control, digital technology, and laboratory communication for optimal esthetic outcomes.
+excerpt: "Master shade selection through visual guides, spectrophotometry, lighting control, digital technology, and laboratory communication for optimal."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

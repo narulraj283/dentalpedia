@@ -1,9 +1,9 @@
 ---
-title: Temporomandibular Joint Arthroscopy: Surgical Technique and Outcomes
+title: "Temporomandibular Joint Arthroscopy: Surgical Technique and Outcomes"
 slug: tmj-arthroscopy-procedure
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: TMJ arthroscopy indicated for internal derangement and adhesions employs puncture/insufflation technique with lysis and lavage achieving 80-90% improvement in refractory TMD cases.
+excerpt: "TMJ arthroscopy indicated for internal derangement and adhesions employs puncture/insufflation technique with lysis and lavage achieving 80-90%."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: General Dentistry

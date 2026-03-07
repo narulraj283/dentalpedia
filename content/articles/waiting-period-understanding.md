@@ -3,7 +3,7 @@ title: Understanding Dental Insurance Waiting Periods
 slug: waiting-period-understanding
 category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: Insurance waiting periods delay coverage for specific services; understanding preventive, basic, and major waiting periods is essential for treatment planning and cost management.
+excerpt: "Insurance waiting periods delay coverage for specific services; understanding preventive, basic, and major waiting periods is essential for treatment."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Dental Practice Management

@@ -1,11 +1,11 @@
 ---
-title: Minimal Invasive Surgery: Reducing Trauma
+title: "Minimal Invasive Surgery: Reducing Trauma"
 slug: minimal-invasive-surgery-reducing-trauma
 category: Oral Surgery
 category_slug: oral-surgery
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-excerpt: Minimally invasive surgical techniques preserve bone and soft tissue architecture while reducing operative time, inflammation, and recovery duration—fundamental principles reshaping contemporary oral and maxillofacial surgical practice.
+excerpt: "Minimally invasive surgical techniques preserve bone and soft tissue architecture while reducing operative time, inflammation, and recovery."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

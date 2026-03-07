@@ -3,7 +3,7 @@ title: Gum Disease - Stages and Why Catching It Early Changes Everything
 slug: why-gum-disease-stages-matters
 category: Periodontics
 category_slug: periodontics
-excerpt: Patient-friendly explanation of gum disease progression from gingivitis to periodontitis, why it matters when caught at each stage, and why early treatment reverses damage.
+excerpt: "Patient-friendly explanation of gum disease progression from gingivitis to periodontitis, why it matters when caught at each stage, and why early."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontics

@@ -3,7 +3,7 @@ title: Traditional vs. Invisible Braces—Complete Clinical Comparison Guide
 slug: traditional-vs-invisible-braces-complete-guide
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive comparison of fixed appliances versus clear aligners encompasses biomechanical capabilities, treatment efficiency, case limitations, vertical control, rotational capacity, and clinical indications for each modality.
+excerpt: "Comprehensive comparison of fixed appliances versus clear aligners encompasses biomechanical capabilities, treatment efficiency, case limitations,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

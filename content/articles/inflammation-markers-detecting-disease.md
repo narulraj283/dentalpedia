@@ -1,9 +1,9 @@
 ---
-title: Inflammation Markers: Detecting Disease
+title: "Inflammation Markers: Detecting Disease"
 slug: inflammation-markers-detecting-disease
 category: Periodontics
 category_slug: periodontics
-excerpt: Comprehensive overview of inflammatory biomarkers in periodontal disease detection, including serum and salivary markers, point-of-care testing, and contemporary diagnostic strategies for identifying and monitoring periodontal progression.
+excerpt: "Comprehensive overview of inflammatory biomarkers in periodontal disease detection, including serum and salivary markers, point-of-care testing, and."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

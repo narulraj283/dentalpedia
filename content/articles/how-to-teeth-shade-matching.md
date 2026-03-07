@@ -3,7 +3,7 @@ title: Comprehensive Guide to Clinical Tooth Shade Matching and Color Communicat
 slug: how-to-teeth-shade-matching
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Accurate shade matching requires VITA 3D-Master classification, spectrophotometric measurement, L*a*b* colorimetric analysis, and metamerism compensation for optimal restoration esthetics.
+excerpt: "Accurate shade matching requires VITA 3D-Master classification, spectrophotometric measurement, L*a*b* colorimetric analysis, and metamerism."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

@@ -3,7 +3,7 @@ title: How to Complex Extractions
 slug: how-to-complex-extractions
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Complex dental extractions require systematic surgical flap design, bone removal techniques, sectioning protocols, and hemostatic control to manage impacted and anatomically compromised teeth.
+excerpt: "Some teeth require surgery to remove. Simple extractions—pulling out teeth that are fully visible—are straightforward."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery

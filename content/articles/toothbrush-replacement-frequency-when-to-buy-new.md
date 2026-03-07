@@ -1,9 +1,9 @@
 ---
-title: Toothbrush Replacement Frequency: When to Buy a New Brush
+title: "Toothbrush Replacement Frequency: When to Buy a New Brush"
 slug: toothbrush-replacement-frequency-when-to-buy-new
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Clinical guidance on optimal toothbrush replacement intervals, bristle splay indicators, bacterial colonization, and special circumstances requiring replacement.
+excerpt: "Clinical guidance on optimal toothbrush replacement intervals, bristle splay indicators, bacterial colonization, and special circumstances requiring."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Preventive Dentistry

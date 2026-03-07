@@ -3,7 +3,7 @@ title: Why Teeth Shade Matching Matters
 slug: why-teeth-shade-matching-matters
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Technical analysis of dental shade matching protocols, spectrophotometry, composite shade selection, and clinical strategies for achieving esthetically superior restorations.
+excerpt: "Technical analysis of dental shade matching protocols, spectrophotometry, composite shade selection, and clinical strategies for achieving."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Cosmetic Dentistry

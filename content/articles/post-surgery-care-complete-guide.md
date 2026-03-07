@@ -3,7 +3,7 @@ title: Post-Surgery Care - Complete Guide to Surgical Recovery and Healing Manag
 slug: post-surgery-care-complete-guide
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive surgical recovery protocols addressing hemostasis, swelling control, oral hygiene, suture care, activity management, and evidence-based healing optimization.
+excerpt: "Comprehensive surgical recovery protocols addressing hemostasis, swelling control, oral hygiene, suture care, activity management, and evidence-based."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

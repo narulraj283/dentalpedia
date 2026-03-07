@@ -3,7 +3,7 @@ title: Snacking Patterns - Impact on Cavity Risk
 slug: snacking-patterns-impact-on-cavity-risk
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Dietary pattern assessment and food diary analysis identify cariogenic snacking patterns that can be modified through consolidation and strategic substitution.
+excerpt: "Dietary pattern assessment and food diary analysis identify cariogenic snacking patterns that can be modified through consolidation and strategic."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

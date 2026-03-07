@@ -3,7 +3,7 @@ title: Cost of Mouth Injuries Treatment
 slug: cost-of-mouth-injuries-treatment
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Mouth injury treatment ranges from $500 for soft tissue repair to $15,000+ for tooth loss or jaw fracture—prevention with mouthguards costing $100-300 is your best investment.
+excerpt: "Mouth injuries from sports, falls, car accidents, or fights happen more often than you'd think."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery
@@ -31,7 +31,7 @@ Soft tissue injuries (cuts to your lips or gums) cost $200-400 to repair if prof
 
 If you cut your lip, gum, or inside of your mouth, the severity determines treatment costs. Small cuts that don't gape open often heal by themselves with no treatment. No cost.
 
-Bigger lacerations (cuts more than 3mm that are bleeding) need professional repair. Your dentist can stitch this up in the office under local anesthesia for $200-400. An emergency room visit for the same injury costs $800-1,500 because they charge more for facility use and evaluation.
+Bigger lacerations (cuts more than 3mm that are bleeding) need professional repair. Learning more about [cost of oral surgery recovery timeline](/article/cost-of-oral-surgery-recovery-timeline.html) can help you understand this better. Your dentist can stitch this up in the office under local anesthesia for $200-400. An emergency room visit for the same injury costs $800-1,500 because they charge more for facility use and evaluation.
 
 Lip cuts involving the lip line (the border of your lips) need careful stitching to prevent cosmetic scarring. This usually costs $500-1,200 and requires expertise to align perfectly. Poor stitching results in permanent visible scarring, which leads to cosmetic surgery later ($1,500-3,000 to fix).
 
@@ -98,6 +98,8 @@ Some mouth injuries heal perfectly and you never have another problem. Others de
 ## Conclusion
 
 Mouth injuries cost $500-15,000+ to treat depending on severity, with tooth loss being the most expensive ($2,000-6,000 per tooth). Prevention through custom mouthguards ($100-300) prevents the vast majority of sports-related injuries. For adults and kids in contact sports, a mouthguard is one of the smartest investments you can make. Talk to your dentist about whether a custom mouthguard is right for your situation.
+
+
 
 ## Related Articles You May Find Helpful
 

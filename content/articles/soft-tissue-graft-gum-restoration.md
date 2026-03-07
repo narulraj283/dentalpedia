@@ -3,7 +3,7 @@ title: Soft Tissue Grafts for Gum Restoration - Connective Tissue and Free Gingi
 slug: soft-tissue-graft-gum-restoration
 category: Periodontics
 category_slug: periodontics
-excerpt: Connective tissue grafts, free gingival grafts, and acellular dermal matrix represent evidence-based approaches to gum restoration, root coverage, and esthetic gingival augmentation.
+excerpt: "Connective tissue grafts, free gingival grafts, and acellular dermal matrix represent evidence-based approaches to gum restoration, root coverage,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontics

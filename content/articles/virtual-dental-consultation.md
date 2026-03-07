@@ -1,9 +1,9 @@
 ---
-title: Virtual Dental Consultation: Technology and Practice Guide
+title: "Virtual Dental Consultation: Technology and Practice Guide"
 slug: virtual-dental-consultation
 category: Dental Technology
 category_slug: dental-technology
-excerpt: Comprehensive guide to virtual dental consultations covering platforms, diagnostic capabilities, photo and video protocols, triage accuracy, follow-up integration, patient satisfaction, and regulatory considerations.
+excerpt: "Comprehensive guide to virtual dental consultations covering platforms, diagnostic capabilities, photo and video protocols, triage accuracy,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Dental Technology

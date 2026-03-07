@@ -29,7 +29,7 @@ After your oral surgery, the next week or two is critical for proper healing. Ma
 
 ## Myth 1: Complete Rest Is Essential for Healing
 
-Bed rest on surgery day (day 0) is appropriate, but complete rest throughout recovery delays healing. Light activity (walking, gentle daily activities) actually promotes healing through improved circulation. Strenuous exercise and heavy lifting should wait 1 to 2 weeks, but normal light activity is fine within a few days.
+Bed rest on surgery day (day 0) is appropriate, but complete rest throughout recovery delays healing. Learning more about [timeline for recovery timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. Light activity (walking, gentle daily activities) actually promotes healing through improved circulation. Strenuous exercise and heavy lifting should wait 1 to 2 weeks, but normal light activity is fine within a few days.
 
 By day 3 to 5 after simple tooth extraction, you can usually resume desk work, light household activity, and gentle exercise. Bone healing is actually stimulated by gentle loading and movement. Prolonged complete bed rest might feel safer but paradoxically slows healing.
 
@@ -49,7 +49,7 @@ Ask your dentist why they're prescribing antibiotics if they give you a prescrip
 
 While you should complete the full course of antibiotics if you're taking them, modern evidence suggests that shorter antibiotic courses (3 to 5 days) might be as effective as traditional 7 to 10-day courses. However, don't stop antibiotics on your own—discuss any concerns with your dentist.
 
-If you experience side effects from antibiotics (nausea, diarrhea, allergy symptoms), call your dentist. They might adjust your medication. But stopping antibiotics because you're feeling better could allow remaining bacteria to develop resistance.
+If you experience side effects from antibiotics (nausea, diarrhea, allergy symptoms), call your dentist. Learning more about [swelling reduction what you need to know](/article/swelling-reduction-what-you-need-to-know.html) can help you understand this better. They might adjust your medication. But stopping antibiotics because you're feeling better could allow remaining bacteria to develop resistance.
 
 ## Myth 5: You Should Remove Your Gauze After 30 Minutes and Check the Extraction Site
 
@@ -90,6 +90,8 @@ Prolonged soft diet restriction isn't necessary once soft tissue has healed and 
 ## Conclusion
 
 Effective post-surgery care emphasizes gentle activity, appropriate pain management, maintaining gauze over extraction sites to protect blood clots, head elevation, and careful diet progression. Most patients benefit from light oral hygiene (away from the surgical site), over-the-counter pain medication, ice for 24 hours then heat, and gradual activity advancement over 1 to 2 weeks.
+
+
 
 ## Related Articles You May Find Helpful
 

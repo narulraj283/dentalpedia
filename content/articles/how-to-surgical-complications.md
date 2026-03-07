@@ -3,7 +3,7 @@ title: Surgical Complications in Oral Surgery - Recognition and Management
 slug: how-to-surgical-complications
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Understanding the spectrum of surgical complications including hemorrhage, infection, nerve injury, and oroantral communication enables effective prevention, early detection, and evidence-based management to optimize patient outcomes.
+excerpt: "Understanding the spectrum of surgical complications including hemorrhage, infection, nerve injury, and oroantral communication enables effective."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

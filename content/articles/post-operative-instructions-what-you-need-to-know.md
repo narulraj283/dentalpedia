@@ -3,7 +3,7 @@ title: Post-Operative Instructions - What You Need to Know After Oral Surgery
 slug: post-operative-instructions-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Patient-friendly post-operative guidelines covering essential do's and don'ts, pain management timing, and signs requiring immediate professional attention.
+excerpt: "Patient-friendly post-operative guidelines covering essential do's and don'ts, pain management timing, and signs requiring immediate professional."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery

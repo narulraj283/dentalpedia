@@ -3,7 +3,7 @@ title: How Long Do Dental Veneers Last? A Patient's Guide to Veneer Longevity
 slug: veneer-durability-facts-what-you-need-to-know
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Dental veneers typically last 10-15+ years with proper care; realistic expectations include material differences, failure warning signs, and care strategies to extend lifespan.
+excerpt: "Dental veneers typically last 10-15+ years with proper care; realistic expectations include material differences, failure warning signs, and care."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Prosthodontics

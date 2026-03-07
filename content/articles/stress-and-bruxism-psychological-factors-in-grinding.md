@@ -1,9 +1,9 @@
 ---
-title: Stress and Bruxism: Psychological Pathways, Cortisol Dysregulation, and Evidence-Based Cognitive-Behavioral Management
+title: "Stress and Bruxism: Psychological Pathways, Cortisol Dysregulation, and Evidence-Based Cognitive-Behavioral Management"
 slug: stress-and-bruxism-psychological-factors-in-grinding
 category: General Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Psychoneuroimmunologic mechanisms linking psychological stress to bruxism, including cortisol pathways, catecholamine effects, EMG evidence, CBT intervention protocols, and biofeedback systems.
+excerpt: "Psychoneuroimmunologic mechanisms linking psychological stress to bruxism, including cortisol pathways, catecholamine effects, EMG evidence, CBT."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: TMJ/Sleep Dentistry Specialist

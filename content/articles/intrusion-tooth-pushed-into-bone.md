@@ -1,9 +1,9 @@
 ---
-title: Intrusion: Tooth Pushed Into Bone - Clinical Management and Long-Term Outcomes
+title: "Intrusion: Tooth Pushed Into Bone - Clinical Management and Long-Term Outcomes"
 slug: intrusion-tooth-pushed-into-bone
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Intrusive luxation represents one of the most severe dentoalveolar injuries, characterized by axial displacement of the tooth into alveolar bone. This comprehensive guide covers classification, clinical assessment, treatment protocols, and outcomes for managing teeth that have been forcibly driven into bone.
+excerpt: "Intrusive luxation represents one of the most severe dentoalveolar injuries, characterized by axial displacement of the tooth into alveolar bone."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

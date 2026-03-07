@@ -1,5 +1,5 @@
 ---
-title: Xylitol Products: Sugar Alcohol Benefits for Cavities
+title: "Xylitol Products: Sugar Alcohol Benefits for Cavities"
 slug: xylitol-products-sugar-alcohol-benefits-for-cavities
 category: Preventive Care
 category_slug: preventive-care

@@ -3,7 +3,7 @@ title: Pre-Operative Preparation Protocol for Oral and Maxillofacial Surgery
 slug: how-to-pre-surgery-preparation
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive clinical guidelines for pre-operative optimization, medical clearance, medications management, and patient education prior to oral surgical procedures.
+excerpt: "Comprehensive clinical guidelines for pre-operative optimization, medical clearance, medications management, and patient education prior to oral."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

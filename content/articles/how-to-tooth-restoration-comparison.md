@@ -3,7 +3,7 @@ title: How to Tooth Restoration Comparison
 slug: how-to-tooth-restoration-comparison
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Restorative material selection requires evidence-based assessment of longevity, esthetics, biocompatibility, and biomechanical properties specific to cavity classification and clinical location.
+excerpt: "Restorative material selection requires evidence-based assessment of longevity, esthetics, biocompatibility, and biomechanical properties specific to."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

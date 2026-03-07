@@ -1,9 +1,9 @@
 ---
-title: Mouth Injuries Treatment: Complete Guide
+title: "Mouth Injuries Treatment: Complete Guide"
 slug: mouth-injuries-treatment-complete-guide
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Traumatic orofacial injuries demand immediate assessment and time-sensitive intervention to preserve tooth vitality and prevent long-term complications. Understanding emergency protocols and evidence-based management principles enables appropriate care and improved clinical outcomes.
+excerpt: "Traumatic orofacial injuries demand immediate assessment and time-sensitive intervention to preserve tooth vitality and prevent long-term."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

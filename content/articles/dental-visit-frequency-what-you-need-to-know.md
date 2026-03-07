@@ -1,5 +1,5 @@
 ---
-title: How Often Should You Go to the Dentist? What's Right for Your Teeth
+title: How Often Should You Go to the Dentist? What's Right for
 slug: dental-visit-frequency-what-you-need-to-know
 category: Preventive Care
 category_slug: preventive-care
@@ -21,7 +21,7 @@ references:
   - "Scheie AA, et al. Advances in microbial diagnostics for better treatment of periodontitis and other oral infections. Monographs in Oral Science. 2012;23:1-17."
 ---
 
-The old rule about seeing the dentist every six months doesn't fit everyone. Your teeth and gums are unique, and your visit schedule should be too. Whether you need to come in frequently or can spread out your appointments depends on your personal risk factors for cavities and gum disease.
+The old rule about seeing the dentist every six months doesn't fit everyone. Learning more about [oral health habits complete guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. Your teeth and gums are unique, and your visit schedule should be too. Whether you need to come in frequently or can spread out your appointments depends on your personal risk factors for cavities and gum disease.
 
 ## The One-Size-Fits-All Schedule Doesn't Work
 
@@ -39,7 +39,7 @@ If you haven't had a cavity in three years, take care of your teeth well, don't 
 
 Gum disease develops differently in different people. Your dentist checks how deep your gum pockets are (the small spaces between your teeth and gums) and whether your gums bleed during an exam. These findings help determine your gum disease risk just like cavity history determines cavity risk.
 
-Healthy gums with shallow pockets and no bleeding suggest low risk, so annual visits work well. If your gums bleed sometimes and you have some deeper pockets, that's moderate risk, and you'd benefit from six-month checkups. If your dentist finds deeper pockets consistently and your gums bleed frequently, you're at higher risk and need more frequent visits—sometimes every three months—along with professional deep cleaning and possibly referral to a gum specialist.
+Healthy gums with shallow pockets and no bleeding suggest low risk, so annual visits work well. Learning more about [benefits of tartar prevention](/article/benefits-of-tartar-prevention.html) can help you understand this better. If your gums bleed sometimes and you have some deeper pockets, that's moderate risk, and you'd benefit from six-month checkups. If your dentist finds deeper pockets consistently and your gums bleed frequently, you're at higher risk and need more frequent visits—sometimes every three months—along with professional deep cleaning and possibly referral to a gum specialist.
 
 ## Low-Risk Patients: The Simple Maintenance Plan
 
@@ -72,6 +72,8 @@ Beyond saving money, frequent preventive care helps prevent serious problems. Gu
 ## Conclusion
 
 Forget the old idea that everyone needs six-month cleanings. Ask your dentist to assess your personal cavity and gum disease risk and recommend a visit schedule based on that assessment. Low-risk patients often do well with yearly appointments, moderate-risk patients benefit from twice-yearly visits, and high-risk patients gain from more frequent care. Your dentist will check your risk level regularly and adjust your schedule as your situation changes. Talk to your dentist about which options are right for your specific situation.
+
+
 
 ## Related Articles You May Find Helpful
 

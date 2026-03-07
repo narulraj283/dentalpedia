@@ -1,9 +1,9 @@
 ---
-title: Teeth Knocked Out: Critical First Hour Management
+title: "Teeth Knocked Out: Critical First Hour Management"
 slug: teeth-knocked-out-critical-first-hour
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Avulsed tooth emergency protocol, handling technique (crown only), optimal storage media (HBSS, milk, saliva), replantation technique, flexible splinting (7-10 days), antibiotic protocol, pulp prognosis by extra-oral time.
+excerpt: "Avulsed tooth emergency protocol, handling technique (crown only), optimal storage media (HBSS, milk, saliva), replantation technique, flexible."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Endodontist

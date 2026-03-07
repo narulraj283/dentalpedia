@@ -1,9 +1,9 @@
 ---
-title: Sinus Augmentation for Upper Dental Implants: Comprehensive Surgical Protocol and Patient Selection
+title: "Sinus Augmentation for Upper Dental Implants: Comprehensive Surgical Protocol and Patient Selection"
 slug: sinus-lift-surgery-for-upper-dental-implants
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Comprehensive approach to sinus augmentation including patient selection, CBCT planning, lateral vs transcrestal techniques, and criteria for simultaneous implant placement.
+excerpt: "Comprehensive approach to sinus augmentation including patient selection, CBCT planning, lateral vs transcrestal techniques, and criteria for."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

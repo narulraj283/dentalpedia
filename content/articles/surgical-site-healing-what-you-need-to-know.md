@@ -3,7 +3,7 @@ title: Healing After Oral Surgery - Day-by-Day Expectations and Patient Guide
 slug: surgical-site-healing-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Patient guide to postoperative healing phases, dietary modifications, activity restrictions, normal vs. concerning symptoms, and timeline for complete healing.
+excerpt: "Patient guide to postoperative healing phases, dietary modifications, activity restrictions, normal vs."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgeon

@@ -3,7 +3,7 @@ title: Risk and Concerns with Invisible Braces Benefits
 slug: risk-and-concerns-with-invisible-braces-benefits
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Examining clear aligner risks including poor compliance consequences, attachment failures, tracking problems, bite changes, and tendency toward posterior open bite development.
+excerpt: "Examining clear aligner risks including poor compliance consequences, attachment failures, tracking problems, bite changes, and tendency toward."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

@@ -3,7 +3,7 @@ title: Neonatal Teeth and Early Eruption in the First Month of Life
 slug: neonatal-teeth-teeth-erupting-in-first-month
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Comprehensive clinical overview of neonatal teeth definition, differentiation from natal teeth, management protocols, associated syndromes, and evidence-based parental counseling for teeth erupting within the first month of life.
+excerpt: "Comprehensive clinical overview of neonatal teeth definition, differentiation from natal teeth, management protocols, associated syndromes, and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Pediatric Dentistry

@@ -1,5 +1,5 @@
 ---
-title: Dental Health During Pregnancy: What You Need to Know
+title: "Dental Health During Pregnancy: What You Need to Know"
 slug: dental-health-during-pregnancy-special-considerations
 category: General Dentistry
 category_slug: general-dentistry
@@ -31,7 +31,7 @@ This isn't meant to scare you—it's meant to motivate you to maintain your oral
 
 ## When to Get Dental Work Done
 
-The safest time for elective dental treatment is the second trimester (weeks 14-20). During this window, the risk of miscarriage has decreased significantly, but you're not yet so large that lying back in the dental chair is uncomfortable. Emergency dental treatment (abscess, severe pain, infection) proceeds anytime during pregnancy—treating infection is safer for your baby than having infection progress untreated.
+The safest time for elective dental treatment is the second trimester (weeks 14-20). Learning more about [cavity formation process complete guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. During this window, the risk of miscarriage has decreased significantly, but you're not yet so large that lying back in the dental chair is uncomfortable. Emergency dental treatment (abscess, severe pain, infection) proceeds anytime during pregnancy—treating infection is safer for your baby than having infection progress untreated.
 
 First trimester: Avoid routine treatment unless essential. The baby's organs are forming; most dentists defer non-emergency work.
 
@@ -57,7 +57,7 @@ For severe pain, acetaminophen-codeine combination can be used short-term if abs
 
 Diagnostic periapical and bitewing X-rays expose your fetus to <0.01 mGy radiation—less than 1/100,000 of the teratogenic threshold dose (100-200 mGy). With thyroid shielding, dose is even lower. No increased adverse outcomes occur in offspring of mothers receiving necessary diagnostic radiographs during pregnancy when proper shielding is used. Delaying necessary radiographic diagnosis to treat infection/emergency poses greater risk than imaging itself.
 
-Panoramic radiographs are acceptable and deliver equivalent dose to periapical films. CBCT (cone beam CT) exceeds doses from intraoral imaging and should be reserved for surgical planning where benefit justifies exposure.
+Panoramic radiographs are acceptable and deliver equivalent dose to periapical films. Learning more about [demineralization and remineralization how cavity prevention works](/article/demineralization-and-remineralization-how-cavity-prevention-works.html) can help you understand this better. CBCT (cone beam CT) exceeds doses from intraoral imaging and should be reserved for surgical planning where benefit justifies exposure.
 
 ## Safe Fillings
 
@@ -88,6 +88,8 @@ Your maternal oral bacteria colonize your baby's mouth. Vertical transmission of
 Pregnancy causes 60-75% increase in gingivitis, 25-50% increase in cavity risk, and 2-3 fold increased preterm birth risk if periodontal disease exists. Treating gum disease reduces preterm birth risk 70-80%. Second trimester is ideal for preventive and necessary dental treatment. Local anesthetics, penicillin antibiotics, and acetaminophen are safe. X-rays with shielding pose negligible risk; delaying diagnosis poses greater risk. Enhanced home care (fluoride, improved hygiene, dietary modification) prevents cavities. Scaling and root planing treats gum disease safely. Postpartum, no medications preclude breastfeeding. Prenatal dental treatment supporting maternal health improves both immediate and long-term infant oral health.
 
 Talk to your OB/GYN and dentist about your pregnancy-specific dental care needs and create a plan supporting both your oral health and your baby's health.
+
+
 
 ## Related Articles You May Find Helpful
 

@@ -1,9 +1,9 @@
 ---
-title: Ankyloglossia (Tongue-Tie): Classification, Effects, and Surgical Release Options
+title: "Ankyloglossia (Tongue-Tie): Classification, Effects, and Surgical Release Options"
 slug: tongue-tie-ankyloglossia-effects-and-release
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Comprehensive clinical review of ankyloglossia classification systems, functional effects on feeding and speech, surgical release techniques including frenotomy and laser frenectomy, and post-operative care protocols.
+excerpt: "Comprehensive clinical review of ankyloglossia classification systems, functional effects on feeding and speech, surgical release techniques."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Pediatric Dentistry and Oral Surgery

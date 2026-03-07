@@ -1,9 +1,9 @@
 ---
-title: Gum Disease Treatment: Complete Guide
+title: "Gum Disease Treatment: Complete Guide"
 slug: gum-disease-treatment-complete-guide
 category: Periodontics
 category_slug: periodontics
-excerpt: Comprehensive evidence-based review of non-surgical and surgical periodontal treatment modalities with clinical outcomes and patient management strategies.
+excerpt: "If you've been diagnosed with gum disease, you probably want to know: Can it be fixed?"
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Periodontics

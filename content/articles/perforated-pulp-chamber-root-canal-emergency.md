@@ -3,7 +3,7 @@ title: Perforated Pulp Chamber—Clinical Classification, Management, and Progno
 slug: perforated-pulp-chamber-root-canal-emergency
 category: Endodontics
 category_slug: endodontics
-excerpt: Understand pulp chamber perforations etiology, classification by location, MTA and Biodentine repair protocols, and factors influencing endodontic prognosis and treatment outcomes.
+excerpt: "Understand pulp chamber perforations etiology, classification by location, MTA and Biodentine repair protocols, and factors influencing endodontic."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Endodontics

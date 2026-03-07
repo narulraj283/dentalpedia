@@ -1,9 +1,9 @@
 ---
-title: Professional Whitening Cost: Investment vs Over-the-Counter
+title: "Professional Whitening Cost: Investment vs Over-the-Counter"
 slug: professional-whitening-cost-investment
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Professional in-office whitening (35% hydrogen peroxide, immediate results) and custom take-home trays offer superior shade achievement and longevity compared to consumer products at significantly higher cost.
+excerpt: "Professional in-office whitening (35% hydrogen peroxide, immediate results) and custom take-home trays offer superior shade achievement and longevity."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic and Esthetic Dentistry

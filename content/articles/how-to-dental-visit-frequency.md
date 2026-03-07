@@ -37,7 +37,7 @@ Your dentist assesses your risk by looking at several factors. Have you had cavi
 
 **Low-risk patients** have no cavities in the past few years, good oral hygiene, low sugar intake, healthy gums, and no significant risk factors. If that's you, you might visit the dentist just once a year or even every 18 months. You're doing well and don't need frequent monitoring.
 
-**Moderate-risk patients** have had one or two cavities recently, or have minor gum disease, or have habits that increase risk (like regular soda consumption). If this is you, the standard six-month visit is right for you. This frequency lets your dentist catch early problems before they become serious.
+**Moderate-risk patients** have had one or two cavities recently, or have minor gum disease, or have habits that increase risk (like regular soda consumption). Learning more about [extrusion tooth pulled out slightly](/article/extrusion-tooth-pulled-out-slightly.html) can help you understand this better. If this is you, the standard six-month visit is right for you. This frequency lets your dentist catch early problems before they become serious.
 
 **High-risk patients** have had multiple cavities, active gum disease, dry mouth, smoke, or have systemic disease like uncontrolled diabetes. High-risk patients benefit from visiting every three to four months. This frequent monitoring lets your dentist apply protective treatments (like stronger fluoride) and catch problems early.
 
@@ -73,6 +73,14 @@ Elderly patients with gum disease or dry mouth often benefit from every three-mo
 
 Pregnant women are at higher risk for gum disease ("pregnancy gingivitis"), so more frequent visits during pregnancy help prevent problems that can affect both mother and baby.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about dental visit frequency and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
 ## Conclusion
 
 The six-month check-up is a good default, but your actual ideal visit frequency depends on your individual risk. Low-risk patients might visit annually. High-risk patients benefit from quarterly visits. Your dentist can assess your risk and recommend the frequency that makes sense for you. Regular preventive visits, at whatever frequency is appropriate for your situation, keep your teeth healthy and catch problems before they become expensive.
@@ -80,6 +88,8 @@ The six-month check-up is a good default, but your actual ideal visit frequency 
 ## Key Takeaway
 
 Visit your dentist at intervals matched to your risk level: annually for low-risk patients, every six months for moderate risk, and every three to four months for high-risk patients. More frequent visits actually save money by preventing serious problems.
+
+
 
 ## Related Articles
 

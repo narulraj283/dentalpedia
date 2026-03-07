@@ -3,7 +3,7 @@ title: Smile Makeover Planning - What You Need to Know as a Patient
 slug: smile-makeover-planning-what-you-need-to-know
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Patient guide to smile makeover planning, understanding timelines, appointment frequency, temporary teeth phases, and realistic expectations about transformation timelines and results.
+excerpt: "Patient guide to smile makeover planning, understanding timelines, appointment frequency, temporary teeth phases, and realistic expectations about."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

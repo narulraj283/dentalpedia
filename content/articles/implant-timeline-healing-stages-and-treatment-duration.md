@@ -1,9 +1,9 @@
 ---
-title: Implant Timeline: Healing Stages and Treatment Duration
+title: "Implant Timeline: Healing Stages and Treatment Duration"
 slug: implant-timeline-healing-stages-and-treatment-duration
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Dental implant treatment extends 6-18 months from tooth extraction through final restoration. Understanding osseointegration stages, bone healing phases, and factors modifying timelines enables realistic patient expectations.
+excerpt: "Dental implant treatment extends 6-18 months from tooth extraction through final restoration."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

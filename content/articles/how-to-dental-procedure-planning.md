@@ -1,9 +1,9 @@
 ---
-title: Dental Procedure Planning: Your Roadmap to Better Oral Health
+title: "Dental Procedure Planning: Your Roadmap to Better Oral"
 slug: how-to-dental-procedure-planning
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Understanding how your dentist plans your treatment helps you know what to expect, why certain procedures come first, and how long your dental health journey takes.
+excerpt: "When your dentist says you need multiple procedures, you might wonder: why can't we just do everything at once?"
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

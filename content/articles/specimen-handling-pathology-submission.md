@@ -3,7 +3,7 @@ title: Specimen Handling and Pathology Submission - Proper Protocols for Oral Bi
 slug: specimen-handling-pathology-submission
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Proper biopsy specimen handling, formalin fixation, labeling protocols, and orientation marking ensure accurate pathologic diagnosis and prevent common submission errors that compromise diagnostic accuracy.
+excerpt: "Proper biopsy specimen handling, formalin fixation, labeling protocols, and orientation marking ensure accurate pathologic diagnosis and prevent."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery

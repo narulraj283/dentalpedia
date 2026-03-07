@@ -1,9 +1,9 @@
 ---
-title: Milk vs Juice: Healthier Drink Choices
+title: "Milk vs Juice: Healthier Drink Choices"
 slug: milk-vs-juice-healthier-drink-choices
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Comparative analysis of milk and juice regarding dental health, demonstrating milk's caries-protective benefits versus juice's acidogenic and demineralizing effects.
+excerpt: "Comparative analysis of milk and juice regarding dental health, demonstrating milk's caries-protective benefits versus juice's acidogenic and."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

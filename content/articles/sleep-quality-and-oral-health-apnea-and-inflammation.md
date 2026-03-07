@@ -1,9 +1,9 @@
 ---
-title: Sleep Quality and Oral Health: Sleep Apnea and Inflammation
+title: "Sleep Quality and Oral Health: Sleep Apnea and Inflammation"
 slug: sleep-quality-and-oral-health-apnea-and-inflammation
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Bidirectional relationships between sleep and oral health involve systemic inflammation, periodontal disease association, xerostomia, and mouth breathing effects; sleep disruption exacerbates oral inflammation.
+excerpt: "Bidirectional relationships between sleep and oral health involve systemic inflammation, periodontal disease association, xerostomia, and mouth."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Sleep Medicine Dentistry

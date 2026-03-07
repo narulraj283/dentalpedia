@@ -1,5 +1,5 @@
 ---
-title: Teeth Whitening for Sensitive Teeth: Safe Approaches and Desensitizing Strategies
+title: "Teeth Whitening for Sensitive Teeth: Safe Approaches and Desensitizing Strategies"
 slug: teeth-whitening-for-sensitive-teeth-safe-approaches
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry

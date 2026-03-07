@@ -30,7 +30,7 @@ This is the biggest factor. Simple cases (minor crowding, good bite) finish in 1
 
 The difference is that complex cases need more time for each stage of treatment. Plus complex cases often need specialized techniques or even surgery, which adds time.
 
-When your orthodontist estimates treatment duration, ask about case complexity. Be realistic about what you're dealing with.
+When your orthodontist estimates treatment duration, ask about case complexity. Learning more about [cost of orthodontic compliance](/article/cost-of-orthodontic-compliance.html) can help you understand this better. Be realistic about what you're dealing with.
 
 ## Bracket System Matters
 
@@ -100,9 +100,19 @@ People often forget that after active orthodontic treatment finishes, the retent
 
 Budget an additional $500-1,000 over the first 1-2 years after treatment finishes for retainer maintenance. Some patients underestimate this phase, leading to relapse (teeth shifting back) that requires re-treatment—far more expensive than initial treatment.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about orthodontic treatment duration and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
 ## Conclusion
 
 Orthodontic treatment typically takes 24-28 months; each extra month costs $100-150. Case complexity, bracket system, appointment frequency, and patient compliance all affect duration. [Learn about compliance](/article/cost-of-orthodontic-compliance.html) to understand how your choices affect timeline. Ask your orthodontist for realistic duration estimates for your specific case.
+
+
 
 ## Related Articles You May Find Helpful
 

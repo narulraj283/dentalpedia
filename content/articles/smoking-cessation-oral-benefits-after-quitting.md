@@ -3,7 +3,7 @@ title: Smoking Cessation - Oral Benefits After Quitting
 slug: smoking-cessation-oral-benefits-after-quitting
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Within weeks of smoking cessation, gingival blood flow recovers, taste sensation restores, and oral cancer risk begins declining—creating powerful motivation for quitting.
+excerpt: "Within weeks of smoking cessation, gingival blood flow recovers, taste sensation restores, and oral cancer risk begins declining—creating powerful."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

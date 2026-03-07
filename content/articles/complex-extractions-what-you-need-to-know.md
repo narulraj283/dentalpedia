@@ -1,5 +1,5 @@
 ---
-title: Complex Extractions: What You Need to Know
+title: "Complex Extractions: What You Need to Know"
 slug: complex-extractions-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery
@@ -29,7 +29,7 @@ If your dentist says you need a complex extraction, you're probably wondering wh
 
 Your extraction might be complex if: the tooth is impacted (stuck under bone or gums), roots are severely curved or hooked, the tooth is attached to your sinus (in the upper jaw), the root is very close to your mandibular nerve (in the lower jaw), or you have medical conditions (blood thinners, weak immune system, or medications like bisphosphonates).
 
-Even if your general dentist could technically extract the tooth, they might refer you to an oral surgeon because surgeons have more training with difficult cases and better technology to manage complications. This isn't a sign of catastrophe—it's good clinical judgment.
+Even if your general dentist could technically extract the tooth, they might refer you to an oral surgeon because surgeons have more training with difficult cases and better technology to manage complications. Learning more about [complex extractions complete guide](/article/complex-extractions-complete-guide.html) can help you understand this better. This isn't a sign of catastrophe—it's good clinical judgment.
 
 ## Before Your Extraction: Preparation
 
@@ -75,7 +75,7 @@ If you develop dry socket, you'll notice severe throbbing pain 3-4 days post-op 
 
 ## Temporary Nerve Numbness
 
-About 3-5% of complex extractions result in temporary numbness of lower lip or chin (from temporary mandibular nerve irritation). This usually resolves within 3-6 months as swelling reduces and compression releases. Permanent nerve damage is rare (0.4-2%).
+About 3-5% of complex extractions result in temporary numbness of lower lip or chin (from temporary mandibular nerve irritation). Learning more about [common misconceptions about tooth extraction recovery](/article/common-misconceptions-about-tooth-extraction-recovery.html) can help you understand this better. This usually resolves within 3-6 months as swelling reduces and compression releases. Permanent nerve damage is rare (0.4-2%).
 
 If numbness develops, protect your numb lip—you might bite it without realizing. Most people report improvement by 2-3 months.
 
@@ -108,6 +108,8 @@ Normal postoperative progression: swelling peaks day 2-3, bruising peaks day 4-5
 ## Conclusion
 
 Complex extractions have longer operative times and recovery compared to simple extractions, but complication rates are low (2-3%) with proper technique. Realistic expectations about pain, swelling, and bruising help you prepare mentally. Most people recover well and can return to normal function within 7-14 days.
+
+
 
 ## Related Articles You May Find Helpful
 

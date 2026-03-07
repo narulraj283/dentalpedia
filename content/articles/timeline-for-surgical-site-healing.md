@@ -1,9 +1,9 @@
 ---
-title: Oral Surgical Site Healing: Phases, Timeline, Biological Mechanisms, and Factors Affecting Wound Healing
+title: "Oral Surgical Site Healing: Phases, Timeline, Biological Mechanisms, and Factors Affecting Wound Healing"
 slug: timeline-for-surgical-site-healing
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Oral surgical wounds progress through distinct healing phases—hemostasis, inflammation, proliferation, and remodeling—each requiring specific tissue responses and environmental conditions for optimal outcomes.
+excerpt: "Oral surgical wounds progress through distinct healing phases—hemostasis, inflammation, proliferation, and remodeling—each requiring specific tissue."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

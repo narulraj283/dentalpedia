@@ -1,9 +1,9 @@
 ---
-title: Sleep Position and Jaw Health: Effects on Temporomandibular Health
+title: "Sleep Position and Jaw Health: Effects on Temporomandibular Health"
 slug: sleep-position-and-jaw-health
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Sleep posture significantly impacts temporomandibular joint loading and airway patency; lateral recumbent positioning optimizes jaw health while stomach sleeping promotes jaw deviation and airway obstruction.
+excerpt: "Sleep posture significantly impacts temporomandibular joint loading and airway patency; lateral recumbent positioning optimizes jaw health while."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Sleep Medicine Dentistry

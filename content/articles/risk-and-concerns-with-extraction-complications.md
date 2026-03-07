@@ -3,7 +3,7 @@ title: "Risk and Concerns with Extraction Complications: Root Fracture, Dry Sock
 slug: risk-and-concerns-with-extraction-complications
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Understanding the spectrum of dental extraction complications including root fracture, alveolar osteitis, hemorrhage, inferior alveolar nerve injury, sinus perforation, and infection, with prevention and management strategies."
+excerpt: "Understanding the spectrum of dental extraction complications including root fracture, alveolar osteitis, hemorrhage, inferior alveolar nerve injury,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

@@ -1,9 +1,9 @@
 ---
-title: Incisor Alignment: Treating Rotated Front Teeth
+title: "Incisor Alignment: Treating Rotated Front Teeth"
 slug: incisor-alignment-treating-rotated-front-teeth
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Incisor rotation correction employs sequential mechanics, counter-rotational forces, and root torque control to establish proper axial inclination, optimizing anterior esthetics, functional occlusion, and long-term stability.
+excerpt: "Incisor rotation correction employs sequential mechanics, counter-rotational forces, and root torque control to establish proper axial inclination,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

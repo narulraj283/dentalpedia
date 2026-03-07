@@ -3,7 +3,7 @@ title: "Leukoplakia and Erythroplakia: Precancerous Lesions"
 slug: leukoplakia-and-erythroplakia-precancerous-lesions
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Comprehensive clinical examination of oral leukoplakia and erythroplakia, including epidemiology, malignant transformation pathways, dysplasia classification systems, biopsy protocols, management algorithms, and long-term surveillance strategies for precancerous lesions.
+excerpt: "Comprehensive clinical examination of oral leukoplakia and erythroplakia, including epidemiology, malignant transformation pathways, dysplasia."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

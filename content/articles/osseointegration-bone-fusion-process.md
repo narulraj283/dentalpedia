@@ -1,9 +1,9 @@
 ---
-title: Osseointegration: The Bone Fusion Process
+title: "Osseointegration: The Bone Fusion Process"
 slug: osseointegration-bone-fusion-process
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Discover how titanium implants fuse with bone through cellular remodeling, the pivotal discovery that revolutionized dentistry, and factors determining success.
+excerpt: "Discover how titanium implants fuse with bone through cellular remodeling, the pivotal discovery that revolutionized dentistry, and factors."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Implant Prosthodontist

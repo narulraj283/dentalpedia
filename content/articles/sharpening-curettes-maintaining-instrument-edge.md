@@ -1,9 +1,9 @@
 ---
-title: Sharpening Curettes: Maintaining Instrument Edge and Proper Technique
+title: "Sharpening Curettes: Maintaining Instrument Edge and Proper Technique"
 slug: sharpening-curettes-maintaining-instrument-edge
 category: Periodontics
 category_slug: periodontics
-excerpt: Proper curette sharpening technique is essential for efficient scaling, reduced operator fatigue, and optimal clinical outcomes. Understanding stone selection, testing sharpness, and maintaining blade angulation ensures reliable instrument performance.
+excerpt: "Proper curette sharpening technique is essential for efficient scaling, reduced operator fatigue, and optimal clinical outcomes."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Periodontist

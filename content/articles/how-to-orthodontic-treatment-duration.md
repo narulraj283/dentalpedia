@@ -1,9 +1,9 @@
 ---
-title: Orthodontic Treatment Duration: Timeline Prediction, Phase Progression, and Factors Affecting Treatment Length
+title: "Orthodontic Treatment Duration: Timeline Prediction, Phase Progression, and Factors Affecting Treatment Length"
 slug: how-to-orthodontic-treatment-duration
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive analysis of factors determining treatment duration, typical timelines for various malocclusion severities, phase-specific duration estimates, and variables extending or shortening treatment.
+excerpt: "Comprehensive analysis of factors determining treatment duration, typical timelines for various malocclusion severities, phase-specific duration."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

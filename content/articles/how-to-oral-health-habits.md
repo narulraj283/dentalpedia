@@ -3,7 +3,7 @@ title: Building Optimal Oral Health Habits for Lifelong Dental Wellness
 slug: how-to-oral-health-habits
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based oral health habits including mechanical plaque removal, dietary modifications, and behavioral strategies to prevent periodontal disease and dental caries.
+excerpt: "Evidence-based oral health habits including mechanical plaque removal, dietary modifications, and behavioral strategies to prevent periodontal."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

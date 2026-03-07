@@ -1,9 +1,9 @@
 ---
-title: Crown Material Selection for Esthetic Zones: Comprehensive Comparison of PFM, All-Ceramic, and Advanced Compositions
+title: "Crown Material Selection for Esthetic Zones: Comprehensive Comparison of PFM, All-Ceramic, and Advanced Compositions"
 slug: timeline-for-cosmetic-crown-selection
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Optimal crown material selection for anterior teeth balances esthetic demands with strength requirements, longevity data, and material-specific handling characteristics across PFM, lithium disilicate, zirconia, and gold options.
+excerpt: "Optimal crown material selection for anterior teeth balances esthetic demands with strength requirements, longevity data, and material-specific."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontics

@@ -1,5 +1,5 @@
 ---
-title: Extraction Complications: Patient Guide to Recognition and Recovery
+title: "Extraction Complications: Patient Guide to Recognition and"
 slug: extraction-complications-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery
@@ -27,7 +27,7 @@ Most people do fine after having a tooth extracted. But it's important to know w
 
 ## Your Normal Recovery Timeline
 
-The first 24 hours are when you might see some bleeding. A little oozing is completely normal. Swelling usually peaks around day 2 or 3, then gradually gets better over the next 1 to 2 weeks. Pain is worst for the first 2 to 3 days, then improves. Most people only need pain medication for a few days.
+The first 24 hours are when you might see some bleeding. Learning more about [reimplanted teeth salvaging avulsed permanent teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html) can help you understand this better. A little oozing is completely normal. Swelling usually peaks around day 2 or 3, then gradually gets better over the next 1 to 2 weeks. Pain is worst for the first 2 to 3 days, then improves. Most people only need pain medication for a few days.
 
 You'll see pink tissue filling the socket starting around day 5 to 7. This is good—it means healing is happening. The socket completely fills in over 2 to 4 weeks, and the bone underneath keeps healing for 3 to 6 months.
 
@@ -59,7 +59,7 @@ Call your dentist right away if you develop a fever over 101°F, if swelling get
 
 Sometimes after extraction, especially wisdom teeth, you might notice numbness or tingling in your lower lip, chin, or tongue. This happens because the nearby nerve got stretched or bumped.
 
-Most of the time, this feeling comes back on its own within 3 to 6 months. Only a very small percentage of people have permanent numbness. Tell your dentist if this happens so they can document it and keep an eye on it. They might test the area to see how bad it is.
+Most of the time, this feeling comes back on its own within 3 to 6 months. Learning more about [dental abscess infection and urgent treatment](/article/dental-abscess-infection-and-urgent-treatment.html) can help you understand this better. Only a very small percentage of people have permanent numbness. Tell your dentist if this happens so they can document it and keep an eye on it. They might test the area to see how bad it is.
 
 ## Bone Problems
 
@@ -98,6 +98,8 @@ These things don't need an emergency call but should be mentioned at your next a
 ## Conclusion
 
 Most people heal just fine after extraction. Knowing what's normal helps you take good care of yourself and know when to call your dentist. If something doesn't seem right, don't hesitate to contact them.
+
+
 
 ## Related Articles You May Find Helpful
 

@@ -3,7 +3,7 @@ title: How Fast Do Teeth Move? Patient Timeline Guide for Orthodontic Treatment
 slug: teeth-movement-speed-what-you-need-to-know
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Realistic timelines for common orthodontic corrections, factors that speed or slow treatment, compliance strategies, and when accelerated options might be appropriate.
+excerpt: "Realistic timelines for common orthodontic corrections, factors that speed or slow treatment, compliance strategies, and when accelerated options."
 date: 2026-03-05
 read_time: 7 min
 reviewer_specialty: Orthodontist

@@ -1,5 +1,5 @@
 ---
-title: Cognitive Behavioral Therapy for Dental Anxiety: Evidence-Based Protocols and Clinical Outcomes
+title: "Cognitive Behavioral Therapy for Dental Anxiety:"
 slug: cognitive-behavioral-therapy-for-dental-fear
 category: General Dentistry
 category_slug: general-dentistry

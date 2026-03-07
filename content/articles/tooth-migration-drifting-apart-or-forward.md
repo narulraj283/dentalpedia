@@ -1,9 +1,9 @@
 ---
-title: Tooth Migration and Drifting: Causes and Treatment
+title: "Tooth Migration and Drifting: Causes and Treatment"
 slug: tooth-migration-drifting-apart-or-forward
 category: Periodontics
 category_slug: periodontics
-excerpt: Pathologic tooth migration causes including bone loss and occlusal imbalance, assessment methods, periodontal treatment protocols, orthodontic correction, and retention strategies.
+excerpt: "Pathologic tooth migration causes including bone loss and occlusal imbalance, assessment methods, periodontal treatment protocols, orthodontic."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontics

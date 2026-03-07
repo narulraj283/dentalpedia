@@ -1,9 +1,9 @@
 ---
-title: Endodontic File Taper and Cone Shape: Clinical Selection and Applications
+title: "Endodontic File Taper and Cone Shape: Clinical Selection"
 slug: taper-file-cone-shape
 category: Endodontics
 category_slug: endodontics
-excerpt: Comprehensive analysis of ISO taper standards, variable taper designs, coronal flare techniques, and clinical application principles for efficient root canal shaping.
+excerpt: "Comprehensive analysis of ISO taper standards, variable taper designs, coronal flare techniques, and clinical application principles for efficient."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Endodontics
@@ -11,26 +11,7 @@ subcategory: Endodontic Overview
 subcategory_slug: overview-endo
 reviewed: true
 references:
-  - title: "Weine FS, Healey HJ, Gerstein H, et al. Preperation of the canal orifice. Part I. International Endodontic Journal. 1970;4(4):2-11."
-    url: https://pubmed.ncbi.nlm.nih.gov/4248906
-  - title: "Roane JB, Sabala CL, Duncanson MG. The "balanced force" concept for instrumentation of curved canals. Journal of Endodontics. 1985;11(5):203-211."
-    url: https://pubmed.ncbi.nlm.nih.gov/3859850
-  - title: "West JD. The endodontic air-abrasion system. Journal of Endodontics. 1989;15(12):541-545."
-    url: https://pubmed.ncbi.nlm.nih.gov/2639949
-  - title: "Glosson CR, Llena C, Ibarrola JL. Comparison of automatic and hand instrumentation techniques in curved canals. Journal of Endodontics. 1995;21(3):143-147."
-    url: https://pubmed.ncbi.nlm.nih.gov/7545649
-  - title: "Crump MC, Natkin E. Periodontally related root morphology. Journal of Periodontology. 1970;41(3):124-131."
-    url: https://pubmed.ncbi.nlm.nih.gov/4248906
-  - title: "Hülsmann M, Peters OA, Dummer PM. Mechanical preparation of root canals: shaping goals, techniques, means. Endodontic Topics. 2005;10(1):30-76."
-    url: https://pubmed.ncbi.nlm.nih.gov/16301905
-  - title: "Walton R, Torabinejad M. Principles and Practice of Endodontics. 4th ed. Philadelphia: W.B. Saunders; 2009."
-    url: https://pubmed.ncbi.nlm.nih.gov/19627506
-  - title: "Peters OA, Schönenberger K, Laib A. Effects of four Ni-Ti preparation techniques on root canal geometry assessed by micro computed tomography. International Endodontic Journal. 2001;34(3):221-230."
-    url: https://pubmed.ncbi.nlm.nih.gov/11437244
-  - title: "Gluskin AH, Brown DC, Buchanan LS. A reconstructed computerized tomographic comparison of Ni-Ti rotary GT files versus traditional instruments in curved molar canals. Journal of Endodontics. 2001;27(3):168-176."
-    url: https://pubmed.ncbi.nlm.nih.gov/11487133
-  - title: "Boomer K, Gluskin AH, Buchanan LS. Contemporary Endodontic Instrumentation: rotary NiTi systems. Journal of Contemporary Dental Practice. 2004;5(1):84-98."
-    url: https://pubmed.ncbi.nlm.nih.gov/14981318
+  - "title: 'Weine FS, Healey HJ, Gerstein H, et al. Preperation of the canal orifice. Part I. International Endodontic Journal. 1970;4(4):2-11."
 ---
 
 ## Introduction: Taper and Cone Fundamentals

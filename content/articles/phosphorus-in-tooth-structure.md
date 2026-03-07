@@ -3,7 +3,7 @@ title: Phosphorus in Tooth Structure and Enamel Health
 slug: phosphorus-in-tooth-structure
 category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: Phosphorus comprises critical mineral composition of hydroxyapatite in enamel and dentin, with dietary calcium-phosphorus ratios and adequate intake essential for tooth development and maintenance.
+excerpt: "Phosphorus comprises critical mineral composition of hydroxyapatite in enamel and dentin, with dietary calcium-phosphorus ratios and adequate intake."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

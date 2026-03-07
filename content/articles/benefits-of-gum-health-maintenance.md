@@ -6,7 +6,7 @@ category_slug: preventive-care
 subcategory: Periodontal Maintenance
 subcategory_slug: periodontal-maintenance
 reviewer_specialty: Periodontics
-excerpt: Comprehensive clinical protocol for supportive periodontal therapy including components, recall intervals risk-based scheduling, site-specific retreatment decisions, and compliance optimization strategies for treated periodontitis patients.
+excerpt: "If you've been treated for gum disease, you're not done once the treatment ends."
 date: 2026-03-05
 read_time: 8 min
 reviewed: true
@@ -194,5 +194,5 @@ Supportive periodontal therapy represents mandatory long-term phase for all peri
 - [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
 
 
-> **Key Takeaway:** Understanding benefits of gum health maintenance helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** If you've been treated for gum disease, you're not done once the treatment ends. Your dentist can help you understand what steps are right for your specific needs.
 

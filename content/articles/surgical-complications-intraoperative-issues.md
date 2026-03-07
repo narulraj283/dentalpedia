@@ -3,7 +3,7 @@ title: Intraoperative Surgical Complications - Immediate Recognition and Managem
 slug: surgical-complications-intraoperative-issues
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Clinical protocols for managing root fracture, displaced roots, hemorrhage, instrument breakage, soft tissue trauma, and sinus perforation during oral surgery.
+excerpt: "Clinical protocols for managing root fracture, displaced roots, hemorrhage, instrument breakage, soft tissue trauma, and sinus perforation during."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgeon

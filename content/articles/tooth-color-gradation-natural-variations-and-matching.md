@@ -3,7 +3,7 @@ title: Tooth Color Gradation and Natural Variations - Clinical Guide to Color Ma
 slug: tooth-color-gradation-natural-variations-and-matching
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Understand natural tooth color variation including incisal translucency, cervical chroma, and polychromatic effects for accurate shade matching in cosmetic procedures.
+excerpt: "Understand natural tooth color variation including incisal translucency, cervical chroma, and polychromatic effects for accurate shade matching in."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

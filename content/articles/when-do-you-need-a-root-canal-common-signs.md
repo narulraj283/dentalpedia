@@ -3,7 +3,7 @@ title: When Do You Need a Root Canal? Common Signs and Diagnosis
 slug: when-do-you-need-a-root-canal-common-signs
 category: Endodontics
 category_slug: endodontics
-excerpt: Root canal treatment is indicated by spontaneous pain, lingering cold sensitivity (>30 sec), periapical radiolucency, swelling, or pulpal necrosis confirmed by diagnostic testing and radiographic findings.
+excerpt: "Root canal treatment is indicated by spontaneous pain, lingering cold sensitivity (>30 sec), periapical radiolucency, swelling, or pulpal necrosis."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Endodontics

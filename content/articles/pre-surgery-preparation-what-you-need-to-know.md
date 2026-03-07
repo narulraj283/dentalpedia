@@ -3,7 +3,7 @@ title: Preparing for Oral Surgery - Patient Guide to Pre-Surgery Instructions
 slug: pre-surgery-preparation-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Patient-focused pre-surgery guidance covering medication adjustments, fasting requirements, transportation arrangements, post-operative comfort preparation, and day-of instructions optimizes surgical outcomes and patient satisfaction.
+excerpt: "Patient-focused pre-surgery guidance covering medication adjustments, fasting requirements, transportation arrangements, post-operative comfort."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery

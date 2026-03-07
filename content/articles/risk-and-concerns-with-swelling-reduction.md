@@ -3,7 +3,7 @@ title: Post-Surgical Swelling Management and Pharmacologic Risk Considerations
 slug: risk-and-concerns-with-swelling-reduction
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Management of post-surgical swelling with analysis of corticosteroid risks, NSAID contraindications, ice therapy limitations, lymphatic drainage concerns, and allergic reaction potential.
+excerpt: "Management of post-surgical swelling with analysis of corticosteroid risks, NSAID contraindications, ice therapy limitations, lymphatic drainage."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery

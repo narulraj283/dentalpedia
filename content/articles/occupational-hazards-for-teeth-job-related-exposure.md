@@ -3,7 +3,7 @@ title: Occupational Hazards for Teeth—Job-Related Exposure and Protective Stra
 slug: occupational-hazards-for-teeth-job-related-exposure
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Workplace environments expose teeth to chemical erosion, mechanical damage, and contamination risks requiring industry-specific protective and maintenance strategies.
+excerpt: "Workplace environments expose teeth to chemical erosion, mechanical damage, and contamination risks requiring industry-specific protective and."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

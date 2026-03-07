@@ -3,7 +3,7 @@ title: Why Teeth Movement Speed Matters
 slug: why-teeth-movement-speed-matters
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Clinical analysis of orthodontic movement velocity, acceleration protocols, and evidence regarding treatment duration optimization while maintaining biological safety.
+excerpt: "Clinical analysis of orthodontic movement velocity, acceleration protocols, and evidence regarding treatment duration optimization while maintaining."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Orthodontics

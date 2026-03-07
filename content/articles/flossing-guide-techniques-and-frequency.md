@@ -1,5 +1,5 @@
 ---
-title: Flossing Guide: Techniques and Frequency
+title: "Flossing Guide: Techniques and Frequency"
 slug: flossing-guide-techniques-and-frequency
 category: Preventive Care
 category_slug: preventive-care
@@ -27,7 +27,7 @@ references:
 
 Daily flossing is the gold standard for keeping your teeth healthy. Your bacteria need about 24 to 48 hours to rebuild their dangerous organized structure after you disrupt it by flossing. Daily flossing keeps stopping them before they can reorganize. If you floss twice a day, you don't gain much extra benefit—once daily is enough.
 
-If daily flossing seems overwhelming, even alternate-day flossing (about 3-4 times per week) provides substantial protection. Research shows it gives you about 70 to 80 percent of the benefit of daily flossing. Even flossing just twice a week provides some protection, though it's less effective. The best flossing schedule is the one you'll actually stick with consistently—something you do regularly beats perfect flossing you never do.
+If daily flossing seems overwhelming, even alternate-day flossing (about 3-4 times per week) provides substantial protection. Learning more about [flossing benefits complete guide](/article/flossing-benefits-complete-guide.html) can help you understand this better. Research shows it gives you about 70 to 80 percent of the benefit of daily flossing. Even flossing just twice a week provides some protection, though it's less effective. The best flossing schedule is the one you'll actually stick with consistently—something you do regularly beats perfect flossing you never do.
 
 ## The Correct Flossing Technique
 
@@ -55,7 +55,7 @@ The real key to success is making flossing a habit. Try incorporating it into so
 
 ## If You Have Difficulty with Traditional Floss
 
-If arthritis makes traditional flossing hard, floss holders let you manage the floss with one hand. If you have braces or an implant, floss threaders help you get around the equipment. If your spaces between teeth are wider (common with age or gum disease), interdental brushes—tiny brushes designed for tooth spaces—often work better than traditional floss.
+If arthritis makes traditional flossing hard, floss holders let you manage the floss with one hand. Learning more about [oral irrigators do water flossers really work](/article/oral-irrigators-do-water-flossers-really-work.html) can help you understand this better. If you have braces or an implant, floss threaders help you get around the equipment. If your spaces between teeth are wider (common with age or gum disease), interdental brushes—tiny brushes designed for tooth spaces—often work better than traditional floss.
 
 Water irrigators use a pressurized water stream to clean between teeth. They're not quite as effective as mechanical flossing at removing plaque in tight spaces, but they work reasonably well and many people find them easier to use. Some people use them as supplemental cleaning along with traditional flossing.
 
@@ -84,6 +84,8 @@ Proper technique should never cause significant pain or tissue damage. If flossi
 Daily flossing using the C-shaped gentle technique is your best bet for keeping the spaces between your teeth clean. Whether you use traditional floss, ribbon, tape, or an alternative device, the important thing is finding a method you'll use consistently. Most people find that flossing becomes automatic after a week or two of daily practice.
 
 Ask your dentist to watch you floss and give you feedback on your technique. They can also help you choose the best flossing tool for your specific teeth and situation.
+
+
 
 ## Related Articles You May Find Helpful
 

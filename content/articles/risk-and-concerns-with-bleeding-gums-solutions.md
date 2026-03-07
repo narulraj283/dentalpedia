@@ -3,7 +3,7 @@ title: Risk and Concerns with Bleeding Gums Solutions
 slug: risk-and-concerns-with-bleeding-gums-solutions
 category: Periodontics
 category_slug: periodontics
-excerpt: Gingival bleeding represents a critical diagnostic indicator of periodontal inflammation, gingivitis, or systemic disease requiring proper differential diagnosis and evidence-based management.
+excerpt: "Gingival bleeding represents a critical diagnostic indicator of periodontal inflammation, gingivitis, or systemic disease requiring proper."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontics

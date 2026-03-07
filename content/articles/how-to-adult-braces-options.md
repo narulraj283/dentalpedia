@@ -3,7 +3,7 @@ title: "Adult Braces: Options and Treatment Planning"
 slug: how-to-adult-braces-options
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive review of orthodontic options for adult patients including fixed appliances, clear aligners, lingual braces, and treatment considerations specific to mature dentition.
+excerpt: "It's never too late to straighten your teeth. Today, about 1 in 4 orthodontic patients are adults, and the options available are better than ever."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

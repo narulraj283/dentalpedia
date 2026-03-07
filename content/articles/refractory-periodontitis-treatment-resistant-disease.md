@@ -3,7 +3,7 @@ title: Refractory Periodontitis and Treatment-Resistant Periodontal Disease
 slug: refractory-periodontitis-treatment-resistant-disease
 category: Periodontics
 category_slug: periodontics
-excerpt: Refractory periodontitis represents periodontal disease that fails to respond to conventional therapy, often involving antibiotic-resistant bacteria, inadequate host response, or uncontrolled systemic factors requiring advanced diagnostic and therapeutic strategies.
+excerpt: "Refractory periodontitis represents periodontal disease that fails to respond to conventional therapy, often involving antibiotic-resistant bacteria,."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontics

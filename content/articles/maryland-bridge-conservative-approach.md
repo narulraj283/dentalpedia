@@ -1,9 +1,9 @@
 ---
-title: Maryland Bridge: Conservative Approach
+title: "Maryland Bridge: Conservative Approach"
 slug: maryland-bridge-conservative-approach
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Resin-bonded bridge design, abutment preparation strategies, and clinical outcomes in contemporary single-tooth replacement without abutment crown coverage.
+excerpt: "Resin-bonded bridge design, abutment preparation strategies, and clinical outcomes in contemporary single-tooth replacement without abutment crown."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -1,11 +1,11 @@
 ---
-title: Oral Appliance for Sleep Apnea: MAD Therapy
+title: "Oral Appliance for Sleep Apnea: MAD Therapy"
 slug: oral-appliance-for-sleep-apnea-mad-therapy
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
 subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
-excerpt: Mandibular advancement devices represent effective, non-invasive treatment options for obstructive sleep apnea, particularly in mild-to-moderate cases or patients unable to tolerate continuous positive airway pressure therapy.
+excerpt: "Mandibular advancement devices represent effective, non-invasive treatment options for obstructive sleep apnea, particularly in mild-to-moderate."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -3,7 +3,7 @@ title: Why Aligner Wear Schedule Compliance Matters in Orthodontics
 slug: why-aligner-wear-schedule-matters
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Understand the critical importance of 22-hour daily wear compliance for clear aligner treatment success, including tracking accuracy, force delivery, and treatment extension risks.
+excerpt: "Understand the critical importance of 22-hour daily wear compliance for clear aligner treatment success, including tracking accuracy, force delivery,."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

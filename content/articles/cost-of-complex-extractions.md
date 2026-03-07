@@ -27,7 +27,7 @@ Not all tooth extractions are simple. Some teeth are stuck (impacted), heavily d
 
 ## Simple vs. Complex Extractions
 
-A simple extraction means the tooth is visible above the gum and can be removed with the dentist's basic tools in a few minutes. That costs $75 to $300. A complex extraction means the tooth is broken off at the gum line, deeply impacted, or requires bone removal. These require a surgeon, special equipment, and more time. Complex extractions cost $600 to $1,500 or more, depending on difficulty.
+A simple extraction means the tooth is visible above the gum and can be removed with the dentist's basic tools in a few minutes. Learning more about [cost of extraction complications](/article/cost-of-extraction-complications.html) can help you understand this better. That costs $75 to $300. A complex extraction means the tooth is broken off at the gum line, deeply impacted, or requires bone removal. These require a surgeon, special equipment, and more time. Complex extractions cost $600 to $1,500 or more, depending on difficulty.
 
 Simple extractions for kids often cost even less—$50 to $200—because baby teeth have smaller roots and come out easier. Even as a kid though, if a tooth is stuck or severely decayed, it becomes complex and costs more.
 
@@ -59,7 +59,7 @@ Nerve injury is rare but can happen with complex extractions. If it does, you mi
 
 ## Recovery and Time Off Work
 
-Simple extractions mean 3 to 7 days of healing. You can usually go back to work the next day, though you might need to take it easy. Complex extractions mean 1 to 2 weeks of recovery, and you might need to take 2 to 5 days off work.
+Simple extractions mean 3 to 7 days of healing. Learning more about [cost of tooth extraction recovery](/article/cost-of-tooth-extraction-recovery.html) can help you understand this better. You can usually go back to work the next day, though you might need to take it easy. Complex extractions mean 1 to 2 weeks of recovery, and you might need to take 2 to 5 days off work.
 
 Pain management during recovery uses over-the-counter painkillers ($2 to $5 per dose) for mild pain, or prescription pain medication ($30 to $75 per prescription) for more severe pain. Most people are fine with over-the-counter medications, which is much cheaper.
 
@@ -86,6 +86,8 @@ Many oral surgeons offer payment plans with no interest for 12 months, or low-in
 ## Conclusion
 
 Simple extractions cost $75 to $300, while complex extractions run $600 to $1,500. Add sedation, and you're looking at $1,200 to $2,500. The real expense comes from replacing the tooth afterward with an implant or bridge. Whenever possible, ask your dentist about saving the tooth first before extraction. If extraction is necessary, plan ahead with your surgeon about the best approach and any special techniques needed. Talk to your dentist or surgeon about payment options and what to expect during recovery.
+
+
 
 ## Related Articles You May Find Helpful
 

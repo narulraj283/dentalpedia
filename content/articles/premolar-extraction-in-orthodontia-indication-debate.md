@@ -3,7 +3,7 @@ title: Premolar Extraction in Orthodontics - First vs Second Premolar Selection 
 slug: premolar-extraction-in-orthodontia-indication-debate
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Premolar extraction decisions require analysis of malocclusion severity, profile effects, Bolton analysis, and anchorage requirements; first premolar extraction versus second premolar selection fundamentally affects treatment outcomes and final esthetics.
+excerpt: "Premolar extraction decisions require analysis of malocclusion severity, profile effects, Bolton analysis, and anchorage requirements; first premolar."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

@@ -1,9 +1,9 @@
 ---
-title: Clear Aligner Wear Protocol: Optimal Wearing Schedule, Change Intervals, and Compliance Monitoring
+title: "Clear Aligner Wear Protocol: Optimal Wearing Schedule, Change Intervals, and Compliance Monitoring"
 slug: timeline-for-aligner-wear-schedule
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Evidence-based wear protocols for clear aligners including 20-22 hour daily requirements, 1-2 week stage progression intervals, tracking technology, and attachment timing strategies.
+excerpt: "Evidence-based wear protocols for clear aligners including 20-22 hour daily requirements, 1-2 week stage progression intervals, tracking technology,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics and Clear Aligner Systems

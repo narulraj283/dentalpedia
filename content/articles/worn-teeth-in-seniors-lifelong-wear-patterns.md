@@ -1,5 +1,5 @@
 ---
-title: Worn Teeth in Seniors: Lifelong Wear Patterns
+title: "Worn Teeth in Seniors: Lifelong Wear Patterns"
 slug: worn-teeth-in-seniors-lifelong-wear-patterns
 category: Geriatric Dentistry
 category_slug: geriatric-dentistry

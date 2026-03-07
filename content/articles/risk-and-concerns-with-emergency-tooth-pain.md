@@ -3,7 +3,7 @@ title: "Risk and Concerns with Emergency Tooth Pain: Misdiagnosis, Delayed Treat
 slug: risk-and-concerns-with-emergency-tooth-pain
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: "Understanding the risks of dental emergency mismanagement including pain source misidentification, delayed endodontic treatment consequences, medication interactions, and potential airway compromise from odontogenic infections."
+excerpt: "Understanding the risks of dental emergency mismanagement including pain source misidentification, delayed endodontic treatment consequences,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

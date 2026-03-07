@@ -1,9 +1,9 @@
 ---
-title: Sleep Apnea: Understanding Breathing Pauses During Sleep
+title: "Sleep Apnea: Understanding Breathing Pauses During Sleep"
 slug: sleep-apnea-breathing-pause-during-sleep
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Obstructive sleep apnea pathophysiology involves upper airway collapse during sleep with risk factors including obesity, anatomy, and age; screening through STOP-Bang questionnaires enables early intervention.
+excerpt: "Obstructive sleep apnea pathophysiology involves upper airway collapse during sleep with risk factors including obesity, anatomy, and age; screening."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Sleep Medicine Dentistry

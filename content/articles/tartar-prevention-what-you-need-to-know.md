@@ -1,5 +1,5 @@
 ---
-title: Tartar Prevention: What You Need to Know About Calculus
+title: "Tartar Prevention: What You Need to Know About Calculus"
 slug: tartar-prevention-what-you-need-to-know
 category: Preventive Care
 category_slug: preventive-care

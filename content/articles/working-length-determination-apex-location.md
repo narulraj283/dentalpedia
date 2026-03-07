@@ -1,5 +1,5 @@
 ---
-title: Working Length Determination: Apex Location
+title: "Working Length Determination: Apex Location"
 slug: working-length-determination-apex-location
 category: Endodontics
 category_slug: endodontics

@@ -1,9 +1,9 @@
 ---
-title: Single-Tooth Dental Implant: Complete Protocol from Planning to Restoration
+title: "Single-Tooth Dental Implant: Complete Protocol from Planning to Restoration"
 slug: single-tooth-implant-replacing-one-tooth
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Single-tooth implants provide predictable tooth replacement with high survival rates through systematic surgical planning, provisional management, and esthetic restoration protocols.
+excerpt: "Single-tooth implants provide predictable tooth replacement with high survival rates through systematic surgical planning, provisional management,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Implant Prosthodontics

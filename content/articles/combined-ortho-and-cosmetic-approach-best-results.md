@@ -1,9 +1,9 @@
 ---
-title: Integrated Orthodontic-Cosmetic Treatment: Sequencing Strategies, Clinical Optimization, and Superior Aesthetic Outcomes
+title: "Integrated Orthodontic-Cosmetic Treatment: Sequencing"
 slug: combined-ortho-and-cosmetic-approach-best-results
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: How combining braces or aligners with cosmetic dentistry delivers better smile results, what the treatment involves, and why coordinating both treatments matters.
+excerpt: "If you're considering improving your smile, you might think you need to choose between orthodontic treatment (braces or aligners) to straighten your."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

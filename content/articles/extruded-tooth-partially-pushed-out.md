@@ -1,5 +1,5 @@
 ---
-title: Extruded Tooth: Traumatic Extrusion Classification and Emergency Management
+title: "Extruded Tooth: Traumatic Extrusion Classification and"
 slug: extruded-tooth-partially-pushed-out
 category: Emergency Dentistry
 category_slug: emergency-dentistry
@@ -44,13 +44,13 @@ How to reposition an extruded tooth:
 4. Make sure the tooth sits at the right height compared to the neighboring teeth
 5. Have the person bite gently to verify it's in the right spot
 
-Don't push hard or try to force it. If it's not moving smoothly, stop and go to the dentist instead. Sometimes trying too hard can make it worse.
+Don't push hard or try to force it. Learning more about [reimplanted teeth salvaging avulsed permanent teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html) can help you understand this better. If it's not moving smoothly, stop and go to the dentist instead. Sometimes trying too hard can make it worse.
 
 ## After Repositioning
 
 Once the tooth is back in position, it needs to be held there so it can heal. Your dentist will attach a thin wire or composite splint (kind of like an invisible brace) to hold the tooth in place for 2 to 6 weeks depending on how bad the injury was. This keeps it stable while the attachment structures heal.
 
-Bite on some gauze for a few minutes to help stop any bleeding, then get to your dentist right away for proper care.
+Bite on some gauze for a few minutes to help stop any bleeding, then get to your dentist right away for proper care. You may also want to read about [risk and concerns with mouth injuries treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html).
 
 ## What Happens to the Nerve
 
@@ -105,9 +105,19 @@ If your tooth eventually can't be saved, you'll need replacement. Your dentist w
 
 Wearing a mouthguard during sports is the best prevention. A properly fitted mouthguard significantly reduces the chance of tooth extrusion and other mouth injuries.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about extruded tooth partially pushed out and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
 ## Conclusion
 
 A partially extruded tooth is an emergency that needs immediate attention. Getting it repositioned and stabilized quickly gives you the best chance of saving it. Even if complications develop later, modern dental treatment can often save the tooth or replace it if necessary.
+
+
 
 ## Related Articles You May Find Helpful
 

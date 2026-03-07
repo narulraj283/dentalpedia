@@ -1,9 +1,9 @@
 ---
-title: Enamel Matrix Derivative: Promoting Periodontal Attachment
+title: "Enamel Matrix Derivative: Promoting Periodontal Attachment"
 slug: enamel-matrix-derivative-promoting-attachment
 category: Periodontics
 category_slug: periodontics
-excerpt: Evidence-based application of enamel matrix proteins for periodontal regeneration in clinical practice.
+excerpt: "When gum disease destroys the bone and attachment that support your teeth, modern treatments can sometimes regenerate lost tissues and help save your."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Periodontics
@@ -25,7 +25,7 @@ When gum disease destroys the bone and attachment that support your teeth, moder
 
 ## What Is Gum Disease and Why It Matters
 
-Gum disease starts when bacteria accumulate on your teeth, causing infection in your gums. Early gum disease (gingivitis) causes gum swelling and bleeding. If untreated, it progresses to periodontitis—deeper infection that destroys the bone supporting your teeth and creates deep pockets around them. Teeth gradually become looser and eventually fall out if disease isn't stopped.
+Gum disease starts when bacteria accumulate on your teeth, causing infection in your gums. Learning more about [periodontal disease and tooth loss prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. Early gum disease (gingivitis) causes gum swelling and bleeding. If untreated, it progresses to periodontitis—deeper infection that destroys the bone supporting your teeth and creates deep pockets around them. Teeth gradually become looser and eventually fall out if disease isn't stopped.
 
 The goal of periodontitis treatment is stopping disease progression and hopefully regenerating some of the lost bone and attachment. Traditional treatment (scaling and root planing) cleans away bacteria and lets your body heal. Some cases benefit from more advanced treatments that actively stimulate tissue regeneration.
 
@@ -86,7 +86,7 @@ Your periodontist performs the procedure under local anesthesia in about 1-2 hou
 
 **Restrictions**: Avoid mechanical disruption of the surgical site—no brushing or flossing the treated area for 2 weeks. Use antimicrobial rinse as directed.
 
-**Activity**: Return to normal activities after a few days, though avoid strenuous exercise for one week.
+**Activity**: Return to normal activities after a few days, though avoid strenuous exercise for one week. You may also want to read about [timeline for gum disease stages](/article/timeline-for-gum-disease-stages.html).
 
 **Suture removal**: Sutures are removed at 10-14 day appointment.
 
@@ -137,6 +137,8 @@ EMD treatment typically costs $800-2000+ depending on defect size and geographic
 ## Conclusion
 
 Enamel matrix derivative offers a biologic approach to stimulating your body to regenerate periodontal tissues destroyed by disease. Results are encouraging—most appropriately selected patients show clinically meaningful improvement. Success depends on careful case selection, proper surgical technique, and excellent post-operative maintenance. If you have advanced gum disease with specific bony defects and are willing to maintain excellent oral hygiene, EMD might help save your teeth. Talk with your periodontist about whether EMD is right for your specific situation.
+
+
 
 ## Related Articles You May Find Helpful
 

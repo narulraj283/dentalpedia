@@ -1,5 +1,5 @@
 ---
-title: Worn Anterior Teeth: Cosmetic Restoration Strategy
+title: "Worn Anterior Teeth: Cosmetic Restoration Strategy"
 slug: worn-anterior-teeth-cosmetic-restoration-strategy
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry

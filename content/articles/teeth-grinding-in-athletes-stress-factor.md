@@ -1,9 +1,9 @@
 ---
-title: Teeth Grinding in Athletes: The Stress Factor
+title: "Teeth Grinding in Athletes: The Stress Factor"
 slug: teeth-grinding-in-athletes-stress-factor
 category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: Athletic bruxism mechanisms, competition stress physiology, clenching force generation (to 1000N), mouthguard dual-protection purpose, sport-specific prevalence, performance implications.
+excerpt: "Athletic bruxism mechanisms, competition stress physiology, clenching force generation (to 1000N), mouthguard dual-protection purpose, sport-specific."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Sports Dentist

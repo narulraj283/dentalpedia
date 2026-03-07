@@ -3,7 +3,7 @@ title: Evidence-Based Teeth Brushing Technique and Plaque Removal Efficiency
 slug: how-to-teeth-brushing-technique
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Optimal brushing technique incorporates 45-degree angulation, gentle pressure of 150-200 grams, and systematic application of the Bass method to achieve 80% plaque biofilm removal.
+excerpt: "Optimal brushing technique incorporates 45-degree angulation, gentle pressure of 150-200 grams, and systematic application of the Bass method to."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry

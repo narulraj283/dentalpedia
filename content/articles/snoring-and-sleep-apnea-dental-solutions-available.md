@@ -3,7 +3,7 @@ title: Snoring and Sleep Apnea - Dental Solutions Available
 slug: snoring-and-sleep-apnea-dental-solutions-available
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Dental appliances including mandibular advancement devices and tongue retaining devices effectively manage snoring and obstructive sleep apnea when positioned optimally.
+excerpt: "Dental appliances including mandibular advancement devices and tongue retaining devices effectively manage snoring and obstructive sleep apnea when."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

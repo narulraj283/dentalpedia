@@ -1,5 +1,5 @@
 ---
-title: Oral Candidiasis: Clinical Presentation, Diagnosis, and Evidence-Based Treatment
+title: "Oral Candidiasis: Clinical Presentation, Diagnosis, and Evidence-Based Treatment"
 slug: thrush-oral-candidiasis-fungal-infection-treatment
 category: Oral Health Conditions
 category_slug: oral-health-conditions

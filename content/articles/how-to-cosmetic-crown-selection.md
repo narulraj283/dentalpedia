@@ -3,7 +3,7 @@ title: How to Cosmetic Crown Selection
 slug: how-to-cosmetic-crown-selection
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Crown selection requires evaluation of tooth structure preservation, material strength, translucency characteristics, longevity, and aesthetic demand to optimize functional and cosmetic outcomes.
+excerpt: "A crown (or cap) covers a tooth to protect it, improve its appearance, or both."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry
@@ -37,7 +37,7 @@ A crown (or cap) covers a tooth to protect it, improve its appearance, or both. 
 
 ## How Much Tooth Gets Removed
 
-Getting a crown means your dentist removes about 1-1.5 mm of tooth structure from all sides to make room for the crown material. For front teeth, this means removing about 1.2-1.5 mm to keep the crown looking natural and not too thick. Removing too much weakens your tooth and makes it less likely to last long. Removing too little means the crown will be too thin and might break.
+Getting a crown means your dentist removes about 1-1.5 mm of tooth structure from all sides to make room for the crown material. Learning more about [best practices for smile confidence boost](/article/best-practices-for-smile-confidence-boost.html) can help you understand this better. For front teeth, this means removing about 1.2-1.5 mm to keep the crown looking natural and not too thick. Removing too much weakens your tooth and makes it less likely to last long. Removing too little means the crown will be too thin and might break.
 
 Overall, a crown removes about 25-30% of your natural tooth. This is why dentists don't jump straight to crowns for every problem. If whitening, bonding, or a veneer could fix your tooth instead, that's usually better because it preserves more of your natural tooth.
 
@@ -100,6 +100,8 @@ Crown selection is about balancing tooth preservation, durability, and appearanc
 ## Key Takeaway
 
 Modern crowns are stronger and more aesthetic than ever. Zirconia is extremely durable and requires less tooth removal. Lithium disilicate looks most natural but is slightly less strong. Traditional metal-and-porcelain still works well but shows metal at the gum line if recession occurs. Before getting a crown, discuss whether less invasive options like whitening, bonding, or a veneer might achieve your goals while preserving more of your natural tooth. Digital fabrication improves accuracy and allows same-day placement.
+
+
 
 ## Related Articles
 

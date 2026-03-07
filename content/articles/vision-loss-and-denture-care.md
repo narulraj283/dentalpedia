@@ -1,9 +1,9 @@
 ---
-title: Vision Loss and Denture Care: Adaptive Strategies for Visually Impaired Patients
+title: "Vision Loss and Denture Care: Adaptive Strategies for Visually Impaired Patients"
 slug: vision-loss-and-denture-care
 category: Geriatric Dentistry
 category_slug: geriatric-dentistry
-excerpt: Practical guidance for denture care with vision impairment, including tactile cleaning methods, denture marking, adaptive devices, caregiver protocols, and oral health maintenance strategies.
+excerpt: "Practical guidance for denture care with vision impairment, including tactile cleaning methods, denture marking, adaptive devices, caregiver."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Geriatric Dentistry

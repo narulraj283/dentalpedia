@@ -3,7 +3,7 @@ title: Why Prompt Mouth Injury Treatment Matters for Tooth Survival
 slug: why-mouth-injuries-treatment-matters
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Prompt trauma treatment dramatically improves tooth survival rates, facilitates soft tissue healing, prevents complications, and emphasizes importance of follow-up care.
+excerpt: "Prompt trauma treatment dramatically improves tooth survival rates, facilitates soft tissue healing, prevents complications, and emphasizes."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Endodontics and Dental Trauma

@@ -3,7 +3,7 @@ title: Natural Oral Care Products and Plant-Based Alternatives
 slug: natural-oral-care-products-plant-based
 category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: Comprehensive analysis of plant-based toothpastes, xylitol efficacy, charcoal products, fluoride-free formulations, and regulatory considerations for natural oral care selection.
+excerpt: "Comprehensive analysis of plant-based toothpastes, xylitol efficacy, charcoal products, fluoride-free formulations, and regulatory considerations for."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

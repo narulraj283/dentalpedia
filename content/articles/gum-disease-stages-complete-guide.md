@@ -1,9 +1,9 @@
 ---
-title: Gum Disease Stages: Complete Guide
+title: "Gum Disease Stages: Complete Guide"
 slug: gum-disease-stages-complete-guide
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Comprehensive clinical overview of gingivitis and periodontitis stages with evidence-based diagnostic and treatment considerations.
+excerpt: "Gum disease progresses through predictable stages, starting with mild inflammation and potentially advancing to serious bone loss."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry
@@ -102,6 +102,12 @@ Certain medications can worsen gum disease. Hormonal changes during pregnancy in
 Treatment isn't the end—it's the beginning of long-term maintenance. After treatment, patients need supportive periodontal therapy (professional cleanings) every 3-6 months at minimum. Patients attending 80% of their maintenance appointments keep 80-90% of their treatment gains over 5 years. Those who skip appointments experience significant relapse.
 
 Electric toothbrushes remove about 11% more plaque than manual brushing, making them useful for ongoing home care. [Athletic mouthguards protect your gums in sports](/article/athletic-mouthguard-custom-vs-stock.html) if you're active.
+
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about gum disease stages complete guide and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
 
 ## Conclusion
 

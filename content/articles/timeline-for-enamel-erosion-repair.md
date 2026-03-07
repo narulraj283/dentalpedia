@@ -1,5 +1,5 @@
 ---
-title: Enamel Erosion: Management, Remineralization, and Restorative Strategies
+title: "Enamel Erosion: Management, Remineralization, and Restorative Strategies"
 slug: timeline-for-enamel-erosion-repair
 category: Preventive Care
 category_slug: preventive-care

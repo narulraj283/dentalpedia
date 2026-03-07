@@ -3,7 +3,7 @@ title: Pediatric Sedation Options—Levels of Consciousness and Drug Protocols
 slug: pediatric-sedation-options-levels-of-consciousness
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Explore minimal, moderate, and deep sedation plus general anesthesia levels, drug protocols including midazolam, ketamine, and nitrous oxide, and monitoring standards.
+excerpt: "Explore minimal, moderate, and deep sedation plus general anesthesia levels, drug protocols including midazolam, ketamine, and nitrous oxide, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Pediatric Dentistry

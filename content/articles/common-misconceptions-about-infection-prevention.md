@@ -31,7 +31,7 @@ This used to be standard practice, but modern evidence shows most healthy people
 
 **Needs antibiotics:** Advanced age (over 70), uncontrolled diabetes, immune suppression, planned difficult surgery, complex extractions, extensive bone removal.
 
-**Doesn't need antibiotics:** Young, healthy, no systemic disease, uncomplicated extraction or routine cleaning.
+**Doesn't need antibiotics:** Young, healthy, no systemic disease, uncomplicated extraction or routine cleaning. You may also want to read about [impacted teeth removal canines molars and premolars](/article/impacted-teeth-removal-canines-molars-and-premolars.html).
 
 Giving unnecessary antibiotics increases your risk of side effects and contributes to antibiotic resistance. Modern guidelines are more conservative than historical practice.
 
@@ -49,7 +49,7 @@ Unnecessary postoperative antibiotics expose you to: allergic reactions, gastroi
 
 ## Special Situation: Endocarditis Prophylaxis
 
-Certain cardiac conditions increase infection risk (prosthetic valves, complex heart disease with surgical repair). These patients need antibiotics before dental procedures, even routine ones. However, recent guidelines have become more selective—not all heart patients need prophylaxis.
+Certain cardiac conditions increase infection risk (prosthetic valves, complex heart disease with surgical repair). Learning more about [surgical complications complete guide](/article/surgical-complications-complete-guide.html) can help you understand this better. These patients need antibiotics before dental procedures, even routine ones. However, recent guidelines have become more selective—not all heart patients need prophylaxis.
 
 If you have a heart condition, ask your cardiologist whether you need prophylaxis before dental work. Don't assume you do just because of your diagnosis.
 
@@ -93,9 +93,23 @@ Starting antibiotics at the first sign of infection—rather than taking prevent
 
 Before any dental procedure, ask your dentist: Do I need prophylactic antibiotics based on my health? Should I discuss this with my medical doctor? If prescribed antibiotics, should I take them before or after? What symptoms mean I should call if infection develops? When should I come back for follow-up? Getting clear answers helps you know what to expect and when to seek additional help.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about infection prevention and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
+## Protecting Your Results Long-Term
+
+Once you've addressed infection prevention, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+
 ## Conclusion
 
 Preventive antibiotics before dental procedures are appropriate for specific high-risk situations but aren't routine for healthy patients. Postoperative antibiotics don't improve healing without actual infection. Modern guidelines balance infection prevention with responsible antibiotic stewardship. Your dentist assesses your individual risk and recommends antibiotics only when evidence supports benefit.
+
+
 
 ## Related Articles You May Find Helpful
 

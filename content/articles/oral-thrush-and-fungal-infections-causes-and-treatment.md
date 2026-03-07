@@ -3,7 +3,7 @@ title: Oral Thrush and Fungal Infections - Causes, Diagnosis, and Treatment
 slug: oral-thrush-and-fungal-infections-causes-and-treatment
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Why you developed thrush, how dentists actually diagnose it, and the specific drug protocols that actually clear it—including when to suspect a serious underlying condition.
+excerpt: "Why you developed thrush, how dentists actually diagnose it, and the specific drug protocols that actually clear it—including when to suspect a."
 date: 2026-03-05
 read_time: 15 min
 reviewer_specialty: Oral Pathologist

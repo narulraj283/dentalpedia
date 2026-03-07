@@ -3,7 +3,7 @@ title: Bite Force and Teeth - Parafunction Effects, Bruxism Complications, and P
 slug: risk-and-concerns-with-bite-force-and-teeth
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Bite force affects tooth longevity through parafunction effects including bruxism and clenching; excessive forces cause tooth fracture, wear, and periodontal compromise requiring protective splints.
+excerpt: "Bite force affects tooth longevity through parafunction effects including bruxism and clenching; excessive forces cause tooth fracture, wear, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontist

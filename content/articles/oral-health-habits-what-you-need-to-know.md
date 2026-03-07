@@ -1,11 +1,11 @@
 ---
-title: Oral Health Habits: What You Need to Know
+title: "Oral Health Habits: What You Need to Know"
 slug: oral-health-habits-what-you-need-to-know
 category: Preventive Care
 category_slug: preventive-care
 subcategory: Preventive Overview
 subcategory_slug: overview-preventive
-excerpt: Essential oral health habits combining proper hygiene practices, dietary awareness, and professional care create the cornerstone of disease prevention and lifelong dental and systemic health.
+excerpt: "Essential oral health habits combining proper hygiene practices, dietary awareness, and professional care create the cornerstone of disease."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

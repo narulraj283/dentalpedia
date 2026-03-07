@@ -31,7 +31,7 @@ When your orthodontist talks about "compliance," they're referring to how well y
 
 Not all ways of not following instructions have the same impact on your treatment. Some things, like breaking a bracket, might delay you by a week or two. But not wearing your elastics (rubber bands) might delay you by months. Understanding the difference helps you prioritize.
 
-With braces, the most critical compliance issues are: wearing elastic bands (rubber bands) as directed—this is huge because they provide the major forces moving your teeth; maintaining good oral hygiene (brushing and flossing around brackets)—poor hygiene can cause permanent enamel damage; and avoiding foods that break brackets—this is less critical because broken brackets are easily repaired. With aligners, the most critical issue is wearing them 20 to 22 hours daily—if you take them out for longer than 2 hours at a time, your teeth won't move as planned.
+With braces, the most critical compliance issues are: wearing elastic bands (rubber bands) as directed—this is huge because they provide the major forces moving your teeth; maintaining good oral hygiene (brushing and flossing around brackets)—poor hygiene can cause permanent enamel damage; and avoiding foods that break brackets—this is less critical because broken brackets are easily repaired. Learning more about [benefits of invisible braces benefits](/article/benefits-of-invisible-braces-benefits.html) can help you understand this better. With aligners, the most critical issue is wearing them 20 to 22 hours daily—if you take them out for longer than 2 hours at a time, your teeth won't move as planned.
 
 ## Myth 2: Kids Can't Follow Orthodontic Instructions
 
@@ -59,7 +59,7 @@ If elastics feel uncomfortable or irritating, that usually goes away after a few
 
 ## Myth 6: Clearing Your Aligners Thoroughly Doesn't Matter Much
 
-With clear aligners, keeping them clean seems like a minor detail. Actually, aligners sitting in your mouth for 22 hours daily accumulate bacteria and plaque. If you don't clean them properly—just rinsing them isn't enough—bacteria can build up and cause gum irritation or decay.
+With clear aligners, keeping them clean seems like a minor detail. Learning more about [why braces food restrictions matters](/article/why-braces-food-restrictions-matters.html) can help you understand this better. Actually, aligners sitting in your mouth for 22 hours daily accumulate bacteria and plaque. If you don't clean them properly—just rinsing them isn't enough—bacteria can build up and cause gum irritation or decay.
 
 Clean your aligners daily with a soft toothbrush and denture cleaner or clear soap and water. Never use toothpaste (it's too abrasive) or hot water (it warps the plastic). Proper cleaning prevents discoloration, odor problems, and keeps your mouth healthier throughout treatment. This is an easy compliance issue to master compared to wearing them consistently.
 
@@ -90,6 +90,8 @@ If you maintain 75 percent of the recommended compliance consistently, your trea
 ## Conclusion
 
 Orthodontic compliance means following instructions about wearing and caring for your appliances. Elastic band wear is most critical for treatment success, followed by good oral hygiene and consistent aligner wear. Some compliance issues matter far more than others—understand what's most important so you can focus your effort where it counts most.
+
+
 
 ## Related Articles You May Find Helpful
 

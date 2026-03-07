@@ -3,7 +3,7 @@ title: Timeline for Braces Food Restrictions and Dietary Management
 slug: timeline-for-braces-food-restrictions
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Dietary restrictions during braces include hard foods causing bracket breakage, sticky foods displacing brackets, and acidic foods promoting demineralization, with specific cutting techniques and safe alternatives enabling adequate nutrition.
+excerpt: "Dietary restrictions during braces include hard foods causing bracket breakage, sticky foods displacing brackets, and acidic foods promoting."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

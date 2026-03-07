@@ -1,9 +1,9 @@
 ---
-title: Teeth Brushing Technique: Complete Clinical Guide
+title: "Teeth Brushing Technique: Complete Clinical Guide"
 slug: teeth-brushing-technique-complete-guide
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based brushing techniques including Bass method, modified Stillman, power vs. manual efficacy, bristle design, fluoride concentrations, and 2-minute timing protocols.
+excerpt: "Evidence-based brushing techniques including Bass method, modified Stillman, power vs."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Periodontist

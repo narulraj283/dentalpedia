@@ -1,9 +1,9 @@
 ---
-title: Maintaining Your Whitened Teeth: Tips and Touch-ups
+title: "Maintaining Your Whitened Teeth: Tips and Touch-ups"
 slug: maintaining-your-whitened-teeth-tips-and-touch-ups
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Evidence-based strategies for extending professional whitening results through dietary modification, desensitization protocols, and strategic maintenance scheduling.
+excerpt: "Evidence-based strategies for extending professional whitening results through dietary modification, desensitization protocols, and strategic."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

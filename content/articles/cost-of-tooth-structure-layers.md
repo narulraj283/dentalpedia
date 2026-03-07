@@ -25,7 +25,7 @@ references:
 
 ## The Three Layers of Your Tooth
 
-Your tooth has three layers, and understanding them explains why treatment costs change dramatically as cavities get deeper. The outer layer is enamel, the middle layer is dentin, and the inner layer is pulp containing the nerve. Decay starting at the surface and progressing deeper becomes more complex and expensive as it advances.
+Your tooth has three layers, and understanding them explains why treatment costs change dramatically as cavities get deeper. Learning more about [cost of tooth decay prevention](/article/cost-of-tooth-decay-prevention.html) can help you understand this better. The outer layer is enamel, the middle layer is dentin, and the inner layer is pulp containing the nerve. Decay starting at the surface and progressing deeper becomes more complex and expensive as it advances.
 
 Treatment cost depends entirely on cavity depth. A shallow cavity in enamel costs $150 to $300. A cavity extending into dentin costs $300 to $600. A cavity reaching the pulp requires root canal treatment costing $800 to $1,200 plus crown restoration costing $800 to $2,000. Understanding the layers helps you understand why catching cavities early matters so much financially.
 
@@ -45,7 +45,7 @@ A cavity extending into dentin requires more extensive removal and restoration c
 
 Pulp is the soft tissue inside your tooth containing the nerve and blood vessels. It's only a few millimeters in diameter. Once decay reaches the pulp, you're in serious trouble. The pulp becomes infected and inflamed, causing pain. You need root canal treatment to save the tooth.
 
-Root canal treatment costs $800 to $1,200. The dentist removes infected pulp tissue, disinfects the space, and fills it with a special material. The tooth is then dead (non-vital) and fragile, usually requiring a crown ($800 to $2,000) for stability. Total cost for a cavity reaching the pulp: $1,600 to $3,200.
+Root canal treatment costs $800 to $1,200. Learning more about [cost of tooth restoration comparison](/article/cost-of-tooth-restoration-comparison.html) can help you understand this better. The dentist removes infected pulp tissue, disinfects the space, and fills it with a special material. The tooth is then dead (non-vital) and fragile, usually requiring a crown ($800 to $2,000) for stability. Total cost for a cavity reaching the pulp: $1,600 to $3,200.
 
 ## Why Enamel Cavities Are Cheap to Treat
 
@@ -77,9 +77,23 @@ The type of filling your dentist uses depends on depth and location. Enamel-only
 
 Newly restored cavities sometimes cause sensitivity—to temperature, pressure, or touching. Sensitivity usually resolves within days to weeks as the tooth stabilizes. If sensitivity persists beyond a few weeks, contact your dentist. Prolonged sensitivity might indicate inadequate seal or remaining decay requiring retreatment.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about tooth structure layers and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
+## Protecting Your Results Long-Term
+
+Once you've addressed tooth structure layers, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+
 ## Conclusion
 
 Shallow enamel cavities cost $150 to $300 to fill. Dentin cavities cost $300 to $600. Pulp involvement requires root canal ($800-$1,200) plus crown ($800-$2,000) totaling $1,600 to $3,200. Prevent expensive deep cavities by visiting your dentist every 6 months for early detection.
+
+
 
 ## Related Articles You May Find Helpful
 

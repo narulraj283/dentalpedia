@@ -1,9 +1,9 @@
 ---
-title: Implant Torque Range: Proper Tightness
+title: "Implant Torque Range: Proper Tightness"
 slug: implant-torque-range-proper-tightness
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Appropriate implant insertion torque (25-70 Ncm) and abutment screw tightening (10-35 Ncm) optimize primary stability, osseointegration, and long-term implant success while preventing bone damage or insufficient fixation.
+excerpt: "Appropriate implant insertion torque (25-70 Ncm) and abutment screw tightening (10-35 Ncm) optimize primary stability, osseointegration, and."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

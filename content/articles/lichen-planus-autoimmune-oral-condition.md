@@ -3,7 +3,7 @@ title: "Lichen Planus: Autoimmune Oral Condition"
 slug: lichen-planus-autoimmune-oral-condition
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Comprehensive clinical examination of oral lichen planus, including autoimmune pathogenesis, clinical presentation patterns, diagnosis strategies, malignancy risk assessment, and management protocols for symptomatic disease control and remission achievement.
+excerpt: "Comprehensive clinical examination of oral lichen planus, including autoimmune pathogenesis, clinical presentation patterns, diagnosis strategies,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

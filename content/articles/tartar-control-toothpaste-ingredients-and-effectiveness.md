@@ -1,9 +1,9 @@
 ---
-title: Tartar Control Toothpaste: Ingredients, Mechanisms, and Clinical Efficacy
+title: "Tartar Control Toothpaste: Ingredients, Mechanisms, and Clinical Efficacy"
 slug: tartar-control-toothpaste-ingredients-and-effectiveness
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Clinical analysis of anti-calculus toothpaste ingredients, pyrophosphate mechanisms, zinc citrate, and evidence-based efficacy data for supragingival calculus prevention.
+excerpt: "Clinical analysis of anti-calculus toothpaste ingredients, pyrophosphate mechanisms, zinc citrate, and evidence-based efficacy data for supragingival."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Preventive Dentistry

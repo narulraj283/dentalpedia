@@ -5,7 +5,7 @@ category: Oral Surgery
 category_slug: oral-surgery
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-excerpt: Oral cancer diagnosis integrates clinical evaluation, biopsy confirmation, and staging imaging to guide surgical treatment decisions, with prognosis substantially influenced by stage at diagnosis, histologic type, and patient factors.
+excerpt: "Oral cancer diagnosis integrates clinical evaluation, biopsy confirmation, and staging imaging to guide surgical treatment decisions, with prognosis."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

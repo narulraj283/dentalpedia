@@ -1,9 +1,9 @@
 ---
-title: Surgical Tooth Extraction: Indications, Classification, Preoperative Planning, and Evidence-Based Protocols
+title: "Surgical Tooth Extraction: Indications, Classification, Preoperative Planning, and Evidence-Based Protocols"
 slug: timeline-for-surgical-teeth-removal
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Surgical extraction encompasses a spectrum of complexity from simple elevated erupted teeth to severely impacted molars—systematic preoperative planning and understanding classification systems optimize outcomes.
+excerpt: "Surgical extraction encompasses a spectrum of complexity from simple elevated erupted teeth to severely impacted molars—systematic preoperative."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

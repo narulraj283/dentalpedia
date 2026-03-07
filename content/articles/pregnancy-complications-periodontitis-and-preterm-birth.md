@@ -3,7 +3,7 @@ title: Periodontal Disease and Pregnancy Complications - Inflammatory Pathways a
 slug: pregnancy-complications-periodontitis-and-preterm-birth
 category: Periodontics
 category_slug: periodontics
-excerpt: Periodontal disease increases preterm birth and low birth weight risk through inflammatory mediator pathways (TNF-alpha, IL-6, PGE2); clinical interventions targeting periodontal disease may reduce adverse pregnancy outcomes.
+excerpt: "Periodontal disease increases preterm birth and low birth weight risk through inflammatory mediator pathways (TNF-alpha, IL-6, PGE2); clinical."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontics

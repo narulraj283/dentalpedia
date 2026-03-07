@@ -3,7 +3,7 @@ title: Salt and Baking Soda Toothpaste - Clinical Evidence for Effectiveness and
 slug: salt-based-toothpaste-effectiveness-and-safety
 category: Holistic/Alternative Dentistry
 category_slug: holistic-alternative-dentistry
-excerpt: Comprehensive review of natural toothpaste ingredients including salt and baking soda, examining clinical efficacy, abrasivity concerns, remineralization potential, and comparison with fluoride formulations.
+excerpt: "Comprehensive review of natural toothpaste ingredients including salt and baking soda, examining clinical efficacy, abrasivity concerns,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

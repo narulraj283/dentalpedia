@@ -1,9 +1,9 @@
 ---
-title: Veneer Placement Failure: Debonding and Repair
+title: "Veneer Placement Failure: Debonding and Repair"
 slug: veneer-placement-failure-debonding-and-repair
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Analysis of veneer failure mechanisms including debonding causes, contamination, substrate issues, fracture patterns, repair techniques, and recementation protocols.
+excerpt: "Analysis of veneer failure mechanisms including debonding causes, contamination, substrate issues, fracture patterns, repair techniques, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

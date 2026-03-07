@@ -3,7 +3,7 @@ title: "Immediate Complete Dentures: Minimizing Edentulous Intervals in Full Mou
 slug: immediate-dentures-teeth-on-same-day-as-extraction
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Immediate complete denture protocols provide functional and esthetic prosthetic restoration simultaneously with full-mouth tooth extraction, eliminating the edentulous period and its associated nutritional, speech, and psychological consequences. Evidence-based fabrication and adjustment strategies optimize clinical success and patient adaptation.
+excerpt: "Immediate complete denture protocols provide functional and esthetic prosthetic restoration simultaneously with full-mouth tooth extraction,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

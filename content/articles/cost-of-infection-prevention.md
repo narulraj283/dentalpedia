@@ -3,7 +3,7 @@ title: Cost of Infection Prevention
 slug: cost-of-infection-prevention
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Preventing dental infections through simple precautions costs $50-150 in antibiotic prophylaxis but avoids $3,000-15,000+ in infection treatment—prevention is absolutely worth it.
+excerpt: "Dental procedures—especially tooth extraction or gum disease treatment—can occasionally cause infections."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry
@@ -98,6 +98,18 @@ The comparison makes prophylaxis an obvious choice. Even if endocarditis were un
 Most insurance plans cover antibiotic prophylaxis as medically necessary when you have qualifying conditions. You might pay your copay (usually $5-15) for the office visit where it's given. The antibiotic itself is often covered or costs very little out-of-pocket.
 
 If you're uninsured, the $10-75 antibiotic cost is still incredibly cheap compared to treating an infection.
+
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about infection prevention and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
+## Protecting Your Results Long-Term
+
+Once you've addressed infection prevention, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
 
 ## Conclusion
 

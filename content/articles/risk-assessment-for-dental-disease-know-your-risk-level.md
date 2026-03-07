@@ -3,7 +3,7 @@ title: Risk Assessment for Dental Disease - Know Your Risk Level
 slug: risk-assessment-for-dental-disease-know-your-risk-level
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Comprehensive overview of caries risk assessment tools, CAMBRA protocol, periodontal risk calculators, salivary testing, genetic markers, and patient stratification for personalized prevention strategies.
+excerpt: "Comprehensive overview of caries risk assessment tools, CAMBRA protocol, periodontal risk calculators, salivary testing, genetic markers, and patient."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

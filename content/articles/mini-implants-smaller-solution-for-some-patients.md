@@ -1,11 +1,11 @@
 ---
-title: Mini Implants: Smaller Solution for Some Patients
+title: "Mini Implants: Smaller Solution for Some Patients"
 slug: mini-implants-smaller-solution-for-some-patients
 category: Dental Implants
 category_slug: dental-implants
 subcategory: Implant Overview
 subcategory_slug: overview-implants
-excerpt: Mini dental implants offer a less invasive alternative to standard implants for patients with limited bone volume or specific anatomical constraints, combining shorter healing times with reduced surgical complexity.
+excerpt: "Mini dental implants offer a less invasive alternative to standard implants for patients with limited bone volume or specific anatomical constraints,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

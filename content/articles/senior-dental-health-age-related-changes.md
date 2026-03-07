@@ -1,9 +1,9 @@
 ---
-title: Senior Dental Health: Understanding Age-Related Changes and Management Strategies
+title: "Senior Dental Health: Understanding Age-Related Changes and Management Strategies"
 slug: senior-dental-health-age-related-changes
 category: Geriatric Dentistry
 category_slug: geriatric-dentistry
-excerpt: Older adults experience significant oral changes including root caries, xerostomia, and medication effects that require specialized dental management strategies for optimal health outcomes.
+excerpt: "Older adults experience significant oral changes including root caries, xerostomia, and medication effects that require specialized dental management."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Prosthodontist

@@ -3,7 +3,7 @@ title: Oral Ulcer Classification, Management Protocols, and Treatment Approaches
 slug: how-to-mouth-ulcer-care
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: "Oral ulcers range from minor self-limiting aphthous ulcers to severe manifestations of systemic disease, requiring accurate diagnosis and targeted management from topical agents to systemic therapies."
+excerpt: "Oral ulcers range from minor self-limiting aphthous ulcers to severe manifestations of systemic disease, requiring accurate diagnosis and targeted."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

@@ -3,7 +3,7 @@ title: Risk and Concerns with Cavity Diagnosis Process
 slug: risk-and-concerns-with-cavity-diagnosis-process
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Caries detection methods including explorer, radiographic, and advanced technologies vary in sensitivity and specificity, requiring comprehensive assessment for accurate early detection.
+excerpt: "Caries detection methods including explorer, radiographic, and advanced technologies vary in sensitivity and specificity, requiring comprehensive."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

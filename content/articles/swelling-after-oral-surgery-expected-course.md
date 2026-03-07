@@ -1,5 +1,5 @@
 ---
-title: Swelling After Oral Surgery: Expected Course and Management
+title: "Swelling After Oral Surgery: Expected Course and Management"
 slug: swelling-after-oral-surgery-expected-course
 category: Oral Surgery
 category_slug: oral-surgery

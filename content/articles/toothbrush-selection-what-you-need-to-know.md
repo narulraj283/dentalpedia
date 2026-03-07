@@ -1,9 +1,9 @@
 ---
-title: Toothbrush Selection: What You Need to Know as a Patient
+title: "Toothbrush Selection: What You Need to Know as a Patient"
 slug: toothbrush-selection-what-you-need-to-know
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Patient-friendly guide to toothbrush selection covering ADA seals, bristle types, brush size, electric versus manual, special needs, and replacement timing.
+excerpt: "Patient-friendly guide to toothbrush selection covering ADA seals, bristle types, brush size, electric versus manual, special needs, and replacement."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Preventive Dentistry

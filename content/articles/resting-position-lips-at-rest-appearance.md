@@ -3,7 +3,7 @@ title: Resting Position Lips at Rest and Tooth Appearance
 slug: resting-position-lips-at-rest-appearance
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Analyze the critical relationship between lip position at rest, tooth display characteristics, and esthetic treatment planning for anterior tooth restorations.
+excerpt: "Analyze the critical relationship between lip position at rest, tooth display characteristics, and esthetic treatment planning for anterior tooth."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

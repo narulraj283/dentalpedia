@@ -3,7 +3,7 @@ title: Root Canal Aftercare, Pain Management and Recovery
 slug: root-canal-aftercare-pain-management-and-recovery
 category: Endodontics
 category_slug: endodontics
-excerpt: Comprehensive post-RCT care including pain expectations, medication protocols, dietary modifications, follow-up schedules, crown placement timing, and management of post-operative flare-ups.
+excerpt: "Comprehensive post-RCT care including pain expectations, medication protocols, dietary modifications, follow-up schedules, crown placement timing,."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Endodontics

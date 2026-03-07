@@ -1,9 +1,9 @@
 ---
-title: Selecting the Right Toothbrush and Mastering Proper Brushing Technique
+title: Selecting the Right Toothbrush and Mastering Proper
 slug: how-to-choose-the-right-toothbrush-and-technique
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Manual toothbrushes with soft bristles (0.13-0.20 mm) and powered oscillating-rotating models both effectively remove plaque when used with proper 45-degree angulation and 4-6 minute duration.
+excerpt: "Brushing your teeth correctly is one of the best things you can do to prevent cavities and gum disease."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

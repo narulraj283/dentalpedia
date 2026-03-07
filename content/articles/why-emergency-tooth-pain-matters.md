@@ -3,7 +3,7 @@ title: Why Emergency Tooth Pain Matters - Managing Acute Dental Crises and Preve
 slug: why-emergency-tooth-pain-matters
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Dental emergencies require prompt intervention to prevent infection spread, control pain, preserve tooth structure, and mitigate life-threatening systemic complications.
+excerpt: "Dental emergencies require prompt intervention to prevent infection spread, control pain, preserve tooth structure, and mitigate life-threatening."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Emergency Dentistry

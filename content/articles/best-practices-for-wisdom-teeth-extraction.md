@@ -1,9 +1,9 @@
 ---
-title: Wisdom Teeth Extraction: Indications, Surgical Protocols, and Complication Prevention
+title: "Wisdom Teeth Extraction: Indications, Surgical Protocols,"
 slug: best-practices-for-wisdom-teeth-extraction
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Clinical decision-making for third molar extraction, evidence-based surgical techniques, and management of extraction-related complications including dry socket and nerve injury.
+excerpt: "Wisdom teeth extraction is very common in the U.S.—about 65% of adults have at least one extracted, and 35% have all four removed."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery
@@ -99,6 +99,12 @@ Limited mouth opening (trismus) happens to about 8-15% of patients, worst at 24-
 ## Recovery and Follow-Up
 
 Six to eight weeks after extraction, your socket will be healed over. Bone remodeling continues for months. Your surgeon will likely see you 1 week after extraction to check healing, then 6-8 weeks after to confirm complete healing. Any sign of delayed infection (swelling, drainage, fever) after 3-5 days warrants antibiotic therapy.
+
+
+
+## Conclusion
+
+Taking care of your oral health means staying informed about wisdom teeth extraction. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
 
 ## Key Takeaway
 

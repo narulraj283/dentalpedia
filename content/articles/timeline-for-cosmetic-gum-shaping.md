@@ -1,9 +1,9 @@
 ---
-title: Gingival Recontouring Techniques: Crown Lengthening, Laser Contouring, and Biologic Width Management
+title: "Gingival Recontouring Techniques: Crown Lengthening, Laser Contouring, and Biologic Width Management"
 slug: timeline-for-cosmetic-gum-shaping
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Gingival esthetic correction through crown lengthening, gingivectomy, and laser contouring addresses excessive gingival display while preserving biologic width and achieving predictable healing outcomes.
+excerpt: "Gingival esthetic correction through crown lengthening, gingivectomy, and laser contouring addresses excessive gingival display while preserving."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

@@ -1,9 +1,9 @@
 ---
-title: Severe Periodontitis: Advanced Disease State, Clinical Presentation, and Comprehensive Management
+title: "Severe Periodontitis: Advanced Disease State, Clinical Presentation, and Comprehensive Management"
 slug: severe-periodontitis-advanced-disease-state
 category: Periodontics
 category_slug: periodontics
-excerpt: Stage III and IV periodontitis represents advanced disease requiring multifaceted management including surgical intervention, antimicrobial therapy, and potential regenerative approaches to arrest disease and preserve remaining dentition.
+excerpt: "Stage III and IV periodontitis represents advanced disease requiring multifaceted management including surgical intervention, antimicrobial therapy,."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Periodontist

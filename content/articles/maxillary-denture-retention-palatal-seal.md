@@ -1,5 +1,5 @@
 ---
-title: Maxillary Denture Retention: Palatal Seal
+title: "Maxillary Denture Retention: Palatal Seal"
 slug: maxillary-denture-retention-palatal-seal
 category: Prosthodontics
 category_slug: prosthodontics

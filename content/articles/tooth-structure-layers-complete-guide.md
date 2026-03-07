@@ -1,9 +1,9 @@
 ---
-title: Tooth Structure and Layers: A Complete Clinical Guide
+title: "Tooth Structure and Layers: A Complete Clinical Guide"
 slug: tooth-structure-layers-complete-guide
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Clinical anatomy of tooth structure including enamel composition, dentin types, pulp anatomy, cementum, periodontal ligament, and clinical significance of each layer.
+excerpt: "Clinical anatomy of tooth structure including enamel composition, dentin types, pulp anatomy, cementum, periodontal ligament, and clinical."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: General Dentistry

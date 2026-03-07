@@ -1,9 +1,9 @@
 ---
-title: Serial Extraction: Strategic Sequential Removal and Guidance Management
+title: "Serial Extraction: Strategic Sequential Removal and Guidance Management"
 slug: serial-extraction-sequential-removal
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Serial extraction represents an interceptive orthodontic approach using sequential removal of deciduous and permanent teeth to guide eruption, manage crowding, and improve occlusal development.
+excerpt: "Serial extraction represents an interceptive orthodontic approach using sequential removal of deciduous and permanent teeth to guide eruption, manage."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontist

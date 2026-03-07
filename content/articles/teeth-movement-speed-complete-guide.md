@@ -1,9 +1,9 @@
 ---
-title: Orthodontic Movement Rate: Clinical Factors, Protocols, and Evidence-Based Optimization
+title: "Orthodontic Movement Rate: Clinical Factors, Protocols, and Evidence-Based Optimization"
 slug: teeth-movement-speed-complete-guide
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive analysis of factors affecting orthodontic movement velocity, including force parameters, root morphology, bone density, age, systemic influences, and surgical acceleration techniques.
+excerpt: "Comprehensive analysis of factors affecting orthodontic movement velocity, including force parameters, root morphology, bone density, age, systemic."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontist

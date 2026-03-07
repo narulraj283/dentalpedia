@@ -1,9 +1,9 @@
 ---
-title: Luxation: Partially Displaced Tooth
+title: "Luxation: Partially Displaced Tooth"
 slug: luxation-partially-displaced-tooth
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Management of laterally luxated, extrusive luxated, and intrusive displaced teeth, including immediate repositioning technique, rigid splinting protocols, pulpal assessment, and endodontic timing considerations.
+excerpt: "Management of laterally luxated, extrusive luxated, and intrusive displaced teeth, including immediate repositioning technique, rigid splinting."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

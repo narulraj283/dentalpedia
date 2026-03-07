@@ -1,9 +1,9 @@
 ---
-title: Preventive Dental Treatments: What Patients Should Know
+title: "Preventive Dental Treatments: What Patients Should Know"
 slug: preventive-treatments-what-you-need-to-know
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Patient-focused guide to preventive dental treatments, what to expect during professional cleanings, fluoride benefits, sealant recommendations, and insurance coverage details.
+excerpt: "Patient-focused guide to preventive dental treatments, what to expect during professional cleanings, fluoride benefits, sealant recommendations, and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: General Dentistry

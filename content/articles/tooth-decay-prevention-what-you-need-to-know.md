@@ -3,7 +3,7 @@ title: Tooth Decay Prevention - What You Need to Know for Optimal Oral Health
 slug: tooth-decay-prevention-what-you-need-to-know
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Patient guide to preventing tooth decay covering cavity formation, daily prevention habits, diet tips, fluoride importance, sealants, and when to seek dental care.
+excerpt: "Patient guide to preventing tooth decay covering cavity formation, daily prevention habits, diet tips, fluoride importance, sealants, and when to."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

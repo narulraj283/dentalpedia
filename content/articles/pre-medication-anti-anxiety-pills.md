@@ -3,7 +3,7 @@ title: Oral Anxiolytic Pre-Medication for Dental Anxiety - Clinical Protocols an
 slug: pre-medication-anti-anxiety-pills
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Oral anxiolytic medications including triazolam, diazepam, and hydroxyzine provide effective anxiety reduction when dosed appropriately 30-60 minutes before procedures, with careful patient selection and monitoring minimizing adverse effects.
+excerpt: "Oral anxiolytic medications including triazolam, diazepam, and hydroxyzine provide effective anxiety reduction when dosed appropriately 30-60 minutes."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery

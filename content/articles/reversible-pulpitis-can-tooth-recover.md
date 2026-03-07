@@ -3,7 +3,7 @@ title: Reversible Pulpitis - Can Your Tooth Recover Without Root Canal?
 slug: reversible-pulpitis-can-tooth-recover
 category: Endodontics
 category_slug: endodontics
-excerpt: Reversible pulpitis offers potential for vital pulp preservation through early diagnosis, conservative management, and step-wise caries removal to restore tooth vitality.
+excerpt: "Reversible pulpitis offers potential for vital pulp preservation through early diagnosis, conservative management, and step-wise caries removal to."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Endodontist

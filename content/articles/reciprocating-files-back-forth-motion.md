@@ -3,7 +3,7 @@ title: Reciprocating Files and Back-Forth Motion Systems in Endodontics
 slug: reciprocating-files-back-forth-motion
 category: Endodontics
 category_slug: endodontics
-excerpt: Reciprocating file systems like WaveOne revolutionized endodontic instrumentation by using back-and-forth kinematics to reduce cyclic fatigue while maintaining superior canal preparation efficiency.
+excerpt: "Reciprocating file systems like WaveOne revolutionized endodontic instrumentation by using back-and-forth kinematics to reduce cyclic fatigue while."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Endodontics

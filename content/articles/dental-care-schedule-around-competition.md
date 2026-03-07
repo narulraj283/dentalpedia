@@ -1,5 +1,5 @@
 ---
-title: Sports and Dental Care: Scheduling Treatment Around Athletic Competition
+title: "Sports and Dental Care: Scheduling Treatment Around"
 slug: dental-care-schedule-around-competition
 category: Sports Dentistry
 category_slug: sports-dentistry
@@ -23,7 +23,7 @@ You've got a cavity, your braces need adjustment, or your gums are inflamed. But
 
 Professional cleanings (prophylaxis with scaling and polishing) should happen during off-season or between competition cycles. A cleaning removes mineral buildup and occasionally causes mild gum sensitivity. These microbiota changes typically settle within 24-48 hours, but 2-3 days before major competition is safest.
 
-Additionally, some research suggests that significant gum manipulation temporarily affects oral proprioception (your sense of where your mouth is in space), which matters in water sports, sports requiring fine motor control, or combat sports. Scheduling cleanings 3-4 weeks before major competition allows complete recovery and gum maturation.
+Additionally, some research suggests that significant gum manipulation temporarily affects oral proprioception (your sense of where your mouth is in space), which matters in water sports, sports requiring fine motor control, or combat sports. Learning more about [athletic mouthguard custom vs stock](/article/athletic-mouthguard-custom-vs-stock.html) can help you understand this better. Scheduling cleanings 3-4 weeks before major competition allows complete recovery and gum maturation.
 
 ## Composite Filling Timing
 
@@ -43,7 +43,7 @@ Elastics (rubber bands) create discomfort that varies by intensity and individua
 
 ## Periodontal Treatment and Gum Health
 
-Scaling and root planing (deep cleaning for gum disease) creates gum inflammation for 3-5 days. Some athletes report slightly altered proprioception during this window. Scheduling these procedures 3-4 weeks before competition allows inflammation to resolve. For athletes with mild gingivitis responding to simpler cleaning, the standard 2-3 week timeline before competition suffices.
+Scaling and root planing (deep cleaning for gum disease) creates gum inflammation for 3-5 days. Learning more about [dental trauma in athletes prevention and treatment](/article/dental-trauma-in-athletes-prevention-and-treatment.html) can help you understand this better. Some athletes report slightly altered proprioception during this window. Scheduling these procedures 3-4 weeks before competition allows inflammation to resolve. For athletes with mild gingivitis responding to simpler cleaning, the standard 2-3 week timeline before competition suffices.
 
 ## Emergency Trauma and Return-to-Play
 
@@ -73,11 +73,21 @@ Work backwards from your major competitions to schedule everything strategically
 
 Be upfront with your dentist about your athletic schedule and competition timeline. Dentists accustomed to treating athletes understand these timing issues and can work with you. Similarly, inform your athletic program's medical staff about dental procedures so they understand any temporary sensitivity or performance adjustments. This team approach ensures everyone supports your dental health while maximizing athletic performance.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about dental care schedule around competition and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
 ## Conclusion
 
 Preventive cleanings: schedule 3-4 weeks before major competition. Fillings: 1-2 days before competition minimum, preferably 2-3 weeks. Root canal: 2-3 weeks before competition. Orthodontic adjustments: immediately after competition or during mandatory rest. Periodontal treatment: 3-4 weeks before major competition. Emergency trauma: immediate evaluation (avulsed teeth within 15 minutes). Mouthguards: fabricate 4-6 weeks before season, practice 1-3 weeks. Use off-season strategically for planned dentistry minimizing mid-season complications.
 
 Work with your dentist to create a dental calendar aligned with your competition schedule, scheduling elective work during off-season and emergency management during competitions.
+
+
 
 ## Related Articles You May Find Helpful
 

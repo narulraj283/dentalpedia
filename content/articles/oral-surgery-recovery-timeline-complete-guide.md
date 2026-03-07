@@ -3,7 +3,7 @@ title: Oral Surgery Recovery Timeline - Complete Clinical Guide to Healing Phase
 slug: oral-surgery-recovery-timeline-complete-guide
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Wound healing phases by surgical procedure (extraction, implant, orthognathic), pain management protocols, edema timeline, dietary modifications, bone healing progression, and complication risks.
+excerpt: "Wound healing phases by surgical procedure (extraction, implant, orthognathic), pain management protocols, edema timeline, dietary modifications,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

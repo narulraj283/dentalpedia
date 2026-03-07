@@ -1,9 +1,9 @@
 ---
-title: Impression Techniques: Capturing Teeth
+title: "Impression Techniques: Capturing Teeth"
 slug: impression-techniques-capturing-teeth
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Dental impression techniques employing alginate, polyvinyl siloxane, or polyether materials capture tooth and tissue anatomy for restoration fabrication. Digital and conventional approaches offer distinct advantages influencing accuracy, patient comfort, and laboratory efficiency.
+excerpt: "Dental impression techniques employing alginate, polyvinyl siloxane, or polyether materials capture tooth and tissue anatomy for restoration."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

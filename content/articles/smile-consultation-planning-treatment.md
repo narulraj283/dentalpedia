@@ -3,7 +3,7 @@ title: Smile Consultation and Treatment Planning
 slug: smile-consultation-planning-treatment
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Systematic cosmetic consultation methodology incorporating photography protocols, diagnostic wax-up fabrication, digital smile design, precise laboratory communication, and treatment sequencing optimization ensures coherent treatment planning and predictable esthetic outcomes.
+excerpt: "Systematic cosmetic consultation methodology incorporating photography protocols, diagnostic wax-up fabrication, digital smile design, precise."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic Dentistry and Prosthodontics

@@ -3,7 +3,7 @@ title: Texture and Surface Effects in Cosmetic Dentistry Restorations
 slug: texture-and-surface-effects-in-cosmetic-dentistry
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Macro and micro surface texture, light reflection patterns, characterization techniques, polishing protocols using graded discs and pastes, matte versus glossy effects, and natural tooth texture replication.
+excerpt: "Macro and micro surface texture, light reflection patterns, characterization techniques, polishing protocols using graded discs and pastes, matte."
 date: 2026-03-05
 read_time: 14 min
 reviewer_specialty: Cosmetic Dentistry

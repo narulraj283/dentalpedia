@@ -1,9 +1,9 @@
 ---
-title: Noma: Gangrenous Gingivitis and Cancrum Oris
+title: "Noma: Gangrenous Gingivitis and Cancrum Oris"
 slug: noma-gangrenous-gingivitis
 category: Oral Health Conditions
 category_slug: oral-health-conditions
-excerpt: Noma represents a rapidly progressive gangrenous process affecting malnourished populations, requiring urgent intervention combining nutritional support, antibiotic therapy, and surgical debridement.
+excerpt: "Noma represents a rapidly progressive gangrenous process affecting malnourished populations, requiring urgent intervention combining nutritional."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral Surgery

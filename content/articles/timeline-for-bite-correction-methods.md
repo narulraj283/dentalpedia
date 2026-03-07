@@ -1,9 +1,9 @@
 ---
-title: Bite Correction Timelines: Overbite, Underbite, Crossbite, and Open Bite Treatment Duration
+title: "Bite Correction Timelines: Overbite, Underbite, Crossbite, and Open Bite Treatment Duration"
 slug: timeline-for-bite-correction-methods
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Comprehensive timeline analysis for correcting anterior/posterior bite discrepancies comparing non-surgical vs. surgical approaches, force mechanics, and patient-specific variables.
+excerpt: "Comprehensive timeline analysis for correcting anterior/posterior bite discrepancies comparing non-surgical vs."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Orthodontics and Oral Surgery

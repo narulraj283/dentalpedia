@@ -1,9 +1,9 @@
 ---
-title: Comprehensive Smile Makeover Timeline: Whitening, Veneers, Orthodontics, Implants, and Sequencing Strategy
+title: "Comprehensive Smile Makeover Timeline: Whitening, Veneers, Orthodontics, Implants, and Sequencing Strategy"
 slug: timeline-for-before-and-after-smile
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Evidence-based treatment sequencing and timeline for complete smile transformation integrating tooth whitening, porcelain veneers, orthodontic alignment, and implant rehabilitation.
+excerpt: "Evidence-based treatment sequencing and timeline for complete smile transformation integrating tooth whitening, porcelain veneers, orthodontic."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Cosmetic and Restorative Dentistry

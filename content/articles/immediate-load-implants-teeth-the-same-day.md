@@ -3,7 +3,7 @@ title: "Immediate Load Implants: Full-Arch and Multi-Unit Restoration Protocols"
 slug: immediate-load-implants-teeth-the-same-day
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Full-arch and multi-unit immediate load implant protocols deliver fixed prosthetic restorations spanning multiple implants on placement day. Advanced surgical planning, implant splinting strategies, and systematic loading progression optimize biological and mechanical outcomes while achieving high success rates in complex tooth replacement scenarios.
+excerpt: "Full-arch and multi-unit immediate load implant protocols deliver fixed prosthetic restorations spanning multiple implants on placement day."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

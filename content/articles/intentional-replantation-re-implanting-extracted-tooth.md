@@ -1,5 +1,5 @@
 ---
-title: Intentional Replantation: Re-implanting Extracted Tooth
+title: "Intentional Replantation: Re-implanting Extracted Tooth"
 slug: intentional-replantation-re-implanting-extracted-tooth
 category: Endodontics
 category_slug: endodontics

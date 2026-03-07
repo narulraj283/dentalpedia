@@ -1,5 +1,5 @@
 ---
-title: Implant Splinting: Connecting Multiple
+title: "Implant Splinting: Connecting Multiple"
 slug: implant-splinting-connecting-multiple
 category: Dental Implants
 category_slug: dental-implants

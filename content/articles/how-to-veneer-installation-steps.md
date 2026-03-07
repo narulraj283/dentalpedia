@@ -3,7 +3,7 @@ title: How to Veneer Installation Steps
 slug: how-to-veneer-installation-steps
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Veneer placement requires precise tooth preparation (0.3-0.7mm reduction), impression technique, shade verification, and etch-rinse cementation protocol achieving 30-40 MPa bond strength.
+excerpt: "Veneer placement requires precise tooth preparation (0.3-0.7mm reduction), impression technique, shade verification, and etch-rinse cementation."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

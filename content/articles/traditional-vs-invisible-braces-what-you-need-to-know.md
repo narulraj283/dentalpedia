@@ -3,7 +3,7 @@ title: Traditional vs. Invisible Braces—What You Need to Know as a Patient
 slug: traditional-vs-invisible-braces-what-you-need-to-know
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Patient guide comparing appearance, comfort, effectiveness, cost, maintenance, and lifestyle impact of metal braces versus clear aligners to help determine which treatment option suits individual needs.
+excerpt: "Patient guide comparing appearance, comfort, effectiveness, cost, maintenance, and lifestyle impact of metal braces versus clear aligners to help."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontics

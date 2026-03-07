@@ -3,7 +3,7 @@ title: Preventing Staining of Cosmetic Dental Restorations
 slug: stain-prevention-for-cosmetic-restorations
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Evidence-based strategies for minimizing chromogenic stain accumulation on composite resins and porcelain through material selection and maintenance protocols.
+excerpt: "Evidence-based strategies for minimizing chromogenic stain accumulation on composite resins and porcelain through material selection and maintenance."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

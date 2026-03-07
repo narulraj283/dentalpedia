@@ -1,5 +1,5 @@
 ---
-title: Managing Post-Operative Swelling: Clinical Timeline and Evidence-Based Protocols
+title: "Managing Post-Operative Swelling: Clinical Timeline and Evidence-Based Protocols"
 slug: timeline-for-swelling-reduction
 category: Oral Surgery
 category_slug: oral-surgery

@@ -3,7 +3,7 @@ title: Root Resorption - Pathophysiology and Clinical Management
 slug: root-resorption-dissolving-root-structures
 category: Endodontics
 category_slug: endodontics
-excerpt: Understand external and internal root resorption pathophysiology, inflammatory versus replacement mechanisms, CBCT diagnostic approaches, clinical management strategies, monitoring protocols, and prognostic factors.
+excerpt: "Understand external and internal root resorption pathophysiology, inflammatory versus replacement mechanisms, CBCT diagnostic approaches, clinical."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Endodontist

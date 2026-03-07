@@ -3,7 +3,7 @@ title: Why Pre-Surgery Preparation Matters
 slug: why-pre-surgery-preparation-matters
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Clinical evidence demonstrates that comprehensive pre-operative assessment reduces surgical complications by up to 70% and improves healing outcomes. Learn the critical preparation protocols dentists use before extractions, implant surgery, and corrective procedures.
+excerpt: "Clinical evidence demonstrates that comprehensive pre-operative assessment reduces surgical complications by up to 70% and improves healing outcomes."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Oral and Maxillofacial Surgery

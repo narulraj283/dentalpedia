@@ -3,7 +3,7 @@ title: Periodontal Disease Diagnosis, Assessment Tools, and Contemporary Classif
 slug: periodontal-disease-diagnosis-tests-and-measurements
 category: Periodontics
 category_slug: periodontics
-excerpt: Clinical diagnosis of periodontal disease integrates probing depth, clinical attachment level, bleeding on probing, radiographic bone assessment, and emerging molecular diagnostics within the 2018 classification framework distinguishing disease stages and grades.
+excerpt: "Clinical diagnosis of periodontal disease integrates probing depth, clinical attachment level, bleeding on probing, radiographic bone assessment, and."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Periodontics

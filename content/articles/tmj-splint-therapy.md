@@ -1,9 +1,9 @@
 ---
-title: TMJ Splint Therapy: Appliance Types, Fabrication, and Treatment Protocols
+title: "TMJ Splint Therapy: Appliance Types, Fabrication, and Treatment Protocols"
 slug: tmj-splint-therapy
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: TMJ splint types include stabilization (flat plane), anterior repositioning, NTI-tss devices, with hard acrylic or soft materials, requiring precise adjustment protocols and wear schedules for optimal outcomes.
+excerpt: "TMJ splint types include stabilization (flat plane), anterior repositioning, NTI-tss devices, with hard acrylic or soft materials, requiring precise."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: General Dentistry

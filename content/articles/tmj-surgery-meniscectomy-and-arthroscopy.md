@@ -1,9 +1,9 @@
 ---
-title: TMJ Surgery Options: Meniscectomy, Arthroscopy, and Advanced Treatments
+title: "TMJ Surgery Options: Meniscectomy, Arthroscopy, and Advanced Treatments"
 slug: tmj-surgery-meniscectomy-and-arthroscopy
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: Comprehensive guide to surgical interventions for temporomandibular joint disorders, from minimally invasive arthroscopy to advanced joint reconstruction and replacement options.
+excerpt: "Comprehensive guide to surgical interventions for temporomandibular joint disorders, from minimally invasive arthroscopy to advanced joint."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Oral and Maxillofacial Surgery

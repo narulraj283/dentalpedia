@@ -3,7 +3,7 @@ title: "Risk and Concerns with Dental Examination Types: Diagnostic Limitations,
 slug: risk-and-concerns-with-dental-examination-types
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: "Understanding the diagnostic limitations of visual, radiographic, and adjunctive dental examination methods, including missed pathology risks, diagnostic test accuracy, and medico-legal implications of inadequate examination protocols."
+excerpt: "Understanding the diagnostic limitations of visual, radiographic, and adjunctive dental examination methods, including missed pathology risks,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: General Dentistry

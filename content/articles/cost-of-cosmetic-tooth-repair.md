@@ -27,7 +27,7 @@ Accidents happen—a fall, a sports injury, a bite on something hard—and sudde
 
 ## Types of Tooth Damage
 
-A small chip on the edge of a front tooth is the most common problem, and also the easiest to fix. A tooth cracked from top to bottom is more serious. A tooth broken in half at the gum line is the hardest to fix. Your dentist will examine the tooth and take X-rays to understand exactly what's happening and what the best solution is.
+A small chip on the edge of a front tooth is the most common problem, and also the easiest to fix. Learning more about [cost of cosmetic bonding process](/article/cost-of-cosmetic-bonding-process.html) can help you understand this better. A tooth cracked from top to bottom is more serious. A tooth broken in half at the gum line is the hardest to fix. Your dentist will examine the tooth and take X-rays to understand exactly what's happening and what the best solution is.
 
 Some tooth damage involves just the hard outer part (enamel), which is straightforward to fix. Damage that reaches the softer part inside (dentin) needs more attention. Damage to the nerve (pulp) means you need a root canal before cosmetic repair. This is why X-rays are important—they show exactly how deep the damage goes.
 
@@ -53,7 +53,7 @@ Some cracks don't need root canal treatment. Your dentist will determine this wi
 
 If your tooth broke off at or below the gum line, repair is more complicated. If enough tooth structure remains above the gum, your dentist might be able to build it up with bonding and place a crown. If not enough tooth remains, extraction might be necessary.
 
-If extraction is needed, you'll face costs for tooth replacement: implant ($2,500 to $6,000), bridge ($2,400 to $6,000), or denture ($1,500 to $3,000). This is why trying to save the tooth (if possible) is usually better than extraction.
+If extraction is needed, you'll face costs for tooth replacement: implant ($2,500 to $6,000), bridge ($2,400 to $6,000), or denture ($1,500 to $3,000). Learning more about [cost of cosmetic crown selection](/article/cost-of-cosmetic-crown-selection.html) can help you understand this better. This is why trying to save the tooth (if possible) is usually better than extraction.
 
 ## Can the Tooth Be Saved?
 
@@ -90,6 +90,8 @@ You can eat normally within a few hours of bonding (after the material fully har
 ## Conclusion
 
 A small chip repaired with bonding costs $150 to $300 and takes one appointment. A cracked tooth needing root canal plus crown costs $1,800 to $3,500 and takes multiple appointments over weeks. A tooth broken below the gum might need extraction and replacement ($2,500 to $6,000). Getting prompt treatment (within hours or days of injury) offers the best chance to save your tooth. Talk to your dentist about saving damaged teeth—extraction and replacement are usually much more expensive than repair.
+
+
 
 ## Related Articles You May Find Helpful
 

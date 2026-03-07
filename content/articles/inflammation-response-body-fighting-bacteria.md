@@ -1,9 +1,9 @@
 ---
-title: Inflammation Response: Body Fighting Bacteria
+title: "Inflammation Response: Body Fighting Bacteria"
 slug: inflammation-response-body-fighting-bacteria
 category: Periodontics
 category_slug: periodontics
-excerpt: Comprehensive examination of host immune response mechanisms against oral pathogens, including innate immunity, acquired immunity, inflammation pathways, and resolution of inflammatory response in periodontal disease.
+excerpt: "Comprehensive examination of host immune response mechanisms against oral pathogens, including innate immunity, acquired immunity, inflammation."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

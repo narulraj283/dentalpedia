@@ -1,6 +1,6 @@
 ---
 title: "Nanotechnology in Dentistry: Future Materials and Clinical Applications"
-excerpt: "Explore how nanotechnology is revolutionizing dental materials, from nanocomposites to nanofibrous scaffolds, enabling superior clinical outcomes and tissue regeneration."
+excerpt: "Explore how nanotechnology is revolutionizing dental materials, from nanocomposites to nanofibrous scaffolds, enabling superior clinical outcomes and."
 category: "dental-technology"
 subcategory: "Technology Overview"
 page_type: "overview-technology"

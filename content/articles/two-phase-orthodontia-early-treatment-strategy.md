@@ -3,7 +3,7 @@ title: Two-Phase Orthodontia - Early Treatment Strategy, Growth Modification, an
 slug: two-phase-orthodontia-early-treatment-strategy
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Two-phase orthodontic treatment sequencing, Phase 1 interceptive goals, resting period, Phase 2 comprehensive correction, AAO guidelines, and cost considerations.
+excerpt: "Two-phase orthodontic treatment sequencing, Phase 1 interceptive goals, resting period, Phase 2 comprehensive correction, AAO guidelines, and cost."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Orthodontics

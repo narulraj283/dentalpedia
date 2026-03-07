@@ -1,9 +1,9 @@
 ---
-title: Veneer Longevity and Durability: Clinical Evidence and Survival Rates
+title: "Veneer Longevity and Durability: Clinical Evidence and Survival Rates"
 slug: timeline-for-veneer-durability-facts
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Porcelain veneers demonstrate 93-95% 15-year survival rates, while composite veneers last 5-7 years with proper maintenance, maintenance requirements, and failure mode management.
+excerpt: "Porcelain veneers demonstrate 93-95% 15-year survival rates, while composite veneers last 5-7 years with proper maintenance, maintenance."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

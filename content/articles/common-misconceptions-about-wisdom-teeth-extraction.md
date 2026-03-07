@@ -33,7 +33,7 @@ The outdated thinking was to extract all impacted wisdom teeth to prevent future
 
 ## When Do Wisdom Teeth Actually Need Removal?
 
-Here are the real reasons to extract wisdom teeth: (1) recurring inflammation (pericoronitis—when the gum over a partially erupted tooth gets infected repeatedly), (2) decay affecting the wisdom tooth or the tooth in front of it, (3) gum disease around the wisdom tooth that isn't responding to treatment, (4) cysts or other pathology associated with the tooth, (5) orthodontic treatment that requires space, (6) dentist planning to use your wisdom teeth area for an implant.
+Here are the real reasons to extract wisdom teeth: (1) recurring inflammation (pericoronitis—when the gum over a partially erupted tooth gets infected repeatedly), (2) decay affecting the wisdom tooth or the tooth in front of it, (3) gum disease around the wisdom tooth that isn't responding to treatment, (4) cysts or other pathology associated with the tooth, (5) orthodontic treatment that requires space, (6) dentist planning to use your wisdom teeth area for an implant. You may also want to read about [common misconceptions about tooth extraction recovery](/article/common-misconceptions-about-tooth-extraction-recovery.html).
 
 What's NOT a good reason: the tooth is impacted and asymptomatic (not causing any problems), you want to prevent problems that might happen in the future, or you're having other dental work.
 
@@ -59,7 +59,7 @@ Pericoronitis (infection of the gum around a partially erupted wisdom tooth) hap
 
 ## Complication Risks
 
-Let's talk about what can happen with extraction. About 75-85% of simple extractions go fine. For surgical extractions (removing impacted teeth), about 20-30% of people experience some difficulty, though serious complications are rare. Specific risks include:
+Let's talk about what can happen with extraction. Learning more about [complex extractions what you need to know](/article/complex-extractions-what-you-need-to-know.html) can help you understand this better. About 75-85% of simple extractions go fine. For surgical extractions (removing impacted teeth), about 20-30% of people experience some difficulty, though serious complications are rare. Specific risks include:
 
 - Temporary nerve numbness (10-20%): Usually resolves within 3-6 months
 - Dry socket (3-5% for simple extraction, 15-30% for surgical): Painful but treatable
@@ -82,9 +82,17 @@ Current professional guidelines recommend: extraction for wisdom teeth causing d
 
 This is a big shift from decades past when most impacted wisdom teeth were extracted routinely. The evidence shows that most people don't need this extraction and do just fine keeping asymptomatic impacted wisdom teeth.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about wisdom teeth extraction and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
 ## Conclusion
 
 Wisdom teeth removal is necessary only if they're causing actual problems: infection, decay, gum disease, or pathology. Asymptomatic impacted wisdom teeth are usually fine to leave alone and monitor with x-rays. If extraction is needed, younger age means easier surgery and faster recovery. Complications are relatively uncommon, and pain is usually manageable with over-the-counter medications.
+
+
 
 ## Related Articles You May Find Helpful
 

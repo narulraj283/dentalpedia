@@ -1,9 +1,9 @@
 ---
-title: Implant Cost Analysis: What Affects Your Final Price
+title: "Implant Cost Analysis: What Affects Your Final Price"
 slug: implant-cost-analysis-what-affects-your-final-price
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Comprehensive analysis of cost factors influencing implant treatment pricing including surgical complexity, bone augmentation, materials, and restoration components.
+excerpt: "Comprehensive analysis of cost factors influencing implant treatment pricing including surgical complexity, bone augmentation, materials, and."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

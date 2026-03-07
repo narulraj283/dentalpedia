@@ -3,7 +3,7 @@ title: Smoking and Gum Disease - Why Quitting Matters
 slug: smoking-and-gum-disease-why-quitting-matters
 category: Periodontics
 category_slug: periodontics
-excerpt: Smoking cessation initiates rapid vascular recovery and immune reconstitution that substantially improves periodontal treatment outcomes and disease progression.
+excerpt: "Smoking cessation initiates rapid vascular recovery and immune reconstitution that substantially improves periodontal treatment outcomes and disease."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Periodontics

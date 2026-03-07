@@ -1,11 +1,11 @@
 ---
-title: Mixed Dentition Guidance: Directing Eruption
+title: "Mixed Dentition Guidance: Directing Eruption"
 slug: mixed-dentition-guidance-directing-eruption
 category: Orthodontics
 category_slug: orthodontics
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-excerpt: Mixed dentition guidance employs subtle biomechanical forces and space management during the dynamic transition period to optimize permanent tooth eruption pathways—preventing severe malocclusions while minimizing future comprehensive treatment complexity.
+excerpt: "Mixed dentition guidance employs subtle biomechanical forces and space management during the dynamic transition period to optimize permanent tooth."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

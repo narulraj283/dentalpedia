@@ -3,7 +3,7 @@ title: "Cosmetic Tooth Repair: Your Complete Guide"
 slug: best-practices-for-cosmetic-tooth-repair
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Clinical protocols for repairing chipped, fractured, and discolored teeth using bonded composites, veneers, and crowns with treatment outcome data.
+excerpt: "Whether you knocked out a chunk of your front tooth in a sports accident, got hit in the face, fell on your face, or just have a tooth that's been."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry
@@ -114,5 +114,5 @@ Your dentist is your partner in oral health. The more openly you communicate abo
 
 Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
 
-> **Key Takeaway:** Understanding cosmetic tooth repair helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+> **Key Takeaway:** Whether you knocked out a chunk of your front tooth in a sports accident, got hit in the face, fell on your face, or just have a tooth that's been discolored since you were a kid, cosmetic tooth repair is possible. Your dentist can help you understand what steps are right for your specific needs.
 

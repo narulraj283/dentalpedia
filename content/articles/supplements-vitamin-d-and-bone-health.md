@@ -3,7 +3,7 @@ title: Supplements - Vitamin D and Bone Health in Dentistry
 slug: supplements-vitamin-d-and-bone-health
 category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: Vitamin D metabolism, calcium absorption mechanisms, alveolar bone density relationships, implant osseointegration effects, periodontal outcomes, deficiency prevalence, supplementation dosing, and serum targets.
+excerpt: "Vitamin D metabolism, calcium absorption mechanisms, alveolar bone density relationships, implant osseointegration effects, periodontal outcomes,."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Dental Nutrition Science

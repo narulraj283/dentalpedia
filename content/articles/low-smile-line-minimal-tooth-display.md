@@ -1,9 +1,9 @@
 ---
-title: Low Smile Line: Minimal Tooth Display
+title: "Low Smile Line: Minimal Tooth Display"
 slug: low-smile-line-minimal-tooth-display
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Clinical management of low smile lines and minimal tooth display, including assessment of vertical smile parameters, gingival visibility considerations, and treatment planning to enhance smile esthetics in anterior dentition.
+excerpt: "Clinical management of low smile lines and minimal tooth display, including assessment of vertical smile parameters, gingival visibility."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

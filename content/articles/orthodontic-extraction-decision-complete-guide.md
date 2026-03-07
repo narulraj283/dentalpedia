@@ -3,7 +3,7 @@ title: Orthodontic Extraction Decision Complete Guide
 slug: orthodontic-extraction-decision-complete-guide
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Evidence-based framework for extraction versus non-extraction treatment decisions, including Bolton analysis, arch-length discrepancy, and anchoring strategies.
+excerpt: "Evidence-based framework for extraction versus non-extraction treatment decisions, including Bolton analysis, arch-length discrepancy, and anchoring."
 date: 2026-03-05
 read_time: 13 min
 reviewer_specialty: Orthodontics

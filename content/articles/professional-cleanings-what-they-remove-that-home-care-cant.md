@@ -1,9 +1,9 @@
 ---
-title: Professional Cleanings: What They Remove That Home Care Can't
+title: "Professional Cleanings: What They Remove That Home Care Can't"
 slug: professional-cleanings-what-they-remove-that-home-care-cant
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Professional prophylaxis removes calculus, subgingival biofilm, and stains that home care cannot access, preventing periodontal disease and maintaining long-term oral health.
+excerpt: "Professional prophylaxis removes calculus, subgingival biofilm, and stains that home care cannot access, preventing periodontal disease and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontology

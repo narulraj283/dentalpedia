@@ -1,9 +1,9 @@
 ---
-title: Sleep-Disordered Breathing in Kids: OSA Signs and Symptoms
+title: "Sleep-Disordered Breathing in Kids: OSA Signs and Symptoms"
 slug: sleep-disordered-breathing-in-kids-osa-signs
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Pediatric obstructive sleep apnea involves adenotonsillar hypertrophy and craniofacial abnormalities; behavioral symptoms, orthodontic intervention, and polysomnographic assessment guide diagnosis and treatment.
+excerpt: "Pediatric obstructive sleep apnea involves adenotonsillar hypertrophy and craniofacial abnormalities; behavioral symptoms, orthodontic intervention,."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Pediatric Dentistry

@@ -3,7 +3,7 @@ title: Risk and Concerns with Preventive Treatments in Preventive Care
 slug: risk-and-concerns-with-preventive-treatments
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Examining risks of fluoride application reactions, sealant failure and caries underneath, prophylaxis sensitivity, and overuse of antimicrobials in preventive dentistry.
+excerpt: "Examining risks of fluoride application reactions, sealant failure and caries underneath, prophylaxis sensitivity, and overuse of antimicrobials in."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Preventive Dentistry

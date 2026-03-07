@@ -1,5 +1,5 @@
 ---
-title: Intellectual Disability: Adaptive Dental Techniques
+title: "Intellectual Disability: Adaptive Dental Techniques"
 slug: intellectual-disability-adaptive-dental-techniques
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry

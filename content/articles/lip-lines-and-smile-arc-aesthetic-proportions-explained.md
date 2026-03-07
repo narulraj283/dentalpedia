@@ -1,9 +1,9 @@
 ---
-title: Lip Lines and Smile Arc: Comprehensive Guide to Smile Aesthetics
+title: "Lip Lines and Smile Arc: Comprehensive Guide to Smile Aesthetics"
 slug: lip-lines-and-smile-arc-aesthetic-proportions-explained
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Smile aesthetics depend on dynamic relationships between the lips and teeth, including buccal corridors, smile arc, and incisor display. Understanding these proportions guides comprehensive cosmetic treatment planning.
+excerpt: "Smile aesthetics depend on dynamic relationships between the lips and teeth, including buccal corridors, smile arc, and incisor display."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

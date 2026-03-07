@@ -3,7 +3,7 @@ title: Risk and Concerns with Braces Discomfort Relief
 slug: risk-and-concerns-with-braces-discomfort-relief
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Orthodontic pain mechanisms, initial bonding discomfort, adjustment soreness, and evidence-based management strategies enable effective patient support during treatment.
+excerpt: "Orthodontic pain mechanisms, initial bonding discomfort, adjustment soreness, and evidence-based management strategies enable effective patient."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontics

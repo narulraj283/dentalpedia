@@ -1,5 +1,5 @@
 ---
-title: Cost of Surgical Complications in Oral and Maxillofacial Surgery
+title: Cost of Surgical Complications in Oral and Maxillofacial
 slug: cost-of-surgical-complications
 category: Oral Surgery
 category_slug: oral-surgery
@@ -39,7 +39,7 @@ The good news: most complications are preventable or manageable if caught early.
 
 **What causes it:** The healing clot breaks down, exposing bone
 
-**How to prevent it:** Don't rinse, spit, use straws, or smoke for the first week. Avoid vigorous activity.
+**How to prevent it:** Don't rinse, spit, use straws, or smoke for the first week. Learning more about [extraction warning signs](/article/extraction-warning-signs.html) can help you understand this better. Avoid vigorous activity.
 
 If dry socket develops, your dentist rinses the socket and places medicated dressing. Weekly visits for 2-4 weeks might be needed. You can prevent this common problem by following post-op instructions.
 
@@ -119,7 +119,7 @@ Extreme swelling that affects breathing or swallowing is an emergency requiring 
 - Taking antibiotics as prescribed: INCLUDED in surgery cost
 - Avoiding smoking/alcohol: FREE
 - Activity restriction: FREE
-- Attending follow-up visit: Usually FREE or included in surgery fee
+- Attending follow-up visit: Usually FREE or included in surgery fee You may also want to read about [prevention post surgery](/article/prevention-post-surgery.html).
 
 **These FREE/cheap preventions stop complications costing $75-$1,000+**
 
@@ -155,9 +155,23 @@ Taking prescribed antibiotics prevents infections that cost 10-20 times more to 
 
 Your dentist wants to see you 1-2 weeks post-op. This visit ($0-$100, usually free) catches problems early. Don't skip it thinking everything feels fine.
 
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about surgical complications and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
+
+## Protecting Your Results Long-Term
+
+Once you've addressed surgical complications, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+
 ## Conclusion
 
 Most complications from dental surgery are preventable or manageable when caught early. Following post-op instructions (FREE), taking prescribed medications ($5-$25), and attending follow-up visits ($0-$100) prevent complications costing $300-$5,000. Smoking increases complications by 40-50%, so stopping even temporarily helps. Call immediately if you experience fever, spreading swelling, or warning signs. Prevention and early detection are far cheaper than treating advanced complications.
+
+
 
 ## Related Articles You May Find Helpful
 

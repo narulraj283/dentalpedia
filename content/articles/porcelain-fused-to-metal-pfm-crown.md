@@ -3,7 +3,7 @@ title: Porcelain-Fused-to-Metal (PFM) Crowns—Durability and Clinical Design
 slug: porcelain-fused-to-metal-pfm-crown
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: PFM crowns combine metal coping strength with porcelain esthetics through proper preparation design, alloy selection, and margin management balancing strength and appearance.
+excerpt: "PFM crowns combine metal coping strength with porcelain esthetics through proper preparation design, alloy selection, and margin management balancing."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Prosthodontics

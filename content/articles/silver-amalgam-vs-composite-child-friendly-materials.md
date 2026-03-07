@@ -1,9 +1,9 @@
 ---
-title: Silver Amalgam vs Composite Resins in Pediatric Dentistry: Material Selection and Clinical Performance
+title: "Silver Amalgam vs Composite Resins in Pediatric Dentistry: Material Selection and Clinical Performance"
 slug: silver-amalgam-vs-composite-child-friendly-materials
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Comparing amalgam and composite resin materials for primary teeth restoration based on material properties, clinical performance, moisture sensitivity, and evidence-based selection criteria.
+excerpt: "Comparing amalgam and composite resin materials for primary teeth restoration based on material properties, clinical performance, moisture."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Pediatric Dentistry

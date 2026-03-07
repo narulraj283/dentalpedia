@@ -3,7 +3,7 @@ title: Rotated Tooth Correction - Orthodontic Derotation vs Cosmetic Bonding
 slug: rotated-tooth-correction-cosmetic-orthodontics-vs-bonding
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Compare treatment modalities for correcting tooth rotation through orthodontic mechanics, fiber-reinforced retention protocols, cosmetic composite bonding techniques, and veneer considerations based on rotation severity and patient goals.
+excerpt: "Compare treatment modalities for correcting tooth rotation through orthodontic mechanics, fiber-reinforced retention protocols, cosmetic composite."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentist

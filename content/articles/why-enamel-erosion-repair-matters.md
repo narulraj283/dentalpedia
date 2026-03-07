@@ -3,7 +3,7 @@ title: Why Enamel Erosion Repair Matters - Managing Progressive Loss, Sensitivit
 slug: why-enamel-erosion-repair-matters
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Enamel erosion represents progressive, irreversible loss requiring early intervention to prevent sensitivity, esthetic decline, and structural tooth compromise.
+excerpt: "Enamel erosion represents progressive, irreversible loss requiring early intervention to prevent sensitivity, esthetic decline, and structural tooth."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Restorative Dentistry

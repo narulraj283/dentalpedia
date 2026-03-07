@@ -1,9 +1,9 @@
 ---
-title: Guard Replacement Frequency: When to Replace Protective Guards
+title: "Guard Replacement Frequency: When to Replace Protective"
 slug: guard-replacement-frequency-when-to-replace
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based replacement intervals for athletic mouthguards, night guards, and protective devices based on material degradation and functional assessment.
+excerpt: "Evidence-based replacement intervals for athletic mouthguards, night guards, and protective devices based on material degradation and functional."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Preventive Dentistry
@@ -11,31 +11,12 @@ subcategory: Preventive Overview
 subcategory_slug: overview-prevent
 reviewed: true
 references:
-  - title: "Kawakita A, Akatsuka Y, Sugiyama R, et al. Shock absorption properties of custom-made and prefabricated mouthguards. Dent Traumatol. 2003;19(4):200-206."
-    url: "https://www.ncbi.nlm.nih.gov/pubmed"
-  - title: "Garon MW, Dorchester W, Garechana G. Mouth protectors: does the "one size fits all" approach work? Dent Clin North Am. 1991;35(4):645-658."
-    url: "https://www.ncbi.nlm.nih.gov/pubmed"
-  - title: "Lieger O, Pulay AJ, Barberini L, et al. Mouthguard effectiveness in preventing dentoalveolar injuries. Dent Traumatol. 2008;24(3):339-344."
-    url: "https://www.ncbi.nlm.nih.gov/pubmed"
-  - title: "Chapman PJ. Epidemiology of unintentional injuries, fatal and non-fatal. Med J Aust. 1997;166(4):182-186."
-    url: "https://www.ncbi.nlm.nih.gov/pubmed"
-  - title: "Corazza A, Tondelli L, Marchini L, et al. Mechanical properties and degradation of ethylene-vinyl acetate mouthguards. Eur J Dent Educ. 2002;6(2):51-56."
-    url: "https://www.ncbi.nlm.nih.gov/pubmed"
-  - title: "Skapski H, Meredith B. Sport Related Dental Injuries: Etiology, Management and Prevention. In: Meredith B, ed. Pediatric Dentistry: Infancy Through Adolescence. 4th ed. Elsevier Saunders; 2013:1048-1063."
-    url: "https://www.ncbi.nlm.nih.gov/pubmed"
-  - title: "Tuli T, Hawkins R, Clark JM. Bruxism: etiology, diagnosis, and treatment. Gen Dent. 2002;50(2):138-144."
-    url: "https://www.ncbi.nlm.nih.gov/pubmed"
-  - title: "Kligman AM, Zheng P. Identification of invisible pollutants on human skin. Cosmet Toiletries. 1991;106(7):36-39."
-    url: "https://www.ncbi.nlm.nih.gov/pubmed"
-  - title: "Gould BA, Freeman GH, Cawood AH, et al. A Method of Assessing Mouthguard Retention. Br Dent J. 1991;170(3):87-89."
-    url: "https://www.ncbi.nlm.nih.gov/pubmed"
-  - title: "Kumamoto DP, Maeda Y. A literature review of sports-related orofacial trauma. Gen Dent. 2002;50(4):304-311."
-    url: "https://www.ncbi.nlm.nih.gov/pubmed"
+  - "title: 'Kawakita A, Akatsuka Y, Sugiyama R, et al. Shock absorption properties of custom-made and prefabricated mouthguards. Dent Traumatol. 2003;19(4):200-206."
 ---
 
 ## Different Types of Guards and How They Wear
 
-There are three main types of protective guards for your teeth. Athletic mouthguards protect your teeth during sports. Night guards protect them while you sleep if you grind or clench your teeth. Retention guards help keep dentures or other devices in place. Each one wears out at a different rate and needs replacement at different intervals.
+There are three main types of protective guards for your teeth. Learning more about [all ceramic veneers ultra thin cosmetic shells](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html) can help you understand this better. Athletic mouthguards protect your teeth during sports. Night guards protect them while you sleep if you grind or clench your teeth. Retention guards help keep dentures or other devices in place. Each one wears out at a different rate and needs replacement at different intervals.
 
 An athletic mouthguard needs to be at least 3-4 mm thick to absorb impacts properly, fit snugly so it doesn't fall out during play, and stay comfortable enough that you can breathe and talk. A night guard is thinner (you want it barely visible), needs to be comfortable for 6-8 hours of nightly wear, and must be strong enough to handle grinding forces. These different needs mean the materials used are different, and they wear differently too.
 
@@ -92,6 +73,8 @@ Athletic guards need replacing every 12-24 months, night guards every 12-36 mont
 ## Key Takeaway
 
 Most athletic mouthguards last 12-24 months, night guards last 18-36 months, and denture guards last 2-3 years. Regular dental checkups can identify when guards need replacement before they fail. Proper storage away from heat and regular cleaning extends guard life.
+
+
 
 ## Related Articles
 

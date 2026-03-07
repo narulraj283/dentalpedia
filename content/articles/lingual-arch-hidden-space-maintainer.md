@@ -1,9 +1,9 @@
 ---
-title: Lingual Arch: Hidden Space Maintainer in Pediatric Dentistry
+title: "Lingual Arch: Hidden Space Maintainer in Pediatric Dentistry"
 slug: lingual-arch-hidden-space-maintainer
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: The lingual arch is a fixed, discreet space maintainer bonded to the lingual surface of lower molars, preserving critical space for permanent tooth eruption during mixed dentition phase.
+excerpt: "The lingual arch is a fixed, discreet space maintainer bonded to the lingual surface of lower molars, preserving critical space for permanent tooth."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Pediatric Dentistry

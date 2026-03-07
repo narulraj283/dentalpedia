@@ -3,7 +3,7 @@ title: Warm Gutta-Percha and Softened-Filling Methods
 slug: warm-gutta-percha-softened-filling-method
 category: Endodontics
 category_slug: endodontics
-excerpt: Warm gutta-percha obturation using continuous wave and softened-filling techniques improves adaptation, eliminates voids, and achieves superior three-dimensional filling of complex root canal anatomy.
+excerpt: "Warm gutta-percha obturation using continuous wave and softened-filling techniques improves adaptation, eliminates voids, and achieves superior."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Endodontics

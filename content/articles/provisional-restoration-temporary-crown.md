@@ -1,9 +1,9 @@
 ---
-title: Provisional Restoration: Temporary Crown Fabrication
+title: "Provisional Restoration: Temporary Crown Fabrication"
 slug: provisional-restoration-temporary-crown
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Provisional crowns (bis-acryl, PMMA) are fabricated using direct or indirect techniques, requiring margin integrity, pulp protection, and optimal cementation for biological and mechanical success.
+excerpt: "Provisional crowns (bis-acryl, PMMA) are fabricated using direct or indirect techniques, requiring margin integrity, pulp protection, and optimal."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Prosthodontics

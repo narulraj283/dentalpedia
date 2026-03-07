@@ -1,9 +1,9 @@
 ---
-title: Tooth Whitening Timing: When to Whiten During Dental Treatment
+title: "Tooth Whitening Timing: When to Whiten During Dental Treatment"
 slug: tooth-whitening-timing-when-to-whiten-during-treatment
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Clinical guidance on optimal timing of whitening procedures in relation to restorations, orthodontics, and other dental treatments with shade stabilization protocols.
+excerpt: "Clinical guidance on optimal timing of whitening procedures in relation to restorations, orthodontics, and other dental treatments with shade."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Cosmetic Dentistry

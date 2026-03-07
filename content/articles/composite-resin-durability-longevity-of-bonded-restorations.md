@@ -1,5 +1,5 @@
 ---
-title: Composite Resin Durability: Longevity and Clinical Performance
+title: "Composite Resin Durability: Longevity and Clinical"
 slug: composite-resin-durability-longevity-of-bonded-restorations
 category: General Dentistry
 category_slug: general-dentistry
@@ -39,7 +39,7 @@ Composites also absorb water from your mouth (0.4-0.8% water absorption). Water 
 
 ## Placement Technique Affects Longevity
 
-How your dentist places the composite significantly impacts durability. Incremental placement (placing resin in 2-3mm thick layers, light-curing each layer separately) is much superior to bulk placement (trying to fill the whole cavity at once). Incremental placement distributes polymerization shrinkage stress over multiple interfaces, reducing peak stress by 40-50%. This means fewer gaps and better marginal adaptation.
+How your dentist places the composite significantly impacts durability. Learning more about [composite bonding margins blending](/article/composite-bonding-margins-blending.html) can help you understand this better. Incremental placement (placing resin in 2-3mm thick layers, light-curing each layer separately) is much superior to bulk placement (trying to fill the whole cavity at once). Incremental placement distributes polymerization shrinkage stress over multiple interfaces, reducing peak stress by 40-50%. This means fewer gaps and better marginal adaptation.
 
 Light-curing parameters matter too. Your dentist should use adequate light intensity (1000+ mW/cm²) and adequate duration (15-20 seconds for LED, 40-60 seconds for halogen lights). Under-cured composite (not hardened completely) is softer, wears faster, and degrades faster.
 
@@ -49,7 +49,7 @@ The bonding between composite and tooth is the weak point. Contemporary adhesive
 
 Total-etch adhesives (where you apply phosphoric acid to etch both enamel and dentin) create greater demineralization and more potential for water infiltration. Self-etch adhesives (which are milder and don't etch as aggressively) show 15-25% less water sorption and better long-term bond stability.
 
-Regardless of adhesive type, proper technique is critical: controlling moisture (not too wet or too dry), applying adhesive correctly, and ensuring complete polymerization.
+Regardless of adhesive type, proper technique is critical: controlling moisture (not too wet or too dry), applying adhesive correctly, and ensuring complete polymerization. You may also want to read about [complete guide to dental exams and cleanings](/article/complete-guide-to-dental-exams-and-cleanings.html).
 
 ## Margin Integrity: The Real Longevity Determinant
 
@@ -96,6 +96,8 @@ For large cavities, ceramic inlays/onlays (lasting 15+ years) might be more cost
 ## Conclusion
 
 Composite resin restorations last 5-12 years on average, with about 50% surviving 10 years. Longevity depends on: proper placement technique (incremental placement reducing shrinkage stress), adhesive preservation (moisture control), excellent home care (preventing secondary caries), and patient compliance (soft brushing, fluoride use, gentle diet). With meticulous technique and good patient compliance, some composites last 15+ years. Understanding these factors enables you to maximize restoration longevity through informed choices and diligent home care.
+
+
 
 ## Related Articles You May Find Helpful
 

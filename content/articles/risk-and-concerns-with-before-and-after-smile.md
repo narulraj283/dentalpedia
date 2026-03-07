@@ -3,7 +3,7 @@ title: Before and After Smile Makeover - Planning, Digital Design, and Realistic
 slug: risk-and-concerns-with-before-and-after-smile
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Smile makeovers require digital smile design, standardized photography, informed consent, and management of expectations regarding reversibility and realistic esthetic achievability.
+excerpt: "Smile makeovers require digital smile design, standardized photography, informed consent, and management of expectations regarding reversibility and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentist

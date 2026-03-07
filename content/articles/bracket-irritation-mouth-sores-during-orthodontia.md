@@ -1,9 +1,9 @@
 ---
-title: Bracket Irritation and Oral Ulceration: Prevention, Diagnosis, and Management
+title: "Bracket Irritation and Oral Ulceration: Prevention,"
 slug: bracket-irritation-mouth-sores-during-orthodontia
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Clinical management of mechanical trauma-induced oral ulcerations during fixed appliance therapy, including identification of irritant sources, protective barriers, and treatment protocols to minimize mucosal injury.
+excerpt: "One of the most common complaints from people with braces is that they cause sore spots inside their mouth."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics
@@ -111,6 +111,12 @@ When your braces are placed, ask: What's your bracket smoothing protocol? Are th
 ## If Sores Keep Coming Back
 
 If you keep getting sores in the same spot, your orthodontist might need to reposition a bracket, use a smaller wire temporarily to reduce rigidity, trim the archwire shorter, or apply a smooth protective coating over the sharp area. These changes usually fix the problem completely. In rare cases where someone gets severe, widespread sores that affect eating or sleeping, a brief treatment break (1 to 2 weeks) might be recommended while the mouth heals, then treatment resumes with structural modifications.
+
+
+
+## Conclusion
+
+Taking care of your oral health means staying informed about bracket irritation mouth sores during orthodontia. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
 
 ## Key Takeaway
 

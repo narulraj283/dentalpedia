@@ -1,9 +1,9 @@
 ---
-title: Chlorhexidine Irrigation: Subgingival Antimicrobial Solution for Periodontal Disease Management
+title: "Chlorhexidine Irrigation: Subgingival Antimicrobial"
 slug: chlorhexidine-irrigation-antimicrobial-solution
 category: Periodontics
 category_slug: periodontics
-excerpt: Chlorhexidine irrigation is an antimicrobial rinse that helps reduce bacteria in deep pockets below your gumline. Learn when it's recommended and how it works alongside other gum disease treatments.
+excerpt: "If your dentist has recommended chlorhexidine irrigation for your gum disease, you might be wondering what it is and how it helps."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Periodontics
@@ -100,6 +100,12 @@ Your dentist will help determine if antibiotics are right for your situation.
 After chlorhexidine irrigation, you'll need regular dental visits to monitor your gum health. Your dentist will measure your pocket depths and check for any signs that the bacteria is returning. If your pockets deepen again, additional treatment might be needed.
 
 Most people benefit from visits every 3-4 months after treatment to stay on top of their gum health.
+
+
+
+## Questions to Ask Your Dentist
+
+When you visit your dentist, ask about chlorhexidine irrigation antimicrobial solution and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
 
 ## Conclusion
 

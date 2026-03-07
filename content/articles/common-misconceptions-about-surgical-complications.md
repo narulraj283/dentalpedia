@@ -1,5 +1,5 @@
 ---
-title: Oral Surgical Complications: Evidence-Based Risk Assessment and Mitigation
+title: "Oral Surgical Complications: Evidence-Based Risk Assessment"
 slug: common-misconceptions-about-surgical-complications
 category: Oral Surgery
 category_slug: oral-surgery
@@ -27,7 +27,7 @@ If you're facing tooth extraction or oral surgery, you probably have questions a
 
 You'll be relieved to know that serious complications after oral surgery are actually quite uncommon. For example, when dentists remove wisdom teeth, about 1-2 out of 100 patients experience something serious. The most common minor issue is "dry socket" (where the healing spot becomes painful) happening in about 1 out of 10 cases. Most people heal just fine without any problems.
 
-Because these numbers are well-known, your dentist can tell you before your procedure what the realistic risks are for you personally. This helps you make an informed decision and know what to expect during recovery.
+Because these numbers are well-known, your dentist can tell you before your procedure what the realistic risks are for you personally. Learning more about [impacted teeth removal canines molars and premolars](/article/impacted-teeth-removal-canines-molars-and-premolars.html) can help you understand this better. This helps you make an informed decision and know what to expect during recovery.
 
 ## Does Antibiotics Guarantee You Won't Get an Infection?
 
@@ -51,7 +51,7 @@ After you go home, if you bite down on gauze for 20-30 minutes, most bleeding wi
 
 When your dentist gives you numbing medication before surgery, it's completely safe and well-studied. True allergic reactions to numbing medicine are actually very rare—they happen in fewer than 1 out of 100 people. More common is a "vasovagal response" where you feel lightheaded or dizzy, usually because you're nervous or anxious. That's not a true allergic reaction, and it's easily managed by letting your dentist know how you're feeling.
 
-Your dentist calculates the correct dose of numbing medication based on your weight and the extent of surgery. This means you get enough to stay comfortable but not so much that you have any problems. If you're nervous about anesthesia, talk to your dentist before your appointment—they have lots of experience helping anxious patients through procedures safely.
+Your dentist calculates the correct dose of numbing medication based on your weight and the extent of surgery. Learning more about [timeline for recovery timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. This means you get enough to stay comfortable but not so much that you have any problems. If you're nervous about anesthesia, talk to your dentist before your appointment—they have lots of experience helping anxious patients through procedures safely.
 
 ## Is Dry Socket Something You Can Prevent?
 
@@ -80,6 +80,8 @@ True permanent nerve damage is very rare. When it does happen (and we're talking
 ## Conclusion
 
 While surgical complications can happen, they're generally uncommon, manageable, and usually temporary. The best approach is understanding realistic risks, following your dentist's pre- and post-operative instructions carefully, and staying in touch with your surgical team if anything concerns you. Most people heal beautifully and go back to normal function within a couple of weeks.
+
+
 
 ## Related Articles You May Find Helpful
 

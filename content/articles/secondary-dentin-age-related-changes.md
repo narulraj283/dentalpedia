@@ -3,7 +3,7 @@ title: Secondary Dentin Formation and Age-Related Dental Changes
 slug: secondary-dentin-age-related-changes
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Secondary and tertiary dentin formation represent natural physiologic responses to aging and irritation that significantly alter pulp-dentin complex anatomy and clinical treatment approaches.
+excerpt: "Secondary and tertiary dentin formation represent natural physiologic responses to aging and irritation that significantly alter pulp-dentin complex."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: General Dentistry

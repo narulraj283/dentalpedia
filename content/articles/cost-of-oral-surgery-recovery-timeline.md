@@ -3,7 +3,7 @@ title: Cost of Oral Surgery Recovery Timeline
 slug: cost-of-oral-surgery-recovery-timeline
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Oral surgery recovery takes 1-2 weeks for initial healing and 2-3 months for complete healing—understanding the timeline helps you plan time off and manage costs.
+excerpt: "Recovery from oral surgery like tooth extraction or implant placement takes time."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery
@@ -41,7 +41,7 @@ Antibiotic prescriptions ($5-30 generic) taken for 5-7 days prevent infection. C
 
 ## Days 2-3: The Worst of the Swelling
 
-Swelling peaks around 48 hours. Your face might look pretty puffy, which is scary but normal. Pain typically decreases by day 2-3 unless complications develop.
+Swelling peaks around 48 hours. Learning more about [cost of mouth injuries treatment](/article/cost-of-mouth-injuries-treatment.html) can help you understand this better. Your face might look pretty puffy, which is scary but normal. Pain typically decreases by day 2-3 unless complications develop.
 
 Keep using ice the first day, then switch to warm rinses with salt water (1/2 teaspoon salt in 8 ounces warm water). This promotes healing.
 
@@ -53,7 +53,7 @@ Take over-the-counter pain medication as directed. Most people stop needing pres
 
 By day 5-7, most of the swelling is gone and you can usually return to work or normal activities. Suture removal happens around day 7-10, costing $25-75 if non-absorbable sutures were used. Absorbable sutures dissolve on their own (no removal needed).
 
-You can start gently rinsing your mouth with salt water and antimicrobial rinse (chlorhexidine, $15-35 per bottle) to keep the surgical site clean. Gentle—don't disturb the healing clot.
+You can start gently rinsing your mouth with salt water and antimicrobial rinse (chlorhexidine, $15-35 per bottle) to keep the surgical site clean. Learning more about [cost of pain management surgery](/article/cost-of-pain-management-surgery.html) can help you understand this better. Gentle—don't disturb the healing clot.
 
 Diet can gradually return to normal. Continue soft foods for another week to be safe.
 
@@ -103,9 +103,20 @@ Delayed healing: Extra visits ($100-200 each)
 
 Follow your dentist's post-op instructions exactly. It's the difference between smooth recovery and expensive complications.
 
+
+## Questions to Ask Before Your Surgery
+
+Before scheduling oral surgery, ask your surgeon about the expected recovery timeline for your specific procedure. Find out how many days you should plan to take off work and whether you'll need someone to drive you home afterward. Ask about dietary restrictions and when you can return to normal eating. Discuss pain management options, including which medications you'll need and how long you'll need them. Ask about warning signs that would require an emergency visit. Understanding the full recovery picture helps you plan ahead and budget for any time away from work or additional follow-up appointments.
+
+## Protecting Your Recovery and Avoiding Setbacks
+
+Following your surgeon's post-operative instructions carefully is the single most important thing you can do to avoid complications that add cost and delay healing. Don't smoke or use straws for at least 72 hours after surgery, as the suction can dislodge blood clots and cause painful dry socket. Stick to soft foods for the recommended period and avoid hot beverages on the first day. Take all prescribed medications as directed, including antibiotics if given. Attend every follow-up appointment even if you feel fine—your surgeon needs to check healing progress. Most complications are preventable with proper care, saving you both pain and money.
+Planning your meals ahead of surgery makes recovery smoother. Stock up on soft foods like yogurt, smoothies, mashed potatoes, scrambled eggs, and soup before your procedure date.
 ## Conclusion
 
 Oral surgery recovery takes 1-2 weeks for initial healing and 2-3 months for complete healing. Pain and swelling are worst the first 2-3 days, then improve rapidly. Follow post-op instructions exactly to avoid expensive complications like infection or dry socket. Talk to your surgeon about timeline expectations for your specific procedure.
+
+
 
 ## Related Articles You May Find Helpful
 

@@ -39,9 +39,9 @@ For a front tooth where appearance matters, all-ceramic is the best choice. For 
 
 ## The Crown Process
 
-Getting a crown takes two appointments. At the first appointment, your dentist numbs the tooth, removes decay if present, and shapes the tooth to fit under the crown. They take an impression (mold) of your tooth and send it to a dental lab. You get a temporary crown to wear for 1 to 2 weeks while the permanent crown is made. The temporary crown costs a bit extra (usually $75 to $150) and is included in your total crown cost in most practices.
+Getting a crown takes two appointments. Learning more about [cost of cosmetic bonding process](/article/cost-of-cosmetic-bonding-process.html) can help you understand this better. At the first appointment, your dentist numbs the tooth, removes decay if present, and shapes the tooth to fit under the crown. They take an impression (mold) of your tooth and send it to a dental lab. You get a temporary crown to wear for 1 to 2 weeks while the permanent crown is made. The temporary crown costs a bit extra (usually $75 to $150) and is included in your total crown cost in most practices.
 
-At the second appointment, your dentist removes the temporary crown and tries in the permanent crown. If the fit and color are perfect, they cement it in place. If adjustments are needed, that can add an extra appointment. The whole process takes about 2 weeks.
+At the second appointment, your dentist removes the temporary crown and tries in the permanent crown. Learning more about [cost of cosmetic smile design](/article/cost-of-cosmetic-smile-design.html) can help you understand this better. If the fit and color are perfect, they cement it in place. If adjustments are needed, that can add an extra appointment. The whole process takes about 2 weeks.
 
 ## Cosmetic Considerations
 
@@ -82,6 +82,8 @@ Some dentists offer a slight discount if you're getting multiple crowns at once 
 ## Conclusion
 
 A single cosmetic crown costs $800 to $1,500, with premium options and multiple teeth costing more. Insurance typically covers 50% for restorative reasons, though cosmetic crowns might not be covered. All-ceramic crowns look most natural on front teeth, while metal or porcelain-fused-to-metal works well for back teeth. Crowns last 10 to 15 years with good care, making them a solid long-term investment in your smile. Talk to your dentist about which crown material and lab quality will give you the results you want.
+
+
 
 ## Related Articles You May Find Helpful
 

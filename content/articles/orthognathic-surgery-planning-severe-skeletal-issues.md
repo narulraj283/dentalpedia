@@ -3,7 +3,7 @@ title: Orthognathic Surgery Planning for Severe Skeletal Issues
 slug: orthognathic-surgery-planning-severe-skeletal-issues
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Understand Le Fort and BSSO procedures, virtual surgical planning, orthodontic decompensation requirements, and how surgeons plan jaw reconstruction for life-changing results.
+excerpt: "Understand Le Fort and BSSO procedures, virtual surgical planning, orthodontic decompensation requirements, and how surgeons plan jaw reconstruction."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgeon

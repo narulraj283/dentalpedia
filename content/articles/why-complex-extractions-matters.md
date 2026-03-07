@@ -3,7 +3,7 @@ title: Why Understanding Complex Tooth Extractions Matters for Surgical Success
 slug: why-complex-extractions-matters
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Understanding complex extraction indications, techniques, and complication prevention enables informed consent, optimized outcomes, and appropriate specialist referral.
+excerpt: "Understanding complex extraction indications, techniques, and complication prevention enables informed consent, optimized outcomes, and appropriate."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Oral and Maxillofacial Surgery

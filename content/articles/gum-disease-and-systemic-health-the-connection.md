@@ -1,5 +1,5 @@
 ---
-title: Gum Disease and Systemic Health: The Connection
+title: "Gum Disease and Systemic Health: The Connection"
 slug: gum-disease-and-systemic-health-the-connection
 category: Periodontics
 category_slug: periodontics
@@ -31,7 +31,7 @@ references:
 
 ## Your Mouth Is Connected to Your Whole Body
 
-You might think gum disease only affects your teeth and gums. But research in the last two decades has revealed something striking: serious gum disease is linked to multiple chronic health conditions including heart disease, stroke, diabetes complications, respiratory infections, and even pregnancy problems.
+You might think gum disease only affects your teeth and gums. Learning more about [all on four four implant full arch](/article/all-on-four-four-implant-full-arch.html) can help you understand this better. But research in the last two decades has revealed something striking: serious gum disease is linked to multiple chronic health conditions including heart disease, stroke, diabetes complications, respiratory infections, and even pregnancy problems.
 
 This isn't to say gum disease causes these conditions—it's more complex than that. But the relationship is real and scientifically proven. Understanding this connection is one of the most important reasons to prevent and treat gum disease seriously.
 
@@ -158,6 +158,8 @@ The connection between gum disease and systemic health is scientifically well-es
 ## Key Takeaway
 
 Untreated gum disease creates chronic inflammation and bacterial exposure that increase your risk for serious health conditions including cardiovascular disease, diabetes complications, respiratory infections, and pregnancy problems. Treating gum disease and maintaining excellent gum health is crucial for your overall health, not just your oral health.
+
+
 
 ## Related Articles
 

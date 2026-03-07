@@ -3,7 +3,7 @@ title: Risk and Concerns with Traditional Versus Invisible Braces
 slug: risk-and-concerns-with-traditional-vs-invisible-braces
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Fixed appliance and clear aligner orthodontic systems each present distinct clinical advantages and limitations regarding treatment time, esthetic outcomes, functional correction capability, and iatrogenic complication risks requiring evidence-based system selection.
+excerpt: "Fixed appliance and clear aligner orthodontic systems each present distinct clinical advantages and limitations regarding treatment time, esthetic."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontics

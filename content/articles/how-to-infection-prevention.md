@@ -1,9 +1,9 @@
 ---
-title: Dental Infection Prevention: Understanding Cross-Contamination Control
+title: "Dental Infection Prevention: Understanding"
 slug: how-to-infection-prevention
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Dental offices use strict infection control protocols to protect patients and staff. Understand what you should expect regarding cleanliness and safety.
+excerpt: "You trust your dentist with your mouth. That trust extends to whether your dentist follows proper infection control procedures."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true
@@ -37,7 +37,7 @@ You trust your dentist with your mouth. That trust extends to whether your denti
 
 **Handpiece (drill) sterilization:** The dental handpiece is either sterilized between patients in an autoclave or a new handpiece is used. Some offices use more handpieces and rotate them through sterilization; others use a limited number sterilized between each patient.
 
-If you don't see these practices, question your dentist or consider finding a different practice. Good infection control should be visible and obvious.
+If you don't see these practices, question your dentist or consider finding a different practice. Learning more about [root caries decay on exposed roots](/article/root-caries-decay-on-exposed-roots.html) can help you understand this better. Good infection control should be visible and obvious.
 
 ## What Your Dentist Does
 
@@ -59,7 +59,7 @@ You should never feel embarrassed asking about sterilization. It's a reasonable 
 
 ## Your Role
 
-**Mention health conditions:** Tell your dentist if you have hepatitis, HIV, herpes, or other communicable diseases. This doesn't prevent treatment, but it helps your dentist take appropriate precautions and protects both you and staff.
+**Mention health conditions:** Tell your dentist if you have hepatitis, HIV, herpes, or other communicable diseases. Learning more about [jaw clenching during day causes and relaxation techniques](/article/jaw-clenching-during-day-causes-and-relaxation-techniques.html) can help you understand this better. This doesn't prevent treatment, but it helps your dentist take appropriate precautions and protects both you and staff.
 
 **Maintain your immune health:** Healthy immune function helps prevent infections. Avoid tobacco, manage stress, exercise, eat well, and get adequate sleep.
 
@@ -92,6 +92,8 @@ Modern dental offices maintain strict infection control. You should expect to se
 ## Key Takeaway
 
 Good infection control includes hand hygiene, instrument sterilization, disposable items, operatory disinfection, and protective equipment. These practices are standard in reputable dental offices.
+
+
 
 ## Related Articles
 

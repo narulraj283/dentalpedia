@@ -3,7 +3,7 @@ title: Ultrasonic Scaling Mechanics and Biofilm Removal
 slug: ultrasonic-scaler-vibration-cleaning
 category: Dental Technology
 category_slug: dental-technology
-excerpt: Ultrasonic scaling utilizes cavitation, acoustic microstreaming, and controlled lavage to disrupt biofilms and remove calculus through direct and indirect mechanical effects.
+excerpt: "Ultrasonic scaling utilizes cavitation, acoustic microstreaming, and controlled lavage to disrupt biofilms and remove calculus through direct and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Periodontology

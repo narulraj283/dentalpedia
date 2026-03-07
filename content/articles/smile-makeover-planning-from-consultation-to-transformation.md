@@ -3,7 +3,7 @@ title: Smile Makeover Planning - From Consultation to Transformation
 slug: smile-makeover-planning-from-consultation-to-transformation
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: End-to-end smile makeover process from initial consultation through diagnostic records collection, treatment options presentation, informed consent, and execution phases.
+excerpt: "End-to-end smile makeover process from initial consultation through diagnostic records collection, treatment options presentation, informed consent,."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

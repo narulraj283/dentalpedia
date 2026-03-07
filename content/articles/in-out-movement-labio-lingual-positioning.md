@@ -1,9 +1,9 @@
 ---
-title: In-Out Movement: Labio-Lingual Positioning
+title: "In-Out Movement: Labio-Lingual Positioning"
 slug: in-out-movement-labio-lingual-positioning
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Labio-lingual tooth positioning controls anterior-posterior tooth placement through bracket torque, arch form design, and force application direction, establishing proper overjet, esthetic smile arc, and functional occlusal relationships.
+excerpt: "Labio-lingual tooth positioning controls anterior-posterior tooth placement through bracket torque, arch form design, and force application."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

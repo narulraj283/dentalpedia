@@ -1,9 +1,9 @@
 ---
-title: Veneer Installation Steps: Complete Clinical Guide
+title: "Veneer Installation Steps: Complete Clinical Guide"
 slug: veneer-installation-steps-complete-guide
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Comprehensive veneer placement protocol covering consultation, DSD analysis, tooth preparation, impression, try-in, etching, silane application, bonding, and light curing.
+excerpt: "Comprehensive veneer placement protocol covering consultation, DSD analysis, tooth preparation, impression, try-in, etching, silane application,."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic Dentistry

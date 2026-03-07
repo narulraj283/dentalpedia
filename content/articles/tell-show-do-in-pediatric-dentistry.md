@@ -3,7 +3,7 @@ title: Tell-Show-Do Behavior Management in Pediatric Dentistry
 slug: tell-show-do-in-pediatric-dentistry
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Evidence-based Tell-Show-Do technique implementation following AAPD guidelines, with developmental language adaptation, integration with desensitization, and outcome studies.
+excerpt: "Evidence-based Tell-Show-Do technique implementation following AAPD guidelines, with developmental language adaptation, integration with."
 date: 2026-03-05
 read_time: 14 min
 reviewer_specialty: Pediatric Dentistry

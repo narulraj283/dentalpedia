@@ -1,9 +1,9 @@
 ---
-title: Single-Cone Obturation in Endodontics: Simplified Technique with Bioceramic Sealers
+title: "Single-Cone Obturation in Endodontics: Simplified Technique with Bioceramic Sealers"
 slug: single-cone-obturation-simplified-technique
 category: Endodontics
 category_slug: endodontics
-excerpt: Single-cone obturation combined with bioceramic sealers represents a simplified, efficient endodontic approach with equivalent clinical outcomes to traditional lateral condensation techniques.
+excerpt: "Single-cone obturation combined with bioceramic sealers represents a simplified, efficient endodontic approach with equivalent clinical outcomes to."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Endodontics

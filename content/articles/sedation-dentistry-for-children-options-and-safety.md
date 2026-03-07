@@ -3,7 +3,7 @@ title: Pediatric Sedation in Dentistry - Options and Safety Guidelines
 slug: sedation-dentistry-for-children-options-and-safety
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: Pediatric dental sedation options range from nitrous oxide to general anesthesia, with safety governed by AAPD guidelines that emphasize risk stratification and appropriate monitoring.
+excerpt: "Pediatric dental sedation options range from nitrous oxide to general anesthesia, with safety governed by AAPD guidelines that emphasize risk."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Pediatric Dentistry

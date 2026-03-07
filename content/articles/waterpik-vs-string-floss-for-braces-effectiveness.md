@@ -3,7 +3,7 @@ title: Waterpik vs. String Floss for Braces Effectiveness
 slug: waterpik-vs-string-floss-for-braces-effectiveness
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Water flossers with orthodontic tips significantly outperform string floss in clinical studies, removing 44% more plaque around braces and dramatically improving compliance in orthodontic patients.
+excerpt: "Water flossers with orthodontic tips significantly outperform string floss in clinical studies, removing 44% more plaque around braces and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Orthodontics

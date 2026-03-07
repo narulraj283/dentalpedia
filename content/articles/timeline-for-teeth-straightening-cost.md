@@ -1,9 +1,9 @@
 ---
-title: Orthodontic Treatment Cost Breakdown: Pricing, Insurance Coverage, and Financing Options
+title: "Orthodontic Treatment Cost Breakdown: Pricing, Insurance Coverage, and Financing Options"
 slug: timeline-for-teeth-straightening-cost
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Understanding orthodontic costs involves multiple factors including treatment type, insurance benefits, payment plans, and value-based considerations that directly impact treatment accessibility.
+excerpt: "Understanding orthodontic costs involves multiple factors including treatment type, insurance benefits, payment plans, and value-based considerations."
 date: 2026-03-05
 read_time: 12 min
 reviewer_specialty: Orthodontist

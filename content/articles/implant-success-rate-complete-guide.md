@@ -1,9 +1,9 @@
 ---
-title: Implant Success Rate: Complete Guide
+title: "Implant Success Rate: Complete Guide"
 slug: implant-success-rate-complete-guide
 category: Dental Implants
 category_slug: dental-implants
-excerpt: Dental implant success rates exceed 95% in most populations. Understanding survival metrics, prognostic factors, and long-term outcomes enables informed treatment decisions and realistic expectations.
+excerpt: "Dental implant success rates exceed 95% in most populations."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

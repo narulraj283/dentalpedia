@@ -3,7 +3,7 @@ title: Iron Deficiency Anemia - Oral Manifestations and Care - Clinical Manageme
 slug: iron-deficiency-anemia-oral-manifestations-and-care
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Iron deficiency anemia frequently presents with characteristic oral manifestations including atrophic glossitis, angular cheilitis, and oral mucosal pallor. Dentists play a critical role in recognizing these signs and coordinating appropriate medical management.
+excerpt: "Iron deficiency anemia frequently presents with characteristic oral manifestations including atrophic glossitis, angular cheilitis, and oral mucosal."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

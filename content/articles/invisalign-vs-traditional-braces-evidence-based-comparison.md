@@ -3,7 +3,7 @@ title: Invisalign vs. Traditional Braces - An Evidence-Based Comparison
 slug: invisalign-vs-traditional-braces-evidence-based-comparison
 category: Orthodontics
 category_slug: orthodontics
-excerpt: See which treatment actually works better for different bite problems, what the research actually says about cost and duration, and when aligners hit their limits.
+excerpt: "See which treatment actually works better for different bite problems, what the research actually says about cost and duration, and when aligners hit."
 date: 2026-03-05
 read_time: 17 min
 reviewer_specialty: Orthodontist

@@ -1,5 +1,5 @@
 ---
-title: Teeth Whitening Results: What You Need to Know About Timeline and Maintenance
+title: "Teeth Whitening Results: What You Need to Know About Timeline and Maintenance"
 slug: teeth-whitening-results-what-you-need-to-know
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry

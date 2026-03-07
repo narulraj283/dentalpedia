@@ -29,7 +29,7 @@ When your dentist creates a treatment plan, they're not just listing all the wor
 
 Your initial treatment planning appointment costs $100 to $300. During this meeting, your dentist reviews all your diagnostic findings, explains what problems they found, discusses your options with the pros and cons of each, estimates costs including what insurance covers, and develops a treatment plan with you. This consultation is where you ask questions and make informed decisions about your care.
 
-Some dental practices use special software and 3D imaging to show you exactly what they're planning. This visualization technology costs practices money but helps you understand the plan better. Studies show that patients who see a clear visual plan approve treatment 25% to 35% more often than patients who just hear a verbal explanation. If you're going to spend thousands on dental work, having a clear understanding is worth the extra technology cost.
+Some dental practices use special software and 3D imaging to show you exactly what they're planning. Learning more about [cost of dental examination types](/article/cost-of-dental-examination-types.html) can help you understand this better. This visualization technology costs practices money but helps you understand the plan better. Studies show that patients who see a clear visual plan approve treatment 25% to 35% more often than patients who just hear a verbal explanation. If you're going to spend thousands on dental work, having a clear understanding is worth the extra technology cost.
 
 ## Diagnostic Work Comes First
 
@@ -45,7 +45,7 @@ For example, if you have active gum disease and your dentist puts a crown on you
 
 Not everyone can afford to do all dental work at once. Your dentist can create a phased plan where you do stabilization and gum disease treatment in phase 1 ($500 to $1,000), cosmetic improvements in phase 2 ($800 to $2,000 a few months later), and final restorations in phase 3 ($3,000 to $8,000) when you have the budget. Spreading treatment across time keeps your mouth healthy while managing costs.
 
-The key is that phase 1 must establish and maintain oral health. It's not smart to have temporary fixes that make problems worse. Your dentist makes sure that phase 1 solves major problems so phase 2 and 3 treatments have a healthy foundation.
+The key is that phase 1 must establish and maintain oral health. Learning more about [cost of dental visit frequency](/article/cost-of-dental-visit-frequency.html) can help you understand this better. It's not smart to have temporary fixes that make problems worse. Your dentist makes sure that phase 1 solves major problems so phase 2 and 3 treatments have a healthy foundation.
 
 ## Insurance Timing Strategy
 
@@ -72,6 +72,8 @@ Your dentist monitors how you're responding to treatment and adjusts the plan if
 ## Conclusion
 
 Treatment planning consultation costs $100 to $300 and establishes a smart, sequenced approach to your care. Diagnostic work costs $150 to $400 upfront but prevents thousands in wasted treatment modifications. Treatment follows a logical sequence: stabilization, gum disease treatment, restorative work, then cosmetic improvements. Cost-driven plans spread treatment across time while maintaining mouth health. Insurance timing can increase your covered treatment by $1,500 to $1,500 annually. Cosmetic improvements early in treatment increase your motivation and treatment completion. Temporary restorations during long treatment cost money but keep your quality of life good. Your individual situation and financial capacity shape your specific plan. Talk to your dentist about treatment sequencing and why they recommend the order they do.
+
+
 
 ## Related Articles You May Find Helpful
 

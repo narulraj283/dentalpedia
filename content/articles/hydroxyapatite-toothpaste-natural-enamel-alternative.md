@@ -3,7 +3,7 @@ title: "Hydroxyapatite Toothpaste: Enamel Bioremineralization Without Fluoride"
 slug: hydroxyapatite-toothpaste-natural-enamel-alternative
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Hydroxyapatite, the primary inorganic component of dental enamel and bone, provides clinically demonstrated remineralization benefits through biocompatible mechanisms. Evidence supports non-fluoride hydroxyapatite formulations as effective preventive agents, particularly for patients with fluoride sensitivities or preferences.
+excerpt: "Hydroxyapatite, the primary inorganic component of dental enamel and bone, provides clinically demonstrated remineralization benefits through."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

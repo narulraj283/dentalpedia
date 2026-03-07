@@ -1,9 +1,9 @@
 ---
-title: Smile Enhancement Options: What You Need to Know
+title: "Smile Enhancement Options: What You Need to Know"
 slug: smile-enhancement-options-what-you-need-to-know
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Patient guide to cosmetic treatment options, conservative-first approach philosophy, realistic timelines, cost ranges, and longevity expectations enables informed selection of treatment modalities aligned with individual preferences and circumstances.
+excerpt: "Patient guide to cosmetic treatment options, conservative-first approach philosophy, realistic timelines, cost ranges, and longevity expectations."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry and Patient Education

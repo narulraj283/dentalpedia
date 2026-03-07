@@ -1,9 +1,9 @@
 ---
-title: Smile Improvement Treatment Options: Progressive Approaches from Conservative to Comprehensive
+title: "Smile Improvement Treatment Options: Progressive Approaches from Conservative to Comprehensive"
 slug: timeline-for-smile-improvement-options
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Smile improvement strategies range from conservative surface modifications to aggressive restorative approaches—clinicians must assess case complexity to select treatments balancing esthetic outcomes with tooth structure preservation.
+excerpt: "Smile improvement strategies range from conservative surface modifications to aggressive restorative approaches—clinicians must assess case."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Cosmetic Dentistry

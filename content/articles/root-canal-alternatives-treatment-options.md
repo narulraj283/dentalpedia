@@ -3,7 +3,7 @@ title: Root Canal Alternatives - Treatment Options
 slug: root-canal-alternatives-treatment-options
 category: Endodontics
 category_slug: endodontics
-excerpt: Comprehensive analysis of alternatives to conventional RCT including vital pulp therapy, partial pulpotomy, extraction with implant/bridge, apicoectomy, regenerative endodontics, with clinical decision matrices.
+excerpt: "Comprehensive analysis of alternatives to conventional RCT including vital pulp therapy, partial pulpotomy, extraction with implant/bridge,."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Endodontics

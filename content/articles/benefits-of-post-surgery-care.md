@@ -13,36 +13,36 @@ reviewed: true
 references:
   - author: Moore & Saksena
     year: 2018
-    title: Nutritional Support and Wound Healing in Surgical Patients
-    journal: Journal of Surgical Research
+    title: "Nutritional Support and Wound Healing in Surgical Patients"
+    journal: "Journal of Surgical Research"
   - author: Guo & DiPietro
     year: 2010
-    title: Factors Affecting Wound Healing
-    journal: Journal of Dental Research
+    title: "Factors Affecting Wound Healing"
+    journal: "Journal of Dental Research"
   - author: Sheridan
     year: 2016
-    title: Nutrition in Recovery from Oral Surgery
-    journal: Dental Clinics of North America
+    title: "Nutrition in Recovery from Oral Surgery"
+    journal: "Dental Clinics of North America"
   - author: Slade et al.
     year: 2017
-    title: Impact of Smoking on Surgical Outcomes
-    journal: Journal of Oral and Maxillofacial Surgery
+    title: "Impact of Smoking on Surgical Outcomes"
+    journal: "Journal of Oral and Maxillofacial Surgery"
   - author: Sørensen et al.
     year: 2012
-    title: Wound Healing and Infection in the Surgical Patient
-    journal: Archives of Surgery
+    title: "Wound Healing and Infection in the Surgical Patient"
+    journal: "Archives of Surgery"
   - author: Porth & Matfin
     year: 2014
-    title: Pathophysiology: Concepts of Altered Health States
-    journal: Textbook
+    title: "Pathophysiology: Concepts of Altered Health States"
+    journal: "Textbook"
   - author: Preedy & Watson
     year: 2015
-    title: Handbook of Disease Burdens and Quality of Life Measures
-    journal: Textbook
+    title: "Handbook of Disease Burdens and Quality of Life Measures"
+    journal: "Textbook"
   - author: Dronge et al.
     year: 2006
-    title: Long-term Alcohol Consumption and Surgical Site Infection
-    journal: Archives of Surgery
+    title: "Long-term Alcohol Consumption and Surgical Site Infection"
+    journal: "Archives of Surgery"
 ---
 
 ## Healing Your Body After Oral Surgery
@@ -157,5 +157,11 @@ Healing is an active process you participate in. Eat enough protein, take supple
 - [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
 
 
-> **Key Takeaway:** Understanding benefits of post-surgery care helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+
+
+## Conclusion
+
+Taking care of your oral health means staying informed about post surgery care. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+
+> **Key Takeaway:** Your immediate post-operative instructions are important, but your overall recovery depends on bigger things: what you eat, how much you sleep, whether you stay active, and whether you smoke. Your dentist can help you understand what steps are right for your specific needs.
 

@@ -1,9 +1,9 @@
 ---
-title: Macroabrasion: Deeper Stain and Defect Removal
+title: "Macroabrasion: Deeper Stain and Defect Removal"
 slug: macroabrasion-deeper-stain-and-defect-removal
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Controlled mechanical removal of superficial and subsurface enamel stains through rotary abrasion using increasingly fine-grit instruments, permitting elimination of intrinsic discoloration and restoration of tooth surface defects with preservation of structural integrity.
+excerpt: "Controlled mechanical removal of superficial and subsurface enamel stains through rotary abrasion using increasingly fine-grit instruments,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

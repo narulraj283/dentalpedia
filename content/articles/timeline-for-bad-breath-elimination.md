@@ -1,9 +1,9 @@
 ---
-title: Halitosis Resolution Timeline: Oral Hygiene Intervention, Periodontal Treatment, and VSC Reduction Protocols
+title: "Halitosis Resolution Timeline: Oral Hygiene Intervention, Periodontal Treatment, and VSC Reduction Protocols"
 slug: timeline-for-bad-breath-elimination
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based timeline for halitosis elimination through tongue coating removal, scaling protocols, chlorhexidine and zinc-based interventions, and systemic cause investigation.
+excerpt: "Evidence-based timeline for halitosis elimination through tongue coating removal, scaling protocols, chlorhexidine and zinc-based interventions, and."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Periodontics and Preventive Dentistry

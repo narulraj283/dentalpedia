@@ -1,9 +1,9 @@
 ---
-title: Food Adhesion Mechanisms on Teeth: Surface Energy, Saliva Clearance, and Demineralization Kinetics
+title: "Food Adhesion Mechanisms on Teeth: Surface Energy, Saliva Clearance, and Demineralization Kinetics"
 slug: sticky-foods-retention-and-decay
 category: Preventive Dentistry
 category_slug: preventive-care
-excerpt: Biomechanical analysis of food adhesion forces, surface energy interactions, plaque acid production kinetics, and specific retention rankings of cariogenic foods.
+excerpt: "Biomechanical analysis of food adhesion forces, surface energy interactions, plaque acid production kinetics, and specific retention rankings of."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Preventive Dentist

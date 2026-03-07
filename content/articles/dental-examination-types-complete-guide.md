@@ -1,5 +1,5 @@
 ---
-title: Types of Dental Exams: What Happens During Your Checkup
+title: "Types of Dental Exams: What Happens During Your Checkup"
 slug: dental-examination-types-complete-guide
 category: General Dentistry
 category_slug: general-dentistry
@@ -23,7 +23,7 @@ The dentist documents all this, takes X-rays and usually photographs. They're cr
 
 ## Periodic Follow-Up Exams
 
-After your initial exam, you get periodic (checkup) exams typically 6-12 months later (depending on your risk category). These are shorter (20-30 minutes) because the dentist already knows your baseline. They're comparing current findings to previous baseline, looking for new problems or changes in existing problems. These might be called "interim" exams or "recall" exams.
+After your initial exam, you get periodic (checkup) exams typically 6-12 months later (depending on your risk category). Learning more about [cavity diagnosis process what you need to know](/article/cavity-diagnosis-process-what-you-need-to-know.html) can help you understand this better. These are shorter (20-30 minutes) because the dentist already knows your baseline. They're comparing current findings to previous baseline, looking for new problems or changes in existing problems. These might be called "interim" exams or "recall" exams.
 
 ## Limited Exams for Specific Problems
 
@@ -49,7 +49,7 @@ Dentists look at how your teeth come together (occlusion). They're checking whet
 
 A significant part of your exam involves screening oral tissues for potentially cancerous changes. The dentist systematically examines your cheeks, tongue (top and underside), floor of mouth, and palate. They're looking for areas that look different: white patches, red patches, irregularly colored areas, sores that don't heal, areas that feel hard or thick. Finding these early dramatically improves outcomes if they're precancerous.
 
-This is incredibly important. Oral cancer caught early has 80%+ 5-year survival; caught late it drops to 40%. Your dentist's vigilance during this screening matter.
+This is incredibly important. Learning more about [cavity formation process complete guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. Oral cancer caught early has 80%+ 5-year survival; caught late it drops to 40%. Your dentist's vigilance during this screening matter.
 
 ## Radiographic Exams: X-Rays
 
@@ -74,6 +74,8 @@ Many dentists take intraoral photographs documenting your teeth's appearance, ex
 Initial comprehensive examinations establish your baseline health status and identify all existing problems. Periodic exams compare current findings to baseline, detecting changes. Limited exams focus on specific problems. Probing measures gum pocket depth and bleeding, indicating periodontal disease. Cavity detection uses visual inspection plus X-rays for areas you can't see. Bite assessment examines whether teeth contact properly. Soft tissue screening looks for oral cancer precursors. Radiographs detect cavities, bone loss, infections, and structural issues. Quantitative measurements (BOP percentage, plaque indices) track whether your home care improves. Photographs document baseline and changes. Comprehensive understanding of what each examination component assesses helps you appreciate the information your dentist is gathering.
 
 Ask your dentist to explain what they're finding during your exam and what specific measurements or X-ray findings indicate.
+
+
 
 ## Related Articles You May Find Helpful
 

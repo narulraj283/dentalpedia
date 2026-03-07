@@ -5,7 +5,7 @@ category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
-excerpt: Cosmetic dental restorations require dedicated protection from grinding forces, making night guards essential for preserving investment aesthetics and longevity.
+excerpt: "Cosmetic dental restorations require dedicated protection from grinding forces, making night guards essential for preserving investment aesthetics."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

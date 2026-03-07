@@ -3,7 +3,7 @@ title: Lip Tie and Feeding Difficulties in Infants
 slug: lip-tie-and-feeding-difficulties-in-infants
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Lip tie (restrictive labial frenum) restricts upper lip mobility and can interfere with breastfeeding latch, bottle feeding, and oral motor development in infants and young children.
+excerpt: "Lip tie (restrictive labial frenum) restricts upper lip mobility and can interfere with breastfeeding latch, bottle feeding, and oral motor."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Pediatric Dentistry

@@ -1,9 +1,9 @@
 ---
-title: Tooth Color Changes: Common Causes and When to Seek Professional Help
+title: "Tooth Color Changes: Common Causes and When to Seek Professional Help"
 slug: tooth-color-changes-what-you-need-to-know
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Patient-focused guide to understanding tooth discoloration causes, distinguishing cosmetic concerns from clinical problems, and exploring safe and effective treatment options for restoring natural tooth color.
+excerpt: "Patient-focused guide to understanding tooth discoloration causes, distinguishing cosmetic concerns from clinical problems, and exploring safe and."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Cosmetic and General Dentistry

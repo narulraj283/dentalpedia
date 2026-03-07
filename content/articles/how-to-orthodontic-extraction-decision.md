@@ -1,9 +1,9 @@
 ---
-title: Extraction Decision-Making in Orthodontics: Diagnostics, Anchorage Planning, and Interdisciplinary Considerations
+title: "Extraction Decision-Making in Orthodontics: Diagnostics, Anchorage Planning, and Interdisciplinary Considerations"
 slug: how-to-orthodontic-extraction-decision
 category: Orthodontics
 category_slug: orthodontics
-excerpt: Evidence-based methodology for assessing crowding severity, performing cephalometric analysis, calculating Bolton discrepancies, and determining extraction patterns in comprehensive treatment planning.
+excerpt: "Evidence-based methodology for assessing crowding severity, performing cephalometric analysis, calculating Bolton discrepancies, and determining."
 date: 2026-03-05
 read_time: 9 min
 reviewer_specialty: Orthodontics

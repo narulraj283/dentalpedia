@@ -3,7 +3,7 @@ title: Post-operative Swelling Reduction - Management Strategies and Evidence
 slug: how-to-swelling-reduction
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Post-operative edema following oral surgery responds effectively to combined cryotherapy, compression, elevation, NSAIDs, and corticosteroid therapy, with evidence-based protocols reducing swelling severity and duration.
+excerpt: "Post-operative edema following oral surgery responds effectively to combined cryotherapy, compression, elevation, NSAIDs, and corticosteroid therapy,."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

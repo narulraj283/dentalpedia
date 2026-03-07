@@ -1,9 +1,9 @@
 ---
-title: Timeline for Mouthwash Selection: Therapeutic vs Cosmetic Formulations and Patient-Specific Recommendations
+title: "Timeline for Mouthwash Selection: Therapeutic vs Cosmetic Formulations and Patient-Specific Recommendations"
 slug: timeline-for-mouthwash-selection
 category: Preventive Care
 category_slug: preventive-care
-excerpt: Evidence-based framework for selecting therapeutic mouthwashes based on clinical indications, ADA seal criteria, and patient-specific needs including xerostomia, caries, and halitosis.
+excerpt: "Evidence-based framework for selecting therapeutic mouthwashes based on clinical indications, ADA seal criteria, and patient-specific needs including."
 date: 2026-03-05
 read_time: 10 min
 reviewer_specialty: Preventive Dentistry

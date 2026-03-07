@@ -1,5 +1,5 @@
 ---
-title: Crown Lengthening for Short Clinical Crowns: Aesthetic and Prosthetic Solutions
+title: "Crown Lengthening for Short Clinical Crowns: Aesthetic and Prosthetic Solutions"
 slug: shortened-tooth-root-cosmetic-crown-lengthening
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry

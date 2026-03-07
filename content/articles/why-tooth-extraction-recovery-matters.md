@@ -3,7 +3,7 @@ title: Why Tooth Extraction Recovery Matters
 slug: why-tooth-extraction-recovery-matters
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Clinical evidence on extraction recovery protocols, alveolar bone healing dynamics, complications prevention, and post-operative management for optimal healing and outcomes.
+excerpt: "Clinical evidence on extraction recovery protocols, alveolar bone healing dynamics, complications prevention, and post-operative management for."
 date: 2026-03-05
 read_time: 8 min
 reviewer_specialty: Oral and Maxillofacial Surgery

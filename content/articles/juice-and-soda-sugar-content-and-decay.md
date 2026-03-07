@@ -3,7 +3,7 @@ title: Beverages, Sugar Content, and Dental Caries Risk
 slug: juice-and-soda-sugar-content-and-decay
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Comprehensive analysis of sugar content in juices and soft drinks, acidic erosion mechanisms, caries risk assessment, and dietary modification strategies for optimal oral health.
+excerpt: "Comprehensive analysis of sugar content in juices and soft drinks, acidic erosion mechanisms, caries risk assessment, and dietary modification."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

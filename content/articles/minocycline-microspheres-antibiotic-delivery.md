@@ -1,11 +1,11 @@
 ---
-title: Minocycline Microspheres: Antibiotic Delivery
+title: "Minocycline Microspheres: Antibiotic Delivery"
 slug: minocycline-microspheres-antibiotic-delivery
 category: Periodontics
 category_slug: periodontics
 subcategory: Periodontal Overview
 subcategory_slug: overview-perio
-excerpt: Minocycline microspheres provide site-specific antibiotic delivery directly into periodontal pockets, achieving sustained therapeutic concentrations while minimizing systemic absorption—a clinically proven adjunct for managing resistant periodontal infections.
+excerpt: "Minocycline microspheres provide site-specific antibiotic delivery directly into periodontal pockets, achieving sustained therapeutic concentrations."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -1,9 +1,9 @@
 ---
-title: Implant-Supported Dentures: A Hybrid Solution
+title: "Implant-Supported Dentures: A Hybrid Solution"
 slug: implant-supported-dentures-a-hybrid-solution
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Implant-supported dentures combine removable and fixed prosthodontic advantages, providing superior retention, stability, and patient satisfaction compared to conventional dentures while offering flexibility and cost advantages versus complete fixed restoration.
+excerpt: "Implant-supported dentures combine removable and fixed prosthodontic advantages, providing superior retention, stability, and patient satisfaction."
 date: 2026-03-05
 read_time: 9 min
 reviewed: true

@@ -3,7 +3,7 @@ title: Velopharyngeal Insufficiency, Cleft Palate, and Speech Management
 slug: velopharyngeal-insufficiency-cleft-related-speech
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Velopharyngeal insufficiency results from cleft palate anatomy or post-surgical changes, causing hypernasality; assessment and management include nasendoscopy, videofluoroscopy, pharyngeal flap, and sphincter pharyngoplasty.
+excerpt: "Velopharyngeal insufficiency results from cleft palate anatomy or post-surgical changes, causing hypernasality; assessment and management include."
 date: 2026-03-05
 read_time: 11 min
 reviewer_specialty: Oral and Maxillofacial Surgery
