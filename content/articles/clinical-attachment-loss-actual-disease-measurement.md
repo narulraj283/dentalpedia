@@ -1,11 +1,11 @@
 ---
-title: Clinical Attachment Loss: Actual Disease Measurement
+title: Clinical Attachment Loss: Measuring How Much Gum Disease You Have
 slug: clinical-attachment-loss-actual-disease-measurement
 category: Periodontics
 category_slug: periodontics
-excerpt: Clinical attachment loss—measured as combined probing depth plus gingival recession—represents the true pathologic assessment of periodontal disease severity and treatment outcomes superior to probing depth alone.
+excerpt: Clinical attachment loss is how dentists measure the actual damage from gum disease—it combines pocket depth and recession to show the true extent of bone loss.
 date: 2026-03-05
-read_time: 12 min
+read_time: 11 min
 reviewer_specialty: Periodontics
 subcategory: Periodontal Overview
 subcategory_slug: overview-perio
@@ -23,42 +23,139 @@ references:
   - Offenbacher S, Barros SP, Beck JD. Rethinking periodontal inflammation. J Dent Res. 2008;87(6):574-583.
 ---
 
-## Definition and Clinical Significance of Attachment Loss
+## What Is Clinical Attachment Loss, and Why Does It Matter?
 
-Clinical attachment loss (CAL)—defined as the distance in millimeters from the cementoenamel junction (CEJ) to the apical extent of the probing pocket—represents the most clinically meaningful measure of periodontal disease severity and treatment response. CAL directly measures loss of periodontal support structures (bone, periodontal ligament, and cementum), in contrast to probing pocket depth (PD), which measures only the distance from the gingival margin to the pocket base and may not reflect true tissue loss when gingival recession is present. For example, a tooth with 3 mm probing depth and no recession has different disease severity than a tooth with 2 mm probing depth and 3 mm recession (CAL of 3 mm versus 5 mm respectively, indicating greater disease in the second case). The combination of these measurements (CAL = PD + recession) provides accurate assessment of periodontal destruction and enables precise tracking of treatment response. CAL is classified according to extent: minimal (1-2 mm), slight (3-4 mm), moderate (5-6 mm), and severe (≥7 mm), with severity correlating to loss of bone support and functional consequences. CAL ≥5 mm is generally considered clinically significant periodontal disease; CAL ≥7 mm indicates substantial bone loss with compromised tooth prognosis. Understanding CAL enables differentiation between patients with deep pockets due to normal anatomy versus actual periodontal disease, and enables objective measurement of treatment response and disease progression. The assessment of CAL requires standardized probing technique and methodology to ensure accuracy and reproducibility for serial measurements monitoring disease progression or treatment effectiveness.
+When your dentist measures gum disease, they're checking something called "clinical attachment loss" (often shortened to CAL). This is the true measure of how much damage gum disease has caused.
 
-## Methodology of Attachment Loss Measurement
+Here's the difference: a "pocket" is just a measurement of how deep the gap is between your tooth and gum. But pockets can be deep for different reasons. Some people have naturally deeper pockets without actual disease. Others have shallow pockets but significant gum recession—meaning the gum has receded down, exposing more of the tooth root.
 
-Standardized measurement of CAL requires specific technique and equipment to ensure accuracy. Probing should utilize pressure-sensitive probe (ideally 25 grams of probing force) to reduce variability from excessive probe pressure; both manual and automated pressure-sensitive probes demonstrate acceptable accuracy. Assessment should include: determination of probing depth (distance from gingival margin to apical pocket base), measurement of gingival recession (distance from CEJ to gingival margin, recorded as positive number if gingival margin is apical to CEJ), and calculation of CAL (PD + recession). Six-point assessment (distal line angle, facial center, mesial line angle, and same three points on lingual surface per tooth) captures disease pattern across tooth surfaces; examination of all surfaces provides comprehensive data though is time-consuming. Four-point assessment (facial center and lingual center per tooth) is more efficient and captures approximately 80% of disease burden; selective area assessment focuses on clinically involved sites (areas with PD ≥4 mm, bleeding on probing, or obvious recession). Probing should occur at consistent intervals (typically annual or biannual) to track disease progression; consistency of methodology across examinations enables valid longitudinal comparison. Single-point measurements may vary ±1-2 mm due to technique variations; interpretation of CAL changes should account for measurement error and consider clinically significant changes to exceed 2 mm. Standardized reference marks (such as identification of a fixed anatomic landmark relative to the tooth surface) may be utilized to improve measurement consistency at follow-up visits. Radiographic assessment (full-mouth radiographs) provides complementary bone level assessment (distance from CEJ to alveolar crest) though is less sensitive than clinical probing for early disease detection and requires periodic reassessment (typically every 3-5 years) due to radiation exposure considerations.
+Clinical attachment loss combines pocket depth plus recession to show the actual amount of bone and support tissue you've lost. It's the number that really tells you how serious your gum disease is.
 
-## Classification and Severity Grading Systems
+Think of it this way: if one tooth has a 3mm pocket with no recession, and another has a 2mm pocket with 3mm recession, the second tooth has lost more attachment (5mm total) even though the pocket measurement seems shallower. CAL catches this—pocket depth alone would miss it.
 
-Multiple classification systems enable standardized characterization of periodontal disease severity based on CAL measurements. The American Academy of Periodontology/Centers for Disease Control classification (updated 2012) defines periodontal disease as follows: Normal, no evidence of CAL; Mild periodontitis, ≥2 teeth with CAL ≥3 mm (not on same tooth) or ≥2 teeth with PD ≥4 mm; Moderate periodontitis, ≥2 teeth with CAL ≥6 mm (not on same tooth, not on face tooth) or ≥2 teeth with PD ≥5 mm; Severe periodontitis, ≥2 teeth with CAL ≥6 mm and ≥1 tooth with PD ≥5 mm. This classification system improves standardization for epidemiologic studies and clinical documentation. Individual tooth prognosis assessment employs different criteria based on extent and distribution of CAL: teeth with localized CAL (isolated to one or two surfaces) have better prognosis than those with generalized CAL (multiple surfaces affected); teeth with CAL ≥7 mm demonstrate questionable prognosis dependent on remaining attachment remaining after therapy, extent of furcation involvement (if multi-rooted), and extraction versus preservation goals. Early-onset periodontitis (aggressive periodontitis) is characterized by: rapid CAL progression (1-2 mm or more per year if untreated), often beginning in adolescence or young adulthood, frequently affecting first molars and incisors, often with minimal plaque and calculus, and frequently involving genetic predisposition. Chronic periodontitis represents the more common form, progressing slowly (0.1-0.2 mm per year if untreated) in response to plaque biofilm burden and host response. CAL-based classification system enables objective documentation in clinical records and facilitates communication regarding disease severity and prognosis among healthcare providers.
+## How Dentists Measure Attachment Loss
 
-## Risk Factors and Disease Progression Rates
+Your dentist uses a special probe with markings (similar to a ruler) to measure attachment loss. The measurement combines two things:
 
-Periodontal disease susceptibility and progression demonstrate significant individual variation based on local and systemic risk factors. Smoking represents the most significant modifiable risk factor, increasing periodontal disease risk 3-4 fold and demonstrating dose-response relationship (heavier smokers with greater disease severity). Smoking impairs neutrophil function and microbial killing, reduces immune response, and promotes pathogenic microbial colonization. Diabetes mellitus (both Type 1 and Type 2) increases periodontitis risk 2-3 fold, with diabetic patients demonstrating accelerated CAL progression (0.3-0.5 mm/year versus 0.1-0.2 mm/year in non-diabetics) and reduced treatment response compared to non-diabetics. Glycemic control quality significantly impacts disease progression; well-controlled diabetics (HbA1c <7%) demonstrate minimal disease increase, while poorly controlled diabetes (HbA1c >8%) demonstrates rapid CAL progression comparable to untreated non-diabetics. Genetic predisposition contributes substantially; polymorphisms in IL-1β (interleukin-1 beta) and other inflammatory cytokines increase disease risk 2-5 fold. Approximately 10-15% of population demonstrates genetically enhanced inflammatory response to plaque biofilm, leading to severe periodontitis despite appropriate plaque control. Psychosocial stress increases periodontal disease risk and severity through immune suppression; depressed patients demonstrate 1.5-3 fold greater periodontitis prevalence. Poor oral hygiene (plaque index >1.5/2.0) is essential for disease development; however, disease progression depends on both plaque burden and individual host response. Hormonal factors influence disease; pregnancy increases gingivitis risk 30-100% and may increase periodontitis risk; estrogen decline post-menopause increases periodontitis risk by approximately 50%. Medications (anticonvulsants, immunosuppressants, calcium channel blockers) may increase gingival enlargement or reduce healing. Systemic diseases (HIV/AIDS, hematologic disorders, inflammatory conditions) demonstrate elevated periodontal disease prevalence and severity. Understanding individual risk factors enables targeted treatment planning and intensive management of high-risk patients.
+**Probing depth**: How deep the pocket is from your gum line down to the bottom of the pocket.
 
-## CAL-Based Disease Classification and Staging
+**Gingival recession**: How far down the gum has receded from where it should normally be (measured from the tooth's natural junction).
 
-Contemporary periodontal disease classification incorporating both extent and severity of CAL provides more comprehensive disease characterization. Recent classification systems propose staging based on CAL severity and complexity: Stage 1 (≤4 mm CAL), Stage 2 (5-6 mm CAL), Stage 3 (≥7 mm CAL with potential furcation involvement), and Stage 4 (≥7 mm CAL with furcation involvement and high complexity). This staging system enables objective prognosis assessment and guides treatment intensity selection. The proportion of dentition affected (generalized versus localized disease) influences staging; localized disease (affecting <30% of periodontal sites) carries better prognosis than generalized disease affecting >30% of sites. Rapid progression patterns (>3 mm CAL gain over 12 months despite treatment) indicate aggressive disease phenotype requiring intensified management. CAL combined with patient age and smoking status enables composite disease assessment; early-onset periodontitis in smokers under age 35 demonstrates different prognosis and treatment planning compared to late-onset disease in non-smokers. Radiographic assessment of bone loss pattern (angular versus horizontal) provides additional prognostic information; angular (vertical) bone loss patterns indicate greater destructive activity and higher recurrence risk post-treatment. Documentation of baseline CAL severity enables treatment outcome assessment; "clinical attachment gain" (CAL reduction) following periodontal therapy represents one of the most objective measures of treatment efficacy.
+Add those two numbers together, and you get clinical attachment loss.
 
-## Measurement Challenges and Clinical Interpretations
+For example:
+- Probing depth: 3mm (pocket depth)
+- Recession: 2mm (gum has pulled away)
+- Clinical attachment loss: 5mm
 
-Accurate CAL measurement presents technical challenges requiring standardized approach. Probing depth variability results from: probe pressure (excessive pressure produces artificially deep measurements), probe tip size (larger probes may yield different readings), probing angle (angular approach may produce different readings than perpendicular approach), and inflammation status (inflamed tissue shows increased probing depth compared to same tooth when non-inflamed due to increased tissue fragility and probe penetration). Gingival recession measurement is complicated by: determination of exact CEJ location (may be obscured by calculus or restoration), root anatomy variations (prominent root surfaces may mimic recession), and toothwear or attrition effects (reducing clinical crown height and increasing apparent recession). CAL reliability decreases in posterior teeth, severely compromised dentition, and patients with limited oral opening. Baseline CAL measurement should occur 4-6 weeks after initial plaque removal and assessment (to allow inflammatory tissue reduction to baseline), as inflammatory response reduces apparent attachment loss by 1-2 mm and measurement immediately following scaling/root planing overestimates treatment response. Serial measurement of same tooth requires operator consistency (ideally same examiner at follow-up visits), standardized probing pressure (utilizing pressure-sensitive probe if available), and consistent patient positioning. Measurement error of ±1-2 mm is inherent to clinical probing; interpretation of CAL changes should consider this variability and establish threshold for clinically significant change (typically ≥2 mm change considered meaningful). Radiographic examination provides objective bone-level assessment (measured as distance from CEJ to alveolar crest in mm), though is less sensitive for early disease and requires periodic reassessment. Full-mouth radiographs enable historical baseline comparison to current status; changes of ≥2 mm bone loss are considered significant. Comparison of clinical and radiographic findings should be consistent; discrepancies (such as significant CAL clinically but minimal radiographic bone loss) suggest: recent rapid disease progression, incorrect CEJ identification, or restoration overhangs creating artificial attachment loss appearance.
+This measurement matters because it shows real tissue loss. Your dentist might measure this on multiple surfaces of each tooth to get a full picture of your gum disease.
 
-## Treatment Planning Based on CAL Assessment
+## What The Numbers Mean
 
-Accurate CAL measurement determines appropriate treatment intensity and modality selection. Teeth with localized CAL ≤4 mm typically respond to plaque-dependent conservative treatment (scaling, root planing, improved oral hygiene). Teeth with 5-6 mm CAL may achieve 2-3 mm clinical attachment gain with conservative treatment; if treatment response is inadequate (CAL remains ≥5 mm), surgical treatment (flap procedures, bone grafting, guided tissue regeneration) may be indicated. Teeth with ≥7 mm CAL typically demonstrate poor treatment response with conservative therapy alone; surgical approaches combining flap surgery with bone grafting or regenerative procedures should be considered if tooth is deemed worth preserving. Multiple factors beyond CAL severity inform extraction versus retention decisions: tooth position (anterior teeth often warrant more aggressive treatment retention; posterior teeth with hopeless prognosis may be extracted), remaining functional tooth length (tooth must have sufficient length for stable restoration), root morphology (single-rooted teeth with tapered roots more suitable for regenerative procedures), furcation involvement stage (multi-rooted teeth with Class III furcation involvement demonstrate poor treatment response), patient factors (motivated compliant patients warrant more intensive treatment; those unable to maintain oral hygiene warrant extraction consideration), and esthetic considerations (visible teeth warrant retention attempts; posterior teeth may be extracted). Tissue regeneration is attempted when defect anatomy is favorable: vertical/angular bone defects (three walls of surrounding bone) demonstrate better regeneration potential than horizontal bone loss (one remaining bone wall). Combined surgical approaches incorporating flap repositioning, bone grafting, and guided tissue regeneration achieve clinical attachment gain of 3-5 mm in approximately 70% of treated sites, though complete CAL resolution is rare.
+**1-2mm attachment loss**: Minimal disease. Most adults have some of this. Not a major concern.
 
-## Prognosis Assessment and Long-Term Outcomes
+**3-4mm attachment loss**: Mild gum disease. Your gums need better cleaning and maintenance, but the damage is still limited.
 
-Individual tooth prognosis is determined by: remaining attachment remaining after treatment, tooth mobility (increases with CAL loss, indicating poor prognosis), tooth position, root anatomy, and treatment response. Teeth retaining >50% of original attachment have excellent long-term prognosis (>90% retention at 10 years); those with 25-50% remaining attachment have fair prognosis (70-80% retention); those with <25% remaining attachment have poor prognosis (<50% retention at 10 years). Rapid disease progression (>2 mm CAL/year despite treatment), severe CAL (≥7 mm) with radiographic furcation involvement, and smoking status significantly worsen prognosis. Periodontitis patients demonstrate 10-20 fold increased tooth loss compared to periodontal health controls; untreated severe periodontitis results in 40-70% tooth loss by age 70. However, comprehensive periodontal therapy combined with patient compliance dramatically improves outcomes; periodontitis patients achieving and maintaining excellent oral hygiene and undergoing appropriate treatment demonstrate tooth retention rates comparable to periodontally healthy individuals. Long-term CAL stability (≥5 year follow-up) depends on: baseline disease severity, treatment intensity and modality, patient compliance with maintenance, and systemic factors (smoking status, diabetes control). Patients demonstrating compliance with: maintenance appointments (every 3-4 months), excellent oral hygiene, smoking cessation (if applicable), and systemic disease management (diabetes control) achieve CAL stability in 80-90% of treated sites. Progressive CAL increase despite treatment indicates: inadequate plaque control, inadequate treatment adequacy (residual plaque in treated sites), or continued disease progression due to treatment-resistant host response (possible early-onset aggressive periodontitis requiring genetic or systemic investigation).
+**5-6mm attachment loss**: Moderate gum disease. Significant tissue has been lost. Treatment is recommended—this isn't something to ignore.
 
-## Periodontal Maintenance and CAL Monitoring Protocols
+**7mm or more**: Severe gum disease. Substantial bone loss has occurred. Your tooth's future is at risk. Treatment is urgent.
 
-Successful periodontitis management depends on comprehensive long-term maintenance. Post-treatment maintenance should begin 4-8 weeks after completion of active treatment, with interval determined by disease severity and risk factors: standard-risk patients may achieve 6-month intervals; moderate-risk patients warrant 3-4 month intervals; high-risk patients (heavy smokers, diabetics, aggressive periodontitis phenotype) require 2-3 month intervals. Maintenance appointments should include: CAL reassessment at all sites to detect new loss or progression; plaque removal and biofilm control; calculus removal if present; evaluation of homecare efficacy and instruction/reinforcement as needed; and radiographic assessment every 3-5 years to detect bone loss not evident clinically. Serial CAL documentation enables objective disease progression detection; increase of 2+ mm at any site indicates potential treatment failure or disease recurrence. Progressive CAL increase warrants investigation of etiology (inadequate oral hygiene, newly initiated smoking, systemic disease, uncontrolled diabetes) and treatment intensification (increased maintenance frequency, re-treatment with scaling/root planing, possible repeat surgery, or tooth extraction if prognosis becomes hopeless). Motivation and patient education critically impact outcomes; patients understanding the relationship between plaque accumulation and periodontal disease progression, appreciating prognosis improvements with compliance, and believing they can achieve/maintain treatment goals demonstrate significantly greater compliance. Patient motivation appears to increase with: visual documentation (intraoral photographs showing baseline versus treatment response), simple communication of disease process and treatment goals, acknowledgment of patient barriers to compliance (financial, time, health beliefs), and ongoing positive reinforcement of achieved improvements. Long-term periodontal stability requires lifelong commitment to maintenance; patients should understand that periodontitis, once established, requires continuous management to prevent recurrence, with disease progression resuming if maintenance is discontinued.
+If you have attachment loss of 5mm or more on multiple teeth, you have significant periodontal disease that requires professional treatment beyond your home cleaning routine.
 
-## Systemic Implications and Interdisciplinary Communication
+## Why Measuring Accurately Matters
 
-Periodontal disease and CAL severity have significant systemic implications requiring interdisciplinary communication. Severe periodontitis (CAL ≥7 mm at multiple sites) represents bacteremia risk; studies demonstrate that 20-40% of mechanically traumatic events (such as scaling/root planing) produce bacteremia in untreated periodontitis. While bacteremia risk is generally lower in treated periodontitis, antibiotic prophylaxis may be indicated for high-risk cardiac patients before invasive periodontal procedures. Periodontitis represents risk factor for cardiovascular disease, diabetes, premature birth/low birth weight, and respiratory disease; mechanisms include: systemic inflammatory response to chronic periodontal infection, bacterial invasion/translocation, and immune dysfunction. Periodontal treatment (scaling, root planing, surgical therapy) achieves 20-40% reduction in cardiovascular event risk and improves glycemic control in diabetics (reducing HbA1c by 0.4-1.0%). Cardiologists and internists should be informed of significant CAL findings; conversely, periodontists should screen for cardiovascular and metabolic disease risk. Pregnant patients with periodontitis warrant baseline assessment and intensive management; untreated periodontitis increases premature birth/low birth weight risk 3-7 fold. Diabetes management directly impacts periodontal outcomes; periodontal therapists should advocate for appropriate diabetes screening and glycemic control in patients demonstrating unexplained rapid CAL progression. Immune-compromising conditions (HIV/AIDS, leukemia, transplant recipients) demonstrate accelerated periodontal disease; in these populations, intensive preventive measures and early intervention become critical. Comprehensive medical history assessment identifying comorbidities and systemic medications (which may affect periodontal tissue or healing) informs treatment planning and prognosis estimates. Periodontal disease severity (CAL assessment) should be documented in the patient's overall medical record; periodontists and physicians should communicate regarding significant findings enabling comprehensive health optimization.
+Getting an accurate attachment loss measurement is trickier than it sounds. The probe pressure matters—push too hard and you get deeper readings. The angle of the probe affects the measurement. Whether your gums are inflamed or healthy affects the reading.
+
+Because of these variables, your dentist repeats measurements at the same appointments each visit to track changes. A 1-2mm change might just be measurement variation. A 2mm+ change definitely means something is happening—either improvement or worsening.
+
+Your dentist will likely measure your attachment loss at 6 or 4 different spots on each tooth, capturing the full picture. On some teeth, disease is localized to one area. On others, it's generalized across the whole tooth.
+
+## Localized Versus Generalized Attachment Loss
+
+**Localized disease** affects one or two surfaces of specific teeth. Often this happens on one side of your mouth or specific areas. Localized disease usually has better treatment response and better outcomes.
+
+**Generalized disease** affects many teeth throughout your mouth. This indicates a more systemic disease process—your body's response is widespread, not just local to one area. Generalized disease is more challenging and requires more intensive treatment.
+
+Your dentist will tell you which pattern you have because it affects treatment planning.
+
+## Understanding Your Risk Factors
+
+Attachment loss happens for reasons. Understanding your risk factors helps explain why you developed gum disease and what you need to do differently:
+
+**Smoking**: The #1 risk factor. Smoking dramatically increases gum disease risk and worsens outcomes. Smokers lose attachment 3-4 times faster than non-smokers.
+
+**Diabetes**: Increases gum disease risk and worsens progression. If your diabetes is poorly controlled, your gum disease will worsen.
+
+**Genetics**: Some people are genetically prone to aggressive gum disease. If your parents had severe gum disease, you're at higher risk.
+
+**Stress and depression**: Chronic stress increases gum disease risk by impairing immune response.
+
+**Poor oral hygiene**: Not cleaning your teeth effectively causes gum disease.
+
+**Hormonal changes**: Pregnancy and menopause increase gum disease risk.
+
+Your dentist should discuss which factors apply to you and what you can control (smoking cessation, diabetes management, improved brushing).
+
+## What Treatment Depends On
+
+If you have significant attachment loss (5mm+), your dentist will recommend treatment. The intensity of treatment depends on:
+
+**How much attachment has been lost**: 5-6mm might respond to scaling and root planing (deep cleaning). 7mm+ usually requires surgical treatment for best results.
+
+**Where the disease is**: Disease on front teeth often warrants more aggressive treatment because appearance matters. Disease on back teeth sometimes warrants extraction if the tooth's future is hopeless.
+
+**Which teeth are affected**: Front teeth usually warrant maximum treatment. Teeth that are hard to keep clean or that you lose anyway might be better off extracted.
+
+**Your commitment to maintenance**: If you can't commit to excellent home care and regular cleanings, aggressive treatment won't work long-term.
+
+**Your systemic health**: If you have uncontrolled diabetes or other systemic disease, you'll need those treated simultaneously with gum disease treatment.
+
+## Treatment Response and What to Expect
+
+With good treatment (scaling and root planing combined with improved home care), teeth with 5-6mm attachment loss often improve by 2-3mm. Teeth with 7mm+ might improve less, but even modest improvement is worthwhile.
+
+Surgical treatment (flap surgery with bone grafting) can achieve 3-5mm attachment gain in favorable cases. But complete restoration to baseline is rare—gum disease damage is usually permanent, though you can stop progression.
+
+The goal isn't usually to restore everything you've lost. It's to stop the disease, prevent tooth loss, and stabilize what you have.
+
+## Long-Term Outlook: It Depends on You
+
+Your attachment loss won't improve on its own. Here's what stabilizes it:
+
+**Excellent home care**: Meticulous brushing and flossing every day.
+
+**Professional cleaning**: Every 3-4 months (not the standard 6 months) if you have moderate/severe disease.
+
+**Systemic disease control**: If diabetic, excellent diabetes management.
+
+**Smoking cessation**: If you smoke, quitting is essential.
+
+**Compliance**: Actually showing up for appointments and doing the work at home.
+
+Patients who do these things achieve 80-90% tooth retention long-term. Patients who don't show steady tooth loss.
+
+## Preventing Future Attachment Loss
+
+Once you develop gum disease, you always have a propensity for it. Prevention is the best medicine:
+
+**Quit smoking** if applicable.
+
+**Brush well**: At least twice daily, spending 2 minutes.
+
+**Floss daily**: This matters as much as brushing.
+
+**Get regular cleanings**: Every 6 months if healthy, every 3-4 months if history of gum disease.
+
+**Manage systemic disease**: Control diabetes, manage stress, eat a healthy diet.
+
+**Monitor at home**: Notice if gums are bleeding, swollen, or receding further.
+
+Early intervention with scaling and root planing stops most early gum disease. Advanced disease requires more treatment.
+
+## Related Articles You May Find Helpful
+
+- [Periodontal Disease and Your Overall Health](/article/periodontal-disease-and-overall-health.html)
+- [Scaling and Root Planing: Deep Cleaning for Gum Disease](/article/scaling-and-root-planing-deep-cleaning-gum-disease.html)
+- [Gum Recession: Why Your Gums Are Receding and What to Do](/article/gum-recession-why-gums-receding-what-to-do.html)
+
+> **Key Takeaway:** Clinical attachment loss combines pocket depth and recession to show the actual damage from gum disease. Attachment loss of 5mm+ indicates significant disease requiring professional treatment. Regular monitoring, excellent home care, and professional cleanings every 3-4 months can stabilize attachment loss and preserve your teeth for life.
