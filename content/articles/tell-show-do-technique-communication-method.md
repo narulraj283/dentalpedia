@@ -1,5 +1,5 @@
 ---
-title: Tell-Show-Do Communication Technique Detail and Clinical Application
+title: "Tell-Show-Do Communication Technique Detail and Clinical"
 slug: tell-show-do-technique-communication-method
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
@@ -33,97 +33,85 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/7850627
 ---
 
-## Introduction
+## Mastering the Three Steps
 
-The Tell-Show-Do technique represents a systematic communication methodology designed to reduce pediatric dental anxiety through structured explanation, sensory demonstration, and procedural execution. While the three-phase structure is conceptually straightforward, effective clinical implementation requires detailed attention to language selection, demonstration technique, timing, reinforcement patterns, and assessment of ongoing anxiety throughout the process. This article provides comprehensive guidance on executing each phase with maximum anxiety reduction and behavioral effectiveness.
+Tell-Show-Do sounds simple—and it is—but using it really effectively takes skill. Your pediatric dentist learns exactly how to explain procedures, show tools, and build your child's confidence. This article explains how pediatric dentists master this technique to help anxious children feel brave and cooperative.
 
-## The Tell Phase: Verbal Explanation Protocol
+## How to Explain Procedures So Kids Understand
 
-The tell phase creates accurate expectations through age-appropriate language emphasizing sensations rather than outcomes. The goal is not to eliminate all negative possibilities but to prepare the child for what will occur, reducing the anxiety created by unexpected sensations or sounds.
+The "tell" part means explaining what your child will experience—but the words matter tremendously. Learn more about [open bite from thumb](/article/open-bite-from-thumb-sucking-prevention-and-treatment.html) for additional guidance. Your dentist focuses on sensations your child will feel, see, hear, taste, and touch, not on scary concepts. For toddlers (ages 2-4), extremely simple language works best: "You will taste water. You will hear a sound." Words get repeated so young children really understand. Negative words like "won't hurt" get avoided because young children focus on the scary part, not the reassurance.
 
-For very young children (ages 2-4 years), language should consist of simple, concrete sensory descriptions using 2-3 word phrases or short sentences. Example: "You will feel water. You will taste water. You will hear a sound. The sound is loud." Avoid complex sentence structures, technical vocabulary, or abstract concepts. Repeat key phrases to ensure comprehension. Do not introduce negative concepts such as "it won't hurt"—focus entirely on positive sensory descriptions.
+Preschoolers (ages 4-6) understand comparisons. Instead of "suction," your dentist might say "like a tiny straw pulling water, just like when you drink from a juice box." Your dentist describes multiple sensations: the sound, the water feeling, the vibration. Honesty matters—if your child expects no vibration but then feels some, their trust drops.
 
-For preschool children (ages 4-6 years), language becomes slightly more complex but remains concrete. Use familiar analogies and comparative language: "The tube that sucks is like a tiny straw, like the straw in a juice box you drink from. When you suck on your juice straw, the juice goes up the straw. Our straw pulls the water out of your mouth. The suction feels a little like when you sip from a straw." Provide multiple sensory descriptors: "You'll hear a gentle whirring sound. You'll feel water spray. You'll feel vibration like when you hold a toy that vibrates."
+Older children (ages 6-9) understand cause and effect: "I'm using this mirror to look at your teeth and see where decay is hiding. The mirror will feel cold at first, then warm up. You'll taste water when I rinse." Teenagers appreciate sophisticated explanations that show respect for their understanding. Your dentist also asks children to repeat back what they expect ("Can you tell me what you'll feel?") to make sure they really understand before anything happens. For more information on preventing thumb sucking issues, see our guide on [Digit Sucking: Age-Appropriate Cessation](/article/digit-sucking-age-appropriate-cessation.html).
 
-For early school-age children (ages 6-9 years), language can include cause-and-effect relationships and technical terms presented accessibly: "I'm using this mirror to look at your teeth. Mirrors reflect light so I can see areas that are hard to see otherwise. When I look, I'll also gently move the mirror around to see different teeth. You might feel the mirror is cold at first, then it warms up. You'll taste the water I use to rinse areas as I look."
+## The Power of Voice and Body Language
 
-For older children and adolescents (ages 9+ years), more sophisticated communication is appropriate: "I'm going to use a high-speed handpiece to remove the decayed portion of the tooth. The handpiece rotates at approximately 300,000 revolutions per minute, which is why you'll hear a high-pitched whining sound. You'll feel vibration and water spray. The carbide bur I'm using is designed to cut tooth structure while minimizing heat generation. The suction device will pull away water and debris throughout the procedure."
+How your dentist speaks matters as much as what they say. A calm, confident voice slightly slower than normal tells your child everything is under control. Moderate volume works best—too loud startles anxious kids, too soft feels sneaky. Pausing between ideas gives your child time to process. Rapid speech sounds rushed and increases anxiety.
 
-Critical principles for all age groups include using active, positive language; avoiding negating words ("won't," "don't," "no"); providing specific sensory descriptors (taste, touch, sound, sight); explaining the purpose of procedures ("This rinses away the decay we just removed"); and checking for understanding by asking the child to repeat or explain what they expect. "Can you tell me what you'll feel when I use the vibrating tool?" permits the provider to correct any misunderstandings before proceeding.
+Your dentist's body language communicates volumes. A natural smile and direct eye contact show friendliness and respect. Your dentist positions themselves at your child's eye level rather than towering above, which feels less intimidating. Slow, deliberate movements look calm and confident. Rapid, jerky movements suggest something's wrong.
 
-## Voice Control and Non-Verbal Communication
+During the explanation and show phases, your dentist makes sure you see their full face and expression, building trust. They maintain a warm, competent demeanor that says "I do this all day, and it's totally fine." This reassures your child far more than any words alone could.
 
-Voice tone, pitch, rhythm, and volume substantially influence child anxiety during Tell-Show-Do. A calm, confident, slightly slower-than-normal speaking pace signals competence and control. Varying tone monotonously risks sounding robotic; varying pitch naturally while maintaining overall calmness improves engagement.
+## The Show Phase: Hands-On Experience
 
-Volume should be moderate—loud voice startles anxious children; whispered voice creates conspiratorial anxiety. Pausing briefly between concepts permits comprehension and demonstrates that the provider is not rushed. Speaking with appropriate authority without harshness establishes that the provider is competent and in control, which reduces child anxiety.
+The show phase lets your child experience tools and sensations at a low, manageable level. Your dentist never surprises your child. If planning to use a mirror, your child holds it first, feels its cool surface, watches their reflection. Your dentist demonstrates the mirror in their own mouth before gently placing it in your child's mouth.
 
-Non-verbal communication including facial expression, body position, and gesture profoundly influences pediatric patient responses. Smiling naturally while explaining procedures creates approachability. Making direct eye contact signals attention and respect. Positioning yourself at the child's eye level rather than towering above reduces intimidation. Slow, deliberate movements project calmness; rapid movements suggest urgency or tension.
+For the vibrating tool, your dentist turns it on outside your child's mouth first so they hear the sound without the sensation of it in their mouth. Most kids' fear drops once they hear "the whirring sound" actually works and isn't scary. Your child might hold the tool (when off), feel its shape, see how small the actual cutting tip is. Then the dentist activates it again at a distance. Only if your child agrees does the dentist briefly place the tool against a tooth without rotating it.
 
-Removing sunglasses and fully exposing facial expressions during initial communication increases rapport. When performing the procedure, partially obscured facial expressions due to mask and protective eyewear are unavoidable, but during explanation and demonstration phases, maximum facial visibility supports communication.
+For the suction device, your dentist activates it at a distance first so your child hears the sound. Then your child might feel gentle air and mild suction on their finger, controlling how close they want to get. Seeing the water being removed helps your child understand the tool's purpose and reduces anxiety about it.
 
-## The Show Phase: Sensory Demonstration Methodology
+For the air and water spray, your dentist demonstrates outside the mouth first. Your child might feel the spray on their finger. For kids very sensitive to spraying, the dentist might demonstrate on their own hand first. Your dentist explains: "This is water and air that rinses away decay. It feels cool and wet."
 
-The show phase provides low-intensity exposure to anxiety-producing stimuli in a controlled, safe context where the child experiences that the stimuli are tolerable. Show phase intensity should be significantly reduced compared to actual procedural use. For example, the high-speed handpiece is activated outside the mouth so the child hears the sound and vibration without intraoral insertion. The suction device is activated to gentle suction on the child's finger so they experience the sensation at reduced intensity.
+Depending on your child's anxiety level, the show phase might take 30 seconds or several minutes. Highly anxious kids might need multiple show-phase visits before actual treatment. There's no rush—building confidence now prevents bigger problems later.
 
-For dental mirror: Allow the child to hold the mirror, observe its reflective surface, note its cool temperature, and understand its purpose. Place the mirror in your own mouth so the child sees how it functions. Then gently introduce it to the child's mouth at the anterior region where it feels less threatening than posterior placement. Explain sensation: "This is cool. Now it will warm up as it sits in your mouth. You might taste a little water."
+## Building Confidence Gradually
 
-For high-speed handpiece: Activate it outside the mouth so the child hears the sound and can see it spinning. The child often experiences a marked fear reduction upon hearing the sound removed from their mouth. Permit the child to hold the handpiece (when turned off) and feel its weight and shape. Show the bur and its extremely small size, which often surprises children who imagined larger cutting instruments. Activate the handpiece again at a distance. Then, if the child permits, briefly place the non-rotating handpiece against a tooth with no rotation. This provides tactile familiarity without the sensory intensity of the rotating instrument.
+For very anxious children, your dentist might break treatment into stages. The first appointment might be just looking at teeth and showing tools—no actual procedures. The second appointment might include gentle mirror examination. The third might introduce suction. The fourth might introduce gentle hand tools. This staged approach lets your child's anxiety decrease with each positive experience.
 
-For suction (high-volume evacuator): Activate at a distance so the child hears the sound. Place a finger near the suction tip so the child feels gentle air movement and mild suction without full suction force. Permit the child to control the suction intensity by moving their hand away or toward the tip. Allow the child to see the water/debris removal, which often demonstrates the purposefulness of the procedure and reduces anxiety about its function.
+Within a single appointment, your dentist starts with the least scary procedures first. Your child experiences success and gets praised. By the time more anxiety-producing procedures happen, your child has already had several wins, which builds confidence for the next step.
 
-For air/water syringe: Activate outside the mouth so the child sees water spray and air stream. Place a finger near the spray so the child feels water and air. For spray-sensitive children, demonstrating the spray on your own hand or a tissue reduces fear. Explain: "This spray is water and air. It helps me rinse away the decay. It feels cool and wet."
+Your dentist explains this plan so your child isn't surprised. "Today we're looking at your teeth and showing you the tools. Next time, we'll use some tools gently. As you get comfortable, we'll do more." This transparency removes fear of the unknown, which is often what scares children most.
 
-The show phase duration varies with individual anxiety levels. Minimally anxious children may require 30-60 seconds of demonstration per instrument. Highly anxious children may require multiple minutes or multiple appointment phases of demonstration before the child feels ready to permit actual procedural use.
+## Building Confidence Through Praise
 
-## Desensitization Protocols and Graded Approach
+Your dentist gives praise immediately after your child succeeds at each step—not just at the end of the appointment. After your child keeps their mouth open during mirror examination, your dentist says: "Great cooperation! You kept your mouth open perfectly. That helps me see your teeth really well." After tolerating suction, they say: "Excellent! You stayed so still while I removed the water. That made my job so much easier."
 
-Systematic desensitization involves progressive exposure to anxiety-producing stimuli with increasing intensity across sequential appointment phases. Initial appointments focus on extraoral examination, establishing rapport, and introducing basic instruments without active use. Subsequent appointments gradually introduce instruments and procedures.
+Specific praise works better than generic praise. Instead of "good job," your dentist says "You're doing such an excellent job keeping your mouth open" because specificity tells your child exactly what behavior earned praise. Praise focuses on effort and cooperation—"You're working so hard to sit still"—rather than personality, which teaches children that effort matters.
 
-For a highly anxious new child, the first appointment might consist entirely of exploration and Tell-Show-Do without any instrumentation. The second appointment might include gentle mirror examination without scaling or cutting instruments. The third appointment might introduce passive suction. The fourth appointment might introduce gentle hand instrumentation. This staged approach permits anxiety extinction over multiple exposures.
+Rewards reinforce cooperation. Stickers, small toys, or certificates at the appointment's end give your child something tangible to show they succeeded. Some offices use a point system where your child earns points for cooperative behaviors and trades accumulated points for larger rewards.
 
-Graded procedures within a single appointment follow similar principles. Begin appointments with non-threatening procedures (mirror examination, suction placement) before advancing to anxiety-producing procedures (high-speed handpiece work). By the time the child reaches more anxiety-producing phases, they've experienced successful cooperation and positive reinforcement, which supports continued cooperation.
+Your own approval as a parent matters hugely. When you say "I'm so proud of how brave you were" or "I'm surprised how well you did," your child feels validated for their effort. This makes cooperation more rewarding than any sticker could.
 
-The provider should explicitly communicate the structure to the child: "Today we're going to look at your teeth and show you the tools we use. Next time we come, we'll use some of the tools gently. As you get comfortable, we'll use more tools." This transparency reduces anxiety created by uncertainty about what will happen.
+## Watching for Anxiety and Adjusting
 
-## Positive Reinforcement During Tell-Show-Do
+Your dentist watches carefully for signs that your child feels anxious. Tight muscles, jaw clenching, pulling away from tools, wide eyes, faster breathing, or saying "I'm scared" or "Stop" all signal increasing anxiety. When your dentist notices these signs, they pause treatment. Maybe they provide extra reassurance. Maybe they repeat the show phase. Maybe they add distraction. Maybe they just pause and let your child catch their breath.
 
-Positive reinforcement should be delivered immediately and frequently during Tell-Show-Do procedures. Rather than waiting until the complete procedure concludes, reinforce successful completion of small steps. After the child permits mirror placement without resistance: "Great cooperation! You kept your mouth open perfectly. That helps me see your teeth really well." After suction is tolerated: "Excellent! You stayed so still while I removed the water. That made my job much easier."
+Your dentist gives your child a "pause hand signal"—usually raising their hand—that immediately stops the procedure. Just knowing they can pause helps enormously. Interestingly, once children know they can stop the procedure with a hand signal, most of them rarely use it. The sense of control reduces panic and anxiety more than actually stopping would.
 
-Verbal praise should be specific and genuine. Generic praise ("good job") lacks the reinforcing power of specific praise ("You're doing such an excellent job keeping your mouth open"). Praise should focus on effort and cooperation rather than personality: "You're working so hard to sit still" rather than "You're such a good girl." This directs the child's attention to controllable behaviors (effort, cooperation) rather than fixed traits.
+Your dentist documents what worked well at each appointment. This personalized record helps with future visits. If your child felt brave when watching the ceiling screen, your dentist uses that next time. If they calmed down when allowed to hold instruments, your dentist knows that strategy works. This personalization means each visit gets easier.
 
-Tangible rewards provide additional reinforcement, particularly for younger children or highly anxious children. Small toys, stickers, or certificates delivered at the end of the appointment reinforce overall cooperation. Some practices use token economy systems where the child earns tokens for cooperative behaviors, exchanging accumulated tokens for larger rewards.
+## During the Actual Procedure
 
-Parental praise and approval constitute powerful reinforcement. When parents visibly approve ("I'm so proud of how brave you were") or express surprise at the child's accomplishment ("I didn't think you would do so well"), the child experiences social validation that extends beyond the dental setting.
+Once your child knows what to expect, your dentist performs the procedure while maintaining a calm, confident voice. Brief, purposeful instructions like "Open a bit wider" or "Relax your jaw" guide your child's behavior better than lengthy explanations during active treatment. Frequent encouragement—"You're doing great!"—maintains motivation throughout.
 
-## Anxiety Assessment and Dynamic Adjustment
+Your dentist remembers everything that works for your child and documents it. This creates a personalized care plan. Your dentist writes down which behavior guidance techniques were used, how your child responded, any anxiety signs, and what modifications helped. This documentation helps at every future visit.
 
-Pre-appointment anxiety assessment informs Tell-Show-Do strategy modification. The Frankl scale categorizes behavior: definitely positive (friendly, interested, eager cooperation), positive (willing cooperation with hesitation), negative (defiant, uncooperative, negative attitude), and definitely negative (intense refusal, loss of control). Initial assessment determines whether standard Tell-Show-Do will be effective or whether modified approaches are necessary.
+## Special Situations
 
-The Modified Child Dental Anxiety Scale (MCDAS) uses child self-report to quantify anxiety regarding specific dental situations. Scores above threshold values identify clinically significant anxiety. Some children with MCDAS scores above threshold benefit from modified approaches, longer show phases, or pharmacologic behavior guidance.
-
-Continuous assessment during Tell-Show-Do procedures permits real-time strategy modification. Observable signs of increasing anxiety include muscle tension, jaw clenching, withdrawal from instruments, eye widening, increased breathing rate, or verbalized fear ("I'm scared," "Stop"). When these signs appear, the provider should pause and determine whether to continue with additional reassurance, repeat the show phase, implement distraction, or pause treatment temporarily.
-
-Hand-raising signals (child raises hand to pause procedure) provide children with a sense of control and reduce anxiety created by helplessness. Explaining that a raised hand will immediately stop the procedure, combined with reinforcing hand raises that actually do pause the procedure, teaches the child that their concerns are respected and manageable. Children who raise hands rarely actually need to stop; the sense of control reduces panic response.
-
-## Voice Control Integration
-
-Voice control—the use of tone, volume, pacing, and inflection—complements Tell-Show-Do telling and demonstration. Confidence in voice tone signals provider competence and control. Calm tone signals safety. Slight slowing of speech rate permits processing and demonstrates lack of urgency. Appropriate pause length before proceeding to procedures provides final opportunity for the child to process information.
-
-Voice control during procedures should maintain calm confidence while avoiding monotone delivery. Brief, purposeful commands ("Open a bit wider," "Relax your jaw") delivered in calm, confident tone guide child behavior more effectively than lengthy explanation during active procedures. Periodic positive reinforcement ("You're doing great") maintains motivation and cooperation throughout.
-
-## Documentation of Tell-Show-Do Process
-
-Clinical documentation should note which behavior guidance techniques were employed, the child's response to each phase, specific anxiety indicators observed, modifications made, and ultimate behavioral outcome. Example documentation: "Pt. exhibited moderate anxiety (Frankl positive). Used Tell-Show-Do with extended show phase. Permitted mirror exam without resistance after demonstration. Initial reluctance regarding suction resolved after demonstrating on finger. Permitted gentle hand instrumentation with positive reinforcement. Cooperative throughout appointment. Pt. education regarding home care provided."
-
-This documentation creates a record that informs subsequent appointments and establishes the standard of care. If a child's cooperation is questioned, documentation demonstrates that systematic behavior guidance was employed.
-
-## Contraindications and Limitations
-
-Tell-Show-Do proves less effective in several scenarios. Significant behavior disorders, autism spectrum disorder with sensory processing difficulties, or severe anxiety disorder may require alternative approaches. Acute pain often precludes adequate Tell-Show-Do implementation; emergency pain relief may be necessary before systematic behavior guidance.
-
-Children with previous negative dental experiences may demonstrate conditioned fear responses requiring extended desensitization or possible pharmacologic behavior guidance. Certain medical conditions (severe cardiac anxiety, PTSD) may require modified approaches or referral to specialists experienced in anxiety management.
+Tell-Show-Do works beautifully for most children, but not all situations allow for full implementation. Children with autism spectrum disorder or severe sensory sensitivities might need modified approaches. Children with previous traumatic dental experiences might need extra time and multiple show-phase visits before any treatment. In dental emergencies where pain is severe, pain relief comes first, then Tell-Show-Do happens at follow-up appointments. If your child has special needs, discuss this with your pediatric dentist so they can plan accordingly.
 
 ## Conclusion
 
-Effective Tell-Show-Do implementation requires detailed attention to verbal explanation quality, demonstration methodology, timing, reinforcement patterns, and continuous anxiety assessment. Providers who master the detailed techniques of Tell-Show-Do delivery—from precise language selection to non-verbal communication, from graded desensitization to immediate positive reinforcement—maximize anxiety reduction and behavioral cooperation. The technique remains the cornerstone of pediatric behavior guidance, supported by extensive evidence and refined through decades of clinical experience.
+Mastering Tell-Show-Do requires skill in language selection, demonstration technique, timing, and positive reinforcement. Your pediatric dentist's careful attention to each detail—from explaining sensations precisely to watching your child's anxiety level and adjusting in real time—makes the difference between dental visits that scare children and visits that build confidence. Tell-Show-Do remains the gold standard for pediatric dental behavior guidance because it works and because it teaches children that they can manage challenging situations. Through this technique, your dentist isn't just treating teeth—they're building lifelong confidence and healthy attitudes toward dental care.
+
+## Key Takeaway
+
+Tell-Show-Do becomes even more effective when your dentist masters the details: precise language for each age, strategic demonstration, appropriate pacing, immediate positive reinforcement, and continuous anxiety assessment. These details transform anxious children into cooperative, confident dental patients.
+
+## Related Articles You May Find Helpful
+
+- [Open Bite from Thumb Sucking: Prevention and Treatment](/article/open-bite-from-thumb-sucking-prevention-and-treatment.html)
+- [Fluoride Varnish in Pediatric Care: High-Strength Treatment](/article/fluoride-varnish-in-pediatric-care-high-strength-treatment.html)
+- [Digit Sucking: Age-Appropriate Cessation](/article/digit-sucking-age-appropriate-cessation.html)
 
