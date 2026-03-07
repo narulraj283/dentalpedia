@@ -1,110 +1,112 @@
 ---
-title: Risk and Concerns with Teeth Bleaching Safety
-slug: risk-and-concerns-with-teeth-bleaching-safety
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: "Comprehensive analysis of bleaching safety concerns including hydrogen peroxide concentration risks, pulpal inflammation, enamel effects, mucosal."
 date: 2026-03-05
+excerpt: Whitening products are everywhere—toothpastes, strips, gel trays, and professional
+  office treatments all promise whiter teeth.
 read_time: 13 min
+references:
+- title: 'Tavares M, Stultz J, Newman M, et al. Light-activated teeth whitening: an
+    in vitro study on human teeth. Journal of Clinical Dentistry. 2003;14(1):4-10.'
+  url: https://pubmed.ncbi.nlm.nih.gov/12725150
+- title: Kimyai S, Valizadeh H. The effect of surface roughness and composite resin
+    type on marginal leakage of class V restorations before and after bleaching. Operative
+    Dentistry. 2006;31(2):151-156.
+  url: https://pubmed.ncbi.nlm.nih.gov/16702347
+- title: 'Plotino G, Buono L, Grande NM, et al. Nonvital tooth bleaching: a review
+    of the literature and clinical procedures. Journal of Endodontics. 2008;34(4):394-407.'
+  url: https://pubmed.ncbi.nlm.nih.gov/18367071
+- title: Zach L, Cohen G. Pulp response to externally applied heat. Oral Surgery,
+    Oral Medicine, Oral Pathology. 1965;19(4):515-530.
+  url: https://pubmed.ncbi.nlm.nih.gov/14263456
+- title: Bowles WH, Burns JL. Catalase/peroxide oxidoreductase activity in dental
+    pulp tissue. Journal of Endodontics. 1992;18(12):566-569.
+  url: https://pubmed.ncbi.nlm.nih.gov/1339289
+- title: Rotstein I. Role of catalase in the elimination of hydrogen peroxide from
+    bleached teeth. Journal of Endodontics. 1993;19(11):557-561.
+  url: https://pubmed.ncbi.nlm.nih.gov/8151252
+- title: 'Haywood VB, Leonard RH. Nightguard vital bleaching: effects on enamel surface
+    texture and diffusion. Journal of Cosmetic Dentistry. 1989;5(3):36-42.'
+  url: https://pubmed.ncbi.nlm.nih.gov/2639435
+- title: Cox CF, Kont AL, Marling LB. Etiology and treatment of sensitive teeth. Journal
+    of Dental Education. 1997;61(4):276-287.
+  url: https://pubmed.ncbi.nlm.nih.gov/9134769
+- title: Gurgan S, Karakaya TM, Yalcin F. Effect of bleaching on microhardness of
+    resin composite restorations. Journal of Esthetic Dentistry. 1997;9(3):144-150.
+  url: https://pubmed.ncbi.nlm.nih.gov/9558589
+- title: Attin T, Müller T, Patyk A, et al. Influence of different bleaching systems
+    on fracture toughness and hardness of enamel. Operative Dentistry. 2003;28(2):647-652.
+  url: https://pubmed.ncbi.nlm.nih.gov/14736140
+reviewed: true
 reviewer_specialty: Cosmetic Dentistry
+slug: risk-and-concerns-with-teeth-bleaching-safety
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
-reviewed: true
-references:
-  - title: "Tavares M, Stultz J, Newman M, et al. Light-activated teeth whitening: an in vitro study on human teeth. Journal of Clinical Dentistry. 2003;14(1):4-10."
-    url: https://pubmed.ncbi.nlm.nih.gov/12725150
-  - title: "Kimyai S, Valizadeh H. The effect of surface roughness and composite resin type on marginal leakage of class V restorations before and after bleaching. Operative Dentistry. 2006;31(2):151-156."
-    url: https://pubmed.ncbi.nlm.nih.gov/16702347
-  - title: "Plotino G, Buono L, Grande NM, et al. Nonvital tooth bleaching: a review of the literature and clinical procedures. Journal of Endodontics. 2008;34(4):394-407."
-    url: https://pubmed.ncbi.nlm.nih.gov/18367071
-  - title: "Zach L, Cohen G. Pulp response to externally applied heat. Oral Surgery, Oral Medicine, Oral Pathology. 1965;19(4):515-530."
-    url: https://pubmed.ncbi.nlm.nih.gov/14263456
-  - title: "Bowles WH, Burns JL. Catalase/peroxide oxidoreductase activity in dental pulp tissue. Journal of Endodontics. 1992;18(12):566-569."
-    url: https://pubmed.ncbi.nlm.nih.gov/1339289
-  - title: "Rotstein I. Role of catalase in the elimination of hydrogen peroxide from bleached teeth. Journal of Endodontics. 1993;19(11):557-561."
-    url: https://pubmed.ncbi.nlm.nih.gov/8151252
-  - title: "Haywood VB, Leonard RH. Nightguard vital bleaching: effects on enamel surface texture and diffusion. Journal of Cosmetic Dentistry. 1989;5(3):36-42."
-    url: https://pubmed.ncbi.nlm.nih.gov/2639435
-  - title: "Cox CF, Kont AL, Marling LB. Etiology and treatment of sensitive teeth. Journal of Dental Education. 1997;61(4):276-287."
-    url: https://pubmed.ncbi.nlm.nih.gov/9134769
-  - title: "Gurgan S, Karakaya TM, Yalcin F. Effect of bleaching on microhardness of resin composite restorations. Journal of Esthetic Dentistry. 1997;9(3):144-150."
-    url: https://pubmed.ncbi.nlm.nih.gov/9558589
-  - title: "Attin T, Müller T, Patyk A, et al. Influence of different bleaching systems on fracture toughness and hardness of enamel. Operative Dentistry. 2003;28(2):647-652."
-    url: https://pubmed.ncbi.nlm.nih.gov/14736140
+title: Risk and Concerns with Teeth Bleaching Safety
 ---
 
-# Risk and Concerns with Teeth Bleaching Safety: Understanding the Complications of Whitening Treatments
+# Teeth Whitening Safety: What You Should Know Before Bleaching
 
-Tooth whitening has become one of the most widely requested cosmetic dental procedures, driven by patient desire for brighter smiles and aggressive marketing by manufacturers of over-the-counter bleaching products. However, the biological effects of peroxide-based bleaching agents extend far beyond the intended whitening effect, introducing risks of pulpal damage, enamel demineralization, gingival and mucosal injury, and sensitivity that can persist long after treatment. Understanding these complications is essential for clinicians counseling patients about bleaching safety and for patients considering whitening treatments.
+Whitening products are everywhere—toothpastes, strips, gel trays, and professional office treatments all promise whiter teeth. But before you jump into bleaching, you should understand that whitening comes with real risks. Even professional bleaching carries potential for tooth sensitivity, gum damage, and enamel changes. This guide explains how whitening works, what can go wrong, and how to minimize risks if you decide to whiten your teeth.
 
-## Hydrogen Peroxide Penetration and Pulpal Effects
+## How Whitening Products Work and Why They Damage Teeth
 
-The primary active agent in modern bleaching systems is hydrogen peroxide (H₂O₂) or its precursor carbamide peroxide, which breaks down to release H₂O₂. The bleaching action occurs through oxidation of chromophores—the organic molecules that impart color to dentin. However, hydrogen peroxide is not selective for chromophores; it penetrates tooth structure and enters the pulpal chamber where it exerts direct chemical effects on pulpal tissues.
+Bleaching products contain peroxide—typically hydrogen peroxide or carbamide peroxide. These chemicals whiten teeth by oxidizing (breaking down) the molecules that make teeth look yellow or stained. The problem is that these strong chemicals don't just whiten—they also penetrate into your tooth and can affect the nerve (pulp) inside.
 
-The pathways by which H₂O₂ reaches the pulp are multiple: through dentinal tubules when exposed at the cervical margin, through restorations with marginal gaps, and through the apical foramen where diffusion is particularly efficient. Bowles' research directly measured catalase/peroxide oxidoreductase activity in dental pulp tissue, establishing that pulpal tissue produces catalase, an enzyme designed to break down H₂O₂. However, the amount of catalase is limited, and excessive H₂O₂ exposure overwhelms this defense mechanism. When H₂O₂ concentration or exposure duration exceeds pulpal catalase capacity, direct oxidative damage to pulpal proteins occurs.
+The stronger the peroxide concentration, the more effective the whitening, but also the greater the risk of damage. Professional office treatments use much stronger concentrations (15-35%) than over-the-counter products (usually 5-10%). Your tooth has some natural protection—an enzyme called catalase that breaks down hydrogen peroxide. But this protection has limits, and excessive bleaching can overwhelm it and damage your tooth's nerve tissue.
 
-Rotstein's landmark studies on catalase's role in eliminating H₂O₂ from bleached teeth demonstrated a dose-response relationship between peroxide concentration and pulpal damage. Low-concentration bleaching systems (less than 5% H₂O₂) pose minimal risk to pulpal vitality when used appropriately. Higher concentrations (15-35% H₂O₂) used in in-office systems create substantial H₂O₂ diffusion into the pulp, particularly with extended application times. The concern intensifies when high-concentration systems are used repeatedly or for prolonged periods without professional supervision.
+The peroxide can reach your tooth's nerve through multiple routes: exposed dentin at your gumline, old restorations with gaps, or directly through the root tip. Once it reaches the nerve tissue, it can cause inflammation, pain, and potentially permanent damage.
 
-## Pulpal Inflammation and Sensitivity: The Biological Reality
+## Tooth Sensitivity: One of the Most Common Problems
 
-Subclinical pulpal inflammation—inflammation present histologically without yet causing significant pain or loss of vitality—occurs frequently during bleaching treatment. Histological studies of bleached teeth have revealed inflammatory infiltrate in the pulpal tissue, edema of pulpal connective tissue, and changes in vascular morphology consistent with low-level inflammation. This inflammation is reversible if bleaching is discontinued, but continued exposure progressively deepens the inflammatory response and risks progression to irreversible pulpitis.
+About 15-40% of people who use professional whitening experience tooth sensitivity. The sensitivity happens because bleaching opens up tiny tubes in your dentin (the layer under enamel) that connect to your nerve. This allows fluid and temperature changes to stimulate the nerve, creating sharp pain when you drink hot or cold beverages.
 
-The clinical manifestation of this inflammation is tooth sensitivity—pain triggered by temperature changes, pressure, or osmotic stimuli. Bleaching-induced sensitivity occurs in approximately 15-40% of patients undergoing professional whitening and a higher percentage of those using over-the-counter products. The mechanism involves partial denaturation of odontoblasts (the dentin-forming cells) and temporary loss of the smear layer (the protective layer on dentin surfaces), allowing greater fluid movement within dentinal tubules. This fluid movement stimulates the hydrodynamic receptor mechanism, creating pain sensations.
+The sensitivity usually goes away within a few days to a few weeks after bleaching stops. But here's the important part: if you still feel sensitivity weeks or months later, it means your teeth suffered more damage than normal. Your tooth's nerve-forming cells need extended time to heal from the bleaching damage—sometimes 3-12 months. If you have this type of prolonged sensitivity, you should tell your dentist before bleaching again.
 
-Importantly, sensitivity persisting weeks or months after bleaching cessation indicates more substantial pulpal damage than merely temporary inflammation. Such prolonged sensitivity suggests that the odontoblast epithelium has been significantly traumatized and requires extended time to recover. Cox's research on sensitivity in bleached teeth demonstrated that recovery of normal sensation can take 3-12 months following aggressive bleaching protocols, indicating that substantial cellular damage and repair processes are occurring within the tooth.
+Over-the-counter products cause sensitivity even more frequently than professional treatments, partly because people use them longer or more frequently, and partly because home use lacks professional protections. For more on this topic, see our guide on [Tooth Translucency Incisal Edge Effec...](/article/tooth-translucency-incisal-edge-effects-on-appearance.html).
 
-## Enamel and Dentin Structural Changes from Bleaching
+## Enamel Damage From Bleaching
 
-Dental enamel, despite being the hardest substance in the human body, undergoes microstructural changes during bleaching. The hydrogen peroxide oxidation process affects the organic matrix of enamel—the protein scaffolding that provides structural integrity. With demineralization of the organic matrix, enamel becomes microscopically more porous, less hard, and more permeable. These changes are not visible clinically but can be detected through microhardness testing and scanning electron microscopy.
+Bleaching actually changes your enamel structure. It becomes slightly softer and more porous after whitening. This isn't permanent damage—your enamel gradually hardens again over several weeks—but during that time, your teeth are more vulnerable.
 
-Attin's research on the influence of different bleaching systems on enamel fracture toughness and hardness demonstrated that high-concentration hydrogen peroxide systems reduce enamel hardness by 5-15%, a clinically significant reduction that persists for weeks after bleaching cessation. This reduced hardness means teeth are more susceptible to attrition (wear from chewing) and abrasion (wear from aggressive brushing). Patients who undergo bleaching should be counseled to avoid aggressive tooth brushing for several weeks post-treatment and should use soft-bristled toothbrushes to minimize wear of the temporarily softened enamel.
+The softer enamel means your teeth wear more easily from brushing or chewing, so you should use a soft toothbrush and be gentle for a few weeks after whitening. Also, the more porous enamel absorbs stains more easily. That's why you might notice your teeth re-stain faster after bleaching than before, especially if you drink coffee, tea, or red wine.
 
-The increased enamel permeability following bleaching also creates unexpected problems. Enamel that is more permeable absorbs external stains more readily, potentially reducing the longevity of whitening effects. Additionally, the compromised enamel may allow greater bacterial penetration, potentially affecting the enamel-caries interface. Patients who bleach and then consume staining agents (coffee, tea, red wine) experience faster re-staining than baseline staining rates, a phenomenon at least partly attributable to the temporarily altered enamel structure.
+## Why Professional Whitening Is Safer Than Over-the-Counter Products
 
-## Over-The-Counter Bleaching Products: Lack of Professional Oversight and Concentration Risks
+Over-the-counter bleaching strips and trays offer less protection than professional treatment. Before your dentist bleaches your teeth, they check your enamel thickness, look for areas of exposed root, examine your gum health, and assess your existing fillings. They also apply protective barriers to your gums before bleaching.
 
-Over-the-counter bleaching strips, trays, and whitening toothpastes represent a largely unregulated category of products with highly variable active agent concentrations and no professional supervision. While manufacturers claim these products are safe for consumer use, the reality involves substantial risks absent from professionally supervised treatment. Many over-the-counter products contain H₂O₂ concentrations approaching or exceeding those in professional systems, yet without the application controls, timing protocols, or protective measures employed by professionals.
+Most over-the-counter trays fit poorly and allow bleaching gel to leak onto your gums, causing chemical burns. The gel isn't applied evenly, so some teeth might lighten more than others, creating blotchy results. Some people using these products experience severe and lasting sensitivity or discover unexpected complications that professional oversight would have prevented.
 
-The fundamental problem is the absence of professional assessment before bleaching begins. A dentist evaluates tooth color at baseline, assesses enamel thickness and integrity, identifies restorations that might stain or be affected by bleaching, checks for cervical exposure or marginal gaps in existing restorations that could allow H₂O₂ penetration into deeper tissues, and establishes realistic expectations about achievable whitening. The over-the-counter user bypasses all these assessments and applies bleaching agents blindly.
+Professional whitening uses custom-fitted trays that fit snugly, precise gel concentrations, controlled application times, and protective measures for your gums. Yes, it costs more, but the cost is usually worth it compared to over-the-counter complications.
 
-Custom-fabricated professional trays provide intimate contact with tooth surfaces and consistent thickness of bleaching gel, allowing precise dosing and duration. Over-the-counter trays are often ill-fitting, causing gel to leak onto gingival tissues and creating mucosal burns, or creating uneven contact that leaves blotchy coloration. Some patients with over-the-counter trays experience excessive and irreversible sensitivity or discover that their teeth have become blotchy or discolored in unexpected ways—complications that never would have developed with professional guidance.
+## Gum Damage and Chemical Burns
 
-## Gingival Damage and Mucosal Burns from Bleaching Agents
+Bleaching gel is caustic—it can chemically burn your gum tissue. Professional whitening includes protective barriers to keep the gel off your gums. But with over-the-counter products, the gel easily leaks onto your gums, especially with strips or ill-fitting trays. This causes irritation, ulcers, and sometimes severe burns that make eating and talking painful for several days. For more on this topic, see our guide on [Non Vital Bleaching Whitening Root Tr...](/article/non-vital-bleaching-whitening-root-treated-teeth.html).
 
-Hydrogen peroxide is caustic to gingival and other oral mucosal tissues. When concentrated bleaching gel contacts unprotected gingiva or oral mucosa, chemical burns result. In professional settings, the gingiva is protected with rubber isolation (rubber dam or rubber bib) and careful application technique minimizes gel contact with gingival tissues. The few instances of significant mucosal damage in professional settings involve either inadvertent gel contact with gingiva during application or use of trays with poorly sealed margins.
+Bleaching strips are particularly problematic because they inherently cover your gum tissue. Even though manufacturers say it's safe, people regularly experience gum irritation from strip use. If you use strips repeatedly, the cumulative damage can cause chronic gum problems.
 
-Over-the-counter products frequently cause gingival irritation and mucosal burns because users lack experience applying gel precisely without spillage. The custom trays that professional systems employ are often absent in over-the-counter kits, replaced with generic trays that fit poorly and allow gel leakage. Even minor leakage of bleaching gel onto gingival margins can cause chemical irritation, tissue damage, and temporary ulceration. In some cases, mucosal damage is severe enough to interfere with the patient's ability to eat or speak comfortably for several days.
+## Problems With Your Existing Fillings and Crowns
 
-The risk is particularly high with bleaching strips, which while convenient, lack the protective margins of trays. The whitening layer of the strip invariably covers gingival tissue to some degree, exposing delicate mucosa to concentrated bleaching agent. Many patients experience gingival irritation and tissue damage from strip use, yet perceive this as normal and continue treatment. The cumulative effect of repeated low-level mucosal damage from multiple bleaching sessions can cause chronic gingival inflammation and potential loss of attached gingiva.
+Bleaching doesn't affect the color of your existing fillings and crowns—only natural tooth structure whitens. So as your teeth get lighter, your restorations stay the same color. This creates color mismatch where your restorations now look darker than surrounding natural teeth. Many people are surprised by this after bleaching.
 
-## Interactions with Existing Restorations and Marginal Integrity Compromise
+The problem gets worse: bleaching actually damages the seal between restorations and your natural tooth. It can open up gaps that allow bacteria and decay to get underneath. Some patients who bleached their teeth end up needing to replace all their restorations, which costs far more than the original bleaching. If you have lots of dental work, talk to your dentist before bleaching about whether you'll need restoration replacements afterward.
 
-Existing composite resin restorations, ceramic crowns, and other restorations create a complication not present in all-natural tooth treatment: bleaching agents do not affect restoration color while affecting surrounding natural tooth color, resulting in progressive color mismatch. As natural teeth become lighter, restorations that don't bleach become darker by comparison. This is one of the most common complaints patients express after whitening—that their restorations now stand out rather than blend.
+## Making the Right Choice About Whitening
 
-Beyond this aesthetic problem, bleaching agents affect the interface between restorations and tooth structure. Kimyai's research on marginal leakage of class V restorations before and after bleaching demonstrated that bleaching increases microleakage—the penetration of fluids, bacteria, and bacterial by-products into the marginal gaps between restorations and tooth structure. This increased microleakage occurs because bleaching agents expand resin materials and because peroxide etches the resin surface slightly, compromising marginal seal. Existing restorations with already-marginal adaptation become significantly compromised following bleaching.
+If you're considering whitening, talk to your dentist first. They can assess your individual situation, identify risk factors, and recommend whether professional whitening, at-home professional systems, or no bleaching is best for you. People with gum disease, sensitive teeth, or existing gum recession may not be good candidates for whitening.
 
-For patients with bleaching-affected restoration adaptation, the consequence is accelerated recurrent caries at the restoration margins, pulpal irritation from bacterial leakage, and often required restoration replacement. The cost of replacing compromised restorations often exceeds the cost of the initial bleaching, creating an unexpected expense for patients who didn't anticipate this consequence. Additionally, some restorations must be replaced before bleaching to avoid this problem, increasing the cost of whitening treatment.
+The safest approach combines professional guidance with realistic expectations. Your teeth might not become as white as you hope, sensitivity might develop, and maintenance bleaching will be needed to maintain results.
 
-## Pulpal Inflammation in Teeth with Existing Restorations
+## Conclusion: Balancing Whitening Goals With Tooth Safety
 
-Bleaching presents particular risks in teeth that already have composite or amalgam restorations because these restorations are typically more permeable to peroxide than natural tooth structure. The enamel and natural dentin that would normally create diffusion resistance are absent in teeth with restorations, allowing more efficient H₂O₂ penetration into the pulp.
+Tooth whitening can brighten your smile, but it comes with real risks that need to be managed carefully. Professional whitening under dental supervision offers better safety than over-the-counter products, though risks exist with any bleaching method. Understanding these risks helps you make informed decisions about whether whitening is right for you and how to minimize potential problems if you choose to whiten.
 
-Teeth with existing endodontic treatment (root canal treatment) also present bleaching risks. While the tooth lacks vital pulp tissue, internal bleaching of non-vital teeth introduces hydrogen peroxide into the pulp chamber itself. High concentrations used for internal bleaching, particularly when combined with heat, can create severe inflammation and potentially compromise the apical seal of the root canal treatment. Plotino's review of non-vital tooth bleaching notes that complications including external root resorption have been documented following aggressive internal bleaching protocols, particularly when heat is used to accelerate bleaching reactions.
+## Key Takeaway
 
-## Bleaching-Associated Sensitivity: Mechanism and Management
+Teeth whitening uses peroxide chemicals that can damage your teeth, cause sensitivity, burn your gums, and compromise your existing restorations. Professional whitening is safer than over-the-counter products because of protective barriers and careful monitoring. Always consult your dentist before whitening to assess your individual situation and risks.
 
-The primary adverse effect of bleaching—tooth sensitivity—occurs through a well-established mechanism involving temporary disruption of the odontoblastic layer and exposure of dentinal tubules. Following bleaching, exposed dentin shows fluid shifts within tubules in response to temperature, osmotic gradients, or physical pressure. These fluid movements activate pain receptors in the pulp, creating the characteristic sharp pain of dental sensitivity.
+## Related Articles
 
-Prevention of bleaching sensitivity requires reducing the peroxide concentration and duration of application, using calcium-containing bleaching systems that remineralize dentin, and protecting exposed cervical dentin with barriers before bleaching. Additionally, pre-bleaching treatment with desensitizing agents or fluoride can reduce sensitivity incidence. However, these preventive measures require professional knowledge and application—over-the-counter bleaching bypasses these protections.
-
-Once bleaching sensitivity develops, management involves waiting for natural recovery (which may take weeks to months), using fluoride or calcium-containing desensitizing agents, and potentially applying gingival barriers to prevent further peroxide diffusion if bleaching is to continue. For some patients, sensitivity becomes so severe that bleaching must be discontinued. The unpredictability of sensitivity severity makes professional monitoring important—professionals can identify early sensitivity and modify treatment protocols before severe problems develop.
-
-## Realistic Counseling About Bleaching Risks and Alternatives
-
-Patients should be counseled that teeth whitening, while generally safe when properly supervised, carries real risks including sensitivity, enamel damage, pulpal inflammation, mucosal injury, and restoration problems. The degree of whitening possible is limited by baseline tooth color and composition, and maintenance requires periodic re-treatment because teeth naturally discolor over time. Bleaching does not permanently change tooth color.
-
-For patients with significant discoloration—particularly intrinsic stains like tetracycline discoloration or non-vital tooth blackening—bleaching alone often provides insufficient improvement, and veneers or crowns may be more appropriate solutions despite their higher cost. These alternatives provide more predictable results, permanent color change, and absence of complications like sensitivity or enamel damage associated with bleaching.
-
-Conclusion: Balancing Cosmetic Goals with Biological Safety
-
-Tooth bleaching remains a reasonable cosmetic option for many patients when performed professionally with appropriate protocols. However, the risks associated with bleaching—particularly those from over-the-counter products without professional oversight—warrant serious consideration. Patients deserve detailed informed consent discussing potential sensitivity, enamel damage, mucosal injury, and effects on existing restorations. For patients determined to pursue bleaching, professional supervision provides the safest approach, though risks remain and cannot be entirely eliminated.
+- [Tooth Translucency: Incisal Edge Effects on Appearance](/article/tooth-translucency-incisal-edge-effects-on-appearance.html)
+- [Non-Vital Bleaching: Whitening Root-Treated Teeth](/article/non-vital-bleaching-whitening-root-treated-teeth.html)
+- [How to Get Teeth Whitening Results](/article/how-to-teeth-whitening-results.html)

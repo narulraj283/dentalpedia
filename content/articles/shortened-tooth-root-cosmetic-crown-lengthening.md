@@ -1,93 +1,107 @@
 ---
-title: "Crown Lengthening for Short Clinical Crowns: Aesthetic and Prosthetic Solutions"
-slug: shortened-tooth-root-cosmetic-crown-lengthening
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: Crown lengthening surgically exposes more tooth structure to correct the gummy smile and enable proper prosthetic restoration of short clinical crowns.
 date: 2026-03-05
+excerpt: Crown lengthening surgically exposes more tooth structure to correct the
+  gummy smile and enable proper prosthetic restoration of short clinical crowns.
 read_time: 11 min
+references:
+- title: 'Majzoub Z, Cordioli G. Crown lengthening: A dental and periodontal perspective.
+    J Am Dent Assoc. 2003;134(4):459-468.'
+  url: https://pubmed.ncbi.nlm.nih.gov/12733777
+- title: Bragger U, Lauchenauer D, Lang NP. Surgical lengthening of the clinical crown.
+    J Clin Periodontol. 1992;19(1):58-63.
+  url: https://pubmed.ncbi.nlm.nih.gov/1732495
+- title: Gargiulo AW, Wentz FM, Orban B. Dimensions and relations of the dentogingival
+    junction in humans. J Periodontol. 1961;32(5):261-267.
+  url: https://pubmed.ncbi.nlm.nih.gov/13889272
+- title: Pini Prato GP, Rotundo R, Cortellini P, et al. Periodontal plastic surgery.
+    Periodontol 2000. 2012;59(1):92-102.
+  url: https://pubmed.ncbi.nlm.nih.gov/22507058
+- title: 'Coslet JG, Vanarsdall RL, Weisgold AS. Esthetics: the alpha and omega of
+    operative dentistry. A clinical evaluation. Pediatr Dent. 1977;2(3):165-172.'
+  url: https://pubmed.ncbi.nlm.nih.gov/272164
+- title: 'Newman MG, Takei H, Klokkevold PR, Carranza FA. Clinical Periodontology.
+    11th ed. St. Louis: Elsevier; 2012.'
+  url: https://pubmed.ncbi.nlm.nih.gov/25734220
+- title: Wise MD. Periodontal considerations of esthetic restorations. Dent Clin North
+    Am. 1993;37(2):165-175.
+  url: https://pubmed.ncbi.nlm.nih.gov/8458897
+- title: Covani U, Marconcini S, Crespi R, Barone A. Esthetic treatment of anterior
+    gingival recession with a tunnel technique and collagen matrix. Int J Periodontics
+    Restorative Dent. 2009;29(5):543-549.
+  url: https://pubmed.ncbi.nlm.nih.gov/19835655
+reviewed: true
 reviewer_specialty: Periodontology
+slug: shortened-tooth-root-cosmetic-crown-lengthening
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
-reviewed: true
-references:
-  - title: "Majzoub Z, Cordioli G. Crown lengthening: A dental and periodontal perspective. J Am Dent Assoc. 2003;134(4):459-468."
-    url: https://pubmed.ncbi.nlm.nih.gov/12733777
-  - title: "Bragger U, Lauchenauer D, Lang NP. Surgical lengthening of the clinical crown. J Clin Periodontol. 1992;19(1):58-63."
-    url: https://pubmed.ncbi.nlm.nih.gov/1732495
-  - title: "Gargiulo AW, Wentz FM, Orban B. Dimensions and relations of the dentogingival junction in humans. J Periodontol. 1961;32(5):261-267."
-    url: https://pubmed.ncbi.nlm.nih.gov/13889272
-  - title: "Pini Prato GP, Rotundo R, Cortellini P, et al. Periodontal plastic surgery. Periodontol 2000. 2012;59(1):92-102."
-    url: https://pubmed.ncbi.nlm.nih.gov/22507058
-  - title: "Coslet JG, Vanarsdall RL, Weisgold AS. Esthetics: the alpha and omega of operative dentistry. A clinical evaluation. Pediatr Dent. 1977;2(3):165-172."
-    url: https://pubmed.ncbi.nlm.nih.gov/272164
-  - title: "Newman MG, Takei H, Klokkevold PR, Carranza FA. Clinical Periodontology. 11th ed. St. Louis: Elsevier; 2012."
-    url: https://pubmed.ncbi.nlm.nih.gov/25734220
-  - title: "Wise MD. Periodontal considerations of esthetic restorations. Dent Clin North Am. 1993;37(2):165-175."
-    url: https://pubmed.ncbi.nlm.nih.gov/8458897
-  - title: "Covani U, Marconcini S, Crespi R, Barone A. Esthetic treatment of anterior gingival recession with a tunnel technique and collagen matrix. Int J Periodontics Restorative Dent. 2009;29(5):543-549."
-    url: https://pubmed.ncbi.nlm.nih.gov/19835655
+title: 'Crown Lengthening for Short Clinical Crowns: Aesthetic...'
 ---
 
-## Introduction
+## What is a Gummy Smile and Why It Matters
 
-Crown lengthening is a periodontal surgical procedure that increases the clinical crown height by removing gingival tissue and alveolar bone. This procedure serves both aesthetic and restorative purposes, enabling dentists to create more harmonious smiles and properly restore teeth with limited supragingival structure. Whether addressing a gummy smile or preparing for prosthetic restoration, crown lengthening requires careful surgical planning and understanding of periodontal anatomy.
+If you feel like you show too much gum when you smile, you're not alone. This condition—showing more than a quarter-inch of gum tissue when smiling—affects about one in ten people and can make you feel self-conscious about your smile. Your dentist calls this excessive gingival display. Sometimes teeth look shorter than they should because your gum line sits higher than it does for most people. This can happen for various reasons, including how your teeth naturally erupted or your inherited tooth and gum characteristics. If a short smile bothers you, your periodontist (a specialist in gum health) may recommend crown lengthening—a surgical procedure that exposes more of your tooth surface to create a more balanced smile.
 
-The clinical crown refers to the portion of the tooth visible above the gingival margin, while the anatomical crown extends from the cusp tip or incisal edge to the cemento-enamel junction (CEJ). The biological width—the dimension of periodontal tissues occupying the space between the alveolar crest and the CEJ—typically measures 3 millimeters vertically. This dimension was first described by Gargiulo et al., who established that invasive restorations violating this space lead to chronic inflammation, gingival recession, and eventually alveolar bone loss. Understanding and respecting biological width is paramount to successful crown lengthening outcomes.
+## When Dentists Recommend Crown Lengthening
 
-## Etiology and Indications
+Beyond cosmetic concerns, your dentist might suggest crown lengthening if you need a crown to repair a heavily damaged tooth. When a tooth has significant decay or has broken, there may not be enough healthy tooth structure above your gum line to anchor a crown properly. Crown lengthening creates more space and structure for your new crown to grip and last longer. This procedure ensures your restoration stays secure and functions well for many years. The surgery also prepares the area for future dental work while respecting the sensitive balance between your teeth and gums.
 
-Short clinical crowns result from various etiologies. Passive eruption failure, where teeth appear short despite normal vertical alveolar bone position, occurs when the gingival margin rests apical to its normal position relative to the underlying alveolar crest. This condition creates the appearance of a "gummy smile" and is often a primary aesthetic concern driving patients to seek treatment.
+## Understanding Your Gum and Tooth Anatomy
 
-Excessive gingival display, defined as more than three millimeters of gingival tissue visible during smiling, affects approximately 10% of the population and significantly impacts perceived facial aesthetics. High-angle cases and hypermobility of the upper lip, in addition to passive eruption, contribute to this condition. Crown lengthening may be combined with lip repositioning or orthodontic extrusion to achieve optimal results.
+Your gums and the tissues beneath them have a specific structure that your dentist must protect during any procedure. There's a critical space called the biological width—about three millimeters of tissue—that sits between your bone and the edge of your tooth. This space must be maintained for your gums to stay healthy. If a dentist places a filling or crown that violates this space, your gums can become inflamed and recede over time, and you could lose bone support. Crown lengthening takes this important anatomy into account, carefully removing gum tissue and bone to expose more tooth while protecting this crucial biological width.
 
-Additional indications include preparation for fixed prosthetics when adequate supragingival tooth structure is necessary for restoration retention and marginal stability. When teeth present with significant coronal destruction from caries or trauma, crown lengthening exposes adequate ferrule height—typically 1.5 to 2 millimeters of sound dentin—to support subsequent crown restoration and improve long-term prognosis. Teeth designated for surgical extraction may benefit from crown lengthening to facilitate extraction or orthodontic movement before removal.
+## How Crown Lengthening Surgery Works
 
-## Periodontal Anatomy and Biological Width
+During crown lengthening, your periodontist carefully removes gum tissue and sometimes bone to expose more of your tooth structure. The surgery uses special rotating instruments with continuous irrigation to gently reshape your gum line and underlying bone contours. Your surgeon designs the new gum line to create a balanced, natural appearance—proportional across all your visible teeth. The bone is shaped to follow your tooth's natural contour, which helps your gums stay healthy after healing and prevents problems later. The procedure typically takes 30 to 60 minutes, depending on how many teeth need treatment.
 
-The dentogingival junction comprises the gingival sulcus, junctional epithelium, and supracrestal connective tissue attachment. The junctional epithelium measures approximately 1 millimeter, while the supracrestal connective tissue attachment extends roughly 1.5 millimeters. Combined with the width of oral epithelium, the total biological width—the space between the alveolar crest and the CEJ—requires 3 millimeters of vertical dimension to maintain periodontal health.
+## What Happens During Healing
 
-Surgical violation of biological width leads to pathologic pocket formation, chronic inflammation, and progressive alveolar bone loss. Restorative margins placed subgingivally must respect this critical dimension. When osseous recontouring removes bone, the location of the new alveolar crest determines the final position of the biological width relative to the CEJ. Crown lengthening procedures must establish new margins at least 3 millimeters apical to the intended gingival margin to prevent future problems.
+After your crown lengthening surgery, your gums go through a healing process that takes several months. Initially, you'll experience some bleeding and swelling—normal for any surgical procedure. Within one to two weeks, new tissue begins to form. Over the next three to six months, your gums undergo significant remodeling. Interestingly, during healing your gums move back up slightly—a process called rebound—which is why your surgeon intentionally overcorrects the surgical result. You might experience some root sensitivity during healing because the root surface becomes exposed. Using a desensitizing toothpaste and being gentle with that area helps manage any discomfort.
 
-The Seibert classification describes anatomical bone defects in the anterior aesthetic zone. Teeth with faciolingual (horizontal) bone loss present greater challenges for crown lengthening than those with apico-coronal (vertical) loss. Faciolingual defects result in visible bone margins and may compromise aesthetic outcomes, particularly if significant bone removal is necessary.
+## Preparing Your Teeth for New Crowns
 
-## Surgical Technique: Osseous Recontouring
+After your gums have completely healed—usually six to twelve months after surgery—you're ready for your restorative dentistry. Now your tooth has enough healthy structure above the bone to support a crown. Your dentist positions the crown margin (where the crown meets your tooth) carefully, just above your gum line or barely below it, to keep your gums healthy long-term. This positioning respects the biological width you learned about earlier. The crown's contour is designed to feel natural and support your gum health as you bite and chew.
 
-Crown lengthening procedures employ either scalpel-mediated soft tissue removal, osseous recontouring, or both techniques combined. For passive eruption cases, soft tissue removal alone may be sufficient if adequate bone contour exists. Gingival flaps are raised to the level of the apical extent of the contemplated crown lengthening, ensuring visibility of the alveolar bone. Once the bone is exposed, the surgeon assesses its contour and height relative to the CEJ on each tooth requiring lengthening.
+## Creating a Beautiful, Balanced Smile
 
-Osseous recontouring removes bone from the buccal and interproximal aspects, creating a more apical position for the future alveolar crest and gingival margin. This is accomplished using rotary burs under constant irrigation with saline or other irrigants. The goal is to position bone so that the biological width—when new connective tissue and epithelium reattach—will result in a more apical gingival margin.
+The most important aspect of successful crown lengthening is creating a smile that looks natural and proportional. Your surgeon ensures that the gum line is roughly symmetrical across all visible teeth and that your smile arc aligns with your lip line. This requires careful planning before surgery, often using photographs and digital imaging to design your ideal result. Your lip position and how much support your teeth provide to your upper lip are also considered. A well-planned crown lengthening transforms how you look and feel about your smile. Explore more about smile design in our article on [cosmetic bonding process](/article/cosmetic-bonding-process-complete-guide.html) and discover what's involved in a [smile makeover planning](/article/smile-makeover-planning-complete-guide.html).
 
-The bone should be contoured to follow the underlying tooth anatomy, maintaining proper embrasure form and interproximal anatomy. Creating excessively flat or angular bone contours can lead to unesthetic gingival topography and compromised periodontal health. Preservation of adequate bone thickness and proper interdental bone form ensures future bone stability and resists resorption.
+## Managing Complications and Long-term Success
 
-## Healing and Remodeling
+Most crown lengthening procedures go smoothly, but like all surgery, complications can occur. Root sensitivity often develops where your root becomes exposed, but this usually resolves over time with proper care. Occasionally, your gums may rebound more than expected, or healing may proceed differently than anticipated. To prevent problems, excellent oral hygiene and fluoride use are essential, particularly on exposed root surfaces where cavities can develop more easily. Your periodontist provides specific aftercare instructions to optimize healing and ensure your new gum line remains stable.
 
-The healing response following crown lengthening involves specific temporal stages. Initial bleeding and clotting occur immediately postoperatively. Epithelialization of the surgical site progresses from the margins, typically reaching the bone surface within 1 to 2 weeks. Collagen deposition and remodeling occur over 3 to 6 months, with significant changes in tissue architecture observed for 6 to 12 months following surgery.
 
-Gingival rebound—the coronal movement of the gingival margin—occurs during healing and can be substantial. Studies demonstrate average rebound of 1 to 2 millimeters, though considerable individual variation exists. This rebound is thought to result from the inherent properties of the periodontal complex and the wound healing response. Surgeons must account for anticipated rebound when planning osseous recontouring depth.
 
-Postoperative bone resorption also occurs, with studies showing losses of 0.5 to 1 millimeter or more of alveolar crest height within the first year after surgery. This resorption may continue at a slower rate in subsequent years. The combination of gingival rebound and bone resorption can result in loss of some of the surgical benefit over time, emphasizing the importance of overcorrection during the initial procedure.
+## Questions to Ask Your Dentist
 
-## Prosthetic Planning and Restoration
+When you visit your dentist, ask about crown lengthening for short clinical crowns: aesthetic... and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
 
-Following crown lengthening and complete healing (typically 6 to 12 months), restorative dentistry proceeds with adequate supragingival tooth structure and biological width considerations. The ferrule—the portion of tooth structure projecting coronal to the bone margin—should measure at least 1.5 millimeters for post and core restorations and preferably 2 millimeters for optimal stress distribution and longevity.
+You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
 
-Crown margins must be positioned supragingival or only minimally subgingival (0.5 millimeters maximum) to respect biological width and facilitate future maintenance. Subgingival margin placement beyond 0.5 millimeters violates biological width and predictably leads to inflammation and bone loss. Supragingival margins, while sometimes less aesthetic, prove superior for periodontal health and long-term success.
+Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
-The emergence profile of the restoration—the contour of the crown from the margin to the occlusal surface—significantly influences gingival health and aesthetics. Teeth with restored emergence profiles that closely approximate the natural tooth anatomy typically achieve better gingival health and aesthetic integration compared to restorations with oversized or bulky contours.
 
-## Aesthetic Zone Considerations
 
-In the anterior aesthetic zone, crown lengthening results in alterations to the gingival display and the buccal gingival contour. The success of crown lengthening depends not only on the surgical correction of gingival excess but also on achieving a harmonious gingival display and smile arc. The buccal gingival display should be relatively similar across all visible teeth, with minimal asymmetry.
+## Protecting Your Results Long-Term
 
-Asymmetric gingival display or excessive bone removal on one tooth compared to adjacent teeth may result in unesthetic results. Careful preoperative planning using smile analysis and preoperative imaging helps ensure symmetrical surgical correction. Lip support and the relationship of lip position to tooth position must be evaluated, as inadequate supragingival tooth structure may compromise lip support and create unesthetic results.
+Once you've addressed crown lengthening for short clinical crowns: aesthetic..., maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference in how long your results last.
 
-## Complications and Management
+Pay attention to any changes in your mouth and report them to your dentist early. Catching small issues before they become bigger problems saves you time, money, and discomfort. Your dentist may recommend specific products or routines based on your treatment.
 
-Complications following crown lengthening include excessive soft tissue rebound, inadequate osseous correction, bone loss beyond anticipated, and aesthetic problems from asymmetric results. Root sensitivity typically occurs postoperatively due to exposure of the root surface and may persist for weeks to months. Desensitizing agents and fluoride applications help mitigate this discomfort.
-
-Gingival recessions beyond the surgical correction may develop if biological width is violated during restorative procedures or if excessive tissue removal occurs relative to osseous correction. Root caries becomes a significant risk when exposed root surfaces are not properly maintained, emphasizing the importance of excellent oral hygiene and fluoride use.
+Diet also plays a role in protecting your dental health. Limiting sugary snacks and acidic drinks helps preserve your teeth and any dental work you've had done. Drinking water throughout the day helps wash away food particles and keeps your mouth hydrated.
 
 ## Conclusion
 
-Crown lengthening remains a predictable procedure for both aesthetic correction of excessive gingival display and prosthetic preparation of short clinical crowns. Success depends upon thorough understanding of periodontal anatomy, particularly biological width and bone resorption patterns. Careful surgical planning, appropriate osseous recontouring, and anticipation of healing changes enable clinicians to achieve predictable, long-term favorable outcomes. Combined with restorative planning that respects biological width and periodontal principles, crown lengthening provides reliable solutions for creating more harmonious smiles and enabling durable prosthetic restorations.
+Crown lengthening is a predictable way to create a more beautiful smile and to prepare your teeth for durable restorations. By understanding how your gums and bone structure work together, and by respecting the biological width that keeps your gums healthy, your periodontist can create results that look natural and last. Whether you're treating excessive gum display or preparing for necessary dental work, crown lengthening gives you a smile you'll feel proud to show.
+
+## Key Takeaway
+
+Crown lengthening combines artistry and science to reshape your smile while protecting your gum health. By carefully planning the surgery, respecting your tooth and gum anatomy, and following post-operative instructions, you can achieve a beautiful smile that's also biologically sound and destined to last.
+
+## Related Articles
+
+- [Cosmetic Bonding Process: Complete Guide](/article/cosmetic-bonding-process-complete-guide.html)
+- [Smile Makeover Planning: Complete Guide](/article/smile-makeover-planning-complete-guide.html)
+- [Gummy Smile Fix: What You Need to Know](/article/gummy-smile-fix-what-you-need-to-know.html)
 

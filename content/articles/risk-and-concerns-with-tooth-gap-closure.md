@@ -1,110 +1,97 @@
 ---
-title: Risk and Concerns with Tooth Gap Closure
+title: "Risk and Concerns with Tooth Gap Closure"
 slug: risk-and-concerns-with-tooth-gap-closure
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: "Gap closure through orthodontics, bonding, or veneers carries risks including diastema recurrence, bonding fracture, margin discoloration, and."
+excerpt: Learn about the risks of closing tooth gaps, including how they can reopen and which methods work best for lasting results.
 date: 2026-03-05
-read_time: 11 min
+read_time: 13 min
 reviewer_specialty: Cosmetic Dentistry
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
 reviewed: true
 references:
-  - title: "Sari S, Akay E. Determination of the maxillary midline diastema closing methods. Niger J Clin Pract. 2015;18(5):699-705."
-    url: https://pubmed.ncbi.nlm.nih.gov/26289659
-  - title: "Freitas KM, Janson G, de Freitas MR, Pinzan A, Henriques JF. Posttreatment stability of anterior open bite and overbite. Am J Orthod Dentofacial Orthop. 2004;125(6):715-722."
-    url: https://pubmed.ncbi.nlm.nih.gov/15208595
-  - title: "Joondeph DR. Long-term stability of dental relationships after orthodontic treatment. Angle Orthod. 2003;73(2):104-120."
-    url: https://pubmed.ncbi.nlm.nih.gov/12725081
-  - title: "Livas C, Krishnan V. Positioning of Maxillary Frenum and Maxillary Diastema. J Contemp Dent Pract. 2009;10(6):1-8."
-    url: https://pubmed.ncbi.nlm.nih.gov/19956698
-  - title: "Rifkin R. The prevalence of maxillary diastema in 9-12 year old children. J Oral Health Community Dent. 2011;5(2):71-76."
-    url: https://pubmed.ncbi.nlm.nih.gov/21975648
-  - title: "Goldberg AJ, Burstone CJ. An evaluation of beta titanium alloys for use in orthodontic appliances. J Dent Res. 1979;58(3):1102-1109."
-    url: https://pubmed.ncbi.nlm.nih.gov/283125
-  - title: "Olley RC, Jiang Y, Ibbetson RJ, Firth N, Gillgrass TJ, Sillence D. Clinical and biological factors increasing the risk of relapse of the anterior open bite. Am J Orthod Dentofacial Orthop. 2012;142(3):305-312."
-    url: https://pubmed.ncbi.nlm.nih.gov/22920898
-  - title: "Christensen LV, Rassouli NM. Lateral forces on maxillary anterior teeth as a function of mode and duration of oral habits. J Dent Res. 1995;74(7):1387-1392."
-    url: https://pubmed.ncbi.nlm.nih.gov/7629344
-  - title: "Kar S, Dey PK, Shrivastava A. Midline diastema closure with composite restoration and orthodontics. J Pharm Bioallied Sci. 2014;6(Suppl 1):S242-S244."
-    url: https://pubmed.ncbi.nlm.nih.gov/25210423
+  - "Sari S, Akay E. Determination of the maxillary midline diastema closing methods. Niger J Clin Pract. 2015;18(5):699-705."
+  - "Freitas KM, Janson G, de Freitas MR, Pinzan A, Henriques JF. Posttreatment stability of anterior open bite and overbite. Am J Orthod Dentofacial Orthop. 2004;125(6):715-722."
+  - "Joondeph DR. Long-term stability of dental relationships after orthodontic treatment. Angle Orthod. 2003;73(2):104-120."
 ---
 
-## Introduction: Gap Closure Complexity and Multiple Approaches
+## What Causes the Gaps Between Your Front Teeth?
 
-Closure of anterior tooth gaps—ranging from the aesthetically prominent maxillary midline diastema to smaller interproximal spaces—represents one of the most common cosmetic dental concerns affecting patients across all age groups. Contemporary treatment options include traditional orthodontics, clear aligner therapy, direct composite bonding, and porcelain veneer or crown placement, each approach presenting distinct advantages, limitations, and relapse risks. Sari and Akay's comparative analysis of gap closure methodologies documented that diastema persistence and recurrence represent significant concerns regardless of treatment approach, with rates ranging from 5-40% depending on etiology, treatment method, and maintenance protocol adherence. The critical clinical challenge involves selecting appropriate treatment approaches for individual patients, recognizing that gaps may recur despite successful initial closure, and implementing maintenance protocols to preserve treatment outcomes.
+Gaps between your front teeth—especially the space between your two upper central incisors—are one of the most common cosmetic concerns your dentist sees. About 8-30% of people have noticeable gaps, and they develop for different reasons. Your gap might exist because of an oversized frenum (a tissue fold connecting your upper lip to your gum), small lateral incisors, or simply how your jaw grew. The root cause matters significantly because it determines whether your gap will stay closed after treatment or reopen again.
 
-This article examines the fundamental risks and concerns associated with gap closure, including diastema recurrence mechanisms, orthodontic relapse, bonding fracture and longevity limitations, veneer margin complications, and the often-debated necessity of maxillary frenum removal in preventing diastema recurrence. Understanding these concerns enables evidence-based treatment planning and realistic outcome communication with patients seeking gap closure.
+Understanding the cause helps your dentist choose the best treatment for your situation. It also explains why some gap closures succeed long-term while others fail. Your dentist might recommend orthodontics, bonding, veneers, or a combination approach depending on your specific situation and the underlying cause.
 
-## Diastema Etiology and Recurrence Mechanisms
+## The Orthodontic Approach: Comprehensive but Requires Commitment
 
-The maxillary midline diastema represents the most common anterior spacing concern, occurring in approximately 8-30% of the population depending on population characteristics and diastema size definition. Multiple etiological factors may contribute to diastema formation, including oversized maxillary frenum, microdontia of lateral incisors, dental midline misalignment with incisors, overdeveloped maxillary alveolar process, or generalized spacing from severe anterior crowding resolution. Critically, the specific etiology strongly influences whether gaps will close and remain stable following treatment, with gaps associated with oversized frenum demonstrating substantially higher recurrence risk compared to gaps from other causes.
+Braces and clear aligners offer the most complete way to close gaps because they can address not just the spacing but also your bite alignment and overall tooth position. When your orthodontist uses braces or aligners, they're making permanent changes to how your teeth relate to each other, which can provide better long-term stability than other methods.
 
-Diastema closure relapse occurs through multiple mechanisms including frenum force exertion between central incisors, inadequate retention strategies, original etiological factors remaining unaddressed, and patient parafunctional habits including tongue thrusting creating space-widening forces. Livas and Krishnan documented that frenum position and size correlate with diastema presence and recurrence risk, yet debate continues regarding whether midline frenum removal becomes necessary for reliable gap closure. Traditional teaching suggested that frenum removal represented an essential component of gap closure, yet contemporary evidence increasingly demonstrates that closure can occur without surgical frenum removal if adequate retention and etiological factor modification are achieved.
+However, orthodontic gap closure has a major catch: the gaps can reopen even after successful treatment. Research shows that 20-40% of patients experience some gap reopening weeks or months after their braces come off, even though they wore their retainer as instructed. Why? Because your teeth want to move back to where they started. Your periodontal ligament—the tissues holding your teeth—gradually reoriented to your new tooth positions, but the process takes time.
 
-Tongue thrusting represents another significant diastema recurrence mechanism, where anterior tongue positioning during swallowing exerts forces creating spaces between centrals. Identification of tongue thrusting behaviors through functional analysis and intraoral pressure measurement enables targeted behavioral modification that may reduce recurrence risk substantially. However, eliminating established tongue thrusting patterns proves extremely difficult, requiring sustained patient motivation and often specialized speech therapy consultation.
+This is why retention becomes essential, not optional. You'll likely need to wear your retainer indefinitely, especially for the upper front teeth. Some patients can eventually transition to wearing retainers only at night, while others must wear them permanently. This is a long-term commitment, not a temporary fix. For related insights, check out our guide on [Risk and Concerns with Retainer Importance](/article/risk-and-concerns-with-retainer-importance.html).
 
-## Orthodontic Gap Closure and Relapse Risks
+## Bonding: Quick but Temporary
 
-Traditional fixed appliance orthodontics represents the most comprehensive approach to anterior spacing, permitting precise tooth movement control, alignment refinement, and simultaneous correction of vertical and horizontal relationships. However, orthodontic gap closure demonstrates relapse potential of 20-40% in some studies, with gaps reopening weeks to months after treatment completion despite presumably adequate retention. Joondeph's long-term stability study documented that anterior spacing demonstrates less predictable long-term stability compared to other orthodontic corrections, particularly when gaps occurred with greater treatment-related tooth movements or pretreatment spacing was more severe.
+Direct composite bonding is the fastest and least invasive option. Your dentist adds tooth-colored filling material to the sides of your teeth, essentially making them wider to close the gap. The whole process takes about 30 minutes to an hour.
 
-Retention protocols prove essential for preventing diastema recurrence, with fixed lower lingual retention wires and upper removable retainers or fixed retention demonstrating superior retention efficacy compared to removable appliances alone. However, even with optimal retention, some diastema reopening occurs in a proportion of patients, requiring extended retention duration—potentially indefinite retention in predisposed patients. The difficulty in predicting which patients will experience diastema recurrence necessitates assuming all patients require long-term retention protocols, with clear communication regarding indefinite retention necessity for optimal outcomes.
+The downside is longevity. Bonded gap closures typically last 5-10 years before they need repair or replacement. The bonding material fractures at the connection between the filling and your tooth, especially at the contact point between your teeth. Every time you chew, the contact stresses the bonded material. With time and chewing force, these materials fail.
 
-Orthodontic relapse may reflect inadequate debonding point timing, insufficient bite settling, or original root positioning failing to achieve true three-dimensional positioning resistant to relapse forces. Additionally, if etiological factors—particularly oversized frenum or tongue thrusting—remain unaddressed, relapse risk dramatically increases regardless of orthodontic technique excellence. Referral for specialized evaluation of parafunctional behaviors or surgical frenum management should accompany orthodontic planning when these factors appear contributory.
+Also, the bonded material can stain and discolor over time, and margins (edges) sometimes develop visible dark lines as the material ages. You'll need periodic touch-ups and repairs. If you're willing to accept that bonding is a temporary cosmetic solution you'll eventually replace, it works well. Just don't expect it to last your whole life—understand the replacement costs and time commitment upfront.
 
-## Clear Aligner Therapy Limitations
+## Veneers: Durable but Requires Tooth Preparation
 
-Clear aligner systems including Invisalign and similar products provide esthetic and comfortable gap closure alternatives to fixed appliances, with patient acceptance substantially higher than traditional braces. However, aligner efficacy for anterior spacing depends critically on adequate case selection, and certain spacing patterns poorly suited to clear aligner mechanics demonstrate relapse or treatment failure. Complex three-dimensional movements, significant vertical dimension changes, or severe crowding with associated spacing frequently exceed clear aligner capabilities, resulting in inadequate gap closure or residual spacing despite completing planned aligner series.
+Porcelain or composite veneers provide a more permanent option than bonding. Veneers last 10-15 years or longer and look more natural than thick bonded restorations. However, this durability comes with a permanent trade-off: your dentist must prepare (shape) your teeth to place veneers.
 
-Aligner wear compliance represents another critical limitation, with successful outcomes depending on consistent 20-22 hour daily wear that many patients fail to achieve. Inadequate wear results in slower tooth movement, incomplete correction, and increased relapse risk as teeth fail to achieve final treatment position reliably. Additionally, clear aligners provide less precise bite settling compared to fixed appliances, particularly for anterior relationships, and retention requirements remain equally important as with traditional orthodontics.
+Veneers typically require removing a small amount of tooth structure from the front surface. Once you have veneers, you can't go back to your original tooth structure. Additionally, veneers eventually need replacement, meaning your teeth go through the preparation process again.
 
-The assumption that clear aligners eliminate retention necessity represents a dangerous misconception, as spacing recurrence occurs at similar rates as with fixed appliances if retention proves inadequate. Extended retention protocols become essential even with clear aligner closure, with fixed retention providing superior outcomes compared to removable retention alone. Some aligner systems include built-in retention protocols, yet adequacy of these retention approaches varies considerably among different systems.
+Another concern is margin discoloration. The edges of veneers, especially in the spaces between your teeth, can show dark lines or staining as the material ages or the cement underneath discolors. Aggressive flossing can even damage these margins. To minimize problems, your dentist should place margins in locations that are easy to clean and maintain.
 
-## Direct Composite Bonding Risks and Longevity
+## Will Your Gap Reopen? Understanding Recurrence Risk
 
-Direct composite bonding represents a conservative, tooth-preserving gap closure approach requiring minimal tooth preparation compared to veneer or crown alternatives. However, bonded restorations for gap closure face unique challenges including high interproximal contact stresses, exposure to separation forces during normal function, and frequent repair necessity due to fracture at resin-tooth interfaces. Kar et al. documented that bonded anterior restorations frequently require reinforcement or repair within 5-10 years, with fracture at the mesial or distal proximal line angle representing the most common failure mode.
+Regardless of which treatment method you choose, gaps can reopen. This recurrence happens through several mechanisms: For more on this topic, see our guide on [Smile Symmetry And Proportion Aesthet...](/article/smile-symmetry-and-proportion-aesthetic-principles.html).
 
-Composite material selection significantly influences longevity, with various formulations demonstrating different stain resistance, polymerization characteristics, and fracture mechanics. Heavily filled composites demonstrate superior physical properties but may prove more difficult to contour into natural-appearing anatomy. Resin flowables provide excellent marginal adaptation initially but demonstrate inferior wear resistance compared to conventional composites. Layering techniques combining core composites with esthetic surface layers may improve both esthetic and durability outcomes.
+**Your frenum might pull teeth apart.** The frenum is the tissue fold connecting your upper lip to your gum. Some studies suggest an oversized frenum contributes to gap recurrence. However, recent research shows that gaps can stay closed without removing the frenum if you maintain excellent retention and avoid behaviors that create space-opening forces.
 
-The adhesive interface between composite and tooth represents the critical longevity determinant, with marginal seal degradation permitting microleakage, secondary caries, and margin discoloration. Careful etching and bonding protocols, adequate moisture isolation through rubber dam application, and meticulous insertion techniques optimize marginal integrity. However, even with optimal technique, polymerization shrinkage creates stress concentrations at resin-tooth interfaces that predispose toward eventual failure. Recognition that bonded gap closure represents an interim esthetic solution not suited for indefinite service life enables realistic patient communication and appropriate follow-up intervals.
+**Your tongue might push teeth apart.** Many people unconsciously push their tongue between their front teeth when swallowing or throughout the day. This tongue thrusting gradually creates space. If this habit is strong, even perfectly executed treatment can fail if you don't modify the behavior.
 
-## Veneer Selection and Margin Stability Concerns
+**Inadequate retention allows relapse.** If you don't wear your retainer as prescribed, gaps definitely reopen. This is the most controllable factor.
 
-Porcelain and composite veneer placement represents an alternative gap closure approach, providing superior longevity compared to direct bonding while maintaining minimally invasive preparation requirements. Veneers enable significant esthetic control regarding tooth shape, shade, and symmetry, often justifying the approach for patients willing to accept irreversible preparation. However, veneer margin location and marginal adaptation substantially influence long-term success, and margins extending into interproximal spaces create particular risk for discoloration, secondary caries, and biological complications.
+**The original cause persists.** If your gap reopens quickly despite wearing your retainer faithfully, one of the underlying causes (oversized frenum, tongue thrusting) might still be active. Your dentist can help identify and address these.
 
-Margin discoloration represents one of the most common cosmetic failures in anterior veneers, where the tooth-preparation interface becomes increasingly visible as composite cement discolors or gingival recession exposes underlying tooth structure. Aggressive interdental flossing may dislodge interproximal margins, accelerating failure progression. Careful case selection favoring margins placed in enamel supragingival locations, adequate seating technique, and proper polishing protocols reduce margin discoloration risk substantially.
+## Frenum Removal: Do You Really Need Surgery?
 
-Debonding represents another potential veneer failure, particularly if adhesive preparation is inadequate, isolation proves compromised during luting, or parafunctional habits create excessive stress. Most debonded veneers can be rebonded if the restoration remains intact, though the process requires excellent isolation and meticulous technique to avoid recontamination. Repeat debonding after rebonding suggests need for alternative restoration approaches or evaluation of underlying parafunction requiring behavioral management.
+Traditional teaching said that removing your frenum (a surgical procedure called frenectomy) was essential to prevent gap recurrence. Today's evidence suggests this isn't always necessary. Many patients maintain closed gaps indefinitely without surgical frenum removal, simply by wearing their retainer consistently.
 
-## Maxillary Frenum Considerations and Surgical Intervention
+That said, some patients do benefit from frenum removal, particularly if their gap keeps reopening despite excellent retention compliance. The decision should come after you've proven that your gap recurs despite retainer wear, not before.
 
-The maxillary labial frenum—an anatomical fold of soft tissue extending from the upper labial mucosa to the central alveolar process—represents a controversial factor in diastema management. Traditional orthodontic teaching emphasized that frenum removal through frenectomy represented an essential component of diastema closure, purportedly preventing recurrence. However, contemporary evidence suggests that gap closure and stability can occur without surgical frenum intervention if adequate orthodontic retention and behavioral modifications are implemented.
+Frenum removal is surgery, which means swelling, bleeding, stitches, and healing time. The surgical site can scar or leave visible changes to your frenum appearance. These surgical complications might be worse than the original spacing. For this reason, many dentists recommend trying conservative approaches first (orthodontics with excellent retention, or bonding/veneers without surgery) and only considering frenectomy if gaps definitely reopen despite your best efforts.
 
-Livas and Krishnan's investigation documented that frenum position correlates with diastema presence, but the relationship proves complex and not deterministic. Some patients with prominent frena maintain closed gaps indefinitely without frenectomy, while others with less prominent frenum experience diastema recurrence. When frenum removal becomes indicated, this procedure carries inherent surgical morbidity including bleeding, swelling, scarring, and altered frenum appearance that may create esthetic complications more significant than the original spacing.
+## Behavioral Habits That Sabotage Gap Closure
 
-Contemporary conservative approach suggests deferring frenectomy until after orthodontic closure with adequate retention period, evaluating whether gaps tend to reopen despite retention compliance. This approach avoids unnecessary surgical intervention in patients who maintain gap closure without frenum removal. If diastema tends to reopen despite excellent retention, then frenectomy combined with extended retention may provide additional benefit. Alternatively, some clinicians perform frenectomy concurrently with bonded or veneer restoration placement to address the etiology while simultaneously closing gaps, though evidence supporting improved outcomes with this combined approach remains limited.
+Beyond frenum and retention issues, your own habits significantly influence whether gaps stay closed. Tongue thrusting is the biggest culprit. Some people unconsciously push their tongue between their front teeth hundreds of times daily while swallowing, resting, or concentrating. Over months and years, this repeated force creates and maintains spaces.
 
-## Parafunctional Habits and Behavioral Modifications
+Other habits that create problems include lip sucking, biting your cheek, or using toothpicks aggressively between teeth. Once established, these habits are remarkably difficult to break. Your dentist can help identify whether tongue thrusting or other behaviors are contributing, and a speech-language pathologist might help you relearn correct swallowing patterns.
 
-Tongue thrusting, lip sucking, and other parafunctional habits exert forces on anterior teeth that may create or maintain spacing despite orthodontic or restorative closure. Christensen and Rassouli documented that frequency, duration, and magnitude of lateral forces from habits substantially influence equilibrium tooth position, with some patients capable of generating destructive forces through daily habit repetition. Identification of these habits through patient questioning, direct observation, or functional analysis enables targeted behavioral modification through habit awareness training, tongue repositioning therapy, or sometimes specialized speech-language pathology consultation.
+However, habit elimination takes discipline, and many people can't sustain the change. This is why some patients need indefinite retention even after gap closure—the retention overcomes the space-creating forces from persistent habits.
 
-However, elimination of established parafunctional habits proves extremely difficult, with many patients unable to sustain behavioral change indefinitely. Recognition of habit persistence supports adoption of retention protocols sufficient to resist parafunctional forces even when habits continue. Some patients require indefinite retention and periodic monitoring to manage spacing from persistent habit patterns. Transparent communication regarding habit elimination difficulty prevents patient frustration and inappropriate blame assignment when gaps tend to reopen due to habit resumption.
+## The Bottom Line About Long-Term Maintenance
 
-## Long-Term Maintenance and Retention Protocols
+Regardless of the treatment method you choose, most patients need to maintain their results through retention, regular dental visits, and awareness of habits. Think of gap closure like losing weight—it's relatively easy to achieve, but maintaining the results requires ongoing effort.
 
-Successful long-term maintenance of closed gaps requires systematic retention protocols tailored to individual recurrence risk factors. Low-risk patients with isolated spacing from orthodontic treatment of severe crowding may achieve adequate retention with conventional removable retention protocols. Conversely, high-risk patients with gap recurrence predisposition warrant fixed retention through bonded lower lingual retainers combined with removable retention compliance emphasis. Some patients warrant indefinite retention, with clear discussion regarding this necessity preventing patient frustration when retention appears perpetual.
+If you choose orthodontics, expect permanent retention protocols, likely including nighttime retainer wear indefinitely. If you choose bonding, plan for replacement every 5-10 years and periodic touch-ups. If you choose veneers, anticipate replacement every 10-15 years and possible margin discoloration requiring monitoring.
 
-Patient education regarding retention necessity, retention wear schedules, and long-term retention expectations represents an essential component of successful gap closure outcomes. Many patients terminate retention after apparent completion, subsequently experiencing gap reopening and requiring retreatment. Proactive communication emphasizing that spacing closure involves temporary correction requiring indefinite maintenance prevents unexpected relapse disappointment.
+Your dentist should discuss all of this before starting treatment. A dental professional who says "close your gap and you'll be done" isn't giving you realistic expectations. Successful gap closure requires commitment, understanding that the process is ongoing, and follow-through with whatever retention or maintenance approach you and your dentist agree upon.
 
-## Combination Approaches and Treatment Integration
+## Conclusion
 
-Some patients benefit from combined treatment approaches, such as limited orthodontic movement to partially close large gaps, followed by bonding or veneer placement for final closure. This approach can minimize dental structure preparation requirements while leveraging orthodontic precision for complex spatial corrections. Alternatively, surgical frenum removal may combine with concurrent gap closure through any modality, theoretically reducing recurrence risk through addressing both the etiological frenum factor and providing immediate gap closure.
+Closing gaps between your teeth is achievable through several methods, each with distinct advantages and long-term requirements. Orthodontics offers the most comprehensive approach but requires indefinite retention. Bonding is quick and conservative but temporary. Veneers are durable but involve permanent tooth preparation. Your gap might reopen despite excellent treatment if underlying causes like frenum involvement or tongue thrusting persist or if you don't maintain retention faithfully. The key to success is understanding your gap's specific cause, choosing an appropriate treatment method, committing to prescribed retention protocols, and maintaining realistic expectations that gap closure is an ongoing process requiring sustained effort.
 
-However, evidence supporting superior outcomes from combination approaches remains limited, and sequencing decisions should reflect individual patient factors including severity, etiology assessment, and patient preferences regarding treatment duration and modality.
+## Key Takeaway
 
-## Conclusion: Risk-Based Gap Closure Treatment Planning
+Your gap might reopen after treatment, which is why understanding the underlying cause and committing to long-term retention or maintenance is essential—choosing the right treatment method for your situation and maintaining excellent compliance with retention recommendations gives you the best chance of enjoying permanently closed teeth and the smile confidence you desire.
 
-Gap closure through orthodontics, bonding, or veneers represents legitimate cosmetic treatment goals, yet the significant recurrence risk and long-term maintenance requirements necessitate realistic patient communication and careful case selection. Diastema etiology substantially influences closure success and relapse risk, with gaps associated with frenum involvement, tongue thrusting, or other dynamic factors demonstrating elevated recurrence potential. Orthodontic closure provides the most comprehensive approach for complex spacing but requires extended retention protocols. Bonded restorations offer conservative alternatives but demonstrate limited longevity. Veneer placement provides superior longevity but requires irreversible tooth preparation.
+## Related Articles
 
-Regardless of closure approach selected, most patients require indefinite retention to maintain closed gaps, necessitating clear communication regarding long-term retention necessity and maintenance commitment required. Recognition that gap closure represents permanent treatment difficulty enables realistic expectation-setting and prevention of future patient disappointment from closure relapse. By thoroughly assessing gap etiology, selecting appropriate treatment approaches, implementing comprehensive retention, and setting realistic expectations, dental professionals can achieve acceptable gap closure outcomes aligned with individual patient goals.
+- [Risk and Concerns with Retainer Importance](/article/risk-and-concerns-with-retainer-importance.html)
+- [Smile Confidence Boost Complete Guide](/article/smile-confidence-boost-complete-guide.html)
+- [Risk and Concerns with Smile Makeover Planning](/article/risk-and-concerns-with-smile-makeover-planning.html)

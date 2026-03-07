@@ -1,63 +1,94 @@
 ---
-title: "Septoplasty and Deviated Septum: Nasal Airway Assessment in Sleep-Disordered Breathing"
-slug: septoplasty-deviated-septum-and-sleep-apnea
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: "Nasal obstruction from deviated septum significantly contributes to sleep-disordered breathing."
 date: 2026-03-05
+excerpt: Nasal obstruction from deviated septum significantly contributes to sleep-disordered
+  breathing.
 read_time: 9 min
+references:
+- title: Young T, Palta M, Dempsey J, Skatrud J, Weber S, Badr S. The occurrence of
+    sleep-disordered breathing among middle-aged adults. N Engl J Med. 1993;328(17):1230-1235.
+  url: https://pubmed.ncbi.nlm.nih.gov/8464434
+- title: Brunetti L, Ershowsky M, Stern Y. Nasal obstruction and obstructive sleep
+    apnea. Laryngoscope. 1989;99(7 Pt 1):675-680.
+  url: https://pubmed.ncbi.nlm.nih.gov/2661371
+- title: 'Zohar Y, Talmi YP, Strauss M, Finkelstein Y, Sadov R. Lateral deviation
+    of the nasal septum: sleep apnea and the temporal relation to pharyngeal obstruction.
+    Chest. 1992;101(6):1486-1492.'
+  url: https://pubmed.ncbi.nlm.nih.gov/1600769
+- title: Friedman M, Tanyeri H, La Rosa M, et al. Clinical predictors of obstructive
+    sleep apnea. Laryngoscope. 1999;109(12):1901-1907.
+  url: https://pubmed.ncbi.nlm.nih.gov/10591333
+- title: 'Rotenberg BW, Vicini C, Pang EB, Pang KP. Reconsidering nasal surgery in
+    obstructive sleep apnea: a systematic review. J Otolaryngol Head Neck Surg. 2016;45(1):23.'
+  url: https://pubmed.ncbi.nlm.nih.gov/27036361
+- title: Ritter CT, Trudo FJ, Goldberg AN, et al. Quantification of the localised
+    narrowing in obstructive sleep apnoea. Eur Respir J. 1996;9(10):2018-2025.
+  url: https://pubmed.ncbi.nlm.nih.gov/8902459
+- title: Sher AE, Schechtman KB, Piccirillo JF. The efficacy of surgical modifications
+    of the upper airway in adults with obstructive sleep apnea syndrome. Sleep. 1996;19(2):156-177.
+  url: https://pubmed.ncbi.nlm.nih.gov/8855039
+- title: Verse T, Maurer JT, Pirsig W. Effect of nasal surgery on sleep-related breathing
+    disorders. Sleep Med Rev. 2004;8(1):35-47.
+  url: https://pubmed.ncbi.nlm.nih.gov/14761475
+- title: Banabilh SM, Samsudin AR, Suzina AH. The status of obstructive sleep apnea
+    in Malaysia. Ann Acad Med Singap. 2010;39(1):49-56.
+  url: https://pubmed.ncbi.nlm.nih.gov/20132590
+- title: Flemons WW. Obstructive sleep apnea. N Engl J Med. 2002;347(7):498-504.
+  url: https://pubmed.ncbi.nlm.nih.gov/12181407
+reviewed: true
 reviewer_specialty: Sleep Medicine Dentist
+slug: septoplasty-deviated-septum-and-sleep-apnea
 subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
-reviewed: true
-references:
-  - title: "Young T, Palta M, Dempsey J, Skatrud J, Weber S, Badr S. The occurrence of sleep-disordered breathing among middle-aged adults. N Engl J Med. 1993;328(17):1230-1235."
-    url: https://pubmed.ncbi.nlm.nih.gov/8464434
-  - title: "Brunetti L, Ershowsky M, Stern Y. Nasal obstruction and obstructive sleep apnea. Laryngoscope. 1989;99(7 Pt 1):675-680."
-    url: https://pubmed.ncbi.nlm.nih.gov/2661371
-  - title: "Zohar Y, Talmi YP, Strauss M, Finkelstein Y, Sadov R. Lateral deviation of the nasal septum: sleep apnea and the temporal relation to pharyngeal obstruction. Chest. 1992;101(6):1486-1492."
-    url: https://pubmed.ncbi.nlm.nih.gov/1600769
-  - title: "Friedman M, Tanyeri H, La Rosa M, et al. Clinical predictors of obstructive sleep apnea. Laryngoscope. 1999;109(12):1901-1907."
-    url: https://pubmed.ncbi.nlm.nih.gov/10591333
-  - title: "Rotenberg BW, Vicini C, Pang EB, Pang KP. Reconsidering nasal surgery in obstructive sleep apnea: a systematic review. J Otolaryngol Head Neck Surg. 2016;45(1):23."
-    url: https://pubmed.ncbi.nlm.nih.gov/27036361
-  - title: "Ritter CT, Trudo FJ, Goldberg AN, et al. Quantification of the localised narrowing in obstructive sleep apnoea. Eur Respir J. 1996;9(10):2018-2025."
-    url: https://pubmed.ncbi.nlm.nih.gov/8902459
-  - title: "Sher AE, Schechtman KB, Piccirillo JF. The efficacy of surgical modifications of the upper airway in adults with obstructive sleep apnea syndrome. Sleep. 1996;19(2):156-177."
-    url: https://pubmed.ncbi.nlm.nih.gov/8855039
-  - title: "Verse T, Maurer JT, Pirsig W. Effect of nasal surgery on sleep-related breathing disorders. Sleep Med Rev. 2004;8(1):35-47."
-    url: https://pubmed.ncbi.nlm.nih.gov/14761475
-  - title: "Banabilh SM, Samsudin AR, Suzina AH. The status of obstructive sleep apnea in Malaysia. Ann Acad Med Singap. 2010;39(1):49-56."
-    url: https://pubmed.ncbi.nlm.nih.gov/20132590
-  - title: "Flemons WW. Obstructive sleep apnea. N Engl J Med. 2002;347(7):498-504."
-    url: https://pubmed.ncbi.nlm.nih.gov/12181407
+title: 'Septoplasty and Deviated Septum: Nasal Airway Assessment...'
 ---
 
 ## Introduction
 
-Sleep-disordered breathing encompasses a spectrum of conditions ranging from simple snoring to obstructive sleep apnea (OSA), characterized by partial or complete cessation of airflow during sleep despite continued respiratory effort. The pathogenesis of OSA involves multiple anatomic and physiologic factors, with upper airway obstruction representing the fundamental mechanism. Nasal obstruction from deviated septum, turbinate hypertrophy, or other structural abnormalities significantly contributes to upper airway resistance and predisposes individuals to sleep-disordered breathing. Dental professionals increasingly recognize the importance of comprehensive airway assessment in sleep medicine, necessitating understanding of nasal anatomy, obstruction mechanisms, and surgical interventions that may complement dental sleep medicine approaches.
+If you snore loudly or wake up gasping for breath at night, you might have sleep apnea—a condition where your breathing actually stops during sleep. One factor that can contribute to sleep apnea is a deviated nasal septum, the wall between your nostrils. When your septum leans to one side and blocks your airflow, it forces you to breathe through your mouth at night, which makes it easier for your airway to collapse. Your dentist can help assess your airway, but sometimes a nasal surgeon's help is needed to correct the septum. Understanding how your nasal anatomy affects your sleep quality and health is important for getting proper treatment.
 
-The prevalence of obstructive sleep apnea in developed nations is substantial, affecting 5 to 15 percent of the general population with higher prevalence in older adults and males. The condition carries significant health consequences, including cardiovascular morbidity, increased mortality risk, and substantial quality-of-life impairment. Recognition that nasal obstruction represents a modifiable contributor to OSA pathogenesis has led to increased investigation of nasal surgical interventions combined with other OSA treatments.
+## How Your Breathing Works During Sleep
 
-## Nasal Obstruction and Sleep-Disordered Breathing
+When you're awake and sitting upright, breathing through your nose is fairly easy even if it's slightly obstructed. But when you lie down to sleep, everything changes. Your throat muscles relax naturally—that's normal. If your nose is partially blocked, you can't breathe efficiently through it, so you shift to mouth breathing. Mouth breathing is problematic because it allows your throat to collapse more easily during the relaxation that comes with sleep. Your airway can partially or completely close, which is what happens in sleep apnea.
 
-The nasal airway represents the primary pathway for breathing during normal sleep. Healthy nasal breathing permits optimal air humidification, filtration, and warming before lower airway contact. Conversely, nasal obstruction forces mouth breathing and bypasses upper airway defenses, predisposing to airway instability and collapsibility during sleep.
+## The Problem with a Deviated Septum
 
-Structural abnormalities of the nasal septum, including deviation, can create airflow obstruction particularly in positions assumed during sleep. The deviated septum may occlude one nasal passage entirely or partially, restricting airflow and increasing nasal resistance. During sleep, when arousal mechanisms are blunted and upper airway muscle tone decreases, this increased nasal resistance predisposes to airway collapse and obstructive events.
+Your nasal septum is supposed to go straight down the middle of your nose, dividing it into two equal passages. If it deviates to one side, one nostril has less space for air to pass through. This deviation might not bother you during the day, but at night when your throat muscles are relaxed and you're trying to sleep, that blocked passage forces you to rely more on your mouth for breathing. This disrupts your sleep architecture and makes apnea events more likely.
 
-Nasal obstruction increases work of breathing required to maintain adequate airflow, elevating respiratory effort thresholds necessary to trigger arousal. In individuals with sleep-disordered breathing, this increased effort may exceed arousal thresholds, permitting continued sleep despite compromised airflow and progressive hypoxemia. Resolution of nasal obstruction through surgical intervention can reduce upper airway resistance, potentially decreasing respiratory effort required to maintain patency and reducing apnea-hypopnea frequency.
+## How Sleep Apnea Develops
 
-## Septoplasty Indications and Surgical Outcomes
+Sleep apnea happens because your upper airway—the space at the back of your throat—collapses during sleep. Several factors contribute to this collapse: weak throat muscles, excess tissue in your throat, a small jaw, or airway obstruction. A deviated septum adds to the problem by making your nose less efficient, so you're more likely to breathe through your mouth. When you breathe through your mouth, your throat is less stable. Your brain eventually senses that you're not getting enough oxygen and wakes you up—sometimes dozens of times per night without you even realizing it.
 
-Septoplasty, the surgical procedure for correcting nasal septal deviation, involves endoscopic correction of the deviated septum to restore more normal nasal airway anatomy. While historically septoplasty indications focused primarily on symptom relief from nasal obstruction (nasal congestion, obstruction to nasal breathing), investigation of septoplasty's efficacy for OSA management has expanded its indications.
+## When Surgery Might Help
 
-For patients with OSA and concurrent nasal septal deviation, septoplasty may improve airflow characteristics and reduce upper airway resistance. Clinical outcomes studies demonstrate that septoplasty alone, without concurrent treatment of other OSA contributors (such as palatal obstruction or tongue-base position), typically results in modest OSA severity reduction rather than complete resolution. However, in patients with significant nasal obstruction contributing substantially to overall airway resistance, septoplasty may produce meaningful improvement.
+If you have both a deviated septum and sleep apnea, surgery to straighten the septum (septoplasty) might help, but it's not a complete cure for sleep apnea by itself. Think of it this way: if your nose is significantly blocking your breathing, fixing it might help, but if your throat is also collapsing, you might need additional treatment like a CPAP machine or a dental sleep device. Surgery works best for people who have significant nasal obstruction and mild to moderate sleep apnea. [For people with severe sleep apnea, nasal surgery alone probably won't solve the problem](/article/sleep-apnea-and-dental-treatment-oral-appliance-therapy.html).
 
-The efficacy of septoplasty for OSA appears greatest when nasal obstruction represents a substantial contributor to overall upper airway compromise. Patients with severe nasal septal deviation causing significant nasal obstruction and concurrent mild to moderate OSA may experience substantial improvement or resolution following septoplasty. Conversely, in patients with OSA resulting primarily from palatal or tongue-base obstruction with mild nasal involvement, septoplasty alone may produce minimal OSA improvement despite successful correction of nasal obstruction.
+## Understanding Your Airway Assessment
 
-## Turbinate Reduction and Nasal Obstruction
+When evaluating whether nasal surgery might help your sleep apnea, your doctor looks at how much your deviated septum is actually restricting airflow. Sometimes a septum looks deviated on a scan but doesn't actually cause significant breathing problems. In other cases, it's contributing substantially to airway obstruction. Your doctor also assesses what else might be causing your sleep apnea—a large soft palate, a tongue that falls back easily, or other factors.
 
-Turbinate hypertrophy frequently accompanies or occurs independently from septal deviation, contributing significantly to nasal airflow obstruction. The nasal turbinates, which are mucosa-covered bony structures that regulate nasal airflow and perform physiologic functions including air conditioning, can enlarge due to chronic inflammation, allergic disease, or idiopathic hypertrophy.
+## Combining Treatments
+
+Many people with sleep apnea need multiple treatments working together. You might have septoplasty to improve your nasal airflow and also use a CPAP machine or dental sleep device. [Your dentist can create a custom oral appliance that gently repositions your lower jaw to keep your airway open while you sleep](/article/tmj-anatomy-joint-structure-and-function.html), even if your nose isn't perfect. The goal is finding the combination that helps you breathe easily and sleep soundly.
+
+## Recovery and Results
+
+If you do have septoplasty, expect some swelling and congestion for a few weeks while your nose heals. Most people notice gradual improvement in nasal breathing over several weeks as swelling goes down. If sleep apnea was significantly worsened by your nasal obstruction, you might notice improved sleep quality. However, if other factors are causing your apnea, you might not see complete resolution of sleep apnea symptoms even after successful nasal surgery.
+
+## Conclusion
+
+A deviated nasal septum can contribute to sleep apnea by forcing mouth breathing and making airway collapse more likely. Septoplasty may help improve breathing and reduce sleep apnea severity, particularly when nasal obstruction is a significant factor. However, sleep apnea is usually multifactorial, so nasal surgery alone often isn't sufficient. Work with your doctor and dentist to understand which treatments—surgery, CPAP, dental devices, or combinations—make sense for your specific situation.
+
+## Key Takeaway
+
+A deviated septum forces mouth breathing and increases sleep apnea risk; septoplasty may help, but usually works best combined with other treatments like CPAP or dental sleep devices.
+
+## Related Articles
+
+- [Sleep Apnea and Dental Treatment: Oral Appliance Therapy](/article/sleep-apnea-and-dental-treatment-oral-appliance-therapy.html)
+- [Sleep Apnea Breathing Pause During Sleep](/article/sleep-apnea-breathing-pause-during-sleep.html)
+- [TMJ Anatomy: Joint Structure and Function](/article/tmj-anatomy-joint-structure-and-function.html)
 
 Turbinate reduction procedures, including radiofrequency ablation, partial turbinectomy, or submucous resection, can substantially reduce nasal obstruction when turbinate hypertrophy represents a significant pathologic contributor. These procedures may be performed in conjunction with septoplasty when both septal deviation and turbinate hypertrophy contribute to obstruction. Like septoplasty, turbinate reduction's contribution to OSA improvement varies with the severity of nasal obstruction's contribution to overall upper airway compromise.
 
