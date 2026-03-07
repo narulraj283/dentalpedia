@@ -25,9 +25,9 @@ references:
 
 ## Your Saliva: Your Mouth's First Line of Defense
 
-You might think saliva is just spit, but it's actually a powerful defense system. Saliva buffers acids, kills bacteria, and helps repair early tooth damage. Your mouth needs normal saliva flow (about 0.3-0.4 mL per minute) to stay healthy. When saliva drops below 0.1 mL per minute, oral diseases spike dramatically.
+You might think saliva is just spit, but it's actually a powerful defense system. Saliva buffers acids, kills bacteria, and helps repair early tooth damage. Your mouth needs normal saliva flow (about 0.3-0.4 mL per minute) to stay healthy. When saliva drops below 0.1 mL per minute, oral diseases spike dramatically. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
 
-Saliva does three amazing things: it neutralizes acids within 30 minutes, it kills germs with special proteins, and it repairs small enamel damage. If your saliva can't buffer acids well (this happens with stress, poor diet, or sleep problems), your cavity risk jumps 10-20 times higher.
+Saliva does three amazing things: it neutralizes acids within 30 minutes, it kills germs with special proteins, and it repairs small enamel damage. If your saliva can't buffer acids well (this happens with stress, poor diet, or sleep problems), your cavity risk jumps 10-20 times higher. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
 
 If your mouth feels dry, tell your dentist. You can boost saliva by:
 - Chewing sugarless gum (mechanical stimulation)
@@ -183,3 +183,13 @@ Here's a practical way to improve your oral health:
 ## In Summary
 
 Perfect oral health goes beyond brushing and flossing. Your saliva, diet, smoking/drinking habits, stress level, sleep, and exercise all matter. Dry mouth needs special care with fluoride and frequent professional cleanings. Limiting how often you eat sugary foods and acidic foods prevents 50-60% of cavities and erosion. Quitting smoking makes gum disease 2-4 times better and restores implant success rates to 95%. Managing stress and sleeping 7-9 hours nightly reduces gum inflammation 25-35%. Exercise 150 minutes weekly adds another 15-25% improvement. When you address all these factors together, you'll see dramatic improvements in your mouth health.
+
+## Related Articles You May Find Helpful
+
+- [Acid Reflux and Tooth Erosion: GERD Management](/article/acid-reflux-and-tooth-erosion-gerd-management.html)
+- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
+- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+
+
+> **Key Takeaway:** Understanding lifestyle factors and preventive oral health behaviors helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

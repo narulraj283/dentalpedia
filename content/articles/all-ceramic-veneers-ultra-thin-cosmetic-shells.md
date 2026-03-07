@@ -23,11 +23,11 @@ references:
 
 ## What Are Ultra-Thin Veneers?
 
-Veneers are thin shells of ceramic bonded to the front of your teeth to change their appearance. Modern ultra-thin veneers are incredibly conservative—you often remove less tooth structure than for a traditional filling. They're about the thickness of a contact lens, ranging from 0.2-0.5mm of ceramic. Compare this to crowns, which remove about 25-30% of your tooth. Veneers remove maybe 5-10% of tooth volume. This is genuinely conservative dentistry. The philosophy is: preserve as much natural tooth as possible while creating a beautiful smile. Ultra-thin veneers make this possible because modern adhesive cements and ceramics are strong enough to function at these minimal thicknesses.
+Veneers are thin shells of ceramic bonded to the front of your teeth to change their appearance. Modern ultra-thin veneers are incredibly conservative—you often remove less tooth structure than for a traditional filling. They're about the thickness of a contact lens, ranging from 0.2-0.5mm of ceramic. Compare this to crowns, which remove about 25-30% of your tooth. Veneers remove maybe 5-10% of tooth volume. This is genuinely conservative dentistry. The philosophy is: preserve as much natural tooth as possible while creating a beautiful smile. Ultra-thin veneers make this possible because modern adhesive cements and ceramics are strong enough to function at these minimal thicknesses. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
 
 ## No-Prep Versus Minimal-Prep Veneers
 
-No-prep veneers require absolutely no tooth removal. The veneer is simply bonded directly onto your existing tooth surface. This sounds perfect, but it has real limitations. No-prep works only for teeth that are undersized or slightly undershaded (not too dark). If you want a dramatic color change from dark to light, or if your tooth has a sloped shape, no-prep creates an overcontoured restoration that looks bulky and unnatural. The marginal fit is also more challenging—without a prepared margin for the veneer to land on, the edges don't seal as precisely.
+No-prep veneers require absolutely no tooth removal. The veneer is simply bonded directly onto your existing tooth surface. This sounds perfect, but it has real limitations. No-prep works only for teeth that are undersized or slightly undershaded (not too dark). If you want a dramatic color change from dark to light, or if your tooth has a sloped shape, no-prep creates an overcontoured restoration that looks bulky and unnatural. The marginal fit is also more challenging—without a prepared margin for the veneer to land on, the edges don't seal as precisely. For more details, see our guide on [Anterior Guidance](/article/anterior-guidance-incisor-controlling-bite.html).
 
 Minimal-prep veneers involve removing just 0.3-0.5mm of tooth structure, primarily on the facial surface, creating a slight shoulder for the veneer to seat against. This small preparation allows much better control over final shape, color, and emergence profile. You can achieve dramatic shade changes from dark to light because the preparation is visible and gives the technician a reference. You get superior marginal fit and retention. Minimal-prep is genuinely conservative (much less removal than a crown) while providing the reliability and control of traditional restorations. Most routine veneer cases use minimal-prep.
 
@@ -66,3 +66,13 @@ Veneers create beautiful smiles, but they're not a complete face transformation.
 ## Common Mistakes to Avoid
 
 Too-white veneers look artificial—work with your dentist and lab to select natural-looking shade. Overly bulky veneers (from trying to go too bright without proper preparation) look unnatural—minimal-prep technique prevents this. Ignoring marginal integrity—excellent margins are critical for longevity. Skipping the mock-up phase—seeing the design approved in your mouth before permanent placement prevents regret. Poor oral hygiene—veneers are susceptible to decay at margins, requiring meticulous hygiene. The investment of time and money in proper smile design, preparation technique, and material selection pays off in superior esthetics and longevity. Choose a dentist experienced in veneer cases, follow through with excellent home care, and your investment will reward you for years to come.
+
+## Related Articles You May Find Helpful
+
+- [Adhesive Dentistry Cosmetics: Bonded Restorations Without Cutting](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html)
+- [Anterior Guidance: How Incisor Position Controls Bite Mechanics](/article/anterior-guidance-incisor-controlling-bite.html)
+- [Anterior Restoration Material Selection: Cosmetic Considerations and Clinical Properties](/article/anterior-restoration-material-selection-cosmetic-considerations.html)
+
+
+> **Key Takeaway:** Understanding all-ceramic veneers helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

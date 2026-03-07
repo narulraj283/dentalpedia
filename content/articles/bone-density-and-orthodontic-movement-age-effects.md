@@ -23,9 +23,9 @@ references:
 
 ## How Bone Changes as You Age
 
-Your jawbone is constantly remodeling throughout your life. You reach peak bone strength and density in your late 20s. After that, bone gradually thins—about 0.5-1% per year in men, and 1-2% per year in women (accelerating to 2-3% annually during menopause).
+Your jawbone is constantly remodeling throughout your life. You reach peak bone strength and density in your late 20s. After that, bone gradually thins—about 0.5-1% per year in men, and 1-2% per year in women (accelerating to 2-3% annually during menopause). For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
 
-By age 40, your jaw bone is noticeably less dense than in your 20s. By age 60-70, density drops by about 50%. This has big implications for orthodontic treatment (braces or aligners) because less dense bone responds differently to the gentle forces that move teeth.
+By age 40, your jaw bone is noticeably less dense than in your 20s. By age 60-70, density drops by about 50%. This has big implications for orthodontic treatment (braces or aligners) because less dense bone responds differently to the gentle forces that move teeth. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
 
 The bone's internal architecture also changes with age. The internal supporting structure (called trabeculae) gets spaced farther apart and becomes thinner. The dense outer layer (cortical bone) gets thinner at a rate of about 0.4-0.6 mm per decade. These changes reduce how well bone can distribute forces and may increase risk of damage from tooth movement.
 
@@ -113,9 +113,17 @@ Thyroid disorders affect bone remodeling. Hypothyroidism slows movement 30-50%. 
 
 Uncontrolled diabetes (blood sugar consistently elevated, HbA1c above 8%) slows movement 20-35%. Good control (HbA1c below 7%) allows nearly normal orthodontic response.
 
+
+
+## Related Articles You May Find Helpful
+
+- [Accelerated Orthodontia: Fast-Track Braces](/article/accelerated-orthodontia-fast-track-braces.html)
+- [Accelerated Orthodontics: Speeding Up Your Treatment](/article/accelerated-orthodontics-speeding-up-your-treatment.html)
+- [Adult Braces Options: Complete Guide](/article/adult-braces-options-complete-guide.html)
+
 > **Key Takeaway:** Adult orthodontics works at any age, but success depends on using age-appropriate lighter forces, accepting longer treatment timelines, and managing medical conditions that affect bone health.
 
 ## Related Articles
-- [Adult Braces: Is It Too Late?](/article/adult-orthodontics-never-too-late.html)
-- [Gum Disease and Orthodontic Treatment](/article/periodontitis-orthodontics-compatibility.html)
-- [Retainer Wear: Keeping Your Results After Braces](/article/orthodontic-retention-lifetime.html)
+- Adult Braces: Is It Too Late?
+- Gum Disease and Orthodontic Treatment
+- Retainer Wear: Keeping Your Results After Braces

@@ -23,9 +23,9 @@ references:
 
 ## Why Your Gums Get Inflamed
 
-Your gums don't get sick just because bacteria attack them. When harmful bacteria start growing, your immune system fights back by sending white blood cells to kill the invaders. Unfortunately, this battle creates harmful molecules called "free radicals" that damage your own tissue—kind of like friendly fire in a battle.
+Your gums don't get sick just because bacteria attack them. When harmful bacteria start growing, your immune system fights back by sending white blood cells to kill the invaders. Unfortunately, this battle creates harmful molecules called "free radicals" that damage your own tissue—kind of like friendly fire in a battle. For more details, see our guide on [Acidic Foods](/article/acidic-foods-erosion-from-citrus-and-soda.html).
 
-Normally, your body has natural defenses (called antioxidants) that clean up free radicals. But in people with gum disease, the battle gets so intense that these defenses can't keep up. The free radicals win and destroy your gum and bone tissue. This is why some people with gum disease get worse and worse despite having a strong immune system.
+Normally, your body has natural defenses (called antioxidants) that clean up free radicals. But in people with gum disease, the battle gets so intense that these defenses can't keep up. The free radicals win and destroy your gum and bone tissue. This is why some people with gum disease get worse and worse despite having a strong immune system. For more details, see our guide on [B Vitamins and Oral Health](/article/b-vitamins-and-oral-health.html).
 
 The key insight: fighting gum disease isn't just about killing bacteria. You also need to calm down the inflammation and give your body better tools to defend itself. Antioxidant vitamins and supplements can help.
 
@@ -130,3 +130,13 @@ Vitamin C (500-1000mg daily) and CoQ10 (60-100mg daily) are the foundation. Add 
 The key: take supplements consistently for 3-6 months, not just a few weeks. Results come gradually as your tissue heals. Combined with professional deep cleaning and good home care, supplements can improve your gum health noticeably.
 
 This approach supports what your immune system is trying to do naturally—fight disease and heal tissue. It's not an alternative to dental treatment; it's an addition that helps your body do its job better.
+
+## Related Articles You May Find Helpful
+
+- [Acidic Foods: Erosion from Citrus and Soda](/article/acidic-foods-erosion-from-citrus-and-soda.html)
+- [B Vitamins and Oral Health](/article/b-vitamins-and-oral-health.html)
+- [Balanced Diet and Dental Health](/article/balanced-diet-and-dental-health.html)
+
+
+> **Key Takeaway:** Understanding antioxidants and oral inflammation helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

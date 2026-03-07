@@ -23,9 +23,9 @@ references:
 
 ## When Antibiotics Help Gum Disease
 
-Regular deep cleaning works great for most gum disease patients. But sometimes your gums stay sick even after treatment. When this happens, your dentist might suggest antibiotics to help. About 10-15 percent of patients don't get better with cleaning alone, so antibiotics become an important tool.
+Regular deep cleaning works great for most gum disease patients. But sometimes your gums stay sick even after treatment. When this happens, your dentist might suggest antibiotics to help. About 10-15 percent of patients don't get better with cleaning alone, so antibiotics become an important tool. For more details, see our guide on [Aggressive Periodontitis](/article/aggressive-periodontitis-early-onset-gum-disease.html).
 
-Antibiotics fight gum disease in two ways. First, they kill the harmful bacteria hiding deep in your gum pockets. Second, they lower the total bacteria count in your whole mouth. Your dentist decides whether to give you pills you take by mouth or special medicine placed right into your gum pockets—it depends on how deep your pockets are and which bacteria are causing the problem.
+Antibiotics fight gum disease in two ways. First, they kill the harmful bacteria hiding deep in your gum pockets. Second, they lower the total bacteria count in your whole mouth. Your dentist decides whether to give you pills you take by mouth or special medicine placed right into your gum pockets—it depends on how deep your pockets are and which bacteria are causing the problem. For more details, see our guide on [Aggressive vs Chronic](/article/aggressive-vs-chronic-disease-progression-rate.html).
 
 ## Antibiotics You Take by Mouth
 
@@ -99,3 +99,13 @@ When regular cleaning doesn't stop gum disease, antibiotics give your gums a fig
 Special medicines placed directly in your deep pockets (Arestin or Atridox) work well for isolated problem areas. The key is using antibiotics wisely—only when needed, for the right length of time—to prevent bacteria from becoming resistant.
 
 Your best defense is still daily brushing, flossing, and regular professional cleanings. Antibiotics are the back-up plan when your mouth needs extra help fighting disease.
+
+## Related Articles You May Find Helpful
+
+- [Aggressive Periodontitis: Early-Onset Gum Disease](/article/aggressive-periodontitis-early-onset-gum-disease.html)
+- [Aggressive vs Chronic: Disease Progression Rate](/article/aggressive-vs-chronic-disease-progression-rate.html)
+- [Alcohol and Periodontitis: Increased Risk](/article/alcohol-and-periodontitis-increased-risk.html)
+
+
+> **Key Takeaway:** Understanding antibiotic therapy in periodontics helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

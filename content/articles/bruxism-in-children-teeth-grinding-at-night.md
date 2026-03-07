@@ -25,9 +25,9 @@ references:
 
 ## Childhood Grinding: How Common Is It?
 
-Sleep grinding is actually pretty common in kids—about 15-20% of children grind their teeth at night. It's most common between ages 4-10, with peak rates of 18-20% in kids ages 4-7. As kids get older, grinding usually decreases—by age 12-13, it's down to 5-8%. Here's the good news: about 50-60% of kids who grind experience spontaneous remission by age 15-16. Only 40-50% of childhood grinders continue into adulthood.
+Sleep grinding is actually pretty common in kids—about 15-20% of children grind their teeth at night. It's most common between ages 4-10, with peak rates of 18-20% in kids ages 4-7. As kids get older, grinding usually decreases—by age 12-13, it's down to 5-8%. Here's the good news: about 50-60% of kids who grind experience spontaneous remission by age 15-16. Only 40-50% of childhood grinders continue into adulthood. For more details, see our guide on [Adenoid and Tonsil Hypertrophy](/article/adenoid-and-tonsil-hypertrophy-airway-impact.html).
 
-Some kids are more likely to keep grinding into adulthood: those with severe grinding (more than 10 episodes per hour), those with jaw joint symptoms, or those with multiple risk factors. Girls grind slightly more than boys during childhood (51-55% of cases), which might relate to earlier development, though we're not entirely sure why.
+Some kids are more likely to keep grinding into adulthood: those with severe grinding (more than 10 episodes per hour), those with jaw joint symptoms, or those with multiple risk factors. Girls grind slightly more than boys during childhood (51-55% of cases), which might relate to earlier development, though we're not entirely sure why. For more details, see our guide on [Ankyloglossia and Speech Effects](/article/ankyloglossia-speech-effects-articulation-problems.html).
 
 Like adults, children's grinding peaks in early sleep and at sleep stage transitions. Kids with poor sleep quality (frequent wake-ups, shortened sleep) grind 2-3 times more than well-rested kids. Sleep quality seems to be the biggest modifiable factor for reducing childhood grinding.
 
@@ -63,9 +63,17 @@ For baby teeth bruxism, reassure your child and yourself—it's usually normal a
 
 Most kids with bruxism outgrow it—50-60% have complete remission by age 15-16. Kids most likely to persist into adulthood have severe grinding or associated TMJ symptoms. Follow their teeth every 6-12 months to monitor wear. Address sleep and behavioral issues early. Many childhood bruxism cases resolve simply through maturation, good sleep, and stress management—aggressive treatment is usually unnecessary.
 
+
+
+## Related Articles You May Find Helpful
+
+- [Adenoid and Tonsil Hypertrophy: Airway Impact](/article/adenoid-and-tonsil-hypertrophy-airway-impact.html)
+- [Ankyloglossia and Speech Effects: Understanding Tongue-Tie Articulation Problems](/article/ankyloglossia-speech-effects-articulation-problems.html)
+- [Autism and Dental Anxiety: Providing Special Needs Dental Care for ASD Patients](/article/autism-and-dental-anxiety-special-needs-care.html)
+
 > **Key Takeaway:** Childhood bruxism affects 15-20% of kids, resolves spontaneously in 50-60% by age 15-16, and usually needs only sleep optimization, stress management, and monitoring rather than aggressive treatment.
 
-Learn more: [Sleep and children's health](/article/children-sleep-and-teeth.html), [Kids' dental development](/article/pediatric-dental-development.html), or [Adenoid and tonsil problems](/article/enlarged-tonsils-sleep.html).
+Learn more: Sleep and children's health, Kids' dental development, or Adenoid and tonsil problems.
 
 ## Behavioral and Environmental Management
 

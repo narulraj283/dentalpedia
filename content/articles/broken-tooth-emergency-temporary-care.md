@@ -25,9 +25,9 @@ references:
 
 ## What Your Dentist Does First
 
-When you come in with a broken tooth, your dentist starts by examining what kind of break you have. They look at whether only the hard outer layer (enamel) is cracked, or if the yellowish layer under it (dentin) is exposed. They want to know if the break goes all the way to the nerve. They'll gently clean the area and look for bleeding (which means the nerve is exposed) or clear fluid (which means it's probably still okay).
+When you come in with a broken tooth, your dentist starts by examining what kind of break you have. They look at whether only the hard outer layer (enamel) is cracked, or if the yellowish layer under it (dentin) is exposed. They want to know if the break goes all the way to the nerve. They'll gently clean the area and look for bleeding (which means the nerve is exposed) or clear fluid (which means it's probably still okay). For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
 
-Your dentist takes X-rays to see the exact break line, check if the root is broken, and make sure your jaw bone is intact. They check how loose the tooth is—a solid tooth is good, but an overly loose tooth might mean a root fracture. They ask you about pain: simple chips don't usually hurt much unless your mouth rubs against sharp edges. Deeper breaks that expose dentin cause sensitivity to air and touch. If the nerve is exposed, you'll have significant pain.
+Your dentist takes X-rays to see the exact break line, check if the root is broken, and make sure your jaw bone is intact. They check how loose the tooth is—a solid tooth is good, but an overly loose tooth might mean a root fracture. They ask you about pain: simple chips don't usually hurt much unless your mouth rubs against sharp edges. Deeper breaks that expose dentin cause sensitivity to air and touch. If the nerve is exposed, you'll have significant pain. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
 
 ## Temporary Sealing Materials
 
@@ -77,6 +77,14 @@ Once your dentist confirms your nerve is still alive (or decides what to do if i
 
 Your dentist cleans everything with a mild polishing paste, looks very carefully to make sure the tooth is completely clean, and then they're ready to apply permanent restoration. If your tooth has been waiting a few weeks, they'll etch (apply acid to) the tooth surface fresh to prepare it properly for bonding.
 
+
+
+## Related Articles You May Find Helpful
+
+- [All-Ceramic Crowns: Metal-Free Restoration Solutions](/article/all-ceramic-crown-metal-free-restoration.html)
+- [Apex Sealing in Endodontics: Complete Root Canal Closure for Treatment Success](/article/apex-sealing-complete-root-canal-closure.html)
+- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
+
 > **Key Takeaway:** Temporary restoration of your broken tooth buys time for inflammation to settle and your dentist to assess whether your nerve is okay—this waiting period is crucial for planning the best permanent fix.
 
-Learn more: [Understanding temporary versus permanent restorations](/article/temporary-restorations.html), [Managing tooth sensitivity](/article/sensitive-teeth-solutions.html), or [What to expect during tooth repair](/article/tooth-restoration-process.html).
+Learn more: Understanding temporary versus permanent restorations, Managing tooth sensitivity, or What to expect during tooth repair.

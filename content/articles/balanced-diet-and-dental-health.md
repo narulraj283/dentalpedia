@@ -24,9 +24,9 @@ references:
 
 ## Building Your Teeth with Nutrients
 
-Your teeth are made of minerals, primarily calcium and phosphorus. If you don't get enough of these minerals, your teeth don't form properly and are weaker. But this isn't just about baby teeth—your mouth depends on these minerals throughout life for strength and repair.
+Your teeth are made of minerals, primarily calcium and phosphorus. If you don't get enough of these minerals, your teeth don't form properly and are weaker. But this isn't just about baby teeth—your mouth depends on these minerals throughout life for strength and repair. For more details, see our guide on [Acidic Foods](/article/acidic-foods-erosion-from-citrus-and-soda.html).
 
-**Calcium** makes up 36% of tooth enamel. Adults need 1000-1200 mg daily. Sources: dairy products (milk has 300 mg per cup), leafy greens (kale 150 mg per cup, collards 270 mg), sardines with bones (325 mg per 3 oz), fortified cereals (300-1000 mg per serving).
+**Calcium** makes up 36% of tooth enamel. Adults need 1000-1200 mg daily. Sources: dairy products (milk has 300 mg per cup), leafy greens (kale 150 mg per cup, collards 270 mg), sardines with bones (325 mg per 3 oz), fortified cereals (300-1000 mg per serving). For more details, see our guide on [Antioxidants and Oral Inflammation](/article/antioxidants-fighting-oral-inflammation.html).
 
 **Phosphorus** works with calcium in a 2:1 ratio for optimal mineralization. You need 700-1000 mg daily. It's abundant in fish, poultry, nuts, and seeds. Deficiency is rare in developed countries.
 
@@ -123,3 +123,29 @@ Your dentist will ask about current diet, identify your barriers (cost, time, pr
 ## Summary
 
 Calcium, phosphorus, and vitamin D form tooth mineral structure. Vitamin A maintains salivary glands. Vitamin C maintains gum collagen. B vitamins support cell turnover. Cavity bacteria ferment sugar within 5 minutes. Frequency of sugar exposure matters more than quantity. Protective foods include cheese, nuts, vegetables, and water. Mediterranean dietary pattern reduces gum disease. Enamel pits, gum bleeding, and tongue changes can signal nutritional deficiency. Specific dietary goals (eliminate sugary beverages, add cheese to lunch) work better than vague advice. Special populations (athletes, acid reflux, vegetarians) need modified guidance. Dietary counseling integrated into dental practice improves both oral and systemic health outcomes.
+
+## Related Articles You May Find Helpful
+
+- [Acidic Foods: Erosion from Citrus and Soda](/article/acidic-foods-erosion-from-citrus-and-soda.html)
+- [Antioxidants and Oral Inflammation: Nutritional Support for Periodontal Health](/article/antioxidants-fighting-oral-inflammation.html)
+- [B Vitamins and Oral Health](/article/b-vitamins-and-oral-health.html)
+
+
+
+
+## Questions to Ask Your Dentist
+
+Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
+
+- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
+- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
+- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
+- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
+- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
+
+Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist will never pressure you into a decision.
+
+Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+
+> **Key Takeaway:** Understanding balanced diet and dental health helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

@@ -23,9 +23,9 @@ references:
 
 ## The Right Technique Matters More Than You Think
 
-The Bass technique is the most effective evidence-based brushing method. Position your soft-bristled toothbrush at 45 degrees to your gumline, aimed toward your roots. Apply light pressure (about the weight of a pen—if bristles bend, you're pressing too hard). Use small 2-millimeter horizontal vibrations—10-20 strokes per tooth area—then a rolling stroke downward. This two-phase technique removes biofilm from the critical gum margin, then clears surfaces.
+The Bass technique is the most effective evidence-based brushing method. Position your soft-bristled toothbrush at 45 degrees to your gumline, aimed toward your roots. Apply light pressure (about the weight of a pen—if bristles bend, you're pressing too hard). Use small 2-millimeter horizontal vibrations—10-20 strokes per tooth area—then a rolling stroke downward. This two-phase technique removes biofilm from the critical gum margin, then clears surfaces. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
 
-Brush systematically: divide your mouth into 10 regions (upper right back, upper right front, upper left front, upper left back, lower right back, lower right front, lower left front, lower left back, lower front, upper front). Spend 15-20 seconds per region working methodically. Random brushing leaves 25-30% uncleaned.
+Brush systematically: divide your mouth into 10 regions (upper right back, upper right front, upper left front, upper left back, lower right back, lower right front, lower left front, lower left back, lower front, upper front). Spend 15-20 seconds per region working methodically. Random brushing leaves 25-30% uncleaned. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
 
 Duration matters: two minutes removes 80-90% of accessible biofilm. Under one minute removes only 40-50%. Most people brush just 40-60 seconds without instruction. Explicit "brush two minutes" instruction improves outcomes 30-40%. Use a timer or play a two-minute song. Longer brushing (over 3 minutes) provides minimal benefit and risks gingival trauma.
 
@@ -187,8 +187,16 @@ For children under 3: rice-grain size of 500 ppm fluoride. Ages 3-6: pea-sized a
 - "Am I brushing long enough to be effective?"
 - "Do I have any tooth sensitivity from my brushing technique?"
 
+
+
+## Related Articles You May Find Helpful
+
+- [Acid Reflux and Tooth Erosion: GERD Management](/article/acid-reflux-and-tooth-erosion-gerd-management.html)
+- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
+- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+
 > **Key Takeaway:** Proper technique (45-degree angle, gentle pressure, 2-minute duration), soft bristles, systematic coverage of all tooth surfaces, and consistent twice-daily brushing effectively prevent dental disease across all patient populations. Habit stacking and environmental cues make compliance sustainable.
 
 ---
 
-**Related articles:** [Best flossing technique guide](/article/flossing-how-to.html) | [Electric vs manual toothbrushes](/article/toothbrush-comparison.html) | [Preventing gum recession from brushing](/article/gum-recession-prevention.html)
+**Related articles:** Best flossing technique guide | Electric vs manual toothbrushes | Preventing gum recession from brushing

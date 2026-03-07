@@ -23,9 +23,9 @@ references:
 
 ## What Is Behçet's Disease and Who Gets It?
 
-Behçet's disease is a rare condition that causes painful ulcers (sores) in your mouth and other parts of your body. It's an inflammatory disease—your immune system attacks your own blood vessels and tissues. The disease was first described in 1937 by a Turkish doctor named Behçet.
+Behçet's disease is a rare condition that causes painful ulcers (sores) in your mouth and other parts of your body. It's an inflammatory disease—your immune system attacks your own blood vessels and tissues. The disease was first described in 1937 by a Turkish doctor named Behçet. For more details, see our guide on [Down Syndrome and Special Oral Health Needs](/article/down-syndrome-and-special-oral-health-needs.html).
 
-This disease is more common in certain parts of the world. If you're from Turkey, the Middle East, North Africa, or East Asia (especially Japan), you're at higher risk. It's quite rare in North America and Northern Europe. The disease usually starts in people's 20s through 40s, though sometimes children get it too.
+This disease is more common in certain parts of the world. If you're from Turkey, the Middle East, North Africa, or East Asia (especially Japan), you're at higher risk. It's quite rare in North America and Northern Europe. The disease usually starts in people's 20s through 40s, though sometimes children get it too. For more details, see our guide on [Erythema Migrans](/article/erythema-migrans-lyme-disease-mouth-rash.html).
 
 The most common symptom is mouth ulcers—about 95% of people with Behçet's disease have them. These are often the first sign of the disease. If you have repeated mouth sores, your dentist might ask if you have other symptoms that could suggest Behçet's disease.
 
@@ -124,3 +124,13 @@ If you're taking immunosuppressive medications for Behçet's disease, you're mor
 Behçet's disease causes recurrent painful mouth ulcers and affects other parts of the body. If you have frequent mouth ulcers (three or more per year), especially if accompanied by genital ulcers or eye problems, talk to your doctor. Dentists can help with topical treatment and trauma avoidance. Modern medications effectively control symptoms and prevent serious complications. Working with a rheumatologist and your dentist provides comprehensive management of this condition.
 
 The good news is that Behçet's disease is manageable. Many people have effective symptom control and maintain good quality of life. Early diagnosis, proper medications, and coordinated care between your medical team lead to the best outcomes. Don't hesitate to seek help if you suspect you have Behçet's disease.
+
+## Related Articles You May Find Helpful
+
+- [Down Syndrome and Special Oral Health Needs](/article/down-syndrome-and-special-oral-health-needs.html)
+- [Erythema Migrans: Lyme Disease Manifestations in the Oral Region](/article/erythema-migrans-lyme-disease-mouth-rash.html)
+- [Geographic Tongue: Harmless Pattern on Tongue Surface](/article/geographic-tongue-harmless-pattern-on-tongue-surface.html)
+
+
+> **Key Takeaway:** Understanding behçet's disease helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

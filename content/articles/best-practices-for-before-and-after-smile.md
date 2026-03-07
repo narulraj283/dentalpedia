@@ -1,5 +1,5 @@
 ---
-title: Best Practices for Before and After Smile Documentation
+title: "Before and After Smile Documentation: What Every Patient Should Know"
 slug: best-practices-for-before-and-after-smile
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
@@ -25,11 +25,11 @@ references:
 
 # Best Practices for Before and After Smile Documentation
 
-When you're considering cosmetic dental work—whether it's whitening, veneers, or crowns—you want to know exactly what you'll look like afterward. Professional photography helps make this possible. It also gives your dentist a clear record of what was done and why, which is important for quality control and communication with the dental lab creating your new smile.
+When you're considering cosmetic dental work—whether it's whitening, veneers, or crowns—you want to know exactly what you'll look like afterward. Professional photography helps make this possible. It also gives your dentist a clear record of what was done and why, which is important for quality control and communication with the dental lab creating your new smile. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
 
 ## The Standard Photography Package
 
-Professional dental photography should capture your smile from multiple angles. This isn't just one selfie—it's a complete visual record. The American Academy of Cosmetic Dentistry recommends twelve different photos for a complete assessment.
+Professional dental photography should capture your smile from multiple angles. This isn't just one selfie—it's a complete visual record. The American Academy of Cosmetic Dentistry recommends twelve different photos for a complete assessment. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
 
 Start with your full face at rest and smiling, showing how your smile looks in your normal expressions. Then take closer photos of just your teeth and gums, both when you're smiling fully and when your teeth are hidden by your lips. Side profile photos show how your teeth line up with your chin and face profile. Finally, photos looking straight down at your top and bottom teeth show how they align with each other.
 
@@ -105,3 +105,13 @@ Professional documentation transforms cosmetic dentistry from an art form where 
 8. Rosenstiel SF, et al. Dentistry, Dental Patient, and the Internet. J Dent Educ. 2004;68(6):623-635.
 9. Levine JB, et al. Digital technologies for smile designing and implant treatment planning. Curr Opin Aesthet Dent. 2012;6(2):45-56.
 10. Ahmad I. Digital smile design: computer-aided esthetic analysis and treatment planning. Quintessence Int. 2003;34(4):268-274.
+
+## Related Articles You May Find Helpful
+
+- [Adhesive Dentistry Cosmetics: Bonded Restorations Without Cutting](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html)
+- [All-Ceramic Veneers: Ultra-Thin Cosmetic Shells](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html)
+- [Anterior Guidance: How Incisor Position Controls Bite Mechanics](/article/anterior-guidance-incisor-controlling-bite.html)
+
+
+> **Key Takeaway:** Understanding before and after smile documentation helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

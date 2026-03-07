@@ -23,9 +23,9 @@ references:
 
 ## Understanding Tooth Color: What You're Working With
 
-Tooth color has three components: hue (pigment type—yellow, orange, gray, brown), value (lightness-darkness on a 1-10 scale), and chroma (color saturation intensity). Natural teeth typically range 8-10 value (darker than most patients want) with yellow-orange hue and moderate chroma.
+Tooth color has three components: hue (pigment type—yellow, orange, gray, brown), value (lightness-darkness on a 1-10 scale), and chroma (color saturation intensity). Natural teeth typically range 8-10 value (darker than most patients want) with yellow-orange hue and moderate chroma. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
 
-Outer enamel (250-300 micrometers thick) is translucent, so underlying dentin color shows through. Young patients have thick enamel appearing slightly blue-gray; older patients have thinner enamel with more yellow showing (from dentin). Tetracycline antibiotic used during tooth development creates permanent gray-yellow staining deeply embedded—difficult to whiten. Age-related dentin sclerosis (hardening from mineralization) decreases light transmission, appearing yellower.
+Outer enamel (250-300 micrometers thick) is translucent, so underlying dentin color shows through. Young patients have thick enamel appearing slightly blue-gray; older patients have thinner enamel with more yellow showing (from dentin). Tetracycline antibiotic used during tooth development creates permanent gray-yellow staining deeply embedded—difficult to whiten. Age-related dentin sclerosis (hardening from mineralization) decreases light transmission, appearing yellower. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
 
 Yellow shades bleach most predictably and dramatically. Gray and brown shades respond less. Understanding your baseline predicts realistic outcomes and helps set expectations.
 
@@ -177,8 +177,16 @@ Take baseline photos and document your starting point. Weekly progress photos du
 
 The investment in whitening or restoration deserves maintenance investment. Professional reinforcement ("your teeth look so bright, make sure you maintain them!") provides motivation to follow through on lifestyle modifications.
 
+
+
+## Related Articles You May Find Helpful
+
+- [Adhesive Dentistry Cosmetics: Bonded Restorations Without Cutting](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html)
+- [All-Ceramic Veneers: Ultra-Thin Cosmetic Shells](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html)
+- [Anterior Guidance: How Incisor Position Controls Bite Mechanics](/article/anterior-guidance-incisor-controlling-bite.html)
+
 > **Key Takeaway:** Comprehensive tooth color improvement combines professional whitening assessment, realistic outcome projection based on baseline color characteristics, restorative options when needed, and maintenance strategies tailored to patient lifestyle and commitment. Progressive or phased approaches accommodate budget constraints while delivering excellent results.
 
 ---
 
-**Related articles:** [Teeth whitening myths and facts](/article/whitening-myths.html) | [When bonding vs veneers](/article/bonding-vs-veneers.html) | [Stain prevention through lifestyle choices](/article/stain-prevention-tips.html)
+**Related articles:** Teeth whitening myths and facts | When bonding vs veneers | Stain prevention through lifestyle choices

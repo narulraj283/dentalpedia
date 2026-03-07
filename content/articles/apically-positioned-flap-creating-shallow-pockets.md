@@ -23,9 +23,9 @@ references:
 
 ## What This Surgery Does
 
-When gum disease creates pockets deeper than 4-5mm, even thorough brushing and professional cleaning can't stop the disease. The deep pockets harbor bacteria that keep causing problems. Periodontal surgery solves this by repositioning the gum tissue to create shallower pockets.
+When gum disease creates pockets deeper than 4-5mm, even thorough brushing and professional cleaning can't stop the disease. The deep pockets harbor bacteria that keep causing problems. Periodontal surgery solves this by repositioning the gum tissue to create shallower pockets. For more details, see our guide on [Aggressive Periodontitis](/article/aggressive-periodontitis-early-onset-gum-disease.html).
 
-The apically positioned flap is one method that works well. Unlike some surgical approaches that remove bone, this method lifts the gum tissue and moves it to a lower position—essentially making your gums shorter but eliminating the deep pockets where disease hides.
+The apically positioned flap is one method that works well. Unlike some surgical approaches that remove bone, this method lifts the gum tissue and moves it to a lower position—essentially making your gums shorter but eliminating the deep pockets where disease hides. For more details, see our guide on [Aggressive vs Chronic](/article/aggressive-vs-chronic-disease-progression-rate.html).
 
 The goal: reduce pocket depth to 3mm or less where bacteria can't establish deep disease.
 
@@ -148,3 +148,13 @@ Gingival recession averaging 2-4mm is the main trade-off. This is usually accept
 The procedure preserves bone height better than aggressive bone-removal surgery, making it ideal when bone conservation is important. Careful patient selection emphasizing adequate baseline attached gum ensures optimal outcomes.
 
 Meticulous home care and regular professional maintenance determine long-term success. With good care, results remain stable for decades.
+
+## Related Articles You May Find Helpful
+
+- [Aggressive Periodontitis: Early-Onset Gum Disease](/article/aggressive-periodontitis-early-onset-gum-disease.html)
+- [Aggressive vs Chronic: Disease Progression Rate](/article/aggressive-vs-chronic-disease-progression-rate.html)
+- [Alcohol and Periodontitis: Increased Risk](/article/alcohol-and-periodontitis-increased-risk.html)
+
+
+> **Key Takeaway:** Understanding apically positioned flap surgery helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

@@ -25,9 +25,9 @@ references:
 
 ## What Makes a Mouthwash a Real Medicine vs. Just for Taste
 
-The FDA separates mouthwashes into two groups: real medicines and cosmetics. Understanding this difference helps you pick the right product for your needs.
+The FDA separates mouthwashes into two groups: real medicines and cosmetics. Understanding this difference helps you pick the right product for your needs. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
 
-**Real medicinal mouthwashes** contain proven active ingredients and can claim they fight cavities, reduce gum disease, or kill bacteria. These include chlorhexidine, essential oils, fluoride, and others backed by lots of research. When you see scientific claims, that's what you're looking at.
+**Real medicinal mouthwashes** contain proven active ingredients and can claim they fight cavities, reduce gum disease, or kill bacteria. These include chlorhexidine, essential oils, fluoride, and others backed by lots of research. When you see scientific claims, that's what you're looking at. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
 
 **Cosmetic mouthwashes** just make your breath smell fresh or freshen your mouth. They don't fight any diseases and don't need the same evidence. Most drugstore breath-fresheners fall into this category. They're fine for freshening your breath but won't help prevent cavities or gum disease.
 
@@ -153,3 +153,13 @@ Most insurance doesn't cover mouthwash, so it comes out of pocket. This is somet
 ## Bottom Line
 
 Mouthwash works best when matched to your specific needs. Low-cavity, low-gum-disease people don't need therapeutic rinses. High-risk people benefit from chlorhexidine short-term (with side effect management) or fluoride/essential oil long-term. Stannous compounds are excellent all-around fighters if staining doesn't bother you. Use it right (timing, technique, duration) and reassess every 4 weeks. What works for someone else might not work for you, so be willing to switch if your first choice has too many downsides. Your dentist can help you pick the best option for your specific situation.
+
+## Related Articles You May Find Helpful
+
+- [Acid Reflux and Tooth Erosion: GERD Management](/article/acid-reflux-and-tooth-erosion-gerd-management.html)
+- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
+- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+
+
+> **Key Takeaway:** Understanding evidence-based mouthwash selection criteria and comparative efficacy helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

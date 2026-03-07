@@ -21,13 +21,13 @@ references:
   - "Karakis D, et al. Epidemiology and mechanisms of traumatic alveolar fractures. Turkish Journal of Trauma and Emergency Surgery. 2011;17(6):517-523."
 ---
 
-An alveolar fracture is a break in the jaw bone that surrounds your tooth roots—usually caused by a hard blow to the mouth from a fall, sports injury, accident, or violence. When this happens, not only is the bone broken, but your teeth get shifted out of position, your bite becomes misaligned, and you're at risk of losing those teeth or having nerve damage. The good news is that quick treatment right away (within 24 hours) dramatically improves the chance of saving your teeth. This guide explains what happens, how it's treated, and what to expect as your jaw heals.
+An alveolar fracture is a break in the jaw bone that surrounds your tooth roots—usually caused by a hard blow to the mouth from a fall, sports injury, accident, or violence. When this happens, not only is the bone broken, but your teeth get shifted out of position, your bite becomes misaligned, and you're at risk of losing those teeth or having nerve damage. The good news is that quick treatment right away (within 24 hours) dramatically improves the chance of saving your teeth. This guide explains what happens, how it's treated, and what to expect as your jaw heals. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
 ## Types of Alveolar Fractures
 
 Alveolar fractures come in three types depending on severity:
 
-**Simple fractures** affect a small area (usually 1-4 teeth) with a clean break line creating one mobile bone segment with the teeth still intact in it. **Complex fractures** have multiple break lines and bone fragments scattered throughout—much messier and more complicated. **Segmental fractures** are the most severe—the bone breaks completely from one side of your jaw to the other, creating a large mobile piece of jaw.
+**Simple fractures** affect a small area (usually 1-4 teeth) with a clean break line creating one mobile bone segment with the teeth still intact in it. **Complex fractures** have multiple break lines and bone fragments scattered throughout—much messier and more complicated. **Segmental fractures** are the most severe—the bone breaks completely from one side of your jaw to the other, creating a large mobile piece of jaw. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
 The type of injury that causes the fracture matters. In children, falling from heights is the most common cause. In teens and adults, sports injuries and violence cause more fractures. The direction of the blow determines the fracture pattern—a blow perpendicular to your teeth creates an irregular, messy fracture, while a sideways blow creates a cleaner break.
 
@@ -87,6 +87,17 @@ At 6 months, your bones should be well healed with stable teeth and a normal bit
 
 Studies of patients followed 10+ years show: about 85-90% of fractured teeth stay alive long-term, about 70-80% achieve perfect bite alignment with no lasting problems, and about 10-15% develop significant root resorption that eventually needs root canal or extraction. Patient satisfaction is high (85-90%) if treatment was immediate and appropriate.
 
+
+
+## Related Articles You May Find Helpful
+
+- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+
 ## Key Takeaways
 
 The most important things are: get emergency treatment within 24 hours, use flexible splinting for 4-6 weeks, monitor tooth vitality at follow-up visits, and watch for root resorption with regular X-rays. When these steps are followed carefully, most people keep their fractured teeth healthy and functional for life. Delays or missed follow-ups significantly reduce success rates, which is why urgent treatment is so critical.
+
+> **Key Takeaway:** Understanding alveolar fracture helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

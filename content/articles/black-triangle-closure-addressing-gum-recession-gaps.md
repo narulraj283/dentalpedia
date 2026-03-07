@@ -23,9 +23,9 @@ references:
 
 ## What Are Black Triangles?
 
-Black triangles are small gaps shaped like triangles that appear between your front teeth, right at the gum line. They're one of the most frustrating esthetic issues people deal with, affecting 15-30% of adults—and they become more common as you age. They happen between the actual contact point (where your teeth touch) and where your gumline sits.
+Black triangles are small gaps shaped like triangles that appear between your front teeth, right at the gum line. They're one of the most frustrating esthetic issues people deal with, affecting 15-30% of adults—and they become more common as you age. They happen between the actual contact point (where your teeth touch) and where your gumline sits. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
 
-The spaces form when your gum tissue recedes or your bone level drops. They're called "black" triangles because they look dark—you can see right through the gap into your mouth. While they don't affect tooth function, they bother many people because they're visible when you smile and can collect food.
+The spaces form when your gum tissue recedes or your bone level drops. They're called "black" triangles because they look dark—you can see right through the gap into your mouth. While they don't affect tooth function, they bother many people because they're visible when you smile and can collect food. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
 
 ## Why Black Triangles Form
 
@@ -132,5 +132,13 @@ Your biggest enemy is recurrent gum disease. If you develop periodontitis again,
 - Is gum disease present, and do I need treatment first?
 - Will treatment be permanent, or will spaces return?
 - What's my gum type, and does it affect outcomes?
+
+
+
+## Related Articles You May Find Helpful
+
+- [Adhesive Dentistry Cosmetics: Bonded Restorations Without Cutting](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html)
+- [All-Ceramic Veneers: Ultra-Thin Cosmetic Shells](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html)
+- [Anterior Guidance: How Incisor Position Controls Bite Mechanics](/article/anterior-guidance-incisor-controlling-bite.html)
 
 > **Key Takeaway:** Black triangles are common cosmetic gaps at the gum line best treated with a combination of gum surgery, orthodontics, or restorations—but complete elimination is rare, and most patients should expect 60-70% improvement rather than total closure.

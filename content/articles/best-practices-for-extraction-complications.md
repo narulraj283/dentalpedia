@@ -23,11 +23,11 @@ references:
   - "Gordon JS, Hinds EC. Postoperative Edema and Trismus Following Intraoral Exodontia. J Oral Surg. 2018;26(7):405-417."
 ---
 
-If you're facing a tooth extraction, you've probably heard about something called "dry socket." While most people recover from tooth extraction without problems, it's helpful to understand what can go wrong and how to prevent it. Knowing what to expect and how to take care of yourself afterward makes a huge difference in your healing.
+If you're facing a tooth extraction, you've probably heard about something called "dry socket." While most people recover from tooth extraction without problems, it's helpful to understand what can go wrong and how to prevent it. Knowing what to expect and how to take care of yourself afterward makes a huge difference in your healing. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
 ## Understanding Dry Socket (Alveolar Osteitis)
 
-After your tooth is extracted, a blood clot forms in the socket where your tooth was. This clot is super important—it's like nature's bandage that protects the bone underneath. Normally, your body slowly breaks down this clot as new bone grows to fill the socket.
+After your tooth is extracted, a blood clot forms in the socket where your tooth was. This clot is super important—it's like nature's bandage that protects the bone underneath. Normally, your body slowly breaks down this clot as new bone grows to fill the socket. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
 Dry socket happens when something causes that protective blood clot to dissolve or fall out too early, exposing the bone beneath. When bone is exposed to your mouth's bacteria and air, it becomes painful—really painful. The condition gets its name because the socket looks dry instead of having the normal healing tissue you'd expect to see.
 
@@ -104,3 +104,13 @@ Make sure to schedule a follow-up appointment about one week after extraction. Y
 ## The Bottom Line
 
 Tooth extraction is straightforward for most people, and complications like dry socket are preventable. By following your dentist's instructions carefully, you dramatically reduce your risk. If something doesn't feel right during healing, don't hesitate to call your dentist—that's what they're there for. With proper care and attention, you'll heal well and be ready to discuss options for replacing your tooth when you're ready.
+
+## Related Articles You May Find Helpful
+
+- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+
+
+> **Key Takeaway:** Understanding prevention and management of alveolar osteitis and post-extraction complications helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

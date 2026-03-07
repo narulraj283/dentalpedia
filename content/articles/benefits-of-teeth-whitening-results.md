@@ -23,11 +23,11 @@ references:
 
 # Teeth Whitening: What You Can Realistically Expect
 
-Teeth whitening is the most popular cosmetic dental treatment because it works quickly and makes a huge difference. But a lot of people's expectations are based on Instagram pictures and celebrity teeth, which are often heavily edited. Let's talk about what actually happens when you whiten your teeth and how long results last.
+Teeth whitening is the most popular cosmetic dental treatment because it works quickly and makes a huge difference. But a lot of people's expectations are based on Instagram pictures and celebrity teeth, which are often heavily edited. Let's talk about what actually happens when you whiten your teeth and how long results last. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
 
 ## Professional In-Office Whitening: The Dramatic Results
 
-When you go to your dentist for professional whitening, you'll sit for about an hour while they apply a strong bleaching gel (much stronger than anything you can buy) to your teeth. Most people see a massive improvement—your teeth typically get about 6-8 shades lighter in a single appointment. That's noticeable to everyone around you.
+When you go to your dentist for professional whitening, you'll sit for about an hour while they apply a strong bleaching gel (much stronger than anything you can buy) to your teeth. Most people see a massive improvement—your teeth typically get about 6-8 shades lighter in a single appointment. That's noticeable to everyone around you. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
 
 The reason professional whitening is so much more dramatic than home products is the concentration of bleaching agent. Dentists use 35-40% hydrogen peroxide, which is way stronger than anything available over-the-counter. Combined with light or heat to speed up the process, most of the bleaching happens in the first 15-30 minutes of the appointment.
 
@@ -114,3 +114,13 @@ Teeth whitening actually delivers on its promise in a way that's different from 
 9. Al-Malack H, Gregory W, Meyers I. The efficacy and safety of home bleaching—a review. Dent Update. 2004;31(3):148-159.
 
 10. Joiner A. The bleaching of teeth: a review of the literature. J Dent. 2006;34(7):412-419.
+
+## Related Articles You May Find Helpful
+
+- [Adhesive Dentistry Cosmetics: Bonded Restorations Without Cutting](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html)
+- [All-Ceramic Veneers: Ultra-Thin Cosmetic Shells](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html)
+- [Anterior Guidance: How Incisor Position Controls Bite Mechanics](/article/anterior-guidance-incisor-controlling-bite.html)
+
+
+> **Key Takeaway:** Understanding teeth whitening results - evidence-based outcomes and longevity helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

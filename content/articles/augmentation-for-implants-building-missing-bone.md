@@ -21,11 +21,11 @@ references:
   - "Sclar, A. G., Jovanovic, S. A. (2001). Augmentation of extraction socket defects for alveolar bone grafting prior to implant placement. Pract Periodontics Aesthet Dent. 13(4):475-487."
 ---
 
-Dental implants need a solid foundation of bone to work. If you've lost a tooth due to decay or an accident, or if your jaw has shrunk from gum disease, there might not be enough bone for an implant. The solution is bone augmentation—building up the bone before placing the implant. Several different techniques accomplish this depending on where the bone loss is and how severe it is.
+Dental implants need a solid foundation of bone to work. If you've lost a tooth due to decay or an accident, or if your jaw has shrunk from gum disease, there might not be enough bone for an implant. The solution is bone augmentation—building up the bone before placing the implant. Several different techniques accomplish this depending on where the bone loss is and how severe it is. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
 ## Bone Graft Material Options
 
-Four main types of bone graft materials exist, each with different advantages. Your own bone harvested from your jaw or hip is the gold standard because it has living cells that build new bone. It works best but requires additional surgery at the donor site.
+Four main types of bone graft materials exist, each with different advantages. Your own bone harvested from your jaw or hip is the gold standard because it has living cells that build new bone. It works best but requires additional surgery at the donor site. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
 Bone from a tissue bank comes from deceased donors and is carefully processed to eliminate disease risk. It's excellent for bone building and eliminates the donor site pain. Animal bone, usually from cows, provides a mineral scaffold that your own bone grows into. Synthetic bone substitutes made in laboratories provide similar scaffolding without any animal material.
 
@@ -96,3 +96,13 @@ Rarely, even augmentation can't build enough bone if the defect is truly massive
 ## Summary
 
 Dental implants require adequate bone height (10-12 millimeters) and width (6-7 millimeters). When bones are deficient, augmentation builds missing bone. Maxillary sinus lifts elevate the sinus floor 8-12 millimeters enabling posterior upper implants (95% long-term success). Socket preservation at extraction maintains 40-60% of original bone dimensions versus 20-30% without preservation. Ridge splitting can add 3-5 millimeters of horizontal width. Barrier membrane selection depends on defect size and surgeon preference. Staged approaches with 4-6 month healing optimize outcomes. Combined grafting strategies using autogenous bone with allograft or xenograft materials provide superior results compared to single materials. CBCT imaging assesses healing and guides implant planning.
+
+## Related Articles You May Find Helpful
+
+- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+
+
+> **Key Takeaway:** Understanding augmentation for implants helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

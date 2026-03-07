@@ -23,9 +23,9 @@ references:
 
 ## The Critical First 24 Hours
 
-After your tooth is removed, the first day is when the real healing begins. You'll bite down on gauze for 30-45 minutes to help a blood clot form. This clot is like a temporary bandage inside your mouth—it's essential because it protects the area and serves as a foundation for new bone and gum tissue to grow.
+After your tooth is removed, the first day is when the real healing begins. You'll bite down on gauze for 30-45 minutes to help a blood clot form. This clot is like a temporary bandage inside your mouth—it's essential because it protects the area and serves as a foundation for new bone and gum tissue to grow. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
-For the rest of that first day, treat the area gently. Don't rinse your mouth vigorously, spit forcefully, or drink hot beverages—these actions can disturb the clot and cause bleeding. Smoking and drinking alcohol are major problems right now because they reduce blood flow to the extraction site and slow healing. People who smoke while recovering typically heal 20-30% slower than nonsmokers and have more complications.
+For the rest of that first day, treat the area gently. Don't rinse your mouth vigorously, spit forcefully, or drink hot beverages—these actions can disturb the clot and cause bleeding. Smoking and drinking alcohol are major problems right now because they reduce blood flow to the extraction site and slow healing. People who smoke while recovering typically heal 20-30% slower than nonsmokers and have more complications. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
 You'll notice swelling peaks around day 2-3. Start using ice packs immediately after surgery—apply them for 20 minutes, rest for 20 minutes, and repeat during the first 48 hours. The cold shrinks blood vessels and reduces swelling. After 48 hours, you can switch to warmth to help circulation and speed up tissue rebuilding.
 
@@ -196,11 +196,19 @@ Once healed, your extraction site requires minimal maintenance:
 
 The extraction site becomes just normal mouth tissue once healed. No special long-term care needed.
 
+
+
+## Related Articles You May Find Helpful
+
+- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+
 > **Key Takeaway:** Proper first-day care, gentle activity restrictions, good nutrition, and watching for complications set you up for fast, complication-free healing.
 
 ---
 
-**Related articles:** [Recovery after wisdom tooth extraction](/article/oral-surgery-recovery.html) | [Managing swelling after dental surgery](/article/postoperative-swelling-control.html) | [When to get a dental implant](/article/implant-timing-guide.html)
+**Related articles:** Recovery after wisdom tooth extraction | Managing swelling after dental surgery | When to get a dental implant
 
 ## Questions to Ask Your Dentist
 

@@ -27,9 +27,9 @@ references:
 
 **When the numbness wears off (2-4 hours after surgery):**
 
-Your mouth will be numb for 4-8 hours. Don't eat or drink while numb because you might bite your cheek or tongue accidentally (happens to 3-5% of people). Once sensation returns, avoid hot foods and drinks—your mouth is still numb-ish and can't sense burns.
+Your mouth will be numb for 4-8 hours. Don't eat or drink while numb because you might bite your cheek or tongue accidentally (happens to 3-5% of people). Once sensation returns, avoid hot foods and drinks—your mouth is still numb-ish and can't sense burns. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
 
-Some oozing of blood-tinged saliva is completely normal for the first 2-4 hours. But if it keeps bleeding steadily, that's a problem.
+Some oozing of blood-tinged saliva is completely normal for the first 2-4 hours. But if it keeps bleeding steadily, that's a problem. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
 
 **Controlling bleeding:**
 
@@ -248,3 +248,13 @@ Main problems to watch for: dry socket (severe pain day 3-4), infection (fever, 
 Pain is best controlled with NSAIDs like ibuprofen, not opioids. Bone naturally shrinks 4-6mm over the first 6 months—that's normal. If you're getting an implant, most dentists wait 3-6 months for best results.
 
 Follow your dentist's instructions carefully, go to all follow-up appointments, and tell your dentist immediately if anything feels wrong. Most people heal smoothly without complications.
+
+## Related Articles You May Find Helpful
+
+- [All-Ceramic Crowns: Metal-Free Restoration Solutions](/article/all-ceramic-crown-metal-free-restoration.html)
+- [Apex Sealing in Endodontics: Complete Root Canal Closure for Treatment Success](/article/apex-sealing-complete-root-canal-closure.html)
+- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
+
+
+> **Key Takeaway:** Understanding postoperative recovery protocols and timeline following oral surgery helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

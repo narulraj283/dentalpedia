@@ -25,11 +25,11 @@ references:
 
 ## Dental Injuries: Common and Preventable
 
-About 1 in 10 people hurt their teeth or mouth before age 18, often during sports or play. Front teeth get knocked out or broken way more often than back teeth. The good news? These injuries are preventable with mouthguards, and most teeth can be saved if you act fast.
+About 1 in 10 people hurt their teeth or mouth before age 18, often during sports or play. Front teeth get knocked out or broken way more often than back teeth. The good news? These injuries are preventable with mouthguards, and most teeth can be saved if you act fast. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
 
 Mouth injuries come in three types:
 
-**Hard tissue injuries** like chipped enamel or cracked teeth are less urgent—you can wait a few hours before seeing your dentist.
+**Hard tissue injuries** like chipped enamel or cracked teeth are less urgent—you can wait a few hours before seeing your dentist. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
 
 **Soft tissue injuries** like split lips or tongue cuts need immediate attention to stop bleeding and prevent infection.
 
@@ -123,3 +123,29 @@ Use a custom-fitted mouthguard—they reduce tooth injuries by 60-90% compared t
 ## In Summary
 
 Mouth injuries need fast action. A knocked-out tooth placed back in the socket within 15-60 minutes has 80-95% survival. Get it in cold milk immediately and get to your dentist fast. Once there, your dentist will splint it, give you antibiotics, and monitor it carefully. You'll need follow-up visits for 6-12 months, and a root canal is likely. With proper care, most injured teeth function fine for many years.
+
+## Related Articles You May Find Helpful
+
+- [All-Ceramic Crowns: Metal-Free Restoration Solutions](/article/all-ceramic-crown-metal-free-restoration.html)
+- [Apex Sealing in Endodontics: Complete Root Canal Closure for Treatment Success](/article/apex-sealing-complete-root-canal-closure.html)
+- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
+
+
+
+
+## Questions to Ask Your Dentist
+
+Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
+
+- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
+- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
+- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
+- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
+- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
+
+Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist will never pressure you into a decision.
+
+Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+
+> **Key Takeaway:** Understanding emergency management of oral and dental injuries helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

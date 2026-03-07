@@ -23,9 +23,9 @@ references:
 
 ## When Bone Grafting Is Necessary
 
-You need bone grafting if your jaw lacks adequate bone for safe implant placement. Safe implant placement requires at least 6 mm of bone width (side-to-side) and 10 mm of bone height (top-to-bottom), plus a safety margin. If imaging shows less bone than this in your desired implant location, grafting becomes necessary.
+You need bone grafting if your jaw lacks adequate bone for safe implant placement. Safe implant placement requires at least 6 mm of bone width (side-to-side) and 10 mm of bone height (top-to-bottom), plus a safety margin. If imaging shows less bone than this in your desired implant location, grafting becomes necessary. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
-About 40-60% of single-tooth implant patients need bone grafting. About 70-85% of people needing multiple implants need grafting in at least one location. Bone loss typically results from tooth loss (which triggers natural bone resorption), gum disease, injury, or rarely, medical conditions.
+About 40-60% of single-tooth implant patients need bone grafting. About 70-85% of people needing multiple implants need grafting in at least one location. Bone loss typically results from tooth loss (which triggers natural bone resorption), gum disease, injury, or rarely, medical conditions. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
 ## Who Is a Good Candidate for Bone Grafting?
 
@@ -105,6 +105,14 @@ Your surgeon takes new CT scans 4-8 weeks after grafting to assess bone gain and
 
 Simultaneous implant placement (grafting and implant the same day) is possible if you have at least 5-6 mm of remaining bone height. Advantage: single surgery saves 6-12 months. Disadvantage: more trauma in one surgery and slight higher infection risk. Most surgeons prefer staged approach (grafting first, then implants 6-12 months later) for extensive grafting because it's safer and produces better long-term results.
 
+
+
+## Related Articles You May Find Helpful
+
+- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+
 > **Key Takeaway:** Bone grafting expands implant candidacy, with 92-95% implant success rates when adequate dimensions are achieved and post-operative instructions are followed.
 
 ## Recovery After Your Surgery
@@ -133,12 +141,20 @@ Root injury to adjacent teeth is rare (<1%) with proper planning and technique.
 
 Sensory disturbance (temporary numbness) occurs in 1-3%, usually resolving within 2-12 weeks. Permanent numbness is extremely rare (<0.5%).
 
+
+
+## Related Articles You May Find Helpful
+
+- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+
 > **Key Takeaway:** Most patients heal uneventfully following bone grafting with careful post-operative care and antibiotic use.
 
 ## Related Articles
-- [Timeline from Bone Grafting to Implant Placement](/article/bone-graft-healing-timeline.html)
-- [Choosing Implant Materials: Autogenous vs. Processed Bone](/article/bone-graft-material-selection.html)
-- [Post-Operative Instructions After Bone Grafting](/article/bone-graft-recovery-instructions.html)
+- Timeline from Bone Grafting to Implant Placement
+- Choosing Implant Materials: Autogenous vs. Processed Bone
+- Post-Operative Instructions After Bone Grafting
 
 ## Material and Technique Considerations in Special Cases
 

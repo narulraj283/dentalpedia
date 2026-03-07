@@ -23,9 +23,9 @@ references:
 
 ## How Tartar Forms: The Bacterial Process
 
-Tartar (dental calculus) starts as bacterial plaque—slimy biofilm communities growing on your teeth. Biofilm forms within 4 hours of brushing and becomes fully established within 24-48 hours. Once it solidifies into tartar, brushing alone can't remove it; only professional scraping helps.
+Tartar (dental calculus) starts as bacterial plaque—slimy biofilm communities growing on your teeth. Biofilm forms within 4 hours of brushing and becomes fully established within 24-48 hours. Once it solidifies into tartar, brushing alone can't remove it; only professional scraping helps. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
 
-Tartar forms when your saliva's minerals (calcium and phosphate) harden the plaque. This happens over 48-72 hours and is permanent. Below the gumline, tartar forms from blood proteins rather than saliva. This subgingival tartar sticks harder and is more damaging—it harbors disease-causing bacteria. About 15-20% of people are heavy tartar formers (buildup in 2-4 weeks), 50-60% are normal formers (4-12 weeks), and 20-30% are light formers (rarely see tartar). This variation is mainly genetic and chemical, not behavioral.
+Tartar forms when your saliva's minerals (calcium and phosphate) harden the plaque. This happens over 48-72 hours and is permanent. Below the gumline, tartar forms from blood proteins rather than saliva. This subgingival tartar sticks harder and is more damaging—it harbors disease-causing bacteria. About 15-20% of people are heavy tartar formers (buildup in 2-4 weeks), 50-60% are normal formers (4-12 weeks), and 20-30% are light formers (rarely see tartar). This variation is mainly genetic and chemical, not behavioral. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
 
 ## Brushing: The Foundation of Prevention
 
@@ -149,8 +149,16 @@ If you have sensitivity to ultrasonic vibrations or discomfort, mention it. Your
 
 "Am I a heavy, normal, or light tartar former?" "Based on my formation rate, what's the ideal recall interval for me?" "Are there specific techniques I should use given my tooth anatomy or recession risk?" "What's the single most impactful thing I could change in my home care?" "Do I need any antimicrobial rinses or supplementary care?" "How should I know if gum disease is developing despite my efforts?"
 
+
+
+## Related Articles You May Find Helpful
+
+- [Acid Reflux and Tooth Erosion: GERD Management](/article/acid-reflux-and-tooth-erosion-gerd-management.html)
+- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
+- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+
 > **Key Takeaway:** Daily proper brushing and interdental cleaning, combined with appropriate professional recalls based on your tartar formation rate, effectively prevents tartar and maintains optimal gum health. Your specific formation tendency determines your optimal protocol—heavy formers benefit from intensive approaches, while others succeed with basic care.
 
 ---
 
-**Related articles:** [How to brush your teeth correctly](/article/brushing-technique-guide.html) | [Why flossing matters](/article/flossing-benefits-guide.html) | [Gum disease prevention basics](/article/gum-disease-prevention.html)
+**Related articles:** How to brush your teeth correctly | Why flossing matters | Gum disease prevention basics

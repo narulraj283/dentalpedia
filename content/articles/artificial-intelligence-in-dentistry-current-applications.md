@@ -21,11 +21,11 @@ references:
   - "Giger, M. L., Campbell, G.,Ehen, C., et al. (2020). AI, machine learning, and related techniques in medical imaging: impact on detection, diagnosis, and management of cancer. Semin Radiol Oncol. 29(4):407-416."
 ---
 
-Artificial intelligence is starting to change dentistry. Computer programs can now help find cavities, measure bone loss, plan implant surgery, and even spot oral cancer. These tools are helpful, but it's important to understand what they can and can't do—and that your dentist still makes the final decisions.
+Artificial intelligence is starting to change dentistry. Computer programs can now help find cavities, measure bone loss, plan implant surgery, and even spot oral cancer. These tools are helpful, but it's important to understand what they can and can't do—and that your dentist still makes the final decisions. For more details, see our guide on [Dental Technology Innovations 2025 - Clinical Applications and Impact](/article/dental-technology-innovations-2025.html).
 
 ## AI For Finding Cavities
 
-Computer programs can look at dental X-rays and spot cavities. Some of these systems have been approved by the FDA (the government agency that checks if medical tools are safe). These programs work by analyzing patterns in X-ray images that human eyes might miss. One system can catch cavities 88% of the time and correctly identify teeth without cavities 91% of the time.
+Computer programs can look at dental X-rays and spot cavities. Some of these systems have been approved by the FDA (the government agency that checks if medical tools are safe). These programs work by analyzing patterns in X-ray images that human eyes might miss. One system can catch cavities 88% of the time and correctly identify teeth without cavities 91% of the time. For more details, see our guide on [Digital Impression](/article/digital-impression-intraoral-scanning.html).
 
 Different types of cavities are easier or harder to find. Cavities on the chewing surfaces of teeth are caught about 90% of the time. Tiny cavities between teeth are only caught 75-82% of the time. The systems work pretty well overall—about as well as an average dentist.
 
@@ -82,3 +82,29 @@ AI tools cost anywhere from free to $5,000+ per year. Whether they're worth it d
 ## Summary
 
 AI in dentistry helps find cavities (88% sensitivity), measure bone loss precisely, speed up implant planning, and spot suspicious lesions. Some systems have FDA approval; others don't. These tools work best on the people and machines they were trained on, and performance drops for other groups. AI works best as a helper tool that your dentist uses, not as an independent decision-maker. Training data bias and limited understanding of liability are ongoing concerns. AI should improve diagnosis and efficiency, not replace your dentist's judgment and experience.
+
+## Related Articles You May Find Helpful
+
+- [Dental Technology Innovations 2025 - Clinical Applications and Impact](/article/dental-technology-innovations-2025.html)
+- [Digital Impression: Intraoral Scanning](/article/digital-impression-intraoral-scanning.html)
+- [Digital Impression Technology: No More Putty Trays](/article/digital-impression-technology-no-more-putty-trays.html)
+
+
+
+
+## Questions to Ask Your Dentist
+
+Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
+
+- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
+- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
+- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
+- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
+- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
+
+Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist will never pressure you into a decision.
+
+Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+
+> **Key Takeaway:** Understanding artificial intelligence in dentistry helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

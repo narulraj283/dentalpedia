@@ -21,11 +21,11 @@ references:
   - "Jaber, M. A. (2011). Dental caries experience, oral hygiene status and feeding practices in children with autism spectrum disorders. J Autism Dev Disord. 41(12):1614-1622."
 ---
 
-About 1 in 36 children has autism spectrum disorder (ASD), which means dentists are seeing more patients with ASD every year. Autistic patients experience dental care differently than other kids due to sensory sensitivities, difficulty with unexpected changes, and communication challenges. Kids with autism have 2-3 times more cavities than other kids, making dental care especially important—and adaptation is key. Understanding how autism affects dental experiences helps your dentist provide better care.
+About 1 in 36 children has autism spectrum disorder (ASD), which means dentists are seeing more patients with ASD every year. Autistic patients experience dental care differently than other kids due to sensory sensitivities, difficulty with unexpected changes, and communication challenges. Kids with autism have 2-3 times more cavities than other kids, making dental care especially important—and adaptation is key. Understanding how autism affects dental experiences helps your dentist provide better care. For more details, see our guide on [Adenoid and Tonsil Hypertrophy](/article/adenoid-and-tonsil-hypertrophy-airway-impact.html).
 
 ## How Autism Affects Sensory Processing
 
-People with autism process sensory information differently. Their brains are extra sensitive to some things and less sensitive to others. Dental offices are sensory overload zones: bright lights, beeping machines, weird smells and tastes, vibrations, unfamiliar people, and strange instruments in the mouth. About 78% of autistic kids have heightened sensory sensitivity in the mouth area, making dental visits genuinely uncomfortable.
+People with autism process sensory information differently. Their brains are extra sensitive to some things and less sensitive to others. Dental offices are sensory overload zones: bright lights, beeping machines, weird smells and tastes, vibrations, unfamiliar people, and strange instruments in the mouth. About 78% of autistic kids have heightened sensory sensitivity in the mouth area, making dental visits genuinely uncomfortable. For more details, see our guide on [Ankyloglossia and Speech Effects](/article/ankyloglossia-speech-effects-articulation-problems.html).
 
 Specific sensory problems include: 65% sensitive to bright lights, 72% bothered by instrument sounds, and 58% having difficulty with body position sense. Some kids experience multiple sensory issues at the same time, creating an overwhelming situation that's hard for them to manage even if they're trying their best to cooperate.
 
@@ -113,3 +113,13 @@ Forward-thinking dental offices create autism-friendly accommodations: reduced w
 ## Summary
 
 Autism spectrum disorder affects about 1 in 36 children and creates unique dental care challenges due to sensory processing differences, behavioral factors, and communication difficulties. Autistic kids have 2-3 times more cavities than other kids. Tell-Show-Do-Feel behavioral guidance, visual schedules, desensitization visits, and sensory adaptations (dimmed lighting, noise-canceling headphones, weighted blankets, flavored gloves) enable successful dental care. Oral midazolam or general anesthesia is appropriate when behavioral approaches are insufficient. Early preventive intervention including fluoride varnish and dietary counseling reduces cavity development by 40%. Caregiver training and patient-centered communication respect autonomy while improving compliance and treatment outcomes. Regular preventive visits every 3-4 months help catch problems early.
+
+## Related Articles You May Find Helpful
+
+- [Adenoid and Tonsil Hypertrophy: Airway Impact](/article/adenoid-and-tonsil-hypertrophy-airway-impact.html)
+- [Ankyloglossia and Speech Effects: Understanding Tongue-Tie Articulation Problems](/article/ankyloglossia-speech-effects-articulation-problems.html)
+- [Baby Bottle Tooth Decay: Prevention Strategies](/article/baby-bottle-tooth-decay-prevention-strategies.html)
+
+
+> **Key Takeaway:** Understanding autism and dental anxiety helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

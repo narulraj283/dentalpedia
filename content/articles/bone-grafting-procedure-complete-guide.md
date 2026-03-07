@@ -23,9 +23,9 @@ references:
 
 ## Types of Bone Grafting Procedures
 
-Different bone deficiencies require different approaches. Localized horizontal ridge augmentation (ridge too narrow, but tall enough) typically uses block bone grafts or membrane-protected particulate grafts.
+Different bone deficiencies require different approaches. Localized horizontal ridge augmentation (ridge too narrow, but tall enough) typically uses block bone grafts or membrane-protected particulate grafts. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
-Localized vertical ridge augmentation (ridge too short but wide enough) uses block bone grafts with membrane support, sometimes with distraction osteogenesis for extensive height loss.
+Localized vertical ridge augmentation (ridge too short but wide enough) uses block bone grafts with membrane support, sometimes with distraction osteogenesis for extensive height loss. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
 Sinus floor elevation addresses a uniquely posterior maxillary problem where the sinus cavity has expanded into the bone where implants would go. Special technique elevates the sinus membrane and allows bone grafting beneath it.
 
@@ -137,12 +137,20 @@ Temporary numbness occurs in 1-3%, usually resolving in 2-12 weeks. Permanent nu
 
 Sinus perforation (during sinus elevation): occurs 5-10%. Small perforations (<5 mm) often heal with conservative management. Larger ones benefit from closure with collagen membrane.
 
+
+
+## Related Articles You May Find Helpful
+
+- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+
 > **Key Takeaway:** Bone grafting success depends on adequate material placement, careful surgical technique, protected healing, and patient compliance with post-operative instructions—resulting in 92-95% implant success rates.
 
 ## Related Articles
-- [Implants After Bone Grafting: What to Expect](/article/implant-placement-post-grafting.html)
-- [Recovery Timeline: From Grafting to Final Crown](/article/bone-graft-implant-timeline.html)
-- [Cost Considerations for Bone Grafting](/article/bone-graft-cost-insurance-coverage.html)
+- Implants After Bone Grafting: What to Expect
+- Recovery Timeline: From Grafting to Final Crown
+- Cost Considerations for Bone Grafting
 
 ## Summary
 

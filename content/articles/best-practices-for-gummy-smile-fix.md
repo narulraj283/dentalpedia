@@ -23,11 +23,11 @@ references:
   - "Dym CL, Kerrick JM. Esthetic Dentistry: Crown Lengthening Without an Apical Reposition. J Prosthet Dent. 2021;71(3):198-203."
 ---
 
-If you've always felt self-conscious about showing too much gum when you smile, you're not alone. About one in four people feel the same way. A "gummy smile" (excessive gingival display) happens for different reasons, and fortunately, there are several ways to fix it. The best solution depends on why your smile looks the way it does.
+If you've always felt self-conscious about showing too much gum when you smile, you're not alone. About one in four people feel the same way. A "gummy smile" (excessive gingival display) happens for different reasons, and fortunately, there are several ways to fix it. The best solution depends on why your smile looks the way it does. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
 
 ## Why Does Your Smile Look Gummy?
 
-The first step is figuring out what's causing your gummy smile, because different causes need different solutions.
+The first step is figuring out what's causing your gummy smile, because different causes need different solutions. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
 
 **Hyperactive lip muscles** represent the most common cause (about 40-50% of cases). Your teeth and gums are probably normal, but your upper lip muscles are extra active when you smile. When you're resting, your smile looks perfectly normal. But when you smile big, your lip rises too much, showing lots of gum. This is easily addressed with a non-surgical approach.
 
@@ -118,3 +118,13 @@ Cost varies significantly. Botulinum toxin is less expensive upfront but require
 ## Bottom Line
 
 A gummy smile doesn't have to stay a gummy smile. Multiple treatment options exist, ranging from reversible (botulinum toxin) to permanent (surgery). The key is accurate diagnosis of the underlying cause, then selecting the treatment matching your preferences and commitment level. Most people achieve excellent results with modern gummy smile treatments and report significantly increased confidence in their smile.
+
+## Related Articles You May Find Helpful
+
+- [Adhesive Dentistry Cosmetics: Bonded Restorations Without Cutting](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html)
+- [All-Ceramic Veneers: Ultra-Thin Cosmetic Shells](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html)
+- [Anterior Guidance: How Incisor Position Controls Bite Mechanics](/article/anterior-guidance-incisor-controlling-bite.html)
+
+
+> **Key Takeaway:** Understanding comprehensive management of excessive gingival display and smile esthetics helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

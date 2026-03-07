@@ -23,11 +23,11 @@ references:
 
 # Preventing Cavities: The Practical Guide to Keeping Teeth Healthy
 
-Cavities are completely preventable. That might sound wild because so many people get them, but it's true. The cost difference is huge: prevention costs about $50-150 per year while treating cavities costs $150-500 per cavity. If you need a root canal because a cavity got infected, that's $500-2,000. Getting an implant to replace a tooth lost to decay costs $3,000-6,000. Prevention is way cheaper and way easier than treatment. Here's what actually works.
+Cavities are completely preventable. That might sound wild because so many people get them, but it's true. The cost difference is huge: prevention costs about $50-150 per year while treating cavities costs $150-500 per cavity. If you need a root canal because a cavity got infected, that's $500-2,000. Getting an implant to replace a tooth lost to decay costs $3,000-6,000. Prevention is way cheaper and way easier than treatment. Here's what actually works. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
 
 ## Stop Cavities Before They Start
 
-The best cavity prevention is fluoride. It works so well that decades of research consistently shows 20-40% fewer cavities in people who use fluoride regularly. The best part? It's inexpensive and simple.
+The best cavity prevention is fluoride. It works so well that decades of research consistently shows 20-40% fewer cavities in people who use fluoride regularly. The best part? It's inexpensive and simple. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
 
 Fluoride in your toothpaste is your first line of defense. Brush twice daily with regular fluoride toothpaste (1,450 parts per million). Kids under 3 should use non-fluoride or low-fluoride toothpaste, kids 3-6 should use pea-sized amounts of regular fluoride toothpaste, and kids 6+ can use standard fluoride. If your family has high cavity risk, your dentist can prescribe high-fluoride toothpaste (5,000 ppm) for 15-20% additional cavity prevention.
 
@@ -188,3 +188,13 @@ Clinical adoption of comprehensive prevention—tailored by individual risk asse
 9. Brickhouse TH, Unkel JH, Kancherla V, et al. Baseline results from the Partnership to Improve Oral Health Outcomes (PIOH). J Public Health Dent. 2008;68(1):26-33.
 
 10. Weyant RJ, Vestergaard TH, McGaghie WC, et al. Pit and fissure sealants as a model for evidence-based clinical practice. J Dent Educ. 2002;66(10):1151-1159.
+
+## Related Articles You May Find Helpful
+
+- [Acid Reflux and Tooth Erosion: GERD Management](/article/acid-reflux-and-tooth-erosion-gerd-management.html)
+- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
+- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+
+
+> **Key Takeaway:** Understanding comprehensive caries prevention strategy - evidence-based primary and secondary prevention helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

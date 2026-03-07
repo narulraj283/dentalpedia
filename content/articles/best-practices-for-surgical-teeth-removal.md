@@ -23,9 +23,9 @@ references:
 
 ## Before Surgery: What Your Dentist Needs to Know
 
-Before extracting any tooth, your dentist reviews your complete health history. Certain medications matter—if you take blood thinners like warfarin, they need to know, though you usually don't stop them since local measures control bleeding. Bone-strengthening medications (bisphosphonates) increase a rare complication risk, so special extraction protocols apply—antibiotic coverage, gentle bone handling, and careful closure.
+Before extracting any tooth, your dentist reviews your complete health history. Certain medications matter—if you take blood thinners like warfarin, they need to know, though you usually don't stop them since local measures control bleeding. Bone-strengthening medications (bisphosphonates) increase a rare complication risk, so special extraction protocols apply—antibiotic coverage, gentle bone handling, and careful closure. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
-Your dentist takes X-rays to see tooth structure and root shape. Panoramic X-rays show the overall picture and where important nerves run. For complex cases, they might order 3D imaging (CBCT) to pinpoint exactly where nerves and blood vessels are located. This planning prevents complications.
+Your dentist takes X-rays to see tooth structure and root shape. Panoramic X-rays show the overall picture and where important nerves run. For complex cases, they might order 3D imaging (CBCT) to pinpoint exactly where nerves and blood vessels are located. This planning prevents complications. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
 Your dentist also assesses how difficult your extraction will be. Simple extractions of healthy but damaged teeth take 2-5 minutes. Moderately complex cases (impacted teeth, curved roots, dense bone) take 10-20 minutes. Deeply impacted teeth with nearby nerves or previous failed removal attempts might require 30-60+ minutes or specialist referral.
 
@@ -119,8 +119,16 @@ Don't peek at the socket or touch it with your tongue. I know it's tempting—mo
 
 Your pain should be manageable with ibuprofen and acetaminophen. If pain worsens on days 3-5 instead of improving, contact immediately—this suggests dry socket requiring intervention. Normal pain gradually decreases day by day.
 
+
+
+## Related Articles You May Find Helpful
+
+- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+
 > **Key Takeaway:** Careful planning, gentle extraction technique, and proper postoperative care lead to fast healing and successful outcomes. Asking the right questions and understanding realistic expectations reduce anxiety and improve your compliance with healing protocols.
 
 ---
 
-**Related articles:** [What to expect on extraction day](/article/extraction-day-guide.html) | [Recovery timeline after tooth removal](/article/extraction-recovery-timeline.html) | [Wisdom tooth extraction: special considerations](/article/wisdom-teeth-extraction.html)
+**Related articles:** What to expect on extraction day | Recovery timeline after tooth removal | Wisdom tooth extraction: special considerations

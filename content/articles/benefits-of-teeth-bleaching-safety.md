@@ -25,9 +25,9 @@ references:
 
 ## Is Teeth Whitening Safe?
 
-Teeth whitening is super popular and most people want a brighter smile. Over-the-counter whitening products are everywhere. But is whitening safe? The answer is yes—professional whitening with proper precautions is safe. Evidence shows minimal risk when done right. But understanding how whitening works, what the regulations say, what side effects can happen, and who shouldn't whiten helps you make smart choices.
+Teeth whitening is super popular and most people want a brighter smile. Over-the-counter whitening products are everywhere. But is whitening safe? The answer is yes—professional whitening with proper precautions is safe. Evidence shows minimal risk when done right. But understanding how whitening works, what the regulations say, what side effects can happen, and who shouldn't whiten helps you make smart choices. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
 
-The balance is between making teeth lighter (what you want) and avoiding problems (sensitivity, irritation, damage). Modern whitening products and protocols achieve this balance by using strong-enough concentrations with proper precautions.
+The balance is between making teeth lighter (what you want) and avoiding problems (sensitivity, irritation, damage). Modern whitening products and protocols achieve this balance by using strong-enough concentrations with proper precautions. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
 
 ## How Whitening Works
 
@@ -178,3 +178,13 @@ Professional in-office is fastest and most reliable. Professional at-home is goo
 ## Summary: Is Whitening Safe?
 
 Yes, whitening is safe when done properly. Follow regulatory guidelines (10% carbamide peroxide for home use, professional supervision for stronger). Most common side effects (sensitivity in 55-75%, gum irritation in 25-40%) are temporary and manageable. Enamel changes are temporary and reversible. Tooth nerves show only temporary inflammation with standard protocols. Don't whiten if pregnant, under 16, have active cavities, poor hygiene, or tetracycline staining. Professional in-office whitening works in 1-2 hours. At-home kits take 7-14 nights. You'll need retreatment every 6-24 months as color gradually returns. Understanding realistic expectations, maintenance, and temporary side effects helps you get good results and stay satisfied.
+
+## Related Articles You May Find Helpful
+
+- [Adhesive Dentistry Cosmetics: Bonded Restorations Without Cutting](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html)
+- [All-Ceramic Veneers: Ultra-Thin Cosmetic Shells](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html)
+- [Anterior Guidance: How Incisor Position Controls Bite Mechanics](/article/anterior-guidance-incisor-controlling-bite.html)
+
+
+> **Key Takeaway:** Understanding teeth whitening safety helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

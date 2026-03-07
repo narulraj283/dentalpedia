@@ -23,9 +23,9 @@ references:
 
 ## Why Biting Your Cheek or Tongue Happens
 
-It's embarrassing and painful, but it's also incredibly common. You accidentally bite your cheek while chewing, your mouth feels numb after a dental injection, or you're eating fast and just catch the inside of your mouth. Usually it's a minor injury, but knowing what to do—and when you need professional help—makes a big difference in how quickly it heals.
+It's embarrassing and painful, but it's also incredibly common. You accidentally bite your cheek while chewing, your mouth feels numb after a dental injection, or you're eating fast and just catch the inside of your mouth. Usually it's a minor injury, but knowing what to do—and when you need professional help—makes a big difference in how quickly it heals. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
 
-About 15-20% of people accidentally bite their cheek or tongue right after getting a dental numbing injection, when their mouth feels thick and they can't feel where their teeth are. The good news? Your mouth heals unusually fast because of its rich blood supply and special properties of saliva.
+About 15-20% of people accidentally bite their cheek or tongue right after getting a dental numbing injection, when their mouth feels thick and they can't feel where their teeth are. The good news? Your mouth heals unusually fast because of its rich blood supply and special properties of saliva. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
 
 ## Understanding Your Injury: Healing Happens Quickly
 
@@ -155,5 +155,13 @@ The one exception: lip lacerations that cross the visible red border need carefu
 **Weeks 2-3:** Deep cuts finish healing. Most people feel completely normal.
 
 **Weeks 4+:** Any remaining tenderness fades. Tissues continue remodeling.
+
+
+
+## Related Articles You May Find Helpful
+
+- [All-Ceramic Crowns: Metal-Free Restoration Solutions](/article/all-ceramic-crown-metal-free-restoration.html)
+- [Apex Sealing in Endodontics: Complete Root Canal Closure for Treatment Success](/article/apex-sealing-complete-root-canal-closure.html)
+- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
 
 > **Key Takeaway:** Most accidental cheek and tongue bites heal beautifully on their own with simple pressure, gentle rinsing, and protective eating habits—but you should see a dentist if bleeding lasts over 30 minutes, the wound is very long or jagged, or you notice signs of infection.

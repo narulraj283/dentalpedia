@@ -21,11 +21,11 @@ references:
   - "Teughels, W., Quirynen, M., Hasten, A., et al. (2006). Is the use of chlorhexidine advisable after scaling and root planing? J Clin Periodontol. 33(2):100-113."
 ---
 
-When your hygienist cleans under your gums to remove buildup, they often use special tools called Gracey curettes. These instruments are different from regular scalers because each one is designed for a specific tooth area. Learning how they work helps you understand better what's happening during your deep cleaning and why your hygienist chooses particular instruments for different parts of your mouth.
+When your hygienist cleans under your gums to remove buildup, they often use special tools called Gracey curettes. These instruments are different from regular scalers because each one is designed for a specific tooth area. Learning how they work helps you understand better what's happening during your deep cleaning and why your hygienist chooses particular instruments for different parts of your mouth. For more details, see our guide on [Aggressive Periodontitis](/article/aggressive-periodontitis-early-onset-gum-disease.html).
 
 ## How Gracey Instruments Are Designed
 
-Gracey curettes are clever tools developed specifically to standardize instrument application and improve clinical outcomes. Each instrument has an angled blade that's already set at the perfect angle—you can't change it. Most general-purpose curettes have two sharp edges you can use, but Gracey instruments have just one cutting edge. The magic is in the tip: only the last small portion of the blade (about 1-2 millimeters) actually cuts. The very end is rounded and doesn't cut at all, which prevents the hygienist from removing too much of your tooth or exposing sensitive areas.
+Gracey curettes are clever tools developed specifically to standardize instrument application and improve clinical outcomes. Each instrument has an angled blade that's already set at the perfect angle—you can't change it. Most general-purpose curettes have two sharp edges you can use, but Gracey instruments have just one cutting edge. The magic is in the tip: only the last small portion of the blade (about 1-2 millimeters) actually cuts. The very end is rounded and doesn't cut at all, which prevents the hygienist from removing too much of your tooth or exposing sensitive areas. For more details, see our guide on [Aggressive vs Chronic](/article/aggressive-vs-chronic-disease-progression-rate.html).
 
 The blade angle is permanently set at 70 degrees to the handle, which is perfect for the specific area that instrument is made for. When the handle is held properly, the blade automatically sits at exactly the right angle to clean your tooth without the hygienist having to calculate or adjust the angle. This built-in specificity means consistency—whether it's a new hygienist or an experienced one, the instrument works the same way because the angle is mechanical, not dependent on technique alone.
 
@@ -82,3 +82,13 @@ The goal of scaling and root planing isn't just removing visible tartar—it's c
 ## Summary
 
 Gracey curettes are specialized instruments where each tool is designed for specific tooth areas, with the blade angle already built in for consistency. Only the tip of the blade cuts—about 1-2 millimeters. This design reduces technique errors and produces consistent, high-quality results across different clinicians. Combined with ultrasonic scaling and proper technique, Gracey instruments effectively remove calculus while preserving your tooth structure. Regular sharpening keeps them working well and comfortable for you. Research and professional recommendations support hand instrumentation combined with ultrasonic tools as the evidence-based approach for professional cleanings. Understanding these techniques helps you appreciate the care your hygienist provides and the science behind each step of your cleaning visit.
+
+## Related Articles You May Find Helpful
+
+- [Aggressive Periodontitis: Early-Onset Gum Disease](/article/aggressive-periodontitis-early-onset-gum-disease.html)
+- [Aggressive vs Chronic: Disease Progression Rate](/article/aggressive-vs-chronic-disease-progression-rate.html)
+- [Alcohol and Periodontitis: Increased Risk](/article/alcohol-and-periodontitis-increased-risk.html)
+
+
+> **Key Takeaway:** Understanding area-specific curettes helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

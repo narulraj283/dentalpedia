@@ -24,9 +24,9 @@ references:
 
 ## Why This Simple Test Matters
 
-When your dentist gently probes around your teeth with a thin instrument and your gums bleed, that's called bleeding on probing (BOP). This test is one of the most valuable diagnostic tools in dentistry because it's incredibly accurate at detecting gum inflammation. If your gums bleed during gentle probing, there's a 96% chance that inflammation is present. If they don't bleed, there's a 96% chance your gums are actually healthy.
+When your dentist gently probes around your teeth with a thin instrument and your gums bleed, that's called bleeding on probing (BOP). This test is one of the most valuable diagnostic tools in dentistry because it's incredibly accurate at detecting gum inflammation. If your gums bleed during gentle probing, there's a 96% chance that inflammation is present. If they don't bleed, there's a 96% chance your gums are actually healthy. For more details, see our guide on [Aggressive Periodontitis](/article/aggressive-periodontitis-early-onset-gum-disease.html).
 
-Here's why this happens: when your gums are inflamed, the tissue becomes friable (easily damaged) because of swelling and inflammatory cells infiltrating the tissue. The delicate lining of your gum pocket gets thinner and more fragile. Gentle pressure from the probe creates tiny ruptures in these fragile tissues, causing bleeding. Healthy gum tissue is tough enough to withstand this gentle pressure without bleeding.
+Here's why this happens: when your gums are inflamed, the tissue becomes friable (easily damaged) because of swelling and inflammatory cells infiltrating the tissue. The delicate lining of your gum pocket gets thinner and more fragile. Gentle pressure from the probe creates tiny ruptures in these fragile tissues, causing bleeding. Healthy gum tissue is tough enough to withstand this gentle pressure without bleeding. For more details, see our guide on [Aggressive vs Chronic](/article/aggressive-vs-chronic-disease-progression-rate.html).
 
 ## Individual Responses Vary
 
@@ -74,12 +74,20 @@ In moderate periodontitis, you'll see 40-70% of sites bleeding with deeper pocke
 
 In severe periodontitis, baseline bleeding exceeds 70%. It takes longer to resolve—typically 40-60% of initially bleeding sites improve within eight weeks, but 20-30% may persist, potentially needing surgical intervention or topical antimicrobial therapy.
 
+
+
+## Related Articles You May Find Helpful
+
+- [Aggressive Periodontitis: Early-Onset Gum Disease](/article/aggressive-periodontitis-early-onset-gum-disease.html)
+- [Aggressive vs Chronic: Disease Progression Rate](/article/aggressive-vs-chronic-disease-progression-rate.html)
+- [Alcohol and Periodontitis: Increased Risk](/article/alcohol-and-periodontitis-increased-risk.html)
+
 > **Key Takeaway:** Bleeding on probing is your dentist's most reliable early warning sign of gum inflammation—when caught and treated early, it's usually completely reversible.
 
 ## Related Articles
-- [Gum Disease Stages and Severity Explained](/article/periodontitis-classification-stages.html)
-- [Why Your Hygienist Takes Measurements During Cleaning](/article/probing-depth-measurement-explained.html)
-- [Professional Cleaning Can Stop Bleeding Gums](/article/scaling-root-planing-results.html)
+- Gum Disease Stages and Severity Explained
+- Why Your Hygienist Takes Measurements During Cleaning
+- Professional Cleaning Can Stop Bleeding Gums
 
 ## BOP in Specific Periodontal Diagnoses
 

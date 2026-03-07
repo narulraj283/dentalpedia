@@ -1,5 +1,5 @@
 ---
-title: Best Practices for Cosmetic Smile Design
+title: "Understanding Cosmetic Smile Design — A Patient Guide"
 slug: best-practices-for-cosmetic-smile-design
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
@@ -25,11 +25,11 @@ references:
 
 ## Why Smile Design Is Your Secret Weapon
 
-Great smiles don't happen by accident. There's actual science behind what makes a smile look naturally beautiful, symmetrical, and balanced. Whether you're fixing a single chipped tooth or completely transforming your look, smile design helps you and your dentist get on the same page before any work starts. Let's break down the key elements that make smiles work.
+Great smiles don't happen by accident. There's actual science behind what makes a smile look naturally beautiful, symmetrical, and balanced. Whether you're fixing a single chipped tooth or completely transforming your look, smile design helps you and your dentist get on the same page before any work starts. Let's break down the key elements that make smiles work. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
 
 ## How Much Gum Should Show?
 
-This is question number one. When you smile big, how much of that pink gum shows above your top front teeth? Research shows that 0-2 millimeters of gum display looks attractive to almost everyone. Anything more than that starts looking like a "gummy smile" to most people, though some folks are okay with a little more.
+This is question number one. When you smile big, how much of that pink gum shows above your top front teeth? Research shows that 0-2 millimeters of gum display looks attractive to almost everyone. Anything more than that starts looking like a "gummy smile" to most people, though some folks are okay with a little more. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
 
 The cool thing is that people are way more forgiving about other stuff if your gum line is in the right ballpark. A person might have slightly crooked teeth or unusual proportions, but if their gum display is balanced, they still look great.
 
@@ -98,3 +98,13 @@ Before any cosmetic work starts, good dentists take photos showing your current 
 The best cosmetic outcomes come from dentists who spend real time planning before they pick up instruments. Digital smile design, face-to-tooth analysis, understanding proportions and color—this isn't fluffy stuff. It's the foundation of beautiful, natural-looking results.
 
 When you're considering cosmetic dentistry, ask your dentist if they use digital smile design. Ask to see before-and-after examples. Make sure they're really thinking about YOUR smile and YOUR face, not just following a template. That conversation upfront pays off enormously in how happy you'll be with your result.
+
+## Related Articles You May Find Helpful
+
+- [Adhesive Dentistry Cosmetics: Bonded Restorations Without Cutting](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html)
+- [All-Ceramic Veneers: Ultra-Thin Cosmetic Shells](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html)
+- [Anterior Guidance: How Incisor Position Controls Bite Mechanics](/article/anterior-guidance-incisor-controlling-bite.html)
+
+
+> **Key Takeaway:** Understanding understanding cosmetic smile design — a patient guide helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

@@ -23,9 +23,9 @@ references:
 
 ## Types of Bite Problems
 
-Dentists classify bite problems using a system that's been around for over a century. Class I is normal — your back teeth bite together correctly, even if your front teeth are crowded. Class II (about 20% of people) means your upper jaw is too far forward or your lower jaw is too far back, creating an overjet (your upper front teeth stick way out). Class III (about 10% of people) is the opposite — your lower jaw is too far forward, creating an underbite where lower teeth stick past upper teeth.
+Dentists classify bite problems using a system that's been around for over a century. Class I is normal — your back teeth bite together correctly, even if your front teeth are crowded. Class II (about 20% of people) means your upper jaw is too far forward or your lower jaw is too far back, creating an overjet (your upper front teeth stick way out). Class III (about 10% of people) is the opposite — your lower jaw is too far forward, creating an underbite where lower teeth stick past upper teeth. For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
 
-Most Class I problems involve crowded front teeth (missing 5-12 millimeters of space). Treatment focuses on creating space through expansion, extractions, or moving teeth slightly forward — usually takes 18-24 months. Class II problems come in two flavors: anterior protrusive (upper teeth flare forward) or anterior retracted (upper teeth are straight but deeply overlapped). Treatment varies from non-surgical braces (24-30 months) to special growth-modifying appliances for young patients to surgical correction for severe cases.
+Most Class I problems involve crowded front teeth (missing 5-12 millimeters of space). Treatment focuses on creating space through expansion, extractions, or moving teeth slightly forward — usually takes 18-24 months. Class II problems come in two flavors: anterior protrusive (upper teeth flare forward) or anterior retracted (upper teeth are straight but deeply overlapped). Treatment varies from non-surgical braces (24-30 months) to special growth-modifying appliances for young patients to surgical correction for severe cases. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
 
 Class III problems (underbites) range from mild (teeth just barely crossed) to severe (requiring surgery). Young patients with mild underbites might benefit from growth-modifying appliances that encourage forward upper jaw growth and backward lower jaw growth. Adults with underbites either accept dental compensation (carefully positioning teeth to look better while underlying skeletal problem remains) or choose surgery to actually fix the underlying jaw relationship.
 
@@ -81,6 +81,14 @@ Excessive force (over 150 grams on front teeth) significantly increases root res
 
 Teeth move through bone, which remodels permanently. Very rarely (less than 1%), teeth can become ankylosed (fused to bone) preventing movement. This is unpredictable and unpreventable with current knowledge.
 
-> **Key Takeaway:** Successful bite correction requires choosing appropriate treatment (braces vs. aligners based on severity), maintaining excellent compliance, and committing to lifelong retention to prevent relapse. Related articles: [Orthodontia for Adults: Never Too Late](/article/adult-orthodontics.html), [Understanding Bite Relapse and Retention](/article/orthodontic-retention.html), [Caring for Your Teeth During Braces](/article/braces-oral-hygiene.html)
+
+
+## Related Articles You May Find Helpful
+
+- [Accelerated Orthodontia: Fast-Track Braces](/article/accelerated-orthodontia-fast-track-braces.html)
+- [Accelerated Orthodontics: Speeding Up Your Treatment](/article/accelerated-orthodontics-speeding-up-your-treatment.html)
+- [Adult Braces Options: Complete Guide](/article/adult-braces-options-complete-guide.html)
+
+> **Key Takeaway:** Successful bite correction requires choosing appropriate treatment (braces vs. aligners based on severity), maintaining excellent compliance, and committing to lifelong retention to prevent relapse. Related articles: Orthodontia for Adults: Never Too Late, Understanding Bite Relapse and Retention, Caring for Your Teeth During Braces
 
 ---

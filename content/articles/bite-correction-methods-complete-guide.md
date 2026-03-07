@@ -23,9 +23,9 @@ references:
 
 ## Understanding Your Bite and Skeletal Pattern
 
-Before jumping into treatment, your orthodontist needs to understand exactly what's going on with your bite. The main relationships they assess are: 1) how your back molars fit together (the ideal is called Class I, where the upper back tooth overlaps the lower back tooth in a specific way), 2) how much your upper front teeth overlap your lower front teeth both vertically (overbite, ideal 2-3 millimeters) and horizontally (overjet, ideal 2-3 millimeters), and 3) how your left and right sides align (should be symmetrical, with upper teeth biting slightly outside the lower teeth).
+Before jumping into treatment, your orthodontist needs to understand exactly what's going on with your bite. The main relationships they assess are: 1) how your back molars fit together (the ideal is called Class I, where the upper back tooth overlaps the lower back tooth in a specific way), 2) how much your upper front teeth overlap your lower front teeth both vertically (overbite, ideal 2-3 millimeters) and horizontally (overjet, ideal 2-3 millimeters), and 3) how your left and right sides align (should be symmetrical, with upper teeth biting slightly outside the lower teeth). For more details, see our guide on [Accelerated Orthodontia](/article/accelerated-orthodontia-fast-track-braces.html).
 
-X-rays and three-dimensional scans measure the underlying skeletal relationships. Your orthodontist uses angles on these images (like SNA and SNB angles) that essentially measure whether your jaws are positioned normally, too far forward, too far back, or at an angle. These skeletal measurements determine whether you can fix your bite with braces alone or whether you might need jaw surgery later.
+X-rays and three-dimensional scans measure the underlying skeletal relationships. Your orthodontist uses angles on these images (like SNA and SNB angles) that essentially measure whether your jaws are positioned normally, too far forward, too far back, or at an angle. These skeletal measurements determine whether you can fix your bite with braces alone or whether you might need jaw surgery later. For more details, see our guide on [Accelerated Orthodontics](/article/accelerated-orthodontics-speeding-up-your-treatment.html).
 
 Before your orthodontist even places braces, they check your gum and periodontal health. Active gum disease during orthodontic treatment causes 60-80% more bone loss compared to treatment when gums are healthy. If you have gum problems, they get treated first. Your orthodontist wants your gum health score below 10% plaque accumulation before beginning.
 
@@ -91,6 +91,14 @@ Vibration devices (like Acceledent) apply gentle daily vibrations to theoretical
 
 The reality: modern conventional braces with good compliance already move teeth very efficiently — technology improvements are incremental, not revolutionary. Your orthodontist's expertise, your compliance, and your mouth's biology matter far more than fancy gadgets.
 
-> **Key Takeaway:** Bite correction combines diagnosis, appropriate mechanics (braces or aligners), and comprehensive retention to achieve lasting results, with treatment typically requiring 18-28 months and lifelong retention. Related articles: [Are Your Teeth Crowded? Treatment Options](/article/crowded-teeth-solutions.html), [Understanding Open Bite and Treatment](/article/open-bite-correction.html), [Choosing Between Braces and Clear Aligners](/article/braces-vs-aligners.html)
+
+
+## Related Articles You May Find Helpful
+
+- [Accelerated Orthodontia: Fast-Track Braces](/article/accelerated-orthodontia-fast-track-braces.html)
+- [Accelerated Orthodontics: Speeding Up Your Treatment](/article/accelerated-orthodontics-speeding-up-your-treatment.html)
+- [Adult Braces Options: Complete Guide](/article/adult-braces-options-complete-guide.html)
+
+> **Key Takeaway:** Bite correction combines diagnosis, appropriate mechanics (braces or aligners), and comprehensive retention to achieve lasting results, with treatment typically requiring 18-28 months and lifelong retention. Related articles: Are Your Teeth Crowded? Treatment Options, Understanding Open Bite and Treatment, Choosing Between Braces and Clear Aligners
 
 ---

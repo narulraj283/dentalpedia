@@ -23,9 +23,9 @@ references:
 
 ## Dental Anxiety Gets Harder with Age
 
-About 1 in 10 to 1 in 5 older adults feel anxious about dental visits. This is the same percentage as younger people, but older patients have extra challenges. As your body ages, medicines work differently. You might be taking many medications that could interact with sedation. These differences mean your dentist needs to be extra careful when helping you feel calm.
+About 1 in 10 to 1 in 5 older adults feel anxious about dental visits. This is the same percentage as younger people, but older patients have extra challenges. As your body ages, medicines work differently. You might be taking many medications that could interact with sedation. These differences mean your dentist needs to be extra careful when helping you feel calm. For more details, see our guide on [Conscious Sedation in Dentistry](/article/conscious-sedation-twilight-sleep-benefits.html).
 
-Many older adults avoid the dentist because of anxiety. This is unfortunate because regular dental care becomes even more important as you age. Missing teeth, gum disease, and tooth decay affect your ability to eat, talk clearly, and feel confident.
+Many older adults avoid the dentist because of anxiety. This is unfortunate because regular dental care becomes even more important as you age. Missing teeth, gum disease, and tooth decay affect your ability to eat, talk clearly, and feel confident. For more details, see our guide on [When Your Child Screams at the Dentist](/article/dental-anxiety-in-children-overcoming-fear.html).
 
 ## How Your Body Processes Medicine Differently
 
@@ -150,3 +150,13 @@ Dental anxiety in older adults requires special care because medicine works diff
 Non-drug methods should be first choice: tell-show-do, gradual exposure, comfortable environment, possibly CBT. Nitrous oxide works wonderfully for many older patients. When medicine is absolutely needed, doses must be half or less of what younger patients take, with careful observation.
 
 Honest communication with your dentist about your anxiety, medications, and health conditions allows safe treatment planning. You deserve dental care that keeps you healthy. With thoughtful anxiety management, that care can be calm, safe, and effective.
+
+## Related Articles You May Find Helpful
+
+- [Conscious Sedation in Dentistry: Pharmacology, Safety Protocols, and Clinical Application for Anxiety Management](/article/conscious-sedation-twilight-sleep-benefits.html)
+- [When Your Child Screams at the Dentist: It's Not Your Fault — And There's Help](/article/dental-anxiety-in-children-overcoming-fear.html)
+- [Dental Anxiety Origins: Childhood Trauma and Long-Term Psychological Impact](/article/dental-anxiety-origins-childhood-trauma.html)
+
+
+> **Key Takeaway:** Understanding anxiety management in elderly patients helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

@@ -25,9 +25,9 @@ references:
 
 ## Why B Vitamins Matter for Your Mouth
 
-B vitamins are a group of eight different nutrients your body needs to keep cells healthy and working properly. Unlike some vitamins your body can store for months (like vitamins A, D, E, and K), B vitamins are water-soluble and wash out of your system quickly when not replenished—if you don't get enough, you notice problems within 3-8 weeks. This rapid depletion means regular dietary intake is essential.
+B vitamins are a group of eight different nutrients your body needs to keep cells healthy and working properly. Unlike some vitamins your body can store for months (like vitamins A, D, E, and K), B vitamins are water-soluble and wash out of your system quickly when not replenished—if you don't get enough, you notice problems within 3-8 weeks. This rapid depletion means regular dietary intake is essential. For more details, see our guide on [Acidic Foods](/article/acidic-foods-erosion-from-citrus-and-soda.html).
 
-Your mouth is one of the first places deficiencies show up because mouth cells grow and replace themselves incredibly fast—every few days to a week. Your oral tissue has one of the highest cell turnover rates in your body, so it's especially sensitive to nutritional deficiencies. The mouth lining must constantly repair itself from eating, talking, and normal wear, demanding steady nutritional support.
+Your mouth is one of the first places deficiencies show up because mouth cells grow and replace themselves incredibly fast—every few days to a week. Your oral tissue has one of the highest cell turnover rates in your body, so it's especially sensitive to nutritional deficiencies. The mouth lining must constantly repair itself from eating, talking, and normal wear, demanding steady nutritional support. For more details, see our guide on [Antioxidants and Oral Inflammation](/article/antioxidants-fighting-oral-inflammation.html).
 
 Your dentist is often the first person to spot a B vitamin problem because the clinical signs appear in your mouth before they show up anywhere else in your body. A knowledgeable dentist can recognize these patterns and refer you for testing and treatment before more serious systemic symptoms develop. This early detection capability makes your dental visits valuable for overall health screening. Let's examine each of the eight B vitamins and what happens when you don't get enough.
 
@@ -82,3 +82,13 @@ Certain medications and medical conditions increase your B vitamin needs signifi
 B vitamins are essential for keeping your mouth healthy and working properly. The eight B vitamins each play different roles in maintaining oral tissue health, immune function, and cellular repair. B2 deficiency causes mouth cracks and sore corners; B3 deficiency causes bright red, painful tongue and oral sores; B6 deficiency causes canker sores and mouth inflammation; B9 (folate) deficiency causes tongue swelling and easy bleeding gums; B12 deficiency causes tongue changes, burning mouth, and potentially permanent nerve damage if untreated. These oral problems show up in your mouth first, sometimes before you feel sick in other ways, making your dentist an important early-warning sentinel for nutritional deficiencies.
 
 If you have mouth problems like cracks, strange tongue appearance, recurring canker sores, or burning sensations, ask your dentist specifically about B vitamin deficiency. Some medications deplete B vitamins, so mention your medicines to both your doctor and dentist for comprehensive evaluation. B vitamin deficiencies are fixable with supplements, dietary changes, or medication adjustments, and catching them early prevents serious problems like permanent nerve damage, anemia, or birth defects. Your dental health is intimately connected to your nutritional status, and your dentist can be an important partner in maintaining both.
+
+## Related Articles You May Find Helpful
+
+- [Acidic Foods: Erosion from Citrus and Soda](/article/acidic-foods-erosion-from-citrus-and-soda.html)
+- [Antioxidants and Oral Inflammation: Nutritional Support for Periodontal Health](/article/antioxidants-fighting-oral-inflammation.html)
+- [Balanced Diet and Dental Health](/article/balanced-diet-and-dental-health.html)
+
+
+> **Key Takeaway:** Understanding b vitamins and oral health helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

@@ -25,9 +25,9 @@ references:
 
 ## What Is Sleep Bruxism?
 
-Sleep bruxism is grinding or clenching your teeth during sleep—you're not doing it consciously, and you usually don't remember it. About 8-15% of adults do this; kids grind even more (15-20%), but most outgrow it. It happens mostly during light sleep stages and at the transitions between sleep stages. When you're grinding, your jaw muscles are contracting rhythmically—typically 5-15 grinding episodes per hour of sleep, each lasting 8-15 seconds.
+Sleep bruxism is grinding or clenching your teeth during sleep—you're not doing it consciously, and you usually don't remember it. About 8-15% of adults do this; kids grind even more (15-20%), but most outgrow it. It happens mostly during light sleep stages and at the transitions between sleep stages. When you're grinding, your jaw muscles are contracting rhythmically—typically 5-15 grinding episodes per hour of sleep, each lasting 8-15 seconds. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
 
-Here's the interesting connection: about 70-80% of grinding episodes happen during brief arousals (moments when your brain partially wakes up). This suggests bruxism is your brain's response to sleep disruption rather than just a muscle problem. In fact, 50-70% of people who grind their teeth also have **obstructive sleep apnea** (where breathing pauses during sleep). They're related conditions affecting the same nervous system pathways. Grinding happens more in the first third of the night and at specific times when your sleep cycles shift.
+Here's the interesting connection: about 70-80% of grinding episodes happen during brief arousals (moments when your brain partially wakes up). This suggests bruxism is your brain's response to sleep disruption rather than just a muscle problem. In fact, 50-70% of people who grind their teeth also have **obstructive sleep apnea** (where breathing pauses during sleep). They're related conditions affecting the same nervous system pathways. Grinding happens more in the first third of the night and at specific times when your sleep cycles shift. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
 
 Most grinding happens during light sleep, not deep sleep. Your body peaks grinding activity during these transition times, which is why most people grind in the first part of the night then settle down later.
 
@@ -77,9 +77,17 @@ Muscle relaxants don't help long-term bruxism. **Tricyclic antidepressants** lik
 
 Successfully managed bruxism means your teeth stay protected and your jaw joint stays healthy. Untreated bruxism causes progressive tooth wear, cavities on teeth (from enamel loss), jaw joint damage, and muscle pain. Some patients need permanent medication management. Others achieve control through behavioral changes. Regular dental checkups every 6-12 months catch wear progression early.
 
+
+
+## Related Articles You May Find Helpful
+
+- [All-Ceramic Crowns: Metal-Free Restoration Solutions](/article/all-ceramic-crown-metal-free-restoration.html)
+- [Apex Sealing in Endodontics: Complete Root Canal Closure for Treatment Success](/article/apex-sealing-complete-root-canal-closure.html)
+- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
+
 > **Key Takeaway:** Sleep bruxism affects 8-15% of adults, damages teeth and jaw joints progressively, but responds well to stress management, sleep optimization, caffeine reduction, and protective night guards.
 
-Related articles: [TMJ disorder symptoms](/article/tmj-disorder-signs.html), [Sleep and oral health](/article/sleep-bruxism-connection.html), [Protecting your teeth](/article/tooth-wear-prevention.html).
+Related articles: TMJ disorder symptoms, Sleep and oral health, Protecting your teeth.
 
 ## Temporo-Mandibular Joint Dysfunction and Bruxism Association
 

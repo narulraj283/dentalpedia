@@ -23,11 +23,11 @@ references:
 
 ## Why Bleeding Control Matters
 
-When your dentist performs extractions or other oral surgery, bleeding is natural and expected. However, controlling that bleeding is one of the most important parts of ensuring your surgery goes smoothly and that you heal quickly. A small amount of bleeding is normal, but uncontrolled bleeding can lead to complications that slow healing and cause discomfort. Your surgeon uses several techniques to keep bleeding minimal during your procedure so you stay safe and the surgical area stays clean and visible.
+When your dentist performs extractions or other oral surgery, bleeding is natural and expected. However, controlling that bleeding is one of the most important parts of ensuring your surgery goes smoothly and that you heal quickly. A small amount of bleeding is normal, but uncontrolled bleeding can lead to complications that slow healing and cause discomfort. Your surgeon uses several techniques to keep bleeding minimal during your procedure so you stay safe and the surgical area stays clean and visible. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
 ## Before Your Surgery: Bleeding Risk Assessment
 
-Before any dental surgery, your dentist will ask detailed questions about your medical history. These questions help identify if you're at higher risk for excessive bleeding. Tell your dentist if you've had prolonged bleeding after previous surgery, if you notice frequent bruising, or if anyone in your family has bleeding disorders.
+Before any dental surgery, your dentist will ask detailed questions about your medical history. These questions help identify if you're at higher risk for excessive bleeding. Tell your dentist if you've had prolonged bleeding after previous surgery, if you notice frequent bruising, or if anyone in your family has bleeding disorders. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
 If you're taking blood thinners like warfarin or anticoagulants (apixaban, rivaroxaban, dabigatran), let your dentist know immediately. These medications affect how your blood clots. Most of the time you can continue taking them, but your dentist needs to plan your surgery accordingly. If you take aspirin or clopidogrel (often combined for heart health), mention this too. Your dentist will create a plan to manage your care safely while on these medications.
 
@@ -103,9 +103,17 @@ Most post-operative bleeding is managed easily at home. However, contact your su
 
 These symptoms usually don't occur, but if they do, your surgeon wants to know promptly.
 
+
+
+## Related Articles You May Find Helpful
+
+- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+
 > **Key Takeaway:** Controlling bleeding during and after dental surgery is achieved through multiple techniques—from topical agents and special stitches to advanced technologies—and your role in following post-operative instructions is essential for successful healing. Understanding what to expect and knowing when to contact your surgeon helps ensure a smooth recovery with minimal complications.
 
 ## Related Articles
-- [Bleeding Gums: Solutions and What You Need to Know](/article/bleeding-gums-solutions-what-you-need-to-know.html)
-- [Scaling and Root Planing for Gum Disease](/article/scaling-root-planing-complete-guide.html)
-- [Tooth Extraction Aftercare and Healing](/article/tooth-extraction-aftercare-healing-timeline.html)
+- Bleeding Gums: Solutions and What You Need to Know
+- Scaling and Root Planing for Gum Disease
+- Tooth Extraction Aftercare and Healing

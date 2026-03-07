@@ -25,9 +25,9 @@ references:
 
 ## Understanding Post-Surgery Swelling
 
-Swelling after mouth surgery is completely normal. Your body's inflammation process kicks into gear to clean up and repair the surgical site. But swelling causes discomfort, makes eating and talking hard, and affects your appearance. Good news: understanding how swelling happens lets you use evidence-based strategies to reduce how much you swell and how long it lasts.
+Swelling after mouth surgery is completely normal. Your body's inflammation process kicks into gear to clean up and repair the surgical site. But swelling causes discomfort, makes eating and talking hard, and affects your appearance. Good news: understanding how swelling happens lets you use evidence-based strategies to reduce how much you swell and how long it lasts. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
-Expect swelling to peak around day 2-3, then gradually improve over the next 1-2 weeks (for simple surgery) or up to 4 weeks (for complex surgery). Here's the important part: swelling might actually get worse from day 1-3 even while you're following ice therapy perfectly. That's normal inflammation—not a sign that something's wrong. Most patients are surprised by this, so knowing it in advance helps you stay calm and keep following the treatment plan.
+Expect swelling to peak around day 2-3, then gradually improve over the next 1-2 weeks (for simple surgery) or up to 4 weeks (for complex surgery). Here's the important part: swelling might actually get worse from day 1-3 even while you're following ice therapy perfectly. That's normal inflammation—not a sign that something's wrong. Most patients are surprised by this, so knowing it in advance helps you stay calm and keep following the treatment plan. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
 ## What Causes Swelling?
 
@@ -132,3 +132,13 @@ Written post-operative instructions with specific ice/heat and medication schedu
 ## Summary: Managing Your Post-Surgery Swelling
 
 Post-operative swelling peaks around day 2-3 and gradually improves over 1-2 weeks. It happens because surgery triggers inflammation—which is actually part of healing, even though it's uncomfortable. Evidence-based management includes a pre-surgery steroid injection (8 mg dexamethasone—reduces swelling 40-60%), ice for the first 24 hours (20 minutes on, 20 minutes off), heat after 24 hours, scheduled NSAIDs like ibuprofen (400 mg every 6 hours), sleeping with your head elevated, and avoiding intense exercise. Know the difference between normal swelling (symmetric, peaks day 2-3, gradually improves) and infection (gets worse after day 3, squishy, fever, trouble swallowing). Following these evidence-based strategies dramatically improves comfort and satisfaction with your surgery outcome.
+
+## Related Articles You May Find Helpful
+
+- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+
+
+> **Key Takeaway:** Understanding post-surgical swelling management helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

@@ -23,11 +23,11 @@ references:
 
 ## Why Whitening Demand Is Booming
 
-Tooth whitening is the #1 cosmetic dental procedure requested today, with demand increasing 50% over the last decade. People want brighter smiles, and modern whitening really works. But here's what many people don't realize: instead of one long bleaching session, there's a smarter approach called "bleach cycling" that gets better results with fewer side effects.
+Tooth whitening is the #1 cosmetic dental procedure requested today, with demand increasing 50% over the last decade. People want brighter smiles, and modern whitening really works. But here's what many people don't realize: instead of one long bleaching session, there's a smarter approach called "bleach cycling" that gets better results with fewer side effects. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
 
 ## How Whitening Actually Works
 
-Whitening uses hydrogen peroxide or carbamide peroxide—chemicals that produce oxygen free radicals. These tiny molecules penetrate through your enamel's microscopic pores (0.1-0.3 microns in diameter) and break apart the colored molecules (chromophores) that make teeth look yellow or stained.
+Whitening uses hydrogen peroxide or carbamide peroxide—chemicals that produce oxygen free radicals. These tiny molecules penetrate through your enamel's microscopic pores (0.1-0.3 microns in diameter) and break apart the colored molecules (chromophores) that make teeth look yellow or stained. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
 
 **In-office products:** Professional-strength hydrogen peroxide (35-40%) works fast—applying it at room temperature for 15 minutes achieves results in a single session.
 
@@ -167,5 +167,13 @@ Ask your dentist:
 - What's the cost, and what's included?
 - When should I replace my fillings/crowns if I have them?
 - What's the maintenance schedule long-term?
+
+
+
+## Related Articles You May Find Helpful
+
+- [Adhesive Dentistry Cosmetics: Bonded Restorations Without Cutting](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html)
+- [All-Ceramic Veneers: Ultra-Thin Cosmetic Shells](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html)
+- [Anterior Guidance: How Incisor Position Controls Bite Mechanics](/article/anterior-guidance-incisor-controlling-bite.html)
 
 > **Key Takeaway:** Bleach cycling—alternating 2-4 week whitening periods with 4-8 week rest periods—achieves 8-12 shade improvements over 12-16 weeks with significantly less sensitivity and better color stability than continuous whitening, especially when combined with professional in-office treatments.

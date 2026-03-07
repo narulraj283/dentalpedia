@@ -23,11 +23,11 @@ references:
   - "Socransky SS, Haffajee AD. Periodontal Microbial Ecology. Periodontol 2000. 2022;38:135-187."
 ---
 
-If you've been treated for gum disease, you're probably wondering what comes next. The good news is that after treatment, most people can keep their teeth if they follow a maintenance plan. But here's the thing: maintenance has to become a lifelong commitment. The teeth you save depend on what you do now.
+If you've been treated for gum disease, you're probably wondering what comes next. The good news is that after treatment, most people can keep their teeth if they follow a maintenance plan. But here's the thing: maintenance has to become a lifelong commitment. The teeth you save depend on what you do now. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
 
 ## What Maintenance Really Means
 
-After gum disease treatment, you'll transition to "supportive periodontal therapy" or SPT. This fancy term basically means regular professional monitoring and cleaning tailored specifically to you. It's not the same as regular six-month cleanings for people without gum disease.
+After gum disease treatment, you'll transition to "supportive periodontal therapy" or SPT. This fancy term basically means regular professional monitoring and cleaning tailored specifically to you. It's not the same as regular six-month cleanings for people without gum disease. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
 
 Your dentist determines how often you need to come back based on your individual situation. Some people need visits every four to six weeks. Others do fine coming every six months. Your risk level determines your schedule.
 
@@ -104,3 +104,29 @@ After gum disease treatment, maintenance is what determines whether you keep you
 The patients who stay committed to maintenance have better outcomes than people who skip visits or don't take home care seriously. Your dentist wants to help you succeed—let them know if you're struggling with home care or appointments, because there are solutions to make it easier.
 
 The investment you make now in maintenance prevents the much bigger problem of tooth loss later. Keeping your natural teeth long-term depends primarily on you and what you do at home, with professional monitoring as backup.
+
+## Related Articles You May Find Helpful
+
+- [Acid Reflux and Tooth Erosion: GERD Management](/article/acid-reflux-and-tooth-erosion-gerd-management.html)
+- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
+- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+
+
+
+
+## Questions to Ask Your Dentist
+
+Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
+
+- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
+- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
+- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
+- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
+- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
+
+Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist will never pressure you into a decision.
+
+Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+
+> **Key Takeaway:** Understanding long-term periodontal maintenance and supportive periodontal therapy protocols helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

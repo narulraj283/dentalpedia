@@ -25,9 +25,9 @@ references:
 
 ## What Is Burning Mouth Syndrome?
 
-Burning mouth syndrome (BMS) is a chronic condition where your mouth, tongue, lips, or palate burn—but your dentist doesn't see anything wrong when they look. The burning happens more than 4 hours daily for at least 3 months. Your mouth looks normal (no ulcers, sores, or discoloration visible). You can't find an obvious cause like a yeast infection, allergy, or other treatable problem.
+Burning mouth syndrome (BMS) is a chronic condition where your mouth, tongue, lips, or palate burn—but your dentist doesn't see anything wrong when they look. The burning happens more than 4 hours daily for at least 3 months. Your mouth looks normal (no ulcers, sores, or discoloration visible). You can't find an obvious cause like a yeast infection, allergy, or other treatable problem. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
 
-The burning sensations are usually **bilateral and symmetric** (on both sides equally), not on just one side. You'd describe it as **burning, tingling, or numbness**—not sharp, stabbing pain. Severity ranges from mild (you're aware of it but it doesn't interfere much) to severe (it affects eating, drinking, and quality of life). Pain typically **worsens through the day**, worst in afternoon/evening, but you **wake up without symptoms**, which is unusual. **Stress and fatigue make it worse**.
+The burning sensations are usually **bilateral and symmetric** (on both sides equally), not on just one side. You'd describe it as **burning, tingling, or numbness**—not sharp, stabbing pain. Severity ranges from mild (you're aware of it but it doesn't interfere much) to severe (it affects eating, drinking, and quality of life). Pain typically **worsens through the day**, worst in afternoon/evening, but you **wake up without symptoms**, which is unusual. **Stress and fatigue make it worse**. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
 
 There are three types. **Primary BMS** (60-70% of cases) has no identifiable cause—it's the real mystery. **Secondary BMS** (30-40% of cases) happens alongside something else you can identify and potentially treat—like yeast infection, lichen planus, or medication side effects. **Tertiary BMS** is pain that persists even after treating the underlying cause, suggesting chronic changes in how your nervous system processes pain.
 
@@ -105,9 +105,17 @@ About 30-50% of BMS patients experience natural remission within 6-12 years with
 
 **Treatment-resistant BMS** (20-30% of patients not responding to standard approaches) might need multiple medications, optimization of existing ones, or consideration of experimental therapies. **Support groups and educational resources** reduce psychological burden and provide coping strategies from others with BMS.
 
+
+
+## Related Articles You May Find Helpful
+
+- [All-Ceramic Crowns: Metal-Free Restoration Solutions](/article/all-ceramic-crown-metal-free-restoration.html)
+- [Apex Sealing in Endodontics: Complete Root Canal Closure for Treatment Success](/article/apex-sealing-complete-root-canal-closure.html)
+- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
+
 > **Key Takeaway:** Burning mouth syndrome is a chronic neuropathic pain condition affecting 0.7-4.6% of people (especially postmenopausal women), looks normal on examination, and responds best to medication combined with cognitive-behavioral therapy.
 
-Learn more: [Oral pain management](/article/orofacial-pain-solutions.html), [Menopause and oral health](/article/menopause-dental-changes.html), or [Finding pain specialists](/article/orofacial-pain-specialists.html).
+Learn more: Oral pain management, Menopause and oral health, or Finding pain specialists.
 
 ## Systemic Pharmacologic Therapy
 

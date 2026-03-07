@@ -23,9 +23,9 @@ references:
 
 ## How Tooth Infection Destroys Bone
 
-When a tooth's nerve dies, bacteria colonize the inside of the tooth and release toxins through the root tip opening. Your body's immune system fights back by sending white blood cells to kill the bacteria. This battle causes inflammation around the root tip, which triggers bone loss.
+When a tooth's nerve dies, bacteria colonize the inside of the tooth and release toxins through the root tip opening. Your body's immune system fights back by sending white blood cells to kill the bacteria. This battle causes inflammation around the root tip, which triggers bone loss. For more details, see our guide on [Accessory Canals](/article/accessory-canals-side-channels-in-roots.html).
 
-This condition is called apical periodontitis—essentially a localized infection around the root tip causing bone destruction. About 3-5 percent of adults have this condition somewhere in their mouth. Most people don't realize it because it doesn't hurt—about 75 percent of cases stay silent and asymptomatic.
+This condition is called apical periodontitis—essentially a localized infection around the root tip causing bone destruction. About 3-5 percent of adults have this condition somewhere in their mouth. Most people don't realize it because it doesn't hurt—about 75 percent of cases stay silent and asymptomatic. For more details, see our guide on [The Apical Foramen and Root Tip Opening](/article/apical-foramen-root-tip-opening.html).
 
 Understanding this condition helps you appreciate why root canal treatment is so important and what happens if treatment fails.
 
@@ -129,3 +129,13 @@ Root canal treatment succeeds in 85-97 percent of cases by removing the infectio
 If conventional treatment fails, modern microsurgical apicectomy achieves 90-95 percent success by precisely removing the root tip and sealing it with biocompatible material.
 
 Success requires both excellent root canal sealing AND excellent crown sealing. Neither alone is sufficient. Your dentist's meticulous technique combined with your proper follow-up care (getting that crown promptly) determines whether your tooth has a healthy future.
+
+## Related Articles You May Find Helpful
+
+- [Accessory Canals: Side Channels in Roots](/article/accessory-canals-side-channels-in-roots.html)
+- [The Apical Foramen and Root Tip Opening: Anatomy, Location, and Clinical Significance](/article/apical-foramen-root-tip-opening.html)
+- [Calcified Canals: Root Canal Obstruction and Pulpal Canal Space Management](/article/calcified-canals-root-canal-obstruction.html)
+
+
+> **Key Takeaway:** Understanding apical periodontitis helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

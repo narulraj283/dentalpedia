@@ -23,11 +23,11 @@ references:
 
 ## How Alcohol Increases Oral Cancer Risk
 
-Heavy drinking significantly raises your risk of developing cancer in your mouth and throat. When you drink alcohol, your body breaks it down into a chemical called acetaldehyde, which is known to cause cancer. This isn't the same as having a glass of wine with dinner—we're talking about regular, heavy consumption. Research shows that people who drink more than 4-5 drinks daily have about 3 times the risk of oral cancer compared to non-drinkers. People who drink even more have an even higher risk. The scary part is that when you combine heavy drinking with smoking, your cancer risk jumps dramatically—up to 15-20 times higher than someone who does neither. These two habits together are far more dangerous than either one alone.
+Heavy drinking significantly raises your risk of developing cancer in your mouth and throat. When you drink alcohol, your body breaks it down into a chemical called acetaldehyde, which is known to cause cancer. This isn't the same as having a glass of wine with dinner—we're talking about regular, heavy consumption. Research shows that people who drink more than 4-5 drinks daily have about 3 times the risk of oral cancer compared to non-drinkers. People who drink even more have an even higher risk. The scary part is that when you combine heavy drinking with smoking, your cancer risk jumps dramatically—up to 15-20 times higher than someone who does neither. These two habits together are far more dangerous than either one alone. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
 
 ## Where Oral Cancer Develops
 
-Not all parts of your mouth are equally at risk. Certain spots are particularly vulnerable to cancer from alcohol use. The floor of your mouth—the area under your tongue—is the most common place for alcohol-related cancers. The sides of your tongue are also frequent trouble spots. The soft area toward the back of your mouth (soft palate) and the areas near your tonsils are other danger zones. These spots are more vulnerable because they have thinner tissues and absorb alcohol more easily. When alcohol pools in these areas while you're drinking, it can damage the cells over time. The good news is that knowing which areas are at risk helps your dentist focus on careful screening during your checkups.
+Not all parts of your mouth are equally at risk. Certain spots are particularly vulnerable to cancer from alcohol use. The floor of your mouth—the area under your tongue—is the most common place for alcohol-related cancers. The sides of your tongue are also frequent trouble spots. The soft area toward the back of your mouth (soft palate) and the areas near your tonsils are other danger zones. These spots are more vulnerable because they have thinner tissues and absorb alcohol more easily. When alcohol pools in these areas while you're drinking, it can damage the cells over time. The good news is that knowing which areas are at risk helps your dentist focus on careful screening during your checkups. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
 
 ## What Happens Inside Your Body
 
@@ -56,3 +56,13 @@ If you drink, here are concrete steps to lower your oral cancer risk. First, red
 ## When to See a Specialist
 
 If your dentist finds anything concerning, don't panic, but do take it seriously. You'll likely be referred to an oral surgeon or head and neck specialist. These specialists can perform a biopsy if needed and determine exactly what's happening. If oral cancer is diagnosed, modern treatments offer good outcomes, especially if caught early. Some cancers can be treated with surgery or radiation alone, while others need a combination of treatments. The key is getting answers quickly and working with your medical team. Don't delay getting a biopsy or second opinion because you're scared—delays make things worse. Your dentist can also help coordinate care with your other doctors and discuss the connection between your drinking and your cancer risk in a supportive, non-judgmental way.
+
+## Related Articles You May Find Helpful
+
+- [Acid Reflux and Tooth Erosion: GERD Management](/article/acid-reflux-and-tooth-erosion-gerd-management.html)
+- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
+- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+
+
+> **Key Takeaway:** Understanding alcohol consumption and oral cancer risk helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

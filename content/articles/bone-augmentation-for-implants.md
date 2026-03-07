@@ -23,9 +23,9 @@ references:
 
 ## When Bone Grafting Becomes Necessary
 
-About 40-60% of patients who want dental implants don't have enough bone in the right locations. Your teeth anchor themselves in bone, and when a tooth is lost, that bone gradually shrinks away since it's no longer needed. During the first six to 12 months after extraction, you lose 25-40% of the ridge's width. Bone loss continues at a slower pace (about 4% yearly) for years afterward. Bone loss also occurs with untreated gum disease, injury, or certain medical conditions.
+About 40-60% of patients who want dental implants don't have enough bone in the right locations. Your teeth anchor themselves in bone, and when a tooth is lost, that bone gradually shrinks away since it's no longer needed. During the first six to 12 months after extraction, you lose 25-40% of the ridge's width. Bone loss continues at a slower pace (about 4% yearly) for years afterward. Bone loss also occurs with untreated gum disease, injury, or certain medical conditions. For more details, see our guide on [All-on-4 Full-Arch Implant Restoration](/article/all-on-four-full-arch-on-four-implants.html).
 
-For a dental implant to be successful, you need adequate bone—typically a minimum of 6 mm wide and 10 mm tall. If your imaging shows less bone than this, bone grafting becomes necessary to create a stable foundation for your implant. Without it, the implant wouldn't have proper support, and failure rates would be much higher.
+For a dental implant to be successful, you need adequate bone—typically a minimum of 6 mm wide and 10 mm tall. If your imaging shows less bone than this, bone grafting becomes necessary to create a stable foundation for your implant. Without it, the implant wouldn't have proper support, and failure rates would be much higher. For more details, see our guide on [Biologic Width](/article/biologic-width-implant-to-gum-distance.html).
 
 Your dentist uses three-dimensional imaging (cone-beam CT) to measure your bone precisely and determine whether grafting is necessary. This imaging is essential for planning because it shows not only how much bone you have, but exactly where it is relative to important structures like the sinuses and nerve.
 
@@ -71,12 +71,20 @@ When bone grafting is successful, implant survival rates exceed 92-95% at five y
 
 Smoking reduces graft success by 20-30% and increases resorption. If you smoke, cessation 2-4 weeks before grafting and continued cessation through integration improves outcomes significantly.
 
+
+
+## Related Articles You May Find Helpful
+
+- [All-on-4 Full-Arch Implant Restoration: Evaluation to Long-Term Care](/article/all-on-four-full-arch-on-four-implants.html)
+- [Biologic Width: Implant to Gum Distance](/article/biologic-width-implant-to-gum-distance.html)
+- [Bone-Implant Interface: Osseointegration Quality](/article/bone-implant-interface-osseointegration-quality.html)
+
 > **Key Takeaway:** Bone grafting expands dental implant candidacy by creating adequate bone support, with success rates exceeding 92-95% when proper dimensions are achieved.
 
 ## Related Articles
-- [Bone Grafting Procedure: What to Expect](/article/bone-grafting-procedure-what-you-need-to-know.html)
-- [Timeline from Bone Grafting to Implant Placement](/article/bone-graft-healing-timeline.html)
-- [Dental Implants: When Bone Grafting Is Necessary](/article/dental-implant-prerequisites.html)
+- Bone Grafting Procedure: What to Expect
+- Timeline from Bone Grafting to Implant Placement
+- Dental Implants: When Bone Grafting Is Necessary
 
 ## Guided Bone Regeneration (GBR) Technique
 

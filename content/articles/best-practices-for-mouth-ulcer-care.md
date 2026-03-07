@@ -25,11 +25,11 @@ references:
 
 ## Types of Mouth Ulcers and How Often They Happen
 
-About 1 in 5-6 people get painful mouth ulcers. They can show up once a year or multiple times a month, depending on the person. Women get them more often than men, usually starting in the teen years. If you're one of these people, you're definitely not alone.
+About 1 in 5-6 people get painful mouth ulcers. They can show up once a year or multiple times a month, depending on the person. Women get them more often than men, usually starting in the teen years. If you're one of these people, you're definitely not alone. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
 
 There are three main types:
 
-**Minor ulcers** (80-90% of cases) are the most common—small (2-5mm), moderately painful (3-5/10), and heal in 7-14 days without scars. You can usually still eat and drink, though it's uncomfortable. These are annoying but manageable.
+**Minor ulcers** (80-90% of cases) are the most common—small (2-5mm), moderately painful (3-5/10), and heal in 7-14 days without scars. You can usually still eat and drink, though it's uncomfortable. These are annoying but manageable. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
 
 **Major ulcers** (10-15% of cases) are bigger (over 5mm), really painful (6-9/10), last 3-4 weeks, and often leave scars. These can interfere with eating, talking, and sleeping. They're serious enough to warrant professional attention.
 
@@ -126,3 +126,13 @@ While waiting for treatment or for ulcers to heal, try these comfort measures. E
 ## The Bottom Line
 
 Minor mouth ulcers are common, painful for 1-2 weeks, but harmless. Topical steroids reduce pain by 60-80% and speed healing slightly. Avoiding injury, switching to SLS-free toothpaste, identifying food triggers, and managing stress prevent 30-70% of ulcers. If you get frequent, large, or severe ulcers, ask your doctor for blood tests to check for nutritional deficiencies or celiac disease. Most people can manage ulcers at home, but professional help ensures you're not missing a bigger health issue.
+
+## Related Articles You May Find Helpful
+
+- [All-Ceramic Crowns: Metal-Free Restoration Solutions](/article/all-ceramic-crown-metal-free-restoration.html)
+- [Apex Sealing in Endodontics: Complete Root Canal Closure for Treatment Success](/article/apex-sealing-complete-root-canal-closure.html)
+- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
+
+
+> **Key Takeaway:** Understanding management of recurrent oral ulcers and aphthous stomatitis helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

@@ -23,9 +23,9 @@ references:
 
 ## Acid Reflux and Your Teeth
 
-If you have acid reflux (called GERD—gastroesophageal reflux disease), stomach acid occasionally comes back up into your mouth. While this is uncomfortable for your throat and esophagus, many people don't realize it's also harmful to teeth. Your stomach acid is extremely strong—much more acidic than soda or juice. When it repeatedly contacts your teeth, it dissolves your tooth enamel over time.
+If you have acid reflux (called GERD—gastroesophageal reflux disease), stomach acid occasionally comes back up into your mouth. While this is uncomfortable for your throat and esophagus, many people don't realize it's also harmful to teeth. Your stomach acid is extremely strong—much more acidic than soda or juice. When it repeatedly contacts your teeth, it dissolves your tooth enamel over time. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
 
-Enamel is the hard, protective outer layer of your teeth. Unlike other parts of your body, enamel cannot repair itself. Once it's damaged by acid, it's gone permanently. That's why managing acid reflux is important not just for your digestive health, but for protecting your smile.
+Enamel is the hard, protective outer layer of your teeth. Unlike other parts of your body, enamel cannot repair itself. Once it's damaged by acid, it's gone permanently. That's why managing acid reflux is important not just for your digestive health, but for protecting your smile. For more details, see our guide on [Acidic Foods and Enamel Erosion](/article/acidic-foods-and-enamel-erosion-prevention-tips.html).
 
 ## How GERD Damages Teeth
 
@@ -124,3 +124,13 @@ Coordinate with your gastroenterologist. Your dentist might notice erosion befor
 ## Summary
 
 Acid reflux (GERD) damages tooth enamel through repeated acid exposure, especially on back teeth and inside surfaces of upper front teeth. Medical treatment with acid-reducing medications is essential to control reflux at its source. Dental protection using fluoride gel trays, baking soda rinses, and protective barriers provides crucial defense against remaining acid. Behavioral changes (sleep positioning, avoiding trigger foods, weight loss) reduce reflux frequency. Early detection and aggressive protective intervention can halt erosion progression before significant damage occurs. Work with both your gastroenterologist and dentist to protect your teeth from acid reflux's harmful effects.
+
+## Related Articles You May Find Helpful
+
+- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
+- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+- [Alcohol and Oral Health: Risks and Safe Consumption](/article/alcohol-and-oral-health-risks-and-safe-consumption.html)
+
+
+> **Key Takeaway:** Understanding acid reflux and tooth erosion helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

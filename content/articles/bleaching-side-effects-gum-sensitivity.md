@@ -23,11 +23,11 @@ references:
 
 ## The Trade-Off: Whiter Teeth vs. Sensitivity
 
-Tooth whitening works beautifully, but it has a catch: side effects happen in 15-65% of people, depending on how aggressive the whitening is. The main issue is sensitivity (sharp tooth pain), followed by gum irritation. Understanding what causes these problems and how to prevent them means you can get a whiter smile without significant discomfort.
+Tooth whitening works beautifully, but it has a catch: side effects happen in 15-65% of people, depending on how aggressive the whitening is. The main issue is sensitivity (sharp tooth pain), followed by gum irritation. Understanding what causes these problems and how to prevent them means you can get a whiter smile without significant discomfort. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
 
 ## Why Whitening Causes Sensitivity
 
-Sensitivity is your most common problem, affecting 20-65% of people undergoing professional whitening. It usually hits you within 24-48 hours after treatment and peaks around day 2-3.
+Sensitivity is your most common problem, affecting 20-65% of people undergoing professional whitening. It usually hits you within 24-48 hours after treatment and peaks around day 2-3. For more details, see our guide on [All-Ceramic Veneers](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html).
 
 Here's what's happening inside your tooth: Hydrogen peroxide seeps through your enamel's microscopic pores (0.1-0.3 micrometer diameter), traveling through your dentin toward your tooth's nerve (the pulp). The peroxide concentration reaching your nerve—just 50 micromolar—is enough to trigger an inflammatory response. Your body releases inflammatory chemicals (cytokines) from cells near your nerve, triggering a neurogenic inflammation that results in neuropeptide release hitting your nerve terminals and causing sharp, localized pain that develops within seconds of hot, cold, or sweet stimulation.
 
@@ -132,5 +132,13 @@ Ask your dentist about:
 - How often you can safely whiten
 - Whether custom trays make sense for you
 - Post-whitening care recommendations
+
+
+
+## Related Articles You May Find Helpful
+
+- [Adhesive Dentistry Cosmetics: Bonded Restorations Without Cutting](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html)
+- [All-Ceramic Veneers: Ultra-Thin Cosmetic Shells](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html)
+- [Anterior Guidance: How Incisor Position Controls Bite Mechanics](/article/anterior-guidance-incisor-controlling-bite.html)
 
 > **Key Takeaway:** Whitening side effects—mainly tooth sensitivity and gum irritation—affect 15-65% of people but are manageable through pre-treatment with potassium nitrate and fluoride, using appropriate concentrations, and adopting protective techniques like properly fitted custom trays and cycling (treatment breaks).

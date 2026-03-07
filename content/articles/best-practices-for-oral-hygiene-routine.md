@@ -25,11 +25,11 @@ references:
 
 ## Your Twice-Daily Routine: Non-Negotiable
 
-Brush twice daily, every single day. This takes just 6-8 minutes total. Brushing once a day leaves bacteria alone for 18-24 hours—long enough for them to organize into a tough, protective layer.
+Brush twice daily, every single day. This takes just 6-8 minutes total. Brushing once a day leaves bacteria alone for 18-24 hours—long enough for them to organize into a tough, protective layer. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
 
 **Morning routine (3-4 minutes):**
 
-After sleeping 12 hours, bacteria have created an acidic environment in your mouth. That's why your breath smells bad in the morning.
+After sleeping 12 hours, bacteria have created an acidic environment in your mouth. That's why your breath smells bad in the morning. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
 
 1. Brush your tongue gently (5-10 strokes front to back with soft bristles). This removes dead skin, bacteria, and food debris, cutting bad breath-causing sulfur compounds by 40-50%.
 
@@ -129,3 +129,13 @@ People start strong but compliance drops: 60-70% stick with it at 6 months, 40-5
 ## The Bottom Line
 
 Twice-daily brushing for 2 minutes with fluoride toothpaste, daily between-tooth cleaning, and optional antimicrobial/fluoride rinses prevent 90%+ of cavities and 85-95% of gum disease. Powered toothbrushes are 11% better. Never brush hard (causes recession), and wait 30 minutes after acid before brushing. Different people need different tools—tight spaces need waxed floss, larger spaces need interdental brushes. If you have gum disease, implants, or exposed roots, you need modified protocols. The whole routine takes 6-8 minutes daily and prevents most oral disease.
+
+## Related Articles You May Find Helpful
+
+- [Acid Reflux and Tooth Erosion: GERD Management](/article/acid-reflux-and-tooth-erosion-gerd-management.html)
+- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
+- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+
+
+> **Key Takeaway:** Understanding optimal daily oral hygiene protocols and sequencing helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

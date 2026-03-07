@@ -21,11 +21,11 @@ references:
   - "Malamed SF. Medical Emergencies in the Dental Office. Mosby; 2015."
 ---
 
-Understanding what to expect from anesthesia during dental procedures helps you feel less nervous and more in control. This guide walks you through what happens before your procedure, what you'll feel during it, and how to care for yourself afterward. It's really about partnership between you and your dentist—the better you understand what's happening, the more comfortable and confident you'll feel.
+Understanding what to expect from anesthesia during dental procedures helps you feel less nervous and more in control. This guide walks you through what happens before your procedure, what you'll feel during it, and how to care for yourself afterward. It's really about partnership between you and your dentist—the better you understand what's happening, the more comfortable and confident you'll feel. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
 ## Before Your Procedure: What to Expect and How to Prepare
 
-**Medical History and Medications**: Before any procedure involving anesthesia, you will be asked detailed questions about your medical history, current medications, allergies, and prior experiences with anesthesia. Be completely honest about: prior adverse reactions to anesthesia (even if you're unsure what caused the reaction), medications you take (including supplements and over-the-counter drugs), and medical conditions like heart disease, diabetes, or high blood pressure. This information helps your surgeon select the safest anesthetic approach for your unique situation.
+**Medical History and Medications**: Before any procedure involving anesthesia, you will be asked detailed questions about your medical history, current medications, allergies, and prior experiences with anesthesia. Be completely honest about: prior adverse reactions to anesthesia (even if you're unsure what caused the reaction), medications you take (including supplements and over-the-counter drugs), and medical conditions like heart disease, diabetes, or high blood pressure. This information helps your surgeon select the safest anesthetic approach for your unique situation. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
 **Preoperative Instructions**: For procedures involving sedation (but not simple local anesthesia), you will be instructed to fast before treatment. Typical fasting guidelines (NPO status—nothing by mouth) are: no food or liquids for 2-3 hours before mild sedation, or 6-8 hours before IV conscious sedation. This fasting reduces aspiration risk (if sedation deepens unexpectedly and stomach contents enter the airway). Follow these instructions exactly—arriving without proper fasting may require rescheduling your procedure.
 
@@ -120,3 +120,13 @@ If you are anxious about dental procedures and anesthesia:
 ## Working Together for Your Comfort
 
 The best dental experiences happen when you and your team work together. Understand your anesthesia options, ask questions, communicate openly during your procedure (raise your hand if you need a break), and follow post-operative instructions carefully. Your dentist and team genuinely care about making sure you're comfortable and safe. Modern anesthesia is incredibly safe when you're informed, cooperative, and know what to expect. Trust the process, speak up if something doesn't feel right, and remember that good communication is the key to a positive experience.
+
+## Related Articles You May Find Helpful
+
+- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+
+
+> **Key Takeaway:** Understanding anesthesia options helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

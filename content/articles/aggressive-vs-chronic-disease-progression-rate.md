@@ -25,11 +25,11 @@ references:
 
 ## The New Classification System
 
-Dentists recently updated how they classify gum disease. Instead of calling it "aggressive versus chronic," they now use a "grading" system based on how fast the disease progresses. This is a better way to predict how serious your disease is and how aggressively to treat it.
+Dentists recently updated how they classify gum disease. Instead of calling it "aggressive versus chronic," they now use a "grading" system based on how fast the disease progresses. This is a better way to predict how serious your disease is and how aggressively to treat it. For more details, see our guide on [Aggressive Periodontitis](/article/aggressive-periodontitis-early-onset-gum-disease.html).
 
 The new system has three grades:
 
-**Grade A (Slow Progression)**: Bone loss of less than 0.5mm per year. Most of your teeth show minimal bleeding when probed, and overall gum disease progresses slowly over years or decades. This is the mildest form and requires standard treatment (cleaning, good home care, regular checkups).
+**Grade A (Slow Progression)**: Bone loss of less than 0.5mm per year. Most of your teeth show minimal bleeding when probed, and overall gum disease progresses slowly over years or decades. This is the mildest form and requires standard treatment (cleaning, good home care, regular checkups). For more details, see our guide on [Alcohol and Periodontitis](/article/alcohol-and-periodontitis-increased-risk.html).
 
 **Grade B (Moderate Progression)**: Bone loss of 0.5-2mm per year. This is intermediate between slow and rapid. Some bleeding occurs, and disease progresses noticeably over years. Treatment includes scaling, possibly medication, and more frequent monitoring.
 
@@ -117,3 +117,13 @@ Stress management, while harder to quantify, genuinely impacts disease progressi
 Oral hygiene absolutely matters. While you can't brush away a genetic tendency toward rapid progression, poor hygiene adds fuel to the fire. Excellent home care (twice daily brushing, daily flossing, antimicrobial rinses if recommended) helps keep plaque and bacterial burden low, reducing the inflammatory challenge your tissues face.
 
 The key insight: Your grade reflects your current disease trajectory, but multiple factors contribute to that trajectory. Modifying the ones you can control might shift your grade over time or at minimum slow progression within your grade.
+
+## Related Articles You May Find Helpful
+
+- [Aggressive Periodontitis: Early-Onset Gum Disease](/article/aggressive-periodontitis-early-onset-gum-disease.html)
+- [Alcohol and Periodontitis: Increased Risk](/article/alcohol-and-periodontitis-increased-risk.html)
+- [Alveolar Bone: The Tooth Support Structure](/article/alveolar-bone-tooth-support-structure.html)
+
+
+> **Key Takeaway:** Understanding aggressive vs chronic helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

@@ -23,9 +23,9 @@ references:
 
 ## How Baking Soda Works
 
-Baking soda (sodium bicarbonate) is a chemical that neutralizes acids. When you mix it with water, it creates an alkaline solution with pH 8.3 (neutral is 7.0). This simple chemistry is powerful for preventing cavities.
+Baking soda (sodium bicarbonate) is a chemical that neutralizes acids. When you mix it with water, it creates an alkaline solution with pH 8.3 (neutral is 7.0). This simple chemistry is powerful for preventing cavities. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
 
-When you eat sugar, cavity bacteria ferment it to acid within 5 minutes, dropping your mouth pH below 5.5 (the point where teeth start dissolving). Baking soda rinse raises pH back above 5.5, stopping the cavity process.
+When you eat sugar, cavity bacteria ferment it to acid within 5 minutes, dropping your mouth pH below 5.5 (the point where teeth start dissolving). Baking soda rinse raises pH back above 5.5, stopping the cavity process. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
 
 The effect is fast (within 2 minutes) and lasts 30+ minutes. One teaspoon of baking soda in 8 ounces of water neutralizes enough acid to stop one cavity-forming cycle.
 
@@ -128,3 +128,29 @@ For patients on tight budgets, home baking soda rinses are evidence-based and af
 ## Summary
 
 Baking soda works by neutralizing acids and raising mouth pH from 5.5 to 7.0+. One teaspoon per 8 ounces water provides sufficient buffering capacity to stop cavity-forming cycles. Studies show 23-36% cavity reduction with toothpaste formulations and 15-25% reduction with rinses. Safety is excellent—baking soda is non-toxic and has low abrasiveness (7-12 on 200-point scale). Best used 20-30 minutes after acidic food exposure to allow saliva-mediated enamel rehardening. Home preparation costs less than $1 monthly. Combine with fluoride toothpaste for optimal prevention. Most beneficial for erosion patients, high-acid-environment patients, dry-mouth patients, and high-cavity-risk individuals. Limitations include moderate evidence quality and lower efficacy than prescription fluoride. Baking soda serves as cost-effective, evidence-based complementary preventive therapy.
+
+## Related Articles You May Find Helpful
+
+- [Acid Reflux and Tooth Erosion: GERD Management](/article/acid-reflux-and-tooth-erosion-gerd-management.html)
+- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
+- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+
+
+
+
+## Questions to Ask Your Dentist
+
+Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
+
+- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
+- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
+- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
+- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
+- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
+
+Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist will never pressure you into a decision.
+
+Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+
+> **Key Takeaway:** Understanding baking soda rinse helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

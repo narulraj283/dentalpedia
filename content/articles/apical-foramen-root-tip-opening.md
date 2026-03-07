@@ -23,9 +23,9 @@ references:
 
 ## Understanding the Root Tip Anatomy
 
-Deep inside your tooth's root is a tiny opening called the apical foramen (or apex). This opening connects the inside of your tooth to the bone surrounding the root. When a tooth needs a root canal, your dentist must carefully treat and seal the area near this opening.
+Deep inside your tooth's root is a tiny opening called the apical foramen (or apex). This opening connects the inside of your tooth to the bone surrounding the root. When a tooth needs a root canal, your dentist must carefully treat and seal the area near this opening. For more details, see our guide on [Accessory Canals](/article/accessory-canals-side-channels-in-roots.html).
 
-The challenge: what you see on an X-ray (the root tip) doesn't match exactly where the real opening is inside the tooth. This difference matters for treatment success, and understanding it helps you appreciate how carefully your dentist must work.
+The challenge: what you see on an X-ray (the root tip) doesn't match exactly where the real opening is inside the tooth. This difference matters for treatment success, and understanding it helps you appreciate how carefully your dentist must work. For more details, see our guide on [Apical Periodontitis](/article/apical-periodontitis-bone-loss-around-root-tip.html).
 
 ## The Opening at Your Root Tip
 
@@ -116,3 +116,13 @@ The ideal sealing point is at the cementodentinal junction, where inner tooth st
 Young teeth with open apices need special treatment using biocompatible materials to create a calcified barrier. Understanding this complex anatomy helps you appreciate why root canal treatment is precise, specialized work requiring careful technique and modern equipment.
 
 Your dentist's knowledge of these anatomical details directly impacts treatment success. Proper apex location and sealing is the foundation of a healthy root canal outcome.
+
+## Related Articles You May Find Helpful
+
+- [Accessory Canals: Side Channels in Roots](/article/accessory-canals-side-channels-in-roots.html)
+- [Apical Periodontitis: Understanding Bone Loss and Periapical Inflammation](/article/apical-periodontitis-bone-loss-around-root-tip.html)
+- [Calcified Canals: Root Canal Obstruction and Pulpal Canal Space Management](/article/calcified-canals-root-canal-obstruction.html)
+
+
+> **Key Takeaway:** Understanding the apical foramen and root tip opening helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

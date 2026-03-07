@@ -25,11 +25,11 @@ references:
 
 ## What Happens When Your Mouth Heals After Surgery
 
-When you have mouth surgery—whether it's a tooth extraction, implant placement, or bone grafting—your body goes through predictable healing stages. Understanding these phases helps you recognize what's normal and when to be concerned. Healing happens in layers: the body stops bleeding first, then fights inflammation and infection, then builds new tissue and bone. This isn't just about the gums healing in a few days. Complete healing, especially bone healing, takes several months, which is why your dentist gives you activity restrictions and follow-up appointments.
+When you have mouth surgery—whether it's a tooth extraction, implant placement, or bone grafting—your body goes through predictable healing stages. Understanding these phases helps you recognize what's normal and when to be concerned. Healing happens in layers: the body stops bleeding first, then fights inflammation and infection, then builds new tissue and bone. This isn't just about the gums healing in a few days. Complete healing, especially bone healing, takes several months, which is why your dentist gives you activity restrictions and follow-up appointments. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
 ## First: Stopping the Bleeding (The First 15 Minutes)
 
-Right after surgery, your body's first job is to stop the bleeding. Tiny blood vessels contract to reduce bleeding, and blood cells called platelets rush to the injured area, sticking together to form a clot. This happens within 15-30 minutes. That clot is actually really important—it does much more than just stop bleeding. It contains healing chemicals that start the repair process, it acts as a barrier against bacteria, and it gives new tissue something to grow on. Gentle handling during surgery helps blood clotting work better because it keeps blood vessels healthy and feeding the clot with healing chemicals. Rough surgery or burning tissue can damage these vessels and make clotting less effective.
+Right after surgery, your body's first job is to stop the bleeding. Tiny blood vessels contract to reduce bleeding, and blood cells called platelets rush to the injured area, sticking together to form a clot. This happens within 15-30 minutes. That clot is actually really important—it does much more than just stop bleeding. It contains healing chemicals that start the repair process, it acts as a barrier against bacteria, and it gives new tissue something to grow on. Gentle handling during surgery helps blood clotting work better because it keeps blood vessels healthy and feeding the clot with healing chemicals. Rough surgery or burning tissue can damage these vessels and make clotting less effective. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
 ## Second: Clearing Away Damage (Days 1-5)
 
@@ -74,3 +74,29 @@ Several evidence-based strategies speed healing:
 ## Summary
 
 Mouth healing is a four-stage process: stopping bleeding (minutes), cleaning up debris (days 1-5), building new tissue (days 5-21), and rebuilding bone (months). The soft tissue heals in about two weeks, but bone healing continues for 3-6 months, which is why you need extended activity restrictions and multiple follow-up appointments. Smoking, diabetes, medications, radiation, weak immunity, and poor nutrition can all slow healing. Supporting your body with good nutrition, hydration, pain control, gentle wound care, and following your dentist's instructions dramatically improves your outcome and speeds recovery across all mouth surgeries.
+
+## Related Articles You May Find Helpful
+
+- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+
+
+
+
+## Questions to Ask Your Dentist
+
+Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
+
+- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
+- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
+- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
+- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
+- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
+
+Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist will never pressure you into a decision.
+
+Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+
+> **Key Takeaway:** Understanding wound healing biology after oral surgery helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

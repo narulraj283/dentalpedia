@@ -25,9 +25,9 @@ references:
 
 ## Why Brushing Technique Matters
 
-Most people brush wrong. Wrong angle, too much force, too fast, skipping areas. Evidence-based brushing removes more plaque, prevents gum recession, and prevents tooth wear. Understanding the "why" behind proper technique—why angle matters, why gentle is better than aggressive, why two minutes beats one—helps you brush better and prevents long-term problems.
+Most people brush wrong. Wrong angle, too much force, too fast, skipping areas. Evidence-based brushing removes more plaque, prevents gum recession, and prevents tooth wear. Understanding the "why" behind proper technique—why angle matters, why gentle is better than aggressive, why two minutes beats one—helps you brush better and prevents long-term problems. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
 
-The Modified Bass technique (most recommended) combines how to target the gum line with practical, everyday brushing. When people stick to proven techniques, cavities decrease, gum disease decreases, and serious periodontal disease decreases.
+The Modified Bass technique (most recommended) combines how to target the gum line with practical, everyday brushing. When people stick to proven techniques, cavities decrease, gum disease decreases, and serious periodontal disease decreases. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
 
 ## The Right Way: Modified Bass Technique
 
@@ -120,3 +120,13 @@ After vibrating at the gum line, roll the brush toward the biting surface to cle
 ## Summary
 
 Evidence-based brushing technique emphasizes the Modified Bass method with 45-degree angle bristle positioning, gentle vibratory motions without rolling until clearing the gingival margin, then rolling occlusally for coronal plaque removal. Gentle pressure (150-200 grams) is superior to vigorous scrubbing. Two minutes of brushing removes substantially more plaque than one minute, with minimal additional benefit from three minutes. Systematic brushing order ensures complete coverage of all tooth surfaces. Soft to medium bristles, small brush head size, and toothbrush replacement every 3-4 months optimize effectiveness and safety. Education about these evidence-based techniques, combined with simple tools (timers, pressure sensors), dramatically improves patient compliance and clinical outcomes. Proper brushing technique remains the cornerstone of individual oral health maintenance and the foundation upon which all other plaque removal (flossing, professional cleaning) and prevention efforts are built.
+
+## Related Articles You May Find Helpful
+
+- [Acid Reflux and Tooth Erosion: GERD Management](/article/acid-reflux-and-tooth-erosion-gerd-management.html)
+- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
+- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+
+
+> **Key Takeaway:** Understanding evidence-based teeth brushing techniques helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

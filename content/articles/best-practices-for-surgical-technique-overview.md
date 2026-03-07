@@ -23,9 +23,9 @@ references:
 
 ## Four Core Principles That Guide Surgery
 
-Every dental surgery follows four golden rules that help you heal faster and with fewer problems. First is minimal trauma—your dentist uses gentle technique, proper tools, and careful handling to avoid unnecessary tissue damage. Rough technique extends healing by 20-30% and increases infection risk.
+Every dental surgery follows four golden rules that help you heal faster and with fewer problems. First is minimal trauma—your dentist uses gentle technique, proper tools, and careful handling to avoid unnecessary tissue damage. Rough technique extends healing by 20-30% and increases infection risk. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
-Second is sterility. Your dentist uses sterile instruments, gloved hands, and sterile barriers to keep the surgical area clean. A quick antiseptic rinse before surgery reduces bacteria dramatically. Clean surgical technique drops infection rates from 8-10% down to just 1-2%.
+Second is sterility. Your dentist uses sterile instruments, gloved hands, and sterile barriers to keep the surgical area clean. A quick antiseptic rinse before surgery reduces bacteria dramatically. Clean surgical technique drops infection rates from 8-10% down to just 1-2%. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
 Third is hemostasis—that's fancy talk for stopping the bleeding. Your dentist controls bleeding within 5-10 minutes so you can heal properly and they can see what they're doing. Good bleeding control prevents problems after surgery in 99.5% of cases.
 
@@ -213,8 +213,16 @@ Before your extraction:
 - What's your post-op protocol?
 - How experienced are you with my tooth type specifically?
 
+
+
+## Related Articles You May Find Helpful
+
+- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+
 > **Key Takeaway:** Careful surgical technique—gentle tissue handling, precise instrument use, and respect for your anatomy—leads to faster healing and fewer complications.
 
 ---
 
-**Related articles:** [How teeth are extracted step-by-step](/article/extraction-procedure-explained.html) | [Bone removal and contouring explained](/article/bone-removal-guide.html) | [Preparing for implant surgery](/article/implant-preparation-guide.html)
+**Related articles:** How teeth are extracted step-by-step | Bone removal and contouring explained | Preparing for implant surgery

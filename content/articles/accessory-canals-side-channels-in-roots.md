@@ -23,9 +23,9 @@ references:
 
 ## Understanding Tooth Root Structure
 
-Your tooth roots contain tiny canals that hold nerves and blood vessels. The main canal runs down the center of the root like a highway. However, many teeth also have small side channels branching off from the main canal—these are called "accessory canals."
+Your tooth roots contain tiny canals that hold nerves and blood vessels. The main canal runs down the center of the root like a highway. However, many teeth also have small side channels branching off from the main canal—these are called "accessory canals." For more details, see our guide on [The Apical Foramen and Root Tip Opening](/article/apical-foramen-root-tip-opening.html).
 
-About one-third to one-half of all teeth have these side channels. They're so small that standard X-rays can't show them. You might have one in your tooth right now without realizing it. These little channels become important when your tooth needs a root canal, because they can be a sneaky source of problems if not properly treated.
+About one-third to one-half of all teeth have these side channels. They're so small that standard X-rays can't show them. You might have one in your tooth right now without realizing it. These little channels become important when your tooth needs a root canal, because they can be a sneaky source of problems if not properly treated. For more details, see our guide on [Apical Periodontitis](/article/apical-periodontitis-bone-loss-around-root-tip.html).
 
 ## What Are Accessory Canals?
 
@@ -98,3 +98,13 @@ Sometimes, when side channel problems prevent healing after repeated treatment a
 ## Summary
 
 Accessory canals are tiny side branches in tooth roots present in about one-third to one-half of teeth. These hidden channels contain bacteria and can cause root canal treatment to fail if not properly addressed. Standard X-rays can't show these channels, but modern 3D imaging (CBCT) can reveal them. Better root canal treatment using ultrasonic activation, advanced filling materials, and extended working length helps reach into these side spaces. If your root canal didn't heal well, retreatment with these modern techniques often succeeds. Work with an experienced provider and ask about advanced techniques to prevent side channel problems from the start.
+
+## Related Articles You May Find Helpful
+
+- [The Apical Foramen and Root Tip Opening: Anatomy, Location, and Clinical Significance](/article/apical-foramen-root-tip-opening.html)
+- [Apical Periodontitis: Understanding Bone Loss and Periapical Inflammation](/article/apical-periodontitis-bone-loss-around-root-tip.html)
+- [Calcified Canals: Root Canal Obstruction and Pulpal Canal Space Management](/article/calcified-canals-root-canal-obstruction.html)
+
+
+> **Key Takeaway:** Understanding accessory canals helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

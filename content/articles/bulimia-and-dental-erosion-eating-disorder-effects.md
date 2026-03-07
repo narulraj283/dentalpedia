@@ -25,9 +25,9 @@ references:
 
 ## Understanding Bulimia's Dental Impact
 
-Bulimia nervosa (an eating disorder involving binge eating followed by self-induced vomiting or other purging) affects 1-3% of teenage girls and young women, and increasingly males (10-25% of cases). The vomiting is the problem for your teeth. Stomach acid has a pH (acidity level) of 1.0-2.0—extremely acidic. Your tooth enamel starts dissolving when pH drops below 5.5. Even a single vomiting episode exposing teeth to stomach acid for 3-10 minutes causes significant demineralization (softening). Multiple daily episodes create continuous acid damage.
+Bulimia nervosa (an eating disorder involving binge eating followed by self-induced vomiting or other purging) affects 1-3% of teenage girls and young women, and increasingly males (10-25% of cases). The vomiting is the problem for your teeth. Stomach acid has a pH (acidity level) of 1.0-2.0—extremely acidic. Your tooth enamel starts dissolving when pH drops below 5.5. Even a single vomiting episode exposing teeth to stomach acid for 3-10 minutes causes significant demineralization (softening). Multiple daily episodes create continuous acid damage. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
 
-The erosion (tooth wearing away) happens mainly on the **inside (lingual) surfaces and chewing surfaces (occlusal) of upper front teeth**—that's where gastric acid flows during regurgitation. **Lower teeth** are somewhat protected because your tongue shields them. The erosion pattern is distinctive—smooth, rounded, concave surfaces. This is different from GERD (chronic reflux—more posterior teeth affected) or acid from drinks (more patchy distribution based on where the liquid touched).
+The erosion (tooth wearing away) happens mainly on the **inside (lingual) surfaces and chewing surfaces (occlusal) of upper front teeth**—that's where gastric acid flows during regurgitation. **Lower teeth** are somewhat protected because your tongue shields them. The erosion pattern is distinctive—smooth, rounded, concave surfaces. This is different from GERD (chronic reflux—more posterior teeth affected) or acid from drinks (more patchy distribution based on where the liquid touched). For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
 
 Besides tooth erosion, bulimia causes **enlarged parotid glands** (50-60% of purging patients—the glands swell from being stimulated repeatedly), **gum damage** from forceful vomiting, **mouth sores**, and **increased cavity risk** from damaged saliva. Your saliva normally protects teeth; vomiting disrupts its protective functions.
 
@@ -85,9 +85,17 @@ Continue **fluoride applications** long-term—residual salivary dysfunction may
 
 **Regular follow-ups** every 3-4 months initially, then 6-monthly once stable, monitor for erosion progression and detect relapse patterns early. Long-term success requires **interdisciplinary support**—dental team, therapists, medical providers working together. Recovery is possible with proper treatment.
 
+
+
+## Related Articles You May Find Helpful
+
+- [All-Ceramic Crowns: Metal-Free Restoration Solutions](/article/all-ceramic-crown-metal-free-restoration.html)
+- [Apex Sealing in Endodontics: Complete Root Canal Closure for Treatment Success](/article/apex-sealing-complete-root-canal-closure.html)
+- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
+
 > **Key Takeaway:** Bulimia causes severe dental erosion through repeated stomach acid exposure, but eating disorder treatment prevents further damage and allows future dental repair once behaviors stabilize.
 
-Learn more: [Eating disorders and health](/article/eating-disorders-support.html), [Protecting teeth from erosion](/article/tooth-erosion-prevention.html), or [Salivary dysfunction treatment](/article/dry-mouth-solutions.html).
+Learn more: Eating disorders and health, Protecting teeth from erosion, or Salivary dysfunction treatment.
 
 ## Interdisciplinary Management Approach
 

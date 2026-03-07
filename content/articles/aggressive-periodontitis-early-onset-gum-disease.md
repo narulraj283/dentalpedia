@@ -25,9 +25,9 @@ references:
 
 ## Understanding Rapid Gum Disease
 
-Most gum disease develops slowly over many years. But some people develop severe gum destruction quickly, sometimes starting in their teens or twenties, even with good oral hygiene. This rapid type of gum disease used to be called "aggressive periodontitis," but recently dentists renamed it based on how fast it progresses rather than age at onset.
+Most gum disease develops slowly over many years. But some people develop severe gum destruction quickly, sometimes starting in their teens or twenties, even with good oral hygiene. This rapid type of gum disease used to be called "aggressive periodontitis," but recently dentists renamed it based on how fast it progresses rather than age at onset. For more details, see our guide on [Aggressive vs Chronic](/article/aggressive-vs-chronic-disease-progression-rate.html).
 
-The key marker of this disease is speed—bone loss of more than 2mm per year is considered rapid progression. This happens in only about 5-15% of people with gum disease, but it's destructive and requires aggressive treatment.
+The key marker of this disease is speed—bone loss of more than 2mm per year is considered rapid progression. This happens in only about 5-15% of people with gum disease, but it's destructive and requires aggressive treatment. For more details, see our guide on [Alcohol and Periodontitis](/article/alcohol-and-periodontitis-increased-risk.html).
 
 ## Why Rapid Disease Happens
 
@@ -105,3 +105,29 @@ Factors predicting good outcomes include starting treatment early, excellent com
 If you've been diagnosed with rapid gum disease, don't panic. This disease responds excellently to aggressive treatment. The key is early diagnosis and aggressive management. Many people catch this disease after significant bone loss because early stages often show minimal symptoms.
 
 If you're under age 35 and your dentist finds unexpected bone loss or deep pockets, push for evaluation by a periodontist. Early intervention dramatically improves outcomes and preserves more teeth long-term.
+
+## Related Articles You May Find Helpful
+
+- [Aggressive vs Chronic: Disease Progression Rate](/article/aggressive-vs-chronic-disease-progression-rate.html)
+- [Alcohol and Periodontitis: Increased Risk](/article/alcohol-and-periodontitis-increased-risk.html)
+- [Alveolar Bone: The Tooth Support Structure](/article/alveolar-bone-tooth-support-structure.html)
+
+
+
+
+## Questions to Ask Your Dentist
+
+Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
+
+- **What are my options?** Ask your dentist to explain the different approaches available for your situation, including the pros and cons of each.
+- **What should I expect during recovery?** Understanding the timeline helps you plan ahead. Ask about pain levels, dietary restrictions, and when you can return to normal activities.
+- **How much will this cost?** Get a clear picture of the total cost, including follow-up visits. Ask about payment plans and whether your insurance covers part of the treatment.
+- **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
+- **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
+
+Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist will never pressure you into a decision.
+
+Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
+
+> **Key Takeaway:** Understanding aggressive periodontitis helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+

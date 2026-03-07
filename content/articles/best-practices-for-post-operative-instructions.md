@@ -25,9 +25,9 @@ references:
 
 ## The First 24 Hours: Controlling Bleeding and Swelling
 
-**Bite on the Gauze**: Right after surgery, you'll bite down on gauze for 30 to 45 minutes. Use firm but gentle pressure—imagine holding something between your teeth without clenching hard. This pressure stops the bleeding by letting your body form a blood clot.
+**Bite on the Gauze**: Right after surgery, you'll bite down on gauze for 30 to 45 minutes. Use firm but gentle pressure—imagine holding something between your teeth without clenching hard. This pressure stops the bleeding by letting your body form a blood clot. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
-If you're still bleeding after 45 minutes, replace the gauze with fresh ones and keep biting for another 30 minutes. Some light oozing for a few hours after is totally normal and not a big deal. Bright red bleeding that keeps flowing heavily is the real problem, but that's rare if your surgeon did a good job.
+If you're still bleeding after 45 minutes, replace the gauze with fresh ones and keep biting for another 30 minutes. Some light oozing for a few hours after is totally normal and not a big deal. Bright red bleeding that keeps flowing heavily is the real problem, but that's rare if your surgeon did a good job. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
 **Ice Right Away**: Use ice within the first 6 hours, then do 20 minutes on and 20 minutes off for the rest of the day. Ice reduces swelling by 30 to 40%. Don't put ice directly on your skin—put it in a plastic bag with a towel between the ice and your face. More than 20 minutes continuous ice can damage tissue, so stick to the 20-on, 20-off pattern.
 
@@ -101,3 +101,13 @@ Dry socket is rare but painful. It happens when you lose your blood clot. Preven
 ## The Bottom Line
 
 Post-operative recovery is pretty straightforward if you follow the instructions. Bite gauze, use ice, keep your head up, eat soft foods, take medications on schedule, don't disturb the surgical site, and call if something seems wrong. Most problems are preventable with good post-operative care. Stick to the plan and you'll heal great!
+
+## Related Articles You May Find Helpful
+
+- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+
+
+> **Key Takeaway:** Understanding comprehensive post-operative instructions for surgical success helps you make informed decisions about your dental care. Talk to your dentist about which options are right for your specific situation.
+
