@@ -42,6 +42,7 @@ CITIES_PER_BATCH = 100
 
 # Paths
 CONTENT_DIR = Path("content/articles")
+CLINICAL_CONTENT_DIR = Path("content/clinical")
 OUTPUT_DIR = Path("article")
 CLINICAL_DIR = Path("clinical")
 SITE_ROOT = Path(".")
@@ -3646,14 +3647,15 @@ def main():
     logger.info("Processing articles...")
 
     all_md_files = list(CONTENT_DIR.glob("*.md"))
+    all_clinical_md_files = list(CLINICAL_CONTENT_DIR.glob("*.md")) if CLINICAL_CONTENT_DIR.exists() else all_md_files
 
     completed_patient = 0
     completed_clinical = 0
     with ThreadPoolExecutor(max_workers=8) as executor:
-        # Patient articles
+        # Patient articles — read from content/articles/
         patient_futures = {executor.submit(process_article, md): md for md in all_md_files}
-        # Clinical articles
-        clinical_futures = {executor.submit(process_clinical_article, md): md for md in all_md_files}
+        # Clinical articles — read from content/clinical/ (original clinical-depth content)
+        clinical_futures = {executor.submit(process_clinical_article, md): md for md in all_clinical_md_files}
 
         for future in as_completed(patient_futures):
             if future.result():
