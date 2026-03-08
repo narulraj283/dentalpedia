@@ -65,9 +65,16 @@ Practitioners cannot directly control home plaque removal trauma, but education 
 
 You should employ gentle plaque removal technique: gentle circular motions with appropriate brush angle, appropriate flossing technique (avoiding snap-through of contact areas with high force), and use of gentle interdental aids. Plaque removal efficacy depends on technique and regularity rather than force application.
 
-## Key Takeaway: Communication During Cleaning
+
+For more information, see [Daily Teeth Cleaning: Your Complete Guide](/article/best-practices-for-daily-teeth-cleaning.html) and [Tartar Prevention: What You Need to Know About Calculus](/article/tartar-prevention-what-you-need-to-know.html).
+
+## Conclusion
+
+Effective plaque removal remains essential for prevention of periodontal disease and caries. However, the techniques and agents employed for plaque removal carry substantial risks for iatrogenic damage when applied without appropriate knowledge and careful technique. Overaggressive mechanical instrumentation damages root surfaces and soft tissues; patient education regarding appropriate home plaque removal technique prevents many complications. Your dentist balancing the need for effective plaque removal against risks of instrumentation damage through careful technique provides superior long-term outcomes.
 
 Your plaque removal experience should be comfortable. If your dentist or hygienist is causing discomfort, communicate clearly so technique can be adjusted. Excellent plaque removal can be accomplished with gentle, careful technique. Your dentist's goal is removing disease-causing biofilm while preserving your tooth and gum structure.
+
+> **Key Takeaway:** ## Key Takeaway: Communication During Cleaning
 
 ## Related Articles
 
@@ -75,6 +82,3 @@ Your plaque removal experience should be comfortable. If your dentist or hygieni
 - [Choosing the Right Pain Relief for Dental Pain](/article/pain-relief-methods-what-you-need-to-know.html)
 - [Taking Care of Your Mouth After Oral Surgery](/article/post-surgery-care-what-you-need-to-know.html)
 
-## Conclusion
-
-Effective plaque removal remains essential for prevention of periodontal disease and caries. However, the techniques and agents employed for plaque removal carry substantial risks for iatrogenic damage when applied without appropriate knowledge and careful technique. Overaggressive mechanical instrumentation damages root surfaces and soft tissues; patient education regarding appropriate home plaque removal technique prevents many complications. Your dentist balancing the need for effective plaque removal against risks of instrumentation damage through careful technique provides superior long-term outcomes.

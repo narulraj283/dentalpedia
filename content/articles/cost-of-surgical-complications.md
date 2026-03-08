@@ -39,7 +39,7 @@ The good news: most complications are preventable or manageable if caught early.
 
 **What causes it:** The healing clot breaks down, exposing bone
 
-**How to prevent it:** Don't rinse, spit, use straws, or smoke for the first week. Learning more about [extraction warning signs](/article/extraction-warning-signs.html) can help you understand this better. Avoid vigorous activity.
+**How to prevent it:** Don't rinse, spit, use straws, or smoke for the first week. Learning more about extraction warning signs can help you understand this better. Avoid vigorous activity.
 
 If dry socket develops, your dentist rinses the socket and places medicated dressing. Weekly visits for 2-4 weeks might be needed. You can prevent this common problem by following post-op instructions.
 
@@ -119,7 +119,7 @@ Extreme swelling that affects breathing or swallowing is an emergency requiring 
 - Taking antibiotics as prescribed: INCLUDED in surgery cost
 - Avoiding smoking/alcohol: FREE
 - Activity restriction: FREE
-- Attending follow-up visit: Usually FREE or included in surgery fee You may also want to read about [prevention post surgery](/article/prevention-post-surgery.html).
+- Attending follow-up visit: Usually FREE or included in surgery fee You may also want to read about prevention post surgery.
 
 **These FREE/cheap preventions stop complications costing $75-$1,000+**
 
@@ -155,8 +155,6 @@ Taking prescribed antibiotics prevents infections that cost 10-20 times more to 
 
 Your dentist wants to see you 1-2 weeks post-op. This visit ($0-$100, usually free) catches problems early. Don't skip it thinking everything feels fine.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about surgical complications and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -167,16 +165,20 @@ You might also want to ask about the expected timeline, what the recovery proces
 
 Once you've addressed surgical complications, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
 
+
+For more information, see [Clinical Protocols for Tooth Extraction and](/article/best-practices-for-surgical-teeth-removal.html) and [Bleeding After Tooth Extraction: Clinical Assessment](/article/bleeding-after-tooth-extraction-when-is-it-excessive.html).
+
 ## Conclusion
 
 Most complications from dental surgery are preventable or manageable when caught early. Following post-op instructions (FREE), taking prescribed medications ($5-$25), and attending follow-up visits ($0-$100) prevent complications costing $300-$5,000. Smoking increases complications by 40-50%, so stopping even temporarily helps. Call immediately if you experience fever, spreading swelling, or warning signs. Prevention and early detection are far cheaper than treating advanced complications.
 
+> **Key Takeaway:** Understand complications that can happen after dental surgery and how to prevent them.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
+- [Extraction Complications](/article/how-to-extraction-complications.html)
+- [Wisdom Teeth Recovery: Timeline and Pain Management](/article/wisdom-teeth-recovery-timeline-and-pain-management.html)
+- [Surgical Site Healing - Phases and Biological Responses](/article/how-to-surgical-site-healing.html)
+- [Post-Surgery Care: What You Should Know](/article/how-to-post-surgery-care.html)
+- [Wisdom Teeth Extraction: What You Need to Know](/article/wisdom-teeth-extraction-what-you-need-to-know.html)
 
-- [Warning Signs After Extraction Surgery](/article/extraction-warning-signs.html)
-- [Preventing Complications: Your Role](/article/prevention-post-surgery.html)
-- [When to Call Your Dentist After Surgery](/article/call-dentist-warning-signs.html)
-
-> **Key Takeaway:** Most surgical complications are preventable by following instructions, taking medications, and attending follow-ups. Dry socket, bleeding, and infection are most common, costing $75-$300 to treat. Prevention (FREE) saves thousands. Smoking increases complications by 40-50%. Call immediately if you experience fever, spreading swelling, or difficulty breathing.

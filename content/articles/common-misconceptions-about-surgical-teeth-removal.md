@@ -1,24 +1,34 @@
 ---
-title: "Surgical Tooth Extraction: Indications, Misconceptions, and"
-slug: common-misconceptions-about-surgical-teeth-removal
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Learn when extraction is necessary, how your dentist determines the best approach, and what you need to know before having a tooth removed.
 date: 2026-03-05
+excerpt: Learn when extraction is necessary, how your dentist determines the best
+  approach, and what you need to know before having a tooth removed.
 read_time: 10 min
+references:
+- 'Carmichael FA, McGowan DA. Incidence of nerve damage following third molar removal:
+  a comparative study of different surgical techniques. J Oral Maxillofac Surg. 1992;50(11):1177-1179.'
+- Adebiyi BB, Fakokun O, Odukoya O, Akpan AO. Prevalence of perioperative and early
+  postoperative complications after third molar extractions. Oral Maxillofac Surg.
+  2009;13(2):81-85.
+- 'Hupp JR, Ellis E, Tucker MR. Contemporary oral and maxillofacial surgery. 6th ed.
+  St. Louis: Mosby; 2013.'
+- Bui CH, Seldin EB, Dodson TB. Types, frequencies, and risk factors for complications
+  after third molar extraction. J Oral Maxillofac Surg. 2003;61(12):1379-1389.
+- 'Renton T, Wadehra N, Meechan JG. Fracture of the tuberosity of the maxilla: diagnosis
+  and management. Br Dent J. 2007;202(3):131-135.'
+- Laskin DM, Giglio JA. Diagnosis and management of neurological complications following
+  dental and oral surgical treatment. Dent Today. 2006;25(9):90-95.
+- 'Ley Y, Alon G, Sela MN. Periodontal wound healing after free gingival autograft:
+  a prospective study in humans. J Periodontol. 2003;74(8):1116-1122.'
+- 'Malagola N, Verga D, Di Carlo G, et al. Surgical extraction of lower third molars:
+  differences among techniques. Rev Recent Clin Trials. 2013;8(3):219-229.'
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: common-misconceptions-about-surgical-teeth-removal
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - "Carmichael FA, McGowan DA. Incidence of nerve damage following third molar removal: a comparative study of different surgical techniques. J Oral Maxillofac Surg. 1992;50(11):1177-1179."
-  - "Adebiyi BB, Fakokun O, Odukoya O, Akpan AO. Prevalence of perioperative and early postoperative complications after third molar extractions. Oral Maxillofac Surg. 2009;13(2):81-85."
-  - "Hupp JR, Ellis E, Tucker MR. Contemporary oral and maxillofacial surgery. 6th ed. St. Louis: Mosby; 2013."
-  - "Bui CH, Seldin EB, Dodson TB. Types, frequencies, and risk factors for complications after third molar extraction. J Oral Maxillofac Surg. 2003;61(12):1379-1389."
-  - "Renton T, Wadehra N, Meechan JG. Fracture of the tuberosity of the maxilla: diagnosis and management. Br Dent J. 2007;202(3):131-135."
-  - "Laskin DM, Giglio JA. Diagnosis and management of neurological complications following dental and oral surgical treatment. Dent Today. 2006;25(9):90-95."
-  - "Ley Y, Alon G, Sela MN. Periodontal wound healing after free gingival autograft: a prospective study in humans. J Periodontol. 2003;74(8):1116-1122."
-  - "Malagola N, Verga D, Di Carlo G, et al. Surgical extraction of lower third molars: differences among techniques. Rev Recent Clin Trials. 2013;8(3):219-229."
+title: 'Surgical Tooth Extraction: Indications, Misconceptions'
 ---
 
 You might be facing wisdom tooth extraction, or your dentist might have recommended removing another tooth. Understanding when extraction is necessary and how your dentist determines the best approach helps you make informed decisions about your care.
@@ -37,7 +47,7 @@ Simple extractions (tooth is loose, positioned normally, easy to reach) are quic
 
 ## Does Your Dentist Have to Remove a Lot of Bone?
 
-Not necessarily. Learning more about [impacted teeth removal canines molars and premolars](/article/impacted-teeth-removal-canines-molars-and-premolars.html) can help you understand this better. An experienced dentist removes just enough bone to safely extract the tooth. Some techniques minimize bone removal: sectioning the tooth into smaller pieces so each piece can be removed without extensive bone exposure is one smart approach. Less bone removal means less damage to your jaw structure and better options if you want an implant later.
+Not necessarily. Learning more about [Impacted Teeth Removal Canines Molars and Premolars](/article/impacted-teeth-removal-canines-molars-and-premolars.html) can help you understand this better. An experienced dentist removes just enough bone to safely extract the tooth. Some techniques minimize bone removal: sectioning the tooth into smaller pieces so each piece can be removed without extensive bone exposure is one smart approach. Less bone removal means less damage to your jaw structure and better options if you want an implant later.
 
 The amount of bone removal also affects how much bone loss you experience later. Careful surgical technique that preserves bone is one reason expertise matters.
 
@@ -55,7 +65,7 @@ If you're planning an implant, you usually need to wait several months to let bo
 
 ## Can Your Dentist Predict Nerve Injury Risk?
 
-Your lower jaw has an important nerve that can be injured during extraction. Learning more about [timeline for recovery timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. If you need X-rays or CT scans for your extraction, your dentist is looking at the relationship between the tooth and this nerve. If the nerve is close to the tooth, that's a risk factor you need to know about. Being able to see this ahead of time (instead of discovering it during surgery) is much better.
+Your lower jaw has an important nerve that can be injured during extraction. Learning more about [Timeline for Recovery Timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. If you need X-rays or CT scans for your extraction, your dentist is looking at the relationship between the tooth and this nerve. If the nerve is close to the tooth, that's a risk factor you need to know about. Being able to see this ahead of time (instead of discovering it during surgery) is much better.
 
 Studies show that dentists using advanced imaging to assess nerve proximity can plan accordingly and reduce injury risk. If the nerve is very close, your dentist might refer you to an oral surgeon who has more experience managing this complexity.
 
@@ -83,16 +93,19 @@ Surprisingly, not necessarily. Extracting 3-4 straightforward teeth might take l
 
 One complex extraction might require extensive bone removal, careful instrumentation, and detailed hemostasis control, taking the same time as multiple simpler extractions.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Deciding whether to extract a tooth and how to extract it requires considering your situation, the tooth's position, your overall health, and your treatment goals. Not all extractions are equal, and not all impacted teeth need removal. Modern imaging and technique let your dentist plan extraction carefully and minimize harm to your jaw structure. Having this conversation with your dentist helps you understand why they're recommending what they recommend.
 
+> **Key Takeaway:** Learn when extraction is necessary, how your dentist determines the best approach, and what you need to know before having a tooth removed.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
+- [Why Surgical Complications Matters](/article/why-surgical-complications-matters.html)
+- [Why Wisdom Teeth Extraction Matters](/article/why-wisdom-teeth-extraction-matters.html)
+- [Extraction Complication Timeline: Prevention,](/article/timeline-for-extraction-complications.html)
+- [Complete Guide to Recovery After Tooth Extraction](/article/recovery-after-extraction-complete-guide.html)
+- [Risk and Concerns with Pre-Surgery Preparation in](/article/risk-and-concerns-with-pre-surgery-preparation.html)
 
-- [Impacted Teeth Removal Guide](/article/impacted-teeth-removal-canines-molars-and-premolars.html)
-- [Timeline for Recovery](/article/timeline-for-recovery-timeline.html)
-- [Surgical Site Healing](/article/surgical-site-healing-physiology-clinical-management.html)
-
-> **Key Takeaway:** Tooth extraction decisions should consider whether the tooth is actually causing problems, your individual risk factors, and whether extraction is necessary—not all impacted teeth need to come out. Talk to your dentist about which options are right for your specific situation.

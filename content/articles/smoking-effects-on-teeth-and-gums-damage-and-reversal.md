@@ -35,15 +35,17 @@ references:
 
 ## Introduction
 
-If you smoke, you probably know it's bad for you. But you might not realize exactly how much damage it does to your teeth and gums. Smoking doesn't just stain your teeth—it speeds up gum disease, causes bone loss, increases your cancer risk, and makes your mouth heal slowly. The tough part? Some of this damage is permanent. But here's the good news: other effects can be reversed if you quit.
+If you smoke, you probably know it's bad for you. But you might not realize exactly how much damage it does to your teeth and gums. Smoking doesn't just stain your teeth—it speeds up gum disease, causes bone loss, increases your cancer risk, and makes your mouth heal slowly.
 
-Most smokers focus only on surface problems like staining and bad breath. Learn more about [mobility and migration tooth](/article/mobility-and-migration-tooth-movement-patterns.html) for additional guidance. You might not know about the serious damage happening underneath—like your jawbone disappearing or gum disease getting worse much faster than it would for non-smokers. Understanding what smoking really does to your mouth can be powerful motivation to quit.
+The tough part? Some of this damage is permanent. But here's the good news: other effects can be reversed if you quit.
+
+Most smokers focus only on surface problems like staining and bad breath. Learn more about [Mobility and Migration Tooth](/article/mobility-and-migration-tooth-movement-patterns.html) for additional guidance. You might not know about the serious damage happening underneath—like your jawbone disappearing or gum disease getting worse much faster than it would for non-smokers. Understanding what smoking really does to your mouth can be powerful motivation to quit.
 
 ## Accelerated Gum Disease
 
 The worst damage smoking does to your mouth is speeding up gum disease. Non-smokers might develop serious gum disease over many years, but smokers develop it much faster—sometimes 2 to 8 times faster. Smokers in their 30s or 40s can have the same level of gum disease that non-smokers might not develop until they're 60.
 
-Here's something sneaky about smoking and gum disease: your gums often look fine when they're actually severely diseased. Learn more about [furcation classification degrees of](/article/furcation-classification-degrees-of-involvement.html) for additional guidance. That's because nicotine reduces bleeding, so you don't get the warning signs. Your gums might look okay while underneath, bone is disappearing. This is dangerous because you don't realize how serious the problem is until it's too late.
+Here's something sneaky about smoking and gum disease: your gums often look fine when they're actually severely diseased. Learn more about [Furcation Classification Degrees of](/article/furcation-classification-degrees-of-involvement.html) for additional guidance. That's because nicotine reduces bleeding, so you don't get the warning signs. Your gums might look okay while underneath, bone is disappearing. This is dangerous because you don't realize how serious the problem is until it's too late.
 
 ## Your Teeth Get Stained—Both Surfaces and Inside
 
@@ -103,15 +105,15 @@ The important point is this: while you can't undo the tooth and bone loss, you c
 
 ## Conclusion
 
-Smoking damages your teeth, gums, and jawbone in ways that are hard to fully repair. Your gum disease gets worse much faster, your teeth stain both outside and inside, your jawbone shrinks, and your cancer risk goes way up. Some of this damage is permanent. But the good news is that other damage can be reversed or at least stopped from getting worse when you quit. Your mouth will look healthier, feel healthier, and be healthier—starting within just weeks. Talk to your dentist about quitting; they can help you understand your specific risks and the benefits you'll see.
+Smoking damages your teeth, gums, and jawbone in ways that are hard to fully repair. Your gum disease gets worse much faster, your teeth stain both outside and inside, your jawbone shrinks, and your cancer risk goes way up. Some of this damage is permanent.
 
-## Key Takeaway
+But the good news is that other damage can be reversed or at least stopped from getting worse when you quit. Your mouth will look healthier, feel healthier, and be healthier—starting within just weeks. Talk to your dentist about quitting; they can help you understand your specific risks and the benefits you'll see.
 
-Smoking accelerates gum disease, causes permanent tooth loss and jawbone shrinkage, and dramatically increases your oral cancer risk. While some damage like bone loss is irreversible, you can stop the progression and reverse softer tissue damage by quitting.
+> **Key Takeaway:** Smoking accelerates gum disease, causes permanent tooth loss and jawbone shrinkage, and dramatically increases your oral cancer risk. While some damage like bone loss is irreversible, you can stop the progression and reverse softer tissue damage by quitting.
 
 ## Related Articles
 
-- [Mobility and Migration: Tooth Movement Patterns](/article/mobility-and-migration-tooth-movement-patterns/)
-- [Pathogenic Bacteria: Key Players in Gum Disease](/article/pathogenic-bacteria-key-players-in-gum-disease/)
-- [Cost of Bleeding Gums Solutions](/article/cost-of-bleeding-gums-solutions/)
+- [Pathogenic Bacteria—Key Players in the](/article/pathogenic-bacteria-key-players-in-gum-disease.html)
+- [Advanced Gum Disease: When Tooth Roots Become Separated](/article/furcation-involvement-root-separation-exposure.html)
+- [Cost of Bleeding Gums Solutions](/article/cost-of-bleeding-gums-solutions.html)
 

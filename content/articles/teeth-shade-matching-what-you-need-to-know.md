@@ -49,7 +49,9 @@ Your tooth color comes from several things working together, and understanding t
 
 **The Yellow Layer Underneath**
 
-Under your tooth's hard white outer layer (enamel) is something called dentin. It's softer and naturally has a yellow tint. How yellow your dentin is depends on your genes, age, and ethnic background. Some people naturally have very yellow dentin, giving their teeth a warm look. Others have grayer dentin, which makes teeth look cooler. As you age, your dentin gets even more yellow.
+Under your tooth's hard white outer layer (enamel) is something called dentin. It's softer and naturally has a yellow tint. How yellow your dentin is depends on your genes, age, and ethnic background.
+
+Some people naturally have very yellow dentin, giving their teeth a warm look. Others have grayer dentin, which makes teeth look cooler. As you age, your dentin gets even more yellow.
 
 Your restoration needs to match not just the white part, but also account for that yellow showing through. If your dentin is yellow but your new tooth looks bright white, you'll see the difference next to your natural teeth.
 
@@ -87,7 +89,7 @@ Beyond just picking the right shade, other things affect how your tooth looks wh
 
 Teeth look different under different kinds of light. The bright white light in your dentist's office shows one thing. Natural sunlight shows another. The light in your home (usually warmer and more yellow) shows yet another look. Your restoration will only look identical in all these lights if it perfectly matches how your real tooth reflects light—and that's very rare.
 
-This is why a tooth that looks perfect in the dentist's chair might look slightly off at home. It's not a mistake. It's just how colors work with different lighting. Talk about this with your dentist before you get your restoration so you know what to expect. Check [why smile enhancement options matter](/article/why-smile-enhancement-options-matters.html) for more information about what to expect from cosmetic changes.
+This is why a tooth that looks perfect in the dentist's chair might look slightly off at home. It's not a mistake. It's just how colors work with different lighting. Talk about this with your dentist before you get your restoration so you know what to expect. Check [Why Smile Enhancement Options Matter](/article/why-smile-enhancement-options-matters.html) for more information about what to expect from cosmetic changes.
 
 **Your Other Teeth Affect How It Looks**
 
@@ -119,7 +121,7 @@ Also mention things like: "My teeth are naturally very yellow at the bottom" or 
 
 **Ask for Written Records**
 
-Request that your dentist write down the exact shade picked, any numbers from the color machine if they used one, and notes about your teeth. Ask for copies of the photos. This helps if you need adjustments later. Learn more about [gum contouring for cosmetics and reshaping tissue](/article/gum-contouring-for-cosmetics-reshaping-tissue.html) if other cosmetic changes are part of your plan.
+Request that your dentist write down the exact shade picked, any numbers from the color machine if they used one, and notes about your teeth. Ask for copies of the photos. This helps if you need adjustments later. Learn more about [Gum Contouring for Cosmetics and Reshaping Tissue](/article/gum-contouring-for-cosmetics-reshaping-tissue.html) if other cosmetic changes are part of your plan.
 
 **Plan for Touch-Up Visits**
 
@@ -135,7 +137,9 @@ Your natural teeth aren't one uniform shade. They're darker at the gum line, lig
 
 **Light and Color Work Together**
 
-This happens because of something called metamerism. Colors look different under different lights—especially restorations that don't match your real tooth perfectly. A tooth that matches perfectly in the dentist's office might look slightly different in sunlight. That's not an error. That's just how color and light work. Understanding this helps you know why your tooth might look a bit different in different places or times of day.
+This happens because of something called metamerism. Colors look different under different lights—especially restorations that don't match your real tooth perfectly. A tooth that matches perfectly in the dentist's office might look slightly different in sunlight.
+
+That's not an error. That's just how color and light work. Understanding this helps you know why your tooth might look a bit different in different places or times of day.
 
 **Lab Technicians Have Different Skills**
 
@@ -158,13 +162,11 @@ Asking these questions helps you know what to expect and feel confident about yo
 
 ## What to Do If You're Not Happy
 
-If your restoration looks noticeably different after it's placed, call your dentist right away. They can usually help by polishing or adjusting the surface, giving you time to get used to it, checking it under different lights, or if it's really not right, having the lab make a new one. The sooner you mention it (within the first week is best), the easier it is to fix. Learn more about [common misconceptions about gummy smile fixes](/article/common-misconceptions-about-gummy-smile-fix.html) if you have other smile concerns.
+If your restoration looks noticeably different after it's placed, call your dentist right away. They can usually help by polishing or adjusting the surface, giving you time to get used to it, checking it under different lights, or if it's really not right, having the lab make a new one. The sooner you mention it (within the first week is best), the easier it is to fix. Learn more about [Common Misconceptions About Gummy Smile Fixes](/article/common-misconceptions-about-gummy-smile-fix.html) if you have other smile concerns.
 
 ## The Bottom Line
 
 Shade matching isn't a perfect science, but modern tools and experienced dentists get great results most of the time. Understanding why teeth are the colors they are, knowing that matching has limits, and having realistic expectations helps you feel good about your new restoration. You can appreciate that perfect invisibility might not happen—and that's completely normal.
-
-
 
 ## Conclusion
 
@@ -172,12 +174,13 @@ Taking care of your dental health is one of the best investments you can make in
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Professional shade matching combines visual assessment with modern tools (spectrophotometer, photography) to create the best possible color match. Perfect invisibility in all lighting conditions is rarely achievable, but realistic expectations and proper communication between dentist and patient optimize results. Post-treatment color adjustments are often possible if you're not satisfied within the first week.
+> **Key Takeaway:** Professional shade matching combines visual assessment with modern tools (spectrophotometer, photography) to create the best possible color match. Perfect invisibility in all lighting conditions is rarely achievable, but realistic expectations and proper communication between dentist and patient optimize results. Post-treatment color adjustments are often possible if you're not satisfied within the first week.
 
 ## Related Articles
 
-- [Why Smile Enhancement Options Matter](/article/why-smile-enhancement-options-matters.html)
-- [Gum Contouring for Cosmetics: Reshaping Tissue](/article/gum-contouring-for-cosmetics-reshaping-tissue.html)
+- [Keep Your Whitened Teeth Bright](/article/maintaining-your-whitened-teeth-tips-and-touch-ups.html)
+- [Anterior Restoration Material Selection: Cosmetic](/article/anterior-restoration-material-selection-cosmetic-considerations.html)
+
+- [Why Smile Enhancement Options Matters](/article/why-smile-enhancement-options-matters.html)
+- [Gum Contouring for Cosmetics](/article/gum-contouring-for-cosmetics-reshaping-tissue.html)
 - [Common Misconceptions About Gummy Smile Fix](/article/common-misconceptions-about-gummy-smile-fix.html)

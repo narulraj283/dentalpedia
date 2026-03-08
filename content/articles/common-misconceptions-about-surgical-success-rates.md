@@ -1,31 +1,48 @@
 ---
-title: "Oral Surgical Success Rates: Defining, Measuring, and"
-slug: common-misconceptions-about-surgical-success-rates
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: What do success rates really mean for your treatment, and how can you understand them to make better decisions about dental procedures?
 date: 2026-03-05
+excerpt: What do success rates really mean for your treatment, and how can you understand
+  them to make better decisions about dental procedures?
 read_time: 10 min
+references:
+- 'Buser D, Sennerby L, De Bruyn H. Modern implant dentistry based on osseointegration:
+  50 years of progress, current trends and future perspectives. Periodontol 2000.
+  2017;73(1):7-12.'
+- Romeo E, Lezar A, Fabbro MD, et al. Factors affecting the success of osseointegrated
+  dental implants. A longitudinal study. J Clin Periodontol. 2002;29(3):236-243.
+- Smeets R, Henningsen A, Jung O, Heiland M, Arbab-Zadeh A, Cheung LK. Definition,
+  etiology, prevention and treatment of peri-implantitis—a review. Head Face Med.
+  2014;10:34.
+- Gorman LM, Lambert PM, Finkelstein MW, et al. Radiographic assessment of implant
+  integration. Oral Surg Oral Med Oral Pathol. 1994;78(4):410-417.
+- Abrahamsson I, Berglundh T, Wennström JL, Lindhe J. The peri-implant hard and soft
+  tissues at different implant systems. A comparative clinical study. Clin Oral Implants
+  Res. 1996;7(3):212-219.
+- Bornstein MM, Al-Hezaimi K, Pace R, Ganz B. Interimplant distances less than 3 mm
+  appear to be associated with clinically significant alveolar bone loss especially
+  at the distal aspect of the coronal aspect of the interdental septum. J Periodontol.
+  2014;85(3):431-438.
+- Jung RE, Pjetursson BE, Glauser R, et al. A systematic review of the survival and
+  complication rates of implant-supported fixed dental prostheses (FDPs) after a mean
+  observation period of at least 5 years. Clin Oral Implants Res. 2008;19(2):119-130.
+- Salvi GE, Cosgarea R, Sculean A. Prevalence and mechanisms of peri-implant diseases.
+  J Dent Res. 2017;96(1):31-37.
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: common-misconceptions-about-surgical-success-rates
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - "Buser D, Sennerby L, De Bruyn H. Modern implant dentistry based on osseointegration: 50 years of progress, current trends and future perspectives. Periodontol 2000. 2017;73(1):7-12."
-  - "Romeo E, Lezar A, Fabbro MD, et al. Factors affecting the success of osseointegrated dental implants. A longitudinal study. J Clin Periodontol. 2002;29(3):236-243."
-  - "Smeets R, Henningsen A, Jung O, Heiland M, Arbab-Zadeh A, Cheung LK. Definition, etiology, prevention and treatment of peri-implantitis—a review. Head Face Med. 2014;10:34."
-  - "Gorman LM, Lambert PM, Finkelstein MW, et al. Radiographic assessment of implant integration. Oral Surg Oral Med Oral Pathol. 1994;78(4):410-417."
-  - "Abrahamsson I, Berglundh T, Wennström JL, Lindhe J. The peri-implant hard and soft tissues at different implant systems. A comparative clinical study. Clin Oral Implants Res. 1996;7(3):212-219."
-  - "Bornstein MM, Al-Hezaimi K, Pace R, Ganz B. Interimplant distances less than 3 mm appear to be associated with clinically significant alveolar bone loss especially at the distal aspect of the coronal aspect of the interdental septum. J Periodontol. 2014;85(3):431-438."
-  - "Jung RE, Pjetursson BE, Glauser R, et al. A systematic review of the survival and complication rates of implant-supported fixed dental prostheses (FDPs) after a mean observation period of at least 5 years. Clin Oral Implants Res. 2008;19(2):119-130."
-  - "Salvi GE, Cosgarea R, Sculean A. Prevalence and mechanisms of peri-implant diseases. J Dent Res. 2017;96(1):31-37."
+title: 'Oral Surgical Success Rates: Defining, Measuring'
 ---
 
 When your dentist tells you that a procedure has a "95% success rate," what does that really mean for you? Understanding success rates helps you make informed decisions about dental treatment. Let's break down what these numbers actually mean.
 
 ## Does One Success Rate Apply to Everyone?
 
-Here's an important fact: success rates vary quite a bit depending on your individual situation. Learning more about [timeline for recovery timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. For example, dental implants have around 95% success rates overall, but that number changes based on your health. If you have well-controlled diabetes, your success rate might be 85-90%. If you smoke, it might be 80-88%. If you've had gum disease in the past, it could be lower still.
+Here's an important fact: success rates vary quite a bit depending on your individual situation. Learning more about [Timeline for Recovery Timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. For example, dental implants have around 95% success rates overall, but that number changes based on your health.
+
+If you have well-controlled diabetes, your success rate might be 85-90%. If you smoke, it might be 80-88%. If you've had gum disease in the past, it could be lower still.
 
 Your age, overall health, bone quality, and even which tooth location gets the implant affect success rates. It's kind of like weather forecasts—the general forecast might say 70% chance of rain, but the specific forecast for your area might be different. Your dentist should discuss how your individual situation affects the likely success of your treatment.
 
@@ -51,7 +68,7 @@ Your dentist's experience with a specific technique also matters. A technique th
 
 Absolutely, and this is something you can control. Your own actions after surgery significantly influence success. For example, if you smoke after getting an implant, you're more likely to have problems. If you don't take care of your teeth and gums, that affects implant health. Poor oral hygiene increases implant problems 3-5 times more than good hygiene.
 
-This is actually good news because it means you have power over your outcome. Learning more about [surgical complications complete guide](/article/surgical-complications-complete-guide.html) can help you understand this better. Following your dentist's post-operative instructions, keeping up with dental visits, maintaining excellent oral hygiene, and avoiding smoking all improve your chances of success.
+This is actually good news because it means you have power over your outcome. Learning more about [Surgical Complications Complete Guide](/article/surgical-complications-complete-guide.html) can help you understand this better. Following your dentist's post-operative instructions, keeping up with dental visits, maintaining excellent oral hygiene, and avoiding smoking all improve your chances of success.
 
 ## Does a Lower Success Rate Mean the Doctor Is Bad?
 
@@ -81,12 +98,13 @@ Realistic numbers usually come from published research that's been reviewed by o
 
 Understanding success rates means knowing that they vary based on your situation, that they change over time, and that your own actions significantly influence your outcome. Don't just look at the percentage—understand what it really measures, how it applies to your specific situation, and what you can do to improve your chances. The best outcome comes from partnering with your dentist who can explain these numbers clearly and help you make the right choice.
 
+> **Key Takeaway:** What do success rates really mean for your treatment, and how can you understand them to make better decisions about dental procedures?
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Timeline for Recovery](/article/timeline-for-recovery-timeline.html)
-- [Surgical Complications Guide](/article/surgical-complications-complete-guide.html)
 - [Impacted Tooth Removal Options](/article/impacted-teeth-removal-canines-molars-and-premolars.html)
+- [Cleft Lip and Palate Surgery](/article/cleft-lip-and-palate-surgery-multidisciplinary-approach.html)
+- [Common Misconceptions About Pre-Surgery Preparation](/article/common-misconceptions-about-pre-surgery-preparation.html)
+- [Pain Management Surgery Complete Guide](/article/pain-management-surgery-complete-guide.html)
+- [Alveolar Bone Grafting in Cleft-Associated Defects](/article/alveolar-bone-grafting-cleft-associated-defects.html)
 
-> **Key Takeaway:** Success rates are population averages that change over time and vary based on your individual health, habits, and specific situation—so discuss how they apply to you personally. Talk to your dentist about which options are right for your specific situation.

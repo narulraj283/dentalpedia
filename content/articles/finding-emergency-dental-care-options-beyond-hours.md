@@ -44,7 +44,7 @@ Call your dentist's emergency number or go to an urgent dental clinic if you hav
 - A tooth that's been hit and looks wrong
 - Swelling in your gum or face
 - A crown or filling that came out
-- A cracked tooth causing pain You may also want to read about [reimplanted teeth salvaging avulsed permanent teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html).
+- A cracked tooth causing pain You may also want to read about [Reimplanted Teeth Salvaging Avulsed Permanent Teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html).
 
 These need professional care within hours, but they're not life-threatening.
 
@@ -71,7 +71,7 @@ If you can't reach your dentist:
 - Take over-the-counter pain medicine (ibuprofen 600-800mg or acetaminophen 650mg)
 - Avoid chewing on that tooth
 - Apply a cold pack to the outside of your face
-- Avoid very hot foods and drinks You may also want to read about [risk and concerns with mouth injuries treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html).
+- Avoid very hot foods and drinks You may also want to read about [Risk and Concerns with Mouth Injuries Treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html).
 
 **Completely knocked-out tooth:**
 - Handle it by the crown only, not the root
@@ -154,8 +154,6 @@ The best emergency care is prevention:
 - Handle falls carefully (watch where you're going)
 - Secure seatbelts while driving
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about finding emergency dental care options beyond hours and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -166,12 +164,13 @@ You might also want to ask about the expected timeline, what the recovery proces
 
 Dental emergencies are stressful, but knowing what to do helps. Keep your dentist's emergency number handy. Know where the nearest emergency dental clinic is. And don't delay getting professional care—the faster you get treatment, the better your outcome.
 
+> **Key Takeaway:** Dental emergencies happen—a broken tooth, sudden severe pain, a knocked-out tooth.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
+- [Lost Filling or Crown: What to Do Now](/article/lost-filling-or-crown-temporary-and-permanent-solutions.html)
 
-- [Reimplanted Teeth: Salvaging Avulsed Permanent Teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html)
-- [Risk and Concerns with Mouth Injuries Treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html)
-- [Lost Filling or Crown: Temporary and Permanent Solutions](/article/lost-filling-or-crown-temporary-and-permanent-solutions.html)
+- [Emergency Root Canal: Treating Severe Endodontic Pain](/article/emergency-root-canal-treating-severe-dental-pain.html)
+- [Risk and Concerns with Emergency Tooth Pain](/article/risk-and-concerns-with-emergency-tooth-pain.html)
+- [Emergency Dental Pain Management: Triage and Treatment](/article/timeline-for-emergency-tooth-pain.html)
 
-> **Key Takeaway:** Dental emergencies need quick action. Call your dentist's emergency number first. For knocked-out teeth, time is critical—get professional care within 30 minutes if possible. For other emergencies, same-day care is usually needed. Talk to your dentist about which options are right for your specific situation.

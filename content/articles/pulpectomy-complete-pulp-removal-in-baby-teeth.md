@@ -51,11 +51,11 @@ Pulpectomy in baby teeth succeeds about 70-90% of the time, with success meaning
 
 ## Aftercare and Restoration
 
-After pulpectomy, your child might experience mild sensitivity for a few days—normal and manageable with pain medication. Avoid hard, sticky, or crunchy foods for a week. Your child should continue normal brushing and flossing of all other teeth but avoid chewing directly on the treated tooth until it receives a protective stainless steel crown. For more on this topic, see our guide on [Sleep Disordered Breathing In Kids Os...](/article/sleep-disordered-breathing-in-kids-osa-signs.html).
+After pulpectomy, your child might experience mild sensitivity for a few days—normal and manageable with pain medication. Avoid hard, sticky, or crunchy foods for a week. Your child should continue normal brushing and flossing of all other teeth but avoid chewing directly on the treated tooth until it receives a protective stainless steel crown. For more on this topic, see our guide on [Sleep-Disordered Breathing in Kids](/article/sleep-disordered-breathing-in-kids-osa-signs.html).
 
 The stainless steel crown is essential. It protects the treated tooth, prevents bacteria from re-entering through gaps, and significantly improves long-term success. Your dentist will fit and cement the crown, usually at the same appointment or within a few days.
 
-[Learn more about how baby teeth naturally shed and when permanent teeth erupt](/article/primary-tooth-mobility-when-to-extract.html).
+[Learn more about how baby teeth naturally shed](/article/primary-tooth-mobility-when-to-extract.html).
 
 ## Monitoring with X-rays
 
@@ -65,8 +65,6 @@ Your dentist takes x-rays after treatment and at follow-up visits to confirm: th
 
 Your dentist might recommend extraction instead if: the baby tooth is already very loose and will fall out soon anyway, the root has dissolved significantly, infection is too severe, your child can't cooperate with treatment, or the tooth is too damaged to restore.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about pulpectomy - complete pulp removal in baby teeth and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -75,8 +73,6 @@ You might also want to ask about the expected timeline, what the recovery proces
 
 Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
-
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed pulpectomy - complete pulp removal in baby teeth, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference in how long your results last.
@@ -84,8 +80,6 @@ Once you've addressed pulpectomy - complete pulp removal in baby teeth, maintain
 Pay attention to any changes in your mouth and report them to your dentist early. Catching small issues before they become bigger problems saves you time, money, and discomfort. Your dentist may recommend specific products or routines based on your treatment.
 
 Diet also plays a role in protecting your dental health. Limiting sugary snacks and acidic drinks helps preserve your teeth and any dental work you've had done. Drinking water throughout the day helps wash away food particles and keeps your mouth hydrated.
-
-
 
 ## What to Expect During Your Visit
 
@@ -99,14 +93,13 @@ After your appointment, your dentist will give you clear instructions for at-hom
 
 Pulpectomy saves baby teeth with dead nerves, maintaining space and function for permanent teeth. Success rates of 70-90% are good, especially when treatment happens early. The treated tooth usually remains healthy until natural shedding, protecting your child's smile and preventing future crowding.
 
-## Key Takeaway
-
-Pulpectomy on a baby tooth with a dead nerve preserves the tooth and its space-holding function for the permanent tooth coming in. Your child needs numbing anesthesia and a stainless steel crown afterward. Best results come from early treatment before serious infection develops. Ask your dentist whether pulpectomy or extraction suits your child's situation.
+> **Key Takeaway:** Pulpectomy on a baby tooth with a dead nerve preserves the tooth and its space-holding function for the permanent tooth coming in. Your child needs numbing anesthesia and a stainless steel crown afterward. Best results come from early treatment before serious infection develops. Ask your dentist whether pulpectomy or extraction suits your child's situation.
 
 ## Related Articles
 
-[Primary Tooth Mobility: When to Extract](/article/primary-tooth-mobility-when-to-extract.html)
+- [Stainless Steel Crowns as Durable Restorations](/article/stainless-steel-crowns-durable-restoration-for-baby-teeth.html)
+- [Space Maintenance: Preserving Room for Permanent Teeth](/article/space-maintenance-preserving-room-for-permanent-teeth.html)
 
-[Stainless Steel Crowns: Durable Restoration for Baby Teeth](/article/stainless-steel-crowns-durable-restoration-for-baby-teeth.html)
+- [Behavioral Guidance: Positive Reinforcement](/article/behavioral-guidance-positive-reinforcement.html)
+- [Ankyloglossia and Speech Effects](/article/ankyloglossia-speech-effects-articulation-problems.html)
 
-[Space Maintenance: Preserving Room for Permanent Teeth](/article/space-maintenance-preserving-room-for-permanent-teeth.html)

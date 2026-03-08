@@ -53,7 +53,9 @@ Treatment: Your dentist gently cleans the socket and places a soothing dressing 
 
 **TMJ discomfort** (jaw clicking, restricted opening) occasionally develops after extractions requiring very wide mouth opening. Conservative treatment (soft diet, anti-inflammatory medication, gentle stretching) usually resolves this within 7-10 days.
 
-**Sinus communication** (rare; about 0.5-2% of upper molar extractions): The sinus roof is sometimes very close to tooth roots. Aggressive extraction might perforate the sinus. Signs include liquid going up your nose when you drink or air escaping through the extraction site. Small perforations (under 5mm) often heal spontaneously within 2 weeks with precautions (no nose-blowing, no smoking, gentle care). Larger perforations might need surgical closure by an oral surgeon. Contact your dentist immediately if this occurs.
+**Sinus communication** (rare; about 0.5-2% of upper molar extractions): The sinus roof is sometimes very close to tooth roots. Aggressive extraction might perforate the sinus. Signs include liquid going up your nose when you drink or air escaping through the extraction site.
+
+Small perforations (under 5mm) often heal spontaneously within 2 weeks with precautions (no nose-blowing, no smoking, gentle care). Larger perforations might need surgical closure by an oral surgeon. Contact your dentist immediately if this occurs.
 
 **Retained root fragments**: Tiny pieces of tooth remaining after extraction occur in 5-15% of cases. If they're small (<3mm) and not causing symptoms, observation is fine—they'll likely exfoliate spontaneously or become surrounded by bone. If symptomatic (pain, swelling, drainage), your dentist will remove them.
 
@@ -196,18 +198,17 @@ Before your procedure:
 - Am I high-risk for any specific complication?
 - What should I do if something feels wrong post-op?
 
-
-
 ## Conclusion
-
-Taking care of your oral health means staying informed about surgical complications. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
-
-> **Key Takeaway:** Most surgical complications are prevented through proper pre-operative assessment, gentle technique, meticulous post-operative care, and your compliance with instructions—serious complications are rare when both dentist and patient do their part.
 
 **Read more**: [Recovery After Extraction](/article/best-practices-for-recovery-after-extraction.html) | [Recovery Timeline](/article/best-practices-for-recovery-timeline.html)
 
+> **Key Takeaway:** Most surgical complications are prevented through proper pre-operative assessment, gentle technique, meticulous post-operative care, and your compliance with instructions—serious complications are rare when both dentist and patient do their part.
+
 ## Related Articles
 
-- [Best Practices For Recovery Timeline](/article/best-practices-for-recovery-timeline.html)
 - [Best Practices For Tooth Extraction Recovery](/article/best-practices-for-tooth-extraction-recovery.html)
 - [Best Practices For Wisdom Teeth Extraction](/article/best-practices-for-wisdom-teeth-extraction.html)
+- [Prevention and Management of Alveolar Osteitis](/article/best-practices-for-extraction-complications.html)
+- [Should Your Mouth Lesion Be Biopsied?](/article/oral-biopsies-diagnosis-of-suspicious-lesions.html)
+- [Impacted Tooth Extraction: Surgical Removal Procedures](/article/impacted-tooth-extraction-surgical-removal-procedures.html)
+

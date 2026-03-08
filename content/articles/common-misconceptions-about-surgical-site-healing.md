@@ -1,24 +1,37 @@
 ---
-title: "Surgical Site Healing in Oral Surgery: Physiology and"
-slug: common-misconceptions-about-surgical-site-healing
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Learn what happens as your mouth heals after dental surgery and how to recognize normal healing from problems that need attention.
 date: 2026-03-05
+excerpt: Learn what happens as your mouth heals after dental surgery and how to recognize
+  normal healing from problems that need attention.
 read_time: 10 min
+references:
+- Schultze-Mosgau S, Schmelzle R, Fröde H, Rudolph D. Prospective study of sensory
+  disturbances after lingual split sagittal osteotomy. Int J Oral Maxillofac Surg.
+  2001;30(5):446-451.
+- 'Grossi SG, Skrepcinski FB, DeCaro T, et al. Treatment of periodontal disease by
+  removal of subgingival deposits and plaque: a review of the literature. J Clin Periodontol.
+  1994;21(9):619-623.'
+- Albrektsson T, Branemark PI, Hansson HA, Lindstrom J. Osseointegrated titanium implants.
+  Requirements for ensuring a long-lasting, direct bone-to-implant anchorage. Acta
+  Orthop Scand. 1981;52(2):155-170.
+- 'Lindhe J, Karring T, Lang NP. Clinical periodontology and implant dentistry. 4th
+  ed. Oxford: Blackwell Munksgaard; 2003.'
+- 'Ley Y, Alon G, Sela MN. Periodontal wound healing after free gingival autograft:
+  a prospective study in humans. J Periodontol. 2003;74(8):1116-1122.'
+- Kumar M, Lal A, Singh RP, et al. Comparative study of primary and secondary closure
+  in impacted third molar surgery. J Oral Surg. 2012;1(2):23-29.
+- 'Pontoriero R, Tonelli MP, Carnevale G, Mombelli A, Nyman SR, Sanavi F. Experimentally
+  induced chronic and rebound inflammation in humans: gingival response and interaction
+  with plaque. J Clin Periodontol. 1994;21(9):576-586.'
+- 'Aimetti M, Marsan G, Marsan C. Peri-implantitis versus peri-implant mucositis:
+  a clinical and microbiological perspective. J Dent Res. 2022;101(7):814-823.'
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: common-misconceptions-about-surgical-site-healing
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - "Schultze-Mosgau S, Schmelzle R, Fröde H, Rudolph D. Prospective study of sensory disturbances after lingual split sagittal osteotomy. Int J Oral Maxillofac Surg. 2001;30(5):446-451."
-  - "Grossi SG, Skrepcinski FB, DeCaro T, et al. Treatment of periodontal disease by removal of subgingival deposits and plaque: a review of the literature. J Clin Periodontol. 1994;21(9):619-623."
-  - "Albrektsson T, Branemark PI, Hansson HA, Lindstrom J. Osseointegrated titanium implants. Requirements for ensuring a long-lasting, direct bone-to-implant anchorage. Acta Orthop Scand. 1981;52(2):155-170."
-  - "Lindhe J, Karring T, Lang NP. Clinical periodontology and implant dentistry. 4th ed. Oxford: Blackwell Munksgaard; 2003."
-  - "Ley Y, Alon G, Sela MN. Periodontal wound healing after free gingival autograft: a prospective study in humans. J Periodontol. 2003;74(8):1116-1122."
-  - "Kumar M, Lal A, Singh RP, et al. Comparative study of primary and secondary closure in impacted third molar surgery. J Oral Surg. 2012;1(2):23-29."
-  - "Pontoriero R, Tonelli MP, Carnevale G, Mombelli A, Nyman SR, Sanavi F. Experimentally induced chronic and rebound inflammation in humans: gingival response and interaction with plaque. J Clin Periodontol. 1994;21(9):576-586."
-  - "Aimetti M, Marsan G, Marsan C. Peri-implantitis versus peri-implant mucositis: a clinical and microbiological perspective. J Dent Res. 2022;101(7):814-823."
+title: 'Surgical Site Healing in Oral Surgery: Physiology'
 ---
 
 When you have dental surgery, you might wonder exactly what's happening as your body heals. Understanding the healing process helps you know what's normal and when to call your dentist. Let's walk through the stages and what to expect.
@@ -33,7 +46,7 @@ Each stage matters and builds on the previous one. You can't skip ahead, which i
 
 Here's something surprising: when the wound looks closed on the surface (usually around 7-10 days after surgery), your mouth isn't actually completely healed yet. The surface closure is important, but underneath, your bone and deeper tissues are still healing. In fact, bone heals much more slowly than soft tissue.
 
-Real bone healing takes months. Learning more about [timeline for recovery timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. Your bone starts filling back in around 12 weeks but reaches full strength around 6 months or longer. This is why your dentist might tell you to wait several months after extraction before getting an implant—the bone needs time to be strong enough to support it. Even though you might feel fine after a couple weeks, healing at the bone level continues well after you stop feeling sore.
+Real bone healing takes months. Learning more about [Timeline for Recovery Timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. Your bone starts filling back in around 12 weeks but reaches full strength around 6 months or longer. This is why your dentist might tell you to wait several months after extraction before getting an implant—the bone needs time to be strong enough to support it. Even though you might feel fine after a couple weeks, healing at the bone level continues well after you stop feeling sore.
 
 ## Is It Concerning If There's Bleeding or Drainage?
 
@@ -69,7 +82,7 @@ The important thing is that bone graft materials need time to become part of you
 
 Implants need bone that's strong enough to support them, and that takes time. Your dentist will likely recommend waiting several months (usually 3-6 months) after extraction before placing an implant, giving your bone time to fully heal. During this waiting period, bone continues to remodel and strengthen. In some cases, your dentist might be able to place an implant right after extraction if bone quality is good, but that's a special situation requiring specific circumstances.
 
-Some newer protocols allow "faster" timing, but even these require careful bone assessment. Don't rush this—a well-healed extraction site with strong bone leads to much better implant success rates. Learn more about implant considerations in our guide to [impacted tooth removal](/article/impacted-teeth-removal-canines-molars-and-premolars.html).
+Some newer protocols allow "faster" timing, but even these require careful bone assessment. Don't rush this—a well-healed extraction site with strong bone leads to much better implant success rates. Learn more about implant considerations in our guide to [Impacted Tooth Removal](/article/impacted-teeth-removal-canines-molars-and-premolars.html).
 
 ## Is Primary Closure (Stitches) Always Best?
 
@@ -83,16 +96,19 @@ Unfortunately, yes. Smoking significantly slows down healing in multiple ways. S
 
 If you can't quit completely before surgery, even cutting back helps. After surgery, following your dentist's advice about smoking is really important for the best outcome. Many people use dental surgery as motivation to quit or reduce smoking—talk to your dentist about support options.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Healing after oral surgery is a natural process that your body manages really well when you follow post-operative instructions. Understanding that healing has distinct stages helps you know what's normal versus what needs attention. Most importantly, if something seems off, reach out to your dental team—they'd rather answer a question than have problems develop unnoticed.
 
+> **Key Takeaway:** Learn what happens as your mouth heals after dental surgery and how to recognize normal healing from problems that need attention.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Timeline for Recovery](/article/timeline-for-recovery-timeline.html)
 - [Swelling Reduction Guide](/article/swelling-reduction-what-you-need-to-know.html)
 - [Surgical Complications Guide](/article/surgical-complications-complete-guide.html)
+- [Wisdom Teeth Extraction: What You Need to Know](/article/wisdom-teeth-extraction-what-you-need-to-know.html)
+- [Swelling Reduction After Oral Surgery](/article/swelling-reduction-complete-guide.html)
+- [Dental Anesthesia Best Practices](/article/best-practices-for-anesthesia-options.html)
 
-> **Key Takeaway:** Healing after dental surgery follows predictable stages taking weeks to months, and understanding what's normal helps you recover smoothly. Talk to your dentist about which options are right for your specific situation.

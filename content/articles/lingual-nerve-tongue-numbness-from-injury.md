@@ -69,7 +69,7 @@ Here's good news: most nerve injuries recover spontaneously. Research shows:
 - 85-90% show improvement by 12 months
 - 95% of injuries eventually resolve completely
 
-Permanent numbness occurs in only about 5-10% of injured patients. Learning more about [cost of surgical technique overview](/article/cost-of-surgical-technique-overview.html) can help you understand this better. Even those with permanent numbness usually adapt well within 6-12 months, as your brain learns to function with altered sensation.
+Permanent numbness occurs in only about 5-10% of injured patients. Learning more about [Cost of Surgical Technique Overview](/article/cost-of-surgical-technique-overview.html) can help you understand this better. Even those with permanent numbness usually adapt well within 6-12 months, as your brain learns to function with altered sensation.
 
 ## Management During Recovery
 
@@ -116,12 +116,11 @@ Discuss nerve injury risk with your surgeon beforehand. Modern surgeons are high
 
 ## Living with Permanent Numbness
 
-If numbness persists beyond 12 months, most patients report good adaptation. Your brain essentially "resets" and learns to function with altered sensation. Learning more about [anesthesia options complete guide](/article/anesthesia-options-complete-guide.html) can help you understand this better. While unusual initially, permanent lingual numbness usually doesn't significantly impact eating, drinking, or speech function long-term.
+If numbness persists beyond 12 months, most patients report good adaptation. Your brain essentially "resets" and learns to function with altered sensation. Learning more about [Anesthesia Options Complete Guide](/article/anesthesia-options-complete-guide.html) can help you understand this better. While unusual initially, permanent lingual numbness usually doesn't significantly impact eating, drinking, or speech function long-term.
 
 ## What About Your Taste?
 
 The lingual nerve carries taste sensation from the front two-thirds of your tongue (via chorda tympani, a branch of a different nerve). If you experience taste changes along with numbness, these usually recover together over 6-12 months.
-
 
 ## Questions to Ask Your Dentist
 
@@ -129,19 +128,22 @@ When you visit your dentist, ask about lingual nerve tongue numbness from injury
 
 You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed lingual nerve tongue numbness from injury, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
 Lingual nerve injury is an uncommon but recognized complication of oral surgery. Most injuries are temporary, with 85-95% of patients experiencing complete or near-complete recovery within 12 months. During recovery, protect your tongue from accidental injury and be patient with the healing process. If numbness persists beyond 12 months or causes significant symptoms, discuss options with your surgeon, including possible specialist referral. Understanding that recovery takes time and that most cases resolve spontaneously helps you maintain perspective and cope with this temporary complication.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** If your tongue feels numb after dental surgery, you may have a lingual nerve injury. Learn why it happens, what to expect, and how recovery works.
 
-- [Wisdom Teeth Extraction: Recovery Timeline and Pain Management](/article/wisdom-teeth-recovery-timeline-and-pain-management.html)
-- [Anesthesia Options: Complete Guide](/article/anesthesia-options-complete-guide.html)
+## Related Articles
+
+- [Wisdom Teeth Extraction](/article/wisdom-teeth-recovery-timeline-and-pain-management.html)
 - [Complex Extraction: What You Need to Know](/article/complex-extractions-complete-guide.html)
 
-> **Key Takeaway:** Lingual nerve injury from dental surgery causes temporary tongue numbness that usually resolves within 6-12 months. Most patients experience complete recovery; permanent numbness is uncommon and patients usually adapt well.
+- [Why Bleeding Control Matters in Oral Surgery and Dental](/article/why-bleeding-control-matters.html)
+

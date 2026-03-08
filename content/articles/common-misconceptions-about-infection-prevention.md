@@ -31,7 +31,7 @@ This used to be standard practice, but modern evidence shows most healthy people
 
 **Needs antibiotics:** Advanced age (over 70), uncontrolled diabetes, immune suppression, planned difficult surgery, complex extractions, extensive bone removal.
 
-**Doesn't need antibiotics:** Young, healthy, no systemic disease, uncomplicated extraction or routine cleaning. You may also want to read about [impacted teeth removal canines molars and premolars](/article/impacted-teeth-removal-canines-molars-and-premolars.html).
+**Doesn't need antibiotics:** Young, healthy, no systemic disease, uncomplicated extraction or routine cleaning. You may also want to read about [Impacted Teeth Removal Canines Molars and Premolars](/article/impacted-teeth-removal-canines-molars-and-premolars.html).
 
 Giving unnecessary antibiotics increases your risk of side effects and contributes to antibiotic resistance. Modern guidelines are more conservative than historical practice.
 
@@ -49,7 +49,7 @@ Unnecessary postoperative antibiotics expose you to: allergic reactions, gastroi
 
 ## Special Situation: Endocarditis Prophylaxis
 
-Certain cardiac conditions increase infection risk (prosthetic valves, complex heart disease with surgical repair). Learning more about [surgical complications complete guide](/article/surgical-complications-complete-guide.html) can help you understand this better. These patients need antibiotics before dental procedures, even routine ones. However, recent guidelines have become more selective—not all heart patients need prophylaxis.
+Certain cardiac conditions increase infection risk (prosthetic valves, complex heart disease with surgical repair). Learning more about [Surgical Complications Complete Guide](/article/surgical-complications-complete-guide.html) can help you understand this better. These patients need antibiotics before dental procedures, even routine ones. However, recent guidelines have become more selective—not all heart patients need prophylaxis.
 
 If you have a heart condition, ask your cardiologist whether you need prophylaxis before dental work. Don't assume you do just because of your diagnosis.
 
@@ -91,9 +91,9 @@ Starting antibiotics at the first sign of infection—rather than taking prevent
 
 ## Questions About Your Specific Risk
 
-Before any dental procedure, ask your dentist: Do I need prophylactic antibiotics based on my health? Should I discuss this with my medical doctor? If prescribed antibiotics, should I take them before or after? What symptoms mean I should call if infection develops? When should I come back for follow-up? Getting clear answers helps you know what to expect and when to seek additional help.
+Before any dental procedure, ask your dentist: Do I need prophylactic antibiotics based on my health? Should I discuss this with my medical doctor? If prescribed antibiotics, should I take them before or after?
 
-
+What symptoms mean I should call if infection develops? When should I come back for follow-up? Getting clear answers helps you know what to expect and when to seek additional help.
 
 ## Questions to Ask Your Dentist
 
@@ -109,12 +109,13 @@ Once you've addressed infection prevention, maintaining your results requires on
 
 Preventive antibiotics before dental procedures are appropriate for specific high-risk situations but aren't routine for healthy patients. Postoperative antibiotics don't improve healing without actual infection. Modern guidelines balance infection prevention with responsible antibiotic stewardship. Your dentist assesses your individual risk and recommends antibiotics only when evidence supports benefit.
 
+> **Key Takeaway:** You probably don't need preventive antibiotics before routine dental work, but certain situations do warrant them.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Wisdom Tooth Extraction and Recovery](/article/impacted-teeth-removal-canines-molars-and-premolars.html)
-- [Understanding Surgical Complications](/article/surgical-complications-complete-guide.html)
 - [Recovery Timeline After Oral Surgery](/article/timeline-for-recovery-timeline.html)
+- [Why Surgical Complications Matters](/article/why-surgical-complications-matters.html)
+- [Cost of Extraction Complications and Surgical](/article/cost-of-extraction-complications.html)
+- [Understanding Bleeding Control in Oral Surgery —](/article/best-practices-for-bleeding-control.html)
+- [Post-Surgical Swelling Management and](/article/risk-and-concerns-with-swelling-reduction.html)
 
-> **Key Takeaway:** Most healthy patients don't need preventive antibiotics before routine dental procedures. Prophylaxis is reserved for specific risk factors (age, diabetes, immune suppression, certain heart conditions). Talk to your dentist about your individual risk and whether you actually need prophylaxis.

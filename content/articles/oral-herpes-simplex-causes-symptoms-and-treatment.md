@@ -53,7 +53,9 @@ The sore typically develops as clusters of small blisters that rupture within a 
 
 ## Triggering Factors
 
-Various factors reactivate herpes. Stress is probably the most common trigger. Sun exposure on lips triggers recurrence in many people. Fever from any cause—cold, flu, or other infection—can trigger herpes. For women, menstruation sometimes triggers recurrence. Immune suppression from any cause increases recurrence risk. Tissue trauma, including aggressive dental work, sometimes triggers sores.
+Various factors reactivate herpes. Stress is probably the most common trigger. Sun exposure on lips triggers recurrence in many people.
+
+Fever from any cause—cold, flu, or other infection—can trigger herpes. For women, menstruation sometimes triggers recurrence. Immune suppression from any cause increases recurrence risk. Tissue trauma, including aggressive dental work, sometimes triggers sores.
 
 Knowing your personal triggers helps prevent outbreaks. If sun exposure triggers your herpes, use sunscreen on your lips. If stress is your trigger, stress management might reduce outbreaks. Some triggers you can't control, but identifying modifiable ones is worthwhile.
 
@@ -61,7 +63,7 @@ Knowing your personal triggers helps prevent outbreaks. If sun exposure triggers
 
 Several antiviral medications effectively treat herpes if started early. Acyclovir (Zovirax) and valacyclovir (Valtrex) are most common. These work best if started during the prodromal phase—that tingling stage before blisters appear. If you start medication then, you might prevent the sore entirely or significantly reduce its severity.
 
-These medications work by slowing viral replication, not eliminating the virus from its hiding place. Once blisters form, these medications have less impact but still reduce healing time by a day or two. Oral medication (swallowed pills) works better than topical treatments for most people. Dosing typically involves taking medication several times daily for 5-7 days. For more on this topic, see our guide on [Nightly Retainer Wear Lifetime Commit...](/article/nightly-retainer-wear-lifetime-commitment-explained.html).
+These medications work by slowing viral replication, not eliminating the virus from its hiding place. Once blisters form, these medications have less impact but still reduce healing time by a day or two. Oral medication (swallowed pills) works better than topical treatments for most people. Dosing typically involves taking medication several times daily for 5-7 days. For more on this topic, see our guide on [Keep Your Straight Teeth](/article/nightly-retainer-wear-lifetime-commitment-explained.html).
 
 Topical penciclovir cream applied directly to the sore reduces healing time modestly and requires frequent application. Some people find topical numbing agents helpful for pain relief, though they provide only temporary benefit. Over-the-counter treatments like docosanol cream show modest benefit if applied frequently at early stages.
 
@@ -107,7 +109,11 @@ Very rarely, herpes spreads beyond typical lip location. Infection of fingers (h
 
 Immunocompromised individuals face higher complication risks and more severe disease, requiring prompt professional evaluation and potentially IV antiviral therapy rather than oral medication. If you're immunocompromised and develop herpes symptoms, contact your doctor immediately.
 
-## Conclusion: Manageable But Incurable
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
+## Conclusion
+
+: Manageable But Incurable
 
 Oral herpes is incurable because the virus persists in nerve tissue. However, it's very manageable. Recurrence rates vary widely—some people never experience another outbreak, while others get several yearly. For those with frequent recurrence, antiviral therapy provides excellent control. Most importantly, herpes is not dangerous except in rare circumstances—it's an annoying, contagious infection you can manage responsibly.
 
@@ -115,8 +121,9 @@ Your diagnosis isn't a life sentence to isolation or shame. With proper understa
 
 > **Key Takeaway:** Oral herpes is caused by a virus that recurs unpredictably but can be managed with antiviral medication. Suppressive therapy helps frequent sufferers. Prevention and early treatment minimize impact on your life.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
 - [Mouth Ulcers and Canker Sores: Treatment and Prevention](/article/mouth-ulcers-and-canker-sores-treatment-and-prevention.html)
 - [Canker Sores: When They Mean Something More](/article/oral-aphthous-ulcers-beyond-simple-canker-sores.html)
 - [Saliva and Your Mouth: Understanding Nature's Defense](/article/saliva-importance-complete-guide.html)
+

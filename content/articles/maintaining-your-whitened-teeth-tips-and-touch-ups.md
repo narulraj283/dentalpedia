@@ -35,7 +35,9 @@ You've just finished your professional whitening treatment and your smile looks 
 
 Your teeth don't stay the color they are right after professional whitening. Here's what happens: the whitening treatment opens microscopic pores in your tooth enamel, making it more porous and susceptible to staining for the first few days. At the same time, the bleaching process temporarily softens your enamel slightly. This creates a critical window where your teeth can pick up stains much more easily than usual.
 
-The staining happens in two ways. Extrinsic staining comes from food and beverages—when dark-colored molecules from red wine, coffee, or soy sauce stick to your teeth's outer surface. This is fast: you can see staining within hours of whitening if you drink red wine or coffee. Intrinsic staining works differently and takes longer. Teeth gradually darken again as minerals redeposit in the deeper layers where the bleaching gel worked. This remineralization process is natural and necessary for your teeth to be fully strong again, but it gradually darkens your teeth.
+The staining happens in two ways. Extrinsic staining comes from food and beverages—when dark-colored molecules from red wine, coffee, or soy sauce stick to your teeth's outer surface. This is fast: you can see staining within hours of whitening if you drink red wine or coffee.
+
+Intrinsic staining works differently and takes longer. Teeth gradually darken again as minerals redeposit in the deeper layers where the bleaching gel worked. This remineralization process is natural and necessary for your teeth to be fully strong again, but it gradually darkens your teeth.
 
 Between these two mechanisms, most people see noticeable shade regression within 2-3 weeks if they don't take precautions. After 6 months without maintenance, teeth typically return to their pre-whitening color. However, the good news is that strategic maintenance can extend your whitening results significantly—many patients keep their results looking fresh for 12-24 months or longer with proper care.
 
@@ -51,7 +53,7 @@ Temperature matters too. Hot beverages extract more color from foods through the
 
 ## Managing Sensitivity After Whitening
 
-About half of people experience tooth sensitivity after professional whitening. Your newly whitened teeth might feel sensitive to cold, hot, or acidic stimuli. Learning more about [restoration shade guide color selection](/article/restoration-shade-guide-color-selection.html) can help you understand this better. This sensitivity usually peaks within the first week and gradually improves over 2-4 weeks, but for some people it lasts longer and feels bothersome enough to affect their daily life.
+About half of people experience tooth sensitivity after professional whitening. Your newly whitened teeth might feel sensitive to cold, hot, or acidic stimuli. Learning more about [Restoration Shade Guide Color Selection](/article/restoration-shade-guide-color-selection.html) can help you understand this better. This sensitivity usually peaks within the first week and gradually improves over 2-4 weeks, but for some people it lasts longer and feels bothersome enough to affect their daily life.
 
 Your dentist might send you home with a desensitizing product. Potassium nitrate is the gold-standard ingredient for sensitivity relief—it works by calming the nerve inside your tooth and reducing its response to stimuli. You can apply potassium nitrate gel directly to sensitive teeth for 5-10 minutes before whitening treatment and continue using it after. Some patients use specialized sensitivity relief toothpaste for several weeks post-whitening, which gradually reduces sensitivity through continued potassium nitrate application.
 
@@ -75,7 +77,7 @@ Starting 2-4 weeks after your professional whitening, you might use your custom 
 
 Carbamide peroxide systems work particularly well for home use because they break down gradually into hydrogen peroxide, providing gentler, extended bleaching compared to direct hydrogen peroxide applications. You wear the tray for 30-60 minutes, or even overnight for the gentlest approach. This slow-and-steady approach minimizes sensitivity while delivering solid whitening results over multiple applications.
 
-The key to success with at-home systems is consistency. If you use your whitening trays sporadically, they won't maintain your brightness effectively. Learning more about [incisor lengthening cosmetic extension procedures](/article/incisor-lengthening-cosmetic-extension-procedures.html) can help you understand this better. Many patients find that using them once weekly works best—it's regular enough to prevent significant recoloring but not so frequent as to cause sensitivity issues. Setting a reminder on your phone (maybe every Sunday evening) helps establish this as an easy habit.
+The key to success with at-home systems is consistency. If you use your whitening trays sporadically, they won't maintain your brightness effectively. Learning more about [Incisor Lengthening Cosmetic Extension Procedures](/article/incisor-lengthening-cosmetic-extension-procedures.html) can help you understand this better. Many patients find that using them once weekly works best—it's regular enough to prevent significant recoloring but not so frequent as to cause sensitivity issues. Setting a reminder on your phone (maybe every Sunday evening) helps establish this as an easy habit.
 
 ## Protecting Your Teeth's Surface
 
@@ -105,8 +107,11 @@ Professional whitening results don't last forever, but they can last much longer
 
 > **Key Takeaway:** Extend your whitening results from months to years by using the "white diet" immediately after treatment, scheduling strategic touch-up appointments, and using at-home whitening products to maintain brightness between professional treatments.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Understanding the timeline and cost of different tooth whitening options](/article/timeline-for-tooth-color-changes.html)
-- [What shade guide means and how to match your tooth color to your goals](/article/restoration-shade-guide-color-selection.html)
-- [The foundations of a beautiful, coordinated smile design](/article/smile-design-creating-aesthetically-pleasing-smiles.html)
+- [Understanding the timeline](/article/timeline-for-tooth-color-changes.html)
+- [Smile Design: Creating Aesthetically Pleasing Smiles](/article/smile-design-creating-aesthetically-pleasing-smiles.html)
+- [Professional Whitening Cost](/article/professional-whitening-cost-investment.html)
+
+- [How Dentists Match Your Tooth Color Perfectly](/article/timeline-for-teeth-shade-matching.html)
+

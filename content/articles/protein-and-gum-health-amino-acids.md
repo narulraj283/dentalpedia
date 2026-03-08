@@ -33,7 +33,9 @@ references:
 
 ## How Protein Builds Healthy Gums
 
-Your gums are made mostly of a protein called collagen, which makes up about 70-80% of your gum tissue. Think of collagen as the structural scaffolding that keeps your gums firm and strong. Collagen also anchors your teeth to your jaw and supports all the tissues around your teeth. For your body to build and maintain this collagen, you need enough protein in your diet, especially amino acids called proline and lysine. When you don't get enough protein, your body can't build new collagen fast enough, and your existing gum tissue breaks down faster. This directly makes gum disease worse and harder to treat.
+Your gums are made mostly of a protein called collagen, which makes up about 70-80% of your gum tissue. Think of collagen as the structural scaffolding that keeps your gums firm and strong. Collagen also anchors your teeth to your jaw and supports all the tissues around your teeth.
+
+For your body to build and maintain this collagen, you need enough protein in your diet, especially amino acids called proline and lysine. When you don't get enough protein, your body can't build new collagen fast enough, and your existing gum tissue breaks down faster. This directly makes gum disease worse and harder to treat.
 
 Research shows that people who don't eat enough protein develop more severe gum disease and heal slower after gum treatment or surgery. The connection is clear: skip the protein, and your gums suffer. But eat enough protein, and you give your gums the raw materials they need to stay healthy and repair themselves.
 
@@ -41,7 +43,9 @@ Research shows that people who don't eat enough protein develop more severe gum 
 
 Your gums contain specialized cells called fibroblasts that work constantly to make and replace collagen. These cells are like little collagen factories, running 24/7 to keep your gum tissue intact and healthy. When your gums are healthy, these fibroblasts maintain a steady balance—they make new collagen and remove old collagen at the same rate, keeping everything stable.
 
-When gum disease shows up, this balance gets disrupted. Bacterial toxins trigger inflammation, which ramps up collagen breakdown. Your fibroblasts need to work harder and make more collagen to fight back. That's where protein becomes crucial. Protein doesn't just supply the raw amino acids for collagen; it also helps your body make growth factors that tell fibroblasts to work harder and proliferate. Without enough protein, your fibroblasts can't keep up with the damage, and your gum disease gets worse faster.
+When gum disease shows up, this balance gets disrupted. Bacterial toxins trigger inflammation, which ramps up collagen breakdown. Your fibroblasts need to work harder and make more collagen to fight back.
+
+That's where protein becomes crucial. Protein doesn't just supply the raw amino acids for collagen; it also helps your body make growth factors that tell fibroblasts to work harder and proliferate. Without enough protein, your fibroblasts can't keep up with the damage, and your gum disease gets worse faster.
 
 ## What Studies Show About Malnutrition and Gum Disease
 
@@ -59,11 +63,11 @@ Start eating extra protein right before surgery (if possible) to build up your a
 
 While overall protein intake is the main nutritional factor for gum health, two specific amino acids deserve attention: proline and lysine. Both are major components of collagen, and your body can't make either one on its own—you have to get them from food. Proline makes up about 11% of collagen, and lysine makes up about 3%. When you eat enough protein from diverse sources, you get plenty of both.
 
-You might see supplements promoting single amino acids like arginine or glutamine for gum health. The truth is these might help in theory, but there isn't strong human evidence yet that supplementing individual amino acids improves gum disease beyond eating enough total protein. Don't fall for supplements making big promises about individual amino acids. Just make sure you're getting enough total protein, especially from [complete sources with all the amino acids you need](/article/vitamins-and-tooth-remineralization.html).
+You might see supplements promoting single amino acids like arginine or glutamine for gum health. The truth is these might help in theory, but there isn't strong human evidence yet that supplementing individual amino acids improves gum disease beyond eating enough total protein. Don't fall for supplements making big promises about individual amino acids. Just make sure you're getting enough total protein, especially from [Complete Sources with All the Amino Acids You Need](/article/vitamins-and-tooth-remineralization.html).
 
 ## Vitamin C: The Hidden Partner in Gum Health
 
-Here's something most people don't know: vitamin C is absolutely essential for your gums, even if you have no idea why. Even if your body successfully makes the building blocks of collagen from protein, vitamin C is required to "cross-link" them together. Without vitamin C, you end up with weak, malformed collagen that can't do its job. Historically, sailors on long voyages who couldn't eat fresh fruits developed scurvy, which caused their gums to bleed and deteriorate—a classic sign of vitamin C deficiency. For more on this topic, see our guide on [Acidic Foods Erosion From Citrus And ...](/article/acidic-foods-erosion-from-citrus-and-soda.html).
+Here's something most people don't know: vitamin C is absolutely essential for your gums, even if you have no idea why. Even if your body successfully makes the building blocks of collagen from protein, vitamin C is required to "cross-link" them together. Without vitamin C, you end up with weak, malformed collagen that can't do its job. Historically, sailors on long voyages who couldn't eat fresh fruits developed scurvy, which caused their gums to bleed and deteriorate—a classic sign of vitamin C deficiency. For more on this topic, see our guide on [Acidic Foods: Erosion from Citrus and Soda](/article/acidic-foods-erosion-from-citrus-and-soda.html).
 
 You don't need to develop full-blown scurvy for low vitamin C to hurt your gums. Even mild vitamin C deficiency makes your collagen weaker and slows healing. The recommended daily amount of vitamin C is 75-90 mg for adults (you get this from citrus fruits, berries, and leafy greens). But if you're having gum surgery or dealing with serious gum disease, consider bumping that up to 200-500 mg daily to make sure you have plenty available for collagen cross-linking. Vitamin C also acts as an antioxidant, reducing damage from the inflammation that gum disease causes.
 
@@ -89,14 +93,13 @@ If this describes you, ask your dentist about a referral to a registered dietiti
 
 Protein isn't just for building muscle—it's fundamental to keeping your gums healthy and strong. Your gum tissue is made of collagen, which your body builds from amino acids found in protein. When you don't eat enough protein, your gum tissue breaks down faster, gum disease progresses more rapidly, and your mouth's ability to fight bacteria weakens. If you're dealing with gum problems or facing gum surgery, prioritizing protein intake is as important as brushing and flossing. Combined with good oral hygiene and regular dental care, adequate protein is one of the most powerful nutritional tools you have for protecting your gums.
 
-## Key Takeaway
-
-Eating enough protein—especially during gum disease treatment or after gum surgery—directly improves your healing and helps your body fight gum disease bacteria. Aim for 1.2-1.5 grams per kilogram of body weight daily if you're dealing with active gum disease, and include complete proteins from sources like meat, fish, eggs, dairy, or varied plant combinations. Don't skip the vitamin C (200-500 mg daily during healing), as it's essential for making collagen strong. Better nutrition combined with standard dental treatment produces significantly better results than dental treatment alone.
+> **Key Takeaway:** Eating enough protein—especially during gum disease treatment or after gum surgery—directly improves your healing and helps your body fight gum disease bacteria. Aim for 1.2-1.5 grams per kilogram of body weight daily if you're dealing with active gum disease, and include complete proteins from sources like meat, fish, eggs, dairy, or varied plant combinations. Don't skip the vitamin C (200-500 mg daily during healing), as it's essential for making collagen strong. Better nutrition combined with standard dental treatment produces significantly better results than dental treatment alone.
 
 ## Related Articles
 
-[Vitamins and Tooth Remineralization](/article/vitamins-and-tooth-remineralization.html)
+- [Gingivitis Prevention: Reversing Early Gum Disease](/article/gingivitis-prevention-reversing-early-gum-disease.html)
+- [Root Planing: Smoothing Root Surfaces](/article/root-planing-smoothing-root-surfaces.html)
 
-[Gingivitis Prevention: Reversing Early Gum Disease](/article/gingivitis-prevention-reversing-early-gum-disease.html)
+- [Refined Carbohydrates Versus Complex](/article/refined-carbs-vs-complex-carbs-decay-risk.html)
+- [Selenium and Antioxidants - Oxidative Stress](/article/selenium-and-antioxidants-oxidative-stress-protection.html)
 
-[Root Planing: Smoothing Root Surfaces](/article/root-planing-smoothing-root-surfaces.html)

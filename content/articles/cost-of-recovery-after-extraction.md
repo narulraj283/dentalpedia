@@ -49,7 +49,7 @@ Eating soft foods for 2-3 days costs a bit more than normal groceries. Instead o
 
 ## Lost Work Time
 
-The biggest hidden cost is missing work while recovering. Learning more about [extraction what to expect](/article/extraction-what-to-expect.html) can help you understand this better. Most people can return to desk work after 3-5 days, costing $300-$600 in lost wages at an average $60/day. Physical workers often need 7-10 days off, losing $600-$1,200. If you have paid time off, this doesn't cost you extra money, but it's important to budget for it anyway.
+The biggest hidden cost is missing work while recovering. Learning more about extraction what to expect can help you understand this better. Most people can return to desk work after 3-5 days, costing $300-$600 in lost wages at an average $60/day. Physical workers often need 7-10 days off, losing $600-$1,200. If you have paid time off, this doesn't cost you extra money, but it's important to budget for it anyway.
 
 ## Complications and Treatment Costs
 
@@ -69,7 +69,7 @@ Extraction alone costs $100-$300, but living with a missing tooth often requires
 
 ## Insurance Coverage Details
 
-Most insurance covers 50-80% of extraction costs, meaning you pay 20-50% out-of-pocket. Learning more about [post extraction pain](/article/post-extraction-pain.html) can help you understand this better. If you have a $1,000 annual maximum benefit and get multiple extractions, you'll quickly exceed coverage and pay full price for remaining extractions.
+Most insurance covers 50-80% of extraction costs, meaning you pay 20-50% out-of-pocket. Learning more about post extraction pain can help you understand this better. If you have a $1,000 annual maximum benefit and get multiple extractions, you'll quickly exceed coverage and pay full price for remaining extractions.
 
 Check with your insurance before extraction to understand your specific coverage.
 
@@ -93,9 +93,13 @@ Buy supplies once rather than multiple trips—one pack of gauze, one bottle of 
 
 **Day 0 (Extraction Day):** You'll have significant swelling, especially in the evening and next morning. Pain is manageable with prescribed or over-the-counter medication. The extraction site will bleed for a few hours—this is normal. Some oozing continues for 12-24 hours. Sleep with your head elevated using 2-3 pillows to reduce swelling.
 
-**Days 1-3:** Swelling peaks on days 2-3, often worse than day 1. You might look puffy. Pain decreases from day 1 to day 3 if you're taking medication regularly. Avoid physical activity—your body is healing and needs rest. Food should be soft and cool (ice cream, yogurt, smoothies, pudding). Continue using ice packs for 20 minutes on, 20 minutes off throughout the day.
+**Days 1-3:** Swelling peaks on days 2-3, often worse than day 1. You might look puffy. Pain decreases from day 1 to day 3 if you're taking medication regularly.
 
-**Days 4-7:** Swelling starts improving noticeably. Pain is minimal if you've been following instructions. The extraction site starts filling in with new tissue. Bruising might appear on your face—this is also normal and peaks around day 4-5 before fading. You can usually return to desk work. Avoid hot foods and hard/crunchy foods. Gentle rinsing starts around day 4-5 with salt water.
+Avoid physical activity—your body is healing and needs rest. Food should be soft and cool (ice cream, yogurt, smoothies, pudding). Continue using ice packs for 20 minutes on, 20 minutes off throughout the day.
+
+**Days 4-7:** Swelling starts improving noticeably. Pain is minimal if you've been following instructions. The extraction site starts filling in with new tissue.
+
+Bruising might appear on your face—this is also normal and peaks around day 4-5 before fading. You can usually return to desk work. Avoid hot foods and hard/crunchy foods. Gentle rinsing starts around day 4-5 with salt water.
 
 **Days 8-14:** Most swelling resolves. Pain is gone or minimal. You can return to light physical activity. Eating returns toward normal, though you should avoid foods that could poke at the extraction site (popcorn kernels, tough meat, hard candy). The extraction site looks pink and is rapidly filling in.
 
@@ -153,16 +157,22 @@ Reach out to your dentist if you experience:
 
 Most concerns are minor and manageable with phone guidance. Don't hesitate to call.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
+
+For more information, see [Emergency Management of Oral and Dental Injuries](/article/best-practices-for-mouth-injuries-treatment.html) and [Common Misconceptions About Tooth Color Changes](/article/common-misconceptions-about-tooth-color-changes.html).
+
 ## Conclusion
 
 Extraction recovery costs $200-$400 for a simple tooth, or $300-$800 if you lose work time. Most of this goes to pain medication ($10-$50), supplies ($5-$15), and dietary changes ($5-$15). The biggest cost is often lost work time. Budget conservatively, follow your dentist's recovery instructions carefully to prevent complications, and plan your recovery time strategically. Talk to your dentist before extraction about what you can expect cost-wise so there are no surprises.
 
+> **Key Takeaway:** Learn what extraction recovery costs and how to budget for the full healing process.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
+- [Dentin Hypersensitivity and Evidence-Based Relief](/article/understanding-tooth-sensitivity-and-relief-options.html)
+- [Gingival Bleeding](/article/bleeding-gums-solutions-complete-guide.html)
+- [Common Misconceptions About Tooth Structure Layers](/article/common-misconceptions-about-tooth-structure-layers.html)
+- [Why Tooth Color Changes Matters](/article/why-tooth-color-changes-matters.html)
+- [Common Misconceptions About Cavity Formation Process](/article/common-misconceptions-about-cavity-formation-process.html)
 
-- [What to Expect After Tooth Extraction](/article/extraction-what-to-expect.html)
-- [Managing Pain After Extraction](/article/post-extraction-pain.html)
-- [Tooth Replacement Options Explained](/article/tooth-replacement-options.html)
-
-> **Key Takeaway:** Extraction recovery costs $200-$400 for direct expenses plus potential lost work time. Most insurance covers the extraction itself but leaves medications and supplies as your responsibility. Budget for 10-14 days of soft food and pain medication. Following post-op instructions prevents complications costing hundreds more.

@@ -192,7 +192,9 @@ Deflection should decrease progressively through each stage. If 0.016-inch wire 
 At each appointment, measure:
 1. Wire deflection at each tooth (comparing to previous appointment)
 2. Rotation angles using periodontal probe aligned with tooth long axis
-3. Space closure (distance between adjacent tooth surfaces at contact point)
+3.
+
+Space closure (distance between adjacent tooth surfaces at contact point)
 4. Vertical relationships (overbite and anterior-posterior positioning)
 5. Oral hygiene status and gingival health
 
@@ -258,19 +260,17 @@ Systematic wire progression utilizing progressive force increase through sequent
 
 Wire sequence progression is the foundation of modern orthodontics. Starting with flexible, light-force wires that gently align severely crowded or rotated teeth, then progressively advancing to stiffer wires as teeth move closer to final positions, enables efficient movement while minimizing pain and biological damage. Your appointment schedule (usually monthly) allows your orthodontist to assess progress and determine when to advance to the next wire stage.
 
-For related information, see our article on [wire bending and customization](/article/wire-bending-customizing-appliances.html) and our guide to [orthodontic compliance](/article/why-orthodontic-compliance-matters.html).
+For related information, see our article on [Wire Bending and Customization](/article/wire-bending-customizing-appliances.html) and our guide to [Orthodontic Compliance](/article/why-orthodontic-compliance-matters.html).
 
 ## Conclusion
 
 Wire progression follows predictable stages: flexible NiTi wires initially for gentle alignment, progressively stiffer wires for comprehensive correction, and finally rigid stainless steel for final consolidation. Each stage typically lasts 4-8 weeks. Proper progression timing is critical—advancing too quickly creates excessive force and pain; advancing too slowly extends treatment unnecessarily.
 
-## Key Takeaway
-
-Braces use systematic wire progression: light flexible wires initially, progressively stiffer wires as teeth move. This optimizes comfort and biological response while maintaining treatment efficiency. Your orthodontist advances stages based on tooth movement, not arbitrary timelines.
-
+> **Key Takeaway:** Braces use systematic wire progression: light flexible wires initially, progressively stiffer wires as teeth move. This optimizes comfort and biological response while maintaining treatment efficiency. Your orthodontist advances stages based on tooth movement, not arbitrary timelines.
 
 ## Related Articles
 
 - [Risk And Concerns With Retainer Importance](/article/risk-and-concerns-with-retainer-importance.html)
 - [Benefits Of Orthodontic Appointment Frequency](/article/benefits-of-orthodontic-appointment-frequency.html)
 - [Common Misconceptions About Orthodontic Compliance](/article/common-misconceptions-about-orthodontic-compliance.html)
+

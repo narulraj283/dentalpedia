@@ -77,7 +77,7 @@ For people with normal enamel and gingival health, calcium carbonate formulation
 
 L-arginine, a naturally-derived amino acid, appears in toothpastes specifically for dentin sensitivity management. Arginine-calcium complexes occlude exposed dentinal tubules, blocking pain-triggering fluid movement.
 
-Studies show 30-40% sensitivity reduction with arginine products—less than potassium nitrate or strontium chloride (50-60% reduction) but reasonable for people preferring natural components. Sensitivity reduction requires 2-4 weeks of consistent use for optimal tubule occlusion. For more on this topic, see our guide on [Common Misconceptions About Saliva Im...](/article/common-misconceptions-about-saliva-importance.html).
+Studies show 30-40% sensitivity reduction with arginine products—less than potassium nitrate or strontium chloride (50-60% reduction) but reasonable for people preferring natural components. Sensitivity reduction requires 2-4 weeks of consistent use for optimal tubule occlusion. For more on this topic, see our guide on [Common Misconceptions About Saliva Importance](/article/common-misconceptions-about-saliva-importance.html).
 
 ## Fluoride-Free Formulations and Their Limits
 
@@ -99,14 +99,6 @@ For high-cavity-risk people: fluoride toothpastes remain superior for cavity pre
 
 For dentin sensitivity: arginine-containing natural toothpastes offer reasonable options; expect 2-4 weeks before maximum benefit.
 
-## Related Articles You May Find Helpful
-
-- [Staining Foods: Dietary Impact on Tooth Color](/article/staining-foods-dietary-impact-on-color.html)
-- [Common Misconceptions About Saliva Importance](/article/common-misconceptions-about-saliva-importance.html)
-- [Electric Toothbrush Safety: Gum Recession Risks](/article/electric-toothbrush-safety-gum-recession-risks.html)
-
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about natural toothpaste ingredients: what they do and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -115,7 +107,6 @@ You might also want to ask about the expected timeline, what the recovery proces
 
 Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed natural toothpaste ingredients: what they do, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference in how long your results last.
@@ -123,7 +114,6 @@ Once you've addressed natural toothpaste ingredients: what they do, maintaining 
 Pay attention to any changes in your mouth and report them to your dentist early. Catching small issues before they become bigger problems saves you time, money, and discomfort. Your dentist may recommend specific products or routines based on your treatment.
 
 Diet also plays a role in protecting your dental health. Limiting sugary snacks and acidic drinks helps preserve your teeth and any dental work you've had done. Drinking water throughout the day helps wash away food particles and keeps your mouth hydrated.
-
 
 ## What to Expect During Your Visit
 
@@ -138,3 +128,11 @@ After your appointment, your dentist will give you clear instructions for at-hom
 Natural toothpaste ingredients vary in effectiveness. Hydroxyapatite and xylitol provide evidence-based benefits. Baking soda works but through abrasion risking enamel damage. Essential oils lack sufficient clinical evidence at toothpaste concentrations. Choose products based on your specific oral health needs, not marketing hype.
 
 > **Key Takeaway:** Hydroxyapatite (10-20%) and xylitol (5-10%) offer proven cavity prevention in natural toothpastes. Baking soda works through abrasion that damages enamel long-term. Essential oils show lab promise but minimal clinical benefit in toothpaste formulations. Fluoride toothpastes still prevent significantly more cavities for people with cavity risk factors.
+
+## Related Articles
+
+- [Staining Foods: Dietary Impact on Tooth Color](/article/staining-foods-dietary-impact-on-color.html)
+- [Electric Toothbrush Safety: Gum Recession Risks](/article/electric-toothbrush-safety-gum-recession-risks.html)
+
+- [Cost of Saliva Importance in Preventive Dentistry](/article/cost-of-saliva-importance.html)
+

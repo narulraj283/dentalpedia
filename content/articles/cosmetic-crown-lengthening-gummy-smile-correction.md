@@ -1,29 +1,37 @@
 ---
-title: "Crown Lengthening for Gummy Smile Correction: Surgical and"
-slug: cosmetic-crown-lengthening-gummy-smile-correction
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Gummy smile surgery reduces excessive gum display, revealing more of your teeth and creating a more balanced smile.
 date: 2026-03-05
+excerpt: Gummy smile surgery reduces excessive gum display, revealing more of your
+  teeth and creating a more balanced smile.
 read_time: 8 min
+references:
+- Coslet JG, Vanarsdall RL, Weisgold AS. Diagnosis and Classification of Delayed Passive
+  Eruption of the Maxillary Incisor. Journal of the American Dental Association. 2023;95(3):458-462.
+- Robbins JW. Differential Diagnosis of Gingival Recession. Journal of the American
+  Dental Association. 2024;125(10):1380-1384.
+- Dolt AH, Robbins JW. Advances in Esthetic Implant Dentistry. Journal of Contemporary
+  Dental Practice. 2023;4(4):32-46.
+- 'Alpiste-Illueca F. Esthetics in Implantology: Dental and Facial Aspects. Implant
+  Dentistry. 2023;20(1):42-50.'
+- Levine RA, McGuire M. The Diagnosis and Treatment of the Gummy Smile. Compendium
+  of Continuing Education in Dentistry. 2023;18(8):757-762.
+- 'Kumar A, Namdev R, Pandey RK, et al. Cosmetic Crown Lengthening: Rationale, Technique,
+  and Clinical Case Reports. Journal of Esthetic Dentistry. 2023;31(2):98-108.'
+- Rees TD, Levine RA. Systematic Approach to the Gummy Smile in Mature Patients. Compendium
+  of Continuing Education in Dentistry. 2022;22(7):645-660.
+- Weiner GA, Weiner MD. Cosmetic Periodontal Surgery. Periodontology 2000. 2023;43:47-64.
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: cosmetic-crown-lengthening-gummy-smile-correction
 subcategory: Surgical Procedures
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - "Coslet JG, Vanarsdall RL, Weisgold AS. Diagnosis and Classification of Delayed Passive Eruption of the Maxillary Incisor. Journal of the American Dental Association. 2023;95(3):458-462."
-  - "Robbins JW. Differential Diagnosis of Gingival Recession. Journal of the American Dental Association. 2024;125(10):1380-1384."
-  - "Dolt AH, Robbins JW. Advances in Esthetic Implant Dentistry. Journal of Contemporary Dental Practice. 2023;4(4):32-46."
-  - "Alpiste-Illueca F. Esthetics in Implantology: Dental and Facial Aspects. Implant Dentistry. 2023;20(1):42-50."
-  - "Levine RA, McGuire M. The Diagnosis and Treatment of the Gummy Smile. Compendium of Continuing Education in Dentistry. 2023;18(8):757-762."
-  - "Kumar A, Namdev R, Pandey RK, et al. Cosmetic Crown Lengthening: Rationale, Technique, and Clinical Case Reports. Journal of Esthetic Dentistry. 2023;31(2):98-108."
-  - "Rees TD, Levine RA. Systematic Approach to the Gummy Smile in Mature Patients. Compendium of Continuing Education in Dentistry. 2022;22(7):645-660."
-  - "Weiner GA, Weiner MD. Cosmetic Periodontal Surgery. Periodontology 2000. 2023;43:47-64."
+title: 'Crown Lengthening for Gummy Smile Correction: Surgical'
 ---
 
 ## What Is a Gummy Smile?
 
-If you show more than 3 millimeters of gum when you smile, you might consider it a "gummy smile." About 10-15% of people have this characteristic, but many more feel self-conscious about gum display when smiling. Learning more about [cosmetic crown selection what you need to know](/article/cosmetic-crown-selection-what-you-need-to-know.html) can help you understand this better. The good news? Gummy smile correction through surgery is a straightforward procedure with excellent results.
+If you show more than 3 millimeters of gum when you smile, you might consider it a "gummy smile." About 10-15% of people have this characteristic, but many more feel self-conscious about gum display when smiling. Learning more about [Cosmetic Crown Selection What You Need to Know](/article/cosmetic-crown-selection-what-you-need-to-know.html) can help you understand this better. The good news? Gummy smile correction through surgery is a straightforward procedure with excellent results.
 
 Crown lengthening surgery reduces excessive gum display by carefully removing gingival tissue and sometimes bone. The result is that more of your tooth shows when you smile, creating better balance and proportion. About 9 out of 10 people are thrilled with their smile after this procedure.
 
@@ -53,7 +61,7 @@ Using a local anesthetic (the same numbing used for cavity fillings), the surgeo
 
 ## Results Timeline
 
-Immediately after surgery, you'll see improved gingival display. Learning more about [cosmetic gum shaping complete guide](/article/cosmetic-gum-shaping-complete-guide.html) can help you understand this better. However, healing swelling and gum changes mean your final result doesn't stabilize until 4-6 weeks post-op. Some gums might shift slightly over 3-6 months—this is normal remodeling. Ninety percent of surgical results remain stable long-term (5+ years).
+Immediately after surgery, you'll see improved gingival display. Learning more about [Cosmetic Gum Shaping Complete Guide](/article/cosmetic-gum-shaping-complete-guide.html) can help you understand this better. However, healing swelling and gum changes mean your final result doesn't stabilize until 4-6 weeks post-op. Some gums might shift slightly over 3-6 months—this is normal remodeling. Ninety percent of surgical results remain stable long-term (5+ years).
 
 Your gums might feel slightly tender when eating for 2-4 weeks, but normal function returns quickly. Most people resume normal eating by week 3-4.
 
@@ -79,22 +87,29 @@ Botox injections into upper lip muscles can reduce muscle pull, decreasing gingi
 
 ## Questions to Ask Your Dentist Before Gummy Smile Surgery
 
-Before committing to crown lengthening surgery, have detailed conversations with your dentist about your specific situation. Ask them to identify which factor is causing your gummy smile—is it excess gum tissue, a short upper lip, a hyperactive smile muscle, or a skeletal jaw issue? This determines whether surgery will effectively address your concern, or whether other approaches (like Botox) might work better. Ask to see before-and-after photos of similar cases to understand realistic results for your smile. Ask specifically about what you should expect immediately after surgery: pain level, swelling, activity restrictions, and healing timeline. Ask about the specific technique they'll use (scalpel versus laser) and what advantages/disadvantages each has. Ask what potential complications exist and how rare they are. For cost clarity, ask for an exact quote including any follow-up visits, and ask whether your insurance might cover part of the cost. Ask about alternatives: if you're concerned about surgery, ask whether Botox or other non-surgical options might work for your situation. Ask how long surgical results last and what percentage of patients maintain their results.
+Before committing to crown lengthening surgery, have detailed conversations with your dentist about your specific situation. Ask them to identify which factor is causing your gummy smile—is it excess gum tissue, a short upper lip, a hyperactive smile muscle, or a skeletal jaw issue? This determines whether surgery will effectively address your concern, or whether other approaches (like Botox) might work better. Ask to see before-and-after photos of similar cases to understand realistic results for your smile. Ask specifically about what you should expect immediately after surgery: pain level, swelling, activity restrictions, and healing timeline.
+
+Ask about the specific technique they'll use (scalpel versus laser) and what advantages/disadvantages each has. Ask what potential complications exist and how rare they are. For cost clarity, ask for an exact quote including any follow-up visits, and ask whether your insurance might cover part of the cost. Ask about alternatives: if you're concerned about surgery, ask whether Botox or other non-surgical options might work for your situation. Ask how long surgical results last and what percentage of patients maintain their results.
 
 ## Aftercare Instructions to Optimize Surgical Healing
 
-Your recovery experience and final results depend significantly on following proper aftercare. For the first 24-48 hours after surgery, ice your face for 15-minute intervals every 2 hours to reduce swelling—ice is most effective immediately after surgery. Sleep with your head elevated on 3-4 pillows to minimize swelling and discomfort. Pain management matters: take over-the-counter pain relievers as needed (ibuprofen is particularly helpful for reducing inflammation). Use the prescribed antimicrobial rinse exactly as directed—usually twice daily for one week. During the first week, avoid hard, hot, or sticky foods; soft foods like yogurt, applesauce, smoothies, and soup are ideal. Don't use a regular toothbrush near the surgical area for the first week; use your dentist's prescribed gentler alternative. Avoid smoking and alcohol for at least one week—both slow healing. Don't do strenuous exercise or heavy lifting for 3-4 weeks; light walking is fine. Sleep extra if possible—healing requires energy. Watch for signs of infection (increasing pain, swelling, or drainage after day 3) and contact your dentist immediately if you notice these.
+Your recovery experience and final results depend significantly on following proper aftercare. For the first 24-48 hours after surgery, ice your face for 15-minute intervals every 2 hours to reduce swelling—ice is most effective immediately after surgery. Sleep with your head elevated on 3-4 pillows to minimize swelling and discomfort. Pain management matters: take over-the-counter pain relievers as needed (ibuprofen is particularly helpful for reducing inflammation). Use the prescribed antimicrobial rinse exactly as directed—usually twice daily for one week.
+
+During the first week, avoid hard, hot, or sticky foods; soft foods like yogurt, applesauce, smoothies, and soup are ideal. Don't use a regular toothbrush near the surgical area for the first week; use your dentist's prescribed gentler alternative. Avoid smoking and alcohol for at least one week—both slow healing. Don't do strenuous exercise or heavy lifting for 3-4 weeks; light walking is fine. Sleep extra if possible—healing requires energy. Watch for signs of infection (increasing pain, swelling, or drainage after day 3) and contact your dentist immediately if you notice these.
+
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
 Crown lengthening surgery successfully corrects excessive gingival display, revealing more attractive tooth proportions. Recovery is straightforward with minimal discomfort. Results last long-term in 90-95% of cases. Most people report dramatically improved smile confidence and satisfaction with this procedure.
 
+> **Key Takeaway:** Gummy smile surgery reduces excessive gum display, revealing more of your teeth and creating a more balanced smile.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Cosmetic Crown Selection: What You Need to Know](/article/cosmetic-crown-selection-what-you-need-to-know.html)
-- [Cosmetic Gum Shaping](/article/cosmetic-gum-shaping-complete-guide.html)
 - [Smile Design and Planning](/article/cosmetic-smile-design-complete-guide.html)
+- [Extended Post-Surgical Care and Tissue Remodeling](/article/best-practices-for-post-surgery-care.html)
+- [Bleeding After Tooth Extraction](/article/bleeding-after-tooth-extraction-when-is-it-excessive.html)
+- [Swelling Reduction After Oral Surgery](/article/swelling-reduction-complete-guide.html)
+- [Wisdom Teeth Extraction: Complete Guide](/article/wisdom-teeth-extraction-complete-guide.html)
 
-> **Key Takeaway:** Gummy smile surgery reduces excessive gum display with a straightforward 4-6 week healing process and excellent long-term results. If you're self-conscious about showing too much gum when you smile, ask your dentist about crown lengthening.

@@ -37,13 +37,13 @@ Swelling after oral surgery is annoying, uncomfortable, and can affect how you l
 
 ## Why Your Body Swells After Surgery
 
-When your surgeon operates on your mouth or jaw, they're creating an injury—even though it's a carefully controlled, healing injury. Learn more about [risk and concerns with](/article/risk-and-concerns-with-surgical-technique-overview.html) for additional guidance. Your body responds to this injury by releasing chemicals that increase blood vessel permeability, allowing fluid to accumulate in the tissue spaces around the surgical area. This swelling typically peaks 48-72 hours after surgery, then gradually improves over 1-3 weeks.
+When your surgeon operates on your mouth or jaw, they're creating an injury—even though it's a carefully controlled, healing injury. Learn more about [Risk and Concerns with](/article/risk-and-concerns-with-surgical-technique-overview.html) for additional guidance. Your body responds to this injury by releasing chemicals that increase blood vessel permeability, allowing fluid to accumulate in the tissue spaces around the surgical area. This swelling typically peaks 48-72 hours after surgery, then gradually improves over 1-3 weeks.
 
 The amount of swelling you experience depends on how extensive the surgery was. A simple tooth extraction might cause minimal swelling, while wisdom tooth removal or bone grafting can produce noticeable facial swelling. The good news? Research shows that comprehensive swelling reduction strategies can reduce peak swelling by 30-50% and cut recovery time by a week or more.
 
 ## Pre-Surgery Steps That Make a Real Difference
 
-Before surgery, a single medication—a corticosteroid given 1-2 hours before incision—is the single most effective way to reduce swelling. Learn more about [extraction complications what you](/article/extraction-complications-what-you-need-to-know.html) for additional guidance. This medication dampens your inflammatory response at its source, reducing the chemicals that cause fluid accumulation. It reduces peak swelling by 25-35% and cuts the time for swelling to resolve by 3-7 days.
+Before surgery, a single medication—a corticosteroid given 1-2 hours before incision—is the single most effective way to reduce swelling. Learn more about [Extraction Complications What You](/article/extraction-complications-what-you-need-to-know.html) for additional guidance. This medication dampens your inflammatory response at its source, reducing the chemicals that cause fluid accumulation. It reduces peak swelling by 25-35% and cuts the time for swelling to resolve by 3-7 days.
 
 The dose is small and given only once; extending steroid doses after surgery doesn't help and increases side effects. If you have poorly controlled diabetes, your surgeon might use this medication cautiously or monitor your blood sugar, but it's usually still worthwhile.
 
@@ -105,12 +105,12 @@ This comprehensive approach—combining preoperative steroid therapy, intraopera
 
 Postoperative swelling is an inevitable part of healing, but the degree of swelling is highly modifiable through evidence-based strategies. Combining preoperative steroids, proper ice application, anti-inflammatory medications, elevation, and activity restriction reduces swelling substantially and speeds recovery. Understanding that swelling peaks at days 2-3 and then gradually improves helps you maintain perspective and avoid anxiety about the normal healing process.
 
-## Key Takeaway
-
-Reducing swelling after oral surgery requires a comprehensive approach starting before surgery: preoperative steroids, consistent ice application in the first 48 hours, regular anti-inflammatory medication, head elevation, and activity restriction together reduce peak swelling by 30-50% and cut recovery time significantly.
+> **Key Takeaway:** Reducing swelling after oral surgery requires a comprehensive approach starting before surgery: preoperative steroids, consistent ice application in the first 48 hours, regular anti-inflammatory medication, head elevation, and activity restriction together reduce peak swelling by 30-50% and cut recovery time significantly.
 
 ## Related Articles
 
-- [Surgical Technique: Why How Your Surgery Is Done Matters](/article/why-surgical-technique-overview-matters.html)
-- [What to Expect After Tooth Extraction: Recovery Timeline](/article/why-surgical-teeth-removal-matters.html)
-- [Post-Surgery Pain Management: Evidence-Based Strategies](/article/why-surgical-technique-overview-matters.html)
+- [Why Surgical Technique Overview Matters](/article/why-surgical-technique-overview-matters.html)
+- [Why Surgical Teeth Removal Matters](/article/why-surgical-teeth-removal-matters.html)
+
+- [Pre-Surgical Optimization and Preparation Guidelines](/article/best-practices-for-pre-surgery-preparation.html)
+

@@ -1,24 +1,35 @@
 ---
-title: "Crown Preparation: Creating Optimal Tooth Shape and"
-slug: crown-preparation-creating-tooth-shape
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Evidence-based crown preparation technique optimizes retention, esthetics, and long-term success.
 date: 2026-03-05
+excerpt: Evidence-based crown preparation technique optimizes retention, esthetics,
+  and long-term success.
 read_time: 9 min
+references:
+- Shillingburg HT, Sábo S, Whitsett LD, et al. Fundamentals of fixed prosthodontics.
+  Quintessence Publishing. 2012.
+- Burke FJ, Lucarotti PS. The ultimate guide to crown and bridge therapy. British
+  Dental Journal. 2009;206(8):395-402.
+- 'Goodacre CJ, Campagni WV, Aquilino SA. Tooth preparations for complete crowns:
+  an art form based on scientific principles. Journal of Dental Education. 2001;65(4):338-353.'
+- 'Vailati F, Belser UC. Full-mouth adhesive rehabilitation of a severely compromised
+  dentition: the phoenix approach. International Journal of Periodontics and Restorative
+  Dentistry. 2006;26(5):439-449.'
+- Pegoraro TA, Da Silva NR, Carvalho RM. Cements for use in esthetic dentistry. Dental
+  Clinics of North America. 2007;51(2):453-471.
+- 'Collin C, Geerts SO, Collin C, et al. The impact of crown preparation on tooth
+  morphology: a systematic review. Journal of Prosthodontic Research. 2015;59(2):98-108.'
+- 'Lustig LP, Lustig J, Cross M, et al. Contours of prepared tooth surfaces: a literature
+  review. Journal of Prosthetic Dentistry. 1999;82(6):619-630.'
+- Pjetursson BE, Thygeson T, Janda M, et al. A systematic review of the survival and
+  complication rates of all-ceramic and metal-ceramic reconstructions in the extra-short
+  span (1-2 teeth). Clinical Oral Implants Research. 2018;29(Suppl 16):128-142.
+reviewed: true
 reviewer_specialty: General Dentistry
+slug: crown-preparation-creating-tooth-shape
 subcategory: General Overview
 subcategory_slug: overview-general
-reviewed: true
-references:
-  - "Shillingburg HT, Sábo S, Whitsett LD, et al. Fundamentals of fixed prosthodontics. Quintessence Publishing. 2012."
-  - "Burke FJ, Lucarotti PS. The ultimate guide to crown and bridge therapy. British Dental Journal. 2009;206(8):395-402."
-  - "Goodacre CJ, Campagni WV, Aquilino SA. Tooth preparations for complete crowns: an art form based on scientific principles. Journal of Dental Education. 2001;65(4):338-353."
-  - "Vailati F, Belser UC. Full-mouth adhesive rehabilitation of a severely compromised dentition: the phoenix approach. International Journal of Periodontics and Restorative Dentistry. 2006;26(5):439-449."
-  - "Pegoraro TA, Da Silva NR, Carvalho RM. Cements for use in esthetic dentistry. Dental Clinics of North America. 2007;51(2):453-471."
-  - "Collin C, Geerts SO, Collin C, et al. The impact of crown preparation on tooth morphology: a systematic review. Journal of Prosthodontic Research. 2015;59(2):98-108."
-  - "Lustig LP, Lustig J, Cross M, et al. Contours of prepared tooth surfaces: a literature review. Journal of Prosthetic Dentistry. 1999;82(6):619-630."
-  - "Pjetursson BE, Thygeson T, Janda M, et al. A systematic review of the survival and complication rates of all-ceramic and metal-ceramic reconstructions in the extra-short span (1-2 teeth). Clinical Oral Implants Research. 2018;29(Suppl 16):128-142."
+title: 'Crown Preparation: Creating Optimal Tooth Shape'
 ---
 
 Crown preparation is the step where your dentist reshapes your tooth to make room for the crown. It's one of the most important steps in crown success. A well-prepared tooth provides good retention for the crown, looks natural, and protects the nerve inside the tooth. Let's explore what happens during this procedure and why precision matters.
@@ -33,7 +44,7 @@ The challenge is creating a shape that removes enough tooth structure to make ro
 
 The amount depends on where the tooth is in your mouth. For the sides of your tooth (called the axial walls), your dentist typically removes about three-quarters to one millimeter of tooth structure. For the chewing surface or the cutting edge of front teeth, roughly one and one-half to two millimeters is removed.
 
-This might sound like a lot, but remember that teeth are much thicker than this. Learning more about [cavity formation process complete guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. You're removing just a thin layer while leaving plenty of tooth structure underneath for strength and to protect the nerve.
+This might sound like a lot, but remember that teeth are much thicker than this. Learning more about [Cavity Formation Process Complete Guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. You're removing just a thin layer while leaving plenty of tooth structure underneath for strength and to protect the nerve.
 
 ## The Taper Angle
 
@@ -43,7 +54,7 @@ Your dentist aims for a taper angle of about 6 to 10 degrees. This creates a sha
 
 ## Margin Design
 
-The margin is where the edge of the crown meets your tooth. Learning more about [benefits of bite force and teeth](/article/benefits-of-bite-force-and-teeth.html) can help you understand this better. Your dentist might create a chamfer margin—a beveled edge that gives the crown a place to seat and provides strength. Different tooth types get different margin designs based on what works best mechanically and esthetically.
+The margin is where the edge of the crown meets your tooth. Learning more about [Benefits of Bite Force and Teeth](/article/benefits-of-bite-force-and-teeth.html) can help you understand this better. Your dentist might create a chamfer margin—a beveled edge that gives the crown a place to seat and provides strength. Different tooth types get different margin designs based on what works best mechanically and esthetically.
 
 The margin is finished very carefully and smoothly so the crown can fit precisely and your gums won't be irritated.
 
@@ -91,16 +102,19 @@ Teeth that have received crowns can remain healthy for decades when the crown is
 
 However, the margin (where the crown meets your tooth) is critical. If bacteria accumulate at the margin, decay can develop underneath the crown. This is why excellent home care—brushing and flossing carefully around crowned teeth—is so important.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Crown preparation is a skilled procedure requiring precision and understanding of how tooth anatomy, mechanics, and biology work together. Good preparation removes just enough tooth to make room for the crown while preserving tooth strength and protecting the nerve. Careful preparation creates the foundation for a successful crown that functions beautifully and lasts many years. If your dentist has recommended a crown, ask them about their preparation approach and what you can do to help ensure your crown's longevity.
 
+> **Key Takeaway:** Evidence-based crown preparation technique optimizes retention, esthetics, and long-term success.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Cavity Formation Process Complete Guide](/article/cavity-formation-process-complete-guide.html)
-- [Benefits of Bite Force and Teeth](/article/benefits-of-bite-force-and-teeth.html)
 - [Community Health Centers Affordable Dentistry](/article/community-health-centers-affordable-dentistry.html)
+- [Bulimia and Dental Erosion: Eating Disorder Oral](/article/bulimia-and-dental-erosion-eating-disorder-effects.html)
+- [Second Opinion When to Seek Another Dentist](/article/second-opinion-when-to-seek-another-dentist.html)
+- [Common Misconceptions About Pain Relief Methods](/article/common-misconceptions-about-pain-relief-methods.html)
+- [Bad Breath Elimination: What You Need to Know](/article/bad-breath-elimination-what-you-need-to-know.html)
 
-> **Key Takeaway:** Crown preparation is a critical procedure that requires precise tooth shaping to create the foundation for a long-lasting crown; good preparation protects the tooth nerve, provides adequate crown retention, and reduces cavity risk. Talk to your dentist about their preparation techniques and what you can do after the crown is placed to ensure its longevity.

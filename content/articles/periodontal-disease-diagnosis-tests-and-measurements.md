@@ -47,7 +47,7 @@ reviewer_specialty: Periodontics
 slug: periodontal-disease-diagnosis-tests-and-measurements
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
-title: Periodontal Disease Diagnosis, Assessment Tools, and...
+title: Periodontal Disease Diagnosis Tests and Measurements
 ---
 
 ## How Your Dentist Diagnoses Gum Disease
@@ -86,7 +86,7 @@ X-rays show whether bone is being lost. Your dentist looks for several features:
 
 Your dentist compares radiographs over time. A single X-ray shows where you are now. Comparing X-rays taken months or years apart shows whether disease is progressing. This is why your dentist takes baseline X-rays—not because they expect problems, but to have a reference for detecting future changes.
 
-Three-dimensional X-rays (cone-beam computed tomography or CBCT) provide much better visualization of bone than regular flat X-rays. However, they deliver higher radiation dose and cost more, so they're reserved for complex cases, surgical planning, or when conventional X-rays show unexpectedly aggressive disease. Your dentist will discuss whether you need 3-D imaging based on your specific situation. For more on this topic, see our guide on [Growth Factors Bmp And Signaling Mole...](/article/growth-factors-bmp-and-signaling-molecules.html).
+Three-dimensional X-rays (cone-beam computed tomography or CBCT) provide much better visualization of bone than regular flat X-rays. However, they deliver higher radiation dose and cost more, so they're reserved for complex cases, surgical planning, or when conventional X-rays show unexpectedly aggressive disease. Your dentist will discuss whether you need 3-D imaging based on your specific situation. For more on this topic, see our guide on [Growth Factors, BMP, and Signaling Molecules in](/article/growth-factors-bmp-and-signaling-molecules.html).
 
 ## Bacterial Testing and Biomarkers
 
@@ -116,22 +116,19 @@ Your dentist tracks these measurements over time to see whether your disease is 
 
 This longitudinal monitoring is why your dentist keeps detailed records. The measurements in your chart from months or years ago matter because they show your individual disease pattern. Some people's disease is stable for years between appointments. Others show continuous slow progression requiring more frequent monitoring.
 
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about topics like periodontal disease diagnosis, assessment tools, and.... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
+... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
-## Key Takeaway
-
-Your dentist uses a combination of measurements—probing depth, attachment loss, bleeding response, X-ray findings, and sometimes bacterial or biomarker testing—to diagnose gum disease and classify its severity and activity. The newer 2018 staging and grading system gives more specific information about your disease extent and prognosis. Understanding these diagnostic tools helps you appreciate why your dentist recommends specific treatment intensity and monitoring intervals. Regular examination allows your dentist to catch disease progression early when treatment is most successful and less invasive.
+> **Key Takeaway:** Your dentist uses a combination of measurements—probing depth, attachment loss, bleeding response, X-ray findings, and sometimes bacterial or biomarker testing—to diagnose gum disease and classify its severity and activity. The newer 2018 staging and grading system gives more specific information about your disease extent and prognosis. Understanding these diagnostic tools helps you appreciate why your dentist recommends specific treatment intensity and monitoring intervals. Regular examination allows your dentist to catch disease progression early when treatment is most successful and less invasive.
 
 ## Related Articles
 
-[Gingivitis Prevention: Reversing Early Gum Disease](/article/gingivitis-prevention-reversing-early-gum-disease.html)
+- [Gingival Sulcus: Normal Gum Depth](/article/gingival-sulcus-normal-gum-depth.html)
+- [Probing Depth: Measuring Pocket Severity](/article/probing-depth-measuring-pocket-severity.html)
 
-[Gingival Sulcus: Normal Gum Depth](/article/gingival-sulcus-normal-gum-depth.html)
+- [Periodontal Disease Genetics Family Risk Factors](/article/periodontal-disease-genetics-family-risk-factors.html)
+- [Supportive Periodontal Therapy](/article/periodontal-maintenance-ongoing-therapy.html)
 
-[Probing Depth: Measuring Pocket Severity](/article/probing-depth-measuring-pocket-severity.html)

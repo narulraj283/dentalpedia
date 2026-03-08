@@ -1,24 +1,33 @@
 ---
-title: "Acidic Foods: Erosion from Citrus and Soda"
-slug: acidic-foods-erosion-from-citrus-and-soda
 category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: Citric acid chelation, phosphoric acid mechanisms, and carbonation effects on enamel demineralization and progression.
 date: 2026-03-05
+excerpt: Citric acid chelation, phosphoric acid mechanisms, and carbonation effects
+  on enamel demineralization and progression.
 read_time: 8 min
+references:
+- Chaussain C, Louguet J, Bodde E, et al. Protective role of salivary pellicle in
+  erosion. Archives of Oral Biology. 2013;58(2):157-164.
+- Schlueter N, Tveten AB, Nyvad B, et al. Erosive Tooth Wear and Caries. Journal of
+  Dental Research. 2020;99(10):1122-1131.
+- 'Shellis RP, Ganss C, Ren Y, et al. Methodology and models in erosion research:
+  a consensus report. Caries Research. 2011;45(1):46-56.'
+- Voronets J, Lussi A. Thickness of softened human and bovine dental enamel after
+  citric acid erosion and toothbrush abrasion. Archives of Oral Biology. 2010;55(2):98-104.
+- Meurman JH, Frank RM. Progression and surface ultrastructure of in vitro caused
+  erosive lesions in human and bovine enamel. Caries Research. 1991;25(3):185-194.
+- Abadir RR. Erosion and Abrasion of Dental Surfaces. Journal of the American Dental
+  Association. 2006;137(1):48-58.
+- 'Lussi A. Dental erosion: from diagnosis to therapy. Monographs in Oral Science.
+  2006;20:1-476.'
+- Shen P, Manton DJ. Remineralisation, repair and arrest of active caries by topical
+  fluorides. Australian Dental Journal. 2010;55(1):2-10.
+reviewed: true
 reviewer_specialty: Preventive Dentistry
+slug: acidic-foods-erosion-from-citrus-and-soda
 subcategory: Harmful Foods & Beverages
 subcategory_slug: harmful-foods
-reviewed: true
-references:
-  - "Chaussain C, Louguet J, Bodde E, et al. Protective role of salivary pellicle in erosion. Archives of Oral Biology. 2013;58(2):157-164."
-  - "Schlueter N, Tveten AB, Nyvad B, et al. Erosive Tooth Wear and Caries. Journal of Dental Research. 2020;99(10):1122-1131."
-  - "Shellis RP, Ganss C, Ren Y, et al. Methodology and models in erosion research: a consensus report. Caries Research. 2011;45(1):46-56."
-  - "Voronets J, Lussi A. Thickness of softened human and bovine dental enamel after citric acid erosion and toothbrush abrasion. Archives of Oral Biology. 2010;55(2):98-104."
-  - "Meurman JH, Frank RM. Progression and surface ultrastructure of in vitro caused erosive lesions in human and bovine enamel. Caries Research. 1991;25(3):185-194."
-  - "Abadir RR. Erosion and Abrasion of Dental Surfaces. Journal of the American Dental Association. 2006;137(1):48-58."
-  - "Lussi A. Dental erosion: from diagnosis to therapy. Monographs in Oral Science. 2006;20:1-476."
-  - "Shen P, Manton DJ. Remineralisation, repair and arrest of active caries by topical fluorides. Australian Dental Journal. 2010;55(1):2-10."
+title: 'Acidic Foods: Erosion from Citrus'
 ---
 
 ## How Citric Acid Damages Teeth
@@ -107,20 +116,21 @@ If you enjoy juice, drink it with meals when saliva is strongest, limit quantity
 
 ## Summary
 
-Citric acid in lemons, limes, and oranges damages teeth through a chemical process that specifically targets tooth minerals, creating deep internal damage before surface erosion becomes visible. Phosphoric acid in soda causes more rapid visible surface erosion. Both damage enamel below the safe pH of 5.5. Erosion progresses through four stages from invisible surface changes to advanced dentin exposure requiring restoration. However, erosion can be arrested by eliminating acidic beverage consumption—your saliva and fluoride treatments can then repair demineralized enamel. Strategies including straw use, quick consumption, limiting frequency, and consuming with meals significantly reduce erosion. Even if erosion is already visible, you can prevent further damage by changing beverages now.
+Citric acid in lemons, limes, and oranges damages teeth through a chemical process that specifically targets tooth minerals, creating deep internal damage before surface erosion becomes visible. Phosphoric acid in soda causes more rapid visible surface erosion. Both damage enamel below the safe pH of 5.5.
 
-## Related Articles You May Find Helpful
-
-- [Antioxidants and Oral Inflammation: Nutritional Support for Periodontal Health](/article/antioxidants-fighting-oral-inflammation.html)
-- [B Vitamins and Oral Health](/article/b-vitamins-and-oral-health.html)
-- [Balanced Diet and Dental Health](/article/balanced-diet-and-dental-health.html)
-
-
-
+Erosion progresses through four stages from invisible surface changes to advanced dentin exposure requiring restoration. However, erosion can be arrested by eliminating acidic beverage consumption—your saliva and fluoride treatments can then repair demineralized enamel. Strategies including straw use, quick consumption, limiting frequency, and consuming with meals significantly reduce erosion. Even if erosion is already visible, you can prevent further damage by changing beverages now.
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about acidic foods erosion from citrus and soda. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** Citric acid (in lemons, limes, and oranges) doesn't just lower the pH of your mouth—it does something more damaging. Your dentist can help you understand what steps are right for your specific needs.
+
+## Related Articles
+
+- [Balanced Diet and Dental Health](/article/balanced-diet-and-dental-health.html)
+- [Selenium and Antioxidants - Oxidative Stress](/article/selenium-and-antioxidants-oxidative-stress-protection.html)
+- [Vitamins and Tooth Remineralization](/article/vitamins-and-tooth-remineralization.html)
+- [Supplements - Vitamin D and Bone Health in Dentistry](/article/supplements-vitamin-d-and-bone-health.html)
+- [Vitamin D and Calcium Absorption for Bone and](/article/vitamin-d-and-calcium-absorption-bone-and-tooth-health.html)
 

@@ -33,7 +33,7 @@ references:
 
 Whitening pens deliver peroxide-based bleaching agents through a small brush or applicator tip, making them perhaps the most convenient whitening option available. Formulations contain hydrogen peroxide concentrations of 6-12%, positioned between over-the-counter whitening strips (6-14%) and professional custom tray treatments (10-15% carbamide peroxide equivalent).
 
-The gel base incorporates thickening agents that promote adhesion to tooth surfaces and extend contact time. Learn more about [how to before and](/article/how-to-before-and-after-smile.html) for additional guidance. Many formulations include additional ingredients like potassium nitrate for sensitivity reduction, fluoride for protection, or xylitol for antimicrobial properties. The closed applicator system minimizes exposure to light and air, reducing hydrogen peroxide degradation compared to tray-based systems where gel sits in trays.
+The gel base incorporates thickening agents that promote adhesion to tooth surfaces and extend contact time. Learn more about [How to Before and](/article/how-to-before-and-after-smile.html) for additional guidance. Many formulations include additional ingredients like potassium nitrate for sensitivity reduction, fluoride for protection, or xylitol for antimicrobial properties. The closed applicator system minimizes exposure to light and air, reducing hydrogen peroxide degradation compared to tray-based systems where gel sits in trays.
 
 ## Application Technique for Best Results
 
@@ -93,16 +93,17 @@ Patients with significant existing restorations (crowns, veneers, composite bond
 
 Over-the-counter whitening pens cost $10-25 per unit. Prescription-strength pens from dental offices cost $30-50. While more expensive than over-the-counter toothpaste, they're far less expensive than professional treatments ($300-800) or custom tray fabrication ($200-400). For patients maintaining professional whitening results, periodic whitening pen use between appointments provides cost-effective maintenance.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Whitening pens provide convenient, portable tooth bleaching options delivering modest shade improvements suitable for maintenance between professional treatments or light whitening needs. Their primary advantage—portability and ease of use—comes with reduced efficacy compared to professional or custom tray treatments. Realistic patient expectations regarding 1-2 shade improvements and comprehensive understanding of proper application technique optimize satisfaction with whitening pen treatments.
 
-## Key Takeaway
-
-Whitening pens provide convenient portable whitening delivering 1-2 shade improvements over 2-4 weeks, making them ideal for maintenance between professional treatments but inadequate as primary whitening solutions for patients seeking dramatic shade changes. Their ease of use drives higher compliance than traditional methods despite lower per-application efficacy.
+> **Key Takeaway:** Whitening pens provide convenient portable whitening delivering 1-2 shade improvements over 2-4 weeks, making them ideal for maintenance between professional treatments but inadequate as primary whitening solutions for patients seeking dramatic shade changes. Their ease of use drives higher compliance than traditional methods despite lower per-application efficacy.
 
 ## Related Articles
 
 - [Before and After Smile: Complete Guide](/article/before-and-after-smile-complete-guide.html)
 - [How to Teeth Bleaching Safety](/article/how-to-teeth-bleaching-safety.html)
 - [Cost of Teeth Bleaching Safety](/article/cost-of-teeth-bleaching-safety.html)
+

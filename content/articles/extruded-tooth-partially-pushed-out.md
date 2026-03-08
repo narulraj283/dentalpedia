@@ -1,24 +1,34 @@
 ---
-title: "Extruded Tooth: Traumatic Extrusion Classification and"
-slug: extruded-tooth-partially-pushed-out
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: Traumatic extrusion (luxation injury) represents 7-22% of dental trauma; immediate repositioning and stabilization achieve 90%+ tooth survival.
 date: 2026-03-05
+excerpt: Traumatic extrusion (luxation injury) represents 7-22% of dental trauma;
+  immediate repositioning and stabilization achieve 90%+ tooth survival.
 read_time: 9 min
+references:
+- Andreasen JO, Andreasen FM, Andersson L. Textbook and Color Atlas of Traumatic Injuries
+  to the Teeth. 4th ed. Blackwell Munksgaard; 2007.
+- 'Diangelis AJ, Andreasen JO, Eberius M, et al. International Association of Dental
+  Traumatology guidelines for the management of traumatic dental injuries: 1. Fractures
+  and luxations. Dent Traumatol. 2012;28(1):2-12.'
+- 'Flores MT, Malmgren B, Andersson L, et al. Guidelines for the management of traumatic
+  dental injuries: II. Avulsion of permanent teeth. Dent Traumatol. 2012;28(2):88-96.'
+- 'Lauridsen B, Hermann NV, Gerds TA, et al. Traumatic dental injuries in children
+  and adolescents: epidemiology and risk factors. Community Dent Oral Epidemiol. 2012;40(2):160-166.'
+- 'Bastone EB, Freer TJ, McNamara JR. Epidemiology of dental trauma: a review of the
+  literature. Aust Dent J. 2000;45(1):2-9.'
+- Andreasen FM. Transient discoloration of traumatized teeth. The role of processes
+  in the pulp cavity and the dentin. Endod Dent Traumatol. 1986;2(6):236-240.
+- 'Trope M. Clinical management of the avulsed tooth: present strategies and future
+  directions. Dent Traumatol. 2002;18(1):1-11.'
+- Glendor U. Epidemiology of traumatic dental injuries—a 12 year review of the literature.
+  Dent Traumatol. 2008;24(6):603-611.
+reviewed: true
 reviewer_specialty: Emergency Dental Care
+slug: extruded-tooth-partially-pushed-out
 subcategory: Emergency Overview
 subcategory_slug: overview-emergency
-reviewed: true
-references:
-  - "Andreasen JO, Andreasen FM, Andersson L. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Blackwell Munksgaard; 2007."
-  - "Diangelis AJ, Andreasen JO, Eberius M, et al. International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: 1. Fractures and luxations. Dent Traumatol. 2012;28(1):2-12."
-  - "Flores MT, Malmgren B, Andersson L, et al. Guidelines for the management of traumatic dental injuries: II. Avulsion of permanent teeth. Dent Traumatol. 2012;28(2):88-96."
-  - "Lauridsen B, Hermann NV, Gerds TA, et al. Traumatic dental injuries in children and adolescents: epidemiology and risk factors. Community Dent Oral Epidemiol. 2012;40(2):160-166."
-  - "Bastone EB, Freer TJ, McNamara JR. Epidemiology of dental trauma: a review of the literature. Aust Dent J. 2000;45(1):2-9."
-  - "Andreasen FM. Transient discoloration of traumatized teeth. The role of processes in the pulp cavity and the dentin. Endod Dent Traumatol. 1986;2(6):236-240."
-  - "Trope M. Clinical management of the avulsed tooth: present strategies and future directions. Dent Traumatol. 2002;18(1):1-11."
-  - "Glendor U. Epidemiology of traumatic dental injuries—a 12 year review of the literature. Dent Traumatol. 2008;24(6):603-611."
+title: 'Extruded Tooth: Traumatic Extrusion Classification'
 ---
 
 ## What an Extruded Tooth Is
@@ -40,17 +50,19 @@ This is where every minute counts. Ideally, the tooth should be pushed back into
 How to reposition an extruded tooth:
 1. Seat the person upright with their head tilted back
 2. Gently hold the tooth and push it straight down toward the correct position
-3. Apply steady, gentle pressure for a couple of minutes—don't force it
+3.
+
+Apply steady, gentle pressure for a couple of minutes—don't force it
 4. Make sure the tooth sits at the right height compared to the neighboring teeth
 5. Have the person bite gently to verify it's in the right spot
 
-Don't push hard or try to force it. Learning more about [reimplanted teeth salvaging avulsed permanent teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html) can help you understand this better. If it's not moving smoothly, stop and go to the dentist instead. Sometimes trying too hard can make it worse.
+Don't push hard or try to force it. Learning more about [Reimplanted Teeth Salvaging Avulsed Permanent Teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html) can help you understand this better. If it's not moving smoothly, stop and go to the dentist instead. Sometimes trying too hard can make it worse.
 
 ## After Repositioning
 
 Once the tooth is back in position, it needs to be held there so it can heal. Your dentist will attach a thin wire or composite splint (kind of like an invisible brace) to hold the tooth in place for 2 to 6 weeks depending on how bad the injury was. This keeps it stable while the attachment structures heal.
 
-Bite on some gauze for a few minutes to help stop any bleeding, then get to your dentist right away for proper care. You may also want to read about [risk and concerns with mouth injuries treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html).
+Bite on some gauze for a few minutes to help stop any bleeding, then get to your dentist right away for proper care. You may also want to read about [Risk and Concerns with Mouth Injuries Treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html).
 
 ## What Happens to the Nerve
 
@@ -105,8 +117,6 @@ If your tooth eventually can't be saved, you'll need replacement. Your dentist w
 
 Wearing a mouthguard during sports is the best prevention. A properly fitted mouthguard significantly reduces the chance of tooth extrusion and other mouth injuries.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about extruded tooth partially pushed out and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -117,12 +127,13 @@ You might also want to ask about the expected timeline, what the recovery proces
 
 A partially extruded tooth is an emergency that needs immediate attention. Getting it repositioned and stabilized quickly gives you the best chance of saving it. Even if complications develop later, modern dental treatment can often save the tooth or replace it if necessary.
 
+> **Key Takeaway:** Traumatic extrusion (luxation injury) represents 7-22% of dental trauma; immediate repositioning and stabilization achieve 90%+ tooth survival.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Reimplanted Teeth: Salvaging Avulsed Permanent Teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html)
-- [Risk and Concerns with Mouth Injuries Treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html)
 - [Dental Abscess: Infection and Urgent Treatment](/article/dental-abscess-infection-and-urgent-treatment.html)
+- [Why Emergency Tooth Pain Matters - Managing Acute](/article/why-emergency-tooth-pain-matters.html)
+- [Extrusion: Partial Tooth Displacement and Emergency](/article/extrusion-tooth-pulled-out-slightly.html)
+- [Sudden Tooth Pain - Diagnosis and Emergency Relief](/article/sudden-tooth-pain-diagnosis-and-emergency-relief.html)
+- [Knocked-Out Tooth](/article/tooth-avulsion-complete-displacement.html)
 
-> **Key Takeaway:** A partially extruded tooth needs to be pushed back into place within 30 minutes for the best chance of saving it. Call your dentist right away if this happens. Talk to your dentist about which options are right for your specific situation.

@@ -43,7 +43,7 @@ Used alone, hydroxyzine provides mild to moderate sedation suitable for minimall
 
 Ketamine is a different type of sedative that's increasingly used for children who don't respond well to benzodiazepines. It works by creating a dissociative state—your child feels detached from their body and doesn't perceive pain the same way. Most children barely notice what's happening and tolerate the appointment well. Onset is rapid (fifteen to thirty minutes) and sedation lasts forty-five to sixty minutes.
 
-Ketamine works particularly well for children with developmental delay, autism spectrum disorders, or significant anxiety that midazolam hasn't adequately controlled. The medication maintains your child's ability to breathe normally and actually improves airway tone (unlike some other sedatives that relax airway muscles). Some children experience minor dysphoria or hallucinations during recovery, which is why pre-sedation with another medication is often recommended to prevent these emergence reactions. For more on this topic, see our guide on [Baby Bottle Tooth Decay Prevention St...](/article/baby-bottle-tooth-decay-prevention-strategies.html).
+Ketamine works particularly well for children with developmental delay, autism spectrum disorders, or significant anxiety that midazolam hasn't adequately controlled. The medication maintains your child's ability to breathe normally and actually improves airway tone (unlike some other sedatives that relax airway muscles). Some children experience minor dysphoria or hallucinations during recovery, which is why pre-sedation with another medication is often recommended to prevent these emergence reactions. For more on this topic, see our guide on [Baby Bottle Tooth Decay: Prevention Strategies](/article/baby-bottle-tooth-decay-prevention-strategies.html).
 
 ## Before the Appointment: Preparing Your Child
 
@@ -65,7 +65,7 @@ The appointment proceeds with your child calm and cooperative. Treatment time va
 
 Recovery happens in your dental office over thirty to sixty minutes. Your child wakes up gradually. They may be groggy, sleepy, or confused initially—this is completely normal. A staff member monitors continuously with pulse oximetry and periodic vital sign checks. Your child is positioned safely in case of vomiting (though vomiting is uncommon with these medications).
 
-Before discharge, your dentist ensures your child has intact reflexes to protect their airway (able to swallow and gag appropriately), stable vital signs, and alertness appropriate for their age. Then your dentist gives you specific take-home instructions. For more on this topic, see our guide on [Ectopic Canine Misdirected Canine Eru...](/article/ectopic-canine-misdirected-canine-eruption.html).
+Before discharge, your dentist ensures your child has intact reflexes to protect their airway (able to swallow and gag appropriately), stable vital signs, and alertness appropriate for their age. Then your dentist gives you specific take-home instructions. For more on this topic, see our guide on [Ectopic Canine Eruption](/article/ectopic-canine-misdirected-canine-eruption.html).
 
 ## After-Sedation Care at Home
 
@@ -89,18 +89,17 @@ When a child completes necessary dental treatment during sedation without trauma
 
 Sedation isn't for every child, but it's appropriate for children who cannot cooperate with treatment despite behavioral support. Talk with your dentist about whether sedation makes sense for your child's specific situation, what medications would be used, and what the risks and benefits are for your child's particular circumstances. The goal is completing necessary treatment safely while preventing dental anxiety from developing based on the experience.
 
-> **Key Takeaway:** Oral sedation safely allows pediatric dentists to complete necessary treatment in anxious or developmentally delayed children. The medications are well-studied and very safe when used by trained dentists with appropriate monitoring. If your child has severe dental anxiety or cannot cooperate with treatment, ask your dentist whether sedation might help.
-
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about topics like sedation for your child. The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
+The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Oral sedation safely allows pediatric dentists to complete necessary treatment in anxious or developmentally delayed children. The medications are well-studied and very safe when used by trained dentists with appropriate monitoring. If your child has severe dental anxiety or cannot cooperate with treatment, ask your dentist whether sedation might help.
 
-- [Helping Your Child Overcome Dental Anxiety: Practical Strategies](/article/dental-anxiety-in-children-coping-strategies.html)
-- [Baby Teeth Development: What to Expect from Birth to Age Six](/article/baby-teeth-development-and-eruption-timeline.html)
+## Related Articles
+
+- [Helping Your Child Overcome Dental Anxiety](/article/dental-anxiety-in-children-coping-strategies.html)
+- [Baby Teeth Development and Eruption Timeline](/article/baby-teeth-development-and-eruption-timeline.html)
 - [Cavity Prevention for Kids: Protect Your Child's Smile](/article/dental-sealants-for-kids-preventing-molars-cavities.html)
+

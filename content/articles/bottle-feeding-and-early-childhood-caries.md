@@ -85,7 +85,7 @@ Severe untreated cavities cause:
 
 Focus on whole foods rather than processed snacks with added sugars. Whole fruits are better than fruit juice or dried fruits. Cheese, nuts, and plain yogurt are excellent snacks that don't promote cavities.
 
-Avoid sweetened teethings and pacifiers dipped in honey or sweet substances—these are direct cavity risks. As your child grows, continuing healthy eating habits protects developing teeth. For information about protecting teeth during orthodontic treatment (if braces are needed later), see our guide on [preventing cavities with braces](/article/braces-and-tooth-decay-increased-cavity-risk.html).
+Avoid sweetened teethings and pacifiers dipped in honey or sweet substances—these are direct cavity risks. As your child grows, continuing healthy eating habits protects developing teeth. For information about protecting teeth during orthodontic treatment (if braces are needed later), see our guide on [Preventing Cavities with Braces](/article/braces-and-tooth-decay-increased-cavity-risk.html).
 
 ## Bottles and Sleep: Special Considerations
 
@@ -126,19 +126,18 @@ The payoff for the effort during early childhood is remarkable—kids who grow u
 
 ## Your Child's Diet Matters
 
-Focus on whole foods rather than processed snacks with added sugars. Whole fruits are better than fruit juice or dried fruits. Cheese, nuts, and plain yogurt are excellent snacks that don't promote cavities. Whole grain bread, lean proteins, and vegetables support both nutrition and dental health.
-
-Avoid sweetened teethings and pacifiers dipped in honey or sweet substances—these are direct cavity risks. As your child grows, continuing healthy eating habits protects developing teeth. For information about protecting teeth during orthodontic treatment (if braces are needed later), see our guide on [preventing cavities with braces](/article/braces-and-tooth-decay-increased-cavity-risk.html).
-
 ## What You Can Do
 
-Your role as a parent is crucial. You control when and what goes into bottles. You model good oral hygiene. You establish healthy eating patterns. You schedule dental visits. Small, consistent choices during these early years create the foundation for your child's dental health for life. The effort you invest now prevents thousands of dollars in dental treatment later and protects your child's smile for their entire life.
+Your role as a parent is crucial. You control when and what goes into bottles. You model good oral hygiene.
+
+You establish healthy eating patterns. You schedule dental visits. Small, consistent choices during these early years create the foundation for your child's dental health for life. The effort you invest now prevents thousands of dollars in dental treatment later and protects your child's smile for their entire life.
 
 
+For more information, see [Ectopic Canine Eruption](/article/ectopic-canine-misdirected-canine-eruption.html).
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about bottle feeding and early childhood caries. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** Early childhood caries is entirely preventable through smart bottle-feeding practices, limiting sugary foods, using fluoride protection, and establishing regular dental visits by age one. Your choices during these early years directly determine whether your child grows up cavity-free, confident in their smile, and with lifelong healthy dental habits.
 
@@ -147,3 +146,4 @@ Taking care of your oral health means staying informed about bottle feeding and 
 - [Best Practices For Tooth Decay Prevention](/article/best-practices-for-tooth-decay-prevention.html)
 - [Breastfeeding And Tooth Decay Night Feeding Risks](/article/breastfeeding-and-tooth-decay-night-feeding-risks.html)
 - [Best Practices For Saliva Importance](/article/best-practices-for-saliva-importance.html)
+

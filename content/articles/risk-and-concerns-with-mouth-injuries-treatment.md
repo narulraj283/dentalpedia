@@ -45,9 +45,13 @@ When a tooth sits outside your mouth for more than an hour, your risk of losing 
 
 ## What to Do With a Knocked-Out Tooth
 
-If you knock out a tooth, here's exactly what you should do. First, find the tooth. Handle it carefully by the crown (the white part you see), not the root. Never touch the root because you could damage the cells that help your tooth heal. If the tooth is dirty, rinse it gently with milk, saline solution, or even your own saliva. Don't use tap water.
+If you knock out a tooth, here's exactly what you should do. First, find the tooth. Handle it carefully by the crown (the white part you see), not the root.
 
-Now comes the important part: put the tooth back in your mouth if you can, in its socket. If you can't do that safely, put it in milk or in your mouth next to your cheek. Milk is your best option because it keeps the root cells alive. If you don't have milk, saline solution works, and saliva is better than nothing. Whatever you do, don't let the tooth dry out. Then get to your dentist immediately, or go to an emergency room if it's after hours.
+Never touch the root because you could damage the cells that help your tooth heal. If the tooth is dirty, rinse it gently with milk, saline solution, or even your own saliva. Don't use tap water.
+
+Now comes the important part: put the tooth back in your mouth if you can, in its socket. If you can't do that safely, put it in milk or in your mouth next to your cheek. Milk is your best option because it keeps the root cells alive.
+
+If you don't have milk, saline solution works, and saliva is better than nothing. Whatever you do, don't let the tooth dry out. Then get to your dentist immediately, or go to an emergency room if it's after hours.
 
 ## Understanding Root Resorption Risk
 
@@ -57,7 +61,9 @@ Here's what makes this frustrating: a tooth that looks successful right after re
 
 ## How Your Dentist Decides on Treatment
 
-Several factors affect how well your replanted tooth will do. The most important is how long your tooth was out of your mouth. Teeth replanted within 30 minutes do much better than those replanted after an hour. Another major factor is what you put your tooth in while you waited. Milk keeps the root cells alive. Saliva works too. Tap water is your last resort, and letting it dry out is the worst option.
+Several factors affect how well your replanted tooth will do. The most important is how long your tooth was out of your mouth. Teeth replanted within 30 minutes do much better than those replanted after an hour.
+
+Another major factor is what you put your tooth in while you waited. Milk keeps the root cells alive. Saliva works too. Tap water is your last resort, and letting it dry out is the worst option.
 
 Other factors your dentist considers include whether your tooth had a root fracture, where that fracture is located, and how developed your tooth root was when you got injured. Younger people with teeth that still have growing roots tend to do better than adults with fully formed roots. All of these factors influence your long-term prognosis, so your dentist might ask you lots of questions about your injury.
 
@@ -85,15 +91,15 @@ Your dentist wants you to understand the reality of mouth injuries upfront. Yes,
 
 After your injury heals, you'll need to care for your tooth carefully. Some teeth need special monitoring and sometimes additional procedures. Your dentist will develop a treatment plan that explains what you need over the coming weeks, months, and years. Regular dental visits and excellent home care give your tooth the best possible chance of success.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Mouth injuries require quick action and realistic expectations. The first 30 minutes after losing a tooth are critical, and how you store the tooth during that time dramatically affects outcomes. Even with perfect treatment, teeth that have been knocked out face significant challenges from root resorption. Working closely with your dentist, following their instructions carefully, and maintaining realistic expectations about long-term outcomes gives you the best chance of success.
 
-## Key Takeaway
+> **Key Takeaway:** If you knock out a tooth, find it, handle it carefully by the crown only, keep it moist in milk or saliva, and get to your dentist within 30 minutes. This simple action dramatically improves your chances of saving your tooth.
 
-If you knock out a tooth, find it, handle it carefully by the crown only, keep it moist in milk or saliva, and get to your dentist within 30 minutes. This simple action dramatically improves your chances of saving your tooth.
-
-## Related Articles You May Find Helpful
+## Related Articles
 
 - [Finding Emergency Dental Care Options Beyond Hours](/article/finding-emergency-dental-care-options-beyond-hours.html)
 - [Knocked Out Tooth: What to Do in the First Hour](/article/knocked-out-tooth-what-to-do-in-the-first-hour.html)

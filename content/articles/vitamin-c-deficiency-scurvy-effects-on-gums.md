@@ -35,13 +35,15 @@ references:
 
 If someone asked you about a disease that causes swollen, bleeding gums, weak teeth, and delayed wound healing, you might think it's something from history class. But the truth is, vitamin C deficiency—which can lead to a condition called scurvy—is still relevant today, even in modern times. While it's rare in developed countries where fresh fruits and vegetables are readily available, it does still show up in certain populations. More importantly, even mild vitamin C deficiency can impair your oral health and wound healing without causing the dramatic symptoms of full-blown scurvy.
 
-Your gums are actually often the first place vitamin C deficiency shows up. Learn more about [magnesium for teeth and](/article/magnesium-for-teeth-and-bones.html) for additional guidance. Because your gums depend heavily on a protein called collagen for their structure and strength, and because vitamin C is absolutely essential for making and maintaining collagen, a shortage of this vitamin hits your mouth hard. Understanding how vitamin C deficiency affects your teeth and gums helps explain why this nutrient matters so much for your overall oral health.
+Your gums are actually often the first place vitamin C deficiency shows up. Learn more about [Magnesium for Teeth and](/article/magnesium-for-teeth-and-bones.html) for additional guidance. Because your gums depend heavily on a protein called collagen for their structure and strength, and because vitamin C is absolutely essential for making and maintaining collagen, a shortage of this vitamin hits your mouth hard. Understanding how vitamin C deficiency affects your teeth and gums helps explain why this nutrient matters so much for your overall oral health.
 
 ## Why Vitamin C is Essential for Your Mouth
 
 Vitamin C (also called ascorbic acid) plays multiple important roles in your mouth and body. The most critical role for your gums is its job as a helper molecule for building collagen. Collagen is like the scaffolding of your gum tissue—it provides structure, strength, and support. Without adequate vitamin C, your body simply can't build properly formed, strong collagen. Instead, you get defective collagen that's weak and can't support your gum tissue properly.
 
-Beyond collagen building, vitamin C also acts as an antioxidant, protecting your cells from damage caused by inflammation and infection. Learn more about [antioxidants fighting oral inflammation](/article/antioxidants-fighting-oral-inflammation.html) for additional guidance. It's absolutely essential for your immune system to work properly—your white blood cells need vitamin C to multiply and fight off bacteria. This immune function matters tremendously in fighting the bacteria that cause gum disease. Additionally, vitamin C is crucial for wound healing. After dental work, extractions, or any trauma to your gums, vitamin C is required for your tissues to repair themselves properly.
+Beyond collagen building, vitamin C also acts as an antioxidant, protecting your cells from damage caused by inflammation and infection. Learn more about [Antioxidants Fighting Oral Inflammation](/article/antioxidants-fighting-oral-inflammation.html) for additional guidance. It's absolutely essential for your immune system to work properly—your white blood cells need vitamin C to multiply and fight off bacteria.
+
+This immune function matters tremendously in fighting the bacteria that cause gum disease. Additionally, vitamin C is crucial for wound healing. After dental work, extractions, or any trauma to your gums, vitamin C is required for your tissues to repair themselves properly.
 
 ## What Happens When You Don't Have Enough Vitamin C
 
@@ -75,7 +77,9 @@ In some cases, the truly definitive test is therapeutic: if you supplement with 
 
 The recommended daily allowance (RDA) for vitamin C is 90 mg for adult men and 75 mg for adult women. Smokers need an additional 35 mg daily (so 125 mg total). Pregnant women need 85 mg, and nursing mothers need 120 mg. These aren't huge amounts—they're achievable through normal eating.
 
-Excellent dietary sources include citrus fruits (oranges, grapefruits, lemons), strawberries, kiwis, bell peppers (particularly red and yellow ones), tomatoes, broccoli, and cabbage. One medium orange provides about 50-60 mg of vitamin C. A cup of strawberries provides 80 mg. A red bell pepper contains 150-200 mg. A cup of broccoli provides 50-100 mg. The key is eating a variety of fruits and vegetables daily.
+Excellent dietary sources include citrus fruits (oranges, grapefruits, lemons), strawberries, kiwis, bell peppers (particularly red and yellow ones), tomatoes, broccoli, and cabbage. One medium orange provides about 50-60 mg of vitamin C. A cup of strawberries provides 80 mg.
+
+A red bell pepper contains 150-200 mg. A cup of broccoli provides 50-100 mg. The key is eating a variety of fruits and vegetables daily.
 
 One important note: vitamin C is destroyed by heat, so raw fruits and vegetables contain more than cooked versions. However, frozen and canned produce also contain good levels of vitamin C. If you struggle to eat enough fresh fruits and vegetables due to cost, access, or preference, supplementation becomes important.
 
@@ -97,20 +101,18 @@ The best approach is prevention. Educate yourself about vitamin C sources and en
 
 For dental professionals, screening at-risk patients (elderly, limited food variety, smokers) for signs of deficiency is valuable. Simply asking about dietary habits and examining gums for unexplained bleeding or swelling can catch problems early before they progress to severe periodontal destruction.
 
-
-
 ## Conclusion
 
 Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding vitamin c deficiency and scurvy: effects on gingival health helps you feel more confident when discussing options with your dentist and making decisions about your care.
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Vitamin C is essential for collagen formation, immune function, and wound healing—all critical for gum health. While severe scurvy is rare in developed countries, vitamin C deficiency still occurs and often shows up first in your mouth as bleeding, swollen gums. Ensuring adequate vitamin C through diet or supplementation prevents these problems and promotes excellent gum health and wound healing after dental treatment. If you notice unexplained gum bleeding or swelling, consider your vitamin C intake and discuss with your dentist or doctor.
+> **Key Takeaway:** Vitamin C is essential for collagen formation, immune function, and wound healing—all critical for gum health. While severe scurvy is rare in developed countries, vitamin C deficiency still occurs and often shows up first in your mouth as bleeding, swollen gums. Ensuring adequate vitamin C through diet or supplementation prevents these problems and promotes excellent gum health and wound healing after dental treatment. If you notice unexplained gum bleeding or swelling, consider your vitamin C intake and discuss with your dentist or doctor.
 
 ## Related Articles
 
-- [Antioxidants - Fighting Oral Inflammation](/article/antioxidants-fighting-oral-inflammation.html)
 - [Nutrition and Oral Health - Foods for Strong Teeth](/article/nutrition-and-oral-health-foods-for-strong-teeth.html)
-- [Magnesium for Teeth and Bones](/article/magnesium-for-teeth-and-bones.html)
+
+- [Zinc Deficiency: Immune Function and Gum Health](/article/zinc-deficiency-immune-function-and-gum-health.html)
+- [Sipping Drinks Throughout Day Cavity Risk Behavior](/article/sipping-drinks-throughout-day-cavity-risk-behavior.html)
+

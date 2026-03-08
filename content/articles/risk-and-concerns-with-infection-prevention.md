@@ -39,19 +39,21 @@ Your dental visit involves sharing a small space with your dentist, breathing th
 
 When your dentist uses tools on you, those instruments have been inside other patients' mouths. To keep you safe, your dentist must sterilize these instruments using steam autoclaves—machines that use pressurized hot steam to kill all harmful bacteria and viruses. Think of it like a very hot pressure cooker that destroys microorganisms. This process is the gold standard for keeping you safe.
 
-However, sterilization doesn't always work perfectly. Some dental offices don't load instruments correctly into their sterilizers, which means steam can't reach all surfaces. Other offices have aging equipment that doesn't reach the right temperature or doesn't maintain proper pressure. When offices test their sterilizers using special biological indicators (basically growing test organisms to confirm they're dead), they often find problems. Research shows that about 10 to 15 percent of dental offices are running sterilizers that don't work as well as they should, and these problems can go undetected for weeks between testing cycles. This means you might receive instruments that weren't properly sterilized, even though your dentist thought they were. To protect yourself, ask your dentist when they last tested their sterilizer and how did it perform.
+However, sterilization doesn't typically works perfectly. Some dental offices don't load instruments correctly into their sterilizers, which means steam can't reach all surfaces. Other offices have aging equipment that doesn't reach the right temperature or doesn't maintain proper pressure.
+
+When offices test their sterilizers using special biological indicators (basically growing test organisms to confirm they're dead), they often find problems. Research shows that about 10 to 15 percent of dental offices are running sterilizers that don't work as well as they should, and these problems can go undetected for weeks between testing cycles. This means you might receive instruments that weren't properly sterilized, even though your dentist thought they were. To protect yourself, ask your dentist when they last tested their sterilizer and how did it perform.
 
 ## The Problem with Aerosols During Your Appointment
 
 When your dentist uses the high-speed drill or ultrasonic scaler, they're creating tiny water droplets and particles that float in the air. These aerosols can carry bacteria from your mouth, blood, and saliva, and they stay in the air for varying amounts of time. This becomes especially important when your dentist is working for 30 to 60 minutes—plenty of time for respiratory infections like flu, COVID-19, or tuberculosis to spread through these particles.
 
-The COVID-19 pandemic showed us that standard dental infection control measures weren't quite enough to prevent spread of highly contagious respiratory viruses. Your dentist and hygienist likely increased ventilation in their office, changed how long they spend between patients, and used more personal protective equipment as a result. Some of these changes are permanent improvements you'll see at your appointments. However, the bottom line is that your dental office can reduce but not completely eliminate aerosol transmission risk. If you're concerned about respiratory infections, discussing specific precautions with your dental team before your appointment helps you feel more confident.
+The COVID-19 pandemic showed us that standard dental infection control measures weren't quite enough to prevent spread of highly contagious respiratory viruses. Your dentist and hygienist likely increased ventilation in their office, changed how long they spend between patients, and used more personal protective equipment as a result. Some of these changes are permanent improvements you'll see at your appointments. However, the bottom line is that your dental office can reduce but not significantly reduces aerosol transmission risk. If you're concerned about respiratory infections, discussing specific precautions with your dental team before your appointment helps you feel more confident.
 
 ## Contamination on Equipment and Surfaces
 
 Beyond just the instruments going inside your mouth, your dental operatory contains many surfaces and equipment that touch your mouth, your dentist's hands, and potentially other patients. Light handles, control buttons, the evacuation system (the tube that sucks away water), and trays can all harbor bacteria and viruses. Even though your dentist wipes down these surfaces between patients, they don't always get completely clean, especially in hard-to-reach corners and crevices.
 
-This is why asking if your dental office follows consistent disinfection protocols between patients matters. Watch whether your hygienist or dentist visibly disinfects high-touch areas before working on you. If you're immunocompromised—from HIV, cancer treatment, or organ transplant—you should discuss this with your dentist because you need extra precautions. Many general dental offices don't have special rooms or detailed protocols for protecting immunocompromised patients, so being honest with your dentist about your health status helps them take appropriate steps to keep you safe. You can also ask about [preventive treatments](/article/preventive-treatments-complete-guide.html) that may reduce your overall infection risk.
+This is why asking if your dental office follows consistent disinfection protocols between patients matters. Watch whether your hygienist or dentist visibly disinfects high-touch areas before working on you. If you're immunocompromised—from HIV, cancer treatment, or organ transplant—you should discuss this with your dentist because you need extra precautions. Many general dental offices don't have special rooms or detailed protocols for protecting immunocompromised patients, so being honest with your dentist about your health status helps them take appropriate steps to keep you safe. You can also ask about [Preventive Treatments](/article/preventive-treatments-complete-guide.html) that may reduce your overall infection risk.
 
 ## Needle Stick Injuries and Bloodborne Infections
 
@@ -67,7 +69,9 @@ The problem is that many regular dental offices don't have special protocols for
 
 ## Keeping Your Dental Team Safe
 
-While you're thinking about infection risks to yourself, remember that your dental team also faces infection risks from you. Your dentist and hygienist are exposed to bacteria, viruses, and blood daily. Beyond the needle stick risk, they also inhale chemical vapors from materials used in your mouth and face ergonomic injuries from the positioning required to treat you. Over years of practice, these repeated exposures can affect their long-term health. Your dental team needs proper ventilation, equipment, and breaks to stay healthy. When you see your dentist using protective equipment like gloves, masks, and eye protection, that's not just for your safety—it's for theirs too.
+While you're thinking about infection risks to yourself, remember that your dental team also faces infection risks from you. Your dentist and hygienist are exposed to bacteria, viruses, and blood daily. Beyond the needle stick risk, they also inhale chemical vapors from materials used in your mouth and face ergonomic injuries from the positioning required to treat you.
+
+Over years of practice, these repeated exposures can affect their long-term health. Your dental team needs proper ventilation, equipment, and breaks to stay healthy. When you see your dentist using protective equipment like gloves, masks, and eye protection, that's not just for your safety—it's for theirs too.
 
 ## Preparing Your Office for New Pathogens
 
@@ -77,15 +81,15 @@ You can help by being honest about any symptoms you have before appointments and
 
 ## How Dentists Actually Follow Infection Control Rules
 
-Here's an important reality: dentists don't always follow infection control guidelines perfectly. Studies show that hand hygiene compliance is only about 50 to 70 percent, meaning dentists and hygienists aren't washing their hands as recommended about 30 to 50 percent of the time. Surface disinfection gets rushed or skipped. Safety protocols get abbreviated when the schedule is busy. This happens not because dentists don't care, but because following perfect infection control takes time, and time pressure pushes shortcuts. Your office needs enough staff and realistic scheduling to make good infection control possible without rushing.
+Here's an important reality: dentists don't always follow infection control guidelines perfectly. Studies show that hand hygiene compliance is only about 50 to 70 percent, meaning dentists and hygienists aren't washing their hands as recommended about 30 to 50 percent of the time. Surface disinfection gets rushed or skipped.
+
+Safety protocols get abbreviated when the schedule is busy. This happens not because dentists don't care, but because following perfect infection control takes time, and time pressure pushes shortcuts. Your office needs enough staff and realistic scheduling to make good infection control possible without rushing.
 
 ## Conclusion
 
 Your dental office's infection prevention system protects you, even though it's not perfect. Equipment fails, aerosols spread despite precautions, and staff sometimes cut corners when busy. Understanding these realities doesn't mean your dentist is unsafe—it means you can ask good questions and notice whether your office takes these concerns seriously. When you see your dentist using consistent protection, taking time between patients, and asking about your health history, those are signs they're doing their job well.
 
-## Key Takeaway
-
-Ask your dental office three specific questions at your next visit: When was your sterilizer last tested and how did it perform? What do you do to disinfect equipment between patients? If I'm immunocompromised or sick, what extra precautions will you take? Offices that answer confidently and specifically are taking infection control seriously, and that's what you want when you're trusting them with your health. You can also do your part by being honest about your health, rescheduling if you're sick, and [understanding proper cleaning tools](/article/how-to-mouth-cleaning-tools.html) for your home oral care routine.
+> **Key Takeaway:** Ask your dental office three specific questions at your next visit: When was your sterilizer last tested and how did it perform? What do you do to disinfect equipment between patients? If I'm immunocompromised or sick, what extra precautions will you take? Offices that answer confidently and specifically are taking infection control seriously, and that's what you want when you're trusting them with your health. You can also do your part by being honest about your health, rescheduling if you're sick, and [Understanding Proper Cleaning Tools](/article/how-to-mouth-cleaning-tools.html) for your home oral care routine.
 
 ## Related Articles
 

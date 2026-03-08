@@ -57,7 +57,9 @@ The most famous example is tetracycline antibiotics. If you took tetracycline an
 
 Fluoride is important for preventing cavities, but too much fluoride when you're a child can cause dental fluorosis. This appears as white spots on your teeth, or in more severe cases, brown staining and surface damage. The amount of fluoride in your water supply affects this risk. If you grew up in an area with high natural fluoride levels or took fluoride supplements without guidance, you might have dental fluorosis.
 
-Some other medications can also cause discoloration. Iron supplements can turn your teeth black or very dark. Liquid medications that contain coloring agents can stain your teeth. If you notice your teeth are discoloring, think back to medications you took, especially during childhood when your permanent teeth were forming. Telling your dentist about your medication history helps them figure out what caused the discoloration and what treatments might actually work. If medication-caused discoloration bothers you, options like tooth veneers or bonded restorations can give you better results than whitening treatments.
+Some other medications can also cause discoloration. Iron supplements can turn your teeth black or very dark. Liquid medications that contain coloring agents can stain your teeth.
+
+If you notice your teeth are discoloring, think back to medications you took, especially during childhood when your permanent teeth were forming. Telling your dentist about your medication history helps them figure out what caused the discoloration and what treatments might actually work. If medication-caused discoloration bothers you, options like tooth veneers or bonded restorations can give you better results than whitening treatments.
 
 ## Tooth Nerve Damage and Discoloration
 
@@ -67,7 +69,7 @@ If your tooth has had a root canal treatment, you should know that the tooth wil
 
 The important thing is to track your tooth's color over time. Take pictures or notice when the discoloration starts. If you had a traumatic injury to your tooth—like a fall or blow to the mouth—and the tooth starts darkening weeks or months later, your tooth's nerve may be dying. You should get it checked by your dentist. A tooth with a dead nerve eventually gets infected and causes pain or an abscess if left untreated.
 
-To find out if your tooth's nerve is dying, your dentist can do tests. These include checking if the tooth responds to temperature or an electric stimulus. Your dentist can also take X-rays to look for problems at the root. If your tooth's nerve is dead, you'll need a root canal treatment to save the tooth. Read more about [root canal aftercare and pain management](/article/root-canal-aftercare-pain-management-and-recovery.html) to understand the process.
+To find out if your tooth's nerve is dying, your dentist can do tests. These include checking if the tooth responds to temperature or an electric stimulus. Your dentist can also take X-rays to look for problems at the root. If your tooth's nerve is dead, you'll need a root canal treatment to save the tooth. Read more about [Root Canal Aftercare and Pain Management](/article/root-canal-aftercare-pain-management-and-recovery.html) to understand the process.
 
 ## Your Teeth Naturally Darken as You Age
 
@@ -103,7 +105,9 @@ This is why it's important for your dentist to examine the discoloration careful
 
 Your dentist needs to gather information to figure out what's causing your tooth discoloration. This helps them recommend the right treatment and decide whether the discoloration is cosmetic or indicates something more serious that needs attention.
 
-First, your dentist will ask you questions. When did you notice the discoloration? Did it happen suddenly or gradually? Is it just one tooth or many teeth? Did you start drinking more coffee or tea? Are you on any medications, especially ones you've taken for a long time? Did you have an injury to the tooth? These details help your dentist understand what might have caused the problem.
+First, your dentist will ask you questions. When did you notice the discoloration? Did it happen suddenly or gradually? Is it just one tooth or many teeth?
+
+Did you start drinking more coffee or tea? Are you on any medications, especially ones you've taken for a long time? Did you have an injury to the tooth? These details help your dentist understand what might have caused the problem.
 
 Next, your dentist will examine your teeth carefully. They'll look at the color and the pattern of discoloration. They might use special lighting or take photographs to document the color. This gives them a baseline to compare with future visits to see if the discoloration is getting worse, staying the same, or improving. Your dentist might also do tests to check if your tooth's nerve is still alive—especially if it's a single tooth that's dark.
 
@@ -133,9 +137,11 @@ Once your dentist figures out what's causing your discoloration, they can recomm
 
 **For a staining filling or crown**, replacement with newer materials works better than trying to bleach it. Newer materials resist staining much better than old ones.
 
-Sometimes your dentist might need to treat a cavity or infection before doing cosmetic treatment. Understanding your tooth's condition helps your dentist recommend treatments that will actually work for you. Read more about [understanding tooth structure](/article/tooth-structure-layers-what-you-need-to-know.html) to better understand how these treatments work.
+Sometimes your dentist might need to treat a cavity or infection before doing cosmetic treatment. Understanding your tooth's condition helps your dentist recommend treatments that will actually work for you. Read more about [Understanding Tooth Structure](/article/tooth-structure-layers-what-you-need-to-know.html) to better understand how these treatments work.
 
-## Conclusion: Taking the Right Steps with Your Tooth Discoloration
+## Conclusion
+
+: Taking the Right Steps with Your Tooth Discoloration
 
 When you notice your teeth changing color, don't panic—but do get them checked. Most discoloration is harmless and easy to treat, but some can indicate problems that need immediate attention. The key is getting a proper diagnosis before jumping into whitening treatments.
 
@@ -150,12 +156,13 @@ Your dentist needs to examine your specific discoloration carefully. They'll ask
 
 Don't waste money on whitening treatments that won't work for your specific cause of discoloration. Get a diagnosis first, understand your options, and then choose the treatment that makes the most sense for you. Your dentist is your best resource for understanding what's happening with your teeth and deciding the best path forward.
 
-## Key Takeaway
-
-Tooth discoloration can come from many different sources—some harmless and easily treated, others requiring prompt dental attention. Before trying whitening treatments, have your dentist examine your teeth to figure out what's actually causing the discoloration. This ensures you get the right treatment that will actually work for your specific situation.
+> **Key Takeaway:** Tooth discoloration can come from many different sources—some harmless and easily treated, others requiring prompt dental attention. Before trying whitening treatments, have your dentist examine your teeth to figure out what's actually causing the discoloration. This ensures you get the right treatment that will actually work for your specific situation.
 
 ## Related Articles
 
-- [Tooth Structure Layers: What You Need to Know](/article/tooth-structure-layers-what-you-need-to-know.html)
-- [Root Canal Aftercare, Pain Management and Recovery](/article/root-canal-aftercare-pain-management-and-recovery.html)
 - [Cavity Formation Process: What You Need to Know](/article/cavity-formation-process-what-you-need-to-know.html)
+- [Cavity Diagnosis Process: What You Need to Know](/article/cavity-diagnosis-process-what-you-need-to-know.html)
+- [Complete Guide to Dental Exams and Cleanings](/article/complete-guide-to-dental-exams-and-cleanings.html)
+- [Understanding Your Teeth: A Simple Guide to How](/article/timeline-for-tooth-structure-layers.html)
+- [Dental Examination Types: What to Expect at Your Visit](/article/how-to-dental-examination-types.html)
+

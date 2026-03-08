@@ -33,19 +33,17 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/31697718
 ---
 
-Post-surgery care determines how smoothly you heal. The first three days are most critical. Learning more about [your tooth extraction recovery timeline](/article/how-to-oral-surgery-recovery-timeline.html) can help you understand this better. After that, things improve noticeably each day.
+Post-surgery care determines how smoothly you heal. The first three days are most critical. Learning more about [Your Tooth Extraction Recovery Timeline](/article/how-to-oral-surgery-recovery-timeline.html) can help you understand this better. After that, things improve noticeably each day.
 
 ## Days 1-3: Critical Healing Period
 
 Your mouth needs rest, ice, medication, and careful bleeding control during these first three days. Bleeding should be minimal after the first few hours. Pain is usually highest on day 1, then starts improving. You'll probably notice swelling increasing during these days—it peaks around day 2-3, then gets better.
 
-Ice is your best friend. Apply it 20 minutes on and 20 minutes off for the whole first 24 hours (or longer if you can). Learning more about [post-operative instructions: your recovery checklist](/article/how-to-post-operative-instructions.html) can help you understand this better. This reduces swelling by 30-50 percent compared to not using ice. Keep your head elevated when sitting or sleeping.
+Ice is your best friend. Apply it 20 minutes on and 20 minutes off for the whole first 24 hours (or longer if you can). Learning more about [Post-operative Instructions: Your Recovery Checklist](/article/how-to-post-operative-instructions.html) can help you understand this better. This reduces swelling by 30-50 percent compared to not using ice. Keep your head elevated when sitting or sleeping.
 
 Take your medications on schedule, not just when you feel pain. Start them before leaving the dental office. Continue ibuprofen every 6 hours for 3-5 days.
 
 Stay away from anything that could disrupt your blood clot: no rinsing, spitting, straws, smoking, or vigorous mouth movements. These actions can cause dry socket, which is painful and extends healing.
-
-> **Key Takeaway:** The first 3 days set up your whole healing process. Give your mouth the rest and care it needs, and the rest gets much easier.
 
 ## Days 4-14: Recovery Phase
 
@@ -57,17 +55,7 @@ You can start gentle warm salt water rinses starting 24 hours after surgery. Sof
 
 By week 2, most pain and swelling are gone. You can return to normal eating and exercise. The surgical site continues healing inside, though you won't see that. Bone fills in where your tooth was, and soft tissues reorganize.
 
-## Conclusion
-
-Good post-surgery care means good healing. Follow your instructions closely for those first few days, take your medications, use ice and elevation, stick to soft foods, and avoid things that disrupt your clot. Most complications come from not following instructions. If you do, healing is usually smooth and straightforward.
-
-## Related Articles You May Find Helpful
-
-- [Your Tooth Extraction Recovery Timeline](/article/how-to-oral-surgery-recovery-timeline.html)
-- [Post-Operative Instructions: Your Recovery Checklist](/article/how-to-post-operative-instructions.html)
-- [Managing Pain After Dental Surgery](/article/how-to-pain-management-surgery.html)
-
-Patient can gradually return to moderate activities and work by day 5-7 if healing progresses normally, progressing to full activity by 2-3 weeks. Strenuous exercise and heavy lifting should remain restricted through at least day 10-14 to prevent bleeding reactivation and compromise blood clotting. Dry sockets—characterized by severe, throbbing pain with visible bone exposure—occur in 2-4% of extractions but higher rates (15-30%) in impacted lower third molars, in smokers, and with anticoagulation therapy.
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Nutrition and Hydration During Recovery
 
@@ -112,3 +100,18 @@ Complete healing following extraction requires 2-4 weeks for soft tissue surface
 Implant osseointegration requires 4-6 months mandibular and 6-8 months maxillary before functional loading, with continued maturation for years afterward. Bone grafts require 4-6 months incorporation before implant placement; poor healing, infection, or premature loading can result in graft failure. Patients should be counseled on long-term expectations, maintenance requirements, and realistic timelines for final restoration placement and functional stability.
 
 Post-operative visits provide opportunities to assess healing, address patient concerns, and provide encouragement and education. Detailed documentation of healing progression helps identify patients at risk for complications and guides timing of subsequent procedures. Excellent post-operative communication and follow-up establish patient satisfaction, improve clinical outcomes, and support optimal long-term success.
+
+## Conclusion
+
+Good post-surgery care means good healing. Follow your instructions closely for those first few days, take your medications, use ice and elevation, stick to soft foods, and avoid things that disrupt your clot. Most complications come from not following instructions. If you do, healing is usually smooth and straightforward.
+
+> **Key Takeaway:** The first 3 days set up your whole healing process. Give your mouth the rest and care it needs, and the rest gets much easier.
+
+## Related Articles
+
+- [Managing Pain After Dental Surgery](/article/how-to-pain-management-surgery.html)
+- [Why Surgical Site Healing Matters](/article/why-surgical-site-healing-matters.html)
+- [How to Complex Extractions](/article/how-to-complex-extractions.html)
+- [Fundamental Oral Surgical Techniques: Incision Design,](/article/benefits-of-surgical-technique-overview.html)
+- [Laser Surgery: CO2 and Er:YAG Applications](/article/laser-surgery-co2-and-er-yag-applications.html)
+

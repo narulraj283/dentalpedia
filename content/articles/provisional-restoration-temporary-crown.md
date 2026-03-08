@@ -33,7 +33,9 @@ references:
 
 ## What Is a Temporary Crown and Why You Need One
 
-When your dentist prepares your tooth for a crown, they remove a significant portion of the tooth to make room for the restoration. But your tooth needs protection between the preparation appointment and when your final crown arrives from the lab. That's where a temporary crown comes in. Your dentist will make a temporary crown—sometimes called a provisional crown—that covers and protects your prepared tooth. The temporary stays in place for a few weeks while your final crown is being custom-made in the lab. Without this temporary protection, your tooth could become damaged, sensitive, contaminated, or infected.
+When your dentist prepares your tooth for a crown, they remove a significant portion of the tooth to make room for the restoration. But your tooth needs protection between the preparation appointment and when your final crown arrives from the lab. That's where a temporary crown comes in.
+
+Your dentist will make a temporary crown—sometimes called a provisional crown—that covers and protects your prepared tooth. The temporary stays in place for a few weeks while your final crown is being custom-made in the lab. Without this temporary protection, your tooth could become damaged, sensitive, contaminated, or infected.
 
 The temporary crown does several important jobs: it protects the prepared tooth from bacteria and debris, it keeps your tooth in the correct position so your final crown will fit perfectly, it maintains your normal bite and the way your teeth come together, and it keeps food from getting underneath the preparation. It also allows you to chew normally while waiting for your final crown, so you can eat regular food without worrying about damaging the preparation underneath.
 
@@ -73,7 +75,7 @@ Your temporary crown is cemented in with a special temporary cement that's diffe
 
 Your dentist chooses the temporary cement based on how long you'll be wearing the temporary and how strongly it needs to hold. If you're only wearing the temporary for a week or two, a weaker temporary cement is fine. If you'll be wearing it for several weeks or if you tend to chew hard or have a strong bite, your dentist might use a stronger temporary cement to make sure it doesn't come loose.
 
-[Learn more about the difference between temporary and permanent crowns by checking out our guide on crown vs bridge decisions](/article/timeline-for-crown-vs-bridge-decision.html).
+[Learn more about the difference between temporary](/article/timeline-for-crown-vs-bridge-decision.html).
 
 ## How Long You'll Wear Your Temporary Crown
 
@@ -93,18 +95,19 @@ Your temporary crown requires the same care you give your regular teeth. Brush g
 
 Be aware that your temporary crown might feel slightly different from your normal tooth. It might not feel quite as smooth, it might have a different shape, and your tongue might notice it more when you move your mouth. This is normal and will go away once your final crown is in place. Your tooth might be slightly more sensitive to hot or cold because of the exposed dentin under the temporary, but this too should resolve once your final crown is placed.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Your temporary crown is a temporary but important prosthetic that protects your prepared tooth, maintains your bite, and keeps everything in the right position while your final crown is being made. Taking care of it and keeping it clean helps ensure that your final crown will have the best possible foundation. Don't hesitate to contact your dentist if your temporary feels loose, cracked, or uncomfortable, or if your gum looks inflamed—your dentist can replace it quickly. In just a few weeks, your temporary will be replaced with your custom final crown, which will look better, feel more natural, and be designed to last for many years.
 
-## Key Takeaway
-
-A well-made temporary crown protects your tooth and maintains your bite and esthetics while your final crown is being fabricated. Bis-acryl materials and indirectly-made temporary crowns generally provide the best fit and protection. Keep your temporary clean, avoid hard foods, and contact your dentist if it becomes loose or uncomfortable. The temporary phase is short, but taking care of it during this time helps set up the success of your final crown.
+> **Key Takeaway:** A well-made temporary crown protects your tooth and maintains your bite and esthetics while your final crown is being fabricated. Bis-acryl materials and indirectly-made temporary crowns generally provide the best fit and protection. Keep your temporary clean, avoid hard foods, and contact your dentist if it becomes loose or uncomfortable. The temporary phase is short, but taking care of it during this time helps set up the success of your final crown.
 
 ## Related Articles
 
-[Timeline for Crown vs Bridge Decision](/article/timeline-for-crown-vs-bridge-decision.html)
+- [Three-Unit Bridge: Limited Space Solution](/article/three-unit-bridge-limited-space-solution.html)
+- [Denture Esthetics: Tooth and Gum Appearance](/article/denture-esthetics-tooth-and-gum-appearance.html)
+- [Reline and Adjustment of Dentures Over Time](/article/reline-and-adjustment-of-dentures-over-time.html)
 
-[Three-Unit Bridge: Limited Space Solution](/article/three-unit-bridge-limited-space-solution.html)
+- [Hard Relines: Permanent Adjustment](/article/hard-relines-permanent-adjustment.html)
 
-[Denture Esthetics: Tooth and Gum Appearance](/article/denture-esthetics-tooth-and-gum-appearance.html)

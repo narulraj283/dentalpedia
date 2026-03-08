@@ -1,36 +1,9 @@
 ---
-title: Timeline for Mouth Ulcer Care: Aphthous Ulcer Management and Healing Progression
+category_slug: general-dentistry
+excerpt: A mouth ulcer (also called a canker sore) is a small, painful crater in the
+  soft tissue inside your mouth. Usually they're white or yellowish in the
 slug: timeline-for-mouth-ulcer-care
-category: Oral Health Conditions
-category_slug: oral-health-conditions
-excerpt: Comprehensive guide to aphthous ulcer classification, healing timelines, and evidence-based topical and systemic treatments for minor, major, and herpetiform ulcerations.
-date: 2026-03-05
-read_time: 11 min
-reviewer_specialty: General Dentistry
-subcategory: Oral Health Conditions Overview
-subcategory_slug: overview-oral-conditions
-reviewed: true
-references:
-  - title: "Preeti L, Maggi S, Zaidi F, Patil S. Recurrent aphthous stomatitis - biological factors and treatment perspectives. J Oral Pathol Med. 2011;40(2):111-116."
-    url: https://pubmed.ncbi.nlm.nih.gov/21158935
-  - title: "Akintoye SO, Greenberg MS. Recurrent aphthous stomatitis. Dent Clin North Am. 2014;58(2):281-293."
-    url: https://pubmed.ncbi.nlm.nih.gov/24655523
-  - title: "Scully C, Gorsky M, Lozada-Nur F. The diagnosis and management of recurrent aphthous stomatitis: a consensus approach. J Am Dent Assoc. 2003;134(2):200-207."
-    url: https://pubmed.ncbi.nlm.nih.gov/12585368
-  - title: "Ship JA. Recurrent aphthous stomatitis: an update. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 1996;81(2):141-147."
-    url: https://pubmed.ncbi.nlm.nih.gov/8664318
-  - title: "Jacobson JM, Greenspan JS, Spritzler J, et al. Thalidomide for the treatment of oral aphthous ulcers in patients with human immunodeficiency virus infection. N Engl J Med. 1997;336(23):1667-1668."
-    url: https://pubmed.ncbi.nlm.nih.gov/9180669
-  - title: "Jurge S, Kuffer R, Scully C, Porter SR. Mucosal disease series. Number VI. Recurrent aphthous stomatitis. Oral Dis. 2006;12(1):1-21."
-    url: https://pubmed.ncbi.nlm.nih.gov/16476027
-  - title: "Nolan A, Lamey PJ, Milligan KA. Recurrent aphthous ulceration and food sensitivity. J Oral Pathol Med. 1991;20(10):473-475."
-    url: https://pubmed.ncbi.nlm.nih.gov/1767681
-  - title: "Barrons RB. Treatment of aphthous ulcers and canker sores. Am Fam Physician. 2001;62(1):149-154."
-    url: https://pubmed.ncbi.nlm.nih.gov/11456431
-  - title: "Epstein JB, Chong S, Barbara PS. Orabase with triamcinolone in recurrent aphthous ulcers - a randomized placebo-controlled trial. Oral Surg Oral Med Oral Pathol. 1994;77(5):550-554."
-    url: https://pubmed.ncbi.nlm.nih.gov/8183860
-  - title: "Alidaee H, Taheri A, Mansoori P, Ghodsi SZ. Efficacy of topical licorice gel in recurrent aphthous stomatitis. Phytother Res. 2009;23(2):246-250."
-    url: https://pubmed.ncbi.nlm.nih.gov/18756525
+title: Timeline for Mouth Ulcer Care
 ---
 
 ## What Is a Mouth Ulcer?
@@ -39,7 +12,9 @@ A mouth ulcer (also called a canker sore) is a small, painful crater in the soft
 
 ## Why You Get Them
 
-Mouth ulcers happen for different reasons. You might have accidentally bitten your cheek or cut it with a food chip. Acidic foods (citrus, tomatoes, pineapple) can irritate the tissues. Stress or hormonal changes trigger them in some people. Nutritional deficiencies (B12, zinc, folate, iron) can make ulcers more likely. Certain mouth rinses or toothpaste with sodium lauryl sulfate irritate sensitive tissues in some people. Very rarely, recurrent ulcers signal a serious condition like Behcet's disease or other autoimmune conditions.
+Mouth ulcers happen for different reasons. You might have accidentally bitten your cheek or cut it with a food chip. Acidic foods (citrus, tomatoes, pineapple) can irritate the tissues.
+
+Stress or hormonal changes trigger them in some people. Nutritional deficiencies (B12, zinc, folate, iron) can make ulcers more likely. Certain mouth rinses or toothpaste with sodium lauryl sulfate irritate sensitive tissues in some people. Very rarely, recurrent ulcers signal a serious condition like Behcet's disease or other autoimmune conditions.
 
 ## Timeline of a Normal Canker Sore
 
@@ -74,7 +49,9 @@ Learn more about [Behcet's disease and recurrent mouth ulcers](/article/behcets-
 
 ## Prevention
 
-If you're prone to ulcers, identify your triggers and avoid them. If acidic foods cause them, limit citrus. If your toothpaste irritates your mouth, switch to a gentler brand or one without sodium lauryl sulfate. Manage stress through relaxation techniques. Be careful not to bite your cheek when chewing. Make sure you're getting enough B vitamins, iron, and zinc through diet or supplements.
+If you're prone to ulcers, identify your triggers and avoid them. If acidic foods cause them, limit citrus. If your toothpaste irritates your mouth, switch to a gentler brand or one without sodium lauryl sulfate.
+
+Manage stress through relaxation techniques. Be careful not to bite your cheek when chewing. Make sure you're getting enough B vitamins, iron, and zinc through diet or supplements.
 
 Some people benefit from switching to a softer toothbrush and being gentler when brushing. If you wear braces or have rough spots in your mouth, your dentist can smooth them or apply protective wax.
 
@@ -90,13 +67,11 @@ Following your dentist's specific instructions after any procedure helps ensure 
 
 Regular follow-up appointments allow your dentist to monitor your progress and catch any developing issues early. Even when everything feels fine, these check-ups serve as important safeguards for your oral health. Think of them as routine maintenance that helps protect the investment you've made in your smile and overall well-being.
 
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist to discuss timeline for mouth ulcer care, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations for your care.
 
 It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome for your oral health.
-
 
 ## Protecting Your Oral Health Long-Term
 
@@ -106,17 +81,17 @@ Your diet plays an important role in oral health as well. Limiting sugary snacks
 
 Scheduling regular dental visits every six months allows your dentist to catch potential problems early when they are easiest to treat. Professional cleanings remove plaque and tartar buildup that even careful brushing cannot reach. These routine appointments serve as important checkpoints for your oral health and help ensure that small issues don't develop into larger, more costly problems down the road.
 
-
 ## Conclusion
 
 Most mouth ulcers are just minor injuries that heal on their own within 2 to 3 weeks. Pain management with saline rinses and numbing gels gets you through the worst of it. Prevention through identifying triggers helps reduce how often they occur.
 
-## Key Takeaway
-
-Ordinary canker sores heal on their own; focus on pain relief and preventing infection with saline rinses. See your dentist if an ulcer persists beyond 3 weeks or if you're developing them frequently.
+> **Key Takeaway:** Ordinary canker sores heal on their own; focus on pain relief and preventing infection with saline rinses. See your dentist if an ulcer persists beyond 3 weeks or if you're developing them frequently.
 
 ## Related Articles
 
-- [Behcet's Disease: Recurrent Mouth Ulcers](/article/behcets-disease-recurrent-mouth-ulcers.html)
 - [Mouth Ulcer Care: What You Need to Know](/article/mouth-ulcer-care-what-you-need-to-know.html)
-- [Erythema Migrans: Lyme Disease Mouth Rash](/article/erythema-migrans-lyme-disease-mouth-rash.html)
+- [Nano Hydroxyapatite Toothpaste Enamel Remineralization](/article/nano-hydroxyapatite-toothpaste-enamel-remineralization.html)
+- [Phase One Interceptive Treatment Expansion Benefits](/article/phase-one-interceptive-treatment-expansion-benefits.html)
+- [Nanotechnology in Dentistry Future Materials](/article/nanotechnology-in-dentistry-future-materials.html)
+- [Timeline For Orthodontic Extraction Decision](/article/timeline-for-orthodontic-extraction-decision.html)
+

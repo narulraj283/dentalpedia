@@ -47,7 +47,9 @@ Your dentist typically organizes treatment into four phases, each with a specifi
 
 ## Why the Sequence Matters
 
-The sequence isn't arbitrary. It's based on biology. If you have gum disease, placing restorations before treating the disease is like painting a room with wet walls. The treatment won't last. Infections spread. Your mouth needs to be stable before you invest in expensive restorations.
+The sequence isn't arbitrary. It's based on biology. If you have gum disease, placing restorations before treating the disease is like painting a room with wet walls.
+
+The treatment won't last. Infections spread. Your mouth needs to be stable before you invest in expensive restorations.
 
 Let's say you need a crown and you have gum disease. If your dentist places the crown before treating the gum disease, bacteria can sneak under the crown margin and cause decay. You end up needing a root canal or extraction, losing all that investment. Instead, treating the gum disease first means the crown has a stable, healthy foundation.
 
@@ -57,7 +59,9 @@ Same with [dental procedure planning when X-rays are involved](/article/dental-x
 
 Before creating a treatment plan, your dentist does a detailed examination. They look at every tooth to determine which ones can be saved and which have to go. They take X-rays to see problems hidden between teeth and under gums. They measure your gum pockets to assess gum disease severity. They evaluate your bite to see if teeth are hitting in healthy ways.
 
-Based on this examination, your dentist calculates your **risk level**. Are you high-risk for cavities because you love soda? Do you have aggressive gum disease? Are you a good candidate for implants, or will your bone not support them? This risk assessment guides treatment priorities. A low-risk patient with one cavity might get that filled and be done. A high-risk patient with systemic disease might need intensive gum disease treatment before any other work begins.
+Based on this examination, your dentist calculates your **risk level**. Are you high-risk for cavities because you love soda? Do you have aggressive gum disease?
+
+Are you a good candidate for implants, or will your bone not support them? This risk assessment guides treatment priorities. A low-risk patient with one cavity might get that filled and be done. A high-risk patient with systemic disease might need intensive gum disease treatment before any other work begins.
 
 Your dentist also considers each tooth's **prognosis**—basically, how long will this tooth last if we treat it? A tooth with good bone support that just needs a filling might last decades. A tooth that's barely holding on to its supporting bone might fail in a few years no matter what we do. If a tooth's prognosis is poor (less than 5-10 years), your dentist might recommend extraction instead of spending money on a restoration that won't last.
 
@@ -67,11 +71,11 @@ Here's a key principle: **gum disease must be controlled before restorations are
 
 Waiting for your gums to heal seems frustrating when you want your cosmetic work done. But placing a crown on a tooth with pockets that still have bacteria is setting yourself up for failure. The crown margins will harbor bacteria, you'll develop decay, and you'll lose the tooth.
 
-If you have [serious gum disease that affects multiple teeth](/article/timeline-for-bad-breath-elimination.html), Phase I can take several months. Your dentist will recheck your gums to see if the disease is controlled before proceeding to Phase III cosmetic work.
+If you have [Serious Gum Disease That Affects Multiple Teeth](/article/timeline-for-bad-breath-elimination.html), Phase I can take several months. Your dentist will recheck your gums to see if the disease is controlled before proceeding to Phase III cosmetic work.
 
 ## Planning for Implants
 
-If you're missing teeth and considering implants, [implant planning involves special imaging and bone assessment](/article/dental-x-rays-safety-types-and-what-they-reveal.html). Your dentist takes a 3D X-ray (cone-beam CT) to measure your jaw bone. Is there enough bone width and height for an implant? If not, bone grafting comes first.
+If you're missing teeth and considering implants, implant planning involves special imaging and bone assessment. Your dentist takes a 3D X-ray (cone-beam CT) to measure your jaw bone. Is there enough bone width and height for an implant? If not, bone grafting comes first.
 
 Implant placement happens in Phase III, but before that, your gum disease must be controlled and any infection cleared. After implant placement, there's typically a 3-6 month waiting period for bone to fuse with the implant. Only after this healing is the crown placed.
 
@@ -108,16 +112,19 @@ Your dentist should discuss the total cost and help you understand what insuranc
 
 Similarly, timeline matters. If you have a big event in 3 months, your dentist needs to know. Implants take months, but a crown might be doable quickly. Understanding what's realistic helps you plan.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Good dental treatment planning is like following a recipe. Each step matters, and skipping steps or changing the order usually leads to problems. Your dentist isn't being difficult by not doing everything at once—they're protecting your long-term dental health. Understanding the phases, knowing why disease control comes first, and appreciating the biology behind the sequence helps you stay patient through the process and achieve the best outcome possible.
 
-## Key Takeaway
-
-Dental treatment follows a logical four-phase sequence: emergency/disease control, restorative work, complex treatment like implants, and maintenance. Gum disease must be controlled before other work is done. Your dentist creates a written plan outlining the specific procedures, timeline, and costs for your individual situation.
+> **Key Takeaway:** Dental treatment follows a logical four-phase sequence: emergency/disease control, restorative work, complex treatment like implants, and maintenance. Gum disease must be controlled before other work is done. Your dentist creates a written plan outlining the specific procedures, timeline, and costs for your individual situation.
 
 ## Related Articles
 
-- [Dental X-Rays: Safety, Types, and What They Reveal](/article/dental-x-rays-safety-types-and-what-they-reveal.html)
-- [Timeline for Bad Breath Elimination](/article/timeline-for-bad-breath-elimination.html)
 - [Teeth Whitening for Athletes: Cosmetic Solutions](/article/teeth-whitening-for-athletes-cosmetic.html)
+- [Emergency Tooth Pain: What's Happening and What to Do](/article/how-to-emergency-tooth-pain.html)
+- [Choosing a Dentist: Finding the Right Provider](/article/choosing-a-dentist-finding-right-provider.html)
+- [Guide Plane: Denture Path Preparation in Removable](/article/guide-plane-denture-path-preparation.html)
+- [Common Misconceptions About Bad Breath Elimination](/article/common-misconceptions-about-bad-breath-elimination.html)
+

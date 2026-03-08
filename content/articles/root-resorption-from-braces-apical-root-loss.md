@@ -39,7 +39,7 @@ reviewer_specialty: Orthodontist
 slug: root-resorption-from-braces-apical-root-loss
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-title: Orthodontic Root Resorption - Minimizing Apical Root...
+title: Orthodontic Root Resorption - Minimizing Apical
 ---
 
 ## What Is Orthodontic Root Resorption?
@@ -64,7 +64,7 @@ If you've had trauma to your teeth (they got knocked loose or hit), that makes t
 
 ## What Type of Tooth Movement Matters Most
 
-Moving your teeth inward (intrusion) causes significantly more resorption than other movements. That's why your orthodontist might prefer to move different teeth or move your teeth in different directions to avoid excessive inward movement. For more on this topic, see our guide on [Risk And Concerns With Clear Aligner ...](/article/risk-and-concerns-with-clear-aligner-comparison.html).
+Moving your teeth inward (intrusion) causes significantly more resorption than other movements. That's why your orthodontist might prefer to move different teeth or move your teeth in different directions to avoid excessive inward movement. For more on this topic, see our guide on [Clear Aligners vs. Traditional Braces - What You](/article/risk-and-concerns-with-clear-aligner-comparison.html).
 
 The amount of force matters tremendously. Light forces of 25-50 grams on front teeth cause very little resorption. Heavy forces of over 100 grams cause substantial resorption. Your orthodontist carefully calibrates the force to be strong enough to move your teeth efficiently but light enough to minimize damage.
 
@@ -84,7 +84,7 @@ Resorption becomes concerning if it exceeds 3mm on a single tooth, or if multipl
 
 Modern orthodontics emphasizes light forces as the primary protection. Gentle, consistent pressure causes fewer problems than heavy force applied quickly. Your orthodontist should use bracket systems and wires designed to deliver light forces.
 
-If X-rays show that your roots are shortening more than expected, your orthodontist can: For more on this topic, see our guide on [Teeth Movement Process What You Need ...](/article/teeth-movement-process-what-you-need-to-know.html).
+If X-rays show that your roots are shortening more than expected, your orthodontist can: For more on this topic, see our guide on [How Your Teeth Move: What You Need to Know](/article/teeth-movement-process-what-you-need-to-know.html).
 - Reduce the force being applied to your teeth
 - Take a 2-4 week break in treatment to let your roots recover
 - Modify which movements are done (maybe stop pushing your teeth inward and do other movements instead)
@@ -118,12 +118,12 @@ Before you start braces, ask your orthodontist:
 
 Root resorption from braces is a real phenomenon, but it's largely preventable through proper force management and monitoring. Modern orthodontia emphasizes light forces and regular radiographic monitoring. Understanding your personal risk, asking about monitoring plans, and working with your orthodontist to modify treatment if significant resorption develops protects your teeth long-term. The majority of people complete braces treatment with minimal root changes and enjoy their beautiful smile for life.
 
-## Key Takeaway
-
-Braces can cause mild root shortening in nearly all patients, but proper light force application and radiographic monitoring prevent excessive resorption, with most teeth retaining more than sufficient root for lifelong function.
+> **Key Takeaway:** Braces can cause mild root shortening in nearly all patients, but proper light force application and radiographic monitoring prevent excessive resorption, with most teeth retaining more than sufficient root for lifelong function.
 
 ## Related Articles
 
-- [Risk and Concerns with Clear Aligner Comparison](/article/risk-and-concerns-with-clear-aligner-comparison.html)
-- [Teeth Movement Process What You Need to Know](/article/teeth-movement-process-what-you-need-to-know.html)
 - [Why Bite Problems Explained Matters](/article/why-bite-problems-explained-matters.html)
+
+- [Traditional Metal Braces Treatment Process and Patient](/article/traditional-metal-braces-process-and-care.html)
+- [Why Proper Braces Care Instructions Matter for](/article/why-braces-care-instructions-matters.html)
+

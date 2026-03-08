@@ -37,7 +37,7 @@ The force is constant and gentle. Elastics work through sustained pressure over 
 
 Elastics are tiny rubber bands available in different forces—light, medium, heavy—measured in ounces of force. Light elastics pull gently; heavy elastics pull more forcefully. Your orthodontist chooses the force level appropriate for your correction needs.
 
-The most common elastic pattern is Class II, used for overbites. Learning more about [teeth movement speed complete guide](/article/teeth-movement-speed-complete-guide.html) can help you understand this better. These pull your lower jaw forward, gradually improving your bite. Class III elastics pull your upper jaw forward (used less commonly for underbites). Some patients need diagonal or custom patterns depending on their specific bite problem.
+The most common elastic pattern is Class II, used for overbites. Learning more about [Teeth Movement Speed Complete Guide](/article/teeth-movement-speed-complete-guide.html) can help you understand this better. These pull your lower jaw forward, gradually improving your bite. Class III elastics pull your upper jaw forward (used less commonly for underbites). Some patients need diagonal or custom patterns depending on their specific bite problem.
 
 The elastics work constantly, even when you're sleeping. You replace them once or twice daily, so fresh elastics always provide consistent force. Over weeks and months, this gentle constant pull gradually moves your teeth and jaw into better positions.
 
@@ -65,7 +65,7 @@ Here's the challenge: elastics only work if you wear them consistently and corre
 
 ## How Long Do You Wear Them?
 
-You'll wear elastics for months or sometimes the entire duration of braces. If your bite correction is complex, you might wear elastics for 18 months or longer. Learning more about [benefits of orthodontic extraction decision](/article/benefits-of-orthodontic-extraction-decision.html) can help you understand this better. Simpler corrections might take only 6-12 months. Your orthodontist can estimate how long you'll need them.
+You'll wear elastics for months or sometimes the entire duration of braces. If your bite correction is complex, you might wear elastics for 18 months or longer. Learning more about [Benefits of Orthodontic Extraction Decision](/article/benefits-of-orthodontic-extraction-decision.html) can help you understand this better. Simpler corrections might take only 6-12 months. Your orthodontist can estimate how long you'll need them.
 
 ## Visible vs. Discreet Options
 
@@ -75,13 +75,11 @@ If you're self-conscious about visible rubber bands, ask your orthodontist about
 
 Here's the bottom line: patients who wear elastics consistently and correctly finish treatment 3-6 months faster than those who are inconsistent. That's significant. If your estimated treatment is 2 years with good elastic compliance, poor compliance might extend it to 2.5-2.75 years. Over the course of treatment, consistency really adds up.
 
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about intermaxillary elastics bite correction elastics and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
 
 You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 
 ## Protecting Your Results Long-Term
 
@@ -97,4 +95,7 @@ Intermaxillary elastics are simple devices with significant power. Wearing them 
 
 - [Teeth Movement Speed: What You Need to Know](/article/teeth-movement-speed-what-you-need-to-know.html)
 - [Braces Benefits: Complete Guide](/article/braces-benefits-complete-guide.html)
-- [Bite Correction Methods: Complete Overview](/article/bite-correction-methods-complete-overview.html)
+
+- [How Braces Move Your Teeth in 3D](/article/rotational-movements-three-dimensional-tooth-control.html)
+- [How Fast Do Your Teeth Move With Braces?](/article/how-to-teeth-movement-speed.html)
+

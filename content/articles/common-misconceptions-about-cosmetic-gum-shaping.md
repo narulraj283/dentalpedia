@@ -33,7 +33,7 @@ About 10-14% of people have a gummy smile. Some people are born that way. Others
 
 Some people think a gummy smile is just how they look and they have to accept it. That's not true. Gum shaping (gingivoplasty or crown lengthening) can reduce gingival display by 80-90%. You can actually have a much less gummy-looking smile with a simple procedure.
 
-This procedure is especially effective if your gummy smile is caused by too much gum tissue rather than a skeletal problem (meaning your jaw structure is normal but your gums cover too much tooth). You may also want to read about [common misconceptions about cosmetic bonding process](/article/common-misconceptions-about-cosmetic-bonding-process.html).
+This procedure is especially effective if your gummy smile is caused by too much gum tissue rather than a skeletal problem (meaning your jaw structure is normal but your gums cover too much tooth). You may also want to read about [Common Misconceptions About Cosmetic Bonding Process](/article/common-misconceptions-about-cosmetic-bonding-process.html).
 
 ## Different Causes Need Different Approaches
 
@@ -49,7 +49,7 @@ Your dentist uses a laser or surgical tool to carefully reshape your gum line, r
 
 ## Recovery Is Pretty Straightforward
 
-After gum shaping, your gums might be a little sore for a few days, similar to after a dental cleaning. Learning more about [common misconceptions about cosmetic crown selection](/article/common-misconceptions-about-cosmetic-crown-selection.html) can help you understand this better. Most people take over-the-counter pain medication if needed. Swelling is minimal (definitely less than tooth extraction or implant surgery).
+After gum shaping, your gums might be a little sore for a few days, similar to after a dental cleaning. Learning more about [Common Misconceptions About Cosmetic Crown Selection](/article/common-misconceptions-about-cosmetic-crown-selection.html) can help you understand this better. Most people take over-the-counter pain medication if needed. Swelling is minimal (definitely less than tooth extraction or implant surgery).
 
 You'll probably need to avoid hot foods and crunchy foods for a few days and might need to rinse with salt water. You can usually return to normal eating within a week. Full healing takes 2-4 weeks.
 
@@ -91,8 +91,6 @@ Gum shaping works best for people with adequate gum thickness and a gummy smile 
 
 Your dentist can evaluate whether gum shaping will work for you or if you need a different approach.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about cosmetic gum shaping and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -103,12 +101,13 @@ You might also want to ask about the expected timeline, what the recovery proces
 
 Gum shaping is an effective, quick procedure that can dramatically improve a gummy smile. Results are usually permanent, recovery is fast, and complications are rare when performed by a skilled dentist. If you're self-conscious about your gummy smile, gum shaping might be exactly what you need.
 
+> **Key Takeaway:** A gummy smile is when you show more gum than tooth when you smile. Most people show a little bit of gum when they smile—that's normal.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Cosmetic Bonding to Improve Your Smile](/article/common-misconceptions-about-cosmetic-bonding-process.html)
-- [Choosing the Right Crown](/article/common-misconceptions-about-cosmetic-crown-selection.html)
 - [Designing Your Ideal Smile](/article/common-misconceptions-about-cosmetic-smile-design.html)
+- [Risk and Concerns with Smile Enhancement Options](/article/risk-and-concerns-with-smile-enhancement-options.html)
+- [Enamel Microabrasion: Surface Defect Removal Techniques](/article/enamel-microabrasion-surface-defect-removal.html)
+- [How Long Do Veneers Really Last? Everything You Need to](/article/timeline-for-veneer-durability-facts.html)
+- [Smile Makeover Planning: Comprehensive Assessment,](/article/timeline-for-smile-makeover-planning.html)
 
-> **Key Takeaway:** Gum shaping can reduce a gummy smile and is a quick outpatient procedure with fast recovery and permanent results. Talk to your dentist to see if you're a good candidate.

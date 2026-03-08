@@ -34,7 +34,7 @@ If your surgeon removes an oral lesion (abnormal tissue growth, precancerous are
 
 ## Why Margins Matter So Much
 
-If your surgeon leaves abnormal cells behind, they can grow back or become cancer. Learn more about [orthognathic surgery planning severe](/article/orthognathic-surgery-planning-severe-skeletal-issues.html) for additional guidance. Bigger margins (removing more tissue) means lower chance of recurrence. But removing too much causes more damage. Your surgeon balances getting clear margins with preserving function and appearance.
+If your surgeon leaves abnormal cells behind, they can grow back or become cancer. Learn more about [Orthognathic Surgery Planning Severe](/article/orthognathic-surgery-planning-severe-skeletal-issues.html) for additional guidance. Bigger margins (removing more tissue) means lower chance of recurrence. But removing too much causes more damage. Your surgeon balances getting clear margins with preserving function and appearance.
 
 ## How Your Surgeon Checks Margins
 
@@ -77,7 +77,7 @@ Your surgeon will mark tissue with colored inks so the pathologist knows which d
 
 ## Mohs Micrographic Surgery: An Alternative Approach
 
-For some lesions in esthetic areas (like lips or front gums), your surgeon might offer Mohs surgery. Learn more about [why post surgery care](/article/why-post-surgery-care-matters.html) for additional guidance. This advanced technique examines 100% of the margin (versus standard surgery examining only a sample). It reduces recurrence rates significantly but takes longer and costs more. Ask your surgeon if you're a candidate.
+For some lesions in esthetic areas (like lips or front gums), your surgeon might offer Mohs surgery. Learn more about [Why Post Surgery Care](/article/why-post-surgery-care-matters.html) for additional guidance. This advanced technique examines 100% of the margin (versus standard surgery examining only a sample). It reduces recurrence rates significantly but takes longer and costs more. Ask your surgeon if you're a candidate.
 
 ## After Your Surgery: Follow-Up Care
 
@@ -101,7 +101,9 @@ You're not done after margins are checked. Your surgeon will:
 
 1. What type of lesion did you remove?
 2. What size margins did you take?
-3. Will you check margins during surgery?
+3.
+
+Will you check margins during surgery?
 4. What do clear vs. close vs. involved margins mean for me specifically?
 5. If margins aren't clear, what happens next?
 6. How often do I need follow-up visits?
@@ -112,13 +114,11 @@ When you visit your dentist to discuss surgical margins adequate lesion removal,
 
 It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
 
 During any procedure, your comfort is a top priority. Your dental team will make sure you understand what is happening and check in with you regularly. Modern dental techniques and anesthesia options mean that most patients experience minimal discomfort during and after treatment. If you feel anxious about any part of the process, let your dentist know so they can adjust their approach to help you feel more at ease.
-
 
 ## Tips for Long-Term Success
 
@@ -126,16 +126,17 @@ Maintaining good results after dental treatment requires consistent care at home
 
 Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
 Surgical margins are about preventing your lesion from coming back. Your surgeon removes the lesion plus surrounding tissue to ensure all abnormal cells are gone. If margins show abnormal cells, re-excision is usually recommended. Follow your surgeon's surveillance plan and report any new spots immediately. Most people do well with proper margins and regular follow-up.
 
-## Key Takeaway
-
-Clear margins mean the best chance your lesion won't come back. Your surgeon removes lesions plus margin tissue to catch all abnormal cells, not just what's visible.
+> **Key Takeaway:** Clear margins mean the best chance your lesion won't come back. Your surgeon removes lesions plus margin tissue to catch all abnormal cells, not just what's visible.
 
 ## Related Articles
-- [Oral Cancer Screening and Early Detection](/articles/oral-cancer-screening-and-early-detection)
-- [Understanding Surgical Success Rates](/articles/surgical-success-rates-what-you-need-to-know)
-- [Comprehensive Guide to Complex Extractions](/articles/best-practices-for-complex-extractions)
+
+- [Complex Extractions: What You Need to Know](/article/complex-extractions-what-you-need-to-know.html)
+- [Why Local Anesthesia Sometimes Doesn't Work](/article/local-anesthesia-failures-why-numbness-doesnt-work.html)
+- [Comprehensive Pain Management Protocols in Oral and](/article/best-practices-for-pain-management-surgery.html)
+

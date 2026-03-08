@@ -25,7 +25,7 @@ Intrusive injuries occur when blunt force drives your tooth into its bone socket
 
 Most intrusive injuries result from significant trauma: a sports injury, car accident, workplace accident, or violent blow to the face. Children often sustain these injuries from falls or playground accidents. The force must be directed upward through the tooth, driving it deeper into bone. Front teeth are affected most commonly because they're exposed and vulnerable.
 
-The injury severity varies widely. Mild intrusion pushes the tooth only slightly deeper. Severe intrusion might drive the tooth significantly into bone, with part of it disappearing below the gum line. Learning more about [lingual nerve tongue numbness from injury](/article/lingual-nerve-tongue-numbness-from-injury.html) can help you understand this better. Severe intrusions cause more damage to the nerve and blood supply.
+The injury severity varies widely. Mild intrusion pushes the tooth only slightly deeper. Severe intrusion might drive the tooth significantly into bone, with part of it disappearing below the gum line. Learning more about [Lingual Nerve Tongue Numbness from Injury](/article/lingual-nerve-tongue-numbness-from-injury.html) can help you understand this better. Severe intrusions cause more damage to the nerve and blood supply.
 
 ## Recognizing Intrusive Injury
 
@@ -73,7 +73,7 @@ This assessment guides treatment decisions. Mild injuries might be managed conse
 
 Expect significant discomfort and swelling for several days. The splint remains in place for 1-2 weeks. During this time, eat soft foods and avoid chewing on the affected tooth and surrounding area.
 
-Healing takes months as bone stabilizes around the tooth and tissues recover. Swelling gradually decreases over the first 2-3 weeks. Learning more about [risk and concerns with pain management surgery](/article/risk-and-concerns-with-pain-management-surgery.html) can help you understand this better. Full healing and assessment of the tooth's ultimate fate takes much longer. Follow-up visits monitor the tooth's progress and determine whether root canal therapy becomes necessary.
+Healing takes months as bone stabilizes around the tooth and tissues recover. Swelling gradually decreases over the first 2-3 weeks. Learning more about [Risk and Concerns with Pain Management Surgery](/article/risk-and-concerns-with-pain-management-surgery.html) can help you understand this better. Full healing and assessment of the tooth's ultimate fate takes much longer. Follow-up visits monitor the tooth's progress and determine whether root canal therapy becomes necessary.
 
 ## Possible Complications
 
@@ -95,18 +95,15 @@ Some teeth are eventually lost despite best treatment efforts. Even if eventual 
 
 Protective mouthguards during contact sports significantly reduce injury risk. Custom mouthguards provide better protection than store-bought options. Athletes and people in high-risk occupations should wear protective equipment consistently.
 
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about intrusion trauma forced into socket and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
 
 You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
 
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed intrusion trauma forced into socket, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
-
 
 ## What to Expect at Your Appointment
 
@@ -125,3 +122,4 @@ Intrusive injury is a serious trauma requiring emergency professional care. The 
 - [Laser Surgery: CO2 and Er:YAG Applications](/article/laser-surgery-co2-and-er-yag-applications.html)
 - [Best Practices for Post-Surgery Care](/article/best-practices-for-post-surgery-care.html)
 - [Cost of Bone Grafting Procedure](/article/cost-of-bone-grafting-procedure.html)
+

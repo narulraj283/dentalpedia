@@ -1,41 +1,53 @@
 ---
-title: "Sleep Apnea: Understanding Breathing Pauses During Sleep"
-slug: sleep-apnea-breathing-pause-during-sleep
 category: TMJ & Sleep Dentistry
 category_slug: tmj-sleep-dentistry
-excerpt: "Obstructive sleep apnea pathophysiology involves upper airway collapse during sleep with risk factors including obesity, anatomy, and age; screening."
 date: 2026-03-05
+excerpt: Obstructive sleep apnea pathophysiology involves upper airway collapse during
+  sleep with risk factors including obesity, anatomy, and age; screening.
 read_time: 9 min
+references:
+- title: 'Chung F et al. STOP-Bang questionnaire: A practical approach to screen for
+    obstructive sleep apnea. Chest. 2016;149(3):631-638.'
+  url: https://pubmed.ncbi.nlm.nih.gov/26378880
+- title: Mallampati SR et al. A clinical sign to predict difficult tracheal intubation.
+    Can Anaesth Soc J. 1985;32(4):429-434.
+  url: https://pubmed.ncbi.nlm.nih.gov/4027773
+- title: Peppard PE et al. Increased prevalence of sleep-disordered breathing in adults.
+    Am J Epidemiol. 2013;177(12):1442-1450.
+  url: https://pubmed.ncbi.nlm.nih.gov/23801012
+- title: Marin JM et al. Long-term cardiovascular outcomes in men with obstructive
+    sleep apnoea-hypopnoea with or without treatment with continuous positive airway
+    pressure. Lancet. 2005;365(9464):1046-1053.
+  url: https://pubmed.ncbi.nlm.nih.gov/15781100
+- title: Johns MW et al. A new method for measuring daytime sleepiness. Sleep. 1991;14(6):540-545.
+  url: https://pubmed.ncbi.nlm.nih.gov/1798888
+- title: Punjabi NM et al. The epidemiology of adult obstructive sleep apnea. Proc
+    Am Thorac Soc. 2008;5(2):136-143.
+  url: https://pubmed.ncbi.nlm.nih.gov/18250205
+- title: Young T et al. The occurrence of sleep-disordered breathing among middle-aged
+    adults. N Engl J Med. 1993;328(17):1230-1235.
+  url: https://pubmed.ncbi.nlm.nih.gov/8464434
+- title: Nuckton TJ et al. The association of neck circumference with sleep-related
+    breathing disorders. Sleep Breath. 2006;10(1):35-42.
+  url: https://pubmed.ncbi.nlm.nih.gov/16699811
+- title: Schwab RJ et al. Imaging of the airway. Neuromuscular and skeletal determinants.
+    Sleep. 1996;19(10 Suppl):S54-S59.
+  url: https://pubmed.ncbi.nlm.nih.gov/9085495
+reviewed: true
 reviewer_specialty: Sleep Medicine Dentistry
+slug: sleep-apnea-breathing-pause-during-sleep
 subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
-reviewed: true
-references:
-  - title: "Chung F et al. STOP-Bang questionnaire: A practical approach to screen for obstructive sleep apnea. Chest. 2016;149(3):631-638."
-    url: https://pubmed.ncbi.nlm.nih.gov/26378880
-  - title: "Mallampati SR et al. A clinical sign to predict difficult tracheal intubation. Can Anaesth Soc J. 1985;32(4):429-434."
-    url: https://pubmed.ncbi.nlm.nih.gov/4027773
-  - title: "Peppard PE et al. Increased prevalence of sleep-disordered breathing in adults. Am J Epidemiol. 2013;177(12):1442-1450."
-    url: https://pubmed.ncbi.nlm.nih.gov/23801012
-  - title: "Marin JM et al. Long-term cardiovascular outcomes in men with obstructive sleep apnoea-hypopnoea with or without treatment with continuous positive airway pressure. Lancet. 2005;365(9464):1046-1053."
-    url: https://pubmed.ncbi.nlm.nih.gov/15781100
-  - title: "Johns MW et al. A new method for measuring daytime sleepiness. Sleep. 1991;14(6):540-545."
-    url: https://pubmed.ncbi.nlm.nih.gov/1798888
-  - title: "Punjabi NM et al. The epidemiology of adult obstructive sleep apnea. Proc Am Thorac Soc. 2008;5(2):136-143."
-    url: https://pubmed.ncbi.nlm.nih.gov/18250205
-  - title: "Young T et al. The occurrence of sleep-disordered breathing among middle-aged adults. N Engl J Med. 1993;328(17):1230-1235."
-    url: https://pubmed.ncbi.nlm.nih.gov/8464434
-  - title: "Nuckton TJ et al. The association of neck circumference with sleep-related breathing disorders. Sleep Breath. 2006;10(1):35-42."
-    url: https://pubmed.ncbi.nlm.nih.gov/16699811
-  - title: "Schwab RJ et al. Imaging of the airway. Neuromuscular and skeletal determinants. Sleep. 1996;19(10 Suppl):S54-S59."
-    url: https://pubmed.ncbi.nlm.nih.gov/9085495
+title: 'Sleep Apnea: Understanding Breathing Pauses During'
 ---
 
 ## What Is Sleep Apnea?
 
 Sleep apnea is when your breathing stops repeatedly during sleep—sometimes dozens or even hundreds of times per night. Each time your airway closes, your oxygen level drops, and your brain wakes you up just enough to gasp for air. You might not remember these brief awakenings, but your body experiences them all night long.
 
-Sleep apnea is serious and affects millions of people worldwide. Unfortunately, many people don't know they have it. The consequences reach far beyond just poor sleep. Untreated sleep apnea increases your risk of high blood pressure, heart attack, stroke, and sudden cardiac death. Beyond physical health, it causes daytime fatigue, memory problems, mood changes, and relationship issues. But sleep apnea is treatable, and getting help can save your life and dramatically improve your quality of life.
+Sleep apnea is serious and affects millions of people worldwide. Unfortunately, many people don't know they have it. The consequences reach far beyond just poor sleep.
+
+Untreated sleep apnea increases your risk of high blood pressure, heart attack, stroke, and sudden cardiac death. Beyond physical health, it causes daytime fatigue, memory problems, mood changes, and relationship issues. But sleep apnea is treatable, and getting help can save your life and dramatically improve your quality of life.
 
 ## OSA Pathophysiology and Airway Collapse
 
@@ -83,7 +95,7 @@ Hypothyroidism, polycystic ovary syndrome, and acromegaly all increase OSA preva
 
 ## Cardiovascular and Metabolic Consequences
 
-The cardiovascular consequences of untreated OSA are substantial and well-established. Recurrent oxygen desaturation episodes activate sympathetic nervous system activity, leading to increases in blood pressure, heart rate, and myocardial oxygen demand. These acute responses, when repeated hundreds of times nightly, produce chronic sympathetic activation and sustained hypertension. For more on this topic, see our guide on [Night Guard Material Durability And C...](/article/night-guard-material-durability-and-comfort.html).
+The cardiovascular consequences of untreated OSA are substantial and well-established. Recurrent oxygen desaturation episodes activate sympathetic nervous system activity, leading to increases in blood pressure, heart rate, and myocardial oxygen demand. These acute responses, when repeated hundreds of times nightly, produce chronic sympathetic activation and sustained hypertension. For more on this topic, see our guide on [Choosing the Right Night Guard Material - Comfort](/article/night-guard-material-durability-and-comfort.html).
 
 Sleep fragmentation and intermittent hypoxia activate inflammatory pathways, with elevation of pro-inflammatory cytokines, C-reactive protein, and oxidative stress markers. This systemic inflammation contributes to vascular endothelial dysfunction and atherosclerotic progression.
 
@@ -111,16 +123,12 @@ Quality of life impairment in OSA extends beyond daytime somnolence. Patients fr
 
 Obstructive sleep apnea results from complex interactions between anatomical predisposition, neuromuscular factors, and physiological characteristics. Understanding pathophysiology enables recognition of risk factors and identification of patients requiring diagnostic evaluation. Screening through tools such as the STOP-Bang questionnaire enables efficient identification of high-risk patients. Recognition of the diverse clinical presentations of OSA beyond daytime somnolence ensures that symptomatic patients receive appropriate evaluation and treatment, reducing the substantial morbidity and mortality associated with untreated disease.
 
-
-
-## Key Takeaway
-
-Understanding sleep apnea: understanding breathing pauses during sleep puts you in a better position to work with your dentist on a care plan that fits your needs. Ask questions and stay proactive about your oral health.
-
-
+> **Key Takeaway:** Understanding sleep apnea: understanding breathing pauses during sleep puts you in a better position to work with your dentist on a care plan that fits your needs. Ask questions and stay proactive about your oral health.
 
 ## Related Articles
 
-- [Tmj Surgery Meniscectomy And Arthroscopy](/article/tmj-surgery-meniscectomy-and-arthroscopy.html)
-- [Night Guard Material Durability And Comfort](/article/night-guard-material-durability-and-comfort.html)
 - [Sleep Position And Jaw Health](/article/sleep-position-and-jaw-health.html)
+
+- [Jaw Pain That Won't Go Away? It's Likely TMJ —](/article/tmj-disorders-symptoms-and-nonsurgical-treatments.html)
+- [Septoplasty and Deviated Septum](/article/septoplasty-deviated-septum-and-sleep-apnea.html)
+

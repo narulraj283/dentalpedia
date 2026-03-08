@@ -35,7 +35,9 @@ Your pain likely isn't fully controlled by ibuprofen alone at this stage. If you
 
 ## Days 3-5: Things Start Getting Better
 
-By day three to five, pain becomes noticeably better. Swelling, while still present, begins clearly improving. You probably feel substantially better than you did on day one. At this point, many people can shift from narcotic pain relief to over-the-counter ibuprofen. Taper opioids gradually as pain allows rather than stopping abruptly. For more on this topic, see our guide on [Best Practices For Surgical Technique...](/article/best-practices-for-surgical-technique-overview.html).
+By day three to five, pain becomes noticeably better. Swelling, while still present, begins clearly improving. You probably feel substantially better than you did on day one.
+
+At this point, many people can shift from narcotic pain relief to over-the-counter ibuprofen. Taper opioids gradually as pain allows rather than stopping abruptly. For more on this topic, see our guide on [Oral Surgical Technique Fundamentals and Clinical](/article/best-practices-for-surgical-technique-overview.html).
 
 By day six to seven, you can gently start rinsing with warm salt water (one-half teaspoon salt in eight ounces warm water) to keep the surgical area clean. If non-absorbable stitches were placed, they're typically removed at day seven to ten. If absorbable stitches were used, you won't need a removal appointment—they dissolve on their own over one to three weeks.
 
@@ -51,7 +53,7 @@ Exercise can gradually resume: light walking is fine by week one; normal exercis
 
 While you feel essentially normal by week four to six, substantial healing continues beneath the surface. For extraction sockets, bone is remodeling and changing shape as your body adapts to tooth loss. For implant patients, bone integration with the implant (osseointegration) is occurring—this critical process must complete before crowns can be placed (usually three to six months depending on bone quality and implant location).
 
-During this period, avoid hard, crunchy, or sticky foods. For implant patients specifically, avoid any chewing in the surgical region—chewing before osseointegration completes is the most common cause of implant failure. Your surgeon will tell you when the implant site is ready for crown placement. For more on this topic, see our guide on [Flap Surgery Accessing Bone For Treat...](/article/flap-surgery-accessing-bone-for-treatment.html).
+During this period, avoid hard, crunchy, or sticky foods. For implant patients specifically, avoid any chewing in the surgical region—chewing before osseointegration completes is the most common cause of implant failure. Your surgeon will tell you when the implant site is ready for crown placement. For more on this topic, see our guide on [Flap Surgery: Accessing Bone for Treatment](/article/flap-surgery-accessing-bone-for-treatment.html).
 
 Smoking during weeks four to twelve significantly compromises healing and increases implant failure risk dramatically. If possible, this is an ideal time to quit smoking—you're already dealing with healing, and extended smoking will slow your recovery substantially.
 
@@ -93,18 +95,19 @@ Most healing complications are preventable through proper post-operative care an
 
 Complete biological healing takes longer than you expect. While you feel substantially normal by week two to three, your tissues are still healing. Bone remodeling, complete epithelialization, and full sensation return take months. Patience during early recovery weeks, careful adherence to post-operative instructions, and appropriate pain management all contribute to excellent long-term outcomes.
 
-> **Key Takeaway:** The first week is hardest—pain peaks around day one to two, then improves daily. Take pain medication proactively before pain escalates. Swelling peaks day two to three then gradually resolves. By week two, most people can resume modified normal activities. By week four, you feel essentially normal, though bone healing continues for months. Contact your surgeon if you develop complications or if healing seems unusual.
-
-
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about topics like after dental surgery: your step-by-step recovery plan. The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
+The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** The first week is hardest—pain peaks around day one to two, then improves daily. Take pain medication proactively before pain escalates. Swelling peaks day two to three then gradually resolves. By week two, most people can resume modified normal activities. By week four, you feel essentially normal, though bone healing continues for months. Contact your surgeon if you develop complications or if healing seems unusual.
+
+## Related Articles
 
 - [Oral Surgery Recovery: Complete Clinical Timeline](/article/oral-surgery-recovery-timeline-complete-guide.html)
-- [Tooth Extraction: What to Expect Before, During, and After](/article/tooth-extraction-recovery-what-you-need-to-know.html)
+- [Tooth Extraction Recovery - What You Need to Know](/article/tooth-extraction-recovery-what-you-need-to-know.html)
 - [Dental Implants: Placement to Crown Placement Timeline](/article/osseointegration-timeline-how-long-until-stable.html)
+

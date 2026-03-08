@@ -85,12 +85,13 @@ Some relapse—slight drift back toward the original position—is normal and ex
 
 Crossbites are highly treatable, whether you're a child, teen, or adult. Early treatment takes advantage of growth and can be remarkably fast. Even adult treatment can achieve excellent results. The key is catching the problem and addressing it before it causes damage to your teeth or creates bite problems. Your orthodontist can evaluate your specific crossbite and explain the best approach for your situation.
 
-To understand your specific bite problem better, explore [traditional metal braces and how they work](/article/traditional-metal-braces-brackets-and-wires-explained.html) to see what treatment options look like. Learning about [the timeline for bite problems](/article/timeline-for-bite-problems-explained.html) helps you understand what to expect during treatment. And don't forget that [retainers are critical for keeping your results](/article/risk-and-concerns-with-retainer-importance.html) after treatment is complete.
+To understand your specific bite problem better, explore [Traditional Metal Braces and How They Work](/article/traditional-metal-braces-brackets-and-wires-explained.html) to see what treatment options look like. Learning about [The Timeline for Bite Problems](/article/timeline-for-bite-problems-explained.html) helps you understand what to expect during treatment. And don't forget that [Retainers Are Critical for Keeping Your Results](/article/risk-and-concerns-with-retainer-importance.html) after treatment is complete.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Crossbites are treatable alignment problems affecting how your teeth meet; early treatment during childhood growth is most efficient, while adult treatment can also achieve excellent results with braces and sometimes jaw surgery. Talk to your orthodontist about the best approach for your specific crossbite.
+
+## Related Articles
 
 - [Benefits of Invisible Braces Benefits](/article/benefits-of-invisible-braces-benefits.html)
 - [Wire Sequence Progression of Wires](/article/wire-sequence-progression-of-wires.html)
 - [Why Braces Food Restrictions Matters](/article/why-braces-food-restrictions-matters.html)
 
-> **Key Takeaway:** Crossbites are treatable alignment problems affecting how your teeth meet; early treatment during childhood growth is most efficient, while adult treatment can also achieve excellent results with braces and sometimes jaw surgery. Talk to your orthodontist about the best approach for your specific crossbite.

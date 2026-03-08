@@ -35,7 +35,9 @@ Your cavity risk depends on several factors—some you can control and some you 
 
 ## How Sugar and Diet Affect Your Cavity Risk
 
-The most important thing you can control is how often you eat sugary foods and drinks. When sugar hits your teeth, bacteria immediately start producing acid—within 2-5 minutes. This acid weakens your tooth enamel. Here's what research shows: if you have 10 sugary snacks daily, you'll almost certainly get cavities. With 5 daily snacks, you have a 50-70% chance. With just 1-2 daily, your cavity risk drops below 10%.
+The most important thing you can control is how often you eat sugary foods and drinks. When sugar hits your teeth, bacteria immediately start producing acid—within 2-5 minutes. This acid weakens your tooth enamel.
+
+Here's what research shows: if you have 10 sugary snacks daily, you'll almost certainly get cavities. With 5 daily snacks, you have a 50-70% chance. With just 1-2 daily, your cavity risk drops below 10%.
 
 What matters most is how many times per day you eat sugar, not the total amount. For example, eating 50 grams of sugar at two meals (breakfast and lunch) gives you much less cavity risk than eating 20 grams spread across 10 snacks.
 
@@ -79,11 +81,11 @@ Here's an honest fact: people often report better brushing habits than they actu
 
 Your living situation also affects cavity risk. People with lower incomes tend to have more cavities for several reasons: less access to preventive dental care, limited knowledge about cavity prevention, eating more sugary foods because they're inexpensive, and sometimes living in areas without fluoridated water. Fluoride in water prevents 25-30% of cavities in fluoridated communities. If you don't have access to fluoridated water, you'll need more help from your dentist to prevent cavities.
 
-You might also benefit from [best-practices-for-fluoride-benefits](/article/best-practices-for-fluoride-benefits.html) to learn about fluoride options.
+You might also benefit from [Best-practices-for-fluoride-benefits](/article/best-practices-for-fluoride-benefits.html) to learn about fluoride options.
 
 ## How Health Conditions and Medicines Affect Cavity Risk
 
-If you have diabetes, your cavity risk goes up 2-3 times, especially if it's not well controlled. High blood sugar makes cavity bacteria grow faster because they have more sugar to feed on. Diabetes also changes your saliva composition—it becomes less able to fight bacteria. Keep your diabetes well controlled, and you'll help protect your teeth. Learn more about prevention strategies by reading about [cost-of-fluoride-benefits](/article/cost-of-fluoride-benefits.html).
+If you have diabetes, your cavity risk goes up 2-3 times, especially if it's not well controlled. High blood sugar makes cavity bacteria grow faster because they have more sugar to feed on. Diabetes also changes your saliva composition—it becomes less able to fight bacteria. Keep your diabetes well controlled, and you'll help protect your teeth. Learn more about prevention strategies by reading about [Cost-of-fluoride-benefits](/article/cost-of-fluoride-benefits.html).
 
 Many common medications increase cavity risk by causing dry mouth. These include certain antidepressants, allergy medications, high blood pressure pills, and pain relievers. If you take any of these, talk to your dentist—they can recommend extra protective measures like more frequent cleanings or stronger fluoride treatments.
 
@@ -99,7 +101,7 @@ Teenagers (ages 12-18) face a tricky time. Their permanent teeth are still comin
 
 Adults (ages 18-65) usually have stable cavity risk unless lifestyle changes. However, after age 40, cavity risk increases again, especially on exposed root surfaces where gums have receded.
 
-Seniors (age 65+) face 3-5 times higher cavity risk, especially on root surfaces. This happens because of gum recession, reduced saliva flow, multiple medications that cause dry mouth, and sometimes difficulty brushing due to arthritis or other conditions. However, understand [risk-and-concerns-with-preventive-treatments](/article/risk-and-concerns-with-preventive-treatments.html) before starting prevention strategies.
+Seniors (age 65+) face 3-5 times higher cavity risk, especially on root surfaces. This happens because of gum recession, reduced saliva flow, multiple medications that cause dry mouth, and sometimes difficulty brushing due to arthritis or other conditions. However, understand [Risk-and-concerns-with-preventive-treatments](/article/risk-and-concerns-with-preventive-treatments.html) before starting prevention strategies.
 
 ## Understanding Your Personal Cavity Risk Level
 
@@ -117,12 +119,13 @@ Based on this assessment, you'll fall into one of three risk categories:
 
 Your cavity risk comes from a mix of factors you can control and factors you can't. While you can't change your genes or some health conditions, you can make a big difference by controlling your sugar intake, maintaining excellent brushing and flossing habits, and working with your dentist on a prevention plan suited to your risk level. The most important changes you can make are reducing how often you eat sugar and improving your daily oral hygiene routine.
 
-## Key Takeaway
-
-Cavity risk is personal and varies from person to person based on diet, saliva quality, bacteria in your mouth, genetics, health conditions, and lifestyle habits. The most controllable factors are limiting sugary snacks and drinks and maintaining excellent daily brushing and flossing. Your dentist can test your individual risk level and recommend a prevention plan designed just for you. Even if you have genetic or health factors that increase cavity risk, you can still prevent cavities with the right preventive strategies.
+> **Key Takeaway:** Cavity risk is personal and varies from person to person based on diet, saliva quality, bacteria in your mouth, genetics, health conditions, and lifestyle habits. The most controllable factors are limiting sugary snacks and drinks and maintaining excellent daily brushing and flossing. Your dentist can test your individual risk level and recommend a prevention plan designed just for you. Even if you have genetic or health factors that increase cavity risk, you can still prevent cavities with the right preventive strategies.
 
 ## Related Articles
 
-- [Best Practices for Fluoride Benefits](/article/best-practices-for-fluoride-benefits.html)
-- [Cost of Fluoride Benefits](/article/cost-of-fluoride-benefits.html)
-- [Risk and Concerns with Preventive Treatments](/article/risk-and-concerns-with-preventive-treatments.html)
+- [Evidenced-Based Tooth Brushing Technique and Oral](/article/best-practices-for-teeth-brushing-technique.html)
+- [Flossing Benefits: What You Need to Know](/article/flossing-benefits-what-you-need-to-know.html)
+- [Caries Risk Assessment and Key Vulnerability Factors:](/article/timeline-for-cavity-risk-factors.html)
+- [Gum Disease Prevention: A Complete Patient Guide](/article/benefits-of-gum-disease-prevention.html)
+- [Home Care Between Dental Visits: Extended Schedule](/article/home-care-between-dental-visits-extended-schedule.html)
+

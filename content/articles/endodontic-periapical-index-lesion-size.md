@@ -27,7 +27,7 @@ When you have a tooth infection at its root tip, your dentist uses X-rays to see
 
 When a tooth's nerve dies and bacteria take over, your body's immune system fights back by resorbing (dissolving) the bone around the infected root tip. On X-rays, this appears as a darker area (radiolucency) around the root tip.
 
-Small infections show minimal bone loss. Learning more about [root canal therapy complete pulp removal](/article/root-canal-therapy-complete-pulp-removal.html) can help you understand this better. Large infections show extensive bone destruction. The size of the dark area on X-rays correlates somewhat with infection severity, though surprisingly, tooth pain doesn't always correlate with size—a large silent infection might cause no symptoms, while a smaller but acute infection causes severe pain.
+Small infections show minimal bone loss. Learning more about [Root Canal Therapy Complete Pulp Removal](/article/root-canal-therapy-complete-pulp-removal.html) can help you understand this better. Large infections show extensive bone destruction. The size of the dark area on X-rays correlates somewhat with infection severity, though surprisingly, tooth pain doesn't always correlate with size—a large silent infection might cause no symptoms, while a smaller but acute infection causes severe pain.
 
 ## Classification Systems Your Dentist Uses
 
@@ -82,7 +82,7 @@ The trade-off: CBCT delivers higher radiation doses than standard X-rays (about 
 
 After root canal treatment, your dentist monitors whether the infection resolves:
 
-**Healing timeline**: Most small lesions show radiographic evidence of healing within 6-12 months. Learning more about [nickel titanium files modern material](/article/nickel-titanium-files-modern-material.html) can help you understand this better. Moderate lesions might take 12-24 months. Large lesions can take 2-4 years for complete healing.
+**Healing timeline**: Most small lesions show radiographic evidence of healing within 6-12 months. Learning more about [Nickel Titanium Files Modern Material](/article/nickel-titanium-files-modern-material.html) can help you understand this better. Moderate lesions might take 12-24 months. Large lesions can take 2-4 years for complete healing.
 
 **What healing looks like on X-rays**: The dark area becomes gradually less distinct (margins blur), bone density increases within the lesion area, and the lesion progressively shrinks.
 
@@ -128,12 +128,13 @@ Most patients experience no symptoms once the acute infection resolves and root 
 
 Understanding how your dentist assesses and monitors periapical lesions helps you understand your treatment progress. Lesion size influences healing timeline and prognosis but doesn't necessarily indicate treatment urgency. Most lesions heal completely within 1-4 years after successful root canal treatment. Regular follow-up X-rays document healing progress and provide reassurance that treatment is working. Talk to your dentist about which options are right for your specific situation.
 
+> **Key Takeaway:** Evidence-based periapical lesion assessment and classification systems for endodontic treatment planning and outcome evaluation.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Root Canal Therapy: Complete Pulp Removal](/article/root-canal-therapy-complete-pulp-removal.html)
-- [Nickel Titanium Files: Modern Material](/article/nickel-titanium-files-modern-material.html)
 - [Perforated Pulp Chamber: Root Canal Emergency](/article/perforated-pulp-chamber-root-canal-emergency.html)
+- [Intentional Replantation: Saving Your Extracted Tooth](/article/intentional-replantation-re-implanting-extracted-tooth.html)
+- [Root Canal Length: Why Dentists Measure Twice Before](/article/working-length-determination-apex-location.html)
+- [Root Canal Aftercare, Pain Management and Recovery](/article/root-canal-aftercare-pain-management-and-recovery.html)
+- [Rotary NiTi Files - Motorized Instrumentation and](/article/rotary-files-motorized-instrumentation.html)
 
-> **Key Takeaway:** Lesion size on X-rays affects healing timeline and prognosis, but most infections heal completely with proper root canal treatment. Small lesions heal faster (6-12 months), while large lesions can take 2-4 years. Follow-up X-rays track your healing progress. Talk to your dentist about which options are right for your specific situation.

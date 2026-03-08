@@ -43,7 +43,7 @@ Gum disease happens when harmful bacteria build up in pockets below your gumline
 
 It reaches bacteria that mechanical cleaning alone can't eliminate. It kills a wide range of bacteria that cause gum disease. It continues working for hours after your appointment, protecting your gums even after you leave the office. Combined with your deep cleaning, this two-pronged approach—mechanical removal plus chemical killing—works better than either treatment alone.
 
-Learn more about [antimicrobial agents used in gum disease treatment](/article/chemical-plaque-control-antimicrobial-agents.html) and discover why [chlorhexidine is considered a gold standard](/article/chlorhexidine-gold-standard-antimicrobial.html) for this purpose.
+Learn more about [Antimicrobial Agents Used in Gum Disease Treatment](/article/chemical-plaque-control-antimicrobial-agents.html) and discover why [Chlorhexidine is Considered a Gold Standard](/article/chlorhexidine-gold-standard-antimicrobial.html) for this purpose.
 
 ## Who Benefits Most from Chlorhexidine Irrigation
 
@@ -85,7 +85,7 @@ Make sure your dentist knows if you've had allergic reactions to chlorhexidine b
 
 Calculus (hardened plaque) below your gumline is a major cause of gum disease, but chlorhexidine irrigation alone won't solve this problem. That's why it's always paired with scaling and root planing, which physically removes the calculus. Chlorhexidine then handles the bacteria that the mechanical cleaning can't reach.
 
-For more details, learn about [how calculus forms and why it matters](/article/calculus-subgingival-below-gum-buildup.html).
+For more details, learn about [How Calculus Forms and Why It Matters](/article/calculus-subgingival-below-gum-buildup.html).
 
 ## When Antibiotics Might Be Needed Instead
 
@@ -101,8 +101,6 @@ After chlorhexidine irrigation, you'll need regular dental visits to monitor you
 
 Most people benefit from visits every 3-4 months after treatment to stay on top of their gum health.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about chlorhexidine irrigation antimicrobial solution and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -111,10 +109,13 @@ When you visit your dentist, ask about chlorhexidine irrigation antimicrobial so
 
 Chlorhexidine irrigation is a proven, safe way to fight gum disease in the hard-to-reach pockets below your gumline. Combined with your good home care, it gives you the best chance of controlling gum disease and keeping your teeth.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** If your dentist has recommended chlorhexidine irrigation for your gum disease, you might be wondering what it is and how it helps.
 
-- [Chemical Plaque Control and Antimicrobial Agents](/article/chemical-plaque-control-antimicrobial-agents.html)
-- [Why Chlorhexidine Is the Gold Standard for Antimicrobial Treatment](/article/chlorhexidine-gold-standard-antimicrobial.html)
-- [Understanding Calculus: Subgingival Buildup Below Your Gumline](/article/calculus-subgingival-below-gum-buildup.html)
+## Related Articles
 
-> **Key Takeaway:** Chlorhexidine irrigation reaches bacteria that brushing can't, making it a helpful addition to deep cleaning for moderate gum disease. Talk to your dentist about whether this treatment is right for your situation.
+- [How Doctors Detect Gum Disease Early](/article/inflammation-markers-detecting-disease.html)
+- [Scaling Technique Instrumentation Methods](/article/scaling-technique-instrumentation-methods.html)
+- [SARS-CoV-2 and Periodontal Disease: Epidemiological](/article/coronavirus-and-periodontal-health-recent-research.html)
+- [Gum Surgery to Reshape Bone](/article/osseous-surgery-bone-contouring-for-health.html)
+- [Host Response to Bacteria: Why Some Have Disease](/article/host-response-to-bacteria-why-some-have-disease.html)
+

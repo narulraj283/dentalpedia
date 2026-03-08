@@ -81,12 +81,15 @@ Doxycycline can be a powerful tool for fighting serious gum disease, especially 
 
 Remember that doxycycline works best as part of a complete plan that includes professional cleaning, excellent home care, and controlling other health problems like diabetes. Your dentist can help you decide if doxycycline is right for you and monitor how well it's working.
 
-To understand your gum disease better, learn about [periodontal disease and how to prevent tooth loss](/article/periodontal-disease-and-tooth-loss-prevention.html). It's also helpful to know [the timeline for how gum disease progresses](/article/timeline-for-gum-disease-stages.html) so you can catch problems early. Understanding [your periodontal ligament and how teeth are attached](/article/periodontal-ligament-tooth-attachment-system.html) helps you appreciate why gum disease is so serious.
+To understand your gum disease better, learn about [Periodontal Disease and How to Prevent Tooth Loss](/article/periodontal-disease-and-tooth-loss-prevention.html). It's also helpful to know [The Timeline for How Gum Disease Progresses](/article/timeline-for-gum-disease-stages.html) so you can catch problems early. Understanding [Your Periodontal Ligament and How Teeth Are Attached](/article/periodontal-ligament-tooth-attachment-system.html) helps you appreciate why gum disease is so serious.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Low-dose doxycycline provides adjunctive antimicrobial and anti-inflammatory benefits in periodontal disease management.
 
-- [Understanding Gum Disease: Stages, Symptoms, and How to Prevent It](/article/periodontal-disease-and-tooth-loss-prevention.html)
+## Related Articles
+
 - [What Is Gum Disease and Why It Matters for Your Health](/article/stress-and-periodontitis-immunosuppression.html)
-- [Stress and Your Gums: Why Stress Makes Gum Disease Worse](/article/timeline-for-gum-disease-stages.html)
+- [Smoking and Gum Disease - Why Quitting Matters](/article/smoking-and-gum-disease-why-quitting-matters.html)
+- [Periodontal Disease Diagnosis Tests and Measurements](/article/periodontal-disease-diagnosis-tests-and-measurements.html)
+- [Risk and Concerns with Gum Disease Prevention](/article/risk-and-concerns-with-gum-disease-prevention.html)
+- [Apically Positioned Flap Surgery](/article/apically-positioned-flap-creating-shallow-pockets.html)
 
-> **Key Takeaway:** Doxycycline is an antibiotic that helps fight gum disease by killing bacteria and blocking the inflammation process. The low-dose form (20 mg daily for 3-6 months) is safe long-term and works especially well for aggressive gum disease. Talk to your dentist about whether doxycycline could be part of your treatment plan.

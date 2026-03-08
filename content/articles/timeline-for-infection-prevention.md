@@ -51,7 +51,7 @@ During your appointment, your dentist wears multiple layers of protection: exami
 
 ## Keeping the Operatory Clean
 
-Every surface in the dental chair area that gets touched—the operator stool, tray tables, light handles, and even computer keyboards—gets disinfected between patients. Your dentist uses EPA-approved disinfectants that kill bloodborne pathogens. These products usually need to sit on the surface for about 10 minutes to work properly. Your dentist doesn't just spray and wipe; they apply the disinfectant, let it contact the surface for the right amount of time, then wipe it away. Learn more about [how dental procedure planning matters](/article/why-dental-procedure-planning-matters.html) to understand how infection control fits into your overall treatment timeline.
+Every surface in the dental chair area that gets touched—the operator stool, tray tables, light handles, and even computer keyboards—gets disinfected between patients. Your dentist uses EPA-approved disinfectants that kill bloodborne pathogens. These products usually need to sit on the surface for about 10 minutes to work properly. Your dentist doesn't just spray and wipe; they apply the disinfectant, let it contact the surface for the right amount of time, then wipe it away. Learn more about [How Dental Procedure Planning Matters](/article/why-dental-procedure-planning-matters.html) to understand how infection control fits into your overall treatment timeline.
 
 ## Dental Waterlines and Equipment
 
@@ -63,7 +63,7 @@ Your dentist's handpiece (the little drill-like tool) gets special attention bec
 
 Needles and sharp instruments go directly into special sharps containers positioned right at your chair. Your dentist never leaves these lying on the tray where they could accidentally get stuck. When the container gets three-quarters full, it's sealed, labeled, and disposed of according to strict regulations.
 
-If your dentist accidentally gets stuck with a needle, there are protocols to follow. They immediately wash the area, and if it might have been exposed to bloodborne pathogens, they seek medical attention. Depending on the situation, they might need preventive medication or follow-up testing. As mentioned in [benefits of bad breath elimination](/article/benefits-of-bad-breath-elimination.html), a clean mouth is part of overall oral health.
+If your dentist accidentally gets stuck with a needle, there are protocols to follow. They immediately wash the area, and if it might have been exposed to bloodborne pathogens, they seek medical attention. Depending on the situation, they might need preventive medication or follow-up testing. As mentioned in [Benefits of Bad Breath Elimination](/article/benefits-of-bad-breath-elimination.html), a clean mouth is part of overall oral health.
 
 ## Before Your Appointment
 
@@ -79,13 +79,11 @@ When you visit your dentist to discuss timeline for infection prevention, having
 
 It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
 
 During any procedure, your comfort is a top priority. Your dental team will make sure you understand what is happening and check in with you regularly. Modern dental techniques and anesthesia options mean that most patients experience minimal discomfort during and after treatment. If you feel anxious about any part of the process, let your dentist know so they can adjust their approach to help you feel more at ease.
-
 
 ## Tips for Long-Term Success
 
@@ -93,17 +91,16 @@ Maintaining good results after dental treatment requires consistent care at home
 
 Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
 
-
 ## Conclusion
 
 Every time you visit the dentist, there's an invisible network of infection control measures working to keep you safe. From sterilizing instruments to hand washing to disinfecting surfaces, your dentist follows strict protocols that prevent disease transmission. These measures protect you from infection and are essential to maintaining your long-term dental health.
 
-## Key Takeaway
-
-Your dental office's infection control practices are designed to eliminate bacteria and viruses at every step, from instrument sterilization to surface disinfection, ensuring you receive safe and clean care every visit.
+> **Key Takeaway:** Your dental office's infection control practices are designed to eliminate bacteria and viruses at every step, from instrument sterilization to surface disinfection, ensuring you receive safe and clean care every visit.
 
 ## Related Articles
 
 - [Crown Longevity: Expected Lifespan of Dental Crowns](/article/crown-longevity-expected-lifespan.html)
-- [Benefits of Bad Breath Elimination](/article/benefits-of-bad-breath-elimination.html)
-- [Why Dental Procedure Planning Matters](/article/why-dental-procedure-planning-matters.html)
+
+- [Dental Examinations Explained](/article/dental-examination-types-what-you-need-to-know.html)
+- [Risk and Concerns with Infection Prevention](/article/risk-and-concerns-with-infection-prevention.html)
+

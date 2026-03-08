@@ -115,7 +115,7 @@ Your surgeon typically uses 4-5 stitches to carefully bring the gum edges togeth
 
 Most dentists use absorbable stitches that dissolve naturally within 3-5 weeks—you don't need them removed. Some surgeons prefer non-absorbable stitches that you'd return to have removed at 7-10 days. Both work well.
 
-In the extraction socket (the hole where your tooth was), your surgeon may place a special material that promotes clotting and healing. This material dissolves within 2-4 weeks and reduces the risk of a painful complication called "dry socket" by about 20%. If you're having an implant placed later, your surgeon may add bone-building material at the same time. Learn more about [surgical-drainage-abscess-treatment](/article/surgical-drainage-abscess-treatment.html).
+In the extraction socket (the hole where your tooth was), your surgeon may place a special material that promotes clotting and healing. This material dissolves within 2-4 weeks and reduces the risk of a painful complication called "dry socket" by about 20%. If you're having an implant placed later, your surgeon may add bone-building material at the same time. Learn more about [Surgical-drainage-abscess-treatment](/article/surgical-drainage-abscess-treatment.html).
 
 ## Protecting Your Nerves and Blood Vessels
 
@@ -137,19 +137,23 @@ Start gentle salt-water rinses 24-48 hours after surgery. Use warm salt water fo
 
 Eat soft foods and avoid anything hot, hard, or crunchy for at least a week. Avoid strenuous activity, heavy exercise, and anything that raises your blood pressure.
 
-**Dry socket** is a painful complication where the blood clot comes out of the socket, affecting 5% of routine extractions and up to 20% of complex surgical extractions. Risk factors include smoking, poor hygiene, and rough handling. Your surgeon helps prevent this with careful closure and healing-promoting materials. If you develop severe pain after a few days, contact your surgeon—dry socket is treatable with special rinses and medicated dressings. Learn about [timeline-for-recovery-after-extraction](/article/timeline-for-recovery-after-extraction.html) for detailed healing information.
+**Dry socket** is a painful complication where the blood clot comes out of the socket, affecting 5% of routine extractions and up to 20% of complex surgical extractions. Risk factors include smoking, poor hygiene, and rough handling. Your surgeon helps prevent this with careful closure and healing-promoting materials. If you develop severe pain after a few days, contact your surgeon—dry socket is treatable with special rinses and medicated dressings. Learn about [Timeline-for-recovery-after-extraction](/article/timeline-for-recovery-after-extraction.html) for detailed healing information.
+
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
-Complex tooth extraction requires expert surgical planning and execution. Your surgeon assesses your tooth with 3D imaging, classifies its complexity, and plans the surgical approach. They may remove bone and cut the tooth into pieces to minimize trauma. Careful technique protects nerves and blood vessels. After surgery, careful home care speeds healing and prevents complications. With proper surgical care and post-operative management, even complex extractions heal well.
+Complex tooth extraction requires expert surgical planning and execution. Your surgeon assesses your tooth with 3D imaging, classifies its complexity, and plans the surgical approach. They may remove bone and cut the tooth into pieces to minimize trauma.
 
-## Key Takeaway
+Careful technique protects nerves and blood vessels. After surgery, careful home care speeds healing and prevents complications. With proper surgical care and post-operative management, even complex extractions heal well.
 
-Complex extractions involve teeth buried under bone or in difficult positions. Your surgeon uses 3D imaging to plan exactly how to remove your tooth safely. They may remove bone and cut the tooth apart to minimize trauma to surrounding tissues and nerves. Stitches close the incision to promote optimal healing. Following post-operative instructions carefully—managing swelling with ice, taking anti-inflammatory medication, eating soft foods, and avoiding strenuous activity—helps you heal faster and prevents complications.
+> **Key Takeaway:** Complex extractions involve teeth buried under bone or in difficult positions. Your surgeon uses 3D imaging to plan exactly how to remove your tooth safely. They may remove bone and cut the tooth apart to minimize trauma to surrounding tissues and nerves. Stitches close the incision to promote optimal healing. Following post-operative instructions carefully—managing swelling with ice, taking anti-inflammatory medication, eating soft foods, and avoiding strenuous activity—helps you heal faster and prevents complications.
 
 ## Related Articles
 
-- [Surgical Drainage Abscess Treatment](/article/surgical-drainage-abscess-treatment.html)
-- [Timeline for Recovery After Extraction](/article/timeline-for-recovery-after-extraction.html)
 - [Suture Removal Timing and Procedure](/article/suture-removal-timing-and-procedure.html)
+- [Why Surgical Complications Matters](/article/why-surgical-complications-matters.html)
+- [Oral Surgical Technique Principles: Evidence-Based](/article/timeline-for-surgical-technique-overview.html)
+- [Tooth Extraction Recovery - What You Need to Know](/article/tooth-extraction-recovery-what-you-need-to-know.html)
+- [Anesthesia Types](/article/anesthesia-types-complete-guide.html)
 

@@ -45,7 +45,7 @@ Standard toothpaste contains 1000-1500 parts per million (ppm) of fluoride. This
 
 Toothpaste manufacturers know you're willing to pay more for something you believe is "better" or more "natural." Adding minerals to toothpaste allows them to charge premium prices and market products as advanced or scientifically enhanced. It feels like progress. Calcium, phosphate, nano-hydroxyapatite, arginine, and other minerals sound sophisticated.
 
-The problem: these additions provide minimal or no additional cavity protection beyond fluoride. Learning more about [risk and concerns with flossing benefits](/article/risk-and-concerns-with-flossing-benefits.html) can help you understand this better. When researchers compare mineral-enhanced toothpastes to regular fluoride toothpaste in real-world use, the differences disappear or become so small they don't matter clinically. You might prevent an extra cavity or two over your lifetime, if anything.
+The problem: these additions provide minimal or no additional cavity protection beyond fluoride. Learning more about [Risk and Concerns with Flossing Benefits](/article/risk-and-concerns-with-flossing-benefits.html) can help you understand this better. When researchers compare mineral-enhanced toothpastes to regular fluoride toothpaste in real-world use, the differences disappear or become so small they don't matter clinically. You might prevent an extra cavity or two over your lifetime, if anything.
 
 ## Calcium and Phosphate Additions
 
@@ -73,7 +73,7 @@ Arginine might be reasonable if you have both sensitivity and cavity concerns, b
 
 ## The Zinc and Strontium Story
 
-Some manufacturers add zinc and strontium, claiming antimicrobial or strengthening properties. Learning more about [risk and concerns with oral health habits](/article/risk-and-concerns-with-oral-health-habits.html) can help you understand this better. While these elements have theoretical benefits, their concentrations in toothpaste are too low for meaningful antimicrobial action. Clinical studies consistently show toothpastes containing zinc or strontium provide no superior cavity prevention or periodontal benefits compared to standard fluoride formulations.
+Some manufacturers add zinc and strontium, claiming antimicrobial or strengthening properties. Learning more about [Risk and Concerns with Oral Health Habits](/article/risk-and-concerns-with-oral-health-habits.html) can help you understand this better. While these elements have theoretical benefits, their concentrations in toothpaste are too low for meaningful antimicrobial action. Clinical studies consistently show toothpastes containing zinc or strontium provide no superior cavity prevention or periodontal benefits compared to standard fluoride formulations.
 
 These minerals appear in formulations primarily for marketing differentiation, not because evidence supports their effectiveness. You're essentially paying for a label claim without demonstrated benefit.
 
@@ -111,8 +111,10 @@ Your teeth are simple organisms with simple needs: fluoride, mechanical cleaning
 
 > **Key Takeaway:** Standard fluoride toothpaste (1000-1500 ppm) prevents cavities just as effectively as expensive mineral-enhanced formulations for the average person. Specialty minerals provide marginal or unproven benefits that don't justify double or triple the price. Save your money and focus on consistent use of affordable fluoride toothpaste with good brushing technique.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Risk and Concerns with Flossing Benefits](/article/risk-and-concerns-with-flossing-benefits.html)
-- [Oral Health Habits: What Really Matters](/article/risk-and-concerns-with-oral-health-habits.html)
 - [Timeline for Tartar Prevention](/article/timeline-for-tartar-prevention.html)
+
+- [Picking the Right Toothbrush: Manual vs. Electric and](/article/timeline-for-toothbrush-selection.html)
+- [Cost of Oral Health Habits](/article/cost-of-oral-health-habits.html)
+

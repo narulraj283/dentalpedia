@@ -71,7 +71,7 @@ When your sample contains multiple pieces, your dentist carefully documents whic
 
 The form that accompanies your biopsy is like a detailed instruction manual for the pathologist. Your dentist includes your complete medical history, current medications, any conditions affecting your immune system, and the clinical impression of what the problem might be. This context helps the pathologist focus the microscopic examination and decide if special stains or additional tests would be helpful.
 
-Your dentist describes exactly where in your mouth the biopsy came from (not just "mouth" but "right cheek, back area near the lower molars"). They describe what the lesion looked like—its color, texture, whether it was flat or raised, painful or painless. All these details help the pathologist interpret what they see under the microscope and reach the most accurate diagnosis possible. [If your dentist suspects the sample might need special testing, they note this on the form](/article/benefits-of-surgical-success-rates.html) so the lab can handle the tissue appropriately.
+Your dentist describes exactly where in your mouth the biopsy came from (not just "mouth" but "right cheek, back area near the lower molars"). They describe what the lesion looked like—its color, texture, whether it was flat or raised, painful or painless. All these details help the pathologist interpret what they see under the microscope and reach the most accurate diagnosis possible. [If your dentist suspects the sample might need special](/article/benefits-of-surgical-success-rates.html) so the lab can handle the tissue appropriately.
 
 ## Protecting Your Sample During Transport
 
@@ -83,7 +83,7 @@ The container travels at room temperature. Refrigerating your sample isn't neces
 
 Once the pathology laboratory receives your sample, trained technicians document exactly what they see (size, color, texture, consistency), then carefully prepare your tissue for microscopic examination. The tissue is sliced into thin sections, embedded in paraffin (similar to wax), and mounted on glass slides. A pathologist—a doctor specially trained in examining tissue—then looks at your sample under a microscope.
 
-[The pathologist sends your results back to your dentist along with a detailed report.](/article/timeline-for-bleeding-control.html) This report confirms that the tissue examined is definitely yours and identifies what your dentist found. Your dentist carefully reviews this report to ensure it matches what they biopsied and makes sure the diagnosis makes sense before discussing results with you.
+[The pathologist sends your results back to your](/article/timeline-for-bleeding-control.html) This report confirms that the tissue examined is definitely yours and identifies what your dentist found. Your dentist carefully reviews this report to ensure it matches what they biopsied and makes sure the diagnosis makes sense before discussing results with you.
 
 ## Common Mistakes That Can Affect Your Diagnosis
 
@@ -99,12 +99,11 @@ Sometimes your dentist suspects you might need special testing beyond routine ex
 
 Your biopsy sample's journey from your mouth to a diagnosis is carefully orchestrated to ensure accuracy and reliability. Every step—from immediate labeling to proper preservation in formalin, from detailed documentation to careful transport and verification in the laboratory—serves one goal: getting you an accurate diagnosis so your dentist can recommend the best treatment for your condition. When your dentist follows these protocols carefully, you can be confident that your diagnosis is based on proper handling of your tissue and expert pathologic examination. Understanding these procedures helps you appreciate the care that goes into getting you the answers you need.
 
-## Key Takeaway
-
-A biopsy's success depends on meticulous handling from collection through laboratory examination. Proper labeling, preservation, documentation, and transport ensure your tissue reaches the pathologist in perfect condition for accurate diagnosis.
+> **Key Takeaway:** A biopsy's success depends on meticulous handling from collection through laboratory examination. Proper labeling, preservation, documentation, and transport ensure your tissue reaches the pathologist in perfect condition for accurate diagnosis.
 
 ## Related Articles
 
 - [Impacted Teeth Removal: Canines, Molars, and Premolars](/article/impacted-teeth-removal-canines-molars-and-premolars.html)
 - [Cost of Anesthesia Options](/article/cost-of-anesthesia-options.html)
-- [Timeline for Bleeding Control](/article/timeline-for-bleeding-control.html)
+- [Managing Pain After Dental Surgery](/article/how-to-pain-management-surgery.html)
+

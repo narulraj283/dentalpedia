@@ -23,19 +23,27 @@ references:
 
 ## Understanding Surgical Risk: What's Realistic
 
-Most dental surgery goes smoothly. But complications happen occasionally, and knowing what could happen—and what to do if it does—helps you make informed decisions and respond appropriately. Simple tooth extraction has about 1 to 5% complication rate. Surgical extractions (like impacted wisdom teeth) have 10 to 20% complication rate. Implant placement has 5 to 10% complication rate. Orthognathic surgery (correcting jaw structure) has 10 to 20% complication rate. Most complications are minor (normal swelling, expected pain, temporary sensitivity). Serious complications are rare but possible. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+Most dental surgery goes smoothly. But complications happen occasionally, and knowing what could happen—and what to do if it does—helps you make informed decisions and respond appropriately. Simple tooth extraction has about 1 to 5% complication rate. Surgical extractions (like impacted wisdom teeth) have 10 to 20% complication rate.
+
+Implant placement has 5 to 10% complication rate. Orthognathic surgery (correcting jaw structure) has 10 to 20% complication rate. Most complications are minor (normal swelling, expected pain, temporary sensitivity). Serious complications are rare but possible. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
 ## Immediate Complications During Surgery
 
-Bleeding during surgery is normal and expected. Your dentist stops it before surgery ends through pressure, cautery (burning blood vessels closed), or sutures. Excessive bleeding requiring blood transfusion is rare but possible. Root or tooth fracture occasionally happens—small fragments left behind usually don't cause problems, but larger fragments might need removal. Tooth displacement into the sinuses or other spaces is very rare but requires surgical removal if it happens. Jaw fracture during extraction is extremely rare but serious. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
+Bleeding during surgery is normal and expected. Your dentist stops it before surgery ends through pressure, cautery (burning blood vessels closed), or sutures. Excessive bleeding requiring blood transfusion is rare but possible.
+
+Root or tooth fracture occasionally happens—small fragments left behind usually don't cause problems, but larger fragments might need removal. Tooth displacement into the sinuses or other spaces is very rare but requires surgical removal if it happens. Jaw fracture during extraction is extremely rare but serious. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
 ## Complications in the First 24 Hours
 
-Bleeding sometimes resumes 6 to 24 hours after surgery (called reactionary hemorrhage). Usually it's controlled with gauze pressure and topical hemostatic agents. If bleeding persists, contact your dentist—you might need sutures or cautery in the office or operating room. Severe facial swelling that affects breathing or swallowing is rare but requires emergency evaluation. Signs include high-pitched breathing (stridor), severe difficulty breathing, or excessive drooling. Call 911 immediately if you suspect airway compromise.
+Bleeding sometimes resumes 6 to 24 hours after surgery (called reactionary hemorrhage). Usually it's controlled with gauze pressure and topical hemostatic agents. If bleeding persists, contact your dentist—you might need sutures or cautery in the office or operating room.
+
+Severe facial swelling that affects breathing or swallowing is rare but requires emergency evaluation. Signs include high-pitched breathing (stridor), severe difficulty breathing, or excessive drooling. Call 911 immediately if you suspect airway compromise.
 
 ## Dry Socket: The Most Common Complication
 
-Dry socket (alveolar osteitis) affects 2 to 5% of simple extractions but 25 to 30% of wisdom tooth extractions. It develops days 3 to 5 after surgery when the blood clot is lost or dislodged. You experience sudden severe pain (often described as throbbing), see white bone visible in the socket, and smell something foul. It's intensely painful but not dangerous. Your dentist irrigates the socket, packs it with medicated dressing, and the pain usually improves within 24 to 48 hours. The condition resolves within 2 to 4 weeks with appropriate treatment.
+Dry socket (alveolar osteitis) affects 2 to 5% of simple extractions but 25 to 30% of wisdom tooth extractions. It develops days 3 to 5 after surgery when the blood clot is lost or dislodged. You experience sudden severe pain (often described as throbbing), see white bone visible in the socket, and smell something foul.
+
+It's intensely painful but not dangerous. Your dentist irrigates the socket, packs it with medicated dressing, and the pain usually improves within 24 to 48 hours. The condition resolves within 2 to 4 weeks with appropriate treatment.
 
 Preventing dry socket means following your dentist's instructions: no smoking (five times more risk if you smoke), no using straws, no vigorous rinsing, no spitting forcefully, and no touching the socket. Women taking birth control pills have increased dry socket risk. If dry socket develops despite precautions, professional treatment is the solution—home care alone won't resolve it.
 
@@ -55,7 +63,9 @@ Severe hemorrhage requiring hospitalization happens in less than 1% of surgical 
 
 ## Risk Factors That Increase Complications
 
-Smoking dramatically increases complication risk: five times more likely for dry socket, three times more likely for infection. Diabetes increases infection risk and impairs healing. Anticoagulant medications (blood thinners) increase hemorrhage risk. Bisphosphonate medications increase risk of jaw bone death (osteonecrosis) if bone is removed. Poor oral hygiene increases infection risk. Prior radiation therapy severely impairs healing. Immunosuppression increases infection risk.
+Smoking dramatically increases complication risk: five times more likely for dry socket, three times more likely for infection. Diabetes increases infection risk and impairs healing. Anticoagulant medications (blood thinners) increase hemorrhage risk.
+
+Bisphosphonate medications increase risk of jaw bone death (osteonecrosis) if bone is removed. Poor oral hygiene increases infection risk. Prior radiation therapy severely impairs healing. Immunosuppression increases infection risk.
 
 Before surgery, your dentist should discuss your medical history. Be completely honest about medications, health conditions, smoking, and habits that affect healing. This information helps your dentist plan surgery to minimize risks and watch for potential complications.
 
@@ -89,14 +99,17 @@ Before surgery, your dentist should discuss realistic complication risks specifi
 
 ## Conclusion
 
-Surgical complications in dental procedures range from expected (swelling, pain) to serious (infection, hemorrhage) to very rare (airway compromise, permanent nerve injury). Understanding complication risks, prevention strategies, and warning signs enables you to make informed decisions and respond appropriately if complications occur. Most complications are minor and resolve with standard post-operative care. Serious complications are rare but require prompt professional attention. Clear communication with your dentist, honest medical history, careful adherence to post-operative instructions, and prompt reporting of concerning symptoms minimize risk and ensure optimal outcomes. When surgery becomes necessary, being informed about potential complications and knowing how to respond ensures you recover safely and successfully.
+Surgical complications in dental procedures range from expected (swelling, pain) to serious (infection, hemorrhage) to very rare (airway compromise, permanent nerve injury). Understanding complication risks, prevention strategies, and warning signs enables you to make informed decisions and respond appropriately if complications occur. Most complications are minor and resolve with standard post-operative care.
 
-## Related Articles You May Find Helpful
+Serious complications are rare but require prompt professional attention. Clear communication with your dentist, honest medical history, careful adherence to post-operative instructions, and prompt reporting of concerning symptoms minimize risk and ensure optimal outcomes. When surgery becomes necessary, being informed about potential complications and knowing how to respond ensures you recover safely and successfully.
 
-- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
-- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+> **Key Takeaway:** Most dental surgery goes smoothly. But complications happen occasionally, and knowing what could happen—and what to do if it does—helps you make.
+
+## Related Articles
+
 - [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
-
-
-> **Key Takeaway:** Most dental surgery goes smoothly. Your dentist can help you understand what steps are right for your specific needs.
+- [Bone Grafting Essentials: Patient Guide to Surgical](/article/bone-grafting-procedure-what-you-need-to-know.html)
+- [Reducing Swelling After Oral Surgery](/article/swelling-reduction-what-you-need-to-know.html)
+- [Oral Surgical Techniques: Evidence-Based Methods and](/article/common-misconceptions-about-surgical-technique-overview.html)
+- [Alveolar Fracture: Jaw Bone Breaks and Management](/article/alveolar-fracture-jaw-bone-break.html)
 

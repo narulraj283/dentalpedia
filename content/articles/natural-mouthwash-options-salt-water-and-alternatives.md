@@ -55,7 +55,7 @@ Several herbs have been scientifically studied and show genuine antimicrobial pr
 
 ## Tea Tree Oil: Strong but Requiring Care
 
-Tea tree oil is incredibly effective against oral bacteria—sometimes as powerful as prescription mouthwash. But this power requires careful handling. Tea tree oil must be properly diluted before mouth use. Never use it undiluted; even at full strength, it damages mouth tissues. For more on this topic, see our guide on [Holistic Dentistry Philosophy Systemi...](/article/holistic-dentistry-philosophy-systemic-health.html).
+Tea tree oil is incredibly effective against oral bacteria—sometimes as powerful as prescription mouthwash. But this power requires careful handling. Tea tree oil must be properly diluted before mouth use. Never use it undiluted; even at full strength, it damages mouth tissues. For more on this topic, see our guide on [Holistic Dentistry: Philosophy and Systemic Health](/article/holistic-dentistry-philosophy-systemic-health.html).
 
 Properly diluted tea tree oil (about 1% concentration in water) reduces bacteria effectively when used twice daily. For specific infections, your dentist might recommend it. For general use, the risk of misuse is real. Always follow your dentist's dilution instructions precisely.
 
@@ -85,14 +85,6 @@ Natural mouthwashes support your health but shouldn't replace professional care.
 
 If you have gum disease or active cavities, natural mouthwashes alone won't resolve them. They work best as part of comprehensive care including proper brushing, flossing, and regular professional cleanings.
 
-## Related Articles You May Find Helpful
-
-- [Holistic Dentistry Philosophy: Systemic Health and Oral Connection](/article/holistic-dentistry-philosophy-systemic-health.html)
-- [Probiotics for Oral Health: Beneficial Bacteria Research](/article/probiotics-for-oral-health-beneficial-bacteria-research.html)
-- [Turmeric: Anti-Inflammatory Spice for Oral Health](/article/turmeric-anti-inflammatory-spice.html)
-
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about natural mouthwash options: salt water and beyond and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -100,7 +92,6 @@ When you visit your dentist, ask about natural mouthwash options: salt water and
 You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
 
 Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
 
 ## Protecting Your Results Long-Term
 
@@ -115,3 +106,11 @@ Diet also plays a role in protecting your dental health. Limiting sugary snacks 
 Natural mouthwash options like salt water and herbal rinses offer gentle, evidence-based support for your oral health. They work best for mild inflammation, gum sensitivity, or as daily maintenance for otherwise healthy mouths. They're not replacements for brushing, flossing, and professional care—but they're excellent supplements for people seeking gentler alternatives.
 
 > **Key Takeaway:** Salt water is your most reliable natural mouthwash—simple, effective, and gentle on your mouth. Herbal options like basil, oregano, and sage offer additional antimicrobial benefits when properly prepared. Natural rinses work best as supplements to brushing and flossing for healthy mouths, not as replacements for professional treatment.
+
+## Related Articles
+
+- [Can Probiotics Really Help Your Teeth? Research](/article/probiotics-for-oral-health-beneficial-bacteria-research.html)
+- [Turmeric: Anti-Inflammatory Spice for Oral Health](/article/turmeric-anti-inflammatory-spice.html)
+
+- [Povidone Iodine Iodine Based Antiseptic](/article/povidone-iodine-iodine-based-antiseptic.html)
+

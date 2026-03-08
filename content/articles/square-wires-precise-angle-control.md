@@ -1,36 +1,50 @@
 ---
-title: "Square Archwires in Orthodontics: Torque Expression and"
-slug: square-wires-precise-angle-control
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "Technical analysis of square archwire geometry, slot-wire interactions, and torque expression mechanics for precise dental root control during..."
 date: 2026-03-05
+excerpt: Technical analysis of square archwire geometry, slot-wire interactions, and
+  torque expression mechanics for precise dental root control during...
 read_time: 13 min
+references:
+- title: Burstone CJ. The mechanics of the segmented arch technique. Angle Orthod.
+    1992;62(3):223-243.
+  url: https://pubmed.ncbi.nlm.nih.gov/1416228
+- title: 'Kusy RP, Whitley JQ. Influence of archwire and bracket dimensions on sliding
+    mechanics: derivations and determinations of the critical contact angles. Eur
+    J Orthod. 1999;21(2):199-208.'
+  url: https://pubmed.ncbi.nlm.nih.gov/10227482
+- title: 'Harradine NW. Self-ligating brackets and elastomeric ligatures: An overview.
+    Angle Orthod. 2008;78(4):783-787.'
+  url: https://pubmed.ncbi.nlm.nih.gov/18004929
+- title: Sims AP, Waters NE, Birnie DJ. Archwire composition and consistency related
+    to the strength of the orthodontic bracket-archwire interface. Br J Orthod. 1994;21(2):183-190.
+  url: https://pubmed.ncbi.nlm.nih.gov/8055758
+- title: Tanne K, Sakuda M, Burstone CJ. Three-dimensional finite-element analysis
+    of labial torque in palatal root movement with deep-overbite correction. Am J
+    Orthod Dentofacial Orthop. 1991;100(4):324-331.
+  url: https://pubmed.ncbi.nlm.nih.gov/1924531
+- title: Davidovitch M, Efstathiou S, Sarne O, Joseph S, Brezniak N. Tooth movement
+    velocity in topics with low and high cortical bone density. Am J Orthod Dentofacial
+    Orthop. 2005;128(1):86-93.
+  url: https://pubmed.ncbi.nlm.nih.gov/16056206
+- title: Gjessing P. Biomechanical control of anterior tooth position in the sagittal
+    plane. Part 2. Eur J Orthod. 1992;14(4):279-290.
+  url: https://pubmed.ncbi.nlm.nih.gov/1516910
+- title: Barwart O. Dr. Peter Kesling's philosophy and treatment approach of the Straight-Wire
+    technique. J Clin Orthod. 2001;35(2):102-113.
+  url: https://pubmed.ncbi.nlm.nih.gov/11326718
+- title: 'Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics. 6th ed. St.
+    Louis: Mosby Elsevier; 2018. Chapter on archwire mechanics and torque control.'
+  url: https://pubmed.ncbi.nlm.nih.gov/29419496
+- title: Braun S, Bluestein M, Janson G, Kunkel K. Relationship between wire geometry
+    and bending stiffness. Am J Orthod Dentofacial Orthop. 1999;115(4):377-382.
+  url: https://pubmed.ncbi.nlm.nih.gov/10194282
+reviewed: true
 reviewer_specialty: Orthodontics
+slug: square-wires-precise-angle-control
 subcategory: Orthodontics
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - title: "Burstone CJ. The mechanics of the segmented arch technique. Angle Orthod. 1992;62(3):223-243."
-    url: https://pubmed.ncbi.nlm.nih.gov/1416228
-  - title: "Kusy RP, Whitley JQ. Influence of archwire and bracket dimensions on sliding mechanics: derivations and determinations of the critical contact angles. Eur J Orthod. 1999;21(2):199-208."
-    url: https://pubmed.ncbi.nlm.nih.gov/10227482
-  - title: "Harradine NW. Self-ligating brackets and elastomeric ligatures: An overview. Angle Orthod. 2008;78(4):783-787."
-    url: https://pubmed.ncbi.nlm.nih.gov/18004929
-  - title: "Sims AP, Waters NE, Birnie DJ. Archwire composition and consistency related to the strength of the orthodontic bracket-archwire interface. Br J Orthod. 1994;21(2):183-190."
-    url: https://pubmed.ncbi.nlm.nih.gov/8055758
-  - title: "Tanne K, Sakuda M, Burstone CJ. Three-dimensional finite-element analysis of labial torque in palatal root movement with deep-overbite correction. Am J Orthod Dentofacial Orthop. 1991;100(4):324-331."
-    url: https://pubmed.ncbi.nlm.nih.gov/1924531
-  - title: "Davidovitch M, Efstathiou S, Sarne O, Joseph S, Brezniak N. Tooth movement velocity in topics with low and high cortical bone density. Am J Orthod Dentofacial Orthop. 2005;128(1):86-93."
-    url: https://pubmed.ncbi.nlm.nih.gov/16056206
-  - title: "Gjessing P. Biomechanical control of anterior tooth position in the sagittal plane. Part 2. Eur J Orthod. 1992;14(4):279-290."
-    url: https://pubmed.ncbi.nlm.nih.gov/1516910
-  - title: "Barwart O. Dr. Peter Kesling's philosophy and treatment approach of the Straight-Wire technique. J Clin Orthod. 2001;35(2):102-113."
-    url: https://pubmed.ncbi.nlm.nih.gov/11326718
-  - title: "Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics. 6th ed. St. Louis: Mosby Elsevier; 2018. Chapter on archwire mechanics and torque control."
-    url: https://pubmed.ncbi.nlm.nih.gov/29419496
-  - title: "Braun S, Bluestein M, Janson G, Kunkel K. Relationship between wire geometry and bending stiffness. Am J Orthod Dentofacial Orthop. 1999;115(4):377-382."
-    url: https://pubmed.ncbi.nlm.nih.gov/10194282
+title: 'Square Archwires in Orthodontics: Torque Expression'
 ---
 
 ## The Final Straightening Tool: Square Wires in Braces
@@ -69,7 +83,7 @@ The amount of torque produced depends on the force applied and the distance betw
 
 After your orthodontist places your first square wire, tooth movement continues for 12-16 weeks typically. You'll see your orthodontist every 4-6 weeks for adjustments, force evaluation, and eventual wire removal once teeth reach their target angles. The exact timeframe depends on how many teeth need torque adjustment, how much rotation is needed, your individual bone response to orthodontic forces, and your compliance with wearing elastics and maintaining good oral hygiene.
 
-[Bracket placement and precise positioning affect how well square wires can control tooth angles.](/article/bracket-placement-exact-positioning.html) Teeth with brackets placed perfectly respond faster and more predictably to square wire forces than teeth where bracket positions were compromised. [Proper aligner wear schedule](/article/best-practices-for-aligner-wear-schedule.html) is also important during finishing if you're using combination treatment.
+[Bracket placement and precise positioning affect how](/article/bracket-placement-exact-positioning.html) Teeth with brackets placed perfectly respond faster and more predictably to square wire forces than teeth where bracket positions were compromised. [Proper aligner wear schedule](/article/best-practices-for-aligner-wear-schedule.html) is also important during finishing if you're using combination treatment.
 
 ## Potential Problems and How Orthodontists Prevent Them
 
@@ -95,16 +109,19 @@ Getting root position perfect in the finishing phase prevents relapse later—te
 
 Once your square wires are removed and treatment is complete, your teeth will naturally want to shift back toward their original positions—a process called relapse. Wearing your retainers exactly as prescribed prevents this relapse. Most orthodontists recommend wearing retainers full-time for several months after removal, then nightly indefinitely. This continued retention holds the precise tooth positions your orthodontist worked so hard to achieve.
 
+*Always consult your dentist to determine the best approach for your individual situation.*
+
 ## Conclusion
 
 Square archwires represent the definitive tool for achieving precise root position control during orthodontic finishing stages. Understanding the biomechanical principles governing square wire-bracket slot interaction, material-specific properties, and appropriate clinical timing enables you to appreciate the sophisticated final adjustments happening during your finishing phase. The investment of time in square wire finishing creates tooth positions that are esthetically optimal, functionally ideal, and maximally stable for long-term success. When finishing is done well, you retain your beautiful smile for life.
 
-## Key Takeaway
-
-Square wires in the final months of braces deliver precision adjustments to tooth root angles, creating stable, beautiful tooth positions that last when proper retention follows treatment completion.
+> **Key Takeaway:** Square wires in the final months of braces deliver precision adjustments to tooth root angles, creating stable, beautiful tooth positions that last when proper retention follows treatment completion.
 
 ## Related Articles
 
-- [Bracket Placement: Exact Positioning](/article/bracket-placement-exact-positioning.html)
 - [Cost of Bite Correction Methods](/article/cost-of-bite-correction-methods.html)
 - [Canine Positioning: Proper Cusp Tip Location](/article/canine-positioning-proper-cusp-tip-location.html)
+
+- [Clear Aligner Clinical Protocol](/article/best-practices-for-aligner-wear-schedule.html)
+- [Bracket Placement and Exact Positioning: Slot Height,](/article/bracket-placement-exact-positioning.html)
+- [Common Misconceptions About Braces Benefits](/article/common-misconceptions-about-braces-benefits.html)

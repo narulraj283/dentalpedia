@@ -18,7 +18,7 @@ Your teeth can discolor in two very different ways, and treatment depends on whi
 
 ## Surface Staining: The Easy Fix
 
-Surface staining (extrinsic discoloration) happens when colored substances stick to the outside of your teeth. Learn more about [tooth preparation cosmetic anatomy](/article/tooth-preparation-cosmetic-anatomy.html) for additional guidance. Think of it like dirt on a white wall—it's on the surface, not part of the wall itself.
+Surface staining (extrinsic discoloration) happens when colored substances stick to the outside of your teeth. Learn more about [Tooth Preparation Cosmetic Anatomy](/article/tooth-preparation-cosmetic-anatomy.html) for additional guidance. Think of it like dirt on a white wall—it's on the surface, not part of the wall itself.
 
 **Common causes:**
 
@@ -38,7 +38,7 @@ Internal discoloration (intrinsic discoloration) happens inside your tooth struc
 
 ### Tetracycline Staining
 
-If you took tetracycline antibiotics between ages 0-8 (when teeth were forming), they incorporated into your tooth structure, turning teeth yellow, gray, or blue-gray. Learn more about [timeline for cosmetic bonding](/article/timeline-for-cosmetic-bonding-process.html) for additional guidance. Sometimes this appears as horizontal bands.
+If you took tetracycline antibiotics between ages 0-8 (when teeth were forming), they incorporated into your tooth structure, turning teeth yellow, gray, or blue-gray. Learn more about [Timeline for Cosmetic Bonding](/article/timeline-for-cosmetic-bonding-process.html) for additional guidance. Sometimes this appears as horizontal bands.
 
 **Tetracycline staining is:**
 - Permanent if not treated
@@ -223,20 +223,19 @@ Sensitivity usually resolves within days of stopping bleaching.
 - Tobacco cessation helps dramatically
 - Regular cleanings prevent stain buildup
 
-
-
 ## Conclusion
 
 Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding why your teeth are changing color: causes and solutions helps you feel more confident when discussing options with your dentist and making decisions about your care.
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
+Internal discoloration may respond to professional whitening or require cosmetic restorations. Understanding the cause helps you manage expectations and choose appropriate treatments. A consultation with your dentist determines the best approach for your specific situation.
 
-Tooth discoloration ranges from simple surface stains (easily fixed) to complex internal changes (requiring professional treatment). Identifying your type of discoloration guides treatment selection. Surface stains respond beautifully to professional cleaning. Internal discoloration may respond to professional whitening or require cosmetic restorations. Understanding the cause helps you manage expectations and choose appropriate treatments. A consultation with your dentist determines the best approach for your specific situation.
+> **Key Takeaway:** Tooth discoloration ranges from simple surface stains (easily fixed) to complex internal changes (requiring professional treatment). Identifying your type of discoloration guides treatment selection. Surface stains respond beautifully to professional cleaning.
 
 ## Related Articles
 
 - [Shade Matching for Cosmetic Restorations](/article/crown-and-bridge-shade-matching-invisible-restorations.html)
 - [Smile Design: Creating Your Best Smile](/article/how-to-cosmetic-smile-design.html)
 - [Complete Guide to Smile Enhancement Options](/article/smile-enhancement-options-complete-guide.html)
+

@@ -16,7 +16,7 @@ reviewed: true
 
 A tongue-tie (ankyloglossia) is when the thin piece of skin under your baby's tongue (the frenum) is too short or too tight. Normally, this skin stretches enough to let the tongue move freely—up, down, and side-to-side. When it's too tight, the tongue can't move as much.
 
-About 1-5% of newborns have tongue-tie, making it relatively common. Learn more about [oral sedation for children](/article/oral-sedation-for-children-medication-options.html) for additional guidance. While some babies with tongue-tie have no problems at all, others experience real difficulties with feeding.
+About 1-5% of newborns have tongue-tie, making it relatively common. Learn more about [Oral Sedation for Children](/article/oral-sedation-for-children-medication-options.html) for additional guidance. While some babies with tongue-tie have no problems at all, others experience real difficulties with feeding.
 
 ## Why Tongue-Tie Matters for Breastfeeding
 
@@ -27,7 +27,7 @@ Successful breastfeeding requires the baby to:
 - Create a seal around the breast
 - Compress the breast tissue with the tongue to release milk
 
-With tongue-tie, the baby can't lift the tongue high enough. Learn more about [fluoride for children safe](/article/fluoride-for-children-safe-levels-and-dosage.html) for additional guidance. Instead of getting a good mouthful of breast, the baby mostly grabs the nipple. This shallow latch causes several problems:
+With tongue-tie, the baby can't lift the tongue high enough. Learn more about [Fluoride for Children Safe](/article/fluoride-for-children-safe-levels-and-dosage.html) for additional guidance. Instead of getting a good mouthful of breast, the baby mostly grabs the nipple. This shallow latch causes several problems:
 
 **For the mother**: Painful, cracked nipples are common. About 55-75% of mothers with tongue-tied babies experience significant pain. It's not just discomfort—some mothers stop breastfeeding because the pain is unbearable.
 
@@ -167,20 +167,18 @@ Not all providers are trained in tongue-tie release. Look for:
 
 Ask about their technique (frenotomy, frenuloplasty, or laser) and success rates. Providers who follow up within 1-2 weeks are preferable—this ensures healing is progressing well.
 
-
-
 ## Conclusion
 
 Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding tongue-tie: how to know if your baby needs help helps you feel more confident when discussing options with your dentist and making decisions about your care.
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Tongue-tie can make breastfeeding miserable for both mother and baby, but it's easily treated. Early identification and prompt release in the first weeks of life gives the best results. If breastfeeding is painful or your baby isn't gaining weight, don't suffer through it—ask for an evaluation. Most tongue-tied babies go on to breastfeed beautifully after release.
+> **Key Takeaway:** Tongue-tie can make breastfeeding miserable for both mother and baby, but it's easily treated. Early identification and prompt release in the first weeks of life gives the best results. If breastfeeding is painful or your baby isn't gaining weight, don't suffer through it—ask for an evaluation. Most tongue-tied babies go on to breastfeed beautifully after release.
 
 ## Related Articles
 
-- [Oral Sedation Options for Children](/article/oral-sedation-for-children-medication-options.html)
-- [Safe Fluoride Levels for Kids](/article/fluoride-for-children-safe-levels-and-dosage.html)
 - [Preventing Fluorosis from Toothpaste](/article/swallowing-toothpaste-children-and-fluorosis-risks.html)
+
+- [Down Syndrome: Special Oral Health Considerations](/article/down-syndrome-special-oral-health-considerations.html)
+- [Fissure Sealant Application: Child Prevention](/article/fissure-sealant-application-child-prevention.html)
+

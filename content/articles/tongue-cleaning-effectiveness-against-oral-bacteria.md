@@ -51,7 +51,7 @@ About 25-50% of people have bad breath, and 80-90% of cases originate from your 
 
 These VSCs are produced when anaerobic bacteria break down proteins and amino acids—primarily on your tongue.
 
-**Why it matters:** Tongue cleaning alone solves halitosis in 15-20% of people. Combined with [home fluoride trays and custom carriers](/article/home-fluoride-trays-custom-carrier-effectiveness.html), proper flossing, and addressing periodontal disease, it solves most halitosis cases.
+**Why it matters:** Tongue cleaning alone solves halitosis in 15-20% of people. Combined with [Home Fluoride Trays and Custom Carriers](/article/home-fluoride-trays-custom-carrier-effectiveness.html), proper flossing, and addressing periodontal disease, it solves most halitosis cases.
 
 ## How Tongue Cleaning Works
 
@@ -91,7 +91,9 @@ These VSCs are produced when anaerobic bacteria break down proteins and amino ac
 
 1. Position tongue forward and downward to visualize dorsal surface
 2. Starting at the back, gently angle your scraper posteriorly (backward)
-3. Apply gentle pressure—not aggressive scraping that damages epithelium
+3.
+
+Apply gentle pressure—not aggressive scraping that damages epithelium
 4. Use 4-8 firm strokes from posterior to anterior
 5. Rinse with water
 6. Total duration: 30-60 seconds
@@ -132,7 +134,7 @@ Absolute contraindications are essentially nonexistent. Relative caution applies
 
 ## Connecting to Broader Oral Health
 
-While tongue cleaning is valuable alone, it's most effective as part of comprehensive oral hygiene and healthy habits. Learn about [why fluoride benefits matter](/article/why-fluoride-benefits-matters.html) and [LED whitening kits and light-accelerated bleaching](/article/led-whitening-kits-light-accelerated-bleaching.html) to understand the full spectrum of oral health maintenance.
+While tongue cleaning is valuable alone, it's most effective as part of comprehensive oral hygiene and healthy habits. Learn about [Why Fluoride Benefits Matter](/article/why-fluoride-benefits-matters.html) and [LED whitening kits and light-accelerated bleaching](/article/led-whitening-kits-light-accelerated-bleaching.html) to understand the full spectrum of oral health maintenance.
 
 ## Long-Term Compliance
 
@@ -148,20 +150,19 @@ Your dentist should reinforce tongue cleaning recommendations at each visit.
 
 This affordability combined with proven efficacy makes tongue cleaning an accessible public health measure.
 
-
-
 ## Conclusion
 
 Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding tongue cleaning evidence: effectiveness against oral helps you feel more confident when discussing options with your dentist and making decisions about your care.
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Your tongue is a primary microbial reservoir producing bad breath through volatile sulfur compounds. Daily tongue cleaning reduces biofilm by 50-80% and VSCs by 40-75%, with effects persisting 12-18 hours. Tongue scraping is superior to toothbrushing alone. Combined with regular brushing and flossing, tongue cleaning is a safe, effective, economical preventive measure that should be part of everyone's oral hygiene routine—especially for halitosis, periodontal disease, and dry mouth patients. Ask your dentist to demonstrate proper technique at your next visit.
+> **Key Takeaway:** Your tongue is a primary microbial reservoir producing bad breath through volatile sulfur compounds. Daily tongue cleaning reduces biofilm by 50-80% and VSCs by 40-75%, with effects persisting 12-18 hours. Tongue scraping is superior to toothbrushing alone. Combined with regular brushing and flossing, tongue cleaning is a safe, effective, economical preventive measure that should be part of everyone's oral hygiene routine—especially for halitosis, periodontal disease, and dry mouth patients. Ask your dentist to demonstrate proper technique at your next visit.
 
 ## Related Articles
 
+- [Evidence-Based Toothbrush Selection](/article/benefits-of-toothbrush-selection.html)
+- [Tartar Control and Calculus Prevention: Mechanisms](/article/common-misconceptions-about-tartar-prevention.html)
+
 - [LED Whitening Kits: Light-Accelerated Bleaching](/article/led-whitening-kits-light-accelerated-bleaching.html)
 - [Home Fluoride Trays: Custom Carrier Effectiveness](/article/home-fluoride-trays-custom-carrier-effectiveness.html)
-- [Why Fluoride Benefits Matter](/article/why-fluoride-benefits-matters.html)
+- [Why Fluoride Benefits Matter - Remineralization,](/article/why-fluoride-benefits-matters.html)

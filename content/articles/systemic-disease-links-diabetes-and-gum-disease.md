@@ -45,7 +45,7 @@ When your blood sugar stays high for long periods, something happens inside your
 
 These AGE clumps build up especially in your gum tissues and the collagen that holds your teeth in place. The collagen becomes stiff and less flexible, making it harder for your body to repair normal wear and tear. At the same time, these damaged proteins trigger your immune system to go into overdrive, causing extra inflammation in your gums. This is why diabetics can develop aggressive gum disease even when they don't have more bacteria than non-diabetics—it's not just about the bugs; it's about your body's ability to fight them.
 
-When you're not controlling your blood sugar well, your gums face a double attack: they're weaker from the sugar damage, and your immune system is overactive trying to fight the problem. [Learn more about managing gum disease in our guide to tartar prevention](/article/tartar-prevention-what-you-need-to-know.html).
+When you're not controlling your blood sugar well, your gums face a double attack: they're weaker from the sugar damage, and your immune system is overactive trying to fight the problem. [Learn more about managing gum disease in our guide to](/article/tartar-prevention-what-you-need-to-know.html).
 
 ## Your Body's Defenders Get Weaker
 
@@ -69,7 +69,7 @@ Here's something encouraging: the treatment your dentist gives you for gum disea
 
 But if your A1C is above 8%, the same treatment won't work as well. You might only see improvement in 40-50% of your gum pockets, and your dentist may need to do more aggressive procedures. This shows how important it is to work with your regular doctor to get your blood sugar under control—it directly affects whether your dental treatment will succeed.
 
-Some research even suggests that taking insulin (rather than just oral diabetes medications) provides extra benefits for gum health, possibly because insulin has some anti-inflammatory effects. [Read about coronavirus and periodontal health to understand more about inflammation and gum disease](/article/coronavirus-and-periodontal-health-recent-research.html).
+Some research even suggests that taking insulin (rather than just oral diabetes medications) provides extra benefits for gum health, possibly because insulin has some anti-inflammatory effects. [Read about coronavirus](/article/coronavirus-and-periodontal-health-recent-research.html).
 
 ## Your Gum Disease Makes Blood Sugar Harder to Control
 
@@ -91,12 +91,13 @@ Diabetes and gum disease feed off each other, creating a vicious cycle where poo
 
 This means your mouth and your overall health are genuinely connected. Every time you brush your teeth or check your blood sugar, you're doing something that benefits both.
 
-## Key Takeaway
-
-The relationship between diabetes and gum disease is a two-way street—managing both together gives you the best outcome for your health. Work with both your doctor and your dentist, because improving one directly helps the other.
+> **Key Takeaway:** The relationship between diabetes and gum disease is a two-way street—managing both together gives you the best outcome for your health. Work with both your doctor and your dentist, because improving one directly helps the other.
 
 ## Related Articles
 
-- [Coronavirus and Periodontal Health: Recent Research](/article/coronavirus-and-periodontal-health-recent-research.html)
 - [Tooth Movement Patterns and How Teeth Shift](/article/mobility-and-migration-tooth-movement-patterns.html)
 - [How Ultrasonic Scaling Removes Tartar](/article/ultrasonic-scaling-vibration-removes-calculus.html)
+
+- [Periodontal Ligament Tooth Attachment System](/article/periodontal-ligament-tooth-attachment-system.html)
+- [Platelet-Derived Growth Factor (PDGF) Benefits](/article/platelet-derived-growth-factor-pdgf-benefit.html)
+

@@ -35,13 +35,13 @@ references:
 
 What you do before dental surgery is just as important as what your dentist does during it. Proper pre-surgery preparation can reduce surgical complications by up to 70%. This includes more than just showing up on time—it involves medical evaluation, medication review, imaging analysis, and specific instructions about fasting and antibiotic use.
 
-Your dentist evaluates your overall health, reviews all medications you're taking (some can increase bleeding or affect healing), and may recommend lab tests. Learn more about [risk and concerns with](/article/risk-and-concerns-with-surgical-success-rates.html) for additional guidance. They also take specialized X-rays or CT scans to plan the safest surgical approach. These preparation steps might seem like extra work, but they're what enable your dentist to perform your surgery safely and predict any special precautions needed for your specific health situation. The better prepared you are, the smoother your surgery and recovery will be.
+Your dentist evaluates your overall health, reviews all medications you're taking (some can increase bleeding or affect healing), and may recommend lab tests. Learn more about [Risk and Concerns with](/article/risk-and-concerns-with-surgical-success-rates.html) for additional guidance. They also take specialized X-rays or CT scans to plan the safest surgical approach. These preparation steps might seem like extra work, but they're what enable your dentist to perform your surgery safely and predict any special precautions needed for your specific health situation. The better prepared you are, the smoother your surgery and recovery will be.
 
 ## Medical Risk Assessment and ASA Classification
 
 The American Society of Anesthesiologists (ASA) Physical Status Classification system serves as the foundational framework for pre-operative evaluation in oral surgical settings. Patients are stratified into five classifications: ASA I (normal healthy patient), ASA II (mild systemic disease), ASA III (severe systemic disease limiting activity), ASA IV (severe systemic disease with constant threat to life), and ASA V (moribund patient). This classification directly influences surgical timing, anesthetic selection, and the requirement for medical consultation.
 
-For example, patients with controlled hypertension (ASA II) require baseline blood pressure documentation within 30 days of surgery, typically targeting systolic readings below 160 mmHg and diastolic below 100 mmHg on the day of procedure. Learn more about [best practices for anesthesia](/article/best-practices-for-anesthesia-types.html) for additional guidance. Uncontrolled hypertension may necessitate rescheduling and medical optimization. Patients with diabetes (ASA II-III) require fasting blood glucose documentation between 100-250 mg/dL, as hyperglycemia above 250 mg/dL impairs neutrophil function and increases infection risk by 3-5 fold.
+For example, patients with controlled hypertension (ASA II) require baseline blood pressure documentation within 30 days of surgery, typically targeting systolic readings below 160 mmHg and diastolic below 100 mmHg on the day of procedure. Learn more about [Best Practices for Anesthesia](/article/best-practices-for-anesthesia-types.html) for additional guidance. Uncontrolled hypertension may necessitate rescheduling and medical optimization. Patients with diabetes (ASA II-III) require fasting blood glucose documentation between 100-250 mg/dL, as hyperglycemia above 250 mg/dL impairs neutrophil function and increases infection risk by 3-5 fold.
 
 ## Comprehensive Medical History and Medication Management
 
@@ -91,13 +91,13 @@ Patients on warfarin anticoagulation require INR (International Normalized Ratio
 
 Your dentist will give you individualized pre-operative instructions based on your health, medications, and the type of surgery. Follow these instructions carefully. If you have questions about why you need to do something—fast before surgery, take special medications, or get lab tests—ask your dentist. Understanding the reasons helps you comply more carefully.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Pre-operative preparation isn't just a bureaucratic hoop to jump through—it's the foundation for safe surgery and smooth recovery. Your dentist's careful assessment of your health, review of your medications, and imaging analysis enable them to anticipate problems and plan a surgical approach that's safest for your specific situation. Following pre-operative instructions carefully, from fasting to medication management to scheduling lab work, shows how much you're investing in your own successful outcome.
 
-## Key Takeaway
-
-Comprehensive pre-operative preparation reduces surgical complications by up to 70% and improves healing outcomes. Understand your specific health risks, follow all pre-operative instructions carefully, disclose all medications and health conditions honestly, and ask questions about anything you don't understand. The time and effort you invest in preparation directly translates to safer surgery and faster recovery.
+> **Key Takeaway:** Comprehensive pre-operative preparation reduces surgical complications by up to 70% and improves healing outcomes. Understand your specific health risks, follow all pre-operative instructions carefully, disclose all medications and health conditions honestly, and ask questions about anything you don't understand. The time and effort you invest in preparation directly translates to safer surgery and faster recovery.
 
 ## Related Articles
 
@@ -105,4 +105,3 @@ Comprehensive pre-operative preparation reduces surgical complications by up to 
 - [Why Post-Operative Instructions Matter](/article/why-post-operative-instructions-matters.html)
 - [Why Post-Surgery Care Matters](/article/why-post-surgery-care-matters.html)
 
-Pre-operative preparation represents the cornerstone of successful oral surgery, with systematic medical assessment, medication optimization, and imaging analysis collectively determining patient safety and surgical outcomes. Thorough risk stratification using validated classification systems, comprehensive medication review with anticoagulation management, and evidenced-based antibiotic prophylaxis reduce complications while optimizing patient safety and post-operative healing. Strategic surgical timing, appropriate laboratory assessment, and patient-specific modifications to fasting and antimicrobial protocols ensure individualized surgical approaches. Consultation with a qualified oral and maxillofacial surgeon ensures individualized pre-operative protocols tailored to patient-specific risk factors and surgical complexity.

@@ -31,13 +31,13 @@ If you're a smoker with gum disease, you might feel hopeless about your situatio
 
 ## The Smoking-Gum Disease Connection
 
-Smoking is one of the strongest risk factors for gum disease. Learn more about [smoking effects on teeth](/article/smoking-effects-on-teeth-and-gums-damage-and-reversal.html) for additional guidance. Smokers are about 3-6 times more likely to develop severe gum disease than non-smokers. Tobacco use is so strongly linked to gum disease that if you're a smoker with gum problems, quitting smoking should be your top priority.
+Smoking is one of the strongest risk factors for gum disease. Learn more about [Smoking Effects on Teeth](/article/smoking-effects-on-teeth-and-gums-damage-and-reversal.html) for additional guidance. Smokers are about 3-6 times more likely to develop severe gum disease than non-smokers. Tobacco use is so strongly linked to gum disease that if you're a smoker with gum problems, quitting smoking should be your top priority.
 
 The problem isn't just that smokers get gum disease more often—it's that their gum disease is typically more severe and harder to treat. A smoker might have significant bone loss and advanced disease at an age when non-smokers typically have only mild gum problems.
 
 ## What Happens to Your Gums When You Quit
 
-The exciting part: your gums can actually start healing once you quit smoking. Learn more about [gingivitis progression from health](/article/gingivitis-progression-from-health-to-disease.html) for additional guidance. Here's what changes:
+The exciting part: your gums can actually start healing once you quit smoking. Learn more about [Gingivitis Progression from Health](/article/gingivitis-progression-from-health-to-disease.html) for additional guidance. Here's what changes:
 
 **Your immune system strengthens.** Within weeks of quitting, your immune system starts functioning better. Your white blood cells recover their ability to fight the bacteria that cause gum disease. Suddenly, your body can effectively defend your gums.
 
@@ -71,14 +71,11 @@ Quitting smoking improves not just your gum health, but your overall oral health
 
 Quitting smoking is hard. If you've tried before and struggled, don't give up. Many smokers need several attempts before successfully quitting. Talk to your doctor about smoking cessation programs, medications, and support resources. Your dentist can also support your quitting efforts and monitor how your gums improve as you become smoke-free.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist to discuss smoking and gum disease why quitting matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
 
 It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 
 ## What to Expect During Your Visit
 
@@ -86,13 +83,11 @@ Your dentist will begin by examining your mouth and reviewing your dental histor
 
 During any procedure, your comfort is a top priority. Your dental team will make sure you understand what is happening and check in with you regularly. Modern dental techniques and anesthesia options mean that most patients experience minimal discomfort during and after treatment. If you feel anxious about any part of the process, let your dentist know so they can adjust their approach to help you feel more at ease.
 
-
 ## Tips for Long-Term Success
 
 Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
 
 Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
-
 
 ## Conclusion
 
@@ -100,13 +95,11 @@ Taking care of your dental health is one of the best investments you can make in
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Smoking is the primary modifiable risk factor for severe gum disease. Quitting smoking allows your immune system to recover, reduces inflammation, improves blood flow, and gives your gums the chance to heal. If you're a smoker with gum disease, quitting smoking is the single most important step you can take to preserve your teeth and improve your oral health.
+> **Key Takeaway:** Smoking is the primary modifiable risk factor for severe gum disease. Quitting smoking allows your immune system to recover, reduces inflammation, improves blood flow, and gives your gums the chance to heal. If you're a smoker with gum disease, quitting smoking is the single most important step you can take to preserve your teeth and improve your oral health.
 
 ## Related Articles
 
-- [Smoking Effects on Teeth and Gums: Damage and Reversal](smoking-effects-on-teeth-and-gums-damage-and-reversal)
-- [Timeline for Bleeding Gums Solutions](timeline-for-bleeding-gums-solutions)
-- [Gum Disease Stages: Gingivitis to Periodontitis](gum-disease-stages-gingivitis-to-periodontitis)
+- [Timeline for Bleeding Gums Solutions and Resolution](/article/timeline-for-bleeding-gums-solutions.html)
+- [Gum Disease Stages: Gingivitis to Periodontitis](/article/gum-disease-stages-gingivitis-to-periodontitis.html)
+- [Trench Mouth (Acute Necrotizing Ulcerative](/article/trench-mouth-acute-necrotizing-gingivitis.html)
 

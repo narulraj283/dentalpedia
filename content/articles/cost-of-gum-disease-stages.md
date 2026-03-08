@@ -31,7 +31,9 @@ Gum disease is classified into stages, and costs increase dramatically as it adv
 
 Gingivitis is the mildest form of gum disease. Your gums might bleed when you brush or floss, which is your mouth's way of saying, "Hey, pay attention!" At this stage, there's inflammation but no bone loss yet, and the good news is it's completely reversible.
 
-Treatment for gingivitis is refreshingly affordable. You'll get a professional cleaning (called a prophylaxis) for $100-150. Your dentist or hygienist gives you tips on better brushing and flossing technique, which is free or included. If they recommend an antimicrobial rinse to help kill bacteria, that's about $8-12 per month. Over a year, treating gingivitis costs $200-400 total. Insurance usually covers gingivitis treatment at 100% since it's considered preventive care, so your out-of-pocket cost might be nothing.
+Treatment for gingivitis is refreshingly affordable. You'll get a professional cleaning (called a prophylaxis) for $100-150. Your dentist or hygienist gives you tips on better brushing and flossing technique, which is free or included.
+
+If they recommend an antimicrobial rinse to help kill bacteria, that's about $8-12 per month. Over a year, treating gingivitis costs $200-400 total. Insurance usually covers gingivitis treatment at 100% since it's considered preventive care, so your out-of-pocket cost might be nothing.
 
 Your dentist will probably want to see you again in 2-4 weeks to make sure the inflammation is gone. Those follow-up visits might cost $50-100 each, so you could have another $100-400 in costs. But here's the thing: this investment completely stops gum disease from progressing to something much more serious. Ignoring gingivitis is what gets people into expensive dental situations later.
 
@@ -41,7 +43,7 @@ If gingivitis goes untreated, it becomes periodontitis, which means you're losin
 
 Now treatment gets more involved. You'll need scaling and root planing (deep cleaning) which costs $150-250 per quadrant (your mouth is divided into four sections). If you only need it in 1-2 quadrants, you're looking at $300-500 total. Add the exam and X-rays, and initial treatment is around $500-750. That seems like more, but you're still in an affordable range.
 
-After the deep cleaning, you'll need maintenance cleanings more often—every 3-4 months instead of the standard 6 months. Learning more about [cost of gum disease prevention](/article/cost-of-gum-disease-prevention.html) can help you understand this better. These cost $150-200 each, so four visits per year cost about $600-800 annually. Insurance usually covers these at 80%, so you'd pay about $120-160 per year out-of-pocket. First-year costs total around $1,000-1,300, then $450-800 per year after that.
+After the deep cleaning, you'll need maintenance cleanings more often—every 3-4 months instead of the standard 6 months. Learning more about [Cost of Gum Disease Prevention](/article/cost-of-gum-disease-prevention.html) can help you understand this better. These cost $150-200 each, so four visits per year cost about $600-800 annually. Insurance usually covers these at 80%, so you'd pay about $120-160 per year out-of-pocket. First-year costs total around $1,000-1,300, then $450-800 per year after that.
 
 Some dentists also recommend an antimicrobial rinse ($24-72 for a 3-6 month course) or an upgraded electric toothbrush ($50-150) to help you keep things clean at home. Over five years, you're looking at about $2,000-3,500 in total costs for stage 2 disease—which is absolutely worth it compared to what stage 3 or 4 costs.
 
@@ -63,7 +65,9 @@ If you do need surgery, add another $8,000-15,000 right there. You'll also need 
 
 ## The Tooth Loss Scenario (The Worst-Case Cost)
 
-Here's where it gets really expensive: if stage 4 disease isn't controlled or progresses too far, you lose teeth. Learning more about [cost of gum health maintenance](/article/cost-of-gum-health-maintenance.html) can help you understand this better. Extractions cost $150-300 per tooth. Then you face implant replacement at $2,000-5,000 per tooth. Lose six teeth and you're looking at $12,000-48,000 just for implants. Some people end up with implant problems that cost another $1,000-3,000 to fix.
+Here's where it gets really expensive: if stage 4 disease isn't controlled or progresses too far, you lose teeth. Learning more about [Cost of Gum Health Maintenance](/article/cost-of-gum-health-maintenance.html) can help you understand this better. Extractions cost $150-300 per tooth.
+
+Then you face implant replacement at $2,000-5,000 per tooth. Lose six teeth and you're looking at $12,000-48,000 just for implants. Some people end up with implant problems that cost another $1,000-3,000 to fix.
 
 A patient losing teeth to gum disease faces cumulative costs of $20,000-50,000 or more, when they could have spent just $1,000-2,000 on stage 1 treatment and prevented the whole cascade of problems.
 
@@ -98,12 +102,13 @@ Here's the lifestyle aspect too: early treatment is simpler. You do some deeper 
 
 Gum disease costs escalate dramatically with each stage: $200-400 for early disease, $1,500-3,000 for moderate disease, $5,000-15,000+ for advanced disease, and $12,000-48,000 if you lose teeth. The financial incentive for early detection is enormous—catching it at stage 1 or 2 saves you thousands and keeps your teeth for life. Talk to your dentist about early screening and treatment for gum disease.
 
+> **Key Takeaway:** Gum disease starts at $200-400 annually to treat but can escalate to $5,000-15,000+ yearly if left untreated—early stage treatment saves thousands.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Cost of Gum Disease Prevention](/article/cost-of-gum-disease-prevention.html)
-- [Cost of Gum Health Maintenance](/article/cost-of-gum-health-maintenance.html)
 - [Cost of Infection Prevention](/article/cost-of-infection-prevention.html)
+- [Periodontal Disease Diagnosis Tests and Measurements](/article/periodontal-disease-diagnosis-tests-and-measurements.html)
+- [Soft Tissue Grafting and Periodontal Reconstruction -](/article/soft-tissue-grafting-periodontal-reconstruction.html)
+- [Regenerative Therapy and Growing New Periodontal Tissue](/article/regenerative-therapy-growing-new-tissue.html)
+- [Why Addressing Bleeding Gums Matters for Long-Term Oral](/article/why-bleeding-gums-solutions-matters.html)
 
-> **Key Takeaway:** Treat gum disease at stage 1 for $200-400, or pay $5,000-50,000+ at advanced stages—the choice is clear: early detection and treatment saves your teeth and your money.

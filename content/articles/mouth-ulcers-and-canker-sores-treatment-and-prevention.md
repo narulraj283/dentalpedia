@@ -37,7 +37,9 @@ Canker sores are like your mouth's overreaction to minor injuries. A small cut f
 
 ## Why Some People Get Frequent Canker Sores
 
-Your mouth's tissue has multiple layers protecting it. When something breaches that protective barrier—a sharp food, aggressive flossing, a bite, sharp braces wire—normally healing happens quickly and invisibly. But in genetically predisposed people, the immune system overreacts to this breach, flooding the area with inflammatory cells that keep it inflamed and ulcerated. This happens because your immune system has heightened sensitivity to oral bacteria and dietary antigens. Additionally, your mouth tissue cells turn over rapidly, constantly rebuilding themselves. When you lack adequate iron, vitamin B12, folate, or zinc, this cell regeneration slows down, making injuries slower to heal and ulcers more likely to form.
+Your mouth's tissue has multiple layers protecting it. When something breaches that protective barrier—a sharp food, aggressive flossing, a bite, sharp braces wire—normally healing happens quickly and invisibly. But in genetically predisposed people, the immune system overreacts to this breach, flooding the area with inflammatory cells that keep it inflamed and ulcerated.
+
+This happens because your immune system has heightened sensitivity to oral bacteria and dietary antigens. Additionally, your mouth tissue cells turn over rapidly, constantly rebuilding themselves. When you lack adequate iron, vitamin B12, folate, or zinc, this cell regeneration slows down, making injuries slower to heal and ulcers more likely to form.
 
 Understanding your personal risk factors is key. If you have a family history of canker sores, you inherited genetic predisposition. If you've had nutritional testing showing low iron, B12, or folate, those deficiencies are triggering your ulcers and supplementation often resolves the problem within 2-3 months. If you notice clustering during stressful periods, your immune system is stress-reactive. Once you identify your particular risk factors, addressing them prevents future ulcers far better than treating them once they appear.
 
@@ -51,7 +53,9 @@ Herpetiform ulcers are clusters of tiny sores that run together into larger ulce
 
 ## Treatment: Get the Type Right
 
-Topical steroids are your first-line treatment for all canker sores. Apply triamcinolone cream (available over-the-counter or by prescription) directly onto the sore three or four times daily, especially after meals and before bed. Start as soon as you notice the sore developing—early treatment works dramatically better than waiting. The steroid reduces pain within 24-48 hours and speeds healing by 3-5 days. Apply a small amount directly to the ulcer base, not the surrounding tissue. For more on this topic, see our guide on [Mouth Ulcer Care What You Need To Know](/article/mouth-ulcer-care-what-you-need-to-know.html).
+Topical steroids are your first-line treatment for all canker sores. Apply triamcinolone cream (available over-the-counter or by prescription) directly onto the sore three or four times daily, especially after meals and before bed. Start as soon as you notice the sore developing—early treatment works dramatically better than waiting.
+
+The steroid reduces pain within 24-48 hours and speeds healing by 3-5 days. Apply a small amount directly to the ulcer base, not the surrounding tissue. For more on this topic, see our guide on [Mouth Ulcer Care What You Need To Know](/article/mouth-ulcer-care-what-you-need-to-know.html).
 
 For pain relief, benzocaine numbing gels work temporarily, letting you eat or speak comfortably. These numb for 15-30 minutes but don't speed healing—they just manage pain. Saline or hydrogen peroxide rinses keep the area clean and support healing. Avoid foods that irritate while healing—acidic fruits and juices, spicy foods, sharp foods like chips, and very hot foods.
 
@@ -67,9 +71,13 @@ Low folate is another common culprit. Simple folate supplementation at 1-5 mg da
 
 ## Finding and Eliminating Your Personal Triggers
 
-Keep a canker sore diary for a month. Note what you were eating and doing when ulcers appeared. This pattern recognition identifies your personal triggers. Common triggers include mechanical trauma from sharp braces wires (ask your orthodontist to smooth them), aggressive flossing or toothbrushing (switch to soft brush, gentle technique), and sharp foods. Eliminating mechanical trauma alone prevents 40-60% of ulcers in susceptible people within weeks. For more on this topic, see our guide on [Timeline For Mouth Ulcer Care](/article/timeline-for-mouth-ulcer-care.html).
+Keep a canker sore diary for a month. Note what you were eating and doing when ulcers appeared. This pattern recognition identifies your personal triggers.
 
-Sodium lauryl sulfate (the foaming agent in many toothpastes) triggers ulcers in sensitive people. Switching to SLS-free toothpaste reduces ulcers by 30-50% within 4-6 weeks as tissue regenerates. Cinnamon flavoring, used in many candies and some toothpastes, causes delayed-type allergic reactions in sensitive individuals—if you notice ulcers clustering after eating cinnamon products or using cinnamon toothpaste, complete avoidance prevents them. Acidic foods and drinks (citrus, tomatoes, vinegar, acidic sodas) trigger or worsen ulcers by creating pH drops in your mouth. Rinsing with baking soda solution after consuming these foods neutralizes the acid and provides protection. Spicy foods activate pain receptors and irritate existing ulcers, though they rarely trigger new ones in non-predisposed people.
+Common triggers include mechanical trauma from sharp braces wires (ask your orthodontist to smooth them), aggressive flossing or toothbrushing (switch to soft brush, gentle technique), and sharp foods. Eliminating mechanical trauma alone prevents 40-60% of ulcers in susceptible people within weeks. For more on this topic, see our guide on [Timeline For Mouth Ulcer Care](/article/timeline-for-mouth-ulcer-care.html).
+
+Sodium lauryl sulfate (the foaming agent in many toothpastes) triggers ulcers in sensitive people. Switching to SLS-free toothpaste reduces ulcers by 30-50% within 4-6 weeks as tissue regenerates. Cinnamon flavoring, used in many candies and some toothpastes, causes delayed-type allergic reactions in sensitive individuals—if you notice ulcers clustering after eating cinnamon products or using cinnamon toothpaste, complete avoidance prevents them.
+
+Acidic foods and drinks (citrus, tomatoes, vinegar, acidic sodas) trigger or worsen ulcers by creating pH drops in your mouth. Rinsing with baking soda solution after consuming these foods neutralizes the acid and provides protection. Spicy foods activate pain receptors and irritate existing ulcers, though they rarely trigger new ones in non-predisposed people.
 
 ## Stress and Your Ulcers
 
@@ -83,14 +91,19 @@ Most canker sores don't get infected, but 8-12% do, particularly in people with 
 
 Combine all your prevention approaches: supplement any documented nutritional deficiencies, eliminate your identified food triggers, protect against mechanical trauma by adjusting appliances and using soft brushes, use trigger-free toothpaste and oral products, manage stress, and maintain excellent oral hygiene. This comprehensive approach prevents most canker sores in susceptible people. Most people who implement these strategies reduce ulcer frequency by 60-80% or eliminate them entirely within a few months.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Canker sores don't have to be an accepted part of life. Identifying whether yours stem from nutritional deficiency, mechanical trauma, dietary triggers, stress, or product sensitivities lets you address the actual cause rather than just treating symptoms. Topical steroids help current ulcers, but prevention through trigger elimination and nutritional optimization prevents future ones. For people with disabling frequent ulcers, prescription treatments work well—you don't have to suffer through years of painful ulcers.
 
 > **Key Takeaway:** Identify your personal triggers through a month-long ulcer diary, supplement any nutritional deficiencies found through blood testing, eliminate mechanical trauma and trigger foods, manage stress, and use the right topical steroid at the first sign of an ulcer.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Mouth Ulcer Care: What You Need to Know](/article/mouth-ulcer-care-what-you-need-to-know.html)
 - [Swallowing Difficulty (Dysphagia) Management](/article/swallowing-difficulty-dysphagia-management.html)
 - [Oral Herpes Simplex: Causes, Symptoms, and Treatment](/article/oral-herpes-simplex-causes-symptoms-and-treatment.html)
+
+- [Oral Cancer Screening Saves Lives](/article/oral-cancer-screening-and-early-detection.html)
+- [Pfapa Syndrome Periodic Fever and Ulcers](/article/pfapa-syndrome-periodic-fever-and-ulcers.html)
+

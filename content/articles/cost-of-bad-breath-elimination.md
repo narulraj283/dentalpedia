@@ -29,9 +29,9 @@ Bad breath embarrasses people and impacts relationships and confidence. The good
 
 **Bacteria on your tongue**: The most common cause. Your tongue harbors bacteria that produce sulfur-smelling compounds. Bad breath from tongue bacteria affects about 40-50% of people with halitosis.
 
-**Gum disease**: Bacteria below your gum line release odors. Affects about 30% of bad breath cases. Learn more about [understanding gum disease and preventing tooth loss](/article/periodontal-disease-and-tooth-loss-prevention.html).
+**Gum disease**: Bacteria below your gum line release odors. Affects about 30% of bad breath cases. Learn more about [Understanding Gum Disease and Preventing Tooth Loss](/article/periodontal-disease-and-tooth-loss-prevention.html).
 
-**Food debris and decay**: Particles stuck between teeth or cavities harbor bacteria. Affects about 10-15% of cases. For more information, see our guide on [cavity formation and prevention](/article/cavity-formation-process-complete-guide.html).
+**Food debris and decay**: Particles stuck between teeth or cavities harbor bacteria. Affects about 10-15% of cases. For more information, see our guide on [Cavity Formation and Prevention](/article/cavity-formation-process-complete-guide.html).
 
 **Dry mouth**: Saliva naturally cleans your mouth. Without it, bacteria proliferate. Affects about 5-10% of cases.
 
@@ -234,12 +234,17 @@ Does NOT cover:
 
 ## Conclusion
 
-Bad breath usually starts with tongue bacteria (fix with daily scraping) or gum disease (fix with professional cleaning). Most people improve 30-50% with home care alone ($0-$50). Professional cleaning adds another 30-50% improvement ($600-$1,600). Advanced therapies help resistant cases ($300-$600). Start with the basics: clean your tongue daily, improve flossing, see your dentist for professional evaluation. Together with your dentist, you'll fix this problem.
+Bad breath usually starts with tongue bacteria (fix with daily scraping) or gum disease (fix with professional cleaning). Most people improve 30-50% with home care alone ($0-$50). Professional cleaning adds another 30-50% improvement ($600-$1,600).
 
-## Related Articles You May Find Helpful
+Advanced therapies help resistant cases ($300-$600). Start with the basics: clean your tongue daily, improve flossing, see your dentist for professional evaluation. Together with your dentist, you'll fix this problem.
 
-- [Understanding Tooth Decay and Cavity Formation](/article/cavity-formation-process-complete-guide.html)
+> **Key Takeaway:** Bad breath affects 1 in 4 adults. Most causes are simple to fix with home care or professional cleaning. Learn what works and what it costs.
+
+## Related Articles
+
 - [Tooth Sensitivity Explained: Causes and Solutions](/article/hydrodynamic-theory-sensitivity-explanation.html)
 - [Affordable Dental Care Options and Community Resources](/article/community-health-centers-affordable-dentistry.html)
+- [Professional Fluoride Treatments](/article/fluoride-treatments-benefits-and-application.html)
+- [Risk and Concerns with Pain Relief Methods in Dentistry](/article/risk-and-concerns-with-pain-relief-methods.html)
+- [Breastfeeding and Early Childhood Caries: Night Feeding](/article/breastfeeding-and-tooth-decay-night-feeding-risks.html)
 
-> **Key Takeaway:** Most bad breath comes from tongue bacteria (solved by daily scraping) or gum disease (solved by professional cleaning). Start with daily tongue cleaning ($0-$20) and improved home care. If that's not enough, professional cleaning ($600-$1,600) works for most cases. Talk to your dentist to identify the cause of your bad breath and create a treatment plan.

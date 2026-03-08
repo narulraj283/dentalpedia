@@ -87,10 +87,13 @@ If you have intrinsic staining from tetracycline, fluorosis, or systemic conditi
 
 Professional teeth whitening is safe, effective, and affordable when done right. Whether you choose in-office treatments for fast results or at-home trays for budget savings, professional whitening works better and has fewer risks than drugstore products. Plan for touch-up maintenance to keep your results.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Learn what you need to know about safe, professional teeth whitening and how to avoid common problems.
+
+## Related Articles
 
 - [Teeth Color Improvement: All Your Options](/article/cost-of-teeth-color-improvement.html)
-- [Results to Expect from Teeth Whitening](/article/cost-of-teeth-whitening-results.html)
 - [Understanding Tooth Color and Shade Matching](/article/cost-of-teeth-shade-matching.html)
+- [Gummy Smile Correction: Procedures and Results](/article/gummy-smile-correction-procedures-and-results.html)
+- [Cosmetic Gum Shaping: What Every Patient Should Know](/article/best-practices-for-cosmetic-gum-shaping.html)
+- [Veneer Installation Protocol](/article/best-practices-for-veneer-installation-steps.html)
 
-> **Key Takeaway:** Professional whitening costs $600 to $1,000 for in-office treatment or $300 to $600 for at-home trays, with results lasting 6 to 12 months. Talk to your dentist about whether whitening will work well for your specific tooth type and goals.

@@ -1,24 +1,34 @@
 ---
-title: "Traumatic Tooth Extrusion: Luxation Injuries and"
-slug: extrusion-trauma-pulled-out
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "When you get a side blow to your mouth during sports or an accident, your tooth can get pushed partially out of its socket."
 date: 2026-03-05
+excerpt: When you get a side blow to your mouth during sports or an accident, your
+  tooth can get pushed partially out of its socket.
 read_time: 9 min
+references:
+- Andreasen JO, Andreasen FM, Andersson L. Textbook and Color Atlas of Traumatic Injuries
+  to the Teeth. 4th ed. Blackwell Munksgaard; 2007.
+- 'Diangelis AJ, Andreasen JO, Eberius M, et al. International Association of Dental
+  Traumatology guidelines for the management of traumatic dental injuries: 1. Fractures
+  and luxations. Dent Traumatol. 2012;28(1):2-12.'
+- 'Flores MT, Malmgren B, Andersson L, et al. Guidelines for the management of traumatic
+  dental injuries: II. Avulsion of permanent teeth. Dent Traumatol. 2012;28(2):88-96.'
+- Andreasen FM. Transient discoloration of traumatized teeth. The role of processes
+  in the pulp cavity and the dentin. Endod Dent Traumatol. 1986;2(6):236-240.
+- 'Hammarstrom L. Healing of the dentin-pulp complex: a review. Endod Dent Traumatol.
+  1992;8(3):95-101.'
+- Ravn JJ. Sequelae of acute mechanical traumata in the primary and permanent dentitions.
+  J Dent Child. 1981;48(5):330-342.
+- 'Lauridsen B, Hermann NV, Gerds TA, et al. Traumatic dental injuries in children
+  and adolescents: epidemiology and risk factors. Community Dent Oral Epidemiol. 2012;40(2):160-166.'
+- Glendor U. Epidemiology of traumatic dental injuries—a 12 year review of the literature.
+  Dent Traumatol. 2008;24(6):603-611.
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: extrusion-trauma-pulled-out
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - "Andreasen JO, Andreasen FM, Andersson L. Textbook and Color Atlas of Traumatic Injuries to the Teeth. 4th ed. Blackwell Munksgaard; 2007."
-  - "Diangelis AJ, Andreasen JO, Eberius M, et al. International Association of Dental Traumatology guidelines for the management of traumatic dental injuries: 1. Fractures and luxations. Dent Traumatol. 2012;28(1):2-12."
-  - "Flores MT, Malmgren B, Andersson L, et al. Guidelines for the management of traumatic dental injuries: II. Avulsion of permanent teeth. Dent Traumatol. 2012;28(2):88-96."
-  - "Andreasen FM. Transient discoloration of traumatized teeth. The role of processes in the pulp cavity and the dentin. Endod Dent Traumatol. 1986;2(6):236-240."
-  - "Hammarstrom L. Healing of the dentin-pulp complex: a review. Endod Dent Traumatol. 1992;8(3):95-101."
-  - "Ravn JJ. Sequelae of acute mechanical traumata in the primary and permanent dentitions. J Dent Child. 1981;48(5):330-342."
-  - "Lauridsen B, Hermann NV, Gerds TA, et al. Traumatic dental injuries in children and adolescents: epidemiology and risk factors. Community Dent Oral Epidemiol. 2012;40(2):160-166."
-  - "Glendor U. Epidemiology of traumatic dental injuries—a 12 year review of the literature. Dent Traumatol. 2008;24(6):603-611."
+title: 'Traumatic Tooth Extrusion: Luxation Injuries'
 ---
 
 ## Understanding Tooth Extrusion Injuries
@@ -41,7 +51,7 @@ When the tooth gets hit and pushed out, several things get injured:
 - The nerve inside might get hurt
 - The soft tissues (gums) get torn and bleed
 
-The good news is that if you act quickly, many of these things can heal. Learning more about [reimplanted teeth salvaging avulsed permanent teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html) can help you understand this better. The periodontal ligament has a special ability to heal if the tooth gets put back in the right position within about 30 minutes. After that, healing gets harder.
+The good news is that if you act quickly, many of these things can heal. Learning more about [Reimplanted Teeth Salvaging Avulsed Permanent Teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html) can help you understand this better. The periodontal ligament has a special ability to heal if the tooth gets put back in the right position within about 30 minutes. After that, healing gets harder.
 
 ## The Critical Time Window
 
@@ -71,7 +81,7 @@ Even if everything looks fine right after treatment, there's a risk that the ner
 Your dentist will watch for nerve problems by:
 - Looking for changes in tooth color (darkening or graying)
 - Taking X-rays to look for problems at the root tip
-- Testing whether the tooth responds to temperature You may also want to read about [risk and concerns with mouth injuries treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html).
+- Testing whether the tooth responds to temperature You may also want to read about [Risk and Concerns with Mouth Injuries Treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html).
 
 If the nerve dies, you'll probably need root canal treatment. But catching it early makes treatment simpler.
 
@@ -133,12 +143,13 @@ The best thing you can do is prevent the injury in the first place. If you play 
 
 A partially extruded tooth is a dental emergency, but with quick treatment, most teeth are saved. The first 30 minutes are critical. After that, careful management and follow-up care determine whether you'll keep your tooth long-term.
 
+> **Key Takeaway:** When you get a side blow to your mouth during sports or an accident, your tooth can get pushed partially out of its socket.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Reimplanted Teeth: Salvaging Avulsed Permanent Teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html)
-- [Risk and Concerns with Mouth Injuries Treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html)
 - [Dental Abscess: Infection and Urgent Treatment](/article/dental-abscess-infection-and-urgent-treatment.html)
+- [Risk and Concerns with Post-Surgical Care in Oral](/article/risk-and-concerns-with-post-surgery-care.html)
+- [Complete Guide to Recovery After Tooth Extraction](/article/recovery-after-extraction-complete-guide.html)
+- [Comprehensive Pain Management Protocols in Oral and](/article/best-practices-for-pain-management-surgery.html)
+- [Cost of Pain Management Surgery](/article/cost-of-pain-management-surgery.html)
 
-> **Key Takeaway:** A partially extruded tooth needs repositioning within 30 minutes for the best chance of healing. Get to a dentist right away, follow all care instructions, and keep all follow-up appointments. Talk to your dentist about which options are right for your specific situation.

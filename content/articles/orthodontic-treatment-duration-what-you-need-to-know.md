@@ -70,9 +70,18 @@ Contemporary treatment acceleration strategies including corticotomy-assisted or
 
 Light continuous forces produce optimal bone remodeling with reduced root resorption compared to heavy intermittent forces, suggesting that force optimization itself shortens treatment duration through enhanced biological response. Differential force application (reduced force in early phases, optimized force in later phases) improves treatment efficiency compared to uniform force throughout treatment. Your orthodontist should implement evidence-supported approaches to optimize force application, avoid excessive force that triggers adverse biological responses while slowing actual tooth movement, and consider acceleration strategies for cases at elevated risk from extended treatment duration.
 
-## Key Takeaway: Your Compliance Controls Duration
+*Always consult your dentist to determine the best approach for your individual situation.*
+
+
+For more information, see [Adult Orthodontics: Success and Special Considerations](/article/adult-orthodontics-success-and-special-considerations.html) and [Risk and Concerns with Teeth Movement Speed](/article/risk-and-concerns-with-teeth-movement-speed.html).
+
+## Conclusion
+
+Treatment duration represents one of the most significant variables determining treatment success and patient satisfaction. Your orthodontist provides initial estimates, but your compliance, biological response, and absence of complications determine actual duration. Extended treatment duration increases biological risks including root resorption and decalcification, psychological burden, and financial cost. Maximizing compliance and addressing complications promptly ensures your braces come off on schedule.
 
 Your treatment duration depends largely on your compliance. Attending appointments consistently, maintaining dietary restrictions, avoiding emergency visits through careful handling of appliances, maintaining excellent oral hygiene, and following your orthodontist's instructions directly shortens your timeline. Extended treatment duration increases biological risks including root resorption and decalcification, psychological burden, and financial costs.
+
+> **Key Takeaway:** ## Key Takeaway: Your Compliance Controls Duration
 
 ## Related Articles
 
@@ -80,6 +89,3 @@ Your treatment duration depends largely on your compliance. Attending appointmen
 - [Your Braces Success Depends on Following the Rules](/article/orthodontic-compliance-what-you-need-to-know.html)
 - [Should Your Orthodontist Remove Teeth?](/article/orthodontic-extraction-decision-what-you-need-to-know.html)
 
-## Conclusion
-
-Treatment duration represents one of the most significant variables determining treatment success and patient satisfaction. Your orthodontist provides initial estimates, but your compliance, biological response, and absence of complications determine actual duration. Extended treatment duration increases biological risks including root resorption and decalcification, psychological burden, and financial cost. Maximizing compliance and addressing complications promptly ensures your braces come off on schedule.

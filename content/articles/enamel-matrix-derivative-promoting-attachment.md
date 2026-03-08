@@ -25,7 +25,7 @@ When gum disease destroys the bone and attachment that support your teeth, moder
 
 ## What Is Gum Disease and Why It Matters
 
-Gum disease starts when bacteria accumulate on your teeth, causing infection in your gums. Learning more about [periodontal disease and tooth loss prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. Early gum disease (gingivitis) causes gum swelling and bleeding. If untreated, it progresses to periodontitis—deeper infection that destroys the bone supporting your teeth and creates deep pockets around them. Teeth gradually become looser and eventually fall out if disease isn't stopped.
+Gum disease starts when bacteria accumulate on your teeth, causing infection in your gums. Learning more about [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. Early gum disease (gingivitis) causes gum swelling and bleeding. If untreated, it progresses to periodontitis—deeper infection that destroys the bone supporting your teeth and creates deep pockets around them. Teeth gradually become looser and eventually fall out if disease isn't stopped.
 
 The goal of periodontitis treatment is stopping disease progression and hopefully regenerating some of the lost bone and attachment. Traditional treatment (scaling and root planing) cleans away bacteria and lets your body heal. Some cases benefit from more advanced treatments that actively stimulate tissue regeneration.
 
@@ -86,7 +86,7 @@ Your periodontist performs the procedure under local anesthesia in about 1-2 hou
 
 **Restrictions**: Avoid mechanical disruption of the surgical site—no brushing or flossing the treated area for 2 weeks. Use antimicrobial rinse as directed.
 
-**Activity**: Return to normal activities after a few days, though avoid strenuous exercise for one week. You may also want to read about [timeline for gum disease stages](/article/timeline-for-gum-disease-stages.html).
+**Activity**: Return to normal activities after a few days, though avoid strenuous exercise for one week. You may also want to read about [Timeline for Gum Disease Stages](/article/timeline-for-gum-disease-stages.html).
 
 **Suture removal**: Sutures are removed at 10-14 day appointment.
 
@@ -138,12 +138,13 @@ EMD treatment typically costs $800-2000+ depending on defect size and geographic
 
 Enamel matrix derivative offers a biologic approach to stimulating your body to regenerate periodontal tissues destroyed by disease. Results are encouraging—most appropriately selected patients show clinically meaningful improvement. Success depends on careful case selection, proper surgical technique, and excellent post-operative maintenance. If you have advanced gum disease with specific bony defects and are willing to maintain excellent oral hygiene, EMD might help save your teeth. Talk with your periodontist about whether EMD is right for your specific situation.
 
+> **Key Takeaway:** When gum disease destroys the bone and attachment that support your teeth, modern treatments can sometimes regenerate lost tissues and help save your.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html)
-- [Timeline for Gum Disease Stages](/article/timeline-for-gum-disease-stages.html)
 - [Stress and Periodontitis: Immunosuppression](/article/stress-and-periodontitis-immunosuppression.html)
+- [Calculus Supragingival](/article/calculus-supragingival-visible-tartar-above-gums.html)
+- [Periodontal Ligament Tooth Attachment System](/article/periodontal-ligament-tooth-attachment-system.html)
+- [Refractory Periodontitis Treatment Resistant Disease](/article/refractory-periodontitis-treatment-resistant-disease.html)
+- [Periodontal Pack Post Treatment Dressing](/article/periodontal-pack-post-treatment-dressing.html)
 
-> **Key Takeaway:** Enamel matrix proteins can stimulate regeneration of bone and attachment lost to gum disease. Success depends on appropriate patient selection, good oral hygiene, and maintenance care. Talk to your periodontist about whether this treatment is right for your specific situation.

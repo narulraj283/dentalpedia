@@ -1,29 +1,35 @@
 ---
-title: "Anxiety Management in Elderly Patients: Safe Sedation and"
-slug: anxiety-management-in-elderly-patients
 category: Dental Anxiety & Sedation
 category_slug: dental-anxiety-sedation
-excerpt: "About 1 in 10 to 1 in 5 older adults feel anxious about dental visits."
 date: 2026-03-05
+excerpt: About 1 in 10 to 1 in 5 older adults feel anxious about dental visits.
 read_time: 19 min
+references:
+- Skott P, Berggren U, Lundgren J. Prediction of pain response to dental treatment
+  in patients with high and low dental anxiety. Eur J Oral Sci. 1996;104(3):208-214.
+- Newman L, Wynn RL. Dental sedation for the geriatric patient. Dent Today. 2009;28(6):90-94.
+- Ferrell BA. Pain management in elderly people. J Am Geriatr Soc. 1991;39(1):64-73.
+- Klotz U. Pharmacokinetics and drug metabolism in the elderly. Drug Metab Rev. 2009;41(2):67-76.
+- Melzack R, Taenzer P, Feldman P, Kinch RA. Labour is still labour. Can Med Assoc
+  J. 1981;125(4):357-363.
+- Townsend CL, Wolke D. Messy eating in children is associated with obesity. Appetite.
+  2009;52(3):584-589.
+- Atchison KA, Dolan TA. Receipt of preventive dental services and tooth retention.
+  J Am Dent Assoc. 1998;129(2):227-235.
+- Schou L, Locker D. Prevention in clinical practice. Dent Clin North Am. 2008;52(3):619-629.
+reviewed: true
 reviewer_specialty: Geriatric Dentistry & Anesthesiology
+slug: anxiety-management-in-elderly-patients
 subcategory: Sedation & Pain Management
 subcategory_slug: sedation-pain-management
-reviewed: true
-references:
-  - "Skott P, Berggren U, Lundgren J. Prediction of pain response to dental treatment in patients with high and low dental anxiety. Eur J Oral Sci. 1996;104(3):208-214."
-  - "Newman L, Wynn RL. Dental sedation for the geriatric patient. Dent Today. 2009;28(6):90-94."
-  - "Ferrell BA. Pain management in elderly people. J Am Geriatr Soc. 1991;39(1):64-73."
-  - "Klotz U. Pharmacokinetics and drug metabolism in the elderly. Drug Metab Rev. 2009;41(2):67-76."
-  - "Melzack R, Taenzer P, Feldman P, Kinch RA. Labour is still labour. Can Med Assoc J. 1981;125(4):357-363."
-  - "Townsend CL, Wolke D. Messy eating in children is associated with obesity. Appetite. 2009;52(3):584-589."
-  - "Atchison KA, Dolan TA. Receipt of preventive dental services and tooth retention. J Am Dent Assoc. 1998;129(2):227-235."
-  - "Schou L, Locker D. Prevention in clinical practice. Dent Clin North Am. 2008;52(3):619-629."
+title: 'Anxiety Management in Elderly Patients: Safe Sedation'
 ---
 
 ## Dental Anxiety Gets Harder with Age
 
-About 1 in 10 to 1 in 5 older adults feel anxious about dental visits. This is the same percentage as younger people, but older patients have extra challenges. As your body ages, medicines work differently. You might be taking many medications that could interact with sedation. These differences mean your dentist needs to be extra careful when helping you feel calm. For more details, see our guide on [Conscious Sedation in Dentistry](/article/conscious-sedation-twilight-sleep-benefits.html).
+About 1 in 10 to 1 in 5 older adults feel anxious about dental visits. This is the same percentage as younger people, but older patients have extra challenges. As your body ages, medicines work differently.
+
+You might be taking many medications that could interact with sedation. These differences mean your dentist needs to be extra careful when helping you feel calm. For more details, see our guide on [Conscious Sedation in Dentistry](/article/conscious-sedation-twilight-sleep-benefits.html).
 
 Many older adults avoid the dentist because of anxiety. This is unfortunate because regular dental care becomes even more important as you age. Missing teeth, gum disease, and tooth decay affect your ability to eat, talk clearly, and feel confident. For more details, see our guide on [When Your Child Screams at the Dentist](/article/dental-anxiety-in-children-overcoming-fear.html).
 
@@ -143,6 +149,9 @@ Regular check-ups every 6 months work better than waiting years then needing maj
 
 Your dentist wants you to feel safe and comfortable. Tell them your fears honestly, work together on a plan, and remember: you're not alone. Plenty of older adults feel dental anxiety, and successful treatment is absolutely possible.
 
+
+*Always consult your dentist to determine the best approach for your individual situation.*
+
 ## Conclusion
 
 Dental anxiety in older adults requires special care because medicine works differently in aging bodies. Your liver processes drugs slowly. Your brain is more sensitive. You might take other medicines that interact dangerously.
@@ -151,12 +160,13 @@ Non-drug methods should be first choice: tell-show-do, gradual exposure, comfort
 
 Honest communication with your dentist about your anxiety, medications, and health conditions allows safe treatment planning. You deserve dental care that keeps you healthy. With thoughtful anxiety management, that care can be calm, safe, and effective.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** About 1 in 10 to 1 in 5 older adults feel anxious about dental visits.
 
-- [Conscious Sedation in Dentistry: Pharmacology, Safety Protocols, and Clinical Application for Anxiety Management](/article/conscious-sedation-twilight-sleep-benefits.html)
-- [When Your Child Screams at the Dentist: It's Not Your Fault — And There's Help](/article/dental-anxiety-in-children-overcoming-fear.html)
-- [Dental Anxiety Origins: Childhood Trauma and Long-Term Psychological Impact](/article/dental-anxiety-origins-childhood-trauma.html)
+## Related Articles
 
-
-> **Key Takeaway:** About 1 in 10 to 1 in 5 older adults feel anxious about dental visits. Your dentist can help you understand what steps are right for your specific needs.
+- [Dental Anxiety Origins](/article/dental-anxiety-origins-childhood-trauma.html)
+- [Sedation Recovery Period](/article/sedation-recovery-period.html)
+- [Premedication for Anxious Children](/article/premedication-for-anxious-children.html)
+- [Why Understanding Anesthesia Types Matters for Dental](/article/why-anesthesia-types-matters.html)
+- [Post Sedation Instructions](/article/post-sedation-instructions.html)
 

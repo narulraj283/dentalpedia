@@ -37,13 +37,15 @@ references:
 
 A knocked-out tooth is genuinely time-critical in a way that other dental injuries aren't. Every minute matters. You have about 15-30 minutes to get the best outcome, but even a few hours later can still save your tooth. What you do in the first few minutes after the tooth comes out determines whether your tooth survives with vital (healthy) nerves or dies.
 
-About 1% of all dental injuries involve complete tooth loss, though avulsion (complete knockouts) affects 10-15% of people who experience traumatic dental injuries. Learn more about [tissue trauma soft tissue](/article/tissue-trauma-soft-tissue-injury.html) for additional guidance. Kids aged 7-12 experience it most, but it happens at any age. More boys experience this than girls.
+About 1% of all dental injuries involve complete tooth loss, though avulsion (complete knockouts) affects 10-15% of people who experience traumatic dental injuries. Learn more about [Tissue Trauma Soft Tissue](/article/tissue-trauma-soft-tissue-injury.html) for additional guidance. Kids aged 7-12 experience it most, but it happens at any age. More boys experience this than girls.
 
 ## Step 1: Handle the Tooth Correctly
 
 This is crucial: **Hold only the crown (white part) of the tooth. NEVER touch the root surface.** This might seem like a small detail, but it's the most important thing you can do.
 
-Why? Learn more about [jaw fracture trauma and](/article/jaw-fracture-trauma-and-stabilization.html) for additional guidance. The root surface is covered with periodontal ligament cells—specialized cells that help your tooth reattach to bone. These cells are alive but extremely fragile. They remain viable for only 15-30 minutes after being knocked out. Any touching, rubbing, cleaning, or handling of the root surface damages these cells irreparably. Your contaminated hand causes more cell death than dirt on the tooth.
+Why? Learn more about [Jaw Fracture Trauma and](/article/jaw-fracture-trauma-and-stabilization.html) for additional guidance. The root surface is covered with periodontal ligament cells—specialized cells that help your tooth reattach to bone.
+
+These cells are alive but extremely fragile. They remain viable for only 15-30 minutes after being knocked out. Any touching, rubbing, cleaning, or handling of the root surface damages these cells irreparably. Your contaminated hand causes more cell death than dirt on the tooth.
 
 ## Step 2: Rinse If Needed
 
@@ -105,7 +107,9 @@ When you arrive at the dental office with your tooth, your dentist will:
 1. Take radiographs to confirm the alveolar socket isn't fractured
 2. Examine your mouth for other injuries
 3. Decide if replantation is appropriate (severely contaminated or infected teeth may not justify replantation)
-4. Rinse the tooth gently if needed
+4.
+
+Rinse the tooth gently if needed
 5. Apply brief surface disinfection (less than 5 seconds) if severely contaminated
 6. Remove clots and debris from the socket
 7. Reinsert your tooth using gentle apical pressure
@@ -147,20 +151,20 @@ Whether your tooth survives long-term depends primarily on how long it spent out
 
 Athletes and physically active people should know how to respond to avulsion. Athletic trainers should carry HBSS or milk-based emergency kits. Training emphasizing immediate action—replantation or proper storage—within 15 minutes optimizes outcomes dramatically.
 
-
-
 ## Conclusion
 
 Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding teeth knocked out: critical first hour actions helps you feel more confident when discussing options with your dentist and making decisions about your care.
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
+Get to your dentist immediately. Replantation within 15-30 minutes yields 90%+ nerve survival. Even replantation after 2+ hours can save your tooth, though nerve survival drops dramatically. Proper initial response in those first minutes and hours determines whether you keep your natural tooth or lose it.
 
-A completely knocked-out tooth is time-critical—every minute counts. Handle it only by the crown. If dirty, rinse gently with milk or saline (never tap water). Store in HBSS, milk, or your mouth if other options unavailable. Get to your dentist immediately. Replantation within 15-30 minutes yields 90%+ nerve survival. Even replantation after 2+ hours can save your tooth, though nerve survival drops dramatically. Proper initial response in those first minutes and hours determines whether you keep your natural tooth or lose it.
+> **Key Takeaway:** A completely knocked-out tooth is time-critical—every minute counts. Handle it only by the crown. If dirty, rinse gently with milk or saline (never tap water). Store in HBSS, milk, or your mouth if other options unavailable.
 
 ## Related Articles
 
-- [Tissue Trauma and Soft Tissue Injury](/article/tissue-trauma-soft-tissue-injury.html)
-- [Jaw Fracture Trauma and Stabilization](/article/jaw-fracture-trauma-and-stabilization.html)
 - [Tetanus Risk: Puncture Wound Prophylaxis](/article/tetanus-risk-puncture-wound-prophylaxis.html)
+
+- [Reimplanted Teeth: Salvaging Avulsed Permanent](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html)
+- [Lost Filling or Crown: What to Do Now](/article/lost-filling-or-crown-temporary-and-permanent-solutions.html)
+

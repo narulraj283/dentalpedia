@@ -1,24 +1,37 @@
 ---
-title: "Apical Periodontitis: Understanding Bone Loss and"
-slug: apical-periodontitis-bone-loss-around-root-tip
 category: Endodontics
 category_slug: endodontics
-excerpt: "When a tooth's nerve dies, bacteria colonize the inside of the tooth and release toxins through the root tip opening."
 date: 2026-03-05
+excerpt: When a tooth's nerve dies, bacteria colonize the inside of the tooth and
+  release toxins through the root tip opening.
 read_time: 18 min
+references:
+- Kakehashi S, Stanley HR, Fitzgerald RJ. The effects of surgical exposures of dental
+  pulps in germ-free and conventional laboratory rats. Oral Surg Oral Med Oral Pathol.
+  1965;20(3):340-349.
+- 'Orstavik D, Kerekes K, Molven O. The periapical index: a scoring system for radiographic
+  assessment of apical periodontitis. Endod Dent Traumatol. 1986;2(1):20-34.'
+- Lin LM, Huang GT, Rosenberg PA. Proliferation of epithelial cell rests, formation
+  of apical cysts, and regression of apical cysts after periapical wound healing.
+  J Endod. 2007;33(8):908-916.
+- Velvart P. Detection of intact root fractures by conventional radiography and computed
+  tomography. Endod Dent Traumatol. 2001;17(6):250-256.
+- 'Strbac GD, Schnitzhofer W, Ulm CW, et al. Endodontic radiometric imaging using
+  a limited-field conebeam computed tomography unit: its utility in clinical practice.
+  J Endod. 2008;34(12):1455-1461.'
+- Almyroudi A, Faithillioudi A, Karamouzos V, et al. Influence of smear layer removal
+  on the sealing ability of various root canal sealers. Oral Surg Oral Med Oral Pathol
+  Oral Radiol Endod. 2009;108(1):144-150.
+- Wennerberg A, Persson C, Willbrandt J. Influence of surface roughness texture on
+  implant incorporation in rabbit tibia. Biomaterials. 1996;17(1):15-22.
+- Sakura H, Andreasen JO. Healing of intra-alveolar root fractures in the rat. Endod
+  Dent Traumatol. 1998;14(6):281-291.
+reviewed: true
 reviewer_specialty: Endodontics
+slug: apical-periodontitis-bone-loss-around-root-tip
 subcategory: Periapical Pathology
 subcategory_slug: periapical-pathology
-reviewed: true
-references:
-  - "Kakehashi S, Stanley HR, Fitzgerald RJ. The effects of surgical exposures of dental pulps in germ-free and conventional laboratory rats. Oral Surg Oral Med Oral Pathol. 1965;20(3):340-349."
-  - "Orstavik D, Kerekes K, Molven O. The periapical index: a scoring system for radiographic assessment of apical periodontitis. Endod Dent Traumatol. 1986;2(1):20-34."
-  - "Lin LM, Huang GT, Rosenberg PA. Proliferation of epithelial cell rests, formation of apical cysts, and regression of apical cysts after periapical wound healing. J Endod. 2007;33(8):908-916."
-  - "Velvart P. Detection of intact root fractures by conventional radiography and computed tomography. Endod Dent Traumatol. 2001;17(6):250-256."
-  - "Strbac GD, Schnitzhofer W, Ulm CW, et al. Endodontic radiometric imaging using a limited-field conebeam computed tomography unit: its utility in clinical practice. J Endod. 2008;34(12):1455-1461."
-  - "Almyroudi A, Faithillioudi A, Karamouzos V, et al. Influence of smear layer removal on the sealing ability of various root canal sealers. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2009;108(1):144-150."
-  - "Wennerberg A, Persson C, Willbrandt J. Influence of surface roughness texture on implant incorporation in rabbit tibia. Biomaterials. 1996;17(1):15-22."
-  - "Sakura H, Andreasen JO. Healing of intra-alveolar root fractures in the rat. Endod Dent Traumatol. 1998;14(6):281-291."
+title: 'Apical Periodontitis: Understanding Bone Loss'
 ---
 
 ## How Tooth Infection Destroys Bone
@@ -130,12 +143,13 @@ If conventional treatment fails, modern microsurgical apicectomy achieves 90-95 
 
 Success requires both excellent root canal sealing AND excellent crown sealing. Neither alone is sufficient. Your dentist's meticulous technique combined with your proper follow-up care (getting that crown promptly) determines whether your tooth has a healthy future.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** When a tooth's nerve dies, bacteria colonize the inside of the tooth and release toxins through the root tip opening.
 
-- [Accessory Canals: Side Channels in Roots](/article/accessory-canals-side-channels-in-roots.html)
-- [The Apical Foramen and Root Tip Opening: Anatomy, Location, and Clinical Significance](/article/apical-foramen-root-tip-opening.html)
-- [Calcified Canals: Root Canal Obstruction and Pulpal Canal Space Management](/article/calcified-canals-root-canal-obstruction.html)
+## Related Articles
 
+- [Calcified Canals](/article/calcified-canals-root-canal-obstruction.html)
+- [Stainless Steel Endodontic Files: Metallurgy,](/article/stainless-steel-files-traditional-material.html)
 
-> **Key Takeaway:** When a tooth's nerve dies, bacteria colonize the inside of the tooth and release toxins through the root tip opening. Your dentist can help you understand what steps are right for your specific needs.
+- [Single Cone Obturation Simplified Technique](/article/single-cone-obturation-simplified-technique.html)
+- [Dead Nerve Tissue: Understanding Pulp Necrosis](/article/necrotic-pulp-dead-nerve-tissue.html)
 

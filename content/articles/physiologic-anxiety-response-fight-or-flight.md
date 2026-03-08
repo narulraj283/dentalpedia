@@ -1,34 +1,9 @@
 ---
-title: Physiologic Anxiety Response and the Fight-or-Flight System
+category_slug: general-dentistry
+excerpt: When you feel afraid in the dental chair, your body automatically activates
+  a "fight-or-flight" response—an ancient survival system designed to help you
 slug: physiologic-anxiety-response-fight-or-flight
-category: Dental Anxiety & Sedation
-category_slug: dental-anxiety-sedation
-excerpt: Dental fear activates the autonomic nervous system, triggering sympathetic overactivity with elevated cortisol and epinephrine, potentially causing vasovagal syncope and cardiovascular complications in the dental chair.
-date: 2026-03-05
-read_time: 10 min
-reviewer_specialty: General Dentistry
-subcategory: Anxiety & Sedation Overview
-subcategory_slug: overview-anxiety-sedation
-reviewed: true
-references:
-  - title: "Arntz A, Claassens L. The meaning of pain influences its experienced intensity. Pain. 2004;109(1-2):20-25."
-    url: https://pubmed.ncbi.nlm.nih.gov/15082123
-  - title: "Mast MS, Kindlimann A, Langewitz W. Recipients' emotion recognition accuracy depends on senders' emotion expression intensity. J Nonverbal Behav. 2005;29(1):25-41."
-    url: https://pubmed.ncbi.nlm.nih.gov/
-  - title: "Roelofs K, Bakvis P, Hermans EJ, van Pelt J, van Amstel ME. The effects of social stress and cortisol responses on the prepulse inhibition; an experiment with the Trier social stress test. Psychoneuroendocrinology. 2007;32(5):540-547."
-    url: https://pubmed.ncbi.nlm.nih.gov/17382501
-  - title: "Verne GN, Shugar JL, Robinson ME. The role of central sensitization in symptoms beyond muscle pain: evidence from nociplastic pain conditions across the lifespan. Eur J Pain. 2016;20(5):657-665."
-    url: https://pubmed.ncbi.nlm.nih.gov/
-  - title: "Sarason IG, Sarason BR, Keefe DE. Cognitive interference: situational determinants and traitlike characteristics. J Pers Soc Psychol. 1986;51(2):215-226."
-    url: https://pubmed.ncbi.nlm.nih.gov/
-  - title: "Lim YZ, Celermajer DS, Charman SA. Relative risk of cardiovascular events associated with dental fear and avoidance. J Am Dent Assoc. 2012;143(1):34-42."
-    url: https://pubmed.ncbi.nlm.nih.gov/
-  - title: "Giesbrecht T, Smeets T, Leppink J. Stress-induced cognitive alterations and cardiovascular response." Work Stress. 2007;21(3):266-278."
-    url: https://pubmed.ncbi.nlm.nih.gov/
-  - title: "Halligan PW, Aylward M. The power of suggestion: pragmatic use of the placebo effect in pain management. Lancet. 2006;367(9522):1622-1625."
-    url: https://pubmed.ncbi.nlm.nih.gov/
-  - title: "Speisman JC, Lazarus RS, Mordkoff AM. Experimental reduction of stress based on ego-defense theory. J Abnorm Soc Psychol. 1964;68(4):367-380."
-    url: https://pubmed.ncbi.nlm.nih.gov/14101833
+title: Physiologic Anxiety Response Fight or Flight
 ---
 
 ## Your Body's Automatic Fear Response
@@ -63,7 +38,7 @@ Your dentist can help with this. Let them know you tend to tense up. They can re
 
 Anxiety suppresses salivation through sympathetic nervous system suppression of parasympathetic salivary gland stimulation. Your mouth becomes dry and sticky during anxiety, which makes the dental appointment more uncomfortable. Reduced salivation also eliminates saliva's protective functions including lubrication, antimicrobial activity, and remineralization support.
 
-If you already have dry mouth from medications or systemic conditions, anxiety makes it significantly worse. Tell your dentist about dry mouth so they can use appropriate moisture-retaining materials and provide salivary substitutes during treatment if needed. For more on this topic, see our guide on [Conscious Sedation Twilight Sleep Ben...](/article/conscious-sedation-twilight-sleep-benefits.html).
+If you already have dry mouth from medications or systemic conditions, anxiety makes it significantly worse. Tell your dentist about dry mouth so they can use appropriate moisture-retaining materials and provide salivary substitutes during treatment if needed. For more on this topic, see our guide on [Conscious Sedation in Dentistry: Pharmacology, Safety](/article/conscious-sedation-twilight-sleep-benefits.html).
 
 ## Pain Perception Amplification
 
@@ -91,22 +66,24 @@ Communication is paramount. Tell your dentist about your anxiety before treatmen
 
 Practicing deep breathing or progressive muscle relaxation before your appointment reduces baseline anxiety. Some patients find guided imagery helpful—mentally visualizing a calm, safe environment reduces emotional arousal and associated physiologic activation.
 
-[Sedation dentistry](/article/conscious-sedation-twilight-sleep-benefits.html), from minimal sedation (anti-anxiety medication) to moderate sedation (twilight sleep), provides chemical reduction of anxiety and associated sympathetic activation. For severely anxious patients, sedation enables necessary treatment while bypassing anxiety responses.
+Sedation dentistry, from minimal sedation (anti-anxiety medication) to moderate sedation (twilight sleep), provides chemical reduction of anxiety and associated sympathetic activation. For severely anxious patients, sedation enables necessary treatment while bypassing anxiety responses.
 
 Some dentists use behavioral techniques like the "tell-show-do" method—they tell you what they'll do, show you the instruments, then do the procedure. This graduated exposure reduces fear escalation. Allowing you to use a stop signal gives you sense of control, which reduces feeling of helplessness that amplifies anxiety.
 
 
+For more information, see [Management of Recurrent Oral Ulcers and Aphthous](/article/best-practices-for-mouth-ulcer-care.html).
 
 ## Conclusion
 
 Your dental health journey is unique, and the right approach depends on your individual needs and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options and feel confident about the path forward.
 
-## Key Takeaway
-
-Dental anxiety activates your autonomic nervous system's fight-or-flight response, creating sympathetic overactivity with elevated heart rate, blood pressure, muscle tension, and stress hormone elevation. While these responses rarely cause serious medical complications in healthy patients, they create significant suffering. Understanding these physiologic mechanisms enables you to work with your dentist on anxiety reduction strategies including controlled breathing, communication, behavior modification, and when appropriate, sedation. Your dentist wants to help you access comfortable dental care, and most have experience managing anxious patients through evidence-based approaches.
+> **Key Takeaway:** Dental anxiety activates your autonomic nervous system's fight-or-flight response, creating sympathetic overactivity with elevated heart rate, blood pressure, muscle tension, and stress hormone elevation. While these responses rarely cause serious medical complications in healthy patients, they create significant suffering. Understanding these physiologic mechanisms enables you to work with your dentist on anxiety reduction strategies including controlled breathing, communication, behavior modification, and when appropriate, sedation. Your dentist wants to help you access comfortable dental care, and most have experience managing anxious patients through evidence-based approaches.
 
 ## Related Articles
 
-- [Conscious Sedation and Twilight Sleep Benefits](/article/conscious-sedation-twilight-sleep-benefits.html)
 - [Pre-Medication Anti-Anxiety Pills](/article/pre-medication-anti-anxiety-pills.html)
 - [Post-Sedation Instructions](/article/post-sedation-instructions.html)
+- [Nano Hydroxyapatite Toothpaste Enamel Remineralization](/article/nano-hydroxyapatite-toothpaste-enamel-remineralization.html)
+- [Timeline For Mouthwash Selection](/article/timeline-for-mouthwash-selection.html)
+- [Timeline For Orthodontic Extraction Decision](/article/timeline-for-orthodontic-extraction-decision.html)
+

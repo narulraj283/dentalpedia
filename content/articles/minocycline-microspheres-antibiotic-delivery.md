@@ -55,7 +55,7 @@ Another scenario: if you can't tolerate oral antibiotics due to allergies or pre
 
 ## What Happens During the Procedure
 
-Your periodontist isolates the pocket area with rubber dam to keep it dry. Learning more about [periodontal disease and braces compatibility issues](/article/periodontal-disease-and-braces-compatibility-issues.html) can help you understand this better. They gently pack minocycline microspheres into the deepest part of the pocket, essentially filling the pocket with these antibiotic-releasing particles. Gentle pressure settles the material deeper into the pocket.
+Your periodontist isolates the pocket area with rubber dam to keep it dry. Learning more about [Periodontal Disease and Braces Compatibility Issues](/article/periodontal-disease-and-braces-compatibility-issues.html) can help you understand this better. They gently pack minocycline microspheres into the deepest part of the pocket, essentially filling the pocket with these antibiotic-releasing particles. Gentle pressure settles the material deeper into the pocket.
 
 The procedure is painless—no numbing needed. After placement, you're instructed not to brush or floss aggressively for 24-36 hours, allowing the material to stabilize. You'll use prescribed chlorhexidine rinses (a strong antimicrobial mouthwash) for 2 weeks to amplify the antibiotic effect.
 
@@ -73,7 +73,7 @@ Minocycline is never a replacement for mechanical cleaning. Your periodontist mu
 
 Effects are temporary. Bacteria recolonize pockets within weeks if you don't maintain excellent home care and professional cleanings. Minocycline doesn't permanently resolve gum disease; it buys time for healing and creates better conditions for tissue recovery.
 
-Cost is a limitation. Learning more about [gingivitis prevention reversing early gum disease](/article/gingivitis-prevention-reversing-early-gum-disease.html) can help you understand this better. Minocycline applications cost $50-100+ per pocket, and you might need multiple pockets treated. Many insurance companies don't cover it, or cover it minimally. Out-of-pocket cost can exceed $300-500 for treatment of multiple problem areas.
+Cost is a limitation. Learning more about [Gingivitis Prevention Reversing Early Gum Disease](/article/gingivitis-prevention-reversing-early-gum-disease.html) can help you understand this better. Minocycline applications cost $50-100+ per pocket, and you might need multiple pockets treated. Many insurance companies don't cover it, or cover it minimally. Out-of-pocket cost can exceed $300-500 for treatment of multiple problem areas.
 
 ## Long-Term Tooth Retention
 
@@ -91,20 +91,22 @@ Honest periodontists will acknowledge that minocycline is adjunctive—helpful b
 
 After minocycline therapy, your part is crucial. Excellent home care (brushing and flossing), strict dietary control (avoiding sugars and acidic drinks), stress management, and regular professional cleanings determine long-term success. The minocycline gives you better starting conditions; your actions maintain results.
 
+## Professional Maintenance Protocol
+
+After minocycline therapy, your periodontist likely recommends more frequent professional cleanings—typically every 3-4 months rather than the standard 6 months. This increased frequency maintains suppressed bacterial levels that minocycline created. Your periodontist might recommend antimicrobial rinses or additional professional antimicrobial applications to support the benefits minocycline provided.
+
+Long-term antibiotic use is avoided despite apparent benefits because of resistance development concerns. Using minocycline as a supplementary one-time therapy followed by maintenance creates benefit without driving widespread resistance. This approach balances patient benefit against the public health concern of antibiotic resistance, which affects everyone.
+
 ## Conclusion
 
 Minocycline microspheres represent a legitimate tool for treating aggressive gum disease that isn't responding to mechanical therapy alone. They're not a magic cure, but they provide meaningful additional benefit for selected patients. The combination of minocycline with excellent home care, dietary discipline, and regular professional cleanings gives you the best chance of retaining teeth with aggressive periodontitis. However, minocycline isn't appropriate for every gum disease case—ask your periodontist why it's recommended for your specific situation.
 
 > **Key Takeaway:** Minocycline microspheres deliver antibiotics directly into gum pockets to improve outcomes when aggressive gum disease doesn't respond to cleaning alone. Benefits are modest (additional pocket reduction of 0.5-1 millimeter) but meaningful for tooth retention. This is supplementary to, not replacement for, excellent home care and professional cleaning.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Periodontal Disease and Braces Compatibility](/article/periodontal-disease-and-braces-compatibility-issues.html)
-- [Gingivitis Prevention: Reversing Early Gum Disease](/article/gingivitis-prevention-reversing-early-gum-disease.html)
 - [Why Bleeding Gums Need Solutions](/article/why-bleeding-gums-solutions-matters.html)
 
-## Professional Maintenance Protocol
+- [Moderate Periodontitis: Clinical Definition](/article/moderate-periodontitis-clinical-definition.html)
+- [Periodontal Disease Genetics Family Risk Factors](/article/periodontal-disease-genetics-family-risk-factors.html)
 
-After minocycline therapy, your periodontist likely recommends more frequent professional cleanings—typically every 3-4 months rather than the standard 6 months. This increased frequency maintains suppressed bacterial levels that minocycline created. Your periodontist might recommend antimicrobial rinses or additional professional antimicrobial applications to support the benefits minocycline provided.
-
-Long-term antibiotic use is avoided despite apparent benefits because of resistance development concerns. Using minocycline as a supplementary one-time therapy followed by maintenance creates benefit without driving widespread resistance. This approach balances patient benefit against the public health concern of antibiotic resistance, which affects everyone.

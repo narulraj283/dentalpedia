@@ -84,7 +84,9 @@ Your dentist should recommend treatment intensity matching your grade:
 
 **For Grade A patients**: Standard scaling and root planing (deep cleaning), excellent home care, 6-month recall visits, annual X-rays. Most Grade A patients do well with this basic approach and rarely lose teeth. The goal is maintaining stability through good hygiene and regular monitoring. You have time to address issues before they become serious, so less aggressive intervention is both effective and appropriate.
 
-**For Grade B patients**: Scaling might be done in multiple sessions rather than all at once. Some patients benefit from antimicrobial rinses or low-dose antibiotics for 3 months. Recall visits every 4-6 months. Some periodontists recommend selective surgical treatment for pockets remaining deeper than 5mm after scaling. The increased monitoring helps catch any acceleration toward Grade C early, allowing treatment adjustment before rapid progression occurs. This intermediate approach balances preventing progression without the burden of intensive Grade C treatment.
+**For Grade B patients**: Scaling might be done in multiple sessions rather than all at once. Some patients benefit from antimicrobial rinses or low-dose antibiotics for 3 months. Recall visits every 4-6 months.
+
+Some periodontists recommend selective surgical treatment for pockets remaining deeper than 5mm after scaling. The increased monitoring helps catch any acceleration toward Grade C early, allowing treatment adjustment before rapid progression occurs. This intermediate approach balances preventing progression without the burden of intensive Grade C treatment.
 
 **For Grade C patients**: Comprehensive scaling, systemic antibiotics (amoxicillin plus metronidazole for 7 days), surgical intervention with bone grafting for defects, and mandatory 3-month recall visits indefinitely. This intensive approach prevents tooth loss in most cases. While the treatment demands are significant, the alternative—tooth loss within years—makes intensive treatment worthwhile. Your periodontist wants to save your teeth, and aggressive treatment is the tool that accomplishes this for Grade C patients.
 
@@ -118,18 +120,17 @@ Oral hygiene absolutely matters. While you can't brush away a genetic tendency t
 
 The key insight: Your grade reflects your current disease trajectory, but multiple factors contribute to that trajectory. Modifying the ones you can control might shift your grade over time or at minimum slow progression within your grade.
 
-## Related Articles You May Find Helpful
-
-- [Aggressive Periodontitis: Early-Onset Gum Disease](/article/aggressive-periodontitis-early-onset-gum-disease.html)
-- [Alcohol and Periodontitis: Increased Risk](/article/alcohol-and-periodontitis-increased-risk.html)
-- [Alveolar Bone: The Tooth Support Structure](/article/alveolar-bone-tooth-support-structure.html)
-
-
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about aggressive vs chronic disease progression rate. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** Dentists recently updated how they classify gum disease. Your dentist can help you understand what steps are right for your specific needs.
+
+## Related Articles
+
+- [Alveolar Bone: The Tooth Support Structure](/article/alveolar-bone-tooth-support-structure.html)
+- [Systemic Disease Links: The Bidirectional Relationship](/article/systemic-disease-links-diabetes-and-gum-disease.html)
+- [Sonic Scalers - Oscillating Frequency and Subgingival](/article/sonic-scaler-oscillating-frequency.html)
+- [Gum Disease Stages: Gingivitis to Periodontitis](/article/gum-disease-stages-gingivitis-to-periodontitis.html)
+- [Why Addressing Bleeding Gums Matters for Long-Term Oral](/article/why-bleeding-gums-solutions-matters.html)
 

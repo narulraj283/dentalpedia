@@ -1,29 +1,39 @@
 ---
-title: Why Your Teeth Hurt When You Eat Cold Foods and What You
-slug: dentin-hypersensitivity-root-exposure-pain
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Understand tooth sensitivity, why exposed tooth roots hurt, and simple treatments that can stop the pain.
 date: 2026-03-05
+excerpt: Understand tooth sensitivity, why exposed tooth roots hurt, and simple treatments
+  that can stop the pain.
 read_time: 9 min
+references:
+- 'West NX, et al. Dentin hypersensitivity: prevalence and associated factors in the
+  general population. Community Dentistry and Oral Epidemiology. 2013;41(1):19-25.'
+- Brännström M. A hydrodynamic mechanism in the transmission of pain-producing stimuli
+  through the dentin. Caries Research. 1964;2:1-96.
+- Touyz LZ. Clinical management of dentin hypersensitivity. Dental Clinics of North
+  America. 2002;46(2):273-284.
+- Orchardson R, Collins WJ. Clinical features of dentine hypersensitivity. British
+  Dental Journal. 1987;162(6):253-256.
+- 'Pashley DH. Dentin: a dynamic substrate. Scanning Microscopy. 1992;6(3):161-176.'
+- Arwill T, et al. A study of highly polished root surfaces. Journal of Clinical Periodontology.
+  1974;1(2):120-125.
+- Cummins D. Recent advances in dentin desensitizing agents for root surfaces. Journal
+  of Clinical Dentistry. 2011;22(1):8-15.
+- He T, Sensodyne Research G. Long-term remineralization effects of a strontium acetate
+  containing toothpaste on dentin. Journal of Clinical Dentistry. 2011;22(3):92-96.
+- Pereira R, et al. Clinical efficacy of a desensitizing dentifrice. Journal of Oral
+  & Facial Pain and Headache. 2008;22(2):139-146.
+- Schmidlin PR, et al. Effectiveness of calcium silicate/sodium phosphate toothpaste
+  for dentin hypersensitivity relief. Clinical Oral Investigations. 2013;17(1):31-36.
+reviewed: true
 reviewer_specialty: General Dentistry
+slug: dentin-hypersensitivity-root-exposure-pain
 subcategory: General Overview
 subcategory_slug: overview-general
-reviewed: true
-references:
-  - "West NX, et al. Dentin hypersensitivity: prevalence and associated factors in the general population. Community Dentistry and Oral Epidemiology. 2013;41(1):19-25."
-  - "Brännström M. A hydrodynamic mechanism in the transmission of pain-producing stimuli through the dentin. Caries Research. 1964;2:1-96."
-  - "Touyz LZ. Clinical management of dentin hypersensitivity. Dental Clinics of North America. 2002;46(2):273-284."
-  - "Orchardson R, Collins WJ. Clinical features of dentine hypersensitivity. British Dental Journal. 1987;162(6):253-256."
-  - "Pashley DH. Dentin: a dynamic substrate. Scanning Microscopy. 1992;6(3):161-176."
-  - "Arwill T, et al. A study of highly polished root surfaces. Journal of Clinical Periodontology. 1974;1(2):120-125."
-  - "Cummins D. Recent advances in dentin desensitizing agents for root surfaces. Journal of Clinical Dentistry. 2011;22(1):8-15."
-  - "He T, Sensodyne Research G. Long-term remineralization effects of a strontium acetate containing toothpaste on dentin. Journal of Clinical Dentistry. 2011;22(3):92-96."
-  - "Pereira R, et al. Clinical efficacy of a desensitizing dentifrice. Journal of Oral & Facial Pain and Headache. 2008;22(2):139-146."
-  - "Schmidlin PR, et al. Effectiveness of calcium silicate/sodium phosphate toothpaste for dentin hypersensitivity relief. Clinical Oral Investigations. 2013;17(1):31-36."
+title: Why Your Teeth Hurt When You Eat Cold Foods and What
 ---
 
-If you wince when you sip cold water or eat ice cream, you're experiencing tooth sensitivity. Learning more about [cavity formation process complete guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. This common problem affects millions of people and is usually caused by exposed tooth root surfaces where the protective tooth root covering has worn away. The good news is that sensitivity can be managed with special products and professional treatments.
+If you wince when you sip cold water or eat ice cream, you're experiencing tooth sensitivity. Learning more about [Cavity Formation Process Complete Guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. This common problem affects millions of people and is usually caused by exposed tooth root surfaces where the protective tooth root covering has worn away. The good news is that sensitivity can be managed with special products and professional treatments.
 
 ## Why Do Your Teeth Hurt When They're Exposed?
 
@@ -51,9 +61,11 @@ You'll likely notice the sensitivity on your front teeth or at the gum line of y
 
 ## The Best Home Care Approach
 
-Using a soft-bristled toothbrush and brushing gently is crucial. Learning more about [dental products comparison what actually works](/article/dental-products-comparison-what-actually-works.html) can help you understand this better. Hard brushing (pressing harder than needed to clean) accelerates gum recession and can create abfraction lesions. Use light, gentle motions, especially at the gum line, rather than aggressive scrubbing. Electric toothbrushes with gentle modes are often better than manual brushing if you tend to brush too hard.
+Using a soft-bristled toothbrush and brushing gently is crucial. Learning more about [Dental Products Comparison What Actually Works](/article/dental-products-comparison-what-actually-works.html) can help you understand this better. Hard brushing (pressing harder than needed to clean) accelerates gum recession and can create abfraction lesions. Use light, gentle motions, especially at the gum line, rather than aggressive scrubbing. Electric toothbrushes with gentle modes are often better than manual brushing if you tend to brush too hard.
 
-Desensitizing toothpaste is one of your best tools. These pastes work in two ways. Some contain ingredients like potassium nitrate that reduce nerve sensitivity. Others contain particles that physically seal the tiny exposed channels in your tooth. Brands with potassium nitrate usually take 2-4 weeks of regular use to work fully. Pastes with strontium, arginine, or bioactive glass particles work even better (70-80% improvement for many people) and sometimes work faster.
+Desensitizing toothpaste is one of your best tools. These pastes work in two ways. Some contain ingredients like potassium nitrate that reduce nerve sensitivity.
+
+Others contain particles that physically seal the tiny exposed channels in your tooth. Brands with potassium nitrate usually take 2-4 weeks of regular use to work fully. Pastes with strontium, arginine, or bioactive glass particles work even better (70-80% improvement for many people) and sometimes work faster.
 
 Use your desensitizing toothpaste twice daily, and don't rinse your mouth thoroughly with water after brushing—let some of the protective ingredients stay on your teeth. If you grind your teeth, ask your dentist about a nighttime mouthguard. If you drink acidic beverages, use a straw to limit how much contacts your teeth, and rinse your mouth with plain water afterward. Don't brush your teeth right after acidic foods because the acid softens your enamel temporarily.
 
@@ -79,12 +91,13 @@ Stress management helps if grinding is your issue. Some people benefit from avoi
 
 Tooth sensitivity usually comes from exposed tooth roots due to gum recession, erosion, or tooth grinding. The sharp pain you feel happens because tiny channels in your tooth become exposed and irritation reaches the nerve. Home care with desensitizing toothpaste helps most people, but professional treatments like fluoride varnish or bonding offer stronger relief for persistent cases. If sensitivity isn't improving with home care after a few weeks, or if you're having pain that seems different from typical sensitivity, see your dentist to make sure nothing more serious is going on. Talk to your dentist about which options are right for your specific situation.
 
+> **Key Takeaway:** Understand tooth sensitivity, why exposed tooth roots hurt, and simple treatments that can stop the pain.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Understanding How Cavities Form and Develop](/article/cavity-formation-process-complete-guide.html)
-- [Choosing the Right Dental Products That Actually Work](/article/dental-products-comparison-what-actually-works.html)
 - [How to Protect Your Teeth from Erosion](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+- [Crown vs Bridge Decision: A Complete Patient Guide](/article/benefits-of-crown-vs-bridge-decision.html)
+- [Dentin Hypersensitivity and Evidence-Based Relief](/article/understanding-tooth-sensitivity-and-relief-options.html)
+- [Bad Breath (Halitosis): Causes and Solutions](/article/bad-breath-halitosis-causes-and-solutions.html)
+- [Cost of Dental Procedure Planning and Treatment](/article/cost-of-dental-procedure-planning.html)
 
-> **Key Takeaway:** Tooth sensitivity comes from exposed tooth roots and responds well to desensitizing toothpaste and professional fluoride treatments—most people see significant improvement within a few weeks of consistent home care.

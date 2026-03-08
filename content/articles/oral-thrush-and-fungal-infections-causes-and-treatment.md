@@ -57,7 +57,7 @@ Solution: remove dentures nightly, clean them thoroughly daily with denture brus
 
 ### HIV or Severe Immunosuppression
 
-As HIV progresses (CD4 count drops below two hundred), candidiasis becomes common—a marker of advanced disease. Chemotherapy patients, transplant recipients on immunosuppressive drugs, and those on immune-suppressing biologics all have elevated thrush risk. For more on this topic, see our guide on [Common Misconceptions About Tooth Col...](/article/common-misconceptions-about-tooth-color-changes.html).
+As HIV progresses (CD4 count drops below two hundred), candidiasis becomes common—a marker of advanced disease. Chemotherapy patients, transplant recipients on immunosuppressive drugs, and those on immune-suppressing biologics all have elevated thrush risk. For more on this topic, see our guide on [Common Misconceptions About Tooth Color Changes](/article/common-misconceptions-about-tooth-color-changes.html).
 
 If you develop thrush without obvious triggers (no antibiotics, no steroids, no dentures), discuss HIV testing with your doctor.
 
@@ -109,18 +109,17 @@ If you develop thrush without obvious triggers (no recent antibiotics, no steroi
 
 **If diabetic**: Optimize blood sugar control through diet, medication, and regular monitoring.
 
-> **Key Takeaway:** Oral thrush is easily treatable with antifungal medication, but the real issue is what allowed it to develop. Identify and address the underlying cause (antibiotics, steroids, dry mouth, denture wear, or immune compromise) to prevent recurrence. If thrush develops without obvious triggers, discuss with your doctor whether testing for serious immunosuppression is warranted.
-
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about topics like oral thrush. The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
+The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Oral thrush is easily treatable with antifungal medication, but the real issue is what allowed it to develop. Identify and address the underlying cause (antibiotics, steroids, dry mouth, denture wear, or immune compromise) to prevent recurrence. If thrush develops without obvious triggers, discuss with your doctor whether testing for serious immunosuppression is warranted.
+
+## Related Articles
 
 - [Dry Mouth: Causes, Treatment, and Prevention](/article/xerostomia-dry-mouth-prevention-and-management.html)
 - [Oral Infections: Signs, Causes, and Treatment](/article/mouth-ulcers-and-canker-sores-treatment-and-prevention.html)
 - [Denture Care: Keeping Your Dentures Clean and Healthy](/article/denture-hygiene-cleaning-techniques.html)
+

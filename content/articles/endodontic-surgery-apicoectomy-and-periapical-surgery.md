@@ -1,27 +1,36 @@
 ---
-title: "Endodontic Surgery: Apicoectomy and Periapical Surgery"
-slug: endodontic-surgery-apicoectomy-and-periapical-surgery
 category: Endodontics
 category_slug: endodontics
-excerpt: Surgical management of persistent periapical pathology when conventional root canal therapy fails.
 date: 2026-03-05
+excerpt: Surgical management of persistent periapical pathology when conventional
+  root canal therapy fails.
 read_time: 9 min
+references:
+- 'Setzer FC, Shah SB, Kohli MR, et al. Outcome of endodontic surgery: a meta-analysis
+  of the literature. Part 1: Comparison of traditional root-end surgery and endodontic
+  microsurgery. J Endod. 2010;36(11):1757-1765.'
+- 'Arx T. Apical surgery: a review of current techniques and outcome. Oral Surg Oral
+  Med Oral Pathol Oral Radiol Endod. 2011;111(6):702-714.'
+- Kim S, Kratchman S. Modern endodontic surgery anatomy, access, visualization, and
+  instrumentation. J Endod. 2006;32(7):601-609.
+- Geraissian R, Capriott J. Periosteal pocket (pouch) for placement of periapical
+  bone graft material. J Oral Implantol. 2000;26(2):110-114.
+- 'Tsesis I, Rosen E, Schwartz-Arad D, et al. Diagnosis of post-treatment apical periodontitis:
+  a new approach and nomenclature. J Endod. 2012;38(12):1556-1562.'
+- Ingle JI, Bakland LK, Baumgartner JC. Ingle's Endodontics. 6th ed. BC Decker; 2008.
+- Andreasen JO, Andreasen FM, Andersson L. Textbook and Color Atlas of Traumatic Injuries
+  of the Teeth. 4th ed. Blackwell Munksgaard; 2007.
+- 'Moiseiwitsch JR. Anatomy of the inferior alveolar nerve: relevant to oral and maxillofacial
+  surgery. J Oral Maxillofac Surg. 1995;53(12):1447-1449.'
+reviewed: true
 reviewer_specialty: Endodontics
+slug: endodontic-surgery-apicoectomy-and-periapical-surgery
 subcategory: Endodontic Overview
 subcategory_slug: overview-endo
-reviewed: true
-references:
-  - "Setzer FC, Shah SB, Kohli MR, et al. Outcome of endodontic surgery: a meta-analysis of the literature. Part 1: Comparison of traditional root-end surgery and endodontic microsurgery. J Endod. 2010;36(11):1757-1765."
-  - "Arx T. Apical surgery: a review of current techniques and outcome. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2011;111(6):702-714."
-  - "Kim S, Kratchman S. Modern endodontic surgery anatomy, access, visualization, and instrumentation. J Endod. 2006;32(7):601-609."
-  - "Geraissian R, Capriott J. Periosteal pocket (pouch) for placement of periapical bone graft material. J Oral Implantol. 2000;26(2):110-114."
-  - "Tsesis I, Rosen E, Schwartz-Arad D, et al. Diagnosis of post-treatment apical periodontitis: a new approach and nomenclature. J Endod. 2012;38(12):1556-1562."
-  - "Ingle JI, Bakland LK, Baumgartner JC. Ingle's Endodontics. 6th ed. BC Decker; 2008."
-  - "Andreasen JO, Andreasen FM, Andersson L. Textbook and Color Atlas of Traumatic Injuries of the Teeth. 4th ed. Blackwell Munksgaard; 2007."
-  - "Moiseiwitsch JR. Anatomy of the inferior alveolar nerve: relevant to oral and maxillofacial surgery. J Oral Maxillofac Surg. 1995;53(12):1447-1449."
+title: 'Endodontic Surgery: Apicoectomy and Periapical'
 ---
 
-When a tooth's root canal treatment doesn't completely resolve an infection, surgery might be necessary to save the tooth. Learning more about [root canal therapy complete pulp removal](/article/root-canal-therapy-complete-pulp-removal.html) can help you understand this better. Endodontic surgery (apicoectomy) removes the infected root tip and seals it permanently. Understanding this procedure helps you make informed decisions about keeping an infected tooth.
+When a tooth's root canal treatment doesn't completely resolve an infection, surgery might be necessary to save the tooth. Learning more about [Root Canal Therapy Complete Pulp Removal](/article/root-canal-therapy-complete-pulp-removal.html) can help you understand this better. Endodontic surgery (apicoectomy) removes the infected root tip and seals it permanently. Understanding this procedure helps you make informed decisions about keeping an infected tooth.
 
 ## When Surgery Becomes Necessary
 
@@ -95,7 +104,7 @@ Modern endodontic surgery has excellent success rates:
 
 **Mid-term**: X-rays at 6-12 months document bone fill and lesion resolution.
 
-**Long-term**: Follow-up X-rays at 12-24 months document complete healing. Learning more about [root canal retreatment when resin occurs](/article/root-canal-retreatment-when-resin-occurs.html) can help you understand this better. Larger lesions might require 24-36 month follow-up before complete healing is evident.
+**Long-term**: Follow-up X-rays at 12-24 months document complete healing. Learning more about [Root Canal Retreatment When Resin Occurs](/article/root-canal-retreatment-when-resin-occurs.html) can help you understand this better. Larger lesions might require 24-36 month follow-up before complete healing is evident.
 
 **Normal healing progression**: Initially, bleeding and inflammation are expected. Within 2 weeks, epithelial coverage (gum healing) is complete. Over months, bone gradually fills the surgical site, visible on X-rays as increased bone density.
 
@@ -131,16 +140,21 @@ After successful endodontic surgery:
 
 **Watchful waiting**: Some asymptomatic infections (those causing no pain or symptoms) can be monitored radiographically without surgery. This approach works if the tooth isn't causing problems, though infection persists.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
-Endodontic surgery saves teeth that standard root canal treatment can't resolve. Modern microsurgical techniques achieve success rates exceeding 90% in appropriately selected cases. Recovery is usually rapid with minimal discomfort. If you've had root canal treatment failure or persistent symptoms, discuss whether surgical options might save your tooth. The alternative—extraction and replacement—costs more and requires more extensive treatment. Talk to your endodontist about which options are right for your specific situation.
+Endodontic surgery saves teeth that standard root canal treatment can't resolve. Modern microsurgical techniques achieve success rates exceeding 90% in appropriately selected cases. Recovery is usually rapid with minimal discomfort.
 
+If you've had root canal treatment failure or persistent symptoms, discuss whether surgical options might save your tooth. The alternative—extraction and replacement—costs more and requires more extensive treatment. Talk to your endodontist about which options are right for your specific situation.
 
+> **Key Takeaway:** Surgical management of persistent periapical pathology when conventional root canal therapy fails.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Root Canal Therapy: Complete Pulp Removal](/article/root-canal-therapy-complete-pulp-removal.html)
-- [Root Canal Retreatment: When Reinfection Occurs](/article/root-canal-retreatment-when-resin-occurs.html)
 - [Perforated Pulp Chamber: Root Canal Emergency](/article/perforated-pulp-chamber-root-canal-emergency.html)
+- [Apical Periodontitis: Understanding Bone Loss and](/article/apical-periodontitis-bone-loss-around-root-tip.html)
+- [Stainless Steel Endodontic Files: Metallurgy,](/article/stainless-steel-files-traditional-material.html)
+- [Irreversible Pulpitis - Tooth Requires Root Canal](/article/irreversible-pulpitis-tooth-requires-root-canal.html)
+- [Root Canal Length: Why Dentists Measure Twice Before](/article/working-length-determination-apex-location.html)
 
-> **Key Takeaway:** Endodontic surgery successfully saves teeth when root canal treatment fails, with success rates exceeding 90% in most cases. Recovery is usually quick with minimal discomfort. Surgery is a worthwhile option before considering tooth extraction. Talk to your endodontist about which options are right for your specific situation.

@@ -94,7 +94,9 @@ Your surgeon applies topical numbing spray, then injects anesthetic (usually lid
 This is local anesthesia plus gas that makes you relaxed and a little euphoric—you won't feel anxious during the procedure. You stay awake and can talk to the surgeon, but you're less aware of what's happening. Recovery is immediate (you breathe oxygen for a few minutes and you're back to normal), and you can go home right away. This is good for people who want some relaxation without being put completely to sleep. Cost: $50-100 additional.
 
 **IV Sedation (Twilight Sleep)**
-You get medication through an IV that relaxes you and makes you drowsy. You'll have pain medication too so you don't feel anything. Many people remember the beginning of the procedure but not the extraction itself—there are "time gaps" because of the sedation. You're not completely asleep, but you're not fully aware either. Recovery takes 30-60 minutes, you'll feel groggy for a couple hours, and you can't drive for 24 hours. This is good for anxious people who want to be somewhat aware but not remember the whole thing. Cost: $200-400 additional.
+You get medication through an IV that relaxes you and makes you drowsy. You'll have pain medication too so you don't feel anything. Many people remember the beginning of the procedure but not the extraction itself—there are "time gaps" because of the sedation.
+
+You're not completely asleep, but you're not fully aware either. Recovery takes 30-60 minutes, you'll feel groggy for a couple hours, and you can't drive for 24 hours. This is good for anxious people who want to be somewhat aware but not remember the whole thing. Cost: $200-400 additional.
 
 **General Anesthesia (Completely Asleep)**
 You're completely unconscious, with an anesthesiologist monitoring your airway and breathing the entire time. You remember nothing. This is used for very complex extractions (multiple teeth, severely impacted teeth requiring 1-2+ hours of surgery), patients with severe anxiety, pediatric patients, or people with special medical needs. Recovery takes longer, cost is higher ($500-1,000+ additional), and you definitely can't drive for 24 hours. Recovery involves waking up gradually and feeling groggier than with IV sedation.
@@ -131,7 +133,7 @@ This is the most painful complication—not an infection, but a problem where th
 
 Dry socket is more common in smokers (5-10 times more common if you smoke). If it happens, your dentist can treat it by cleaning the socket and placing medicated gauze. It's uncomfortable but treatable.
 
-See our article on [dry socket prevention](/article/wisdom-tooth-extraction-complications-dry-socket-prevention.html) for detailed prevention strategies.
+See our article on [Dry Socket Prevention](/article/wisdom-tooth-extraction-complications-dry-socket-prevention.html) for detailed prevention strategies.
 
 **Infection**
 About 2-5% of extractions develop infection. Early infection (day 1-2 after surgery) shows up as fever, pus, and swelling. Antibiotics prescribed by your surgeon treat it. Your surgeon might give you antibiotics preventatively before surgery if you're high-risk (diabetic, immunocompromised, or having a complex extraction).
@@ -145,10 +147,14 @@ Occasionally with upper wisdom teeth, the extraction site opens into the sinus c
 ## Your Recovery Timeline Day-by-Day
 
 **Day 1 (Surgery Day)**
-Pain peaks around level 5/10—it's sore and uncomfortable but manageable. Bleeding continues off and on. Your face will begin to swell but might not be dramatic yet. You'll feel groggy if you had sedation or anesthesia. Don't worry about eating—just focus on resting. Pain medication might help you sleep.
+Pain peaks around level 5/10—it's sore and uncomfortable but manageable. Bleeding continues off and on. Your face will begin to swell but might not be dramatic yet.
+
+You'll feel groggy if you had sedation or anesthesia. Don't worry about eating—just focus on resting. Pain medication might help you sleep.
 
 **Days 2-3**
-Swelling gets worse before it gets better (this is completely normal). Days 2-3 are usually the most swollen. Pain drops to about 3-4/10. Bleeding mostly stops. This is when ice helps the most—apply ice for 20 minutes on, 20 minutes off for the first 6-8 hours, then use it periodically. Ice reduces swelling by 30-50%.
+Swelling gets worse before it gets better (this is completely normal). Days 2-3 are usually the most swollen. Pain drops to about 3-4/10.
+
+Bleeding mostly stops. This is when ice helps the most—apply ice for 20 minutes on, 20 minutes off for the first 6-8 hours, then use it periodically. Ice reduces swelling by 30-50%.
 
 **Days 4-7**
 Swelling starts improving noticeably. Pain becomes mild (1-2/10). If your surgeon used non-dissolving stitches, they come out around day 7. Most people feel well enough to return to light activity and softer foods.
@@ -196,7 +202,10 @@ Most discomfort is normal. Some bruising, stiffness, minor swelling, or difficul
 - **Difficulty breathing or swallowing** (rare but serious—seek emergency care)
 - **Numbness that's spreading or getting worse** (should be stable or improving)
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
+
+For more information, see [Salivary Gland Surgery](/article/salivary-gland-surgery-removal-and-reconstruction.html).
 
 ## Conclusion
 
@@ -204,13 +213,13 @@ Taking care of your dental health is one of the best investments you can make in
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
+Understand that some swelling and discomfort are normal and expected. If you prepare well, follow care instructions, and know what complications to watch for, your recovery will be smooth. For more on preventing the most common complication, see our detailed guide on dry socket prevention and management.
 
-Wisdom tooth extraction is a routine procedure with an excellent safety record. Most people recover well and return to normal life within 2-4 weeks. The key to good outcomes is simple: follow pre-op instructions carefully, choose the right anesthesia for your comfort, follow post-op care rules strictly (especially no smoking and no straws for at least a week), and take pain medication on schedule. Understand that some swelling and discomfort are normal and expected. If you prepare well, follow care instructions, and know what complications to watch for, your recovery will be smooth. For more on preventing the most common complication, see our detailed guide on [dry socket prevention and management](/article/wisdom-tooth-extraction-complications-dry-socket-prevention.html).
-
+> **Key Takeaway:** Wisdom tooth extraction is a routine procedure with an excellent safety record. Most people recover well and return to normal life within 2-4 weeks. The key to good outcomes is simple: follow pre-op instructions carefully, choose the right anesthesia for your comfort, follow post-op care rules strictly (especially no smoking and no straws for at least a week), and take pain medication on schedule.
 
 ## Related Articles
 
 - [Best Practices For Surgical Complications](/article/best-practices-for-surgical-complications.html)
 - [Risk And Concerns With Oral Surgery Recovery Timeline](/article/risk-and-concerns-with-oral-surgery-recovery-timeline.html)
 - [Pre Surgery Preparation What You Need To Know](/article/pre-surgery-preparation-what-you-need-to-know.html)
+

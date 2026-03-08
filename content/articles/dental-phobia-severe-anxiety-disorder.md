@@ -23,7 +23,7 @@ references:
 
 ## Is It Just Anxiety, or Is It Real Phobia?
 
-About 3-5% of adults have true dental phobia—not just nervousness, but serious anxiety that interferes with their life. Learning more about [timeline for anesthesia options](/article/timeline-for-anesthesia-options.html) can help you understand this better. There's a big difference between normal worry and dental phobia. Normal worry about dental work is proportionate to real risks. Dental phobia is intense, irrational fear that causes people to avoid dentists entirely, even when they're in pain or their teeth are failing.
+About 3-5% of adults have true dental phobia—not just nervousness, but serious anxiety that interferes with their life. Learning more about [Timeline for Anesthesia Options](/article/timeline-for-anesthesia-options.html) can help you understand this better. There's a big difference between normal worry and dental phobia. Normal worry about dental work is proportionate to real risks. Dental phobia is intense, irrational fear that causes people to avoid dentists entirely, even when they're in pain or their teeth are failing.
 
 If you avoid dental care despite knowing you need it, have panic attacks thinking about dental appointments, or feel overwhelming dread, you might have dental phobia. This isn't weakness or stubbornness—it's a real anxiety disorder that responds to treatment.
 
@@ -45,7 +45,7 @@ Research shows that people with severe dental anxiety have 2-3 times higher risk
 
 The gold-standard treatment for dental phobia is cognitive-behavioral therapy (CBT), which works 70-85% of the time. CBT has two parts: changing your thinking patterns and gradually exposing yourself to the feared situation.
 
-The thinking-change part challenges catastrophic thoughts. Learning more about [dentist specialties guide](/article/dentist-specialties-guide.html) can help you understand this better. You might think "The dentist will hurt me" or "I'll have a panic attack." CBT teaches you to examine these thoughts: "Actually, modern anesthesia works well. I've had fillings before and was fine. Most filling procedures involve minimal discomfort." By repeated practice, your brain gradually accepts more realistic thoughts.
+The thinking-change part challenges catastrophic thoughts. Learning more about [Dentist Specialties Guide](/article/dentist-specialties-guide.html) can help you understand this better. You might think "The dentist will hurt me" or "I'll have a panic attack." CBT teaches you to examine these thoughts: "Actually, modern anesthesia works well. I've had fillings before and was fine. Most filling procedures involve minimal discomfort." By repeated practice, your brain gradually accepts more realistic thoughts.
 
 The exposure part involves gradually facing dental situations in a safe way. You might start by just looking at pictures of a dental office, then sitting in the empty office, then meeting the dentist briefly without any treatment, then sitting in the treatment chair, and eventually undergoing treatment. Each step builds confidence.
 
@@ -77,22 +77,23 @@ You might benefit from talking to a therapist about dental anxiety specifically.
 
 Recovery is possible. Many people overcome dental phobia through treatment and go on to maintain healthy teeth and gums. It takes courage, but it's worth it.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about dental phobia severe anxiety disorder and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
 
 ## Conclusion
 
-Dental phobia is a real anxiety disorder affecting 3-5% of adults, typically rooted in traumatic experiences that create conditioned fear. The phobia leads to avoidance of care, which ironically creates the dental problems people feared. Cognitive-behavioral therapy is the gold-standard treatment with 70-85% success. Medications including anti-anxiety drugs and nitrous oxide provide immediate help. The best results combine psychological treatment with medication support. Working with dentists trained in anxiety management and possibly consulting a therapist creates paths to overcoming phobia and achieving oral health. If dental anxiety is affecting your life, seek help—treatment works.
+Dental phobia is a real anxiety disorder affecting 3-5% of adults, typically rooted in traumatic experiences that create conditioned fear. The phobia leads to avoidance of care, which ironically creates the dental problems people feared. Cognitive-behavioral therapy is the gold-standard treatment with 70-85% success.
 
+Medications including anti-anxiety drugs and nitrous oxide provide immediate help. The best results combine psychological treatment with medication support. Working with dentists trained in anxiety management and possibly consulting a therapist creates paths to overcoming phobia and achieving oral health. If dental anxiety is affecting your life, seek help—treatment works.
 
+> **Key Takeaway:** About 3-5% of adults have true dental phobia—not just nervousness, but serious anxiety that interferes with their life.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Sedation Dentistry Options and Safety](/article/timeline-for-anesthesia-options.html)
-- [Finding a Dentist Who Understands Your Needs](/article/dentist-specialties-guide.html)
 - [Techniques for Managing Dental Anxiety](/article/grounding-techniques-for-anxiety.html)
+- [Anxiety Management in Elderly Patients](/article/anxiety-management-in-elderly-patients.html)
+- [Guided Imagery](/article/guided-imagery-mental-escape-technique.html)
+- [Laughing Gas for Pain Relief During Dental Work](/article/nitrous-oxide-pain-management.html)
+- [Premedication for Anxious Children](/article/premedication-for-anxious-children.html)
 
-> **Key Takeaway:** Dental phobia is a real anxiety disorder that affects 3-5% of adults and leads to avoidance of care that worsens oral health. Cognitive-behavioral therapy and medications like nitrous oxide or anti-anxiety drugs are effective treatments. Talk to your dentist about your anxiety—specialized anxiety-management dentists and therapists can help you overcome phobia and achieve healthy teeth.

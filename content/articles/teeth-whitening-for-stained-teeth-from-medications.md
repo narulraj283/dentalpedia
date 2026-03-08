@@ -39,11 +39,13 @@ Some medications taken during childhood can leave permanent stains on your teeth
 
 ## Understanding Medication Stains
 
-Tetracycline stains happen when the antibiotic creates a chemical bond with your tooth structure, embedding itself deep inside. Learn more about [transparent and translucent materials](/article/transparent-and-translucent-materials-in-cosmetics.html) for additional guidance. The staining severity depends on when you took the medication. If you took it during early childhood (before age 8), the stains are baked into your tooth enamel and dentin. If you took it later, the staining might be less intense.
+Tetracycline stains happen when the antibiotic creates a chemical bond with your tooth structure, embedding itself deep inside. Learn more about [Transparent and Translucent Materials](/article/transparent-and-translucent-materials-in-cosmetics.html) for additional guidance. The staining severity depends on when you took the medication. If you took it during early childhood (before age 8), the stains are baked into your tooth enamel and dentin. If you took it later, the staining might be less intense.
 
 The color varies: tetracycline stains are typically yellow-brown or blue-gray. Minocycline (a similar antibiotic) produces deeper blue-gray or purple-gray colors. Other medications like chlorhexidine rinse (used for gum disease) also cause staining, but fortunately those stains respond much better to whitening than antibiotic stains.
 
-Your dentist classifies your staining as mild, moderate, or severe. Learn more about [smile design tool digital](/article/smile-design-tool-digital-preview.html) for additional guidance. Mild stains cover less than half your tooth surface and look relatively light. Moderate stains cover most of the tooth with noticeable darkening. Severe stains mean your tooth is quite dark and might look different colors in different areas. This classification matters because it affects your treatment options and realistic expectations.
+Your dentist classifies your staining as mild, moderate, or severe. Learn more about [Smile Design Tool Digital](/article/smile-design-tool-digital-preview.html) for additional guidance. Mild stains cover less than half your tooth surface and look relatively light.
+
+Moderate stains cover most of the tooth with noticeable darkening. Severe stains mean your tooth is quite dark and might look different colors in different areas. This classification matters because it affects your treatment options and realistic expectations.
 
 ## The Walking Bleach Technique
 
@@ -93,16 +95,20 @@ Walking bleach results stay pretty stable long-term. About 90% of people keep th
 
 Microabrasion results are permanent since you've actually removed the stained enamel. There's no rebound. Veneers similarly don't stain—they're stable for years until they eventually need replacement.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
-Medication-induced tooth stains are treatable, and you have several good options. Walking bleach achieves 60-75% success for moderate staining over 4-8 weeks, preserving all your natural tooth. Microabrasion plus external bleaching combined can reach 70-85% success for moderate staining. Minocycline stains are tougher and need longer treatment. For severe stains unresponsive to bleaching, porcelain veneers provide beautiful, permanent masking. Your dentist will help you choose the best approach based on your stain severity, timeline, and preferences.
+Medication-induced tooth stains are treatable, and you have several good options. Walking bleach achieves 60-75% success for moderate staining over 4-8 weeks, preserving all your natural tooth. Microabrasion plus external bleaching combined can reach 70-85% success for moderate staining.
 
-## Key Takeaway
+Minocycline stains are tougher and need longer treatment. For severe stains unresponsive to bleaching, porcelain veneers provide beautiful, permanent masking. Your dentist will help you choose the best approach based on your stain severity, timeline, and preferences.
 
-Medication-induced stains respond to targeted treatment: walking bleach for moderate staining achieves 60-75% lightening over 4-8 weeks, combination microabrasion-plus-bleaching reaches 70-85% success, while porcelain veneers provide 100% cosmetic masking for severe staining resistant to bleaching.
+> **Key Takeaway:** Medication-induced stains respond to targeted treatment: walking bleach for moderate staining achieves 60-75% lightening over 4-8 weeks, combination microabrasion-plus-bleaching reaches 70-85% success, while porcelain veneers provide 100% cosmetic masking for severe staining resistant to bleaching.
 
 ## Related Articles
 
-- [Transparent and Translucent Materials in Cosmetics](/article/transparent-and-translucent-materials-in-cosmetics.html)
-- [Smile Design Tool: Digital Preview](/article/smile-design-tool-digital-preview.html)
 - [Best Practices for Gummy Smile Fix](/article/best-practices-for-gummy-smile-fix.html)
+
+- [Anterior Guidance: How Incisor Position Controls Bite](/article/anterior-guidance-incisor-controlling-bite.html)
+- [Whitening Gel Concentration and Strength Levels](/article/whitening-gel-concentration-strength-levels.html)
+

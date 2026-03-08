@@ -28,7 +28,7 @@ The key: severe crowding sometimes needs extraction for best long-term results. 
 
 ## When Extraction Makes Sense
 
-Severe crowding (more than 8-10 mm of crowding) is really hard to fix without extraction. Learning more about [cost of orthodontic treatment duration](/article/cost-of-orthodontic-treatment-duration.html) can help you understand this better. Your orthodontist has to physically expand your teeth outward, which can cause gum recession and damage the bone supporting your teeth. With extraction, the orthodontist has space to move teeth into better, more stable positions.
+Severe crowding (more than 8-10 mm of crowding) is really hard to fix without extraction. Learning more about [Cost of Orthodontic Treatment Duration](/article/cost-of-orthodontic-treatment-duration.html) can help you understand this better. Your orthodontist has to physically expand your teeth outward, which can cause gum recession and damage the bone supporting your teeth. With extraction, the orthodontist has space to move teeth into better, more stable positions.
 
 Class II bite problems (upper jaw sticks out) sometimes need extraction too. Without extraction, the orthodontist has to push your upper teeth back aggressively, which looks weird and tends to relapse (teeth move back to their original position). With extraction, your bite corrects naturally.
 
@@ -82,7 +82,7 @@ Most importantly: if extraction is recommended, it's usually because it gives yo
 
 ## The Long-Term Stability Question
 
-Stability is where extraction truly shines. Learning more about [cost of orthodontic compliance](/article/cost-of-orthodontic-compliance.html) can help you understand this better. When your orthodontist removes problematic teeth in an extraction case, they create ideal space for the remaining teeth to settle into naturally stable positions. Your teeth rest against each other in a balanced way—like puzzle pieces that fit together perfectly.
+Stability is where extraction truly shines. Learning more about [Cost of Orthodontic Compliance](/article/cost-of-orthodontic-compliance.html) can help you understand this better. When your orthodontist removes problematic teeth in an extraction case, they create ideal space for the remaining teeth to settle into naturally stable positions. Your teeth rest against each other in a balanced way—like puzzle pieces that fit together perfectly.
 
 Non-extraction cases rely on the orthodontist expanding your dental arch or achieving crowding relief through other means. While this looks good when treatment finishes, your teeth naturally "remember" where they came from. They spend years gradually drifting back toward their original positions—this is relapse.
 
@@ -132,16 +132,19 @@ If your orthodontist strongly recommends extraction, trust their judgment—they
 
 You can also seek a second opinion from another orthodontist if you're uncertain. A second opinion costs $0-$200 and might give you confidence in your treatment plan.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Extraction versus non-extraction is a personal choice, but understand the trade-offs. Extraction might cost $300-800 less upfront, finishes sooner, and has lower retreatment rates. Non-extraction costs $300-800 more upfront and has higher retreatment risk (meaning potential $1,500-3,500 extra costs). Ask your orthodontist which approach is right for your specific situation.
 
+> **Key Takeaway:** When your orthodontist mentions extracting teeth, it can feel shocking. Why remove healthy teeth?
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Cost of Orthodontic Treatment Duration](/article/cost-of-orthodontic-treatment-duration.html)
-- [Cost of Orthodontic Compliance](/article/cost-of-orthodontic-compliance.html)
 - [Cost of Invisible Braces Benefits](/article/cost-of-invisible-braces-benefits.html)
+- [Clear Aligner Comparison: Complete Clinical Guide](/article/clear-aligner-comparison-complete-guide.html)
+- [Premolar Extraction in Orthodontics - First vs](/article/premolar-extraction-in-orthodontia-indication-debate.html)
+- [Why Teeth Straightening Cost Matters](/article/why-teeth-straightening-cost-matters.html)
+- [Clear Aligners vs. Traditional Braces - What You](/article/risk-and-concerns-with-clear-aligner-comparison.html)
 
-> **Key Takeaway:** Extraction cases cost $300-800 less upfront and finish 4-6 months sooner; non-extraction risks 20-30% retreatment rate costing $1,500-3,500—extraction often saves money long-term.

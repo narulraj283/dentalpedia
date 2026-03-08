@@ -59,7 +59,9 @@ If you develop very frequent ulcers (more than four yearly), huge ones, or clust
 
 Traumatic ulcers happen when you accidentally bite your cheek, have a sharp food injury, or experience trauma from appliances or aggressive brushing. These look different—irregular and ragged rather than round—and develop at the exact trauma location. They hurt because of exposed nerve endings, not immune response.
 
-The cure is simple: stop the trauma. If a sharp food caused it, avoid that food while it heals. If brushing too hard caused it, switch to a soft toothbrush with gentler technique using horizontal strokes instead of scrubbing vertically. If your braces or sharp tooth edges cause repeated injury, ask your dentist to smooth them or apply protective wax. Once trauma stops, most heal within 3-7 days with just saline rinses for comfort. These generally don't need special treatment beyond preventing further injury.
+The cure is simple: stop the trauma. If a sharp food caused it, avoid that food while it heals. If brushing too hard caused it, switch to a soft toothbrush with gentler technique using horizontal strokes instead of scrubbing vertically.
+
+If your braces or sharp tooth edges cause repeated injury, ask your dentist to smooth them or apply protective wax. Once trauma stops, most heal within 3-7 days with just saline rinses for comfort. These generally don't need special treatment beyond preventing further injury.
 
 ## Cold Sores: Herpes Simplex Virus Ulcers
 
@@ -95,8 +97,9 @@ Understanding your ulcer type and cause transforms management from frustrating g
 
 > **Key Takeaway:** Identify your ulcer type immediately, start treatment fast, eliminate your personal triggers, and contact your dentist if ulcers are large, persistent, frequent, or accompanied by systemic symptoms.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
 - [Intraoral Cameras: See Your Teeth in Detail](/article/intraoral-cameras-see-your-teeth-in-detail.html)
 - [Dental Examination Types: What You Need to Know](/article/dental-examination-types-what-you-need-to-know.html)
 - [Benefits of Pain Relief Methods](/article/benefits-of-pain-relief-methods.html)
+

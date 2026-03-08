@@ -39,7 +39,9 @@ Correcting mouth breathing represents one of the most impactful preventive inter
 
 ## Recognizing Mouth Breathing in Your Child
 
-Observing your child carefully helps you identify mouth breathing. Does your child's mouth hang open at rest, particularly during homework, TV watching, or video games? Do you notice open-mouth posture during sleep? Does your child snore—often a sign of airway obstruction forcing mouth breathing? Do you notice dry lips, persistent bad breath, or drooling during sleep? These signs all suggest mouth breathing.
+Observing your child carefully helps you identify mouth breathing. Does your child's mouth hang open at rest, particularly during homework, TV watching, or video games? Do you notice open-mouth posture during sleep?
+
+Does your child snore—often a sign of airway obstruction forcing mouth breathing? Do you notice dry lips, persistent bad breath, or drooling during sleep? These signs all suggest mouth breathing.
 
 Some children mouth-breathe only at night during sleep, while others maintain open-mouth posture throughout the day. Asking your child directly about nasal congestion helps clarify whether obstruction exists. You might ask: "Does your nose feel stuffy? Can you breathe easily through your nose?" Some children become accustomed to partial nasal obstruction and don't recognize it as abnormal until you ask.
 
@@ -53,7 +55,7 @@ Successful mouth breathing correction requires identifying and treating any unde
 
 Allergic rhinitis (hay fever) is the most common cause and is very treatable. Seasonal or year-round allergic symptoms cause nasal inflammation and swelling, narrowing the nasal airway. Your pediatrician can recommend environmental allergen controls, antihistamines, or nasal corticosteroid sprays that reduce inflammatory swelling. When allergies are adequately controlled, nasal airway patency often improves and mouth breathing becomes unnecessary. Some children benefit from allergy testing and immunotherapy (allergy shots or sublingual tablets) for long-term control.
 
-Adenotonsillar hypertrophy (enlarged adenoid and tonsil tissue) represents another common cause, particularly in younger children. Your pediatrician or otolaryngologist evaluates whether these tissues are enlarged enough to warrant surgical removal. Learning more about [dietary counseling reducing cavity risk in kids](/article/dietary-counseling-reducing-cavity-risk-in-kids.html) can help you understand this better. Adenoidectomy combined with tonsillectomy produces dramatic improvements in breathing patterns, sleep quality, and sometimes complete resolution of mouth breathing. However, adenoidectomy alone may not eliminate mouth breathing if the habit has become behaviorally established, necessitating concurrent myofunctional therapy.
+Adenotonsillar hypertrophy (enlarged adenoid and tonsil tissue) represents another common cause, particularly in younger children. Your pediatrician or otolaryngologist evaluates whether these tissues are enlarged enough to warrant surgical removal. Learning more about [Dietary Counseling Reducing Cavity Risk in Kids](/article/dietary-counseling-reducing-cavity-risk-in-kids.html) can help you understand this better. Adenoidectomy combined with tonsillectomy produces dramatic improvements in breathing patterns, sleep quality, and sometimes complete resolution of mouth breathing. However, adenoidectomy alone may not eliminate mouth breathing if the habit has become behaviorally established, necessitating concurrent myofunctional therapy.
 
 Structural nasal obstruction from septal deviation, nasal polyps, or other anatomical abnormalities requires otolaryngologic evaluation. Your child's ENT specialist determines whether structural issues warrant intervention. Many pediatric ENTs defer elective nasal surgery until later childhood when facial growth nears completion, so temporarily managing the obstruction through other means might be preferable.
 
@@ -75,7 +77,7 @@ Swallowing pattern retraining ensures your child's tongue contacts the palate th
 
 ## Orthodontic Support During Myofunctional Therapy
 
-Expanding your child's maxillary (upper) width through rapid palatal expansion or slow maxillary expansion appliances widens the palate and improves nasal cavity anatomy, physically facilitating nasal breathing. When combined with myofunctional therapy, expansion appliances demonstrate excellent outcomes in correcting anterior open bite. Learning more about [space maintainer after premature tooth loss](/article/space-maintainer-after-premature-tooth-loss.html) can help you understand this better. The expanded palate provides better structural support for the normalized tongue position reestablished through myofunctional therapy.
+Expanding your child's maxillary (upper) width through rapid palatal expansion or slow maxillary expansion appliances widens the palate and improves nasal cavity anatomy, physically facilitating nasal breathing. When combined with myofunctional therapy, expansion appliances demonstrate excellent outcomes in correcting anterior open bite. Learning more about [Space Maintainer After Premature Tooth Loss](/article/space-maintainer-after-premature-tooth-loss.html) can help you understand this better. The expanded palate provides better structural support for the normalized tongue position reestablished through myofunctional therapy.
 
 Functional appliances that encourage forward mandibular positioning help normalize jaw relationships in children with skeletal vertical excess from chronic mouth breathing. These appliances work optimally when combined with myofunctional therapy and established nasal breathing, since they require interdental contact that's only meaningful once mouth breathing is no longer driving jaw positioning.
 
@@ -111,9 +113,10 @@ Correcting mouth breathing in children requires identifying underlying causes, a
 
 > **Key Takeaway:** Mouth breathing in children is highly treatable through identifying underlying causes, myofunctional therapy retraining, and coordinated medical and orthodontic treatment. Early identification and intervention prevent development of serious bite problems and allow your child to establish lifelong nasal breathing habits. Success requires family commitment to daily practice and regular professional monitoring, but the outcome—preventing years of braces treatment—justifies the effort.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Learn about dietary factors supporting dental health in children](/article/dietary-counseling-reducing-cavity-risk-in-kids.html)
 - [Understand behavioral guidance strategies for children](/article/behavioral-guidance-positive-reinforcement.html)
-- [Discover how to prevent feeding and development problems in infants](/article/lip-tie-impact-on-feeding-and-development.html)
+- [Discover how to prevent feeding](/article/lip-tie-impact-on-feeding-and-development.html)
+
+- [Toothpaste for Children: Age-Appropriate Fluoride](/article/toothpaste-for-children-age-appropriate-fluoride.html)
 

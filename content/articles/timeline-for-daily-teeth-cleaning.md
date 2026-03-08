@@ -39,11 +39,15 @@ You've probably heard "brush twice a day and floss daily" your whole life, and t
 
 ## Your Morning Routine (4-6 Minutes Total)
 
-Start by brushing your tongue. Learn more about [best practices for daily](/article/best-practices-for-daily-teeth-cleaning.html) for additional guidance. Your tongue harbors about half of all oral bacteria. Brush gently from the back toward the front using 10-15 strokes, or use a dedicated tongue scraper if you have one. This removes bacteria before they colonize your teeth. Rinse thoroughly with water.
+Start by brushing your tongue. Learn more about [Best Practices for Daily](/article/best-practices-for-daily-teeth-cleaning.html) for additional guidance. Your tongue harbors about half of all oral bacteria.
+
+Brush gently from the back toward the front using 10-15 strokes, or use a dedicated tongue scraper if you have one. This removes bacteria before they colonize your teeth. Rinse thoroughly with water.
 
 Next, brush your teeth using the Modified Bass technique. Position your toothbrush at a 45-degree angle to your gums, use gentle vibrating motions (not hard scrubbing), and spend about 10-12 seconds on each tooth. Most people need at least 2 minutes to brush all tooth surfaces properly—if you're brushing in 30 seconds, you're missing spots. Use a soft-bristled brush and replace it every 3 months when bristles start fraying.
 
-After brushing, floss between all your teeth. Learn more about [dental health habits for](/article/dental-health-habits-for-lifelong-teeth.html) for additional guidance. Use about 18-24 inches of floss, wrap it around your middle fingers, and guide it gently between teeth. Slide floss down past the gum level (where your toothbrush can't reach) and use a gentle C-shaped stroke against each tooth surface. This takes about 1-2 minutes total for all spaces. Don't skip this step—brushing alone only cleans about 60% of your tooth surfaces; flossing gets the other 40% that's hidden between teeth.
+After brushing, floss between all your teeth. Learn more about [Dental Health Habits for](/article/dental-health-habits-for-lifelong-teeth.html) for additional guidance. Use about 18-24 inches of floss, wrap it around your middle fingers, and guide it gently between teeth.
+
+Slide floss down past the gum level (where your toothbrush can't reach) and use a gentle C-shaped stroke against each tooth surface. This takes about 1-2 minutes total for all spaces. Don't skip this step—brushing alone only cleans about 60% of your tooth surfaces; flossing gets the other 40% that's hidden between teeth.
 
 Rinse your mouth thoroughly with water to remove loosened plaque debris. Your morning routine is complete in about 4-6 minutes.
 
@@ -61,7 +65,9 @@ Evening brushing should happen within 30 minutes before sleep. During sleep, you
 
 ## What If You Have Bleeding Gums?
 
-Bleeding during flossing or brushing often means early gum inflammation (gingivitis). The frustrating part? You need to keep flossing to fix it. Gentle, consistent flossing for 1-2 weeks usually stops the bleeding as inflammation resolves. Don't stop flossing because your gums bleed—that actually makes it worse. If you have chlorhexidine mouthwash, use it twice daily to reduce inflammation while you're gently flossing through the initial bleeding phase.
+Bleeding during flossing or brushing often means early gum inflammation (gingivitis). The frustrating part? You need to keep flossing to fix it.
+
+Gentle, consistent flossing for 1-2 weeks usually stops the bleeding as inflammation resolves. Don't stop flossing because your gums bleed—that actually makes it worse. If you have chlorhexidine mouthwash, use it twice daily to reduce inflammation while you're gently flossing through the initial bleeding phase.
 
 ## Electric Versus Manual Brushes
 
@@ -95,12 +101,12 @@ The key isn't which tool you use—it's that you're actually cleaning between yo
 
 Daily oral hygiene takes 4-6 minutes in morning and 6-8 minutes in evening—a small investment for decades of healthy teeth and gums. The key is proper technique, not fancy products: soft-bristled brush at 45-degree angle with gentle vibrating motions, 2-minute minimum brushing, daily flossing or interdental cleaning, and fluoride application in the evening. Consistency matters more than perfection. Even imperfect daily brushing and flossing beats perfect brushing twice a month. Make it a routine like showering or brushing your hair, and it becomes automatic rather than a chore.
 
-## Key Takeaway
-
-Your daily commitment to 10-15 minutes of proper brushing and flossing prevents cavities and gum disease more effectively than any expensive professional treatment after the fact—prevention is easier and cheaper than fixing problems.
+> **Key Takeaway:** Your daily commitment to 10-15 minutes of proper brushing and flossing prevents cavities and gum disease more effectively than any expensive professional treatment after the fact—prevention is easier and cheaper than fixing problems.
 
 ## Related Articles
 
-- [Best Practices for Daily Teeth Cleaning](/article/best-practices-for-daily-teeth-cleaning.html)
-- [Dental Health Habits for Lifelong Teeth](/article/dental-health-habits-for-lifelong-teeth.html)
 - [Why Cavity Risk Factors Matters](/article/why-cavity-risk-factors-matters.html)
+
+- [Why Dental Visit Frequency Matters - Evidence-Based](/article/why-dental-visit-frequency-matters.html)
+- [Why Oral Health Habits Matter for Your Whole Body](/article/why-oral-health-habits-matters.html)
+

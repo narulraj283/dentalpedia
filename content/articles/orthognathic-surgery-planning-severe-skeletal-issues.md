@@ -70,7 +70,7 @@ Both procedures use intraoral (inside the mouth) incisions avoiding facial scarr
 
 Beyond your bite improvement, your facial appearance might change significantly. If you had a small lower jaw, surgery brings it forward—your chin becomes more prominent, your profile becomes more balanced, your lower face becomes fuller. If you had an overprojecting lower jaw, moving it back creates a more balanced profile.
 
-These changes take adjustment. You might look quite different from your pre-surgery photos. Family and friends will notice. Most people feel their appearance improved dramatically, but the adjustment period requires patience as you adjust to your new appearance. For more on this topic, see our guide on [Tumor Removal Oral Cancer Surgical Ex...](/article/tumor-removal-oral-cancer-surgical-excision.html).
+These changes take adjustment. You might look quite different from your pre-surgery photos. Family and friends will notice. Most people feel their appearance improved dramatically, but the adjustment period requires patience as you adjust to your new appearance. For more on this topic, see our guide on [Oral Tumor Removal and Surgical Management - TNM](/article/tumor-removal-oral-cancer-surgical-excision.html).
 
 ## Risks and Complications
 
@@ -86,14 +86,19 @@ Once braces come off, you'll wear retainers (both fixed and removable) to mainta
 
 Beyond appearance, jaw surgery often improves function significantly. If you had difficulty chewing, post-surgical function typically improves dramatically. If you had sleep apnea (breathing problems during sleep), repositioning your jaw opens your airway. If you had speech difficulties, correct jaw position often improves speech. These functional improvements often matter more than cosmetic changes.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Jaw surgery combined with braces represents one of dentistry and surgery's most dramatic transformations. If you have a severe jaw misalignment, discuss surgical options with your orthodontist or dentist. The combination of surgery and braces addresses the underlying problem and often creates results impossible to achieve with braces alone. The investment of time and recovery creates dramatic improvements in appearance, function, and sometimes sleep and breathing.
 
 > **Key Takeaway:** Jaw surgery (orthognathic surgery) corrects severe jaw bone misalignment that braces alone can't fix. Combined with braces, surgery creates dramatic improvements in appearance, bite function, and sometimes breathing. The treatment timeline spans 12-24 months (6-12 months pre-surgical braces, surgery, then 3-6 months post-surgical braces). Recovery involves 2-3 weeks of significant swelling followed by progressive improvement. Talk with your surgeon about whether jaw surgery might transform your smile and function.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Surgical Extractions: When Teeth Need Surgical Removal](/article/best-practices-for-complex-extractions.html)
-- [Bone Grafting for Dental Implants: Building Your Foundation](/article/bone-morphogenetic-protein-bmp-technology.html)
-- [Adult Braces: It's Never Too Late to Straighten Your Teeth](/article/how-to-adult-braces-options.html)
+- [Bone Morphogenetic Protein: BMP Technology](/article/bone-morphogenetic-protein-bmp-technology.html)
+- [Adult Braces: Options and Treatment Planning](/article/how-to-adult-braces-options.html)
+
+- [Tooth Extraction Recovery - What You Need to Know](/article/tooth-extraction-recovery-what-you-need-to-know.html)
+- [Surgical Complications - What Patients Should](/article/surgical-complications-what-you-need-to-know.html)
+

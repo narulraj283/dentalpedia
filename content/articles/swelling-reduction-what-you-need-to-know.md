@@ -39,7 +39,7 @@ Swelling after oral surgery is inevitable, but you can significantly reduce how 
 
 ## Pre-Surgery Medications: Start Before Your Surgery
 
-The most effective swelling reduction happens before your surgery. Learn more about [cost of pre surgery](/article/cost-of-pre-surgery-preparation.html) for additional guidance. Ask your surgeon exactly what medications to take and when.
+The most effective swelling reduction happens before your surgery. Learn more about [Cost of Pre Surgery](/article/cost-of-pre-surgery-preparation.html) for additional guidance. Ask your surgeon exactly what medications to take and when.
 
 **Take dexamethasone as directed.** Your surgeon will likely tell you to take 8 mg (usually one tablet) 1-2 hours before your surgery at a specific time. This pre-operative steroid dose prevents swelling before it starts, reducing peak swelling by 40-60%. This single dose is all you need—don't take additional doses at home unless your surgeon specifically prescribes them.
 
@@ -58,7 +58,7 @@ Ice is your most powerful swelling-reduction tool for the first 48 hours. Ice re
 - Repeat the 20-on/10-off cycle 5-10 times daily during waking hours
 - Continue this through day 2 (48 hours after surgery)
 
-Commercial gel ice packs are ideal—they stay cold longer and conform better to your face than ice cubes. Learn more about [how to surgical technique](/article/how-to-surgical-technique-overview.html) for additional guidance.
+Commercial gel ice packs are ideal—they stay cold longer and conform better to your face than ice cubes. Learn more about [How to Surgical Technique](/article/how-to-surgical-technique-overview.html) for additional guidance.
 
 ## Sleeping Position: Let Gravity Help
 
@@ -90,14 +90,11 @@ Certain foods reduce inflammation while others increase it.
 
 Strenuous activity increases blood pressure and blood flow to your head, increasing swelling dramatically. Avoid vigorous exercise, heavy lifting, bending, and sweating activities for the first week.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist to discuss swelling reduction what you need to know, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
 
 It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 
 ## What to Expect During Your Visit
 
@@ -105,13 +102,13 @@ Your dentist will begin by examining your mouth and reviewing your dental histor
 
 During any procedure, your comfort is a top priority. Your dental team will make sure you understand what is happening and check in with you regularly. Modern dental techniques and anesthesia options mean that most patients experience minimal discomfort during and after treatment. If you feel anxious about any part of the process, let your dentist know so they can adjust their approach to help you feel more at ease.
 
-
 ## Tips for Long-Term Success
 
 Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
 
 Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
@@ -119,13 +116,11 @@ Taking care of your dental health is one of the best investments you can make in
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Combine pre-operative medication (dexamethasone and ibuprofen), ice for 48 hours using the 20-on/10-off method, elevated head position during sleep, anti-inflammatory diet, hydration, activity restriction, and smoking avoidance to reduce post-operative swelling by 60-75%.
+> **Key Takeaway:** Combine pre-operative medication (dexamethasone and ibuprofen), ice for 48 hours using the 20-on/10-off method, elevated head position during sleep, anti-inflammatory diet, hydration, activity restriction, and smoking avoidance to reduce post-operative swelling by 60-75%.
 
 ## Related Articles
 
-1. [Cost Of Pre Surgery Preparation](./cost-of-pre-surgery-preparation.md)
-2. [How To Surgical Technique Overview](./how-to-surgical-technique-overview.md)
-3. [Common Misconceptions About Post Surgery Care](./common-misconceptions-about-post-surgery-care.md)
+- [Common Misconceptions About Post-Surgery Care](/article/common-misconceptions-about-post-surgery-care.html)
+- [Salivary Gland Surgery](/article/salivary-gland-surgery-removal-and-reconstruction.html)
+- [Post Operative Pain Expected Discomfort](/article/post-operative-pain-expected-discomfort.html)
 

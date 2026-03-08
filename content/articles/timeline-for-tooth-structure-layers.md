@@ -1,22 +1,26 @@
 ---
-title: "Understanding Your Teeth: A Simple Guide to How Teeth"
-slug: timeline-for-tooth-structure-layers
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: "Learn what enamel, dentin, pulp, and roots are—and why understanding tooth structure helps you protect your smile."
 date: 2026-03-05
+excerpt: Learn what enamel, dentin, pulp, and roots are—and why understanding tooth
+  structure helps you protect your smile.
 read_time: 11 min
+references:
+- title: 'ten Cate JM. Oral Histology: Development, Structure, and Function. 9th ed.
+    Elsevier; 2020.'
+  url: https://pubmed.ncbi.nlm.nih.gov/31842873
+- title: 'Fejerskov O, Kidd EA. Dental Caries: The Disease and Its Clinical Management.
+    3rd ed. Wiley; 2015.'
+  url: https://pubmed.ncbi.nlm.nih.gov/25974046
+- title: Walton RE, Torabinejad M. Principles and Practice of Endodontics. 3rd ed.
+    WB Saunders; 2002.
+  url: https://pubmed.ncbi.nlm.nih.gov/12173157
+reviewed: true
 reviewer_specialty: General Dentist
+slug: timeline-for-tooth-structure-layers
 subcategory: General Overview
 subcategory_slug: overview-general
-reviewed: true
-references:
-  - title: "ten Cate JM. Oral Histology: Development, Structure, and Function. 9th ed. Elsevier; 2020."
-    url: https://pubmed.ncbi.nlm.nih.gov/31842873
-  - title: "Fejerskov O, Kidd EA. Dental Caries: The Disease and Its Clinical Management. 3rd ed. Wiley; 2015."
-    url: https://pubmed.ncbi.nlm.nih.gov/25974046
-  - title: "Walton RE, Torabinejad M. Principles and Practice of Endodontics. 3rd ed. WB Saunders; 2002."
-    url: https://pubmed.ncbi.nlm.nih.gov/12173157
+title: 'Understanding Your Teeth: A Simple Guide to How'
 ---
 
 ## Introduction
@@ -49,7 +53,7 @@ Dentin is naturally yellow, while enamel is white. As we age and enamel thins fr
 
 ### Decay Spreads Faster Here
 
-Cavities spread more rapidly in dentin than in enamel. Once a cavity breaks through enamel into dentin, it can progress quickly. This is another reason why treating cavities as soon as they're detected is important. For more information about cavity prevention and management, see [medication-interactions-and-oral-health](/article/medication-interactions-and-oral-health.html).
+Cavities spread more rapidly in dentin than in enamel. Once a cavity breaks through enamel into dentin, it can progress quickly. This is another reason why treating cavities as soon as they're detected is important. For more information about cavity prevention and management, see [Medication-interactions-and-oral-health](/article/medication-interactions-and-oral-health.html).
 
 ## The Pulp: Your Tooth's Nerve and Blood Supply
 
@@ -73,7 +77,7 @@ The part of your tooth below the gum line is the root. Roots anchor your tooth f
 
 ### Root Exposure and Gum Disease
 
-When gums recede due to age, aggressive brushing, or gum disease, roots become exposed. Exposed roots are vulnerable because cementum is softer than enamel and doesn't resist cavity formation well. Root cavities develop rapidly and require prompt treatment. This is why protecting exposed roots is important if you have gum recession. Learn more at [how-to-bleeding-gums-solutions](/article/how-to-bleeding-gums-solutions.html).
+When gums recede due to age, aggressive brushing, or gum disease, roots become exposed. Exposed roots are vulnerable because cementum is softer than enamel and doesn't resist cavity formation well. Root cavities develop rapidly and require prompt treatment. This is why protecting exposed roots is important if you have gum recession. Learn more at [How-to-bleeding-gums-solutions](/article/how-to-bleeding-gums-solutions.html).
 
 ### Sensitive Roots
 
@@ -107,20 +111,20 @@ When your dentist recommends a certain treatment, they're considering which laye
 
 You now understand why fluoride helps (it strengthens enamel), why brushing matters (it removes cavity-causing bacteria), and why flossing is important (it prevents decay between teeth where it spreads fastest through dentin).
 
-
-
 ## Conclusion
 
 Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding understanding your teeth: a simple guide to how teeth helps you feel more confident when discussing options with your dentist and making decisions about your care.
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
+Cementum and roots anchor your tooth below the gum line. The periodontal ligament holds everything together with flexibility. Understanding this structure helps you appreciate why certain preventive measures work and why your dentist recommends specific treatments. Protecting your enamel through fluoride and good oral hygiene, addressing cavities early before they reach dentin or pulp, and maintaining healthy gums—these actions all make sense when you understand what you're protecting.
 
-Your tooth has multiple layers with different properties and purposes. Enamel is hard protection but non-living. Dentin is softer and sensitive. The pulp is the living, nerve-containing center. Cementum and roots anchor your tooth below the gum line. The periodontal ligament holds everything together with flexibility. Understanding this structure helps you appreciate why certain preventive measures work and why your dentist recommends specific treatments. Protecting your enamel through fluoride and good oral hygiene, addressing cavities early before they reach dentin or pulp, and maintaining healthy gums—these actions all make sense when you understand what you're protecting.
+> **Key Takeaway:** Your tooth has multiple layers with different properties and purposes. Enamel is hard protection but non-living. Dentin is softer and sensitive. The pulp is the living, nerve-containing center.
 
 ## Related Articles
 
-- [how-to-oral-surgery-recovery-timeline](/article/how-to-oral-surgery-recovery-timeline.html)
-- [medication-interactions-and-oral-health](/article/medication-interactions-and-oral-health.html)
-- [how-to-bleeding-gums-solutions](/article/how-to-bleeding-gums-solutions.html)
+- [How-to-oral-surgery-recovery-timeline](/article/how-to-oral-surgery-recovery-timeline.html)
+
+- [Cast Gold Restoration: Premium Material and Clinical](/article/cast-gold-restoration-premium-material.html)
+- [Why Tooth Color Changes Matters](/article/why-tooth-color-changes-matters.html)
+

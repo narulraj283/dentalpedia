@@ -39,13 +39,13 @@ Triclosan is an antimicrobial agent that became widely used in oral care product
 
 ## How Triclosan Works Against Bacteria
 
-Triclosan kills bacteria by disrupting their cell membranes and interfering with essential metabolic processes. Learn more about [how to oral health](/article/how-to-oral-health-habits.html) for additional guidance. The compound particularly targets fatty acid production in bacteria—a process essential for cell membrane formation. When bacteria can't make fatty acids, their cell membranes fall apart and the bacteria die.
+Triclosan kills bacteria by disrupting their cell membranes and interfering with essential metabolic processes. Learn more about [How to Oral Health](/article/how-to-oral-health-habits.html) for additional guidance. The compound particularly targets fatty acid production in bacteria—a process essential for cell membrane formation. When bacteria can't make fatty acids, their cell membranes fall apart and the bacteria die.
 
 This multi-target approach means bacteria develop resistance more slowly than they do to antibiotics that attack a single vulnerability. However, resistance can still develop with enough exposure and time. The antimicrobial works against a broad spectrum of bacteria, which is why it appeared in so many consumer products beyond toothpaste—soaps, hand sanitizers, cutting boards, textiles, and food storage containers all incorporated triclosan during the 1990s and 2000s.
 
 ## The Strong Clinical Evidence for Triclosan in Toothpaste
 
-When researchers tested triclosan-containing toothpaste against regular fluoride toothpaste, they found impressive results. Learn more about [occupational hazards for teeth](/article/occupational-hazards-for-teeth-job-related-exposure.html) for additional guidance. Studies showed 20-40 percent reduction in plaque formation with triclosan products. Gum health improved by 20-35 percent, with less bleeding when people brushed their teeth and flossed. These benefits persisted in long-term studies, confirming that the antimicrobial effect didn't diminish over time.
+When researchers tested triclosan-containing toothpaste against regular fluoride toothpaste, they found impressive results. Learn more about [Occupational Hazards for Teeth](/article/occupational-hazards-for-teeth-job-related-exposure.html) for additional guidance. Studies showed 20-40 percent reduction in plaque formation with triclosan products. Gum health improved by 20-35 percent, with less bleeding when people brushed their teeth and flossed. These benefits persisted in long-term studies, confirming that the antimicrobial effect didn't diminish over time.
 
 Colgate Total, combining 0.3 percent triclosan with a special polymer that helps the ingredient stay on your teeth longer, became the gold standard triclosan product. The polymer technology enhanced how long triclosan remained active in your mouth after brushing, extending the antimicrobial protection window. This combination proved superior to triclosan alone, making Colgate Total exceptionally effective.
 
@@ -93,12 +93,12 @@ For those concerned about triclosan for any reason, switching to a stannous-base
 
 Triclosan effectively reduced plaque and gum disease for decades, justifying its inclusion in popular toothpaste formulations. However, widespread environmental persistence, bioaccumulation, resistance development, and legitimate toxicological questions prompted regulatory reconsideration and manufacturer reformulations. Contemporary alternatives including stannous compounds and zinc-based antimicrobials offer comparable clinical efficacy with improved safety and environmental profiles. The gradual transition from triclosan to these alternatives represents prudent public health policy balancing antimicrobial benefits against environmental and safety concerns.
 
-## Key Takeaway
-
-**Triclosan effectively fights plaque and gum disease, but environmental persistence and accumulation in human tissues have led to restrictions on many triclosan products and regulatory scrutiny of dental uses. Stannous-containing toothpastes offer equivalent or superior efficacy with better environmental profiles. If you currently use triclosan toothpaste and like it, there's no emergency to switch, but new toothpaste selections might consider stannous-based alternatives.**
+> **Key Takeaway:** **Triclosan effectively fights plaque and gum disease, but environmental persistence and accumulation in human tissues have led to restrictions on many triclosan products and regulatory scrutiny of dental uses. Stannous-containing toothpastes offer equivalent or superior efficacy with better environmental profiles. If you currently use triclosan toothpaste and like it, there's no emergency to switch, but new toothpaste selections might consider stannous-based alternatives.**
 
 ## Related Articles
 
-- [Best Practices for Teeth Brushing Technique](/article/best-practices-for-teeth-brushing-technique.html) - Proper mechanical plaque removal remains most important
-- [How to Oral Health Habits](/article/how-to-oral-health-habits.html) - Comprehensive daily care strategies
-- [Common Misconceptions About Gum Health Maintenance](/article/common-misconceptions-about-gum-health-maintenance.html) - What actually works for your gums
+- [Best Practices for Teeth Brushing Technique](/article/best-practices-for-teeth-brushing-technique.html)
+- [Common Misconceptions About Gum Health Maintenance](/article/common-misconceptions-about-gum-health-maintenance.html)
+
+- [Why Flossing Benefits Matter - Evidence for Interdental](/article/why-flossing-benefits-matters.html)
+

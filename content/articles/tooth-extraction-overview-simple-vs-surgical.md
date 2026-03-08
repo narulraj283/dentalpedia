@@ -1,36 +1,47 @@
 ---
-title: Tooth Extraction Overview - Simple vs Surgical Extraction
-slug: tooth-extraction-overview-simple-vs-surgical
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Understand the difference between simple and surgical tooth extractions, when each is needed, what to expect, and healing timelines.
 date: 2026-03-05
+excerpt: Understand the difference between simple and surgical tooth extractions,
+  when each is needed, what to expect, and healing timelines.
 read_time: 12 min
+references:
+- title: 'Archer WH. Oral and Maxillofacial Surgery. 5th ed. Philadelphia: WB Saunders;
+    1975.'
+  url: https://pubmed.ncbi.nlm.nih.gov/1180029
+- title: Clauser SB, Bahrami G. Surgical management of impacted teeth. Dent Clin North
+    Am. 1993;37(2):185-204.
+  url: https://pubmed.ncbi.nlm.nih.gov/8458902
+- title: 'Hupp JR, Ellis E, Tucker MR. Contemporary Oral and Maxillofacial Surgery.
+    6th ed. St. Louis: Mosby; 2013.'
+  url: https://pubmed.ncbi.nlm.nih.gov/23393191
+- title: 'Fragiskos FD. Oral Surgery. Berlin: Springer-Verlag; 2007.'
+  url: https://pubmed.ncbi.nlm.nih.gov/17387413
+- title: 'Cawson RA, Odell EW. Cawson''s Essentials of Oral Pathology and Oral Medicine.
+    8th ed. Edinburgh: Churchill Livingstone; 2008.'
+  url: https://pubmed.ncbi.nlm.nih.gov/18584248
+- title: Martin MV, Kantorowicz B, Oliver R. A review of antibiotic prescribing in
+    dental practice in the UK. Br Dent J. 1996;180(1):20-25.
+  url: https://pubmed.ncbi.nlm.nih.gov/8612380
+- title: Juodzbalys G, Gervickas A, Sakavicius D. Inferior alveolar nerve injury associated
+    with implant treatment. J Oral Implantol. 2004;30(5):294-303.
+  url: https://pubmed.ncbi.nlm.nih.gov/15609573
+- title: 'Joda T, Schmidlin PR, Zitzmann NU. Computer-assisted implant planning: Accuracy
+    of implant positioning with navigation guided surgery. Clin Implant Dent Relat
+    Res. 2018;20(4):527-536.'
+  url: https://pubmed.ncbi.nlm.nih.gov/29675803
+- title: 'Miloro M. Peterson''s Principles of Oral and Maxillofacial Surgery. 2nd
+    ed. Hamilton: BC Decker; 2004.'
+  url: https://pubmed.ncbi.nlm.nih.gov/15635757
+- title: 'Nitzan DW. On the enigma of the condylar resorption: stress as a etiopathogenic
+    factor. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2001;92(4):411-415.'
+  url: https://pubmed.ncbi.nlm.nih.gov/11598578
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: tooth-extraction-overview-simple-vs-surgical
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - title: "Archer WH. Oral and Maxillofacial Surgery. 5th ed. Philadelphia: WB Saunders; 1975."
-    url: https://pubmed.ncbi.nlm.nih.gov/1180029
-  - title: "Clauser SB, Bahrami G. Surgical management of impacted teeth. Dent Clin North Am. 1993;37(2):185-204."
-    url: https://pubmed.ncbi.nlm.nih.gov/8458902
-  - title: "Hupp JR, Ellis E, Tucker MR. Contemporary Oral and Maxillofacial Surgery. 6th ed. St. Louis: Mosby; 2013."
-    url: https://pubmed.ncbi.nlm.nih.gov/23393191
-  - title: "Fragiskos FD. Oral Surgery. Berlin: Springer-Verlag; 2007."
-    url: https://pubmed.ncbi.nlm.nih.gov/17387413
-  - title: "Cawson RA, Odell EW. Cawson's Essentials of Oral Pathology and Oral Medicine. 8th ed. Edinburgh: Churchill Livingstone; 2008."
-    url: https://pubmed.ncbi.nlm.nih.gov/18584248
-  - title: "Martin MV, Kantorowicz B, Oliver R. A review of antibiotic prescribing in dental practice in the UK. Br Dent J. 1996;180(1):20-25."
-    url: https://pubmed.ncbi.nlm.nih.gov/8612380
-  - title: "Juodzbalys G, Gervickas A, Sakavicius D. Inferior alveolar nerve injury associated with implant treatment. J Oral Implantol. 2004;30(5):294-303."
-    url: https://pubmed.ncbi.nlm.nih.gov/15609573
-  - title: "Joda T, Schmidlin PR, Zitzmann NU. Computer-assisted implant planning: Accuracy of implant positioning with navigation guided surgery. Clin Implant Dent Relat Res. 2018;20(4):527-536."
-    url: https://pubmed.ncbi.nlm.nih.gov/29675803
-  - title: "Miloro M. Peterson's Principles of Oral and Maxillofacial Surgery. 2nd ed. Hamilton: BC Decker; 2004."
-    url: https://pubmed.ncbi.nlm.nih.gov/15635757
-  - title: "Nitzan DW. On the enigma of the condylar resorption: stress as a etiopathogenic factor. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2001;92(4):411-415."
-    url: https://pubmed.ncbi.nlm.nih.gov/11598578
+title: Tooth Extraction Overview - Simple vs Surgical
 ---
 
 ## What Is Tooth Extraction?
@@ -144,9 +155,7 @@ Before tooth extraction, consider alternatives: endodontic treatment (root canal
 
 ## Comparing Extraction Types in Your Situation
 
-For specific guidance on extraction options for your situation, see [common-misconceptions-about-complex-extractions](/article/common-misconceptions-about-complex-extractions.html), [guided-bone-regeneration-in-dental-surgery](/article/guided-bone-regeneration-in-dental-surgery.html), and [frenulum-removal-frenotomy-and-tongue-tie-release](/article/frenulum-removal-frenotomy-and-tongue-tie-release.html).
-
-
+For specific guidance on extraction options for your situation, see [Common-misconceptions-about-complex-extractions](/article/common-misconceptions-about-complex-extractions.html), [Guided-bone-regeneration-in-dental-surgery](/article/guided-bone-regeneration-in-dental-surgery.html), and [Frenulum-removal-frenotomy-and-tongue-tie-release](/article/frenulum-removal-frenotomy-and-tongue-tie-release.html).
 
 ## Questions to Ask Your Dentist
 
@@ -154,13 +163,11 @@ When you visit your dentist to discuss tooth extraction overview simple vs surgi
 
 It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
 
 During any procedure, your comfort is a top priority. Your dental team will make sure you understand what is happening and check in with you regularly. Modern dental techniques and anesthesia options mean that most patients experience minimal discomfort during and after treatment. If you feel anxious about any part of the process, let your dentist know so they can adjust their approach to help you feel more at ease.
-
 
 ## Tips for Long-Term Success
 
@@ -168,6 +175,7 @@ Maintaining good results after dental treatment requires consistent care at home
 
 Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
@@ -175,12 +183,13 @@ Taking care of your dental health is one of the best investments you can make in
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Simple extractions of fully erupted single-rooted teeth follow straightforward mechanical principles and cause minimal trauma. Surgical extractions requiring flap elevation, bone removal, and sectioning address more complex cases but require additional time and healing. Understanding each technique's indications helps set realistic expectations and optimize outcomes.
+> **Key Takeaway:** Simple extractions of fully erupted single-rooted teeth follow straightforward mechanical principles and cause minimal trauma. Surgical extractions requiring flap elevation, bone removal, and sectioning address more complex cases but require additional time and healing. Understanding each technique's indications helps set realistic expectations and optimize outcomes.
 
 ## Related Articles
 
-- [common-misconceptions-about-complex-extractions](/article/common-misconceptions-about-complex-extractions.html)
-- [guided-bone-regeneration-in-dental-surgery](/article/guided-bone-regeneration-in-dental-surgery.html)
-- [frenulum-removal-frenotomy-and-tongue-tie-release](/article/frenulum-removal-frenotomy-and-tongue-tie-release.html)
+- [Why Recovery Timeline Matters](/article/why-recovery-timeline-matters.html)
+- [Modern Oral Surgical Techniques](/article/how-to-surgical-technique-overview.html)
+
+- [Common Misconceptions About Complex Extractions](/article/common-misconceptions-about-complex-extractions.html)
+- [Guided Bone Regeneration in Dental Surgery: Principles](/article/guided-bone-regeneration-in-dental-surgery.html)
+- [Tongue Tie Release: What Parents Need to Know](/article/frenulum-removal-frenotomy-and-tongue-tie-release.html)

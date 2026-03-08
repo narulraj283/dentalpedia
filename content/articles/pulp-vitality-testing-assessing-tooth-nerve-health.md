@@ -37,7 +37,9 @@ When your dentist tests your tooth's nerve, they're trying to determine if your 
 
 ## What a Healthy Tooth Nerve Looks Like
 
-When your tooth has a healthy, normal nerve, you have no pain unless you do something extreme to your tooth. You don't get pain from hot or cold foods unless you bite directly on something really extreme. Your tooth doesn't hurt when you bite on it. Vitality tests (cold, electrical, heat) all give normal responses. X-rays show no problems around the root of your tooth. This is the baseline that all other conditions are compared against.
+When your tooth has a healthy, normal nerve, you have no pain unless you do something extreme to your tooth. You don't get pain from hot or cold foods unless you bite directly on something really extreme. Your tooth doesn't hurt when you bite on it.
+
+Vitality tests (cold, electrical, heat) all give normal responses. X-rays show no problems around the root of your tooth. This is the baseline that all other conditions are compared against.
 
 ## When Your Nerve Is Mildly Inflamed but Recovering
 
@@ -57,7 +59,9 @@ At this stage, there's no way to save the nerve tissue. The nerve will eventuall
 
 Once the nerve tissue dies (necrosis), something interesting happens: the pain often stops. Many people with a dead nerve feel no pain at all, which actually makes it harder to realize something is wrong with the tooth. The dead nerve tissue inside the tooth can become infected, and infection might cause pain, but the tooth itself feels okay.
 
-The biggest problem with a dead nerve isn't always pain—it's the infection that follows. Dead nerve tissue breaks down, and bacteria colonize the dead tissue, creating an infection inside the tooth. This infection can spread around the root tip and into your jawbone. Sometimes you'll develop a small bump on your gum above the tooth, which is an abscess draining infection to the surface. Sometimes the infection stays silent and you don't know there's a problem until your dentist sees it on an x-ray. For more on this topic, see our guide on [Taper File Cone Shape](/article/taper-file-cone-shape.html).
+The biggest problem with a dead nerve isn't always pain—it's the infection that follows. Dead nerve tissue breaks down, and bacteria colonize the dead tissue, creating an infection inside the tooth. This infection can spread around the root tip and into your jawbone.
+
+Sometimes you'll develop a small bump on your gum above the tooth, which is an abscess draining infection to the surface. Sometimes the infection stays silent and you don't know there's a problem until your dentist sees it on an x-ray. For more on this topic, see our guide on [Taper File Cone Shape](/article/taper-file-cone-shape.html).
 
 When you have a dead nerve, vitality tests show no response at all—no response to cold, heat, or electrical stimulus. X-rays might show a dark area around the root tip (periapical pathology) indicating bone loss from infection. Teeth with dead nerves must be treated with root canal therapy to remove the dead tissue and infection, or they must be extracted.
 
@@ -69,7 +73,7 @@ Your dentist gathers information from multiple sources: your description of your
 
 If the test results are unclear or mixed, your dentist might recommend waiting a few weeks and retesting rather than immediately starting root canal treatment. During this time, some teeth improve (suggesting reversible inflam mation), while others get progressively worse (suggesting irreversible inflammation or necrosis). Waiting a few weeks can give your dentist much clearer information about your tooth's true status. This is especially important for expensive treatments like root canal therapy, where it's worth waiting a bit to be sure about the diagnosis.
 
-[Understand more about what happens if your tooth nerve dies and why treatment is important](/article/root-canal-aftercare-pain-management-and-recovery.html).
+[Understand more about what happens if your tooth nerve](/article/root-canal-aftercare-pain-management-and-recovery.html).
 
 ## The Importance of Accurate Diagnosis
 
@@ -81,14 +85,12 @@ That's why your dentist takes diagnosis seriously, combines multiple testing met
 
 Your tooth's nerve can be healthy, reversibly inflamed (able to recover), irreversibly inflamed (requiring root canal), or dead (infected). Symptoms, vitality test responses, and x-ray findings all contribute to determining which category your tooth is in. Understanding these categories helps you understand why your dentist recommends specific treatment and what to expect going forward.
 
-## Key Takeaway
-
-The status of your tooth's nerve determines your treatment: healthy or reversibly inflamed teeth might just need a filling, while irreversibly inflamed or dead nerves require root canal therapy. Your dentist uses symptoms, multiple tests, and x-rays combined to determine your tooth's true status. If diagnosis is unclear, waiting and retesting often provides more reliable information than rushing to treatment.
+> **Key Takeaway:** The status of your tooth's nerve determines your treatment: healthy or reversibly inflamed teeth might just need a filling, while irreversibly inflamed or dead nerves require root canal therapy. Your dentist uses symptoms, multiple tests, and x-rays combined to determine your tooth's true status. If diagnosis is unclear, waiting and retesting often provides more reliable information than rushing to treatment.
 
 ## Related Articles
 
-[Root Canal Aftercare: Pain Management and Recovery](/article/root-canal-aftercare-pain-management-and-recovery.html)
+- [Reversible Pulpitis: Can Your Tooth Recover?](/article/reversible-pulpitis-can-tooth-recover.html)
+- [Root Canal Therapy Success Rate and Long-Term Outcomes](/article/root-canal-therapy-success-rate-and-long-term-outcomes.html)
+- [Root Canal Length: Why Dentists Measure Twice Before](/article/working-length-determination-apex-location.html)
+- [Root Resorption - Pathophysiology and Clinical](/article/root-resorption-dissolving-root-structures.html)
 
-[Reversible Pulpitis: Can Your Tooth Recover?](/article/reversible-pulpitis-can-tooth-recover.html)
-
-[Root Canal Therapy Success Rate and Long-Term Outcomes](/article/root-canal-therapy-success-rate-and-long-term-outcomes.html)

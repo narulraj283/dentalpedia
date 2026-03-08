@@ -37,7 +37,7 @@ references:
 
 If you drink coffee, red wine, or tea every day, you've probably noticed your teeth getting darker over time. That's normal, and the good news is that teeth whitening actually works. But with so many options out there—some expensive, some promising impossible results—it's easy to get confused about what will actually make a difference and what's just marketing.
 
-This guide breaks down everything you need to know about whitening: which options actually deliver results, what to realistically expect, how to handle sensitivity, and how long the brightness will stick around. Learn more about [smile improvement options complete](/article/smile-improvement-options-complete-guide.html) for additional guidance.
+This guide breaks down everything you need to know about whitening: which options actually deliver results, what to realistically expect, how to handle sensitivity, and how long the brightness will stick around. Learn more about [Smile Improvement Options Complete](/article/smile-improvement-options-complete-guide.html) for additional guidance.
 
 ## What Whitening Can and Cannot Do
 
@@ -150,7 +150,7 @@ This is the one mistake people make repeatedly: whitening only works on natural 
 
 This matters for planning. If you're thinking about getting a crown or veneer on a front tooth, whiten your natural teeth first, then have the restoration made to match your new brighter shade. If you already have mismatched restorations (a yellow crown next to bright white natural teeth), you have two choices: replace the restoration after whitening, or have your dentist add bonding to your darker natural teeth to match the brighter ones.
 
-See our article on [smile improvement options](/article/smile-improvement-options-what-you-need-to-know.html) for more on cosmetic solutions beyond whitening.
+See our article on [Smile Improvement Options](/article/smile-improvement-options-what-you-need-to-know.html) for more on cosmetic solutions beyond whitening.
 
 ## How Long Does Whitening Actually Last?
 
@@ -180,7 +180,7 @@ The silver lining: whitening isn't damaging to your teeth. It just wears off. Yo
 
 7. **"What's your maintenance plan if I want to keep my teeth bright?"** Ask about refill costs for custom trays or how often you'd need office visits for touch-ups.
 
-
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
@@ -188,13 +188,15 @@ Taking care of your dental health is one of the best investments you can make in
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
+If you prefer flexibility and control, custom trays are the best value. Most importantly, understand that whitening is temporary—plan for maintenance touch-ups every 6-12 months if you want to keep the brightness. And coordinate with your dentist if you have crowns or major restorations, because those won't whiten along with your natural teeth.
 
-Whitening works, but success depends on managing expectations and choosing the right method for your situation. Professional options (custom trays or in-office) deliver better results than over-the-counter products because they use stronger bleaching agents and better delivery systems. If you're in a hurry, in-office whitening is fastest. If you prefer flexibility and control, custom trays are the best value. Most importantly, understand that whitening is temporary—plan for maintenance touch-ups every 6-12 months if you want to keep the brightness. And coordinate with your dentist if you have crowns or major restorations, because those won't whiten along with your natural teeth.
-
+> **Key Takeaway:** Whitening works, but success depends on managing expectations and choosing the right method for your situation. Professional options (custom trays or in-office) deliver better results than over-the-counter products because they use stronger bleaching agents and better delivery systems. If you're in a hurry, in-office whitening is fastest.
 
 ## Related Articles
 
-- [Smile Improvement Options Complete Guide](/article/smile-improvement-options-complete-guide.html)
 - [Cost Of Cosmetic Smile Design](/article/cost-of-cosmetic-smile-design.html)
 - [Anterior Guidance Incisor Controlling Bite](/article/anterior-guidance-incisor-controlling-bite.html)
+
+- [Tooth Reshaping: A Quick Fix for Minor Cosmetic Issues](/article/tooth-contouring-and-reshaping-procedures.html)
+- [Cost of Cosmetic Restoration Types](/article/cost-of-cosmetic-restoration-types.html)
+

@@ -39,13 +39,13 @@ If your dentist has recommended a professional cleaning using a sonic scaler, yo
 
 ## How Sonic Scalers Work
 
-Sonic scalers use a special frequency of vibrations—between 3,000 and 8,000 cycles per second—to create motion that breaks apart tartar and plaque on your teeth. Learn more about [modified widman flap conservative](/article/modified-widman-flap-conservative-approach.html) for additional guidance. Your dentist can think of this frequency as much lower than ultrasonic cleaners (which vibrate 20,000 to 50,000 times per second), which is why sonic scalers feel different in your mouth.
+Sonic scalers use a special frequency of vibrations—between 3,000 and 8,000 cycles per second—to create motion that breaks apart tartar and plaque on your teeth. Learn more about [Modified Widman Flap Conservative](/article/modified-widman-flap-conservative-approach.html) for additional guidance. Your dentist can think of this frequency as much lower than ultrasonic cleaners (which vibrate 20,000 to 50,000 times per second), which is why sonic scalers feel different in your mouth.
 
 The tip of a sonic scaler moves in an elliptical pattern—a combination of side-to-side and up-and-down motions happening at the same time. This three-dimensional movement is more effective at disrupting stubborn tartar deposits than single-direction vibrations. Studies show that sonic scalers remove 30 to 50 percent more plaque and bacteria in the same amount of time compared to hand-scraping alone. The motion is consistent and controlled, so your dentist doesn't need to apply hand pressure like with traditional instruments, making your appointment more comfortable.
 
 ## The Built-in Water Spray Keeps You Comfortable
 
-Every sonic scaler includes a water spray that flows during the cleaning. Learn more about [enamel matrix derivative promoting](/article/enamel-matrix-derivative-promoting-attachment.html) for additional guidance. This isn't just for rinsing debris away—the water serves multiple important purposes. It cools your tooth surface so there's no risk of heat damage, lubricates the area for smoother cleaning, and enhances the plaque-removal action by creating tiny bubbles that help break apart biofilm. The water flow is gentle, creating a mist rather than a strong jet, and your dentist will use suction to keep your mouth dry and comfortable.
+Every sonic scaler includes a water spray that flows during the cleaning. Learn more about [Enamel Matrix Derivative Promoting](/article/enamel-matrix-derivative-promoting-attachment.html) for additional guidance. This isn't just for rinsing debris away—the water serves multiple important purposes. It cools your tooth surface so there's no risk of heat damage, lubricates the area for smoother cleaning, and enhances the plaque-removal action by creating tiny bubbles that help break apart biofilm. The water flow is gentle, creating a mist rather than a strong jet, and your dentist will use suction to keep your mouth dry and comfortable.
 
 The cooling effect from the water spray means your teeth never get too warm during the procedure. This allows your dentist to perform longer cleaning sessions without causing any thermal damage to your teeth or gums. You'll also notice that the water helps your dentist see what they're doing, which means a more thorough and accurate cleaning.
 
@@ -81,13 +81,11 @@ Your sonic scaler appointment removes the tartar and plaque your toothbrush and 
 
 Sonic scalers are a patient-friendly tool that effectively removes stubborn tartar and plaque deep below your gum line, helping prevent gum disease and tooth loss. The gentle vibration, water cooling, and wide tip design make sonic scaling more comfortable than many traditional methods while delivering superior results. Your dentist can access hard-to-reach areas quickly and thoroughly, which means shorter appointment times and better outcomes for your oral health. If you've been avoiding dental cleanings because you were worried about discomfort, a sonic scaler appointment might be the more pleasant experience you've been hoping for.
 
-## Key Takeaway
-
-Sonic scalers use a comfortable, three-dimensional vibration pattern combined with water spray to remove dangerous tartar and plaque hiding below your gum line—protecting your teeth and gums from disease while providing a gentler cleaning experience than traditional hand scaling or ultrasonic alternatives.
+> **Key Takeaway:** Sonic scalers use a comfortable, three-dimensional vibration pattern combined with water spray to remove dangerous tartar and plaque hiding below your gum line—protecting your teeth and gums from disease while providing a gentler cleaning experience than traditional hand scaling or ultrasonic alternatives.
 
 ## Related Articles
 
-- [Modified Widman Flap Conservative Approach](modified-widman-flap-conservative-approach)
-- [Why Gum Health Maintenance Matters](why-gum-health-maintenance-matters)
-- [Enamel Matrix Derivative Promoting Attachment](enamel-matrix-derivative-promoting-attachment)
+- [Why Periodontal Maintenance Matters - Disease](/article/why-gum-health-maintenance-matters.html)
+- [Universal Curettes and Area-Specific Instrumentation](/article/universal-curette-multiple-area-instrument.html)
+- [Why Your Front Teeth Are Drifting Apart and How](/article/tooth-migration-drifting-apart-or-forward.html)
 

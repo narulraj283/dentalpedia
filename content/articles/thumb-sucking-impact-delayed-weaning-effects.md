@@ -224,9 +224,9 @@ With early intervention at ages 5-6:
 
 ## The Bottom Line
 
-Thumb sucking is normal and most kids stop naturally. Intervention is wise if your child is still sucking heavily (4-6+ hours daily) after age 5-6. Behavioral approaches work well for motivated kids. Palatal cribs are very effective if behavior strategies don't work. Most tooth changes from sucking close naturally if the habit stops by age 5-6. Pressure and punishment backfire—positive approaches work better. Learn more about [desensitization and gradual fear reduction](/article/desensitization-gradual-fear-reduction.html), [toothpaste for children age-appropriate fluoride](/article/toothpaste-for-children-age-appropriate-fluoride.html), and [ectopic canine misdirected canine eruption](/article/ectopic-canine-misdirected-canine-eruption.html) for other pediatric dental topics.
+Thumb sucking is normal and most kids stop naturally. Intervention is wise if your child is still sucking heavily (4-6+ hours daily) after age 5-6. Behavioral approaches work well for motivated kids.
 
-
+Palatal cribs are very effective if behavior strategies don't work. Most tooth changes from sucking close naturally if the habit stops by age 5-6. Pressure and punishment backfire—positive approaches work better. Learn more about [Desensitization and Gradual Fear Reduction](/article/desensitization-gradual-fear-reduction.html), [Toothpaste for Children Age-appropriate Fluoride](/article/toothpaste-for-children-age-appropriate-fluoride.html), and [Ectopic Canine Misdirected Canine Eruption](/article/ectopic-canine-misdirected-canine-eruption.html) for other pediatric dental topics.
 
 ## Conclusion
 
@@ -234,12 +234,13 @@ Taking care of your dental health is one of the best investments you can make in
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Thumb sucking becomes a concern around age 4-5 if it exceeds 4-6 hours daily or shows no signs of natural stopping. Open bites less than 3 mm close naturally in 80% of cases if sucking stops by age 5-6. Behavioral intervention (rewards, trigger identification, alternatives) works in 60-70% of cases. Palatal crib appliances are effective (85-90% success) for kids age 6-8 who don't respond to behavior modification. Early intervention at ages 5-6 gives best outcomes with lowest chance of permanent orthodontic needs.
+> **Key Takeaway:** Thumb sucking becomes a concern around age 4-5 if it exceeds 4-6 hours daily or shows no signs of natural stopping. Open bites less than 3 mm close naturally in 80% of cases if sucking stops by age 5-6. Behavioral intervention (rewards, trigger identification, alternatives) works in 60-70% of cases. Palatal crib appliances are effective (85-90% success) for kids age 6-8 who don't respond to behavior modification. Early intervention at ages 5-6 gives best outcomes with lowest chance of permanent orthodontic needs.
 
 ## Related Articles
 
-- [Desensitization: Gradual Fear Reduction](/article/desensitization-gradual-fear-reduction.html)
+- [Space Maintainers for Premature Tooth Loss -](/article/space-maintainer-after-premature-tooth-loss.html)
+- [Space Maintainers for Children](/article/distal-shoe-maintainer-preventing-molar-shift.html)
+
+- [Overcoming Dental Fear in Children](/article/desensitization-gradual-fear-reduction.html)
 - [Toothpaste for Children: Age-Appropriate Fluoride](/article/toothpaste-for-children-age-appropriate-fluoride.html)
-- [Ectopic Canine: Misdirected Canine Eruption](/article/ectopic-canine-misdirected-canine-eruption.html)
+- [Ectopic Canine Eruption](/article/ectopic-canine-misdirected-canine-eruption.html)

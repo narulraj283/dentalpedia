@@ -25,7 +25,7 @@ references:
 
 Bad breath (called halitosis) affects about 1 in 4 people regularly. To eliminate it, you need to understand what causes it. Bad breath comes from bacteria in your mouth that produce sulfur compounds—essentially, the bacteria are creating a foul-smelling gas. About 85-90% of bad breath originates from oral sources (your mouth), while the remainder comes from systemic sources (your body as a whole, like stomach or metabolic issues).
 
-The bacteria that cause bad breath live in dental plaque and tartar on your teeth and gums, in gum pockets, on your tongue, and in the spaces between your teeth. Learning more about [periodontal disease and tooth loss prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. When you have plaque buildup or gum disease, you have more of these bacteria, which means more bad smell. If you have good oral hygiene but still have bad breath, the cause might be systemic (you'd need to see your doctor), or it might be specific oral issues like gum disease that need professional treatment.
+The bacteria that cause bad breath live in dental plaque and tartar on your teeth and gums, in gum pockets, on your tongue, and in the spaces between your teeth. Learning more about [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. When you have plaque buildup or gum disease, you have more of these bacteria, which means more bad smell. If you have good oral hygiene but still have bad breath, the cause might be systemic (you'd need to see your doctor), or it might be specific oral issues like gum disease that need professional treatment.
 
 ## Myth: Mouthwash Solves Bad Breath
 
@@ -47,7 +47,7 @@ Tongue scraping is a good habit to add to your routine—many people do this dai
 
 ## Myth: Mints and Gum Solve Bad Breath
 
-Mints and chewing gum provide temporary freshen of breath but don't address the underlying cause. Learning more about [common misconceptions about daily teeth cleaning](/article/common-misconceptions-about-daily-teeth-cleaning.html) can help you understand this better. They might mask odor for a short time, but once you stop chewing gum or the mint dissolves, bacteria resume producing sulfur compounds and bad breath returns.
+Mints and chewing gum provide temporary freshen of breath but don't address the underlying cause. Learning more about [Common Misconceptions About Daily Teeth Cleaning](/article/common-misconceptions-about-daily-teeth-cleaning.html) can help you understand this better. They might mask odor for a short time, but once you stop chewing gum or the mint dissolves, bacteria resume producing sulfur compounds and bad breath returns.
 
 If you chew sugar-free gum, the increased saliva production can help slightly (saliva has some antibacterial properties), but this is a minor benefit. Gum and mints are fine to use for temporary freshness, but they're not a treatment for chronic bad breath.
 
@@ -69,8 +69,6 @@ See your dentist if you have chronic bad breath that doesn't improve with good h
 
 Your dentist can assess whether your bad breath is from oral sources (treatable) or if they suspect systemic causes (requiring physician referral). They can recommend specific treatments and products appropriate for your situation.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about bad breath elimination and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -79,12 +77,13 @@ When you visit your dentist, ask about bad breath elimination and how it applies
 
 Chronic bad breath usually comes from bacterial plaque and tartar buildup or gum disease. Mouthwash provides temporary freshness but doesn't address the underlying problem. Effective treatment addresses the root cause: removing buildup through professional cleaning, improving oral hygiene, and treating gum disease if present. See your dentist if bad breath persists despite good home care.
 
+> **Key Takeaway:** What really causes bad breath, why mouthwash alone doesn't fix it, and how to actually eliminate chronic halitosis.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Understanding Gum Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html)
-- [Daily Teeth Cleaning Best Practices and Proper Technique](/article/common-misconceptions-about-daily-teeth-cleaning.html)
 - [Choosing a Dentist and Finding the Right Provider](/article/choosing-a-dentist-finding-right-provider.html)
+- [Cognitive Decline and Oral Care: Clinical Challenges,](/article/cognitive-decline-oral-care-challenges.html)
+- [Dental Treatment During Pregnancy - Safety,](/article/pregnancy-and-dental-care-safety-and-timing.html)
+- [Cost of Emergency Tooth Pain and Urgent Dental](/article/cost-of-emergency-tooth-pain.html)
+- [Why Tooth Structure Layers Matters](/article/why-tooth-structure-layers-matters.html)
 
-> **Key Takeaway:** Bad breath from oral sources comes from bacteria producing sulfur compounds—mouthwash only masks it temporarily while the underlying bacterial buildup remains; real treatment addresses the root cause through professional cleaning, improved hygiene, and treating gum disease if present. Talk to your dentist if you have chronic bad breath to identify the cause and appropriate treatment.

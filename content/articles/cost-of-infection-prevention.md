@@ -70,7 +70,7 @@ If you smoke and need a procedure, talk to your dentist about smoking cessation 
 
 The best infection prevention is never needing the procedure in the first place. Good home care prevents cavities, gum disease, and abscesses. Daily brushing, flossing, and regular checkups cost almost nothing compared to treatment.
 
-[Learn more about mouth cleaning tools](/article/cost-of-mouth-cleaning-tools.html) that help prevent infections by keeping your mouth clean. If you already have gum disease, [check out gum disease prevention](/article/cost-of-gum-disease-prevention.html) to understand how to prevent infections from progressing disease.
+[Learn more about mouth cleaning tools](/article/cost-of-mouth-cleaning-tools.html) that help prevent infections by keeping your mouth clean. If you already have gum disease, [Check Out Gum Disease Prevention](/article/cost-of-gum-disease-prevention.html) to understand how to prevent infections from progressing disease.
 
 ## Special Situations
 
@@ -99,8 +99,6 @@ Most insurance plans cover antibiotic prophylaxis as medically necessary when yo
 
 If you're uninsured, the $10-75 antibiotic cost is still incredibly cheap compared to treating an infection.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about infection prevention and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -115,10 +113,13 @@ Once you've addressed infection prevention, maintaining your results requires on
 
 Infection prevention through antibiotic prophylaxis and good home care costs $50-150 for at-risk patients and prevents $3,000-200,000+ in infection treatment costs. If you have cardiac conditions, a prosthetic joint, or a weak immune system, discuss infection prevention with your dentist before any procedure. The investment is minimal, but the protection is enormous.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Dental procedures—especially tooth extraction or gum disease treatment—can occasionally cause infections.
 
-- [Cost of Gum Disease Prevention](/article/cost-of-gum-disease-prevention.html)
-- [Cost of Mouth Cleaning Tools](/article/cost-of-mouth-cleaning-tools.html)
+## Related Articles
+
 - [Cost of Oral Surgery Recovery Timeline](/article/cost-of-oral-surgery-recovery-timeline.html)
+- [All-Ceramic Crowns: Metal-Free Restoration Solutions](/article/all-ceramic-crown-metal-free-restoration.html)
+- [Complete Guide to Dental Exams and Cleanings](/article/complete-guide-to-dental-exams-and-cleanings.html)
+- [Community Dental Clinic Access](/article/community-dental-clinic-access.html)
+- [How Dentists Find Cavities Before They Get Bad](/article/risk-and-concerns-with-cavity-diagnosis-process.html)
 
-> **Key Takeaway:** Antibiotic prophylaxis costs $50-150 but prevents infections costing $3,000-200,000+—a smart investment for anyone at higher risk.

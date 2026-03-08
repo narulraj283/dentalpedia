@@ -23,17 +23,23 @@ references:
 
 ## A True Dental Emergency
 
-A knocked-out tooth is one of the few real dental emergencies where every minute counts. If you get your tooth back in place within 5 minutes, it has an 85-97% chance of surviving long-term. After 15 minutes, the survival rate is still excellent at around 70-90%. However, after 60 minutes, the success rate drops dramatically to just 20-40%. The reason for this time sensitivity relates to biology: the tiny fibers (periodontal ligament) that hold your tooth to your bone start dying immediately when the tooth is out of your mouth. These fibers are living tissue that require moisture, oxygen, and nutrients to remain viable. But if kept in the right liquid, these critical fibers can stay alive for hours, even days. For more details, see our guide on [Dental Abscess](/article/dental-abscess-infection-and-urgent-treatment.html).
+A knocked-out tooth is one of the few real dental emergencies where every minute counts. If you get your tooth back in place within 5 minutes, it has an 85-97% chance of surviving long-term. After 15 minutes, the survival rate is still excellent at around 70-90%. However, after 60 minutes, the success rate drops dramatically to just 20-40%.
 
-The way you handle the tooth in those first moments makes all the difference between saving it or losing it forever. This isn't an exaggeration—the decisions you make in the first few minutes directly determine whether your tooth can be successfully replanted and reestablished. For more details, see our guide on [Dental Trauma in Athletes - Prevention and Treatment Protocols](/article/dental-trauma-in-athletes-prevention-and-treatment.html).
+The reason for this time sensitivity relates to biology: the tiny fibers (periodontal ligament) that hold your tooth to your bone start dying immediately when the tooth is out of your mouth. These fibers are living tissue that require moisture, oxygen, and nutrients to remain viable. But if kept in the right liquid, these critical fibers can stay alive for hours, even days. For more details, see our guide on [Dental Abscess](/article/dental-abscess-infection-and-urgent-treatment.html).
+
+The way you handle the tooth in those first moments makes all the difference between saving it or losing it forever. This isn't an exaggeration—the decisions you make in the first few minutes directly determine whether your tooth can be successfully replanted and reestablished. For more details, see our guide on [Dental Trauma in Athletes - Prevention](/article/dental-trauma-in-athletes-prevention-and-treatment.html).
 
 ## What to Do Right When It Happens
 
 If you've knocked out a tooth, here's the emergency protocol to follow immediately.
 
-Pick up the tooth by the crown (the white part you see), never by the root (the pointy part). Even touching the root can damage those important protective fibers. If it's dirty, rinse it gently with normal saline or fresh milk for just 10 seconds. Don't use water and don't scrub it—the root is fragile and easily damaged. Never attempt to clean the root surface aggressively. Some contamination is actually better than damaging the periodontal ligament trying to clean it.
+Pick up the tooth by the crown (the white part you see), never by the root (the pointy part). Even touching the root can damage those important protective fibers. If it's dirty, rinse it gently with normal saline or fresh milk for just 10 seconds.
 
-The tooth needs to be stored in the right liquid immediately. The best option is Hank's Balanced Salt Solution (HBSS), a special liquid dentists use that keeps the tooth viable for a full 24 hours. If you don't have that available, whole milk works exceptionally well—it keeps the tooth viable for 2-3 hours because milk provides osmotic pressure and some nutrients. Your own saliva is the next best option, keeping the tooth alive for about 1-2 hours. Coconut water is another option that's gaining research support. Whatever you do, don't let the tooth dry out and absolutely don't put it in water, alcohol, or other household liquids. Then get to a dentist immediately—ideally within 30 minutes, but any time within several hours is better than days.
+Don't use water and don't scrub it—the root is fragile and easily damaged. Never attempt to clean the root surface aggressively. Some contamination is actually better than damaging the periodontal ligament trying to clean it.
+
+The tooth needs to be stored in the right liquid immediately. The best option is Hank's Balanced Salt Solution (HBSS), a special liquid dentists use that keeps the tooth viable for a full 24 hours. If you don't have that available, whole milk works exceptionally well—it keeps the tooth viable for 2-3 hours because milk provides osmotic pressure and some nutrients.
+
+Your own saliva is the next best option, keeping the tooth alive for about 1-2 hours. Coconut water is another option that's gaining research support. Whatever you do, don't let the tooth dry out and absolutely don't put it in water, alcohol, or other household liquids. Then get to a dentist immediately—ideally within 30 minutes, but any time within several hours is better than days.
 
 If you can't immediately get professional care, place the tooth in your mouth (between your cheek and tooth, not swallowing) so saliva provides moisture and some nutrients. This is a temporary measure until professional care is available.
 
@@ -55,7 +61,9 @@ You'll need antibiotics by mouth to prevent bacterial infection in the injured a
 
 ## The Healing Timeline: What Happens After
 
-The splint comes off after 2 weeks. At this point, the dentist will test whether the tooth is still vital (alive) using electrical vitality testing. Some teeth remain vital (especially younger teeth), while others show no response (indicating the nerve died). This is expected and manageable through root canal therapy. X-rays taken at 4 weeks after reimplantation show how bone is healing and whether complications are developing. The dentist will schedule follow-up X-rays at 8 weeks and 12 weeks to monitor healing progression.
+The splint comes off after 2 weeks. At this point, the dentist will test whether the tooth is still vital (alive) using electrical vitality testing. Some teeth remain vital (especially younger teeth), while others show no response (indicating the nerve died).
+
+This is expected and manageable through root canal therapy. X-rays taken at 4 weeks after reimplantation show how bone is healing and whether complications are developing. The dentist will schedule follow-up X-rays at 8 weeks and 12 weeks to monitor healing progression.
 
 The trickiest problem that can happen is inflammatory root resorption—the tooth slowly getting absorbed back into the bone over months or years. This happens in about 15-30% of replanted teeth even with absolutely perfect care because it's related to the initial injury. The dentist watches for this through periodic X-rays and can treat it if needed using anti-inflammatory medications or calcium hydroxide paste inside the tooth. Another potential complication is replacement resorption, where the tooth slowly ankylose (fuses) to the bone and then gets resorbed as bone remodels. This is less common but possible.
 
@@ -69,20 +77,20 @@ High-contact sports put your teeth at serious risk. If you play football, basket
 
 ## Summary
 
-A knocked-out tooth is a genuine dental emergency requiring immediate action. Grab it by the crown (not the root), rinse it gently with saline or milk, and place it in milk or saline immediately. Get to a dentist within 30 minutes if humanly possible—the first 5-15 minutes are most critical. Expect antibiotics, a flexible splint for 2 weeks, and follow-up X-rays at 4, 8, and 12 weeks. Young teeth with open roots do better than fully mature teeth with closed apexes. Most replanted teeth will need a root canal at some point because the nerve dies. Even with perfect immediate care, some teeth develop resorption complications, but modern endodontic and restorative dentistry can manage these effectively. The key to saving your tooth is recognizing this as a true emergency, acting fast, and following through with appropriate professional care.
+A knocked-out tooth is a genuine dental emergency requiring immediate action. Grab it by the crown (not the root), rinse it gently with saline or milk, and place it in milk or saline immediately. Get to a dentist within 30 minutes if humanly possible—the first 5-15 minutes are most critical. Expect antibiotics, a flexible splint for 2 weeks, and follow-up X-rays at 4, 8, and 12 weeks.
 
-## Related Articles You May Find Helpful
-
-- [Dental Abscess: Microbiology, Diagnosis, and Emergency Treatment Protocols](/article/dental-abscess-infection-and-urgent-treatment.html)
-- [Dental Trauma in Athletes - Prevention and Treatment Protocols](/article/dental-trauma-in-athletes-prevention-and-treatment.html)
-- [Emergency Dental Pain: Diagnosis, Management, and Treatment](/article/emergency-dental-pain-complete-guide.html)
-
-
-
+Young teeth with open roots do better than fully mature teeth with closed apexes. Most replanted teeth will need a root canal at some point because the nerve dies. Even with perfect immediate care, some teeth develop resorption complications, but modern endodontic and restorative dentistry can manage these effectively. The key to saving your tooth is recognizing this as a true emergency, acting fast, and following through with appropriate professional care.
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about avulsed tooth saving knocked out teeth. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** A knocked-out tooth is one of the few real dental emergencies where every minute counts. Your dentist can help you understand what steps are right for your specific needs.
+
+## Related Articles
+
+- [Emergency Dental Pain](/article/emergency-dental-pain-complete-guide.html)
+- [Why Prompt Mouth Injury Treatment Matters for](/article/why-mouth-injuries-treatment-matters.html)
+- [Risk and Concerns with Mouth Injuries Treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html)
+- [Tetanus Risk in Oral Trauma and Vaccination Prophylaxis](/article/tetanus-risk-puncture-wound-prophylaxis.html)
 

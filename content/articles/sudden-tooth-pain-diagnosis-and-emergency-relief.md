@@ -37,15 +37,21 @@ references:
 
 When you suddenly develop tooth pain, it could be caused by several different problems, and your dentist needs to figure out which one before treating it. The cause of your pain determines what treatment you need and how quickly you need it. Some tooth pain problems are minor and go away on their own, while others require emergency care right away. Understanding what might be wrong helps you know when to call your dentist immediately.
 
-The most common causes of sudden tooth pain are inflammation inside the tooth nerve, a cracked tooth, an infected tooth, or gum disease. Learn more about [luxation partially displaced tooth](/article/luxation-partially-displaced-tooth.html) for additional guidance. Each of these feels different and requires different treatment. Your dentist will ask you questions about your pain and do some tests to figure out exactly what's wrong before starting any treatment.
+The most common causes of sudden tooth pain are inflammation inside the tooth nerve, a cracked tooth, an infected tooth, or gum disease. Learn more about [Luxation Partially Displaced Tooth](/article/luxation-partially-displaced-tooth.html) for additional guidance. Each of these feels different and requires different treatment. Your dentist will ask you questions about your pain and do some tests to figure out exactly what's wrong before starting any treatment.
 
-2. **Irreversible Pulpitis**: Advanced pulpal inflammation where the pulp is unable to heal, despite removal of the causative stimulus. Clinical presentation includes spontaneous pain (pain without external stimulus), pain of greater intensity and longer duration than reversible pulpitis, and thermal pain sensitivity (often exacerbated by cold, sometimes by heat). Patients may describe pain radiating to the temple, ear, or neck. Periapical radiographs may show subtle widening of the apical periodontal ligament space or early apical rarefaction. Pulp vitality tests remain positive early, but responsiveness may be diminished, indicating severe inflammation. Irreversible pulpitis mandates endodontic treatment (root canal therapy) or extraction; conservative treatment alone fails as the inflamed pulp cannot be rescued.
+2. **Irreversible Pulpitis**: Advanced pulpal inflammation where the pulp is unable to heal, despite removal of the causative stimulus. Clinical presentation includes spontaneous pain (pain without external stimulus), pain of greater intensity and longer duration than reversible pulpitis, and thermal pain sensitivity (often exacerbated by cold, sometimes by heat). Patients may describe pain radiating to the temple, ear, or neck.
 
-3. **Necrotic Pulp with Apical Periodontitis**: Progression from irreversible pulpitis where the pulp becomes non-vital. The tooth is typically asymptomatic or experiences low-level aching rather than sharp pain. Pulp vitality tests are negative (no response to electrical stimulation or thermal change). Radiographically, apical rarefaction becomes evident—a radiolucent (dark) zone at the apex indicating osteoclastic bone resorption. Pain, if present, results from periapical inflammation rather than pulpal inflammation. Root canal therapy is indicated.
+Periapical radiographs may show subtle widening of the apical periodontal ligament space or early apical rarefaction. Pulp vitality tests remain positive early, but responsiveness may be diminished, indicating severe inflammation. Irreversible pulpitis mandates endodontic treatment (root canal therapy) or extraction; conservative treatment alone fails as the inflamed pulp cannot be rescued.
+
+3. **Necrotic Pulp with Apical Periodontitis**: Progression from irreversible pulpitis where the pulp becomes non-vital. The tooth is typically asymptomatic or experiences low-level aching rather than sharp pain. Pulp vitality tests are negative (no response to electrical stimulation or thermal change).
+
+Radiographically, apical rarefaction becomes evident—a radiolucent (dark) zone at the apex indicating osteoclastic bone resorption. Pain, if present, results from periapical inflammation rather than pulpal inflammation. Root canal therapy is indicated.
 
 4. **Periapical Abscess**: Acute suppuration at the tooth apex, where purulent exudate accumulates under pressure, causing significant pain and potential systemic manifestations. Clinical signs include tooth elevation (slight mobility and vertical positioning higher than adjacent teeth due to periosteal swelling and fluid accumulation), severe localized swelling and erythema, constitutional symptoms (fever, malaise), and possible trismus (restricted jaw opening from swelling). Periapical radiographs show apical rarefaction; in early acute abscess stages, radiographic changes may lag behind clinical findings. Pulp vitality tests are negative. Immediate intervention is required: incision and drainage of purulent fluid, initiation of systemic antibiotics (amoxicillin 500 mg TID or clindamycin 300 mg QID for penicillin-allergic patients for 7 days), and endodontic treatment or extraction within 7-10 days of drainage.
 
-5. **Periodontal Abscess**: Acute inflammation localized to periodontal tissues (gingiva and periodontal ligament) rather than the pulp. Etiology includes food impaction, calculus trauma, or extension of untreated periodontal disease. Pain is localized to the affected gingival tissues with possible tooth mobility and bleeding. Unlike periapical abscess, the tooth typically maintains vitality (positive pulp vitality tests). Radiographically, vertical bone loss adjacent to the tooth is evident; the apex remains free of pathology. Treatment involves scaling and root planing, antibiotic therapy if systemic signs present, and plaque control.  You may also find helpful information about [extrusion tooth pulled out](/article/extrusion-tooth-pulled-out-slightly.html).Endodontic treatment is not indicated.
+5. **Periodontal Abscess**: Acute inflammation localized to periodontal tissues (gingiva and periodontal ligament) rather than the pulp. Etiology includes food impaction, calculus trauma, or extension of untreated periodontal disease. Pain is localized to the affected gingival tissues with possible tooth mobility and bleeding.
+
+Unlike periapical abscess, the tooth typically maintains vitality (positive pulp vitality tests). Radiographically, vertical bone loss adjacent to the tooth is evident; the apex remains free of pathology. Treatment involves scaling and root planing, antibiotic therapy if systemic signs present, and plaque control. You may also find helpful information about [Extrusion Tooth Pulled Out](/article/extrusion-tooth-pulled-out-slightly.html).Endodontic treatment is not indicated.
 
 6. **Cracked Tooth Syndrome**: A specific clinical entity where the tooth has a hairline fracture (crack) in the dentin and enamel, causing sharp, intermittent pain upon mastication or thermal stimulation. The pain is typically reproduced by cusp pressure testing (applying individual biting pressure to each cusp, reproducing pain when biting on the cracked portion). Early cracked teeth may show negative pulp vitality tests; as inflammation progresses, tests may become positive if the crack extends to the pulp. Radiographs often fail to visualize the crack (as cracks are not always radiopaque without hemorrhage or infection widening the crack). Treatment depends on crack extent: superficial cracks (limited to enamel/dentin) may be restored with bonded resin; cracks extending to the pulp require endodontic treatment; cracks extending to the root tip may require extraction.
 
@@ -120,15 +126,12 @@ Patients experiencing acute dental pain require clear communication regarding:
 
 Acute dental pain demands systematic differential diagnosis and evidence-based emergency management. Understanding the distinct characteristics of reversible pulpitis, irreversible pulpitis, periapical pathology, and periodontal inflammation enables appropriate triage and treatment selection, optimizing patient comfort and long-term tooth preservation.
 
-
-## Key Takeaway
-
-What's Causing Your Sudden Tooth Pain? Talk to your dentist about which options work best for your unique situation, and don't hesitate to ask questions during your appointment.
-
-
+> **Key Takeaway:** What's Causing Your Sudden Tooth Pain? Talk to your dentist about which options work best for your unique situation, and don't hesitate to ask questions during your appointment.
 
 ## Related Articles
 
-- [Luxation Partially Displaced Tooth](/article/luxation-partially-displaced-tooth.html)
-- [Extrusion Tooth Pulled Out Slightly](/article/extrusion-tooth-pulled-out-slightly.html)
 - [Why Emergency Tooth Pain Matters](/article/why-emergency-tooth-pain-matters.html)
+
+- [Tetanus Risk in Oral Trauma and Vaccination Prophylaxis](/article/tetanus-risk-puncture-wound-prophylaxis.html)
+- [Oral Soft Tissue Injuries: Emergency Management and](/article/tissue-trauma-soft-tissue-injury.html)
+

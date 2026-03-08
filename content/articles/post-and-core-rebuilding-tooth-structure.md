@@ -42,10 +42,10 @@ reviewer_specialty: Prosthodontics
 slug: post-and-core-rebuilding-tooth-structure
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
-title: Post and Core—Rebuilding Severely Compromised Tooth...
+title: Post and Core Rebuilding Tooth Structure
 ---
 
-# Rebuilding Your Tooth After a Root Canal
+## Rebuilding Your Tooth After a Root Canal
 
 If you've just had a root canal, your dentist may have talked to you about a post and core. This is a system that helps rebuild and strengthen a tooth that has had its nerve removed. This guide explains what a post and core are, why your tooth might need one, and what you can expect.
 
@@ -76,7 +76,7 @@ Your dentist will choose between two main post options: fiber posts or cast meta
 
 **Cast metal posts** are custom-made in a dental lab. Your dentist takes an impression of your tooth, sends it to the lab, and the post is cast to fit your specific tooth anatomy perfectly. Metal posts are very strong and are especially good for teeth with minimal remaining structure or unusual root shapes. However, they require multiple appointments and cost more because of the lab work involved.
 
-Most dentists today use fiber posts because they work excellently, cost less, and can be completed in fewer appointments. For more on this topic, see our guide on [Complete Denture Design Retention And...](/article/complete-denture-design-retention-and-stability.html).
+Most dentists today use fiber posts because they work excellently, cost less, and can be completed in fewer appointments. For more on this topic, see our guide on [Complete Denture Design](/article/complete-denture-design-retention-and-stability.html).
 
 ## The Role of Remaining Tooth Structure: The Ferrule
 
@@ -100,7 +100,7 @@ The core can be completed the same day the post is placed, or in a separate appo
 
 ## How Long Does a Post and Core Last?
 
-Research shows that teeth restored with post-and-core systems have excellent long-term success. About 85 to 95 percent of treated teeth are still functioning well after 10 years. Failures are usually caused by: For more on this topic, see our guide on [Vertical Dimension Changes Affecting ...](/article/vertical-dimension-changes-affecting-facial-height.html).
+Research shows that teeth restored with post-and-core systems have excellent long-term success. About 85 to 95 percent of treated teeth are still functioning well after 10 years. Failures are usually caused by: For more on this topic, see our guide on [Vertical Dimension Changes Affecting Facial Height](/article/vertical-dimension-changes-affecting-facial-height.html).
 
 - A fracture below the gumline (usually in teeth without adequate ferrule)
 - A new infection in the root canal requiring re-treatment
@@ -137,12 +137,13 @@ Replacement is possible but involves careful removal of the old post and core, a
 
 A post and core is a valuable tool for saving heavily damaged teeth that have had root canals. By providing internal support and structure, it allows your tooth to function like a natural tooth and support a crown for many years. The success of your post-and-core tooth depends largely on protecting it from excessive forces and maintaining excellent oral hygiene.
 
-## Key Takeaway
-
-Protect your tooth after your root canal and before your crown is placed—avoid hard foods and chewing on that side. Make sure your dentist discusses the importance of ferrule with you and explains why preserving tooth structure matters for your long-term success. Once your crown is in place, treat your post-and-core tooth like any other tooth with excellent daily care and regular dental visits.
+> **Key Takeaway:** Protect your tooth after your root canal and before your crown is placed—avoid hard foods and chewing on that side. Make sure your dentist discusses the importance of ferrule with you and explains why preserving tooth structure matters for your long-term success. Once your crown is in place, treat your post-and-core tooth like any other tooth with excellent daily care and regular dental visits.
 
 ## Related Articles
 
-- [Complete Denture Design: Retention and Stability](/article/complete-denture-design-retention-and-stability.html)
-- [Vertical Dimension Changes Affecting Facial Height](/article/vertical-dimension-changes-affecting-facial-height.html)
 - [Implant-Supported Dentures: A Hybrid Solution](/article/implant-supported-dentures-a-hybrid-solution.html)
+
+- [Why the Crown vs Bridge Decision Matters in](/article/why-crown-vs-bridge-decision-matters.html)
+- [Complete Guide to Removable Dentures](/article/removable-prosthodontics-basics.html)
+- [Three-Unit Fixed Partial Dentures for Limited Space](/article/three-unit-bridge-limited-space-solution.html)
+

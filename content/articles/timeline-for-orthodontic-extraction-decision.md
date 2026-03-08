@@ -1,36 +1,9 @@
 ---
-title: Do You Need Teeth Removed for Braces? Understanding Extraction Decisions
+category_slug: general-dentistry
+excerpt: 'One of the biggest questions patients ask their orthodontist is: "Do I need
+  to have teeth pulled?" It''s a serious concern that affects how long you''ll'
 slug: timeline-for-orthodontic-extraction-decision
-category: Orthodontics
-category_slug: orthodontics
-excerpt: Learn how orthodontists decide whether tooth extraction is necessary for your braces treatment, what factors influence this decision, and what your options are.
-date: 2026-03-05
-read_time: 11 min
-reviewer_specialty: Orthodontics
-subcategory: Orthodontic Overview
-subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - title: "Tweed CH. The frankfort-mandibular plane angle in orthodontic diagnosis, treatment planning and prognosis. Angle Orthod. 1946;16(1-2):8-21."
-    url: https://pubmed.ncbi.nlm.nih.gov/20255254
-  - title: "Bolton WA. Disharmony in tooth size and its relation to the analysis and treatment of malocclusion. Angle Orthod. 1958;28(3):113-130."
-    url: https://pubmed.ncbi.nlm.nih.gov/13533489
-  - title: "Bailey LTJ, Esmailnejad JJ, Maeda N. The effects of extraction and nonextraction orthodontic treatment on dentoalveolar support and facial musculature. Am J Orthod Dentofacial Orthop. 1997;112(6):727-737."
-    url: https://pubmed.ncbi.nlm.nih.gov/9456752
-  - title: "Luppanapornlarp S, Johnston Jr LE. The effects of premolar-extraction: a long-term comparison of outcomes in "clear-cut" extraction and nonextraction Class II patients. Angle Orthod. 1993;63(4):257-272."
-    url: https://pubmed.ncbi.nlm.nih.gov/8297083
-  - title: "Bounds D. Extraction and non-extraction orthodontics: a systematic review. Semin Orthod. 2014;20(1):18-30."
-    url: https://pubmed.ncbi.nlm.nih.gov/24576912
-  - title: "McNamara Jr JA, Brudon WL. Orthodontic and Orthopedic Treatment in the Mixed Dentition. Ann Arbor: Needham Press; 1993."
-    url: https://pubmed.ncbi.nlm.nih.gov/8210432
-  - title: "Burstone CJ. The biomechanics of tooth movement. In: Sicher H, DuBrul EL, eds. Oral Anatomy. 7th ed. St. Louis: Mosby; 1980."
-    url: https://pubmed.ncbi.nlm.nih.gov/6993813
-  - title: "Capelli Jr J. Long-term evaluation of dental and skeletal changes after extraction and non-extraction orthodontic therapy. Angle Orthod. 2013;83(1):20-26."
-    url: https://pubmed.ncbi.nlm.nih.gov/22816699
-  - title: "De Freitas MR, Janson G, Freitas KM. Skeletal and dental characteristics related to forward maxillary positioning in Class II division 1 malocclusion. Angle Orthod. 2010;80(3):396-403."
-    url: https://pubmed.ncbi.nlm.nih.gov/20050735
-  - title: "Steadman SR. Changing philosophies in orthognathic surgery. J Oral Surg. 1978;36(3):205-214."
-    url: https://pubmed.ncbi.nlm.nih.gov/274784
+title: Timeline for Orthodontic Extraction Decision
 ---
 
 ## Introduction
@@ -39,13 +12,17 @@ One of the biggest questions patients ask their orthodontist is: "Do I need to h
 
 ## How Your Orthodontist Measures Crowding
 
-Before recommending extraction, your orthodontist needs to understand exactly how crowded your teeth are. Learn more about [teeth straightening cost what](/article/teeth-straightening-cost-what-you-need-to-know.html) for additional guidance. They do this by measuring the space available in your mouth versus the space your teeth actually need. Think of it like arranging furniture in a room—if your furniture is too big for the space, something has to give. Your orthodontist uses special measurements called arch length discrepancy (ALD) to determine this mismatch in millimeters. If you have extra space, no extraction is needed. If you're short on space, your orthodontist will discuss your options. This measurement is one of the most important tools in deciding whether extraction makes sense for your case.
+Before recommending extraction, your orthodontist needs to understand exactly how crowded your teeth are. Learn more about [Teeth Straightening Cost What](/article/teeth-straightening-cost-what-you-need-to-know.html) for additional guidance. They do this by measuring the space available in your mouth versus the space your teeth actually need. Think of it like arranging furniture in a room—if your furniture is too big for the space, something has to give.
+
+Your orthodontist uses special measurements called arch length discrepancy (ALD) to determine this mismatch in millimeters. If you have extra space, no extraction is needed. If you're short on space, your orthodontist will discuss your options. This measurement is one of the most important tools in deciding whether extraction makes sense for your case.
 
 Your orthodontist will also look at your specific tooth sizes. Some people naturally have larger or smaller teeth relative to their jaw. If your upper teeth are disproportionately large compared to your lower teeth, this can affect extraction decisions. They'll check X-rays and take precise measurements of each tooth to understand how tooth sizes fit together.
 
 ## Evaluating Your Jaw Shape and Bite Pattern
 
-Beyond just measuring crowding, your orthodontist looks at your overall facial structure and bite pattern. Learn more about [how to orthodontic treatment](/article/how-to-orthodontic-treatment-duration.html) for additional guidance. They examine the angle of your jaw and how your upper and lower jaws relate to each other. Some people naturally have a higher vertical dimension (taller facial proportions), while others have a lower, squarer face shape. This matters because extracting teeth in a person with a taller face might increase crowding issues if not done carefully. In contrast, someone with a square jaw shape might benefit more from extraction to prevent teeth from looking too flared forward.
+Beyond just measuring crowding, your orthodontist looks at your overall facial structure and bite pattern. Learn more about [How to Orthodontic Treatment](/article/how-to-orthodontic-treatment-duration.html) for additional guidance. They examine the angle of your jaw and how your upper and lower jaws relate to each other.
+
+Some people naturally have a higher vertical dimension (taller facial proportions), while others have a lower, squarer face shape. This matters because extracting teeth in a person with a taller face might increase crowding issues if not done carefully. In contrast, someone with a square jaw shape might benefit more from extraction to prevent teeth from looking too flared forward.
 
 Your bite class also influences the decision. A Class II bite (where the upper teeth are too far forward) might benefit from extraction, while a Class I bite or Class III bite might not. Your orthodontist reviews all these factors together to see if extraction will improve not just alignment, but your overall facial profile.
 
@@ -83,7 +60,7 @@ Talk openly with your orthodontist about your concerns. If you strongly prefer n
 
 Your orthodontist makes preliminary observations about extraction needs during your first exam, but they don't finalize this decision right away. If you're still growing (younger teens), your orthodontist monitors how your teeth develop over several months. By age 11-12, most permanent teeth have erupted, and your orthodontist has enough information to make a definitive plan. They'll discuss extraction timing with you—usually teeth are removed a few months before braces are placed, allowing healing before active tooth movement begins.
 
-
+*Always consult your dentist to determine the best approach for your individual situation.*
 
 ## Conclusion
 
@@ -91,12 +68,13 @@ Taking care of your dental health is one of the best investments you can make in
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Extraction is a tool that creates space when crowding is too severe for non-extraction alternatives. Your orthodontist makes this recommendation based on measurements, your bite pattern, and your facial structure—not just personal preference. Whether you extract or not, modern orthodontics offers excellent results. The most important thing is understanding why your orthodontist makes their recommendation and feeling confident about your treatment plan.
+> **Key Takeaway:** Extraction is a tool that creates space when crowding is too severe for non-extraction alternatives. Your orthodontist makes this recommendation based on measurements, your bite pattern, and your facial structure—not just personal preference. Whether you extract or not, modern orthodontics offers excellent results. The most important thing is understanding why your orthodontist makes their recommendation and feeling confident about your treatment plan.
 
 ## Related Articles
 
-- [How Long Does Orthodontic Treatment Take?](/article/how-to-orthodontic-treatment-duration.html)
 - [Understanding How Braces Move Your Teeth](/article/why-braces-benefits-matters.html)
 - [Preventing Relapse After Braces](/article/timeline-for-invisible-braces-benefits.html)
+- [Timeline For Mouth Ulcer Care](/article/timeline-for-mouth-ulcer-care.html)
+- [Taper File Cone Shape](/article/taper-file-cone-shape.html)
+- [Nano Hydroxyapatite Toothpaste Enamel Remineralization](/article/nano-hydroxyapatite-toothpaste-enamel-remineralization.html)
+

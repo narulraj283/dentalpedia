@@ -27,7 +27,9 @@ references:
 
 Alcohol affects your oral health in multiple ways beyond just surface-level staining or erosion. It causes dry mouth (xerostomia), increases cavity risk, accelerates gum disease, weakens your immune system, and most importantly, significantly increases oral cancer risk. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
 
-The dry mouth effect is substantial. Alcohol dehydrates your oral tissues and damages salivary glands that produce saliva. Heavy drinkers show 30-50% reduction in saliva flow. Saliva is crucial—it protects teeth from decay, buffers acid, and prevents fungal infections. With less saliva, cavities develop rapidly, gum disease progresses faster, and oral fungal infections become common. This creates a vicious cycle: less saliva means more cavities, which means more dental disease, which compounds overall oral health problems. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+The dry mouth effect is substantial. Alcohol dehydrates your oral tissues and damages salivary glands that produce saliva. Heavy drinkers show 30-50% reduction in saliva flow.
+
+Saliva is crucial—it protects teeth from decay, buffers acid, and prevents fungal infections. With less saliva, cavities develop rapidly, gum disease progresses faster, and oral fungal infections become common. This creates a vicious cycle: less saliva means more cavities, which means more dental disease, which compounds overall oral health problems. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
 
 Alcohol's acidity also erodes tooth enamel directly. Beer and wine have pH around 2-4, similar to stomach acid. This acidity dissolves tooth enamel at rates of 10-20 micrometers per year with chronic exposure—significant damage over decades. Enamel doesn't regenerate, so once it's gone, it's gone permanently. This can lead to increased tooth sensitivity, greater cavity risk, and eventual tooth loss if left unchecked.
 
@@ -114,18 +116,17 @@ These steps don't make heavy drinking safe, but they minimize damage when you do
 
 Alcohol significantly impacts oral health through multiple mechanisms. Minimal consumption carries minimal oral health risk. Hazardous consumption (over 3 drinks daily, binge drinking) substantially increases cancer risk, especially in combined smokers. Your dentist can screen for problematic use and support you in making healthier choices. If you have concerns about your drinking or your oral health, reach out to your dentist—they're your partner in protecting your long-term wellbeing.
 
-## Related Articles You May Find Helpful
-
-- [Acid Reflux and Tooth Erosion: GERD Management](/article/acid-reflux-and-tooth-erosion-gerd-management.html)
-- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
-- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
-
-
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about alcohol and oral health risks and safe consumption. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** Alcohol affects your oral health in multiple ways beyond just surface-level staining or erosion. Your dentist can help you understand what steps are right for your specific needs.
+
+## Related Articles
+
+- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+- [Dry Brushing: Benefits and Technique Explanation](/article/dry-brushing-benefits-and-technique-explanation.html)
+- [Optimal Daily Oral Hygiene Protocols and Sequencing](/article/best-practices-for-oral-hygiene-routine.html)
+- [Fluoride-Free Toothpaste: Alternatives and Concerns](/article/fluoride-free-toothpaste-alternatives-and-concerns.html)
+- [Your Guide to Mouth Rinse](/article/benefits-of-mouth-rinse-benefits.html)
 

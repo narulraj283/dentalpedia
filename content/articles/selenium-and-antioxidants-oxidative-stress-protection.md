@@ -41,7 +41,7 @@ reviewer_specialty: Dental Nutrition
 slug: selenium-and-antioxidants-oxidative-stress-protection
 subcategory: Nutrition Overview
 subcategory_slug: overview-nutrition
-title: Selenium and Antioxidants - Oxidative Stress Protection...
+title: Selenium and Antioxidants Oxidative Stress Protection
 ---
 
 ## Introduction
@@ -58,11 +58,15 @@ Selenium is a mineral that your body uses to build antioxidant enzymes. The most
 
 ## Finding Selenium in Your Food
 
-Brazil nuts are famous for being selenium-rich, with each nut containing about 10-15 micrograms. Other excellent sources include seafood like tuna and salmon, whole grain breads, eggs, and legumes like beans and lentils. The amount of selenium in plant foods depends on the soil where they're grown—some regions have more selenium-rich soil than others. The good news is that in North America and Australia, most soils contain plenty of selenium, so you can easily meet your needs through a balanced diet. If you eat seafood, whole grains, and vegetables regularly, you're probably getting enough selenium without worrying about supplements. For more on this topic, see our guide on [Zinc Compounds Odor Fighting Action](/article/zinc-compounds-odor-fighting-action.html).
+Brazil nuts are famous for being selenium-rich, with each nut containing about 10-15 micrograms. Other excellent sources include seafood like tuna and salmon, whole grain breads, eggs, and legumes like beans and lentils. The amount of selenium in plant foods depends on the soil where they're grown—some regions have more selenium-rich soil than others.
+
+The good news is that in North America and Australia, most soils contain plenty of selenium, so you can easily meet your needs through a balanced diet. If you eat seafood, whole grains, and vegetables regularly, you're probably getting enough selenium without worrying about supplements. For more on this topic, see our guide on [Zinc Compounds Odor Fighting Action](/article/zinc-compounds-odor-fighting-action.html).
 
 ## Your Body's Antioxidant Defense Team
 
-Selenium isn't your body's only line of defense against free radical damage. You have several other antioxidant enzymes working alongside selenium-based enzymes. Vitamin C and vitamin E from your diet also fight free radicals, as do carotenoids from orange and red vegetables. Polyphenols from fruits, berries, and tea add another layer of protection. These antioxidants work together like a team—when one is used up protecting your cells, other antioxidants can help restore it, allowing it to keep working. This is why dentists recommend eating a variety of colorful fruits and vegetables—each color represents different antioxidants that protect your teeth and gums in different ways.
+Selenium isn't your body's only line of defense against free radical damage. You have several other antioxidant enzymes working alongside selenium-based enzymes. Vitamin C and vitamin E from your diet also fight free radicals, as do carotenoids from orange and red vegetables.
+
+Polyphenols from fruits, berries, and tea add another layer of protection. These antioxidants work together like a team—when one is used up protecting your cells, other antioxidants can help restore it, allowing it to keep working. This is why dentists recommend eating a variety of colorful fruits and vegetables—each color represents different antioxidants that protect your teeth and gums in different ways.
 
 ## Building Your Antioxidant Defense
 
@@ -70,13 +74,11 @@ Getting enough antioxidants through food is typically straightforward. Eating se
 
 ## Special Situations Where Antioxidants Matter More
 
-If you're a smoker, you're creating extra free radicals in your mouth every time you smoke, which means your antioxidant defense system is working overtime and getting depleted faster. If you have diabetes, your blood sugar creates additional free radicals, so maintaining strong antioxidant defenses becomes even more critical. The good news is that improving your antioxidant intake through better nutrition can help offset some of this extra stress, though of course quitting smoking and managing diabetes are equally important. For more on this topic, see our guide on [Sipping Drinks Throughout Day Cavity ...](/article/sipping-drinks-throughout-day-cavity-risk-behavior.html).
+If you're a smoker, you're creating extra free radicals in your mouth every time you smoke, which means your antioxidant defense system is working overtime and getting depleted faster. If you have diabetes, your blood sugar creates additional free radicals, so maintaining strong antioxidant defenses becomes even more critical. The good news is that improving your antioxidant intake through better nutrition can help offset some of this extra stress, though of course quitting smoking and managing diabetes are equally important. For more on this topic, see our guide on [Sipping Drinks Throughout Day Cavity Risk Behavior](/article/sipping-drinks-throughout-day-cavity-risk-behavior.html).
 
 ## Why This Matters for Your Gums
 
 Your gums have their own immune system that protects against the bacteria trying to attack them. When oxidative stress overwhelms your antioxidant defenses, your gums lose the battle, and gum disease progresses. When your antioxidant defenses are strong, your gums can fight off bacteria more effectively, and your immune system causes less collateral damage to your own tissue. It's not complicated—keeping your antioxidant levels up through proper nutrition is like giving your gums extra protection against damage.
-
-
 
 ## Questions to Ask Your Dentist
 
@@ -85,8 +87,6 @@ When you visit your dentist, ask about selenium and antioxidants - oxidative str
 You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
 
 Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
-
 
 ## Protecting Your Results Long-Term
 
@@ -100,9 +100,7 @@ Diet also plays a role in protecting your dental health. Limiting sugary snacks 
 
 Selenium and other antioxidants help protect your gums from damage caused by your body's own immune system fighting bacteria. You can get all the selenium you need through simple dietary choices like Brazil nuts, seafood, whole grains, and legumes. Combining these selenium-rich foods with plenty of colorful fruits and vegetables gives your body the full range of antioxidants your gums need to stay healthy. This dietary approach is simple, inexpensive, and directly addresses one of the fundamental causes of gum disease—oxidative stress.
 
-## Key Takeaway
-
-Eating selenium-rich foods and antioxidant-rich fruits and vegetables strengthens your gums' natural defenses against the free radical damage that causes gum disease.
+> **Key Takeaway:** Eating selenium-rich foods and antioxidant-rich fruits and vegetables strengthens your gums' natural defenses against the free radical damage that causes gum disease.
 
 ## Related Articles
 

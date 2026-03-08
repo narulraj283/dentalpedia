@@ -35,11 +35,15 @@ references:
 
 ## Why Water is Your Tooth's Best Friend
 
-Water is the only beverage that genuinely helps your teeth stay healthy. It does this through several remarkable properties that work together perfectly. Water has a neutral pH, which means it's not acidic. It contains absolutely no sugars that bacteria can eat and convert to damaging acid. It contains no erosive acids that can wear away your enamel. And because water supports your overall hydration, it keeps your mouth moist and promotes healthy saliva flow—your mouth's natural defense system against tooth decay.
+Water is the only beverage that genuinely helps your teeth stay healthy. It does this through several remarkable properties that work together perfectly. Water has a neutral pH, which means it's not acidic.
 
-All of these benefits work together to make water fundamentally different from every other beverage. Learn more about [custom mouth guard athletic](/article/custom-mouth-guard-athletic-protection.html) for additional guidance. When you drink sodas, juices, sports drinks, coffee, or tea, you're exposing your teeth to acids and sugars that damage them. Water does the opposite: it actively protects your teeth and creates conditions where your mouth can repair itself.
+It contains absolutely no sugars that bacteria can eat and convert to damaging acid. It contains no erosive acids that can wear away your enamel. And because water supports your overall hydration, it keeps your mouth moist and promotes healthy saliva flow—your mouth's natural defense system against tooth decay.
 
-The neutral pH of water is crucial. Your tooth enamel starts dissolving below pH 5.5 (called the critical pH). Any acidic drink creates that corrosive environment. When you frequently drink acidic beverages, your mouth becomes persistently acidic, and your enamel can't recover. The damage keeps accumulating. Water, with its neutral pH of 7.0, creates exactly the opposite environment—one where your saliva can help your teeth repair microscopic damage from other sources. Think of it as giving your mouth a rest from acid attacks.
+All of these benefits work together to make water fundamentally different from every other beverage. Learn more about [Custom Mouth Guard Athletic](/article/custom-mouth-guard-athletic-protection.html) for additional guidance. When you drink sodas, juices, sports drinks, coffee, or tea, you're exposing your teeth to acids and sugars that damage them. Water does the opposite: it actively protects your teeth and creates conditions where your mouth can repair itself.
+
+The neutral pH of water is crucial. Your tooth enamel starts dissolving below pH 5.5 (called the critical pH). Any acidic drink creates that corrosive environment.
+
+When you frequently drink acidic beverages, your mouth becomes persistently acidic, and your enamel can't recover. The damage keeps accumulating. Water, with its neutral pH of 7.0, creates exactly the opposite environment—one where your saliva can help your teeth repair microscopic damage from other sources. Think of it as giving your mouth a rest from acid attacks.
 
 ## How Water Prevents Cavities
 
@@ -71,7 +75,7 @@ In many communities, tap water contains added fluoride—a mineral that strength
 
 Here's how fluoride works: when children drink fluoridated water while their adult teeth are developing (roughly ages 6 months to 8 years), fluoride becomes incorporated into the enamel structure, making it stronger and more resistant to acid attacks. Throughout your entire life, fluoride in your water and saliva supports repair of early enamel damage before cavities develop. It works like a constant, gentle strengthening process.
 
-The safety of water fluoridation has been thoroughly documented over decades. At standard fluoridation levels (1 ppm, or slightly lower in hot climates), water fluoridation is completely safe. The only real concern is excessive fluoride exposure in young children (from multiple fluoride sources like supplements, high-fluoride toothpaste, and fluoride treatments), which can cause subtle white spots called dental fluorosis on adult teeth. This is prevented by using age-appropriate amounts of fluoridated toothpaste and avoiding unnecessary supplements.
+The safety of water fluoridation has been thoroughly documented over decades. At standard fluoridation levels (1 ppm, or slightly lower in hot climates), water fluoridation is generally well-tolerated. The only real concern is excessive fluoride exposure in young children (from multiple fluoride sources like supplements, high-fluoride toothpaste, and fluoride treatments), which can cause subtle white spots called dental fluorosis on adult teeth. This is prevented by using age-appropriate amounts of fluoridated toothpaste and avoiding unnecessary supplements.
 
 ## Understanding Bottled Water and Filters
 
@@ -93,12 +97,13 @@ People with dry mouth symptoms should sip water frequently throughout the day. T
 
 Water is the only beverage that actively promotes tooth health rather than challenging it. Its neutral pH, complete absence of sugars and acids, and support for healthy saliva flow make it the optimal choice for protecting your teeth throughout your life. In communities with fluoridated water, you get the added bonus of cavity prevention. Making water your primary beverage represents the single best dietary change you can make for long-term oral health and a beautiful smile that lasts a lifetime.
 
-## Key Takeaway
-
-Water is the only beverage that actively supports tooth health because it's the only drink without acids or sugars. With its neutral pH and support for healthy saliva flow, water prevents both cavities and erosion while fluoridated water in many communities provides additional cavity protection.
+> **Key Takeaway:** Water is the only beverage that actively supports tooth health because it's the only drink without acids or sugars. With its neutral pH and support for healthy saliva flow, water prevents both cavities and erosion while fluoridated water in many communities provides additional cavity protection.
 
 ## Related Articles
 
-- [Water: The Best Beverage for Your Teeth](/article/water-best-beverage-for-teeth.html)
 - [How to Oral Health Habits](/article/how-to-oral-health-habits.html)
 - [Best Practices for Preventive Treatments](/article/benefits-of-preventive-treatments.html)
+
+- [Prescription Toothpaste High Fluoride and Sensitivity](/article/prescription-toothpaste-high-fluoride-and-sensitivity.html)
+- [Charcoal Toothpaste: Benefits, Risks, and Effectiveness](/article/charcoal-toothpaste-benefits-risks-and-effectiveness.html)
+

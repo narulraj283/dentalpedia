@@ -37,13 +37,13 @@ references:
 
 Have you tried whitening your teeth, but the staining just won't go away? You might be dealing with deep discoloration that whitening can't reach. There are two types of tooth stains: surface stains (which sit on top of your teeth and usually respond well to whitening) and deep stains (which are actually inside your enamel and dentin). Deep discoloration is embedded so far in your tooth that whitening strips, trays, and even professional bleaching treatments don't work well or don't work at all.
 
-If you took tetracycline antibiotics when you were a child, or if you were exposed to too much fluoride early on, or if your tooth suffered trauma years ago, you might have this type of stubborn internal staining. Learn more about [cosmetic gum shaping what](/article/cosmetic-gum-shaping-what-you-need-to-know.html) for additional guidance. The good news? Your dentist can hide this discoloration completely using special opaque restoration materials that block the stain from view and restore your smile.
+If you took tetracycline antibiotics when you were a child, or if you were exposed to too much fluoride early on, or if your tooth suffered trauma years ago, you might have this type of stubborn internal staining. Learn more about [Cosmetic Gum Shaping What](/article/cosmetic-gum-shaping-what-you-need-to-know.html) for additional guidance. The good news? Your dentist can hide this discoloration completely using special opaque restoration materials that block the stain from view and restore your smile.
 
 ## How Light Blocking Works to Hide Discoloration
 
 Think about looking through frosted glass versus clear glass. Clear glass lets you see everything underneath, but frosted glass blocks your view. Your dentist uses a similar principle to hide tooth stains. Special materials contain tiny particles that scatter and absorb light instead of letting it pass through. This creates an opaque "mask" layer that completely blocks the stained tooth underneath.
 
-Your dentist doesn't need to make this mask layer extremely thick—about 1. Learn more about [resin based composite mastery](/article/resin-based-composite-mastery-advanced-cosmetic-techniques.html) for additional guidance.5 to 2 millimeters is just right. Anything thicker than that doesn't add benefit and just makes your tooth bulkier. The mask layer is typically white or tooth-colored, and then your dentist adds additional tooth-colored layers on top so the final restoration matches your other teeth perfectly.
+Your dentist doesn't need to make this mask layer extremely thick—about 1. Learn more about [Resin Based Composite Mastery](/article/resin-based-composite-mastery-advanced-cosmetic-techniques.html) for additional guidance.5 to 2 millimeters is just right. Anything thicker than that doesn't add benefit and just makes your tooth bulkier. The mask layer is typically white or tooth-colored, and then your dentist adds additional tooth-colored layers on top so the final restoration matches your other teeth perfectly.
 
 ## Quick Composite Resin Fix
 
@@ -91,13 +91,11 @@ To maintain your restoration, simply brush and floss it like you would your natu
 
 If you have deep tooth discoloration that whitening can't fix, don't feel stuck with dark, stained teeth. Whether your staining came from childhood antibiotics, fluorosis, or trauma, your dentist can completely hide it with opaque restoration materials. You have choices: quick composite resin that you can get in one visit, beautiful porcelain that lasts decades, or ultra-strong zirconia for the darkest stains. Talk with your dentist about which option is right for your specific situation, and you'll have a natural-looking, beautiful smile again.
 
-## Key Takeaway
-
-Deep tooth discoloration from antibiotics, fluorosis, or trauma can't be whitened away, but it can be completely hidden with opaque masking restorations. Composite resin offers quick results in one visit, porcelain provides beautiful durability for decades, and zirconia handles extreme staining. Discuss your options with your dentist to choose the best approach for your teeth and budget.
+> **Key Takeaway:** Deep tooth discoloration from antibiotics, fluorosis, or trauma can't be whitened away, but it can be completely hidden with opaque masking restorations. Composite resin offers quick results in one visit, porcelain provides beautiful durability for decades, and zirconia handles extreme staining. Discuss your options with your dentist to choose the best approach for your teeth and budget.
 
 ## Related Articles
 
-- [Cosmetic Tooth Repair Guide](/how-to-cosmetic-tooth-repair)
-- [Smile Makeover Planning Overview](/smile-makeover-planning-what-you-need-to-know)
-- [Teeth Whitening Safety and Results](/teeth-bleaching-safety-complete-guide)
+- [Cosmetic Bonding for Diastemas](/article/cosmetic-bonding-for-gaps-between-teeth.html)
+- [Post-Whitening Diet and Stain Prevention Strategies](/article/whitening-maintenance-diet-stain-prevention.html)
+- [Common Misconceptions About Cosmetic Tooth Repair](/article/common-misconceptions-about-cosmetic-tooth-repair.html)
 

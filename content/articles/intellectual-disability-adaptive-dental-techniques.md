@@ -33,7 +33,7 @@ Your dentist might use visual schedules—pictures showing each step of the dent
 
 Many people with intellectual disabilities have different sensory experiences. Some are hypersensitive to sounds, so loud dental equipment feels painful. Others don't feel pain the same way, meaning they might not complain about a problem that needs attention. Your dentist needs to know about these sensory differences to provide appropriate care.
 
-Some patients tolerate water spray but hate the suction sound. Others are fine with noises but can't stand water in their mouth. Your dentist should ask about these preferences and might suggest wearing headphones with music, having a caregiver present, or using a hand signal to pause treatment if the patient gets overwhelmed. See our guide on [dental anxiety](/article/dental-anxiety-origins-childhood-trauma.html) for more about managing fears.
+Some patients tolerate water spray but hate the suction sound. Others are fine with noises but can't stand water in their mouth. Your dentist should ask about these preferences and might suggest wearing headphones with music, having a caregiver present, or using a hand signal to pause treatment if the patient gets overwhelmed. See our guide on [Dental Anxiety](/article/dental-anxiety-origins-childhood-trauma.html) for more about managing fears.
 
 ## Environmental Adaptations
 
@@ -45,7 +45,7 @@ Predictability is crucial. The same dentist at the same time each visit, in the 
 
 "Behavioral guidance" isn't about punishment—it's about helping patients cooperate with dental care through positive strategies. Tell-show-do is a common technique: you tell the patient what's coming, show them the tool or procedure, then do it. For example: "I'm going to clean your teeth. This is my cleaning tool—it's small and spins fast. Now I'll use it to gently clean your teeth."
 
-Positive reinforcement—rewarding cooperation with praise or small rewards—works beautifully. Some patients earn stickers, which they keep or exchange for rewards. Distraction techniques like watching a favorite show during treatment help anxious patients stay calm. Many dentists discuss with caregivers what rewards or distractions work best for each patient. Learn more about [behavioral guidance](/article/behavioral-guidance-positive-reinforcement.html).
+Positive reinforcement—rewarding cooperation with praise or small rewards—works beautifully. Some patients earn stickers, which they keep or exchange for rewards. Distraction techniques like watching a favorite show during treatment help anxious patients stay calm. Many dentists discuss with caregivers what rewards or distractions work best for each patient. Learn more about [Behavioral Guidance](/article/behavioral-guidance-positive-reinforcement.html).
 
 ## Medication and Sedation Options
 
@@ -74,13 +74,11 @@ Sometimes extracting a tooth is actually the best choice for a patient with inte
 
 As children with intellectual disabilities become teenagers and adults, they need dental care appropriate for their age and abilities. Some general dentists continue caring for them into adulthood. Others refer to specialists in special-needs dentistry. Finding a dentist who's experienced with your family member and willing to adapt their approach makes dental care sustainable long-term.
 
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about intellectual disability adaptive dental techniques and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
 
 You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Your dentist should be happy to walk you through everything step by step.
-
 
 ## Protecting Your Results Long-Term
 
@@ -94,6 +92,9 @@ Patients with intellectual disabilities can receive excellent dental care when d
 
 ## Related Articles
 
-- [Dental Anxiety: Origins and Childhood Trauma](/article/dental-anxiety-origins-childhood-trauma.html)
-- [Behavioral Guidance: Positive Reinforcement Techniques](/article/behavioral-guidance-positive-reinforcement.html)
 - [General Anesthesia in Pediatric Dentistry: When Needed](/article/general-anesthesia-in-pediatric-dentistry-when-needed.html)
+- [Gingival Recontouring Techniques: Crown Lengthening,](/article/timeline-for-cosmetic-gum-shaping.html)
+- [Restoration Margins](/article/restoration-margins-critical-details.html)
+- [Gingival Hemorrhage: Etiology, Clinical Evaluation, and](/article/bleeding-gums-solutions-what-you-need-to-know.html)
+- [Gutta Percha: Root Canal Filling Material](/article/gutta-percha-root-canal-filling-material.html)
+

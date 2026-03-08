@@ -1,23 +1,30 @@
 ---
-title: "Orthodontic Elastics: Force Delivery, Properties, and"
-slug: elastics-colored-ties-and-power
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "When you have braces, your orthodontist uses elastics (rubber bands) to add extra force that moves your teeth."
 date: 2026-03-05
+excerpt: When you have braces, your orthodontist uses elastics (rubber bands) to add
+  extra force that moves your teeth.
 read_time: 9 min
+references:
+- 'Eliades T, Bourauel C. Intraoral aging of orthodontic materials: The picture we
+  see. Aust Orthod J. 2005;21(1):1-10.'
+- Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics. 5th ed. Elsevier; 2013.
+- Andreasen GF, Morrow RE. Laboratory and clinical analyses of elastomeric chains
+  and modules. Am J Orthod Dentofacial Orthop. 1978;74(3):312-322.
+- Jiang R, Liang W, Hagg U. Development of a new elastomeric ligature and comparative
+  study with common elastomeric ligatures. Am J Orthod Dentofacial Orthop. 2008;134(5):602-609.
+- Oztas E, Ucar Y, Akdogan G, Darendeliler MA. Comparison of the force decay of elastomeric
+  modules with different intensities. Am J Orthod Dentofacial Orthop. 2007;131(1):39.e1-39.e4.
+- Farzin Nia F, Forton GE, Richter AK, Sims MR. Force degradation of orthodontic elastomeric
+  chains. Angle Orthod. 2003;73(6):667-672.
+- Tecco S, Crincoli A, Tete S, et al. Comparative analysis between different models
+  of elastomeric modules applied in orthodontics. Angle Orthod. 2009;79(3):533-539.
+reviewed: true
 reviewer_specialty: Orthodontics
+slug: elastics-colored-ties-and-power
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - "Eliades T, Bourauel C. Intraoral aging of orthodontic materials: The picture we see. Aust Orthod J. 2005;21(1):1-10."
-  - "Proffit WR, Fields HW, Sarver DM. Contemporary Orthodontics. 5th ed. Elsevier; 2013."
-  - "Andreasen GF, Morrow RE. Laboratory and clinical analyses of elastomeric chains and modules. Am J Orthod Dentofacial Orthop. 1978;74(3):312-322."
-  - "Jiang R, Liang W, Hagg U. Development of a new elastomeric ligature and comparative study with common elastomeric ligatures. Am J Orthod Dentofacial Orthop. 2008;134(5):602-609."
-  - "Oztas E, Ucar Y, Akdogan G, Darendeliler MA. Comparison of the force decay of elastomeric modules with different intensities. Am J Orthod Dentofacial Orthop. 2007;131(1):39.e1-39.e4."
-  - "Farzin Nia F, Forton GE, Richter AK, Sims MR. Force degradation of orthodontic elastomeric chains. Angle Orthod. 2003;73(6):667-672."
-  - "Tecco S, Crincoli A, Tete S, et al. Comparative analysis between different models of elastomeric modules applied in orthodontics. Angle Orthod. 2009;79(3):533-539."
+title: 'Orthodontic Elastics: Force Delivery, Properties'
 ---
 
 ## Understanding Orthodontic Elastics and Rubber Bands
@@ -30,7 +37,7 @@ Different colored elastics let you customize your braces appearance, but more im
 
 The small colored elastics are called ligatures or ties. They hold the archwire (the main wire) firmly in the brackets attached to your teeth. These colored ties are mostly about appearance—they're available in many colors so you can customize your braces look. However, they're also functional—the color and tightness of the tie affects how much force is applied to move the tooth.
 
-Your orthodontist changes these ties at each appointment. Learning more about [why braces food restrictions matters](/article/why-braces-food-restrictions-matters.html) can help you understand this better. At that time, they can adjust the tightness and color to continue moving teeth in the right direction. Some ties need to be changed more frequently as the color fades or they lose elasticity, but at minimum they're changed at each appointment.
+Your orthodontist changes these ties at each appointment. Learning more about [Why Braces Food Restrictions Matters](/article/why-braces-food-restrictions-matters.html) can help you understand this better. At that time, they can adjust the tightness and color to continue moving teeth in the right direction. Some ties need to be changed more frequently as the color fades or they lose elasticity, but at minimum they're changed at each appointment.
 
 ## Intermaxillary Elastics (Rubber Bands Between Teeth)
 
@@ -42,7 +49,7 @@ You typically change these several times daily or wear them continuously (your o
 
 The elastics apply gentle, constant force that gradually moves teeth. Too little force doesn't move teeth. Too much force can damage tooth roots or be uncomfortable. Your orthodontist selects elastics with the right force level for your specific tooth movement needs. Different elastics come in different force levels, sometimes indicated by color.
 
-The force is typically quite gentle—measured in grams of force. Learning more about [wire sequence progression of wires](/article/wire-sequence-progression-of-wires.html) can help you understand this better. The constant, gentle pressure over weeks and months accomplishes the movement. Elastic force is steady and predictable, unlike sudden jarring forces that could cause problems.
+The force is typically quite gentle—measured in grams of force. Learning more about [Wire Sequence Progression of Wires](/article/wire-sequence-progression-of-wires.html) can help you understand this better. The constant, gentle pressure over weeks and months accomplishes the movement. Elastic force is steady and predictable, unlike sudden jarring forces that could cause problems.
 
 ## Force Decay and Elasticity
 
@@ -72,8 +79,6 @@ Your orthodontist might combine elastics with other appliances or treatments. Fo
 
 If you have a latex allergy, tell your orthodontist immediately. Latex-free elastics are available. Your orthodontist can ensure all appliances and elastics are latex-free to avoid allergic reactions.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about elastics colored ties and power and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -86,12 +91,13 @@ Orthodontic elastics—both the small colored ties and larger rubber bands—are
 
 Work with your orthodontist to understand your specific elastic treatment plan and what you need to do to ensure successful results.
 
+> **Key Takeaway:** When you have braces, your orthodontist uses elastics (rubber bands) to add extra force that moves your teeth.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
+- [Invisible Braces and Clear Aligners](/article/benefits-of-invisible-braces-benefits.html)
+- [Why Retainers Matter: Preventing Relapse After Braces](/article/teeth-relapse-prevention-what-you-need-to-know.html)
+- [Braces Pain and Discomfort: First Week Experience](/article/braces-pain-and-discomfort-first-week-experience.html)
+- [Bracket Removal and Adhesive Cleanup](/article/bracket-removal-adhesive-cleanup.html)
+- [Early Orthodontic Treatment](/article/early-orthodontic-treatment-benefits-of-starting-early.html)
 
-- [Braces for Kids and Teens: What to Expect During Treatment](/article/why-braces-food-restrictions-matters.html)
-- [Wire Progression: How Your Orthodontist Guides Tooth Movement](/article/wire-sequence-progression-of-wires.html)
-- [Invisible Braces and Clear Aligners: Modern Orthodontic Options](/article/benefits-of-invisible-braces-benefits.html)
-
-> **Key Takeaway:** Orthodontic elastics (colored ties and rubber bands) apply gentle, constant force to move teeth. They gradually weaken over time and need regular changes at each orthodontic appointment. Wearing elastics as directed and keeping appointments ensures your teeth move on schedule. Talk to your orthodontist about your specific elastic treatment plan.

@@ -37,7 +37,9 @@ About one in five people get mouth ulcers at some point, and they're rarely seri
 
 ## Identifying Your Ulcer Type Matters
 
-Different ulcer types look and behave differently, which means they respond to different treatments. Canker sores are the most common, appearing as round or oval sores with a white center and red ring. They're painful because they develop on soft, sensitive tissue. Traumatic ulcers from accidental biting or sharp food look irregular and ragged, forming where the injury happened. Cold sores are caused by herpes virus and appear as grouped tiny blisters that rupture—these usually appear on your lips or keratinized gums. Fungal ulcers (oral thrush) show up as white patches that wipe off revealing red tissue underneath, or red swollen patches with cracks.
+Different ulcer types look and behave differently, which means they respond to different treatments. Canker sores are the most common, appearing as round or oval sores with a white center and red ring. They're painful because they develop on soft, sensitive tissue.
+
+Traumatic ulcers from accidental biting or sharp food look irregular and ragged, forming where the injury happened. Cold sores are caused by herpes virus and appear as grouped tiny blisters that rupture—these usually appear on your lips or keratinized gums. Fungal ulcers (oral thrush) show up as white patches that wipe off revealing red tissue underneath, or red swollen patches with cracks.
 
 Your ulcer's size and location help guide treatment too. Small canker sores under 1 centimeter heal within 7-14 days with supportive care. Larger ones (over 1 centimeter) take 2-6 weeks and might scar. Clusters of tiny sores running together (herpetiform ulcers) are slow to heal and particularly painful. Understanding what you're dealing with prevents you from using the wrong treatment and waiting longer for healing than necessary.
 
@@ -45,7 +47,9 @@ Your ulcer's size and location help guide treatment too. Small canker sores unde
 
 Pain management is your immediate priority. Apply topical steroid cream (triamcinolone or flucinonide) directly onto the ulcer three or four times daily, especially after meals and before bed. Start as soon as you notice the ulcer forming—early treatment dramatically improves results. If you apply steroids to an ulcer that's been there for days, you'll see less improvement. These typically reduce pain noticeably within 24 hours and speed healing by several days.
 
-For temporary numbing relief when you need to eat or speak, topical benzocaine provides 15-30 minutes of numbness. This isn't a treatment that speeds healing, but it lets you function normally during the most painful phase. Cold foods and drinks also provide temporary pain relief. Soft-bristled toothbrush and gentle brushing around (not on) the ulcer prevents aggravating it. Avoid highly acidic foods (citrus, vinegar, tomatoes), spicy foods, and sharp foods while healing. For more on this topic, see our guide on [Swallowing Difficulty Dysphagia Manag...](/article/swallowing-difficulty-dysphagia-management.html).
+For temporary numbing relief when you need to eat or speak, topical benzocaine provides 15-30 minutes of numbness. This isn't a treatment that speeds healing, but it lets you function normally during the most painful phase. Cold foods and drinks also provide temporary pain relief.
+
+Soft-bristled toothbrush and gentle brushing around (not on) the ulcer prevents aggravating it. Avoid highly acidic foods (citrus, vinegar, tomatoes), spicy foods, and sharp foods while healing. For more on this topic, see our guide on [Oropharyngeal Dysphagia - Dental Causes and Management](/article/swallowing-difficulty-dysphagia-management.html).
 
 ## Specific Treatment by Ulcer Type
 
@@ -55,7 +59,7 @@ For traumatic ulcers, eliminating the trauma is curative. Stop eating the food t
 
 For cold sores (herpes), start antiviral medication at the first sign of tingling or burning—before the sores even appear if possible. Medications like acyclovir reduce healing time from 10-14 days to 7-10 days and decrease viral shedding. Start early for best results. Avoid direct contact with others to prevent spreading, and don't share utensils or lip balm while you're contagious.
 
-For oral candida (thrush), antifungal medications like fluconazole address the infection. Topical antifungal rinses and improved denture hygiene (if you wear dentures) support treatment. Since candida thrives when bacteria balance is disrupted, if you're taking antibiotics and developed thrush, ask your doctor about probiotic support or switching antibiotics if possible. For more on this topic, see our guide on [Geographic Tongue Harmless Pattern On...](/article/geographic-tongue-harmless-pattern-on-tongue-surface.html).
+For oral candida (thrush), antifungal medications like fluconazole address the infection. Topical antifungal rinses and improved denture hygiene (if you wear dentures) support treatment. Since candida thrives when bacteria balance is disrupted, if you're taking antibiotics and developed thrush, ask your doctor about probiotic support or switching antibiotics if possible. For more on this topic, see our guide on [Geographic Tongue](/article/geographic-tongue-harmless-pattern-on-tongue-surface.html).
 
 ## Nutritional Factors That Speed Healing
 
@@ -77,8 +81,11 @@ Most mouth ulcers resolve within 1-2 weeks with basic supportive care, but ident
 
 > **Key Takeaway:** Identify your ulcer type, apply topical steroids immediately for canker sores, eliminate triggers you've identified, ensure adequate nutrition, and contact your dentist if ulcers are large, persistent, frequent, or accompanied by systemic symptoms.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Sjögren's Syndrome: Autoimmune Dry Mouth Disease](/article/sjogrens-syndrome-autoimmune-dry-mouth-disease.html)
-- [Geographic Tongue: Harmless Pattern on Tongue Surface](/article/geographic-tongue-harmless-pattern-on-tongue-surface.html)
 - [Erythema Migrans: Lyme Disease Mouth Rash](/article/erythema-migrans-lyme-disease-mouth-rash.html)
+- [Sjögren's Syndrome and Xerostomia](/article/sjögrens-syndrome-autoimmune-dry-mouth-disease.html)
+
+- [Mouth Ulcers and Canker Sores: Treatment and Prevention](/article/mouth-ulcers-and-canker-sores-treatment-and-prevention.html)
+- [Behçet's Disease: Recurrent Mouth Ulcers](/article/behcets-disease-recurrent-mouth-ulcers.html)
+

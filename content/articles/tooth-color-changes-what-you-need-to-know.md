@@ -26,7 +26,7 @@ Most tooth discoloration is purely cosmetic and nothing to worry about health-wi
 - **Discoloration with swelling**: May indicate abscess or serious infection
 - **Changes in multiple teeth simultaneously**: Could suggest systemic health issue
 
-These aren't purely cosmetic—they may need treatment to save the tooth or address underlying problems. Learn more about [veneer installation steps what](/article/veneer-installation-steps-what-you-need-to-know.html) for additional guidance.
+These aren't purely cosmetic—they may need treatment to save the tooth or address underlying problems. Learn more about [Veneer Installation Steps What](/article/veneer-installation-steps-what-you-need-to-know.html) for additional guidance.
 
 ## Routine Dentist Discussion (Not Emergencies)
 
@@ -76,7 +76,9 @@ Bring these up at your next regular appointment:
 **What happens:**
 1. Dentist applies protective barriers to your gums
 2. Strong bleaching gel (much stronger than OTC products) applied
-3. Gel removed after 15-60 minutes
+3.
+
+Gel removed after 15-60 minutes
 4. Process repeated 2-3 times per visit
 5. Usually 3-5 appointments needed
 
@@ -158,7 +160,7 @@ Yes, professional whitening is safe for healthy teeth and gums when done by dent
 
 ## Restoration Complications
 
-A frequent problem: you whiten your natural teeth, but your old crown or filling doesn't bleach and looks too yellow in comparison. Learn more about [whitening trays custom vs](/article/whitening-trays-custom-vs-stock-fit.html) for additional guidance.
+A frequent problem: you whiten your natural teeth, but your old crown or filling doesn't bleach and looks too yellow in comparison. Learn more about [Whitening Trays Custom Vs](/article/whitening-trays-custom-vs-stock-fit.html) for additional guidance.
 
 **Solution:**
 1. Whiten natural teeth first
@@ -222,7 +224,7 @@ Or do it in reverse: plan any cosmetic restorations AFTER whitening.
 - Plan ahead: if you want to whiten, replace restorations AFTER
 - If you have restorations, whitening your natural teeth creates color mismatch
 
-
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
@@ -230,12 +232,12 @@ Taking care of your dental health is one of the best investments you can make in
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Tooth whitening is safe and effective for most people. Professional whitening produces better, faster results than over-the-counter products. Custom professional trays from your dentist offer the best balance of cost and results. Remember that whitening works better on yellow tones than gray tones, and doesn't work on existing restorations. With proper maintenance (good oral hygiene and occasional touch-up treatments), you can maintain a bright smile throughout your life.
+> **Key Takeaway:** Tooth whitening is safe and effective for most people. Professional whitening produces better, faster results than over-the-counter products. Custom professional trays from your dentist offer the best balance of cost and results. Remember that whitening works better on yellow tones than gray tones, and doesn't work on existing restorations. With proper maintenance (good oral hygiene and occasional touch-up treatments), you can maintain a bright smile throughout your life.
 
 ## Related Articles
 
-- [Veneer Installation and What to Expect](/article/veneer-installation-steps-what-you-need-to-know.html)
-- [Custom vs. Stock Whitening Trays](/article/whitening-trays-custom-vs-stock-fit.html)
 - [Cosmetic Restoration of Worn Anterior Teeth](/article/worn-anterior-teeth-cosmetic-restoration-strategy.html)
+
+- [Why Your Teeth Change Color and What You Can Do](/article/timeline-for-tooth-color-changes.html)
+- [Fixing Crooked Teeth: Braces vs. Cosmetic Solutions](/article/malpositioned-teeth-cosmetic-correction-alternatives.html)
+

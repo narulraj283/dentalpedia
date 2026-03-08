@@ -1,25 +1,35 @@
 ---
-title: Managing Dentures for Loved Ones with Dementia
-slug: denture-wearing-in-dementia-patients
 category: Geriatric Dentistry
 category_slug: geriatric-dentistry
-excerpt: Tips for families and caregivers to help maintain oral health and dentures for people with dementia.
 date: 2026-03-05
+excerpt: Tips for families and caregivers to help maintain oral health and dentures
+  for people with dementia.
 read_time: 8 min
+references:
+- Forsell M, Papas AS, Siffert RS. Oral health of the dentulous and denture-wearing
+  elderly. Gerodontology. 1998;15(2):85-92.
+- Ettinger RL. Epidemiology of dental caries and denture use in Scandinavian countries.
+  Acta Odontol Scand. 1981;39(2):75-87.
+- 'Dickinson JA, Karunanayake CP, Palepu A. Medication use and dental status: an evidence
+  synthesis. J Can Dent Assoc. 2013;79:d19.'
+- Paulsson G, Söderfeldt B, Attner P. Psychosocial factors in the elderly with emphasis
+  on Alzheimer's disease patients. Gerodontology. 2002;19(1):34-46.
+- Kossioni A, Bellini-Kossioni B. Dental health in dementia patients. Gerodontology.
+  2010;27(3):235-44.
+- Pearson LS, Hutton JL. A controlled trial to compare the ability of infants and
+  caregivers in maintaining denture hygiene in long-term care facilities. J Dent Hyg.
+  2002;76(3):210-21.
+- 'Rai SK, Tiwari N, Rai SB. Oral health care in geriatrics: a clinical and public
+  health perspective. J Indian Prosthodont Soc. 2015;15(1):12-18.'
+- Walls AW, Patel N. Management of dentures in the elderly. Prim Dent Care. 2001;8(4):127-33.
+- Budtz-Jørgensen E. Oral mucosal lesions associated with the wearing of removable
+  dentures. J Oral Pathol Med. 1981;10(2):65-80.
+reviewed: true
 reviewer_specialty: Geriatric Dentistry
+slug: denture-wearing-in-dementia-patients
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
-reviewed: true
-references:
-  - "Forsell M, Papas AS, Siffert RS. Oral health of the dentulous and denture-wearing elderly. Gerodontology. 1998;15(2):85-92."
-  - "Ettinger RL. Epidemiology of dental caries and denture use in Scandinavian countries. Acta Odontol Scand. 1981;39(2):75-87."
-  - "Dickinson JA, Karunanayake CP, Palepu A. Medication use and dental status: an evidence synthesis. J Can Dent Assoc. 2013;79:d19."
-  - "Paulsson G, Söderfeldt B, Attner P. Psychosocial factors in the elderly with emphasis on Alzheimer's disease patients. Gerodontology. 2002;19(1):34-46."
-  - "Kossioni A, Bellini-Kossioni B. Dental health in dementia patients. Gerodontology. 2010;27(3):235-44."
-  - "Pearson LS, Hutton JL. A controlled trial to compare the ability of infants and caregivers in maintaining denture hygiene in long-term care facilities. J Dent Hyg. 2002;76(3):210-21."
-  - "Rai SK, Tiwari N, Rai SB. Oral health care in geriatrics: a clinical and public health perspective. J Indian Prosthodont Soc. 2015;15(1):12-18."
-  - "Walls AW, Patel N. Management of dentures in the elderly. Prim Dent Care. 2001;8(4):127-33."
-  - "Budtz-Jørgensen E. Oral mucosal lesions associated with the wearing of removable dentures. J Oral Pathol Med. 1981;10(2):65-80."
+title: Managing Dentures for Loved Ones
 ---
 
 ## Introduction
@@ -56,7 +66,7 @@ Keep everything simple and in one consistent location. Visual cues like a pictur
 
 ## Daily Cleaning Steps That Work
 
-**Use alkaline peroxide tablets:** Drop a tablet in water and soak dentures for 30 minutes daily or overnight. Learning more about [denture care and maintenance daily cleaning and storage](/article/denture-care-and-maintenance-daily-cleaning-and-storage.html) can help you understand this better. This is simpler than multiple manual cleanings.
+**Use alkaline peroxide tablets:** Drop a tablet in water and soak dentures for 30 minutes daily or overnight. Learning more about [Denture Care and Maintenance Daily Cleaning and Storage](/article/denture-care-and-maintenance-daily-cleaning-and-storage.html) can help you understand this better. This is simpler than multiple manual cleanings.
 
 **Gentle brush cleaning:** Use a soft toothbrush (never hard brushes—they damage dentures) and mild dish soap or denture cleaner. Avoid harsh scrubbing.
 
@@ -94,7 +104,7 @@ Some people with dementia resist denture insertion or become agitated about dent
 
 **Stay calm and gentle:** Use a calm voice and gentle approach. Forcing dentures in creates negative associations.
 
-**Choose better times:** Try inserting dentures when your loved one is calm and relaxed, perhaps after meals or familiar activities. You may also want to read about [denture soaking overnight maintenance](/article/denture-soaking-overnight-maintenance.html).
+**Choose better times:** Try inserting dentures when your loved one is calm and relaxed, perhaps after meals or familiar activities. You may also want to read about [Denture Soaking Overnight Maintenance](/article/denture-soaking-overnight-maintenance.html).
 
 **Use simple language:** Say "teeth go in now" rather than complex explanations.
 
@@ -156,16 +166,19 @@ Maintaining your loved one's oral health through dementia progression is importa
 
 But it's also important to recognize your limits. If denture management becomes overwhelming or is causing your loved one distress, discuss alternatives with healthcare providers. Sometimes discontinuing dentures allows better overall care and quality of life.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Managing dentures for someone with dementia requires patience, consistency, and flexibility. Early-stage dementia may require minimal intervention, while late-stage care requires full assistance. Regular professional monitoring, consistent daily care routines, and willingness to modify or discontinue dentures when appropriate ensure your loved one's oral health and comfort throughout the disease progression.
 
+> **Key Takeaway:** Tips for families and caregivers to help maintain oral health and dentures for people with dementia.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Denture Cleaning and Care](/article/denture-care-and-maintenance-daily-cleaning-and-storage.html)
-- [Denture Soaking for Hygiene](/article/denture-soaking-overnight-maintenance.html)
 - [When Dentures Need Adjustment](/article/denture-adjustment-in-aging-fit-changes.html)
+- [Xerostomia in Elderly: Medication-Induced Dry Mouth](/article/xerostomia-in-elderly-medication-induced-dry-mouth.html)
+- [Dental Care with Tremor Disorders - Modified](/article/tremor-and-dental-care-challenges.html)
+- [Arthritis and Toothbrush Grip](/article/arthritis-and-toothbrush-grip-adaptive-tools.html)
+- [Senior Dental Health](/article/senior-dental-health-age-related-changes.html)
 
-> **Key Takeaway:** Denture management for people with dementia requires establishing simple, consistent routines, monitoring for problems, and being willing to modify or discontinue dentures when appropriate. Work closely with your dentist and healthcare team to ensure your loved one's oral health and overall comfort. Talk to your dentist about which options are right for your specific situation.

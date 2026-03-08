@@ -47,7 +47,7 @@ The scans also check for any cysts (fluid pockets) that may have formed around y
 
 ## Two Ways to Bring Down Your Stuck Tooth
 
-If your dentist decides to help your tooth erupt instead of extracting it, there are two approaches. The [closed eruption technique](/article/aligner-wear-schedule-what-you-need-to-know.html) is often better: your surgeon exposes the tooth, attaches a small chain, then buries it back under your gum while the chain stays accessible. Braces pull on the chain, bringing your tooth up through your gum gradually. Your gum heals nicely with this method, and you end up with a healthier gum line.
+If your dentist decides to help your tooth erupt instead of extracting it, there are two approaches. The [Closed Eruption Technique](/article/aligner-wear-schedule-what-you-need-to-know.html) is often better: your surgeon exposes the tooth, attaches a small chain, then buries it back under your gum while the chain stays accessible. Braces pull on the chain, bringing your tooth up through your gum gradually. Your gum heals nicely with this method, and you end up with a healthier gum line.
 
 Open eruption is another option where the surgeon leaves the tooth exposed and lets it come up through an open wound. This is faster and simpler in some ways, but it can leave scarring. For your canines, doctors prefer the closed eruption method because the results look better.
 
@@ -81,13 +81,15 @@ The best time for surgery is when your tooth has most of its root formed (about 
 
 Once your tooth finally erupts and settles into place, it usually works and looks just like a normal tooth. You might have slightly less gum attachment than a naturally erupted tooth, especially with open eruption—your dentist can monitor this. Some bone loss typically happens right after eruption from the trauma of surgery, but it usually stabilizes within 1-2 years. Your tooth should stay alive and sensitive in the normal way.
 
+*Always consult your dentist to determine the best approach for your individual situation.*
+
 ## Conclusion
 
 Impacted teeth might seem complicated, but modern 3D planning, careful surgery, and patient orthodontic traction make bringing them down or extracting them safely achievable. The key is finding the right balance between preserving your natural tooth (if possible) and avoiding damage to nearby teeth and nerves. With a team approach between your surgeon and orthodontist, you can get your stuck tooth working normally and looking great.
 
 > **Key Takeaway:** Impacted teeth need careful 3D planning and gentle surgical exposure followed by slow orthodontic movement. When your dental team works carefully, most impacted teeth can be brought down and integrated into your bite normally and permanently.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
 - [What to Expect When Removing Wisdom Teeth](/article/why-wisdom-teeth-extraction-matters.html)
 - [Understanding Your Orthodontic Treatment](/article/how-to-orthodontic-appointment-frequency.html)

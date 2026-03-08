@@ -33,7 +33,9 @@ Here's the interesting part: breast milk and formula have almost identical lacto
 
 ## The Real Risk: Nighttime Nursing
 
-The biggest risk factor isn't breastfeeding itself—it's nighttime nursing without any cleaning afterward. When your baby sleeps, their mouth doesn't produce much saliva (salivary flow drops by 80 to 90%). Saliva is what naturally neutralizes acids and protects teeth. During the day, your baby's saliva recovers from acid attacks within 30 to 45 minutes. But at night, with almost no saliva flow, acid attacks can last 2 to 4 hours. If your baby nurses every 2 to 3 hours all night long (common in co-sleeping), their teeth experience continuous acid exposure for 6 to 8 hours straight. That's a setup for decay.
+The biggest risk factor isn't breastfeeding itself—it's nighttime nursing without any cleaning afterward. When your baby sleeps, their mouth doesn't produce much saliva (salivary flow drops by 80 to 90%). Saliva is what naturally neutralizes acids and protects teeth.
+
+During the day, your baby's saliva recovers from acid attacks within 30 to 45 minutes. But at night, with almost no saliva flow, acid attacks can last 2 to 4 hours. If your baby nurses every 2 to 3 hours all night long (common in co-sleeping), their teeth experience continuous acid exposure for 6 to 8 hours straight. That's a setup for decay.
 
 ## When Baby Teeth Start Erupting
 
@@ -45,7 +47,9 @@ The bacteria that cause decay (especially Streptococcus mutans) spreads from mot
 
 ## What Early Childhood Decay Looks Like
 
-Early decay usually starts with white spot lesions on the upper front teeth. These white spots are demineralization—the beginning stage of decay. They might look harmless, but underneath the surface, decay can already extend deep into the tooth. The spots can spread to the side teeth. Over weeks to months, white spots turn yellow-brown, then dark brown as actual cavities form. If it's not caught and treated, the decay can reach the nerve, which means your baby might need extraction or root canal treatment.
+Early decay usually starts with white spot lesions on the upper front teeth. These white spots are demineralization—the beginning stage of decay. They might look harmless, but underneath the surface, decay can already extend deep into the tooth.
+
+The spots can spread to the side teeth. Over weeks to months, white spots turn yellow-brown, then dark brown as actual cavities form. If it's not caught and treated, the decay can reach the nerve, which means your baby might need extraction or root canal treatment.
 
 ## Who's at Highest Risk?
 
@@ -63,13 +67,17 @@ If you have untreated tooth decay, get it treated. Your bacteria and decay risk 
 
 ## Fluoride in Toothpaste: Is It Safe?
 
-Parents often worry about fluoride, but the dose makes the poison. Babies swallow 50 to 70% of the toothpaste they brush with (adults swallow only 10 to 20%). A safe daily intake for infants is 0.1 milligrams per kilogram of body weight. A typical 7-kilogram baby can safely handle about 0.7 mg of fluoride daily. A rice-grain amount of toothpaste twice daily provides 0.6 to 1.0 mg—right at the limit. Higher doses increase the risk of mild dental fluorosis (white spots that are cosmetic only, not decay). Severe fluorosis is rare and requires very high doses.
+Parents often worry about fluoride, but the dose makes the poison. Babies swallow 50 to 70% of the toothpaste they brush with (adults swallow only 10 to 20%). A safe daily intake for infants is 0.1 milligrams per kilogram of body weight.
+
+A typical 7-kilogram baby can safely handle about 0.7 mg of fluoride daily. A rice-grain amount of toothpaste twice daily provides 0.6 to 1.0 mg—right at the limit. Higher doses increase the risk of mild dental fluorosis (white spots that are cosmetic only, not decay). Severe fluorosis is rare and requires very high doses.
 
 The bottom line: use a rice-grain amount, use infant/toddler toothpaste (not adult), and supervise so your baby doesn't eat the tube.
 
 ## Weaning Strategies and Alternatives
 
-Transitioning from nighttime nursing is challenging but important. Experts recommend gradually reducing nighttime feeds starting at 12 months. Begin by offering a bottle of water instead of nursing for one nighttime feed. Over 2 to 4 weeks, gradually replace more feeds with water. By 18 months, ideally all nighttime feeds are water, not breast milk. This gradual approach is less traumatic for both baby and mother than abrupt cessation.
+Transitioning from nighttime nursing is challenging but important. Experts recommend gradually reducing nighttime feeds starting at 12 months. Begin by offering a bottle of water instead of nursing for one nighttime feed.
+
+Over 2 to 4 weeks, gradually replace more feeds with water. By 18 months, ideally all nighttime feeds are water, not breast milk. This gradual approach is less traumatic for both baby and mother than abrupt cessation.
 
 If your baby wakes for comfort (not truly hungry), alternatives to nursing include: gentle rocking, singing, cuddling, offering a pacifier, or brief nighttime cuddles without nursing. Some babies transition easily; others take longer. The important thing is working toward the goal rather than achieving it instantly.
 
@@ -110,19 +118,17 @@ Schedule your baby's first dental visit around the time the first tooth erupts (
 Bring your own questions and concerns to your dental visits. Your pediatric dentist has seen hundreds of breastfed babies and can help you navigate this common concern with practical, evidence-based recommendations. The goal is protecting your baby's developing teeth while supporting the feeding approach that works best for your family.
 
 
+For more information, see [Cost of Tooth Restoration Comparison](/article/cost-of-tooth-restoration-comparison.html) and [Cost of Bite Force and Teeth: Functional Considerations](/article/cost-of-bite-force-and-teeth.html).
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about breastfeeding and tooth decay night feeding risks. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
-
-## Key Takeaway
+**Key Takeaway:**
 
 > **Key Takeaway:** Early childhood decay is largely preventable through limiting nighttime nursing after 12 months, starting fluoride toothbrushing at tooth eruption, and professional fluoride varnish application—early intervention prevents cavities and the need for major treatment.
-
-**Related articles:** [Braces Food Restrictions: What You Need to Know](/article/braces-food-restrictions-what-you-need-to-know.html) | [Oral Health Habits: Complete Guide](/article/oral-health-habits-complete-guide.html)
 
 ## Related Articles
 
 - [Best Practices For Tooth Decay Prevention](/article/best-practices-for-tooth-decay-prevention.html)
 - [Best Practices For Saliva Importance](/article/best-practices-for-saliva-importance.html)
 - [Bottle Feeding And Early Childhood Caries](/article/bottle-feeding-and-early-childhood-caries.html)
+

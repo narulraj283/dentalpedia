@@ -49,7 +49,7 @@ Studies comparing miswak extract rinses to chlorhexidine (powerful antimicrobial
 
 ## Historical Context and Modern Use
 
-Miswak was the predominant tooth-cleaning method throughout the Islamic world, Middle East, Africa, and portions of Asia for millennia. The transition to modern toothbrushes began in the 19th century when manufactured toothbrushes became accessible. Learning more about [calcium for teeth mineral importance](/article/calcium-for-teeth-mineral-importance.html) can help you understand this better. Urban populations largely abandoned miswak for convenience and standardized quality.
+Miswak was the predominant tooth-cleaning method throughout the Islamic world, Middle East, Africa, and portions of Asia for millennia. The transition to modern toothbrushes began in the 19th century when manufactured toothbrushes became accessible. Learning more about [Calcium for Teeth Mineral Importance](/article/calcium-for-teeth-mineral-importance.html) can help you understand this better. Urban populations largely abandoned miswak for convenience and standardized quality.
 
 However, miswak hasn't disappeared. Millions of people in traditionally Islamic cultures, African nations, and South Asian communities continue using miswak exclusively or supplementing modern toothbrushes with miswak. Recent interest in natural products has driven renewed attention to miswak in Western contexts.
 
@@ -69,7 +69,7 @@ Modern miswak products including powders, extracts, and toothpaste formulations 
 
 ## Cost Advantage
 
-Miswak costs approximately $0.10-0.50 per stick and lasts about one week. That's roughly $5-25 annually. Compare this to conventional toothbrushes at $1-3 each lasting 3-4 months ($3-12 annually), or $5-15 annually. Learning more about [cost of mouthwash selection](/article/cost-of-mouthwash-selection.html) can help you understand this better. Miswak's cost advantage is modest in developed countries but substantial in resource-limited settings.
+Miswak costs approximately $0.10-0.50 per stick and lasts about one week. That's roughly $5-25 annually. Compare this to conventional toothbrushes at $1-3 each lasting 3-4 months ($3-12 annually), or $5-15 annually. Learning more about [Cost of Mouthwash Selection](/article/cost-of-mouthwash-selection.html) can help you understand this better. Miswak's cost advantage is modest in developed countries but substantial in resource-limited settings.
 
 For populations with limited access to dental care resources, miswak represents an affordable tool maintaining oral hygiene when commercial products aren't accessible.
 
@@ -85,18 +85,6 @@ Miswak is a viable, evidence-supported oral hygiene tool that works as well as c
 
 If you're drawn to natural products, miswak is legitimately evidence-supported. If you prefer modern manufactured products, conventional toothbrushes are equally effective. The best tool is the one you'll use consistently with proper technique.
 
-## Conclusion
-
-Miswak sticks represent an ancient oral hygiene tool validated by modern research as effective for mechanical plaque removal and antimicrobial activity. They work comparably to modern toothbrushes when proper technique is employed and offer cultural and cost advantages for specific populations. However, miswak doesn't provide superior cavity prevention or gum disease prevention compared to conventional toothbrushes. Your choice between miswak and modern toothbrush should be based on personal preference, cultural alignment, and accessibility rather than on perceived superior efficacy.
-
-> **Key Takeaway:** Miswak sticks have genuine antimicrobial and mechanical cleaning properties comparable to conventional toothbrushes, supported by scientific evidence. They work well for people with cultural traditions favoring miswak or those seeking natural alternatives. However, they don't provide superior cavity or gum disease prevention compared to properly used conventional toothbrushes.
-
-## Related Articles You May Find Helpful
-
-- [Calcium for Teeth: Mineral Importance](/article/calcium-for-teeth-mineral-importance.html)
-- [Cost of Mouthwash Selection](/article/cost-of-mouthwash-selection.html)
-- [Benefits of Daily Teeth Cleaning](/article/benefits-of-daily-teeth-cleaning.html)
-
 ## Modern Research Validation
 
 Recent scientific interest in miswak has generated systematic research validating traditional claims. Studies measuring plaque inhibition show that miswak extracts reduce bacterial adhesion and biofilm formation at concentrations achievable through normal use. This isn't placebo—it's genuine antimicrobial activity supported by laboratory evidence.
@@ -104,3 +92,17 @@ Recent scientific interest in miswak has generated systematic research validatin
 The mechanism of antimicrobial action involves multiple pathways: direct bacterial cell disruption, metabolic interference, and enzyme inhibition. These mechanisms are similar to how modern antimicrobial agents work, suggesting miswak operates through legitimate pharmacological mechanisms rather than folk mythology.
 
 Geographic variations in miswak composition mean that some sources contain higher antimicrobial potency than others. Research comparing miswak from different regions shows substantial variation in salvadorin content. This geographic variation explains why some traditional communities report superior tooth health with miswak—they might be using sources with particularly high antimicrobial activity.
+
+## Conclusion
+
+Miswak sticks represent an ancient oral hygiene tool validated by modern research as effective for mechanical plaque removal and antimicrobial activity. They work comparably to modern toothbrushes when proper technique is employed and offer cultural and cost advantages for specific populations. However, miswak doesn't provide superior cavity prevention or gum disease prevention compared to conventional toothbrushes. Your choice between miswak and modern toothbrush should be based on personal preference, cultural alignment, and accessibility rather than on perceived superior efficacy.
+
+> **Key Takeaway:** Miswak sticks have genuine antimicrobial and mechanical cleaning properties comparable to conventional toothbrushes, supported by scientific evidence. They work well for people with cultural traditions favoring miswak or those seeking natural alternatives. However, they don't provide superior cavity or gum disease prevention compared to properly used conventional toothbrushes.
+
+## Related Articles
+
+- [Benefits of Daily Teeth Cleaning](/article/benefits-of-daily-teeth-cleaning.html)
+
+- [Risk and Concerns with Oral Health Habits](/article/risk-and-concerns-with-oral-health-habits.html)
+- [Cost of Oral Health Habits](/article/cost-of-oral-health-habits.html)
+

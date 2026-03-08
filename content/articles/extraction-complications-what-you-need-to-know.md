@@ -1,24 +1,30 @@
 ---
-title: "Extraction Complications: Patient Guide to Recognition and"
-slug: extraction-complications-what-you-need-to-know
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Understanding common extraction complications enables patients to recognize warning signs and seek timely intervention.
 date: 2026-03-05
+excerpt: Understanding common extraction complications enables patients to recognize
+  warning signs and seek timely intervention.
 read_time: 9 min
+references:
+- Almendarez-Sequeira RA, Maqueda-Alpízar MC. Complications and incidents during surgical
+  extractions. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2006;102(4):e55-e59.
+- Rood JP, Nairn RI. The fate of bone surrounding inferior alveolar nerve after tooth
+  removal. Br J Oral Surg. 1983;21(1):40-49.
+- Laskin DM. Oral and Maxillofacial Surgery. 2nd ed. Mosby; 2000.
+- Gupta K, Marya CM, Nagpal R. Incidence of complications in periosteal strip procedures
+  during tooth extraction. J Periodontal Implant Sci. 2013;43(4):197-201.
+- 'Chaushu S, Vered M, Nissan J. Medicament regimen for alveolar osteitis: a preliminary
+  double-blind study. J Am Dent Assoc. 2002;133(12):1651-1656.'
+- Koerner KR. Extraction of impacted teeth. J Oral Maxillofac Surg. 1994;52(12):1281-1287.
+- Parthasarathi K, Prabhu SR. Textbook of Oral and Maxillofacial Surgery. 4th ed.
+  Elsevier; 2011.
+- Peterson LJ. Oral and Maxillofacial Surgery. 5th ed. Mosby; 2002.
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: extraction-complications-what-you-need-to-know
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - "Almendarez-Sequeira RA, Maqueda-Alpízar MC. Complications and incidents during surgical extractions. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2006;102(4):e55-e59."
-  - "Rood JP, Nairn RI. The fate of bone surrounding inferior alveolar nerve after tooth removal. Br J Oral Surg. 1983;21(1):40-49."
-  - "Laskin DM. Oral and Maxillofacial Surgery. 2nd ed. Mosby; 2000."
-  - "Gupta K, Marya CM, Nagpal R. Incidence of complications in periosteal strip procedures during tooth extraction. J Periodontal Implant Sci. 2013;43(4):197-201."
-  - "Chaushu S, Vered M, Nissan J. Medicament regimen for alveolar osteitis: a preliminary double-blind study. J Am Dent Assoc. 2002;133(12):1651-1656."
-  - "Koerner KR. Extraction of impacted teeth. J Oral Maxillofac Surg. 1994;52(12):1281-1287."
-  - "Parthasarathi K, Prabhu SR. Textbook of Oral and Maxillofacial Surgery. 4th ed. Elsevier; 2011."
-  - "Peterson LJ. Oral and Maxillofacial Surgery. 5th ed. Mosby; 2002."
+title: 'Extraction Complications: Patient Guide to Recognition'
 ---
 
 ## What to Expect After Your Tooth Is Removed
@@ -27,7 +33,9 @@ Most people do fine after having a tooth extracted. But it's important to know w
 
 ## Your Normal Recovery Timeline
 
-The first 24 hours are when you might see some bleeding. Learning more about [reimplanted teeth salvaging avulsed permanent teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html) can help you understand this better. A little oozing is completely normal. Swelling usually peaks around day 2 or 3, then gradually gets better over the next 1 to 2 weeks. Pain is worst for the first 2 to 3 days, then improves. Most people only need pain medication for a few days.
+The first 24 hours are when you might see some bleeding. Learning more about [Reimplanted Teeth Salvaging Avulsed Permanent Teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html) can help you understand this better. A little oozing is completely normal.
+
+Swelling usually peaks around day 2 or 3, then gradually gets better over the next 1 to 2 weeks. Pain is worst for the first 2 to 3 days, then improves. Most people only need pain medication for a few days.
 
 You'll see pink tissue filling the socket starting around day 5 to 7. This is good—it means healing is happening. The socket completely fills in over 2 to 4 weeks, and the bone underneath keeps healing for 3 to 6 months.
 
@@ -47,7 +55,9 @@ Dry socket is uncomfortable but not dangerous. It happens when the blood clot th
 
 You can prevent it by following instructions carefully: Don't smoke, spit, or use straws for the first three days. These all dislodge the clot. Avoid rinsing your mouth vigorously. After three days, gentle salt water rinses actually help.
 
-If dry socket happens, you'll get throbbing pain starting 3 to 5 days after extraction—worse than your normal post-extraction pain. You might notice bad breath or see the bone in the socket. Call your dentist. They'll rinse out the socket, put in pain medicine, and place a special dressing. The dressing often feels way better right away. You might need to come back to have it changed a couple times, but most cases feel much better within a few days and are completely healed in 1 to 2 weeks.
+If dry socket happens, you'll get throbbing pain starting 3 to 5 days after extraction—worse than your normal post-extraction pain. You might notice bad breath or see the bone in the socket. Call your dentist.
+
+They'll rinse out the socket, put in pain medicine, and place a special dressing. The dressing often feels way better right away. You might need to come back to have it changed a couple times, but most cases feel much better within a few days and are completely healed in 1 to 2 weeks.
 
 ## Signs of Infection
 
@@ -59,7 +69,7 @@ Call your dentist right away if you develop a fever over 101°F, if swelling get
 
 Sometimes after extraction, especially wisdom teeth, you might notice numbness or tingling in your lower lip, chin, or tongue. This happens because the nearby nerve got stretched or bumped.
 
-Most of the time, this feeling comes back on its own within 3 to 6 months. Learning more about [dental abscess infection and urgent treatment](/article/dental-abscess-infection-and-urgent-treatment.html) can help you understand this better. Only a very small percentage of people have permanent numbness. Tell your dentist if this happens so they can document it and keep an eye on it. They might test the area to see how bad it is.
+Most of the time, this feeling comes back on its own within 3 to 6 months. Learning more about [Dental Abscess Infection and Urgent Treatment](/article/dental-abscess-infection-and-urgent-treatment.html) can help you understand this better. Only a very small percentage of people have permanent numbness. Tell your dentist if this happens so they can document it and keep an eye on it. They might test the area to see how bad it is.
 
 ## Bone Problems
 
@@ -95,16 +105,19 @@ These things don't need an emergency call but should be mentioned at your next a
 - Mild drainage
 - Pain that's manageable with your medicine
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Most people heal just fine after extraction. Knowing what's normal helps you take good care of yourself and know when to call your dentist. If something doesn't seem right, don't hesitate to contact them.
 
+> **Key Takeaway:** Understanding common extraction complications enables patients to recognize warning signs and seek timely intervention.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
+- [Lost Filling or Crown: What to Do Now](/article/lost-filling-or-crown-temporary-and-permanent-solutions.html)
+- [Common Misconceptions About Recovery Timeline](/article/common-misconceptions-about-recovery-timeline.html)
+- [Surgical Tooth Extraction - Comprehensive](/article/surgical-teeth-removal-complete-guide.html)
+- [Surgical Technique Risks and Technical Considerations](/article/risk-and-concerns-with-surgical-technique-overview.html)
+- [Bone Grafting: Restoring Lost Jaw Structure](/article/bone-grafting-restoring-lost-jaw-structure.html)
 
-- [Reimplanted Teeth: Salvaging Avulsed Permanent Teeth](/article/reimplanted-teeth-salvaging-avulsed-permanent-teeth.html)
-- [Dental Abscess: Infection and Urgent Treatment](/article/dental-abscess-infection-and-urgent-treatment.html)
-- [Lost Filling or Crown: Temporary and Permanent Solutions](/article/lost-filling-or-crown-temporary-and-permanent-solutions.html)
-
-> **Key Takeaway:** Most extraction complications are minor and manageable, but knowing the warning signs helps you get treatment quickly if you need it. Talk to your dentist about which options are right for your specific situation.

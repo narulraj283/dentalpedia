@@ -33,7 +33,9 @@ references:
 
 ## Why Testing Your Child's Tooth Nerve Is Tricky
 
-When a child chips, cracks, or injures a tooth, your dentist needs to figure out if the nerve inside the tooth is still alive and healthy. This is called testing the "pulp" of the tooth. In adults, this test is fairly straightforward, but in children, it's much more complicated. Kids' developing teeth work differently than adult teeth, children often can't explain what they're feeling, and the results of standard tests are often unreliable. Your dentist has several ways to test your child's tooth nerve, but no single test gives a clear answer. Instead, your dentist combines multiple tests and observations to figure out what's really going on with your child's tooth.
+When a child chips, cracks, or injures a tooth, your dentist needs to figure out if the nerve inside the tooth is still alive and healthy. This is called testing the "pulp" of the tooth. In adults, this test is fairly straightforward, but in children, it's much more complicated.
+
+Kids' developing teeth work differently than adult teeth, children often can't explain what they're feeling, and the results of standard tests are often unreliable. Your dentist has several ways to test your child's tooth nerve, but no single test gives a clear answer. Instead, your dentist combines multiple tests and observations to figure out what's really going on with your child's tooth.
 
 ## Why Children's Teeth Are Different
 
@@ -57,11 +59,13 @@ The most accurate way to test if a tooth nerve is truly alive is laser Doppler f
 
 The downside is that laser Doppler flowmetry is expensive, requires special equipment that most dental offices don't have, and the test needs to be done carefully to get reliable results. It's rarely available for routine dental care, even though it would give the best answer.
 
-[Learn more about what happens when your child's tooth nerve becomes inflamed by reading about the signs and symptoms of pulpitis](/article/reversible-pulpitis-can-tooth-recover.html).
+[Learn more about what happens when your child's tooth](/article/reversible-pulpitis-can-tooth-recover.html).
 
 ## How Your Dentist Really Figures Out What's Wrong
 
-Because no single test is reliable in children, your dentist uses multiple tests together. Your dentist will look at several things: What do the x-rays show? Is there a crack or chip visible? What color is the tooth—does it look darker or gray, which suggests the nerve is dead? When your dentist taps the tooth gently with a dental mirror, does it hurt? Can your child describe any pain or sensitivity? What does the cold test show? What does the electrical test show? For more on this topic, see our guide on [Teething Myths Separating Fact From F...](/article/teething-myths-separating-fact-from-folk-remedy.html).
+Because no single test is reliable in children, your dentist uses multiple tests together. Your dentist will look at several things: What do the x-rays show? Is there a crack or chip visible? What color is the tooth—does it look darker or gray, which suggests the nerve is dead?
+
+When your dentist taps the tooth gently with a dental mirror, does it hurt? Can your child describe any pain or sensitivity? What does the cold test show? What does the electrical test show? For more on this topic, see our guide on [Teething Myths: Separating Evidence-Based Facts from](/article/teething-myths-separating-fact-from-folk-remedy.html).
 
 By putting all this information together, your dentist can get a much better idea of whether the tooth nerve is alive, injured, or dead. Sometimes the answer is still unclear, and your dentist will recommend watching and waiting to see what happens over time.
 
@@ -81,18 +85,20 @@ While your dentist is figuring out whether your child's tooth nerve is okay, you
 
 Avoiding very hard or sticky foods on that tooth for a few weeks. Let the tooth rest while it might be healing. Watch for any changes—if the tooth becomes darker, gets painful, or develops a small bump on the gum, contact your dentist right away. Keep brushing and flossing normally to maintain good oral hygiene. Protect your child's mouth from further trauma by using a mouth guard during sports.
 
+
+*Always consult your dentist to determine the best approach for your individual situation.*
+
 ## Conclusion
 
 Testing your child's tooth nerve after an injury is more complicated than testing an adult's tooth because kids' teeth are different, kids can't always clearly report what they feel, and standard tests aren't as reliable in young patients. Your dentist will use multiple tests together—cold test, electrical test, color observation, x-rays, and possibly even laser Doppler flowmetry—to figure out what's really going on. Serial testing over weeks helps clarify uncertain results. While your dentist is evaluating your child's tooth, keep it protected from further injury and monitor for any changes that would suggest the tooth needs treatment.
 
-## Key Takeaway
-
-Never judge your child's tooth nerve based on a single test. Cold testing alone is unreliable in kids. Your dentist uses multiple tests together and often rechecks over time to determine whether a traumatized tooth is truly alive, injured but healing, or dead and needing treatment. If your dentist recommends watching and waiting rather than immediate treatment, that's often the smartest approach for children's developing teeth.
+> **Key Takeaway:** Never judge your child's tooth nerve based on a single test. Cold testing alone is unreliable in kids. Your dentist uses multiple tests together and often rechecks over time to determine whether a traumatized tooth is truly alive, injured but healing, or dead and needing treatment. If your dentist recommends watching and waiting rather than immediate treatment, that's often the smartest approach for children's developing teeth.
 
 ## Related Articles
 
-[Reversible Pulpitis: Can Your Tooth Recover?](/article/reversible-pulpitis-can-tooth-recover.html)
+- [Nitrous Oxide Sedation: Safe in Young Patients](/article/nitrous-oxide-sedation-safe-in-young-patients.html)
+- [Lingual Arch: Hidden Space Maintainer](/article/lingual-arch-hidden-space-maintainer.html)
 
-[Nitrous Oxide Sedation: Safe in Young Patients](/article/nitrous-oxide-sedation-safe-in-young-patients.html)
+- [Tongue-Tie in Babies and Toddlers: Early Detection](/article/tongue-tie-ankyloglossia-in-infants-and-toddlers.html)
+- [Autism and Dental Anxiety: Providing Special Needs](/article/autism-and-dental-anxiety-special-needs-care.html)
 
-[Lingual Arch: Hidden Space Maintainer](/article/lingual-arch-hidden-space-maintainer.html)

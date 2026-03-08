@@ -43,14 +43,16 @@ reviewer_specialty: Pediatric Dentistry
 slug: primary-tooth-shedding-normal-exfoliation-timeline
 subcategory: Pediatric Overview
 subcategory_slug: overview-peds
-title: 'Baby Tooth Shedding Timeline: What''s Normal and When to...'
+title: Primary Tooth Shedding Normal Exfoliation Timeline
 ---
 
 ## Understanding How Baby Teeth Fall Out: The Natural Process
 
 Your child's baby teeth are designed to fall out on their own. This natural shedding happens because the permanent teeth below are pushing upward, and your child's body responds by dissolving the roots of the baby teeth above them. This process, called resorption, is perfectly normal and doesn't need any special treatment. Over seven years or so (from about age 6 to 13), all 20 baby teeth gradually loosen and fall out, making room for 28 permanent adult teeth.
 
-The reason this happens so gradually is actually smart biology. Your child's body doesn't shed all their baby teeth at once. Instead, teeth come out over years, which allows permanent teeth to erupt into the space created by each lost tooth. This typically happens without crowding problems if your child's jaw has normal spacing. Each permanent tooth that erupts sends signals to the baby tooth above it, triggering the root-dissolving process. It's like a built-in communication system that coordinates the transition.
+The reason this happens so gradually is actually smart biology. Your child's body doesn't shed all their baby teeth at once. Instead, teeth come out over years, which allows permanent teeth to erupt into the space created by each lost tooth.
+
+This typically happens without crowding problems if your child's jaw has normal spacing. Each permanent tooth that erupts sends signals to the baby tooth above it, triggering the root-dissolving process. It's like a built-in communication system that coordinates the transition.
 
 Understanding the normal timeline helps you know what to expect and when to talk to your dentist. Every child develops differently, so there's a range of normal times for teeth to come out.
 
@@ -64,11 +66,13 @@ Finally, the second molars fall out last. These are your back teeth, and they of
 
 ## Why Your Child Might Be Early or Late
 
-Not every child follows the exact timeline you read about—and that's okay. Your child's tooth-shedding schedule depends on many different factors. Genetics plays a big role. If you lost your teeth early, your child probably will too. If your parents didn't lose their teeth until later in childhood, your child might follow that pattern. It's basically hereditary, just like height or eye color.
+Not every child follows the exact timeline you read about—and that's okay. Your child's tooth-shedding schedule depends on many different factors. Genetics plays a big role.
+
+If you lost your teeth early, your child probably will too. If your parents didn't lose their teeth until later in childhood, your child might follow that pattern. It's basically hereditary, just like height or eye color.
 
 How fast your child is growing overall makes a difference too. Kids who are growing quickly and developing early tend to lose teeth earlier. Kids who develop more slowly might keep their baby teeth longer. Girls often lose their teeth slightly earlier than boys on average, but there's huge overlap, so don't worry if your son's timeline is different.
 
-Your child's overall health also plays a role. Kids with excellent nutrition and good general health tend to shed teeth more reliably and on schedule. Your child's ethnicity can influence timing too—research shows some populations tend to have slightly earlier or later patterns than others. If you're curious about whether your child's timeline is normal for their background, ask your dentist. For more on this topic, see our guide on [Open Bite From Thumb Sucking Preventi...](/article/open-bite-from-thumb-sucking-prevention-and-treatment.html).
+Your child's overall health also plays a role. Kids with excellent nutrition and good general health tend to shed teeth more reliably and on schedule. Your child's ethnicity can influence timing too—research shows some populations tend to have slightly earlier or later patterns than others. If you're curious about whether your child's timeline is normal for their background, ask your dentist. For more on this topic, see our guide on [Open Bite from Thumb Sucking: Prevention and Treatment](/article/open-bite-from-thumb-sucking-prevention-and-treatment.html).
 
 ## How Your Body Dissolves Baby Tooth Roots
 
@@ -90,7 +94,7 @@ If you look at the gum around a loose tooth, it might look a little red or puffy
 
 Most loose teeth are just part of normal development and don't need professional attention. Your dentist might not need to examine a loose tooth unless something seems unusual. However, you should contact your dentist if your child has pain from a loose tooth, since that might suggest infection or deep decay rather than normal loosening. If you see swelling or a pimple-like bump on the gum above a loose tooth, that's also worth mentioning.
 
-If your child's permanent tooth is already visible and the baby tooth above it still hasn't moved at all, your dentist should probably take a look. Sometimes a baby tooth blocks a permanent tooth that's trying to come in, and your dentist might recommend extraction rather than waiting. Similarly, if your child is significantly past the expected age for a tooth to come out and it hasn't budged, your dentist might take an X-ray to see if something is preventing normal shedding. For more on this topic, see our guide on [Pulpotomy Removing Infected Pulp In B...](/article/pulpotomy-removing-infected-pulp-in-baby-teeth.html).
+If your child's permanent tooth is already visible and the baby tooth above it still hasn't moved at all, your dentist should probably take a look. Sometimes a baby tooth blocks a permanent tooth that's trying to come in, and your dentist might recommend extraction rather than waiting. Similarly, if your child is significantly past the expected age for a tooth to come out and it hasn't budged, your dentist might take an X-ray to see if something is preventing normal shedding. For more on this topic, see our guide on [Pulpotomy - Removing Infected Pulp in Baby Teeth](/article/pulpotomy-removing-infected-pulp-in-baby-teeth.html).
 
 The good news is that most of the time, baby teeth fall out exactly on schedule with no intervention needed. Your dentist monitors the process during regular visits but rarely needs to step in.
 
@@ -109,18 +113,6 @@ While your child's baby teeth are shedding, you don't need to do anything specia
 After a tooth falls out or is extracted, the socket heals remarkably fast. Within a week or two, the gum epithelializes (covers over). Your child can brush and floss normally, though you might be extra gentle in that area immediately after shedding. The permanent tooth below will erupt gradually into the space, usually without needing any special orthodontic help.
 
 Some parents find it helpful to keep the shedding process positive for their child. Some families celebrate with the tooth fairy tradition, which can make the experience fun rather than anxiety-producing. Other families simply reassure their child that this is normal and exciting because a new tooth is on the way.
-
-## Related Articles You May Find Helpful
-
-- [Open Bite from Thumb Sucking: Prevention and Treatment Strategies](/article/open-bite-from-thumb-sucking-prevention-and-treatment.html)
-- [Pulpotomy: Treating Infected Baby Teeth Without Extraction](/article/pulpotomy-removing-infected-pulp-in-baby-teeth.html)
-- [Fluoride Varnish in Pediatric Care: Professional Strength Treatment](/article/fluoride-varnish-in-pediatric-care-high-strength-treatment.html)
-
-## Conclusion
-
-Baby tooth shedding follows a general pattern but varies widely among children based on genetics, growth rate, overall health, and developmental factors. Most children lose teeth between ages 6 and 13 in a fairly predictable sequence: front teeth first, then canines, then molars. The process happens because permanent teeth pushing upward trigger resorption of baby tooth roots, gradually loosening them until they fall out naturally. Some children finish early, and others finish later, and both are normal. If your child's shedding seems significantly delayed or if specific teeth aren't loosening as expected, your dentist can investigate. Most baby teeth need no intervention and will fall out on their own schedule. Understanding this normal developmental process helps you support your child confidently through this important transition to their permanent smile.
-
-> **Key Takeaway:** Your child's baby teeth shed naturally between ages 6 and 13 as permanent teeth push up from below, triggering root dissolution. While the general sequence is predictable (front teeth first, then canines, then molars), timing varies widely among children due to genetics and growth rate. Most teeth fall out on their own without intervention. Contact your dentist if a tooth seems stuck beyond the expected timeframe, is causing pain, or if swelling appears around it.
 
 ## Introduction to Physiologic Primary Tooth Exfoliation
 
@@ -197,3 +189,19 @@ Post-exfoliation, extraction sockets heal relatively rapidly in children, with e
 Understanding normal primary tooth exfoliation sequences, physiologic root resorption patterns, and individual variation timelines allows clinicians and parents to distinguish normal development from delayed or abnormal shedding. Physiologic exfoliation should be anticipated for teeth demonstrating radiographic evidence of resorption and appropriate clinical mobility, with extraction reserved for specific indications including ankylosed teeth, severe ectopic resorption patterns, and teeth with active infection despite treatment. Periodic radiographic and clinical monitoring through mixed dentition allows detection of complications including ectopic eruption and severe root resorption requiring intervention.
 
 Recognition that exfoliation timing reflects constitutional factors including skeletal maturation rate, genetic predisposition, and systemic health status explains the wide normal variation observed clinically. Reassurance to parents regarding normal variation prevents unnecessary concern about delayed shedding within normal individual range. Documentation of exfoliation patterns, completion of transition to permanent dentition, and any complications or interventions facilitates comprehensive pediatric dental record and appropriate referral for orthodontic assessment if indicated.
+
+## Conclusion
+
+Baby tooth shedding follows a general pattern but varies widely among children based on genetics, growth rate, overall health, and developmental factors. Most children lose teeth between ages 6 and 13 in a fairly predictable sequence: front teeth first, then canines, then molars. The process happens because permanent teeth pushing upward trigger resorption of baby tooth roots, gradually loosening them until they fall out naturally.
+
+Some children finish early, and others finish later, and both are normal. If your child's shedding seems significantly delayed or if specific teeth aren't loosening as expected, your dentist can investigate. Most baby teeth need no intervention and will fall out on their own schedule. Understanding this normal developmental process helps you support your child confidently through this important transition to their permanent smile.
+
+> **Key Takeaway:** Your child's baby teeth shed naturally between ages 6 and 13 as permanent teeth push up from below, triggering root dissolution. While the general sequence is predictable (front teeth first, then canines, then molars), timing varies widely among children due to genetics and growth rate. Most teeth fall out on their own without intervention. Contact your dentist if a tooth seems stuck beyond the expected timeframe, is causing pain, or if swelling appears around it.
+
+## Related Articles
+
+- [Fluoride Varnish in Pediatric Care](/article/fluoride-varnish-in-pediatric-care-high-strength-treatment.html)
+
+- [First Dental Visit: Preparing Your Child](/article/first-dental-visit-preparing-your-child.html)
+- [Nursing Bottle Decay Sweetened Beverages at Night](/article/nursing-bottle-decay-sweetened-beverages-at-night.html)
+

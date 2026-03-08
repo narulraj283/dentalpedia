@@ -37,11 +37,11 @@ If you're brushing your teeth the way you learned as a kid—with horizontal bac
 
 ## The Problem With Horizontal Brushing
 
-That side-to-side scrubbing motion feels like it's working — it's aggressive, it makes your gums bleed a little, you feel like you're cleaning. Learn more about [cavity prevention methods complete](/article/cavity-prevention-methods-complete-guide.html) for additional guidance. But here's what's actually happening: you're creating wedge-shaped notches at your gum line where the soft gum meets the hard tooth. You're grinding bristles perpendicular to your gum tissue. Over years, this causes gingival recession — your gums recede away from your teeth, exposing the root surface underneath.
+That side-to-side scrubbing motion feels like it's working — it's aggressive, it makes your gums bleed a little, you feel like you're cleaning. Learn more about [Cavity Prevention Methods Complete](/article/cavity-prevention-methods-complete-guide.html) for additional guidance. But here's what's actually happening: you're creating wedge-shaped notches at your gum line where the soft gum meets the hard tooth. You're grinding bristles perpendicular to your gum tissue. Over years, this causes gingival recession — your gums recede away from your teeth, exposing the root surface underneath.
 
 Once the root is exposed, it's more vulnerable to cavity formation (roots don't have enamel, only cementum), and the tooth becomes sensitive. Ice cream, cold water, breathing in — it all hurts. You've essentially given yourself a problem that now requires professional treatment.
 
-The recession is irreversible. Learn more about [best practices for fluoride](/article/best-practices-for-fluoride-benefits.html) for additional guidance. You can't grow gum tissue back. Which is why technique matters more than you think.
+The recession is irreversible. Learn more about [Best Practices for Fluoride](/article/best-practices-for-fluoride-benefits.html) for additional guidance. You can't grow gum tissue back. Which is why technique matters more than you think.
 
 ## The Better Way: The Bass Technique
 
@@ -49,13 +49,17 @@ Throw out everything you've been doing. Here's the evidence-based approach that 
 
 **The angle:** Position your toothbrush at a 45-degree angle to your gum line. This isn't arbitrary. That angle allows the bristles to slide underneath your gum tissue (into the sulcus) where the bacteria actually live. This is where cavities and gum disease start — not on the surface of your tooth, but in the space between your gum and your tooth.
 
-**The bristles:** Use a soft toothbrush. Not medium, not hard. Soft. Soft bristles (0.2mm diameter) remove plaque equally as well as hard bristles but don't shred your gum tissue. Hard-bristled brushes increase your recession risk by 400-500%. They feel more effective because they're more aggressive. They're not.
+**The bristles:** Use a soft toothbrush. Not medium, not hard. Soft.
+
+Soft bristles (0.2mm diameter) remove plaque equally as well as hard bristles but don't shred your gum tissue. Hard-bristled brushes increase your recession risk by 400-500%. They feel more effective because they're more aggressive. They're not.
 
 **The motion:** Forget scrubbing. Instead, use gentle vibrations — small, quick back-and-forth motions (2mm amplitude) while holding that 45-degree angle. Vibrate for 3-5 seconds per tooth surface. Then sweep the brush away from the gum, moving the brush head down the tooth (on the upper teeth) or up the tooth (on the lower teeth). This sweeping motion clears the loosened plaque away.
 
 **The sound:** If you're using an electric toothbrush, it's doing the vibration for you. You just position it correctly and let the brush work.
 
-**The time:** Two to three minutes minimum. Most people think they're brushing for two minutes when they're actually doing 45-60 seconds. Set a timer on your phone. Every. Single. Time. Until it becomes automatic.
+**The time:** Two to three minutes minimum. Most people think they're brushing for two minutes when they're actually doing 45-60 seconds. Set a timer on your phone.
+
+Every. Single. Time. Until it becomes automatic.
 
 ## The Systematic Sequence That Prevents Forgotten Spots
 
@@ -65,7 +69,9 @@ Use this sequence:
 
 1. Upper teeth, buccal surface (cheek-facing side), all three quadrants
 2. Lower teeth, buccal surface
-3. Upper teeth, palatal surface (roof-of-mouth side)
+3.
+
+Upper teeth, palatal surface (roof-of-mouth side)
 4. Lower teeth, lingual surface (tongue-facing side)
 5. Biting surfaces of both upper and lower teeth
 6. Don't forget the tongue (more on this below)
@@ -94,7 +100,9 @@ Here's the hard truth: toothbrushing alone removes only 40-60% of oral plaque. T
 
 You need to clean between your teeth daily. Your options:
 
-**Interdental brushes** (tiny brushes designed to fit between teeth): These remove more plaque than floss and are easier to use correctly. Match the brush size to your tooth spacing. Too large? Gum damage. Too small? Insufficient contact. Various sizes are available. Start with a medium size and adjust based on fit.
+**Interdental brushes** (tiny brushes designed to fit between teeth): These remove more plaque than floss and are easier to use correctly. Match the brush size to your tooth spacing. Too large? Gum damage.
+
+Too small? Insufficient contact. Various sizes are available. Start with a medium size and adjust based on fit.
 
 **Dental floss:** Traditional, but requires technique and compliance is poor — only 10-20% of people floss regularly. Floss removes plaque effectively in skilled hands, but most people give up because it's difficult.
 
@@ -170,23 +178,18 @@ That's not placebo. That's evidence-based technique actually working.
 
 **Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>**
 
-
 ## Conclusion
 
 Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding why your brushing technique is costing you your gums helps you feel more confident when discussing options with your dentist and making decisions about your care.
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-
-
-## Key Takeaway
-
-If you're brushing your teeth the way you learned as a kid—with horizontal back-and-forth scrubbing motions—you're actually damaging your gums and enamel. Talk to your dentist about which options work best for your unique situation, and don't hesitate to ask questions during your appointment.
-
-
+> **Key Takeaway:** If you're brushing your teeth the way you learned as a kid—with horizontal back-and-forth scrubbing motions—you're actually damaging your gums and enamel. Talk to your dentist about which options work best for your unique situation, and don't hesitate to ask questions during your appointment.
 
 ## Related Articles
 
-- [Cavity Prevention Methods Complete Guide](/article/cavity-prevention-methods-complete-guide.html)
-- [Best Practices For Fluoride Benefits](/article/best-practices-for-fluoride-benefits.html)
 - [Benefits Of Oral Hygiene Routine](/article/benefits-of-oral-hygiene-routine.html)
+
+- [Why Daily Teeth Cleaning Matters in Preventive](/article/why-daily-teeth-cleaning-matters.html)
+- [Risk and Concerns with Mouthwash Selection](/article/risk-and-concerns-with-mouthwash-selection.html)
+

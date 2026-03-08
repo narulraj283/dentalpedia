@@ -1,26 +1,37 @@
 ---
-title: "Burning Mouth Syndrome: Etiology, Diagnostic Criteria, and"
-slug: burning-mouth-syndrome-mysterious-oral-pain
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: "Burning mouth syndrome (BMS) is a chronic condition where your mouth, tongue, lips, or palate burn—but your dentist doesn't see anything wrong when."
 date: 2026-03-05
+excerpt: Burning mouth syndrome (BMS) is a chronic condition where your mouth, tongue,
+  lips, or palate burn—but your dentist doesn't see anything wrong when.
 read_time: 10 min
+references:
+- Neuropathic Pain in the Orofacial Region. Macgregor RH, Comeau J, eds. International
+  Association for the Study of Pain. 2019.
+- 'Grushka M, Sessle BJ. Burning mouth syndrome: an update. J Can Dent Assoc. 1991;57(9):674-681.'
+- International Headache Society. Diagnostic criteria for primary burning mouth syndrome.
+  Cephalgia. 2004;24(1):9-160.
+- Zakrzewska JM, Linskey ME. Trigeminal neuralgia. Clin Evid. 2009;11:1207.
+- Grushka M, Katz T. GABA and the neuropathic orofacial pain in primary burning mouth
+  syndrome. Pain. 2003;105(1-2):117-120.
+- 'Liu XJ, Zhang Y, Liu T, et al. Expression of TRPV1 in nociceptive sensory neurons:
+  Contribution to peripheral nociception and central sensitization. Eur J Pharmacol.
+  2019;854:77-86.'
+- Woda A, Dao T, Gremeau-Richard C. Steroid dysphonia burning mouth syndrome. J Orofac
+  Pain. 1992;6(3):274-283.
+- Gorsky M, Silverman S, Chinn H. Clinical characteristics and management outcome
+  in the burning mouth syndrome. An open trial of topical capsaicin. Oral Surg Oral
+  Med Oral Pathol. 1991;72(6):679-686.
+- Lamey PJ, Lewis MA. Oral medicine presented with objective signs and symptoms. Br
+  Dent J. 1989;167(12):370-374.
+- 'Femiano F, Lanza A, Buonaiuto C, et al. Burning mouth syndrome (BMS): etiopathogenesis,
+  diagnosis, and therapeutic approaches. An update. Ann Stomatol (Roma). 2011;2(1):14-31.'
+reviewed: true
 reviewer_specialty: Orofacial Pain
+slug: burning-mouth-syndrome-mysterious-oral-pain
 subcategory: General Overview
 subcategory_slug: overview-general
-reviewed: true
-references:
-  - "Neuropathic Pain in the Orofacial Region. Macgregor RH, Comeau J, eds. International Association for the Study of Pain. 2019."
-  - "Grushka M, Sessle BJ. Burning mouth syndrome: an update. J Can Dent Assoc. 1991;57(9):674-681."
-  - "International Headache Society. Diagnostic criteria for primary burning mouth syndrome. Cephalgia. 2004;24(1):9-160."
-  - "Zakrzewska JM, Linskey ME. Trigeminal neuralgia. Clin Evid. 2009;11:1207."
-  - "Grushka M, Katz T. GABA and the neuropathic orofacial pain in primary burning mouth syndrome. Pain. 2003;105(1-2):117-120."
-  - "Liu XJ, Zhang Y, Liu T, et al. Expression of TRPV1 in nociceptive sensory neurons: Contribution to peripheral nociception and central sensitization. Eur J Pharmacol. 2019;854:77-86."
-  - "Woda A, Dao T, Gremeau-Richard C. Steroid dysphonia burning mouth syndrome. J Orofac Pain. 1992;6(3):274-283."
-  - "Gorsky M, Silverman S, Chinn H. Clinical characteristics and management outcome in the burning mouth syndrome. An open trial of topical capsaicin. Oral Surg Oral Med Oral Pathol. 1991;72(6):679-686."
-  - "Lamey PJ, Lewis MA. Oral medicine presented with objective signs and symptoms. Br Dent J. 1989;167(12):370-374."
-  - "Femiano F, Lanza A, Buonaiuto C, et al. Burning mouth syndrome (BMS): etiopathogenesis, diagnosis, and therapeutic approaches. An update. Ann Stomatol (Roma). 2011;2(1):14-31."
+title: 'Burning Mouth Syndrome: Etiology, Diagnostic'
 ---
 
 ## What Is Burning Mouth Syndrome?
@@ -105,24 +116,6 @@ About 30-50% of BMS patients experience natural remission within 6-12 years with
 
 **Treatment-resistant BMS** (20-30% of patients not responding to standard approaches) might need multiple medications, optimization of existing ones, or consideration of experimental therapies. **Support groups and educational resources** reduce psychological burden and provide coping strategies from others with BMS.
 
-
-
-## Related Articles You May Find Helpful
-
-- [All-Ceramic Crowns: Metal-Free Restoration Solutions](/article/all-ceramic-crown-metal-free-restoration.html)
-- [Apex Sealing in Endodontics: Complete Root Canal Closure for Treatment Success](/article/apex-sealing-complete-root-canal-closure.html)
-- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
-
-
-
-## Conclusion
-
-Taking care of your oral health means staying informed about burning mouth syndrome mysterious oral pain. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
-
-> **Key Takeaway:** Burning mouth syndrome is a chronic neuropathic pain condition affecting 0.7-4.6% of people (especially postmenopausal women), looks normal on examination, and responds best to medication combined with cognitive-behavioral therapy.
-
-Learn more: Oral pain management, Menopause and oral health, or Finding pain specialists.
-
 ## Systemic Pharmacologic Therapy
 
 Tricyclic antidepressants represent first-line systemic medication, with amitriptyline being most commonly used. Dosing typically initiates at 10mg nightly, increasing to 25-50mg nightly as tolerated. 60-70% of patients demonstrate moderate to significant improvement with tricyclic antidepressants; response develops gradually over 4-6 weeks.
@@ -172,3 +165,18 @@ Differential diagnosis must exclude oral candidiasis, lichen planus, xerostomia,
 Management emphasizes cognitive-behavioral therapy, psychological support, and pharmacologic interventions. Tricyclic antidepressants (amitriptyline) and gabapentin demonstrate highest efficacy, with 60-70% and 50-60% significant improvement rates respectively. SSRIs, benzodiazepines (short-term), and alpha-lipoic acid provide alternative options for partial responders or patients with medication contraindications.
 
 Orofacial pain specialist referral should be considered when standard interventions prove ineffective or diagnostic uncertainty persists. Long-term sustained medication therapy is typically required to maintain symptom control; most patients require indefinite treatment to prevent recurrence.
+
+## Conclusion
+
+Learn more: Oral pain management, Menopause and oral health, or Finding pain specialists.
+
+> **Key Takeaway:** Burning mouth syndrome is a chronic neuropathic pain condition affecting 0.7-4.6% of people (especially postmenopausal women), looks normal on examination, and responds best to medication combined with cognitive-behavioral therapy.
+
+## Related Articles
+
+- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
+- [Why Infection Prevention Matters in Dental Practice](/article/why-infection-prevention-matters.html)
+- [Cost of Pain Relief Methods in General Dentistry](/article/cost-of-pain-relief-methods.html)
+- [Dental Procedure Planning: What You Need to Know](/article/dental-procedure-planning-what-you-need-to-know.html)
+- [Cavity Formation Process: Your Complete Guide](/article/best-practices-for-cavity-formation-process.html)
+

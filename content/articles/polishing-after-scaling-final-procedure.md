@@ -73,7 +73,7 @@ The clinical significance of routine prophylaxis abrasion is debated: most clini
 
 ## Biofilm Removal Efficacy and Maintenance Impact
 
-While prophylactic polishing is primarily attributed to stain removal, its contribution to biofilm removal should not be underestimated. Following scaling and root planing, residual biofilm particles remain on tooth surfaces; estimates suggest that mechanical scaling alone removes 85-95% of subgingival biofilm with residual biofilm remaining in protected niches and deeper areas inaccessible to hand or ultrasonic instruments. Subsequent polishing removes additional superficial biofilm, contributing to overall biofilm elimination and reducing the bacterial load patient must maintain through home care. For more on this topic, see our guide on [Periodontal Disease And Braces Compat...](/article/periodontal-disease-and-braces-compatibility-issues.html).
+While prophylactic polishing is primarily attributed to stain removal, its contribution to biofilm removal should not be underestimated. Following scaling and root planing, residual biofilm particles remain on tooth surfaces; estimates suggest that mechanical scaling alone removes 85-95% of subgingival biofilm with residual biofilm remaining in protected niches and deeper areas inaccessible to hand or ultrasonic instruments. Subsequent polishing removes additional superficial biofilm, contributing to overall biofilm elimination and reducing the bacterial load patient must maintain through home care. For more on this topic, see our guide on [Periodontal Disease and Braces Compatibility Issues](/article/periodontal-disease-and-braces-compatibility-issues.html).
 
 The clinical significance of polishing-derived biofilm removal is greatest in patients with compromised home hygiene ability; comprehensive in-office polishing following scaling may provide weeks of enhanced biofilm removal before reaccumulation approaches baseline levels. In contrast, patients with excellent home hygiene, relying on meticulous daily brushing and flossing, may derive minimal additional biofilm benefit from routine polishing. The psychological effect of professional cleaning—enhancing patient motivation toward plaque control and generating positive feeling about oral health—may be as clinically significant as direct biofilm removal.
 
@@ -87,25 +87,20 @@ Discussion of dietary stains should include identification of foods and beverage
 
 Patients should also be educated regarding home polishing practices; while professional polishing uses specific abrasive formulations calibrated for safety, routine use of commercial whitening toothpastes (which typically contain coarser abrasives than prophylaxis paste) combined with aggressive brushing can result in significant enamel abrasion exceeding that from professional polishing. Recommendation for gentle brushing technique using soft-bristle toothbrushes, potentially supplemented with electric toothbrushes that control brushing force, protects enamel between professional appointments.
 
-
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about topics like polishing after scaling—the final prophylaxis procedure. The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
+The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
-
-
-## Key Takeaway
-
-After your dental team completes scaling (removing calculus and plaque), they polish your teeth using a specially formulated paste. Talk with your dentist to find out how this applies to your specific situation and what steps make sense for you.
-
-
+> **Key Takeaway:** After your dental team completes scaling (removing calculus and plaque), they polish your teeth using a specially formulated paste. Talk with your dentist to find out how this applies to your specific situation and what steps make sense for you.
 
 ## Related Articles
 
-- [Soft Tissue Graft Gum Restoration](/article/soft-tissue-graft-gum-restoration.html)
-- [Periodontal Disease And Braces Compatibility Issues](/article/periodontal-disease-and-braces-compatibility-issues.html)
 - [Root Planing Smoothing Root Surfaces](/article/root-planing-smoothing-root-surfaces.html)
+
+- [Minocycline for Gum Disease: How Local Antibiotics Work](/article/minocycline-microspheres-antibiotic-delivery.html)
+- [Periodontal Pack Post Treatment Dressing](/article/periodontal-pack-post-treatment-dressing.html)
 

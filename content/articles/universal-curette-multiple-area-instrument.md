@@ -39,7 +39,7 @@ When your dentist talks about removing plaque and tartar from below your gum lin
 
 ## What Is a Universal Curette?
 
-A universal curette is a slender, curved hand instrument with a cutting edge designed to remove plaque, tartar, and rough deposits from below the gum line where your toothbrush can't reach. Learn more about [mobility and migration tooth](/article/mobility-and-migration-tooth-movement-patterns.html) for additional guidance. The name "universal" refers to the fact that the same instrument can be used on all surfaces of all teeth—facial, lingual, and interproximal areas. This versatility contrasts with specialized curettes designed for specific tooth areas, though universal instruments remain the workhorses of professional periodontal cleaning.
+A universal curette is a slender, curved hand instrument with a cutting edge designed to remove plaque, tartar, and rough deposits from below the gum line where your toothbrush can't reach. Learn more about [Mobility and Migration Tooth](/article/mobility-and-migration-tooth-movement-patterns.html) for additional guidance. The name "universal" refers to the fact that the same instrument can be used on all surfaces of all teeth—facial, lingual, and interproximal areas. This versatility contrasts with specialized curettes designed for specific tooth areas, though universal instruments remain the workhorses of professional periodontal cleaning.
 
 Universal curettes have bilateral cutting edges, meaning both sides of the blade can cut, which gives dentists flexibility in how they position and use the instrument. The blade is double-ended, so one handle provides two working instruments.
 
@@ -79,7 +79,7 @@ Some patients benefit from professional cleaning more frequently than standard i
 
 ## How Dental Technology Supports Manual Instruments
 
-While ultrasonic scalers and other powered instruments are now commonly used in dental offices, many dentists still rely on manual instruments like universal curettes for specific applications. Manual instruments provide excellent tactile feedback, allowing the clinician to feel the texture and contours of the root surface and detect remaining deposits that need removal. This sensitivity and control can be superior to powered instruments for fine finishing work and [maintenance instrumentation that supports long-term gum disease prevention](/article/scaling-and-root-planing-non-surgical-gum-treatment.html).
+While ultrasonic scalers and other powered instruments are now commonly used in dental offices, many dentists still rely on manual instruments like universal curettes for specific applications. Manual instruments provide excellent tactile feedback, allowing the clinician to feel the texture and contours of the root surface and detect remaining deposits that need removal. This sensitivity and control can be superior to powered instruments for fine finishing work and [Maintenance Instrumentation That Supports Long-term](/article/scaling-and-root-planing-non-surgical-gum-treatment.html).
 
 Many modern practices use a combination approach—using powered scalers for initial calculus removal and follow-up with manual instruments for precise finishing and specialized areas. This hybrid technique often produces optimal clinical results while managing appointment time efficiently.
 
@@ -89,20 +89,18 @@ Mastering universal curette technique requires training and practice. Dental stu
 
 If you're anxious about professional cleanings, knowing that your dentist has invested considerable time perfecting this technique can provide confidence that your care is being handled by a skilled professional focused on your comfort and optimal results.
 
-
-
 ## Conclusion
 
 Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding universal curettes and area-specific instrumentation helps you feel more confident when discussing options with your dentist and making decisions about your care.
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Universal curettes are versatile hand instruments that allow your dentist to remove calculus and plaque from beneath your gum line where your toothbrush can't reach. Proper technique, sharp instruments, and appropriate instrument selection enable clinicians to achieve excellent gum health outcomes. Combining professional cleanings using instruments like universal curettes with excellent daily home care creates the foundation for healthy, disease-resistant gums throughout your lifetime.
+> **Key Takeaway:** Universal curettes are versatile hand instruments that allow your dentist to remove calculus and plaque from beneath your gum line where your toothbrush can't reach. Proper technique, sharp instruments, and appropriate instrument selection enable clinicians to achieve excellent gum health outcomes. Combining professional cleanings using instruments like universal curettes with excellent daily home care creates the foundation for healthy, disease-resistant gums throughout your lifetime.
 
 ## Related Articles
 
-- [Scaling and Root Planing: Non-Surgical Gum Treatment](/article/scaling-and-root-planing-non-surgical-gum-treatment.html)
 - [Gum Disease Stages and Progression](/article/gum-disease-stages-gingivitis-to-periodontitis.html)
 - [Aggressive vs. Chronic Periodontal Disease](/article/aggressive-vs-chronic-disease-progression-rate.html)
+
+- [Graft Surgery for Gum Recession Repair](/article/graft-surgery-for-gum-recession-repair.html)
+

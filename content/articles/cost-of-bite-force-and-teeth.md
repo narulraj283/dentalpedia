@@ -65,7 +65,7 @@ If you have 3+ of these signs, you likely grind or clench.
 **Without night guard protection**:
 - Composite filling replacement every 5-8 years ($200-$400 per replacement)
 - Crown replacement every 5-10 years ($800-$1,500 replacement)
-- Implant problems: implants last 10-15 years instead of 20+ years ($4,000-$8,000 to replace) You may also want to read about [hydrodynamic theory sensitivity explanation](/article/hydrodynamic-theory-sensitivity-explanation.html).
+- Implant problems: implants last 10-15 years instead of 20+ years ($4,000-$8,000 to replace) You may also want to read about [Hydrodynamic Theory Sensitivity Explanation](/article/hydrodynamic-theory-sensitivity-explanation.html).
 
 **Example**: A grinder with 6 fillings might replace them 2-3 times over 20 years = $1,200-$2,400 in replacement costs
 
@@ -82,7 +82,7 @@ If you have 3+ of these signs, you likely grind or clench.
 
 **Cost**: $200-$600
 
-**How it works**: Your dentist takes an impression. Learning more about [cavity formation process complete guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. A lab fabricates a custom guard fitting your teeth perfectly. You wear it every night.
+**How it works**: Your dentist takes an impression. Learning more about [Cavity Formation Process Complete Guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. A lab fabricates a custom guard fitting your teeth perfectly. You wear it every night.
 
 **Material options**:
 - **Soft thermoplastic**: $150-$300 (most comfortable, less durable)
@@ -182,8 +182,6 @@ Night guard care extends its life:
 **Temperature**: Don't expose to high heat (don't leave in hot car)
 **Replacement**: Every 3-5 years
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about bite force and teeth and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -198,12 +196,13 @@ Once you've addressed bite force and teeth, maintaining your results requires on
 
 Grinding and clenching wear teeth and damage restorations at 2-4 fold faster rate than normal use. A custom night guard costs $200-$600 and reduces grinding damage by 50-70%, protecting your teeth and extending restoration life. For patients with expensive restorations (veneers, crowns, implants), a night guard is essential protection. Combined with stress reduction and possibly occlusal adjustment, night guard protection prevents thousands in future replacement costs. If you grind or clench, talk to your dentist about protecting your teeth with a night guard.
 
-> 
+> **Key Takeaway:** Grinding and clenching damage teeth and restorations. A custom night guard ($200-$600) reduces damage by 50-70% and extends restoration life 30-50%, paying for itself through prevented replacement costs. If you grind or clench, ask your dentist about a night guard and other protection strategies.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Hydrodynamic Theory Sensitivity Explanation](/article/hydrodynamic-theory-sensitivity-explanation.html)
-- [Cavity Formation Process Complete Guide](/article/cavity-formation-process-complete-guide.html)
 - [Community Health Centers Affordable Dentistry](/article/community-health-centers-affordable-dentistry.html)
+- [Lichen Planus: Understanding Your Mouth Condition](/article/lichen-planus-autoimmune-oral-condition.html)
+- [Crown vs Bridge Decision: Clinical Indications and](/article/crown-vs-bridge-decision-what-you-need-to-know.html)
+- [Dental Treatment Planning Process and Sequencing](/article/timeline-for-dental-procedure-planning.html)
+- [Tooth Color Changes - Diagnosis, Classification, and](/article/benefits-of-tooth-color-changes.html)
 
-**Key Takeaway:** Grinding and clenching damage teeth and restorations. A custom night guard ($200-$600) reduces damage by 50-70% and extends restoration life 30-50%, paying for itself through prevented replacement costs. If you grind or clench, ask your dentist about a night guard and other protection strategies.

@@ -1,29 +1,38 @@
 ---
-title: Clinical Management of Dental Enamel Erosion and
-slug: best-practices-for-enamel-erosion-repair
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: "Have you noticed your teeth looking a bit worn or shorter than they used to? Maybe you're seeing a bit of yellow color appearing through your teeth?"
 date: 2026-03-05
+excerpt: Have you noticed your teeth looking a bit worn or shorter than they used
+  to? Maybe you're seeing a bit of yellow color appearing through your teeth?
 read_time: 10 min
+references:
+- Lussi A, Schaffner M. Progression of Dental Erosion and Wear in a Population. Caries
+  Res. 2021;55(2):150-161.
+- 'Shellis RP, Ganss C. Erosion: diagnosis and risk assessment. Monogr Oral Sci. 2020;29:77-90.'
+- West NX, Lussi A. Etiology and Pathogenesis of Dental Erosion. Adv Dent Res. 2021;32(1):24-31.
+- Wilder-Smith CH, Wilder-Smith PM. Enamel Erosion and Restoration. Curr Opin Dent.
+  2020;1:45-52.
+- Backer Dirks O. Caries Prevention Using Fluoride. J Public Health Dent. 2019;79(2):15-26.
+- Schiff T, Wan P. Clinical Assessment and Treatment of Erosive Damage. Compend Contin
+  Educ Dent. 2021;42(7):e1-e8.
+- Carvalho TS, Scaramucci T. Prevention and Treatment of Erosive Lesions. Quintessence
+  Int. 2020;51(6):424-432.
+- Ganss C, Lussi A. Diagnosis of Erosive Tooth Wear. Monogr Oral Sci. 2014;25:22-31.
+- Palmer M, Addy M. Classification of Abrasion, Attrition, and Erosion. Br Dent J.
+  2018;205(6):297-303.
+- Dorotheou D, Ngo HC. Prevention of Dental Erosion and Wear. Aust Dent J. 2020;65(Suppl
+  1):S13-S22.
+reviewed: true
 reviewer_specialty: General Dentistry
+slug: best-practices-for-enamel-erosion-repair
 subcategory: General Overview
 subcategory_slug: overview-general
-reviewed: true
-references:
-  - "Lussi A, Schaffner M. Progression of Dental Erosion and Wear in a Population. Caries Res. 2021;55(2):150-161."
-  - "Shellis RP, Ganss C. Erosion: diagnosis and risk assessment. Monogr Oral Sci. 2020;29:77-90."
-  - "West NX, Lussi A. Etiology and Pathogenesis of Dental Erosion. Adv Dent Res. 2021;32(1):24-31."
-  - "Wilder-Smith CH, Wilder-Smith PM. Enamel Erosion and Restoration. Curr Opin Dent. 2020;1:45-52."
-  - "Backer Dirks O. Caries Prevention Using Fluoride. J Public Health Dent. 2019;79(2):15-26."
-  - "Schiff T, Wan P. Clinical Assessment and Treatment of Erosive Damage. Compend Contin Educ Dent. 2021;42(7):e1-e8."
-  - "Carvalho TS, Scaramucci T. Prevention and Treatment of Erosive Lesions. Quintessence Int. 2020;51(6):424-432."
-  - "Ganss C, Lussi A. Diagnosis of Erosive Tooth Wear. Monogr Oral Sci. 2014;25:22-31."
-  - "Palmer M, Addy M. Classification of Abrasion, Attrition, and Erosion. Br Dent J. 2018;205(6):297-303."
-  - "Dorotheou D, Ngo HC. Prevention of Dental Erosion and Wear. Aust Dent J. 2020;65(Suppl 1):S13-S22."
+title: Clinical Management of Dental Enamel Erosion
 ---
 
-Have you noticed your teeth looking a bit worn or shorter than they used to? Maybe you're seeing a bit of yellow color appearing through your teeth? That might be tooth enamel erosion—and you're not alone. About one in five to four in five adults deal with this issue. Unlike cavities caused by bacteria, enamel erosion happens when acid slowly eats away your tooth's protective outer layer. The good news? Once you understand what's causing it, you can take steps to protect what's left and restore what's been lost. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+Have you noticed your teeth looking a bit worn or shorter than they used to? Maybe you're seeing a bit of yellow color appearing through your teeth? That might be tooth enamel erosion—and you're not alone. About one in five to four in five adults deal with this issue.
+
+Unlike cavities caused by bacteria, enamel erosion happens when acid slowly eats away your tooth's protective outer layer. The good news? Once you understand what's causing it, you can take steps to protect what's left and restore what's been lost. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
 
 ## What Causes Enamel Erosion?
 
@@ -47,7 +56,9 @@ Your dentist uses a scoring system to understand how serious your erosion is. Ba
 
 ## Protecting Your Teeth Right Now
 
-The most important thing is to stop the acid from attacking your teeth. If you drink acidic beverages, use a straw positioned past your front teeth to minimize contact. Right after exposure to acid, rinse your mouth with water. Here's the critical part: don't brush your teeth right away. Wait 30-60 minutes. Brushing immediately after acid exposure actually removes the weakened enamel, making things worse.
+The most important thing is to stop the acid from attacking your teeth. If you drink acidic beverages, use a straw positioned past your front teeth to minimize contact. Right after exposure to acid, rinse your mouth with water.
+
+Here's the critical part: don't brush your teeth right away. Wait 30-60 minutes. Brushing immediately after acid exposure actually removes the weakened enamel, making things worse.
 
 If you can get a fluoride rinse and use it within three minutes of acid exposure, that's even better. Fluoride helps harden what's left of your enamel.
 
@@ -55,7 +66,9 @@ Using fluoride products is key. A daily fluoride mouthrinse reduces erosion dama
 
 ## Making Diet Changes That Stick
 
-Realistically, you probably won't give up acidic drinks forever, and that's okay. The goal is to cut down and be smarter about it. Try to drink acidic beverages with meals instead of sipping on them throughout the day. When you eat, your saliva works harder to protect your teeth. Also, limit yourself to specific times rather than constant sipping. It's the frequency that damages your teeth most.
+Realistically, you probably won't give up acidic drinks forever, and that's okay. The goal is to cut down and be smarter about it. Try to drink acidic beverages with meals instead of sipping on them throughout the day.
+
+When you eat, your saliva works harder to protect your teeth. Also, limit yourself to specific times rather than constant sipping. It's the frequency that damages your teeth most.
 
 If you have acid reflux or GERD, working with your doctor to control the acid production is crucial. Sometimes medication can cut acid dramatically. If you have an eating disorder, getting treatment for that addresses the root problem and stops the acid damage.
 
@@ -87,20 +100,21 @@ If you had restorations placed, they'll need maintenance. The composite material
 
 ## Looking Forward
 
-Enamel erosion is preventable and treatable. The key is catching it early and taking action. If you love acidic drinks, use a straw and wait before brushing. If you have acid reflux, work with your doctor. Use fluoride products daily. And see your dentist regularly so they can catch problems early. With these steps, you can protect your remaining enamel and restore what's been lost, keeping your smile healthy and beautiful for years to come.
+Enamel erosion is preventable and treatable. The key is catching it early and taking action. If you love acidic drinks, use a straw and wait before brushing.
 
-## Related Articles You May Find Helpful
-
-- [All-Ceramic Crowns: Metal-Free Restoration Solutions](/article/all-ceramic-crown-metal-free-restoration.html)
-- [Apex Sealing in Endodontics: Complete Root Canal Closure for Treatment Success](/article/apex-sealing-complete-root-canal-closure.html)
-- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
-
-
-
+If you have acid reflux, work with your doctor. Use fluoride products daily. And see your dentist regularly so they can catch problems early. With these steps, you can protect your remaining enamel and restore what's been lost, keeping your smile healthy and beautiful for years to come.
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about enamel erosion repair. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** Have you noticed your teeth looking a bit worn or shorter than they used to? Your dentist can help you understand what steps are right for your specific needs.
+
+## Related Articles
+
+- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
+- [How Cavities Form: The Science Behind Tooth Decay](/article/how-to-cavity-formation-process.html)
+- [Dentin Hypersensitivity and Evidence-Based Relief](/article/understanding-tooth-sensitivity-and-relief-options.html)
+- [Cavity Formation Process: What You Need to Know](/article/cavity-formation-process-what-you-need-to-know.html)
+- [CBCT Imaging: Advanced 3D X-Ray Technology](/article/cbct-imaging-advanced-3d-x-ray-technology.html)
 

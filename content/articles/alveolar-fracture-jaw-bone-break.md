@@ -65,7 +65,9 @@ Your dentist checks if your teeth are still alive (have good blood flow) at 2 we
 
 If a tooth loses vitality (stops responding to tests), you need a root canal within 2-4 weeks to prevent an abscess. Root canals in this situation have very high success rates.
 
-Your dentist also watches for root resorption (bone and root gradually dissolving). External resorption (on the outside) is common (30-40% of cases) but usually harmless and stops on its own. Internal resorption (from inside the root canal) is rarer but serious and needs immediate root canal therapy. Mild resorption is usually insignificant. Moderate resorption (losing 1-2mm of root) slightly weakens attachment but teeth usually survive long-term. Severe resorption (losing more than 3mm) might eventually require extraction.
+Your dentist also watches for root resorption (bone and root gradually dissolving). External resorption (on the outside) is common (30-40% of cases) but usually harmless and stops on its own. Internal resorption (from inside the root canal) is rarer but serious and needs immediate root canal therapy.
+
+Mild resorption is usually insignificant. Moderate resorption (losing 1-2mm of root) slightly weakens attachment but teeth usually survive long-term. Severe resorption (losing more than 3mm) might eventually require extraction.
 
 ## Special Concerns if Your Child Has an Alveolar Fracture
 
@@ -87,23 +89,17 @@ At 6 months, your bones should be well healed with stable teeth and a normal bit
 
 Studies of patients followed 10+ years show: about 85-90% of fractured teeth stay alive long-term, about 70-80% achieve perfect bite alignment with no lasting problems, and about 10-15% develop significant root resorption that eventually needs root canal or extraction. Patient satisfaction is high (85-90%) if treatment was immediate and appropriate.
 
-
-
-## Related Articles You May Find Helpful
-
-- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
-- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
-- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
-
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about alveolar fracture jaw bone break. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
-
-## Key Takeaways
-
-The most important things are: get emergency treatment within 24 hours, use flexible splinting for 4-6 weeks, monitor tooth vitality at follow-up visits, and watch for root resorption with regular X-rays. When these steps are followed carefully, most people keep their fractured teeth healthy and functional for life. Delays or missed follow-ups significantly reduce success rates, which is why urgent treatment is so critical.
+**Key Takeaway:** The most important things are: get emergency treatment within 24 hours, use flexible splinting for 4-6 weeks, monitor tooth vitality at follow-up visits, and watch for root resorption with regular X-rays. When these steps are followed carefully, most people keep their fractured teeth healthy and functional for life. Delays or missed follow-ups significantly reduce success rates, which is why urgent treatment is so critical.
 
 > **Key Takeaway:** An alveolar fracture is a break in the jaw bone that surrounds your tooth roots—usually caused by a hard blow to the mouth from a fall, sports injury, accident, or violence. Your dentist can help you understand what steps are right for your specific needs.
+
+## Related Articles
+
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+- [Cost of Bleeding Control](/article/cost-of-bleeding-control.html)
+- [Anesthesia Options: A Complete Patient Guide](/article/benefits-of-anesthesia-options.html)
+- [After Wisdom Tooth Extraction: Your Complete Dry Socket](/article/wisdom-tooth-extraction-complications-dry-socket-prevention.html)
+- [Why Recovery After Extraction Matters](/article/why-recovery-after-extraction-matters.html)
 

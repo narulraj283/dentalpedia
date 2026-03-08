@@ -37,7 +37,9 @@ references:
 
 Braces make flossing incredibly difficult. To properly floss with braces, you must thread string under the main arch wire, navigate through the tooth contact, and pull it out—all while being careful not to bend any brackets or wires. This process takes 45-60 seconds per tooth space when done correctly. Most patients find it so tedious and frustrating that they either stop flossing entirely or never develop the habit. The result is rampant gingivitis (gum disease) during treatment, with approximately 70-80% of braces patients developing significant gum inflammation.
 
-This gum disease creates both short-term and long-term problems. Learn more about [torque control root inclination](/article/torque-control-root-inclination-management.html) for additional guidance. In the short term, your gums bleed when you eat or brush, which is embarrassing and uncomfortable. In the long term, poor plaque control during braces leads to white spot lesions—permanent white discoloration on your teeth that appears after the braces come off. About 50% of braces patients develop white spot lesions if plaque control is inadequate. These look like the braces are etched into your teeth permanently and require expensive cosmetic treatment to fix.
+This gum disease creates both short-term and long-term problems. Learn more about [Torque Control Root Inclination](/article/torque-control-root-inclination-management.html) for additional guidance. In the short term, your gums bleed when you eat or brush, which is embarrassing and uncomfortable.
+
+In the long term, poor plaque control during braces leads to white spot lesions—permanent white discoloration on your teeth that appears after the braces come off. About 50% of braces patients develop white spot lesions if plaque control is inadequate. These look like the braces are etched into your teeth permanently and require expensive cosmetic treatment to fix.
 
 Water floss with an orthodontic tip solves this entirely. A research study comparing water floss to string floss in braces patients found that water floss removed 44% more plaque around brackets and wires and reduced bleeding gums by 39% compared to just 12% improvement with string floss. That's a massive difference.
 
@@ -87,16 +89,19 @@ Begin water flossing as soon as your braces are placed. Don't wait weeks or mont
 
 Water flossers cost $40-70 initially, while string floss costs $3-5 per container. But the long-term cost-effectiveness strongly favors water floss: reduced emergency appointments for bracket/wire damage, prevention of white spot lesions (which cost hundreds to thousands to treat), potentially shorter treatment duration, and fewer appliance adjustments needed. The equipment cost is small compared to the savings and improved outcomes.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Water flossing with orthodontic-specific tips is the clear winner for braces patients. The 44% superior plaque removal, 70% reduction in white spot lesions, and dramatically improved compliance make water flossing the recommended choice for anyone in orthodontic treatment. Your smile after braces is worth the investment in water flossing technology.
 
-## Key Takeaway
-
-Water flossing removes 44% more plaque around braces than string floss and reduces white spot lesion incidence by 70%. The ease of use dramatically improves compliance, making it the most effective interdental cleaning method for orthodontic patients.
+> **Key Takeaway:** Water flossing removes 44% more plaque around braces than string floss and reduces white spot lesion incidence by 70%. The ease of use dramatically improves compliance, making it the most effective interdental cleaning method for orthodontic patients.
 
 ## Related Articles
 
-- [Water Flossers vs. String Floss Effectiveness Comparison](/article/water-flossers-vs-string-floss-effectiveness-comparison.html)
-- [Torque Control: Root Inclination Management](/article/torque-control-root-inclination-management.html)
 - [Class I Occlusion: Ideal Bite Relationships](/article/class-i-occlusion-ideal-bite-relationships.html)
+
+- [Risk and Concerns with Braces Benefits](/article/risk-and-concerns-with-braces-benefits.html)
+- [Comprehensive Overview of Tooth Alignment](/article/timeline-for-teeth-alignment-alternatives.html)
+- [The Real Cost of Getting Braces](/article/how-to-teeth-straightening-cost.html)
+

@@ -61,7 +61,7 @@ Your dentist documents your clinical attachment level, which measures how much o
 
 The positive aspect of moderate gum disease is that it typically responds very well to treatment. About 70% to 80% of people with moderate disease achieve excellent results from a deep cleaning treatment called scaling and root planing, where your dentist removes tartar buildup both above and below your gumline and smooths the root surface so your gums can reattach.
 
-During this treatment, your dentist works on your teeth while you're comfortably numbed with local anesthesia. The process removes the bacterial buildup that's fueling the disease and eliminates surfaces where bacteria like to hide. After this deep cleaning, you should start seeing improvement within a few weeks. Learning more about [pathogenic bacteria key players in gum disease](/article/pathogenic-bacteria-key-players-in-gum-disease.html) can help you understand this better. Your dentist will evaluate your response at 4 to 6 weeks, checking whether your pockets have become shallower and whether bleeding has stopped.
+During this treatment, your dentist works on your teeth while you're comfortably numbed with local anesthesia. The process removes the bacterial buildup that's fueling the disease and eliminates surfaces where bacteria like to hide. After this deep cleaning, you should start seeing improvement within a few weeks. Learning more about [Pathogenic Bacteria Key Players in Gum Disease](/article/pathogenic-bacteria-key-players-in-gum-disease.html) can help you understand this better. Your dentist will evaluate your response at 4 to 6 weeks, checking whether your pockets have become shallower and whether bleeding has stopped.
 
 Your response to treatment depends significantly on what you do at home. Patients who establish excellent daily cleaning routines—brushing twice daily with a soft brush and cleaning between teeth daily with floss or an interdental cleaner—see much better results than those who only do treatment at the dental office. Your dental team will teach you exactly how to clean your teeth effectively to support healing.
 
@@ -69,7 +69,7 @@ Your response to treatment depends significantly on what you do at home. Patient
 
 If your gums don't respond adequately to the deep cleaning, your periodontist might recommend additional treatments. Antibiotic gels placed directly beneath your gums can help control particularly stubborn bacteria. Some patients benefit from rinsing with special antimicrobial solutions that reduce bacterial levels beneath the gumline.
 
-For pockets that remain deep despite good cleaning, your dentist might recommend surgical therapy. This allows your dentist to better visualize the tooth roots beneath the gumline and clean them more thoroughly than non-surgical approaches. In some cases, your dentist can regenerate some of the lost bone through techniques like [guided tissue regeneration](/article/bone-grafting-for-implant-preparation.html) or bone grafting.
+For pockets that remain deep despite good cleaning, your dentist might recommend surgical therapy. This allows your dentist to better visualize the tooth roots beneath the gumline and clean them more thoroughly than non-surgical approaches. In some cases, your dentist can regenerate some of the lost bone through techniques like [Guided Tissue Regeneration](/article/bone-grafting-for-implant-preparation.html) or bone grafting.
 
 However, surgery becomes necessary only when initial non-surgical treatment doesn't achieve your goals. Most people with moderate disease avoid surgery through consistent professional care and excellent home cleaning.
 
@@ -101,8 +101,11 @@ Moderate gum disease requires immediate attention but responds excellently to tr
 
 > **Key Takeaway:** Moderate gum disease requires immediate attention but responds excellently to treatment when you combine professional care with consistent daily cleaning. Your dentist can help stop the disease progression, prevent tooth loss, and reduce complications if you work together on a treatment plan. Start with the recommended deep cleaning, maintain excellent home care daily, and attend all maintenance appointments to keep your teeth healthy for life.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Understand the stages of gum disease and how they develop](/article/pathogenic-bacteria-key-players-in-gum-disease.html)
 - [Learn why bleeding gums matter and how to manage them](/article/best-practices-for-gum-disease-prevention.html)
-- [Discover how to prevent gum disease through daily habits](/article/risk-and-concerns-with-gum-disease-prevention.html)
+- [Risk and Concerns with Gum Disease Prevention](/article/risk-and-concerns-with-gum-disease-prevention.html)
+
+- [SARS-CoV-2 and Periodontal Disease: Epidemiological](/article/coronavirus-and-periodontal-health-recent-research.html)
+- [Gum Disease and Lung Health: Why Your Mouth Affects](/article/respiratory-infection-aspiration-risk-from-gum-disease.html)
+

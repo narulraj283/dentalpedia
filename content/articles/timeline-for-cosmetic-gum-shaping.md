@@ -35,15 +35,17 @@ If you show a lot of gum when you smile—more than about 3 millimeters—you mi
 
 ## Types of Gum Shaping Procedures
 
-The simplest approach is **gingivectomy**—your surgeon uses a scalpel or laser to remove excess gum tissue. Learn more about [posterior composite vs amalgam](/article/posterior-composite-vs-amalgam-cosmetic-advantages.html) for additional guidance. This works when you have plenty of gum tissue and just need less of it showing. The surgeon carefully marks out the new gumline to create natural-looking contours, removes the excess tissue, and lets it heal. This usually takes about 30-60 minutes depending on how many teeth need treatment.
+The simplest approach is **gingivectomy**—your surgeon uses a scalpel or laser to remove excess gum tissue. Learn more about [Posterior Composite Vs Amalgam](/article/posterior-composite-vs-amalgam-cosmetic-advantages.html) for additional guidance. This works when you have plenty of gum tissue and just need less of it showing. The surgeon carefully marks out the new gumline to create natural-looking contours, removes the excess tissue, and lets it heal. This usually takes about 30-60 minutes depending on how many teeth need treatment.
 
 The more involved approach is **crown lengthening**, where your surgeon removes some bone in addition to gum tissue. This is necessary when the bone level is positioned too high up on your teeth—if your surgeon just removed gum, the gum would grow back because your body wants to keep that 3-millimeter space between bone and gum. Crown lengthening exposes more tooth structure by repositioning that bone lower. This takes a bit longer (45-90 minutes) because of the bone removal step, but it provides more permanent results.
 
-A third option is **laser gum contouring**, which uses a laser instead of a scalpel to remove tissue. Learn more about [enamel flake slight edge](/article/enamel-flake-slight-edge-correction.html) for additional guidance. The laser seals off small blood vessels as it removes tissue, so there's less bleeding and often slightly faster healing. Some people report less discomfort with laser treatment, though costs tend to be higher.
+A third option is **laser gum contouring**, which uses a laser instead of a scalpel to remove tissue. Learn more about [Enamel Flake Slight Edge](/article/enamel-flake-slight-edge-correction.html) for additional guidance. The laser seals off small blood vessels as it removes tissue, so there's less bleeding and often slightly faster healing. Some people report less discomfort with laser treatment, though costs tend to be higher.
 
 ## Understanding the Healing Timeline
 
-The first few days after gum surgery are the most uncomfortable. You'll have swelling and soreness similar to what you'd experience with a tooth extraction. Use ice for the first 24 hours, then switch to heat after 48 hours. The swelling peaks around day 2-3 then gradually improves. Within a week, you can usually go back to normal activities (just avoid strenuous exercise for a couple more days). Your stitches come out at 7-10 days.
+The first few days after gum surgery are the most uncomfortable. You'll have swelling and soreness similar to what you'd experience with a tooth extraction. Use ice for the first 24 hours, then switch to heat after 48 hours.
+
+The swelling peaks around day 2-3 then gradually improves. Within a week, you can usually go back to normal activities (just avoid strenuous exercise for a couple more days). Your stitches come out at 7-10 days.
 
 After about 2 weeks, most of your outer healing is complete—your gums look mostly normal from the outside, though they're still maturing underneath. The real trick is that your gum contours keep refining for several months. Sometimes your gums look a bit puffy or uneven at 3-4 weeks, but by 8-12 weeks, they've settled into their final beautiful shape. Don't judge the final result until you're at least at the 12-week mark.
 
@@ -87,16 +89,20 @@ Gum shaping for cosmetic reasons usually costs $800-2,000 depending on how many 
 
 Many people combine gum shaping with other cosmetic work—teeth whitening before gum surgery, then veneers or crowns afterward. The timing matters: do whitening first, then gum surgery, then final restorations. This ensures everything coordinates and you get the best overall result.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
-Gum shaping is an effective solution for a gummy smile, with results that are dramatic and predictable. The procedure typically takes 45-90 minutes depending on how much work is needed. Healing is relatively quick—you're mostly better within 2 weeks and final results appear over 2-3 months. Understanding that your body needs to maintain its biologic width helps explain why your surgeon removes exactly the right amount of bone. Following aftercare instructions carefully—especially avoiding smoking and being gentle while healing—ensures the best outcome. Most people are thrilled with how much their smile improves.
+Gum shaping is an effective solution for a gummy smile, with results that are dramatic and predictable. The procedure typically takes 45-90 minutes depending on how much work is needed. Healing is relatively quick—you're mostly better within 2 weeks and final results appear over 2-3 months.
 
-## Key Takeaway
+Understanding that your body needs to maintain its biologic width helps explain why your surgeon removes exactly the right amount of bone. Following aftercare instructions carefully—especially avoiding smoking and being gentle while healing—ensures the best outcome. Most people are thrilled with how much their smile improves.
 
-Your gum contours will keep refining for up to 6 months after surgery, so avoid judging final results until at least the 12-week mark even though you'll look significantly better immediately.
+> **Key Takeaway:** Your gum contours will keep refining for up to 6 months after surgery, so avoid judging final results until at least the 12-week mark even though you'll look significantly better immediately.
 
 ## Related Articles
 
-- [Posterior Composite vs Amalgam Cosmetic Advantages](/article/posterior-composite-vs-amalgam-cosmetic-advantages.html)
-- [Enamel Flake Slight Edge Correction](/article/enamel-flake-slight-edge-correction.html)
 - [Common Misconceptions About Veneer Durability Facts](/article/common-misconceptions-about-veneer-durability-facts.html)
+
+- [Why Smile Enhancement Options Matters](/article/why-smile-enhancement-options-matters.html)
+- [Shade Matching in Cosmetic Dentistry - Science](/article/benefits-of-teeth-shade-matching.html)
+

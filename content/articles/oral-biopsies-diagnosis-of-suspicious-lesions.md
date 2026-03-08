@@ -45,9 +45,13 @@ Some lesions are in higher-risk locations. Spots on your tongue floor (underneat
 
 ## What a Biopsy Actually Involves
 
-A biopsy is simple and quick. Your dentist numbs the area with local anesthetic—just like for regular work. Then they take a tiny sample of the abnormal tissue using specialized instruments. You won't feel pain, just pressure. The whole procedure takes minutes. Some people worry about a big surgical removal, but a biopsy takes only a pinpoint-sized sample, leaving the lesion largely intact.
+A biopsy is simple and quick. Your dentist numbs the area with local anesthetic—just like for regular work. Then they take a tiny sample of the abnormal tissue using specialized instruments.
 
-The tissue sample goes to a pathologist—a doctor specializing in examining tissue under microscopes. They look at the cell structure and appearance, identifying whether it's normal, benign, or abnormal. They might stain it with special dyes to highlight different cell types. Results typically come back within a week. Your dentist then explains what was found and what it means for your care. For more on this topic, see our guide on [Timeline For Bleeding Control](/article/timeline-for-bleeding-control.html).
+You won't feel pain, just pressure. The whole procedure takes minutes. Some people worry about a big surgical removal, but a biopsy takes only a pinpoint-sized sample, leaving the lesion largely intact.
+
+The tissue sample goes to a pathologist—a doctor specializing in examining tissue under microscopes. They look at the cell structure and appearance, identifying whether it's normal, benign, or abnormal. They might stain it with special dyes to highlight different cell types.
+
+Results typically come back within a week. Your dentist then explains what was found and what it means for your care. For more on this topic, see our guide on [Timeline For Bleeding Control](/article/timeline-for-bleeding-control.html).
 
 ## Understanding Your Results
 
@@ -65,7 +69,7 @@ You might think, "It looks fine, why biopsy?" Here's the truth: appearance alone
 
 Your dentist explains the biopsy before doing it, so you know what's coming. Ask questions. Understand why they're recommending it. Usually, no special preparation is needed. Avoid food for an hour or so beforehand so anesthetic can work properly and you don't accidentally bite your numb cheek.
 
-Plan on mild soreness for a few days after—similar to after any minor dental work. The small biopsy site might feel tender when you eat or drink hot liquids. That's normal and temporary. Keep the area clean with gentle salt water rinses. For more on this topic, see our guide on [Common Misconceptions About Tooth Ext...](/article/common-misconceptions-about-tooth-extraction-recovery.html).
+Plan on mild soreness for a few days after—similar to after any minor dental work. The small biopsy site might feel tender when you eat or drink hot liquids. That's normal and temporary. Keep the area clean with gentle salt water rinses. For more on this topic, see our guide on [Common Misconceptions About Tooth Extraction Recovery](/article/common-misconceptions-about-tooth-extraction-recovery.html).
 
 ## Special Considerations for Different Lesions
 
@@ -85,14 +89,19 @@ It's normal to feel anxious about biopsies. You worry about what might be found.
 
 Remember that a biopsy is about getting answers, not causing harm. Knowledge is more powerful than uncertainty. Whether results are good news or bad news, biopsies provide information enabling appropriate care and planning.
 
-## Conclusion: Biopsies Solve Mysteries
+## Conclusion
 
-Your oral tissues naturally shed cells and regenerate constantly. When something unusual persists or looks odd, biopsy reveals what's really happening. Most results are reassuring. Some identify treatable conditions. Occasionally, they catch serious pathology early when treatment is most effective. Every scenario justifies the few minutes a biopsy takes and the small temporary soreness it causes. Talk openly with your dentist about any lesions concerned them, ask why they're recommending biopsy, and trust that getting answers serves your health.
+: Biopsies Solve Mysteries
+
+Your oral tissues naturally shed cells and regenerate constantly. When something unusual persists or looks odd, biopsy reveals what's really happening. Most results are reassuring.
+
+Some identify treatable conditions. Occasionally, they catch serious pathology early when treatment is most effective. Every scenario justifies the few minutes a biopsy takes and the small temporary soreness it causes. Talk openly with your dentist about any lesions concerned them, ask why they're recommending biopsy, and trust that getting answers serves your health.
 
 > **Key Takeaway:** A biopsy is the only reliable way to determine what an unusual mouth lesion actually is. Most turn out to be benign, but some catch serious conditions early when treatment works best. It's a quick, minimally invasive procedure providing crucial diagnostic information.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
 - [Oral Cancer Screening and Early Detection](/article/oral-cancer-screening-and-early-detection.html)
 - [Mouth Ulcers and Canker Sores: Treatment and Prevention](/article/mouth-ulcers-and-canker-sores-treatment-and-prevention.html)
 - [Understanding Your Dental Exam Results](/article/dental-examination-types-what-you-need-to-know.html)
+

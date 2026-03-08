@@ -44,7 +44,7 @@ reviewer_specialty: Pediatric Dentistry
 slug: primary-tooth-mobility-when-to-extract
 subcategory: Pediatric Overview
 subcategory_slug: overview-peds
-title: When Should Your Child's Baby Tooth Be Pulled? Signs of...
+title: Primary Tooth Mobility When to Extract
 ---
 
 ## Why Baby Teeth Fall Out: The Natural Process
@@ -91,7 +91,9 @@ Understanding the permanent tooth's development stage helps your dentist make th
 
 When a baby molar is lost prematurely—whether from a cavity, extraction, or injury—the adult molars and premolars behind it can shift forward into the empty space. Research shows that about 30 to 40 percent of children who lose a baby molar too early end up with crowded permanent teeth if the space isn't actively protected. That's a significant number, which is why your dentist might talk about "space maintenance" if your child loses a baby molar before it's ready to shed naturally.
 
-Preventing this space loss is actually easier than treating crowding later. Your dentist might place a small metal device called a space maintainer in the gap left by the extracted tooth. This device holds space and prevents the surrounding teeth from drifting. Some space maintainers are fixed (cemented to nearby teeth), while others can be removed. Your dentist will discuss which type makes sense for your child's situation and how long your child needs to wear it. For more on this topic, see our guide on [Lip Tie And Feeding Difficulties In I...](/article/lip-tie-and-feeding-difficulties-in-infants.html).
+Preventing this space loss is actually easier than treating crowding later. Your dentist might place a small metal device called a space maintainer in the gap left by the extracted tooth. This device holds space and prevents the surrounding teeth from drifting.
+
+Some space maintainers are fixed (cemented to nearby teeth), while others can be removed. Your dentist will discuss which type makes sense for your child's situation and how long your child needs to wear it. For more on this topic, see our guide on [Lip Tie in Babies: Causes, Diagnosis, and Treatment](/article/lip-tie-and-feeding-difficulties-in-infants.html).
 
 The good news is that your dentist doesn't automatically recommend space maintenance for every lost baby molar. Younger children (around ages 6-8) are at higher risk for space loss than older children. Children who already have crowded teeth actually lose less space effectively (their teeth are already crowded, so there's nowhere for the molars to drift). And if the permanent tooth replacement will erupt soon anyway, maintaining space becomes less important. Your dentist assesses all these factors individually rather than using a one-size-fits-all approach.
 
@@ -135,14 +137,17 @@ Teeth that are completely immobile and haven't budged in months despite being we
 
 Trust your instincts and your dentist's expertise. If you're uncertain whether to wait or extract, ask your dentist to explain their reasoning. Good pediatric dentists take time to help families understand why they're recommending what they recommend. If you disagree, you can always ask for a second opinion, but your dentist's recommendation is based on professional examination and years of experience managing tooth transitions.
 
-## Related Articles You May Find Helpful
-
-- [Teething Symptoms: Myths vs. Facts and Safe Relief Strategies](/article/teething-symptoms-and-safe-relief-strategies.html)
-- [Nursing Bottle Decay: Sweetened Beverages and Nighttime Feeding Risks](/article/nursing-bottle-decay-sweetened-beverages-at-night.html)
-- [First Dental Visit: Preparing Your Child and What to Expect](/article/first-dental-visit-preparing-your-child.html)
-
 ## Conclusion
 
-Baby tooth loss is a natural part of childhood development, and most baby teeth fall out on their own without any intervention. Your dentist uses X-rays and physical examination to predict when each tooth will shed naturally, and they recommend extraction only when specific situations make it necessary. Common reasons for extraction include infection, severe decay, ankylosed teeth that won't shed naturally, or when a permanent tooth is positioned abnormally and needs space. Waiting for natural loss is usually the best approach when resorption is progressing normally. If your child loses a baby molar prematurely, space maintenance might prevent future crowding. Over-retained baby teeth can be extracted quickly and simply. Understanding the reasons behind your dentist's recommendations helps you feel confident about caring for your child's developing smile.
+Baby tooth loss is a natural part of childhood development, and most baby teeth fall out on their own without any intervention. Your dentist uses X-rays and physical examination to predict when each tooth will shed naturally, and they recommend extraction only when specific situations make it necessary. Common reasons for extraction include infection, severe decay, ankylosed teeth that won't shed naturally, or when a permanent tooth is positioned abnormally and needs space.
+
+Waiting for natural loss is usually the best approach when resorption is progressing normally. If your child loses a baby molar prematurely, space maintenance might prevent future crowding. Over-retained baby teeth can be extracted quickly and simply. Understanding the reasons behind your dentist's recommendations helps you feel confident about caring for your child's developing smile.
 
 > **Key Takeaway:** Most baby teeth fall out naturally according to a predictable schedule, but some need extraction due to infection, deep decay, ankylosed roots, or when the incoming permanent tooth needs more space. Your dentist uses X-rays and gentle examination to predict whether natural loss will happen soon or whether extraction makes more sense. When a baby molar is lost prematurely, ask your dentist whether space maintenance is needed to prevent crowding of permanent teeth.
+
+## Related Articles
+
+- [Teething Symptoms](/article/teething-symptoms-and-safe-relief-strategies.html)
+- [Nursing Bottle Decay](/article/nursing-bottle-decay-sweetened-beverages-at-night.html)
+- [First Dental Visit: Preparing Your Child](/article/first-dental-visit-preparing-your-child.html)
+

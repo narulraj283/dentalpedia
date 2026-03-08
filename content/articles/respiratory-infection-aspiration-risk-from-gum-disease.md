@@ -19,7 +19,7 @@ reviewer_specialty: Periodontics
 slug: respiratory-infection-aspiration-risk-from-gum-disease
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
-title: 'Gum Disease and Lung Health: Why Your Mouth Affects Your...'
+title: 'Gum Disease and Lung Health: Why Your Mouth Affects'
 ---
 
 ## The Surprising Link Between Your Gums and Your Lungs
@@ -56,7 +56,7 @@ If you have signs of gum disease, especially bleeding gums that don't improve wi
 
 The good news is that maintaining healthy gums protects your lungs. Regular brushing (twice daily with fluoride toothpaste) and daily flossing reduce the bacterial burden in your mouth. Regular dental checkups and professional cleanings remove tartar that harbors bacteria. This keeps the bacterial population in your mouth at normal, manageable levels that your lungs can handle.
 
-If you develop gum disease, prompt professional treatment dramatically reduces your respiratory infection risk. Professional scaling and root planing (deep cleaning) removes the bacterial biofilm and tartar from below your gum line. If you need periodontal therapy, completing it reduces your aspiration risk significantly. For more on this topic, see our guide on [Universal Curette Multiple Area Instr...](/article/universal-curette-multiple-area-instrument.html).
+If you develop gum disease, prompt professional treatment dramatically reduces your respiratory infection risk. Professional scaling and root planing (deep cleaning) removes the bacterial biofilm and tartar from below your gum line. If you need periodontal therapy, completing it reduces your aspiration risk significantly. For more on this topic, see our guide on [Universal Curettes and Area-Specific Instrumentation](/article/universal-curette-multiple-area-instrument.html).
 
 Regular antimicrobial rinses or prescription rinses, if recommended by your dentist, can reduce bacterial levels. Some dentists recommend using these rinses for patients at high aspiration risk. Good oral hygiene isn't just about preventing cavities—it's about protecting your whole body.
 
@@ -72,16 +72,17 @@ After dental surgery, including extractions or implant placement, your gums are 
 
 When you're sick with a cold or respiratory infection, maintain your gum health diligently. Your immune system is already fighting off infection, and gum disease would create additional bacterial challenges. When you're under stress or sleeping poorly, your immune function declines and your gums become more vulnerable.
 
-## Conclusion: Your Mouth and Lungs Are Connected
+## Conclusion
+
+: Your Mouth and Lungs Are Connected
 
 Your gums play a role in protecting your overall health, not just your teeth. Gum disease isn't a cosmetic or purely dental problem—it's a whole-body health issue that increases respiratory infection risk, especially in vulnerable populations. Maintaining healthy gums through daily home care, regular professional cleanings, and prompt treatment of any gum disease protects both your mouth and your lungs.
 
-## Key Takeaway
-
-Bacteria from gum disease can be aspirated into your lungs, increasing your risk of respiratory infections and pneumonia. Older adults, people with swallowing difficulties, and hospitalized patients face the highest risk. Maintaining healthy gums through brushing, flossing, and regular professional care reduces this aspiration risk significantly. If you develop gum disease, prompt professional treatment protects your lungs as well as your teeth.
+> **Key Takeaway:** Bacteria from gum disease can be aspirated into your lungs, increasing your risk of respiratory infections and pneumonia. Older adults, people with swallowing difficulties, and hospitalized patients face the highest risk. Maintaining healthy gums through brushing, flossing, and regular professional care reduces this aspiration risk significantly. If you develop gum disease, prompt professional treatment protects your lungs as well as your teeth.
 
 ## Related Articles
 
-- [Gum Disease Progression: From Gingivitis to Periodontitis](/article/gum-disease-stages-gingivitis-to-periodontitis.html)
+- [Gum Disease Stages: Gingivitis to Periodontitis](/article/gum-disease-stages-gingivitis-to-periodontitis.html)
 - [Preventing Gum Disease: Your Complete Guide](/article/gum-disease-prevention-complete-guide.html)
 - [Understanding Your Gum Health and Overall Wellness](/article/periodontal-disease-and-tooth-loss-prevention.html)
+

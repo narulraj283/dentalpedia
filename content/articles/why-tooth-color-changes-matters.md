@@ -45,7 +45,7 @@ As you age, your teeth naturally become slightly darker and more yellow-toned. T
 
 **Individual variation is huge**: Some people's teeth darken almost imperceptibly over decades, darkening only 1–2 shades per decade. Others show dramatic darkening from 3+ shades per decade. This reflects genetics and lifestyle factors like coffee and wine consumption.
 
-This natural darkening doesn't usually indicate that you need treatment—it's expected aging. But if you find it bothering you cosmetically, [teeth whitening options](/article/why-teeth-whitening-results-matters.html) can brighten teeth effectively.
+This natural darkening doesn't usually indicate that you need treatment—it's expected aging. But if you find it bothering you cosmetically, [Teeth Whitening Options](/article/why-teeth-whitening-results-matters.html) can brighten teeth effectively.
 
 ## Staining From Daily Habits: Surface Discoloration
 
@@ -71,7 +71,7 @@ Internal staining (intrinsic staining) happens when pigmented substances incorpo
 
 **Dental fluorosis**: Excessive fluoride exposure during tooth development (before age 8) can cause mild white spots, yellow-brown staining, or in severe cases, brown discoloration with pitting. This affects both appearance and sometimes structural strength.
 
-**Endodontic treatment (root canal)**: Teeth that have had root canals often darken over 5–10 years afterward due to breakdown of remaining organic tissue inside, metal-containing filling materials, blood products, or leakage from restoration materials. This darkening is common and manageable through [internal bleaching or restoration](/article/why-tooth-structure-layers-matters.html).
+**Endodontic treatment (root canal)**: Teeth that have had root canals often darken over 5–10 years afterward due to breakdown of remaining organic tissue inside, metal-containing filling materials, blood products, or leakage from restoration materials. This darkening is common and manageable through [Internal Bleaching or Restoration](/article/why-tooth-structure-layers-matters.html).
 
 **Systemic diseases**: Rare conditions affecting tooth color include neonatal jaundice (green-yellow staining), porphyria cutanea tarda (red-brown staining), and certain hemoglobinopathies. If you have unusual tooth color in the context of other symptoms, mention it to your dentist.
 
@@ -139,12 +139,13 @@ Don't panic about gradual age-related darkening—that's normal. But sudden chan
 
 Tooth color changes result from multiple causes ranging from normal aging to dietary habits to past medical treatments. Most color changes are harmless and cosmetically treatable. However, sudden localized color changes—particularly gray or black discoloration, or color changes accompanied by swelling—warrant professional evaluation to rule out underlying pathology. Understanding the likely cause helps you determine whether treatment is needed and what options exist.
 
-## Key Takeaway
-
-Teeth naturally darken with age as inner dentin thickens. Surface staining from coffee, wine, smoking, and other habits responds well to professional cleaning and whitening. Internal staining from childhood tetracycline use or excessive fluoride doesn't respond to whitening but can be masked with bonding or veneers. Sudden color changes, particularly gray discoloration or color changes in one tooth, warrant professional evaluation to rule out internal resorption or pulp death. Understanding the cause guides treatment decisions.
+> **Key Takeaway:** Teeth naturally darken with age as inner dentin thickens. Surface staining from coffee, wine, smoking, and other habits responds well to professional cleaning and whitening. Internal staining from childhood tetracycline use or excessive fluoride doesn't respond to whitening but can be masked with bonding or veneers. Sudden color changes, particularly gray discoloration or color changes in one tooth, warrant professional evaluation to rule out internal resorption or pulp death. Understanding the cause guides treatment decisions.
 
 ## Related Articles
 
-- [Why Teeth Whitening Results Matter](/article/why-teeth-whitening-results-matters.html)
 - [How to Dental Examination Types](/article/how-to-dental-examination-types.html)
 - [Smile Improvement Options: Complete Guide](/article/smile-improvement-options-complete-guide.html)
+- [How Often Should You Visit the Dentist? A Guide](/article/dental-checkup-frequency-how-often-should-you-visit.html)
+- [Crown Margin Placement](/article/crown-margin-types-subgingival-vs-supragingival.html)
+- [Your Tooth Extraction Recovery Timeline](/article/how-to-oral-surgery-recovery-timeline.html)
+

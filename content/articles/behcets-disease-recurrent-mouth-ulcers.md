@@ -125,12 +125,13 @@ Behçet's disease causes recurrent painful mouth ulcers and affects other parts 
 
 The good news is that Behçet's disease is manageable. Many people have effective symptom control and maintain good quality of life. Early diagnosis, proper medications, and coordinated care between your medical team lead to the best outcomes. Don't hesitate to seek help if you suspect you have Behçet's disease.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Behçet's disease is a rare condition that causes painful ulcers (sores) in your mouth and other parts of your body.
 
-- [Down Syndrome and Special Oral Health Needs](/article/down-syndrome-and-special-oral-health-needs.html)
-- [Erythema Migrans: Lyme Disease Manifestations in the Oral Region](/article/erythema-migrans-lyme-disease-mouth-rash.html)
+## Related Articles
+
 - [Geographic Tongue: Harmless Pattern on Tongue Surface](/article/geographic-tongue-harmless-pattern-on-tongue-surface.html)
-
-
-> **Key Takeaway:** Behçet's disease is a rare condition that causes painful ulcers (sores) in your mouth and other parts of your body. Your dentist can help you understand what steps are right for your specific needs.
+- [Sjögren's Syndrome and Xerostomia](/article/sjögrens-syndrome-autoimmune-dry-mouth-disease.html)
+- [Oral Candidiasis: Clinical Presentation, Diagnosis, and](/article/thrush-oral-candidiasis-fungal-infection-treatment.html)
+- [Mouth Ulcer Care: What You Need to Know](/article/mouth-ulcer-care-what-you-need-to-know.html)
+- [Canker Sores: When They Mean Something More](/article/oral-aphthous-ulcers-beyond-simple-canker-sores.html)
 

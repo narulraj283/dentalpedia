@@ -1,24 +1,33 @@
 ---
-title: "Antioxidants and Oral Inflammation: Nutritional Support for"
-slug: antioxidants-fighting-oral-inflammation
 category: Dental Nutrition
 category_slug: dental-nutrition
-excerpt: "Your gums don't get sick just because bacteria attack them."
 date: 2026-03-05
+excerpt: Your gums don't get sick just because bacteria attack them.
 read_time: 17 min
+references:
+- Chapple IL, Matthews JB. The role of reactive oxygen species and antioxidants in
+  periodontal and cardiovascular disease. Curr Opin Lipidol. 2007;18(6):591-597.
+- 'Battino M, Bullon P, Wilson M, Newman H. Oxidative injury and inflammatory periodontal
+  diseases: the challenge of anti-oxidative markers to free radicals and antioxidants.
+  Crit Rev Oral Biol Med. 1999;10(4):458-476.'
+- Staudte H, Sigursson TT, Haanaes HR. Oxidative stress in adjacent teeth, an early
+  indicator of peri-implantitis? Eur J Oral Implantol. 2010;3(2):109-119.
+- Grazioso MP, Machen RL, Mondelli RF, Motta RH. A randomized controlled clinical
+  trial of vitamin C supplementation in the treatment of acute and chronic periodontitis.
+  J Clin Periodontol. 2010;37(7):609-616.
+- Amaliya A, Timmerman MF, Loos BG, et al. Adjunctive sub-antimicrobial dose doxycycline
+  and systemic vitamin C in chronic periodontitis. J Clin Periodontol. 2007;34(1):7-17.
+- 'Azzi A, Stocker A. Vitamin E: non-antioxidant roles. Prog Lipid Res. 2000;39(3):231-255.'
+- Peruzzo DC, Benatti BB, Antunes JL, et al. Green tea (Camellia sinensis) extract
+  in preventing plaque formation and gingivitis. J Dent Res. 2008;87(4):349-353.
+- 'Watts PA, Campagna R. Coenzyme Q10 as an adjunctive therapy in periodontal disease:
+  a meta-analysis. J Dent Hyg. 2014;88(3):143-153.'
+reviewed: true
 reviewer_specialty: Dental Nutrition & Periodontology
+slug: antioxidants-fighting-oral-inflammation
 subcategory: Nutritional Medicine
 subcategory_slug: nutritional-medicine
-reviewed: true
-references:
-  - "Chapple IL, Matthews JB. The role of reactive oxygen species and antioxidants in periodontal and cardiovascular disease. Curr Opin Lipidol. 2007;18(6):591-597."
-  - "Battino M, Bullon P, Wilson M, Newman H. Oxidative injury and inflammatory periodontal diseases: the challenge of anti-oxidative markers to free radicals and antioxidants. Crit Rev Oral Biol Med. 1999;10(4):458-476."
-  - "Staudte H, Sigursson TT, Haanaes HR. Oxidative stress in adjacent teeth, an early indicator of peri-implantitis? Eur J Oral Implantol. 2010;3(2):109-119."
-  - "Grazioso MP, Machen RL, Mondelli RF, Motta RH. A randomized controlled clinical trial of vitamin C supplementation in the treatment of acute and chronic periodontitis. J Clin Periodontol. 2010;37(7):609-616."
-  - "Amaliya A, Timmerman MF, Loos BG, et al. Adjunctive sub-antimicrobial dose doxycycline and systemic vitamin C in chronic periodontitis. J Clin Periodontol. 2007;34(1):7-17."
-  - "Azzi A, Stocker A. Vitamin E: non-antioxidant roles. Prog Lipid Res. 2000;39(3):231-255."
-  - "Peruzzo DC, Benatti BB, Antunes JL, et al. Green tea (Camellia sinensis) extract in preventing plaque formation and gingivitis. J Dent Res. 2008;87(4):349-353."
-  - "Watts PA, Campagna R. Coenzyme Q10 as an adjunctive therapy in periodontal disease: a meta-analysis. J Dent Hyg. 2014;88(3):143-153."
+title: 'Antioxidants and Oral Inflammation: Nutritional Support'
 ---
 
 ## Why Your Gums Get Inflamed
@@ -131,12 +140,13 @@ The key: take supplements consistently for 3-6 months, not just a few weeks. Res
 
 This approach supports what your immune system is trying to do naturally—fight disease and heal tissue. It's not an alternative to dental treatment; it's an addition that helps your body do its job better.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Your gums don't get sick just because bacteria attack them.
 
-- [Acidic Foods: Erosion from Citrus and Soda](/article/acidic-foods-erosion-from-citrus-and-soda.html)
-- [B Vitamins and Oral Health](/article/b-vitamins-and-oral-health.html)
+## Related Articles
+
 - [Balanced Diet and Dental Health](/article/balanced-diet-and-dental-health.html)
+- [Supplements - Vitamin D and Bone Health in Dentistry](/article/supplements-vitamin-d-and-bone-health.html)
+- [Refined Carbohydrates Versus Complex](/article/refined-carbs-vs-complex-carbs-decay-risk.html)
 
-
-> **Key Takeaway:** Your gums don't get sick just because bacteria attack them. Your dentist can help you understand what steps are right for your specific needs.
+- [Vitamin A for Tissue Health: Oral Epithelium and Immune](/article/vitamin-a-for-tissue-health.html)
 

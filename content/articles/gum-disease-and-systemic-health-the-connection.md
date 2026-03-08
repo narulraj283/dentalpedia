@@ -31,7 +31,7 @@ references:
 
 ## Your Mouth Is Connected to Your Whole Body
 
-You might think gum disease only affects your teeth and gums. Learning more about [all on four four implant full arch](/article/all-on-four-four-implant-full-arch.html) can help you understand this better. But research in the last two decades has revealed something striking: serious gum disease is linked to multiple chronic health conditions including heart disease, stroke, diabetes complications, respiratory infections, and even pregnancy problems.
+You might think gum disease only affects your teeth and gums. Learning more about [All on Four Four Implant Full Arch](/article/all-on-four-four-implant-full-arch.html) can help you understand this better. But research in the last two decades has revealed something striking: serious gum disease is linked to multiple chronic health conditions including heart disease, stroke, diabetes complications, respiratory infections, and even pregnancy problems.
 
 This isn't to say gum disease causes these conditions—it's more complex than that. But the relationship is real and scientifically proven. Understanding this connection is one of the most important reasons to prevent and treat gum disease seriously.
 
@@ -149,20 +149,22 @@ If you have gum disease, treat it as a serious health issue, not just a dental p
 
 **Consider the Systemic Connection**: When deciding whether to treat gum disease, think beyond your teeth—this is about your whole-body health.
 
-[Learn about the All-on-Four implant option if you need tooth replacement](/article/all-on-four-four-implant-full-arch.html).
+Learn about the All-on-Four implant option if you need tooth replacement.
+
+
+For more information, see [Area-Specific Curettes: Gracey Instrument Design](/article/area-specific-curettes-gracey-instruments.html).
 
 ## Conclusion
 
 The connection between gum disease and systemic health is scientifically well-established. Chronic periodontal inflammation contributes to cardiovascular disease, diabetes complications, respiratory infections, pregnancy problems, and other health conditions. This means treating gum disease isn't just about keeping your teeth—it's about protecting your whole health. If you have gum disease, getting professional treatment and maintaining excellent home care becomes an important part of your overall health strategy.
 
-## Key Takeaway
-
-Untreated gum disease creates chronic inflammation and bacterial exposure that increase your risk for serious health conditions including cardiovascular disease, diabetes complications, respiratory infections, and pregnancy problems. Treating gum disease and maintaining excellent gum health is crucial for your overall health, not just your oral health.
-
-
+> **Key Takeaway:** Untreated gum disease creates chronic inflammation and bacterial exposure that increase your risk for serious health conditions including cardiovascular disease, diabetes complications, respiratory infections, and pregnancy problems. Treating gum disease and maintaining excellent gum health is crucial for your overall health, not just your oral health.
 
 ## Related Articles
 
-- [All-on-Four: Four Implant Full Arch Solution](/article/all-on-four-four-implant-full-arch.html)
 - [Dental Examination Types: What You Need to Know](/article/dental-examination-types-what-you-need-to-know.html)
 - [Intraoral Camera: Cosmetic Documentation](/article/intraoral-camera-cosmetic-documentation-before-and-after.html)
+- [Alcohol and Periodontitis: Increased Risk](/article/alcohol-and-periodontitis-increased-risk.html)
+- [Gum Recession: Causes and Treatment Options](/article/gum-recession-causes-and-treatment-options.html)
+- [Measuring Gum Pockets](/article/probing-depth-measuring-pocket-severity.html)
+

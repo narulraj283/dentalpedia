@@ -118,11 +118,15 @@ This multi-modal approach ensures thorough cleaning and optimal disease control.
 
 ## Pain and Sensitivity Management
 
-Your dentist manages discomfort throughout instrumentation. Local anesthesia numbs your mouth, so you feel pressure and vibration but not pain. However, some people feel sensitivity near the gumline where the root surface is exposed. Your dentist can apply topical anesthetic gel to these sensitive areas before instrumentation. If you're still uncomfortable, signal your dentist—they can provide additional local anesthetic. Some patients benefit from taking ibuprofen 30 minutes before their appointment to reduce post-treatment inflammation. Your dentist wants you comfortable; speaking up about discomfort during treatment ensures they can adjust their approach.
+Your dentist manages discomfort throughout instrumentation. Local anesthesia numbs your mouth, so you feel pressure and vibration but not pain. However, some people feel sensitivity near the gumline where the root surface is exposed.
+
+Your dentist can apply topical anesthetic gel to these sensitive areas before instrumentation. If you're still uncomfortable, signal your dentist—they can provide additional local anesthetic. Some patients benefit from taking ibuprofen 30 minutes before their appointment to reduce post-treatment inflammation. Your dentist wants you comfortable; speaking up about discomfort during treatment ensures they can adjust their approach.
 
 ## Post-Treatment Sensitivity and Recovery
 
-It's normal to have some sensitivity for 1-2 weeks after deep cleaning. Cold water, cold air, and sweet foods might trigger sensitivity. Using a soft toothbrush, sensitivity toothpaste, and being gentle when brushing helps. Avoid acidic foods and drinks temporarily, as they increase sensitivity. Most sensitivity resolves completely within 2-3 weeks as your gums heal and the root surface toughens. If sensitivity persists beyond 2-3 weeks, see your dentist—occasionally a root canal or bonded restoration is needed to address persistent sensitivity.
+It's normal to have some sensitivity for 1-2 weeks after deep cleaning. Cold water, cold air, and sweet foods might trigger sensitivity. Using a soft toothbrush, sensitivity toothpaste, and being gentle when brushing helps.
+
+Avoid acidic foods and drinks temporarily, as they increase sensitivity. Most sensitivity resolves completely within 2-3 weeks as your gums heal and the root surface toughens. If sensitivity persists beyond 2-3 weeks, see your dentist—occasionally a root canal or bonded restoration is needed to address persistent sensitivity.
 
 ## How Often Is Deep Cleaning Needed?
 
@@ -132,12 +136,13 @@ If your dentist detects gum disease, deep cleaning is a one-time or occasional t
 
 Hand scalers and curettes are essential gum disease treatment tools. When properly used, they effectively remove tartar and bacteria from subgingival areas, essential for disease control. Understanding how these instruments work helps you appreciate your treatment.
 
-## Key Takeaway
-
-Hand scalers and curettes effectively remove tartar and bacteria from below the gumline when used with proper technique. Skilled practitioners minimize tissue trauma while achieving thorough cleaning essential for gum disease management.
+> **Key Takeaway:** Hand scalers and curettes effectively remove tartar and bacteria from below the gumline when used with proper technique. Skilled practitioners minimize tissue trauma while achieving thorough cleaning essential for gum disease management.
 
 ## Related Articles
 
-- [Occlusal trauma: Excessive force and bone loss](/article/occlusal-trauma-excessive-force-and-bone-loss.html)
-- [Host response to bacteria: Why some have disease](/article/host-response-to-bacteria-why-some-have-disease.html)
-- [Gum recession: Causes, stages, and treatment](/article/gum-recession-causes-stages-and-treatment-options.html)
+- [Cost of Gum Disease Stages](/article/cost-of-gum-disease-stages.html)
+- [Clinical Attachment Loss](/article/clinical-attachment-loss-actual-disease-measurement.html)
+- [Cardiovascular Disease and Periodontitis: Bidirectional](/article/cardiovascular-disease-and-periodontitis-bidirectional.html)
+- [Localized vs. Generalized Gum Disease](/article/localized-vs-generalized-disease-distribution.html)
+- [Measuring Gum Pockets](/article/probing-depth-measuring-pocket-severity.html)
+

@@ -43,7 +43,7 @@ As swelling becomes more pronounced, functional problems develop: difficulty eat
 
 ## Investigation: Finding the Cause
 
-Your dentist or doctor will likely recommend a biopsy to confirm granulomatous inflammation. Imaging may be ordered to assess extent of involvement. Screening for systemic disease (Crohn's disease, sarcoidosis) may include blood tests, chest imaging, or gastrointestinal evaluation if you have symptoms suggesting systemic involvement. For more on this topic, see our guide on [Oral Submucous Fibrosis Restricted Mo...](/article/oral-submucous-fibrosis-restricted-mouth-opening.html).
+Your dentist or doctor will likely recommend a biopsy to confirm granulomatous inflammation. Imaging may be ordered to assess extent of involvement. Screening for systemic disease (Crohn's disease, sarcoidosis) may include blood tests, chest imaging, or gastrointestinal evaluation if you have symptoms suggesting systemic involvement. For more on this topic, see our guide on [Oral Submucous Fibrosis](/article/oral-submucous-fibrosis-restricted-mouth-opening.html).
 
 Specific trigger identification often involves careful dietary history. If you chew cinnamon gum, eat cinnamon-containing foods, use cinnamon-flavored dental products, or consume cinnamon supplements, that's a strong suspect trigger. Other possible triggers include various food additives and preservatives.
 
@@ -91,18 +91,19 @@ Regular dental and medical follow-up helps monitor progression and treatment res
 
 If facial nerve involvement is present, document facial function periodically to track any changes in severity or recovery.
 
-> **Key Takeaway:** Orofacial granulomatosis causes persistent mouth and lip swelling from granulomatous inflammation. Some cases are triggered by specific allergens (cinnamon is well-documented), others are associated with systemic disease (Crohn's disease, sarcoidosis), and some remain idiopathic. Intralesional steroid injections help in most cases. Identify and eliminate triggers if possible. Systemic disease must be evaluated and treated if present. Prognosis is variable but most people can achieve reasonable symptom control.
-
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about topics like orofacial granulomatosis. The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
+The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Orofacial granulomatosis causes persistent mouth and lip swelling from granulomatous inflammation. Some cases are triggered by specific allergens (cinnamon is well-documented), others are associated with systemic disease (Crohn's disease, sarcoidosis), and some remain idiopathic. Intralesional steroid injections help in most cases. Identify and eliminate triggers if possible. Systemic disease must be evaluated and treated if present. Prognosis is variable but most people can achieve reasonable symptom control.
 
-- [Mouth Sores and Ulcers: Causes, Treatment, and Prevention](/article/mouth-ulcers-and-canker-sores-treatment-and-prevention.html)
+## Related Articles
+
+- [Mouth Ulcers and Canker Sores: Treatment and Prevention](/article/mouth-ulcers-and-canker-sores-treatment-and-prevention.html)
 - [Gum Swelling: Causes and What You Can Do](/article/gum-disease-stages-complete-guide.html)
-- [Food Allergies and Oral Health: Connection and Management](/article/allergic-reactions-mouth-tongue.html)
+- [Oral Cancer Screening Saves Lives](/article/oral-cancer-screening-and-early-detection.html)
+
+- [Canker Sores: When They Mean Something More](/article/oral-aphthous-ulcers-beyond-simple-canker-sores.html)
+

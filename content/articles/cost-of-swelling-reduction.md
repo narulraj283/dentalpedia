@@ -48,7 +48,7 @@ You probably have ice at home already. This simple, free intervention makes subs
 **Prescription ibuprofen:**
 - Cost: $15-$40 for 30 tablets
 - Stronger than over-the-counter versions
-- Effect: Reduces swelling 30-40% You may also want to read about [normal swelling signs](/article/normal-swelling-signs.html).
+- Effect: Reduces swelling 30-40% You may also want to read about normal swelling signs.
 
 Taking NSAIDs regularly (not waiting until pain is severe) provides better swelling control than reactive dosing.
 
@@ -57,7 +57,7 @@ Taking NSAIDs regularly (not waiting until pain is severe) provides better swell
 **Dexamethasone (most common):**
 - Cost: $10-$30 per dose
 - Single preoperative dose: Reduces swelling 40-50%
-- 3-5 day course: Reduces swelling 50-60% You may also want to read about [pain swelling management](/article/pain-swelling-management.html).
+- 3-5 day course: Reduces swelling 50-60% You may also want to read about pain swelling management.
 
 Your dentist might give you dexamethasone before surgery. This investment ($10-$30) reduces peak swelling significantly.
 
@@ -173,25 +173,34 @@ By managing expectations:
 
 Planning around this timeline prevents anxiety and unnecessary interventions.
 
-
 ## Questions to Ask About Managing Swelling
 
-Ask your dentist or surgeon what level of swelling to expect after your specific procedure and when it should peak. Find out whether you should use ice packs, warm compresses, or both, and the correct timing for each. Ask which over-the-counter anti-inflammatory medications are safe for you to take, especially if you have allergies or take other medications. Find out when swelling becomes concerning enough to call the office. Ask whether sleeping with your head elevated will help and for how many nights. Having clear answers to these questions before your procedure means you can prepare supplies and manage swelling effectively from the start.
+Ask your dentist or surgeon what level of swelling to expect after your specific procedure and when it should peak. Find out whether you should use ice packs, warm compresses, or both, and the correct timing for each. Ask which over-the-counter anti-inflammatory medications are safe for you to take, especially if you have allergies or take other medications.
+
+Find out when swelling becomes concerning enough to call the office. Ask whether sleeping with your head elevated will help and for how many nights. Having clear answers to these questions before your procedure means you can prepare supplies and manage swelling effectively from the start.
 
 ## Preventing Excessive Swelling and Complications
 
-The most effective swelling reduction starts before your procedure. Follow any pre-operative instructions about medications or supplements to avoid. After surgery, apply ice packs immediately—20 minutes on, 20 minutes off—during the first 24 to 48 hours. Switch to warm moist compresses after 48 hours to promote blood flow and healing. Stay hydrated and eat anti-inflammatory foods like berries, leafy greens, and omega-3 rich fish. Avoid salty foods that promote fluid retention and alcohol that increases inflammation. Keep your head elevated above your heart when resting for the first two to three days. These simple steps significantly reduce swelling duration, which means less time off work, less discomfort, and fewer follow-up visits.
-Keep a recovery journal noting your swelling levels each day. This helps you notice improvement trends and gives your dentist useful information at follow-up appointments. Most patients see dramatic improvement by day five, with complete resolution within two weeks for most procedures.
+The most effective swelling reduction starts before your procedure. Follow any pre-operative instructions about medications or supplements to avoid. After surgery, apply ice packs immediately—20 minutes on, 20 minutes off—during the first 24 to 48 hours. Switch to warm moist compresses after 48 hours to promote blood flow and healing. Stay hydrated and eat anti-inflammatory foods like berries, leafy greens, and omega-3 rich fish.
+
+Avoid salty foods that promote fluid retention and alcohol that increases inflammation. Keep your head elevated above your heart when resting for the first two to three days. These simple steps significantly reduce swelling duration, which means less time off work, less discomfort, and fewer follow-up visits. Keep a recovery journal noting your swelling levels each day. This helps you notice improvement trends and gives your dentist useful information at follow-up appointments. Most patients see dramatic improvement by day five, with complete resolution within two weeks for most procedures.
+
+
+For more information, see [Hemostasis: Controlling Surgical Bleeding](/article/hemostasis-controlling-surgical-bleeding.html) and [Complete Guide to Recovery After Tooth Extraction](/article/recovery-after-extraction-complete-guide.html).
+
 ## Conclusion
 
-Postoperative swelling is normal and manageable. Free approaches (ice, elevation, activity restriction) provide 25-35% swelling reduction. Affordable medications (ibuprofen $10, dexamethasone $20) achieve 60-70% swelling reduction total. Combined approach costing $30-$40 provides excellent results without expensive advanced treatments. Managing expectations (realistic swelling timeline) and supporting natural healing (rest, hydration) cost nothing but help tremendously. If swelling seems abnormal or affects breathing, contact your dentist.
+Postoperative swelling is normal and manageable. Free approaches (ice, elevation, activity restriction) provide 25-35% swelling reduction. Affordable medications (ibuprofen $10, dexamethasone $20) achieve 60-70% swelling reduction total.
 
+Combined approach costing $30-$40 provides excellent results without expensive advanced treatments. Managing expectations (realistic swelling timeline) and supporting natural healing (rest, hydration) cost nothing but help tremendously. If swelling seems abnormal or affects breathing, contact your dentist.
 
+> **Key Takeaway:** Learn about swelling after surgery and what you can do to manage it cost-effectively.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [What's Normal Swelling After Extraction](/article/normal-swelling-signs.html)
-- [Managing Pain and Swelling Together](/article/pain-swelling-management.html)
-- [When Swelling Means Problems](/article/abnormal-swelling-warning.html)
+- [Anesthesia Types](/article/anesthesia-types-what-you-need-to-know.html)
+- [Alveolar Ridge Reduction: Lowering High](/article/alveolar-ridge-reduction-lowering-high-ridge.html)
+- [Orthognathic Surgery - Understanding Jaw Correction](/article/surgical-orthodontics-bimaxillary-procedures.html)
+- [Wisdom Teeth Extraction: Surgical Planning and Clinical](/article/cost-of-wisdom-teeth-extraction.html)
+- [Oral Surgical Complications: Classification, Timeline,](/article/timeline-for-surgical-complications.html)
 
-> **Key Takeaway:** Ice (FREE) reduces swelling 25-35%. Adding ibuprofen ($10) and dexamethasone ($20) achieves 60-70% reduction. Total cost for excellent swelling management: $30-$40 in medications plus free ice and elevation. Manage expectations—peak swelling at 48-72 hours is normal. Most resolves in 10-14 days. Call dentist only if swelling seems abnormal or affects breathing.

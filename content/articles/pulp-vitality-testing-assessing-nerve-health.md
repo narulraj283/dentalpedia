@@ -55,9 +55,9 @@ The heat test is useful because it gives your dentist information that cold test
 
 The most advanced test is laser Doppler flowmetry (LDF). This test uses a laser beam to detect blood flow inside your tooth. A laser is shined on the tooth, and the equipment detects shifts in laser light caused by moving blood cells inside the tooth. If there's measurable blood flow, the tooth definitely has a living nerve. If there's no blood flow signal, the tooth is definitely dead.
 
-This test is more accurate than sensation-based tests because it directly measures blood supply rather than just checking if the nerve can feel something. However, laser Doppler flowmetry requires expensive equipment that most dental offices don't have, and it takes careful technique to get reliable results. It's usually only available in specialist endodontics offices, not in general dental practices. For more on this topic, see our guide on [Pulp Vitality Testing Assessing Tooth...](/article/pulp-vitality-testing-assessing-tooth-nerve-health.html).
+This test is more accurate than sensation-based tests because it directly measures blood supply rather than just checking if the nerve can feel something. However, laser Doppler flowmetry requires expensive equipment that most dental offices don't have, and it takes careful technique to get reliable results. It's usually only available in specialist endodontics offices, not in general dental practices. For more on this topic, see our guide on [Pulp Vitality Testing - Assessing Tooth Nerve Health](/article/pulp-vitality-testing-assessing-tooth-nerve-health.html).
 
-[Learn more about what happens when your tooth nerve becomes inflamed and what treatment options exist](/article/root-canal-therapy-complete-pulp-removal.html).
+[Learn more about what happens when your tooth nerve](/article/root-canal-therapy-complete-pulp-removal.html).
 
 ## Why Your Dentist Uses Multiple Tests
 
@@ -81,14 +81,13 @@ If any test causes real pain beyond mild discomfort, let your dentist know. Your
 
 Pulp vitality testing helps your dentist determine if your tooth's nerve is healthy, inflamed, or dead. Your dentist uses multiple tests—cold, heat, electrical, and sometimes laser Doppler—because no single test is 100% reliable. Combined with your symptoms, x-rays, and visual examination, these tests help your dentist make an accurate diagnosis and recommend the right treatment. If the results are unclear, waiting and retesting is often the best approach to get a definitive answer about your tooth's status.
 
-## Key Takeaway
-
-Your dentist doesn't rely on just one nerve test to diagnose your tooth. Instead, they combine cold tests, heat tests, electrical tests, and sometimes advanced laser Doppler testing with your symptoms and x-rays to determine if your tooth's nerve is healthy, inflamed, or dead. If tests show unclear results, waiting a few weeks and retesting gives more reliable diagnostic information than rushing to treatment based on inconclusive results.
+> **Key Takeaway:** Your dentist doesn't rely on just one nerve test to diagnose your tooth. Instead, they combine cold tests, heat tests, electrical tests, and sometimes advanced laser Doppler testing with your symptoms and x-rays to determine if your tooth's nerve is healthy, inflamed, or dead. If tests show unclear results, waiting a few weeks and retesting gives more reliable diagnostic information than rushing to treatment based on inconclusive results.
 
 ## Related Articles
 
-[Root Canal Therapy: Complete Pulp Removal](/article/root-canal-therapy-complete-pulp-removal.html)
+- [Reversible Pulpitis: Can Your Tooth Recover?](/article/reversible-pulpitis-can-tooth-recover.html)
+- [Root Resorption: Dissolving Root Structures](/article/root-resorption-dissolving-root-structures.html)
 
-[Reversible Pulpitis: Can Your Tooth Recover?](/article/reversible-pulpitis-can-tooth-recover.html)
+- [Root Canal Alternatives](/article/root-canal-alternatives-treatment-options.html)
+- [Endodontic File Standardization](/article/file-size-iso-standardization.html)
 
-[Root Resorption: Dissolving Root Structures](/article/root-resorption-dissolving-root-structures.html)

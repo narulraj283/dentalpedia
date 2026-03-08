@@ -39,7 +39,7 @@ reviewer_specialty: Pediatric Dentistry
 slug: pediatric-orthodontics-when-should-my-child-see-an-orthodontist
 subcategory: Pediatric Overview
 subcategory_slug: overview-peds
-title: Pediatric Orthodontics—When Should Your Child See an...
+title: Pediatric Orthodontics When Should My Child See an
 ---
 
 ## When Should Your Child See an Orthodontist?
@@ -58,7 +58,7 @@ Your child's permanent teeth often look crowded or crooked when they first come 
 
 During the age-7 evaluation, the orthodontist looks at several things. They examine how your child's upper and lower jaws are positioned relative to each other—whether the upper jaw is too far forward (Class II) or the lower jaw is too far forward (Class III). They check the bite—whether the upper teeth overlap the lower teeth the right amount, whether there are crossbites (where lower teeth are outside upper teeth), and whether there are any gaps or crowding. They look at whether your child is breathing through their mouth or nose and whether they have other habits like thumb-sucking that might affect tooth position.
 
-The orthodontist will probably take X-rays to see all the permanent teeth hiding under the gums and to evaluate your child's jaw structure. X-rays show which teeth haven't erupted yet and when they're expected to come in. This information helps the orthodontist predict whether crowding will be a problem and whether early treatment might help. See our article on [teething symptoms and safe relief strategies](/article/teething-symptoms-and-safe-relief-strategies.html) for information about normal tooth development.
+The orthodontist will probably take X-rays to see all the permanent teeth hiding under the gums and to evaluate your child's jaw structure. X-rays show which teeth haven't erupted yet and when they're expected to come in. This information helps the orthodontist predict whether crowding will be a problem and whether early treatment might help. See our article on [Teething Symptoms and Safe Relief Strategies](/article/teething-symptoms-and-safe-relief-strategies.html) for information about normal tooth development.
 
 ## Warning Signs That Your Child Needs Early Treatment
 
@@ -70,11 +70,15 @@ If your child breathes mostly through their mouth, has a lopsided face, jaw clic
 
 Early treatment, also called Phase I or interceptive treatment, typically happens ages 7-11 while baby teeth are still present. The goals are different from full braces. Early treatment aims to fix specific problems that respond best to treatment at this age, like correcting crossbites, expanding the upper jaw to prevent crowding, guiding erupting teeth into better positions, and correcting problems that might affect jaw growth.
 
-Early treatment can prevent problems from getting worse. Fixing a crossbite early might prevent the jaw from developing a sideways shift. Expanding the upper jaw might create room for crowding permanent teeth without needing extraction later. Guiding jaw growth with special appliances might reduce a severe underbite that could otherwise require surgery. However, early treatment doesn't always mean your child won't need full braces later. Many children who get Phase I treatment still need Phase II treatment (regular braces) once all permanent teeth erupt. Early treatment simply addresses specific problems at the best time to address them.
+Early treatment can prevent problems from getting worse. Fixing a crossbite early might prevent the jaw from developing a sideways shift. Expanding the upper jaw might create room for crowding permanent teeth without needing extraction later.
+
+Guiding jaw growth with special appliances might reduce a severe underbite that could otherwise require surgery. However, early treatment doesn't always mean your child won't need full braces later. Many children who get Phase I treatment still need Phase II treatment (regular braces) once all permanent teeth erupt. Early treatment simply addresses specific problems at the best time to address them.
 
 ## How Jaw Growth Affects Treatment Timing
 
-Your child's jaws are still growing, and this growth matters for orthodontic treatment. The upper jaw usually finishes growing around age 16-17 in girls and 17-18 in boys. The lower jaw keeps growing longer, sometimes into the late teens or early twenties. Growth happens in bursts, with the biggest growth spurt usually happening around ages 10-13 in girls and 12-15 in boys. This growth spurt is the best time for growth-modification treatments because the orthodontist can work with the body's natural growth rather than against it. For more on this topic, see our guide on [Stainless Steel Crowns Durable Restor...](/article/stainless-steel-crowns-durable-restoration-for-baby-teeth.html).
+Your child's jaws are still growing, and this growth matters for orthodontic treatment. The upper jaw usually finishes growing around age 16-17 in girls and 17-18 in boys. The lower jaw keeps growing longer, sometimes into the late teens or early twenties.
+
+Growth happens in bursts, with the biggest growth spurt usually happening around ages 10-13 in girls and 12-15 in boys. This growth spurt is the best time for growth-modification treatments because the orthodontist can work with the body's natural growth rather than against it. For more on this topic, see our guide on [Stainless Steel Crowns as Durable Restorations for](/article/stainless-steel-crowns-durable-restoration-for-baby-teeth.html).
 
 The orthodontist can estimate how much growth your child has left by looking at X-rays of the neck bones or by checking other growth markers. This helps predict whether early treatment will be effective. Treatments that work with growth are most successful when the child still has significant growth remaining.
 
@@ -94,21 +98,22 @@ Expansion feels strange but isn't painful for most kids. Some children notice a 
 
 If your child's lower jaw is positioned too far back (Class II), special removable appliances called functional appliances can help. These appliances position the lower jaw forward and encourage it to grow forward as the child grows. Over time, this can reduce the underbite without surgery. Success depends on your child's remaining growth and willingness to wear the appliance. These appliances work best during the growth spurt years.
 
-
+*Always consult your dentist to determine the best approach for your individual situation.*
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about topics like pediatric orthodontics—when should your child see an.... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
+... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
-## Key Takeaway
+However, your orthodontist will be honest about whether early treatment is truly needed—many children with normal variation don't require it. If early treatment is recommended, understand that Phase I addresses specific problems and many children still need Phase II (full braces) once permanent teeth erupt. Coordinating care between your child's pediatric dentist and orthodontist ensures the best timing and treatment approach for your child.
 
-Getting your child evaluated by an orthodontist by age 7 is a smart decision even if treatment isn't needed yet. Early evaluation identifies problems that might benefit from treatment while your child's jaws are still growing. Early treatment can prevent some problems from getting worse, might reduce the need for extraction later, and can guide growth in favorable directions. However, your orthodontist will be honest about whether early treatment is truly needed—many children with normal variation don't require it. If early treatment is recommended, understand that Phase I addresses specific problems and many children still need Phase II (full braces) once permanent teeth erupt. Coordinating care between your child's pediatric dentist and orthodontist ensures the best timing and treatment approach for your child.
+> **Key Takeaway:** Getting your child evaluated by an orthodontist by age 7 is a smart decision even if treatment isn't needed yet. Early evaluation identifies problems that might benefit from treatment while your child's jaws are still growing. Early treatment can prevent some problems from getting worse, might reduce the need for extraction later, and can guide growth in favorable directions.
 
 ## Related Articles
 
-- [Stainless Steel Crowns: Durable Restoration for Baby Teeth](/article/stainless-steel-crowns-durable-restoration-for-baby-teeth.html)
 - [Fissure Sealants: Protection for Permanent Molars](/article/fissure-sealant-application-child-prevention.html)
 - [Mouth Breathing in Children: Correction Strategies](/article/mouth-breathing-in-children-correction-strategies.html)
+
+- [Pulpotomy - Removing Infected Pulp in Baby Teeth](/article/pulpotomy-removing-infected-pulp-in-baby-teeth.html)
 

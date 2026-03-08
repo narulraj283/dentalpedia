@@ -33,7 +33,7 @@ Low-risk patients (excellent oral hygiene, no cavities in the past three years, 
 
 ## Low-Risk Patients Can Space Visits Further
 
-If you have excellent teeth and excellent gum health with no bleeding or disease signs, you're low-risk. Learning more about [cost of daily teeth cleaning](/article/cost-of-daily-teeth-cleaning.html) can help you understand this better. Your dentist might recommend annual visits or even stretching to 18 to 24 months between checkups. This reduces your annual preventive spend from $500 (two cleanings) to $150 to $200. Over 20 years, extending visits saves you $1,500 to $4,000 in unnecessary preventive care while maintaining the same cavity and disease protection.
+If you have excellent teeth and excellent gum health with no bleeding or disease signs, you're low-risk. Learning more about [Cost of Daily Teeth Cleaning](/article/cost-of-daily-teeth-cleaning.html) can help you understand this better. Your dentist might recommend annual visits or even stretching to 18 to 24 months between checkups. This reduces your annual preventive spend from $500 (two cleanings) to $150 to $200. Over 20 years, extending visits saves you $1,500 to $4,000 in unnecessary preventive care while maintaining the same cavity and disease protection.
 
 The key: your dentist decides if you're truly low-risk based on your actual health, not just your perception. Having had one cavity 10 years ago doesn't make you low-risk if you have no cavities since then and perfect gums now. Talk to your dentist honestly about your brushing, flossing, and diet habits so they can assess your real risk.
 
@@ -51,7 +51,9 @@ For a patient who had $6,000 worth of periodontal surgery, skipping maintenance 
 
 ## What Professional Cleaning Costs
 
-A standard cleaning (called prophylaxis) costs $100 to $200. Learning more about [cost of dental examination types](/article/cost-of-dental-examination-types.html) can help you understand this better. This removes above-the-gum deposits and stain. For people with gum disease already present, a deeper cleaning removing below-the-gum deposits (subgingival prophylaxis) costs $150 to $250 and provides more benefit. Most insurance covers two prophylaxis visits yearly at 100%—zero copayment. If you need more visits, you usually pay 50% copayment per extra visit, adding $50 to $100 per visit out-of-pocket.
+A standard cleaning (called prophylaxis) costs $100 to $200. Learning more about [Cost of Dental Examination Types](/article/cost-of-dental-examination-types.html) can help you understand this better. This removes above-the-gum deposits and stain.
+
+For people with gum disease already present, a deeper cleaning removing below-the-gum deposits (subgingival prophylaxis) costs $150 to $250 and provides more benefit. Most insurance covers two prophylaxis visits yearly at 100%—zero copayment. If you need more visits, you usually pay 50% copayment per extra visit, adding $50 to $100 per visit out-of-pocket.
 
 ## Fluoride Applications for High-Risk Patients
 
@@ -73,14 +75,17 @@ Low-risk patients visiting annually cost $150 yearly ($4,500 over 30 years) in p
 
 ## Conclusion
 
-Visit frequency should match your personal cavity and gum disease risk, not a universal six-month rule. Low-risk patients need annual or biennial visits costing $150 to $250 yearly. Moderate-risk patients benefit from semi-annual visits at $250 to $500 yearly, preventing cavities that would cost $1,500 to $2,300. High-risk patients with active decay or gum disease need quarterly visits at $600 to $800 yearly to prevent recurrent disease requiring $800 to $3,000 re-treatment. Insurance typically covers two annual visits at 100%, with copayments for additional visits. Fluoride treatments cost $25 to $35 per application and benefit high-risk patients when applied quarterly. Cost analysis overwhelmingly supports preventive investment, with prevention costs creating 2:1 to 5:1 returns through prevented treatment expenses. Talk to your dentist about your personal risk and the visit frequency that makes sense for your specific situation.
+Visit frequency should match your personal cavity and gum disease risk, not a universal six-month rule. Low-risk patients need annual or biennial visits costing $150 to $250 yearly. Moderate-risk patients benefit from semi-annual visits at $250 to $500 yearly, preventing cavities that would cost $1,500 to $2,300. High-risk patients with active decay or gum disease need quarterly visits at $600 to $800 yearly to prevent recurrent disease requiring $800 to $3,000 re-treatment.
 
+Insurance typically covers two annual visits at 100%, with copayments for additional visits. Fluoride treatments cost $25 to $35 per application and benefit high-risk patients when applied quarterly. Cost analysis overwhelmingly supports preventive investment, with prevention costs creating 2:1 to 5:1 returns through prevented treatment expenses. Talk to your dentist about your personal risk and the visit frequency that makes sense for your specific situation.
 
+> **Key Takeaway:** The old recommendation was that everyone should visit the dentist twice a year. But modern dentistry knows that's not one-size-fits-all.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Cost of Daily Teeth Cleaning](/article/cost-of-daily-teeth-cleaning.html)
-- [Cost of Dental Examination Types and Diagnostic Protocols](/article/cost-of-dental-examination-types.html)
-- [Cost of Flossing Benefits and Interproximal Caries Prevention](/article/cost-of-flossing-benefits.html)
+- [Cost of Flossing Benefits](/article/cost-of-flossing-benefits.html)
+- [Dental Infection Control and CDC/OSHA Compliance](/article/timeline-for-infection-prevention.html)
+- [Bitten Cheek or Tongue](/article/bitten-cheek-or-tongue-treatment-and-when-to-seek-care.html)
+- [Cavity Diagnosis Process: What You Need to Know](/article/cavity-diagnosis-process-what-you-need-to-know.html)
+- [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html)
 
-> **Key Takeaway:** Low-risk patients need annual or biennial visits costing $150 to $250 yearly. Moderate-risk patients benefit from semi-annual visits at $250 to $500 yearly. High-risk patients need quarterly visits at $600 to $800 yearly. Insurance covers two annual visits at 100%, with copayments for additional visits. Prevention costs return 2:1 to 5:1 in avoided treatment expenses. Talk to your dentist about which visit frequency is right for your individual situation.

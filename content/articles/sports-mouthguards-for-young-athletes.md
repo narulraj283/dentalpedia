@@ -1,36 +1,48 @@
 ---
-title: "Mouthguards for Young Athletes: Selection, Fitting, and"
-slug: sports-mouthguards-for-young-athletes
 category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: "Evidence-based recommendations for selecting, fitting, and maintaining sports mouthguards to prevent dental and craniofacial injuries in youth athletes."
 date: 2026-03-05
+excerpt: Evidence-based recommendations for selecting, fitting, and maintaining sports
+  mouthguards to prevent dental and craniofacial injuries in youth athletes.
 read_time: 11 min
+references:
+- title: Labella CR, Smith BW, Sigurdsson A. Effect of mouthguards on dental injuries
+    and concussions in college athletes. Med Sci Sports Exerc. 2002;34(12):1985-1989.
+  url: https://pubmed.ncbi.nlm.nih.gov/12471307
+- title: 'Lipton GE, Johnson DL, Rhee PC. Dental injuries during sports participation:
+    epidemiology and etiology. Sports Med Oral Health Perspect. 2018;2(1):15-22.'
+  url: https://pubmed.ncbi.nlm.nih.gov/29326950
+- title: Marechal MJ, Chlasta W, Dumke K. Mouthguard construction and design characteristics
+    in youth sports. Pediatr Dent J. 2015;37(2):137-142.
+  url: https://pubmed.ncbi.nlm.nih.gov/26117903
+- title: Bourdin C, Brunet-Guedj E, Taïbi S, Baghdiguian S, Oliva-Harrer M, Cambier
+    E, Arnaud MJ, Marini JF. Influence of mouthguards on the performance of young
+    basketball players. Br J Sports Med. 2006;40(4):350-353.
+  url: https://pubmed.ncbi.nlm.nih.gov/16556789
+- title: Cortes LM, Kerr ZY, Marshall SW. Epidemiology of dental and orofacial injuries
+    in contact sports. Dent Traumatol. 2015;31(5):350-358.
+  url: https://pubmed.ncbi.nlm.nih.gov/25953376
+- title: 'Okeson JP. Management of Temporomandibular Disorders and Occlusion. 8th
+    ed. St. Louis: Elsevier; 2020. Chapter on mouthguard design and materials.'
+  url: https://pubmed.ncbi.nlm.nih.gov/32049568
+- title: O'Neill B, Davis MT. A comprehensive review of the literature on protective
+    mouthguards. J Dent Public Health. 2017;78(3):214-228.
+  url: https://pubmed.ncbi.nlm.nih.gov/22282732
+- title: 'Sanchez JC, de la Hoz AC, Ruiz-Díaz A. Effectiveness of custom-made mouthguards
+    in youth athletes: prospective cohort study. Int J Dent. 2016;2016:5637914.'
+  url: https://pubmed.ncbi.nlm.nih.gov/27818633
+- title: 'Bamgbose BO, Akinbami BOJ, Segun AF. Prevalence and pattern of dental injuries
+    in contact athletes: case report and systematic review. Afr J Med Med Sci. 2008;37(2):99-108.'
+  url: https://pubmed.ncbi.nlm.nih.gov/19046879
+- title: Stokes J, Beazoglou T, Lohr K. Economic aspects of sports dentistry and mouthguard
+    provision. Compend Contin Educ Dent. 2009;30(5):264-270.
+  url: https://pubmed.ncbi.nlm.nih.gov/19496505
+reviewed: true
 reviewer_specialty: Sports Dentistry
+slug: sports-mouthguards-for-young-athletes
 subcategory: General Dentistry
 subcategory_slug: overview-sports
-reviewed: true
-references:
-  - title: "Labella CR, Smith BW, Sigurdsson A. Effect of mouthguards on dental injuries and concussions in college athletes. Med Sci Sports Exerc. 2002;34(12):1985-1989."
-    url: https://pubmed.ncbi.nlm.nih.gov/12471307
-  - title: "Lipton GE, Johnson DL, Rhee PC. Dental injuries during sports participation: epidemiology and etiology. Sports Med Oral Health Perspect. 2018;2(1):15-22."
-    url: https://pubmed.ncbi.nlm.nih.gov/29326950
-  - title: "Marechal MJ, Chlasta W, Dumke K. Mouthguard construction and design characteristics in youth sports. Pediatr Dent J. 2015;37(2):137-142."
-    url: https://pubmed.ncbi.nlm.nih.gov/26117903
-  - title: "Bourdin C, Brunet-Guedj E, Taïbi S, Baghdiguian S, Oliva-Harrer M, Cambier E, Arnaud MJ, Marini JF. Influence of mouthguards on the performance of young basketball players. Br J Sports Med. 2006;40(4):350-353."
-    url: https://pubmed.ncbi.nlm.nih.gov/16556789
-  - title: "Cortes LM, Kerr ZY, Marshall SW. Epidemiology of dental and orofacial injuries in contact sports. Dent Traumatol. 2015;31(5):350-358."
-    url: https://pubmed.ncbi.nlm.nih.gov/25953376
-  - title: "Okeson JP. Management of Temporomandibular Disorders and Occlusion. 8th ed. St. Louis: Elsevier; 2020. Chapter on mouthguard design and materials."
-    url: https://pubmed.ncbi.nlm.nih.gov/32049568
-  - title: "O'Neill B, Davis MT. A comprehensive review of the literature on protective mouthguards. J Dent Public Health. 2017;78(3):214-228."
-    url: https://pubmed.ncbi.nlm.nih.gov/22282732
-  - title: "Sanchez JC, de la Hoz AC, Ruiz-Díaz A. Effectiveness of custom-made mouthguards in youth athletes: prospective cohort study. Int J Dent. 2016;2016:5637914."
-    url: https://pubmed.ncbi.nlm.nih.gov/27818633
-  - title: "Bamgbose BO, Akinbami BOJ, Segun AF. Prevalence and pattern of dental injuries in contact athletes: case report and systematic review. Afr J Med Med Sci. 2008;37(2):99-108."
-    url: https://pubmed.ncbi.nlm.nih.gov/19046879
-  - title: "Stokes J, Beazoglou T, Lohr K. Economic aspects of sports dentistry and mouthguard provision. Compend Contin Educ Dent. 2009;30(5):264-270."
-    url: https://pubmed.ncbi.nlm.nih.gov/19496505
+title: 'Mouthguards for Young Athletes: Selection, Fitting'
 ---
 
 ## Why Mouthguards Matter for Young Athletes
@@ -39,7 +51,7 @@ Every year, thousands of young athletes suffer dental and mouth injuries that co
 
 ## The Three Types of Mouthguards and How They Compare
 
-Mouthguards come in three basic types, each with different costs and protection levels. Learn more about [teeth trauma statistics in](/article/teeth-trauma-statistics-in-sports.html) for additional guidance. Understanding the differences helps you make the right choice for your child.
+Mouthguards come in three basic types, each with different costs and protection levels. Learn more about [Teeth Trauma Statistics in](/article/teeth-trauma-statistics-in-sports.html) for additional guidance. Understanding the differences helps you make the right choice for your child.
 
 Stock mouthguards are pre-formed and cost $5-15. They come in limited sizes and don't fit anyone perfectly—they're loose and bulky. Kids often hate them because they interfere with breathing and speech, and they don't stay in place well. They offer only about half the protection of custom mouthguards. Stock mouthguards are okay as a last resort if custom options aren't available, but they're not ideal for serious athletes.
 
@@ -93,12 +105,12 @@ Mixed dentition athletes (with some baby teeth and some permanent teeth) sometim
 
 Mouthguard selection should balance protective efficacy, wearability, and compliance. While custom-fabricated mouthguards provide superior protection and higher compliance through improved comfort and performance characteristics, boil-and-bite options represent appropriate middle-ground choices when properly fitted. Stock mouthguards are acceptable only when superior options are genuinely unavailable. Regardless of type, proper fitting, routine replacement as children grow, and maintenance ensure your young athlete receives continuous protection throughout their sporting career. The investment in a proper mouthguard—whether custom-made or carefully fitted boil-and-bite—is far less than the cost of treating a knocked-out tooth, jaw fracture, or other sports-related dental injury.
 
-## Key Takeaway
-
-Custom-fitted mouthguards provide superior protection for young athletes and encourage compliance through better comfort, while boil-and-bite options with proper fitting offer reasonable middle-ground protection and cost.
+> **Key Takeaway:** Custom-fitted mouthguards provide superior protection for young athletes and encourage compliance through better comfort, while boil-and-bite options with proper fitting offer reasonable middle-ground protection and cost.
 
 ## Related Articles
 
-- [Teeth Trauma Statistics in Sports](/article/teeth-trauma-statistics-in-sports.html)
 - [Athletic Drink Acidity Effects](/article/athletic-drink-acidity-effects.html)
 - [Teeth Grinding in Athletes: Stress Factor](/article/teeth-grinding-in-athletes-stress-factor.html)
+
+- [Sports and Dental Care: Scheduling Treatment Around](/article/dental-care-schedule-around-competition.html)
+

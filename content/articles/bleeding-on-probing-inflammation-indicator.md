@@ -38,7 +38,9 @@ Similarly, people with poorly controlled diabetes (blood sugar consistently elev
 
 ## What the Numbers Tell You
 
-Your dentist measures multiple sites around each tooth (typically six locations per tooth, so about 168 sites total in a full mouth). The percentage of sites that bleed gives a good overall picture. Healthy gums show 0% bleeding. Early gum disease typically shows 10-40% of sites bleeding. Moderate disease shows 40-70% bleeding. Advanced disease exceeds 70% bleeding.
+Your dentist measures multiple sites around each tooth (typically six locations per tooth, so about 168 sites total in a full mouth). The percentage of sites that bleed gives a good overall picture. Healthy gums show 0% bleeding.
+
+Early gum disease typically shows 10-40% of sites bleeding. Moderate disease shows 40-70% bleeding. Advanced disease exceeds 70% bleeding.
 
 Your dentist also documents whether bleeding is minimal (a tiny spot) or more profuse. If your gums spontaneously bleed even without probing, that suggests more severe inflammation than probing-induced bleeding alone.
 
@@ -73,27 +75,6 @@ In aggressive forms of periodontitis, you may see spontaneous bleeding (gums ble
 In moderate periodontitis, you'll see 40-70% of sites bleeding with deeper pockets and radiographic bone loss. About half to two-thirds of those bleeding sites resolve within eight weeks after professional scaling and root planing, with the remaining sites possibly needing additional treatment.
 
 In severe periodontitis, baseline bleeding exceeds 70%. It takes longer to resolve—typically 40-60% of initially bleeding sites improve within eight weeks, but 20-30% may persist, potentially needing surgical intervention or topical antimicrobial therapy.
-
-
-
-## Related Articles You May Find Helpful
-
-- [Aggressive Periodontitis: Early-Onset Gum Disease](/article/aggressive-periodontitis-early-onset-gum-disease.html)
-- [Aggressive vs Chronic: Disease Progression Rate](/article/aggressive-vs-chronic-disease-progression-rate.html)
-- [Alcohol and Periodontitis: Increased Risk](/article/alcohol-and-periodontitis-increased-risk.html)
-
-
-
-## Conclusion
-
-Taking care of your oral health means staying informed about bleeding on probing inflammation indicator. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
-
-> **Key Takeaway:** Bleeding on probing is your dentist's most reliable early warning sign of gum inflammation—when caught and treated early, it's usually completely reversible.
-
-## Related Articles
-- Gum Disease Stages and Severity Explained
-- Why Your Hygienist Takes Measurements During Cleaning
-- Professional Cleaning Can Stop Bleeding Gums
 
 ## BOP in Specific Periodontal Diagnoses
 
@@ -142,3 +123,18 @@ Maintenance interval determination based on BOP findings at 3-month post-therapy
 ## Summary
 
 Bleeding on probing represents the most clinically valid and reliable indicator of periodontal inflammation, with 96% sensitivity and 82-88% specificity for detecting clinically significant inflammatory lesions. Standardized probing technique (0.25 N force) ensures diagnostic consistency and enables valid longitudinal assessment. BOP response to therapeutic interventions predicts treatment success and long-term stability with high accuracy. Persistent BOP despite mechanical therapy indicates continued disease activity requiring adjunctive intervention (antimicrobial therapy, surgical treatment). Integration of BOP assessment with other clinical parameters (probing depths, attachment levels, radiographic findings) guides diagnostic classification, treatment planning, and outcome assessment throughout the periodontal care continuum.
+
+## Conclusion
+
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+
+> **Key Takeaway:** Bleeding on probing is your dentist's most reliable early warning sign of gum inflammation—when caught and treated early, it's usually completely reversible.
+
+## Related Articles
+
+- [Alcohol and Periodontitis: Increased Risk](/article/alcohol-and-periodontitis-increased-risk.html)
+- [Risk and Concerns with Gum Disease Stages](/article/risk-and-concerns-with-gum-disease-stages.html)
+- [Scaling and Root Planing Non Surgical Gum Treatment](/article/scaling-and-root-planing-non-surgical-gum-treatment.html)
+- [Graft Surgery for Gum Recession Repair](/article/graft-surgery-for-gum-recession-repair.html)
+- [Periodontal Maintenance Protocols and Post-Treatment](/article/timeline-for-gum-health-maintenance.html)
+

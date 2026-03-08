@@ -41,7 +41,9 @@ Complications can happen with any surgery, though most are minor and heal quickl
 
 These happen while you're under anesthesia and your dentist is working.
 
-**Bleeding**: Some bleeding is expected during surgery. Your dentist controls it with pressure, medication in your anesthetic, and special techniques like bone wax or cautery. Excessive bleeding is rare and usually stops with proper care. **Jaw fracture**: The lower jaw can crack if bone is weak or too much force is used during extraction. This is very rare. Your dentist prevents it with careful technique and proper surgical planning. **Nerve injury**: The nerves controlling sensation to your lower lip or tongue are near extraction sites. Bumping them causes temporary tingling; stretching them can cause temporary numbness. Complete nerve cuts are extremely rare and happen with severe trauma.
+**Bleeding**: Some bleeding is expected during surgery. Your dentist controls it with pressure, medication in your anesthetic, and special techniques like bone wax or cautery. Excessive bleeding is rare and usually stops with proper care. **Jaw fracture**: The lower jaw can crack if bone is weak or too much force is used during extraction.
+
+This is very rare. Your dentist prevents it with careful technique and proper surgical planning. **Nerve injury**: The nerves controlling sensation to your lower lip or tongue are near extraction sites. Bumping them causes temporary tingling; stretching them can cause temporary numbness. Complete nerve cuts are extremely rare and happen with severe trauma.
 
 **Sinus opening**: When extracting upper back teeth, the sinus ceiling might open slightly. Small openings (less than 5mm) usually close on their own. Larger openings get patched with bone or membrane to prevent infection and food entry into the sinus.
 
@@ -49,9 +51,13 @@ These happen while you're under anesthesia and your dentist is working.
 
 These happen right after surgery during healing.
 
-**Dry socket**: About 3-5% of normal extractions and 15-20% of impacted wisdom teeth get this. The blood clot breaks down prematurely, leaving the socket empty and painful. This hurts worse than normal socket pain and radiates into the jaw. Smoking, poor hygiene, and hormone use increase risk. Treatment involves gentle cleaning, flushing, and medicated dressings changed every few days. Pain usually improves within 24-48 hours.
+**Dry socket**: About 3-5% of normal extractions and 15-20% of impacted wisdom teeth get this. The blood clot breaks down prematurely, leaving the socket empty and painful. This hurts worse than normal socket pain and radiates into the jaw.
 
-**Infection**: Bacteria multiply in the socket, causing pain, swelling, fever, and pus. This happens in 1-5% of extractions. Treatment includes antibiotics and possibly drainage if an abscess forms. Seek care quickly—spreading infection can become serious. **Swelling**: Your face swells most at 48-72 hours, then gradually improves. Some swelling is normal inflammation. Too much swelling (especially with heat or spreading) suggests infection.
+Smoking, poor hygiene, and hormone use increase risk. Treatment involves gentle cleaning, flushing, and medicated dressings changed every few days. Pain usually improves within 24-48 hours.
+
+**Infection**: Bacteria multiply in the socket, causing pain, swelling, fever, and pus. This happens in 1-5% of extractions. Treatment includes antibiotics and possibly drainage if an abscess forms.
+
+Seek care quickly—spreading infection can become serious. **Swelling**: Your face swells most at 48-72 hours, then gradually improves. Some swelling is normal inflammation. Too much swelling (especially with heat or spreading) suggests infection.
 
 **Bleeding**: Some oozing for a few hours is normal. If bleeding continues heavily, pressure with gauze for 30 minutes usually helps. Disturbing the area (rinsing, spitting, smoking) can restart bleeding. **Limited jaw opening**: Muscle soreness limits how wide you can open your mouth. This resolves within a week with gentle stretching and anti-inflammatory medication.
 
@@ -61,21 +67,23 @@ These take longer to develop.
 
 **Tingling or numbness**: Altered sensation in your lip, chin, or tongue is common after extractions, affecting 1-10% of patients. Most cases resolve within 3-6 months as the nerve heals. Permanent numbness is rare (0.1-0.4%). See your dentist if sensation doesn't improve after 6 months.
 
-**Slow healing**: Some people heal slower than others. Smoking, poor oral hygiene, poor nutrition, or systemic diseases slow healing. Stop smoking, eat well, and keep the area clean to help. **Bone infection**: Very rare but serious. Fever, worsening pain weeks after surgery, and pus suggest this. Treatment needs strong antibiotics and sometimes removal of dead bone. This happens most in people with weak immune systems or diabetes.
+**Slow healing**: Some people heal slower than others. Smoking, poor oral hygiene, poor nutrition, or systemic diseases slow healing. Stop smoking, eat well, and keep the area clean to help. **Bone infection**: Very rare but serious.
+
+Fever, worsening pain weeks after surgery, and pus suggest this. Treatment needs strong antibiotics and sometimes removal of dead bone. This happens most in people with weak immune systems or diabetes.
 
 ## Who Has More Risk
 
 Some people are more likely to have complications.
 
-**Higher risk people**: Older patients, people on blood thinners, smokers, diabetics, those with weak immune systems, and people with severe impactions. Previous failed extraction attempts also increase risk. **What your dentist considers**: How deep the tooth is, whether it's crooked, how long surgery will take, how close it is to nerves and sinuses, and your overall health. Your dentist adjusts the surgical plan based on these factors. Find out more at [why-extraction-complications-matters](/article/why-extraction-complications-matters.html).
+**Higher risk people**: Older patients, people on blood thinners, smokers, diabetics, those with weak immune systems, and people with severe impactions. Previous failed extraction attempts also increase risk. **What your dentist considers**: How deep the tooth is, whether it's crooked, how long surgery will take, how close it is to nerves and sinuses, and your overall health. Your dentist adjusts the surgical plan based on these factors. Find out more at [Why-extraction-complications-matters](/article/why-extraction-complications-matters.html).
 
 ## Preventing Problems
 
-Your dentist's technique matters most. Gentle handling, proper hemostasis, and careful bone removal prevent most complications. You also play a big role by following post-operative instructions. See more at [benefits-of-pain-management-surgery](/article/benefits-of-pain-management-surgery.html).
+Your dentist's technique matters most. Gentle handling, proper hemostasis, and careful bone removal prevent most complications. You also play a big role by following post-operative instructions. See more at [Benefits-of-pain-management-surgery](/article/benefits-of-pain-management-surgery.html).
 
-**After surgery**: Don't rinse or spit forcefully for 24 hours. Don't smoke—it dramatically increases problems. Keep the area clean after 24 hours with gentle salt water rinses. Take prescribed antibiotics completely. Ice for 24 hours, then heat. Elevate your head. Rest and avoid strenuous activity. Call your dentist immediately if you have fever, spreading swelling, difficulty swallowing or breathing, or uncontrolled bleeding.
+**After surgery**: Don't rinse or spit forcefully for 24 hours. Don't smoke—it dramatically increases problems. Keep the area clean after 24 hours with gentle salt water rinses. Take prescribed antibiotics completely.
 
-
+Ice for 24 hours, then heat. Elevate your head. Rest and avoid strenuous activity. Call your dentist immediately if you have fever, spreading swelling, difficulty swallowing or breathing, or uncontrolled bleeding.
 
 ## Questions to Ask Your Dentist
 
@@ -83,13 +91,11 @@ When you visit your dentist to discuss timeline for surgical complications, havi
 
 It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
 
 During any procedure, your comfort is a top priority. Your dental team will make sure you understand what is happening and check in with you regularly. Modern dental techniques and anesthesia options mean that most patients experience minimal discomfort during and after treatment. If you feel anxious about any part of the process, let your dentist know so they can adjust their approach to help you feel more at ease.
-
 
 ## Tips for Long-Term Success
 
@@ -97,19 +103,18 @@ Maintaining good results after dental treatment requires consistent care at home
 
 Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
 
-
 ## Conclusion
 
 Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding oral surgical complications: classification, timeline, helps you feel more confident when discussing options with your dentist and making decisions about your care.
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Most extraction surgeries go smoothly without complications. Understanding the timeline and warning signs helps you spot problems early. Your dentist's careful technique combined with your excellent follow-up care minimizes risk. If complications do occur, they're usually treatable when caught early. Don't hesitate to call your dentist with any concerns.
+> **Key Takeaway:** Most extraction surgeries go smoothly without complications. Understanding the timeline and warning signs helps you spot problems early. Your dentist's careful technique combined with your excellent follow-up care minimizes risk. If complications do occur, they're usually treatable when caught early. Don't hesitate to call your dentist with any concerns.
 
 ## Related Articles
 
-- [Why Extraction Complications Matter](/article/why-extraction-complications-matters.html)
 - [Oral Surgery Recovery Timeline: Complete Guide](/article/oral-surgery-recovery-timeline-complete-guide.html)
-- [Benefits of Pain Management After Surgery](/article/benefits-of-pain-management-surgery.html)
+
+- [Wisdom Teeth Extraction: Surgical Planning and Clinical](/article/cost-of-wisdom-teeth-extraction.html)
+- [Intrusive Luxation](/article/intrusive-luxation-teeth-pushed-into-bone.html)
+

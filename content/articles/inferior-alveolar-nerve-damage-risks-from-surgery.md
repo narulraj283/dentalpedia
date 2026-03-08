@@ -33,7 +33,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/29360262
 ---
 
-If you're having jaw surgery, you may have heard about nerve injury risk. The main nerve supplying sensation to your lower jaw is the inferior alveolar nerve (IAN). While serious nerve injuries are uncommon, understanding the risks helps you make informed decisions and recognize problems if they occur. This guide explains what you need to know about nerve injury, how surgeons minimize risk, and what happens if injury does occur. Learning more about [risk and concerns with pain management surgery](/article/risk-and-concerns-with-pain-management-surgery.html) can help you understand this better.
+If you're having jaw surgery, you may have heard about nerve injury risk. The main nerve supplying sensation to your lower jaw is the inferior alveolar nerve (IAN). While serious nerve injuries are uncommon, understanding the risks helps you make informed decisions and recognize problems if they occur. This guide explains what you need to know about nerve injury, how surgeons minimize risk, and what happens if injury does occur. Learning more about [Risk and Concerns with Pain Management Surgery](/article/risk-and-concerns-with-pain-management-surgery.html) can help you understand this better.
 
 ## Where Is This Nerve and What Does It Do
 
@@ -91,19 +91,7 @@ Incomplete recovery with mild persistent paresthesia is common. Complete baselin
 
 Your surgeon should thoroughly discuss nerve injury risk—both temporary and permanent. You should understand your specific risk factors. Ask about alternative approaches if available. Full informed consent ensures you understand the risks before proceeding.
 
-
-
-## Conclusion
-
-Taking care of your oral health means staying informed about inferior alveolar nerve damage risks from surgery. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
-
-> **Key Takeaway:** Nerve injury during jaw surgery is uncommon but possible. Modern surgical techniques and imaging substantially reduce risk. Most nerve injuries resolve spontaneously within 6-12 months, though some result in persistent mild symptoms. Understanding your personal risk and recovery expectations helps you make informed decisions and manage recovery realistically.
-
-## Related Articles You May Find Helpful
-
-- [Risk and Concerns with Pain Management Surgery](/article/risk-and-concerns-with-pain-management-surgery.html)
-- [Best Practices for Complex Extractions](/article/best-practices-for-complex-extractions.html)
-- [Wisdom Teeth Extraction Complete Guide](/article/wisdom-teeth-extraction-complete-guide.html)
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Neurosensory Disturbance Classification
 
@@ -153,7 +141,9 @@ When nerve injury is suspected intraoperatively, immediate cessation of causativ
 
 Intraoperative neurolysis (careful removal of nerve constricting tissue or hemorrhage) may be beneficial in select circumstances. However, excessive manipulation of injured nerve tissue may cause additional damage. Conservative management with observation often yields better outcomes than aggressive exploration.
 
-Postoperative management emphasizes prevention of secondary injury. Patients should avoid extreme jaw opening that creates traction on healing nerves. Soft diet recommendations reduce mechanical stress. Analgesic management controls pain that may compromise healing. Steroid administration within 72 hours of nerve injury may reduce inflammation and edema, potentially improving recovery. Dosing regimens vary from high-dose corticosteroid protocols (dexamethasone 4mg four times daily for 3-5 days) to conventional protocols.
+Postoperative management emphasizes prevention of secondary injury. Patients should avoid extreme jaw opening that creates traction on healing nerves. Soft diet recommendations reduce mechanical stress.
+
+Analgesic management controls pain that may compromise healing. Steroid administration within 72 hours of nerve injury may reduce inflammation and edema, potentially improving recovery. Dosing regimens vary from high-dose corticosteroid protocols (dexamethasone 4mg four times daily for 3-5 days) to conventional protocols.
 
 ## Nerve Repair and Microsurgical Management
 
@@ -179,5 +169,21 @@ Patients with high-risk anatomical features (canal proximity, anatomical variant
 
 ## Summary
 
-Inferior alveolar nerve injury represents a significant complication of mandibular surgical procedures with incidence varying from 0.4-8.4% depending on procedure complexity and patient factors. Contemporary three-dimensional imaging allows precise preoperative anatomical assessment and risk stratification. Surgical technique modifications including careful osteotomy, appropriate instrumentation, and meticulous hemostasis minimize injury risk. Comprehensive neurosensory assessment establishes injury baseline and guides management. While many injuries resolve spontaneously within 3-6 months, persistent sensory disturbance affects substantial patient populations. Microsurgical repair merits consideration for complete nerve transection with persistent deficits. Thorough informed consent enables appropriate patient understanding of risk and potential consequences.
+Inferior alveolar nerve injury represents a significant complication of mandibular surgical procedures with incidence varying from 0.4-8.4% depending on procedure complexity and patient factors. Contemporary three-dimensional imaging allows precise preoperative anatomical assessment and risk stratification. Surgical technique modifications including careful osteotomy, appropriate instrumentation, and meticulous hemostasis minimize injury risk.
+
+Comprehensive neurosensory assessment establishes injury baseline and guides management. While many injuries resolve spontaneously within 3-6 months, persistent sensory disturbance affects substantial patient populations. Microsurgical repair merits consideration for complete nerve transection with persistent deficits. Thorough informed consent enables appropriate patient understanding of risk and potential consequences.
+
+## Conclusion
+
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+
+> **Key Takeaway:** Nerve injury during jaw surgery is uncommon but possible. Modern surgical techniques and imaging substantially reduce risk. Most nerve injuries resolve spontaneously within 6-12 months, though some result in persistent mild symptoms. Understanding your personal risk and recovery expectations helps you make informed decisions and manage recovery realistically.
+
+## Related Articles
+
+- [Best Practices for Complex Extractions](/article/best-practices-for-complex-extractions.html)
+- [Wisdom Teeth Extraction Complete Guide](/article/wisdom-teeth-extraction-complete-guide.html)
+
+- [Surgical Recovery Timeline—What You Need to Know](/article/recovery-timeline-what-you-need-to-know.html)
+- [Distraction Osteogenesis: Growing New Bone](/article/distraction-osteogenesis-growing-new-bone.html)
 

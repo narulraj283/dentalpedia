@@ -31,7 +31,9 @@ Your wisdom teeth should only be extracted if:
 
 1. You have recurrent infections around the tooth (pericoronitis)—meaning actual episodes of swelling, pain, and systemic symptoms that last longer than 3 days
 2. Orthodontic treatment requires the space (and other space-gaining options aren't possible)
-3. There's a cyst or tumor associated with the tooth (shown on X-rays as enlargement over 2cm)
+3.
+
+There's a cyst or tumor associated with the tooth (shown on X-rays as enlargement over 2cm)
 4. The tooth has no opposing tooth to chew with, making it non-functional
 5. You're having chemotherapy or radiation therapy for cancer
 6. A surgeon needs access to that area for another procedure
@@ -76,7 +78,9 @@ Active bright red bleeding (not just oozing) occurs in only about 2-3% of cases 
 
 Dry socket (alveolar osteitis) is a painful condition where the blood clot dissolves before the socket heals, exposing bone. It happens 5-30% of the time depending on risk factors. Risk factors include: female gender, using oral contraceptives (much higher risk due to hormones affecting blood clotting), smoking, poor oral hygiene, and difficult extractions.
 
-Prevention is critical. Your surgeon will apply chlorhexidine rinse during surgery and prescribe it for 14 days afterward (start on day 2 or 3, use gently). They may place hemostatic agents or clot-stabilizing materials in the socket. Studies show chlorhexidine rinse alone cuts dry socket risk by 30-40%, and combining it with other preventive measures reduces it by 50-60%. If you smoke, quit for at least a week before surgery and ideally longer. If you take oral contraceptives and have multiple teeth extracted, ask your surgeon about timing to minimize risk.
+Prevention is critical. Your surgeon will apply chlorhexidine rinse during surgery and prescribe it for 14 days afterward (start on day 2 or 3, use gently). They may place hemostatic agents or clot-stabilizing materials in the socket.
+
+Studies show chlorhexidine rinse alone cuts dry socket risk by 30-40%, and combining it with other preventive measures reduces it by 50-60%. If you smoke, quit for at least a week before surgery and ideally longer. If you take oral contraceptives and have multiple teeth extracted, ask your surgeon about timing to minimize risk.
 
 ## Nerve Injury: Understanding the Main Risk
 
@@ -100,23 +104,9 @@ Limited mouth opening (trismus) happens to about 8-15% of patients, worst at 24-
 
 Six to eight weeks after extraction, your socket will be healed over. Bone remodeling continues for months. Your surgeon will likely see you 1 week after extraction to check healing, then 6-8 weeks after to confirm complete healing. Any sign of delayed infection (swelling, drainage, fever) after 3-5 days warrants antibiotic therapy.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
-
-## Conclusion
-
-Taking care of your oral health means staying informed about wisdom teeth extraction. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
-
-## Key Takeaway
-
-> **Key Takeaway:** Wisdom teeth should only be extracted if they're causing problems or show signs of future problems—healthy, symptom-free wisdom teeth have a tiny risk of complications and should be monitored instead of removed.
-
-[Extraction alternatives](/article/best-practices-for-tooth-restoration-comparison.html) | [Managing post-operative care](/article/biofilm-maturation-24-hour-plaque-development.html) | [Understanding surgical risks](/article/best-practices-for-tooth-structure-layers.html)
-
-## Long-Term Outcomes and Patient Monitoring
-
-Radiographic assessment 6-8 weeks postoperatively confirms complete healing and absence of socket complications. Minor bone resorption and bony defects adjacent to extraction sites represent normal findings requiring no intervention. Socket epithelialization typically completes 4-6 weeks after extraction; bone maturation and remodeling continue over 6-12 months.
-
-Systematic patient questioning at postoperative visits regarding sensory changes, persistent swelling, pain, or functional limitations enables early identification of delayed complications. Infection (characterized by swelling, purulent drainage, fever, systemic symptoms) occurring >3-5 days postoperatively warrants antibiotic therapy (amoxicillin 500mg TID or clindamycin 300mg QID for 7-10 days) following isolation of causative organism by culture when possible.
+ functional limitations enables early identification of delayed complications. Infection (characterized by swelling, purulent drainage, fever, systemic symptoms) occurring >3-5 days postoperatively warrants antibiotic therapy (amoxicillin 500mg TID or clindamycin 300mg QID for 7-10 days) following isolation of causative organism by culture when possible.
 
 ## Summary
 
@@ -124,8 +114,17 @@ Evidence-based third molar management emphasizes extraction indication rigor—r
 
 Operative technique emphasizing minimal tissue trauma, careful bone removal with heat control, strategic tooth sectioning to reduce force requirements, and meticulous hemostasis combines with chlorhexidine-based alveolar osteitis prevention protocols to minimize morbidity. Comprehensive informed consent addressing realistic complication risks (alveolar osteitis 5-15%, transient paresthesia 0.5-2%, permanent sensory loss 0.05-0.5%) and postoperative instructions emphasizing smoking avoidance, pain management optimization, and swelling reduction strategies substantially improve patient outcomes and satisfaction. Systematic monitoring at 1-week and 3-month intervals enables early identification of delayed complications requiring intervention.
 
+## Conclusion
+
+**Key Takeaway:** 
+
+[Extraction alternatives](/article/best-practices-for-tooth-restoration-comparison.html) | [Managing post-operative care](/article/biofilm-maturation-24-hour-plaque-development.html) | [Understanding surgical risks](/article/best-practices-for-tooth-structure-layers.html)
+
+> **Key Takeaway:** Wisdom teeth should only be extracted if they're causing problems or show signs of future problems—healthy, symptom-free wisdom teeth have a tiny risk of complications and should be monitored instead of removed.
+
 ## Related Articles
 
 - [Best Practices For Recovery Timeline](/article/best-practices-for-recovery-timeline.html)
 - [Best Practices For Tooth Extraction Recovery](/article/best-practices-for-tooth-extraction-recovery.html)
 - [Best Practices For Surgical Complications](/article/best-practices-for-surgical-complications.html)
+

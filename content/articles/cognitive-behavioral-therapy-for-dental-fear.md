@@ -31,7 +31,9 @@ Dental anxiety has real consequences. People who are anxious about the dentist o
 
 ## Understanding Why You Feel Anxious About the Dentist
 
-Dental anxiety usually comes from a mix of factors. Some people had a bad experience at the dentist years ago and never quite got over it. Others worry about pain, loss of control, or embarrassment about the condition of their teeth. Some people's anxiety is connected to a broader anxiety disorder they experience in other areas of life. Many anxious patients catastrophize—they assume the worst will happen and imagine terrible outcomes that are actually quite unlikely. Others have negative self-talk running through their head: "This is going to hurt," "I'll lose control," or "I can't handle this."
+Dental anxiety usually comes from a mix of factors. Some people had a bad experience at the dentist years ago and never quite got over it. Others worry about pain, loss of control, or embarrassment about the condition of their teeth.
+
+Some people's anxiety is connected to a broader anxiety disorder they experience in other areas of life. Many anxious patients catastrophize—they assume the worst will happen and imagine terrible outcomes that are actually quite unlikely. Others have negative self-talk running through their head: "This is going to hurt," "I'll lose control," or "I can't handle this."
 
 The body's response to anxiety is real and physical. When you're anxious about the dentist, your heart rate goes up, your blood pressure rises, and your muscles tense. Your brain becomes hyper-focused on potential threats, and you might not hear reassuring information your dentist is trying to give you. Interestingly, studies show that having a plan and understanding what to expect actually reduces anxiety significantly. Mystery and uncertainty make anxiety worse, while knowledge and predictability make it better.
 
@@ -51,7 +53,9 @@ Research shows that these gradual exposure sessions—especially ones lasting 30
 
 CBT also helps you examine your scary thoughts and replace them with more realistic ones. Your therapist might ask you questions like: "How likely is that to actually happen?" or "What evidence do you have that this will happen?" or "What would you tell a friend who was thinking this way?" Many anxious patients realize they're overestimating danger and underestimating their ability to cope.
 
-For example, if you're worried the dentist will cause severe pain, discussing actual statistics helps. Anesthetics work well about 98-99% of the time. Severe post-operative pain occurs in only about 5-8% of cases. Allergic reactions to dental materials are extremely rare. Seeing these numbers often reduces catastrophic thinking by 30-45%. You still might feel nervous (which is normal), but that nervous feeling isn't based on overblown fears anymore. Learn more about [anesthesia options](/article/common-misconceptions-about-anesthesia-options.html) and [pain management](/article/clove-oil-natural-pain-relief.html).
+For example, if you're worried the dentist will cause severe pain, discussing actual statistics helps. Anesthetics work well about 98-99% of the time. Severe post-operative pain occurs in only about 5-8% of cases.
+
+Allergic reactions to dental materials are extremely rare. Seeing these numbers often reduces catastrophic thinking by 30-45%. You still might feel nervous (which is normal), but that nervous feeling isn't based on overblown fears anymore. Learn more about [Anesthesia Options](/article/common-misconceptions-about-anesthesia-options.html) and [Pain Management](/article/clove-oil-natural-pain-relief.html).
 
 ## Learning Relaxation Techniques
 
@@ -81,10 +85,13 @@ If you do use medication for dental appointments, talk to your dentist and docto
 
 Dental anxiety is real, common, and very treatable. Cognitive behavioral therapy works for most people, combining gradual exposure to dental situations, challenging anxiety-driven thoughts, and learning relaxation techniques. With the right support from a knowledgeable dentist and ideally a therapist trained in dental anxiety, you can significantly reduce your fear and finally get the dental care you need.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** How therapy can help you overcome dental fear and anxiety, what treatment involves, and whether it really works.
 
-- [Understanding Anesthesia Options for Dental Care](/article/common-misconceptions-about-anesthesia-options.html)
-- [Natural Pain Relief: Clove Oil for Dental Discomfort](/article/clove-oil-natural-pain-relief.html)
+## Related Articles
+
 - [Finding the Right Dentist for Your Needs](/article/choosing-a-dentist-finding-right-provider.html)
+- [How Cavities Are Diagnosed: What to Expect](/article/how-to-cavity-diagnosis-process.html)
+- [How Fluid Movement in Your Teeth Causes](/article/dentinal-fluid-movement-and-sensitivity.html)
+- [Oral Thrush](/article/oral-thrush-and-fungal-infections-causes-and-treatment.html)
+- [Cost of Cavity Risk Factors](/article/cost-of-cavity-risk-factors.html)
 
-> **Key Takeaway:** Dental anxiety is treatable through cognitive behavioral therapy, which combines gradual exposure to dental situations, changing anxiety-driven thoughts, and learning relaxation techniques—most people see significant improvement within 8-12 sessions. Talk to your dentist about whether CBT or other anxiety management approaches might help you overcome your fear of dental care.

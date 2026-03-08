@@ -37,7 +37,7 @@ references:
 
 Teeth whitening products use peroxide—either hydrogen peroxide or carbamide peroxide—to break down the color-causing molecules (chromophores) staining your teeth. The concentration of peroxide directly determines how fast your teeth whiten and how much sensitivity you might experience. Higher concentrations whiten faster but carry higher sensitivity risk. Lower concentrations whiten more slowly and gently.
 
-Gels come in different strengths suited for different applications. Learn more about [tooth gap closure complete](/article/tooth-gap-closure-complete-guide.html) for additional guidance. At-home gels use lower concentrations because you're applying them yourself without professional supervision. In-office gels use higher concentrations because your dentist controls application, can manage sensitivity immediately, and can stop treatment if needed.
+Gels come in different strengths suited for different applications. Learn more about [Tooth Gap Closure Complete](/article/tooth-gap-closure-complete-guide.html) for additional guidance. At-home gels use lower concentrations because you're applying them yourself without professional supervision. In-office gels use higher concentrations because your dentist controls application, can manage sensitivity immediately, and can stop treatment if needed.
 
 ## At-Home Whitening: Carbamide Peroxide Concentrations
 
@@ -116,16 +116,19 @@ The American Dental Association recommends professional whitening as safe and ef
 
 Custom tray fitting ensures proper gel contact and gingival protection, reducing sensitivity and optimizing efficacy compared to stock trays.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Whitening gel concentration ranges from 10% carbamide peroxide (at-home, conservative) to 35-40% hydrogen peroxide (in-office, aggressive). Concentration directly determines whitening speed, sensitivity risk, and color rebound potential. Professional application of moderate concentrations (16-22% carbamide or 25-35% hydrogen peroxide) offers optimal balance of safety and efficacy. Understanding concentration helps you choose the right whitening method for your teeth and sensitivity level.
 
-## Key Takeaway
-
-Whitening gel concentration directly determines results and sensitivity: 10% carbamide (conservative, minimal sensitivity) through 35-40% hydrogen peroxide (dramatic results, high sensitivity). Moderate concentrations (15-22% carbamide or 25-35% hydrogen peroxide) offer the best balance for most patients between efficacy and tolerability.
+> **Key Takeaway:** Whitening gel concentration directly determines results and sensitivity: 10% carbamide (conservative, minimal sensitivity) through 35-40% hydrogen peroxide (dramatic results, high sensitivity). Moderate concentrations (15-22% carbamide or 25-35% hydrogen peroxide) offer the best balance for most patients between efficacy and tolerability.
 
 ## Related Articles
 
-- [Tooth Gap Closure: Complete Guide](/article/tooth-gap-closure-complete-guide.html)
 - [Cosmetic Bonding Process](/article/cosmetic-bonding-process-what-you-need-to-know.html)
 - [Before and After Smile: Complete Guide](/article/before-and-after-smile-complete-guide.html)
+
+- [Your Guide to Cosmetic Bonding Process](/article/benefits-of-cosmetic-bonding-process.html)
+- [Digital Smile Design: Planning Your Perfect](/article/digital-smile-design-planning-beautiful-smiles.html)
+

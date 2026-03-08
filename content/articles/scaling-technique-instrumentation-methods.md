@@ -40,7 +40,7 @@ reviewer_specialty: Periodontics
 slug: scaling-technique-instrumentation-methods
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
-title: 'How Dental Scaling Works: Understanding Your Deep...'
+title: Scaling Technique Instrumentation Methods
 ---
 
 ## Understanding the Tools Your Hygienist Uses
@@ -65,7 +65,7 @@ Gracey curettes are specialized—each one is designed for specific tooth areas.
 - Gracey 11/12 for anterior surfaces
 - Gracey 13/14 and 15/16 for proximal (between teeth) surfaces
 
-Each curette has a blade angle optimized for its designated area. This specialization means proper technique becomes more intuitive—the instrument is naturally angled correctly for that area. For more on this topic, see our guide on [Tenacious Calculus Firmly Attached De...](/article/tenacious-calculus-firmly-attached-deposits.html).
+Each curette has a blade angle optimized for its designated area. This specialization means proper technique becomes more intuitive—the instrument is naturally angled correctly for that area. For more on this topic, see our guide on [Tenacious Calculus Removal and Advanced Instrumentation](/article/tenacious-calculus-firmly-attached-deposits.html).
 
 The advantage: less skill required to use correctly. The disadvantage: you need to carry an entire set (17-18 different curettes), and clinicians must remember which curette is for which area.
 
@@ -126,7 +126,7 @@ Proper scaling technique requires:
 4. **Multiple overlapping strokes—systematic coverage rather than single passes**
 5. **Adequate visibility and access—proper lighting, retraction, and positioning**
 
-Skilled hygienists achieve complete calculus removal while minimizing root surface removal through careful technique. Less experienced clinicians sometimes over-instrument (removing excessive root structure) or under-instrument (leaving residual calculus). For more on this topic, see our guide on [Gum Disease Stages Gingivitis To Peri...](/article/gum-disease-stages-gingivitis-to-periodontitis.html).
+Skilled hygienists achieve complete calculus removal while minimizing root surface removal through careful technique. Less experienced clinicians sometimes over-instrument (removing excessive root structure) or under-instrument (leaving residual calculus). For more on this topic, see our guide on [Gum Disease Stages: Gingivitis to Periodontitis](/article/gum-disease-stages-gingivitis-to-periodontitis.html).
 
 ## Assessing Treatment Completeness
 
@@ -179,12 +179,12 @@ This is why your choice of dental provider matters. Ask your dentist about their
 
 Scaling and root planing is both art and science. Your hygienist uses carefully selected instruments with precise technique to remove subgingival calculus and contaminated root surfaces while preserving tooth structure. Understanding the tools and techniques helps you appreciate the expertise involved and supports your commitment to post-treatment home care.
 
-## Key Takeaway
-
-Proper scaling technique requires skill, experience, and appropriate instrument selection. Both hand curettes and ultrasonic scalers have roles. Complete calculus removal with minimal root structure loss supports gum healing and long-term periodontal health.
+> **Key Takeaway:** Proper scaling technique requires skill, experience, and appropriate instrument selection. Both hand curettes and ultrasonic scalers have roles. Complete calculus removal with minimal root structure loss supports gum healing and long-term periodontal health.
 
 ## Related Articles
 
-- [Tenacious Calculus: Firmly Attached Deposits](/article/tenacious-calculus-firmly-attached-deposits.html)
-- [Gum Disease Stages: Gingivitis to Periodontitis](/article/gum-disease-stages-gingivitis-to-periodontitis.html)
 - [Why Gum Disease Stages Matters](/article/why-gum-disease-stages-matters.html)
+
+- [Sonic Scalers - Oscillating Frequency and Subgingival](/article/sonic-scaler-oscillating-frequency.html)
+- [Graft Surgery for Gum Recession Repair](/article/graft-surgery-for-gum-recession-repair.html)
+

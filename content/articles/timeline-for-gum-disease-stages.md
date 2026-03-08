@@ -1,43 +1,58 @@
 ---
-title: "Periodontal Disease Staging and Grading Framework with"
-slug: timeline-for-gum-disease-stages
 category: Periodontics
 category_slug: periodontics
+date: 2026-03-05
+excerpt: Evidence-based staging classification (Stage I-IV), grading system (A/B/C),
+  clinical manifestations, treatment sequencing, and prognosis by stage and.
+read_time: 11 min
+references:
+- title: 'Tonetti MS, Greenwell H, Kornman KS. Staging and grading of periodontitis:
+    Framework and proposal of a new classification and case definition. J Clin Periodontol.
+    2018;45(S20):S149-S161.'
+  url: https://pubmed.ncbi.nlm.nih.gov/29926489
+- title: 'Papapanou PN, Sanz M, Buduneli N, et al. Periodontitis: Consensus report
+    of workgroup 2 of the 2017 World Workshop on the Classification of Periodontal
+    and Peri-Implant Diseases and Conditions. J Clin Periodontol. 2018;45(S20):S162-S189.'
+  url: https://pubmed.ncbi.nlm.nih.gov/29926490
+- title: Needleman I, McGrath C, Floyd P, Biddle A. Impact of oral health on the life
+    quality of periodontal patients. J Clin Periodontol. 2000;27(8):624-630.
+  url: https://pubmed.ncbi.nlm.nih.gov/10959783
+- title: 'Cobb CM. Clinical significance of non-surgical periodontal therapy: an evidence-based
+    perspective of scaling and root planing. J Clin Periodontol. 2002;29(S3):6-16.'
+  url: https://pubmed.ncbi.nlm.nih.gov/12787205
+- title: Teng YT, Taylor GW, Scannapieco F, et al. Periodontal health and systemic
+    health associations in the Third National Health and Nutrition Examination Survey.
+    J Dent Res. 2002;81(6):423-430.
+  url: https://pubmed.ncbi.nlm.nih.gov/12097449
+- title: Genco RJ, Borgnakke WS. Risk factors for periodontal disease. Periodontol
+    2000. 2013;62(1):59-94.
+  url: https://pubmed.ncbi.nlm.nih.gov/23574464
+- title: Salvi GE, Carollo-Bittel B, Lang NP. Effects of anti-infective therapy on
+    the fibroblast expression of MCP-1 and RANTES. J Clin Periodontol. 1998;25(4):256-261.
+  url: https://pubmed.ncbi.nlm.nih.gov/9565274
+- title: Preshaw PM, Heasman PA. Periodontal disease and the risk for systemic diseases.
+    Nat Rev Cardiol. 2012;9(12):728-735.
+  url: https://pubmed.ncbi.nlm.nih.gov/23045262
+- title: Cortelli JR, Scaffa PM, Woellner RN, et al. Comparative analysis of periodontal
+    classification index in epidemiological research. J Clin Periodontol. 2020;47(9):1089-1096.
+  url: https://pubmed.ncbi.nlm.nih.gov/32572953
+reviewed: true
+reviewer_specialty: Periodontology
+slug: timeline-for-gum-disease-stages
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
-excerpt: "Evidence-based staging classification (Stage I-IV), grading system (A/B/C), clinical manifestations, treatment sequencing, and prognosis by stage and."
-date: 2026-03-05
-read_time: 11 min
-reviewer_specialty: Periodontology
-reviewed: true
-references:
-  - title: "Tonetti MS, Greenwell H, Kornman KS. Staging and grading of periodontitis: Framework and proposal of a new classification and case definition. J Clin Periodontol. 2018;45(S20):S149-S161."
-    url: https://pubmed.ncbi.nlm.nih.gov/29926489
-  - title: "Papapanou PN, Sanz M, Buduneli N, et al. Periodontitis: Consensus report of workgroup 2 of the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions. J Clin Periodontol. 2018;45(S20):S162-S189."
-    url: https://pubmed.ncbi.nlm.nih.gov/29926490
-  - title: "Needleman I, McGrath C, Floyd P, Biddle A. Impact of oral health on the life quality of periodontal patients. J Clin Periodontol. 2000;27(8):624-630."
-    url: https://pubmed.ncbi.nlm.nih.gov/10959783
-  - title: "Cobb CM. Clinical significance of non-surgical periodontal therapy: an evidence-based perspective of scaling and root planing. J Clin Periodontol. 2002;29(S3):6-16."
-    url: https://pubmed.ncbi.nlm.nih.gov/12787205
-  - title: "Teng YT, Taylor GW, Scannapieco F, et al. Periodontal health and systemic health associations in the Third National Health and Nutrition Examination Survey. J Dent Res. 2002;81(6):423-430."
-    url: https://pubmed.ncbi.nlm.nih.gov/12097449
-  - title: "Genco RJ, Borgnakke WS. Risk factors for periodontal disease. Periodontol 2000. 2013;62(1):59-94."
-    url: https://pubmed.ncbi.nlm.nih.gov/23574464
-  - title: "Salvi GE, Carollo-Bittel B, Lang NP. Effects of anti-infective therapy on the fibroblast expression of MCP-1 and RANTES. J Clin Periodontol. 1998;25(4):256-261."
-    url: https://pubmed.ncbi.nlm.nih.gov/9565274
-  - title: "Preshaw PM, Heasman PA. Periodontal disease and the risk for systemic diseases. Nat Rev Cardiol. 2012;9(12):728-735."
-    url: https://pubmed.ncbi.nlm.nih.gov/23045262
-  - title: "Cortelli JR, Scaffa PM, Woellner RN, et al. Comparative analysis of periodontal classification index in epidemiological research. J Clin Periodontol. 2020;47(9):1089-1096."
-    url: https://pubmed.ncbi.nlm.nih.gov/32572953
+title: Periodontal Disease Staging and Grading Framework
 ---
 
 ## Understanding Gum Disease Stages
 
-Your dentist might use terms like "Stage 1" or "Stage 2" when talking about gum disease. These stages help describe how serious your gum problems are and what treatment you need. Think of gum disease like a fire—catching it early makes a huge difference in how easy it is to treat. Modern dentistry now has a clear system for identifying where you are on the gum disease timeline so your dentist can create the best plan for your situation. As noted in research about [gum disease stages, from gingivitis to periodontitis](/article/gum-disease-stages-gingivitis-to-periodontitis.html), understanding these stages helps you take control of your oral health.
+Your dentist might use terms like "Stage 1" or "Stage 2" when talking about gum disease. These stages help describe how serious your gum problems are and what treatment you need. Think of gum disease like a fire—catching it early makes a huge difference in how easy it is to treat. Modern dentistry now has a clear system for identifying where you are on the gum disease timeline so your dentist can create the best plan for your situation. As noted in research about [Gum Disease Stages, from Gingivitis to Periodontitis](/article/gum-disease-stages-gingivitis-to-periodontitis.html), understanding these stages helps you take control of your oral health.
 
 ## Stage 1: Early Gum Disease
 
-At Stage 1, you have mild bone loss around your teeth, but most people don't feel any symptoms. Your gums might bleed a little when you brush or floss, but there's usually no pain or obvious changes. The good news? This stage responds really well to treatment. Your dentist will typically use a procedure called scaling and root planing (a deep cleaning) to remove buildup under the gumline. Within 8 to 12 weeks of this treatment plus good home care, your gum disease usually stops getting worse.
+At Stage 1, you have mild bone loss around your teeth, but most people don't feel any symptoms. Your gums might bleed a little when you brush or floss, but there's usually no pain or obvious changes. The good news?
+
+This stage responds really well to treatment. Your dentist will typically use a procedure called scaling and root planing (a deep cleaning) to remove buildup under the gumline. Within 8 to 12 weeks of this treatment plus good home care, your gum disease usually stops getting worse.
 
 With proper maintenance and regular visits every 3 to 6 months, Stage 1 patients keep their teeth for life. The chances of losing teeth from gum disease at this stage are very low—only about 2 to 5 percent over 20 years. This is why catching gum disease early is so important.
 
@@ -71,18 +86,18 @@ Along with stages, your dentist also assigns a "grade" based on how quickly your
 
 ## Your Treatment Plan Based on Stage and Grade
 
-Your dentist creates a personalized plan based on where you are on both the stage and grade scales. Early stage disease (Stage 1 or 2) usually responds well to non-surgical therapy and visits every 3 to 6 months. More advanced disease often needs surgical treatment and visits every 2 to 3 months. The most important thing is to catch gum disease early and follow your dentist's maintenance plan. As mentioned in the article about [crestal bone loss (the topmost bone resorption)](/article/crestal-bone-loss-topmost-bone-resorption.html), understanding what's happening at each level helps you appreciate why your dentist recommends what they do.
+Your dentist creates a personalized plan based on where you are on both the stage and grade scales. Early stage disease (Stage 1 or 2) usually responds well to non-surgical therapy and visits every 3 to 6 months. More advanced disease often needs surgical treatment and visits every 2 to 3 months. The most important thing is to catch gum disease early and follow your dentist's maintenance plan. As mentioned in the article about [Crestal Bone Loss (the Topmost Bone Resorption)](/article/crestal-bone-loss-topmost-bone-resorption.html), understanding what's happening at each level helps you appreciate why your dentist recommends what they do.
 
 ## Conclusion
 
 Gum disease has clear stages, and your dentist can identify exactly where you are in the progression. The stage and grade of your disease directly determine your treatment and how often you need professional care. The best news is that early-stage disease responds very well to treatment, and many people with advanced disease can still save their teeth with commitment to care.
 
-## Key Takeaway
-
-Regular dental visits and good home care are your best defense against gum disease progression. If you have early-stage disease, aggressive treatment now can prevent you from ever reaching more serious stages.
+> **Key Takeaway:** Regular dental visits and good home care are your best defense against gum disease progression. If you have early-stage disease, aggressive treatment now can prevent you from ever reaching more serious stages.
 
 ## Related Articles
 
-- [Gum Disease Stages: From Gingivitis to Periodontitis](/article/gum-disease-stages-gingivitis-to-periodontitis.html)
-- [Crestal Bone Loss: Understanding Topmost Bone Resorption](/article/crestal-bone-loss-topmost-bone-resorption.html)
 - [Graft Surgery for Gum Recession Repair](/article/graft-surgery-for-gum-recession-repair.html)
+
+- [Clinical Attachment Loss](/article/clinical-attachment-loss-actual-disease-measurement.html)
+- [Why Periodontal Maintenance Matters - Disease](/article/why-gum-health-maintenance-matters.html)
+

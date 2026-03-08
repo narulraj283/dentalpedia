@@ -41,7 +41,9 @@ Your mouth heals incredibly fast after tooth extraction or oral surgery. Underst
 
 Your body's first job is stopping the bleeding.
 
-**What happens**: When your tooth is removed, blood vessels break and your body immediately starts clotting. Platelets stick together forming a plug, and coagulation proteins create fibrin strands that strengthen the clot. This happens within minutes. Special growth factors are released that signal your body to start healing. The blood clot is crucial—it's the foundation for everything that comes next. It protects the socket, stops bleeding, and provides chemicals that start tissue rebuilding.
+**What happens**: When your tooth is removed, blood vessels break and your body immediately starts clotting. Platelets stick together forming a plug, and coagulation proteins create fibrin strands that strengthen the clot. This happens within minutes.
+
+Special growth factors are released that signal your body to start healing. The blood clot is crucial—it's the foundation for everything that comes next. It protects the socket, stops bleeding, and provides chemicals that start tissue rebuilding.
 
 **What you can do**: Keep pressure on gauze for 30-45 minutes. The clot needs time to form and strengthen. Avoid rinsing, spitting, or disturbing the area. These actions dislodge the clot and restart bleeding.
 
@@ -53,7 +55,9 @@ Inflammation is your body's cleaning and repair mechanism, though it causes swel
 
 **What you experience**: Pain, swelling, warmth, and slight redness. Expect swelling to peak at days 2-3 then slowly improve. Some patients have fever—a little is okay; high fever suggests infection. Mild to moderate pain is normal.
 
-**Help the process**: Take anti-inflammatory medication (like ibuprofen) to reduce pain and swelling. Use ice for the first 24 hours (20 minutes on, 10 minutes off). Elevate your head with extra pillows. After 24 hours, heat helps. Gentle salt water rinses after 24 hours aid healing. Stay hydrated and eat soft, nutritious food.
+**Help the process**: Take anti-inflammatory medication (like ibuprofen) to reduce pain and swelling. Use ice for the first 24 hours (20 minutes on, 10 minutes off). Elevate your head with extra pillows.
+
+After 24 hours, heat helps. Gentle salt water rinses after 24 hours aid healing. Stay hydrated and eat soft, nutritious food.
 
 ## The Building Phase (Days 4-21)
 
@@ -69,15 +73,19 @@ New tissue starts forming in the socket.
 
 The wound matures and strengthens over months to years.
 
-**What happens**: The initial tissue is replaced with stronger, more organized tissue. Collagen reorganizes along stress lines. Excess blood vessels are pruned away. Normal tissue architecture gradually restores. Bone gradually resorbs (shrinks) as the socket fills in. This phase is slow but important.
+**What happens**: The initial tissue is replaced with stronger, more organized tissue. Collagen reorganizes along stress lines. Excess blood vessels are pruned away.
+
+Normal tissue architecture gradually restores. Bone gradually resorbs (shrinks) as the socket fills in. This phase is slow but important.
 
 **Strength recovery**: Day 3: 5% strength; Week 1: 10%; Week 3: 30%; Week 6: 80%; Month 6: Near normal. Complete remodeling takes 6-12 months.
 
 ## Factors That Help Healing
 
-**Optimize your health**: Don't smoke—it dramatically slows healing. Eat plenty of protein and vitamins. Stay hydrated. **Keep it clean**: Gentle brushing after 24 hours; salt water rinses 4-5 times daily. **Manage swelling**: Ice first 24 hours, then heat. Elevate your head. **Protect the area**: Avoid rinsing or probing at the site. Avoid strenuous activity for a week. **Follow instructions**: Take all prescribed antibiotics. Use any prescribed mouth rinses. Attend follow-up visits.
+**Optimize your health**: Don't smoke—it dramatically slows healing. Eat plenty of protein and vitamins. Stay hydrated. **Keep it clean**: Gentle brushing after 24 hours; salt water rinses 4-5 times daily. **Manage swelling**: Ice first 24 hours, then heat.
 
-Check out [cost-of-anesthesia-options](/article/cost-of-anesthesia-options.html) and [complex-extractions-complete-guide](/article/complex-extractions-complete-guide.html) for more details.
+Elevate your head. **Protect the area**: Avoid rinsing or probing at the site. Avoid strenuous activity for a week. **Follow instructions**: Take all prescribed antibiotics. Use any prescribed mouth rinses. Attend follow-up visits.
+
+Check out [Cost-of-anesthesia-options](/article/cost-of-anesthesia-options.html) and [Complex-extractions-complete-guide](/article/complex-extractions-complete-guide.html) for more details.
 
 ## Factors That Slow Healing
 
@@ -89,14 +97,11 @@ Check out [cost-of-anesthesia-options](/article/cost-of-anesthesia-options.html)
 
 **Warning signs**: Excessive or uncontrolled bleeding, swelling worsening after day 3, severe or increasing pain, fever, pus or purulent drainage, spreading redness, difficulty swallowing or breathing. Call your dentist if you notice any of these.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist to discuss timeline for surgical site healing, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
 
 It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 
 ## What to Expect During Your Visit
 
@@ -104,13 +109,11 @@ Your dentist will begin by examining your mouth and reviewing your dental histor
 
 During any procedure, your comfort is a top priority. Your dental team will make sure you understand what is happening and check in with you regularly. Modern dental techniques and anesthesia options mean that most patients experience minimal discomfort during and after treatment. If you feel anxious about any part of the process, let your dentist know so they can adjust their approach to help you feel more at ease.
 
-
 ## Tips for Long-Term Success
 
 Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
 
 Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
-
 
 ## Conclusion
 
@@ -118,12 +121,14 @@ Taking care of your dental health is one of the best investments you can make in
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
+Following post-operative instructions, not smoking, keeping the area clean, and managing pain and swelling optimizes your recovery. By 3-4 weeks the socket is epithelialized; by 6-12 months complete remodeling is done. The investment in proper healing now pays off with comfortable, healthy tissues for years.
 
-Your mouth heals in predictable phases. Understanding what's normal at each stage helps you know when to call your dentist. Most people heal beautifully without complications. Following post-operative instructions, not smoking, keeping the area clean, and managing pain and swelling optimizes your recovery. By 3-4 weeks the socket is epithelialized; by 6-12 months complete remodeling is done. The investment in proper healing now pays off with comfortable, healthy tissues for years.
+> **Key Takeaway:** Your mouth heals in predictable phases. Understanding what's normal at each stage helps you know when to call your dentist. Most people heal beautifully without complications.
 
 ## Related Articles
 
-- [Cost of Anesthesia Options](/article/cost-of-anesthesia-options.html)
 - [Common Misconceptions About Post-Operative Instructions](/article/common-misconceptions-about-post-operative-instructions.html)
-- [Complex Extractions: Complete Guide](/article/complex-extractions-complete-guide.html)
+
+- [Your Tooth Extraction Healing Timeline](/article/how-to-recovery-timeline.html)
+- [Recovery Timeline Complete Guide](/article/recovery-timeline-complete-guide.html)
+

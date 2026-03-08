@@ -31,7 +31,9 @@ references:
 
 ## Why Your Gums Matter
 
-Your gums do more than just frame your teeth—they're your mouth's foundation. Gum disease is the leading cause of tooth loss in adults, but the good news? It's largely preventable. This guide walks you through practical, proven strategies to keep your gums healthy for life. The key is understanding that gum disease has two stages: gingivitis (early, reversible inflammation) and periodontitis (advanced, permanent damage). Catching the problem early makes all the difference—preventing gingivitis stops the disease before it causes irreversible bone loss.
+Your gums do more than just frame your teeth—they're your mouth's foundation. Gum disease is the leading cause of tooth loss in adults, but the good news? It's largely preventable.
+
+This guide walks you through practical, proven strategies to keep your gums healthy for life. The key is understanding that gum disease has two stages: gingivitis (early, reversible inflammation) and periodontitis (advanced, permanent damage). Catching the problem early makes all the difference—preventing gingivitis stops the disease before it causes irreversible bone loss.
 
 ## How Gum Disease Starts
 
@@ -41,7 +43,9 @@ But here's where it gets serious: in some people, chronic gingivitis progresses 
 
 ## Your Daily Cleaning Routine: The Real Foundation
 
-Your daily efforts matter more than any dental treatment. Brushing twice daily removes about 65-70% of plaque when you do it right. The proper technique? Use gentle, circular motions at a 45-degree angle toward your gumline, covering all surfaces. Spend 2-3 minutes—most people rush through in less than a minute. Avoid aggressive sawing motions; they actually wear down your gums.
+Your daily efforts matter more than any dental treatment. Brushing twice daily removes about 65-70% of plaque when you do it right. The proper technique?
+
+Use gentle, circular motions at a 45-degree angle toward your gumline, covering all surfaces. Spend 2-3 minutes—most people rush through in less than a minute. Avoid aggressive sawing motions; they actually wear down your gums.
 
 Electric toothbrushes, especially oscillating ones, work better than manual brushing, removing 75-80% of plaque. They're particularly helpful if you have limited hand mobility or haven't had success with traditional brushing.
 
@@ -67,7 +71,7 @@ Receding gums expose your tooth roots, which lack enamel protection and are vuln
 
 Smoking is the single biggest modifiable risk factor—smokers face 2-8 times higher periodontitis risk. Quit smoking, and your periodontal health improves significantly within 3-6 months.
 
-If you have diabetes, control it aggressively. Uncontrolled diabetes dramatically increases periodontitis risk, but people with good glucose control have minimal excess risk. If you're diabetic, work closely with your dentist on [gum disease prevention strategies that work](/article/gum-disease-prevention-complete-guide.html).
+If you have diabetes, control it aggressively. Uncontrolled diabetes dramatically increases periodontitis risk, but people with good glucose control have minimal excess risk. If you're diabetic, work closely with your dentist on [Gum Disease Prevention Strategies That Work](/article/gum-disease-prevention-complete-guide.html).
 
 Chronic stress, poor diet, and lack of sleep all compromise immune function and periodontal health. Exercise, meditation, and adequate rest actually protect your gums. Eat antioxidant-rich fruits and vegetables, get enough protein, and include omega-3 fatty acids. These nutrients support tissue integrity and reduce inflammation.
 
@@ -92,26 +96,7 @@ Calcium and phosphate support bone health. Omega-3 fatty acids reduce inflammati
 ## The Maintenance Reality
 
 If you've had periodontitis, your fight isn't over. You need ongoing "maintenance" visits—professional cleanings combined with monitoring. Without consistent professional care, 40-50% of periodontitis patients experience significant disease progression within 1-2 years. These aren't optional visits. Your dentist will create a personalized schedule, typically every 3-12 months.
-
-## Conclusion
-
-Preventing gum disease is about consistent habits and knowing your risk factors. Daily brushing and flossing, regular professional care, and management of controllable risk factors prevent disease in virtually everyone. The hardest part isn't the science—it's staying consistent over months and years. Pick the oral care methods you actually enjoy using, set a regular dentist appointment, and take action at the first sign of trouble.
-
-## Key Takeaway
-
-Gum disease is preventable through a combination of daily care, professional monitoring, and managing risk factors like smoking and stress. Most people never develop periodontitis with appropriate prevention, making it one of your best investments in lifelong tooth health.
-
-## Related Articles
-
-- [Best practices for anesthesia options](/article/best-practices-for-anesthesia-options.html)
-- [Clear aligner technology: How it works and effectiveness](/article/clear-aligner-technology-how-it-works-and-effectiveness.html)
-- [Implant crown selection: Ceramic vs. zirconia](/article/implant-crown-selection-ceramic-vs-zirconia.html)
-
-## References
-
-Löe, H. (1993). Periodontal disease: The sixth complication of diabetes mellitus. Diabetes Care, 16(1), 329-334.
-
-Axelsson, P., & Lindhe, J. (1981). The significance of maintenance care in the treatment of periodontal disease. Journal of Clinical Periodontology, 8(4), 281-294.
+.
 
 Preber, H., & Bergström, J. (1990). The effect of non-surgical treatment on periodontal pockets in smokers and non-smokers. Journal of Clinical Periodontology, 13(4), 319-323.
 
@@ -123,4 +108,19 @@ Nyman, S., Rosling, B., & Lindhe, J. (1975). The effect of progressive tooth mob
 
 Rosling, B., Nyman, S., & Lindhe, J. (1976). The effect of systematic plaque control on bone regeneration in infrabony pockets. Journal of Clinical Periodontology, 3(1), 38-53.
 
-Kinane, D. F., Riggio, M. P., Walker, K. F., et al. (1992). Serum antibodies to oral microorganisms in non-smoking and smoking chronic periodontitis patients. Journal of Clinical Periodontology, 19(1), 1-8.
+Kinane, D. F., Riggio, M. P., Walker, K.
+
+F., et al. (1992). Serum antibodies to oral microorganisms in non-smoking and smoking chronic periodontitis patients. Journal of Clinical Periodontology, 19(1), 1-8.
+
+## Conclusion
+
+Preventing gum disease is about consistent habits and knowing your risk factors. Daily brushing and flossing, regular professional care, and management of controllable risk factors prevent disease in virtually everyone. The hardest part isn't the science—it's staying consistent over months and years. Pick the oral care methods you actually enjoy using, set a regular dentist appointment, and take action at the first sign of trouble.
+
+> **Key Takeaway:** Gum disease is preventable through a combination of daily care, professional monitoring, and managing risk factors like smoking and stress. Most people never develop periodontitis with appropriate prevention, making it one of your best investments in lifelong tooth health.
+
+## Related Articles
+
+- [Best practices for anesthesia options](/article/best-practices-for-anesthesia-options.html)
+- [Clear Aligner Technology](/article/clear-aligner-technology-how-it-works-and-effectiveness.html)
+- [Implant crown selection: Ceramic vs. zirconia](/article/implant-crown-selection-ceramic-vs-zirconia.html)
+

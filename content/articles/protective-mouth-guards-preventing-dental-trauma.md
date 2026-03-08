@@ -1,34 +1,48 @@
 ---
-title: "Protective Mouth Guards: Preventing Dental Trauma"
-slug: protective-mouth-guards-preventing-dental-trauma
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: "Custom-fabricated mouth guards provide superior impact absorption (30-50% force reduction) compared to boil-and-bite and stock guards through precise."
 date: 2026-03-05
+excerpt: Custom-fabricated mouth guards provide superior impact absorption (30-50%
+  force reduction) compared to boil-and-bite and stock guards through precise.
 read_time: 10 min
+references:
+- title: Knapik JJ, Marshall SW, Lee RB, Darakjy SS, Jones SB, Mitchener TA, deFreese
+    VB, Sales JC. Mouth guard use and oral injuries in high school American football.
+    Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007;103(3):318-325.
+  url: https://pubmed.ncbi.nlm.nih.gov/17321437
+- title: Garon MW, Merkle A, Wright JM. An assessment of the effectiveness of a given
+    mouthguard design in the prevention of dental injuries. J Am Dent Assoc. 1986;113(4):665-667.
+  url: https://pubmed.ncbi.nlm.nih.gov/3534098
+- title: Chapman PJ. Attitudes to mouthguards and mouthguard use in Australian football.
+    Aust J Sci Med Sport. 1989;21(2):9-12.
+  url: https://pubmed.ncbi.nlm.nih.gov/2803937
+- title: Kvittem B, Tveit AB, Espelid I, Selvig KA. Traumatic dental injuries in a
+    cohort of 16-year-olds in the city of Oslo. Endod Dent Traumatol. 1997;13(3):116-123.
+  url: https://pubmed.ncbi.nlm.nih.gov/9511683
+- title: Levin L, Friedlander LF, Gerasimov Y, Flores MT. Dental trauma and its long-term
+    consequences. Quintessence Int. 2009;40(9):697-704.
+  url: https://pubmed.ncbi.nlm.nih.gov/19898683
+- title: 'Smaïl-Faugeron V, Muller-Bolla M, Courson F, Durieux P, Faugeron-Leparé
+    F, Glalonde V, Montes de Oca Garcia A. Prevention of traumatic dental injuries
+    in children and adolescents: a systematic review. Dent Traumatol. 2010;26(6):447-455.'
+  url: https://pubmed.ncbi.nlm.nih.gov/20946384
+- title: Damink DD, Hebling E, Pozo JC, Duran I, Bouwstra S, Jhawar N, Meurman JH,
+    Ramachandran A, Walsh LJ. Effectiveness of Mouth Guards in Reducing Head Impact
+    Forces in Rugby Union. Dent Traumatol. 2015;31(1):59-69.
+  url: https://pubmed.ncbi.nlm.nih.gov/25156149
+- title: 'Cummings GR. Mandibular fractures and protective mouthguards: a review.
+    Br J Sports Med. 1985;19(2):78-84.'
+  url: https://pubmed.ncbi.nlm.nih.gov/3896082
+- title: Tanaka A, Takeda T, Yasui T, Higuchi R, Segowa S, Hirasawa T. Effectiveness
+    of mouthguards in preventing orofacial injuries and dental trauma in sport. Dent
+    Traumatol. 2011;27(4):304-313.
+  url: https://pubmed.ncbi.nlm.nih.gov/21722281
+reviewed: true
 reviewer_specialty: General Dentistry
+slug: protective-mouth-guards-preventing-dental-trauma
 subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports
-reviewed: true
-references:
-  - title: "Knapik JJ, Marshall SW, Lee RB, Darakjy SS, Jones SB, Mitchener TA, deFreese VB, Sales JC. Mouth guard use and oral injuries in high school American football. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007;103(3):318-325."
-    url: https://pubmed.ncbi.nlm.nih.gov/17321437
-  - title: "Garon MW, Merkle A, Wright JM. An assessment of the effectiveness of a given mouthguard design in the prevention of dental injuries. J Am Dent Assoc. 1986;113(4):665-667."
-    url: https://pubmed.ncbi.nlm.nih.gov/3534098
-  - title: "Chapman PJ. Attitudes to mouthguards and mouthguard use in Australian football. Aust J Sci Med Sport. 1989;21(2):9-12."
-    url: https://pubmed.ncbi.nlm.nih.gov/2803937
-  - title: "Kvittem B, Tveit AB, Espelid I, Selvig KA. Traumatic dental injuries in a cohort of 16-year-olds in the city of Oslo. Endod Dent Traumatol. 1997;13(3):116-123."
-    url: https://pubmed.ncbi.nlm.nih.gov/9511683
-  - title: "Levin L, Friedlander LF, Gerasimov Y, Flores MT. Dental trauma and its long-term consequences. Quintessence Int. 2009;40(9):697-704."
-    url: https://pubmed.ncbi.nlm.nih.gov/19898683
-  - title: "Smaïl-Faugeron V, Muller-Bolla M, Courson F, Durieux P, Faugeron-Leparé F, Glalonde V, Montes de Oca Garcia A. Prevention of traumatic dental injuries in children and adolescents: a systematic review. Dent Traumatol. 2010;26(6):447-455."
-    url: https://pubmed.ncbi.nlm.nih.gov/20946384
-  - title: "Damink DD, Hebling E, Pozo JC, Duran I, Bouwstra S, Jhawar N, Meurman JH, Ramachandran A, Walsh LJ. Effectiveness of Mouth Guards in Reducing Head Impact Forces in Rugby Union. Dent Traumatol. 2015;31(1):59-69."
-    url: https://pubmed.ncbi.nlm.nih.gov/25156149
-  - title: "Cummings GR. Mandibular fractures and protective mouthguards: a review. Br J Sports Med. 1985;19(2):78-84."
-    url: https://pubmed.ncbi.nlm.nih.gov/3896082
-  - title: "Tanaka A, Takeda T, Yasui T, Higuchi R, Segowa S, Hirasawa T. Effectiveness of mouthguards in preventing orofacial injuries and dental trauma in sport. Dent Traumatol. 2011;27(4):304-313."
-    url: https://pubmed.ncbi.nlm.nih.gov/21722281
+title: 'Protective Mouth Guards: Preventing Dental'
 ---
 
 ## Why Your Mouth Needs Protection During Sports
@@ -61,7 +75,7 @@ Most custom guards are made from EVA in different firmness levels. Softer EVA (r
 
 ## Picking the Right Guard for Your Sport
 
-Different sports hit you in different ways, so there's no one-size-fits-all best mouth guard. Football players get most impacts to their front teeth and face, so a guard with extra thickness in the front makes sense. Hockey is similar but the impacts are harder and faster, so you want maximum protection. Rugby is also about front-facing impacts but with really high forces. For more on this topic, see our guide on [Common Misconceptions About Filling M...](/article/common-misconceptions-about-filling-material-selection.html).
+Different sports hit you in different ways, so there's no one-size-fits-all best mouth guard. Football players get most impacts to their front teeth and face, so a guard with extra thickness in the front makes sense. Hockey is similar but the impacts are harder and faster, so you want maximum protection. Rugby is also about front-facing impacts but with really high forces. For more on this topic, see our guide on [Common Misconceptions About Filling Material Selection](/article/common-misconceptions-about-filling-material-selection.html).
 
 Your dentist can customize a guard based on your sport. Some athletes want a design that covers less of the back of the mouth so they can talk and breathe more easily during the game. This is fine for sports where impacts come mostly from the front, but if you play a sport with hits from all angles, you want full coverage instead.
 
@@ -71,7 +85,7 @@ Here's the hard truth: the best mouth guard in the world doesn't help if you don
 
 A good custom guard shouldn't make you gag or feel suffocated. It should fit right at your gum line without pressing into your gums. Give yourself 2-4 weeks to adjust to any new guard—your mouth learns to accept it with practice. Most athletes who wear their guards during practice before games say the adjustment period is shorter and the transition smoother. Once you're used to it, a well-fitted guard feels almost normal.
 
-[Learn more about keeping your teeth safe during sports by reviewing our guide to athletic mouthguard selection](/article/athletic-mouthguard-custom-vs-stock.html).
+[Learn more about keeping your teeth safe during sports](/article/athletic-mouthguard-custom-vs-stock.html).
 
 ## How to Know Your Guard is Really Working
 
@@ -89,14 +103,13 @@ Check your guard regularly for signs of wear. Look for cracks, permanent dents i
 
 A good mouth guard is one of the smartest investments you can make as an athlete. The research is clear: custom-fitted mouth guards reduce your risk of serious dental injury by more than half if you wear them consistently. Yes, they cost more than stock options and yes, there's an adjustment period. But when you consider that losing a tooth means expensive, complicated dental work for the rest of your life, a mouth guard is cheap insurance. Make it a habit, like putting on your helmet, and you'll protect the smile you worked hard to build.
 
-## Key Takeaway
-
-The best mouth guard for you is one you'll actually wear every time you play. Custom-fitted guards beat boil-and-bite and stock guards for protection, comfort, and likelihood that you'll use them consistently. Ask your dentist about getting a custom guard fitted to your teeth and sport—it's the most reliable way to keep your teeth safe during athletic activity.
+> **Key Takeaway:** The best mouth guard for you is one you'll actually wear every time you play. Custom-fitted guards beat boil-and-bite and stock guards for protection, comfort, and likelihood that you'll use them consistently. Ask your dentist about getting a custom guard fitted to your teeth and sport—it's the most reliable way to keep your teeth safe during athletic activity.
 
 ## Related Articles
 
-[Athletic Mouthguard: Custom vs. Stock Options](/article/athletic-mouthguard-custom-vs-stock.html)
+- [Teeth Knocked Out: Critical First Hour Response](/article/teeth-knocked-out-critical-first-hour.html)
+- [Traumatic Injuries in Sports: Prevention and Recovery](/article/traumatic-injuries-in-sports-prevention.html)
 
-[Teeth Knocked Out: Critical First Hour Response](/article/teeth-knocked-out-critical-first-hour.html)
+- [Medications and Your Teeth](/article/medication-interactions-and-oral-health.html)
+- [Dental Insurance Claim Submission: How It Works](/article/claim-submission-process.html)
 
-[Traumatic Injuries in Sports: Prevention and Recovery](/article/traumatic-injuries-in-sports-prevention.html)

@@ -47,7 +47,7 @@ Some dental practices now use electronic shade measurement (spectrophotometry), 
 
 Your tooth's color comes from three parts working together. Your enamel is the protective outer layer—it's somewhat translucent, meaning light passes through it. Your dentin is the layer underneath—it's naturally yellow-orange. Where they meet is the dentin-enamel junction, which affects how light transmits through your tooth.
 
-The thickness and opacity of your enamel significantly affects perceived color. Thicker enamel appears whiter because it reduces how much yellow dentin shows through. Thinner enamel appears more yellow because more dentin color shows. This is why front teeth typically appear lighter than back teeth—front teeth have thicker enamel despite having similar dentin underneath. For more on this topic, see our guide on [Anterior Restoration Material Selecti...](/article/anterior-restoration-material-selection-cosmetic-considerations.html).
+The thickness and opacity of your enamel significantly affects perceived color. Thicker enamel appears whiter because it reduces how much yellow dentin shows through. Thinner enamel appears more yellow because more dentin color shows. This is why front teeth typically appear lighter than back teeth—front teeth have thicker enamel despite having similar dentin underneath. For more on this topic, see our guide on [Anterior Restoration Material Selection: Cosmetic](/article/anterior-restoration-material-selection-cosmetic-considerations.html).
 
 Your unique enamel mineralization degree affects opacity. More heavily mineralized enamel scatters light differently, appearing whiter. Some people naturally have more mineralized, opaque enamel than others—a variation explaining why some teeth appear inherently whiter than others even without whitening treatment.
 
@@ -61,7 +61,7 @@ Intrinsic stains develop inside your tooth structure from age-related changes, m
 
 Your teeth naturally darken over your lifetime. Enamel gradually wears away through decades of normal use, and your body deposits secondary dentin, which is darker. This progressive yellowing is why your teeth at 60 appear noticeably more yellow than at 30—even without staining.
 
-Stress cracks accumulate in enamel over decades, causing white lines visible with magnification. These stress patterns increase light scattering, making teeth appear less translucent and more opaque. The cumulative effect resembles enamel becoming "cloudy"—still transparent but with increased scattering reducing brightness. For more on this topic, see our guide on [Common Misconceptions About Before An...](/article/common-misconceptions-about-before-and-after-smile.html).
+Stress cracks accumulate in enamel over decades, causing white lines visible with magnification. These stress patterns increase light scattering, making teeth appear less translucent and more opaque. The cumulative effect resembles enamel becoming "cloudy"—still transparent but with increased scattering reducing brightness. For more on this topic, see our guide on [Common Misconceptions About Before and After Smile](/article/common-misconceptions-about-before-and-after-smile.html).
 
 Clinical studies measuring tooth color across age groups find systematic shifts toward yellow-orange tones with advancing age. A person achieving their 30-year-old tooth color at age 60 represents dramatic whitening success—expecting to match their 20-year-old shade would be unrealistic.
 
@@ -77,14 +77,6 @@ The same tooth appears dramatically different under various lighting. Bright whi
 
 Professional shade matching should happen under standardized lighting—ideally natural light from a north-facing window or specially calibrated LED lighting matching natural daylight (5000K color temperature). If your dentist matches shade under office lights only, ask for samples photographed under multiple lighting conditions to verify acceptability in real-world lighting.
 
-## Related Articles You May Find Helpful
-
-- [Anterior Restoration Material Selection: Cosmetic Considerations](/article/anterior-restoration-material-selection-cosmetic-considerations.html)
-- [Cost of Teeth Shade Matching](/article/cost-of-teeth-shade-matching.html)
-- [Before-and-After Smile Expectations: Common Misconceptions](/article/common-misconceptions-about-before-and-after-smile.html)
-
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about your natural tooth shade and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -93,7 +85,6 @@ You might also want to ask about the expected timeline, what the recovery proces
 
 Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
-
 ## Protecting Your Results Long-Term
 
 Once you've addressed your natural tooth shade, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference in how long your results last.
@@ -101,7 +92,6 @@ Once you've addressed your natural tooth shade, maintaining your results require
 Pay attention to any changes in your mouth and report them to your dentist early. Catching small issues before they become bigger problems saves you time, money, and discomfort. Your dentist may recommend specific products or routines based on your treatment.
 
 Diet also plays a role in protecting your dental health. Limiting sugary snacks and acidic drinks helps preserve your teeth and any dental work you've had done. Drinking water throughout the day helps wash away food particles and keeps your mouth hydrated.
-
 
 ## What to Expect During Your Visit
 
@@ -116,3 +106,11 @@ After your appointment, your dentist will give you clear instructions for at-hom
 Your natural tooth shade results from enamel thickness, dentin color, mineralization, and age-related changes. It's influenced by surface stains and internal discoloration. Understanding these factors helps you appreciate your natural color and make informed decisions about whitening or cosmetic work. Remember: lighting dramatically affects how your teeth appear, so judge shade under multiple lighting conditions before making treatment decisions.
 
 > **Key Takeaway:** Your tooth shade depends on enamel thickness and opacity, underlying dentin color, and age-related changes. What looks like one color under office lighting may appear completely different under daylight. Surface stains respond to whitening and professional cleaning, but internal discoloration requires professional whitening or cosmetic restoration. Accept natural yellowing over your lifetime—it's a sign your teeth have been working hard!
+
+## Related Articles
+
+- [Cost of Teeth Shade Matching](/article/cost-of-teeth-shade-matching.html)
+
+- [Anterior Guidance: How Incisor Position Controls Bite](/article/anterior-guidance-incisor-controlling-bite.html)
+- [Your Guide to Cosmetic Bonding Process](/article/benefits-of-cosmetic-bonding-process.html)
+

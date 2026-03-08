@@ -1,24 +1,35 @@
 ---
-title: "Enamel Damage from Braces: Prevention Strategies and"
-slug: enamel-damage-from-braces-prevention
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "Getting braces straightens your teeth and gives you a beautiful smile, but they also create challenges for keeping your teeth healthy."
 date: 2026-03-05
+excerpt: Getting braces straightens your teeth and gives you a beautiful smile, but
+  they also create challenges for keeping your teeth healthy.
 read_time: 9 min
+references:
+- Gorelick L, Geiger AM, Gwinnett AJ. Incidence of white spot formation after bonding
+  and banding. Am J Orthod Dentofacial Orthop. 1982;81(6):461-465.
+- Westerlund A, Ransjö M, Stéen L. White spot lesion formation during orthodontic
+  treatment. Eur J Orthod. 2017;39(6):649-656.
+- 'Ogaard B. Prevalence of white spot lesions in 19-year-olds: a study on untreated
+  and orthodontically treated persons 5 years after treatment. Am J Orthod Dentofacial
+  Orthop. 1989;96(5):423-427.'
+- Boyd RL, Chun YS. Delivering the best orthodontic care for your patients. J Calif
+  Dent Assoc. 2015;43(11):603-610.
+- Zachrisson BU. Orthodontic causes and prevention of dental erosion and abrasion.
+  Proc Finn Dent Soc. 1992;88 Suppl 1:557-566.
+- Lovrov S, Hertrich K, Hirschfelder U. Enamel demineralization during fixed orthodontic
+  treatment–incidence and effect of fluoride supplementation. Angle Orthod. 2007;77(5):853-859.
+- Benson PE, Parkin N, Millett DT. Fluorides for the prevention of early tooth decay
+  (demineralised white lesions) during fixed brace treatment. Cochrane Database Syst
+  Rev. 2013;12:CD003809.
+- Hu J, Zhang X, Qiao J, Yu C. Efficacy of fluoride gel as an adjunctive agent for
+  preventing white spot lesions during orthodontic treatment. Angle Orthod. 2013;83(4):704-709.
+reviewed: true
 reviewer_specialty: Orthodontics
+slug: enamel-damage-from-braces-prevention
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - "Gorelick L, Geiger AM, Gwinnett AJ. Incidence of white spot formation after bonding and banding. Am J Orthod Dentofacial Orthop. 1982;81(6):461-465."
-  - "Westerlund A, Ransjö M, Stéen L. White spot lesion formation during orthodontic treatment. Eur J Orthod. 2017;39(6):649-656."
-  - "Ogaard B. Prevalence of white spot lesions in 19-year-olds: a study on untreated and orthodontically treated persons 5 years after treatment. Am J Orthod Dentofacial Orthop. 1989;96(5):423-427."
-  - "Boyd RL, Chun YS. Delivering the best orthodontic care for your patients. J Calif Dent Assoc. 2015;43(11):603-610."
-  - "Zachrisson BU. Orthodontic causes and prevention of dental erosion and abrasion. Proc Finn Dent Soc. 1992;88 Suppl 1:557-566."
-  - "Lovrov S, Hertrich K, Hirschfelder U. Enamel demineralization during fixed orthodontic treatment–incidence and effect of fluoride supplementation. Angle Orthod. 2007;77(5):853-859."
-  - "Benson PE, Parkin N, Millett DT. Fluorides for the prevention of early tooth decay (demineralised white lesions) during fixed brace treatment. Cochrane Database Syst Rev. 2013;12:CD003809."
-  - "Hu J, Zhang X, Qiao J, Yu C. Efficacy of fluoride gel as an adjunctive agent for preventing white spot lesions during orthodontic treatment. Angle Orthod. 2013;83(4):704-709."
+title: 'Enamel Damage from Braces: Prevention Strategies'
 ---
 
 Getting braces straightens your teeth and gives you a beautiful smile, but they also create challenges for keeping your teeth healthy. Bacteria love to hide around brackets and wires, and your brush can't reach everywhere like it normally does. The good news is that with the right prevention strategies, you can protect your teeth during braces and finish treatment with beautiful, healthy teeth instead of permanent white spots or cavities.
@@ -43,7 +54,7 @@ Brushing with braces requires more time and technique than regular brushing:
 
 **Tools**: An electric toothbrush (especially oscillating-rotating types) removes more plaque than manual brushing. If you use a manual toothbrush, a soft-bristled brush is gentler on your gums and still effective.
 
-**Frequency**: Brush after every meal and snack, especially after eating sugary or sticky foods. Learning more about [benefits of invisible braces benefits](/article/benefits-of-invisible-braces-benefits.html) can help you understand this better. If you can't brush immediately, rinse your mouth thoroughly with water.
+**Frequency**: Brush after every meal and snack, especially after eating sugary or sticky foods. Learning more about [Benefits of Invisible Braces Benefits](/article/benefits-of-invisible-braces-benefits.html) can help you understand this better. If you can't brush immediately, rinse your mouth thoroughly with water.
 
 ## Flossing With Braces
 
@@ -57,7 +68,7 @@ Water irrigators (sometimes called water flossers) spray water between teeth and
 
 Fluoride is your best defense against cavities during braces. It strengthens your enamel and helps reverse early white spot lesions. Your orthodontist likely recommended a special fluoride routine when you got your braces—follow it carefully.
 
-**Professional fluoride treatments** applied at your orthodontic appointments (typically every 3 months) provide strong protection. Learning more about [wire sequence progression of wires](/article/wire-sequence-progression-of-wires.html) can help you understand this better. Your orthodontist applies concentrated fluoride directly to your teeth.
+**Professional fluoride treatments** applied at your orthodontic appointments (typically every 3 months) provide strong protection. Learning more about [Wire Sequence Progression of Wires](/article/wire-sequence-progression-of-wires.html) can help you understand this better. Your orthodontist applies concentrated fluoride directly to your teeth.
 
 **Home fluoride gel** used with custom trays is highly effective when used daily. You apply the gel in trays for 5-10 minutes before bed, allowing it to sit on your teeth overnight. Studies show this reduces white spot lesions by 50-75% compared to patients who don't use it. If you've been given custom trays, use them consistently—skipping days reduces their benefit significantly.
 
@@ -110,16 +121,19 @@ The important point: prevention is far better than treatment. One year of excell
 
 After braces come off, you'll wear retainers to keep your teeth straight. These create some of the same cleaning challenges as braces, so continue your excellent oral hygiene habits. Keep using fluoride, brush regularly, and see your dentist twice yearly.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Braces temporarily make cavity prevention more challenging, but not impossible. With consistent brushing, flossing, fluoride use, and dietary choices, you can finish orthodontic treatment with straight teeth AND healthy enamel. Don't let white spots be a permanent reminder of your braces. Follow your orthodontist's prevention recommendations carefully, and you'll have the smile you've always wanted. Talk to your dentist about which options are right for your specific situation.
 
+> **Key Takeaway:** Getting braces straightens your teeth and gives you a beautiful smile, but they also create challenges for keeping your teeth healthy.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Benefits of Invisible Braces: Benefits](/article/benefits-of-invisible-braces-benefits.html)
-- [Wire Sequence: Progression of Wires](/article/wire-sequence-progression-of-wires.html)
 - [Herbst Appliance: Fixed Mandibular Advancement](/article/herbst-appliance-fixed-mandibular-advancement.html)
+- [Risk and Concerns with Orthodontic Treatment Duration](/article/risk-and-concerns-with-orthodontic-treatment-duration.html)
+- [Bite Problems Explained: Types and What Causes Them](/article/how-to-bite-problems-explained.html)
+- [Bite Problems Explained: What You Need to Know About](/article/bite-problems-explained-what-you-need-to-know.html)
+- [Swallowing Exercises That Actually Work for](/article/tongue-thrust-therapy-correcting-abnormal-swallow.html)
 
-> **Key Takeaway:** White spot lesions are preventable with careful brushing, flossing, fluoride use, and smart food choices during braces. Prevention is much easier than treating spots after treatment ends. Talk to your dentist about which options are right for your specific situation.

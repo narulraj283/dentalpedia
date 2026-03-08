@@ -57,7 +57,9 @@ Your dentist will take special photos of you smiling to measure exactly how much
 
 About 12% of gummy smiles happen because too much gum is covering the teeth. Your teeth actually erupted (came down) normally, but thick gum tissue is still covering them. Your gum pockets are healthy (normal 1-3mm depth), but the gingival margin is positioned lower than ideal, making your teeth look shorter than they really are.
 
-This is fixable with a periodontal procedure called crown lengthening. Your dentist removes bone below the gum line and lets the gum settle to a new, higher position. This makes your teeth look longer and your smile look less gummy. It's a surgical procedure, but it's pretty straightforward. After healing (3-6 months), your gums will stabilize in their new position. This is a permanent fix that typically gives excellent results.
+This is fixable with a periodontal procedure called crown lengthening. Your dentist removes bone below the gum line and lets the gum settle to a new, higher position. This makes your teeth look longer and your smile look less gummy.
+
+It's a surgical procedure, but it's pretty straightforward. After healing (3-6 months), your gums will stabilize in their new position. This is a permanent fix that typically gives excellent results.
 
 ## Vertical Maxillary Excess: Skeletal Issue
 
@@ -89,7 +91,9 @@ Don't assume you have just one cause. Many gummy smile patients have altered pas
 
 ## Combination Treatment: Often the Best Approach
 
-The smartest approach is usually to start with the least invasive option first. If you have hypermobile lip (most common), start with Botox. You do 2-3 treatment cycles to see how much of your gummy smile it fixes. If that's enough, great—you're done. If there's still gummy display, then add surgical treatment. Or if you know you want permanent results and don't want ongoing injections, go straight to surgery.
+The smartest approach is usually to start with the least invasive option first. If you have hypermobile lip (most common), start with Botox. You do 2-3 treatment cycles to see how much of your gummy smile it fixes.
+
+If that's enough, great—you're done. If there's still gummy display, then add surgical treatment. Or if you know you want permanent results and don't want ongoing injections, go straight to surgery.
 
 If you have altered passive eruption, crown lengthening is the clear choice. If you have vertical maxillary excess, orthognathic surgery is needed for complete correction. Many people combine Botox with surgical treatments for best results.
 
@@ -102,18 +106,6 @@ If surgery is planned, do that first. It provides the foundation, then Botox can
 ## Digital Smile Design
 
 Many dentists now use digital smile design, where they show you photos of your smile with different amounts of gingival display. This lets you see exactly what the goal looks like. Some software lets you see simulations of different treatment approaches. This really helps you understand what you're working toward and whether the change is worth the cost and recovery time.
-
-## Conclusion
-
-A gummy smile showing more than 3-4mm of gum when smiling affects about 10-15% of people and is one of the most common aesthetic complaints. Altered passive eruption (12% of cases) responds excellently to periodontal crown lengthening with bone recontouring, providing permanent improvement. Vertical maxillary excess (20% of cases) requires orthognathic surgery (LeFort I impaction) for correction, with orthodontics before and after surgery. Short upper lip (15% of cases) is difficult to surgically correct with variable results. Hypermobile lip (35% of cases)—the most common cause—responds excellently to botulinum toxin injection (2.5-5 units per side) with effects lasting 3-4 months. Most gummy smiles result from multiple contributing factors and benefit from combination treatment. Starting with less invasive treatments (Botox) and adding surgical correction as needed provides a staged approach allowing adjustment of goals. Digital smile design improves patient communication and expectation setting. Treatment selection should match individual anatomy, aesthetic goals, willingness to accept ongoing maintenance (Botox), and acceptance of surgical recovery and cost. Understanding your specific cause guides appropriate treatment recommendation and realistic outcomes.
-
-**Vertical Maxillary Excess (20%)**: Increased anterior facial height relative to posterior dimensions creates skeletal discrepancy. Anterior maxilla extends vertically excessively, positioning incisor edge apically and increasing gingival display without dentoalveolar abnormality. CBCT confirms anterior maxillary vertical hypermobility and excessive intergingival distance (measured from incisor edge to molar cusp tip apex, typically 48-52mm in normal occlusion; VME exceeds 52-58mm).
-
-**Short Upper Lip (15%)**: Inadequate vermillion coverage of anterior teeth during smiling—lip length insufficient (normally 22-24mm) to cover gingival margins during smile. The lip elevation amount during smile averages 7-8mm; short lips elevate excessively relative to lip length, exposing gingiva.
-
-**Hypermobile Lip (35%)**: Excessive upper lip elevation during smiling—averaging >8mm vertical movement instead of typical 7-8mm. The levator labii superioris and associated muscles contract excessively, creating excessive gingival display despite normal lip length, tooth position, and skeletal anatomy. This most common etiology requires different treatment approach (muscle relaxation via Botox rather than osseous surgery).
-
-**Combined Factors**: Many gummy smile patients demonstrate multiple contributing factors—altered passive eruption with short lip, or VME with hypermobile lip. Treatment planning must address all identified contributors for optimal outcomes.
 
 ## Crown Lengthening with Osseous Recontouring
 
@@ -177,14 +169,31 @@ Three-dimensional CBCT-based treatment planning enables precise surgical plannin
 
 ## Conclusion
 
-Gummy smile diagnosis requires systematic classification identifying predominant etiologic factors guiding treatment selection. Altered passive eruption responds optimally to periodontal crown lengthening with osseous recontouring. Vertical maxillary excess necessitates orthognathic LeFort I impaction establishing normal facial proportions. Short upper lip may benefit from surgical repositioning though results are variable and technique-dependent. Hypermobile lip represents the most common etiology responding excellently to botulinum toxin injection (2.5-5 units per side into LLSAN) with 3-4 month duration. Combination therapies addressing multiple etiologic factors simultaneously provide superior outcomes compared to single-modality treatment. Digital smile design facilitates treatment planning and patient communication. Treatment selection balances invasiveness, cost, durability, and reversibility with individual patient factors. Comprehensive digital treatment planning incorporating CBCT imaging and three-dimensional analysis optimizes treatment planning and patient satisfaction.
+Gummy smile diagnosis requires systematic classification identifying predominant etiologic factors guiding treatment selection. Altered passive eruption responds optimally to periodontal crown lengthening with osseous recontouring. Vertical maxillary excess necessitates orthognathic LeFort I impaction establishing normal facial proportions. Short upper lip may benefit from surgical repositioning though results are variable and technique-dependent.
 
-## Related Articles You May Find Helpful
+Hypermobile lip represents the most common etiology responding excellently to botulinum toxin injection (2.5-5 units per side into LLSAN) with 3-4 month duration. Combination therapies addressing multiple etiologic factors simultaneously provide superior outcomes compared to single-modality treatment. Digital smile design facilitates treatment planning and patient communication. Treatment selection balances invasiveness, cost, durability, and reversibility with individual patient factors. Comprehensive digital treatment planning incorporating CBCT imaging and three-dimensional analysis optimizes treatment planning and patient satisfaction.
 
-- [Adhesive Dentistry Cosmetics: Bonded Restorations Without Cutting](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html)
-- [All-Ceramic Veneers: Ultra-Thin Cosmetic Shells](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html)
-- [Anterior Guidance: How Incisor Position Controls Bite Mechanics](/article/anterior-guidance-incisor-controlling-bite.html)
+## Conclusion
 
+A gummy smile showing more than 3-4mm of gum when smiling affects about 10-15% of people and is one of the most common aesthetic complaints. Altered passive eruption (12% of cases) responds excellently to periodontal crown lengthening with bone recontouring, providing permanent improvement. Vertical maxillary excess (20% of cases) requires orthognathic surgery (LeFort I impaction) for correction, with orthodontics before and after surgery. Short upper lip (15% of cases) is difficult to surgically correct with variable results. Hypermobile lip (35% of cases)—the most common cause—responds excellently to botulinum toxin injection (2.5-5 units per side) with effects lasting 3-4 months.
 
-> **Key Takeaway:** If you show too much gum when you smile, you might be bothered by what's called a "gummy smile." This affects about 1 in 10 people, and for many, it's their biggest aesthetic concern. Your dentist can help you understand what steps are right for your specific needs.
+Most gummy smiles result from multiple contributing factors and benefit from combination treatment. Starting with less invasive treatments (Botox) and adding surgical correction as needed provides a staged approach allowing adjustment of goals. Digital smile design improves patient communication and expectation setting. Treatment selection should match individual anatomy, aesthetic goals, willingness to accept ongoing maintenance (Botox), and acceptance of surgical recovery and cost. Understanding your specific cause guides appropriate treatment recommendation and realistic outcomes.
+
+**Vertical Maxillary Excess (20%)**: Increased anterior facial height relative to posterior dimensions creates skeletal discrepancy. Anterior maxilla extends vertically excessively, positioning incisor edge apically and increasing gingival display without dentoalveolar abnormality. CBCT confirms anterior maxillary vertical hypermobility and excessive intergingival distance (measured from incisor edge to molar cusp tip apex, typically 48-52mm in normal occlusion; VME exceeds 52-58mm).
+
+**Short Upper Lip (15%)**: Inadequate vermillion coverage of anterior teeth during smiling—lip length insufficient (normally 22-24mm) to cover gingival margins during smile. The lip elevation amount during smile averages 7-8mm; short lips elevate excessively relative to lip length, exposing gingiva.
+
+**Hypermobile Lip (35%)**: Excessive upper lip elevation during smiling—averaging >8mm vertical movement instead of typical 7-8mm. The levator labii superioris and associated muscles contract excessively, creating excessive gingival display despite normal lip length, tooth position, and skeletal anatomy. This most common etiology requires different treatment approach (muscle relaxation via Botox rather than osseous surgery).
+
+**Combined Factors**: Many gummy smile patients demonstrate multiple contributing factors—altered passive eruption with short lip, or VME with hypermobile lip. Treatment planning must address all identified contributors for optimal outcomes.
+
+> **Key Takeaway:** If you show too much gum when you smile, you might be bothered by what's called a 'gummy smile.' This affects about 1 in 10 people, and for many,.
+
+## Related Articles
+
+- [Anterior Guidance](/article/anterior-guidance-incisor-controlling-bite.html)
+- [Why Veneer Installation Steps Matters](/article/why-veneer-installation-steps-matters.html)
+- [Full Mouth Makeover: Restoring Your Smile and Function](/article/full-mouth-rehabilitation-comprehensive-cosmetic-approach.html)
+- [Diastema Closure Techniques and Treatment Planning](/article/best-practices-for-tooth-gap-closure.html)
+- [Ways to Improve Your Tooth Color](/article/how-to-teeth-color-improvement.html)
 

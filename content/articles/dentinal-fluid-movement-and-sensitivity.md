@@ -1,26 +1,36 @@
 ---
-title: How Fluid Movement in Your Teeth Causes Sensitivity Pain
-slug: dentinal-fluid-movement-and-sensitivity
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: Learn the science behind why exposed teeth hurt and how tooth sensitivity treatments work at the fluid level.
 date: 2026-03-05
+excerpt: Learn the science behind why exposed teeth hurt and how tooth sensitivity
+  treatments work at the fluid level.
 read_time: 9 min
+references:
+- Brännström M. A hydrodynamic mechanism in the transmission of pain-producing stimuli
+  through the dentin. Caries Research. 1964;2:1-96.
+- 'Pashley DH. Dentin: a dynamic substrate. Scanning Microscopy. 1992;6(3):161-176.'
+- Pashley DH, et al. The effects of aggregate resin on dentin permeability. Journal
+  of Dental Research. 1981;60(11):1851-1858.
+- Tonder KJ, Brandtzaeg P. Estimates of pain threshold and tolerance in man based
+  on intraoral thermostimulation of dentin and enamel. Archives of Oral Biology. 1969;14(4):393-402.
+- Närhi MV. The characteristics of intradental sensory units and their responses to
+  stimulation. Journal of Dental Research. 1985;64(4):564-571.
+- Orchardson R, Collins WJ. Clinical features of dentine hypersensitivity. British
+  Dental Journal. 1987;162(6):253-256.
+- 'Jørgensen NB, Hayden J. Sedation, local and general anesthesia in dentistry. Philadelphia:
+  Lea & Febiger; 1980.'
+- Olgart L. Neural control of pulpal blood flow. Critical Reviews in Oral Biology
+  & Medicine. 1996;7(2):159-171.
+- Reusch T, et al. Conduction of action potentials in nerves of the feline tooth.
+  Acta Physiology Scandinavica. 1988;133(2):221-230.
+- Holland GR, et al. Guidelines for the design and conduct of sensory testing in research.
+  Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology. 2011;111(5):622-629.
+reviewed: true
 reviewer_specialty: General Dentistry
+slug: dentinal-fluid-movement-and-sensitivity
 subcategory: General Overview
 subcategory_slug: overview-general
-reviewed: true
-references:
-  - "Brännström M. A hydrodynamic mechanism in the transmission of pain-producing stimuli through the dentin. Caries Research. 1964;2:1-96."
-  - "Pashley DH. Dentin: a dynamic substrate. Scanning Microscopy. 1992;6(3):161-176."
-  - "Pashley DH, et al. The effects of aggregate resin on dentin permeability. Journal of Dental Research. 1981;60(11):1851-1858."
-  - "Tonder KJ, Brandtzaeg P. Estimates of pain threshold and tolerance in man based on intraoral thermostimulation of dentin and enamel. Archives of Oral Biology. 1969;14(4):393-402."
-  - "Närhi MV. The characteristics of intradental sensory units and their responses to stimulation. Journal of Dental Research. 1985;64(4):564-571."
-  - "Orchardson R, Collins WJ. Clinical features of dentine hypersensitivity. British Dental Journal. 1987;162(6):253-256."
-  - "Jørgensen NB, Hayden J. Sedation, local and general anesthesia in dentistry. Philadelphia: Lea & Febiger; 1980."
-  - "Olgart L. Neural control of pulpal blood flow. Critical Reviews in Oral Biology & Medicine. 1996;7(2):159-171."
-  - "Reusch T, et al. Conduction of action potentials in nerves of the feline tooth. Acta Physiology Scandinavica. 1988;133(2):221-230."
-  - "Holland GR, et al. Guidelines for the design and conduct of sensory testing in research. Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology. 2011;111(5):622-629."
+title: How Fluid Movement in Your Teeth Causes Sensitivity
 ---
 
 Have you ever wondered why a blast of cold air from your air conditioner hitting your exposed tooth roots causes sharp pain, or why acidic foods make your sensitive teeth hurt? The answer lies in how fluid moves inside your teeth. Understanding this science helps explain why certain sensitivity treatments work and why others don't.
@@ -29,7 +39,7 @@ Have you ever wondered why a blast of cold air from your air conditioner hitting
 
 Your tooth is not solid all the way through. It contains a network of tiny channels called tubules that run from the outer part of the tooth (called dentin) toward the nerve in the center (the pulp). These tubules contain a thin fluid that's part of your tooth's living tissue. The number and size of these tubules varies—there are more and larger tubules closer to the nerve, and fewer and smaller ones on the outer surface of the tooth.
 
-Think of dentin like a sponge with millions of tiny straws running through it. Learning more about [dentin hypersensitivity root exposure pain](/article/dentin-hypersensitivity-root-exposure-pain.html) can help you understand this better. Each straw (tubule) contains fluid and a thin nerve fiber from the central nerve of the tooth. This fluid is normally in a balanced state, not moving in or out. But when something disturbs this balance—cold, heat, pressure, or acidic chemicals—the fluid moves, and this movement is what triggers pain.
+Think of dentin like a sponge with millions of tiny straws running through it. Learning more about [Dentin Hypersensitivity Root Exposure Pain](/article/dentin-hypersensitivity-root-exposure-pain.html) can help you understand this better. Each straw (tubule) contains fluid and a thin nerve fiber from the central nerve of the tooth. This fluid is normally in a balanced state, not moving in or out. But when something disturbs this balance—cold, heat, pressure, or acidic chemicals—the fluid moves, and this movement is what triggers pain.
 
 ## How Fluid Movement Causes Pain: The Hydrodynamic Mechanism
 
@@ -43,7 +53,7 @@ The more fluid movement there is, the more pain you feel. This explains why a sm
 
 Not all exposed tooth roots cause the same level of sensitivity. Several factors affect how much pain you experience. The diameter of the tubule opening matters—larger openings allow more fluid movement and more pain. Tubules that are partially sealed by mineralized deposits (from saliva or previous exposure) cause less pain because fluid movement is restricted. Teeth that have been exposed for a long time often become less sensitive because your body's natural healing response partially seals the tubules.
 
-The kind of stimulus also matters. Learning more about [desensitizing ingredients potassium nitrate and strontium](/article/desensitizing-ingredients-potassium-nitrate-and-strontium.html) can help you understand this better. Mechanical pressure (like aggressive brushing) creates more fluid movement than mild temperature changes. Osmotic stimuli (sweet or acidic substances) create gradual fluid movement, while temperature changes create rapid movement, and rapid movement causes sharper pain.
+The kind of stimulus also matters. Learning more about [Understanding Tooth Sensitivity Relief: How Potassium](/article/desensitizing-ingredients-potassium-nitrate-and-strontium.html) can help you understand this better. Mechanical pressure (like aggressive brushing) creates more fluid movement than mild temperature changes. Osmotic stimuli (sweet or acidic substances) create gradual fluid movement, while temperature changes create rapid movement, and rapid movement causes sharper pain.
 
 Individual variation in nerve sensitivity also plays a role. Some people's nerves are simply more responsive to fluid movement than others, which is why some people with significant root exposure have manageable sensitivity while others with less exposure suffer more.
 
@@ -81,14 +91,17 @@ For the best long-term results, combine immediate sealing (from your dentist) wi
 
 ## Conclusion
 
-Tooth sensitivity happens when fluid inside your tooth's tubules moves in response to cold, heat, pressure, or chemical stimuli. This fluid movement stimulates the nerve and causes pain. Desensitizing treatments work by sealing or partially blocking the tubules to prevent fluid movement. Home-use products take a few weeks of regular use to build up enough sealing material, while professional treatments provide faster relief by depositing more sealing material or creating complete barriers to fluid movement. Understanding how fluid movement causes sensitivity helps explain why preventing tubule exposure is better than treating sensitivity after it develops. Talk to your dentist about which options are right for your specific situation.
+Tooth sensitivity happens when fluid inside your tooth's tubules moves in response to cold, heat, pressure, or chemical stimuli. This fluid movement stimulates the nerve and causes pain. Desensitizing treatments work by sealing or partially blocking the tubules to prevent fluid movement.
 
+Home-use products take a few weeks of regular use to build up enough sealing material, while professional treatments provide faster relief by depositing more sealing material or creating complete barriers to fluid movement. Understanding how fluid movement causes sensitivity helps explain why preventing tubule exposure is better than treating sensitivity after it develops. Talk to your dentist about which options are right for your specific situation.
 
+> **Key Takeaway:** Learn the science behind why exposed teeth hurt and how tooth sensitivity treatments work at the fluid level.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Why Your Teeth Hurt When You Eat Cold Foods](/article/dentin-hypersensitivity-root-exposure-pain.html)
-- [Choosing Products That Actually Reduce Sensitivity](/article/desensitizing-ingredients-potassium-nitrate-and-strontium.html)
-- [How to Prevent Gum Recession and Root Exposure](/article/gingival-recession-causes-prevention-and-treatment.html)
+- [Dry Mouth Causes and Management Strategies](/article/dry-mouth-causes-and-management-strategies.html)
+- [Recovery After Extraction: A Complete Patient Guide](/article/benefits-of-recovery-after-extraction.html)
+- [Secondary Dentin Age Related Changes](/article/secondary-dentin-age-related-changes.html)
+- [Understanding Filling Material Selection for](/article/benefits-of-filling-material-selection.html)
+- [Cost of Enamel Erosion Repair and Protective Treatment](/article/cost-of-enamel-erosion-repair.html)
 
-> **Key Takeaway:** Tooth sensitivity comes from fluid movement inside your teeth's tiny tubules stimulating the nerve—desensitizing treatments work by sealing these tubules to prevent fluid movement.

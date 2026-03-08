@@ -93,12 +93,12 @@ Identify and avoid triggers if possible. Common triggers include minor mouth tra
 
 Stomatitis herpetiformis causes recurrent episodes of numerous grouped oral ulcers with no connection to herpes infection despite its misleading name. Clinical presentation with dozens to hundreds of small coalescing ulcers creates significant functional disability for 5-14 days per episode despite the benign prognosis. Colchicine and dapsone provide evidence-based pharmacologic management with response rates exceeding 60-70%, substantially improving quality of life compared to symptomatic management alone. Early recognition and appropriate pharmacotherapy ensure that troublesome ulcers don't prevent you from eating, speaking, and living normally during episodes.
 
-## Key Takeaway
-
-Stomatitis herpetiformis is a distinct condition causing grouped oral ulcers unrelated to herpes virus, treatable with colchicine or dapsone that significantly reduce episode frequency and severity.
+> **Key Takeaway:** Stomatitis herpetiformis is a distinct condition causing grouped oral ulcers unrelated to herpes virus, treatable with colchicine or dapsone that significantly reduce episode frequency and severity.
 
 ## Related Articles
 
-- [Oral Cancer Screening and Early Detection](/article/oral-cancer-screening-and-early-detection.html)
-- [Oral Aphthous Ulcers: Beyond Simple Canker Sores](/article/oral-aphthous-ulcers-beyond-simple-canker-sores.html)
 - [Noma: Gangrenous Gingivitis](/article/noma-gangrenous-gingivitis.html)
+
+- [Mouth Ulcers and Canker Sores: Treatment and Prevention](/article/mouth-ulcers-and-canker-sores-treatment-and-prevention.html)
+- [Sjögren's Syndrome and Xerostomia](/article/sjögrens-syndrome-autoimmune-dry-mouth-disease.html)
+

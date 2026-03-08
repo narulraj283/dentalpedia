@@ -26,7 +26,7 @@ reviewer_specialty: Oral and Maxillofacial Surgery
 slug: pre-surgery-preparation-complete-guide
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-title: Pre-Surgery Preparation for Oral and Maxillofacial...
+title: Pre Surgery Preparation Complete Guide
 ---
 
 ## Why Pre-Surgery Preparation Matters
@@ -58,7 +58,9 @@ Your surgeon needs complete medication information. Some medications require spe
 
 **Heart medications:** Generally continued, but some may require adjustment. Never stop heart medications without explicit surgeon approval.
 
-**Herbal supplements:** Many patients don't mention these, but they cause complications. St. John's Wort reduces anesthetic effectiveness. Ginseng increases bleeding risk. Kava increases sedation. Stop herbal supplements 1-2 weeks before surgery.
+**Herbal supplements:** Many patients don't mention these, but they cause complications. St. John's Wort reduces anesthetic effectiveness.
+
+Ginseng increases bleeding risk. Kava increases sedation. Stop herbal supplements 1-2 weeks before surgery.
 
 **All medications and supplements:** Bring a complete list or bring bottles of everything you take. Be honest about over-the-counter medications and supplements—your surgeon isn't judging, just keeping you safe.
 
@@ -68,7 +70,7 @@ Proper pre-operative imaging optimizes surgical planning. Routine dentoalveolar 
 
 **Three-dimensional imaging** (cone beam CT or conventional CT) allows precise assessment of bone anatomy, identification of important structures (nerves, sinus locations), and detection of pathology affecting surgical approach. Your surgeon discusses which imaging is necessary for your specific case.
 
-Make sure imaging is obtained well before your pre-operative appointment—last-minute imaging creates appointment delays. Your surgeon reviews imaging in detail before final planning, documenting specific measurements or observations to guide surgical execution. For more on this topic, see our guide on [Oral Biopsies Diagnosis Of Suspicious...](/article/oral-biopsies-diagnosis-of-suspicious-lesions.html).
+Make sure imaging is obtained well before your pre-operative appointment—last-minute imaging creates appointment delays. Your surgeon reviews imaging in detail before final planning, documenting specific measurements or observations to guide surgical execution. For more on this topic, see our guide on [Should Your Mouth Lesion Be Biopsied?](/article/oral-biopsies-diagnosis-of-suspicious-lesions.html).
 
 ## Anticoagulation Management: Preventing Bleeding and Clots
 
@@ -182,16 +184,18 @@ If uncertain, call your surgeon's office morning-of-surgery rather than guessing
 - Antibiotic timing verified (1 hour before surgery)
 - Final surgeon confirmation of procedure planned
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Thorough pre-operative preparation prevents complications and optimizes surgical outcomes. Your cooperation in providing complete information, following instructions, and attending to preparation details directly impacts your surgical safety and success. Don't minimize or skip pre-operative steps—they're essential, not bureaucratic.
 
-## Key Takeaway
-
-Complete pre-operative preparation including medical history, medication review, proper imaging, anticoagulation management, and informed consent reduces surgical complications and ensures optimal outcomes.
+> **Key Takeaway:** Complete pre-operative preparation including medical history, medication review, proper imaging, anticoagulation management, and informed consent reduces surgical complications and ensures optimal outcomes.
 
 ## Related Articles
 
-- [Oral Biopsies: Diagnosis of Suspicious Lesions](/article/oral-biopsies-diagnosis-of-suspicious-lesions.html)
-- [Anesthesia Types: Complete Guide](/article/anesthesia-types-complete-guide.html)
 - [Bone Grafting: Restoring Lost Jaw Structure](/article/bone-grafting-restoring-lost-jaw-structure.html)
+
+- [Extended Post-Surgical Care and Tissue Remodeling](/article/best-practices-for-post-surgery-care.html)
+- [Why Bleeding Control Matters in Oral Surgery and Dental](/article/why-bleeding-control-matters.html)
+

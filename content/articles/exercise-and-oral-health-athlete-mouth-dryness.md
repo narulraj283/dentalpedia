@@ -1,24 +1,32 @@
 ---
-title: "Exercise and Oral Health: Exercise-Induced Xerostomia in"
-slug: exercise-and-oral-health-athlete-mouth-dryness
 category: Preventive Care
 category_slug: preventive-care
-excerpt: High-intensity exercise reduces salivary flow by 40-50%, increasing cavity and periodontal disease risk in athletes.
 date: 2026-03-05
+excerpt: High-intensity exercise reduces salivary flow by 40-50%, increasing cavity
+  and periodontal disease risk in athletes.
 read_time: 9 min
+references:
+- 'Needleman I, Ashley P, Fine P, et al. Consensus statement: sports dentistry. Br
+  Dent J. 2015;218(3):135-137.'
+- Muhvić-Urek M, Mast M, Margulis EV. Salivary flow rate and xerostomia in athletes.
+  Oral Dis. 2012;18(6):548-556.
+- Cichocka JS, Collier J. Prevention and management of dental erosion in athletes.
+  Dent Update. 2015;42(8):730-736.
+- Needleman I, Sheehan J, Whelton H. Oral health in sport. Arch Oral Biol. 2016;71:126-135.
+- 'Manton DJ, Messer LB. Xerostomia in athletes: a systematic review. Sports Med Open.
+  2016;2:17.'
+- Dąbrowski Z, Górski W, Górska R. Salivary flow rate alterations in athletes. J Sports
+  Dent. 2014;3(2):89-97.
+- 'May SA, Razzoog ME. Xerostomia: etiology, recognition and management. J Am Dent
+  Assoc. 1993;124(10):48-54.'
+- Edgar WM. Saliva and oral health. Clinical implications of research. J Am Dent Assoc.
+  1992;123(7):47-52.
+reviewed: true
 reviewer_specialty: Preventive Dentistry
+slug: exercise-and-oral-health-athlete-mouth-dryness
 subcategory: Preventive Overview
 subcategory_slug: overview-preventive
-reviewed: true
-references:
-  - "Needleman I, Ashley P, Fine P, et al. Consensus statement: sports dentistry. Br Dent J. 2015;218(3):135-137."
-  - "Muhvić-Urek M, Mast M, Margulis EV. Salivary flow rate and xerostomia in athletes. Oral Dis. 2012;18(6):548-556."
-  - "Cichocka JS, Collier J. Prevention and management of dental erosion in athletes. Dent Update. 2015;42(8):730-736."
-  - "Needleman I, Sheehan J, Whelton H. Oral health in sport. Arch Oral Biol. 2016;71:126-135."
-  - "Manton DJ, Messer LB. Xerostomia in athletes: a systematic review. Sports Med Open. 2016;2:17."
-  - "Dąbrowski Z, Górski W, Górska R. Salivary flow rate alterations in athletes. J Sports Dent. 2014;3(2):89-97."
-  - "May SA, Razzoog ME. Xerostomia: etiology, recognition and management. J Am Dent Assoc. 1993;124(10):48-54."
-  - "Edgar WM. Saliva and oral health. Clinical implications of research. J Am Dent Assoc. 1992;123(7):47-52."
+title: 'Exercise and Oral Health: Exercise-Induced'
 ---
 
 ## What's Happening When You Get Dry Mouth During Training
@@ -31,7 +39,9 @@ This happens because your nervous system shifts into "fight or flight" mode duri
 
 You might not think much about saliva, but it's actually doing really important work in your mouth all day long. Normal saliva flow is about half a milliliter to a milliliter and a half per minute, which keeps your mouth at a healthy pH level. That's important because your teeth need to stay in a healthy environment.
 
-Saliva does several protective jobs: It clears away food and bacteria. It has proteins that fight germs. It neutralizes acids. When you exercise and your saliva production drops, all of these protections weaken. Your mouth becomes more acidic. Bacteria can grow more easily. Your teeth become softer. And you're more likely to get cavities, especially in the smooth surfaces of your teeth and near your gum line.
+Saliva does several protective jobs: It clears away food and bacteria. It has proteins that fight germs. It neutralizes acids. When you exercise and your saliva production drops, all of these protections weaken.
+
+Your mouth becomes more acidic. Bacteria can grow more easily. Your teeth become softer. And you're more likely to get cavities, especially in the smooth surfaces of your teeth and near your gum line.
 
 Research shows athletes with dry mouth build up plaque 2.5 to 3 times faster than other people.
 
@@ -39,7 +49,7 @@ Research shows athletes with dry mouth build up plaque 2.5 to 3 times faster tha
 
 Some athletes struggle more with dry mouth than others. If you're a distance runner, cyclist, or triathlete, you're more likely to be affected because of how long and hard you train. Athletes who train in hot, dry climates have worse symptoms than those in humid areas. If you breathe through your mouth during training instead of your nose, you lose more moisture. People with asthma or allergies that make breathing harder also tend to have worse dry mouth.
 
-Your age, genetic factors, and what medications you take (if any) all play a role too. Learning more about [oral health habits complete guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. Some people just naturally have less saliva production.
+Your age, genetic factors, and what medications you take (if any) all play a role too. Learning more about [Oral Health Habits Complete Guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. Some people just naturally have less saliva production.
 
 ## Signs You Have a Problem
 
@@ -49,7 +59,9 @@ Your dentist can measure your saliva flow. If it's less than half a milliliter p
 
 ## What Happens to Your Teeth and Gums
 
-Athletes with dry mouth get cavities much faster than other people. Learning more about [benefits of tartar prevention](/article/benefits-of-tartar-prevention.html) can help you understand this better. These cavities often start in spots that are normally cavity-resistant—smooth surfaces and the area where your tooth meets your gum. Your gum disease can also get worse faster. You might notice inflammation with less buildup than you'd expect. Your gums might bleed or develop pockets more quickly. Some athletes have problems with their teeth wearing away from acids and friction, especially if they're drinking sports drinks during training.
+Athletes with dry mouth get cavities much faster than other people. Learning more about [Benefits of Tartar Prevention](/article/benefits-of-tartar-prevention.html) can help you understand this better. These cavities often start in spots that are normally cavity-resistant—smooth surfaces and the area where your tooth meets your gum.
+
+Your gum disease can also get worse faster. You might notice inflammation with less buildup than you'd expect. Your gums might bleed or develop pockets more quickly. Some athletes have problems with their teeth wearing away from acids and friction, especially if they're drinking sports drinks during training.
 
 ## Smart Prevention Strategies
 
@@ -59,7 +71,9 @@ Try breathing through your nose instead of your mouth during training. It takes 
 
 Sugar-free gum or lozenges with xylitol help stimulate saliva and have antibacterial benefits. If you use about 10 to 15 grams of xylitol daily, it can actually reduce your cavity risk.
 
-Don't eat or drink acidic things right before or during your workout. Sports drinks are acidic, and your teeth are more vulnerable to acid damage when you have less saliva. If you do drink something acidic during training, at least rinse your mouth with water afterward. Don't brush your teeth right after exercise because your enamel is temporarily softened by the acid. Wait at least 30 minutes before brushing. Use a fluoride rinse instead.
+Don't eat or drink acidic things right before or during your workout. Sports drinks are acidic, and your teeth are more vulnerable to acid damage when you have less saliva. If you do drink something acidic during training, at least rinse your mouth with water afterward.
+
+Don't brush your teeth right after exercise because your enamel is temporarily softened by the acid. Wait at least 30 minutes before brushing. Use a fluoride rinse instead.
 
 ## Using Fluoride to Protect Your Teeth
 
@@ -83,12 +97,13 @@ You probably need to see your dentist more often than the standard six-month sch
 
 Dry mouth is a real occupational hazard for serious athletes. But you can protect your teeth by staying hydrated, using fluoride, watching what you eat, and visiting your dentist more frequently. Treat your oral health with the same attention you give your athletic training.
 
+> **Key Takeaway:** High-intensity exercise reduces salivary flow by 40-50%, increasing cavity and periodontal disease risk in athletes.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Oral Health Habits: Complete Guide](/article/oral-health-habits-complete-guide.html)
-- [Benefits of Tartar Prevention](/article/benefits-of-tartar-prevention.html)
 - [Dental Products Comparison: What Actually Works](/article/dental-products-comparison-what-actually-works.html)
+- [Plaque Staining Revealing Biofilm Location](/article/plaque-staining-revealing-biofilm-location.html)
+- [Fluoride Varnish Application: Professional-Strength](/article/fluoride-varnish-application-professional-strength-treatment.html)
+- [Oil Pulling with Coconut Oil: Clinical Efficacy in Oral](/article/coconut-oil-natural-cleansing.html)
+- [A Patient's Guide to Dental Visit Frequency](/article/best-practices-for-dental-visit-frequency.html)
 
-> **Key Takeaway:** Exercise can dry out your mouth, which makes your teeth more vulnerable to cavities. But with smart hydration, fluoride use, and careful diet choices, you can keep your teeth healthy while you train hard. Talk to your dentist about which options are right for your specific situation.

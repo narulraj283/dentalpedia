@@ -39,9 +39,9 @@ Results aren't dramatic—you're not going from stained yellow to Hollywood-whit
 
 ## Managing Sensitivity
 
-Some people experience tooth sensitivity while using whitening trays. Learning more about [oral health habits complete guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. The bleaching agent penetrates to the pulp, causing temporary sensitivity to cold. Most people tolerate this fine, experiencing mild discomfort. Some people find it bothersome.
+Some people experience tooth sensitivity while using whitening trays. Learning more about [Oral Health Habits Complete Guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. The bleaching agent penetrates to the pulp, causing temporary sensitivity to cold. Most people tolerate this fine, experiencing mild discomfort. Some people find it bothersome.
 
-If sensitivity becomes a problem, several strategies help: reduce tray wear to 4-6 hours instead of overnight, use the trays every other night instead of every night, apply potassium nitrate desensitizing gel to your teeth before wearing the tray, or simply take a break for a few days. You may also want to read about [benefits of tartar prevention](/article/benefits-of-tartar-prevention.html).
+If sensitivity becomes a problem, several strategies help: reduce tray wear to 4-6 hours instead of overnight, use the trays every other night instead of every night, apply potassium nitrate desensitizing gel to your teeth before wearing the tray, or simply take a break for a few days. You may also want to read about [Benefits of Tartar Prevention](/article/benefits-of-tartar-prevention.html).
 
 Persistent sensitivity after completing treatment usually resolves within a few weeks. Sensitivity is temporary and reversible—it indicates the bleaching agent is penetrating but doesn't mean you're causing permanent damage.
 
@@ -89,16 +89,19 @@ The key to satisfaction with custom tray whitening is realistic expectations. Yo
 
 Most people feel the improvement in their appearance justifies the cost and time investment. If you're hoping for dramatic change, professional in-office treatment might better meet your expectations, though it costs significantly more.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Custom whitening trays are an effective, safe, and affordable way to whiten your teeth. With proper use and realistic expectations, most people achieve meaningful whitening that boosts confidence. Discuss with your dentist whether this option is right for you.
 
+> **Key Takeaway:** Custom whitening trays deliver bleaching gel safely and effectively while you sleep. Learn how they work and how to get the best results.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Stained Teeth: Causes and Solutions](/article/oral-health-habits-complete-guide.html)
-- [Maintaining Your Bright Smile](/article/benefits-of-tartar-prevention.html)
 - [Professional Dental Care and Results](/article/dental-products-comparison-what-actually-works.html)
+- [Mouth Cleaning Tools: A Complete Patient Guide](/article/benefits-of-mouth-cleaning-tools.html)
+- [Evidence-Based Teeth Brushing Techniques](/article/benefits-of-teeth-brushing-technique.html)
+- [Cost of Tartar Prevention and Clinical Management](/article/cost-of-tartar-prevention.html)
+- [Why Tartar Prevention Matters](/article/why-tartar-prevention-matters.html)
 
-> **Key Takeaway:** Custom whitening trays provide effective, safe bleaching over 2-4 weeks. Results aren't permanent but can be maintained with periodic touch-ups.

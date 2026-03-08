@@ -1,31 +1,44 @@
 ---
-title: "Bruxism in Children: Nocturnal Teeth Grinding Etiology and"
-slug: bruxism-in-children-teeth-grinding-at-night
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: Childhood sleep bruxism prevalence, developmental implications, and evidence-based prevention strategies
 date: 2026-03-05
+excerpt: Childhood sleep bruxism prevalence, developmental implications, and evidence-based
+  prevention strategies
 read_time: 8 min
+references:
+- Cibelle Toscan do Oliveira L, Carrera-Duarte B, Marchili N, et al. Bruxism in children.
+  Curr Opin Pediatr. 2020;32(3):377-382.
+- 'Serra-Negra JM, Lobbezoo F, Ahlberg J, et al. Bruxism in Children: Critical Appraisal
+  of Current Knowledge and Suggestions for Future Research. J Oral Rehabil. 2020;47(6):765-783.'
+- Macaluso GM, Guerra P, Di Giovanni G, et al. Sleep bruxism is a disorder related
+  to sleep stages. J Dent Res. 1998;77(4):565-573.
+- Oksenberg A, Arons E. Sleep bruxism, sleep apnea, and the Sleep-Related Hypoventilation/Hypoxemia
+  syndrome. Sleep Med Rev. 2002;6(3):203-215.
+- Winocur E, Gadoth N, Linder T, et al. Temporomandibular disorders and migraine headache--Heaviside
+  function applied to a case series of 1,432 patients. J Orofac Pain. 2002;16(2):115-120.
+- 'Castroflorio T, Bargellini A, Rossini G, et al. Sleep bruxism in children: etiology,
+  diagnosis, and treatment options. Nat Sci Sleep. 2021;13:385-398.'
+- Restrepo CC, Vásquez LM, Alvarez M, et al. Personality traits and temporomandibular
+  disorders in a group of Caucasian colombian subjects. J Oral Rehabil. 2006;33(5):345-352.
+- Aucí MC, Paglini SG, Ferreira JJ. Sleep characteristics of children with bruxism.
+  Sleep Sci. 2016;9(3):193-200.
+- Lewin GR, Moshourab RA. Mechanotransduction and the regulation of touch sensation.
+  Proc Natl Acad Sci USA. 2004;101(23):8542-8547.
+- 'Wietfeld LA, Winocur E, Gadoth N, et al. Sleep bruxism and headaches: similarities
+  and differences. Sleep Med Rev. 2001;5(3):215-230.'
+reviewed: true
 reviewer_specialty: Pediatric Dentistry
+slug: bruxism-in-children-teeth-grinding-at-night
 subcategory: Pediatric Overview
 subcategory_slug: overview-pediatric
-reviewed: true
-references:
-  - "Cibelle Toscan do Oliveira L, Carrera-Duarte B, Marchili N, et al. Bruxism in children. Curr Opin Pediatr. 2020;32(3):377-382."
-  - "Serra-Negra JM, Lobbezoo F, Ahlberg J, et al. Bruxism in Children: Critical Appraisal of Current Knowledge and Suggestions for Future Research. J Oral Rehabil. 2020;47(6):765-783."
-  - "Macaluso GM, Guerra P, Di Giovanni G, et al. Sleep bruxism is a disorder related to sleep stages. J Dent Res. 1998;77(4):565-573."
-  - "Oksenberg A, Arons E. Sleep bruxism, sleep apnea, and the Sleep-Related Hypoventilation/Hypoxemia syndrome. Sleep Med Rev. 2002;6(3):203-215."
-  - "Winocur E, Gadoth N, Linder T, et al. Temporomandibular disorders and migraine headache--Heaviside function applied to a case series of 1,432 patients. J Orofac Pain. 2002;16(2):115-120."
-  - "Castroflorio T, Bargellini A, Rossini G, et al. Sleep bruxism in children: etiology, diagnosis, and treatment options. Nat Sci Sleep. 2021;13:385-398."
-  - "Restrepo CC, Vásquez LM, Alvarez M, et al. Personality traits and temporomandibular disorders in a group of Caucasian colombian subjects. J Oral Rehabil. 2006;33(5):345-352."
-  - "Aucí MC, Paglini SG, Ferreira JJ. Sleep characteristics of children with bruxism. Sleep Sci. 2016;9(3):193-200."
-  - "Lewin GR, Moshourab RA. Mechanotransduction and the regulation of touch sensation. Proc Natl Acad Sci USA. 2004;101(23):8542-8547."
-  - "Wietfeld LA, Winocur E, Gadoth N, et al. Sleep bruxism and headaches: similarities and differences. Sleep Med Rev. 2001;5(3):215-230."
+title: 'Bruxism in Children: Nocturnal Teeth Grinding Etiology'
 ---
 
 ## Childhood Grinding: How Common Is It?
 
-Sleep grinding is actually pretty common in kids—about 15-20% of children grind their teeth at night. It's most common between ages 4-10, with peak rates of 18-20% in kids ages 4-7. As kids get older, grinding usually decreases—by age 12-13, it's down to 5-8%. Here's the good news: about 50-60% of kids who grind experience spontaneous remission by age 15-16. Only 40-50% of childhood grinders continue into adulthood. For more details, see our guide on [Adenoid and Tonsil Hypertrophy](/article/adenoid-and-tonsil-hypertrophy-airway-impact.html).
+Sleep grinding is actually pretty common in kids—about 15-20% of children grind their teeth at night. It's most common between ages 4-10, with peak rates of 18-20% in kids ages 4-7. As kids get older, grinding usually decreases—by age 12-13, it's down to 5-8%.
+
+Here's the good news: about 50-60% of kids who grind experience spontaneous remission by age 15-16. Only 40-50% of childhood grinders continue into adulthood. For more details, see our guide on [Adenoid and Tonsil Hypertrophy](/article/adenoid-and-tonsil-hypertrophy-airway-impact.html).
 
 Some kids are more likely to keep grinding into adulthood: those with severe grinding (more than 10 episodes per hour), those with jaw joint symptoms, or those with multiple risk factors. Girls grind slightly more than boys during childhood (51-55% of cases), which might relate to earlier development, though we're not entirely sure why. For more details, see our guide on [Ankyloglossia and Speech Effects](/article/ankyloglossia-speech-effects-articulation-problems.html).
 
@@ -53,7 +66,9 @@ Teeth stage matters. **Baby teeth bruxism** (ages 3-6) almost always resolves sp
 
 For baby teeth bruxism, reassure your child and yourself—it's usually normal and self-limiting. **Sleep hygiene** is first-line treatment for all ages: consistent bedtime/wake time, cool dark bedroom, no screens 1-2 hours before bed, 8-10 hours sleep nightly for ages 6-12. **Screen time restriction** (limit to under 2-3 hours daily) helps—blue light from screens disrupts sleep-related grinding. **Stress reduction** through play, age-appropriate coping skills, and removing stressors during family transitions helps. **Caffeine elimination** (no soda, limit chocolate) and **sugar avoidance** optimize sleep.
 
-**Splints** are rarely used in baby teeth. For mixed dentition, splints might be justified if severe wear develops. For permanent dentition, splints protect teeth (1.5-1.75mm thickness, durable acrylic). Compliance challenges are real—40-50% of kids resist wearing splints. Parent education and positive reinforcement help. Splints need adjustment every year as jaws grow.
+**Splints** are rarely used in baby teeth. For mixed dentition, splints might be justified if severe wear develops. For permanent dentition, splints protect teeth (1.5-1.75mm thickness, durable acrylic).
+
+Compliance challenges are real—40-50% of kids resist wearing splints. Parent education and positive reinforcement help. Splints need adjustment every year as jaws grow.
 
 **Sleep breathing assessment** is critical. If your child snores, has witnessed apneas, or shows restless sleep, ask your pediatrician about **adenotonsillar hypertrophy assessment**. Adenotonsillectomy produces 50-70% grinding reduction in kids with documented sleep-disordered breathing. **Sleep apnea treatment** (CPAP, adenotonsillar surgery) significantly reduces bruxism.
 
@@ -62,24 +77,6 @@ For baby teeth bruxism, reassure your child and yourself—it's usually normal a
 ## Long-Term Outlook
 
 Most kids with bruxism outgrow it—50-60% have complete remission by age 15-16. Kids most likely to persist into adulthood have severe grinding or associated TMJ symptoms. Follow their teeth every 6-12 months to monitor wear. Address sleep and behavioral issues early. Many childhood bruxism cases resolve simply through maturation, good sleep, and stress management—aggressive treatment is usually unnecessary.
-
-
-
-## Related Articles You May Find Helpful
-
-- [Adenoid and Tonsil Hypertrophy: Airway Impact](/article/adenoid-and-tonsil-hypertrophy-airway-impact.html)
-- [Ankyloglossia and Speech Effects: Understanding Tongue-Tie Articulation Problems](/article/ankyloglossia-speech-effects-articulation-problems.html)
-- [Autism and Dental Anxiety: Providing Special Needs Dental Care for ASD Patients](/article/autism-and-dental-anxiety-special-needs-care.html)
-
-
-
-## Conclusion
-
-Taking care of your oral health means staying informed about bruxism in children teeth grinding at night. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
-
-> **Key Takeaway:** Childhood bruxism affects 15-20% of kids, resolves spontaneously in 50-60% by age 15-16, and usually needs only sleep optimization, stress management, and monitoring rather than aggressive treatment.
-
-Learn more: Sleep and children's health, Kids' dental development, or Adenoid and tonsil problems.
 
 ## Behavioral and Environmental Management
 
@@ -140,3 +137,18 @@ Sleep bruxism affects 15-20% of children with peak prevalence in primary and ear
 Primary management emphasizes sleep hygiene optimization, screen time restriction, and stress reduction rather than immediate splint therapy. Assessment for underlying sleep-disordered breathing (particularly adenotonsillar hypertrophy-related OSA) should occur in all bruxing children; adenotonsillectomy produces substantial grinding reduction (50-70%) in children with documented sleep pathology.
 
 Protective splint therapy is reserved for primary/early mixed dentition if severe wear develops or for mixed/permanent dentition bruxism with significant dysfunction. Behavioral modification and splint use together reduce bruxism-related complications and provide foundation for successful long-term management. Regular follow-up monitoring tracks dental wear progression, identifies emerging complications, and supports positive developmental trajectories into adulthood.
+
+## Conclusion
+
+Learn more: Sleep and children's health, Kids' dental development, or Adenoid and tonsil problems.
+
+> **Key Takeaway:** Childhood bruxism affects 15-20% of kids, resolves spontaneously in 50-60% by age 15-16, and usually needs only sleep optimization, stress management, and monitoring rather than aggressive treatment.
+
+## Related Articles
+
+- [Autism and Dental Anxiety](/article/autism-and-dental-anxiety-special-needs-care.html)
+- [Missing Permanent Teeth in Children](/article/hypodontia-in-children-missing-permanent-teeth.html)
+- [Baby Tooth Shedding Timeline](/article/primary-tooth-shedding-normal-exfoliation-timeline.html)
+- [Distraction Therapy: Movies and Music During Treatment](/article/distraction-therapy-movies-and-music-during-treatment.html)
+- [Tongue-Tie: How to Know If Your Baby Needs Help](/article/tongue-tie-ankyloglossia-effects-and-release.html)
+

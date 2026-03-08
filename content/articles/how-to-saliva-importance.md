@@ -39,7 +39,9 @@ Most people think saliva is just there to keep their mouth from being dry, but i
 
 You have three pairs of major salivary glands located around your jaw (your parotid glands in front of your ears, submandibular glands under your jaw, and sublingual glands under your tongue) plus hundreds of tiny minor glands scattered throughout your mouth. Together, these glands produce about half a liter to a liter and a half of saliva every single day—even more when you're chewing or eating.
 
-Saliva is mostly water (99 percent), but that remaining 1 percent is pure protection. It contains calcium and phosphate minerals that repair your teeth, bicarbonate that neutralizes acids, special proteins that kill bacteria and fungus, and lubricating mucins that keep your mouth comfortable. Your saliva flow changes throughout the day too. When you're resting, you produce less saliva (about a quarter to a third of a milliliter per minute). But when you chew gum, eat, or get excited, your salivary glands kick into high gear and can produce up to twice as much. This increased flow carries more protective minerals and buffering power, which is why chewing sugar-free gum after meals actually helps protect your teeth.
+Saliva is mostly water (99 percent), but that remaining 1 percent is pure protection. It contains calcium and phosphate minerals that repair your teeth, bicarbonate that neutralizes acids, special proteins that kill bacteria and fungus, and lubricating mucins that keep your mouth comfortable. Your saliva flow changes throughout the day too.
+
+When you're resting, you produce less saliva (about a quarter to a third of a milliliter per minute). But when you chew gum, eat, or get excited, your salivary glands kick into high gear and can produce up to twice as much. This increased flow carries more protective minerals and buffering power, which is why chewing sugar-free gum after meals actually helps protect your teeth.
 
 ## How Saliva Protects Your Teeth from Decay
 
@@ -51,11 +53,13 @@ People with naturally higher salivary buffering capacity rarely get cavities, ev
 
 ## The Bacteria Fighters in Your Saliva
 
-Your saliva contains an impressive arsenal of natural antibacterial weapons. Lysozyme is an enzyme that destroys the cell walls of bacteria. Lactoferrin starves bacteria of iron, which they need to survive and reproduce. Histatins are proteins that kill both bacteria and fungus. Peroxidase enzymes create reactive compounds that poison bacterial metabolism. Together, these proteins make your saliva hostile to the bacteria that cause cavities and gum disease.
+Your saliva contains an impressive arsenal of natural antibacterial weapons. Lysozyme is an enzyme that destroys the cell walls of bacteria. Lactoferrin starves bacteria of iron, which they need to survive and reproduce.
+
+Histatins are proteins that kill both bacteria and fungus. Peroxidase enzymes create reactive compounds that poison bacterial metabolism. Together, these proteins make your saliva hostile to the bacteria that cause cavities and gum disease.
 
 Your saliva also contains antibodies (especially one called IgA) that work like bouncer bouncers at a bar—they recognize bad bacteria and prevent them from sticking to your teeth and gums in the first place. This is why brushing alone doesn't prevent all cavities; your saliva's immune components are equally important for keeping bacteria at bay.
 
-The sticky proteins in saliva (called mucins) also help by coating your teeth with a protective slime layer and trapping bacteria so they wash away when you swallow. It's actually pretty gross when you think about it, but it's incredibly effective protection. The key point is that having adequate saliva flow matters as much as having the right [salivary composition](/article/cost-of-mouthwash-selection.html)—if you only make a little bit of saliva, you only get a little bit of protection, even if that saliva has all the right antibacterial ingredients.
+The sticky proteins in saliva (called mucins) also help by coating your teeth with a protective slime layer and trapping bacteria so they wash away when you swallow. It's actually pretty gross when you think about it, but it's incredibly effective protection. The key point is that having adequate saliva flow matters as much as having the right [Salivary Composition](/article/cost-of-mouthwash-selection.html)—if you only make a little bit of saliva, you only get a little bit of protection, even if that saliva has all the right antibacterial ingredients.
 
 ## How Saliva Actually Repairs Your Teeth
 
@@ -71,7 +75,9 @@ People with strong saliva flow can remineralize small lesions naturally just thr
 
 Dry mouth (xerostomia) affects 10-40 percent of older adults and 5-10 percent of younger people. The causes are usually medications—over 400 medications can cause dry mouth, including antihistamines, antidepressants, and blood pressure medications. Other causes include Sjögren syndrome (an autoimmune condition), diabetes, radiation therapy for head and neck cancer, and just not drinking enough water.
 
-The consequences of chronic dry mouth are serious. Without adequate saliva, your cavity risk jumps by 10-50 fold depending on how severe the dryness is. Cavities develop faster (months or years instead of years), appear on tooth surfaces that normally wouldn't get cavities (like near the gum line and on root surfaces), and affect multiple teeth simultaneously. Gum disease becomes severe because saliva's antimicrobial powers are gone. Fungal infections (oral thrush) become common because saliva's antifungal histatins aren't there to stop them. Your mouth feels raw and burning, swallowing becomes hard, your taste changes, and if you wear dentures, they don't stay in place well.
+The consequences of chronic dry mouth are serious. Without adequate saliva, your cavity risk jumps by 10-50 fold depending on how severe the dryness is. Cavities develop faster (months or years instead of years), appear on tooth surfaces that normally wouldn't get cavities (like near the gum line and on root surfaces), and affect multiple teeth simultaneously.
+
+Gum disease becomes severe because saliva's antimicrobial powers are gone. Fungal infections (oral thrush) become common because saliva's antifungal histatins aren't there to stop them. Your mouth feels raw and burning, swallowing becomes hard, your taste changes, and if you wear dentures, they don't stay in place well.
 
 Dry mouth is not something to ignore or just live with. It's a serious condition that demands attention because it accelerates tooth decay dramatically. People with chronic dry mouth need aggressive preventive care including prescription-strength fluoride, antimicrobial rinses, and frequent professional checkups (every 3-4 months instead of the normal twice-yearly).
 
@@ -125,12 +131,15 @@ Your saliva is doing an incredible job protecting your teeth 24/7. Respecting th
 
 ## Conclusion
 
-Saliva is your mouth's most underappreciated superhero. It neutralizes cavity-causing acids, kills bacteria and fungus, repairs early tooth damage, and lubricates your mouth—all automatically. When your saliva is flowing well, maintaining healthy teeth is dramatically easier. When it's not, oral problems multiply quickly. Understanding saliva's critical role and taking steps to maintain strong salivary flow and [choosing the right preventive treatments](/article/how-to-preventive-treatments.html) are some of the smartest health investments you can make for your mouth.
+Saliva is your mouth's most underappreciated superhero. It neutralizes cavity-causing acids, kills bacteria and fungus, repairs early tooth damage, and lubricates your mouth—all automatically. When your saliva is flowing well, maintaining healthy teeth is dramatically easier. When it's not, oral problems multiply quickly. Understanding saliva's critical role and taking steps to maintain strong salivary flow and [Choosing the Right Preventive Treatments](/article/how-to-preventive-treatments.html) are some of the smartest health investments you can make for your mouth.
 
 > **Key Takeaway:** Your saliva is constantly working to prevent cavities, fight infections, and repair tooth damage. If you have adequate saliva, leverage it through good prevention; if you have dry mouth, seek treatment immediately because your cavity risk is dramatically elevated.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
 - [Timeline for Cavity Prevention Methods](/article/timeline-for-cavity-prevention-methods.html)
 - [Sugar and Tooth Decay Effects](/article/sugar-and-tooth-decay-how-diet-affects-your-teeth.html)
-- [Choosing the Right Mouthwash](/article/cost-of-mouthwash-selection.html)
+- [Optimal Sequence and Timeline for Daily Oral Hygiene](/article/timeline-for-daily-teeth-cleaning.html)
+- [Risk-Based Dental Visit Frequency and Recall Intervals](/article/timeline-for-dental-visit-frequency.html)
+- [Cost of Mouth Cleaning Tools](/article/cost-of-mouth-cleaning-tools.html)
+

@@ -20,7 +20,9 @@ references:
 
 ## Introduction
 
-Thumb sucking is completely normal for infants and toddlers—it's a self-soothing behavior that helps them feel safe. However, if it continues past age 3-4, it can affect how your child's teeth develop. The good news? Most children can stop with supportive, positive approaches. Pushing, shaming, or punishing usually backfires, making the habit stronger. Understanding your child's developmental stage helps you use strategies that actually work.
+Thumb sucking is completely normal for infants and toddlers—it's a self-soothing behavior that helps them feel safe. However, if it continues past age 3-4, it can affect how your child's teeth develop. The good news?
+
+Most children can stop with supportive, positive approaches. Pushing, shaming, or punishing usually backfires, making the habit stronger. Understanding your child's developmental stage helps you use strategies that actually work.
 
 ## Is This Normal? Age Guidelines
 
@@ -44,7 +46,7 @@ Persistent thumb sucking creates pressure that affects how teeth develop:
 
 **Palate:** Arches more narrowly
 
-The good news: most changes reverse within a year of stopping the habit if stopped by age 7-8. Learning more about [baby teeth development and eruption timeline](/article/baby-teeth-development-and-eruption-timeline.html) can help you understand this better. If the habit continues longer, some changes become permanent and require orthodontic treatment.
+The good news: most changes reverse within a year of stopping the habit if stopped by age 7-8. Learning more about [Baby Teeth Development and Eruption Timeline](/article/baby-teeth-development-and-eruption-timeline.html) can help you understand this better. If the habit continues longer, some changes become permanent and require orthodontic treatment.
 
 Early intervention prevents this, which is why stopping by age 5-6 is ideal.
 
@@ -72,7 +74,7 @@ Understanding the cause helps you address it effectively. A child sucking from s
 - Fidget toys for something to do with hands
 - Stress ball for anxious times
 - Reassurance and comfort for emotional times
-- Activity or engagement for bored times You may also want to read about [dietary counseling child nutrition](/article/dietary-counseling-child-nutrition.html).
+- Activity or engagement for bored times You may also want to read about [Dietary Counseling Child Nutrition](/article/dietary-counseling-child-nutrition.html).
 
 **Positive reinforcement:** Praise and reward for not sucking. Sticker charts work well for 4-8-year-olds. Specific, immediate rewards ("Great job today!") beat delayed distant rewards.
 
@@ -163,12 +165,13 @@ Most kids who successfully quit don't relapse, but vigilance during high-stress 
 
 Thumb sucking beyond age 3-4 warrants gentle intervention to prevent permanent dental changes. Positive behavioral approaches—gentle reminders, identifying triggers, offering alternatives, and consistent praise for progress—work in 75-85% of children. Avoid shame, punishment, and power struggles, which backfire. Most children successfully stop with this supportive approach by age 6-8, preventing dental changes and building confidence in their ability to overcome habits.
 
+> **Key Takeaway:** Thumb and finger sucking beyond age 3-4 can affect teeth development. Learn supportive strategies to help kids stop.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Preventing Dental Problems in Children](/article/baby-teeth-development-and-eruption-timeline.html)
-- [Supporting Child Dental Health](/article/dietary-counseling-child-nutrition.html)
 - [Understanding Children's Oral Development](/article/delayed-eruption-late-tooth-development-causes.html)
+- [Habit Breaking: Thumb Sucking and Tongue Thrust](/article/habit-breaking-thumb-sucking-and-tongue-thrust.html)
+- [Early Childhood Caries: Aggressive Decay in Toddlers](/article/early-childhood-caries-aggressive-decay-in-toddlers.html)
+- [Lip Tie in Babies: Causes, Diagnosis, and Treatment](/article/lip-tie-and-feeding-difficulties-in-infants.html)
+- [Ectopic Eruption](/article/ectopic-eruption-misaligned-tooth-emergence.html)
 
-> **Key Takeaway:** Thumb sucking past age 3-4 can affect tooth development. Positive behavioral strategies—gentle reminders, celebrating progress, offering alternatives—help 75-85% of children stop successfully. Avoid shame or punishment, which make habits stronger. Most children stop by age 6-8 with consistent, supportive approaches. Talk to your dentist about which options are right for your child's specific situation.

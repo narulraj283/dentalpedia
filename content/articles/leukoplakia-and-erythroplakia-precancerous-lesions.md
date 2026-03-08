@@ -54,7 +54,7 @@ Other causes include chronic irritation from sharp food edges or broken teeth, p
 
 ## Location Matters
 
-Where the patch appears in your mouth affects how carefully your dentist monitors it. Patches on your tongue (especially the front two-thirds), under your tongue (the floor of your mouth), or near your soft palate are higher risk and need more aggressive treatment. Patches on the roof of your mouth or inside your cheeks are generally lower risk. See our article on [common misconceptions about gum disease stages](/article/common-misconceptions-about-gum-disease-stages.html) for more information about oral conditions.
+Where the patch appears in your mouth affects how carefully your dentist monitors it. Patches on your tongue (especially the front two-thirds), under your tongue (the floor of your mouth), or near your soft palate are higher risk and need more aggressive treatment. Patches on the roof of your mouth or inside your cheeks are generally lower risk. See our article on [Common Misconceptions About Gum Disease Stages](/article/common-misconceptions-about-gum-disease-stages.html) for more information about oral conditions.
 
 ## Understanding Your Biopsy Results
 
@@ -74,7 +74,7 @@ Your dentist needs a tissue sample to look under the microscope. There are two m
 
 **Brush biopsy** is a simpler, less invasive option. Your dentist uses a special rotating brush to collect cells from the patch. This doesn't require numbing and feels more like a gentle scraping. Brush biopsy is excellent for initial screening and is very good at detecting serious problems (90-95% accurate), but scalpel biopsy remains the gold standard for confirming the exact grade of abnormality.
 
-Your dentist will recommend which type of biopsy is best for you based on your situation. If you have a red patch or an uneven white patch, expect a prompt biopsy within 1-2 weeks. If you have a smooth white patch, your dentist might monitor it for 2-4 weeks to see if it's temporary, then perform a biopsy if it persists. For more information about anesthesia options during this procedure, see our article on [anesthesia types and concerns](/article/pregnancy-and-dental-care-safety-and-timing.html).
+Your dentist will recommend which type of biopsy is best for you based on your situation. If you have a red patch or an uneven white patch, expect a prompt biopsy within 1-2 weeks. If you have a smooth white patch, your dentist might monitor it for 2-4 weeks to see if it's temporary, then perform a biopsy if it persists. For more information about anesthesia options during this procedure, see our article on [Anesthesia Types and Concerns](/article/pregnancy-and-dental-care-safety-and-timing.html).
 
 ## Advanced Testing and Prediction
 
@@ -133,12 +133,12 @@ After your initial diagnosis and treatment, your dentist will create a personali
 
 White and red patches in your mouth deserve attention, but they're not necessarily a death sentence. When caught early and monitored carefully, these conditions have excellent outcomes. Your dentist has the training and tools to catch serious changes early, and when treatment is done promptly, cure rates are very high. By understanding your condition, keeping your appointments, and making healthy lifestyle choices like quitting tobacco, you take control of your oral health and your future.
 
-## Key Takeaway
-
-Regular monitoring combined with tobacco cessation and healthy habits gives you the best chance of preventing serious progression. When white or red patches are caught early, cure rates exceed 80-90 percent.
+> **Key Takeaway:** Regular monitoring combined with tobacco cessation and healthy habits gives you the best chance of preventing serious progression. When white or red patches are caught early, cure rates exceed 80-90 percent.
 
 ## Related Articles
 
-- [Common Misconceptions About Gum Disease Stages](/article/common-misconceptions-about-gum-disease-stages.html)
-- [Pregnancy and Dental Care: Safety and Timing](/article/pregnancy-and-dental-care-safety-and-timing.html)
-- [Dental Bridge vs. Implant: Cost and Longevity Comparison](/article/dental-bridge-vs-implant-cost-and-longevity-comparison.html)
+- [Dental Bridges vs Implants](/article/dental-bridge-vs-implant-cost-and-longevity-comparison.html)
+
+- [Recovery After Tooth Extraction](/article/how-to-recovery-after-extraction.html)
+- [Professional Fluoride Treatments for Dentin](/article/fluoride-treatments-for-sensitivity.html)
+

@@ -39,7 +39,9 @@ You've probably seen toothbrushes labeled soft, medium, or hard. Most people ass
 
 Soft bristles are what your dentist recommends, and here's why: soft bristles reach into the crucial area between your tooth and gum line—where decay starts. They bend enough to slide under the gum and remove plaque without damaging delicate gum tissue. Research shows soft-bristled brushes remove 70-85% of plaque when you use the right technique.
 
-Hard bristles seem appealing because they feel scrubby and powerful. But over just 6 months of twice-daily brushing with hard bristles, 15-25% of people develop gum recession. That's where your gum pulls back from the tooth, exposing the sensitive root. With soft bristles, only 2-5% of people get recession. Once your gum recedes, it doesn't grow back. The American Dental Association specifically recommends soft bristles for everyone, especially anyone with gum disease or sensitivity.
+Hard bristles seem appealing because they feel scrubby and powerful. But over just 6 months of twice-daily brushing with hard bristles, 15-25% of people develop gum recession. That's where your gum pulls back from the tooth, exposing the sensitive root.
+
+With soft bristles, only 2-5% of people get recession. Once your gum recedes, it doesn't grow back. The American Dental Association specifically recommends soft bristles for everyone, especially anyone with gum disease or sensitivity.
 
 Medium bristles? They don't offer any advantage over soft bristles—they're just a compromise that still increases gum damage risk. Stick with soft, every time.
 
@@ -87,19 +89,18 @@ Choose a soft-bristled brush with a small-to-medium head (15-20 millimeters long
 
 Many people spend $100 on a fancy brush but destroy their gums through aggressive brushing. Good equipment plus proper technique equals healthy teeth and gums. Learn proper technique from your dentist or hygienist; technique matters more than the tool.
 
-For more on keeping your teeth clean, see our guides on [proper dental visit frequency](/article/how-to-dental-visit-frequency.html) and [mouth cleaning tools](/article/mouth-cleaning-tools-complete-guide.html).
+For more on keeping your teeth clean, see our guides on [Proper Dental Visit Frequency](/article/how-to-dental-visit-frequency.html) and [Mouth Cleaning Tools](/article/mouth-cleaning-tools-complete-guide.html).
 
 ## Conclusion
 
 Your toothbrush is one of your most important tools for preventing cavities and gum disease. Soft bristles are non-negotiable—hard bristles damage your gums more than they help. Proper brushing technique (45-degree angle, 2 minutes daily, light pressure) matters more than which brush you buy. Replace your brush every 3 months without fail.
 
-## Key Takeaway
-
-Soft bristles prevent gum damage while removing maximum plaque. The Bass technique (45-degree angle, gentle back-and-forth strokes) matters more than which brush you buy. Replace your brush every 3 months. If you have gum disease or limited dexterity, an electric oscillating brush delivers significantly better results than manual brushing.
-
+> **Key Takeaway:** Soft bristles prevent gum damage while removing maximum plaque. The Bass technique (45-degree angle, gentle back-and-forth strokes) matters more than which brush you buy. Replace your brush every 3 months. If you have gum disease or limited dexterity, an electric oscillating brush delivers significantly better results than manual brushing.
 
 ## Related Articles
 
 - [Plaque Staining Revealing Biofilm Location](/article/plaque-staining-revealing-biofilm-location.html)
 - [Staining Foods Dietary Impact On Color](/article/staining-foods-dietary-impact-on-color.html)
-- [Mouth Cleaning Tools Complete Guide](/article/mouth-cleaning-tools-complete-guide.html)
+
+- [Regular Checkups: Why Every Six Months Matters](/article/regular-checkups-why-every-six-months-matters.html)
+

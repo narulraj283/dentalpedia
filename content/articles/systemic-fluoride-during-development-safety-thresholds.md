@@ -45,7 +45,7 @@ The most common source of fluoride is water. Many communities add fluoride to th
 
 Your child gets fluoride from multiple sources: drinking water (if you live in a fluoridated area), toothpaste, mouthwash, and sometimes supplements your dentist prescribes. The key is making sure your child doesn't get too much fluoride from all these sources combined.
 
-If your community doesn't add fluoride to its water, your dentist might suggest fluoride supplements—these come as liquid drops, tablets, or lozenges that dissolve slowly in your mouth. [Check with your dentist about mouthwash options to see if antibacterial or fluoride versions are right for your family](/article/mouthwash-selection-antibacterial-vs-fluoride.html).
+If your community doesn't add fluoride to its water, your dentist might suggest fluoride supplements—these come as liquid drops, tablets, or lozenges that dissolve slowly in your mouth. [Check with your dentist about mouthwash options to see](/article/mouthwash-selection-antibacterial-vs-fluoride.html).
 
 ## How Fluoride Builds Stronger Teeth
 
@@ -75,13 +75,13 @@ If your water doesn't have fluoride, your dentist might recommend supplements:
 
 These supplements usually come as drops you can add to juice or a liquid you take by mouth. Your dentist will recommend the right dosage for your child based on where you live and how much fluoride is already in your drinking water.
 
-[Learn about common misconceptions about fluoride to understand why dentists recommend it](/article/common-misconceptions-about-fluoride-benefits.html).
+[Learn about common misconceptions about fluoride to](/article/common-misconceptions-about-fluoride-benefits.html).
 
 ## Toothpaste: Getting the Amount Just Right
 
 Toothpaste is where most young kids get extra fluoride, so let's talk about how much to use. For babies starting to brush (around 6-12 months), you need just a grain of rice-sized smear of fluoride toothpaste on the brush. Your finger should do most of the brushing; the toothpaste is just there to deliver fluoride.
 
-By age 3 and up, use a pea-sized amount—literally about the size of a pea. That's it. The idea is that your child learns to brush while getting some fluoride, but you're controlling how much they swallow. Most young kids swallow some toothpaste when they brush, and that's normal. At these tiny amounts, it's completely safe.
+By age 3 and up, use a pea-sized amount—literally about the size of a pea. That's it. The idea is that your child learns to brush while getting some fluoride, but you're controlling how much they swallow. Most young kids swallow some toothpaste when they brush, and that's normal. At these tiny amounts, it's generally well-tolerated.
 
 Always supervise your child's brushing until they're around 6-8 years old and can reliably spit out toothpaste instead of swallowing it. You're not being overprotective; you're preventing fluorosis.
 
@@ -117,12 +117,13 @@ Fluoride is one of the most important tools we have to prevent cavities in child
 
 Work with your dentist to figure out what your child needs based on where you live and your family's situation. They'll help you use fluoride safely and effectively.
 
-## Key Takeaway
-
-Fluoride is safe and effective when used at the right dose for your child's age and local water supply. The goal is to get enough fluoride to prevent cavities without getting so much that you cause mild tooth discoloration—and that's completely achievable with parental supervision and guidance from your dentist.
+> **Key Takeaway:** Fluoride is safe and effective when used at the right dose for your child's age and local water supply. The goal is to get enough fluoride to prevent cavities without getting so much that you cause mild tooth discoloration—and that's completely achievable with parental supervision and guidance from your dentist.
 
 ## Related Articles
 
-- [How to Choose the Right Mouthwash: Antibacterial vs Fluoride](/article/mouthwash-selection-antibacterial-vs-fluoride.html)
 - [How to Prevent Tartar](/article/how-to-tartar-prevention.html)
 - [Understanding Your Cavity Risk Factors](/article/cavity-risk-factors-complete-guide.html)
+
+- [Cost of Toothbrush Selection](/article/cost-of-toothbrush-selection.html)
+- [Brushing and Flossing: The Right Way to Do It](/article/oral-hygiene-routine-complete-guide.html)
+

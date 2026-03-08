@@ -85,7 +85,9 @@ Your dentist can prescribe antibiotics if infection develops. Amoxicillin is com
 
 ## Jaw Fracture (Rare But Serious)
 
-Jaw fracture during extraction is very rare, but it can happen, especially if you have bone disease, a big cyst, or significant gum disease. If your dentist feels or hears something that sounds wrong during extraction, they'll take X-rays to check. If a fracture happened, you'll be referred to an oral surgeon. Treatment depends on where the fracture is. Minor fractures might just need a soft diet and careful movement. More serious fractures might need surgical repair.
+Jaw fracture during extraction is very rare, but it can happen, especially if you have bone disease, a big cyst, or significant gum disease. If your dentist feels or hears something that sounds wrong during extraction, they'll take X-rays to check. If a fracture happened, you'll be referred to an oral surgeon.
+
+Treatment depends on where the fracture is. Minor fractures might just need a soft diet and careful movement. More serious fractures might need surgical repair.
 
 ## After Extraction: What to Expect and When to Worry
 
@@ -93,9 +95,7 @@ The first 24 hours are important. You'll have some oozing (blood mixed with sali
 
 Follow your dentist's instructions carefully: bite on gauze if they say to, take prescribed antibiotics, rest, elevate your head with extra pillows, use ice for the first 24 hours then heat after that, and stick to soft foods. Don't use straws, don't smoke, don't rinse vigorously, and don't do strenuous activity for a few days.
 
-## Conclusion
-
-Extraction complications are usually manageable when caught early. Dry socket causes intense pain but responds well to irrigation and packing plus pain medication. Bleeding almost always stops with proper pressure or special materials, even if you're on blood thinners. Small root pieces often don't need removal, but larger ones should be taken out. Sinus openings from upper tooth extraction usually close on their own or with minor surgery. Nerve numbness is usually temporary, with full recovery in most cases. Infection is uncommon but should be treated with antibiotics. Follow your dentist's post-extraction instructions carefully, watch for warning signs, and call if something doesn't seem right. Most people heal beautifully after extraction without any complications, but knowing what can happen and what to do helps you stay ahead of any problems.
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Oroantral Communication: Recognition and Closure
 
@@ -151,14 +151,23 @@ Instructions emphasizing socket protection (avoid vigorous rinsing, avoid smokin
 
 ## Conclusion
 
-Extraction complications demand systematic recognition and appropriate evidence-based management. Dry socket (alveolar osteitis) management prioritizes pain control through combination analgesics and socket hygiene with packing changes every 3-5 days. Hemorrhage control utilizes local pressure, hemostatic agents, and suturing when necessary; anticoagulated patients require only local measures without routine medication discontinuation. Root fragments under 3mm in asymptomatic patients may be observed without retrieval; symptomatic or enlarging fragments require surgical removal. Oroantral communications exceeding 2-3mm require surgical closure using buccal fat pad or flap advancement techniques. Nerve injuries represent temporary neuropraxias in 50-70% of cases with spontaneous recovery; permanent sensory changes affect only 1-2% of initially injured patients. Post-operative infection risk is minimized through meticulous technique, strict asepsis, and appropriate prophylactic measures in immunocompromised patients. Awareness of potential complications, proper patient selection, careful surgical technique, and clear post-operative instructions substantially reduce morbidity and optimize patient outcomes.
+Extraction complications demand systematic recognition and appropriate evidence-based management. Dry socket (alveolar osteitis) management prioritizes pain control through combination analgesics and socket hygiene with packing changes every 3-5 days. Hemorrhage control utilizes local pressure, hemostatic agents, and suturing when necessary; anticoagulated patients require only local measures without routine medication discontinuation. Root fragments under 3mm in asymptomatic patients may be observed without retrieval; symptomatic or enlarging fragments require surgical removal.
 
-## Related Articles You May Find Helpful
+Oroantral communications exceeding 2-3mm require surgical closure using buccal fat pad or flap advancement techniques. Nerve injuries represent temporary neuropraxias in 50-70% of cases with spontaneous recovery; permanent sensory changes affect only 1-2% of initially injured patients. Post-operative infection risk is minimized through meticulous technique, strict asepsis, and appropriate prophylactic measures in immunocompromised patients. Awareness of potential complications, proper patient selection, careful surgical technique, and clear post-operative instructions substantially reduce morbidity and optimize patient outcomes.
 
-- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
-- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+## Conclusion
+
+Extraction complications are usually manageable when caught early. Dry socket causes intense pain but responds well to irrigation and packing plus pain medication. Bleeding almost always stops with proper pressure or special materials, even if you're on blood thinners. Small root pieces often don't need removal, but larger ones should be taken out.
+
+Sinus openings from upper tooth extraction usually close on their own or with minor surgery. Nerve numbness is usually temporary, with full recovery in most cases. Infection is uncommon but should be treated with antibiotics. Follow your dentist's post-extraction instructions carefully, watch for warning signs, and call if something doesn't seem right. Most people heal beautifully after extraction without any complications, but knowing what can happen and what to do helps you stay ahead of any problems.
+
+> **Key Takeaway:** Getting a tooth pulled might seem simple, but sometimes complications happen afterward.
+
+## Related Articles
+
 - [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
-
-
-> **Key Takeaway:** Getting a tooth pulled might seem simple, but sometimes complications happen afterward. Your dentist can help you understand what steps are right for your specific needs.
+- [Why Oral Surgery Recovery Timeline Matters](/article/why-oral-surgery-recovery-timeline-matters.html)
+- [Bone Grafting Procedure: What Every Patient Should Know](/article/best-practices-for-bone-grafting-procedure.html)
+- [Healing After Oral Surgery - Day-by-Day](/article/surgical-site-healing-what-you-need-to-know.html)
+- [Cost of Surgical Success Rates and Clinical Outcome](/article/cost-of-surgical-success-rates.html)
 

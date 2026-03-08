@@ -67,7 +67,9 @@ By days 2-3, you can expand slightly: mashed potatoes, soft scrambled eggs, cott
 
 If you smoke, this section is critical. Smoking is the single biggest modifiable risk factor for dry socket — people who smoke have 3-5 times higher risk. Here's why: smoke and heat interfere with your body's initial clot-forming response, reduce oxygen to the healing area, and trigger enzymes that actively dissolve blood clots. For someone who smokes regularly, even a few cigarettes in that critical first week can significantly increase complications.
 
-The math is encouraging though. If you quit smoking for just 72 hours before extraction and 5-7 days after, you cut your dry socket risk roughly in half. If you can manage 24 hours before surgery and abstain for the full first week, you reduce risk by about 75%. Nicotine withdrawal is uncomfortable, we won't sugarcoat that. But the pain of dry socket — a constant, severe throbbing that can last 5-7 days and requires multiple dental visits to manage — is far worse. One week without cigarettes is genuinely worth it.
+The math is encouraging though. If you quit smoking for just 72 hours before extraction and 5-7 days after, you cut your dry socket risk roughly in half. If you can manage 24 hours before surgery and abstain for the full first week, you reduce risk by about 75%.
+
+Nicotine withdrawal is uncomfortable, we won't sugarcoat that. But the pain of dry socket — a constant, severe throbbing that can last 5-7 days and requires multiple dental visits to manage — is far worse. One week without cigarettes is genuinely worth it.
 
 ## Recognizing When Something Needs Attention
 
@@ -75,26 +77,27 @@ Normal post-extraction healing involves some swelling that peaks around day 2-3 
 
 ## What Your Dentist Can Do If Dry Socket Does Develop
 
-If dry socket does happen despite your best efforts, it's treatable — uncomfortable but manageable. Your dentist will irrigate the socket with saline solution to clean out debris and loose bone fragments, then may place a medicated dressing (often containing zinc oxide, eugenol, or iodoform) that provides pain relief, antimicrobial coverage, and helps protect the exposed bone. This dressing gets changed every 1-2 days as the area heals. The entire recovery from dry socket typically takes 5-7 days with proper care. Pain management focuses on anti-inflammatory medications like ibuprofen, which tackle both the pain and the underlying inflammation. [For comprehensive information about managing complications](/article/dry-socket-prevention-and-treatment.html), ask your dentist about their specific protocol.
+If dry socket does happen despite your best efforts, it's treatable — uncomfortable but manageable. Your dentist will irrigate the socket with saline solution to clean out debris and loose bone fragments, then may place a medicated dressing (often containing zinc oxide, eugenol, or iodoform) that provides pain relief, antimicrobial coverage, and helps protect the exposed bone. This dressing gets changed every 1-2 days as the area heals. The entire recovery from dry socket typically takes 5-7 days with proper care. Pain management focuses on anti-inflammatory medications like ibuprofen, which tackle both the pain and the underlying inflammation. [Dry Socket Prevention and Treatment](/article/dry-socket-prevention-and-treatment.html), ask your dentist about their specific protocol.
 
 ## Key Questions to Ask Before Your Extraction
 
-Before you head into surgery, get specific information from your dentist: What's your personal risk level based on the complexity of your extraction? Will they use antibiotic rinses or special prevention techniques? Are they recommending stitches to close the socket? If you smoke, how much can quitting for a specific timeframe actually reduce your risk? What pain medication do they recommend and how often should you take it? What warning signs require you to call immediately? What's their specific protocol if dry socket develops?
+Before you head into surgery, get specific information from your dentist: What's your personal risk level based on the complexity of your extraction? Will they use antibiotic rinses or special prevention techniques? Are they recommending stitches to close the socket?
+
+If you smoke, how much can quitting for a specific timeframe actually reduce your risk? What pain medication do they recommend and how often should you take it? What warning signs require you to call immediately? What's their specific protocol if dry socket develops?
+
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
 Dry socket is preventable with knowledge and attention to a few core rules: protect that clot during the first week, take anti-inflammatory medication on schedule, avoid anything that creates suction, stick to appropriate foods, and if you smoke, make that one week your non-negotiable exception. Most people heal smoothly by following these guidelines. The 5% who do develop dry socket find it's manageable with professional care. Your recovery is in your hands — these simple choices make a real difference.
 
-## Key Takeaway
-
-The first 72 hours after wisdom tooth extraction are critical for clot formation and protection. Simple habits like avoiding straws, managing pain with anti-inflammatory medication, gentle eating, and avoiding smoking prevent dry socket in the vast majority of cases. If complications do develop, they're treatable with professional care.
+> **Key Takeaway:** The first 72 hours after wisdom tooth extraction are critical for clot formation and protection. Simple habits like avoiding straws, managing pain with anti-inflammatory medication, gentle eating, and avoiding smoking prevent dry socket in the vast majority of cases. If complications do develop, they're treatable with professional care.
 
 ## Related Articles
 
-- [Wisdom Teeth Recovery Timeline and Pain Management](/article/wisdom-teeth-recovery-timeline-and-pain-management.html)
-- [Dry Socket Prevention and Treatment](/article/dry-socket-prevention-and-treatment.html)
 - [Complex Extractions: What You Need to Know](/article/timeline-for-complex-extractions.html)
+- [Apicectomy](/article/apicectomy-removing-tooth-apex.html)
+- [Cost of Mouth Injuries Treatment](/article/cost-of-mouth-injuries-treatment.html)
 
----
+- [Common Misconceptions About Pain Management in](/article/common-misconceptions-about-pain-management-surgery.html)
 
-**Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>**

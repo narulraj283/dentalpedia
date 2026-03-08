@@ -29,13 +29,13 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/22264903
 ---
 
-When you get braces, one of the movements your orthodontist needs to achieve is moving teeth forward and backward. This isn't about tilting—it's about actually moving the entire tooth, including its root, forward or back in your jawbone. Getting your front teeth at the right forward-and-back position is crucial for both how you look and how your bite works. Understanding how your orthodontist accomplishes this helps you appreciate the engineering that goes into straightening teeth. Learning more about [braces benefits: what you should know](/article/best-practices-for-braces-benefits.html) can help you understand this better.
+When you get braces, one of the movements your orthodontist needs to achieve is moving teeth forward and backward. This isn't about tilting—it's about actually moving the entire tooth, including its root, forward or back in your jawbone. Getting your front teeth at the right forward-and-back position is crucial for both how you look and how your bite works. Understanding how your orthodontist accomplishes this helps you appreciate the engineering that goes into straightening teeth. Learning more about [Braces Benefits: What You Should Know](/article/best-practices-for-braces-benefits.html) can help you understand this better.
 
 ## Why Forward-and-Back Positioning Matters
 
 Look at how your front teeth overlap—the amount of overlap is called "overjet." Most people's upper front teeth stick out about 2-3 millimeters in front of their lower front teeth. This is normal and healthy. But if your upper teeth stick out way too far (excessive overjet), or if your lower teeth stick forward past your upper teeth (reverse overjet), your bite is incorrect and needs correction.
 
-The forward-and-back position of your teeth also affects your smile's appearance. Teeth that are too far forward look prominent; teeth that are too far back can make your lower face look caved in. Learning more about [braces food restrictions: complete guide](/article/braces-food-restrictions-complete-guide.html) can help you understand this better. Your orthodontist positions your teeth at just the right forward-back location for both function and appearance.
+The forward-and-back position of your teeth also affects your smile's appearance. Teeth that are too far forward look prominent; teeth that are too far back can make your lower face look caved in. Learning more about [Braces Food Restrictions: Complete Guide](/article/braces-food-restrictions-complete-guide.html) can help you understand this better. Your orthodontist positions your teeth at just the right forward-back location for both function and appearance.
 
 ## How Brackets Control Forward-and-Back Movement
 
@@ -93,14 +93,18 @@ Orthodontists often slightly over-correct forward-and-back positioning in the fi
 
 Beyond appearance, forward-and-back positioning affects how your teeth work. Your front teeth need to be positioned so that when you move your jaw side-to-side, your canine teeth (the pointy ones next to your front incisors) guide the movement. This is called "canine guidance," and it requires precise forward-and-back positioning of your canines.
 
-> **Key Takeaway:** Forward-and-back tooth movement is controlled by bracket angle (torque) combined with wire stiffness and progressive wire sequencing, allowing your orthodontist to position each tooth—including its root—for optimal bite function and smile appearance.
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
 Moving teeth forward and backward is one of the most important movements your braces accomplish. Through bracket torque angles and progressive wire sequencing, your orthodontist carefully positions each tooth at exactly the right forward-and-back location. This affects both how your smile looks and how your teeth bite together. The process happens gradually over months, allowing your bone to remodel safely around your repositioned teeth. Following your orthodontist's instructions during this process helps ensure teeth move as planned and stay positioned correctly even after braces come off.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Forward-and-back tooth movement is controlled by bracket angle (torque) combined with wire stiffness and progressive wire sequencing, allowing your orthodontist to position each tooth—including its root—for optimal bite function and smile appearance.
 
-- [Braces Benefits: What You Should Know](/article/best-practices-for-braces-benefits.html)
-- [Braces Food Restrictions: Complete Guide](/article/braces-food-restrictions-complete-guide.html)
+## Related Articles
+
 - [Orthodontic Appointment Frequency: Complete Guide](/article/orthodontic-appointment-frequency-complete-guide.html)
+
+- [Common Misconceptions About Teeth Movement Speed](/article/common-misconceptions-about-teeth-movement-speed.html)
+- [Keep Your Straight Teeth](/article/nightly-retainer-wear-lifetime-commitment-explained.html)
+

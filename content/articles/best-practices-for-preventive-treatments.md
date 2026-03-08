@@ -63,7 +63,9 @@ Limit sugary snacks to mealtimes. When you do have something sweet, rinse with w
 
 ## What About Dry Mouth?
 
-Saliva is your mouth's superpower. It cleans food debris, kills bacteria, and neutralizes acid. If medications dry out your mouth, that's a major decay risk. Talk to your doctor about adjusting medications if possible. Otherwise, stay hydrated, chew sugar-free gum with xylitol, and use saliva substitutes. Your dentist might recommend stronger fluoride treatments too.
+Saliva is your mouth's superpower. It cleans food debris, kills bacteria, and neutralizes acid. If medications dry out your mouth, that's a major decay risk.
+
+Talk to your doctor about adjusting medications if possible. Otherwise, stay hydrated, chew sugar-free gum with xylitol, and use saliva substitutes. Your dentist might recommend stronger fluoride treatments too.
 
 ## Your Personalized Prevention Plan
 
@@ -93,7 +95,9 @@ Antimicrobial mouthwash has a role in high-risk patients. Chlorhexidine rinses (
 
 ## The Prevention Economics
 
-Here's something that motivates people: a cavity filling costs $150-300. A crown because the cavity got infected costs $1,000-2,000. A root canal plus crown costs $2,000-3,000. A tooth extraction and implant costs $3,000-4,000. Meanwhile, preventive fluoride treatments cost $30-50. Sealants cost $30-50 per tooth. Regular checkups and cleanings cost $150-300 twice yearly. The math is irrefutable—preventing problems costs 10-20 times less than treating them.
+Here's something that motivates people: a cavity filling costs $150-300. A crown because the cavity got infected costs $1,000-2,000. A root canal plus crown costs $2,000-3,000. A tooth extraction and implant costs $3,000-4,000.
+
+Meanwhile, preventive fluoride treatments cost $30-50. Sealants cost $30-50 per tooth. Regular checkups and cleanings cost $150-300 twice yearly. The math is irrefutable—preventing problems costs 10-20 times less than treating them.
 
 Consider this: $600 annually for preventive care (two cleanings, two fluoride treatments, 8-12 sealants if a child). Over 10 years, that's $6,000. Compare that to one patient who skips prevention: one cavity ($200), progresses to root canal ($2,500), tooth fails and needs extraction + implant ($4,000), plus years of complications. Total: $6,700 for one tooth, and they might have six affected teeth. The choice between prevention and treatment isn't about money—it's about quality of life, time spent in the dentist's chair, and not losing teeth.
 
@@ -116,10 +120,13 @@ Before leaving your preventive appointment, clarify these points:
 
 Prevention—through fluoride, sealants, smart eating, excellent home care, and regular checkups—stops cavities before they develop. Understanding your personal risk level and following a customized prevention plan is far more effective (and cheaper) than treating problems after they occur.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Stop cavities with proven prevention: fluoride, sealants, good brushing, smart eating, and routine checkups tailored to your personal risk level.
 
-- [Acid Reflux and Tooth Erosion: GERD Management](/article/acid-reflux-and-tooth-erosion-gerd-management.html)
-- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
+## Related Articles
+
 - [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+- [Electric Toothbrush Safety](/article/electric-toothbrush-safety-gum-recession-risks.html)
+- [Caregiver Dental Education Programs for Geriatric](/article/caregiver-dental-education-programs.html)
+- [Cost of Mouthwash Selection](/article/cost-of-mouthwash-selection.html)
+- [Cavity Prevention Methods: A Complete Patient Guide](/article/benefits-of-cavity-prevention-methods.html)
 
-> **Key Takeaway:** Regular prevention—fluoride, sealants, good brushing, smart eating, and routine checkups—stops cavities before they cost you time and money.

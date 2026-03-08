@@ -35,13 +35,15 @@ When your dentist says, "You need a filling," there's a follow-up question many 
 
 ## The Longevity Question: How Long Will This Filling Last?
 
-Here's the uncomfortable truth your dentist might not emphasize: different filling materials last dramatically different amounts of time. Learn more about [intraoral cameras see your](/article/intraoral-cameras-see-your-teeth-in-detail.html) for additional guidance. Amalgam—the silver-colored filling material that's been used for over 150 years—can last 15-20 years or even longer. Studies show that many amalgam fillings function perfectly for 20-30 years. Composite resin (tooth-colored), the modern esthetic choice, typically lasts 5-7 years in back teeth. That's roughly half as long.
+Here's the uncomfortable truth your dentist might not emphasize: different filling materials last dramatically different amounts of time. Learn more about [Intraoral Cameras See Your](/article/intraoral-cameras-see-your-teeth-in-detail.html) for additional guidance. Amalgam—the silver-colored filling material that's been used for over 150 years—can last 15-20 years or even longer.
+
+Studies show that many amalgam fillings function perfectly for 20-30 years. Composite resin (tooth-colored), the modern esthetic choice, typically lasts 5-7 years in back teeth. That's roughly half as long.
 
 This difference matters because each time a filling is replaced, your tooth loses more structure. Eventually, repeated replacements may mean your tooth needs a crown or even extraction. A patient getting composite fillings every 7 years might replace a filling 4-5 times over 30 years. A patient with a single amalgam filling might replace it just once. When you add up repeated appointment costs, time away from work, and cumulative tooth damage, the math gets interesting.
 
 ## How Materials Differ: The Science Matters
 
-Amalgam is incredibly hard and wears slowly. Learn more about [crown vs bridge decision](/article/crown-vs-bridge-decision-complete-guide.html) for additional guidance. The filling's margin—where the filling meets your tooth—stays well-sealed over time. Because the fit is so tight, bacteria can't sneak in and cause decay underneath the filling (called recurrent decay). This is a huge advantage for back teeth dealing with chewing forces.
+Amalgam is incredibly hard and wears slowly. Learn more about [Crown Vs Bridge Decision](/article/crown-vs-bridge-decision-complete-guide.html) for additional guidance. The filling's margin—where the filling meets your tooth—stays well-sealed over time. Because the fit is so tight, bacteria can't sneak in and cause decay underneath the filling (called recurrent decay). This is a huge advantage for back teeth dealing with chewing forces.
 
 Composite fillings bond directly to your tooth, which sounds great, but here's the catch: composite shrinks slightly as it hardens. This creates tiny gaps at the margins. Over time, this shrinkage, temperature changes, and wear create larger gaps where bacteria and fluid can enter. This is why secondary decay happens more often with composite fillings.
 
@@ -57,7 +59,9 @@ Over time, composite fillings can also change color or develop visible surface w
 
 ## Where the Filling Goes Matters
 
-Small, simple fillings on non-visible surfaces? Composite works fine. Front teeth where appearance matters? Composite is definitely the choice. Large fillings on back teeth doing heavy chewing? Amalgam's superior strength and longevity become increasingly important.
+Small, simple fillings on non-visible surfaces? Composite works fine. Front teeth where appearance matters?
+
+Composite is definitely the choice. Large fillings on back teeth doing heavy chewing? Amalgam's superior strength and longevity become increasingly important.
 
 Back teeth bear enormous chewing forces. Large composite fillings on these surfaces sometimes fracture or lose marginal ridges (the ridges along the edge of the filling). When that happens, you're back in the chair getting a replacement. This problem happens less often with amalgam's superior strength and stability.
 
@@ -65,7 +69,9 @@ When materials fail, the consequences also differ. Amalgam margins break down gr
 
 ## Real-World Cost Considerations
 
-Here's information your insurance company understands but you might not: total cost over time matters more than initial material cost. Amalgam costs less than composite for the initial placement. But composite's shorter lifespan means more total fillings over a lifetime. A patient receiving composite fillings every 7 years might spend $5,000-8,000+ over 40 years on repeated placements. A patient with quality amalgam fillings replaced once might spend $2,000-3,000 total. That's a significant financial difference many patients don't realize.
+Here's information your insurance company understands but you might not: total cost over time matters more than initial material cost. Amalgam costs less than composite for the initial placement. But composite's shorter lifespan means more total fillings over a lifetime.
+
+A patient receiving composite fillings every 7 years might spend $5,000-8,000+ over 40 years on repeated placements. A patient with quality amalgam fillings replaced once might spend $2,000-3,000 total. That's a significant financial difference many patients don't realize.
 
 ## Making Your Choice
 
@@ -85,7 +91,7 @@ Some special situations lean strongly toward specific materials. If you have dif
 
 Both materials are safe when properly placed. Amalgam's antimicrobial properties actually provide protective benefits against decay-causing bacteria. Composite requires more careful application to protect your tooth's nerve, but when done properly, it's equally safe.
 
-
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
@@ -93,12 +99,12 @@ Taking care of your dental health is one of the best investments you can make in
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Filling material selection isn't just about appearance—it's about how long your filling will function, how much future treatment you might need, and the total cost of maintaining your smile. There's no universally "best" material; the best choice matches your individual situation, your priorities, and your tooth's function. Ask your dentist to explain their recommendation for your specific tooth and circumstance. An informed conversation about filling materials leads to decisions you'll be satisfied with for years to come.
+> **Key Takeaway:** Filling material selection isn't just about appearance—it's about how long your filling will function, how much future treatment you might need, and the total cost of maintaining your smile. There's no universally "best" material; the best choice matches your individual situation, your priorities, and your tooth's function. Ask your dentist to explain their recommendation for your specific tooth and circumstance. An informed conversation about filling materials leads to decisions you'll be satisfied with for years to come.
 
 ## Related Articles
 
 - [Understanding Cavity Formation and Prevention](/article/cavity-formation-process-what-you-need-to-know.html)
-- [Tooth Structure and What Layers Mean for Your Health](/article/tooth-structure-layers-explained.html)
 - [Why Preventive Treatments Work Better Than Waiting](/article/benefits-of-preventive-treatments.html)
+
+- [Cost of Dental Procedure Planning and Treatment](/article/cost-of-dental-procedure-planning.html)
+

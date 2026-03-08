@@ -37,7 +37,9 @@ Cementum is about 50 times softer than enamel, which means it takes much less ac
 
 ## Understanding Your Root Decay Risk
 
-Not everyone with exposed roots develops decay. Your risk depends on several factors working together. The biggest factor is how often you eat or drink something sugary or acidic between meals. If you have a sugary snack more than three times daily, your risk dramatically increases. Your saliva also matters enormously—it naturally fights decay by buffering acids and helping your tooth repair itself. If you have dry mouth from medication, medical conditions, or radiation therapy, your decay risk skyrockets.
+Not everyone with exposed roots develops decay. Your risk depends on several factors working together. The biggest factor is how often you eat or drink something sugary or acidic between meals.
+
+If you have a sugary snack more than three times daily, your risk dramatically increases. Your saliva also matters enormously—it naturally fights decay by buffering acids and helping your tooth repair itself. If you have dry mouth from medication, medical conditions, or radiation therapy, your decay risk skyrockets.
 
 If you have gum disease, take medications that cause dry mouth, have difficulty cleaning your teeth effectively, or have a history of cavities, your dentist considers you high-risk for root decay. This means you need more frequent dental visits and stronger prevention strategies than someone without these risk factors. Being high-risk isn't a problem as long as you know it and work with your dentist on a prevention plan.
 
@@ -91,12 +93,11 @@ Understanding that your exposed roots need special attention is the first step. 
 
 Root decay is a real threat once your gums recede, but it's entirely preventable with proper attention. Your teeth are vulnerable because cementum is softer than enamel, but fluoride and good habits protect them effectively. Whether you prevent decay from starting, stop active decay with SDF, or restore decayed areas with fillings, you have excellent tools available. The key is understanding your specific risk factors and working with your dentist on an appropriate prevention strategy.
 
-## Key Takeaway
-
-Exposed tooth roots decay 4-10 times faster than covered tooth surfaces, but fluoride application, dietary modification, and reducing sugar exposure effectively prevent root decay or stop it once it starts.
+> **Key Takeaway:** Exposed tooth roots decay 4-10 times faster than covered tooth surfaces, but fluoride application, dietary modification, and reducing sugar exposure effectively prevent root decay or stop it once it starts.
 
 ## Related Articles
 
 - [Saliva Importance Complete Guide](/article/saliva-importance-complete-guide.html)
 - [How to Tooth Color Changes](/article/how-to-tooth-color-changes.html)
 - [How to Bad Breath Elimination](/article/how-to-bad-breath-elimination.html)
+

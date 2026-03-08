@@ -61,13 +61,13 @@ You get fluoride from water fluoridation (in many communities), fluoride toothpa
 
 Brushing twice daily with fluoride toothpaste reduces cavities by 50-60% compared to not brushing at all. But here's the catch: you need to brush for about two minutes. Thirty seconds just doesn't cut it. Flossing is equally important because cavities often form between teeth where your toothbrush can't reach.
 
-People who brush and floss regularly get far fewer cavities than those who skip either step. If you struggle with flossing, try [water flossers or interdental brushes](/article/oral-irrigators-do-water-flossers-really-work.html)—they can be easier to use and work just as well.
+People who brush and floss regularly get far fewer cavities than those who skip either step. If you struggle with flossing, try [Water Flossers or Interdental Brushes](/article/oral-irrigators-do-water-flossers-really-work.html)—they can be easier to use and work just as well.
 
 ## Special Situations Increase Your Risk
 
 Certain health conditions increase cavity risk. Diabetes makes cavities more likely because it changes your saliva and weakens your immune response. Acid reflux (GERD) exposes your teeth to stomach acid repeatedly, causing damage. Dry mouth from any cause—whether from medication or medical conditions—dramatically increases cavity risk.
 
-If you have any of these conditions, let your dentist know. You may benefit from [extra fluoride treatments](/article/benefits-of-tartar-prevention.html) or more frequent cleanings to catch cavities early.
+If you have any of these conditions, let your dentist know. You may benefit from [Extra Fluoride Treatments](/article/benefits-of-tartar-prevention.html) or more frequent cleanings to catch cavities early.
 
 ## Your Tooth Structure Matters Too
 
@@ -85,10 +85,13 @@ Start by being honest with yourself and your dentist about your habits. If you e
 
 Cavities result from a combination of factors—some in your control and some not. The encouraging news is that understanding these factors means you can take action. Regular brushing and flossing, limiting sugary snacks, drinking water instead of soda, and using fluoride are your best defenses. Your dentist can assess your individual risk and recommend additional steps if needed to keep your teeth cavity-free.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Cavities affect most of us at some point—learn what causes them and what you can actually do to prevent them.
 
-- [Benefits of Tartar Prevention](/article/benefits-of-tartar-prevention.html)
+## Related Articles
+
 - [Oral Health Habits: Complete Guide](/article/oral-health-habits-complete-guide.html)
 - [Dental Products Comparison: What Actually Works](/article/dental-products-comparison-what-actually-works.html)
+- [Establishing Healthy Oral Hygiene Habits: Creating](/article/establishing-healthy-oral-hygiene-habits.html)
+- [A Patient's Guide to Dental Visit Frequency](/article/best-practices-for-dental-visit-frequency.html)
+- [How to Prevent Tartar Buildup on Your Teeth](/article/how-to-tartar-prevention.html)
 
-> **Key Takeaway:** Cavities are preventable when you understand what causes them and take action. Your diet, oral hygiene, saliva flow, and fluoride use all work together to protect your teeth. Talk to your dentist about which prevention strategies are best for your specific situation.

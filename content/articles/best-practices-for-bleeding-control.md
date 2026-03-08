@@ -23,7 +23,7 @@ references:
   - "Cieslik W, et al. Electrocautery in oral and maxillofacial surgery. J Oral Maxillofac Surg. 2008;66(12):2487-2491."
 ---
 
-# Best Practices for Bleeding Control in Oral Surgery
+## Best Practices for Bleeding Control in Oral Surgery
 
 If you're having a tooth extraction or oral surgery, you probably worry about bleeding. While some oozing is normal during and after tooth removal, uncontrolled bleeding makes the procedure harder for your dentist and more uncomfortable for you. Fortunately, dentists have many effective techniques for managing bleeding, starting with simple methods and moving to more advanced approaches only if needed. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
@@ -97,25 +97,26 @@ Your dentist's goal is a quick, efficient extraction with minimal bleeding and e
 2. Boehm TK, Mealey BL. Perioperative antibiotic prophylaxis for patients with periodontal disease. Periodontol 2000. 2005;38:109-138.
 3. Blinder D, et al. Assessment of bleeding parameters in patients taking warfarin before oral surgery. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 1999;87(2):144-150.
 4. Fortis AP, et al. Tranexamic acid as a topical hemostatic agent in dentistry. Curr Pharm Des. 2012;18(34):5584-5590.
-5. Al-Belasy FA, Abulhassan KA. Tranexamic acid topical application to reduce postoperative bleeding in intraalveolar bone removal and alveoloplasty. Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007;103(3):e16-e20.
+5. Al-Belasy FA, Abulhassan KA. Tranexamic acid topical application to reduce postoperative bleeding in intraalveolar bone removal and alveoloplasty.
+
+Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007;103(3):e16-e20.
 6. American Society of Anesthesiologists. Preoperative Assessment and Management of Patients Receiving Anticoagulation or Antiplatelet Therapy. 2020.
 7. Dunn AS, Turpie AG. Perioperative management of patients receiving oral anticoagulants: a systematic review. Arch Intern Med. 2003;163(8):901-908.
 8. Srivastava KC, et al. Curcumin, a major component of food spice turmeric (Curcuma longa) inhibits aggregation and alters eicosanoid metabolism in human blood platelets. Prostaglandins Leukot Essent Fatty Acids. 1995;52(4):223-227.
 9. Bodner L, et al. Incidence of alveolar osteitis following surgical removal of impacted third molars. Acta Otolaryngol. 2003;123(2):201-204.
 10. Cieslik W, et al. Electrocautery in oral and maxillofacial surgery. J Oral Maxillofac Surg. 2008;66(12):2487-2491.
 
-## Related Articles You May Find Helpful
-
-- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
-- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
-- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
-
-
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about bleeding control. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** If you're having a tooth extraction or oral surgery, you probably worry about bleeding. Your dentist can help you understand what steps are right for your specific needs.
+
+## Related Articles
+
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+- [Reducing Swelling After Oral Surgery](/article/swelling-reduction-what-you-need-to-know.html)
+- [Tooth Intrusion: When a Tooth Is Pushed Into the Bone](/article/intrusion-tooth-pushed-into-bone.html)
+- [Common Misconceptions About Post-Operative Instructions](/article/common-misconceptions-about-post-operative-instructions.html)
+- [Complex Tooth Extraction Timeline: Surgical Planning,](/article/timeline-for-complex-extractions.html)
 

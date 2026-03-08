@@ -25,7 +25,9 @@ references:
 
 Tartar (dental calculus) starts as bacterial plaque—slimy biofilm communities growing on your teeth. Biofilm forms within 4 hours of brushing and becomes fully established within 24-48 hours. Once it solidifies into tartar, brushing alone can't remove it; only professional scraping helps. For more details, see our guide on [Acid Reflux and Tooth Erosion](/article/acid-reflux-and-tooth-erosion-gerd-management.html).
 
-Tartar forms when your saliva's minerals (calcium and phosphate) harden the plaque. This happens over 48-72 hours and is permanent. Below the gumline, tartar forms from blood proteins rather than saliva. This subgingival tartar sticks harder and is more damaging—it harbors disease-causing bacteria. About 15-20% of people are heavy tartar formers (buildup in 2-4 weeks), 50-60% are normal formers (4-12 weeks), and 20-30% are light formers (rarely see tartar). This variation is mainly genetic and chemical, not behavioral. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
+Tartar forms when your saliva's minerals (calcium and phosphate) harden the plaque. This happens over 48-72 hours and is permanent. Below the gumline, tartar forms from blood proteins rather than saliva.
+
+This subgingival tartar sticks harder and is more damaging—it harbors disease-causing bacteria. About 15-20% of people are heavy tartar formers (buildup in 2-4 weeks), 50-60% are normal formers (4-12 weeks), and 20-30% are light formers (rarely see tartar). This variation is mainly genetic and chemical, not behavioral. For more details, see our guide on [Acidic Beverages](/article/acidic-beverages-ph-effects-on-enamel.html).
 
 ## Brushing: The Foundation of Prevention
 
@@ -109,7 +111,9 @@ The difference between knowledge and results is consistency. Here's how to make 
 
 **Visual reminders:** Place your interdental brushes where you'll see them. Put a calendar on your bathroom mirror marking flossing days. Small environmental cues drive behavior change better than willpower alone.
 
-**Progression approach:** If you're starting from minimal flossing, don't jump to perfect compliance overnight. Week 1: floss 3 times. Week 2: add one more day (4 times). Week 3: add another (5 times). Week 4: reach daily goal. Gradual progression is more sustainable than sudden total change.
+**Progression approach:** If you're starting from minimal flossing, don't jump to perfect compliance overnight. Week 1: floss 3 times. Week 2: add one more day (4 times).
+
+Week 3: add another (5 times). Week 4: reach daily goal. Gradual progression is more sustainable than sudden total change.
 
 **Progress documentation:** Keep a simple log. "Flossed 6/7 days." "Used interdental brushes all week." Visual progress creates motivation. When you see you've had three consecutive weeks of compliance, you're more likely to maintain it.
 
@@ -149,22 +153,19 @@ If you have sensitivity to ultrasonic vibrations or discomfort, mention it. Your
 
 "Am I a heavy, normal, or light tartar former?" "Based on my formation rate, what's the ideal recall interval for me?" "Are there specific techniques I should use given my tooth anatomy or recession risk?" "What's the single most impactful thing I could change in my home care?" "Do I need any antimicrobial rinses or supplementary care?" "How should I know if gum disease is developing despite my efforts?"
 
-
-
-## Related Articles You May Find Helpful
-
-- [Acid Reflux and Tooth Erosion: GERD Management](/article/acid-reflux-and-tooth-erosion-gerd-management.html)
-- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
-- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
-
-
+**Related articles:** How to brush your teeth correctly | Why flossing matters | Gum disease prevention basics
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about tartar prevention. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+---
 
 > **Key Takeaway:** Daily proper brushing and interdental cleaning, combined with appropriate professional recalls based on your tartar formation rate, effectively prevents tartar and maintains optimal gum health. Your specific formation tendency determines your optimal protocol—heavy formers benefit from intensive approaches, while others succeed with basic care.
 
----
+## Related Articles
 
-**Related articles:** How to brush your teeth correctly | Why flossing matters | Gum disease prevention basics
+- [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
+- [Cost of Toothbrush Selection](/article/cost-of-toothbrush-selection.html)
+- [Common Misconceptions About Tooth Decay Prevention](/article/common-misconceptions-about-tooth-decay-prevention.html)
+- [Why Tartar Prevention Matters](/article/why-tartar-prevention-matters.html)
+- [Cost of Tooth Decay Prevention](/article/cost-of-tooth-decay-prevention.html)
+

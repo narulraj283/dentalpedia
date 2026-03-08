@@ -35,13 +35,13 @@ references:
 
 Dental surgery is generally safe when performed by trained professionals using proper technique. However, complications can occur—even with experienced surgeons, even when everything is done "right." Understanding what complications exist, recognizing their warning signs, and knowing how they're managed empowers you to make informed decisions and seek help quickly if problems develop.
 
-This discussion doesn't aim to scare you away from needed surgery. Learn more about [wisdom teeth do they](/article/wisdom-teeth-do-they-always-need-to-be-removed.html) for additional guidance. Rather, it provides realistic information about potential risks so you can weigh benefits against risks and understand what symptoms warrant calling your surgeon.
+This discussion doesn't aim to scare you away from needed surgery. Learn more about [Wisdom Teeth Do They](/article/wisdom-teeth-do-they-always-need-to-be-removed.html) for additional guidance. Rather, it provides realistic information about potential risks so you can weigh benefits against risks and understand what symptoms warrant calling your surgeon.
 
 ## Nerve Complications: The Most Distressing
 
 The most common surgical complications involve nerves. The inferior alveolar nerve (which carries sensation to your lower teeth, gums, and front of your tongue) can be injured during extraction or implant surgery, resulting in numbness, tingling, or abnormal sensations.
 
-Temporary nerve injury—called paresthesia—occurs in about 5 to 20 percent of wisdom tooth extractions. Learn more about [piezosurgery ultrasonic bone cutting](/article/piezosurgery-ultrasonic-bone-cutting-precision.html) for additional guidance. The good news is that 95 percent of these resolve completely within 3 to 6 months. Permanent nerve damage occurs in less than 1 percent of uncomplicated extractions, though risk increases with surgical complexity, advanced age, or deeper nerve positioning.
+Temporary nerve injury—called paresthesia—occurs in about 5 to 20 percent of wisdom tooth extractions. Learn more about [Piezosurgery Ultrasonic Bone Cutting](/article/piezosurgery-ultrasonic-bone-cutting-precision.html) for additional guidance. The good news is that 95 percent of these resolve completely within 3 to 6 months. Permanent nerve damage occurs in less than 1 percent of uncomplicated extractions, though risk increases with surgical complexity, advanced age, or deeper nerve positioning.
 
 The lingual nerve (providing sensation to the tongue) can also be injured, though permanent injury is less common. If you experience numbness or tingling after surgery that hasn't resolved in a few weeks, contact your surgeon immediately. Early intervention can sometimes prevent permanent damage.
 
@@ -104,14 +104,11 @@ You can help prevent complications by:
 
 This is the important takeaway: most surgical complications, when identified and treated early, resolve without permanent consequences. The key is recognizing warning signs and seeking care promptly rather than hoping problems resolve on their own.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist to discuss why surgical complications matters, having a list of questions ready can help you get the most from your appointment. You might want to ask about the different treatment options available and which one your dentist recommends based on your specific situation. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.
 
 It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
-
 
 ## What to Expect During Your Visit
 
@@ -119,13 +116,11 @@ Your dentist will begin by examining your mouth and reviewing your dental histor
 
 During any procedure, your comfort is a top priority. Your dental team will make sure you understand what is happening and check in with you regularly. Modern dental techniques and anesthesia options mean that most patients experience minimal discomfort during and after treatment. If you feel anxious about any part of the process, let your dentist know so they can adjust their approach to help you feel more at ease.
 
-
 ## Tips for Long-Term Success
 
 Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
 
 Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
-
 
 ## Conclusion
 
@@ -133,12 +128,11 @@ Taking care of your dental health is one of the best investments you can make in
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Surgical complications can occur despite proper technique and experience, but they're relatively uncommon and usually manageable when identified early. The most common complications involve nerve injury (usually temporary), infection or dry socket, and bleeding. Understanding risk factors, recognizing warning signs, and seeking prompt professional care when complications develop ensures optimal outcomes. Clear communication with your surgeon about your medical history, medications, and any concerns helps minimize risk. Don't hesitate to call your surgeon if you're worried something isn't healing normally—it's better to be evaluated and reassured than to suffer in silence.
+> **Key Takeaway:** Surgical complications can occur despite proper technique and experience, but they're relatively uncommon and usually manageable when identified early. The most common complications involve nerve injury (usually temporary), infection or dry socket, and bleeding. Understanding risk factors, recognizing warning signs, and seeking prompt professional care when complications develop ensures optimal outcomes. Clear communication with your surgeon about your medical history, medications, and any concerns helps minimize risk. Don't hesitate to call your surgeon if you're worried something isn't healing normally—it's better to be evaluated and reassured than to suffer in silence.
 
 ## Related Articles
 
 - [Why Surgical Site Healing Matters](/article/why-surgical-site-healing-matters.html)
 - [Why Recovery Timeline Matters](/article/why-recovery-timeline-matters.html)
 - [Why Surgical Success Rates Matters](/article/why-surgical-success-rates-matters.html)
+

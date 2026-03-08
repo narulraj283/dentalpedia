@@ -37,7 +37,9 @@ Your mouth is under constant bacterial attack, yet you rarely develop infections
 
 ## Your Mouth's First Line of Defense
 
-Saliva is your mouth's hero. It washes away bacteria constantly. It contains antimicrobial proteins like lysozyme and lactoferrin that directly kill bacteria. Your saliva buffers acids that bacteria produce. Without adequate saliva, you develop rampant cavities and infections—even with perfect brushing. That's why people with dry mouth need special care.
+Saliva is your mouth's hero. It washes away bacteria constantly. It contains antimicrobial proteins like lysozyme and lactoferrin that directly kill bacteria.
+
+Your saliva buffers acids that bacteria produce. Without adequate saliva, you develop rampant cavities and infections—even with perfect brushing. That's why people with dry mouth need special care.
 
 Your gum tissues provide a physical barrier against bacterial invasion. The junction between gum and tooth creates a special compartment where serum (blood fluid) continuously flows, bringing immune cells and protective proteins. This gingival crevicular fluid creates a hostile environment for bacteria trying to invade deeper tissues.
 
@@ -83,7 +85,7 @@ The most dangerous periodontal bacteria produce virulence factors—weapons that
 
 ## When Inflammation Becomes Destructive
 
-Chronic inflammation causes damage. Immune cells produce proteases that degrade collagen—your gum tissue structure. Inflammatory mediators trigger bone-destroying osteoclasts. Over months and years, this inflammation destroys the periodontal attachment holding your teeth in place. [Learning about periodontal pack and post-treatment dressing](/article/periodontal-pack-post-treatment-dressing.html) helps you understand why professional care after inflammation is important.
+Chronic inflammation causes damage. Immune cells produce proteases that degrade collagen—your gum tissue structure. Inflammatory mediators trigger bone-destroying osteoclasts. Over months and years, this inflammation destroys the periodontal attachment holding your teeth in place. [Periodontal Pack Post Treatment Dressing](/article/periodontal-pack-post-treatment-dressing.html) helps you understand why professional care after inflammation is important.
 
 This damage is irreversible—once your attachment is lost, it doesn't naturally regenerate. That's why preventing chronic inflammation through infection prevention is so important.
 
@@ -99,25 +101,13 @@ Your immune system works constantly to protect your mouth. When you brush and fl
 
 Professional cleaning removes bacterial tartar and biofilm your home care can't reach. This reduces the bacterial challenge, allowing your immune system to maintain control. Regular cleanings prevent bacterial accumulation from overwhelming your defenses.
 
-
-
-## Conclusion
-
-Taking care of your oral health means staying informed about inflammation response body fighting bacteria. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
-
-> **Key Takeaway:** Your immune system battles bacteria constantly through multiple sophisticated mechanisms. Your role is to support this system through good hygiene, appropriate diet, stress management, and professional care. Prevention is far easier than dealing with chronic inflammation and tissue destruction.
-
-## Related Articles You May Find Helpful
-
-- [Red Complex Bacteria: Most Virulent Pathogens](/article/red-complex-bacteria-most-virulent-pathogens.html)
-- [Risk and Concerns with Gum Health Maintenance](/article/risk-and-concerns-with-gum-health-maintenance.html)
-- [Soft Tissue Graft: Gum Restoration](/article/soft-tissue-graft-gum-restoration.html)
-
 ## Innate Immune Recognition and Activation
 
 Innate immunity provides immediate, non-specific response to pathogenic bacteria through recognition of conserved pathogen-associated molecular patterns (PAMPs). Pattern recognition receptors (PRRs) on innate immune cells including Toll-like receptors (TLRs), NOD-like receptors (NLRs), and C-type lectin receptors (CLRs) detect bacterial cell wall components, lipopolysaccharides, flagellin, and nucleic acids.
 
-Toll-like receptors represent the most extensively studied PRR family. TLR2 and TLR6 recognize gram-positive bacterial peptidoglycans and lipoteichoic acids. TLR4 detects gram-negative bacterial lipopolysaccharides (LPS) with high sensitivity and specificity. TLR5 recognizes bacterial flagellin. Intracellular TLRs including TLR3, TLR7, TLR8, and TLR9 detect nucleic acids including viral and bacterial RNA and DNA. TLR engagement triggers rapid signaling cascades through MyD88 or TRIF pathways culminating in NF-κB activation and production of proinflammatory cytokines.
+Toll-like receptors represent the most extensively studied PRR family. TLR2 and TLR6 recognize gram-positive bacterial peptidoglycans and lipoteichoic acids. TLR4 detects gram-negative bacterial lipopolysaccharides (LPS) with high sensitivity and specificity.
+
+TLR5 recognizes bacterial flagellin. Intracellular TLRs including TLR3, TLR7, TLR8, and TLR9 detect nucleic acids including viral and bacterial RNA and DNA. TLR engagement triggers rapid signaling cascades through MyD88 or TRIF pathways culminating in NF-κB activation and production of proinflammatory cytokines.
 
 NOD-like receptors comprise intracellular sensors detecting bacterial products that evade surface recognition. NOD1 detects gram-negative bacterial peptidoglycans while NOD2 responds to gram-positive bacteria and muramyl dipeptide (MDP). NLR activation triggers inflammasome assembly, activating caspase-1 which processes pro-IL-1β and pro-IL-18 into biologically active forms.
 
@@ -163,7 +153,9 @@ Chemokine gradients direct immune cell migration toward infection sites. Chemoki
 
 Dendritic cells migrating from infection sites to regional lymph nodes present processed bacterial antigens to naive T-cells through MHC-peptide complexes. CD8+ T-cell precursors develop into cytotoxic T-lymphocytes (CTLs) capable of killing infected cells. CD4+ T-cell precursors differentiate into helper T-cells (Th1, Th2, Th17 subsets) depending on cytokine milieu.
 
-Th1 cells produce IFN-γ enhancing macrophage activation and antimicrobial responses. Th17 cells produce IL-17 promoting neutrophil recruitment and barrier function maintenance. Germinal center reactions in lymph nodes produce plasma cells secreting pathogen-specific antibodies. IgG antibodies promote complement activation and opsonization. Secretory IgA within saliva provides mucosal immune defense. Memory T-cells and B-cells persist after pathogen clearance enabling rapid re-engagement upon re-exposure.
+Th1 cells produce IFN-γ enhancing macrophage activation and antimicrobial responses. Th17 cells produce IL-17 promoting neutrophil recruitment and barrier function maintenance. Germinal center reactions in lymph nodes produce plasma cells secreting pathogen-specific antibodies.
+
+IgG antibodies promote complement activation and opsonization. Secretory IgA within saliva provides mucosal immune defense. Memory T-cells and B-cells persist after pathogen clearance enabling rapid re-engagement upon re-exposure.
 
 ## Virulence Mechanisms and Immune Evasion
 
@@ -189,4 +181,20 @@ Failure of resolution mechanisms contributes to chronic periodontitis developmen
 
 ## Summary
 
-Host inflammatory response to oral bacterial pathogens involves coordinated activation of innate immunity through pattern recognition, complement cascade, neutrophil and macrophage antimicrobial functions, and adaptive immune responses. Proinflammatory cytokines and chemokines orchestrate immune cell recruitment and activation. While protective in appropriate context, sustained inflammatory activation causes tissue destruction through protease activity and osteoclast-mediated bone resorption. Resolution mechanisms involving specialized pro-resolving mediators promote return to homeostasis. Bacterial virulence factors enable partial immune evasion prolonging infection. Balance between protective immunity and inflammatory destruction determines whether oral infection resolves or progresses to destructive periodontal disease.
+Host inflammatory response to oral bacterial pathogens involves coordinated activation of innate immunity through pattern recognition, complement cascade, neutrophil and macrophage antimicrobial functions, and adaptive immune responses. Proinflammatory cytokines and chemokines orchestrate immune cell recruitment and activation. While protective in appropriate context, sustained inflammatory activation causes tissue destruction through protease activity and osteoclast-mediated bone resorption.
+
+Resolution mechanisms involving specialized pro-resolving mediators promote return to homeostasis. Bacterial virulence factors enable partial immune evasion prolonging infection. Balance between protective immunity and inflammatory destruction determines whether oral infection resolves or progresses to destructive periodontal disease.
+
+## Conclusion
+
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
+
+> **Key Takeaway:** Your immune system battles bacteria constantly through multiple sophisticated mechanisms. Your role is to support this system through good hygiene, appropriate diet, stress management, and professional care. Prevention is far easier than dealing with chronic inflammation and tissue destruction.
+
+## Related Articles
+
+- [Risk and Concerns with Gum Health Maintenance](/article/risk-and-concerns-with-gum-health-maintenance.html)
+- [Soft Tissue Graft: Gum Restoration](/article/soft-tissue-graft-gum-restoration.html)
+
+- [Gingivitis Progression: From Health to Disease](/article/gingivitis-progression-from-health-to-disease.html)
+

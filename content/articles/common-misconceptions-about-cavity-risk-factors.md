@@ -29,7 +29,7 @@ This is really important because it means even if you have a normal diet with so
 
 ## Your Family History Isn't Your Destiny
 
-People often say "I have bad teeth because my parents had bad teeth." But this isn't really genetic in the way people think. Learning more about [common misconceptions about cavity prevention methods](/article/common-misconceptions-about-cavity-prevention-methods.html) can help you understand this better. Your parents probably gave you cavity-prone teeth mainly through their behaviors and the bacteria they shared with you, not through genes.
+People often say "I have bad teeth because my parents had bad teeth." But this isn't really genetic in the way people think. Learning more about [Common Misconceptions About Cavity Prevention Methods](/article/common-misconceptions-about-cavity-prevention-methods.html) can help you understand this better. Your parents probably gave you cavity-prone teeth mainly through their behaviors and the bacteria they shared with you, not through genes.
 
 Parents with lots of cavities tend to have poor oral hygiene habits, eat lots of sugar, and don't see the dentist regularly. They pass these behaviors to their kids. Kids also get some of their cavity-causing bacteria from their parents' saliva (through kissing, sharing utensils, etc.). So when a child's parents had cavities, the child often has cavities too—but it's because of learned behaviors and bacterial transmission, not genetics.
 
@@ -55,7 +55,7 @@ Your saliva does three important things for cavity prevention: it buffers acid (
 
 Dry mouth (from medications, health conditions, radiation, or other causes) dramatically increases cavity risk. If you have dry mouth, you need more aggressive cavity prevention—more fluoride, more frequent cleanings, and possibly other interventions.
 
-Some medications reduce salivary flow, which is an important side effect to know about. Learning more about [common misconceptions about cavity formation process](/article/common-misconceptions-about-cavity-formation-process.html) can help you understand this better. If your medication causes dry mouth, talk to your dentist about extra cavity prevention measures.
+Some medications reduce salivary flow, which is an important side effect to know about. Learning more about [Common Misconceptions About Cavity Formation Process](/article/common-misconceptions-about-cavity-formation-process.html) can help you understand this better. If your medication causes dry mouth, talk to your dentist about extra cavity prevention measures.
 
 ## Cavity Risk Changes Over Time
 
@@ -91,12 +91,13 @@ It's like having a higher natural cavity risk is like being on a ski slope that'
 
 Your cavity risk comes from multiple factors including biofilm control, diet, saliva, previous cavities, and the bacteria in your mouth. Biofilm control is the most important factor you can change. Even if you have high natural risk, better prevention strategies can keep you cavity-free.
 
+> **Key Takeaway:** Many people think cavities are primarily about diet. While diet does matter, it's actually not the main factor determining who gets cavities.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [How to Really Prevent Cavities](/article/common-misconceptions-about-cavity-prevention-methods.html)
-- [Understanding Cavity Formation](/article/common-misconceptions-about-cavity-formation-process.html)
 - [How Dentists Find Cavities Early](/article/common-misconceptions-about-cavity-diagnosis-process.html)
+- [Building a Preventive Program and Establishing](/article/preventive-program-building-lifetime-oral-habits.html)
+- [Understanding Tooth Sensitivity Relief](/article/desensitizing-ingredients-potassium-nitrate-and-strontium.html)
+- [Tongue Cleaning Evidence: Effectiveness Against Oral](/article/tongue-cleaning-effectiveness-against-oral-bacteria.html)
+- [Chlorhexidine: The Gold-Standard Gum Disease Rinse](/article/chlorhexidine-gold-standard-antimicrobial.html)
 
-> **Key Takeaway:** Your cavity risk comes from multiple factors, but most of them are things you can control or change through better habits and prevention strategies. Talk to your dentist about your individual risk level and what works best for you.

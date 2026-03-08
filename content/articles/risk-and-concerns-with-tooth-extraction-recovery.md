@@ -49,7 +49,7 @@ If you develop dry socket, your dentist can help. They'll rinse out the socket a
 
 ## Infection Complications
 
-After extraction, the open wound in your socket can get infected. This happens in about 5-10% of cases without antibiotics. Signs of infection include increasing pain after day 3, swelling that keeps getting worse, pus drainage, fever, or a general feeling of being sick. For more on this topic, see our guide on [Common Misconceptions About Surgical ...](/article/common-misconceptions-about-surgical-success-rates.html).
+After extraction, the open wound in your socket can get infected. This happens in about 5-10% of cases without antibiotics. Signs of infection include increasing pain after day 3, swelling that keeps getting worse, pus drainage, fever, or a general feeling of being sick. For more on this topic, see our guide on [Oral Surgical Success Rates: Defining, Measuring, and](/article/common-misconceptions-about-surgical-success-rates.html).
 
 Infection is more likely if you have a weakened immune system, if the extraction was complicated, or if you don't follow post-operative care instructions. Your dentist might recommend antibiotics before a complicated extraction, especially if you're immunocompromised or have certain heart conditions.
 
@@ -65,7 +65,7 @@ These fragments usually work their way out on their own within a few weeks and c
 
 When lower teeth are extracted, especially wisdom teeth, there's a risk of nerve injury. The nerve that provides feeling to your lower lip, chin, and tongue can be temporarily or permanently affected. You might experience numbness or tingling that lasts weeks, months, or in rare cases, permanently.
 
-Most nerve injuries from extraction are temporary—the nerve is compressed or bruised but not permanently damaged. These usually improve within a few weeks to months as the swelling goes down. However, some people experience permanent numbness or uncomfortable tingling sensations. This is one reason why your dentist wants you to understand the risks before proceeding with extraction, especially for impacted or complicated teeth. For more on this topic, see our guide on [Wisdom Teeth Extraction What You Need...](/article/wisdom-teeth-extraction-what-you-need-to-know.html).
+Most nerve injuries from extraction are temporary—the nerve is compressed or bruised but not permanently damaged. These usually improve within a few weeks to months as the swelling goes down. However, some people experience permanent numbness or uncomfortable tingling sensations. This is one reason why your dentist wants you to understand the risks before proceeding with extraction, especially for impacted or complicated teeth. For more on this topic, see our guide on [Wisdom Teeth Extraction: What You Need to Know](/article/wisdom-teeth-extraction-what-you-need-to-know.html).
 
 ## Bleeding Won't Stop
 
@@ -108,18 +108,18 @@ Here's what actually helps your recovery:
 - Be gentle when rinsing—let water fall into your mouth rather than aggressively rinsing
 - Sleep with your head elevated to reduce swelling
 
-
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
 Your dental health journey is unique, and the right approach to risk and concerns with tooth extraction recovery depends on your individual needs. Don't hesitate to ask your dentist questions so you feel confident about your care.
 
-## Key Takeaway
-
-Most tooth extractions heal without complications, but understanding potential complications helps you know what's normal and what needs professional attention. Follow your dentist's post-extraction instructions carefully, as they're designed specifically to prevent the most common complications. If something doesn't feel right during your recovery, call your dentist rather than waiting to see if it gets better on its own.
+> **Key Takeaway:** Most tooth extractions heal without complications, but understanding potential complications helps you know what's normal and what needs professional attention. Follow your dentist's post-extraction instructions carefully, as they're designed specifically to prevent the most common complications. If something doesn't feel right during your recovery, call your dentist rather than waiting to see if it gets better on its own.
 
 ## Related Articles
 
-- [Wisdom Teeth Extraction: What You Need to Know](/article/wisdom-teeth-extraction-what-you-need-to-know.html)
 - [Best Practices for Surgical Technique Overview](/article/best-practices-for-surgical-technique-overview.html)
 - [Impacted Tooth Extraction: Surgical Removal Procedures](/article/impacted-tooth-extraction-surgical-removal-procedures.html)
+
+- [Should Your Mouth Lesion Be Biopsied?](/article/oral-biopsies-diagnosis-of-suspicious-lesions.html)
+

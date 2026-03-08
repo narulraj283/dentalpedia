@@ -63,7 +63,7 @@ Clear aligners like Invisalign are the speed champions for simple cases—if you
 
 However, clear aligners work best when your teeth don't need major movement. If you have significant crowding, large rotations, or big bite problems, you'll likely need traditional braces or a longer aligner treatment. Some people need "refinement" phases—extra sets of aligners after their initial treatment—which adds 8 to 12 weeks and extra cost. About 20 to 30 percent of patients with moderate complexity need refinement.
 
-Here's the real catch with aligners: they only work if you wear them. If your orthodontist recommends 22 hours a day and you're only wearing them 18 hours, your treatment will extend by about 20 to 30 days per month. That adds up to several extra months over your full treatment. If you're someone who struggles with following instructions or keeping appointments, traditional braces might actually get you better results faster. [Read about why aligner wear schedule matters for your timeline](/article/timeline-for-aligner-wear-schedule.html).
+Here's the real catch with aligners: they only work if you wear them. If your orthodontist recommends 22 hours a day and you're only wearing them 18 hours, your treatment will extend by about 20 to 30 days per month. That adds up to several extra months over your full treatment. If you're someone who struggles with following instructions or keeping appointments, traditional braces might actually get you better results faster. [Read about why aligner wear schedule matters for your](/article/timeline-for-aligner-wear-schedule.html).
 
 ## How Your Gums and Bones Affect Treatment Time
 
@@ -81,16 +81,17 @@ The honest truth is that most speed-up methods offer modest improvements at best
 
 Some adults need orthognathic surgery—surgical correction of their jaw position—along with braces. If that's your situation, expect about 6 to 10 months of braces before surgery, then 4 to 6 months after. Your surgeon and orthodontist work together to plan the timing. The good news is that your jaw adjusts relatively quickly after surgery (4 to 8 weeks), so you can start the finishing phase of braces sooner than you might expect.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Adult braces treatment timelines vary based on your choice of appliance: traditional metal braces typically take 18 to 30 months, ceramic braces take about as long but with slightly slower progress, lingual braces take 24 to 36 months, and clear aligners take 12 to 24 months depending on complexity. Your gum and bone health, how well you follow instructions, and how complicated your bite problems are all affect your final timeline. Working closely with your orthodontist and committing to your care routine will help you achieve your straighter smile efficiently and safely.
 
-## Key Takeaway
-
-Your actual braces timeline depends as much on your commitment and gum health as it does on which braces you choose—even the fastest aligner system won't work well if you don't wear it consistently, and traditional braces might take longer if your gums aren't healthy. Pick the option that fits your lifestyle and follow through.
+> **Key Takeaway:** Your actual braces timeline depends as much on your commitment and gum health as it does on which braces you choose—even the fastest aligner system won't work well if you don't wear it consistently, and traditional braces might take longer if your gums aren't healthy. Pick the option that fits your lifestyle and follow through.
 
 ## Related Articles
 
 - [Root Resorption from Braces: What You Should Know](/article/root-resorption-from-braces-apical-root-loss.html)
 - [How Much Does Tooth Movement Cost?](/article/cost-of-teeth-movement-process.html)
 - [Common Misconceptions About Clear Aligners](/article/common-misconceptions-about-clear-aligner-comparison.html)
+

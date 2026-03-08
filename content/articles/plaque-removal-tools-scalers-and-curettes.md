@@ -88,16 +88,18 @@ Following scaling and root planing, you require more frequent professional maint
 
 Your home care becomes critically important after scaling. [Link Text](/article/severe-gum-bleeding-when-to-seek-help.html) emphasizes how consistent plaque control maintains the improvements your professional treatment achieves. Without excellent home care, the periodontal pockets and calculus deposits return, requiring retreatment. The scaling procedure opens an opportunity for improved long-term prognosis, but this opportunity depends on your commitment to daily plaque removal.
 
+*Always consult your dentist to determine the best approach for your individual situation.*
+
 ## Conclusion
 
 Professional scaling and root planing remove deposits and calculus that your home care cannot access, stopping disease progression and allowing your tissues to heal. Your dental team combines hand instruments providing tactile feedback with ultrasonic scalers offering rapid calculus removal for comprehensive treatment. Sharp instruments and proper technique minimize discomfort and treatment time. Following treatment, consistent home care combined with regular professional maintenance maintains your improved periodontal health for years.
 
-## Key Takeaway
-
-Professional plaque removal removes calculus and biofilm your daily brushing and flossing cannot reach, but its success depends on your commitment to excellent home care afterward. Scaling and root planing represent an opportunity to arrest disease progression—one you must support through consistent plaque control.
+> **Key Takeaway:** Professional plaque removal removes calculus and biofilm your daily brushing and flossing cannot reach, but its success depends on your commitment to excellent home care afterward. Scaling and root planing represent an opportunity to arrest disease progression—one you must support through consistent plaque control.
 
 ## Related Articles
 
 - [Risk and Concerns with Gum Disease Prevention](/article/risk-and-concerns-with-gum-disease-prevention.html)
-- [Apically Positioned Flap Creating Shallow Pockets](/article/apically-positioned-flap-creating-shallow-pockets.html)
 - [Tenacious Calculus Firmly Attached Deposits](/article/tenacious-calculus-firmly-attached-deposits.html)
+
+- [Cost of Gum Disease Prevention](/article/cost-of-gum-disease-prevention.html)
+

@@ -42,7 +42,7 @@ reviewer_specialty: Periodontics
 slug: scaling-and-root-planing-non-surgical-gum-treatment
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
-title: 'Scaling and Root Planing: What to Expect From...'
+title: Scaling and Root Planing Non Surgical Gum Treatment
 ---
 
 ## Understanding Scaling and Root Planing
@@ -71,7 +71,7 @@ Hand instruments provide tactile feedback—the clinician can feel remaining cal
 
 After calculus removal, root planing smooths your tooth root. Calculus and contaminated cementum (the outer layer of your root) are removed, creating a smooth surface where your gum tissue can reattach to your tooth.
 
-This smoothing is important because rough surfaces harbor bacteria. A smooth root surface allows your periodontal ligament (the tissue connecting tooth to bone) to heal and potentially reattach. For more on this topic, see our guide on [Host Response To Bacteria Why Some Ha...](/article/host-response-to-bacteria-why-some-have-disease.html).
+This smoothing is important because rough surfaces harbor bacteria. A smooth root surface allows your periodontal ligament (the tissue connecting tooth to bone) to heal and potentially reattach. For more on this topic, see our guide on [Host Response to Bacteria: Why Some Have Disease](/article/host-response-to-bacteria-why-some-have-disease.html).
 
 ## What to Expect During the Procedure
 
@@ -129,7 +129,7 @@ You'll also need to dramatically improve your home care. Scaling and root planin
 
 ### If Your Gums Haven't Improved
 
-Some pockets don't respond adequately to scaling and root planing alone. If deep pockets persist, your dentist might recommend surgical options like flap surgery or discuss your overall health factors (smoking, diabetes control, stress, etc.) that might be limiting healing. For more on this topic, see our guide on [Periodontal Disease Genetics Family R...](/article/periodontal-disease-genetics-family-risk-factors.html).
+Some pockets don't respond adequately to scaling and root planing alone. If deep pockets persist, your dentist might recommend surgical options like flap surgery or discuss your overall health factors (smoking, diabetes control, stress, etc.) that might be limiting healing. For more on this topic, see our guide on [Periodontal Disease Genetics Family Risk Factors](/article/periodontal-disease-genetics-family-risk-factors.html).
 
 ## The Importance of Home Care After Scaling and Root Planing
 
@@ -159,16 +159,18 @@ Scaling and root planing is typically less expensive than surgical gum treatment
 
 Check your dental insurance—many plans cover scaling and root planing, though coverage varies. Even if cost is a concern, the procedure is worthwhile because it prevents tooth loss, which would be far more expensive to replace.
 
+*Always consult your dentist to determine the best approach for your individual situation.*
+
 ## Conclusion
 
 Scaling and root planing is a highly effective, non-surgical treatment that stops gum disease and allows your gums to heal. While the procedure and subsequent recovery involve some discomfort, most people tolerate it well. The key to long-term success is combining professional treatment with excellent home care and regular maintenance visits.
 
-## Key Takeaway
-
-Scaling and root planing removes subgingival calculus and contaminated root surfaces, disrupting bacterial infection and allowing gum healing. Success depends on professional treatment combined with excellent home care and regular maintenance visits. This combination prevents tooth loss and maintains your oral health long-term.
+> **Key Takeaway:** Scaling and root planing removes subgingival calculus and contaminated root surfaces, disrupting bacterial infection and allowing gum healing. Success depends on professional treatment combined with excellent home care and regular maintenance visits. This combination prevents tooth loss and maintains your oral health long-term.
 
 ## Related Articles
 
-- [Host Response to Bacteria: Why Some Have Disease](/article/host-response-to-bacteria-why-some-have-disease.html)
-- [Periodontal Disease Genetics: Family Risk Factors](/article/periodontal-disease-genetics-family-risk-factors.html)
 - [Growth Factors: BMP and Signaling Molecules](/article/growth-factors-bmp-and-signaling-molecules.html)
+
+- [Epithelial Attachment: Junctional Epithelium](/article/epithelial-attachment-junctional-epithelium.html)
+- [Graft Surgery for Gum Recession Repair](/article/graft-surgery-for-gum-recession-repair.html)
+

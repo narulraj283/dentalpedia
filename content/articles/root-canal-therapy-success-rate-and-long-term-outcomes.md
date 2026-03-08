@@ -80,30 +80,37 @@ Front teeth heal the most reliably because they have simpler anatomy, less compl
 
 ## What to Expect During the Healing Timeline
 
-Your tooth doesn't heal instantly. During the first few weeks after treatment, you should be symptom-free and return to normal function. By 3-6 months, your dentist might start to see signs that the infection pocket is getting smaller on X-rays. Complete healing of a small infection pocket takes 1-2 years. Larger infection pockets can take 3-5 years or even longer to fully heal. This extended timeline is completely normal and doesn't mean your treatment failed.
+Your tooth doesn't heal instantly. During the first few weeks after treatment, you should be symptom-free and return to normal function. By 3-6 months, your dentist might start to see signs that the infection pocket is getting smaller on X-rays.
+
+Complete healing of a small infection pocket takes 1-2 years. Larger infection pockets can take 3-5 years or even longer to fully heal. This extended timeline is completely normal and doesn't mean your treatment failed.
 
 Your dentist will want to see you for follow-up X-rays at 6-12 months, then at 2, 3, and 4 years to monitor healing. Teeth that show no growth of their infection pocket at the 4-5 year mark are considered successful, even if small residual pockets remain. These non-progressive lesions aren't a problem—they're just scar tissue from the old infection that isn't getting worse.
 
 ## When a Root Canal Doesn't Work the First Time
 
-About 15-20% of root canal treatments don't succeed initially and need retreatment. If your tooth develops problems after initial root canal treatment, research shows retreatment succeeds 65-80% of the time, which is still very good. Your chances of success with retreatment improve if the first dentist missed a canal or didn't fill the canal completely, because [retreatment gives you a chance to correct these problems](/article/root-canal-retreatment-when-resin-occurs.html).
+About 15-20% of root canal treatments don't succeed initially and need retreatment. If your tooth develops problems after initial root canal treatment, research shows retreatment succeeds 65-80% of the time, which is still very good. Your chances of success with retreatment improve if the first dentist missed a canal or didn't fill the canal completely, because [Root Canal Retreatment - When Resin Occurs](/article/root-canal-retreatment-when-resin-occurs.html).
 
 If retreatment doesn't work, your dentist might recommend a surgical procedure called apicoectomy, which works about 85-90% of the time. The combination of retreatment followed by surgery if needed gives you multiple chances to save your tooth.
 
 ## Factors You Can Control
 
-Many success factors are beyond your control—tooth location, root anatomy, and initial damage are what they are. But you can control some important factors. First, get your permanent crown or restoration promptly—within 2-4 weeks if possible. Don't delay. Second, maintain excellent oral hygiene and keep your regular dental checkups so your dentist can catch any problems early. Third, follow your dentist's recommendations for follow-up X-rays at 6-12 months and 2-4 years.
+Many success factors are beyond your control—tooth location, root anatomy, and initial damage are what they are. But you can control some important factors. First, get your permanent crown or restoration promptly—within 2-4 weeks if possible.
+
+Don't delay. Second, maintain excellent oral hygiene and keep your regular dental checkups so your dentist can catch any problems early. Third, follow your dentist's recommendations for follow-up X-rays at 6-12 months and 2-4 years.
+
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
 Root canal treatment succeeds 85-95% of the time overall, with your specific success rate depending on tooth type, infection size, and crown quality. Modern root canal techniques are highly successful, and when combined with prompt placement of a good crown, your chances of keeping your tooth healthy long-term are excellent. Even if your tooth is in the less-favorable category (large back molar with big infection), success is still more likely than failure—these treatments give your natural tooth a real chance to survive.
 
-## Key Takeaway
-
-Root canal treatment succeeds in 85-95% of cases, but your long-term success depends equally on getting a good crown promptly—crowned teeth succeed 90% of the time while uncrowned teeth only succeed 60-70% of the time.
+> **Key Takeaway:** Root canal treatment succeeds in 85-95% of cases, but your long-term success depends equally on getting a good crown promptly—crowned teeth succeed 90% of the time while uncrowned teeth only succeed 60-70% of the time.
 
 ## Related Articles
 
 - [Root Canal Therapy Complete Pulp Removal](/article/root-canal-therapy-complete-pulp-removal.html)
 - [Root Canal Treatment Complete Step-by-Step Guide](/article/root-canal-treatment-complete-step-by-step-guide.html)
-- [Root Canal Retreatment When Resin Occurs](/article/root-canal-retreatment-when-resin-occurs.html)
+
+- [Stainless Steel Endodontic Files: Metallurgy,](/article/stainless-steel-files-traditional-material.html)
+- [When Do You Need a Root Canal? Common Signs and](/article/when-do-you-need-a-root-canal-common-signs.html)
+

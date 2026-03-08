@@ -77,7 +77,7 @@ Once the pulp (the source of inflammation) is removed, resorption stops immediat
 
 ## Prognosis and Long-Term Outlook
 
-Once your dentist has stopped resorption (whether external or internal), your tooth's future depends on how much root structure remains. If you caught resorption early and only a small amount was lost, your tooth can function normally for many more years. If significant resorption occurred before treatment, your tooth might be weaker and have a shorter functional lifespan. For more on this topic, see our guide on [Apical Periodontitis Bone Loss Around...](/article/apical-periodontitis-bone-loss-around-root-tip.html).
+Once your dentist has stopped resorption (whether external or internal), your tooth's future depends on how much root structure remains. If you caught resorption early and only a small amount was lost, your tooth can function normally for many more years. If significant resorption occurred before treatment, your tooth might be weaker and have a shorter functional lifespan. For more on this topic, see our guide on [Apical Periodontitis: Understanding Bone Loss and](/article/apical-periodontitis-bone-loss-around-root-tip.html).
 
 Your dentist will monitor your tooth with X-rays to make sure resorption stays arrested (doesn't start again). If resorption arrests completely and stays stable, your tooth can last for many years even with some root shortening.
 
@@ -99,12 +99,12 @@ Your dentist should explain your specific situation, show you X-rays, and discus
 
 Root resorption is your body's cells dissolving your tooth root, but it's preventable and treatable when caught early. Trauma-related resorption can be managed by prompt treatment. Internal resorption requires immediate root canal treatment to stop the process. With appropriate treatment and monitoring, most teeth with resorption can function well for years despite the lost root structure.
 
-## Key Takeaway
-
-Root resorption is progressive dissolution of tooth root by your body's resorptive cells, but early detection and prompt treatment can arrest the process and preserve your tooth's function for many years.
+> **Key Takeaway:** Root resorption is progressive dissolution of tooth root by your body's resorptive cells, but early detection and prompt treatment can arrest the process and preserve your tooth's function for many years.
 
 ## Related Articles
 
-- [Irrigation Solutions Medicinal Liquids](/article/irrigation-solutions-medicinal-liquids.html)
-- [Apical Periodontitis Bone Loss Around Root Tip](/article/apical-periodontitis-bone-loss-around-root-tip.html)
 - [Root Canal Aftercare Pain Management and Recovery](/article/root-canal-aftercare-pain-management-and-recovery.html)
+
+- [Root Canal Length: Why Dentists Measure Twice Before](/article/working-length-determination-apex-location.html)
+- [Root Canal Therapy - Complete Pulp Removal](/article/root-canal-therapy-complete-pulp-removal.html)
+

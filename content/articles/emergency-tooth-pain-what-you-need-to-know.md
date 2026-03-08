@@ -31,7 +31,7 @@ Not every toothache is an emergency requiring immediate care. Some painful teeth
 
 **Go to the emergency room if you have** facial swelling that's spreading up toward your eye or ear, difficulty swallowing or throat tightness, fever above 101°F, difficulty opening your mouth more than an inch, or voice changes. These signs mean your tooth infection is spreading into deeper tissues and could affect your ability to breathe or swallow. This is genuinely dangerous and requires urgent medical evaluation.
 
-**Call your dentist for same-day emergency care if you have** severe pain that doesn't respond to over-the-counter medication, obvious swelling of the gum or jaw, or pain combined with sensitivity to biting. Learning more about [cavity diagnosis process what you need to know](/article/cavity-diagnosis-process-what-you-need-to-know.html) can help you understand this better. Your dentist will probably fit you in the same day because treating the problem immediately prevents it from becoming more serious.
+**Call your dentist for same-day emergency care if you have** severe pain that doesn't respond to over-the-counter medication, obvious swelling of the gum or jaw, or pain combined with sensitivity to biting. Learning more about [Cavity Diagnosis Process What You Need to Know](/article/cavity-diagnosis-process-what-you-need-to-know.html) can help you understand this better. Your dentist will probably fit you in the same day because treating the problem immediately prevents it from becoming more serious.
 
 **You can usually wait for a regular appointment if you have** mild sensitivity to cold or sweet, a small visible cavity without pain, or slight swelling without systemic symptoms.
 
@@ -61,7 +61,7 @@ When you come in with tooth pain, your dentist performs several tests to identif
 
 ## Understanding Test Results
 
-Your dentist might say your tooth is "reversible pulpitis" or "irreversible pulpitis"—these terms describe your nerve's condition: You may also want to read about [community health centers affordable dentistry](/article/community-health-centers-affordable-dentistry.html).
+Your dentist might say your tooth is "reversible pulpitis" or "irreversible pulpitis"—these terms describe your nerve's condition: You may also want to read about [Community Health Centers Affordable Dentistry](/article/community-health-centers-affordable-dentistry.html).
 
 **Reversible pulpitis** means your nerve is inflamed but still alive and potentially recoverable. Your pain comes only from cold or sweet, and it stops when you remove the trigger. Treatment involves removing the irritating factor (the cavity) and sometimes putting a soothing medication under a temporary filling. Your nerve often recovers completely. If pain continues beyond a couple of weeks, it becomes irreversible pulpitis.
 
@@ -71,7 +71,9 @@ Your dentist might say your tooth is "reversible pulpitis" or "irreversible pulp
 
 Your dentist's immediate goal is stopping your pain and preventing the infection from spreading. Here's what typically happens:
 
-Your dentist numbs the area with local anesthetic so the procedure is painless (you might feel pressure, but not pain). She opens your tooth's crown to access the nerve chamber inside. For some patients, just opening the tooth and releasing the pressure inside brings immediate pain relief. Your dentist removes the inflamed or infected nerve tissue. She cleans and shapes the canal system inside your tooth's roots. She might leave the tooth open temporarily to allow continued drainage and healing, or she might place a soothing medication (calcium hydroxide) inside and close it temporarily. The tooth isn't permanently sealed until the infection is completely resolved.
+Your dentist numbs the area with local anesthetic so the procedure is painless (you might feel pressure, but not pain). She opens your tooth's crown to access the nerve chamber inside. For some patients, just opening the tooth and releasing the pressure inside brings immediate pain relief.
+
+Your dentist removes the inflamed or infected nerve tissue. She cleans and shapes the canal system inside your tooth's roots. She might leave the tooth open temporarily to allow continued drainage and healing, or she might place a soothing medication (calcium hydroxide) inside and close it temporarily. The tooth isn't permanently sealed until the infection is completely resolved.
 
 ## Managing Pain at Home After Treatment
 
@@ -107,12 +109,13 @@ Once you've had an emergency tooth problem, you're at higher risk of future emer
 
 Tooth pain that requires emergency treatment is your body's way of signaling that something needs immediate attention. The sooner you seek treatment, the simpler your recovery usually is and the better your long-term outcome. Modern emergency dental care successfully resolves most tooth emergencies and allows you to keep your natural tooth. If you're experiencing severe tooth pain, contact your dentist immediately or go to the emergency room if you have systemic symptoms. Talk to your dentist about which treatment options are right for your specific situation.
 
+> **Key Takeaway:** Tooth pain that requires emergency treatment is different from routine tooth sensitivity or minor discomfort.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Cavity Diagnosis Process: What You Need to Know](/article/cavity-diagnosis-process-what-you-need-to-know.html)
-- [Community Health Centers: Affordable Dentistry](/article/community-health-centers-affordable-dentistry.html)
 - [Hydrodynamic Theory: Sensitivity Explanation](/article/hydrodynamic-theory-sensitivity-explanation.html)
+- [Cost of Mouth Ulcer Care and Treatment Options](/article/cost-of-mouth-ulcer-care.html)
+- [How Cavities Form: The Science Behind Tooth Decay](/article/how-to-cavity-formation-process.html)
+- [Common Misconceptions About Mouth Injuries Treatment](/article/common-misconceptions-about-mouth-injuries-treatment.html)
+- [Cavity Formation Process: What You Need to Know](/article/cavity-formation-process-what-you-need-to-know.html)
 
-> **Key Takeaway:** Severe toothache with fever, swelling, or difficulty swallowing requires emergency care. Don't wait for a regular appointment—call your dentist or emergency room. Most emergency tooth pain responds well to prompt treatment. Talk to your dentist about which options are right for your specific situation.

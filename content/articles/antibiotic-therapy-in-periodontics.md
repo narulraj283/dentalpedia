@@ -100,12 +100,13 @@ Special medicines placed directly in your deep pockets (Arestin or Atridox) work
 
 Your best defense is still daily brushing, flossing, and regular professional cleanings. Antibiotics are the back-up plan when your mouth needs extra help fighting disease.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Regular deep cleaning works great for most gum disease patients. But sometimes your gums stay sick even after treatment.
 
-- [Aggressive Periodontitis: Early-Onset Gum Disease](/article/aggressive-periodontitis-early-onset-gum-disease.html)
-- [Aggressive vs Chronic: Disease Progression Rate](/article/aggressive-vs-chronic-disease-progression-rate.html)
+## Related Articles
+
 - [Alcohol and Periodontitis: Increased Risk](/article/alcohol-and-periodontitis-increased-risk.html)
 
-
-> **Key Takeaway:** Regular deep cleaning works great for most gum disease patients. Your dentist can help you understand what steps are right for your specific needs.
+- [Area-Specific Curettes: Gracey Instrument Design and](/article/area-specific-curettes-gracey-instruments.html)
+- [Moderate Periodontitis: Clinical Definition](/article/moderate-periodontitis-clinical-definition.html)
+- [Stem Cell Therapy and Periodontal Regeneration: Current](/article/stem-cell-therapy-future-periodontal-treatment.html)
 

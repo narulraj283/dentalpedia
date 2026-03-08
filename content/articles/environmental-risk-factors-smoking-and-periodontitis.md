@@ -53,7 +53,7 @@ Smoking dramatically increases gum disease risk and severity:
 
 The most problematic aspect: smoking makes gum disease treatment far less effective:
 
-**Scaling and root planing** (deep cleaning) shows significantly poorer outcomes in smokers. Learning more about [periodontal disease and tooth loss prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. Non-smokers' pockets improve by 2-3mm; smokers' improve by only 0.5-1mm.
+**Scaling and root planing** (deep cleaning) shows significantly poorer outcomes in smokers. Learning more about [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. Non-smokers' pockets improve by 2-3mm; smokers' improve by only 0.5-1mm.
 
 **Surgical treatment** (gum grafts, bone regeneration) fails more frequently in smokers. Flap healing is impaired, and regenerated tissues fail to integrate properly.
 
@@ -83,7 +83,7 @@ One of the most encouraging realities: quitting smoking improves periodontal hea
 
 **By 3-6 months**, blood flow to gums improves, gum healing accelerates, and inflammation decreases visibly.
 
-**Long-term improvements**: After 5-10 years of being smoke-free, periodontal disease risk approaches non-smokers' baseline risk. You may also want to read about [timeline for gum disease stages](/article/timeline-for-gum-disease-stages.html).
+**Long-term improvements**: After 5-10 years of being smoke-free, periodontal disease risk approaches non-smokers' baseline risk. You may also want to read about [Timeline for Gum Disease Stages](/article/timeline-for-gum-disease-stages.html).
 
 This means quitting smoking now prevents future disease progression and improves outcomes if you've already developed gum disease.
 
@@ -137,14 +137,17 @@ If you're not ready to quit, minimize damage:
 
 ## Conclusion
 
-Smoking dramatically increases gum disease risk, severity, and treatment failure rates. The disease often advances silently because smoking masks warning signs, so regular professional monitoring is critical. The excellent news is that quitting smoking improves gum health quickly and substantially improves treatment outcomes. Former smokers show treatment success rates approaching non-smokers' within several years. If you have gum disease and smoke, quitting is the single most important step you can take to save your teeth and improve your overall health. Your dentist can help with smoking cessation. Talk to your dentist about which options are right for your specific situation.
+Smoking dramatically increases gum disease risk, severity, and treatment failure rates. The disease often advances silently because smoking masks warning signs, so regular professional monitoring is critical. The excellent news is that quitting smoking improves gum health quickly and substantially improves treatment outcomes.
 
+Former smokers show treatment success rates approaching non-smokers' within several years. If you have gum disease and smoke, quitting is the single most important step you can take to save your teeth and improve your overall health. Your dentist can help with smoking cessation. Talk to your dentist about which options are right for your specific situation.
 
+> **Key Takeaway:** Impact of smoking and environmental exposures on gum disease progression and treatment outcomes.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html)
-- [Timeline for Gum Disease Stages](/article/timeline-for-gum-disease-stages.html)
 - [Stress and Periodontitis: Immunosuppression](/article/stress-and-periodontitis-immunosuppression.html)
+- [Gum Disease and Lung Health: Why Your Mouth Affects](/article/respiratory-infection-aspiration-risk-from-gum-disease.html)
+- [Platelet-Derived Growth Factor (PDGF) Benefits](/article/platelet-derived-growth-factor-pdgf-benefit.html)
+- [Red Complex Bacteria and Most Virulent](/article/red-complex-bacteria-most-virulent-pathogens.html)
+- [Quorum Sensing - Bacterial Communication](/article/quorum-sensing-bacterial-communication.html)
 
-> **Key Takeaway:** Smoking dramatically increases gum disease risk and makes treatment far less effective. The good news: quitting smoking improves gum health quickly—within weeks you'll see improvement. Former smokers' treatment outcomes approach non-smokers' within years. Quitting is the single most important step you can take to save your teeth. Talk to your dentist about which options are right for your specific situation.

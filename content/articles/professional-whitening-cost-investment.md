@@ -68,7 +68,7 @@ OTC whitening strips demonstrate poor fit on curved tooth surfaces, resulting in
 
 ## Shade Achievement and Result Longevity
 
-Professional in-office whitening delivers rapid, dramatic shade improvement—4-8 shades within a single appointment, sometimes visible within 30 minutes. Clinicians document baseline shade with shade guides or colorimetry and can objectively measure improvement. This dramatic immediate improvement satisfies esthetic demands and motivates continued preventive care through [proper daily brushing technique](/article/proper-brushing-technique-step-by-step-guide.html).
+Professional in-office whitening delivers rapid, dramatic shade improvement—4-8 shades within a single appointment, sometimes visible within 30 minutes. Clinicians document baseline shade with shade guides or colorimetry and can objectively measure improvement. This dramatic immediate improvement satisfies esthetic demands and motivates continued preventive care through [Proper Daily Brushing Technique](/article/proper-brushing-technique-step-by-step-guide.html).
 
 Result longevity differs between extrinsic (surface) and intrinsic (internal) staining. Teeth with surface discoloration from dietary sources (coffee, wine, tobacco) maintain whitening results 6-12 months with good plaque control and minimal staining exposure. Teeth with age-related or systemic internal discoloration maintain results 12-24 months following professional whitening. Over-the-counter whitening results fade within 2-4 weeks of discontinuing treatment because low concentrations fail to create permanent oxidative changes to dentin structure. Consumers perceiving satisfactory OTC results must continue indefinitely to maintain shade.
 
@@ -90,20 +90,21 @@ Dental insurance rarely covers whitening regardless of type, classifying it cosm
 
 ## Evidence-Based Recommendations
 
-Professional in-office whitening suits patients with significant discoloration requiring rapid results, those with intrinsic staining (aging, systemic factors), and patients with high esthetic demands and financial capacity. Custom take-home systems suit patients able to maintain compliance, those tolerating slower results with lower sensitivity, and patients planning long-term maintenance whitening. Over-the-counter products serve patients with minimal discoloration, significant financial constraints, and those experimenting before professional investment. Before whitening any type, ensure you're maintaining [proper brushing technique](/article/proper-brushing-technique-step-by-step-guide.html) and receiving [professional cleanings regularly](/article/professional-cleanings-what-they-remove-that-home-care-cant.html), as these create the foundation for any whitening success.
+Professional in-office whitening suits patients with significant discoloration requiring rapid results, those with intrinsic staining (aging, systemic factors), and patients with high esthetic demands and financial capacity. Custom take-home systems suit patients able to maintain compliance, those tolerating slower results with lower sensitivity, and patients planning long-term maintenance whitening. Over-the-counter products serve patients with minimal discoloration, significant financial constraints, and those experimenting before professional investment. Before whitening any type, ensure you're maintaining proper brushing technique and receiving [Professional Cleanings Regularly](/article/professional-cleanings-what-they-remove-that-home-care-cant.html), as these create the foundation for any whitening success.
 
 Clinical assessment before whitening is essential—underlying causes of discoloration (internal resorption, caries, previous trauma staining) may not respond to whitening and may require alternative treatment. Tetracycline staining, dentin dysplasia, and fluorosis demonstrate reduced whitening efficacy and benefit from alternative esthetic treatments.
+
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
 Professional tooth whitening delivers superior shade achievement, predictability, durability, and safety compared to over-the-counter products at substantially higher initial cost. Custom take-home systems become cost-effective within 3-5 years when accounting for maintenance whitening needs. Professional in-office whitening suits patients with high esthetic demands and financial resources. Understanding the mechanisms behind these cost differences—higher concentrations, extended contact times, professional expertise—helps you select the whitening approach matching your objectives and circumstances.
 
-## Key Takeaway
-
-Professional whitening through in-office systems or custom trays provides superior esthetic results and longer-lasting improvement compared to OTC products. Cost analysis shows that custom trays become cost-neutral with in-office treatments within 3-5 years, and superior to continued OTC whitening for patients desiring sustained esthetic improvement.
+> **Key Takeaway:** Professional whitening through in-office systems or custom trays provides superior esthetic results and longer-lasting improvement compared to OTC products. Cost analysis shows that custom trays become cost-neutral with in-office treatments within 3-5 years, and superior to continued OTC whitening for patients desiring sustained esthetic improvement.
 
 ## Related Articles
 
 - [Benefits of Gummy Smile Fix and Cosmetic Gum Shaping](/article/benefits-of-gummy-smile-fix.html)
 - [Cosmetic Dentistry Options: Complete Guide](/article/cosmetic-restoration-types-complete-guide.html)
-- [Teeth Whitening: Natural Methods and Evidence-Based Approaches](/article/natural-tooth-whitening-methods-and-evidence.html)
+- [Teeth Whitening](/article/natural-tooth-whitening-methods-and-evidence.html)
+

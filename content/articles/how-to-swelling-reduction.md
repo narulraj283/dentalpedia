@@ -33,13 +33,13 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/25611083
 ---
 
-Your face is puffy after extraction—this is one of the most visible parts of recovery, and it bothers people. The good news? Swelling is normal, predictable, and very manageable. Understanding why it happens and what to do about it helps you minimize it and feel better faster. Learning more about [recovery after tooth extraction](/article/how-to-recovery-after-extraction.html) can help you understand this better.
+Your face is puffy after extraction—this is one of the most visible parts of recovery, and it bothers people. The good news? Swelling is normal, predictable, and very manageable. Understanding why it happens and what to do about it helps you minimize it and feel better faster. Learning more about [Recovery After Tooth Extraction](/article/how-to-recovery-after-extraction.html) can help you understand this better.
 
 ## Why Your Face Swells
 
 After extraction, your body's inflammatory response kicks in. This is actually healing—your immune system is rushing healing factors to the surgical site, increasing blood flow, and flooding the area with white blood cells. This inflammatory response creates fluid accumulation (edema) in your soft tissues, which shows up as facial swelling.
 
-The swelling isn't worst immediately—it peaks around 48-72 hours after surgery as inflammation reaches its maximum. Learning more about [recovery timeline](/article/how-to-recovery-timeline.html) can help you understand this better. By day 5-7, you'll notice substantial improvement. By weeks 2-3, most swelling is gone. Understanding this timeline helps you not panic when you look in the mirror on day 2 or 3.
+The swelling isn't worst immediately—it peaks around 48-72 hours after surgery as inflammation reaches its maximum. Learning more about [Recovery Timeline](/article/how-to-recovery-timeline.html) can help you understand this better. By day 5-7, you'll notice substantial improvement. By weeks 2-3, most swelling is gone. Understanding this timeline helps you not panic when you look in the mirror on day 2 or 3.
 
 Your swelling can be reduced but usually can't be eliminated entirely—it's a normal part of healing. But aggressive early management dramatically decreases how much you swell and how long it lasts.
 
@@ -103,14 +103,19 @@ Most people look worse on days 2-3 than they expect. Your face might swell more 
 
 Plan activities accordingly. If you have important events, scheduling extraction for mid-week or with several days beforehand helps. Most swelling is substantially improved by day 5-7 and nearly gone by 2 weeks.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Swelling after extraction is your body's normal healing response, but aggressive early management—ice, elevation, NSAIDs, activity restriction—dramatically reduces how much you swell and how long it lasts. Expect maximum swelling around day 2-3, expect substantial improvement by day 5-7, and expect near-complete resolution by 2-3 weeks. By day 10, most people feel and look completely back to normal.
 
 > **Key Takeaway:** Apply ice aggressively for the first 24-48 hours (20 minutes on, 20 minutes off), elevate your head, take anti-inflammatory medication on schedule, and restrict activity to minimize swelling and feel better faster.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Recovery After Tooth Extraction](/article/how-to-recovery-after-extraction.html)
-- [Recovery Timeline](/article/how-to-recovery-timeline.html)
 - [Managing Pain After Surgery](/article/how-to-pain-management-surgery.html)
+- [Oral Surgical Technique Fundamentals and Clinical](/article/best-practices-for-surgical-technique-overview.html)
+- [Why Surgical Site Healing Matters](/article/why-surgical-site-healing-matters.html)
+- [Bone Grafting Procedures in Implant Dentistry](/article/how-to-bone-grafting-procedure.html)
+- [Graft Harvesting](/article/graft-harvesting-soft-tissue-source-selection.html)
+

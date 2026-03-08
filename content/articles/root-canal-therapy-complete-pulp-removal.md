@@ -67,7 +67,7 @@ Then your dentist takes an X-ray with a small instrument in the canal to confirm
 
 Once working length is established, your dentist begins removing the infected pulp tissue and shaping your canals. Modern dentists use rotary instruments—small rotating files made of nickel-titanium that are incredibly flexible. These modern files are much more effective and safer than older hand files.
 
-Your dentist uses a special technique starting with larger files and gradually moving to smaller ones as they work deeper into the canal. This creates a tapered shape that helps clean thoroughly and allows complete filling later. Throughout this process, your dentist continuously flushes the canal with special cleaning solutions to remove tissue remnants and debris. It's similar to rinsing a pipe while cleaning it. For more on this topic, see our guide on [Working Length Determination Apex Loc...](/article/working-length-determination-apex-location.html).
+Your dentist uses a special technique starting with larger files and gradually moving to smaller ones as they work deeper into the canal. This creates a tapered shape that helps clean thoroughly and allows complete filling later. Throughout this process, your dentist continuously flushes the canal with special cleaning solutions to remove tissue remnants and debris. It's similar to rinsing a pipe while cleaning it. For more on this topic, see our guide on [Root Canal Length: Why Dentists Measure Twice Before](/article/working-length-determination-apex-location.html).
 
 ## Using Special Irrigation Solutions
 
@@ -97,16 +97,19 @@ Your root canal treatment is complete, but your tooth isn't quite finished. Over
 
 Your dentist will make sure this permanent crown or filling fits perfectly and provides a complete seal. This restoration is truly the final step in saving your tooth.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Root canal treatment has an 85-95% success rate when performed correctly with proper technique, precise measurements, thorough cleaning, and complete sealing. Modern instruments and techniques have made root canal treatment much faster and more successful than it used to be. Understanding each step of the process can help reduce your anxiety and help you appreciate the care your dentist provides to save your natural tooth.
 
-## Key Takeaway
-
-Your dentist removes infected pulp through careful instrumentation to a precise depth, thoroughly cleans your canal with special solutions, and seals it with gutta-percha—achieving successful treatment in 85-95% of cases when modern techniques are properly performed.
+> **Key Takeaway:** Your dentist removes infected pulp through careful instrumentation to a precise depth, thoroughly cleans your canal with special solutions, and seals it with gutta-percha—achieving successful treatment in 85-95% of cases when modern techniques are properly performed.
 
 ## Related Articles
 
 - [Root Canal Retreatment When Resin Occurs](/article/root-canal-retreatment-when-resin-occurs.html)
 - [Root Canal Treatment Complete Step-by-Step Guide](/article/root-canal-treatment-complete-step-by-step-guide.html)
-- [Root Canal Therapy Success Rate and Long-Term Outcomes](/article/root-canal-therapy-success-rate-and-long-term-outcomes.html)
+- [Endodontic File Selection](/article/file-selection-choosing-instruments.html)
+- [Stainless Steel Endodontic Files: Metallurgy,](/article/stainless-steel-files-traditional-material.html)
+- [Dead Nerve Tissue: Understanding Pulp Necrosis](/article/necrotic-pulp-dead-nerve-tissue.html)
+

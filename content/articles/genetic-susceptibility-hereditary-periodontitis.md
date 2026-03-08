@@ -15,11 +15,13 @@ references:
   - "Kinane DF. Causation and pathogenesis of periodontal disease. Periodontol 2000. 2001;25:8-20."
 ---
 
-You brush and floss perfectly, yet you seem to develop gum disease faster and more severely than your friends who don't take care of their teeth as well. Unfair, right? The answer might be genetics. About 30-50% of your gum disease risk is inherited. This doesn't mean you'll definitely get gum disease if your parents did, but it means your immune system responds more strongly to bacteria, making you more susceptible. Understanding your genetic risk helps you take appropriate preventive steps.
+You brush and floss perfectly, yet you seem to develop gum disease faster and more severely than your friends who don't take care of their teeth as well. Unfair, right? The answer might be genetics.
+
+About 30-50% of your gum disease risk is inherited. This doesn't mean you'll definitely get gum disease if your parents did, but it means your immune system responds more strongly to bacteria, making you more susceptible. Understanding your genetic risk helps you take appropriate preventive steps.
 
 ## How Genetics Influence Gum Disease
 
-Your immune system normally fights bacteria in your mouth. Learning more about [periodontal disease and tooth loss prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. But some people's immune systems respond more aggressively to periodontal bacteria, producing excessive inflammation. This excessive inflammation actually damages your own gum tissue and bone—your immune system overreacts, trying so hard to fight bacteria that it harms your own tissues.
+Your immune system normally fights bacteria in your mouth. Learning more about [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. But some people's immune systems respond more aggressively to periodontal bacteria, producing excessive inflammation. This excessive inflammation actually damages your own gum tissue and bone—your immune system overreacts, trying so hard to fight bacteria that it harms your own tissues.
 
 Specific genes controlling your immune response determine how strongly you react. If you inherited genes that make you an "over-responder," you'll have more severe inflammation when exposed to periodontal bacteria. Over-responders develop more severe gum disease than average, even with equivalent plaque levels.
 
@@ -33,7 +35,7 @@ Some people carry specific gene variants that significantly increase risk. Genet
 
 ## Environmental Factors Modulate Your Genetic Risk
 
-Here's good news: even if you have genetic susceptibility, whether the disease actually develops depends significantly on environmental factors you control. Smoking dramatically increases risk in genetically susceptible people—almost ten times higher risk than nonsmokers. If you're genetically susceptible and smoke, you're essentially guaranteed to develop severe gum disease.
+Here's good news: even if you have genetic susceptibility, whether the disease actually develops depends significantly on environmental factors you control. Smoking dramatically increases risk in genetically susceptible people—almost ten times higher risk than nonsmokers. If you're genetically susceptible and smoke, you're at very high risk of developing severe gum disease.
 
 Poor oral hygiene magnifies genetic risk. Excellent home care—even in genetically susceptible individuals—significantly reduces disease severity. Stress and poor sleep impair immune function, exacerbating disease in susceptible people. Good stress management actually protects your gums.
 
@@ -61,7 +63,7 @@ Your dentist might recommend antimicrobial medications (local or systemic antibi
 
 Laser-assisted periodontal therapy (using specific wavelengths) combined with conventional scaling shows enhanced results in genetically susceptible populations, likely through improved bacterial elimination.
 
-For advanced disease, surgical therapy becomes necessary. Learning more about [timeline for gum disease stages](/article/timeline-for-gum-disease-stages.html) can help you understand this better. Flap surgery providing direct access and visualization enables thorough bacterial removal. Regenerative therapy attempting to restore lost bone and attachment works better in genetically susceptible people than in those with more severe disease stages.
+For advanced disease, surgical therapy becomes necessary. Learning more about [Timeline for Gum Disease Stages](/article/timeline-for-gum-disease-stages.html) can help you understand this better. Flap surgery providing direct access and visualization enables thorough bacterial removal. Regenerative therapy attempting to restore lost bone and attachment works better in genetically susceptible people than in those with more severe disease stages.
 
 ## Long-Term Management
 
@@ -91,12 +93,13 @@ Genetic susceptibility is actually a reason to be more proactive about periodont
 
 Genetic susceptibility to gum disease is real, but it's not destiny. Yes, you might be more prone to gum disease than average. But with aggressive prevention, excellent home care, frequent professional treatment, and lifestyle modifications, you can maintain periodontal health for life. Understand your risk, take it seriously, and work with your dentist on a prevention strategy tailored to your genetic predisposition.
 
+> **Key Takeaway:** Some people inherit a tendency toward severe gum disease. Learn if you're at risk and what you can do to prevent it.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Preventing Gum Disease at Home](/article/periodontal-disease-and-tooth-loss-prevention.html)
-- [Understanding Your Gum Disease Risk](/article/timeline-for-gum-disease-stages.html)
 - [Maintaining Healthy Gums Long-Term](/article/stress-and-periodontitis-immunosuppression.html)
+- [Bleeding on Probing: Clinical Significance, Diagnostic](/article/bleeding-on-probing-inflammation-indicator.html)
+- [Quorum Sensing - Bacterial Communication](/article/quorum-sensing-bacterial-communication.html)
+- [Host Response to Bacteria: Why Some Have Disease](/article/host-response-to-bacteria-why-some-have-disease.html)
+- [Gum Disease and Systemic Health: The Connection](/article/gum-disease-and-systemic-health-the-connection.html)
 
-> **Key Takeaway:** Some people inherit gum disease susceptibility, but aggressive prevention, excellent home care, and frequent professional treatment can maintain long-term periodontal health.

@@ -39,7 +39,7 @@ Composite resin is plastic material that dentists shade to match your tooth colo
 
 Here's the longevity challenge: composite fillings average 85% survival at 5 years, 75% at 10 years, and only 65% at 15 years—substantially less durable than amalgam. This means many composite fillings need replacement during a 20-year period.
 
-Cost analysis: initial composite filling ($250) + replacement at 10 years ($280) + partial replacement at 17 years ($200) = total $730 over 20 years. Learning more about [cost of cavity prevention methods](/article/cost-of-cavity-prevention-methods.html) can help you understand this better. A single amalgam filling costs $200 with no replacement needed. Lifetime cost difference: $530 favoring amalgam—a 73% cost advantage for amalgam despite composite's esthetic advantage.
+Cost analysis: initial composite filling ($250) + replacement at 10 years ($280) + partial replacement at 17 years ($200) = total $730 over 20 years. Learning more about [Cost of Cavity Prevention Methods](/article/cost-of-cavity-prevention-methods.html) can help you understand this better. A single amalgam filling costs $200 with no replacement needed. Lifetime cost difference: $530 favoring amalgam—a 73% cost advantage for amalgam despite composite's esthetic advantage.
 
 ## Why Composite Doesn't Last as Long
 
@@ -51,7 +51,7 @@ For large cavities affecting two or more tooth surfaces (Class II restorations),
 
 Glass ionomer is a third option: a tooth-colored material that releases fluoride (beneficial for cavity prevention). It costs $150 to $200 and shows 65% to 75% survival at 10 years—better than composite but not as good as amalgam. Glass ionomer works okay for certain situations (small cavities, pediatric patients) but demonstrates higher failure rates for large cavities compared to both amalgam and composite.
 
-Resin-modified glass ionomers (combining glass ionomer with composite resin) cost $200 to $300 and show somewhat better longevity than straight glass ionomer, but still below composite performance. You may also want to read about [cost of daily teeth cleaning](/article/cost-of-daily-teeth-cleaning.html).
+Resin-modified glass ionomers (combining glass ionomer with composite resin) cost $200 to $300 and show somewhat better longevity than straight glass ionomer, but still below composite performance. You may also want to read about [Cost of Daily Teeth Cleaning](/article/cost-of-daily-teeth-cleaning.html).
 
 ## The Hidden Cost of Secondary Caries
 
@@ -83,16 +83,21 @@ Small composite filling failures can occasionally be repaired by adding composit
 
 The repair capability of composite partially offsets its shorter lifespan—a filling showing small failure at 8 years might be repaired ($150) for 3 more years rather than fully replaced ($350).
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
-Silver amalgam fillings cost $150 to $250 with 80% to 95% survival at 20 years, often lasting a lifetime without replacement. Tooth-colored composite fillings cost $200 to $350 with 65% to 75% 20-year survival, typically requiring replacement once or twice. Twenty-year cost analysis shows amalgam ($200 total) versus composite ($600 to $1,000 accounting for replacements)—a significant cost difference. Front teeth require composite for esthetics despite higher costs. Back teeth benefit from amalgam's superior durability and cost-effectiveness. Secondary caries around composite fillings occur in 20% to 30% by 10 years, compared to 5% to 10% for amalgam. Insurance coverage typically favors both materials equally. High-cavity-risk patients benefit from amalgam's longer lifespan reducing replacement frequency. Glass ionomer materials show intermediate longevity at intermediate costs. Talk to your dentist about which material makes sense for your specific situation, considering both appearance and longevity.
+Silver amalgam fillings cost $150 to $250 with 80% to 95% survival at 20 years, often lasting a lifetime without replacement. Tooth-colored composite fillings cost $200 to $350 with 65% to 75% 20-year survival, typically requiring replacement once or twice. Twenty-year cost analysis shows amalgam ($200 total) versus composite ($600 to $1,000 accounting for replacements)—a significant cost difference. Front teeth require composite for esthetics despite higher costs. Back teeth benefit from amalgam's superior durability and cost-effectiveness.
 
+Secondary caries around composite fillings occur in 20% to 30% by 10 years, compared to 5% to 10% for amalgam. Insurance coverage typically favors both materials equally. High-cavity-risk patients benefit from amalgam's longer lifespan reducing replacement frequency. Glass ionomer materials show intermediate longevity at intermediate costs. Talk to your dentist about which material makes sense for your specific situation, considering both appearance and longevity.
 
+> **Key Takeaway:** When your dentist fills a cavity, you have choices about what material they use. Silver amalgam is super durable but looks metallic.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Cost of Cavity Prevention Methods](/article/cost-of-cavity-prevention-methods.html)
-- [Cost of Daily Teeth Cleaning](/article/cost-of-daily-teeth-cleaning.html)
-- [Cost of Emergency Tooth Pain and Urgent Dental Treatment](/article/cost-of-emergency-tooth-pain.html)
+- [Cost of Emergency Tooth Pain and Urgent Dental](/article/cost-of-emergency-tooth-pain.html)
+- [Risk and Concerns with Infection Prevention](/article/risk-and-concerns-with-infection-prevention.html)
+- [Dental Insurance Claim Submission: How It Works](/article/claim-submission-process.html)
+- [Evidence-Based Protocol for Post-Extraction Healing and](/article/best-practices-for-recovery-after-extraction.html)
+- [Tooth Color Changes - Diagnosis, Classification, and](/article/benefits-of-tooth-color-changes.html)
 
-> **Key Takeaway:** Amalgam fillings cost $150 to $250 and last 20+ years without replacement. Composite fillings cost $200 to $350 but typically need replacement within 10-15 years. Twenty-year cost shows amalgam at $200 total versus composite at $600 to $1,000 with replacements. Choose amalgam for back teeth and composite for front teeth to balance cost and appearance. Talk to your dentist about which material is right for your individual situation.

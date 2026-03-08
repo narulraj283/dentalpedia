@@ -87,7 +87,7 @@ Conclusion: Herbal whitening preparations lack clinical evidence.
 
 ## Professional Whitening: The Evidence Gold Standard
 
-Professional in-office whitening using 25-35% hydrogen peroxide produces 5-8 shade units of change in single sessions. At-home professional kits using 10-15% peroxide produce 4-6 shade units over 7-14 days. Results persist 6-12 months. For more on this topic, see our guide on [Common Misconceptions About Daily Tee...](/article/common-misconceptions-about-daily-teeth-cleaning.html).
+Professional in-office whitening using 25-35% hydrogen peroxide produces 5-8 shade units of change in single sessions. At-home professional kits using 10-15% peroxide produce 4-6 shade units over 7-14 days. Results persist 6-12 months. For more on this topic, see our guide on [Common Misconceptions About Daily Teeth Cleaning](/article/common-misconceptions-about-daily-teeth-cleaning.html).
 
 This efficacy stems from peroxide penetrating enamel structure, not surface action. The chemical reaction breaks chromogenic bonds throughout enamel depth, not just surface polish.
 
@@ -109,14 +109,6 @@ For significant discoloration wanting noticeable improvement, professional white
 
 For maintenance after professional whitening, limiting stain sources and periodic professional cleaning preserve results better than home whitening products.
 
-## Related Articles You May Find Helpful
-
-- [Whitening Gel Concentration and Strength Levels](/article/whitening-gel-concentration-strength-levels.html)
-- [How to Cosmetic Tooth Repair](/article/how-to-cosmetic-tooth-repair.html)
-- [Teeth Color Improvement: Complete Guide](/article/teeth-color-improvement-complete-guide.html)
-
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about evidence-based natural tooth whitening methods and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -124,7 +116,6 @@ When you visit your dentist, ask about evidence-based natural tooth whitening me
 You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
 
 Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
 
 ## Protecting Your Results Long-Term
 
@@ -134,7 +125,6 @@ Pay attention to any changes in your mouth and report them to your dentist early
 
 Diet also plays a role in protecting your dental health. Limiting sugary snacks and acidic drinks helps preserve your teeth and any dental work you've had done. Drinking water throughout the day helps wash away food particles and keeps your mouth hydrated.
 
-
 ## What to Expect During Your Visit
 
 If your dentist recommends treatment related to evidence-based natural tooth whitening methods, knowing what to expect can ease any anxiety. Most dental procedures today are more comfortable than many people expect, thanks to modern techniques and anesthesia options.
@@ -143,8 +133,19 @@ Your dentist will explain each step before it happens so there are no surprises.
 
 After your appointment, your dentist will give you clear instructions for at-home care. Following these instructions closely gives you the best chance of a smooth recovery and great results.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
-Natural teeth whitening methods vary wildly in efficacy. Oil pulling and turmeric lack evidence. Charcoal doesn't work. Baking soda whitens modestly but through damaging abrasion. Strawberries cause erosion. Professional whitening delivers predictable results for noticeable improvement. Lifestyle changes preventing stains work better than most products.
+Natural teeth whitening methods vary wildly in efficacy. Oil pulling and turmeric lack evidence. Charcoal doesn't work.
+
+Baking soda whitens modestly but through damaging abrasion. Strawberries cause erosion. Professional whitening delivers predictable results for noticeable improvement. Lifestyle changes preventing stains work better than most products.
 
 > **Key Takeaway:** Professional whitening achieves 4-8 shade units of change predictably. Natural methods produce 1-2 shade units slowly or through enamel damage. Oil pulling and charcoal lack evidence. For noticeable whitening, professional treatment is your best investment. For maintenance, reducing stain sources works better than home remedies.
+
+## Related Articles
+
+- [Whitening Gel Concentration and Strength Levels](/article/whitening-gel-concentration-strength-levels.html)
+- [How to Cosmetic Tooth Repair](/article/how-to-cosmetic-tooth-repair.html)
+- [Teeth Color Improvement: Complete Guide](/article/teeth-color-improvement-complete-guide.html)
+

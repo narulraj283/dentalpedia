@@ -47,7 +47,9 @@ Two types of acids dominate the market: citric acid and phosphoric acid. Citric 
 
 Tooth enamel is the hardest substance in your body, but it's vulnerable to acid. When you sip a sports drink, the acid starts immediately dissolving the mineral crystals in your enamel surface. This isn't a cavity—it's erosion, a different kind of damage that removes the protective outer layer of your tooth.
 
-Early erosion just makes your teeth look slightly rougher or duller. As erosion progresses, your teeth lose their sharp edges. Chewing surfaces of molars get slightly concave instead of flat. Your teeth might appear slightly shorter or more transparent. Later stages show yellow-brown dentin (the tissue under enamel) exposed, or white spots where restoration margins become visible. Dentin erodes much faster than enamel because it's only 50-70% mineral, while enamel is 96-98% mineral. Once dentin is exposed, damage progresses rapidly.
+Early erosion just makes your teeth look slightly rougher or duller. As erosion progresses, your teeth lose their sharp edges. Chewing surfaces of molars get slightly concave instead of flat.
+
+Your teeth might appear slightly shorter or more transparent. Later stages show yellow-brown dentin (the tissue under enamel) exposed, or white spots where restoration margins become visible. Dentin erodes much faster than enamel because it's only 50-70% mineral, while enamel is 96-98% mineral. Once dentin is exposed, damage progresses rapidly.
 
 ## The Sugar Problem Makes It Worse
 
@@ -59,7 +61,7 @@ The damage gets worse depending on frequency. One sports drink consumed in 30 mi
 
 Your saliva is your mouth's natural defense system. It has minerals that help repair acid damage, and buffering agents that neutralize acid. But saliva has limits. When you're drinking highly acidic beverages multiple times per day, the total acid load overwhelms your saliva's protective capacity. Your saliva can only do so much, so even though your mouth works hard to protect you, it loses this battle against frequent acid exposure.
 
-[Proper brushing technique is important after any acidic exposure](/article/proper-brushing-technique-step-by-step-guide.html), but you need to wait. Brushing immediately after drinking sports drinks is actually bad—it damages your softened enamel. Wait 20-30 minutes for your enamel to reharden before brushing.
+[Proper brushing technique is important after any](/article/proper-brushing-technique-step-by-step-guide.html), but you need to wait. Brushing immediately after drinking sports drinks is actually bad—it damages your softened enamel. Wait 20-30 minutes for your enamel to reharden before brushing.
 
 ## When Athletes Get Visible Damage
 
@@ -71,7 +73,7 @@ More advanced erosion is unmistakable. Incisal edges of front teeth might show d
 
 Here's the truth: you don't need sports drinks for activities under 60 minutes. Water hydrates just as effectively. For activities lasting longer than 60 minutes, carbohydrates do help performance—but they don't have to come from commercial sports drinks. Chocolate milk provides carbohydrates and actually has protective minerals. Diluted sports drinks (mixing concentrated powder with more water) provide carbohydrate benefit with less acid exposure.
 
-If you're committed to using commercial sports drinks, timing matters more than you might think. [Consuming your entire sports drink during or immediately after your workout](/article/best-practices-for-dental-visit-frequency.html) creates much less damage than sipping it throughout the day. Limiting exposure to 60-90 minutes (your actual training window) rather than extended periods significantly reduces total damage.
+If you're committed to using commercial sports drinks, timing matters more than you might think. [Consuming your entire sports drink during or](/article/best-practices-for-dental-visit-frequency.html) creates much less damage than sipping it throughout the day. Limiting exposure to 60-90 minutes (your actual training window) rather than extended periods significantly reduces total damage.
 
 ## Protecting Your Teeth While Staying Athletic
 
@@ -87,12 +89,11 @@ If you're an athlete who regularly consumes sports drinks, ask your dentist spec
 
 Sports drinks pose a dual threat combining acidic erosion with sugar-based cavity risk, threatening athletes who consume them frequently. The frequency and duration of exposure matter more than volume consumed—multiple daily exposures overwhelm your saliva's protective capacity far more than single concentrated consumption. Strategic timing (only during/after actual training sessions exceeding 60 minutes), complete elimination or water use for shorter activities, and supplementary fluoride application enable athletes to maintain dental health despite sports drink consumption. Awareness of erosion risk, early detection of wear patterns, and proactive habit modification prevent permanent tooth damage that otherwise requires expensive restoration or replacement therapy.
 
-## Key Takeaway
-
-Athletes can maintain healthy teeth while using sports drinks by consuming them only during needed training sessions, drinking quickly rather than sipping, rinsing afterward with water, and waiting before brushing.
+> **Key Takeaway:** Athletes can maintain healthy teeth while using sports drinks by consuming them only during needed training sessions, drinking quickly rather than sipping, rinsing afterward with water, and waiting before brushing.
 
 ## Related Articles
 
 - [Xylitol Products: Sugar Alcohol Benefits for Cavities](/article/xylitol-products-sugar-alcohol-benefits-for-cavities.html)
 - [Timeline for Enamel Erosion Repair](/article/timeline-for-enamel-erosion-repair.html)
 - [Collagen and Gum Health](/article/collagen-and-gum-health.html)
+

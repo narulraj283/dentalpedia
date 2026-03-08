@@ -61,7 +61,9 @@ Sugary beverages are especially harmful. One soda daily increases cavity risk 50
 
 Sugar-free gum containing xylitol offers an interesting twist. Xylitol actually inhibits bacterial growth, reducing cavity risk significantly. It's a smart snack alternative if you like chewing gum or mints.
 
-Nutrition supports immunity. Adequate protein, calcium, vitamin C, and vitamin D strengthen your defenses. Calcium-rich foods (dairy, leafy greens) buffer acids. Vitamin C supports gum tissue. Vitamin D enhances immune function. A balanced diet benefits both your mouth and overall health.
+Nutrition supports immunity. Adequate protein, calcium, vitamin C, and vitamin D strengthen your defenses. Calcium-rich foods (dairy, leafy greens) buffer acids.
+
+Vitamin C supports gum tissue. Vitamin D enhances immune function. A balanced diet benefits both your mouth and overall health.
 
 ## Recognizing Problems Early
 
@@ -95,9 +97,6 @@ Sleep deprivation impairs immune function and increases gum disease risk. Aim fo
 
 Regular aerobic exercise strengthens immunity. Physical activity enhances immune cell function and reduces inflammation. Combine exercise with stress management for maximum benefit.
 
-
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about infection prevention what you need to know and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -106,13 +105,13 @@ You might also want to ask about the expected timeline, what the recovery proces
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about infection prevention what you need to know. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** Your personal infection risk results from genetics, medical conditions, medications, age, and habits. Understanding your specific risk factors lets you create a targeted prevention plan that actually works for your situation.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
 - [Cognitive Decline and Oral Care Challenges](/article/cognitive-decline-oral-care-challenges.html)
-- [Risk Assessment for Dental Disease: Know Your Risk Level](/article/risk-assessment-for-dental-disease-know-your-risk-level.html)
+- [Risk Assessment for Dental Disease - Know Your](/article/risk-assessment-for-dental-disease-know-your-risk-level.html)
 - [Dental Health During Pregnancy: Special Considerations](/article/dental-health-during-pregnancy-special-considerations.html)
 

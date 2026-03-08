@@ -1,23 +1,34 @@
 ---
-title: "Electric Toothbrush Safety: Mitigating Gum Recession and"
-slug: electric-toothbrush-safety-gum-recession-risks
 category: Preventive Care
 category_slug: preventive-care
-excerpt: "Electric toothbrushes are fantastic for removing plaque—often better than manual brushes—but they can cause problems if used incorrectly."
 date: 2026-03-05
+excerpt: Electric toothbrushes are fantastic for removing plaque—often better than
+  manual brushes—but they can cause problems if used incorrectly.
 read_time: 10 min
+references:
+- Niemi ML, Ainamo A, Cutler C. Recurrent longitudinal clinical and radiographic assessment
+  of selected dental variables in over 50-year-old subjects and changes in gingival
+  recession. J Clin Periodontol. 1996;23(8):783-789.
+- Addy M, Hunter ML. Can tooth brushing damage your health? Effects on oral and dental
+  tissues. Int Dent J. 2003;53(3):177-186.
+- Schmitz J, Abdelmoniem S, Colon P, et al. Determination of the force of electric
+  toothbrushes as applied in children and young adults. Int J Paediatr Dent. 2009;19(2):131-135.
+- Sanz M, Bui FQ, Chapple I, et al. Working Group 3 of the Joint EFP/AAP Workshop.
+  Harmonising the outcome of tooth brushing and interdental cleaning. J Clin Periodontol.
+  2018;45(Suppl 20):S127-S136.
+- Van der Weijden FA, Timmerman MF. A systematic review on the clinical efficacy of
+  subgingival debridement in the treatment of chronic periodontitis. J Clin Periodontol.
+  2002;29(Suppl 3):55-71.
+- Goyal CR, Lyle DM, Hall RP, Qaqish JG. Gingival abrasion after use of electric and
+  manual toothbrushes. J Dent Hyg. 2012;86(2):127-137.
+- Brown CE, Linden GJ, Newcombe RG. Prognostic factors associated with gingival recession
+  in a cohort of children and young adults. J Clin Periodontol. 2007;34(1):50-56.
+reviewed: true
 reviewer_specialty: Preventive Dentistry
+slug: electric-toothbrush-safety-gum-recession-risks
 subcategory: Brushing, Flossing & Hygiene
 subcategory_slug: brushing-flossing
-reviewed: true
-references:
-  - "Niemi ML, Ainamo A, Cutler C. Recurrent longitudinal clinical and radiographic assessment of selected dental variables in over 50-year-old subjects and changes in gingival recession. J Clin Periodontol. 1996;23(8):783-789."
-  - "Addy M, Hunter ML. Can tooth brushing damage your health? Effects on oral and dental tissues. Int Dent J. 2003;53(3):177-186."
-  - "Schmitz J, Abdelmoniem S, Colon P, et al. Determination of the force of electric toothbrushes as applied in children and young adults. Int J Paediatr Dent. 2009;19(2):131-135."
-  - "Sanz M, Bui FQ, Chapple I, et al. Working Group 3 of the Joint EFP/AAP Workshop. Harmonising the outcome of tooth brushing and interdental cleaning. J Clin Periodontol. 2018;45(Suppl 20):S127-S136."
-  - "Van der Weijden FA, Timmerman MF. A systematic review on the clinical efficacy of subgingival debridement in the treatment of chronic periodontitis. J Clin Periodontol. 2002;29(Suppl 3):55-71."
-  - "Goyal CR, Lyle DM, Hall RP, Qaqish JG. Gingival abrasion after use of electric and manual toothbrushes. J Dent Hyg. 2012;86(2):127-137."
-  - "Brown CE, Linden GJ, Newcombe RG. Prognostic factors associated with gingival recession in a cohort of children and young adults. J Clin Periodontol. 2007;34(1):50-56."
+title: 'Electric Toothbrush Safety: Mitigating Gum Recession'
 ---
 
 ## Electric Toothbrushes: Benefits and Risks
@@ -40,9 +51,9 @@ Let the brush do its work. You should feel gentle vibration or motion, not aggre
 
 ## Brush Selection Matters
 
-Choose an electric toothbrush designed for safe cleaning. Learning more about [oral health habits complete guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. Oscillating brushes (that move back and forth) are gentler than some other designs. Brushes with pressure sensors that warn you if you're pressing too hard are helpful. Softer bristles are better than hard bristles, especially if you have recession risk or existing recession.
+Choose an electric toothbrush designed for safe cleaning. Learning more about [Oral Health Habits Complete Guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. Oscillating brushes (that move back and forth) are gentler than some other designs. Brushes with pressure sensors that warn you if you're pressing too hard are helpful. Softer bristles are better than hard bristles, especially if you have recession risk or existing recession.
 
-For children, use pediatric-sized electric toothbrushes with softer bristles and lower vibration speeds. Learning more about [periodontal disease and tooth loss prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. Supervise children using electric toothbrushes to ensure gentle technique.
+For children, use pediatric-sized electric toothbrushes with softer bristles and lower vibration speeds. Learning more about [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. Supervise children using electric toothbrushes to ensure gentle technique.
 
 ## Duration of Brushing
 
@@ -82,8 +93,6 @@ Elderly people and people with recession-risk factors need to be especially care
 
 Contact your dentist if: you develop sensitivity, you notice gum recession, your teeth feel rough or worn, brushing causes pain, or you're unsure about your electric toothbrush technique. Your dentist assesses damage and provides guidance on safe technique.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about electric toothbrush safety gum recession risks and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -96,12 +105,13 @@ Electric toothbrushes are excellent plaque-removal tools when used correctly. Th
 
 Proper technique prevents injury while giving you the benefits of effective plaque removal. Talk to your dentist about safe electric toothbrush use for your specific situation.
 
+> **Key Takeaway:** Electric toothbrushes are fantastic for removing plaque—often better than manual brushes—but they can cause problems if used incorrectly.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Brushing Technique: Proper Methods for Healthy Teeth and Gums](/article/oral-health-habits-complete-guide.html)
-- [Gum Recession: Causes, Prevention, and Treatment](/article/periodontal-disease-and-tooth-loss-prevention.html)
 - [Flossing and Interdental Cleaning: Techniques and Tools](/article/oral-irrigators-do-water-flossers-really-work.html)
+- [Calcium for Teeth](/article/calcium-for-teeth-mineral-importance.html)
+- [Risk and Concerns with Mouthwash Selection](/article/risk-and-concerns-with-mouthwash-selection.html)
+- [How to Prevent Tooth and Gum Infections](/article/infection-prevention-complete-guide.html)
+- [Why Cavity Risk Assessment Matters for Personalized](/article/why-cavity-risk-factors-matters.html)
 
-> **Key Takeaway:** Electric toothbrushes remove plaque excellently but require gentle pressure—the brush does the work, not you. Use a 45-degree angle, avoid excessive pressure, brush for only two minutes, and be especially gentle in areas with existing recession or thin gums. Talk to your dentist about proper electric toothbrush technique for your situation.

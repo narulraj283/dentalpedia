@@ -47,7 +47,9 @@ After surgery, bleeding within the first 24 hours is uncommon but can happen if 
 
 Surgical site infections happen in 1 to 5% of oral surgery cases. Signs developing 24 to 72 hours after surgery include fever, pus drainage from the extraction site, swelling larger than normal postoperative swelling, difficulty swallowing, or limited mouth opening. Infection feels different from normal postoperative swelling—infected sites are typically more painful despite pain medication, and you'll likely have fever. Normal postoperative swelling should decrease after 3 to 5 days without fever.
 
-If infection develops, contact your surgeon immediately. They'll examine the site and may prescribe antibiotics. For localized abscesses (pockets of pus), your surgeon may need to drain the area to remove infected material. Oral surgical infections involve multiple bacteria, so antibiotics covering both aerobic and anaerobic organisms are needed. First-line treatment is usually amoxicillin-clavulanate (an antibiotic combination that kills both types of bacteria) taken twice daily for 7 days. If you're allergic to penicillin, alternatives like clindamycin work well. Severe infections require IV antibiotics in a hospital setting. Learn more about [surgical technique overview and what to expect](/article/surgical-technique-overview-what-you-need-to-know.html) before your procedure.
+If infection develops, contact your surgeon immediately. They'll examine the site and may prescribe antibiotics. For localized abscesses (pockets of pus), your surgeon may need to drain the area to remove infected material. Oral surgical infections involve multiple bacteria, so antibiotics covering both aerobic and anaerobic organisms are needed.
+
+First-line treatment is usually amoxicillin-clavulanate (an antibiotic combination that kills both types of bacteria) taken twice daily for 7 days. If you're allergic to penicillin, alternatives like clindamycin work well. Severe infections require IV antibiotics in a hospital setting. Learn more about [Surgical Technique Overview and What to Expect](/article/surgical-technique-overview-what-you-need-to-know.html) before your procedure.
 
 ## Nerve Injury: The Most Serious Long-Term Complication
 
@@ -69,24 +71,30 @@ Jaw fracture during extraction is uncommon (0.5 to 2% of cases) but creates sign
 
 The best approach is preventing complications through careful surgical planning and technique. Your surgeon reviews your medical history, current medications, and X-rays to identify risk factors. If you take blood thinners, have diabetes, or are immunocompromised, your surgeon takes extra precautions. During surgery, atraumatic technique (minimizing tissue trauma) reduces infection and promotes faster healing. After surgery, following postoperative instructions carefully is critical—avoid smoking, hard foods, vigorous rinsing, and overactivity for the first few days.
 
-Most patients experience minor swelling and discomfort that peaks around day 2-3 and resolves by day 5-7. Bruising (ecchymosis) develops under the skin and can look dramatic but is harmless and resolves within 2-3 weeks. If you experience fever, severe swelling, excessive bleeding, persistent pain despite medication, or numbness beyond 3 months, contact your surgeon immediately. Understand [what to expect with bruising after extraction and the timeline](/article/bruising-after-extraction-ecchymosis-timeline.html) to recognize normal healing from complications.
+Most patients experience minor swelling and discomfort that peaks around day 2-3 and resolves by day 5-7. Bruising (ecchymosis) develops under the skin and can look dramatic but is harmless and resolves within 2-3 weeks. If you experience fever, severe swelling, excessive bleeding, persistent pain despite medication, or numbness beyond 3 months, contact your surgeon immediately. Understand [What to Expect with Bruising After Extraction](/article/bruising-after-extraction-ecchymosis-timeline.html) to recognize normal healing from complications.
 
 ## Pain Management After Surgery
 
-Pain after tooth extraction is normal and manageable. Your surgeon prescribes pain medication appropriate for the complexity of your extraction. Take medications as prescribed rather than waiting for pain to become severe. NSAIDs like ibuprofen work especially well for postoperative pain because they also reduce inflammation contributing to swelling and pain. Combine NSAID pain medication with prescribed opioids as directed if over-the-counter pain medicine isn't sufficient. Avoid alcohol while taking pain medication. Use ice packs (20 minutes on, 20 minutes off) for the first 24 hours to reduce swelling and numb pain, then switch to warm compresses after 24 hours.
+Pain after tooth extraction is normal and manageable. Your surgeon prescribes pain medication appropriate for the complexity of your extraction. Take medications as prescribed rather than waiting for pain to become severe.
 
-Most patients need strong pain medication for just 2-3 days, with most pain resolving by day 5-7. If pain is severe and worsening after 5-7 days, this may indicate complications like dry socket or infection, requiring immediate evaluation. Work with your surgeon to manage pain effectively while avoiding overmedication. Understand [what pain management looks like after surgery](/article/pain-management-surgery-what-you-need-to-know.html) so you know what to expect.
+NSAIDs like ibuprofen work especially well for postoperative pain because they also reduce inflammation contributing to swelling and pain. Combine NSAID pain medication with prescribed opioids as directed if over-the-counter pain medicine isn't sufficient. Avoid alcohol while taking pain medication. Use ice packs (20 minutes on, 20 minutes off) for the first 24 hours to reduce swelling and numb pain, then switch to warm compresses after 24 hours.
+
+Most patients need strong pain medication for just 2-3 days, with most pain resolving by day 5-7. If pain is severe and worsening after 5-7 days, this may indicate complications like dry socket or infection, requiring immediate evaluation. Work with your surgeon to manage pain effectively while avoiding overmedication. Understand [What Pain Management Looks Like After Surgery](/article/pain-management-surgery-what-you-need-to-know.html) so you know what to expect.
+
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
 While tooth extraction complications are uncommon, understanding what they look like and how they're managed helps you recover smoothly. Most patients experience minor swelling and discomfort that resolve within a week. More serious complications like infection, nerve injury, or dry socket are manageable when recognized early and treated promptly. The best strategy is preventing complications through careful surgical planning, following preoperative instructions (especially regarding medications and smoking), and vigilantly following postoperative care recommendations. If complications do develop, contact your surgeon immediately rather than waiting to see if symptoms resolve on their own.
 
-## Key Takeaway
-
-Most tooth extractions heal without problems, but knowing what warning signs require immediate attention helps ensure quick treatment if complications occur. Fever, excessive bleeding, increasing pain after 5-7 days, or persistent numbness beyond 3 months all warrant immediate professional evaluation. Follow your surgeon's postoperative instructions carefully—this is where you directly control your healing success.
+> **Key Takeaway:** Most tooth extractions heal without problems, but knowing what warning signs require immediate attention helps ensure quick treatment if complications occur. Fever, excessive bleeding, increasing pain after 5-7 days, or persistent numbness beyond 3 months all warrant immediate professional evaluation. Follow your surgeon's postoperative instructions carefully—this is where you directly control your healing success.
 
 ## Related Articles
 
-- [Surgical Technique Overview and What You Need to Know](/article/surgical-technique-overview-what-you-need-to-know.html)
 - [Complex Extractions Complete Guide](/article/complex-extractions-complete-guide.html)
-- [Bruising After Extraction and Ecchymosis Timeline](/article/bruising-after-extraction-ecchymosis-timeline.html)
+
+- [Impacted Tooth Extraction: Surgical Removal Procedures](/article/impacted-tooth-extraction-surgical-removal-procedures.html)
+
+- [Oral Surgery Techniques - What You Need to Know Before](/article/surgical-technique-overview-what-you-need-to-know.html)
+- [Bruising After Extraction](/article/bruising-after-extraction-ecchymosis-timeline.html)
+- [What to Expect: Pain Management After Oral Surgery](/article/pain-management-surgery-what-you-need-to-know.html)

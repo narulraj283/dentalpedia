@@ -29,7 +29,7 @@ If your dentist says you need a complex extraction, you're probably wondering wh
 
 Your extraction might be complex if: the tooth is impacted (stuck under bone or gums), roots are severely curved or hooked, the tooth is attached to your sinus (in the upper jaw), the root is very close to your mandibular nerve (in the lower jaw), or you have medical conditions (blood thinners, weak immune system, or medications like bisphosphonates).
 
-Even if your general dentist could technically extract the tooth, they might refer you to an oral surgeon because surgeons have more training with difficult cases and better technology to manage complications. Learning more about [complex extractions complete guide](/article/complex-extractions-complete-guide.html) can help you understand this better. This isn't a sign of catastrophe—it's good clinical judgment.
+Even if your general dentist could technically extract the tooth, they might refer you to an oral surgeon because surgeons have more training with difficult cases and better technology to manage complications. Learning more about [Complex Extractions Complete Guide](/article/complex-extractions-complete-guide.html) can help you understand this better. This isn't a sign of catastrophe—it's good clinical judgment.
 
 ## Before Your Extraction: Preparation
 
@@ -75,7 +75,7 @@ If you develop dry socket, you'll notice severe throbbing pain 3-4 days post-op 
 
 ## Temporary Nerve Numbness
 
-About 3-5% of complex extractions result in temporary numbness of lower lip or chin (from temporary mandibular nerve irritation). Learning more about [common misconceptions about tooth extraction recovery](/article/common-misconceptions-about-tooth-extraction-recovery.html) can help you understand this better. This usually resolves within 3-6 months as swelling reduces and compression releases. Permanent nerve damage is rare (0.4-2%).
+About 3-5% of complex extractions result in temporary numbness of lower lip or chin (from temporary mandibular nerve irritation). Learning more about [Common Misconceptions About Tooth Extraction Recovery](/article/common-misconceptions-about-tooth-extraction-recovery.html) can help you understand this better. This usually resolves within 3-6 months as swelling reduces and compression releases. Permanent nerve damage is rare (0.4-2%).
 
 If numbness develops, protect your numb lip—you might bite it without realizing. Most people report improvement by 2-3 months.
 
@@ -105,16 +105,19 @@ Immediately if: severe bleeding persists >1 hour, severe pain develops (might in
 
 Normal postoperative progression: swelling peaks day 2-3, bruising peaks day 4-5, pain decreases daily, numbness gradually resolves. If this isn't happening, call.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Complex extractions have longer operative times and recovery compared to simple extractions, but complication rates are low (2-3%) with proper technique. Realistic expectations about pain, swelling, and bruising help you prepare mentally. Most people recover well and can return to normal function within 7-14 days.
 
+> **Key Takeaway:** Prepare for a complex tooth extraction with realistic expectations about recovery and complications.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Complete Guide to Complex Extractions](/article/complex-extractions-complete-guide.html)
-- [Tooth Extraction Recovery Timeline](/article/common-misconceptions-about-tooth-extraction-recovery.html)
 - [Complications After Extraction: Warning Signs](/article/complications-after-tooth-extraction-what-to-watch-for.html)
 
-> **Key Takeaway:** Complex extractions typically take 30-60 minutes and have more swelling/bruising than simple extractions, but complication rates are low with proper technique. Expect peak swelling at 48-72 hours and significant bruising that lasts 10-14 days. Pain is usually manageable with ibuprofen. Avoid smoking and alcohol for at least 72 hours. Call your surgeon if bleeding persists, severe pain develops unexpectedly, fever above 102.5°F develops, or swelling worsens after day 3. Most people return to normal function within 7-14 days.
+- [Common Misconceptions About Pain Management in](/article/common-misconceptions-about-pain-management-surgery.html)
+- [Why Surgical Technique Overview Matters](/article/why-surgical-technique-overview-matters.html)
+- [Wisdom Teeth Extraction](/article/best-practices-for-wisdom-teeth-extraction.html)
+

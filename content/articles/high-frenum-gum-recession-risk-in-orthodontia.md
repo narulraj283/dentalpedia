@@ -1,36 +1,38 @@
 ---
-title: "High Frenum: Gum Recession Risk in Orthodontia"
-slug: high-frenum-gum-recession-risk-in-orthodontia
 category: Pediatric Dentistry
 category_slug: pediatric-dentistry
-excerpt: "Between your upper front teeth, there's a small piece of tissue called the frenum that connects your lip to your gum."
 date: 2026-03-05
+excerpt: Between your upper front teeth, there's a small piece of tissue called the
+  frenum that connects your lip to your gum.
 read_time: 9 min
+references:
+- title: Frenum attachment and gingival recession during orthodontic movement
+  url: https://www.ncbi.nlm.nih.gov/pubmed/12677269
+- title: 'Maxillary diastema: Frenum dimension analysis and treatment planning'
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3444733/
+- title: Alveolar bone thickness and gingival biotype in anterior orthodontics
+  url: https://www.ncbi.nlm.nih.gov/pubmed/18702390
+- title: Frenectomy timing and indications in orthodontic treatment
+  url: https://www.ncbi.nlm.nih.gov/pubmed/11925400
+- title: 'Gingival recession etiology in orthodontic patients: Multifactorial analysis'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/19747649
+- title: Surgical and laser-assisted frenum modification techniques
+  url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3965976/
+- title: Gingival biotype as a predictor of orthodontic recession risk
+  url: https://www.ncbi.nlm.nih.gov/pubmed/16496720
+- title: Bone morphology in patients with high frenum attachment assessment using
+    CBCT
+  url: https://www.ncbi.nlm.nih.gov/pubmed/27284574
+- title: 'Orthodontic tooth movement in thin gingival biotype: Risk stratification'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/21555211
+- title: Long-term follow-up of frenectomy combined with guided tissue regeneration
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25428767
+reviewed: true
 reviewer_specialty: Pediatric Dentistry
+slug: high-frenum-gum-recession-risk-in-orthodontia
 subcategory: Pediatric Overview
 subcategory_slug: overview-pediatric
-reviewed: true
-references:
-  - title: "Frenum attachment and gingival recession during orthodontic movement"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/12677269
-  - title: "Maxillary diastema: Frenum dimension analysis and treatment planning"
-    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3444733/
-  - title: "Alveolar bone thickness and gingival biotype in anterior orthodontics"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/18702390
-  - title: "Frenectomy timing and indications in orthodontic treatment"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/11925400
-  - title: "Gingival recession etiology in orthodontic patients: Multifactorial analysis"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/19747649
-  - title: "Surgical and laser-assisted frenum modification techniques"
-    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3965976/
-  - title: "Gingival biotype as a predictor of orthodontic recession risk"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/16496720
-  - title: "Bone morphology in patients with high frenum attachment assessment using CBCT"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/27284574
-  - title: "Orthodontic tooth movement in thin gingival biotype: Risk stratification"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/21555211
-  - title: "Long-term follow-up of frenectomy combined with guided tissue regeneration"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/25428767
+title: 'High Frenum: Gum Recession Risk'
 ---
 
 Between your upper front teeth, there's a small piece of tissue called the frenum that connects your lip to your gum. In some people, this frenum is positioned higher or is thicker than normal. If you're getting braces, your orthodontist might talk about whether your frenum could cause problems as your front teeth move forward. This is important because a high frenum can sometimes contribute to gum recession—where your gum line moves down and exposes more of your tooth root.
@@ -53,29 +55,12 @@ Before starting braces, your orthodontist should evaluate your frenum position a
 
 ## Preventive Options
 
-If your orthodontist identifies high recession risk, there are several strategies. Sometimes they'll proceed with braces but move your teeth more slowly and gently. In other cases, a simple surgical procedure called a frenectomy (removing or repositioning the frenum) done before braces can reduce recession risk. This is a minor procedure that most dentists and orthodontists can perform. [Learn about pain management after oral surgery](/article/pain-management-post-surgery-analgesia.html), [non-vital bleaching for root-treated teeth](/article/non-vital-bleaching-whitening-root-treated-teeth.html), and [severe toothache causes and emergency treatment](/article/severe-toothache-causes-and-emergency-treatment.html) for related dental concerns.
+If your orthodontist identifies high recession risk, there are several strategies. Sometimes they'll proceed with braces but move your teeth more slowly and gently. In other cases, a simple surgical procedure called a frenectomy (removing or repositioning the frenum) done before braces can reduce recession risk. This is a minor procedure that most dentists and orthodontists can perform. [Learn about pain management after oral surgery](/article/pain-management-post-surgery-analgesia.html), [Non-vital Bleaching for Root-treated Teeth](/article/non-vital-bleaching-whitening-root-treated-teeth.html), and [Severe Toothache Causes and Emergency Treatment](/article/severe-toothache-causes-and-emergency-treatment.html) for related dental concerns.
 
 ## What You Can Do
 
 If you have a high frenum or thin gums, tell your orthodontist. They'll assess your individual risk and may monitor your gum level carefully during treatment. Excellent oral hygiene—careful brushing and flossing—helps support your gums during orthodontic treatment. Some patients benefit from gum grafting procedures if significant recession develops, though prevention is much better than treating recession after it happens.
-
-## Conclusion
-
-A high frenum combined with thin gum tissue can increase your risk of gum recession during orthodontic treatment. The good news is that your orthodontist can assess your risk before treatment starts and take preventive steps. This might include gentle treatment mechanics, preventive frenum surgery, or careful monitoring. Most importantly, open communication with your orthodontist about these anatomical factors ensures they can plan your treatment to keep your gums healthy.
-
-## Key Takeaway
-
-High frenum attachment combined with thin gum tissue increases gum recession risk during orthodontic tooth movement. Pretreatment assessment allows your orthodontist to prevent problems through careful force management or, if needed, frenum modification before braces begin.
-
-## Related Articles
-
-- [Pain management and post-surgery analgesia strategies](/article/pain-management-post-surgery-analgesia.html)
-- [Non-vital bleaching: whitening root-treated teeth](/article/non-vital-bleaching-whitening-root-treated-teeth.html)
-- [Severe toothache causes and emergency treatment options](/article/severe-toothache-causes-and-emergency-treatment.html)
-
-## Preventive Strategies and Treatment Modification
-
-Multiple preventive approaches reduce gingival recession risk in high-risk patients. Force magnitude reduction—using lighter continuous forces in the range of 25-50 grams for anterior teeth rather than conventional 75-150 gram ranges—slows bone resorption rates and allows soft tissue augmentation, reducing net gingival migration. Extended treatment timelines accompanying reduced forces may increase total treatment duration by 6-12 months but substantially diminish recession risk.
+ bone resorption rates and allows soft tissue augmentation, reducing net gingival migration. Extended treatment timelines accompanying reduced forces may increase total treatment duration by 6-12 months but substantially diminish recession risk.
 
 Surgical intervention including frenectomy—removal of the frenum attachment—should be considered before or early during comprehensive orthodontic treatment. Frenectomy performed prior to comprehensive treatment eliminates the mechanical impediment to soft tissue augmentation and permits free gingival advancement during subsequent orthodontic movement. The procedure can be accomplished through conventional surgical techniques, electrosurgery, or laser ablation, each offering specific advantages.
 
@@ -102,3 +87,18 @@ Long-term periodontal health remains generally excellent following appropriately
 ## Summary
 
 High frenum attachment in pediatric and adolescent orthodontic patients represents an important anatomical consideration requiring pretreatment assessment and frequently prophylactic surgical intervention. The combination of high frenum attachment, thin gingival biotype, and reduced alveolar bone thickness creates substantial gingival recession risk during anterior orthodontic tooth movement. Early identification through clinical and radiographic evaluation enables implementation of preventive strategies including force reduction, frenectomy, and surgical tissue augmentation. Careful monitoring throughout treatment with force adjustment based on clinical gingival response reduces iatrogenic recession and promotes long-term periodontal stability. Collaborative management involving pediatric dentist, orthodontist, and periodontist when appropriate ensures optimal outcomes balancing orthodontic correction with periodontal health preservation.
+
+## Conclusion
+
+A high frenum combined with thin gum tissue can increase your risk of gum recession during orthodontic treatment. The good news is that your orthodontist can assess your risk before treatment starts and take preventive steps. This might include gentle treatment mechanics, preventive frenum surgery, or careful monitoring. Most importantly, open communication with your orthodontist about these anatomical factors ensures they can plan your treatment to keep your gums healthy.
+
+> **Key Takeaway:** High frenum attachment combined with thin gum tissue increases gum recession risk during orthodontic tooth movement. Pretreatment assessment allows your orthodontist to prevent problems through careful force management or, if needed, frenum modification before braces begin.
+
+## Related Articles
+
+- [Tell-Show-Do Behavior Management in Pediatric Dentistry](/article/tell-show-do-in-pediatric-dentistry.html)
+- [Teething Pain Management and Comfort Strategies](/article/teething-pain-comfort-and-management.html)
+- [Toothpaste for Children: Age-Appropriate Fluoride](/article/toothpaste-for-children-age-appropriate-fluoride.html)
+- [Pulp Testing in Children: Vitality Check Methods](/article/pulp-testing-in-children-vitality-check.html)
+- [Adenoid and Tonsil Hypertrophy: Airway Impact](/article/adenoid-and-tonsil-hypertrophy-airway-impact.html)
+

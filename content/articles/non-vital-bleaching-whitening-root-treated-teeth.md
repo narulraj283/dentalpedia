@@ -19,7 +19,7 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/31427293
 ---
 
-# Whitening Teeth After Root Canal Treatment
+## Whitening Teeth After Root Canal Treatment
 
 After root canal treatment, you might notice your tooth gradually darkening over months or years. This happens because the tooth no longer has a living nerve, and internal discoloration develops inside the tooth structure. Standard tooth whitening won't fix this because the discoloration is internal, not on the surface. Fortunately, a procedure called internal bleaching can restore your tooth's natural color.
 
@@ -46,7 +46,9 @@ Internal bleaching involves placing a bleaching agent directly inside the tooth 
 1. Creates access to the root canal space (this is usually already open from the original treatment or can be accessed through the existing filling)
 2. Cleans out any existing material from the access
 3. Places a bleaching paste inside the tooth (usually hydrogen peroxide mixed with a carrier)
-4. Seals the tooth temporarily with a temporary filling
+4.
+
+Seals the tooth temporarily with a temporary filling
 5. Leaves the bleaching agent in place for several days
 6. Replaces the paste if needed until the desired whiteness is achieved
 7. Removes the bleaching agent and seals the tooth permanently
@@ -74,7 +76,7 @@ Severely discolored teeth from old materials or long-standing internal staining 
 
 ## Is It Safe?
 
-Internal bleaching is safe when done properly. The main concern that's sometimes discussed is external root resorption (where the root starts dissolving), but this is extremely rare when proper protocols are followed. For more on this topic, see our guide on [Common Misconceptions About Cosmetic ...](/article/common-misconceptions-about-cosmetic-restoration-types.html).
+Internal bleaching is safe when done properly. The main concern that's sometimes discussed is external root resorption (where the root starts dissolving), but this is extremely rare when proper protocols are followed. For more on this topic, see our guide on [Common Misconceptions About Cosmetic Restoration Types](/article/common-misconceptions-about-cosmetic-restoration-types.html).
 
 To prevent complications:
 - Your root canal must be well-sealed (your dentist verifies this)
@@ -118,7 +120,7 @@ The investment is typically worthwhile to preserve tooth structure and achieve g
 
 ## Multiple Bleaching Applications
 
-For severely discolored teeth, your dentist might need to place bleaching agent multiple times. After the first application shows some improvement, if your desired result hasn't been achieved, the dentist can replace the agent and repeat the process. For more on this topic, see our guide on [Smile Harmony Coordinating Cosmetic F...](/article/smile-harmony-coordinating-cosmetic-features.html).
+For severely discolored teeth, your dentist might need to place bleaching agent multiple times. After the first application shows some improvement, if your desired result hasn't been achieved, the dentist can replace the agent and repeat the process. For more on this topic, see our guide on [Smile Harmony - Coordinating Cosmetic Features for](/article/smile-harmony-coordinating-cosmetic-features.html).
 
 Each application typically lasts 3-7 days. Most patients need one to three applications total. Your dentist will assess progress at each appointment and discuss whether additional bleaching will produce meaningful improvement or whether you've reached the best possible result.
 
@@ -142,18 +144,19 @@ Ask your dentist about timeline, expected results, cost, and what happens if ble
 
 Every tooth is different, and your dentist's expertise helps determine the best approach for your situation. Some dentists are more experienced with internal bleaching than others, so don't hesitate to ask about your dentist's experience with this procedure.
 
-> **Key Takeaway:** Internal bleaching is an effective, safe way to restore natural color to teeth that have darkened after root canal treatment. It allows high-concentration bleaching agents to contact discolored inner tooth structure directly, often achieving significant color improvement without requiring a crown or other invasive restoration. If your root canal-treated tooth has darkened, ask your dentist about bleaching as your first cosmetic option.
-
-
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about topics like whitening teeth after root canal treatment. The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
+The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Internal bleaching is an effective, safe way to restore natural color to teeth that have darkened after root canal treatment. It allows high-concentration bleaching agents to contact discolored inner tooth structure directly, often achieving significant color improvement without requiring a crown or other invasive restoration. If your root canal-treated tooth has darkened, ask your dentist about bleaching as your first cosmetic option.
+
+## Related Articles
 
 - [Root Canal Treatment: What to Expect](/article/nerve-damage-numbness-after-injection.html)
 - [Cosmetic Options for Improving Your Smile](/article/natural-looking-smile-design-digital-planning.html)
 - [Teeth Whitening Methods and Results](/article/natural-tooth-whitening-methods-and-evidence.html)
+

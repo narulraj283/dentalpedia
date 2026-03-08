@@ -25,7 +25,9 @@ Mouth cuts and injuries occur from falls, sports impacts, accidental biting your
 
 Mouth injuries bleed more than many people expect because your mouth has very rich blood supply. This is actually good for healing long-term, but it's concerning in the moment. Here's how to control bleeding:
 
-Bite down firmly on a clean gauze pad with continuous pressure for thirty to forty-five minutes. This allows your blood to clot and stop flowing. The pressure must be continuous—releasing and re-checking stops the clotting process and restarts bleeding. After forty-five minutes, gently remove the gauze to check whether bleeding has stopped. If it has, you're done. If bleeding continues, replace with fresh gauze and continue pressure for another thirty minutes. Most mouth bleeds stop within an hour using firm, continuous pressure.
+Bite down firmly on a clean gauze pad with continuous pressure for thirty to forty-five minutes. This allows your blood to clot and stop flowing. The pressure must be continuous—releasing and re-checking stops the clotting process and restarts bleeding.
+
+After forty-five minutes, gently remove the gauze to check whether bleeding has stopped. If it has, you're done. If bleeding continues, replace with fresh gauze and continue pressure for another thirty minutes. Most mouth bleeds stop within an hour using firm, continuous pressure.
 
 If bleeding persists beyond an hour of continuous pressure, you can apply a small amount of epinephrine-containing local anesthetic (from a dental office) directly to the wound, which causes blood vessels to constrict and reduces bleeding. Hospital emergency departments can also manage persistent bleeding with cautery or suturing if home pressure doesn't control it. Persistent bleeding isn't common and usually indicates an unusually large vessel was injured.
 
@@ -43,7 +45,7 @@ Stitches used inside the mouth are often absorbable (dissolving naturally over o
 
 ## Wound Care After Initial Treatment
 
-Once your wound is cleaned and possibly stitched, care is straightforward. For the first twenty-four hours, avoid hot foods and beverages (which increase blood flow and bleeding risk) and stick to soft, cool foods. Avoid hard, crunchy foods that could disrupt healing or cause pain. Numbness may persist if local anesthetic was used, so be careful not to bite your lip or cheek while numb. For more on this topic, see our guide on [Oral Biopsies Diagnosis Of Suspicious...](/article/oral-biopsies-diagnosis-of-suspicious-lesions.html).
+Once your wound is cleaned and possibly stitched, care is straightforward. For the first twenty-four hours, avoid hot foods and beverages (which increase blood flow and bleeding risk) and stick to soft, cool foods. Avoid hard, crunchy foods that could disrupt healing or cause pain. Numbness may persist if local anesthetic was used, so be careful not to bite your lip or cheek while numb. For more on this topic, see our guide on [Should Your Mouth Lesion Be Biopsied?](/article/oral-biopsies-diagnosis-of-suspicious-lesions.html).
 
 Starting twenty-four hours after the injury, gently rinse with warm salt water (one-half teaspoon salt in eight ounces warm water) four to five times daily, especially after meals. This keeps the area clean without disrupting healing. Don't rinse forcefully—let the salt water gently flow over the wound.
 
@@ -83,18 +85,19 @@ See your dentist if: the wound won't stop bleeding after an hour of pressure, th
 
 For injuries at night or weekends when your regular dentist isn't available, many communities have emergency dental services or hospital emergency departments that can provide initial assessment and treatment.
 
-> **Key Takeaway:** Most mouth injuries heal quickly due to your mouth's excellent blood supply. Apply firm pressure to stop bleeding, rinse gently to clean the wound, and watch for infection signs. Stitches may help with deeper wounds or those involving the lip. Call your dentist if bleeding won't stop, if you're concerned about healing, or if signs of infection develop.
-
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about topics like mouth cuts and wounds. The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
+The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Most mouth injuries heal quickly due to your mouth's excellent blood supply. Apply firm pressure to stop bleeding, rinse gently to clean the wound, and watch for infection signs. Stitches may help with deeper wounds or those involving the lip. Call your dentist if bleeding won't stop, if you're concerned about healing, or if signs of infection develop.
+
+## Related Articles
 
 - [Oral Surgery Recovery: Day-by-Day What to Expect](/article/oral-surgery-recovery-timeline-what-you-need-to-know.html)
-- [Emergency Dental Care: What to Do When Injured](/article/how-to-emergency-dental-care.html)
 - [Mouthguards for Athletes: Preventing Sports Injuries](/article/sports-mouthguards-for-young-athletes.html)
+
+- [Suture Removal - Timing, Techniques, and](/article/suture-removal-timing-and-procedure.html)
+- [Cost of Surgical Teeth Removal and Extraction Expense](/article/cost-of-surgical-teeth-removal.html)
+

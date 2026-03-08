@@ -38,7 +38,7 @@ When you have gum disease, the bacteria living below your gumline are causing th
 
 ## How Subgingival Irrigation Works
 
-Subgingival irrigation delivers antimicrobial solutions (usually chlorhexidine or povidone-iodine) directly into the pockets between your teeth and gums. Learn more about [hand instrumentation scaler and](/article/hand-instrumentation-scaler-and-curette-techniques.html) for additional guidance. A special tip attached to a syringe allows your dentist to place the solution into the pocket and flush away bacteria and their toxins.
+Subgingival irrigation delivers antimicrobial solutions (usually chlorhexidine or povidone-iodine) directly into the pockets between your teeth and gums. Learn more about [Hand Instrumentation Scaler and](/article/hand-instrumentation-scaler-and-curette-techniques.html) for additional guidance. A special tip attached to a syringe allows your dentist to place the solution into the pocket and flush away bacteria and their toxins.
 
 The solution penetrates deep into the pocket and actually disrupts the biofilm—the sticky community of bacteria that's resistant to your immune system and antibiotics. By disrupting the biofilm structure, irrigation makes the bacteria more vulnerable to your body's immune system and makes remaining bacteria less effective at causing disease.
 
@@ -80,7 +80,7 @@ These might sound like small improvements, but they represent the difference bet
 
 ## Home Irrigation
 
-Some people benefit from home irrigation with powered water flossers combined with dilute antimicrobial rinses.  You may also find helpful information about [osseous surgery bone contouring](/article/osseous-surgery-bone-contouring-for-health.html).While home irrigation doesn't penetrate as deep as professional irrigation, it can provide modest additional benefit (0.2-0.3 mm additional attachment gain) when used daily.
+Some people benefit from home irrigation with powered water flossers combined with dilute antimicrobial rinses.  You may also find helpful information about [Osseous Surgery Bone Contouring](/article/osseous-surgery-bone-contouring-for-health.html).While home irrigation doesn't penetrate as deep as professional irrigation, it can provide modest additional benefit (0.2-0.3 mm additional attachment gain) when used daily.
 
 ## Timeline for Results
 
@@ -92,20 +92,17 @@ When you visit your dentist to discuss subgingival irrigation below gum cleaning
 
 It is also helpful to ask about the costs involved and whether your dental insurance covers any portion of the recommended treatment. Your dentist can often work with you to create a payment plan that fits your budget. Don't hesitate to ask about the success rates of different approaches and what you can do at home to support the best possible outcome.
 
-
 ## What to Expect During Your Visit
 
 Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
 
 During any procedure, your comfort is a top priority. Your dental team will make sure you understand what is happening and check in with you regularly. Modern dental techniques and anesthesia options mean that most patients experience minimal discomfort during and after treatment. If you feel anxious about any part of the process, let your dentist know so they can adjust their approach to help you feel more at ease.
 
-
 ## Tips for Long-Term Success
 
 Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
 
 Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
-
 
 ## When to Talk to Your Dentist
 
@@ -115,7 +112,6 @@ Many patients find it helpful to write down their questions before an appointmen
 
 Pay attention to any changes in your mouth between dental visits. If you notice new symptoms like persistent pain, swelling, bleeding, or sensitivity, don't wait for your scheduled appointment. Contact your dental office to describe what you are experiencing, and they can advise whether you need to come in sooner.
 
-
 ## Prevention and Daily Care
 
 One of the best ways to protect your dental health is through consistent daily care. Brushing your teeth at least twice a day with fluoride toothpaste removes plaque and bacteria that can lead to decay and gum disease. Using a soft-bristled toothbrush and gentle circular motions helps clean your teeth effectively without damaging your enamel or irritating your gums.
@@ -124,17 +120,15 @@ Flossing once daily reaches the areas between your teeth that your toothbrush ca
 
 Your diet also has a significant impact on your oral health. Limiting sugary snacks and acidic beverages helps protect your tooth enamel from erosion. Drinking plenty of water throughout the day rinses away food particles and keeps your mouth hydrated. Crunchy fruits and vegetables like apples, carrots, and celery can help clean your teeth naturally between brushings.
 
-
 ## Conclusion
 
 Subgingival irrigation provides evidence-based improvement in gum disease treatment when combined with scaling and root planing. It helps your immune system gain the upper hand against gum disease bacteria and supports healing of your gum tissues.
 
-## Key Takeaway
-
-Subgingival irrigation delivers antimicrobial solutions directly into gum disease pockets, improving treatment success when combined with scaling and root planing and excellent home care.
+> **Key Takeaway:** Subgingival irrigation delivers antimicrobial solutions directly into gum disease pockets, improving treatment success when combined with scaling and root planing and excellent home care.
 
 ## Related Articles
 
-- [Hand Instrumentation: Scaler and Curette Techniques](/hand-instrumentation-scaler-and-curette-techniques)
-- [Osseous Surgery: Bone Contouring for Health](/osseous-surgery-bone-contouring-for-health)
-- [Cost of Gum Health Maintenance](/cost-of-gum-health-maintenance)
+- [Alveolar Bone: The Tooth Support Structure](/article/alveolar-bone-tooth-support-structure.html)
+- [Cost of Gum Health Maintenance](/article/cost-of-gum-health-maintenance.html)
+- [Polishing After Scaling—The Final Prophylaxis Procedure](/article/polishing-after-scaling-final-procedure.html)
+

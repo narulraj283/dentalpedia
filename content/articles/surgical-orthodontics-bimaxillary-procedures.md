@@ -1,36 +1,50 @@
 ---
-title: Orthognathic Surgery - Understanding Jaw Correction Surgery
-slug: surgical-orthodontics-bimaxillary-procedures
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: Patient guide to orthognathic surgery, when both jaws need repositioning, surgical planning, and what to expect.
 date: 2026-03-05
+excerpt: Patient guide to orthognathic surgery, when both jaws need repositioning,
+  surgical planning, and what to expect.
 read_time: 11 min
+references:
+- title: 'Proffit WR, Turvey TA. Orthognathic surgery. In: Peterson LJ, Ellis E, Hupp
+    JR, Tucker MR, eds. Contemporary oral and maxillofacial surgery. 6th ed. St. Louis:
+    Mosby; 2012. p. 547-589.'
+  url: https://pubmed.ncbi.nlm.nih.gov/22711219
+- title: 'Hopson B. Effortless Orthodontics. Philadelphia: Elsevier; 2011. p. 456-489.'
+  url: https://pubmed.ncbi.nlm.nih.gov/21342411
+- title: Sondhi A, Demirci M, Zou L, Silverman S. Accuracy of virtual surgical planning
+    in orthognathic surgery. J Oral Maxillofac Surg. 2014;72(12):2344-2353.
+  url: https://pubmed.ncbi.nlm.nih.gov/25124268
+- title: 'Hurvitz MS. Bimaxillary procedures. In: Hupp JR, Tucker MR, Ellis E, eds.
+    Contemporary oral and maxillofacial surgery. 7th ed. St. Louis: Elsevier; 2018.
+    p. 623-651.'
+  url: https://pubmed.ncbi.nlm.nih.gov/29063478
+- title: Polley JW, van Loon B. Three-dimensional planning and imaging for orthognathic
+    surgery. Oral Maxillofac Surg Clin North Am. 2014;26(4):539-557.
+  url: https://pubmed.ncbi.nlm.nih.gov/25173361
+- title: 'Stability in orthognathic surgery: a position paper for the American Association
+    of Oral and Maxillofacial Surgeons. J Oral Maxillofac Surg. 2012;70(12 Suppl 2):S28-S35.'
+  url: https://pubmed.ncbi.nlm.nih.gov/23083080
+- title: 'Eggeling E, Ganz SD. Correction of severe maxillary vertical deficiency
+    via superior repositioning during Le Fort I osteotomy: 8-year case report and
+    literature review. Int J Oral Maxillofac Implants. 2003;18(4):597-610.'
+  url: https://pubmed.ncbi.nlm.nih.gov/12934826
+- title: Berfin P, Ugur I, Mehmet D. Changes in nasopharyngeal airway dimensions following
+    orthognathic surgery. Int J Oral Maxillofac Surg. 2009;38(8):886-891.
+  url: https://pubmed.ncbi.nlm.nih.gov/19409759
+- title: 'Saraber-Schiphorst DJ, Breuning K, van Vlijmen OJ, Kuijpers-Jagtman AM.
+    Long-term stability of surgical correction in patients with maxillary deformity:
+    10-year follow-up study. J Craniofac Surg. 2015;26(1):56-62.'
+  url: https://pubmed.ncbi.nlm.nih.gov/25494209
+- title: Behrents RG. Long-term stability of orthognathic surgical corrections. Int
+    J Adult Orthodon Orthognath Surg. 2000;15(1):30-39.
+  url: https://pubmed.ncbi.nlm.nih.gov/10990304
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgeon
+slug: surgical-orthodontics-bimaxillary-procedures
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - title: "Proffit WR, Turvey TA. Orthognathic surgery. In: Peterson LJ, Ellis E, Hupp JR, Tucker MR, eds. Contemporary oral and maxillofacial surgery. 6th ed. St. Louis: Mosby; 2012. p. 547-589."
-    url: https://pubmed.ncbi.nlm.nih.gov/22711219
-  - title: "Hopson B. Effortless Orthodontics. Philadelphia: Elsevier; 2011. p. 456-489."
-    url: https://pubmed.ncbi.nlm.nih.gov/21342411
-  - title: "Sondhi A, Demirci M, Zou L, Silverman S. Accuracy of virtual surgical planning in orthognathic surgery. J Oral Maxillofac Surg. 2014;72(12):2344-2353."
-    url: https://pubmed.ncbi.nlm.nih.gov/25124268
-  - title: "Hurvitz MS. Bimaxillary procedures. In: Hupp JR, Tucker MR, Ellis E, eds. Contemporary oral and maxillofacial surgery. 7th ed. St. Louis: Elsevier; 2018. p. 623-651."
-    url: https://pubmed.ncbi.nlm.nih.gov/29063478
-  - title: "Polley JW, van Loon B. Three-dimensional planning and imaging for orthognathic surgery. Oral Maxillofac Surg Clin North Am. 2014;26(4):539-557."
-    url: https://pubmed.ncbi.nlm.nih.gov/25173361
-  - title: "Stability in orthognathic surgery: a position paper for the American Association of Oral and Maxillofacial Surgeons. J Oral Maxillofac Surg. 2012;70(12 Suppl 2):S28-S35."
-    url: https://pubmed.ncbi.nlm.nih.gov/23083080
-  - title: "Eggeling E, Ganz SD. Correction of severe maxillary vertical deficiency via superior repositioning during Le Fort I osteotomy: 8-year case report and literature review. Int J Oral Maxillofac Implants. 2003;18(4):597-610."
-    url: https://pubmed.ncbi.nlm.nih.gov/12934826
-  - title: "Berfin P, Ugur I, Mehmet D. Changes in nasopharyngeal airway dimensions following orthognathic surgery. Int J Oral Maxillofac Surg. 2009;38(8):886-891."
-    url: https://pubmed.ncbi.nlm.nih.gov/19409759
-  - title: "Saraber-Schiphorst DJ, Breuning K, van Vlijmen OJ, Kuijpers-Jagtman AM. Long-term stability of surgical correction in patients with maxillary deformity: 10-year follow-up study. J Craniofac Surg. 2015;26(1):56-62."
-    url: https://pubmed.ncbi.nlm.nih.gov/25494209
-  - title: "Behrents RG. Long-term stability of orthognathic surgical corrections. Int J Adult Orthodon Orthognath Surg. 2000;15(1):30-39."
-    url: https://pubmed.ncbi.nlm.nih.gov/10990304
+title: Orthognathic Surgery - Understanding Jaw Correction
 ---
 
 ## Introduction
@@ -39,7 +53,7 @@ If you have a significant bite problem or jaw misalignment, your orthodontist or
 
 ## When You Might Need This Surgery
 
-You're a candidate for orthognathic surgery if: your upper and lower jaws are severely misaligned; your bite is severely off (underbite, overbite, or crossbite); your teeth can't close properly; you have difficulty chewing or swallowing; you have sleep apnea related to jaw position; or your jaw is asymmetrical (uneven). Learn more about [benefits of anesthesia types](/article/benefits-of-anesthesia-types.html) for additional guidance.
+You're a candidate for orthognathic surgery if: your upper and lower jaws are severely misaligned; your bite is severely off (underbite, overbite, or crossbite); your teeth can't close properly; you have difficulty chewing or swallowing; you have sleep apnea related to jaw position; or your jaw is asymmetrical (uneven). Learn more about [Benefits of Anesthesia Types](/article/benefits-of-anesthesia-types.html) for additional guidance.
 
 **Bimaxillary Surgery Specifically**: This means both your upper jaw and lower jaw need repositioning. Your surgeon does both procedures in one surgery, or sometimes staged (separate surgeries a few months apart).
 
@@ -114,7 +128,9 @@ You're a candidate for orthognathic surgery if: your upper and lower jaws are se
 1. Will my surgery be both jaws or one jaw?
 2. How experienced are you with this procedure?
 3. What does my specific jaw movement involve?
-4. How long until I can return to work?
+4.
+
+How long until I can return to work?
 5. When can I return to exercise?
 6. What's your personal success rate?
 7. What complications have you managed?
@@ -135,23 +151,23 @@ Your dentist will begin by examining your mouth and reviewing your dental histor
 
 During any procedure, your comfort is a top priority. Your dental team will make sure you understand what is happening and check in with you regularly. Modern dental techniques and anesthesia options mean that most patients experience minimal discomfort during and after treatment. If you feel anxious about any part of the process, let your dentist know so they can adjust their approach to help you feel more at ease.
 
-
 ## Tips for Long-Term Success
 
 Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
 
 Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
 Bimaxillary orthognathic surgery is a sophisticated, well-established procedure that fixes serious jaw and bite problems. Recovery takes time (plan on 3-4 months for substantial improvement, 6-12 months for complete resolution), but results last. Your life after surgery—better function, better appearance, better confidence—makes it worthwhile for people who need it.
 
-## Key Takeaway
-
-Orthognathic surgery corrects jaw position and bite that braces alone can't fix. Learn more about [benefits of anesthesia options](/article/benefits-of-anesthesia-options.html) for additional guidance. It requires planning, patience during recovery, and commitment to post-op care, but results transform function and appearance.
+> **Key Takeaway:** Orthognathic surgery corrects jaw position and bite that braces alone can't fix. Learn more about [Benefits of Anesthesia Options](/article/benefits-of-anesthesia-options.html) for additional guidance. It requires planning, patience during recovery, and commitment to post-op care, but results transform function and appearance.
 
 ## Related Articles
-- [Understanding Surgical Success Rates](/articles/surgical-success-rates-what-you-need-to-know)
-- [Healing After Oral Surgery - Day-by-Day Expectations](/articles/surgical-site-healing-what-you-need-to-know)
-- [Pain Management After Oral Surgery](/articles/how-to-pain-management-surgery)
+
+- [Your Guide to Bone Grafting for Implant Placement](/article/benefits-of-bone-grafting-procedure.html)
+- [Surgical vs. Simple Extraction - When Is Surgery](/article/surgical-tooth-extraction-when-and-why-its-necessary.html)
+- [Surgical Success Rates in Oral Surgery](/article/surgical-success-rates-what-you-need-to-know.html)
+

@@ -1,31 +1,41 @@
 ---
-title: "Getting Your New Dentures Fitted: What Happens at the"
-slug: denture-adjustment-and-fitting-the-initial-process
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: Learn what to expect when you get your new dentures, how your dentist adjusts them for comfort and proper fit, and what to do after delivery.
 date: 2026-03-05
+excerpt: Learn what to expect when you get your new dentures, how your dentist adjusts
+  them for comfort and proper fit, and what to do after delivery.
 read_time: 9 min
+references:
+- Winstanley RB. An evaluation of the fit of dentures at the time of insertion. British
+  Dental Journal. 1987;163(6):177-181.
+- Fontan F, et al. Clinical quality of complete maxillary dentures according to prosthodontic
+  principles. Journal of Prosthetic Dentistry. 2002;88(6):592-597.
+- Eklund B, et al. The dentures as a factor for retaining root-treated teeth and dental
+  implants. Acta Odontologica Scandinavica. 2007;65(4):207-213.
+- McGarry TJ, et al. Classification system for complete dentures. Journal of Prosthetic
+  Dentistry. 2005;94(1):38-46.
+- Tan H, et al. A systematic review of the abutment implants incorporating dynamic
+  loading protocols for esthetic implant crowns. Journal of Prosthetic Dentistry.
+  2004;92(2):128-141.
+- 'Visser A, et al. Surgical placement of implants: a literature review with classification.
+  The International Journal of Oral & Maxillofacial Implants. 2001;16(2):181-194.'
+- 'Abdel-Hakim AM. Complete denture construction: adjustment, insertion and follow-up
+  care. International Journal of Dentistry. 2012;2012:532850.'
+- 'Kapur KK. Veterans Administration Cooperative Studies on denture prosthodontics:
+  Summary of findings. Journal of Prosthetic Dentistry. 1975;33(6):615-630.'
+reviewed: true
 reviewer_specialty: Prosthodontics
+slug: denture-adjustment-and-fitting-the-initial-process
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
-reviewed: true
-references:
-  - "Winstanley RB. An evaluation of the fit of dentures at the time of insertion. British Dental Journal. 1987;163(6):177-181."
-  - "Fontan F, et al. Clinical quality of complete maxillary dentures according to prosthodontic principles. Journal of Prosthetic Dentistry. 2002;88(6):592-597."
-  - "Eklund B, et al. The dentures as a factor for retaining root-treated teeth and dental implants. Acta Odontologica Scandinavica. 2007;65(4):207-213."
-  - "McGarry TJ, et al. Classification system for complete dentures. Journal of Prosthetic Dentistry. 2005;94(1):38-46."
-  - "Tan H, et al. A systematic review of the abutment implants incorporating dynamic loading protocols for esthetic implant crowns. Journal of Prosthetic Dentistry. 2004;92(2):128-141."
-  - "Visser A, et al. Surgical placement of implants: a literature review with classification. The International Journal of Oral & Maxillofacial Implants. 2001;16(2):181-194."
-  - "Abdel-Hakim AM. Complete denture construction: adjustment, insertion and follow-up care. International Journal of Dentistry. 2012;2012:532850."
-  - "Kapur KK. Veterans Administration Cooperative Studies on denture prosthodontics: Summary of findings. Journal of Prosthetic Dentistry. 1975;33(6):615-630."
+title: 'Getting Your New Dentures Fitted: What Happens at'
 ---
 
 Getting new dentures is exciting but also requires patience. When you first receive your dentures, they need adjustments to fit your mouth properly and feel comfortable. Understanding what happens during the initial fitting and adjustment process helps you know what to expect.
 
 ## The Delivery Appointment
 
-When you arrive for your delivery appointment, your dentist will check your dentures carefully before putting them in your mouth. Learning more about [denture eating adaptation chewing training](/article/denture-eating-adaptation-chewing-training.html) can help you understand this better. They're looking for issues like rough edges, areas that might pressure your gums, or problems with how your teeth come together when you bite. They'll also check that the dentures look natural and match your face shape and skin tone.
+When you arrive for your delivery appointment, your dentist will check your dentures carefully before putting them in your mouth. Learning more about [Denture Eating Adaptation Chewing Training](/article/denture-eating-adaptation-chewing-training.html) can help you understand this better. They're looking for issues like rough edges, areas that might pressure your gums, or problems with how your teeth come together when you bite. They'll also check that the dentures look natural and match your face shape and skin tone.
 
 Your dentist will clean the dentures thoroughly and then insert them into your mouth gently. They'll check how they feel in your mouth and look at your facial appearance to make sure everything looks balanced. This is a good time to speak up if you're concerned about how the teeth look or if any area feels uncomfortable.
 
@@ -59,7 +69,7 @@ Some soreness is normal during the first few weeks. To manage it, remove your de
 
 Rinse your mouth with warm salt water several times daily to promote healing. Over-the-counter pain relievers can help with soreness. Soft foods are easier to manage while you're getting used to your new dentures.
 
-However, if a particular area is very painful or you develop significant swelling, don't wait for your next appointment—call your dentist. Learning more about [denture fit and pressure optimal contact points](/article/denture-fit-and-pressure-optimal-contact-points.html) can help you understand this better. Severe pain usually means an adjustment is needed right away.
+However, if a particular area is very painful or you develop significant swelling, don't wait for your next appointment—call your dentist. Learning more about [Denture Fit and Pressure Optimal Contact Points](/article/denture-fit-and-pressure-optimal-contact-points.html) can help you understand this better. Severe pain usually means an adjustment is needed right away.
 
 ## Learning to Eat and Speak With Your Dentures
 
@@ -85,16 +95,21 @@ After the initial adjustment period, your dentures will need occasional adjustme
 
 Most people benefit from having their dentures checked annually to assess fit and plan for necessary adjustments or relining.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
-Expect your dentures to need several adjustment appointments during the first 2-4 weeks. Your dentist will adjust your bite to make it even, relieve sore spots, and improve fit and retention. Some soreness during the adjustment period is normal, but severe or persistent pain should be reported immediately. Learning to eat and speak with your dentures takes practice and patience. If after multiple adjustments problems persist, discuss whether a remake might help. Talk to your dentist about which options are right for your specific situation.
+Expect your dentures to need several adjustment appointments during the first 2-4 weeks. Your dentist will adjust your bite to make it even, relieve sore spots, and improve fit and retention. Some soreness during the adjustment period is normal, but severe or persistent pain should be reported immediately.
 
+Learning to eat and speak with your dentures takes practice and patience. If after multiple adjustments problems persist, discuss whether a remake might help. Talk to your dentist about which options are right for your specific situation.
 
+> **Key Takeaway:** Learn what to expect when you get your new dentures, how your dentist adjusts them for comfort and proper fit, and what to do after delivery.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Learning to Eat Properly With Your New Dentures](/article/denture-eating-adaptation-chewing-training.html)
-- [How Denture Fit and Pressure Work](/article/denture-fit-and-pressure-optimal-contact-points.html)
 - [Dealing With Denture Changes as You Age](/article/denture-adjustment-in-aging-fit-changes.html)
 
-> **Key Takeaway:** Dentures require multiple adjustment appointments during the first few weeks—plan for sore spots to develop and be adjusted, and give yourself several weeks to adapt to eating and speaking with your new dentures.
+- [Crown Material Selection for Esthetic Zones:](/article/timeline-for-cosmetic-crown-selection.html)
+- [Partial Dentures vs Dental Bridges Comparison Guide](/article/partial-dentures-vs-dental-bridges-comparison-guide.html)
+- [Eccentric Relation](/article/eccentric-relation-side-to-side-movement.html)
+

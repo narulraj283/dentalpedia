@@ -1,24 +1,31 @@
 ---
-title: "Alveolar Ridge Reduction: Lowering High Ridge"
-slug: alveolar-ridge-reduction-lowering-high-ridge
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "After you lose teeth, your jawbone shrinks and resorbs—that's normal."
 date: 2026-03-05
+excerpt: After you lose teeth, your jawbone shrinks and resorbs—that's normal.
 read_time: 12 min
+references:
+- Atwood DA. Bone loss of edentulous alveolar ridges. Journal of Periodontology. 1979;50(4):161-165.
+- 'Pietrokovski Y, et al. Ridge resorption following tooth extraction: is it continuous
+  throughout the life of the residual ridge? British Dental Journal. 2007;203(8):E15.'
+- 'Yaltirik M, et al. Alveoloplasty: a clinical study. Journal of Contemporary Dental
+  Practice. 2007;8(1):51-59.'
+- Cardoni EM, et al. Conservative alveoloplasty technique for esthetic implant placement.
+  General Dentistry. 2003;51(2):150-155.
+- Aghazadeh A, et al. Complications of alveolar bone reduction in denture fabrication.
+  Journal of Prosthodontics. 2015;24(3):221-226.
+- Sorni Bröker M, et al. The management of alveolar ridge deformities in the esthetic
+  zone. Periodontology 2000. 2018;77(1):250-267.
+- Kusama S, et al. Immediate denture fabrication following alveoloplasty. Journal
+  of Dental Research. 2010;89(Spec Issue C):Abstract 2456.
+- Cawood JI, et al. Classification of the edentulous jaws. International Journal of
+  Oral and Maxillofacial Surgery. 1988;17(4):232-236.
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: alveolar-ridge-reduction-lowering-high-ridge
 subcategory: Alveolar Surgery
 subcategory_slug: alveolar-surgery
-reviewed: true
-references:
-  - "Atwood DA. Bone loss of edentulous alveolar ridges. Journal of Periodontology. 1979;50(4):161-165."
-  - "Pietrokovski Y, et al. Ridge resorption following tooth extraction: is it continuous throughout the life of the residual ridge? British Dental Journal. 2007;203(8):E15."
-  - "Yaltirik M, et al. Alveoloplasty: a clinical study. Journal of Contemporary Dental Practice. 2007;8(1):51-59."
-  - "Cardoni EM, et al. Conservative alveoloplasty technique for esthetic implant placement. General Dentistry. 2003;51(2):150-155."
-  - "Aghazadeh A, et al. Complications of alveolar bone reduction in denture fabrication. Journal of Prosthodontics. 2015;24(3):221-226."
-  - "Sorni Bröker M, et al. The management of alveolar ridge deformities in the esthetic zone. Periodontology 2000. 2018;77(1):250-267."
-  - "Kusama S, et al. Immediate denture fabrication following alveoloplasty. Journal of Dental Research. 2010;89(Spec Issue C):Abstract 2456."
-  - "Cawood JI, et al. Classification of the edentulous jaws. International Journal of Oral and Maxillofacial Surgery. 1988;17(4):232-236."
+title: 'Alveolar Ridge Reduction: Lowering High'
 ---
 
 After you lose teeth, your jawbone shrinks and resorbs—that's normal. But sometimes, instead of just shrinking, the bone grows into high ridges or bumpy growths (called tori or exostoses) that make dentures uncomfortable or impossible to fit properly. Alveolar ridge reduction is a surgery that lowers, smooths, and reshapes these high ridges so your dentures fit better, feel more comfortable, and look better. This guide explains when this surgery is needed, how it's done, what healing is like, and what to expect afterward. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
@@ -89,15 +96,6 @@ After removing bone, the soft tissue flap is stitched back down.
 
 Ridge reduction, when done correctly, dramatically improves denture comfort, retention, and esthetics. Success depends on: careful surgical technique with complete smoothing of all sharp edges, appropriate timing (usually waiting for ridge to stabilize post-extraction), and close communication between your dentist and surgeon about denture design needs. When these principles are followed, ridge reduction gives you a comfortable, well-fitting denture that will work great for many years.
 
-## Related Articles You May Find Helpful
-
-- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
-- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
-- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
-
-
-
-
 ## Questions to Ask Your Dentist
 
 Before any dental procedure, it helps to come prepared with the right questions. Here are some you might want to bring up at your next appointment:
@@ -108,15 +106,21 @@ Before any dental procedure, it helps to come prepared with the right questions.
 - **Are there any risks I should know about?** Every procedure has potential complications. Your dentist should explain what to watch for and when to call their office.
 - **How long will the results last?** Some treatments are permanent while others need maintenance. Understanding the long-term picture helps you make a better decision.
 
-Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist will never pressure you into a decision.
+Your dentist is your partner in oral health. The more openly you communicate about your concerns, preferences, and budget, the better they can tailor a treatment plan that works for you. Don't hesitate to ask for a second opinion if you're unsure about a recommended procedure — a good dentist is unlikely to pressure you into a decision.
 
 Remember that dental health is connected to your overall wellbeing. Regular checkups, good brushing and flossing habits, and addressing problems early can save you significant time, money, and discomfort in the long run.
 
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about alveolar ridge reduction lowering high ridge. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** After you lose teeth, your jawbone shrinks and resorbs—that's normal. Your dentist can help you understand what steps are right for your specific needs.
+
+## Related Articles
+
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+- [Timeline for Post-Surgical Bleeding Control and](/article/timeline-for-bleeding-control.html)
+- [Oral Surgery Techniques - What You Need to Know Before](/article/surgical-technique-overview-what-you-need-to-know.html)
+- [Oral Surgical Technique Fundamentals and Clinical](/article/best-practices-for-surgical-technique-overview.html)
+- [Cost of Surgical Technique Overview and Procedural](/article/cost-of-surgical-technique-overview.html)
 

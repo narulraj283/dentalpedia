@@ -37,7 +37,7 @@ You trust your dentist with your mouth. That trust extends to whether your denti
 
 **Handpiece (drill) sterilization:** The dental handpiece is either sterilized between patients in an autoclave or a new handpiece is used. Some offices use more handpieces and rotate them through sterilization; others use a limited number sterilized between each patient.
 
-If you don't see these practices, question your dentist or consider finding a different practice. Learning more about [root caries decay on exposed roots](/article/root-caries-decay-on-exposed-roots.html) can help you understand this better. Good infection control should be visible and obvious.
+If you don't see these practices, question your dentist or consider finding a different practice. Learning more about [Root Caries Decay on Exposed Roots](/article/root-caries-decay-on-exposed-roots.html) can help you understand this better. Good infection control should be visible and obvious.
 
 ## What Your Dentist Does
 
@@ -59,7 +59,7 @@ You should never feel embarrassed asking about sterilization. It's a reasonable 
 
 ## Your Role
 
-**Mention health conditions:** Tell your dentist if you have hepatitis, HIV, herpes, or other communicable diseases. Learning more about [jaw clenching during day causes and relaxation techniques](/article/jaw-clenching-during-day-causes-and-relaxation-techniques.html) can help you understand this better. This doesn't prevent treatment, but it helps your dentist take appropriate precautions and protects both you and staff.
+**Mention health conditions:** Tell your dentist if you have hepatitis, HIV, herpes, or other communicable diseases. Learning more about [Daytime Jaw Clenching - Etiology, Clinical](/article/jaw-clenching-during-day-causes-and-relaxation-techniques.html) can help you understand this better. This doesn't prevent treatment, but it helps your dentist take appropriate precautions and protects both you and staff.
 
 **Maintain your immune health:** Healthy immune function helps prevent infections. Avoid tobacco, manage stress, exercise, eat well, and get adequate sleep.
 
@@ -67,7 +67,9 @@ You should never feel embarrassed asking about sterilization. It's a reasonable 
 
 ## The Full Sterilization Process Explained
 
-Understanding the complete sterilization process might increase your confidence in your dental office's safety. Instruments used in patient mouths are immediately placed in a special holding solution after use. Later, they're cleaned in an ultrasonic cleaner that uses vibration to dislodge debris from every surface and crevice. After thorough cleaning, they're inspected under magnification to ensure no debris remains. Instruments are then wrapped individually or in packets, labeled with the sterilization date, and placed in an autoclave. The autoclave heats to over 320°F under pressure, maintaining this heat for a specific duration (typically 3-10 minutes depending on what's being sterilized). The combination of heat and pressure kills all microorganisms including bacterial spores—even the most heat-resistant organisms. After sterilization, instruments cool, are removed, and are stored in sealed, clean storage until used again. If instruments are accidentally dropped or opened improperly, they're considered contaminated and must be re-sterilized before use. This meticulous process occurs between every patient.
+Understanding the complete sterilization process might increase your confidence in your dental office's safety. Instruments used in patient mouths are immediately placed in a special holding solution after use. Later, they're cleaned in an ultrasonic cleaner that uses vibration to dislodge debris from every surface and crevice. After thorough cleaning, they're inspected under magnification to ensure no debris remains. Instruments are then wrapped individually or in packets, labeled with the sterilization date, and placed in an autoclave.
+
+The autoclave heats to over 320°F under pressure, maintaining this heat for a specific duration (typically 3-10 minutes depending on what's being sterilized). The combination of heat and pressure kills all microorganisms including bacterial spores—even the most heat-resistant organisms. After sterilization, instruments cool, are removed, and are stored in sealed, clean storage until used again. If instruments are accidentally dropped or opened improperly, they're considered contaminated and must be re-sterilized before use. This meticulous process occurs between every patient.
 
 ## Chemical Sterilization for Heat-Sensitive Items
 
@@ -89,14 +91,13 @@ Show up healthy when possible—if you're acutely ill with a contagious illness,
 
 Modern dental offices maintain strict infection control. You should expect to see evidence of hand hygiene, sterilization, disposable item use, and operatory disinfection. Your dentist's commitment to infection control protects you and everyone else.
 
-## Key Takeaway
-
-Good infection control includes hand hygiene, instrument sterilization, disposable items, operatory disinfection, and protective equipment. These practices are standard in reputable dental offices.
-
-
+> **Key Takeaway:** Good infection control includes hand hygiene, instrument sterilization, disposable items, operatory disinfection, and protective equipment. These practices are standard in reputable dental offices.
 
 ## Related Articles
 
-- [Root Caries: Decay on Exposed Roots](/article/root-caries-decay-on-exposed-roots.html)
-- [Jaw Clenching During Day: Causes and Relaxation Techniques](/article/jaw-clenching-during-day-causes-and-relaxation-techniques.html)
 - [Common Misconceptions About Tooth Structure Layers](/article/common-misconceptions-about-tooth-structure-layers.html)
+- [Why Bite Force and Teeth Relationships Matter in Dental](/article/why-bite-force-and-teeth-matters.html)
+- [Amalgam and Mercury: What You Should Know About Silver](/article/mercury-amalgam-controversy.html)
+- [Cost of Cavity Risk Factors](/article/cost-of-cavity-risk-factors.html)
+- [Gum Grafting Surgery: Restore Recessed Gums](/article/mucogingival-surgery-gum-tissue-reconstruction.html)
+

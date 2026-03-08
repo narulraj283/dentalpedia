@@ -39,7 +39,9 @@ Tell-Show-Do sounds simple—and it is—but using it really effectively takes s
 
 ## How to Explain Procedures So Kids Understand
 
-The "tell" part means explaining what your child will experience—but the words matter tremendously. Learn more about [open bite from thumb](/article/open-bite-from-thumb-sucking-prevention-and-treatment.html) for additional guidance. Your dentist focuses on sensations your child will feel, see, hear, taste, and touch, not on scary concepts. For toddlers (ages 2-4), extremely simple language works best: "You will taste water. You will hear a sound." Words get repeated so young children really understand. Negative words like "won't hurt" get avoided because young children focus on the scary part, not the reassurance.
+The "tell" part means explaining what your child will experience—but the words matter tremendously. Learn more about [Open Bite from Thumb](/article/open-bite-from-thumb-sucking-prevention-and-treatment.html) for additional guidance. Your dentist focuses on sensations your child will feel, see, hear, taste, and touch, not on scary concepts.
+
+For toddlers (ages 2-4), extremely simple language works best: "You will taste water. You will hear a sound." Words get repeated so young children really understand. Negative words like "won't hurt" get avoided because young children focus on the scary part, not the reassurance.
 
 Preschoolers (ages 4-6) understand comparisons. Instead of "suction," your dentist might say "like a tiny straw pulling water, just like when you drink from a juice box." Your dentist describes multiple sensations: the sound, the water feeling, the vibration. Honesty matters—if your child expects no vibration but then feels some, their trust drops.
 
@@ -67,7 +69,9 @@ Depending on your child's anxiety level, the show phase might take 30 seconds or
 
 ## Building Confidence Gradually
 
-For very anxious children, your dentist might break treatment into stages. The first appointment might be just looking at teeth and showing tools—no actual procedures. The second appointment might include gentle mirror examination. The third might introduce suction. The fourth might introduce gentle hand tools. This staged approach lets your child's anxiety decrease with each positive experience.
+For very anxious children, your dentist might break treatment into stages. The first appointment might be just looking at teeth and showing tools—no actual procedures. The second appointment might include gentle mirror examination.
+
+The third might introduce suction. The fourth might introduce gentle hand tools. This staged approach lets your child's anxiety decrease with each positive experience.
 
 Within a single appointment, your dentist starts with the least scary procedures first. Your child experiences success and gets praised. By the time more anxiety-producing procedures happen, your child has already had several wins, which builds confidence for the next step.
 
@@ -75,7 +79,9 @@ Your dentist explains this plan so your child isn't surprised. "Today we're look
 
 ## Building Confidence Through Praise
 
-Your dentist gives praise immediately after your child succeeds at each step—not just at the end of the appointment. After your child keeps their mouth open during mirror examination, your dentist says: "Great cooperation! You kept your mouth open perfectly. That helps me see your teeth really well." After tolerating suction, they say: "Excellent! You stayed so still while I removed the water. That made my job so much easier."
+Your dentist gives praise immediately after your child succeeds at each step—not just at the end of the appointment. After your child keeps their mouth open during mirror examination, your dentist says: "Great cooperation! You kept your mouth open perfectly.
+
+That helps me see your teeth really well." After tolerating suction, they say: "Excellent! You stayed so still while I removed the water. That made my job so much easier."
 
 Specific praise works better than generic praise. Instead of "good job," your dentist says "You're doing such an excellent job keeping your mouth open" because specificity tells your child exactly what behavior earned praise. Praise focuses on effort and cooperation—"You're working so hard to sit still"—rather than personality, which teaches children that effort matters.
 
@@ -85,7 +91,9 @@ Your own approval as a parent matters hugely. When you say "I'm so proud of how 
 
 ## Watching for Anxiety and Adjusting
 
-Your dentist watches carefully for signs that your child feels anxious. Tight muscles, jaw clenching, pulling away from tools, wide eyes, faster breathing, or saying "I'm scared" or "Stop" all signal increasing anxiety. When your dentist notices these signs, they pause treatment. Maybe they provide extra reassurance. Maybe they repeat the show phase. Maybe they add distraction. Maybe they just pause and let your child catch their breath.
+Your dentist watches carefully for signs that your child feels anxious. Tight muscles, jaw clenching, pulling away from tools, wide eyes, faster breathing, or saying "I'm scared" or "Stop" all signal increasing anxiety. When your dentist notices these signs, they pause treatment.
+
+Maybe they provide extra reassurance. Maybe they repeat the show phase. Maybe they add distraction. Maybe they just pause and let your child catch their breath.
 
 Your dentist gives your child a "pause hand signal"—usually raising their hand—that immediately stops the procedure. Just knowing they can pause helps enormously. Interestingly, once children know they can stop the procedure with a hand signal, most of them rarely use it. The sense of control reduces panic and anxiety more than actually stopping would.
 
@@ -105,13 +113,12 @@ Tell-Show-Do works beautifully for most children, but not all situations allow f
 
 Mastering Tell-Show-Do requires skill in language selection, demonstration technique, timing, and positive reinforcement. Your pediatric dentist's careful attention to each detail—from explaining sensations precisely to watching your child's anxiety level and adjusting in real time—makes the difference between dental visits that scare children and visits that build confidence. Tell-Show-Do remains the gold standard for pediatric dental behavior guidance because it works and because it teaches children that they can manage challenging situations. Through this technique, your dentist isn't just treating teeth—they're building lifelong confidence and healthy attitudes toward dental care.
 
-## Key Takeaway
+> **Key Takeaway:** Tell-Show-Do becomes even more effective when your dentist masters the details: precise language for each age, strategic demonstration, appropriate pacing, immediate positive reinforcement, and continuous anxiety assessment. These details transform anxious children into cooperative, confident dental patients.
 
-Tell-Show-Do becomes even more effective when your dentist masters the details: precise language for each age, strategic demonstration, appropriate pacing, immediate positive reinforcement, and continuous anxiety assessment. These details transform anxious children into cooperative, confident dental patients.
+## Related Articles
 
-## Related Articles You May Find Helpful
+- [Fluoride Varnish in Pediatric Care](/article/fluoride-varnish-in-pediatric-care-high-strength-treatment.html)
 
-- [Open Bite from Thumb Sucking: Prevention and Treatment](/article/open-bite-from-thumb-sucking-prevention-and-treatment.html)
-- [Fluoride Varnish in Pediatric Care: High-Strength Treatment](/article/fluoride-varnish-in-pediatric-care-high-strength-treatment.html)
-- [Digit Sucking: Age-Appropriate Cessation](/article/digit-sucking-age-appropriate-cessation.html)
+- [Night Guards for Kids - Protecting Developing](/article/night-guard-for-children-protecting-teeth.html)
+- [Broken or Chipped Teeth in Children](/article/fractured-teeth-chip-and-crack-repair-in-kids.html)
 

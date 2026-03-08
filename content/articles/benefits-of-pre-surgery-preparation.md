@@ -55,7 +55,9 @@ Your surgeon needs complete information about:
 - **Heart conditions:** Previous heart attacks, heart failure, arrhythmias, high blood pressure. Any of these affects anesthesia choice and surgical approach.
 - **Breathing problems:** Asthma, COPD, sleep apnea. These affect oxygen management during surgery.
 - **Bleeding disorders:** Any history of excessive bleeding, clotting problems, blood thinners (warfarin, aspirin, Xarelto, etc.). This directly affects bleeding control during and after surgery.
-- **Diabetes** (especially your most recent blood sugar level). High blood sugar impairs healing and increases infection risk.
+- **Diabetes** (especially your most recent blood sugar level).
+
+High blood sugar impairs healing and increases infection risk.
 - **Medications:** Everything you take, including over-the-counter drugs, supplements, and herbal products. Some interact with anesthesia or affect bleeding.
 - **Prior anesthesia problems:** Any bad reactions to anesthesia previously. This helps your anesthesiologist choose safer agents.
 - **Recent surgeries:** What was done and when. Helps identify healing issues or ongoing complications. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
@@ -67,7 +69,9 @@ Don't minimize or forget things—your surgeon needs complete information to kee
 **Herbal supplements:** Products like ginkgo, ginger, and garlic thin blood. Stop them 1-2 weeks before surgery. Yes, these are "natural"—so is hemlock, which is poisonous. Natural doesn't mean safe for surgery. Blood thinning effects add up and can cause excessive bleeding during surgery.
 
 **Blood thinners:** This is complex and depends on what you're taking and why. Generally:
-- **Warfarin (Coumadin):** Minor procedures (single tooth extraction, implant): Keep taking it. Your surgeon will check your INR level beforehand. Major surgery (multiple extractions): Stop 3-5 days before surgery. Talk to your cardiologist—they'll coordinate with your surgeon. The reason you're taking warfarin (probably heart condition or stroke prevention) is serious, so you can't just stop without medical guidance.
+- **Warfarin (Coumadin):** Minor procedures (single tooth extraction, implant): Keep taking it. Your surgeon will check your INR level beforehand. Major surgery (multiple extractions): Stop 3-5 days before surgery. Talk to your cardiologist—they'll coordinate with your surgeon.
+
+The reason you're taking warfarin (probably heart condition or stroke prevention) is serious, so you can't just stop without medical guidance.
 - **Apixaban, dabigatran, edoxaban, rivaroxaban (newer blood thinners):** Minor procedures: Usually keep taking. Major procedures: Ask your surgeon and cardiologist. These newer agents work differently than warfarin and often don't need stopping.
 - **Aspirin alone:** Usually keep taking for minor procedures. It provides less bleeding risk than warfarin.
 - **Aspirin + other antiplatelet drugs (like after a stent):** Don't stop without talking to your cardiologist. Stopping too soon risks stent clots, which is dangerous.
@@ -108,7 +112,9 @@ Some options: oral anti-anxiety medication 30-60 minutes before surgery, or IV s
 
 Your surgeon will discuss:
 - **Risks:** Bleeding, infection, swelling, temporary numbness, nerve injury, dry socket (after extraction), implant failure (if applicable). Every surgery has risks. Your surgeon is obligated to tell you what can go wrong so you can make an informed choice.
-- **Benefits:** Removing the tooth/problem, fixing your bite, creating space. The reasons you're having surgery.
+- **Benefits:** Removing the tooth/problem, fixing your bite, creating space.
+
+The reasons you're having surgery.
 - **Alternatives:** What could happen if you don't have surgery. Sometimes waiting and watching is an option. Sometimes the problem gets worse without treatment.
 - **Your specific situation:** If your case has unique risks (nerve is very close, tooth is difficult, etc.). Individual risk factors matter.
 
@@ -147,18 +153,19 @@ Proper preparation identifies risks, lets your surgeon plan perfectly, prevents 
 
 The surgeon who knows your complete medical history and has seen your imaging can perform surgery more safely and faster than one who's surprised by something unexpected.
 
-## Related Articles You May Find Helpful
-
-- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
-- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
-- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
-
-
-
+*Always consult your dentist to determine the best approach for your individual situation.*
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about pre surgery preparation. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** What you do before oral surgery is almost as important as the surgery itself. Your dentist can help you understand what steps are right for your specific needs.
+
+## Related Articles
+
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+- [Traumatic Tooth Extrusion: Luxation Injuries and](/article/extrusion-trauma-pulled-out.html)
+- [Tooth Intrusion: When a Tooth Is Pushed Into the Bone](/article/intrusion-tooth-pushed-into-bone.html)
+- [Salivary Gland Surgery](/article/salivary-gland-surgery-removal-and-reconstruction.html)
+- [Surgical Tooth Extraction - Comprehensive](/article/surgical-teeth-removal-complete-guide.html)
 

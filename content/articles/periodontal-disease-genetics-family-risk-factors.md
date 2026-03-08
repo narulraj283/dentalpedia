@@ -40,7 +40,7 @@ reviewer_specialty: Periodontics
 slug: periodontal-disease-genetics-family-risk-factors
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
-title: 'Genetic Susceptibility to Periodontitis: Family Risk...'
+title: Periodontal Disease Genetics Family Risk Factors
 ---
 
 ## Family History and Your Gum Disease Risk
@@ -91,24 +91,18 @@ Your genes influence your gum disease risk significantly, but they're far from d
 
 Understanding your family history empowers you to take preventive steps that matter. If your parents had gum disease, you know to be extra vigilant about brushing, flossing, quitting smoking if applicable, and keeping regular dental appointments. These preventive measures can substantially mitigate genetic risk and help you keep your teeth healthy for life.
 
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about topics like genetic susceptibility to periodontitis: family risk.... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
+... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
+> **Key Takeaway:** If your parents or siblings have gum disease, you should know that you're at higher risk than someone without family history. Talk with your dentist to find out how this applies to your specific situation and what steps make sense for you.
+
 ## Related Articles
 
-[Stress and Periodontitis: Immunosuppression](/article/stress-and-periodontitis-immunosuppression.html)
+- [Root Planing: Smoothing Root Surfaces](/article/root-planing-smoothing-root-surfaces.html)
 
-[Root Planing: Smoothing Root Surfaces](/article/root-planing-smoothing-root-surfaces.html)
-
-[Graft Surgery for Gum Recession Repair](/article/graft-surgery-for-gum-recession-repair.html)
-
-
-## Key Takeaway
-
-If your parents or siblings have gum disease, you should know that you're at higher risk than someone without family history. Talk with your dentist to find out how this applies to your specific situation and what steps make sense for you.
+- [Sonic Scalers - Oscillating Frequency and Subgingival](/article/sonic-scaler-oscillating-frequency.html)
+- [Enamel Matrix Derivative](/article/enamel-matrix-derivative-promoting-attachment.html)
 

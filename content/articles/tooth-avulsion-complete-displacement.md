@@ -16,7 +16,7 @@ reviewed: true
 
 A knocked-out tooth (called avulsion) is one of the most urgent dental emergencies. The good news: teeth that are replanted quickly have an excellent chance of survival and function. The key is knowing what to do in the first minutes after it happens.
 
-Your tooth's roots have living tissue around them called the periodontal ligament. Learn more about [risk and concerns with](/article/risk-and-concerns-with-mouth-injuries-treatment.html) for additional guidance. Once the tooth is out of the mouth, this tissue starts to die. Speed matters enormously—every minute counts.
+Your tooth's roots have living tissue around them called the periodontal ligament. Learn more about [Risk and Concerns with](/article/risk-and-concerns-with-mouth-injuries-treatment.html) for additional guidance. Once the tooth is out of the mouth, this tissue starts to die. Speed matters enormously—every minute counts.
 
 ## The First 30 Minutes Matter Most
 
@@ -34,7 +34,7 @@ Even teeth replanted after extended periods can sometimes be saved, but the odds
 
 **CRITICAL RULE: Only touch the crown, never the root**
 
-The root has living cells that can be damaged permanently by contact. Learn more about [tissue trauma soft tissue](/article/tissue-trauma-soft-tissue-injury.html) for additional guidance. Here's what to do:
+The root has living cells that can be damaged permanently by contact. Learn more about [Tissue Trauma Soft Tissue](/article/tissue-trauma-soft-tissue-injury.html) for additional guidance. Here's what to do:
 
 **Correct handling:**
 - Gently pick up the tooth by the white crown part only
@@ -204,20 +204,18 @@ Preventing tooth avulsion is obviously better than dealing with it:
 - Avoid high-impact activities if at high injury risk
 - Consider protective gear for high-risk activities
 
-
-
 ## Conclusion
 
 Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding knocked-out tooth: what to do right now and your chances helps you feel more confident when discussing options with your dentist and making decisions about your care.
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-A knocked-out tooth is savable if you act fast. Within 30 minutes is ideal, within 1 hour is still very good. Handle the tooth carefully (crown only, never the root), store it in milk if HBSS isn't available, and get to a dentist immediately. Professional replantation within the first 1-2 hours dramatically improves the tooth's chance of long-term survival and function. Don't give up on a knocked-out tooth—get it treated right away.
+> **Key Takeaway:** A knocked-out tooth is savable if you act fast. Within 30 minutes is ideal, within 1 hour is still very good. Handle the tooth carefully (crown only, never the root), store it in milk if HBSS isn't available, and get to a dentist immediately. Professional replantation within the first 1-2 hours dramatically improves the tooth's chance of long-term survival and function. Don't give up on a knocked-out tooth—get it treated right away.
 
 ## Related Articles
 
-- [Mouth Injuries and Trauma Treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html)
-- [Soft Tissue Injury Management](/article/tissue-trauma-soft-tissue-injury.html)
 - [Partial Tooth Displacement (Luxation)](/article/tooth-luxation-partial-displacement.html)
+
+- [Emergency Root Canal: Treating Severe Endodontic Pain](/article/emergency-root-canal-treating-severe-dental-pain.html)
+- [Risk and Concerns with Emergency Tooth Pain](/article/risk-and-concerns-with-emergency-tooth-pain.html)
+

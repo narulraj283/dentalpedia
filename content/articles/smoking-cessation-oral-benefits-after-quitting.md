@@ -37,13 +37,13 @@ references:
 
 Deciding to quit smoking is one of the best choices you can make for your health. While everyone knows smoking hurts your heart and lungs, many people don't realize the amazing changes that happen in your mouth when you stop. The good news? Your mouth starts showing improvement within just weeks—sometimes even days. These visible changes can give you real, concrete motivation to stay smoke-free because you can literally see and feel your mouth getting healthier.
 
-Most smokers don't know how much damage smoking does to their teeth and gums, or how quickly things improve when they quit. Learn more about [herbal toothpaste natural ingredients](/article/herbal-toothpaste-natural-ingredients-and-evidence.html) for additional guidance. Your dentist can help show you exactly what benefits to expect and when. Seeing real improvements in your own mouth—like better taste and whiter teeth—is often more motivating than just hearing about general health risks.
+Most smokers don't know how much damage smoking does to their teeth and gums, or how quickly things improve when they quit. Learn more about [Herbal Toothpaste Natural Ingredients](/article/herbal-toothpaste-natural-ingredients-and-evidence.html) for additional guidance. Your dentist can help show you exactly what benefits to expect and when. Seeing real improvements in your own mouth—like better taste and whiter teeth—is often more motivating than just hearing about general health risks.
 
 ## Your Gums Get Healthier and Pinker
 
 One of the first things you'll notice after quitting smoking is that your gums start looking healthier. Smokers often have gums that look darker or greyish because smoking cuts off blood flow to your mouth. Nicotine tightens blood vessels, so your gum tissues don't get enough oxygen.
 
-Here's the exciting part: within just 24 to 72 hours of quitting, your blood flow starts recovering. Learn more about [water flossers vs string](/article/water-flossers-vs-string-floss-effectiveness-comparison.html) for additional guidance. After about 2 to 4 weeks, your gums look noticeably pinker and healthier—almost like they belong to a non-smoker. This visible change isn't just cosmetic. Better blood flow means your gums actually get the oxygen, nutrients, and immune cells they need to fight disease.
+Here's the exciting part: within just 24 to 72 hours of quitting, your blood flow starts recovering. Learn more about [Water Flossers Vs String](/article/water-flossers-vs-string-floss-effectiveness-comparison.html) for additional guidance. After about 2 to 4 weeks, your gums look noticeably pinker and healthier—almost like they belong to a non-smoker. This visible change isn't just cosmetic. Better blood flow means your gums actually get the oxygen, nutrients, and immune cells they need to fight disease.
 
 When your gum blood flow improves, your saliva production also increases within 2 to 4 weeks. Healthy saliva helps protect your teeth and improves your sense of taste. It also helps eliminate bad breath. It's amazing how many positive changes happen just from your body getting better blood flow back to your mouth.
 
@@ -51,7 +51,9 @@ When your gum blood flow improves, your saliva production also increases within 
 
 Smoking damages your taste buds in several ways. It dries out your mouth, irritates your taste receptors, and actually damages the nerve endings that help you taste. Many heavy smokers have gotten so used to this that they don't realize how much they've lost until they quit.
 
-The recovery happens gradually but noticeably. Within a few days, you might notice small improvements. By weeks 2 to 4, the changes become dramatic. Between 4 and 8 weeks after quitting, most people say they can taste food again—really taste it. Your favorite meals start tasting like they did years ago. Pizza has flavor, fruit tastes sweet, and coffee or tea tastes rich instead of bitter.
+The recovery happens gradually but noticeably. Within a few days, you might notice small improvements. By weeks 2 to 4, the changes become dramatic.
+
+Between 4 and 8 weeks after quitting, most people say they can taste food again—really taste it. Your favorite meals start tasting like they did years ago. Pizza has flavor, fruit tastes sweet, and coffee or tea tastes rich instead of bitter.
 
 This isn't just a nice bonus—it's one of the best motivators for staying quit. When you enjoy eating more and your food actually tastes good, that's real, daily proof that quitting was worth it. Many people tell us that getting their sense of taste back was one of the biggest surprises and biggest benefits of quitting.
 
@@ -59,7 +61,9 @@ This isn't just a nice bonus—it's one of the best motivators for staying quit.
 
 Bad breath is one of the most common problems smokers face. Smokers are 3 to 4 times more likely to have bad breath than non-smokers. This happens because smoking dries out your mouth, changes the bacteria in your mouth, and leaves tar and nicotine residue.
 
-When you quit, several things happen that fix bad breath. Your saliva starts flowing again within days. Healthy saliva washes away the bacteria that cause foul smells. The bacteria in your mouth gradually shifts to healthier types. By 2 to 4 weeks after quitting, your breath improves dramatically. Many people notice it's completely gone by 8 weeks.
+When you quit, several things happen that fix bad breath. Your saliva starts flowing again within days. Healthy saliva washes away the bacteria that cause foul smells.
+
+The bacteria in your mouth gradually shifts to healthier types. By 2 to 4 weeks after quitting, your breath improves dramatically. Many people notice it's completely gone by 8 weeks.
 
 Better breath is huge for your confidence. You'll feel more comfortable talking to people, going on dates, and being around your family and friends. This confidence boost makes a real difference in supporting your decision to stay quit.
 
@@ -101,13 +105,12 @@ Knowing what to expect helps you stay motivated. Here's roughly when you'll see 
 
 When you quit smoking, your mouth tells an amazing story of healing. Your gums get pinker, you taste food again, your breath improves, and you can see real progress week by week. These visible, daily changes are some of the best motivation for staying smoke-free, because you're not waiting years to see the benefits—you see them in weeks. Your dentist wants to support your quitting journey and help you track these improvements. Having concrete, personal reasons to stay quit (beyond just health statistics) makes all the difference for long-term success.
 
-## Key Takeaway
-
-Your mouth starts showing real improvements within days to weeks of quitting smoking, including healthier gums, better taste, fresher breath, and faster healing. These visible, daily changes give you powerful motivation to stay smoke-free.
+> **Key Takeaway:** Your mouth starts showing real improvements within days to weeks of quitting smoking, including healthier gums, better taste, fresher breath, and faster healing. These visible, daily changes give you powerful motivation to stay smoke-free.
 
 ## Related Articles
 
-- [Smoking Effects on Teeth and Gums: Damage and Reversal](/article/smoking-effects-on-teeth-and-gums-damage-and-reversal/)
-- [Cost of Bleeding Gums Solutions](/article/cost-of-bleeding-gums-solutions/)
-- [Fluoride Varnish Application: Professional-Strength Treatment](/article/fluoride-varnish-application-professional-strength-treatment/)
+- [Why Cavity Prevention Methods Matter for Lifelong Oral](/article/why-cavity-prevention-methods-matters.html)
+- [Electric Toothbrush Safety](/article/electric-toothbrush-safety-gum-recession-risks.html)
+- [Fluoride Varnish Application: Professional-Strength](/article/fluoride-varnish-application-professional-strength-treatment.html)
+- [Cost of Oral Health Habits](/article/cost-of-oral-health-habits.html)
 

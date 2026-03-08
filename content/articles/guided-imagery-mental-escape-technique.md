@@ -131,7 +131,7 @@ Your dentist can provide you with guided imagery recordings for home use after y
 
 Studies show that patients using post-operative guided imagery need less pain medication and recover faster. They also feel more in control and less anxious about their healing.
 
-Over time, as you successfully use guided imagery at appointments, something interesting happens. Your brain gradually stops associating the dentist's office with threat and starts associating it with safety. You become less anxious at your next appointment, and even less anxious at the one after that. Your baseline dental anxiety actually decreases. [Learn more about managing anxiety in different situations](/article/first-dental-visit-age-and-preparation-tips.html).
+Over time, as you successfully use guided imagery at appointments, something interesting happens. Your brain gradually stops associating the dentist's office with threat and starts associating it with safety. You become less anxious at your next appointment, and even less anxious at the one after that. Your baseline dental anxiety actually decreases. [First Dental Visit: Age and Preparation Tips](/article/first-dental-visit-age-and-preparation-tips.html).
 
 ## Busting Common Myths
 
@@ -159,12 +159,13 @@ Your dentist will discuss the best approach for your specific situation.
 
 Guided imagery is a powerful, proven tool that lets you use your own mind to create comfort during dental treatment. By focusing your attention on a peaceful place or experience, you activate your body's natural relaxation system and reduce anxiety without medication. Combined with proper numbing and good communication from your dentist, guided imagery can transform your dental experience from stressful to calm. Whether you practice ahead of time or learn it on the spot, most people find it genuinely helpful and even enjoyable. Your brain has the power to help you relax—guided imagery is simply giving your dentist permission to help guide that process.
 
-## Key Takeaway
-
-Guided imagery uses your imagination to activate your body's relaxation system during dental treatment, reducing anxiety by 25-40 percent without medication. By focusing your mind on a peaceful place while your dentist works, you keep your brain from amplifying dental anxiety, making treatment more comfortable and faster. Most people experience noticeable benefits, especially with prior practice.
+> **Key Takeaway:** Guided imagery uses your imagination to activate your body's relaxation system during dental treatment, reducing anxiety by 25-40 percent without medication. By focusing your mind on a peaceful place while your dentist works, you keep your brain from amplifying dental anxiety, making treatment more comfortable and faster. Most people experience noticeable benefits, especially with prior practice.
 
 ## Related Articles
 
-- [Dental Procedure Planning: What You Need to Know](/article/dental-procedure-planning-what-you-need-to-know.html)
-- [First Dental Visit: Age and Preparation Tips](/article/first-dental-visit-age-and-preparation-tips.html)
 - [Benefits of Pain Management Surgery](/article/benefits-of-pain-management-surgery.html)
+- [Pediatric Anesthesia Sedation in Young Kids](/article/pediatric-anesthesia-sedation-in-young-kids.html)
+- [Dental Phobia Origins and Contributing Factors](/article/phobia-origin-exploration.html)
+- [When Your Child Screams at the Dentist](/article/dental-anxiety-in-children-overcoming-fear.html)
+- [Dental Anesthesia Timeline: Onset, Duration, and](/article/timeline-for-anesthesia-options.html)
+

@@ -33,13 +33,13 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/24851640
 ---
 
-Preparing properly for your dental surgery sets you up for success. Most preparation is simple: following a few basic rules dramatically improves outcomes and reduces complications. Learning more about [managing pain after dental surgery](/article/how-to-pain-management-surgery.html) can help you understand this better.
+Preparing properly for your dental surgery sets you up for success. Most preparation is simple: following a few basic rules dramatically improves outcomes and reduces complications. Learning more about [Managing Pain After Dental Surgery](/article/how-to-pain-management-surgery.html) can help you understand this better.
 
 ## Medications Before Surgery
 
 Tell your dentist about all medications and supplements you're taking. Be especially honest about blood thinners (like warfarin or aspirin), diabetes medications, and blood pressure medicines. Your dentist will let you know whether to continue or stop each one before surgery.
 
-Most blood pressure and heart medications continue as normal. Blood thinner medications usually continue too unless your dentist specifically says to stop them. Learning more about [post-operative instructions: your recovery checklist](/article/how-to-post-operative-instructions.html) can help you understand this better. Diabetes medications might need adjustment depending on your fasting status—ask your dentist. Some medications can affect bleeding or anesthesia, so your dentist needs the full list.
+Most blood pressure and heart medications continue as normal. Blood thinner medications usually continue too unless your dentist specifically says to stop them. Learning more about [Post-operative Instructions: Your Recovery Checklist](/article/how-to-post-operative-instructions.html) can help you understand this better. Diabetes medications might need adjustment depending on your fasting status—ask your dentist. Some medications can affect bleeding or anesthesia, so your dentist needs the full list.
 
 ## Before Surgery Day
 
@@ -57,8 +57,6 @@ Leave valuables at home. Bring your insurance card and ID.
 
 Many people feel nervous before surgery. That's completely normal. Tell your dentist about your anxiety—they can help. Sometimes mild anxiety medication before surgery helps patients feel more comfortable. Don't try to hide your nervousness; communication helps your dentist take care of you better.
 
-> **Key Takeaway:** Good pre-surgery preparation means taking medications as directed, disclosing your full medical history, avoiding heavy meals, and being honest about your anxiety.
-
 ## Day of Surgery
 
 Have someone drive you. You won't be safe driving after surgery, even if you feel okay.
@@ -71,17 +69,7 @@ Wear comfortable clothes.
 
 Be prepared to answer health questions again—your dentist will confirm your medical history before surgery.
 
-## Conclusion
-
-Pre-surgery preparation is straightforward: take your medications, be honest about your health and medications, eat lightly, sleep well, and have a ride home arranged. These simple steps help your surgery go smoothly and set up good recovery.
-
-## Related Articles You May Find Helpful
-
-- [Managing Pain After Dental Surgery](/article/how-to-pain-management-surgery.html)
-- [Post-Operative Instructions: Your Recovery Checklist](/article/how-to-post-operative-instructions.html)
-- [Your Tooth Extraction Recovery Timeline](/article/how-to-oral-surgery-recovery-timeline.html)
-
-Sedating medications, muscle relaxants, and opioids should be identified and discussed with anesthesia providers regarding adjustment or avoidance on surgical day. Herbal supplements (echinacea, garlic, ginkgo, ginseng, St. John's wort) can affect bleeding, inflammation, and anesthetic metabolism; patients should discontinue at least 1-2 weeks pre-operatively if possible. Metformin can be continued; insulin should be adjusted based on fasting requirements and blood glucose.
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Antibiotic Prophylaxis Assessment
 
@@ -126,3 +114,18 @@ Trusted companions in the pre-operative area reduce anxiety; most facilities per
 Patients should receive written pre-operative instructions including NPO requirements, when to arrive, what to bring (insurance information, photo ID, list of medications), what to wear (comfortable clothing, minimal jewelry), and transportation arrangements. Patients under general anesthesia or IV sedation cannot drive for 24 hours post-operatively and must arrange alternative transportation. Instructions should specify medication timing regarding fasting and which medications to take or avoid on surgery day.
 
 Patients should be instructed to brush teeth gently the night before but not the morning of surgery (excepting NPO period). Minimal makeup, nail polish, and jewelry should be worn to facilitate monitoring and emergency procedures. Patients should understand that jewelry will be removed before anesthesia and may be lost. Final contact before surgery—phone call or text confirmation—improves compliance and reduces anxiety.
+
+## Conclusion
+
+Pre-surgery preparation is straightforward: take your medications, be honest about your health and medications, eat lightly, sleep well, and have a ride home arranged. These simple steps help your surgery go smoothly and set up good recovery.
+
+> **Key Takeaway:** Good pre-surgery preparation means taking medications as directed, disclosing your full medical history, avoiding heavy meals, and being honest about your anxiety.
+
+## Related Articles
+
+- [Your Tooth Extraction Recovery Timeline](/article/how-to-oral-surgery-recovery-timeline.html)
+- [Anesthesia Options: Complete Guide](/article/anesthesia-options-complete-guide.html)
+- [What Are the Success Rates for Oral Surgery](/article/how-to-surgical-success-rates.html)
+- [Common Misconceptions About Post-Surgery Care](/article/common-misconceptions-about-post-surgery-care.html)
+- [Post-Operative Instructions After Oral Surgery](/article/post-operative-instructions-complete-guide.html)
+

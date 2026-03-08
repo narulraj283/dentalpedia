@@ -93,7 +93,7 @@ The best motivator is seeing results. When you come back for your next cleaning 
 
 If you've been doing everything right and your gingivitis isn't improving, don't get discouraged. About 15 to 20 percent of people need extra help from a specialist called a periodontist. These are gum experts who have more intensive treatments available.
 
-Learn more about maintaining your gum health long-term with [periodontal maintenance and ongoing gum care](/article/periodontal-maintenance-long-term-gum-health-management.html). If you're worried about complications, read about [what to watch for after procedures like tooth extraction](/article/complications-after-tooth-extraction-what-to-watch-for.html). And if you want to learn about materials that support your oral health, explore [biocompatible dental materials](/article/biological-dentistry-biocompatible-materials.html).
+Learn more about maintaining your gum health long-term with [Periodontal Maintenance and Ongoing Gum Care](/article/periodontal-maintenance-long-term-gum-health-management.html). If you're worried about complications, read about [Complications After Tooth Extraction: Warning Signs](/article/complications-after-tooth-extraction-what-to-watch-for.html). And if you want to learn about materials that support your oral health, explore [Biocompatible Dental Materials](/article/biological-dentistry-biocompatible-materials.html).
 
 ## Conclusion
 
@@ -101,13 +101,13 @@ Gingivitis is one of those dental problems where you actually have power. Unlike
 
 The key is starting now and staying consistent. Your gums will thank you.
 
-## Key Takeaway
-
-Gingivitis is reversible—you can get your gums back to healthy with consistent brushing, flossing, regular dental cleanings, and sometimes antimicrobial rinses. Most people see significant improvement in two to four weeks when they commit to good home care and professional treatment.
+> **Key Takeaway:** Gingivitis is reversible—you can get your gums back to healthy with consistent brushing, flossing, regular dental cleanings, and sometimes antimicrobial rinses. Most people see significant improvement in two to four weeks when they commit to good home care and professional treatment.
 
 ## Related Articles
 
-- [Long-term gum health maintenance and periodontal care](/article/periodontal-maintenance-long-term-gum-health-management.html)
-- [Complications after tooth extraction: what to expect](/article/complications-after-tooth-extraction-what-to-watch-for.html)
-- [Biocompatible dental materials for safer treatment](/article/biological-dentistry-biocompatible-materials.html)
+- [Severe Gum Bleeding: When to Seek Help](/article/severe-gum-bleeding-when-to-seek-help.html)
+- [Gingivitis Progression: From Health to Disease](/article/gingivitis-progression-from-health-to-disease.html)
+- [Clinical Attachment Loss](/article/clinical-attachment-loss-actual-disease-measurement.html)
+- [Area-Specific Curettes: Gracey Instrument Design and](/article/area-specific-curettes-gracey-instruments.html)
+- [Refractory Periodontitis Treatment Resistant Disease](/article/refractory-periodontitis-treatment-resistant-disease.html)
 

@@ -1,41 +1,55 @@
 ---
-title: "Oral Soft Tissue Injuries: Emergency Management and"
-slug: tissue-trauma-soft-tissue-injury
 category: Emergency Dentistry
 category_slug: emergency-dentistry
-excerpt: "Oral soft tissue injuries including lacerations, contusions, and thermal burns require immediate hemostasis, primary wound closure with meticulous."
 date: 2026-03-05
+excerpt: Oral soft tissue injuries including lacerations, contusions, and thermal
+  burns require immediate hemostasis, primary wound closure with meticulous.
 read_time: 12 min
+references:
+- title: 'Croucher R, Marcenes W. Socioeconomic inequalities in childhood oral health:
+    a review. Comm Dent Health. 2003;20(1):15-22.'
+  url: https://pubmed.ncbi.nlm.nih.gov/12650046
+- title: 'Lin DM, Shugars DC, Utter B, et al. Emergency Department Visits: Dental
+    Care for Oral Health Emergencies. J Public Health Dent. 2000;60(2):101-108.'
+  url: https://pubmed.ncbi.nlm.nih.gov/10846118
+- title: Herlofson BB, Nermoe EB. Oral soft tissue injuries caused by sharp food in
+    elderly subjects. Acta Odontol Scand. 2002;60(4):208-212.
+  url: https://pubmed.ncbi.nlm.nih.gov/12183448
+- title: Forman DL, Soderstrom CA, Cole FH, et al. The use of absorbable sutures in
+    traumatic intraoral lacerations. Arch Surg. 1988;123(4):438-440.
+  url: https://pubmed.ncbi.nlm.nih.gov/3355920
+- title: 'Sapp JP, Eversole LR, Wysocki GP. Contemporary Oral and Maxillofacial Pathology.
+    2nd ed. St. Louis: Mosby; 2004.'
+  url: https://pubmed.ncbi.nlm.nih.gov/0
+- title: Meng SH, Chueh LH, Chen SC, et al. Bacterial community in the apical region
+    of endodontically treated teeth with Papilloma virus infection. J Endod. 2010;36(9):1505-1510.
+  url: https://pubmed.ncbi.nlm.nih.gov/20728723
+- title: Schilling MD, Chung HJ, Suh JD. Soft tissue injuries of the oral cavity.
+    Emerg Med Clin North Am. 2013;31(1):197-211.
+  url: https://pubmed.ncbi.nlm.nih.gov/23137635
+- title: 'Kaspi BP, Goodwin R, Grau CH. Acute soft tissue injuries: An overview of
+    emergency management. Oral Maxillofac Surg Clin North Am. 2010;22(2):233-240.'
+  url: https://pubmed.ncbi.nlm.nih.gov/20494275
+- title: Chen MY, Chan CP, Chang MC, et al. Dental implant placement after bone reconstruction
+    following tumor removal. J Dent Sci. 2012;7(4):365-375.
+  url: https://pubmed.ncbi.nlm.nih.gov/0
+- title: 'Keramati B, Hashemipour MA, Mehrabkhani M, et al. Traumatic dental injuries
+    in children: clinical aspects and multidisciplinary management. Pediatr Dent J.
+    2009;19(2):62-70.'
+  url: https://pubmed.ncbi.nlm.nih.gov/0
+reviewed: true
 reviewer_specialty: General Dentistry
+slug: tissue-trauma-soft-tissue-injury
 subcategory: Emergency Overview
 subcategory_slug: overview-emergency
-reviewed: true
-references:
-  - title: "Croucher R, Marcenes W. Socioeconomic inequalities in childhood oral health: a review. Comm Dent Health. 2003;20(1):15-22."
-    url: https://pubmed.ncbi.nlm.nih.gov/12650046
-  - title: "Lin DM, Shugars DC, Utter B, et al. Emergency Department Visits: Dental Care for Oral Health Emergencies. J Public Health Dent. 2000;60(2):101-108."
-    url: https://pubmed.ncbi.nlm.nih.gov/10846118
-  - title: "Herlofson BB, Nermoe EB. Oral soft tissue injuries caused by sharp food in elderly subjects. Acta Odontol Scand. 2002;60(4):208-212."
-    url: https://pubmed.ncbi.nlm.nih.gov/12183448
-  - title: "Forman DL, Soderstrom CA, Cole FH, et al. The use of absorbable sutures in traumatic intraoral lacerations. Arch Surg. 1988;123(4):438-440."
-    url: https://pubmed.ncbi.nlm.nih.gov/3355920
-  - title: "Sapp JP, Eversole LR, Wysocki GP. Contemporary Oral and Maxillofacial Pathology. 2nd ed. St. Louis: Mosby; 2004."
-    url: https://pubmed.ncbi.nlm.nih.gov/0
-  - title: "Meng SH, Chueh LH, Chen SC, et al. Bacterial community in the apical region of endodontically treated teeth with Papilloma virus infection. J Endod. 2010;36(9):1505-1510."
-    url: https://pubmed.ncbi.nlm.nih.gov/20728723
-  - title: "Schilling MD, Chung HJ, Suh JD. Soft tissue injuries of the oral cavity. Emerg Med Clin North Am. 2013;31(1):197-211."
-    url: https://pubmed.ncbi.nlm.nih.gov/23137635
-  - title: "Kaspi BP, Goodwin R, Grau CH. Acute soft tissue injuries: An overview of emergency management. Oral Maxillofac Surg Clin North Am. 2010;22(2):233-240."
-    url: https://pubmed.ncbi.nlm.nih.gov/20494275
-  - title: "Chen MY, Chan CP, Chang MC, et al. Dental implant placement after bone reconstruction following tumor removal. J Dent Sci. 2012;7(4):365-375."
-    url: https://pubmed.ncbi.nlm.nih.gov/0
-  - title: "Keramati B, Hashemipour MA, Mehrabkhani M, et al. Traumatic dental injuries in children: clinical aspects and multidisciplinary management. Pediatr Dent J. 2009;19(2):62-70."
-    url: https://pubmed.ncbi.nlm.nih.gov/0
+title: 'Oral Soft Tissue Injuries: Emergency Management'
 ---
 
 ## Introduction
 
-Mouth and tongue injuries happen to everyone eventually—from a sports accident, a fall, or even biting your cheek while chewing. Some injuries are minor and heal on their own in a few days. Others need immediate professional care to prevent permanent scarring and infection. The good news? Mouth wounds heal incredibly fast thanks to the rich blood supply in your mouth and the special properties of mouth tissue. If you act quickly and know what to do in the first few minutes, most mouth injuries recover beautifully. This guide will help you recognize different types of mouth injuries, know when to seek help, and care for the wound while it heals.
+Mouth and tongue injuries happen to everyone eventually—from a sports accident, a fall, or even biting your cheek while chewing. Some injuries are minor and heal on their own in a few days. Others need immediate professional care to prevent permanent scarring and infection.
+
+The good news? Mouth wounds heal incredibly fast thanks to the rich blood supply in your mouth and the special properties of mouth tissue. If you act quickly and know what to do in the first few minutes, most mouth injuries recover beautifully. This guide will help you recognize different types of mouth injuries, know when to seek help, and care for the wound while it heals.
 
 ## Types of Mouth Injuries: What You're Actually Dealing With
 
@@ -59,7 +73,9 @@ The first few minutes are critical. Mouth wounds bleed heavily because of all th
 
 1. Remain calm—even though there's blood, most mouth bleeds look worse than they are
 2. Gently rinse your mouth with cool (not ice-cold) water to see the wound clearly
-3. Check for loose teeth, bone chips, or debris stuck in the wound and remove carefully
+3.
+
+Check for loose teeth, bone chips, or debris stuck in the wound and remove carefully
 4. Apply direct pressure with a clean cloth for 5-10 minutes without checking constantly
 5. If bleeding continues after 10 minutes, apply a cloth soaked with a small amount of salt water
 
@@ -77,8 +93,8 @@ If bleeding won't stop after 20 minutes of pressure, or if you're swallowing a l
 - Part of your mouth, lip, or tongue is torn off or missing
 - You have difficulty breathing or swallowing
 - The injury happened because of a serious fall or impact to your jaw
-- You lost a tooth—see [knocked-out tooth: what to do in the first hour](/article/knocked-out-tooth-what-to-do-in-the-first-hour.html) for urgent care steps
-- You think your tongue may be partially displaced—check [tooth luxation: partial displacement](/article/tooth-luxation-partial-displacement.html) for guidance
+- You lost a tooth—see [Knocked-out Tooth: What to Do in the First Hour](/article/knocked-out-tooth-what-to-do-in-the-first-hour.html) for urgent care steps
+- You think your tongue may be partially displaced—check [Tooth Luxation: Partial Displacement](/article/tooth-luxation-partial-displacement.html) for guidance
 
 Smaller cuts, scrapes, and bruises can often be managed at home with basic care.
 
@@ -191,20 +207,19 @@ Mouth burns from hot coffee, soup, or pizza feel terrible but usually heal quick
 
 **Severe burns** (rare, from caustic chemicals): Rinse immediately for 30-60 minutes with water and seek emergency care.
 
-
-
 ## Conclusion
 
 Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding oral soft tissue injuries: emergency management and helps you feel more confident when discussing options with your dentist and making decisions about your care.
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Most mouth injuries heal beautifully thanks to your mouth's incredible blood supply and healing power. The key is acting fast (especially with bleeding), keeping it clean, and knowing when to get professional help. Minor scrapes and bruises heal on their own; deep cuts and significant trauma need immediate dental care. When in doubt, call your dentist or go to urgent care. Better safe than sorry, and early treatment prevents permanent scarring.
+> **Key Takeaway:** Most mouth injuries heal beautifully thanks to your mouth's incredible blood supply and healing power. The key is acting fast (especially with bleeding), keeping it clean, and knowing when to get professional help. Minor scrapes and bruises heal on their own; deep cuts and significant trauma need immediate dental care. When in doubt, call your dentist or go to urgent care. Better safe than sorry, and early treatment prevents permanent scarring.
 
 ## Related Articles
 
-- [Finding Emergency Dental Care Options Beyond Hours](/article/finding-emergency-dental-care-options-beyond-hours.html)
-- [Knocked-Out Tooth: What to Do in the First Hour](/article/knocked-out-tooth-what-to-do-in-the-first-hour.html)
-- [Tooth Luxation: Partial Displacement](/article/tooth-luxation-partial-displacement.html)
+- [Emergency Dental Pain](/article/emergency-dental-pain-complete-guide.html)
+- [Risk and Concerns with Emergency Tooth Pain](/article/risk-and-concerns-with-emergency-tooth-pain.html)
+
+- [Finding Emergency Dental Care: Options Beyond Hours](/article/finding-emergency-dental-care-options-beyond-hours.html)
+- [Knocked Out Tooth? Save It Now - Your Action Plan](/article/knocked-out-tooth-what-to-do-in-the-first-hour.html)
+- [Tooth Luxation and Partial Displacement - Emergency](/article/tooth-luxation-partial-displacement.html)

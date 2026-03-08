@@ -25,7 +25,7 @@ references:
 
 A "gummy smile" is when more than 3mm of gum tissue shows when you smile. About one in five to three in seven people have this issue, and it's one of the most common cosmetic concerns we hear about. The good news? There are multiple ways to fix it, ranging from affordable non-surgical options to more involved surgical corrections. Let's explore the options and costs.
 
-The reason you have a gummy smile depends on what caused it. Learning more about [cost of teeth alignment alternatives](/article/cost-of-teeth-alignment-alternatives.html) can help you understand this better. Maybe your teeth are too short, your upper jaw is positioned too far down, your upper lip is short, or your gum tissue is just naturally thick. Finding out the cause helps you choose the right (and most cost-effective) solution.
+The reason you have a gummy smile depends on what caused it. Learning more about [Cost of Teeth Alignment Alternatives](/article/cost-of-teeth-alignment-alternatives.html) can help you understand this better. Maybe your teeth are too short, your upper jaw is positioned too far down, your upper lip is short, or your gum tissue is just naturally thick. Finding out the cause helps you choose the right (and most cost-effective) solution.
 
 ## Quick Non-Surgical Option: Dermal Fillers
 
@@ -33,7 +33,9 @@ If you want a quick, temporary fix with minimal fuss, dermal fillers are your an
 
 A single syringe of dermal filler costs $300-600. You usually need 1-2 syringes for good results, so $300-1,200 total. The procedure takes 15-30 minutes and you can go back to normal activities immediately (though you might have some bruising for a few days). The best part? Results are reversible if you don't like them.
 
-The downside: results last only 6-12 months. After that, your body absorbs the filler and you need to do it again. So annual maintenance costs $300-1,200 every year. Over five years, you're spending $1,500-6,000. That adds up, but it's still less than surgery. Fillers work best if your main issue is a short upper lip, not a jaw position problem.
+The downside: results last only 6-12 months. After that, your body absorbs the filler and you need to do it again. So annual maintenance costs $300-1,200 every year.
+
+Over five years, you're spending $1,500-6,000. That adds up, but it's still less than surgery. Fillers work best if your main issue is a short upper lip, not a jaw position problem.
 
 ## Gum Tissue Reduction (Gingivectomy)
 
@@ -57,13 +59,15 @@ If your main issue is that your upper lip is just naturally short, surgical lip 
 
 The procedure costs $2,500-4,000 in the surgical facility. If you choose IV sedation instead of just local anesthesia, add another $500-1,000. Total: $3,000-4,500. The surgery takes about 45-90 minutes, and recovery is about 1-2 weeks. Insurance usually classifies this as cosmetic and doesn't cover it, so you pay the full amount.
 
-The great news: results are permanent. The incision is hidden inside your lip where nobody can see the scar. Your smile improvement is noticeable right away and stabilizes over 2-3 months as the tissue heals. Less than 5% of people need a revision. [Check out other ways to enhance your smile](/article/cost-of-teeth-alignment-alternatives.html) if you want to explore different options.
+The great news: results are permanent. The incision is hidden inside your lip where nobody can see the scar. Your smile improvement is noticeable right away and stabilizes over 2-3 months as the tissue heals. Less than 5% of people need a revision. Check out other ways to enhance your smile if you want to explore different options.
 
 ## Major Surgical Correction (Jaw Surgery)
 
 If your gummy smile is caused by your upper jaw being positioned too low (which is more common than you'd think), serious surgical correction might be needed. This requires moving your actual upper jawbone up slightly through a procedure called an osteotomy. It's major surgery that requires an oral surgeon and an orthodontist working together.
 
-First, you get braces (pre-surgical orthodontics) for 8-12 months costing $3,000-6,000. Then you need CT scans for surgical planning ($300-600). The surgery itself costs $4,000-8,000, plus hospital facility fees of $2,000-3,500. If you need IV anesthesia, add $500-1,000. You'll need an overnight hospital stay, adding another $1,500-3,000. After surgery, post-surgical orthodontics for 3-6 months costs another $1,000-2,000.
+First, you get braces (pre-surgical orthodontics) for 8-12 months costing $3,000-6,000. Then you need CT scans for surgical planning ($300-600). The surgery itself costs $4,000-8,000, plus hospital facility fees of $2,000-3,500.
+
+If you need IV anesthesia, add $500-1,000. You'll need an overnight hospital stay, adding another $1,500-3,000. After surgery, post-surgical orthodontics for 3-6 months costs another $1,000-2,000.
 
 Total cost: $8,000-16,000. Add wisdom tooth extractions (often done at the same time) for another $500-1,500. This is significant money, but if your gummy smile is from a jaw position problem, this is the permanent solution.
 
@@ -87,16 +91,20 @@ Here's how to think about it: non-surgical options like fillers cost less upfron
 
 Talk to your dentist about which underlying cause your smile has. That determines the right fix. Someone with overgrown gums needs a different solution than someone with a short lip or low jaw position.
 
+
+For more information, see [Your Guide to Smile Transformation and Cosmetic Dental](/article/benefits-of-before-and-after-smile.html).
+
 ## Conclusion
 
 Fixing a gummy smile costs anywhere from $300 for temporary fillers to $16,000 for major jaw surgery, depending on the cause and your preferred solution. Non-surgical options are cheaper but temporary. Surgical options cost more but are permanent. The best choice depends on what's causing your gummy smile and your budget. Talk to your dentist about the root cause of your smile and which fix is right for your specific situation.
 
+> **Key Takeaway:** A 'gummy smile' is when more than 3mm of gum tissue shows when you smile.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Cost of Teeth Alignment Alternatives](/article/cost-of-teeth-alignment-alternatives.html)
 - [Cost of Invisible Braces Benefits](/article/cost-of-invisible-braces-benefits.html)
 - [Cost of Smile Confidence Boost](/article/cost-of-smile-confidence-boost.html)
+- [Systematic Approach to Smile Improvement Through](/article/best-practices-for-smile-improvement-options.html)
+- [Cosmetic Gum Shaping: A Complete Patient Guide](/article/benefits-of-cosmetic-gum-shaping.html)
+- [Why Smile Makeover Planning Matters](/article/why-smile-makeover-planning-matters.html)
 
-> **Key Takeaway:** A gummy smile can be fixed with options ranging from $300 temporary fillers to $16,000 permanent surgery—the best choice depends on what's causing your smile and your budget.

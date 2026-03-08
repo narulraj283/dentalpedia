@@ -40,7 +40,7 @@ reviewer_specialty: Periodontist
 slug: root-planing-smoothing-root-surfaces
 subcategory: Periodontic Overview
 subcategory_slug: overview-perio
-title: Root Planing - Smoothing Root Surfaces in Periodontal...
+title: Root Planing Smoothing Root Surfaces
 ---
 
 ## What Is Root Planing and Why Do You Need It?
@@ -81,7 +81,7 @@ Modern root planing usually combines hand and ultrasonic instruments because the
 
 Here's the most important part: root planing works only if you maintain excellent oral hygiene afterward and keep up with professional maintenance visits. Studies show that if you have root planing but then don't floss, don't brush well, and skip your follow-up appointments, your gum pockets return to their diseased state within 2-3 months. The bacteria come back, and you're back where you started.
 
-If you do maintain good home care (brushing twice daily, flossing daily, and visiting your dentist every 3-4 months), the improvements from root planing last. You keep your teeth, your gums stay healthier, and you avoid more serious problems like bone loss and tooth loss. For more on this topic, see our guide on [Periodontal Maintenance Long Term Gum...](/article/periodontal-maintenance-long-term-gum-health-management.html).
+If you do maintain good home care (brushing twice daily, flossing daily, and visiting your dentist every 3-4 months), the improvements from root planing last. You keep your teeth, your gums stay healthier, and you avoid more serious problems like bone loss and tooth loss. For more on this topic, see our guide on [Periodontal Maintenance Protocols](/article/periodontal-maintenance-long-term-gum-health-management.html).
 
 ## Why Multiple Appointments Are Necessary
 
@@ -99,12 +99,12 @@ After root planing, your gum disease is treated but not cured. Periodontitis is 
 
 Root planing is a crucial treatment for gum disease that removes the bacteria and toxins causing your gums to fail. By smoothing your root surfaces, your dentist allows your gums and bone to heal and reattach. The success of root planing depends equally on what your dentist does and what you do afterward through daily oral hygiene and regular maintenance visits. Understanding that this treatment requires ongoing commitment helps you appreciate its importance and be motivated to maintain the results.
 
-## Key Takeaway
-
-Root planing removes bacteria and toxins from below your gum line and smoothes root surfaces to allow healing, but success depends on your daily brushing/flossing and regular maintenance visits to prevent disease from returning.
+> **Key Takeaway:** Root planing removes bacteria and toxins from below your gum line and smoothes root surfaces to allow healing, but success depends on your daily brushing/flossing and regular maintenance visits to prevent disease from returning.
 
 ## Related Articles
 
-- [Gingival Sulcus Normal Gum Depth](/article/gingival-sulcus-normal-gum-depth.html)
-- [Periodontal Maintenance Long-Term Gum Health Management](/article/periodontal-maintenance-long-term-gum-health-management.html)
 - [Risk and Concerns with Bleeding Gums Solutions](/article/risk-and-concerns-with-bleeding-gums-solutions.html)
+
+- [Platelet-Derived Growth Factor (PDGF) Benefits](/article/platelet-derived-growth-factor-pdgf-benefit.html)
+- [Chlorhexidine Irrigation: Subgingival Antimicrobial](/article/chlorhexidine-irrigation-antimicrobial-solution.html)
+

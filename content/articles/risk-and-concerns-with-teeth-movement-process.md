@@ -52,7 +52,9 @@ When these zones develop, tooth movement actually slows down or stops temporaril
 
 Your alveolar bone is the specialized bone that holds your teeth in place. During orthodontic movement, this bone undergoes significant remodeling. On the pressure side of your tooth (where the brace or aligner is pushing), bone is resorbed to allow movement. On the tension side (where the tooth is being pulled), new bone forms.
 
-In ideal situations, the amount of bone lost equals the amount of new bone created, so your overall bone level stays the same. However, this doesn't always happen perfectly. If your treatment extends over many years, or if forces are excessive, your bone level can permanently decrease. Adults are especially at risk for this because their bone remodels more slowly than teenagers' bone. Extending treatment unnecessarily increases your exposure to resorptive forces. For more on this topic, see our guide on [Implant Orthodontics Anchoring To Imp...](/article/implant-orthodontics-anchoring-to-implants.html).
+In ideal situations, the amount of bone lost equals the amount of new bone created, so your overall bone level stays the same. However, this doesn't always happen perfectly. If your treatment extends over many years, or if forces are excessive, your bone level can permanently decrease.
+
+Adults are especially at risk for this because their bone remodels more slowly than teenagers' bone. Extending treatment unnecessarily increases your exposure to resorptive forces. For more on this topic, see our guide on [Implant Orthodontics: Anchoring to Implants](/article/implant-orthodontics-anchoring-to-implants.html).
 
 Your orthodontist can monitor bone levels using X-rays taken at the beginning and end of treatment. For complex cases, they might take X-rays during treatment to ensure bone loss isn't becoming excessive.
 
@@ -78,12 +80,13 @@ Your orthodontist should take X-rays periodically—typically every 12-24 months
 
 Orthodontic tooth movement requires your body to remodel bone and periodontal tissues, and this biological process carries inherent risks including root shortening and bone loss. Small amounts of these changes are usually clinically acceptable, but excessive amounts can compromise your teeth's long-term health and lifespan. Minimizing these risks requires careful force control by your orthodontist, consistent patient compliance, and regular monitoring with clinical examination and X-rays. When properly managed, most patients complete orthodontic treatment with minimal adverse effects.
 
-## Key Takeaway
-
-Your orthodontist monitors for root shortening and bone loss with X-rays and clinical exams—not all patients experience significant root changes, but knowing your personal risk factors and following treatment instructions carefully protects your teeth's long-term health and helps you maintain a confident smile throughout and after your orthodontic journey.
+> **Key Takeaway:** Your orthodontist monitors for root shortening and bone loss with X-rays and clinical exams—not all patients experience significant root changes, but knowing your personal risk factors and following treatment instructions carefully protects your teeth's long-term health and helps you maintain a confident smile throughout and after your orthodontic journey.
 
 ## Related Articles
 
-- [Risk and Concerns with Clear Aligner Comparison](/article/risk-and-concerns-with-clear-aligner-comparison.html)
 - [Risk and Concerns with Braces Care Instructions](/article/risk-and-concerns-with-braces-care-instructions.html)
 - [How to Traditional Versus Invisible Braces](/article/how-to-traditional-vs-invisible-braces.html)
+
+- [Loose Bracket Emergency: What to Do Right Now](/article/loose-bracket-emergency-what-to-do-immediately.html)
+- [Invisible Braces Benefits: What You Really Need to Know](/article/invisible-braces-benefits-what-you-need-to-know.html)
+

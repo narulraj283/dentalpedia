@@ -77,7 +77,9 @@ Instead of pulling teeth, your orthodontist might try one or more of these alter
 
 **Expanding your arches:** If your teeth are crowded because your jaw is a bit narrow, your orthodontist can gradually widen your arch. This works especially well if you have a really narrow upper jaw. You can gain 2-6mm of space this way. Your body is pretty amazing—when gentle, consistent pressure is applied, your bones actually respond and expand. This space stays once your treatment is done.
 
-**Shaving between teeth:** This sounds weird but it's actually pretty clever. Your orthodontist can carefully remove a tiny bit of the outer layer of enamel from between your teeth where they touch. It's not drilled away aggressively—it's gently shaved off. This can gain about 1-2mm of space per side. The enamel removed is super thin (think of it as much thinner than the thickness of a pencil point), so your tooth stays strong. You can gain up to about 4mm total this way. This approach is reversible in terms of cosmetics—your teeth still look and function great.
+**Shaving between teeth:** This sounds weird but it's actually pretty clever. Your orthodontist can carefully remove a tiny bit of the outer layer of enamel from between your teeth where they touch. It's not drilled away aggressively—it's gently shaved off.
+
+This can gain about 1-2mm of space per side. The enamel removed is super thin (think of it as much thinner than the thickness of a pencil point), so your tooth stays strong. You can gain up to about 4mm total this way. This approach is reversible in terms of cosmetics—your teeth still look and function great.
 
 **Moving your back teeth back:** With special anchors in your mouth, your orthodontist can actually move your back teeth further back without them pulling your front teeth forward. This creates space without extraction and without changing how your front teeth look. This can free up 3-5mm of space.
 
@@ -117,16 +119,19 @@ Your orthodontist can now use 3D digital planning to show you what your teeth wi
 
 About 25-30% of modern braces patients need extractions. Your orthodontist will only recommend extraction if it's truly necessary for your specific situation. Before agreeing to extraction, make sure you understand exactly why it's recommended and what alternatives have been considered. If you're not comfortable with extraction, ask about the modern alternatives—there are usually several options available.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Most people who need braces don't need tooth extraction. Modern orthodontists have many tools to create space: expansion, interdental reduction, back tooth movement, and skeletal anchoring. Extraction is only recommended when these alternatives won't achieve your treatment goals. Ask your orthodontist to explain why extraction is recommended for your specific situation and explore alternative approaches before committing to extraction.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Tooth extraction for braces is less common now. Learn when it's necessary and what modern alternatives exist to create space without pulling teeth.
 
-- [Accelerated Orthodontia: Fast-Track Braces](/article/accelerated-orthodontia-fast-track-braces.html)
-- [Accelerated Orthodontics: Speeding Up Your Treatment](/article/accelerated-orthodontics-speeding-up-your-treatment.html)
+## Related Articles
+
 - [Adult Braces Options: Complete Guide](/article/adult-braces-options-complete-guide.html)
-
-
-> **Key Takeaway:** Extraction is recommended for only about 25-30% of braces patients. If recommended, ask why and explore alternatives like expansion, interdental reduction, and back tooth movement. Modern technology often allows tooth retention that would have required extraction decades ago.
+- [Braces Pain and Discomfort: First Week Experience](/article/braces-pain-and-discomfort-first-week-experience.html)
+- [Debonding Tools: Safe Bracket Removal Techniques](/article/debonding-tools-safe-bracket-removal.html)
+- [Optimal Orthodontic Appointment Frequency for Active](/article/best-practices-for-orthodontic-appointment-frequency.html)
+- [Cost of Traditional vs Invisible Braces](/article/cost-of-traditional-vs-invisible-braces.html)
 

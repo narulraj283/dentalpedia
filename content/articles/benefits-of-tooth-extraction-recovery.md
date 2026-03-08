@@ -21,7 +21,7 @@ references:
   - "Garaicoa-Pazmino C, Cionca N, Giannopolou C, et al. Smoking as a predictive indicator for implant and prosthetic failure. Clin Oral Implants Res. 2019;30(8):765-776."
 ---
 
-# What Happens After a Tooth Is Pulled: Healing and Recovery
+## What Happens After a Tooth Is Pulled: Healing and Recovery
 
 When you have a tooth extracted, your mouth doesn't just fill in the hole with scar tissue. Instead, your body goes through a sophisticated healing process over 3-6 months that rebuilds bone and soft tissue where the tooth was. Understanding this process helps you know what to expect after extraction and make good decisions about replacing that tooth with an implant or other restoration. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
@@ -29,7 +29,9 @@ When you have a tooth extracted, your mouth doesn't just fill in the hole with s
 
 Your mouth heals in phases, and understanding each phase helps you know what's normal. For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
-**First day after extraction**: A blood clot forms in the socket. This clot is your body's bandage—it protects the open wound and triggers the healing process. Inflammation is normal and actually necessary for healing to happen. Your mouth will probably swell, bruise, and hurt. This is expected. Some light bleeding is normal. If you're bleeding heavily, bite down firmly on gauze for 30-45 minutes. Avoid rinsing, spitting, or using straws, because these actions dislodge the clot.
+**First day after extraction**: A blood clot forms in the socket. This clot is your body's bandage—it protects the open wound and triggers the healing process. Inflammation is normal and actually necessary for healing to happen. Your mouth will probably swell, bruise, and hurt.
+
+This is expected. Some light bleeding is normal. If you're bleeding heavily, bite down firmly on gauze for 30-45 minutes. Avoid rinsing, spitting, or using straws, because these actions dislodge the clot.
 
 **Days 2-3**: Swelling peaks then starts to improve. Discomfort is usually worst on days 2-3. Pain medications and ice help. Stick with soft foods. Avoid hot foods and drinks because heat can trigger bleeding.
 
@@ -111,11 +113,7 @@ Beyond one week: Normal eating gradually returns as you feel comfortable. Pain s
 
 Smoking: If you do, avoid it for at least 72 hours, longer if possible.
 
-## Conclusion: Proper Healing Sets Up Your Next Steps
-
-Whether you're getting an implant, a bridge, a partial denture, or leaving the space, proper extraction healing creates the foundation for whatever comes next. Socket preservation at extraction, following post-extraction instructions carefully, and waiting the appropriate amount of time before replacement restoration means you'll have the best bone support and best long-term outcome.
-
----
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## References
 
@@ -139,12 +137,21 @@ Whether you're getting an implant, a bridge, a partial denture, or leaving the s
 
 10. Garaicoa-Pazmino C, Cionca N, Giannopolou C, et al. Smoking as a predictive indicator for implant and prosthetic failure. Clin Oral Implants Res. 2019;30(8):765-776.
 
-## Related Articles You May Find Helpful
+## Conclusion
 
-- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
-- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+: Proper Healing Sets Up Your Next Steps
+
+Whether you're getting an implant, a bridge, a partial denture, or leaving the space, proper extraction healing creates the foundation for whatever comes next. Socket preservation at extraction, following post-extraction instructions carefully, and waiting the appropriate amount of time before replacement restoration means you'll have the best bone support and best long-term outcome.
+
+---
+
+> **Key Takeaway:** When you have a tooth extracted, your mouth doesn't just fill in the hole with scar tissue.
+
+## Related Articles
+
 - [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
-
-
-> **Key Takeaway:** When you have a tooth extracted, your mouth doesn't just fill in the hole with scar tissue. Your dentist can help you understand what steps are right for your specific needs.
+- [Cost of Swelling Reduction and Postoperative](/article/cost-of-swelling-reduction.html)
+- [Why Oral Surgery Recovery Timeline Matters](/article/why-oral-surgery-recovery-timeline-matters.html)
+- [Surgical Drainage and Abscess Treatment](/article/surgical-drainage-abscess-treatment.html)
+- [Surgical Tooth Extraction: Indications, Classification,](/article/timeline-for-surgical-teeth-removal.html)
 

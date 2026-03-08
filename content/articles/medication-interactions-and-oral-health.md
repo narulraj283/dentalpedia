@@ -43,7 +43,7 @@ Talk with your physician about whether alternative medications exist. Sometimes 
 
 ## Gum Swelling From Certain Medications
 
-Some medications cause your gums to swell and overgrow. Learning more about [bleeding gums solutions what you need to know](/article/bleeding-gums-solutions-what-you-need-to-know.html) can help you understand this better. Calcium channel blockers (common blood pressure medications like nifedipine), anti-seizure medications like phenytoin, and immunosuppressants cause gingival hyperplasia in a significant percentage of users. Your gums enlarge, creating functional problems, esthetic concerns, and harmful pockets where bacteria hide and cause periodontal disease.
+Some medications cause your gums to swell and overgrow. Learning more about [Bleeding Gums Solutions What You Need to Know](/article/bleeding-gums-solutions-what-you-need-to-know.html) can help you understand this better. Calcium channel blockers (common blood pressure medications like nifedipine), anti-seizure medications like phenytoin, and immunosuppressants cause gingival hyperplasia in a significant percentage of users. Your gums enlarge, creating functional problems, esthetic concerns, and harmful pockets where bacteria hide and cause periodontal disease.
 
 The appearance can be dramatic—some patients' gums become so swollen they obscure their teeth, affecting speech and chewing. Managing this requires identifying the cause, discussing medication alternatives with your physician, and maintaining aggressive plaque control. Mechanical removal of the excess tissue through gingivectomy provides temporary improvement, but the swelling usually returns unless you discontinue the causative medication. Enhanced home care, chlorhexidine rinses (short-term use only, as long-term use causes staining), and more frequent professional cleanings help minimize recurrence.
 
@@ -59,7 +59,7 @@ Inform your dentist immediately about any anticoagulation therapy before any tre
 
 ## Jaw Bone Problems From Bisphosphonates
 
-Bisphosphonates treat osteoporosis and cancer-related bone disease. Rarely, they cause medication-related osteonecrosis of the jaw—exposed dead bone that doesn't heal normally and can become seriously infected. Learning more about [complete guide to dental exams and cleanings](/article/complete-guide-to-dental-exams-and-cleanings.html) can help you understand this better. While this complication is uncommon (affecting less than 1% of osteoporosis patients, though more commonly in cancer patients on high-dose IV formulations), when it occurs, treatment is difficult.
+Bisphosphonates treat osteoporosis and cancer-related bone disease. Rarely, they cause medication-related osteonecrosis of the jaw—exposed dead bone that doesn't heal normally and can become seriously infected. Learning more about [Complete Guide to Dental Exams and Cleanings](/article/complete-guide-to-dental-exams-and-cleanings.html) can help you understand this better. While this complication is uncommon (affecting less than 1% of osteoporosis patients, though more commonly in cancer patients on high-dose IV formulations), when it occurs, treatment is difficult.
 
 The risk increases after dental extractions or trauma to jaw bone. Preventive strategy involves comprehensive dental treatment before starting bisphosphonate therapy. If possible, avoid tooth extraction while taking bisphosphonates. If extraction becomes necessary, special surgical techniques, primary closure, and prophylactic antibiotics reduce risk. Discuss your bisphosphonate use with your dentist before treatment so appropriate precautions can be taken.
 
@@ -75,7 +75,6 @@ Comprehensive medication history is essential preventive dentistry. Tell your de
 
 Your dentist flags significant interactions and consults with your physician when appropriate. This professional communication improves your overall care and ensures your physicians understand dental implications of your medical treatment.
 
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about medication interactions and oral health and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -88,8 +87,10 @@ Medications affect your oral health through multiple mechanisms: some cause dry 
 
 > **Key Takeaway:** Many common medications affect your mouth by reducing saliva, causing gum swelling, increasing infection risk, or altering bleeding. Inform your dentist about all medications you take, adjust your home care if side effects occur, and see your dentist more frequently if you experience medication-related oral problems. Close communication between your dental and medical providers ensures your medications work optimally while minimizing oral health complications.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Bleeding Gums: Solutions for What You Need to Know](/article/bleeding-gums-solutions-what-you-need-to-know.html)
-- [Complete Guide to Dental Exams and Cleanings](/article/complete-guide-to-dental-exams-and-cleanings.html)
 - [Tooth Structure: Why the Layers Matter](/article/why-tooth-structure-layers-matters.html)
+
+- [Tooth Structure and Composition: Understanding Enamel,](/article/benefits-of-tooth-structure-layers.html)
+- [Risk and Concerns with Filling Material Selection](/article/risk-and-concerns-with-filling-material-selection.html)
+

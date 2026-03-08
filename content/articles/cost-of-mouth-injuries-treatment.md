@@ -25,13 +25,15 @@ references:
 
 Mouth injuries from sports, falls, car accidents, or fights happen more often than you'd think. About 5-35% of kids and 17-20% of adults experience some form of oral trauma in their lifetime. Here's the important part: prevention is cheap, but treatment is expensive. The smarter your approach now, the more money you save later.
 
-Soft tissue injuries (cuts to your lips or gums) cost $200-400 to repair if professional help is needed. Simple fractures of tooth crowns cost $300-1,000 to fix. But losing teeth entirely? That's $2,000-6,000 per tooth if you need an implant. Jaw fractures cost $2,000-5,000 to treat. By comparison, a custom-fitted athletic mouthguard costs $100-300 and prevents most of these injuries.
+Soft tissue injuries (cuts to your lips or gums) cost $200-400 to repair if professional help is needed. Simple fractures of tooth crowns cost $300-1,000 to fix. But losing teeth entirely?
+
+That's $2,000-6,000 per tooth if you need an implant. Jaw fractures cost $2,000-5,000 to treat. By comparison, a custom-fitted athletic mouthguard costs $100-300 and prevents most of these injuries.
 
 ## Soft Tissue Injuries (Cuts and Lacerations)
 
 If you cut your lip, gum, or inside of your mouth, the severity determines treatment costs. Small cuts that don't gape open often heal by themselves with no treatment. No cost.
 
-Bigger lacerations (cuts more than 3mm that are bleeding) need professional repair. Learning more about [cost of oral surgery recovery timeline](/article/cost-of-oral-surgery-recovery-timeline.html) can help you understand this better. Your dentist can stitch this up in the office under local anesthesia for $200-400. An emergency room visit for the same injury costs $800-1,500 because they charge more for facility use and evaluation.
+Bigger lacerations (cuts more than 3mm that are bleeding) need professional repair. Learning more about [Cost of Oral Surgery Recovery Timeline](/article/cost-of-oral-surgery-recovery-timeline.html) can help you understand this better. Your dentist can stitch this up in the office under local anesthesia for $200-400. An emergency room visit for the same injury costs $800-1,500 because they charge more for facility use and evaluation.
 
 Lip cuts involving the lip line (the border of your lips) need careful stitching to prevent cosmetic scarring. This usually costs $500-1,200 and requires expertise to align perfectly. Poor stitching results in permanent visible scarring, which leads to cosmetic surgery later ($1,500-3,000 to fix).
 
@@ -93,18 +95,24 @@ Most insurance doesn't cover athletic mouthguards, so you pay out-of-pocket for 
 
 ## Treatment Timeline and Long-Term Outlook
 
-Some mouth injuries heal perfectly and you never have another problem. Others develop complications years later. [Learn about your overall surgical recovery timeline](/article/cost-of-oral-surgery-recovery-timeline.html) to understand what to expect post-injury.
+Some mouth injuries heal perfectly and you never have another problem. Others develop complications years later. Learn about your overall surgical recovery timeline to understand what to expect post-injury.
+
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
+
+For more information, see [Risk and Concerns with Surgical Success Rates](/article/risk-and-concerns-with-surgical-success-rates.html).
 
 ## Conclusion
 
 Mouth injuries cost $500-15,000+ to treat depending on severity, with tooth loss being the most expensive ($2,000-6,000 per tooth). Prevention through custom mouthguards ($100-300) prevents the vast majority of sports-related injuries. For adults and kids in contact sports, a mouthguard is one of the smartest investments you can make. Talk to your dentist about whether a custom mouthguard is right for your situation.
 
+> **Key Takeaway:** Mouth injuries from sports, falls, car accidents, or fights happen more often than you'd think.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Cost of Oral Surgery Recovery Timeline](/article/cost-of-oral-surgery-recovery-timeline.html)
 - [Cost of Infection Prevention](/article/cost-of-infection-prevention.html)
 - [Cost of Pain Management Surgery](/article/cost-of-pain-management-surgery.html)
+- [Cost of Post-Surgery Care in Oral Surgery](/article/cost-of-post-surgery-care.html)
+- [Surgical Bleeding Control and Hemostasis Techniques](/article/how-to-bleeding-control.html)
+- [Anesthesia in Oral Surgery: Safety and Options](/article/anesthesia-in-oral-surgery-safety-and-options.html)
 
-> **Key Takeaway:** A $100-300 custom mouthguard prevents injuries costing $500-15,000+ to treat—making prevention one of the smartest health investments.

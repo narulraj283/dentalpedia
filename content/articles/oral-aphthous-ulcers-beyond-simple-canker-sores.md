@@ -49,7 +49,9 @@ Most canker sores follow a cause you might not even notice. Minor mouth injuries
 
 Stress is another major trigger. Many people find their canker sores cluster during stressful periods—exams, work deadlines, or life changes. Your immune system reacts to stress, and your mouth shows it. Getting more sleep, practicing relaxation, and managing stress can reduce how often these sores appear.
 
-Your toothpaste might be causing the problem. Many toothpastes contain sodium lauryl sulfate, a foaming ingredient that irritates some people's mouths. If you get frequent canker sores, try switching to a toothpaste without this ingredient—many people notice improvement within weeks. Mouth rinses containing alcohol or strong chemicals can irritate sensitive mouths too. Your dentist can recommend gentler alternatives. For more on this topic, see our guide on [Oral Hygiene Routine Complete Guide](/article/oral-hygiene-routine-complete-guide.html).
+Your toothpaste might be causing the problem. Many toothpastes contain sodium lauryl sulfate, a foaming ingredient that irritates some people's mouths. If you get frequent canker sores, try switching to a toothpaste without this ingredient—many people notice improvement within weeks.
+
+Mouth rinses containing alcohol or strong chemicals can irritate sensitive mouths too. Your dentist can recommend gentler alternatives. For more on this topic, see our guide on [Oral Hygiene Routine Complete Guide](/article/oral-hygiene-routine-complete-guide.html).
 
 ## When Nutritional Deficiencies Play a Role
 
@@ -69,7 +71,7 @@ If your sores are making eating difficult, causing your speech to change, or spr
 
 ## Easy Home Treatments That Work
 
-Most canker sores feel better with simple home care. Topical pain-relief products containing benzocaine numb the area quickly. Antimicrobial rinses prevent infection, though you'll want to use a gentle type that doesn't irritate further. Your dentist or pharmacist can recommend products that actually help rather than hurt. For more on this topic, see our guide on [Multiple Implants Bridges And Full Mo...](/article/multiple-implants-bridges-and-full-mouth-reconstruction.html).
+Most canker sores feel better with simple home care. Topical pain-relief products containing benzocaine numb the area quickly. Antimicrobial rinses prevent infection, though you'll want to use a gentle type that doesn't irritate further. Your dentist or pharmacist can recommend products that actually help rather than hurt. For more on this topic, see our guide on [Full-Mouth Implants: Replacing All Your Teeth](/article/multiple-implants-bridges-and-full-mouth-reconstruction.html).
 
 Ice is surprisingly helpful—holding ice on the sore for a few minutes numbs it naturally without medications. Warm salt water rinses (mix salt in warm water) clean the area and promote healing. Avoid hot, spicy, acidic, or crunchy foods that irritate the sore; soft foods are your friend while healing. Many people find that honey has natural healing properties too.
 
@@ -89,14 +91,19 @@ Rarely, frequent canker sores indicate serious underlying conditions. Behçet di
 
 Immunocompromised patients—those with HIV, undergoing chemotherapy, or taking immunosuppressive medications—can experience more severe canker sores. If you're in this category and notice unusual mouth ulcers, tell your dentist right away. They'll work with your medical team to manage them appropriately.
 
-## Conclusion: Know When to Worry
+## Conclusion
 
-The vast majority of canker sores are benign and disappear on their own. But if they're bothering you frequently, not healing properly, or appearing in unusual locations, your dentist should evaluate them. Sometimes simple dietary changes, toothpaste substitution, or smoothing rough tooth edges solves the problem entirely. Other times, nutritional testing helps identify and correct deficiencies. Occasionally, canker sores signal that something more serious needs attention. Either way, your dentist can help figure out what's happening and recommend the right approach.
+: Know When to Worry
+
+The vast majority of canker sores are benign and disappear on their own. But if they're bothering you frequently, not healing properly, or appearing in unusual locations, your dentist should evaluate them. Sometimes simple dietary changes, toothpaste substitution, or smoothing rough tooth edges solves the problem entirely.
+
+Other times, nutritional testing helps identify and correct deficiencies. Occasionally, canker sores signal that something more serious needs attention. Either way, your dentist can help figure out what's happening and recommend the right approach.
 
 > **Key Takeaway:** Most canker sores heal within two weeks without treatment. But frequent, large, or slow-healing canker sores deserve professional evaluation. They might indicate nutritional deficiencies, problematic tooth edges, or other treatable issues. Your dentist can help identify and fix the underlying cause.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
 - [Mouth Ulcers and Canker Sores: Treatment and Prevention](/article/mouth-ulcers-and-canker-sores-treatment-and-prevention.html)
 - [Dry Mouth and Your Oral Health](/article/xerostomia-dry-mouth-prevention-and-management.html)
 - [Oral Health Habits for Better Overall Wellness](/article/oral-health-habits-what-you-need-to-know.html)
+

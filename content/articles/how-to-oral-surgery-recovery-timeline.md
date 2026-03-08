@@ -69,20 +69,26 @@ If your dentist recommended bone grafting at the time of surgery, this is when y
 
 Your mouth continues reshaping itself for several more months. Some bone naturally resorbs (your body reabsorbs some of the bone) as the area fully heals. This happens to everyone after extraction, so don't be concerned if you notice slight changes in how your jaw looks or feels. By month 3-4, all swelling, bruising, and discomfort will have completely disappeared. You can return to any activity you want—exercise, sports, and your favorite foods.
 
-> **Key Takeaway:** Your extraction site heals in stages over weeks to months, and most complications can be prevented by protecting your blood clot and following your dentist's instructions about [post-operative care](/article/how-to-post-operative-instructions.html).
-
 ## When to Call Your Dentist
 
 Certain warning signs mean you should contact your dentist right away. Call if you develop a fever above 101.5°F, experience severe pain that suddenly starts 3-7 days after surgery, see swelling that gets worse instead of better after day 3-4, notice persistent numbness lasting more than 8-12 weeks, or have difficulty breathing or swallowing.
 
 Some people develop an infection at the surgical site, which shows up as fever, bad taste or odor, and pain that doesn't improve with medication. Your dentist can treat this with antibiotics and sometimes by cleaning out the site. Catching problems early means easier treatment.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
+
+For more information, see [Dental Complaint Resolution Process: Understanding Your](/article/complaint-resolution-process.html).
+
 ## Conclusion
 
 Your tooth extraction recovery follows nature's own schedule, with the most critical healing happening in the first 72 hours and complete healing taking several months. By following your dentist's instructions, protecting your blood clot, and knowing what normal healing looks like, you'll have the smoothest possible recovery. Most people feel back to normal by weeks 2-4, though your bone will continue strengthening for months afterward.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** Your extraction site heals in stages over weeks to months, and most complications can be prevented by protecting your blood clot and following your dentist's instructions about [Post-operative Care](/article/how-to-post-operative-instructions.html).
+
+## Related Articles
 
 - [Post-Surgery Care: What You Should Know](/article/how-to-post-surgery-care.html)
-- [Pre-Surgery Preparation: Getting Ready for Your Extraction](/article/how-to-pre-surgery-preparation.html)
+- [Pre-Surgery Preparation: Getting Ready](/article/how-to-pre-surgery-preparation.html)
 - [Managing Pain After Dental Surgery](/article/how-to-pain-management-surgery.html)
+

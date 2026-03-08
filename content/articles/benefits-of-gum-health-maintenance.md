@@ -109,10 +109,6 @@ Implants have an excellent success rate (95%+) even in people with treated perio
 
 This is a long-term commitment. Think of SPT like maintenance on your car—you wouldn't skip oil changes and then expect your car to run well. Same with your teeth. SPT is the oil change for treated periodontitis. It's preventive and costs way less than repairs later.
 
-## Conclusion
-
-Supportive periodontal therapy is the long-term phase that prevents gum disease from returning after treatment. Each SPT visit includes updated medical history, systematic probing measurements, professional subgingival instrumentation for problem spots, and home care reinforcement. Recall intervals (3-4 months for standard cases, more frequent for high-risk) balance disease prevention with patient burden and cost. Persistent pockets at individual sites get targeted retreatment through additional instrumentation and possible antimicrobial adjuncts before considering surgical intervention. Home care reinforcement and appropriate interdental device selection (brushes, floss, water flossers based on patient preference and anatomy) is essential—daily mechanical removal prevents biofilm reaccumulation. Antimicrobial rinses provide adjunctive benefit for persistent inflammation but should supplement, not replace, mechanical cleaning. Long-term adherence to SPT dramatically reduces tooth loss from 0.2-0.5 teeth per year without maintenance to 0.05-0.1 teeth annually with participation. Compliance represents the limiting factor—flexible scheduling, cost transparency, and supportive clinician attitude significantly improve long-term participation. Understanding that SPT is lifelong partnership between patient and dentist, with commitment required from both, enables realistic expectations and successful long-term periodontal health preservation.
-
 ## Recall Interval Risk Stratification
 
 Traditional 6-month recall intervals serve low-risk patients (nonsmokers, no diabetes, excellent biofilm control, no periodontitis history). However, treated periodontitis patients require more frequent intervals based on individual risk profiles.
@@ -185,14 +181,23 @@ Patient education regarding tooth loss prevention benefits motivates compliance.
 
 ## Conclusion
 
-Supportive periodontal therapy represents mandatory long-term phase for all periodontitis-treated patients requiring systematic professional intervention combined with home care compliance. SPT components (history update, clinical examination, subgingival instrumentation, fluoride application, patient education) should be systematized at each visit with documentation of findings. Risk-stratified recall intervals (3-4 months for standard treated patients, 3 months for high-risk subgroups, 6-8 weeks for aggressive disease) optimize outcomes while balancing patient burden and costs. Site-specific retreatment targeting persistent pockets ≥5mm with BOP addresses localized disease activity through targeted instrumentation. Home care reinforcement with appropriate interdental device selection (brushes, floss, water flossers based on individual preference and anatomy) improves compliance. Antimicrobial adjuncts (short-term chlorhexidine, probiotic lozenges) provide modest additional benefit but should supplement, not replace, mechanical biofilm control. Long-term studies demonstrate tooth loss reduction from 0.2-0.5 teeth per year in untreated periodontitis to 0.05-0.1 teeth per year with consistent SPT participation. Compliance represents the critical limiting factor—flexible scheduling, motivational interviewing, shared decision-making, and transparent discussion of benefit-risk substantially improve maintenance engagement and long-term periodontal health outcomes with significant impact on tooth retention.
+Supportive periodontal therapy represents mandatory long-term phase for all periodontitis-treated patients requiring systematic professional intervention combined with home care compliance. SPT components (history update, clinical examination, subgingival instrumentation, fluoride application, patient education) should be systematized at each visit with documentation of findings. Risk-stratified recall intervals (3-4 months for standard treated patients, 3 months for high-risk subgroups, 6-8 weeks for aggressive disease) optimize outcomes while balancing patient burden and costs. Site-specific retreatment targeting persistent pockets ≥5mm with BOP addresses localized disease activity through targeted instrumentation.
 
-## Related Articles You May Find Helpful
+Home care reinforcement with appropriate interdental device selection (brushes, floss, water flossers based on individual preference and anatomy) improves compliance. Antimicrobial adjuncts (short-term chlorhexidine, probiotic lozenges) provide modest additional benefit but should supplement, not replace, mechanical biofilm control. Long-term studies demonstrate tooth loss reduction from 0.2-0.5 teeth per year in untreated periodontitis to 0.05-0.1 teeth per year with consistent SPT participation. Compliance represents the critical limiting factor—flexible scheduling, motivational interviewing, shared decision-making, and transparent discussion of benefit-risk substantially improve maintenance engagement and long-term periodontal health outcomes with significant impact on tooth retention.
 
-- [Acid Reflux and Tooth Erosion: GERD Management](/article/acid-reflux-and-tooth-erosion-gerd-management.html)
-- [Acidic Beverages: pH Effects on Enamel](/article/acidic-beverages-ph-effects-on-enamel.html)
+## Conclusion
+
+Supportive periodontal therapy is the long-term phase that prevents gum disease from returning after treatment. Each SPT visit includes updated medical history, systematic probing measurements, professional subgingival instrumentation for problem spots, and home care reinforcement. Recall intervals (3-4 months for standard cases, more frequent for high-risk) balance disease prevention with patient burden and cost. Persistent pockets at individual sites get targeted retreatment through additional instrumentation and possible antimicrobial adjuncts before considering surgical intervention.
+
+Home care reinforcement and appropriate interdental device selection (brushes, floss, water flossers based on patient preference and anatomy) is essential—daily mechanical removal prevents biofilm reaccumulation. Antimicrobial rinses provide adjunctive benefit for persistent inflammation but should supplement, not replace, mechanical cleaning. Long-term adherence to SPT dramatically reduces tooth loss from 0.2-0.5 teeth per year without maintenance to 0.05-0.1 teeth annually with participation. Compliance represents the limiting factor—flexible scheduling, cost transparency, and supportive clinician attitude significantly improve long-term participation. Understanding that SPT is lifelong partnership between patient and dentist, with commitment required from both, enables realistic expectations and successful long-term periodontal health preservation.
+
+> **Key Takeaway:** If you've been treated for gum disease, you're not done once the treatment ends.
+
+## Related Articles
+
 - [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
-
-
-> **Key Takeaway:** If you've been treated for gum disease, you're not done once the treatment ends. Your dentist can help you understand what steps are right for your specific needs.
+- [Cost of Daily Teeth Cleaning](/article/cost-of-daily-teeth-cleaning.html)
+- [Common Misconceptions About Daily Teeth Cleaning](/article/common-misconceptions-about-daily-teeth-cleaning.html)
+- [Periodontitis Prevention Through Biofilm Management and](/article/best-practices-for-gum-disease-prevention.html)
+- [How Bacteria Multiply in Your Mouth](/article/microorganism-succession-sequential-bacteria.html)
 

@@ -1,24 +1,32 @@
 ---
-title: Salivary Function in Oral Health and Clinical Management of
-slug: best-practices-for-saliva-importance
 category: Preventive Care
 category_slug: preventive-care
-excerpt: "Saliva does way more than keep your mouth wet. It's a complex fluid packed with protective proteins, minerals, and antibodies that fight bacteria,."
 date: 2026-03-05
+excerpt: Saliva does way more than keep your mouth wet. It's a complex fluid packed
+  with protective proteins, minerals, and antibodies that fight bacteria,.
 read_time: 10 min
+references:
+- 'Maclaughlin EL, Neyhart AC, Martin JL, Gornitsky M. Xerostomia: clinical evaluation
+  and management. Oral Surg Oral Med Oral Pathol Oral Radiol. 2024;137(1):12-28.'
+- Navazesh M. Methods for collecting saliva. Ann N Y Acad Sci. 2023;694:72-77.
+- 'Fox PC, van der Ven PF, Sonies BC, Weiffenbach JM, Baum BJ. Xerostomia: evaluation
+  and management. Oral Surg Oral Med Oral Pathol. 1995;77:186-91.'
+- Mendes RA, Cuppari A, Cardoso JA, Aguiar MC. Salivary protective factors against
+  dental caries in different age groups. Int J Pediatr Dent. 2023;33(5):598-607.
+- Pedersen AML, Sorensen CE, Proctor GB, Carpenter GH. Salivary secretion in health
+  and disease. J Oral Rehabil. 2024;51(S1):6-18.
+- Tharian B, Zhang W, Stein A, Dong Y, Noll J, Maydani L, Schiffer K, Groisman L,
+  Sonis ST. Systematic review of the management of oral xerostomia. Gen Dent. 2023;71(2):22-31.
+- 'Aps JK, Martens LC. Review: the physiology of saliva and transfer of drugs into
+  saliva. Forensic Sci Int. 2023;150(2-3):133-141.'
+- 'Sreebny LM, Valdini A. Xerostomia: a difficult clinical problem. Quintessence Int.
+  1987;18:445-65.'
+reviewed: true
 reviewer_specialty: General Dentistry
+slug: best-practices-for-saliva-importance
 subcategory: Preventive Overview
 subcategory_slug: overview-preventive
-reviewed: true
-references:
-  - "Maclaughlin EL, Neyhart AC, Martin JL, Gornitsky M. Xerostomia: clinical evaluation and management. Oral Surg Oral Med Oral Pathol Oral Radiol. 2024;137(1):12-28."
-  - "Navazesh M. Methods for collecting saliva. Ann N Y Acad Sci. 2023;694:72-77."
-  - "Fox PC, van der Ven PF, Sonies BC, Weiffenbach JM, Baum BJ. Xerostomia: evaluation and management. Oral Surg Oral Med Oral Pathol. 1995;77:186-91."
-  - "Mendes RA, Cuppari A, Cardoso JA, Aguiar MC. Salivary protective factors against dental caries in different age groups. Int J Pediatr Dent. 2023;33(5):598-607."
-  - "Pedersen AML, Sorensen CE, Proctor GB, Carpenter GH. Salivary secretion in health and disease. J Oral Rehabil. 2024;51(S1):6-18."
-  - "Tharian B, Zhang W, Stein A, Dong Y, Noll J, Maydani L, Schiffer K, Groisman L, Sonis ST. Systematic review of the management of oral xerostomia. Gen Dent. 2023;71(2):22-31."
-  - "Aps JK, Martens LC. Review: the physiology of saliva and transfer of drugs into saliva. Forensic Sci Int. 2023;150(2-3):133-141."
-  - "Sreebny LM, Valdini A. Xerostomia: a difficult clinical problem. Quintessence Int. 1987;18:445-65."
+title: Salivary Function in Oral Health and Clinical Management
 ---
 
 ## Your Mouth's Unsung Hero
@@ -39,7 +47,9 @@ Saliva does way more than keep your mouth wet. It's a complex fluid packed with 
 
 ## When Saliva Flow Drops (Dry Mouth)
 
-Normal saliva flow at rest is 0.3-0.5 mL per minute. Below 0.1 mL per minute is severe dry mouth. If you're in that range, you've lost 70-90% of your mouth's protective powers. Cavity risk skyrockets. Fungal infections become likely. Mouth comfort plummets.
+Normal saliva flow at rest is 0.3-0.5 mL per minute. Below 0.1 mL per minute is severe dry mouth. If you're in that range, you've lost 70-90% of your mouth's protective powers.
+
+Cavity risk skyrockets. Fungal infections become likely. Mouth comfort plummets.
 
 Dry mouth affects about 15-20% of people overall, but jumps to 40-70% in adults over 65. Usually it's medication-related—about 20% of common drugs cause dry mouth as a side effect. Antihistamines, antidepressants, blood pressure medications, and many others can dry you out.
 
@@ -159,18 +169,15 @@ If you suspect dry mouth:
 
 Saliva is irreplaceable—no substitute fully replaces what real saliva does. If you suspect dry mouth (your mouth feels sticky, you're thirsty constantly, foods taste off), tell your dentist. They can measure your actual saliva flow and adjust your prevention plan. The earlier you address dry mouth, the easier it is to prevent the cascade of cavity and infection problems that follow.
 
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about saliva importance. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+**Read more**: [Cavity Prevention Methods](/article/best-practices-for-cavity-prevention-methods.html) | [Preventive Dental Strategies](/article/best-practices-for-preventive-treatments.html)
 
 > **Key Takeaway:** Saliva is your mouth's defense system—when it's adequate, you're protected; when it drops, you need aggressive prevention, stronger fluoride, and frequent checkups to stay cavity-free.
-
-**Read more**: [Cavity Prevention Methods](/article/best-practices-for-cavity-prevention-methods.html) | [Preventive Dental Strategies](/article/best-practices-for-preventive-treatments.html)
 
 ## Related Articles
 
 - [Best Practices For Tooth Decay Prevention](/article/best-practices-for-tooth-decay-prevention.html)
 - [Best Practices For Toothbrush Selection](/article/best-practices-for-toothbrush-selection.html)
 - [Biofilm Maturation 24 Hour Plaque Development](/article/biofilm-maturation-24-hour-plaque-development.html)
+

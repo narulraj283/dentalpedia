@@ -33,19 +33,17 @@ references:
     url: https://www.ncbi.nlm.nih.gov/pubmed/28956464
 ---
 
-Your post-operative instructions are your roadmap to smooth healing. Following them carefully prevents complications and gets you back to normal faster. The first 24 hours matter most, so focus especially on those instructions. Learning more about [your tooth extraction recovery timeline](/article/how-to-oral-surgery-recovery-timeline.html) can help you understand this better.
+Your post-operative instructions are your roadmap to smooth healing. Following them carefully prevents complications and gets you back to normal faster. The first 24 hours matter most, so focus especially on those instructions. Learning more about [Your Tooth Extraction Recovery Timeline](/article/how-to-oral-surgery-recovery-timeline.html) can help you understand this better.
 
 ## The First 24 Hours
 
-Bite down firmly on the gauze your dentist gives you for 30-45 minutes. Don't peek to see if it's working—leave it alone. If you need to change it, do it gently. Light oozing mixed with saliva is normal for up to 24 hours, but if you're soaking through gauze pads or blood fills your mouth, call your dentist immediately. Learning more about [managing pain after dental surgery](/article/how-to-pain-management-surgery.html) can help you understand this better.
+Bite down firmly on the gauze your dentist gives you for 30-45 minutes. Don't peek to see if it's working—leave it alone. If you need to change it, do it gently. Light oozing mixed with saliva is normal for up to 24 hours, but if you're soaking through gauze pads or blood fills your mouth, call your dentist immediately. Learning more about [Managing Pain After Dental Surgery](/article/how-to-pain-management-surgery.html) can help you understand this better.
 
 Apply ice for 20 minutes, then remove it for 20 minutes, repeating for the first 24 hours. Ice reduces swelling and pain. After 24 hours, switch to warm compresses.
 
 Start your pain medication before you leave the dentist's office. Don't wait until pain develops. Take ibuprofen every 6 hours for 3-5 days. If you got a prescription for stronger pain medicine, use it only if ibuprofen doesn't control your pain.
 
 No rinsing, spitting, or using straws for at least 5-7 days. These actions can dislodge your blood clot and cause complications.
-
-> **Key Takeaway:** Follow these instructions exactly as given. Your healing depends on it, and most complications come from not following post-operative care instructions.
 
 ## Days 2-7: The Healing Phase
 
@@ -66,18 +64,6 @@ Contact your dentist immediately if you experience:
 - Difficulty breathing or swallowing
 - Uncontrolled bleeding
 - Signs of infection (pus, bad taste, bad smell)
-
-## Conclusion
-
-Post-operative care is as important as the surgery itself. Each instruction exists for a reason—to prevent complications and support healing. Follow them carefully, take your medications as prescribed, and call your dentist with any concerns.
-
-## Related Articles You May Find Helpful
-
-- [Your Tooth Extraction Recovery Timeline](/article/how-to-oral-surgery-recovery-timeline.html)
-- [Managing Pain After Dental Surgery](/article/how-to-pain-management-surgery.html)
-- [Post-Surgery Care: What You Should Know](/article/how-to-post-surgery-care.html)
-
-Most patients requiring prescription opioids should limit use to 5-7 days maximum, tapering to over-the-counter analgesics as pain decreases. Any signs of adverse reactions, excessive drowsiness, or prolonged pain beyond 1-2 weeks should prompt follow-up evaluation. Instruct patients to avoid driving or operating machinery while taking opioid medications, and to be aware of interactions with alcohol and other CNS depressants.
 
 ## Swelling, Bruising, and Inflammatory Management
 
@@ -122,3 +108,21 @@ Avoid sleeping on the affected side, as this increases local pressure and swelli
 Understanding normal healing expectations helps patients distinguish between expected healing and pathologic complications requiring intervention. Post-operative discomfort and mild swelling are expected and normal. By contrast, fever exceeding 101°F, increasing pain after day 3-4, purulent drainage, difficulty breathing or swallowing, or excessive ongoing bleeding warrant immediate professional evaluation.
 
 Most patients experience significant symptom resolution within 5-7 days; complete bony healing may require 2-4 weeks for extractions and 3-6 months for implant osseointegration. Patients should contact their surgical office if they have any questions or concerns regarding post-operative progression, medication side effects, or expected healing timeline. Establish clear contact protocols and availability during the immediate post-operative period to address complications promptly.
+
+
+*Always consult your dentist to determine the best approach for your individual situation.*
+
+## Conclusion
+
+Post-operative care is as important as the surgery itself. Each instruction exists for a reason—to prevent complications and support healing. Follow them carefully, take your medications as prescribed, and call your dentist with any concerns.
+
+> **Key Takeaway:** Follow these instructions exactly as given. Your healing depends on it, and most complications come from not following post-operative care instructions.
+
+## Related Articles
+
+- [Post-Surgery Care: What You Should Know](/article/how-to-post-surgery-care.html)
+- [Surgical Recovery Timeline—What You Need to Know](/article/recovery-timeline-what-you-need-to-know.html)
+- [Impacted Tooth Extraction: Surgical Removal Procedures](/article/impacted-tooth-extraction-surgical-removal-procedures.html)
+- [Anesthesia Options: What You Need to Know](/article/anesthesia-options-what-you-need-to-know.html)
+- [Why Wisdom Teeth Extraction Matters](/article/why-wisdom-teeth-extraction-matters.html)
+

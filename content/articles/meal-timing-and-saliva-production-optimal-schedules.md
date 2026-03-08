@@ -35,7 +35,9 @@ Most people think about when to eat based on hunger or schedules, but your teeth
 
 Your saliva is far more than just a lubricant for chewing and swallowing. It's an active defense system protecting your teeth against the harmful acids that damage enamel. Whenever you eat, especially sugary or acidic foods, harmful bacteria in your mouth produce acids as a byproduct. These acids lower your mouth's pH, creating an environment where cavities can start. Your saliva works in multiple ways to fight this.
 
-First, saliva contains buffering chemicals that neutralize acids produced by bacteria. Think of buffering as your mouth's acid-fighting team. After you eat, your mouth becomes acidic. The buffering compounds in saliva work to bring the pH back to a safe level. This takes time—typically 30-45 minutes. During this recovery period, your enamel is vulnerable to damage. Second, saliva delivers minerals (calcium and phosphate) that actually repair early damage through a process called remineralization. When acids have damaged your enamel surface, minerals from your saliva can seep into those damaged areas and strengthen them back up.
+First, saliva contains buffering chemicals that neutralize acids produced by bacteria. Think of buffering as your mouth's acid-fighting team. After you eat, your mouth becomes acidic. The buffering compounds in saliva work to bring the pH back to a safe level.
+
+This takes time—typically 30-45 minutes. During this recovery period, your enamel is vulnerable to damage. Second, saliva delivers minerals (calcium and phosphate) that actually repair early damage through a process called remineralization. When acids have damaged your enamel surface, minerals from your saliva can seep into those damaged areas and strengthen them back up.
 
 Third, saliva contains antimicrobial proteins including IgA and lysozyme that fight cavity-causing bacteria. These proteins work best when your mouth's chemistry is balanced and your saliva flow is adequate. Some medications, health conditions, and health habits can reduce saliva quantity or quality, putting your teeth at increased risk. Understanding your own saliva function helps you personalize prevention.
 
@@ -43,7 +45,9 @@ Third, saliva contains antimicrobial proteins including IgA and lysozyme that fi
 
 The critical factor is giving your saliva time to complete its repair work between acid attacks. When you snack frequently—grazing throughout the day—you prevent your mouth from ever reaching a pH safe enough for remineralization to occur. It's like constantly reopening a wound before it can heal. Research shows that people who space their meals and snacks at least 45-60 minutes apart develop far fewer cavities than those who nibble frequently throughout the day.
 
-Here's what happens when you space meals properly: You eat breakfast, acid exposure peaks, and your saliva buffers the acid back to normal within 40-45 minutes. During the next 15-20 minutes (before your next meal), your saliva minerals actually flow into early-stage tooth damage and strengthen it. Then you eat lunch. If lunch occurs after adequate spacing—45-60 minutes after breakfast—your teeth have a healthy baseline and the cycle repeats. Learning more about [common misconceptions about flossing benefits](/article/common-misconceptions-about-flossing-benefits.html) can help you understand this better. But if you snack every hour, your saliva never gets to complete remineralization, and your enamel never recovers. Over months and years, this constant acid stress leads to cumulative damage.
+Here's what happens when you space meals properly: You eat breakfast, acid exposure peaks, and your saliva buffers the acid back to normal within 40-45 minutes. During the next 15-20 minutes (before your next meal), your saliva minerals actually flow into early-stage tooth damage and strengthen it. Then you eat lunch.
+
+If lunch occurs after adequate spacing—45-60 minutes after breakfast—your teeth have a healthy baseline and the cycle repeats. Learning more about [Common Misconceptions About Flossing Benefits](/article/common-misconceptions-about-flossing-benefits.html) can help you understand this better. But if you snack every hour, your saliva never gets to complete remineralization, and your enamel never recovers. Over months and years, this constant acid stress leads to cumulative damage.
 
 The number of times you eat matters far more than the total amount. A person eating three meals daily has far better cavity risk than someone eating five small snacks, even if both consume the same total calories. Snacking frequency changes your entire cavity risk profile, regardless of brushing or flossing. This is why dental professionals focus so much on meal timing.
 
@@ -69,7 +73,9 @@ Optimal meal timing involves clustering acidic foods into meals rather than spre
 
 Time-restricted eating patterns (eating within a 6-8 hour window) actually don't necessarily improve tooth health because compressed eating creates prolonged acidic saturation. Multiple acid exposures in a short window don't give your saliva adequate recovery time between attacks. Spacing the same meals across a longer day provides better protection.
 
-Nighttime requires special attention. Acidic foods consumed right before bed create 8+ hours of exposure without saliva recovery or remineralization. Your saliva flow decreases dramatically while you sleep, dropping 60-90% compared to daytime. Learning more about [how to preventive treatments](/article/how-to-preventive-treatments.html) can help you understand this better. Acids lingering in your mouth attack your teeth throughout the night without any protective response from saliva. Never consume acidic foods within 2-3 hours of bedtime. If you struggle with reflux that brings stomach acid into your mouth at night, discuss management strategies with your physician.
+Nighttime requires special attention. Acidic foods consumed right before bed create 8+ hours of exposure without saliva recovery or remineralization. Your saliva flow decreases dramatically while you sleep, dropping 60-90% compared to daytime.
+
+Learning more about [How to Preventive Treatments](/article/how-to-preventive-treatments.html) can help you understand this better. Acids lingering in your mouth attack your teeth throughout the night without any protective response from saliva. Never consume acidic foods within 2-3 hours of bedtime. If you struggle with reflux that brings stomach acid into your mouth at night, discuss management strategies with your physician.
 
 ## Timing Acidic Foods: Simple Guidelines
 
@@ -89,12 +95,16 @@ With reduced saliva, you must become even stricter about meal timing. If normal 
 
 ## Conclusion
 
-Meal timing directly influences your cavity risk through saliva's natural repair cycles. By spacing acidic foods and beverages at least 45-60 minutes apart, you allow your saliva adequate time to neutralize acids and remineralize early enamel damage. Clustering acidic foods into meals rather than continuous snacking dramatically reduces total acid exposure. Avoiding acidic foods within 2-3 hours of bedtime protects your teeth during sleep when saliva protection diminishes. Even with perfect brushing and flossing, poor meal timing increases cavity risk. Work with your dentist to personalize timing recommendations based on your saliva quality, medications, and individual cavity risk.
+Meal timing directly influences your cavity risk through saliva's natural repair cycles. By spacing acidic foods and beverages at least 45-60 minutes apart, you allow your saliva adequate time to neutralize acids and remineralize early enamel damage. Clustering acidic foods into meals rather than continuous snacking dramatically reduces total acid exposure.
+
+Avoiding acidic foods within 2-3 hours of bedtime protects your teeth during sleep when saliva protection diminishes. Even with perfect brushing and flossing, poor meal timing increases cavity risk. Work with your dentist to personalize timing recommendations based on your saliva quality, medications, and individual cavity risk.
 
 > **Key Takeaway:** Your saliva needs 45-60 minutes to buffer acid and repair your teeth after each acidic food or drink. Eating frequently throughout the day prevents this natural repair process from completing, dramatically increasing your cavity risk. Space meals strategically and avoid acidic foods near bedtime to give your saliva the time it needs to protect your teeth.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Common Misconceptions About Flossing Benefits](/article/common-misconceptions-about-flossing-benefits.html)
-- [How to: Preventive Treatments](/article/how-to-preventive-treatments.html)
 - [Why Daily Teeth Cleaning Matters](/article/why-daily-teeth-cleaning-matters.html)
+
+- [Why Flossing Benefits Matter - Evidence for Interdental](/article/why-flossing-benefits-matters.html)
+- [Custom Mouth Guards: Athletic Protection and Injury](/article/custom-mouth-guard-athletic-protection.html)
+

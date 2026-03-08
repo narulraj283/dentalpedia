@@ -69,19 +69,27 @@ The inside of your tooth (the pulp) can become inflamed from cavity-causing bact
 
 The alternating schedule of ibuprofen and acetaminophen works better than either alone because they work through different mechanisms. Ibuprofen reduces inflammation while acetaminophen quiets pain signals. Together they're often as effective as prescription pain medication without the side effects.
 
-**Advanced pulpitis:** Your tooth throbbing or pounding pain that won't stop, even if you're not eating. It might keep you awake at night. The nerve is severely inflamed. You need urgent root canal therapy. Until you can get it done, use the same pain management (ibuprofen-acetaminophen alternation and ice) while waiting for your appointment. A temporary filling or medication placed in the tooth by your dentist can also help. Don't put this off—advanced pulpitis can lead to abscess and serious infection.
+**Advanced pulpitis:** Your tooth throbbing or pounding pain that won't stop, even if you're not eating. It might keep you awake at night. The nerve is severely inflamed.
+
+You need urgent root canal therapy. Until you can get it done, use the same pain management (ibuprofen-acetaminophen alternation and ice) while waiting for your appointment. A temporary filling or medication placed in the tooth by your dentist can also help. Don't put this off—advanced pulpitis can lead to abscess and serious infection.
 
 ## Pain After Dental Procedures
 
-**After fillings or crown prep:** You might have temperature sensitivity for a day or two. This is normal. Take ibuprofen (400mg) every 6-8 hours for 2-3 days. Use desensitizing toothpaste on the area. If it lasts more than 48 hours, call your dentist. Sometimes the bite is slightly high (your teeth don't come together evenly) and needs adjustment.
+**After fillings or crown prep:** You might have temperature sensitivity for a day or two. This is normal. Take ibuprofen (400mg) every 6-8 hours for 2-3 days.
+
+Use desensitizing toothpaste on the area. If it lasts more than 48 hours, call your dentist. Sometimes the bite is slightly high (your teeth don't come together evenly) and needs adjustment.
 
 **After root canal therapy:** About 4-5 out of 10 people have moderate pain for a few days. The tooth and surrounding tissue are irritated from the procedure. Use the ibuprofen-acetaminophen alternating schedule you'd use for surgery (400-600mg ibuprofen, 500-1000mg acetaminophen, alternating every 3-4 hours). Opioids aren't necessary and won't work better than this combination. This is strong evidence-based pain control.
 
 Apply ice for the first 24 hours (20 minutes on, 20 minutes off). Some patients also find that avoiding hard foods and pain medication before bed helps with sleep. Most post-root canal pain resolves within 7 days.
 
-**After gum procedures (scaling/root planing):** Mild-to-moderate discomfort and sensitivity is normal. Your gums have been cleaned deep below the surface and are healing. Ibuprofen (400mg every 6 hours) for 3-5 days helps. Using a chlorhexidine antimicrobial rinse also helps keep the area clean and reduces secondary inflammation. Desensitizing toothpaste applied to the treated areas reduces further sensitivity. Soft foods and avoiding the area when brushing for a few days helps.
+**After gum procedures (scaling/root planing):** Mild-to-moderate discomfort and sensitivity is normal. Your gums have been cleaned deep below the surface and are healing. Ibuprofen (400mg every 6 hours) for 3-5 days helps.
 
-**After extractions:** Simple extractions cause mild-to-moderate pain for 1-3 days. Surgical extractions (impacted teeth, especially wisdom teeth) cause more pain for 3-5 days. Use ibuprofen (600mg) and acetaminophen (1000mg) on an alternating 6-hour schedule. Apply ice for the first 24 hours, then switch to heat for days 2-7. Ice reduces swelling and numbness early on; heat improves swelling later. Take your medication on schedule (even if pain feels mild) to prevent pain from escalating.
+Using a chlorhexidine antimicrobial rinse also helps keep the area clean and reduces secondary inflammation. Desensitizing toothpaste applied to the treated areas reduces further sensitivity. Soft foods and avoiding the area when brushing for a few days helps.
+
+**After extractions:** Simple extractions cause mild-to-moderate pain for 1-3 days. Surgical extractions (impacted teeth, especially wisdom teeth) cause more pain for 3-5 days. Use ibuprofen (600mg) and acetaminophen (1000mg) on an alternating 6-hour schedule.
+
+Apply ice for the first 24 hours, then switch to heat for days 2-7. Ice reduces swelling and numbness early on; heat improves swelling later. Take your medication on schedule (even if pain feels mild) to prevent pain from escalating.
 
 ## Chronic Jaw and Facial Pain
 
@@ -137,20 +145,21 @@ These aren't typical dental pain situations. They signal complications requiring
 
 ## Bottom Line
 
-Dental pain is treatable. Identify what kind of pain you have, use the appropriate combination of medication and physical approaches, and get professional evaluation for severe pain. Most dental pain resolves with NSAIDs and acetaminophen—opioids aren't needed for typical dental pain. Simple cavities need simple treatment (filling), not pain medication. Inflamed nerves need root canal therapy. Infected teeth need antibiotics plus treatment. Your dentist can usually identify the cause and offer definitive treatment that actually solves the problem rather than just masking pain.
+Dental pain is treatable. Identify what kind of pain you have, use the appropriate combination of medication and physical approaches, and get professional evaluation for severe pain. Most dental pain resolves with NSAIDs and acetaminophen—opioids aren't needed for typical dental pain.
 
-## Related Articles You May Find Helpful
-
-- [All-Ceramic Crowns: Metal-Free Restoration Solutions](/article/all-ceramic-crown-metal-free-restoration.html)
-- [Apex Sealing in Endodontics: Complete Root Canal Closure for Treatment Success](/article/apex-sealing-complete-root-canal-closure.html)
-- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
-
-
-
+Simple cavities need simple treatment (filling), not pain medication. Inflamed nerves need root canal therapy. Infected teeth need antibiotics plus treatment. Your dentist can usually identify the cause and offer definitive treatment that actually solves the problem rather than just masking pain.
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about pain relief methods. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** Half of all adults experience dental pain each year, but not all dental pain is the same. Your dentist can help you understand what steps are right for your specific needs.
+
+## Related Articles
+
+- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
+- [How to Eliminate Bad Breath: Causes and Solutions](/article/how-to-bad-breath-elimination.html)
+- [Why Early Cavity Detection Matters in Modern Dentistry](/article/why-cavity-diagnosis-process-matters.html)
+- [Dental Examination Types: Your Complete Guide](/article/best-practices-for-dental-examination-types.html)
+- [Gum Grafting Surgery: Restore Recessed Gums](/article/mucogingival-surgery-gum-tissue-reconstruction.html)
 

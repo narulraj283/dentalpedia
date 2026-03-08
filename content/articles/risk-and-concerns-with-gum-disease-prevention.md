@@ -80,17 +80,13 @@ Modern science has revealed that your mouth is a complex ecosystem of hundreds o
 
 ## System-Level Problems Cause Gum Disease That Local Prevention Can't Fix
 
-Gum disease is connected to your whole body. Poorly controlled diabetes, cardiovascular disease, stress, hormonal changes, and multiple medications all affect your gum health in ways that have nothing to do with your toothbrush technique. For more on this topic, see our guide on [Bleeding On Probing Inflammation Indi...](/article/bleeding-on-probing-inflammation-indicator.html).
+Gum disease is connected to your whole body. Poorly controlled diabetes, cardiovascular disease, stress, hormonal changes, and multiple medications all affect your gum health in ways that have nothing to do with your toothbrush technique. For more on this topic, see our guide on [Bleeding on Probing: Clinical Significance, Diagnostic](/article/bleeding-on-probing-inflammation-indicator.html).
 
 Pregnancy, menopause, and oral contraceptives create hormonal environment shifts that promote gum disease independent of plaque levels. Certain medications dry your mouth, reducing protective saliva and promoting gum disease. These systemic factors often overwhelm local prevention efforts—you can't floss your way to healthy gums if your body's chemistry is against you.
 
 ## Prevention Success Looks Different for Everyone
 
 Some people achieve complete gum disease prevention through basic care. Others require aggressive professional maintenance every 3 months plus antimicrobial products plus excellent home care—and still face disease progression. This heterogeneity means that standardized "brush twice daily and floss" advice is fundamentally incomplete.
-
-
-
-
 
 ## Questions to Ask Your Dentist
 
@@ -99,8 +95,6 @@ When you visit your dentist, ask about risk and concerns with gum disease preven
 You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
 
 Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
-
 
 ## Protecting Your Results Long-Term
 
@@ -114,13 +108,11 @@ Diet also plays a role in protecting your dental health. Limiting sugary snacks 
 
 Your dental health journey is unique, and the right approach to risk and concerns with gum disease prevention depends on your individual needs and what your dentist recommends. Don't hesitate to ask questions so you fully understand your options and feel confident about your care.
 
-## Key Takeaway
-
-Gum disease prevention works best when combined with realistic assessment of your personal risk. If you have a family history of gum disease, have diabetes, smoke, or are experiencing disease progression despite good self-care, you need more than standard prevention. Talk to your periodontist about genetic testing for susceptibility, more frequent professional cleanings, and targeted antimicrobial therapy. Setting realistic expectations prevents the discouragement that comes from trying your hardest and still developing disease. Sometimes your hardest isn't enough without additional professional help tailored to your specific risk.
+> **Key Takeaway:** Gum disease prevention works best when combined with realistic assessment of your personal risk. If you have a family history of gum disease, have diabetes, smoke, or are experiencing disease progression despite good self-care, you need more than standard prevention. Talk to your periodontist about genetic testing for susceptibility, more frequent professional cleanings, and targeted antimicrobial therapy. Setting realistic expectations prevents the discouragement that comes from trying your hardest and still developing disease. Sometimes your hardest isn't enough without additional professional help tailored to your specific risk.
 
 ## Related Articles
 
-- [Understanding Gum Disease Stages: What Your Numbers Mean](https://dentalpedia.com/risk-and-concerns-with-gum-disease-stages)
-- [Smoking and Gum Disease: Why Quitting Matters More Than You Think](https://dentalpedia.com/smoking-and-gum-disease-why-quitting-matters)
-- [Gum Disease Maintenance: Long-Term Care After Treatment](https://dentalpedia.com/risk-and-concerns-with-gum-health-maintenance)
+- [Gingival Sulcus: Normal Gum Depth](/article/gingival-sulcus-normal-gum-depth.html)
+- [Periodontal Disease Genetics Family Risk Factors](/article/periodontal-disease-genetics-family-risk-factors.html)
+- [Gum Surgery to Reshape Bone](/article/osseous-surgery-bone-contouring-for-health.html)
 

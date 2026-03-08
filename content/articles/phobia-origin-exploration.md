@@ -76,7 +76,7 @@ It's worth noting that actual dangers from dental treatment are extremely rare i
 
 Many people with dental phobia engage in catastrophic thinking—imagining worst-case scenarios and believing those scenarios are likely. You might think "I'll feel unbearable pain," "Something terrible will go wrong," "I'll have a panic attack," or "I won't be able to handle it." These catastrophic thoughts seem very real and convincing to you, even though the actual probability of these outcomes is very low.
 
-Another pattern is overestimating the threat—your brain exaggerates the danger inherent in dental treatment. Even though modern anesthesia makes dental procedures painless, your brain's threat-detection system is stuck in "danger" mode. You intellectually know dental treatment is safe but emotionally feel that it's dangerous. For more on this topic, see our guide on [Sedation Dentistry For Children Optio...](/article/sedation-dentistry-for-children-options-and-safety.html).
+Another pattern is overestimating the threat—your brain exaggerates the danger inherent in dental treatment. Even though modern anesthesia makes dental procedures painless, your brain's threat-detection system is stuck in "danger" mode. You intellectually know dental treatment is safe but emotionally feel that it's dangerous. For more on this topic, see our guide on [Dental Sedation for Anxious Kids - Options and Safety](/article/sedation-dentistry-for-children-options-and-safety.html).
 
 Additionally, you might underestimate your own ability to cope. Even if you could tolerate dental treatment, you convince yourself that you couldn't handle it. This combination of threat overestimation and coping underestimation creates a sense of helplessness and anxiety that feels inescapable.
 
@@ -103,19 +103,19 @@ From a psychological perspective, your dental phobia developed through classical
 This understanding is hopeful because it means your phobia isn't permanent or unfixable. It developed through learning, and learned patterns can be modified through new learning experiences. Evidence-based treatments including cognitive-behavioral therapy, systematic desensitization (gradual exposure to feared stimuli), and anxiety management techniques have strong research support for reducing dental phobia.
 
 
+For more information, see [Sedation Monitoring - How Dentists Keep You Safe](/article/sedation-safety-monitoring-during-procedure.html).
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about topics like dental phobia origins and contributing factors. The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
+The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
 
 Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
 
-## Key Takeaway
-
-Dental phobia typically originates from childhood traumatic dental experiences or observational learning from anxious parents and peers, but can develop from adult traumatic experiences or catastrophic thinking patterns. The fear is perpetuated by avoidance behaviors that prevent your brain from learning that modern dental treatment is safe. Understanding that your phobia developed through specific mechanisms and is maintained through avoidance creates hope—you can work with mental health professionals to decondition fear associations, challenge catastrophic thoughts, and rebuild [your ability to tolerate dental treatment](/article/sedation-dentistry-for-children-options-and-safety.html) through evidence-based approaches. Recognizing dental phobia as legitimate anxiety rather than weakness enables you to access help and regain your oral health.
+> **Key Takeaway:** Dental phobia typically originates from childhood traumatic dental experiences or observational learning from anxious parents and peers, but can develop from adult traumatic experiences or catastrophic thinking patterns. The fear is perpetuated by avoidance behaviors that prevent your brain from learning that modern dental treatment is safe. Understanding that your phobia developed through specific mechanisms and is maintained through avoidance creates hope—you can work with mental health professionals to decondition fear associations, challenge catastrophic thoughts, and rebuild your ability to tolerate dental treatment through evidence-based approaches. Recognizing dental phobia as legitimate anxiety rather than weakness enables you to access help and regain your oral health.
 
 ## Related Articles
 
 - [Pre-Medication Anti-Anxiety Pills](/article/pre-medication-anti-anxiety-pills.html)
 - [Timeline for Anesthesia Options](/article/timeline-for-anesthesia-options.html)
 - [Post-Traumatic Stress and Dentistry](/article/post-traumatic-stress-and-dentistry.html)
+

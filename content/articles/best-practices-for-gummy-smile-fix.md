@@ -1,26 +1,36 @@
 ---
-title: Comprehensive Management of Excessive Gingival Display and
-slug: best-practices-for-gummy-smile-fix
 category: Cosmetic Dentistry
 category_slug: cosmetic-dentistry
-excerpt: "If you've always felt self-conscious about showing too much gum when you smile, you're not alone. About one in four people feel the same way."
 date: 2026-03-05
+excerpt: If you've always felt self-conscious about showing too much gum when you
+  smile, you're not alone. About one in four people feel the same way.
 read_time: 11 min
+references:
+- Feller L, Blignaut JB. A Generalized Description of the Gummy Smile. South Afr Dent
+  J. 2021;76(4):187-189.
+- Levine RA, McGuire MK. The Diagnosis and Treatment of the Gummy Smile. Compend Contin
+  Educ Dent. 2021;18(9):824-831.
+- Robbins JW. Differential Diagnosis and Treatment of the Gummy Smile. Pract Proced
+  Aesthet Dent. 2021;11(7):567-572.
+- Stilwell SH, Kokich VG. Esthetic Considerations in Cosmetic Dentistry and Orthodontics.
+  Dent Clin N Am. 2020;64(2):259-283.
+- Al Hayek SA, Aboulazm KS, Abdelnabbi RH. Combination Approach to Gummy Smile Treatment.
+  Int J Periodont Restorat Dent. 2022;42(2):e1-e8.
+- Araujo MR, Sonohara M. Gingival Botulinum Toxin Injection for Gummy Smile. Br Dent
+  J. 2021;229(12):764-768.
+- Kokich VO. Esthetic Outcomes of Osseous Contouring. J Periodontol. 2021;89(S1):42-57.
+- Imber JC, Tarnow DP. Restoration of Previously Treated Edentulous Ridge in Multiple
+  Zones. Int J Periodont Restorat Dent. 2020;12(3):160-173.
+- Desai SM, Barredo BJ. Alteration of Smile Esthetics Following Gingivectomy. Pract
+  Proced Aesthet Dent. 2020;9(4):471-480.
+- 'Dym CL, Kerrick JM. Esthetic Dentistry: Crown Lengthening Without an Apical Reposition.
+  J Prosthet Dent. 2021;71(3):198-203.'
+reviewed: true
 reviewer_specialty: Cosmetic Dentistry
+slug: best-practices-for-gummy-smile-fix
 subcategory: Cosmetic Overview
 subcategory_slug: overview-cosmetic
-reviewed: true
-references:
-  - "Feller L, Blignaut JB. A Generalized Description of the Gummy Smile. South Afr Dent J. 2021;76(4):187-189."
-  - "Levine RA, McGuire MK. The Diagnosis and Treatment of the Gummy Smile. Compend Contin Educ Dent. 2021;18(9):824-831."
-  - "Robbins JW. Differential Diagnosis and Treatment of the Gummy Smile. Pract Proced Aesthet Dent. 2021;11(7):567-572."
-  - "Stilwell SH, Kokich VG. Esthetic Considerations in Cosmetic Dentistry and Orthodontics. Dent Clin N Am. 2020;64(2):259-283."
-  - "Al Hayek SA, Aboulazm KS, Abdelnabbi RH. Combination Approach to Gummy Smile Treatment. Int J Periodont Restorat Dent. 2022;42(2):e1-e8."
-  - "Araujo MR, Sonohara M. Gingival Botulinum Toxin Injection for Gummy Smile. Br Dent J. 2021;229(12):764-768."
-  - "Kokich VO. Esthetic Outcomes of Osseous Contouring. J Periodontol. 2021;89(S1):42-57."
-  - "Imber JC, Tarnow DP. Restoration of Previously Treated Edentulous Ridge in Multiple Zones. Int J Periodont Restorat Dent. 2020;12(3):160-173."
-  - "Desai SM, Barredo BJ. Alteration of Smile Esthetics Following Gingivectomy. Pract Proced Aesthet Dent. 2020;9(4):471-480."
-  - "Dym CL, Kerrick JM. Esthetic Dentistry: Crown Lengthening Without an Apical Reposition. J Prosthet Dent. 2021;71(3):198-203."
+title: Comprehensive Management of Excessive Gingival Display
 ---
 
 If you've always felt self-conscious about showing too much gum when you smile, you're not alone. About one in four people feel the same way. A "gummy smile" (excessive gingival display) happens for different reasons, and fortunately, there are several ways to fix it. The best solution depends on why your smile looks the way it does. For more details, see our guide on [Adhesive Dentistry Cosmetics](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html).
@@ -119,18 +129,17 @@ Cost varies significantly. Botulinum toxin is less expensive upfront but require
 
 A gummy smile doesn't have to stay a gummy smile. Multiple treatment options exist, ranging from reversible (botulinum toxin) to permanent (surgery). The key is accurate diagnosis of the underlying cause, then selecting the treatment matching your preferences and commitment level. Most people achieve excellent results with modern gummy smile treatments and report significantly increased confidence in their smile.
 
-## Related Articles You May Find Helpful
-
-- [Adhesive Dentistry Cosmetics: Bonded Restorations Without Cutting](/article/adhesive-dentistry-cosmetics-bonded-restorations-without-cutting.html)
-- [All-Ceramic Veneers: Ultra-Thin Cosmetic Shells](/article/all-ceramic-veneers-ultra-thin-cosmetic-shells.html)
-- [Anterior Guidance: How Incisor Position Controls Bite Mechanics](/article/anterior-guidance-incisor-controlling-bite.html)
-
-
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about gummy smile fix. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** If you've always felt self-conscious about showing too much gum when you smile, you're not alone. Your dentist can help you understand what steps are right for your specific needs.
+
+## Related Articles
+
+- [Anterior Guidance](/article/anterior-guidance-incisor-controlling-bite.html)
+- [Cosmetic Restoration Options Compared: Porcelain](/article/timeline-for-cosmetic-restoration-types.html)
+- [When Should You Whiten Your Teeth?Timing Whitening with](/article/tooth-whitening-timing-when-to-whiten-during-treatment.html)
+- [Cosmetic Alternatives to Orthodontics: When Veneers,](/article/benefits-of-teeth-alignment-alternatives.html)
+- [Whitening Toothpaste, RDA Index, and Abrasive Safety](/article/whitening-toothpaste-abrasive-content-and-safety.html)
 

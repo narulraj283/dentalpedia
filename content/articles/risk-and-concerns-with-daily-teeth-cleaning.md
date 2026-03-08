@@ -45,7 +45,9 @@ Don't forget your tongue. Bacteria accumulate on your tongue and contribute to b
 
 Flossing removes plaque and food debris from between teeth where your toothbrush can't reach. Plaque between teeth hardens into tartar that only professional cleaning can remove. This plaque and tartar cause gum disease, cavities between teeth, and bad breath. Despite knowing flossing is important, most people don't floss regularly or correctly.
 
-Use about 18 inches of floss. Wrap it around your middle fingers and hold it tight between your thumbs and forefingers. Gently insert floss between teeth and slide it down against the tooth surface, wrapping it into a C-shape against one tooth. Gently pull the floss upward to remove plaque. Repeat on the other tooth surface. Use a fresh section of floss for each space between teeth.
+Use about 18 inches of floss. Wrap it around your middle fingers and hold it tight between your thumbs and forefingers. Gently insert floss between teeth and slide it down against the tooth surface, wrapping it into a C-shape against one tooth.
+
+Gently pull the floss upward to remove plaque. Repeat on the other tooth surface. Use a fresh section of floss for each space between teeth.
 
 Floss daily, ideally in the evening so plaque removed doesn't sit overnight. If you find traditional floss difficult, water floss devices or floss picks can work, though they're less effective than traditional floss at removing plaque. The key is removing plaque from between teeth daily—your specific tool matters less than consistency.
 
@@ -55,7 +57,7 @@ Use a fluoride toothpaste—fluoride strengthens your enamel and helps prevent c
 
 For sensitive teeth (where cold or sweet foods cause pain), desensitizing toothpaste contains chemicals that block sensation from triggering sensitivity. Using desensitizing toothpaste for 2+ weeks provides benefits. If sensitivity continues despite desensitizing toothpaste, see your dentist—sensitivity sometimes indicates problems like gum recession or cavity that need treatment.
 
-The most important factor in toothpaste selection is that you use it twice daily. The specific brand matters far less than consistency of use. For more on this topic, see our guide on [Gestational Gingivitis Pregnancy Effe...](/article/gestational-gingivitis-pregnancy-effects-on-gums.html).
+The most important factor in toothpaste selection is that you use it twice daily. The specific brand matters far less than consistency of use. For more on this topic, see our guide on [Gestational Gingivitis: Pregnancy Effects on Gums](/article/gestational-gingivitis-pregnancy-effects-on-gums.html).
 
 ## Mouthwash and Rinses
 
@@ -99,11 +101,11 @@ Adequate calcium, vitamin D, and vitamin C support bone and gum health. Eating c
 
 ## Conclusion
 
-Brush twice daily for 2 minutes with gentle technique and soft bristles. Floss daily to remove interdental plaque. Use fluoride toothpaste. Don't brush immediately after acidic foods. Avoid aggressive brushing that damages gums. Use supplemental mouthwash if desired, but not as replacement for brushing and flossing. Clean around braces, implants, or dentures with special attention. Understand that saliva helps prevent cavities and gum disease. Diet affects oral health—limit sugary and acidic foods. Consistent daily cleaning is more important than expensive toothpaste or tools.
+Brush twice daily for 2 minutes with gentle technique and soft bristles. Floss daily to remove interdental plaque. Use fluoride toothpaste. Don't brush immediately after acidic foods. Avoid aggressive brushing that damages gums.
 
-## Key Takeaway
+Use supplemental mouthwash if desired, but not as replacement for brushing and flossing. Clean around braces, implants, or dentures with special attention. Understand that saliva helps prevent cavities and gum disease. Diet affects oral health—limit sugary and acidic foods. Consistent daily cleaning is more important than expensive toothpaste or tools.
 
-Your daily oral hygiene habits—brushing gently twice daily, flossing daily, and using fluoride toothpaste—are the foundation of good oral health. No professional treatment can substitute for consistent daily care.
+> **Key Takeaway:** Your daily oral hygiene habits—brushing gently twice daily, flossing daily, and using fluoride toothpaste—are the foundation of good oral health. No professional treatment can substitute for consistent daily care.
 
 ## Related Articles
 

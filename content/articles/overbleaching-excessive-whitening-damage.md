@@ -70,7 +70,7 @@ This appears radiographically as widening of the pulp chamber and pulp canal (th
 
 ## Safe Whitening Protocols
 
-Professional-guided bleaching remains safest because your dentist can assess enamel thickness, identify pre-existing damage, apply protective barriers, monitor treatment, and modify approach if complications develop. For more on this topic, see our guide on [Common Misconceptions About Cosmetic ...](/article/common-misconceptions-about-cosmetic-crown-selection.html).
+Professional-guided bleaching remains safest because your dentist can assess enamel thickness, identify pre-existing damage, apply protective barriers, monitor treatment, and modify approach if complications develop. For more on this topic, see our guide on [Common Misconceptions About Cosmetic Crown Selection](/article/common-misconceptions-about-cosmetic-crown-selection.html).
 
 **Safe professional protocol typically involves:**
 1. **Pre-treatment desensitization:** Fluoride and potassium nitrate application 24 hours before bleaching (or morning-of application)
@@ -98,14 +98,17 @@ Professional whitening within evidence-based guidelines achieves 5-8 shade impro
 
 Most patients achieve their aesthetic goals within safe protocols. The goal of cosmetic dentistry remains balancing aesthetic improvement with maintaining dental health. If whitening creates permanent damage requiring restoration, the cosmetic benefit becomes negated by long-term consequences.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Professional tooth whitening with proper protocols represents safe, effective cosmetic improvement. The key to safety is avoiding overbleaching—excessive concentration, excessive frequency, or excessive duration creating damage exceeding the cosmetic benefit. Communication with your dentist about whitening intentions permits individualized risk assessment and protocol selection. For teeth with existing damage, sensitivity, or other risk factors, modified protocols with lower concentrations and shorter durations protect enamel while still achieving meaningful improvement. The goal is creating a brighter smile while preserving tooth strength and health.
 
 > **Key Takeaway:** Tooth whitening safely requires moderate peroxide concentrations (15-20% for at-home, 25-35% for in-office), appropriate duration limits, protective measures against sensitivity, and limiting frequency to every 3-6 months. Excessive bleaching damages enamel hardness, creates surface changes, and causes sensitivity. Professional whitening with proper protocols achieves 5-8 shade improvement safely. Talk with your dentist about safe whitening options for your specific situation.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
 - [Natural Tooth Whitening Methods: Evidence-Based Options](/article/natural-tooth-whitening-methods-and-evidence.html)
 - [Teeth Color: Understanding Your Natural Shade](/article/natural-tooth-shade-understanding-baseline.html)
 - [Whitening Maintenance: Keeping Your Bright Smile](/article/whitening-maintenance-refresh-schedule.html)
+

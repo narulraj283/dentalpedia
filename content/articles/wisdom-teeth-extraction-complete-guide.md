@@ -91,19 +91,19 @@ Activity restrictions limit hemorrhage and dry socket risk: no smoking or alcoho
 
 Oral hygiene modifications begin 24 hours post-extraction: gentle warm salt rinses (1/2 teaspoon salt in 8 oz water, four times daily) commencing post-meals and before bed, avoid vigorous rinsing or spitting (negative pressure dislodges clot promoting dry socket), and gentle tooth brushing avoiding extraction sites. Chlorhexidine 0.12% rinses (15 mL, twice daily for 1-2 weeks) reduce oral bacterial load and surgical site infection risk.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Wisdom tooth extraction is a common procedure that, when properly planned and executed, has a high success rate with minimal complications. Your surgeon evaluates your medical history, assesses surgical complexity, selects appropriate anesthesia, and uses meticulous surgical technique. Comprehensive postoperative care—activity restrictions, pain management, and proper wound hygiene—promotes healing. Complications (dry socket at 1-5%, temporary numbness at 0.4-3.8%, permanent numbness at 0.1-0.5%) are possible but uncommon with proper technique.
 
-For more information on deciding whether extraction is necessary, see our article on [wisdom teeth: do they always need removal](/article/wisdom-teeth-do-they-always-need-to-be-removed.html) and our guide on [what you need to know about wisdom teeth extraction](/article/wisdom-teeth-extraction-what-you-need-to-know.html).
+For more information on deciding whether extraction is necessary, see our article on [Wisdom Teeth: Do They Always Need Removal](/article/wisdom-teeth-do-they-always-need-to-be-removed.html) and our guide on [What You Need to Know About Wisdom Teeth Extraction](/article/wisdom-teeth-extraction-what-you-need-to-know.html).
 
-## Key Takeaway
-
-Wisdom tooth extraction requires medical clearance, surgical planning, skilled operative technique, meticulous hemostasis, and comprehensive postoperative management. Proper planning and patient education minimize complications while promoting optimal healing.
-
+> **Key Takeaway:** Wisdom tooth extraction requires medical clearance, surgical planning, skilled operative technique, meticulous hemostasis, and comprehensive postoperative management. Proper planning and patient education minimize complications while promoting optimal healing.
 
 ## Related Articles
 
 - [Bone Grafting For Implant Preparation](/article/bone-grafting-for-implant-preparation.html)
 - [All On Four Four Implant Full Arch](/article/all-on-four-four-implant-full-arch.html)
 - [Salivary Gland Surgery Removal And Reconstruction](/article/salivary-gland-surgery-removal-and-reconstruction.html)
+

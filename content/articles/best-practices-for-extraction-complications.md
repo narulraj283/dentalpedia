@@ -1,26 +1,37 @@
 ---
-title: Prevention and Management of Alveolar Osteitis and
-slug: best-practices-for-extraction-complications
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "If you're facing a tooth extraction, you've probably heard about something called 'dry socket.' While most people recover from tooth extraction."
 date: 2026-03-05
+excerpt: If you're facing a tooth extraction, you've probably heard about something
+  called 'dry socket.' While most people recover from tooth extraction.
 read_time: 10 min
+references:
+- Blum IR. Contemporary Views on Dry Socket (Alveolar Osteitis). J Oral Maxillofac
+  Surg. 2020;60(5):519-535.
+- Bouloux GF, Steed MB, Perciaccante VJ. Complications of Exodontia. Dent Clin N Am.
+  2021;56(4):779-795.
+- Colella G, Campisi G, Muzio LL. Oral Complications Associated with Chemotherapy,
+  Radiotherapy, and Immunotherapy. Anticancer Res. 2019;39(7):3387-3394.
+- Hupp JR, Tucker MR, Ellis E. Contemporary Oral and Maxillofacial Surgery. 7th ed.
+  Elsevier; 2019.
+- Sisk AL, Hammer WB, Shelton DW, Joy ED. Complications Following Removal of Impacted
+  Third Molars. J Oral Maxillofac Surg. 2020;52(9):925-933.
+- Akota I, Alaki S, Mylonas AI. Prevention and Management of Extraction Socket Complications.
+  Oral Surg Oral Med Oral Pathol. 2021;131(4):e100-e114.
+- Stubinger S, Kuttenberger J, Filippi A. Post-extraction Management. Quintessence
+  Int. 2020;51(2):102-110.
+- 'Jaafar N, Leyland AH. Alveolar Osteitis: Prevalence, Incidence and Risk Factors.
+  Br J Oral Maxillofac Surg. 2019;57(8):763-769.'
+- Oreilly C, Ferris S. The Effects of Trauma from Extraction on Alveolar Osteitis.
+  J Dent Res. 2020;99(5):525-532.
+- Gordon JS, Hinds EC. Postoperative Edema and Trismus Following Intraoral Exodontia.
+  J Oral Surg. 2018;26(7):405-417.
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: best-practices-for-extraction-complications
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - "Blum IR. Contemporary Views on Dry Socket (Alveolar Osteitis). J Oral Maxillofac Surg. 2020;60(5):519-535."
-  - "Bouloux GF, Steed MB, Perciaccante VJ. Complications of Exodontia. Dent Clin N Am. 2021;56(4):779-795."
-  - "Colella G, Campisi G, Muzio LL. Oral Complications Associated with Chemotherapy, Radiotherapy, and Immunotherapy. Anticancer Res. 2019;39(7):3387-3394."
-  - "Hupp JR, Tucker MR, Ellis E. Contemporary Oral and Maxillofacial Surgery. 7th ed. Elsevier; 2019."
-  - "Sisk AL, Hammer WB, Shelton DW, Joy ED. Complications Following Removal of Impacted Third Molars. J Oral Maxillofac Surg. 2020;52(9):925-933."
-  - "Akota I, Alaki S, Mylonas AI. Prevention and Management of Extraction Socket Complications. Oral Surg Oral Med Oral Pathol. 2021;131(4):e100-e114."
-  - "Stubinger S, Kuttenberger J, Filippi A. Post-extraction Management. Quintessence Int. 2020;51(2):102-110."
-  - "Jaafar N, Leyland AH. Alveolar Osteitis: Prevalence, Incidence and Risk Factors. Br J Oral Maxillofac Surg. 2019;57(8):763-769."
-  - "Oreilly C, Ferris S. The Effects of Trauma from Extraction on Alveolar Osteitis. J Dent Res. 2020;99(5):525-532."
-  - "Gordon JS, Hinds EC. Postoperative Edema and Trismus Following Intraoral Exodontia. J Oral Surg. 2018;26(7):405-417."
+title: Prevention and Management of Alveolar Osteitis
 ---
 
 If you're facing a tooth extraction, you've probably heard about something called "dry socket." While most people recover from tooth extraction without problems, it's helpful to understand what can go wrong and how to prevent it. Knowing what to expect and how to take care of yourself afterward makes a huge difference in your healing. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
@@ -105,18 +116,17 @@ Make sure to schedule a follow-up appointment about one week after extraction. Y
 
 Tooth extraction is straightforward for most people, and complications like dry socket are preventable. By following your dentist's instructions carefully, you dramatically reduce your risk. If something doesn't feel right during healing, don't hesitate to call your dentist—that's what they're there for. With proper care and attention, you'll heal well and be ready to discuss options for replacing your tooth when you're ready.
 
-## Related Articles You May Find Helpful
-
-- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
-- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
-- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
-
-
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about extraction complications. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** If you're facing a tooth extraction, you've probably heard about something called "dry socket." While most people recover from tooth extraction without problems, it's helpful to understand what can go wrong and how to prevent it. Your dentist can help you understand what steps are right for your specific needs.
+
+## Related Articles
+
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+- [Common Misconceptions About Pre-Surgery Preparation](/article/common-misconceptions-about-pre-surgery-preparation.html)
+- [Reducing Swelling After Oral Surgery](/article/how-to-swelling-reduction.html)
+- [Distraction Osteogenesis: Growing New Bone](/article/distraction-osteogenesis-growing-new-bone.html)
+- [Oral Surgical Complications: Classification, Timeline,](/article/timeline-for-surgical-complications.html)
 

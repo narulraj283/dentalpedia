@@ -59,9 +59,11 @@ If you were born with a shorter-than-average upper lip, you might naturally show
 
 If your gummy smile is caused by too much gum tissue (the most common cause), crown lengthening is usually the solution. Your dentist makes a small incision to gently move your gum line down, exposing more of your tooth surface. The procedure takes about an hour, and you'll feel minimal discomfort because your dentist will use local anesthesia.
 
-The healing happens over several months. In the first 1 to 2 weeks, your gums will be tender and you'll have stitches that come out around day 10 to 14. Over the next month, the swelling goes down and your gums begin stabilizing in their new position. The final result takes about 3 to 6 months as everything heals and settles. During this time, you shouldn't get crowns or veneers because your gum line might still be changing position. Most people see reduction of their gummy smile by 3 to 5 millimeters, and satisfaction rates are over 85 percent.
+The healing happens over several months. In the first 1 to 2 weeks, your gums will be tender and you'll have stitches that come out around day 10 to 14. Over the next month, the swelling goes down and your gums begin stabilizing in their new position.
 
-Learn more about [the best practices for teeth bleaching safety](/article/best-practices-for-teeth-bleaching-safety.html) if you're planning to brighten your smile after gum treatment.
+The final result takes about 3 to 6 months as everything heals and settles. During this time, you shouldn't get crowns or veneers because your gum line might still be changing position. Most people see reduction of their gummy smile by 3 to 5 millimeters, and satisfaction rates are over 85 percent.
+
+Learn more about [The Best Practices for Teeth Bleaching Safety](/article/best-practices-for-teeth-bleaching-safety.html) if you're planning to brighten your smile after gum treatment.
 
 ## Botulinum Toxin: A Quick and Reversible Option
 
@@ -73,28 +75,34 @@ The advantages? It's reversible, so if you don't like the result, it will gradua
 
 If your upper lip is naturally short or your muscles are very active, your dentist might recommend lip repositioning surgery. This procedure is minimally invasive and done under local anesthesia. There are a few different techniques, but they all aim to limit how much your lip rises when you smile.
 
-The recovery is relatively quick—about 5 to 7 days before you're feeling mostly normal. You'll have some swelling and discomfort for the first week that responds well to mild pain medication. By week 2, your stitches come out. Final results take about 1 to 3 months to fully settle. Most people see a reduction of 2 to 5 millimeters in gum display. The main advantage is that this is permanent, so you don't need repeat treatments. The risk is overcorrection, where you end up not showing enough gum and your smile looks unnatural, though your dentist can make adjustments if needed.
+The recovery is relatively quick—about 5 to 7 days before you're feeling mostly normal. You'll have some swelling and discomfort for the first week that responds well to mild pain medication. By week 2, your stitches come out.
+
+Final results take about 1 to 3 months to fully settle. Most people see a reduction of 2 to 5 millimeters in gum display. The main advantage is that this is permanent, so you don't need repeat treatments. The risk is overcorrection, where you end up not showing enough gum and your smile looks unnatural, though your dentist can make adjustments if needed.
 
 ## Jaw Surgery: The Most Comprehensive Approach
 
 If your gummy smile is caused by your upper jaw being too long, you might need orthognathic surgery (jaw repositioning surgery). This is performed by an oral surgeon in a hospital setting under general anesthesia. The surgery repositions your upper jaw to reduce your facial height and eliminate excessive gum display. This can reduce your gummy smile by 4 to 8 millimeters, and it's permanent.
 
-Recovery takes longer than other options. The first 1 to 2 weeks involve significant swelling and discomfort, and you'll eat only liquids. Weeks 2 to 4 bring gradual improvement and you can transition to soft foods. By 4 to 8 weeks, most swelling is gone and you can return to normal activities. Final adaptation takes 6 to 12 months. A bonus is that this surgery often improves your bite at the same time. The downside is that this is a major surgery with significant recovery time, so it's typically recommended only when other options won't achieve your goals.
+Recovery takes longer than other options. The first 1 to 2 weeks involve significant swelling and discomfort, and you'll eat only liquids. Weeks 2 to 4 bring gradual improvement and you can transition to soft foods.
+
+By 4 to 8 weeks, most swelling is gone and you can return to normal activities. Final adaptation takes 6 to 12 months. A bonus is that this surgery often improves your bite at the same time. The downside is that this is a major surgery with significant recovery time, so it's typically recommended only when other options won't achieve your goals.
 
 ## Finding Your Perfect Treatment
 
-Your dentist will examine your smile carefully, looking at how much gum shows, your tooth proportions, your jaw structure, and how your lips move when you smile. For more information on aesthetic considerations, see the article about [lip lines and smile arc aesthetic proportions](/article/lip-lines-and-smile-arc-aesthetic-proportions-explained.html). The best treatment plan depends on your specific situation. The important thing is choosing a treatment that addresses your actual cause, not just treating every gummy smile the same way.
+Your dentist will examine your smile carefully, looking at how much gum shows, your tooth proportions, your jaw structure, and how your lips move when you smile. For more information on aesthetic considerations, see the article about [Lip Lines and Smile Arc Aesthetic Proportions](/article/lip-lines-and-smile-arc-aesthetic-proportions-explained.html). The best treatment plan depends on your specific situation. The important thing is choosing a treatment that addresses your actual cause, not just treating every gummy smile the same way.
+
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
 A gummy smile is very treatable, and you have multiple options ranging from quick and reversible (botulinum toxin) to permanent surgical solutions. The best approach depends on what's causing your gummy smile, how much improvement you want, and whether you prefer permanent or temporary results. Talk with your dentist about your goals and they can recommend the option that's right for you.
 
-## Key Takeaway
-
-The most successful gummy smile treatments are those that target the specific cause of your excessive gum display, whether that's too much gum tissue, overactive muscles, jaw structure, or lip length.
+> **Key Takeaway:** The most successful gummy smile treatments are those that target the specific cause of your excessive gum display, whether that's too much gum tissue, overactive muscles, jaw structure, or lip length.
 
 ## Related Articles
 
-- [Best Practices for Teeth Bleaching Safety](/article/best-practices-for-teeth-bleaching-safety.html)
-- [Lip Lines and Smile Arc: Aesthetic Proportions Explained](/article/lip-lines-and-smile-arc-aesthetic-proportions-explained.html)
 - [Smile Improvement Options: What You Need to Know](/article/smile-improvement-options-what-you-need-to-know.html)
+
+- [Ceramic vs Porcelain Veneers: Material Comparison](/article/ceramic-vs-porcelain-veneers-material-comparison.html)
+- [Preventing Staining of Cosmetic Dental Restorations](/article/stain-prevention-for-cosmetic-restorations.html)
+

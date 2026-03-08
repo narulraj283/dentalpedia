@@ -49,7 +49,7 @@ Isolating the dental contribution from these confounders is methodologically dif
 
 ## Do Neurological or Immune Problems Result From Amalgam?
 
-Some patients report that symptom removal after amalgam replacement suggested dental mercury was the cause. These reports include fatigue, memory problems, concentration difficulties, tremors, and immune-related condition improvement. Learning more about [broken tooth emergency temporary care](/article/broken-tooth-emergency-temporary-care.html) can help you understand this better. While these symptom changes are real to the patient, establishing causation requires rigorous evidence.
+Some patients report that symptom removal after amalgam replacement suggested dental mercury was the cause. These reports include fatigue, memory problems, concentration difficulties, tremors, and immune-related condition improvement. Learning more about [Broken Tooth Emergency Temporary Care](/article/broken-tooth-emergency-temporary-care.html) can help you understand this better. While these symptom changes are real to the patient, establishing causation requires rigorous evidence.
 
 Multiple large-scale studies examining neurological function in patients with varying numbers of amalgam restorations have failed to demonstrate statistically significant associations between amalgam burden and neurological performance. The problem is that people harbor strong beliefs about whether their symptoms improved, and these expectations powerfully influence perception. Placebo effects in clinical medicine are remarkably robust—typically producing 20-40% improvement rates attributable purely to expectation and naturally-occurring symptom fluctuation.
 
@@ -65,7 +65,7 @@ However, demonstrating that a genetic polymorphism actually causes clinically me
 
 This is where the evidence becomes important. Removing a functioning amalgam restoration to address suspected mercury-related illness creates new problems and risks. The removal procedure itself exposes you to elevated mercury vapor—typically 7-10 times higher than normal amalgam wear would produce. With proper isolation techniques (rubber dam, high-speed evacuation), this risk is minimized but not eliminated.
 
-Replacement with alternative materials introduces different complications. Composite resins provide better esthetics and require less tooth preparation but have higher failure rates than amalgam, particularly in large posterior restorations. They also release uncrosslinked monomers including BPA during and after placement—substances with their own biocompatibility questions. Learning more about [how to emergency tooth pain](/article/how-to-emergency-tooth-pain.html) can help you understand this better. Ceramic inlays provide excellent esthetics and durability but require more aggressive tooth preparation and represent substantial expense ($1,000-3,000 per restoration versus $100-200 for amalgam).
+Replacement with alternative materials introduces different complications. Composite resins provide better esthetics and require less tooth preparation but have higher failure rates than amalgam, particularly in large posterior restorations. They also release uncrosslinked monomers including BPA during and after placement—substances with their own biocompatibility questions. Learning more about [How to Emergency Tooth Pain](/article/how-to-emergency-tooth-pain.html) can help you understand this better. Ceramic inlays provide excellent esthetics and durability but require more aggressive tooth preparation and represent substantial expense ($1,000-3,000 per restoration versus $100-200 for amalgam).
 
 The net effect: you're replacing a durable, proven restoration with materials that may carry their own risks and cost substantially more, based on uncertain evidence that removal improves health outcomes.
 
@@ -89,8 +89,10 @@ The amalgam controversy reflects tension between regulatory safety conclusions, 
 
 > **Key Takeaway:** Major health organizations consider dental amalgam safe for most people, and evidence doesn't support removing functioning fillings to improve health. However, if you're concerned about mercury exposure, discuss options with your dentist. If you choose replacement, understand that alternative materials have different risks and costs, and the removal procedure itself temporarily increases mercury exposure.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Broken Tooth Emergency: Temporary Care](/article/broken-tooth-emergency-temporary-care.html)
-- [How to: Emergency Tooth Pain](/article/how-to-emergency-tooth-pain.html)
 - [Risk and Concerns With Filling Material Selection](/article/risk-and-concerns-with-filling-material-selection.html)
+
+- [Medications and Your Teeth](/article/medication-interactions-and-oral-health.html)
+- [Cost of Infection Prevention](/article/cost-of-infection-prevention.html)
+

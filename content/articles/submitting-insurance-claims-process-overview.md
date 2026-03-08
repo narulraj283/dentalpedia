@@ -1,49 +1,60 @@
 ---
-title: "Submitting Insurance Claims - Process Overview and"
-slug: submitting-insurance-claims-process-overview
 category: Dental Practice & Insurance
 category_slug: dental-practice-insurance
-excerpt: "CDT coding, ADA claim form completion, electronic versus paper submission, pre-authorization workflows, documentation requirements, denial reasons,."
 date: 2026-03-05
+excerpt: CDT coding, ADA claim form completion, electronic versus paper submission,
+  pre-authorization workflows, documentation requirements, denial reasons,.
 read_time: 12 min
+references:
+- title: American Dental Association. Current Dental Terminology (CDT). 2024 Edition.
+    ADA Publishing, Chicago.
+  url: https://pubmed.ncbi.nlm.nih.gov/29290254
+- title: Christensen GJ. The state of dental insurance and practice management. J
+    Am Dent Assoc. 2006;137(5):564-573.
+  url: https://pubmed.ncbi.nlm.nih.gov/16739511
+- title: Hentze R, Titus R. Insurance claim management in dental practice. Gen Dent.
+    2005;53(5):358-365.
+  url: https://pubmed.ncbi.nlm.nih.gov/16188813
+- title: 'Starnino L, Bonaventure M, Gressoni R, et al. Stress and burnout in dental
+    professionals: a cross-sectional study of Italian dentists. J Dent. 2014;42(8):1039-1046.'
+  url: https://pubmed.ncbi.nlm.nih.gov/24607500
+- title: Makhni MC, Cramer AM. Risk management in dental practice. J Calif Dent Assoc.
+    2008;36(7):511-520.
+  url: https://pubmed.ncbi.nlm.nih.gov/18795234
+- title: Schleyer TK, Corby PM, Wintrobe ER, et al. Assessing the impact of electronic
+    health records on workflow in pediatric dental practice. J Am Dent Assoc. 2006;137(3):361-370.
+  url: https://pubmed.ncbi.nlm.nih.gov/16570471
+- title: Hass AN, Cilenti MR, Rotta RF, et al. Prevalence of dental caries and treatment
+    needs among overweight children. J Public Health Dent. 2010;70(2):109-116.
+  url: https://pubmed.ncbi.nlm.nih.gov/20050830
+- title: 'Goodman J, Downes N, Frangos CC. Dental insurance coverage in the United
+    States: prevalence, enrollment status, and trends. J Dent Educ. 2010;74(9):944-954.'
+  url: https://pubmed.ncbi.nlm.nih.gov/20837743
+- title: Eklund SA, Pittman JL, Eklund MW. Utilization of dental services. J Public
+    Health Dent. 2003;63(3):158-164.
+  url: https://pubmed.ncbi.nlm.nih.gov/14518587
+- title: Evans RW, Dennison RP, Hattab FN. Effectiveness of pretreatment estimation
+    of resin needed in restored Class V cavities. Oper Dent. 1999;24(2):73-79.
+  url: https://pubmed.ncbi.nlm.nih.gov/10201840
+reviewed: true
 reviewer_specialty: Dental Practice Management
+slug: submitting-insurance-claims-process-overview
 subcategory: Practice & Insurance Overview
 subcategory_slug: overview-practice
-reviewed: true
-references:
-  - title: "American Dental Association. Current Dental Terminology (CDT). 2024 Edition. ADA Publishing, Chicago."
-    url: https://pubmed.ncbi.nlm.nih.gov/29290254
-  - title: "Christensen GJ. The state of dental insurance and practice management. J Am Dent Assoc. 2006;137(5):564-573."
-    url: https://pubmed.ncbi.nlm.nih.gov/16739511
-  - title: "Hentze R, Titus R. Insurance claim management in dental practice. Gen Dent. 2005;53(5):358-365."
-    url: https://pubmed.ncbi.nlm.nih.gov/16188813
-  - title: "Starnino L, Bonaventure M, Gressoni R, et al. Stress and burnout in dental professionals: a cross-sectional study of Italian dentists. J Dent. 2014;42(8):1039-1046."
-    url: https://pubmed.ncbi.nlm.nih.gov/24607500
-  - title: "Makhni MC, Cramer AM. Risk management in dental practice. J Calif Dent Assoc. 2008;36(7):511-520."
-    url: https://pubmed.ncbi.nlm.nih.gov/18795234
-  - title: "Schleyer TK, Corby PM, Wintrobe ER, et al. Assessing the impact of electronic health records on workflow in pediatric dental practice. J Am Dent Assoc. 2006;137(3):361-370."
-    url: https://pubmed.ncbi.nlm.nih.gov/16570471
-  - title: "Hass AN, Cilenti MR, Rotta RF, et al. Prevalence of dental caries and treatment needs among overweight children. J Public Health Dent. 2010;70(2):109-116."
-    url: https://pubmed.ncbi.nlm.nih.gov/20050830
-  - title: "Goodman J, Downes N, Frangos CC. Dental insurance coverage in the United States: prevalence, enrollment status, and trends. J Dent Educ. 2010;74(9):944-954."
-    url: https://pubmed.ncbi.nlm.nih.gov/20837743
-  - title: "Eklund SA, Pittman JL, Eklund MW. Utilization of dental services. J Public Health Dent. 2003;63(3):158-164."
-    url: https://pubmed.ncbi.nlm.nih.gov/14518587
-  - title: "Evans RW, Dennison RP, Hattab FN. Effectiveness of pretreatment estimation of resin needed in restored Class V cavities. Oper Dent. 1999;24(2):73-79."
-    url: https://pubmed.ncbi.nlm.nih.gov/10201840
+title: Submitting Insurance Claims - Process Overview
 ---
 
 ## Understanding Your Dental Insurance Claim
 
 When you receive dental treatment, your dentist's office sends an insurance claim to your insurance company to request payment. This process affects how much your insurance will pay and how long you'll wait to hear back about coverage. Your dentist's team works with your insurance company to make sure your claim gets reviewed properly so you understand exactly what you owe. When everything is done correctly, most claims process smoothly without any problems.
 
-The basic process works like this: your dentist plans your treatment, checks what your insurance covers, submits the claim electronically or on paper, the insurance company reviews it and makes a decision, and then you and your dentist find out what gets paid. Learn more about [pre authorization getting insurance](/article/pre-authorization-getting-insurance-approval.html) for additional guidance. When there are errors or missing information during this process, everything slows down and causes frustration. Learning how claims work helps you stay informed about your costs and timing.
+The basic process works like this: your dentist plans your treatment, checks what your insurance covers, submits the claim electronically or on paper, the insurance company reviews it and makes a decision, and then you and your dentist find out what gets paid. Learn more about [Pre Authorization Getting Insurance](/article/pre-authorization-getting-insurance-approval.html) for additional guidance. When there are errors or missing information during this process, everything slows down and causes frustration. Learning how claims work helps you stay informed about your costs and timing.
 
 ## How Your Dentist Codes Your Treatment
 
 Your dentist uses special codes called CDT (Current Dental Terminology) codes to describe every procedure you receive. These codes work like a universal language that all insurance companies understand worldwide. Each code starts with the letter "D" followed by four numbers. These codes help your insurance company figure out exactly what treatment you received so they can decide how much to pay.
 
-Different procedures have different codes. Learn more about [dental malpractice basics](/article/dental-malpractice-basics.html) for additional guidance. For example, codes starting with D1000 are for cleanings and preventive care, codes starting with D2000 are for fillings and restorations, and codes starting with D7000 are for tooth extractions. Your dentist must use the right code for each procedure you get, or your insurance company might reject your claim or pay the wrong amount. [Read more about insurance coverage limitations to understand what your plan covers.](insurance-coverage-limitations-whats-excluded)
+Different procedures have different codes. Learn more about [Dental Malpractice Basics](/article/dental-malpractice-basics.html) for additional guidance. For example, codes starting with D1000 are for cleanings and preventive care, codes starting with D2000 are for fillings and restorations, and codes starting with D7000 are for tooth extractions. Your dentist must use the right code for each procedure you get, or your insurance company might reject your claim or pay the wrong amount. [Read more about insurance coverage limitations to understand what your plan covers.](insurance-coverage-limitations-whats-excluded)
 
 Using the wrong code is one of the most common reasons claims get denied. For example, if you received special treatment for your gums called scaling and root planing, your dentist must use the code for that specific treatment, not the code for a regular cleaning. If your dentist accidentally uses the wrong code, your insurance company might deny the claim or pay less than you expected. This is why your dentist's office spends time getting the codes exactly right.
 
@@ -99,12 +110,11 @@ Many appeals are successful, especially when you can show that your dentist used
 
 Insurance claims are a key part of dental care that directly affects your costs and how quickly bills get processed. When your dentist's office handles claims correctly and communicates clearly with your insurance company, everything runs smoothly without delay. Keeping your insurance information current, understanding what your plan covers, and working with your dentist's office to submit claims properly helps prevent problems and surprises down the road. If you ever have questions about your claim or what your insurance covers, ask your dentist's office—they're there to help you navigate the insurance process.
 
-## Key Takeaway
-
-Understanding how dental insurance claims work helps you avoid surprise bills and ensures your dentist gets paid on time. Keep your insurance information updated with your dentist, ask for pre-authorization before expensive treatments, and review your EOB carefully to understand exactly what you owe.
+> **Key Takeaway:** Understanding how dental insurance claims work helps you avoid surprise bills and ensures your dentist gets paid on time. Keep your insurance information updated with your dentist, ask for pre-authorization before expensive treatments, and review your EOB carefully to understand exactly what you owe.
 
 ## Related Articles
 
-- [Pre-authorization-getting-insurance-approval](/articles/pre-authorization-getting-insurance-approval)
-- [Insurance-coverage-limitations-whats-excluded](/articles/insurance-coverage-limitations-whats-excluded)
-- [Deductibles-and-copays-understanding-costs](/articles/deductibles-and-copays-understanding-costs)
+- [Dental Insurance Exclusions: What Isn't Covered](/article/insurance-coverage-limitations-whats-excluded.html)
+- [Deductibles and Copays](/article/deductibles-and-copays-understanding-costs.html)
+- [Dental Schools and Training](/article/dental-schools-and-training.html)
+

@@ -39,7 +39,9 @@ Contact and collision sports—football, ice hockey, lacrosse, basketball, socce
 
 ## Stock Guards: Why They Don't Work Well
 
-Stock mouthguards come in standard small, medium, and large sizes, fitting almost nobody perfectly. They lack any customization to your specific tooth anatomy. They slip, constantly fall out during activity, and don't cover critical tooth surfaces. Many athletes hate wearing them because they're uncomfortable, they interfere with speech and breathing, and they don't stay in. As a result, athletes often remove them during games when they're needed most. Protection that sits on the bench does nothing.
+Stock mouthguards come in standard small, medium, and large sizes, fitting almost nobody perfectly. They lack any customization to your specific tooth anatomy. They slip, constantly fall out during activity, and don't cover critical tooth surfaces.
+
+Many athletes hate wearing them because they're uncomfortable, they interfere with speech and breathing, and they don't stay in. As a result, athletes often remove them during games when they're needed most. Protection that sits on the bench does nothing.
 
 Stock guards are the cheapest option, costing $5-$10, but they provide minimal actual protection. They might be better than nothing, but count on significant gaps in coverage. Think of them as a starting point, not a final solution.
 
@@ -53,7 +55,9 @@ The downside is that material thickness varies unpredictably across the device, 
 
 Custom-made mouthguards fabricated by dental laboratories from impressions of your specific teeth provide the best protection. Your dentist makes an impression, sends it to a lab, and specialized machinery heats and molds protective material directly to your tooth anatomy. This creates precision fit that stays in place, covers all critical tooth surfaces, and distributes impacts evenly.
 
-Custom guards absorb impact forces better because of consistent material thickness (typically 4-6 millimeters) and proper positioning. Athletes can talk, breathe, and drink water without difficulty. They stay in place during intense activity without needing adjustment. They last 3-5 years with proper care. They cost $200-$500, which sounds expensive until you realize preventing one tooth injury pays for decades of custom guards. For more on this topic, see our guide on [Sports Mouthguards For Young Athletes](/article/sports-mouthguards-for-young-athletes.html).
+Custom guards absorb impact forces better because of consistent material thickness (typically 4-6 millimeters) and proper positioning. Athletes can talk, breathe, and drink water without difficulty. They stay in place during intense activity without needing adjustment.
+
+They last 3-5 years with proper care. They cost $200-$500, which sounds expensive until you realize preventing one tooth injury pays for decades of custom guards. For more on this topic, see our guide on Sports Mouthguards For Young Athletes.
 
 For serious athletes in contact sports, custom guards are non-negotiable. The investment pays for itself by preventing a single injury that would cost thousands in treatment.
 
@@ -80,8 +84,6 @@ If your guard slips, talks irritate you, or you need to constantly adjust it, it
 
 Your mouthguard needs care to stay protective. Rinse it after wearing, clean it with toothbrush and toothpaste weekly, and store it in a ventilated case (never in a plastic bag where bacteria multiply). Replace it every 3-5 years or sooner if it becomes visibly worn, hard, cracked, or uncomfortable. Kids and teens need replacement more frequently as their teeth erupt and grow.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about mouthguard fit: protection effectiveness and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -90,14 +92,22 @@ You might also want to ask about the expected timeline, what the recovery proces
 
 Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
+
+For more information, see [Athletic Drink Acidity: Effects on Dental Erosion](/article/athletic-drink-acidity-effects.html).
+
 ## Conclusion
 
-A properly fitting mouthguard, worn consistently, prevents virtually all tooth injuries in sports. Stock guards feel like failure before you even start. Boil-and-bite provides reasonable protection at modest cost for recreational athletes. Custom-fabricated guards provide the best protection and feel so good you'll actually want to wear them. The choice between types depends on your sport intensity, budget, and commitment level. What matters most is choosing something that fits properly and actually wearing it every single time you play or practice.
+A properly fitting mouthguard, worn consistently, prevents virtually all tooth injuries in sports. Stock guards feel like failure before you even start. Boil-and-bite provides reasonable protection at modest cost for recreational athletes.
+
+Custom-fabricated guards provide the best protection and feel so good you'll actually want to wear them. The choice between types depends on your sport intensity, budget, and commitment level. What matters most is choosing something that fits properly and actually wearing it every single time you play or practice.
 
 > **Key Takeaway:** Invest in a custom-fitted mouthguard for contact sports, ensure it fits properly so you'll actually wear it, and replace it every 3-5 years—this single piece of equipment prevents injuries costing tens of thousands in treatment.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Sports Mouthguards for Young Athletes](/article/sports-mouthguards-for-young-athletes.html)
 - [Post-Sport Hydration: Dry Mouth Risk](/article/post-sport-hydration-dry-mouth-risk.html)
 - [Teeth Whitening for Athletes](/article/teeth-whitening-for-athletes.html)
+
+- [Teeth Grinding in Athletes: The Stress Factor](/article/teeth-grinding-in-athletes-stress-factor.html)
+- [Traumatic Dental Injuries in Sports - Prevention](/article/traumatic-injuries-in-sports-prevention.html)
+

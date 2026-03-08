@@ -75,7 +75,7 @@ If you're having oral surgery, you're probably wondering what to expect afterwar
 
 ## Dry Socket (Alveolar Osteitis)
 
-Dry socket happens in 2-5% of routine extractions and up to 30% of wisdom tooth extractions. Learn more about [best practices for complex](/article/best-practices-for-complex-extractions.html) for additional guidance. You'll notice it 2-4 days after surgery: pain worse than your initial recovery pain, a foul smell, and an empty-looking socket.
+Dry socket happens in 2-5% of routine extractions and up to 30% of wisdom tooth extractions. Learn more about [Best Practices for Complex](/article/best-practices-for-complex-extractions.html) for additional guidance. You'll notice it 2-4 days after surgery: pain worse than your initial recovery pain, a foul smell, and an empty-looking socket.
 
 **Prevention is Better**: Don't smoke for at least 3 days (longer is better). Don't rinse vigorously or spit forcefully for the first day. Don't use straws. Follow all your surgeon's post-op instructions. Chlorhexidine rinses (prescribed by your surgeon) reduce dry socket risk by 25-40%.
 
@@ -88,7 +88,7 @@ Temporary numbness is common and usually goes away within 2-8 weeks. While you'r
 - Avoid very hot foods (you won't feel burns)
 - Be gentle with your toothbrush
 
-Permanent numbness is rare but possible. Learn more about [cleft lip and palate](/article/cleft-lip-and-palate-surgery-multidisciplinary-approach.html) for additional guidance. If you don't see improvement after 8 weeks, or if numbness spreads to new areas, tell your surgeon immediately.
+Permanent numbness is rare but possible. Learn more about [Cleft Lip and Palate](/article/cleft-lip-and-palate-surgery-multidisciplinary-approach.html) for additional guidance. If you don't see improvement after 8 weeks, or if numbness spreads to new areas, tell your surgeon immediately.
 
 ## Your Healing Timeline
 
@@ -110,11 +110,11 @@ Your surgeon probably scheduled a 1-week check-up. Attend it even if you feel fi
 
 Most people heal great after oral surgery—gradual pain relief, swelling goes away, and you're back to normal in 7-14 days. Understanding what's normal and what's a warning sign helps you catch problems early. Follow your surgeon's after-care instructions. Stay in touch if anything concerns you—early help leads to better outcomes.
 
-## Key Takeaway
-
-Your body knows how to heal. Your job is simple: follow your surgeon's instructions, manage pain and swelling, watch for warning signs, and call immediately if something doesn't feel right.
+> **Key Takeaway:** Your body knows how to heal. Your job is simple: follow your surgeon's instructions, manage pain and swelling, watch for warning signs, and call immediately if something doesn't feel right.
 
 ## Related Articles
-- [Healing After Oral Surgery - Day-by-Day Expectations and Patient Guide](/articles/surgical-site-healing-what-you-need-to-know)
-- [Understanding Surgical Success in Oral Surgery - What You Need to Know](/articles/surgical-success-rates-what-you-need-to-know)
-- [Anesthesia Options in Oral Surgery](/articles/anesthesia-options-in-oral-surgery)
+
+- [Why Local Anesthesia Sometimes Doesn't Work](/article/local-anesthesia-failures-why-numbness-doesnt-work.html)
+- [Common Misconceptions About Tooth Extraction Recovery](/article/common-misconceptions-about-tooth-extraction-recovery.html)
+- [Tooth Extraction Recovery Timeline and Healing Phases](/article/timeline-for-recovery-after-extraction.html)
+

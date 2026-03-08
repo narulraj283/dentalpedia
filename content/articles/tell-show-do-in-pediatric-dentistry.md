@@ -43,7 +43,9 @@ The key idea behind Tell-Show-Do is teaching your child that dental procedures a
 
 **The Tell Phase (Explaining):** Your dentist uses simple, friendly language focused on what your child will feel, hear, and taste—not scary concepts. Instead of saying "I'm going to drill your tooth," the dentist might say "I'm going to use a small vibrating tool that makes a whirring sound." For very young children (ages 2-4), the dentist uses extremely simple words. For older children (6+), more detail is okay. Your dentist always answers questions honestly and addresses concerns directly.
 
-**The Show Phase (Demonstrating):** This is hands-on learning. Your child might feel the water spray on their finger, hear the vibrating tool running outside their mouth, touch the mirror, or see how the suction works. This low-intensity experience on your child's own terms dramatically reduces fear. Most children's anxiety drops noticeably once they realize "the whirring sound" isn't scary—it's just a tool. For anxious children, the show phase might take several minutes or even multiple appointments. There's no rush.
+**The Show Phase (Demonstrating):** This is hands-on learning. Your child might feel the water spray on their finger, hear the vibrating tool running outside their mouth, touch the mirror, or see how the suction works. This low-intensity experience on your child's own terms dramatically reduces fear.
+
+Most children's anxiety drops noticeably once they realize "the whirring sound" isn't scary—it's just a tool. For anxious children, the show phase might take several minutes or even multiple appointments. There's no rush.
 
 **The Do Phase (Performing):** Now your child knows what's coming, so there are fewer surprises. Your dentist works efficiently and provides frequent encouragement: "You're doing great!" Throughout the procedure, your child receives positive feedback, which keeps motivation high and anxiety low.
 
@@ -61,7 +63,9 @@ Teenagers (ages 9+) benefit from respectful, sophisticated conversations. They w
 
 Tell-Show-Do works even better when combined with other helpful strategies. Your dentist might use a calm, confident voice and work at a reassuring pace—this signals to your child that everything is under control. Positive rewards like stickers or certificates after cooperative behavior encourage your child to cooperate during future visits. Some offices use distraction—ceiling-mounted screens showing movies or nature scenes—so your child's mind focuses on something else while the procedure happens. All of these techniques work together.
 
-Your presence during your child's appointment can help or sometimes increase anxiety, depending on your child's personality. Some children feel braver with a parent nearby. Others do better without a parent in the room. Your dentist will recommend what works best for your specific child. If your dentist suggests you wait outside, that's usually because your child will cooperate better independently. Remember, for more on helping your child, see our article on [Fluoride Varnish in Pediatric Care](/article/fluoride-varnish-in-pediatric-care-high-strength-treatment.html).
+Your presence during your child's appointment can help or sometimes increase anxiety, depending on your child's personality. Some children feel braver with a parent nearby. Others do better without a parent in the room.
+
+Your dentist will recommend what works best for your specific child. If your dentist suggests you wait outside, that's usually because your child will cooperate better independently. Remember, for more on helping your child, see our article on [Fluoride Varnish in Pediatric Care](/article/fluoride-varnish-in-pediatric-care-high-strength-treatment.html).
 
 ## Making It Work: Real Strategies
 
@@ -105,11 +109,9 @@ Your communication with your dentist between visits matters tremendously. Share 
 
 Tell-Show-Do is a proven, evidence-based technique that transforms dental visits from scary experiences into confidence-building opportunities. Your dentist explains what your child will experience, shows them the tools and sensations beforehand, and then performs the procedure with encouragement. This three-step approach, grounded in how the brain learns and overcomes fear, helps children develop healthy attitudes toward dental care that last a lifetime. By understanding Tell-Show-Do and working closely with your pediatric dentist, you're giving your child one of the greatest gifts: confidence in managing new and challenging situations.
 
-## Key Takeaway
+> **Key Takeaway:** Tell-Show-Do is a three-step approach—explain, demonstrate, and perform—that helps children feel comfortable and confident at the dentist. By teaching your child what to expect before it happens, your dentist reduces anxiety and helps your child develop lifelong healthy dental attitudes.
 
-Tell-Show-Do is a three-step approach—explain, demonstrate, and perform—that helps children feel comfortable and confident at the dentist. By teaching your child what to expect before it happens, your dentist reduces anxiety and helps your child develop lifelong healthy dental attitudes.
-
-## Related Articles You May Find Helpful
+## Related Articles
 
 - [Nursing Bottle Decay: Sweetened Beverages at Night](/article/nursing-bottle-decay-sweetened-beverages-at-night.html)
 - [First Dental Visit: Preparing Your Child](/article/first-dental-visit-preparing-your-child.html)

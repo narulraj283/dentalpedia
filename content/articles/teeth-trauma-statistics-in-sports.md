@@ -1,36 +1,50 @@
 ---
-title: "Dental Trauma Statistics in Sports: Epidemiology and"
-slug: teeth-trauma-statistics-in-sports
 category: Sports Dentistry
 category_slug: sports-dentistry
-excerpt: "Comprehensive analysis of sport-related dental trauma epidemiology, identifying high-risk sports and quantifying mouthguard protective efficacy."
 date: 2026-03-05
+excerpt: Comprehensive analysis of sport-related dental trauma epidemiology, identifying
+  high-risk sports and quantifying mouthguard protective efficacy.
 read_time: 10 min
+references:
+- title: 'Glendor U. Aetiology and epidemiology of traumatic dental injuries: A 12
+    year review of the literature. Dental Traumatology. 2008;24(6):564-573.'
+  url: https://pubmed.ncbi.nlm.nih.gov/19021651
+- title: 'Bourissou D, Chamorro-García A. Epidemiology of dental traumatic injuries:
+    A systematic review of the literature for the last three decades. Dental Traumatology.
+    2016;32(4):256-272.'
+  url: https://pubmed.ncbi.nlm.nih.gov/26888009
+- title: Soriano EP, Caldas AF, de Andrade Maia FA, et al. Prevalence and clinical
+    characteristics of traumatic dental injuries in individuals aged 10-40 years.
+    Dental Traumatology. 2007;23(4):232-240.
+  url: https://pubmed.ncbi.nlm.nih.gov/17635355
+- title: Andreasen JO, Andreasen FM, Andersson L, et al. Textbook and color atlas
+    of traumatic injuries of the teeth. John Wiley & Sons; 2018.
+  url: https://pubmed.ncbi.nlm.nih.gov/29697217
+- title: Azarpazhooh A, Limeback H. Does fluoridation of drinking water prevent dental
+    caries and improve dental health? A systematic review of current evidence. Journal
+    of the Canadian Dental Association. 2008;74(2):164.
+  url: https://pubmed.ncbi.nlm.nih.gov/18353201
+- title: Cagniard R. The incidence of oral injuries in contact sports players and
+    the effectiveness of mouthguards. Dental Traumatology. 2004;20(3):159-165.
+  url: https://pubmed.ncbi.nlm.nih.gov/15144446
+- title: 'Shah AH, Karale R, Hanse P, et al. Management of traumatized anterior teeth:
+    A clinical update. Journal of International Society of Prevention and Community
+    Dentistry. 2014;4(Suppl 2):S71-S76.'
+  url: https://pubmed.ncbi.nlm.nih.gov/25584238
+- title: Kumamoto DP, Maeda Y. A literature review of sports-related dental injuries.
+    General Dentistry. 2004;52(3):270-280.
+  url: https://pubmed.ncbi.nlm.nih.gov/15206859
+- title: Needleman I. Sporting activities and oral health. Periodontology 2000. 2011;56(1):64-82.
+  url: https://pubmed.ncbi.nlm.nih.gov/21501240
+- title: Diab N, El Badrawy W. Sports-related orofacial injuries. Dental Clinics of
+    North America. 2009;53(4):625-633.
+  url: https://pubmed.ncbi.nlm.nih.gov/19932852
+reviewed: true
 reviewer_specialty: Sports Dentistry
+slug: teeth-trauma-statistics-in-sports
 subcategory: Sports Dentistry Overview
 subcategory_slug: overview-sports
-reviewed: true
-references:
-  - title: "Glendor U. Aetiology and epidemiology of traumatic dental injuries: A 12 year review of the literature. Dental Traumatology. 2008;24(6):564-573."
-    url: https://pubmed.ncbi.nlm.nih.gov/19021651
-  - title: "Bourissou D, Chamorro-García A. Epidemiology of dental traumatic injuries: A systematic review of the literature for the last three decades. Dental Traumatology. 2016;32(4):256-272."
-    url: https://pubmed.ncbi.nlm.nih.gov/26888009
-  - title: "Soriano EP, Caldas AF, de Andrade Maia FA, et al. Prevalence and clinical characteristics of traumatic dental injuries in individuals aged 10-40 years. Dental Traumatology. 2007;23(4):232-240."
-    url: https://pubmed.ncbi.nlm.nih.gov/17635355
-  - title: "Andreasen JO, Andreasen FM, Andersson L, et al. Textbook and color atlas of traumatic injuries of the teeth. John Wiley & Sons; 2018."
-    url: https://pubmed.ncbi.nlm.nih.gov/29697217
-  - title: "Azarpazhooh A, Limeback H. Does fluoridation of drinking water prevent dental caries and improve dental health? A systematic review of current evidence. Journal of the Canadian Dental Association. 2008;74(2):164."
-    url: https://pubmed.ncbi.nlm.nih.gov/18353201
-  - title: "Cagniard R. The incidence of oral injuries in contact sports players and the effectiveness of mouthguards. Dental Traumatology. 2004;20(3):159-165."
-    url: https://pubmed.ncbi.nlm.nih.gov/15144446
-  - title: "Shah AH, Karale R, Hanse P, et al. Management of traumatized anterior teeth: A clinical update. Journal of International Society of Prevention and Community Dentistry. 2014;4(Suppl 2):S71-S76."
-    url: https://pubmed.ncbi.nlm.nih.gov/25584238
-  - title: "Kumamoto DP, Maeda Y. A literature review of sports-related dental injuries. General Dentistry. 2004;52(3):270-280."
-    url: https://pubmed.ncbi.nlm.nih.gov/15206859
-  - title: "Needleman I. Sporting activities and oral health. Periodontology 2000. 2011;56(1):64-82."
-    url: https://pubmed.ncbi.nlm.nih.gov/21501240
-  - title: "Diab N, El Badrawy W. Sports-related orofacial injuries. Dental Clinics of North America. 2009;53(4):625-633."
-    url: https://pubmed.ncbi.nlm.nih.gov/19932852
+title: 'Dental Trauma Statistics in Sports: Epidemiology'
 ---
 
 ## How Often Athletes Lose or Damage Teeth
@@ -209,9 +223,9 @@ Before sports season starts:
 
 ## The Bottom Line
 
-Sports dental injuries are common but preventable. Custom mouthguards work best and reduce injuries by 60%. If you play contact sports, wear a properly fitted guard for all games and practices. Know what to do if an injury happens. Get to a dentist quickly if you have a serious injury. Learn more about [teeth grinding in competition](/article/teeth-grinding-in-competition.html), [energy drinks and athlete consumption risks](/article/energy-drinks-athlete-consumption-risks.html), and [post-sport hydration and dry mouth risk](/article/post-sport-hydration-dry-mouth-risk.html) for more information about protecting your teeth as an athlete.
+Sports dental injuries are common but preventable. Custom mouthguards work best and reduce injuries by 60%. If you play contact sports, wear a properly fitted guard for all games and practices.
 
-
+Know what to do if an injury happens. Get to a dentist quickly if you have a serious injury. Learn more about [Teeth Grinding in Competition](/article/teeth-grinding-in-competition.html), [Energy Drinks and Athlete Consumption Risks](/article/energy-drinks-athlete-consumption-risks.html), and [Post-sport Hydration and Dry Mouth Risk](/article/post-sport-hydration-dry-mouth-risk.html) for more information about protecting your teeth as an athlete.
 
 ## Conclusion
 
@@ -219,12 +233,13 @@ Taking care of your dental health is one of the best investments you can make in
 
 Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Custom-fitted mouthguards reduce sports dental injuries by 60% and should be worn during all contact sports practices and games. Teeth knocked completely out need cold milk storage and emergency dental care within 6-12 hours for best outcomes. Most athletes prioritize performance over protection, but mouthguards improve safety without significantly affecting athletic ability.
+> **Key Takeaway:** Custom-fitted mouthguards reduce sports dental injuries by 60% and should be worn during all contact sports practices and games. Teeth knocked completely out need cold milk storage and emergency dental care within 6-12 hours for best outcomes. Most athletes prioritize performance over protection, but mouthguards improve safety without significantly affecting athletic ability.
 
 ## Related Articles
 
+- [Mouthguard Fit: Protection Effectiveness](/article/mouthguard-fit-protection-effectiveness.html)
+- [Sports and Dental Care: Scheduling Treatment Around](/article/dental-care-schedule-around-competition.html)
+
 - [Teeth Grinding in Competition](/article/teeth-grinding-in-competition.html)
-- [Energy Drinks and Athlete Consumption Risks](/article/energy-drinks-athlete-consumption-risks.html)
-- [Post-Sport Hydration and Dry Mouth Risk](/article/post-sport-hydration-dry-mouth-risk.html)
+- [Energy Drinks and Athletic Performance](/article/energy-drinks-athlete-consumption-risks.html)
+- [Post-Sport Hydration and Dry Mouth Risk in](/article/post-sport-hydration-dry-mouth-risk.html)

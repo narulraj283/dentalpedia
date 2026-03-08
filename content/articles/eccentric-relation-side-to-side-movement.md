@@ -1,23 +1,32 @@
 ---
-title: "Eccentric Relation: Clinical Assessment and Management of"
-slug: eccentric-relation-side-to-side-movement
 category: Prosthodontics
 category_slug: prosthodontics
-excerpt: "Your jaw doesn't just open and close straight up and down—it also moves side to side."
 date: 2026-03-05
+excerpt: Your jaw doesn't just open and close straight up and down—it also moves side
+  to side.
 read_time: 9 min
+references:
+- The Academy of Prosthodontics. Glossary of Prosthodontic Terms. 9th ed. J Prosthet
+  Dent. 2017;117(5S):e1-e105.
+- Okeson JP. Management of Temporomandibular Disorders and Occlusion. 7th ed. Mosby
+  Elsevier; 2013.
+- 'Schiffman EL, Ohrbach R, Truelove EL, et al. Diagnostic criteria for temporomandibular
+  disorders (DC/TMD) for clinical and research applications: recommendations of the
+  International RDC/TMD Consortium Network and Orofacial Pain Special Interest Group.
+  J Oral Facial Pain Headache. 2014;28(1):6-27.'
+- Pullinger AG, Hollender L, Solberg WK. Relationships between occlusal variables
+  and periapical pathology. J Prosthet Dent. 1985;53(4):473-478.
+- 'Murphy GJ. Guided tissue regeneration: A review. Ann Periodontol. 1996;1(1):525-553.'
+- Varga S, Spalj S, Lapter-Varga M. Correction of posterior crossbite in the early
+  mixed dentition. Eur J Orthod. 2008;30(3):249-253.
+- 'Marantz H, Kaplan R. The role of occlusion in temporomandibular disorders. In:
+  Okeson JP, ed. Temporomandibular Disorders and Occlusion. Mosby; 2013. p. 413-428.'
+reviewed: true
 reviewer_specialty: Prosthodontics
+slug: eccentric-relation-side-to-side-movement
 subcategory: Prosthodontic Overview
 subcategory_slug: overview-prostho
-reviewed: true
-references:
-  - "The Academy of Prosthodontics. Glossary of Prosthodontic Terms. 9th ed. J Prosthet Dent. 2017;117(5S):e1-e105."
-  - "Okeson JP. Management of Temporomandibular Disorders and Occlusion. 7th ed. Mosby Elsevier; 2013."
-  - "Schiffman EL, Ohrbach R, Truelove EL, et al. Diagnostic criteria for temporomandibular disorders (DC/TMD) for clinical and research applications: recommendations of the International RDC/TMD Consortium Network and Orofacial Pain Special Interest Group. J Oral Facial Pain Headache. 2014;28(1):6-27."
-  - "Pullinger AG, Hollender L, Solberg WK. Relationships between occlusal variables and periapical pathology. J Prosthet Dent. 1985;53(4):473-478."
-  - "Murphy GJ. Guided tissue regeneration: A review. Ann Periodontol. 1996;1(1):525-553."
-  - "Varga S, Spalj S, Lapter-Varga M. Correction of posterior crossbite in the early mixed dentition. Eur J Orthod. 2008;30(3):249-253."
-  - "Marantz H, Kaplan R. The role of occlusion in temporomandibular disorders. In: Okeson JP, ed. Temporomandibular Disorders and Occlusion. Mosby; 2013. p. 413-428."
+title: 'Eccentric Relation: Clinical Assessment and Management'
 ---
 
 ## Understanding How Your Jaw Moves Side to Side
@@ -28,7 +37,7 @@ Think of it this way: your bite at rest (called centric relation) is one positio
 
 ## The Starting Position: Centric Relation
 
-Before talking about side-to-side movement, it's important to understand the starting position. Learning more about [benefits of bite force and teeth](/article/benefits-of-bite-force-and-teeth.html) can help you understand this better. Centric relation is your jaw's most relaxed, centered position—where your jaw joints are positioned optimally and your muscles are balanced. Your lower jaw fits perfectly into the sockets in your skull at this position. This is the foundational position from which all other jaw movements happen.
+Before talking about side-to-side movement, it's important to understand the starting position. Learning more about [Benefits of Bite Force and Teeth](/article/benefits-of-bite-force-and-teeth.html) can help you understand this better. Centric relation is your jaw's most relaxed, centered position—where your jaw joints are positioned optimally and your muscles are balanced. Your lower jaw fits perfectly into the sockets in your skull at this position. This is the foundational position from which all other jaw movements happen.
 
 Your dentist assesses centric relation carefully because it's the reference point for evaluating all other jaw positions and movements. If centric relation is off, all the side-to-side movements that follow will be off too.
 
@@ -42,7 +51,7 @@ On one side, your jaw moves to that side (this is called the working side). On t
 
 If your bite doesn't allow smooth side-to-side movement, problems can develop. Your jaw might feel uncomfortable during chewing. Your jaw joint might click or pop. Your teeth might wear unevenly. Over time, you might develop temporomandibular joint (TMJ) disorder with pain, clicking, or limited opening.
 
-Your dentist makes sure that any new teeth (from crowns, bridges, or dentures) allow smooth side-to-side movement without interference. Learning more about [stainless steel vs gold crowns durability and aesthetics](/article/stainless-steel-vs-gold-crowns-durability-and-aesthetics.html) can help you understand this better. If you get a new crown that prevents your jaw from moving smoothly in its natural pattern, it feels wrong and can cause problems.
+Your dentist makes sure that any new teeth (from crowns, bridges, or dentures) allow smooth side-to-side movement without interference. Learning more about [Stainless Steel vs Gold Crowns: Durability, Marginal](/article/stainless-steel-vs-gold-crowns-durability-and-aesthetics.html) can help you understand this better. If you get a new crown that prevents your jaw from moving smoothly in its natural pattern, it feels wrong and can cause problems.
 
 ## Assessment During Bite Taking
 
@@ -74,8 +83,6 @@ Crossbite is a common problem where upper and lower teeth don't line up properly
 
 Everyone's jaw movement pattern is slightly different. Your dentist understands your individual pattern and makes sure restorations work with your specific movement. What works beautifully for one person might not work for another because jaw movements are individual.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about eccentric relation side to side movement and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -86,12 +93,13 @@ Your jaw's side-to-side movement is crucial for comfortable chewing and jaw join
 
 Talk to your dentist about your individual jaw movement pattern and how it affects your treatment planning.
 
+> **Key Takeaway:** Your jaw doesn't just open and close straight up and down—it also moves side to side.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
+- [Dentures and Partial Dentures](/article/removable-prosthodontics-basics.html)
+- [Why the Crown vs Bridge Decision Matters in](/article/why-crown-vs-bridge-decision-matters.html)
+- [How Denture Fit and Pressure Distribution Affect Your](/article/denture-fit-and-pressure-optimal-contact-points.html)
+- [Getting Your New Dentures Fitted: What Happens at the](/article/denture-adjustment-and-fitting-the-initial-process.html)
+- [Complete Denture Design](/article/complete-denture-design-retention-and-stability.html)
 
-- [Understanding Your Bite: Occlusion and Dental Health](/article/benefits-of-bite-force-and-teeth.html)
-- [Crowns and Restorations: Creating Teeth That Work and Look Great](/article/stainless-steel-vs-gold-crowns-durability-and-aesthetics.html)
-- [Dentures and Partial Dentures: Replacement Teeth That Function Well](/article/removable-prosthodontics-basics.html)
-
-> **Key Takeaway:** Your jaw moves side to side when you chew, and these movements must be smooth and uninterrupted. Your dentist considers your individual jaw movement patterns when planning restorations to ensure new teeth work smoothly with your natural bite. Talk to your dentist about how your jaw moves and how it affects your treatment.

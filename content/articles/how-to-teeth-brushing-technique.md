@@ -35,7 +35,9 @@ references:
 
 ## Why Plaque Keeps Coming Back
 
-Plaque is made of hundreds of different bacteria that stick to your teeth in a sticky layer. As soon as you finish brushing, those bacteria start multiplying again. Within just 4-8 hours, plaque is reforming, and within 24-48 hours, it has matured into a more developed biofilm. This is why dentists recommend brushing twice a day—you're constantly fighting to keep plaque under control. The bacteria in your mouth feed on sugars and produce acid that attacks your enamel, so removing plaque regularly is your best defense against cavities and gum disease. Learning more about [herbal mouthwashes and their effectiveness](/article/herbal-mouthwashes-effectiveness-and-evidence.html) can help you understand this better.
+Plaque is made of hundreds of different bacteria that stick to your teeth in a sticky layer. As soon as you finish brushing, those bacteria start multiplying again. Within just 4-8 hours, plaque is reforming, and within 24-48 hours, it has matured into a more developed biofilm.
+
+This is why dentists recommend brushing twice a day—you're constantly fighting to keep plaque under control. The bacteria in your mouth feed on sugars and produce acid that attacks your enamel, so removing plaque regularly is your best defense against cavities and gum disease. Learning more about [Herbal Mouthwashes and Their Effectiveness](/article/herbal-mouthwashes-effectiveness-and-evidence.html) can help you understand this better.
 
 Think of brushing like cleaning your house—you don't just clean once a year, right? The same goes for your teeth. Morning and night is the minimum, but if you snack frequently or have high cavity risk, additional brushing after meals helps. The key is consistent, proper technique.
 
@@ -73,7 +75,9 @@ If flossing is difficult for you, water flossers work too, removing about 50% of
 
 ## Should You Use an Electric Toothbrush?
 
-Electric toothbrushes work well, especially oscillating ones that move 4,800-12,000 times per minute. They remove about 15-25% more plaque than manual brushing when compared side by side. The big advantage? They do a lot of the work for you, so you don't need perfect technique. If you struggle with the Bass technique or have limited dexterity from arthritis or other conditions, an electric brush can be a game-changer. Many electric toothbrushes now come with pressure sensors that beep or light up if you're pushing too hard—that's actually really helpful for learning the right pressure.
+Electric toothbrushes work well, especially oscillating ones that move 4,800-12,000 times per minute. They remove about 15-25% more plaque than manual brushing when compared side by side. The big advantage?
+
+They do a lot of the work for you, so you don't need perfect technique. If you struggle with the Bass technique or have limited dexterity from arthritis or other conditions, an electric brush can be a game-changer. Many electric toothbrushes now come with pressure sensors that beep or light up if you're pushing too hard—that's actually really helpful for learning the right pressure.
 
 Sonic toothbrushes (the ones that vibrate even faster) work just as well as regular electric ones. The bottom line: if a manual toothbrush with proper technique works for you, you don't need electric. But if you have difficulty with technique, limited dexterity, or you just need extra motivation to brush properly, an electric toothbrush can improve your results. About 30-40% more people stick with twice-daily brushing when they use an electric toothbrush—the timer and gentle vibration just make it easier.
 
@@ -89,8 +93,11 @@ Good oral health starts with the right brushing technique. Use the Bass method w
 
 > **Key Takeaway:** The Bass technique with gentle pressure, adequate duration, and daily interdental cleaning achieves superior plaque removal and prevents gum disease better than any other home care routine.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Herbal mouthwashes and their effectiveness](/article/herbal-mouthwashes-effectiveness-and-evidence.html)
 - [Proper brushing technique step-by-step guide](/article/proper-brushing-technique-step-by-step-guide.html)
 - [Risk and concerns with preventive treatments](/article/risk-and-concerns-with-preventive-treatments.html)
+
+- [How Often Should You Get Dental Cleanings?](/article/maintenance-frequency-how-often-to-clean.html)
+- [How to Brush Your Teeth Properly](/article/mechanical-plaque-removal-manual-cleaning.html)
+

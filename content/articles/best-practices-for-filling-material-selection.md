@@ -1,29 +1,40 @@
 ---
-title: Comparative Evidence for Dental Restorative Materials and
-slug: best-practices-for-filling-material-selection
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: "If your dentist just told you that you need a filling, you might have questions about what material they'll use."
 date: 2026-03-05
+excerpt: If your dentist just told you that you need a filling, you might have questions
+  about what material they'll use.
 read_time: 10 min
+references:
+- Craig RG, Powers JM. Restorative Dental Materials. 13th ed. Elsevier; 2021.
+- Kramer N, Frankenberger R. Clinical Performance of Adhesive Restorations. Dent Mater.
+  2021;37(12):1903-1918.
+- Demarco FF, Collares K, Coelho-de-Souza FH. Direct Restorations. Dent Clin N Am.
+  2021;61(4):609-627.
+- 'Opdam NJ, Roeters JJ, Kuijs RH. Longevity of Restorations: A Comparison. Caries
+  Res. 2020;54(2):98-106.'
+- Roggendorf MJ, Kramer N, Appelhans R. Marginal Quality of Flowable Composite Restorations.
+  Oper Dent. 2020;45(2):E70-E78.
+- Wilder SM, May KN, Leinfelder KF. Three-Year Clinical Evaluation of Direct and Indirect
+  Composite Restorations. Quintessence Int. 2019;50(3):190-196.
+- Van Dijken JW, Pallesen U. Randomized 3-Year Clinical Evaluation of Four Composite
+  Materials. Dent Mater. 2021;31(5):525-534.
+- Mjor IA, Jokstad A. Five-Year Clinical Evaluation of Four Restorative Materials.
+  Oper Dent. 2020;25(4):298-305.
+- Sarrett DC. Clinical Efficacy of Bonded Restorations. J Adhes Dent. 2020;4(3):177-187.
+- Hazra D, Dutta U, Das KK. Comparative Analysis of Amalgam and Composite Resins.
+  J Contemp Dent. 2020;10(1):28-35.
+reviewed: true
 reviewer_specialty: General Dentistry
+slug: best-practices-for-filling-material-selection
 subcategory: Fillings & Restorations
 subcategory_slug: fillings-restorations
-reviewed: true
-references:
-  - "Craig RG, Powers JM. Restorative Dental Materials. 13th ed. Elsevier; 2021."
-  - "Kramer N, Frankenberger R. Clinical Performance of Adhesive Restorations. Dent Mater. 2021;37(12):1903-1918."
-  - "Demarco FF, Collares K, Coelho-de-Souza FH. Direct Restorations. Dent Clin N Am. 2021;61(4):609-627."
-  - "Opdam NJ, Roeters JJ, Kuijs RH. Longevity of Restorations: A Comparison. Caries Res. 2020;54(2):98-106."
-  - "Roggendorf MJ, Kramer N, Appelhans R. Marginal Quality of Flowable Composite Restorations. Oper Dent. 2020;45(2):E70-E78."
-  - "Wilder SM, May KN, Leinfelder KF. Three-Year Clinical Evaluation of Direct and Indirect Composite Restorations. Quintessence Int. 2019;50(3):190-196."
-  - "Van Dijken JW, Pallesen U. Randomized 3-Year Clinical Evaluation of Four Composite Materials. Dent Mater. 2021;31(5):525-534."
-  - "Mjor IA, Jokstad A. Five-Year Clinical Evaluation of Four Restorative Materials. Oper Dent. 2020;25(4):298-305."
-  - "Sarrett DC. Clinical Efficacy of Bonded Restorations. J Adhes Dent. 2020;4(3):177-187."
-  - "Hazra D, Dutta U, Das KK. Comparative Analysis of Amalgam and Composite Resins. J Contemp Dent. 2020;10(1):28-35."
+title: Comparative Evidence for Dental Restorative Materials
 ---
 
-If your dentist just told you that you need a filling, you might have questions about what material they'll use. Is it going to be the silver-colored amalgam your parents had? The tooth-colored composite that looks natural? Something else? Different materials have different strengths and weaknesses, and understanding them helps you make the best choice for your teeth. This comprehensive guide explains your options in clear language so you can participate in the decision-making process confidently. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
+If your dentist just told you that you need a filling, you might have questions about what material they'll use. Is it going to be the silver-colored amalgam your parents had? The tooth-colored composite that looks natural?
+
+Something else? Different materials have different strengths and weaknesses, and understanding them helps you make the best choice for your teeth. This comprehensive guide explains your options in clear language so you can participate in the decision-making process confidently. For more details, see our guide on [All-Ceramic Crowns](/article/all-ceramic-crown-metal-free-restoration.html).
 
 Your dentist will likely recommend a specific material based on the cavity location, size, and your personal preferences. However, understanding the pros and cons of each option helps you have an informed conversation with your dental team about what's best for your situation. For more details, see our guide on [Apex Sealing in Endodontics](/article/apex-sealing-complete-root-canal-closure.html).
 
@@ -93,18 +104,17 @@ Your dentist can recommend the best material for your specific tooth and situati
 
 ---
 
-## Related Articles You May Find Helpful
-
-- [All-Ceramic Crowns: Metal-Free Restoration Solutions](/article/all-ceramic-crown-metal-free-restoration.html)
-- [Apex Sealing in Endodontics: Complete Root Canal Closure for Treatment Success](/article/apex-sealing-complete-root-canal-closure.html)
-- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
-
-
-
-
 ## Conclusion
 
-Taking care of your oral health means staying informed about filling material selection. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+Your dental care is personal, and the best decisions come from understanding your options and working closely with your dentist.
 
 > **Key Takeaway:** If your dentist just told you that you need a filling, you might have questions about what material they'll use. Your dentist can help you understand what steps are right for your specific needs.
+
+## Related Articles
+
+- [Bad Breath Elimination: Complete Guide](/article/bad-breath-elimination-complete-guide.html)
+- [Dental Pain Management](/article/best-practices-for-pain-relief-methods.html)
+- [Guide to Dental Bonding and Composite Resin: Adhesive](/article/guide-to-dental-bonding-and-composite-resin.html)
+- [Risk and Concerns with Bite Force and Teeth](/article/risk-and-concerns-with-bite-force-and-teeth.html)
+- [Gum Disease Stages: Gingivitis to Periodontitis](/article/how-to-gum-disease-stages.html)
 

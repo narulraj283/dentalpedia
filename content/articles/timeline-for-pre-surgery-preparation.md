@@ -1,36 +1,47 @@
 ---
-title: "Pre-Surgical Preparation and Patient Optimization for"
-slug: timeline-for-pre-surgery-preparation
 category: Oral Surgery
 category_slug: oral-surgery
-excerpt: "Comprehensive pre-operative evaluation and preparation strategies including medical history assessment, medication management, and anxiety reduction."
 date: 2026-03-05
+excerpt: Comprehensive pre-operative evaluation and preparation strategies including
+  medical history assessment, medication management, and anxiety reduction.
 read_time: 12 min
+references:
+- title: Ritter G, Svirsky JA, Kaffe I, Karlsson M, Bolin A, Jonsson N, et al. Perioperative
+    medication management and surgical risk reduction. J Am Coll Surg. 2008;206(3):423-432.
+  url: https://pubmed.ncbi.nlm.nih.gov/18308210
+- title: Bell RB. Perioperative medical management and comorbidities in oral and maxillofacial
+    surgery patients. Oral Maxillofac Surg Clin North Am. 2014;26(1):1-15.
+  url: https://pubmed.ncbi.nlm.nih.gov/24287191
+- title: Kehl F, Dilg B, Buttler S, Deller T, Schlack B. Preoperative fasting duration
+    and risk assessment in oral and maxillofacial surgery. Anesth Analg. 2010;111(4):945-953.
+  url: https://pubmed.ncbi.nlm.nih.gov/20937781
+- title: 'Weksler BB, Trevisan M, Massaro JM, D''Agostino RB. Stroke risk and antithrombotic
+    therapy: role of the preoperative evaluation. J Cardiovasc Surg (Torino). 2013;54(3):379-389.'
+  url: https://pubmed.ncbi.nlm.nih.gov/23670148
+- title: Larson JS, Mende CW, Patel P, Perrott DH. Management of medically compromised
+    surgical patients. Oral Surg Oral Med Oral Pathol Oral Radiol. 2015;120(1):e1-e11.
+  url: https://pubmed.ncbi.nlm.nih.gov/25940097
+- title: Gomez AC, Sanchez JE, Capote JI. Antibiotic prophylaxis for dental surgery.
+    Dent Clin North Am. 2014;58(1):129-145.
+  url: https://pubmed.ncbi.nlm.nih.gov/24286649
+- title: 'Pell GJ, Gregory GT. Impacted mandibular third molars: classification and
+    modified techniques for removal. Dent Digest. 1933;39:330-338.'
+  url: https://pubmed.ncbi.nlm.nih.gov/11111111
+- title: Harokopakis-Damianidis E, Brand WE. Perioperative antibiotic prophylaxis
+    in oral and maxillofacial surgery. J Oral Maxillofac Surg. 2011;69(11):e29-e37.
+  url: https://pubmed.ncbi.nlm.nih.gov/21963195
+- title: Bailey DJ, Collin JO, Lyons BM. Assessment of surgical risk in older patients.
+    Gerodontology. 2009;26(1):18-26.
+  url: https://pubmed.ncbi.nlm.nih.gov/19656191
+- title: Svensson PH, Hansson V, Carlsson S, Lindgren S, Ahlin M. Anxiety and discomfort
+    related to oral surgery. Community Dent Health. 2011;28(2):103-107.
+  url: https://pubmed.ncbi.nlm.nih.gov/21707156
+reviewed: true
 reviewer_specialty: Oral and Maxillofacial Surgery
+slug: timeline-for-pre-surgery-preparation
 subcategory: Surgical Overview
 subcategory_slug: overview-surgery
-reviewed: true
-references:
-  - title: "Ritter G, Svirsky JA, Kaffe I, Karlsson M, Bolin A, Jonsson N, et al. Perioperative medication management and surgical risk reduction. J Am Coll Surg. 2008;206(3):423-432."
-    url: https://pubmed.ncbi.nlm.nih.gov/18308210
-  - title: "Bell RB. Perioperative medical management and comorbidities in oral and maxillofacial surgery patients. Oral Maxillofac Surg Clin North Am. 2014;26(1):1-15."
-    url: https://pubmed.ncbi.nlm.nih.gov/24287191
-  - title: "Kehl F, Dilg B, Buttler S, Deller T, Schlack B. Preoperative fasting duration and risk assessment in oral and maxillofacial surgery. Anesth Analg. 2010;111(4):945-953."
-    url: https://pubmed.ncbi.nlm.nih.gov/20937781
-  - title: "Weksler BB, Trevisan M, Massaro JM, D'Agostino RB. Stroke risk and antithrombotic therapy: role of the preoperative evaluation. J Cardiovasc Surg (Torino). 2013;54(3):379-389."
-    url: https://pubmed.ncbi.nlm.nih.gov/23670148
-  - title: "Larson JS, Mende CW, Patel P, Perrott DH. Management of medically compromised surgical patients. Oral Surg Oral Med Oral Pathol Oral Radiol. 2015;120(1):e1-e11."
-    url: https://pubmed.ncbi.nlm.nih.gov/25940097
-  - title: "Gomez AC, Sanchez JE, Capote JI. Antibiotic prophylaxis for dental surgery. Dent Clin North Am. 2014;58(1):129-145."
-    url: https://pubmed.ncbi.nlm.nih.gov/24286649
-  - title: "Pell GJ, Gregory GT. Impacted mandibular third molars: classification and modified techniques for removal. Dent Digest. 1933;39:330-338."
-    url: https://pubmed.ncbi.nlm.nih.gov/11111111
-  - title: "Harokopakis-Damianidis E, Brand WE. Perioperative antibiotic prophylaxis in oral and maxillofacial surgery. J Oral Maxillofac Surg. 2011;69(11):e29-e37."
-    url: https://pubmed.ncbi.nlm.nih.gov/21963195
-  - title: "Bailey DJ, Collin JO, Lyons BM. Assessment of surgical risk in older patients. Gerodontology. 2009;26(1):18-26."
-    url: https://pubmed.ncbi.nlm.nih.gov/19656191
-  - title: "Svensson PH, Hansson V, Carlsson S, Lindgren S, Ahlin M. Anxiety and discomfort related to oral surgery. Community Dent Health. 2011;28(2):103-107."
-    url: https://pubmed.ncbi.nlm.nih.gov/21707156
+title: Pre-Surgical Preparation and Patient Optimization
 ---
 
 ## Preparing for Your Tooth Extraction Surgery
@@ -350,7 +361,7 @@ Defer elective procedures until infection resolves. Prophylactic antibiotics do 
 
 ### Routine Assessment
 
-Most healthy patients undergoing minor oral surgery require no laboratory studies. Learn more about [local anesthesia failures why](/article/local-anesthesia-failures-why-numbness-doesnt-work.html) for additional guidance. However, consider pre-operative labs for:
+Most healthy patients undergoing minor oral surgery require no laboratory studies. Learn more about [Local Anesthesia Failures Why](/article/local-anesthesia-failures-why-numbness-doesnt-work.html) for additional guidance. However, consider pre-operative labs for:
 
 **Age >65 Years:**
 - Complete blood count (CBC)
@@ -382,20 +393,18 @@ Call or send message 24 hours before surgery reminding patient of:
 **This Contact:**
 Improves compliance, reduces anxiety, and provides opportunity to identify last-minute concerns or schedule changes.
 
-
-
 ## Conclusion
 
 Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding pre-surgical preparation and patient optimization for helps you feel more confident when discussing options with your dentist and making decisions about your care.
 
-Remember that every person's situation is unique. Learn more about [extraction complications what you](/article/extraction-complications-what-you-need-to-know.html) for additional guidance. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Remember that every person's situation is unique. Learn more about [Extraction Complications What You](/article/extraction-complications-what-you-need-to-know.html) for additional guidance. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
 
-## Key Takeaway
-
-Good preparation starts with being honest with your dentist about your health, medications, and worries. Understand the fasting requirements for your type of anesthesia, arrange transportation if needed, wear comfortable clothes, and know what to expect during and after surgery. A dentist who understands your medical situation and your concerns can help ensure your surgery goes smoothly and you recover without problems.
+> **Key Takeaway:** Good preparation starts with being honest with your dentist about your health, medications, and worries. Understand the fasting requirements for your type of anesthesia, arrange transportation if needed, wear comfortable clothes, and know what to expect during and after surgery. A dentist who understands your medical situation and your concerns can help ensure your surgery goes smoothly and you recover without problems.
 
 ## Related Articles
 
-- [Local Anesthesia Failures: Why Numbness Doesn't Work](/article/local-anesthesia-failures-why-numbness-doesnt-work.html)
-- [Extraction Complications: What You Need to Know](/article/extraction-complications-what-you-need-to-know.html)
 - [Timeline for Surgical Site Healing](/article/timeline-for-surgical-site-healing.html)
+
+- [Suture Placement and Knot-Tying Techniques for](/article/knot-tying-secure-suture-closure.html)
+- [Extraction Complications](/article/extraction-complications-complete-guide.html)
+

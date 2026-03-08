@@ -23,7 +23,9 @@ references:
 
 ## Why You Swell After Oral Surgery
 
-When tissue is injured during oral surgery, your body reacts with inflammation—which is actually helpful but causes unwanted swelling. Your body releases inflammatory chemicals that make blood vessels leakier, so fluid seeps into surrounding tissues. This starts within 2-6 hours of surgery and is a completely normal healing response. The good news? Swelling is temporary and can be significantly reduced with the right approach. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
+When tissue is injured during oral surgery, your body reacts with inflammation—which is actually helpful but causes unwanted swelling. Your body releases inflammatory chemicals that make blood vessels leakier, so fluid seeps into surrounding tissues. This starts within 2-6 hours of surgery and is a completely normal healing response.
+
+The good news? Swelling is temporary and can be significantly reduced with the right approach. For more details, see our guide on [Absorbable Sutures](/article/absorbable-sutures-dissolving-stitches-benefits.html).
 
 The amount of swelling depends on how much trauma occurred. A simple extraction causes minimal swelling (maybe 1-2 millimeters facial width increase). Complex extractions with bone removal cause moderate swelling (5-10 millimeters, noticeably asymmetrical). Extensive reconstructive surgery produces severe swelling (15-25 millimeters, potentially concerning for airway). For more details, see our guide on [All-on-4](/article/all-on-four-four-implant-full-arch.html).
 
@@ -141,22 +143,19 @@ Document your expectations in writing before surgery: "I expect moderate swellin
 
 Ask your surgeon: "Based on my specific situation, how much swelling should I realistically expect?" "What specific medications do you recommend I take, and what's the exact schedule?" "Will you prescribe steroid medication, and if so, how many doses?" "Should I follow a specific compression schedule, and do I need special equipment?" "At what point do I contact you if swelling isn't following the expected timeline?"
 
-
-
-## Related Articles You May Find Helpful
-
-- [Absorbable Sutures: Dissolving Stitches and Their Benefits](/article/absorbable-sutures-dissolving-stitches-benefits.html)
-- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
-- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
-
-
+**Related articles:** Pain management after dental surgery | Recovery timeline: what to expect | Surgical complications and when to call
 
 ## Conclusion
 
-Taking care of your oral health means staying informed about swelling reduction. Talk with your dentist about what approach works best for your situation, and don't hesitate to ask questions during your next visit. The more you understand, the better decisions you can make for your smile.
+---
 
 > **Key Takeaway:** Ice, elevation, compression, and anti-inflammatory medications started immediately after surgery reduce swelling 50-70%, significantly improving your comfort and appearance during recovery. Realistic expectations and consistent protocol adherence provide the best results.
 
----
+## Related Articles
 
-**Related articles:** Pain management after dental surgery | Recovery timeline: what to expect | Surgical complications and when to call
+- [All-on-Six: Six Implant Full Mouth Restoration](/article/all-on-six-six-implant-full-restoration.html)
+- [Traumatic Tooth Extrusion: Luxation Injuries and](/article/extrusion-trauma-pulled-out.html)
+- [Post-Extraction Healing Protocols and Complication](/article/best-practices-for-tooth-extraction-recovery.html)
+- [Post-Operative Instructions and Recovery Timelines for](/article/timeline-for-post-operative-instructions.html)
+- [Sinus Lift Surgery for Upper Dental Implants](/article/sinus-lift-surgery-for-upper-dental-implants.html)
+

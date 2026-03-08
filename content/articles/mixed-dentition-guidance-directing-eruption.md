@@ -49,7 +49,7 @@ Guarded predictions: about 60-70% of children receiving appropriate mixed dentit
 
 During mixed dentition, your orthodontist assesses whether there's adequate space for erupting permanent teeth. If space is insufficient, crowding will occur. Strategies to address crowding include selective extraction of baby teeth to create space, or use of space-maintaining appliances to preserve space while baby teeth are still present.
 
-Canine eruption is particularly critical because canines are large teeth that require substantial space. Learning more about [orthodontic extraction decision complete guide](/article/orthodontic-extraction-decision-complete-guide.html) can help you understand this better. Many children develop palatally positioned canines (erupting toward the roof of the mouth) when space is limited. Early space creation through strategic baby tooth extraction or gentle guidance appliances can prevent this problem, avoiding the need for surgical exposure or extensive canine repositioning later.
+Canine eruption is particularly critical because canines are large teeth that require substantial space. Learning more about [Orthodontic Extraction Decision Complete Guide](/article/orthodontic-extraction-decision-complete-guide.html) can help you understand this better. Many children develop palatally positioned canines (erupting toward the roof of the mouth) when space is limited. Early space creation through strategic baby tooth extraction or gentle guidance appliances can prevent this problem, avoiding the need for surgical exposure or extensive canine repositioning later.
 
 ## Expansion and Skeletal Changes
 
@@ -71,7 +71,7 @@ If your orthodontist recommends monitoring rather than treatment, ask what speci
 
 ## Treatment Cost and Timeline Considerations
 
-Early treatment typically costs $1,500-3,000 and might take 18-24 months. Learning more about [iatrogenic damage bracket bonding side effects](/article/iatrogenic-damage-bracket-bonding-side-effects.html) can help you understand this better. If successful early treatment prevents comprehensive braces later ($5,000-8,000 for 24-36 months), the cost-benefit analysis favors early treatment. However, if early treatment doesn't prevent comprehensive treatment later, you've spent $1,500-3,000 for no ultimate benefit.
+Early treatment typically costs $1,500-3,000 and might take 18-24 months. Learning more about [Iatrogenic Damage Bracket Bonding Side Effects](/article/iatrogenic-damage-bracket-bonding-side-effects.html) can help you understand this better. If successful early treatment prevents comprehensive braces later ($5,000-8,000 for 24-36 months), the cost-benefit analysis favors early treatment. However, if early treatment doesn't prevent comprehensive treatment later, you've spent $1,500-3,000 for no ultimate benefit.
 
 Your orthodontist's case selection matters tremendously. Ethical orthodontists select early treatment cases where evidence suggests meaningful benefit. Orthodontists recommending early treatment for every child with mild crowding are prioritizing profit over patient benefit.
 
@@ -93,8 +93,10 @@ Mixed dentition guidance during ages 6-12 offers opportunities to work with grow
 
 > **Key Takeaway:** Mixed dentition guidance can prevent severe bite problems by working with your child's natural growth, but only specific cases benefit from early treatment. Ask your orthodontist exactly what problem they're treating and how treatment prevents future problems. Appropriate early intervention creates better outcomes; inappropriate early treatment wastes money and time.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Orthodontic Extraction Decision: What You Need to Know](/article/orthodontic-extraction-decision-complete-guide.html)
-- [Iatrogenic Damage from Bracket Bonding](/article/iatrogenic-damage-bracket-bonding-side-effects.html)
 - [Best Practices for Teeth Relapse Prevention](/article/best-practices-for-teeth-relapse-prevention.html)
+
+- [Palatal Expander Widening Upper Jaw Growth](/article/palatal-expander-widening-upper-jaw-growth.html)
+- [Why Orthodontic Extraction Decision Matters](/article/why-orthodontic-extraction-decision-matters.html)
+

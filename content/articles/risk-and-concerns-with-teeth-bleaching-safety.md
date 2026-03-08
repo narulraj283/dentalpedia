@@ -45,7 +45,7 @@ subcategory_slug: overview-cosmetic
 title: Risk and Concerns with Teeth Bleaching Safety
 ---
 
-# Teeth Whitening Safety: What You Should Know Before Bleaching
+## Teeth Whitening Safety: What You Should Know Before Bleaching
 
 Whitening products are everywhere—toothpastes, strips, gel trays, and professional office treatments all promise whiter teeth. But before you jump into bleaching, you should understand that whitening comes with real risks. Even professional bleaching carries potential for tooth sensitivity, gum damage, and enamel changes. This guide explains how whitening works, what can go wrong, and how to minimize risks if you decide to whiten your teeth.
 
@@ -63,7 +63,7 @@ About 15-40% of people who use professional whitening experience tooth sensitivi
 
 The sensitivity usually goes away within a few days to a few weeks after bleaching stops. But here's the important part: if you still feel sensitivity weeks or months later, it means your teeth suffered more damage than normal. Your tooth's nerve-forming cells need extended time to heal from the bleaching damage—sometimes 3-12 months. If you have this type of prolonged sensitivity, you should tell your dentist before bleaching again.
 
-Over-the-counter products cause sensitivity even more frequently than professional treatments, partly because people use them longer or more frequently, and partly because home use lacks professional protections. For more on this topic, see our guide on [Tooth Translucency Incisal Edge Effec...](/article/tooth-translucency-incisal-edge-effects-on-appearance.html).
+Over-the-counter products cause sensitivity even more frequently than professional treatments, partly because people use them longer or more frequently, and partly because home use lacks professional protections. For more on this topic, see our guide on [Why Your Front Teeth Look Bright: Translucency and the](/article/tooth-translucency-incisal-edge-effects-on-appearance.html).
 
 ## Enamel Damage From Bleaching
 
@@ -81,7 +81,7 @@ Professional whitening uses custom-fitted trays that fit snugly, precise gel con
 
 ## Gum Damage and Chemical Burns
 
-Bleaching gel is caustic—it can chemically burn your gum tissue. Professional whitening includes protective barriers to keep the gel off your gums. But with over-the-counter products, the gel easily leaks onto your gums, especially with strips or ill-fitting trays. This causes irritation, ulcers, and sometimes severe burns that make eating and talking painful for several days. For more on this topic, see our guide on [Non Vital Bleaching Whitening Root Tr...](/article/non-vital-bleaching-whitening-root-treated-teeth.html).
+Bleaching gel is caustic—it can chemically burn your gum tissue. Professional whitening includes protective barriers to keep the gel off your gums. But with over-the-counter products, the gel easily leaks onto your gums, especially with strips or ill-fitting trays. This causes irritation, ulcers, and sometimes severe burns that make eating and talking painful for several days. For more on this topic, see our guide on [Whitening Teeth After Root Canal Treatment](/article/non-vital-bleaching-whitening-root-treated-teeth.html).
 
 Bleaching strips are particularly problematic because they inherently cover your gum tissue. Even though manufacturers say it's safe, people regularly experience gum irritation from strip use. If you use strips repeatedly, the cumulative damage can cause chronic gum problems.
 
@@ -97,16 +97,18 @@ If you're considering whitening, talk to your dentist first. They can assess you
 
 The safest approach combines professional guidance with realistic expectations. Your teeth might not become as white as you hope, sensitivity might develop, and maintenance bleaching will be needed to maintain results.
 
-## Conclusion: Balancing Whitening Goals With Tooth Safety
+## Conclusion
+
+: Balancing Whitening Goals With Tooth Safety
 
 Tooth whitening can brighten your smile, but it comes with real risks that need to be managed carefully. Professional whitening under dental supervision offers better safety than over-the-counter products, though risks exist with any bleaching method. Understanding these risks helps you make informed decisions about whether whitening is right for you and how to minimize potential problems if you choose to whiten.
 
-## Key Takeaway
-
-Teeth whitening uses peroxide chemicals that can damage your teeth, cause sensitivity, burn your gums, and compromise your existing restorations. Professional whitening is safer than over-the-counter products because of protective barriers and careful monitoring. Always consult your dentist before whitening to assess your individual situation and risks.
+> **Key Takeaway:** Teeth whitening uses peroxide chemicals that can damage your teeth, cause sensitivity, burn your gums, and compromise your existing restorations. Professional whitening is safer than over-the-counter products because of protective barriers and careful monitoring. Always consult your dentist before whitening to assess your individual situation and risks.
 
 ## Related Articles
 
-- [Tooth Translucency: Incisal Edge Effects on Appearance](/article/tooth-translucency-incisal-edge-effects-on-appearance.html)
-- [Non-Vital Bleaching: Whitening Root-Treated Teeth](/article/non-vital-bleaching-whitening-root-treated-teeth.html)
 - [How to Get Teeth Whitening Results](/article/how-to-teeth-whitening-results.html)
+
+- [Cosmetic Dentistry for Aged Teeth: Age-Related Changes](/article/cosmetic-dentistry-for-aged-teeth-age-related-changes.html)
+- [Cosmetic Tooth Repair: Complete Guide](/article/cosmetic-tooth-repair-complete-guide.html)
+

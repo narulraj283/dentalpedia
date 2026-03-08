@@ -39,7 +39,9 @@ Different orthodontic wires are made from different materials with different pro
 
 **Stainless Steel** is rigid and strong. Once your orthodontist bends it, it stays bent—bends don't relax or spring back. This makes stainless steel useful for final positioning because bends are stable and predictable. However, stainless steel's rigidity means it generates significant force, so your orthodontist must use it carefully.
 
-**Nickel-Titanium (NiTi)** is special—it has a shape-memory property. When room temperature, it's more flexible. When it warms to mouth temperature, it becomes more rigid and delivers consistent force. NiTi wires demonstrate spring-back—when bent, they try to return to their original shape. Your orthodontist over-bends them to compensate. NiTi's gentle, consistent force makes it ideal for initial tooth movement and alignment phases.
+**Nickel-Titanium (NiTi)** is special—it has a shape-memory property. When room temperature, it's more flexible. When it warms to mouth temperature, it becomes more rigid and delivers consistent force.
+
+NiTi wires demonstrate spring-back—when bent, they try to return to their original shape. Your orthodontist over-bends them to compensate. NiTi's gentle, consistent force makes it ideal for initial tooth movement and alignment phases.
 
 **Beta-Titanium** is an intermediate option—stiffer than NiTi but more flexible than stainless steel, with better formability than stainless steel.
 
@@ -185,19 +187,19 @@ Wire bending integrates differently across treatment phases:
 
 Wire customization allows your orthodontist to optimize tooth movement for your specific anatomy. Every bend is calculated to deliver the right amount of force in the right direction. This customization, combined with the right wire material at the right treatment phase, accelerates efficient tooth movement and improves final results.
 
-For more information on how your braces work, see our guides on [wire sequence progression](/article/wire-sequence-progression-of-wires.html) and [orthodontic compliance](/article/why-orthodontic-compliance-matters.html).
+For more information on how your braces work, see our guides on [Wire Sequence Progression](/article/wire-sequence-progression-of-wires.html) and [Orthodontic Compliance](/article/why-orthodontic-compliance-matters.html).
 
 ## Conclusion
 
-Wire bending customizes braces to your individual anatomy. Your orthodontist selects wire material (flexible NiTi for initial movement, rigid stainless steel for final positioning) and creates bends to direct force precisely where needed. First-order bends move teeth forward/backward. Second-order bends move teeth up/down. Third-order bends rotate teeth. This systematic approach enables efficient, predictable tooth movement.
+Wire bending customizes braces to your individual anatomy. Your orthodontist selects wire material (flexible NiTi for initial movement, rigid stainless steel for final positioning) and creates bends to direct force precisely where needed. First-order bends move teeth forward/backward.
 
-## Key Takeaway
+Second-order bends move teeth up/down. Third-order bends rotate teeth. This systematic approach enables efficient, predictable tooth movement.
 
-Wire customization optimizes tooth movement by matching wire material properties to treatment phase and creating strategic bends that direct force efficiently. NiTi wires start treatment, stainless steel finishes it. Your orthodontist's bending skills directly affect treatment duration and final result quality.
-
+> **Key Takeaway:** Wire customization optimizes tooth movement by matching wire material properties to treatment phase and creating strategic bends that direct force efficiently. NiTi wires start treatment, stainless steel finishes it. Your orthodontist's bending skills directly affect treatment duration and final result quality.
 
 ## Related Articles
 
 - [Vertical Elastics Up And Down Forces](/article/vertical-elastics-up-and-down-forces.html)
 - [Clear Aligner Technology How It Works And Effectiveness](/article/clear-aligner-technology-how-it-works-and-effectiveness.html)
 - [Phase Two Comprehensive Fixed Appliance Treatment](/article/phase-two-comprehensive-fixed-appliance-treatment.html)
+

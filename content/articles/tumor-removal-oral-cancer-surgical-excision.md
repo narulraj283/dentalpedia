@@ -39,11 +39,11 @@ If you've been diagnosed with oral cancer, you're likely facing a complex treatm
 
 ## How Your Cancer Is Staged and Evaluated
 
-Your surgical team will use a standardized classification system—called TNM staging—to describe your cancer's extent and guide treatment. Learn more about [lingual nerve tongue numbness](/article/lingual-nerve-tongue-numbness-from-injury.html) for additional guidance. Understanding these categories helps you comprehend your diagnosis and prognosis.
+Your surgical team will use a standardized classification system—called TNM staging—to describe your cancer's extent and guide treatment. Learn more about [Lingual Nerve Tongue Numbness](/article/lingual-nerve-tongue-numbness-from-injury.html) for additional guidance. Understanding these categories helps you comprehend your diagnosis and prognosis.
 
 The "T" describes your tumor's size and how deeply it extends into surrounding tissues. Smaller, more superficial tumors (T1-T2) carry better prognoses than larger, deeper tumors (T3-T4) that may invade bone. The "N" describes whether cancer has spread to lymph nodes in your neck, a critical prognostic factor. The more lymph nodes involved, the more aggressive your treatment may need to be. The "M" indicates whether cancer has spread to distant sites—fortunately, this is uncommon in oral cancer at diagnosis.
 
-Before surgery, your doctor will perform comprehensive imaging including MRI and/or CT scans to understand exactly how extensive your cancer is, whether it's invaded nearby bone, and whether lymph nodes appear involved. Learn more about [how to recovery timeline](/article/how-to-recovery-timeline.html) for additional guidance. Sometimes PET imaging helps identify subtle disease not visible on other scans. This thorough evaluation ensures your surgical team has complete information and can plan the most appropriate approach for your specific cancer.
+Before surgery, your doctor will perform comprehensive imaging including MRI and/or CT scans to understand exactly how extensive your cancer is, whether it's invaded nearby bone, and whether lymph nodes appear involved. Learn more about [How to Recovery Timeline](/article/how-to-recovery-timeline.html) for additional guidance. Sometimes PET imaging helps identify subtle disease not visible on other scans. This thorough evaluation ensures your surgical team has complete information and can plan the most appropriate approach for your specific cancer.
 
 ## Surgical Principles and Margin Assessment
 
@@ -119,17 +119,14 @@ Shoulder dysfunction results from spinal accessory nerve injury during neck diss
 
 Surgical management of oral cancer requires systematic application of oncologic principles including adequate margin resection, appropriate neck staging through dissection or sentinel node biopsy, functional reconstruction, and identification of high-risk features warranting adjuvant therapy. Multidisciplinary coordination with reconstruction specialists, radiation oncology, and medical oncology optimizes outcomes. Modern approaches prioritize both oncologic control and functional/esthetic preservation through tailored reconstruction strategies and judicious adjuvant therapy selection.
 
-
-## Key Takeaway
-
-Understanding Your Oral Cancer Treatment Options
-
 If you've been diagnosed with oral cancer, you're likely facing a complex treatment decision. Talk to your dentist about which options work best for your unique situation, and don't hesitate to ask questions during your appointment.
 
-
+> **Key Takeaway:** Understanding Your Oral Cancer Treatment Options
 
 ## Related Articles
 
-- [Lingual Nerve Tongue Numbness From Injury](/article/lingual-nerve-tongue-numbness-from-injury.html)
-- [How To Recovery Timeline](/article/how-to-recovery-timeline.html)
 - [Cost Of Wisdom Teeth Extraction](/article/cost-of-wisdom-teeth-extraction.html)
+
+- [All-on-4: Four-Implant Full-Arch Restoration](/article/all-on-four-four-implant-full-arch.html)
+- [Timeline for Oral Surgery Recovery](/article/timeline-for-oral-surgery-recovery-timeline.html)
+

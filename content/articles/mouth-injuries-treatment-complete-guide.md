@@ -51,7 +51,7 @@ Root fractures vary by location. Cervical third fractures (closest to tooth root
 
 Luxation injuries involve tooth displacement from the socket—ranging from minor inflammation without notable displacement to complete removal from the socket. Concussion injuries involve inflammation without displacement; subluxation involves slight displacement with intact attachment; extrusion involves partial root exposure; lateral luxation involves tooth shifting sideways; intrusion involves tooth pushing into the socket.
 
-Avulsion represents complete removal of the tooth from the socket—the most severe injury. Successful replantation depends critically on proper storage and timing of replantation. Learning more about [fluoride treatments for sensitivity](/article/fluoride-treatments-for-sensitivity.html) can help you understand this better. Teeth stored in appropriate media (milk, saline, or patient's own saliva) and replanted within 15 to 30 minutes demonstrate substantially better long-term survival than teeth dried or replanted after several hours' delay.
+Avulsion represents complete removal of the tooth from the socket—the most severe injury. Successful replantation depends critically on proper storage and timing of replantation. Learning more about [Fluoride Treatments for Sensitivity](/article/fluoride-treatments-for-sensitivity.html) can help you understand this better. Teeth stored in appropriate media (milk, saline, or patient's own saliva) and replanted within 15 to 30 minutes demonstrate substantially better long-term survival than teeth dried or replanted after several hours' delay.
 
 ## Immediate First-Aid Response
 
@@ -59,7 +59,9 @@ The first critical actions immediately following injury determine treatment succ
 
 For localized dental injuries without systemic compromise, careful gentle examination assesses injury extent while avoiding additional trauma. Rinsing blood or debris from your mouth facilitates visualization. Heavy bleeding from intraoral soft tissues may be controlled through gentle pressure with gauze or clean cloth.
 
-If a tooth is completely avulsed (knocked out), recovery and appropriate storage are critical. The tooth should be retrieved immediately and handled by the crown only, never by the root—touching the root surface damages the critical periodontal ligament. Never scrub the tooth; gentle rinsing under cool running water if soil or debris is present is acceptable. Optimal storage involves placing the avulsed tooth in cold milk if available; if unavailable, placing the tooth in your mouth between cheek and gum (avoiding swallowing risk) provides adequate temporary storage. Physiologic saline solutions are also acceptable. Storage in water or allowing the tooth to dry significantly worsens prognosis.
+If a tooth is completely avulsed (knocked out), recovery and appropriate storage are critical. The tooth should be retrieved immediately and handled by the crown only, never by the root—touching the root surface damages the critical periodontal ligament. Never scrub the tooth; gentle rinsing under cool running water if soil or debris is present is acceptable.
+
+Optimal storage involves placing the avulsed tooth in cold milk if available; if unavailable, placing the tooth in your mouth between cheek and gum (avoiding swallowing risk) provides adequate temporary storage. Physiologic saline solutions are also acceptable. Storage in water or allowing the tooth to dry significantly worsens prognosis.
 
 Replantation timing is critical—teeth replanted within 15 to 30 minutes after avulsion demonstrate substantially better survival compared to delayed replantation. Seeking immediate emergency dental evaluation becomes paramount when avulsion occurs. Even teeth not replanted on the day of injury may demonstrate improved outcomes if brought to the dentist within 24 hours in appropriate storage media.
 
@@ -67,7 +69,7 @@ For luxated teeth not completely avulsed, gentle manual repositioning into norma
 
 For fractures exposing dentin or possibly pulp, temporary coverage reduces pain and contamination risk. Sugarless gum or orthodontic wax (if available) reduces air contact and discomfort while awaiting professional evaluation.
 
-Soft tissue injuries including lip or tongue lacerations should be gently cleaned and assessed for need of professional suturing. Learning more about [how to mouth ulcer care](/article/how-to-mouth-ulcer-care.html) can help you understand this better. Severe bleeding may require pressure application and potentially emergency medical evaluation if bleeding doesn't stop.
+Soft tissue injuries including lip or tongue lacerations should be gently cleaned and assessed for need of professional suturing. Learning more about [How to Mouth Ulcer Care](/article/how-to-mouth-ulcer-care.html) can help you understand this better. Severe bleeding may require pressure application and potentially emergency medical evaluation if bleeding doesn't stop.
 
 ## Professional Evaluation and Definitive Management
 
@@ -97,9 +99,9 @@ Mouth injuries demand immediate attention and often time-sensitive intervention 
 
 > **Key Takeaway:** Traumatic mouth injuries require immediate professional evaluation and often time-sensitive intervention. For avulsed teeth, proper storage and rapid replantation within 15 to 30 minutes dramatically improve survival chances. Maintain knowledge of appropriate first-aid and have emergency dental resources identified before injury occurs, enabling quick response when trauma happens.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Learn how to find emergency dental care beyond office hours](/article/finding-emergency-dental-care-options-beyond-hours.html)
+- [Finding Emergency Dental Care: Options Beyond Hours](/article/finding-emergency-dental-care-options-beyond-hours.html)
 - [Understand dental abscesses and urgent treatment needs](/article/dental-abscess-infection-and-urgent-treatment.html)
 - [Discover knocked-out tooth immediate response](/article/knocked-out-tooth-what-to-do-in-the-first-hour.html)
 

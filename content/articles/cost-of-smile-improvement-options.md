@@ -30,7 +30,7 @@ Every smile is different, and every person has different goals and budgets. Smar
 ## Assessing Your Smile
 
 Start by understanding what you want to change:
-- **Shade:** Too dark? Learning more about [ortho vs cosmetic](/article/ortho-vs-cosmetic.html) can help you understand this better. Whitening might be all you need ($500-$1,500)
+- **Shade:** Too dark? Learning more about ortho vs cosmetic can help you understand this better. Whitening might be all you need ($500-$1,500)
 - **Shape:** Chipped or worn edges? Bonding works ($150-$400 per tooth)
 - **Alignment:** Crooked? Might need orthodontics ($4,000-$8,000) or veneers to camouflage
 - **Multiple issues:** Combination treatment planned systematically
@@ -149,7 +149,7 @@ The cheaper option often makes sense unless you have specific risk factors.
 After initial treatment:
 - Cleanings: $75-$150 per visit (2-3 yearly = $150-$450/year)
 - Touch-ups: $100-$300/year
-- Whitening: $200-$400/year (if doing whitening) You may also want to read about [smile design process](/article/smile-design-process.html).
+- Whitening: $200-$400/year (if doing whitening) You may also want to read about smile design process.
 
 **Total: $300-$700 yearly**
 
@@ -238,16 +238,24 @@ When possible:
 - Get pre-authorization for anything that might qualify
 - Ask for separate itemization (sometimes "restorative" classification helps)
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
+
+For more information, see [Tooth Gap Closure - Complete Guide to Closing](/article/tooth-gap-closure-complete-guide.html) and [Cosmetic Treatment Planning: Digital Mockups](/article/cosmetic-treatment-planning-digital-mockups-and-communication.html).
+
 ## Conclusion
 
-Smile improvement planning should match your specific concerns and budget. Start with diagnostic consultation ($150-$400) to identify what you need. Phase treatment from affordable (whitening $500-$1,500) to major work (veneers $6,000-$25,000). Use financing to spread costs. Plan maintenance ($300-$700 yearly). Avoid over-treatment by choosing appropriate solutions for each problem. Work with your dentist to develop a plan that makes sense for your goals and wallet.
+Smile improvement planning should match your specific concerns and budget. Start with diagnostic consultation ($150-$400) to identify what you need. Phase treatment from affordable (whitening $500-$1,500) to major work (veneers $6,000-$25,000).
 
+Use financing to spread costs. Plan maintenance ($300-$700 yearly). Avoid over-treatment by choosing appropriate solutions for each problem. Work with your dentist to develop a plan that makes sense for your goals and wallet.
 
+> **Key Takeaway:** Learn how to plan smile improvements based on your needs, budget, and desired results.
 
-## Related Articles You May Find Helpful
+## Related Articles
 
-- [Orthodontics vs. Cosmetic: When Each Makes Sense](/article/ortho-vs-cosmetic.html)
-- [Understanding Smile Design Process](/article/smile-design-process.html)
-- [Cosmetic Treatment Mistakes to Avoid](/article/cosmetic-mistakes.html)
+- [Safe Teeth Bleaching Protocols and Evidence-Based](/article/best-practices-for-teeth-bleaching-safety.html)
+- [Smile Consultation and Treatment Planning](/article/smile-consultation-planning-treatment.html)
+- [Digital Smile Design: Planning Your Perfect](/article/digital-smile-design-planning-beautiful-smiles.html)
+- [Why Teeth Color Improvement Matters](/article/why-teeth-color-improvement-matters.html)
+- [Cosmetic Gum Shaping: What Every Patient Should Know](/article/best-practices-for-cosmetic-gum-shaping.html)
 
-> **Key Takeaway:** Plan smile improvement based on YOUR specific concerns, not all possible treatments. Start with diagnostics ($150-$400). Phase treatment from affordable (whitening $500-$1,500) to major work. Use financing to spread costs. Expect maintenance of $300-$700 yearly. The right plan solves your problems at a price you can manage.

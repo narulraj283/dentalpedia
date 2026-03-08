@@ -49,7 +49,7 @@ Traumatic injury (like getting hit in the mouth) can cause immediate pulp necros
 
 Severe thermal injury (from high-speed cutting without water cooling during dental procedures) can cause immediate necrosis. This is why water cooling is essential during tooth preparation.
 
-Very rarely, pulp dies without identified trauma or infection—possibly from microvascular occlusion or nerve dysfunction. Your dentist investigates to rule out obvious causes. For more on this topic, see our guide on [Root Resorption Dissolving Root Struc...](/article/root-resorption-dissolving-root-structures.html).
+Very rarely, pulp dies without identified trauma or infection—possibly from microvascular occlusion or nerve dysfunction. Your dentist investigates to rule out obvious causes. For more on this topic, see our guide on [Root Resorption - Pathophysiology and Clinical](/article/root-resorption-dissolving-root-structures.html).
 
 ## How Your Dentist Detects Necrotic Pulp
 
@@ -97,14 +97,6 @@ A small periapical abscess on a front tooth has 92-95% success probability. A la
 
 Preventing pulp necrosis starts with controlling cavities through brushing, flossing, and regular professional care. Protecting your teeth from trauma through mouthguards during sports helps prevent traumatic necrosis. Dental work should use water cooling during preparation to prevent thermal injury.
 
-## Related Articles You May Find Helpful
-
-- [Rotary Files: Motorized Root Canal Instrumentation](/article/rotary-files-motorized-instrumentation.html)
-- [Reparative Dentin: Tooth Response to Injury](/article/reparative-dentin-tooth-response-to-injury.html)
-- [Gutta-Percha: Root Canal Filling Material](/article/gutta-percha-root-canal-filling-material.html)
-
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about dead nerve tissue: pulp necrosis and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -112,7 +104,6 @@ When you visit your dentist, ask about dead nerve tissue: pulp necrosis and how 
 You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
 
 Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
-
 
 ## Protecting Your Results Long-Term
 
@@ -127,3 +118,10 @@ Diet also plays a role in protecting your dental health. Limiting sugary snacks 
 Pulp necrosis means your tooth's nerve and blood vessel tissue has died, usually from bacterial infection through decay or traumatic injury. Your dentist detects it through testing, X-rays, and history. Root canal treatment removes dead tissue and fills the canal, achieving 85-95% success. With proper treatment and a crown restoration, necrotic teeth function normally for many years.
 
 > **Key Takeaway:** Pulp necrosis means your tooth nerve is dead, usually from deep cavities or trauma. Your dentist detects it through electrical and thermal testing, X-rays, and your symptom history. Root canal treatment removes dead tissue and fills the space, preventing infection. Success rates are 85-95%, and most teeth function well long-term after treatment.
+
+## Related Articles
+
+- [Rotary Files: Motorized Root Canal Instrumentation](/article/rotary-files-motorized-instrumentation.html)
+- [Reparative Dentin: Tooth Response to Injury](/article/reparative-dentin-tooth-response-to-injury.html)
+- [Gutta-Percha: Root Canal Filling Material](/article/gutta-percha-root-canal-filling-material.html)
+

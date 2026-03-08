@@ -29,7 +29,7 @@ After your oral surgery, the next week or two is critical for proper healing. Ma
 
 ## Myth 1: Complete Rest Is Essential for Healing
 
-Bed rest on surgery day (day 0) is appropriate, but complete rest throughout recovery delays healing. Learning more about [timeline for recovery timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. Light activity (walking, gentle daily activities) actually promotes healing through improved circulation. Strenuous exercise and heavy lifting should wait 1 to 2 weeks, but normal light activity is fine within a few days.
+Bed rest on surgery day (day 0) is appropriate, but complete rest throughout recovery delays healing. Learning more about [Timeline for Recovery Timeline](/article/timeline-for-recovery-timeline.html) can help you understand this better. Light activity (walking, gentle daily activities) actually promotes healing through improved circulation. Strenuous exercise and heavy lifting should wait 1 to 2 weeks, but normal light activity is fine within a few days.
 
 By day 3 to 5 after simple tooth extraction, you can usually resume desk work, light household activity, and gentle exercise. Bone healing is actually stimulated by gentle loading and movement. Prolonged complete bed rest might feel safer but paradoxically slows healing.
 
@@ -49,7 +49,7 @@ Ask your dentist why they're prescribing antibiotics if they give you a prescrip
 
 While you should complete the full course of antibiotics if you're taking them, modern evidence suggests that shorter antibiotic courses (3 to 5 days) might be as effective as traditional 7 to 10-day courses. However, don't stop antibiotics on your own—discuss any concerns with your dentist.
 
-If you experience side effects from antibiotics (nausea, diarrhea, allergy symptoms), call your dentist. Learning more about [swelling reduction what you need to know](/article/swelling-reduction-what-you-need-to-know.html) can help you understand this better. They might adjust your medication. But stopping antibiotics because you're feeling better could allow remaining bacteria to develop resistance.
+If you experience side effects from antibiotics (nausea, diarrhea, allergy symptoms), call your dentist. Learning more about [Swelling Reduction What You Need to Know](/article/swelling-reduction-what-you-need-to-know.html) can help you understand this better. They might adjust your medication. But stopping antibiotics because you're feeling better could allow remaining bacteria to develop resistance.
 
 ## Myth 5: You Should Remove Your Gauze After 30 Minutes and Check the Extraction Site
 
@@ -87,16 +87,19 @@ A soft diet makes sense for the first 1 to 2 weeks while tissues are fragile and
 
 Prolonged soft diet restriction isn't necessary once soft tissue has healed and you're comfortable chewing. Just avoid direct pressure on the healing site until it's completely resolved (usually around 4 to 6 weeks depending on procedure complexity).
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Effective post-surgery care emphasizes gentle activity, appropriate pain management, maintaining gauze over extraction sites to protect blood clots, head elevation, and careful diet progression. Most patients benefit from light oral hygiene (away from the surgical site), over-the-counter pain medication, ice for 24 hours then heat, and gradual activity advancement over 1 to 2 weeks.
 
+> **Key Takeaway:** Learn what really helps your healing after tooth extraction or implant surgery and which care practices matter most.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Timeline for Recovery Timeline](/article/timeline-for-recovery-timeline.html)
-- [Swelling Reduction: What You Need to Know](/article/swelling-reduction-what-you-need-to-know.html)
 - [Impacted Teeth Removal: Canines, Molars, and Premolars](/article/impacted-teeth-removal-canines-molars-and-premolars.html)
+- [Cost of Anesthesia Options](/article/cost-of-anesthesia-options.html)
+- [Common Misconceptions About Anesthesia Options](/article/common-misconceptions-about-anesthesia-options.html)
+- [Pain Management Surgery Complete Guide](/article/pain-management-surgery-complete-guide.html)
+- [Cost of Recovery Timeline in Oral Surgery](/article/cost-of-recovery-timeline.html)
 
-> **Key Takeaway:** Good post-surgery care focuses on protecting blood clots, managing swelling and pain, and allowing gradual activity advancement. Peak swelling on days 2-3 is normal—not a complication. Talk to your dentist about which care practices matter most for your specific procedure.

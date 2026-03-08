@@ -35,7 +35,7 @@ Bad breath is embarrassing, and you might think you're stuck with it—but you'r
 
 ## What Actually Causes Bad Breath
 
-Bad breath isn't simply caused by having a dirty mouth—it's caused by certain bacteria that break down proteins and create smelly gases. Learn more about [b vitamins and oral](/article/b-vitamins-and-oral-health.html) for additional guidance. These bacteria are anaerobes, meaning they thrive in low-oxygen environments like deep pockets under the gums or thick coatings on your tongue. When these bacteria digest proteins, they release three main smelly chemicals: hydrogen sulfide (which smells like rotten eggs), methyl mercaptan (which smells like rotting meat), and dimethyl sulfide (which has an overall foul smell). People with healthy mouths produce only tiny amounts of these chemicals—people with halitosis produce 5-10 times more.
+Bad breath isn't simply caused by having a dirty mouth—it's caused by certain bacteria that break down proteins and create smelly gases. Learn more about [B Vitamins and Oral](/article/b-vitamins-and-oral-health.html) for additional guidance. These bacteria are anaerobes, meaning they thrive in low-oxygen environments like deep pockets under the gums or thick coatings on your tongue. When these bacteria digest proteins, they release three main smelly chemicals: hydrogen sulfide (which smells like rotten eggs), methyl mercaptan (which smells like rotting meat), and dimethyl sulfide (which has an overall foul smell). People with healthy mouths produce only tiny amounts of these chemicals—people with halitosis produce 5-10 times more.
 
 This explains why your breath is worst when you first wake up. Your mouth has been relatively oxygen-poor all night while you sleep, allowing these bacteria to produce maximum odor. When you start eating, speaking, and salivating, oxygen flows in and the smells partially neutralize—that's why brushing your teeth, eating breakfast, or having coffee temporarily improves your breath, even if the underlying problem isn't fixed.
 
@@ -73,18 +73,19 @@ Once you stop using zinc rinses, improvement gradually fades over 1-2 weeks. Thi
 
 ## Practical Steps to Freshen Your Breath
 
-Buy a zinc chloride rinse from your pharmacy or online. Look for products labeled "zinc" or "zinc chloride mouthrinse." Start using it twice daily: morning after breakfast, evening after dinner. Clean your tongue with a tongue scraper every morning, then use your zinc rinse. Floss daily and brush for two full minutes. Schedule a dental visit to check whether you have gum disease or other mouth problems. Follow your dentist's advice for treating any problems found. In 2-3 weeks, assess whether your bad breath has improved. If it has, great—keep the routine up. If not, discuss other possibilities with your dentist.
+Buy a zinc chloride rinse from your pharmacy or online. Look for products labeled "zinc" or "zinc chloride mouthrinse." Start using it twice daily: morning after breakfast, evening after dinner. Clean your tongue with a tongue scraper every morning, then use your zinc rinse. Floss daily and brush for two full minutes.
+
+Schedule a dental visit to check whether you have gum disease or other mouth problems. Follow your dentist's advice for treating any problems found. In 2-3 weeks, assess whether your bad breath has improved. If it has, great—keep the routine up. If not, discuss other possibilities with your dentist.
 
 ## Conclusion
 
 Bad breath from oral bacteria responds well to zinc rinses, tongue cleaning, improved oral hygiene, and treatment of any underlying gum disease. Zinc neutralizes odor chemicals while fighting the bacteria that produce them, with visible results in days to weeks.
 
-## Key Takeaway
-
-Zinc chloride rinses used twice daily, combined with daily tongue cleaning and good oral hygiene, can eliminate bad breath caused by mouth bacteria within 3-4 weeks in 60-75% of users.
+> **Key Takeaway:** Zinc chloride rinses used twice daily, combined with daily tongue cleaning and good oral hygiene, can eliminate bad breath caused by mouth bacteria within 3-4 weeks in 60-75% of users.
 
 ## Related Articles
 
 - [Zinc Deficiency: Immune Function and Gum Health](/article/zinc-deficiency-immune-function-and-gum-health.html)
 - [Understanding Gum Disease Prevention](/article/gum-disease-prevention-complete-guide.html)
 - [Nutrition and Oral Health: Foods for Strong Teeth](/article/nutrition-and-oral-health-foods-for-strong-teeth.html)
+

@@ -19,7 +19,7 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/19417868
 ---
 
-# When Baby Teeth Won't Fall Out: What You Need to Know
+## When Baby Teeth Won't Fall Out: What You Need to Know
 
 If your child has a baby tooth that hasn't fallen out even though it's "supposed to," you might be wondering if there's a problem. Sometimes baby teeth seem stubborn and refuse to budge, while the surrounding teeth are losing theirs normally. The good news is that not all retained (stuck) baby teeth mean something serious—but some do need attention. This guide explains when baby teeth naturally fall out, why some get stuck, and when your child's dentist might recommend removal or other treatment.
 
@@ -33,7 +33,9 @@ The process of a baby tooth falling out happens because the permanent tooth unde
 
 ## What Happens When a Baby Tooth Gets Stuck
 
-If a baby tooth doesn't get looser over time and doesn't fall out when it should, it might be stuck. There are several reasons this can happen. One common cause is that the permanent tooth underneath isn't pushing upward normally. Sometimes the permanent tooth is missing entirely (your dentist will check with X-rays to see if it exists). Or the permanent tooth might be stuck or positioned oddly and can't push the baby tooth out the normal way. For more on this topic, see our guide on [Nitrous Oxide Sedation Safe In Young ...](/article/nitrous-oxide-sedation-safe-in-young-patients.html).
+If a baby tooth doesn't get looser over time and doesn't fall out when it should, it might be stuck. There are several reasons this can happen. One common cause is that the permanent tooth underneath isn't pushing upward normally.
+
+Sometimes the permanent tooth is missing entirely (your dentist will check with X-rays to see if it exists). Or the permanent tooth might be stuck or positioned oddly and can't push the baby tooth out the normal way. For more on this topic, see our guide on [Is Laughing Gas Safe for My Child? What Parents](/article/nitrous-oxide-sedation-safe-in-young-patients.html).
 
 Another reason a baby tooth gets stuck is ankylosis, which is when the tooth becomes fused to the jawbone. When this happens, the tooth doesn't move or become loose like normal baby teeth do. An ankylosed tooth often looks darker than surrounding teeth and doesn't wiggle, even if your child is old enough for it to fall out.
 
@@ -45,7 +47,9 @@ However, if X-rays show that the permanent tooth is missing entirely (due to a c
 
 ## How Your Dentist Decides: Removal vs. Retention
 
-Your dentist considers several factors when deciding whether a retained baby tooth should be removed. They look at whether a normal permanent tooth is developing and about to erupt. They assess whether the baby tooth is blocking the permanent tooth's eruption path. They evaluate whether the baby tooth is ankylosed or just stuck. And they consider whether a permanent successor even exists. For more on this topic, see our guide on [Toothpaste For Children Age Appropria...](/article/toothpaste-for-children-age-appropriate-fluoride.html).
+Your dentist considers several factors when deciding whether a retained baby tooth should be removed. They look at whether a normal permanent tooth is developing and about to erupt. They assess whether the baby tooth is blocking the permanent tooth's eruption path.
+
+They evaluate whether the baby tooth is ankylosed or just stuck. And they consider whether a permanent successor even exists. For more on this topic, see our guide on [Toothpaste for Children: Age-Appropriate Fluoride](/article/toothpaste-for-children-age-appropriate-fluoride.html).
 
 If the baby tooth is blocking a normally developing permanent tooth, removal is usually recommended. If the baby tooth has no permanent successor, keeping it is often the better choice. If the baby tooth is ankylosed and causing problems (like crowding other teeth or looking distinctly submerged), removal might be necessary to prevent cascading problems with neighboring teeth.
 
@@ -54,10 +58,6 @@ If the baby tooth is blocking a normally developing permanent tooth, removal is 
 If a baby tooth stays in place too long when it should have come out, it can cause problems for surrounding teeth. Adjacent teeth might drift and shift to fill the space occupied by the stuck tooth. This can create crowding and spacing problems that might require orthodontic correction later. The retained tooth might also position below the level of surrounding teeth (called infraocclusion), creating a noticeable deformity in the gum line.
 
 For these reasons, even though "wait and see" might be tempting, your dentist might recommend removing a retained baby tooth sooner rather than later to prevent these complications. The decision is always personalized based on your child's specific situation.
-
-
-
-
 
 ## Questions to Ask Your Dentist
 
@@ -71,9 +71,9 @@ Your dentist can also explain what happens if you choose to delay treatment and 
 
 Your dental health journey is unique, and the right approach to when baby teeth won't fall out - what you need to know depends on your individual needs and what your dentist recommends. Don't hesitate to ask questions so you fully understand your options and feel confident about your care.
 
-## Key Takeaway: Getting Early Assessment
-
 If your child has a baby tooth that hasn't fallen out when expected, mention it at your next dental visit. Your dentist can take X-rays, determine what's causing the retention, and help you understand whether the tooth should stay or be removed. Most of the time, retained baby teeth resolve on their own or can be managed simply. The important thing is getting professional assessment rather than waiting indefinitely, as early intervention often prevents complications that would require more extensive treatment later.
+
+> **Key Takeaway:** ## Key Takeaway: Getting Early Assessment
 
 ## Related Articles
 
@@ -81,6 +81,3 @@ If your child has a baby tooth that hasn't fallen out when expected, mention it 
 - [Fluoride Treatment for Children](/article/fluoride-treatments-benefits-and-application.html)
 - [Dental Sealants for Kids Preventing Molars Cavities](/article/dental-sealants-for-kids-preventing-molars-cavities.html)
 
----
-
-Remember that your child's dental development is unique to them, and variations in the timing of baby tooth loss are normal. Working with your pediatric dentist ensures your child's smile develops optimally and any necessary interventions happen at the right time.

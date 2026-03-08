@@ -1,24 +1,33 @@
 ---
-title: "Apically Positioned Flap Surgery: Pocket Elimination and"
-slug: apically-positioned-flap-creating-shallow-pockets
 category: Periodontics
 category_slug: periodontics
-excerpt: "When gum disease creates pockets deeper than 4-5mm, even thorough brushing and professional cleaning can't stop the disease."
 date: 2026-03-05
+excerpt: When gum disease creates pockets deeper than 4-5mm, even thorough brushing
+  and professional cleaning can't stop the disease.
 read_time: 18 min
+references:
+- Gargiulo AW, Wentz FM, Orban B. Dimensions and relations of the dentogingival junction
+  in humans. J Periodontol. 1961;32(5):261-267.
+- 'Reeves WG. Resective osseous surgery: biological basis and technique. Compend Contin
+  Educ Dent. 2003;24(1):10-20.'
+- Takei HH, Han TJ, Carranza FA, Kenney EB, Lekovic V. The influence of flap thickness
+  on facial and lingual gingival dimensions following surgical remodeling. J Periodontol.
+  1976;47(11):660-668.
+- Sato M, Kato Y, Sekita T, et al. Histological evaluation of human gingival sulcus
+  and dentogingival junction. J Periodontal Res. 1993;28(3):185-193.
+- 'Carranza FA, Takei HH. Clinical diagnosis. In: Carranza''s Clinical Periodontology.
+  9th ed. WB Saunders; 2002.'
+- Newman MG, Takei HH, Klokkevold PR, eds. Carranza's Clinical Periodontology. 11th
+  ed. Elsevier; 2012.
+- Loe H, Silness J. Periodontal disease in pregnancy. I. Prevalence and severity.
+  Acta Odontol Scand. 1963;21:533-551.
+- Ramfjord SP, Nissle RR. The modified Widman flap. J Periodontol. 1974;45(8):601-607.
+reviewed: true
 reviewer_specialty: Periodontics
+slug: apically-positioned-flap-creating-shallow-pockets
 subcategory: Periodontal Surgery
 subcategory_slug: periodontal-surgery
-reviewed: true
-references:
-  - "Gargiulo AW, Wentz FM, Orban B. Dimensions and relations of the dentogingival junction in humans. J Periodontol. 1961;32(5):261-267."
-  - "Reeves WG. Resective osseous surgery: biological basis and technique. Compend Contin Educ Dent. 2003;24(1):10-20."
-  - "Takei HH, Han TJ, Carranza FA, Kenney EB, Lekovic V. The influence of flap thickness on facial and lingual gingival dimensions following surgical remodeling. J Periodontol. 1976;47(11):660-668."
-  - "Sato M, Kato Y, Sekita T, et al. Histological evaluation of human gingival sulcus and dentogingival junction. J Periodontal Res. 1993;28(3):185-193."
-  - "Carranza FA, Takei HH. Clinical diagnosis. In: Carranza's Clinical Periodontology. 9th ed. WB Saunders; 2002."
-  - "Newman MG, Takei HH, Klokkevold PR, eds. Carranza's Clinical Periodontology. 11th ed. Elsevier; 2012."
-  - "Loe H, Silness J. Periodontal disease in pregnancy. I. Prevalence and severity. Acta Odontol Scand. 1963;21:533-551."
-  - "Ramfjord SP, Nissle RR. The modified Widman flap. J Periodontol. 1974;45(8):601-607."
+title: 'Apically Positioned Flap Surgery: Pocket Elimination'
 ---
 
 ## What This Surgery Does
@@ -139,6 +148,8 @@ Post-operative success depends heavily on meticulous home care and regular profe
 
 Poor maintenance predicts relapse. Good maintenance predicts long-term stability.
 
+*Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
+
 ## Conclusion
 
 Apically positioned flap surgery eliminates deep gum pockets by repositioning flap tissue lower, allowing biological width to reestablish and pockets to resolve. Success rates of 85-95 percent achieving shallow pockets demonstrate effectiveness.
@@ -149,12 +160,13 @@ The procedure preserves bone height better than aggressive bone-removal surgery,
 
 Meticulous home care and regular professional maintenance determine long-term success. With good care, results remain stable for decades.
 
-## Related Articles You May Find Helpful
+> **Key Takeaway:** When gum disease creates pockets deeper than 4-5mm, even thorough brushing and professional cleaning can't stop the disease.
 
-- [Aggressive Periodontitis: Early-Onset Gum Disease](/article/aggressive-periodontitis-early-onset-gum-disease.html)
-- [Aggressive vs Chronic: Disease Progression Rate](/article/aggressive-vs-chronic-disease-progression-rate.html)
+## Related Articles
+
 - [Alcohol and Periodontitis: Increased Risk](/article/alcohol-and-periodontitis-increased-risk.html)
-
-
-> **Key Takeaway:** When gum disease creates pockets deeper than 4-5mm, even thorough brushing and professional cleaning can't stop the disease. Your dentist can help you understand what steps are right for your specific needs.
+- [Advanced Gum Disease: When Tooth Roots Become Separated](/article/furcation-involvement-root-separation-exposure.html)
+- [Gingivitis Progression: From Health to Disease](/article/gingivitis-progression-from-health-to-disease.html)
+- [Root Planing - Smoothing Root Surfaces in](/article/root-planing-smoothing-root-surfaces.html)
+- [Advanced Bone Regeneration Surgery](/article/osseous-surgery-reshaping-bone-architecture.html)
 

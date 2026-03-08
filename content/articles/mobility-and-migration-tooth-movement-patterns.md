@@ -51,7 +51,7 @@ Other migration patterns include extrusion (tooth "erupting" or elongating relat
 
 Your periodontist measures tooth mobility by gently pushing the tooth with instruments and assessing how much movement occurs. The Miller Index grades mobility from 0 (normal) to III (excessive movement exceeding 2 millimeters). Grade II or III mobility indicates advanced disease with grim prognosis for tooth retention without aggressive treatment.
 
-X-rays show the underlying bone loss causing mobility. A tooth with Grade III mobility typically shows 50-70% bone loss radiographically. Learning more about [timeline for gum disease stages](/article/timeline-for-gum-disease-stages.html) can help you understand this better. The correlation between bone loss and mobility is strong—your X-rays and your periodontist's clinical assessment should tell similar stories.
+X-rays show the underlying bone loss causing mobility. A tooth with Grade III mobility typically shows 50-70% bone loss radiographically. Learning more about [Timeline for Gum Disease Stages](/article/timeline-for-gum-disease-stages.html) can help you understand this better. The correlation between bone loss and mobility is strong—your X-rays and your periodontist's clinical assessment should tell similar stories.
 
 ## Realistic Tooth Retention Prognosis
 
@@ -73,25 +73,13 @@ Sometimes, extracting hopeless mobile teeth is better than struggling to retain 
 
 Modern implant and prosthetic options provide reasonable replacement alternatives. A strategic extraction of one hopeless mobile tooth, replaced with an implant or bridge, might yield better long-term outcomes than perpetual treatment efforts to save a compromised tooth.
 
-Your periodontist should be honest about retention prognosis. If a tooth has poor prognosis despite aggressive treatment, extraction discussion is appropriate. Some patients find extraction psychologically difficult despite understanding the logic; that's understandable. Learning more about [gum recession causes stages and treatment options](/article/gum-recession-causes-stages-and-treatment-options.html) can help you understand this better. But make the decision with clear information about realistic outcomes.
+Your periodontist should be honest about retention prognosis. If a tooth has poor prognosis despite aggressive treatment, extraction discussion is appropriate. Some patients find extraction psychologically difficult despite understanding the logic; that's understandable. Learning more about [Gum Recession Causes Stages and Treatment Options](/article/gum-recession-causes-stages-and-treatment-options.html) can help you understand this better. But make the decision with clear information about realistic outcomes.
 
 ## Preventing Future Mobile Teeth
 
 Prevention is infinitely better than managing mobile teeth. Excellent plaque control (brushing, flossing, professional cleanings), addressing risk factors (quitting smoking, managing diabetes, controlling stress), and regular monitoring catch gum disease early before bone loss becomes severe.
 
 If you've experienced gum disease and bone loss with resulting mobile teeth, aggressive preventive care becomes essential to prevent additional teeth from experiencing similar damage.
-
-## Conclusion
-
-Tooth mobility and migration signal advanced gum disease with substantial bone loss. While aggressive treatment offers some chance of disease stabilization, realistic expectations acknowledge that mobility indicates poor long-term tooth retention prognosis. Treatment decisions should balance retention attempts against realistic outcomes and overall oral health. Sometimes, strategic extraction of hopeless teeth combined with retention of viable teeth creates better long-term results than perpetual attempts to save severely compromised teeth.
-
-> **Key Takeaway:** Tooth mobility means you've lost 50-70% of supporting bone—advanced disease with poor prognosis even with treatment. Aggressive therapy might stabilize disease, but roughly 50-70% of Grade III mobile teeth are eventually lost. Strategic extraction sometimes yields better outcomes than prolonged treatment of hopeless teeth.
-
-## Related Articles You May Find Helpful
-
-- [Timeline for Gum Disease Stages](/article/timeline-for-gum-disease-stages.html)
-- [Gum Recession: Causes, Stages, and Treatment Options](/article/gum-recession-causes-stages-and-treatment-options.html)
-- [Host Response to Bacteria: Why Some Have Disease](/article/host-response-to-bacteria-why-some-have-disease.html)
 
 ## Understanding Disease Progression Rates
 
@@ -106,3 +94,17 @@ The fundamental biology: tissue inflammation triggers bone-destroying cells whil
 Beyond the clinical science, mobile teeth create emotional and functional distress. Many patients experience embarrassment about shifting teeth and changes in smile appearance. Functionally, mobile teeth become uncomfortable during chewing, food gets trapped more readily, and teeth feel unstable—all creating psychological stress.
 
 This emotional impact matters for motivation to pursue aggressive treatment. Patients who clearly understand the gravity of mobile teeth and the risk of tooth loss often become highly motivated to implement excellent home care and maintain professional treatment compliance. Conversely, patients minimizing the seriousness of mobility might delay treatment, allowing progressive deterioration.
+
+## Conclusion
+
+Tooth mobility and migration signal advanced gum disease with substantial bone loss. While aggressive treatment offers some chance of disease stabilization, realistic expectations acknowledge that mobility indicates poor long-term tooth retention prognosis. Treatment decisions should balance retention attempts against realistic outcomes and overall oral health. Sometimes, strategic extraction of hopeless teeth combined with retention of viable teeth creates better long-term results than perpetual attempts to save severely compromised teeth.
+
+> **Key Takeaway:** Tooth mobility means you've lost 50-70% of supporting bone—advanced disease with poor prognosis even with treatment. Aggressive therapy might stabilize disease, but roughly 50-70% of Grade III mobile teeth are eventually lost. Strategic extraction sometimes yields better outcomes than prolonged treatment of hopeless teeth.
+
+## Related Articles
+
+- [Host Response to Bacteria: Why Some Have Disease](/article/host-response-to-bacteria-why-some-have-disease.html)
+
+- [Periodontal Disease Diagnosis Tests and Measurements](/article/periodontal-disease-diagnosis-tests-and-measurements.html)
+- [Area-Specific Curettes: Gracey Instrument Design and](/article/area-specific-curettes-gracey-instruments.html)
+

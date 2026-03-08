@@ -25,7 +25,7 @@ references:
 
 Recent research from hospitals around the world has revealed something important: people with gum disease have significantly higher risk of severe COVID-19. Studies examined over 150,000 patients during the pandemic and found that those with moderate to severe gum disease were about four times more likely to need hospitalization and mechanical ventilation compared to people with healthy gums.
 
-This isn't just about teeth—it's about your whole body's health. Learning more about [periodontal disease and tooth loss prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. Gum disease creates chronic inflammation in your mouth that may affect how your body fights off COVID-19. Understanding this connection explains why your dentist has always emphasized the importance of gum health.
+This isn't just about teeth—it's about your whole body's health. Learning more about [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. Gum disease creates chronic inflammation in your mouth that may affect how your body fights off COVID-19. Understanding this connection explains why your dentist has always emphasized the importance of gum health.
 
 ## What Science Discovered
 
@@ -45,7 +45,7 @@ Think of it like this: gum disease creates a weakened defense system just when y
 
 ## Taking Protective Action
 
-If you have gum disease, controlling it now becomes even more important. Learning more about [timeline for gum disease stages](/article/timeline-for-gum-disease-stages.html) can help you understand this better. Professional cleaning removes the harmful bacteria that causes inflammation. Scaling and root planing—where your hygienist carefully cleans below the gum line—reduces bacterial load and the inflammation it triggers.
+If you have gum disease, controlling it now becomes even more important. Learning more about [Timeline for Gum Disease Stages](/article/timeline-for-gum-disease-stages.html) can help you understand this better. Professional cleaning removes the harmful bacteria that causes inflammation. Scaling and root planing—where your hygienist carefully cleans below the gum line—reduces bacterial load and the inflammation it triggers.
 
 Studies show that professional gum treatment reduces the inflammatory markers in your blood that indicate immune system activation. This means your immune system is less distracted when it needs to fight COVID-19 or other infections.
 
@@ -75,8 +75,6 @@ During stressful times like pandemics, stress hormones suppress immune function 
 
 Gum disease is modifiable. You can control it through home care and professional treatment. Unlike your age or genetics, which you can't change, gum disease is something you can improve. The pandemic highlighted how much gum health matters to your whole-body health.
 
-
-
 ## Questions to Ask Your Dentist
 
 When you visit your dentist, ask about coronavirus and periodontal health recent research and how it applies to your specific situation. Every mouth is different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
@@ -91,12 +89,13 @@ Once you've addressed coronavirus and periodontal health recent research, mainta
 
 Research clearly shows that healthy gums reduce your risk of severe COVID-19 and other infections. Taking care of your gums through daily brushing and flossing, professional cleanings, and treating gum disease actively protects your health. Your dentist is a partner in your overall health protection, not just tooth cleaning.
 
+> **Key Takeaway:** Recent research shows that gum disease increases your risk of severe COVID-19, suggesting that keeping your gums healthy is more important than ever.
 
+## Related Articles
 
-## Related Articles You May Find Helpful
-
-- [Gum Disease Prevention and Treatment](/article/periodontal-disease-and-tooth-loss-prevention.html)
-- [Stages of Gum Disease](/article/timeline-for-gum-disease-stages.html)
 - [Stress and Gum Health](/article/stress-and-periodontitis-immunosuppression.html)
+- [Flap Surgery: Accessing Bone for Deep Cleaning](/article/flap-surgery-accessing-bone-for-deep-cleaning.html)
+- [Genetic Factors in Gum Disease: Understanding Your Risk](/article/genetic-susceptibility-hereditary-periodontitis.html)
+- [Gingivitis Prevention: Reversing Early Gum Disease](/article/gingivitis-prevention-reversing-early-gum-disease.html)
+- [Severe Periodontitis](/article/severe-periodontitis-advanced-disease-state.html)
 
-> **Key Takeaway:** Gum disease increases your COVID-19 risk by up to 4 times, but it's preventable and treatable. Keeping your gums healthy through daily care and professional treatment protects your whole-body health. Talk to your dentist about your gum health status and what you can do to keep your gums strong.
