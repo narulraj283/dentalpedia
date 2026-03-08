@@ -1,6 +1,6 @@
 ---
 title: Risk and Concerns with Orthodontic Compliance
-slug: risk-concerns-orthodontic-compliance
+slug: risk-and-concerns-with-orthodontic-compliance
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Orthodontic treatment failures frequently result from patient noncompliance with elastic wear, retainer use, dietary restrictions, and oral hygiene maintenance during active treatment.

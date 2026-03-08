@@ -55,7 +55,7 @@ The most common problem after tooth extraction is "dry socket," which doctors ca
 
 Several things increase your dry socket risk. If you smoke, your risk goes way up because smoking restricts blood flow and dries out the area. Girls and women using birth control have slightly higher risk. Also, if the extraction was difficult or the dentist had to remove a lot of bone, you're at greater risk.
 
-You can learn more about the healing process in our guide on [recovery timelines](/articles/risk-and-concerns-with-recovery-timeline/). Dry socket causes intense pain that typically starts 3 to 5 days after extraction. The pain is usually much worse than the pain right after the extraction itself. Your dentist can treat it by rinsing the socket, placing special medicated dressing inside, and giving you pain medication. Don't worry—while the pain is serious, dry socket heals completely, usually within a week or two of treatment.
+You can learn more about the healing process in our guide on [recovery timelines](/article/risk-and-concerns-with-recovery-timeline.html). Dry socket causes intense pain that typically starts 3 to 5 days after extraction. The pain is usually much worse than the pain right after the extraction itself. Your dentist can treat it by rinsing the socket, placing special medicated dressing inside, and giving you pain medication. Don't worry—while the pain is serious, dry socket heals completely, usually within a week or two of treatment.
 
 ## Watching for Infection
 
@@ -73,7 +73,7 @@ Your dentist can help with excess bleeding by using special hemostatic agents (b
 
 As your socket heals, tiny bone fragments sometimes work their way up through your gum. These look like small, hard chips. This is normal and not a sign of a problem.
 
-If you need help managing pain after extraction, learn about [pain management strategies](/articles/risk-and-concerns-with-pain-relief-methods/). Your body is naturally removing dead bone as part of healing. If a bone fragment bothers you, your dentist can remove it. Usually, these pieces come out naturally or dissolve on their own.
+If you need help managing pain after extraction, learn about [pain management strategies](/article/risk-and-concerns-with-pain-relief-methods.html). Your body is naturally removing dead bone as part of healing. If a bone fragment bothers you, your dentist can remove it. Usually, these pieces come out naturally or dissolve on their own.
 
 If you're taking certain medications like bisphosphonates (used for osteoporosis), there's a small risk of a complication called osteonecrosis, where bone fails to heal properly. Tell your dentist before extraction if you're on any bone-related medications. Your dentist will use extra-gentle technique to minimize this risk.
 

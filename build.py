@@ -660,7 +660,7 @@ def load_articles():
 
             articles_by_category[category_slug].append(metadata)
             if subcategory_slug:
-                articles_by_subcategory[subcategory_slug].append(metadata)
+                articles_by_subcategory[f"{category_slug}/{subcategory_slug}"].append(metadata)
 
             all_articles.append(metadata)
 
@@ -932,8 +932,8 @@ def generate_categories_index():
     cards_html = '<div class="categories-grid">'
     for cat_slug, articles in sorted(articles_by_category.items()):
         cat_name = articles[0].get('category', cat_slug) if articles else cat_slug
-        subcat_count = sum(1 for sa in articles_by_subcategory.values()
-                          if sa and sa[0].get('category_slug') == cat_slug)
+        subcat_count = sum(1 for k in articles_by_subcategory.keys()
+                          if k.startswith(f"{cat_slug}/"))
         cards_html += f'''
         <a href="/category/{cat_slug}.html" class="category-card">
             <div class="category-icon">📚</div>
@@ -979,10 +979,11 @@ def generate_category_pages():
 
         # Get subcategories for this category
         cat_subcategories = {}
-        for subcat_slug, subcat_articles in articles_by_subcategory.items():
-            if subcat_articles and subcat_articles[0].get('category_slug') == category_slug:
-                subcat_name = subcat_articles[0].get('subcategory', subcat_slug)
-                cat_subcategories[subcat_slug] = {
+        for combo_key, subcat_articles in articles_by_subcategory.items():
+            cat_s, sub_s = combo_key.split('/', 1)
+            if cat_s == category_slug and subcat_articles:
+                subcat_name = subcat_articles[0].get('subcategory', sub_s)
+                cat_subcategories[sub_s] = {
                     'name': subcat_name,
                     'count': len(subcat_articles)
                 }
@@ -1099,12 +1100,12 @@ def generate_subcategory_pages():
     """Generate subcategory pages with pagination."""
     logger.info("Generating subcategory pages...")
 
-    for subcategory_slug, articles in articles_by_subcategory.items():
+    for combo_key, articles in articles_by_subcategory.items():
         if not articles:
             continue
 
-        # Get category and subcategory info
-        category_slug = articles[0].get('category_slug', '')
+        # Key is now "category_slug/subcategory_slug"
+        category_slug, subcategory_slug = combo_key.split('/', 1)
         category_name = articles[0].get('category', '')
         subcategory_name = articles[0].get('subcategory', '')
 
@@ -1523,7 +1524,7 @@ def generate_admin_dashboard():
 
     total_articles = len(all_articles)
     total_categories = len(articles_by_category)
-    total_subcategories = len(articles_by_subcategory)
+    total_subcategories = len(set(k.split('/')[1] for k in articles_by_subcategory.keys()))
     total_cities_cost = len(cities_data)
     total_procedures = len(procedure_costs)
     total_guides = len(cornerstone_guides)
@@ -1774,10 +1775,9 @@ def generate_sitemaps():
   </url>
 '''
 
-    for subcat_slug in articles_by_subcategory.keys():
-        # Find category slug from articles in subcategory
-        if articles_by_subcategory[subcat_slug]:
-            cat_slug = articles_by_subcategory[subcat_slug][0].get('category_slug', '')
+    for combo_key in articles_by_subcategory.keys():
+        if articles_by_subcategory[combo_key]:
+            cat_slug, subcat_slug = combo_key.split('/', 1)
             categories_sitemap += f'''  <url>
     <loc>{base_url}/subcategory/{cat_slug}/{subcat_slug}/</loc>
     <changefreq>weekly</changefreq>
@@ -1967,7 +1967,7 @@ def generate_homepage():
     categories_html = '<div class="categories-grid">'
     for cat_slug, articles in sorted(articles_by_category.items()):
         cat_name = articles[0].get('category', cat_slug) if articles else cat_slug
-        subcat_count = sum(1 for sa in articles_by_subcategory.values() if sa and sa[0].get('category_slug') == cat_slug)
+        subcat_count = sum(1 for k in articles_by_subcategory.keys() if k.startswith(f"{cat_slug}/"))
         categories_html += f'''
         <a href="/category/{cat_slug}.html" class="category-card">
             <div class="category-icon">📚</div>
@@ -2062,6 +2062,45 @@ def generate_homepage():
     )
 
     with open(SITE_ROOT / "index.html", 'w', encoding='utf-8') as f:
+        f.write(page_html)
+
+
+def generate_404_page():
+    """Generate custom 404 error page for GitHub Pages."""
+    logger.info("Generating 404 page...")
+    content = '''
+    <div class="content-width" style="padding: 4rem 0; text-align: center;">
+        <div style="font-size: 5rem; margin-bottom: 1rem;">🦷</div>
+        <h1 style="font-size: 2.5rem; margin-bottom: 0.5rem;">Page Not Found</h1>
+        <p style="font-size: 1.15rem; color: var(--text-secondary); margin-bottom: 2rem;">
+            Sorry, the page you're looking for doesn't exist or may have moved.
+        </p>
+        <div style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin-bottom: 3rem;">
+            <a href="/" style="background: var(--accent); color: #fff; padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none; font-weight: 600;">Go to Homepage</a>
+            <a href="/categories.html" style="border: 2px solid var(--accent); color: var(--accent); padding: 0.75rem 1.5rem; border-radius: 8px; text-decoration: none; font-weight: 600;">Browse Categories</a>
+        </div>
+        <div style="max-width: 500px; margin: 0 auto; text-align: left;">
+            <p style="font-weight: 600; margin-bottom: 0.75rem;">Popular topics:</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                <a href="/category/general-dentistry.html" style="background: var(--bg-secondary); padding: 0.4rem 0.8rem; border-radius: 6px; font-size: 0.9rem; text-decoration: none; color: var(--text-primary);">General Dentistry</a>
+                <a href="/category/cosmetic-dentistry.html" style="background: var(--bg-secondary); padding: 0.4rem 0.8rem; border-radius: 6px; font-size: 0.9rem; text-decoration: none; color: var(--text-primary);">Cosmetic Dentistry</a>
+                <a href="/category/preventive-care.html" style="background: var(--bg-secondary); padding: 0.4rem 0.8rem; border-radius: 6px; font-size: 0.9rem; text-decoration: none; color: var(--text-primary);">Preventive Care</a>
+                <a href="/category/orthodontics.html" style="background: var(--bg-secondary); padding: 0.4rem 0.8rem; border-radius: 6px; font-size: 0.9rem; text-decoration: none; color: var(--text-primary);">Orthodontics</a>
+                <a href="/category/dental-implants.html" style="background: var(--bg-secondary); padding: 0.4rem 0.8rem; border-radius: 6px; font-size: 0.9rem; text-decoration: none; color: var(--text-primary);">Dental Implants</a>
+                <a href="/tools/dental-health-quiz.html" style="background: var(--bg-secondary); padding: 0.4rem 0.8rem; border-radius: 6px; font-size: 0.9rem; text-decoration: none; color: var(--text-primary);">Dental Health Quiz</a>
+            </div>
+        </div>
+    </div>
+    '''
+
+    page_html = get_page_template(
+        "Page Not Found | DentalPedia",
+        content,
+        f"{DOMAIN}/404.html",
+        "The page you're looking for doesn't exist. Browse our dental health articles and guides."
+    )
+
+    with open(SITE_ROOT / "404.html", 'w', encoding='utf-8') as f:
         f.write(page_html)
 
 
@@ -3399,8 +3438,9 @@ def process_clinical_article(md_file):
 
         metadata, body = parse_markdown_frontmatter(content)
 
+        # Derive slug from filename if not in YAML
         if 'slug' not in metadata:
-            return None
+            metadata['slug'] = Path(md_file).stem
 
         slug = metadata['slug']
         output_file = CLINICAL_DIR / f"{slug}.html"
@@ -3677,6 +3717,7 @@ def main():
     generate_editorial_standards_page()
     generate_privacy_page()
     generate_terms_page()
+    generate_404_page()
     generate_admin_dashboard()
     generate_cost_calculator()
     generate_dental_health_quiz()

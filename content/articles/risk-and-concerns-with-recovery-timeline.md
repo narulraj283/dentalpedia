@@ -56,7 +56,7 @@ Every person heals differently. After dental surgery, some people feel better in
 
 Your body goes through predictable healing stages after dental surgery. First comes inflammation, when your body sends white blood cells to clean the area. Then comes the building phase, when new tissue forms. Finally comes remodeling, when tissues strengthen and mature. Most people progress through these stages quickly, but some people naturally heal faster or slower.
 
-Smoking significantly delays healing, and you can learn about the specifics in our [recovery timeline guide](/articles/risk-and-concerns-with-recovery-after-extraction/). Genetic factors play a big role in healing speed. If your parents or relatives healed slowly from surgeries, you might too. That's perfectly normal—your body just works at its own pace. The good news is there are many things you can control to help speed healing along.
+Smoking significantly delays healing, and you can learn about the specifics in our [recovery timeline guide](/article/risk-and-concerns-with-recovery-after-extraction.html). Genetic factors play a big role in healing speed. If your parents or relatives healed slowly from surgeries, you might too. That's perfectly normal—your body just works at its own pace. The good news is there are many things you can control to help speed healing along.
 
 ## Chronic Diseases and Healing
 
@@ -84,7 +84,7 @@ During recovery, make sure you're eating adequate protein—not just soft foods,
 
 ## Sleep and Stress Matter More Than You Think
 
-Your body does much of its healing work during sleep. If you're not sleeping well during recovery, your healing slows. For more on specific recovery complications, see our article on [post-extraction care](/articles/risk-and-concerns-with-recovery-after-extraction/).
+Your body does much of its healing work during sleep. If you're not sleeping well during recovery, your healing slows. For more on specific recovery complications, see our article on [post-extraction care](/article/risk-and-concerns-with-recovery-after-extraction.html).
 
 Try to get 7 to 9 hours nightly, and sleep with your head elevated if swelling is an issue. Stress hormones suppress immune function and delay healing. Try to keep stress low during recovery—avoid stressful situations if possible, and practice relaxation techniques like deep breathing.
 

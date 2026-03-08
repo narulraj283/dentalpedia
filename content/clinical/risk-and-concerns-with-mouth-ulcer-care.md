@@ -1,6 +1,6 @@
 ---
 title: Risk and Concerns with Mouth Ulcer Care
-slug: risk-concerns-mouth-ulcer-care
+slug: risk-and-concerns-with-mouth-ulcer-care
 category: Oral Health Conditions
 category_slug: oral-health-conditions
 excerpt: Improper management of oral ulcers creates serious diagnostic delays, treatment complications, and missed malignancy detection that compromise patient outcomes.

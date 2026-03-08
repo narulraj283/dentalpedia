@@ -1,6 +1,6 @@
 ---
 title: Risk and Concerns with Oral Hygiene Routine
-slug: risk-concerns-oral-hygiene-routine
+slug: risk-and-concerns-with-oral-hygiene-routine
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Suboptimal oral hygiene routines create preventable disease through tool selection errors, technique failures, product interactions, and time constraint impacts that compromise disease prevention.

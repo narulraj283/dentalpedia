@@ -92,11 +92,11 @@ Implants are irreversible. Successful implants become part of your jaw. Removing
 
 ## Treatment Planning: Getting the Sequence Right
 
-Smile makeovers often require multiple types of treatment happening in a specific order. If you need braces, that usually comes first—straightening teeth makes restorative work easier and more conservative. If you need gum reshaping, that typically comes before getting crowns or veneers, since gum changes might alter planned tooth shapes. Learn more about [teeth alignment alternatives](/articles/teeth-alignment-alternatives-complete-guide) if you're considering orthodontic treatment.
+Smile makeovers often require multiple types of treatment happening in a specific order. If you need braces, that usually comes first—straightening teeth makes restorative work easier and more conservative. If you need gum reshaping, that typically comes before getting crowns or veneers, since gum changes might alter planned tooth shapes. Learn more about [teeth alignment alternatives](/article/teeth-alignment-alternatives-complete-guide.html) if you're considering orthodontic treatment.
 
 Whitening should happen after orthodontics but before veneers, since veneers can't be whitened. If you need implants, those are placed early but the crown isn't placed until the implant has integrated (usually 3-6 months later). Your dentist creates a treatment plan that sequences everything logically. For more on this topic, see our guide on [How To Tooth Gap Closure](/article/how-to-tooth-gap-closure.html).
 
-This can take time. Some patients want everything done immediately, but rushing usually reduces quality. A well-executed smile makeover might take 6-12 months if multiple treatments are involved. That's normal. Learn more about [cosmetic restoration types](/articles/benefits-of-cosmetic-restoration-types) to understand your options.
+This can take time. Some patients want everything done immediately, but rushing usually reduces quality. A well-executed smile makeover might take 6-12 months if multiple treatments are involved. That's normal. Learn more about [cosmetic restoration types](/article/benefits-of-cosmetic-restoration-types.html) to understand your options.
 
 ## Maintaining Your New Smile
 

@@ -1,6 +1,6 @@
 ---
 title: Risk and Concerns with Mouthwash Selection
-slug: risk-concerns-mouthwash-selection
+slug: risk-and-concerns-with-mouthwash-selection
 category: Preventive Care
 category_slug: preventive-care
 excerpt: Inadequate mouthwash selection exposes patients to ingredient sensitivities, alcohol-induced xerostomia, fluoride toxicity risks in children, and evidence-practice gaps that undermine preventive efficacy.

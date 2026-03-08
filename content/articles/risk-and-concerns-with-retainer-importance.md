@@ -40,7 +40,7 @@ Without a retainer, your teeth will shift back toward their original positions. 
 
 ## What Your Retainer Does
 
-Learn more about [teeth alignment alternatives](/articles/risk-and-concerns-with-teeth-alignment-alternatives/) to understand your overall options. After months of braces or aligners slowly moving your teeth, your jawbone and soft tissues need time to stabilize around your new tooth positions. The bone around your teeth actually remodels over months, gradually hardening into place. Your retainer holds your teeth steady while this stabilization happens. Without it, teeth drift back—sometimes slowly, sometimes surprisingly fast.
+Learn more about [teeth alignment alternatives](/article/risk-and-concerns-with-teeth-alignment-alternatives.html) to understand your overall options. After months of braces or aligners slowly moving your teeth, your jawbone and soft tissues need time to stabilize around your new tooth positions. The bone around your teeth actually remodels over months, gradually hardening into place. Your retainer holds your teeth steady while this stabilization happens. Without it, teeth drift back—sometimes slowly, sometimes surprisingly fast.
 
 Think of your teeth like a tree. When you bend a young tree, it naturally wants to spring back to its original position. Your teeth are similar—they have a "memory" of their original position and want to return there. Your retainer overcomes this natural tendency.
 
@@ -52,7 +52,7 @@ Many people use both types: a fixed retainer on upper front teeth (where shiftin
 
 ## How Long You'll Need to Wear Your Retainer
 
-For information about tooth movement and relapse, check our guide on [teeth movement speed](/articles/risk-and-concerns-with-teeth-movement-speed/). Most people need full-time retainer wear for about 6 to 12 months after braces come off. After that, you might transition to just nighttime wear indefinitely.
+For information about tooth movement and relapse, check our guide on [teeth movement speed](/article/risk-and-concerns-with-teeth-movement-speed.html). Most people need full-time retainer wear for about 6 to 12 months after braces come off. After that, you might transition to just nighttime wear indefinitely.
 
 Some people need to wear retainers for life if they want their teeth to stay perfectly straight. This sounds like a long commitment, but wearing a retainer for 10 seconds while you sleep is much easier than going through braces again. For more on this topic, see our guide on [Cost Of Invisible Braces Benefits](/article/cost-of-invisible-braces-benefits.html).
 

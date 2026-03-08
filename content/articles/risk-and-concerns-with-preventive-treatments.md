@@ -55,7 +55,7 @@ Fluoride treatments come in gels, varnishes, and rinses. They're used a lot, esp
 
 Sometimes, the issue isn't the fluoride itself but other ingredients in the product. If you develop a rash, swelling, or other signs of an allergic reaction, tell your dentist right away. You might need to switch to a different type of fluoride treatment.
 
-If your teeth feel sensitive after fluoride treatment, don't worry—that usually goes away quickly on its own. Learn more about managing tooth sensitivity in our guide to [sensitivity relief options](/articles/risk-and-concerns-with-sensitive-teeth-relief/). Your dentist can recommend desensitizing toothpaste if it bothers you.
+If your teeth feel sensitive after fluoride treatment, don't worry—that usually goes away quickly on its own. Learn more about managing tooth sensitivity in our guide to [sensitivity relief options](/article/risk-and-concerns-with-sensitive-teeth-relief.html). Your dentist can recommend desensitizing toothpaste if it bothers you.
 
 ## Fluoride Safety in Young Children
 
@@ -81,7 +81,7 @@ The sealant also needs to cover the entire grooved surface of your tooth. Someti
 
 Professional cleanings remove plaque and tartar from your teeth. They're important for your health, but they can cause temporary sensitivity afterward. The cleaning tools are a bit abrasive, and if used too vigorously, they can cause discomfort or even damage soft gum tissue. You might feel tenderness or sensitivity to temperature for a few days after a cleaning.
 
-To minimize this, dentists should use gentler polishing tools, especially if you have sensitive teeth or exposed root surfaces. Ask your dentist about using air polishing, which is often gentler. If you want to learn more about gum health during preventive care, check out our article on [gum disease prevention](/articles/risk-and-concerns-with-gum-disease-prevention/).
+To minimize this, dentists should use gentler polishing tools, especially if you have sensitive teeth or exposed root surfaces. Ask your dentist about using air polishing, which is often gentler. If you want to learn more about gum health during preventive care, check out our article on [gum disease prevention](/article/risk-and-concerns-with-gum-disease-prevention.html).
 
 If sensitivity bothers you after a cleaning, try a desensitizing toothpaste. It usually goes away within a few days. For more on this topic, see our guide on [Risk and Concerns with Mouthwash Selection](/article/risk-and-concerns-with-mouthwash-selection.html).
 

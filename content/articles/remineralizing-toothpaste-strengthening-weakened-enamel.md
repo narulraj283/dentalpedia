@@ -69,7 +69,7 @@ The latest research suggests that combining multiple remineralizing technologies
 
 ## Choosing the Right Remineralizing Toothpaste
 
-Your dentist can help you choose based on your specific situation. If you have low cavity risk and good oral hygiene, standard fluoride toothpaste (1,000-1,450 ppm) is perfect. If you have multiple cavities, exposed root surfaces, or dry mouth, your dentist might prescribe high-fluoride toothpaste (5,000 ppm) or recommend professional fluoride treatments every 3-6 months. Understanding [cavity risk factors](/articles/how-to-cavity-risk-factors) helps you choose the right prevention strategy.
+Your dentist can help you choose based on your specific situation. If you have low cavity risk and good oral hygiene, standard fluoride toothpaste (1,000-1,450 ppm) is perfect. If you have multiple cavities, exposed root surfaces, or dry mouth, your dentist might prescribe high-fluoride toothpaste (5,000 ppm) or recommend professional fluoride treatments every 3-6 months. Understanding [cavity risk factors](/article/how-to-cavity-risk-factors.html) helps you choose the right prevention strategy.
 
 If you prefer non-fluoride options, nano-hydroxyapatite is your best bet based on current evidence. Look for products with at least 10% nano-hydroxyapatite content. Some people benefit from combining approaches—using fluoride toothpaste twice daily plus CPP-ACP gel treatments, for example. Your dentist can develop a personalized plan based on your risk factors and preferences. For more on this topic, see our guide on [Timeline For Tartar Prevention](/article/timeline-for-tartar-prevention.html).
 
@@ -77,7 +77,7 @@ If you prefer non-fluoride options, nano-hydroxyapatite is your best bet based o
 
 Some people face bigger challenges with enamel strength. If you have enamel hypomineralization (weak enamel from childhood developmental issues), you'll benefit from intensive remineralization therapy. Kids with severe enamel weakness might start professional fluoride treatments as early as age 5-6. Using high-concentration products at home plus periodic professional treatments can prevent cavitation and save you from extensive dental work later.
 
-People with exposed root surfaces (from gum recession) face special challenges because root surface is softer than enamel and decays faster. Your dentist might recommend high-fluoride toothpaste or professional treatments specifically for root surface protection. Learn more about [tartar prevention](/articles/timeline-for-tartar-prevention) and [preventive care](/articles/how-to-preventive-treatments) to create a complete protection strategy. Eating acidic foods constantly (from sipping soda, sports drinks, or acidic foods) speeds up demineralization, so high-risk diet changes plus remineralizing toothpaste provide the best protection.
+People with exposed root surfaces (from gum recession) face special challenges because root surface is softer than enamel and decays faster. Your dentist might recommend high-fluoride toothpaste or professional treatments specifically for root surface protection. Learn more about [tartar prevention](/article/timeline-for-tartar-prevention.html) and [preventive care](/article/how-to-preventive-treatments.html) to create a complete protection strategy. Eating acidic foods constantly (from sipping soda, sports drinks, or acidic foods) speeds up demineralization, so high-risk diet changes plus remineralizing toothpaste provide the best protection.
 
 ## Making Remineralization Work: The Practical Side
 

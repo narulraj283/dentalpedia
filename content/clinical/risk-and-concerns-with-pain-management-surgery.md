@@ -1,6 +1,6 @@
 ---
 title: Risk and Concerns with Pain Management Following Oral Surgery
-slug: risk-concerns-pain-management-surgery
+slug: risk-and-concerns-with-pain-management-surgery
 category: Oral Surgery
 category_slug: oral-surgery
 excerpt: Post-surgical pain management involves competing risks of opioid dependency, NSAID bleeding complications, acetaminophen hepatotoxicity, and inadequate pain control requiring multimodal optimization.

@@ -1,6 +1,6 @@
 ---
 title: Risk and Concerns with Orthodontic Appointment Frequency
-slug: risk-concerns-orthodontic-appointment-frequency
+slug: risk-and-concerns-with-orthodontic-appointment-frequency
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Suboptimal orthodontic appointment frequency creates treatment delays, monitoring gaps, emergency situation development, and financial burden escalation that compromise treatment efficiency and outcomes.

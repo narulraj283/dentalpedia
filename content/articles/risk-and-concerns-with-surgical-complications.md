@@ -52,7 +52,7 @@ Dental surgery like tooth extraction or implant placement is generally safe, but
 
 Dry socket (alveolar osteitis) is the most common complication after tooth extraction, affecting about 1 to 15 percent of patients. It happens when the blood clot that forms after extraction dissolves or falls out before your socket heals. This exposes the bone underneath, causing severe pain.
 
-You can learn more about [recovery after extraction](/articles/risk-and-concerns-with-recovery-after-extraction/) for detailed aftercare guidance. Dry socket typically appears 3 to 5 days after extraction. The pain is usually intense and much worse than normal post-extraction pain. It often shoots through your jaw.
+You can learn more about [recovery after extraction](/article/risk-and-concerns-with-recovery-after-extraction.html) for detailed aftercare guidance. Dry socket typically appears 3 to 5 days after extraction. The pain is usually intense and much worse than normal post-extraction pain. It often shoots through your jaw.
 
 The area might look empty or exposed. If you develop severe pain days after extraction, contact your dentist immediately. Fortunately, dry socket is treatable—your dentist can clean the area, place special medicated dressing inside, and provide pain medication. Treatment usually brings relief quickly.
 
@@ -66,7 +66,7 @@ Infection risk is higher if you have poor oral hygiene, weakened immune system, 
 
 ## Excessive Bleeding
 
-Some bleeding for 24 to 48 hours after extraction is normal. For more on [post-operative care](/articles/risk-and-concerns-with-post-surgery-care/), see our comprehensive guide. But bright red bleeding that continues despite gentle pressure with gauze is a problem. If you're taking blood-thinning medications, mention this before surgery—your dentist can prepare for the possibility of extended bleeding. For more on this topic, see our guide on [Why Tooth Extraction Recovery Matters](/article/why-tooth-extraction-recovery-matters.html).
+Some bleeding for 24 to 48 hours after extraction is normal. For more on [post-operative care](/article/risk-and-concerns-with-post-surgery-care.html), see our comprehensive guide. But bright red bleeding that continues despite gentle pressure with gauze is a problem. If you're taking blood-thinning medications, mention this before surgery—your dentist can prepare for the possibility of extended bleeding. For more on this topic, see our guide on [Why Tooth Extraction Recovery Matters](/article/why-tooth-extraction-recovery-matters.html).
 
 If bleeding doesn't stop with home care (gentle gauze pressure, elevation), contact your dentist. Your dentist has tools and techniques to stop excessive bleeding. Don't wait or try to handle this alone—seek professional help.
 

@@ -91,13 +91,13 @@ Some orthodontists combine clear aligners with fixed braces for certain phases. 
 
 ## Surgical Bite Correction: When Braces Alone Can't Fix It
 
-If you have severe skeletal bite problems that can't be corrected by braces alone (or only correctable with unacceptable cosmetic results), orthognathic surgery might be recommended. This is jaw surgery performed by an oral surgeon in coordination with your orthodontist. Learn more about [retainer importance](/articles/benefits-of-retainer-importance) for maintaining results after any treatment. For more on this topic, see our guide on [Benefits Of Retainer Importance](/article/benefits-of-retainer-importance.html).
+If you have severe skeletal bite problems that can't be corrected by braces alone (or only correctable with unacceptable cosmetic results), orthognathic surgery might be recommended. This is jaw surgery performed by an oral surgeon in coordination with your orthodontist. Learn more about [retainer importance](/article/benefits-of-retainer-importance.html) for maintaining results after any treatment. For more on this topic, see our guide on [Benefits Of Retainer Importance](/article/benefits-of-retainer-importance.html).
 
 Surgical options include moving your upper jaw forward or back (Le Fort I procedure), moving your lower jaw forward or back (sagittal split surgery), or doing both. Pre-surgical orthodontics positions your teeth optimally for surgery. After surgery, your jaw is wired or plated into its new position while bone heals (usually 6-8 weeks). You'll need braces post-surgery for final tooth positioning.
 
 Jaw surgery is a significant commitment. Recovery takes weeks, with major swelling peaking around day 3-4. You might need 2-3 weeks off work for visible recovery.
 
-Permanent risks include partial numbness of your lower lip or chin (occurs in about 5-10% of cases), though most sensation returns over time. Jaw relapse (teeth moving back toward the original position) occurs to some degree in most cases, though modern surgical techniques have reduced this significantly. For more information on post-treatment care, explore [maintaining oral hygiene with braces](/articles/maintaining-oral-hygiene-with-braces) as a reference.
+Permanent risks include partial numbness of your lower lip or chin (occurs in about 5-10% of cases), though most sensation returns over time. Jaw relapse (teeth moving back toward the original position) occurs to some degree in most cases, though modern surgical techniques have reduced this significantly. For more information on post-treatment care, explore [maintaining oral hygiene with braces](/article/maintaining-oral-hygiene-with-braces.html) as a reference.
 
 Surgery should only be considered after careful consultation with both your orthodontist and surgical team. It's the "last resort" when less invasive approaches can't achieve your goals.
 

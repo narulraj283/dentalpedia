@@ -1,6 +1,6 @@
 ---
 title: Risk and Concerns with Orthodontic Treatment Duration
-slug: risk-concerns-orthodontic-treatment-duration
+slug: risk-and-concerns-with-orthodontic-treatment-duration
 category: Orthodontics
 category_slug: orthodontics
 excerpt: Extended orthodontic treatment creates cumulative risks of root resorption, decalcification, patient fatigue, cost escalation, and bone density changes affecting long-term dental health.
