@@ -48,7 +48,7 @@ There are two types of post-operative bleeding: primary and secondary.
 
 Most primary bleeding stops within 5 to 10 minutes of proper pressure application. Your body's natural clotting system (platelets and fibrin) forms a protective clot.
 
-**Secondary bleeding** happens after you leave the office—usually 6 to 24 hours later. Your local anesthetic has worn off, so blood vessels dilate again, and if the socket hasn't clotted properly or the clot gets disturbed, bleeding can return. This is less common but more urgent because you're at home.
+**Secondary bleeding** happens after you leave the office—usually 6 to 24 hours later. Your local anesthetic has worn off, so blood vessels dilate again, and if the socket hasn't clotted properly or the clot gets disturbed, this can return. This is less common but more urgent because you're at home.
 
 ## If Bleeding Doesn't Stop After Your Procedure
 
@@ -119,7 +119,7 @@ To prevent secondary bleeding:
 - **Don't drink alcohol**—it thins blood and delays clotting
 - **Don't eat hard, hot, or crunchy foods**—stick to soft, cool foods
 
-These precautions significantly reduce your bleeding risk.
+These precautions significantly reduce your it risk.
 
 ## When to Call Your Dentist
 

@@ -54,7 +54,7 @@ references:
 ---
 ## Understanding and Managing Different Types of Dental Pain
 
-Half of all adults experience dental pain each year, but not all dental pain is the same. Pain from a cavity feels different than post-extraction pain, which feels different than chronic jaw pain. Understanding what kind of pain you have helps you treat it effectively. Let's talk about the different types of dental and oral pain and how to manage each one.
+Half of all adults experience dental pain each year, but not all dental pain is the same. Discomfort from a cavity feels different than post-extraction the sensation, which feels different than chronic jaw pain. Understanding what kind of soreness you have helps you treat it effectively. Let's talk about the different types of dental and oral pain and how to manage each one.
 
 ## Tooth Pain from Cavities or Decay (Pulpitis)
 
@@ -86,17 +86,17 @@ Apply ice for the first 24 hours (20 minutes on, 20 minutes off). Some patients 
 
 Using a chlorhexidine antimicrobial rinse also helps keep the area clean and reduces secondary inflammation. Desensitizing toothpaste applied to the treated areas reduces further sensitivity. Soft foods and avoiding the area when brushing for a few days helps.
 
-**After extractions:** Simple extractions cause mild-to-moderate pain for 1-3 days. Surgical extractions (impacted teeth, especially wisdom teeth) cause more pain for 3-5 days. Use ibuprofen (600mg) and acetaminophen (1000mg) on an alternating 6-hour schedule.
+**After extractions:** Simple extractions cause mild-to-moderate discomfort for 1-3 days. Surgical extractions (impacted teeth, especially wisdom teeth) cause more pain for 3-5 days. Use ibuprofen (600mg) and acetaminophen (1000mg) on an alternating 6-hour schedule.
 
-Apply ice for the first 24 hours, then switch to heat for days 2-7. Ice reduces swelling and numbness early on; heat improves swelling later. Take your medication on schedule (even if pain feels mild) to prevent pain from escalating.
+Apply ice for the first 24 hours, then switch to heat for days 2-7. Ice reduces swelling and numbness early on; heat improves swelling later. Take your medication on schedule (even if the sensation feels mild) to prevent soreness from escalating.
 
 ## Chronic Jaw and Facial Pain
 
 **TMD (Temporomandibular disorder):** If your jaw muscles are sore and tight, NSAIDs (ibuprofen 400-600mg every 6-8 hours), muscle relaxants, and physical therapy help. Resting your jaw (avoiding wide opening, not chewing gum) and applying heat is important. If the jaw joint itself is clicking or locking, see your dentist.
 
-TMD can be caused by muscle tension, joint problems, or both. Sometimes stress drives clenching and grinding that tightens muscles. Other times, joint damage from injury or arthritis causes pain. Identifying the cause matters because treatment differs. A dentist experienced with TMD can often diagnose which type you have.
+TMD can be caused by muscle tension, joint problems, or both. Sometimes stress drives clenching and grinding that tightens muscles. Other times, joint damage from injury or arthritis causes discomfort. Identifying the cause matters because treatment differs. A dentist experienced with TMD can often diagnose which type you have.
 
-**Trigeminal neuralgia:** This is rare but serious—you get sudden electric shock-like pain in your face, usually triggered by light touch (like brushing your teeth or chewing). This requires specific medications (carbamazepine) that are 70-80% effective. Talk to your dentist or doctor immediately if you suspect this. It's rare but unmistakable once you experience it. Some cases are caused by a blood vessel touching the trigeminal nerve—doctors can sometimes fix this surgically if medication doesn't work.
+**Trigeminal neuralgia:** This is rare but serious—you get sudden electric shock-like the sensation in your face, usually triggered by light touch (like brushing your teeth or chewing). This requires specific medications (carbamazepine) that are 70-80% effective. Talk to your dentist or doctor immediately if you suspect this. It's rare but unmistakable once you experience it. Some cases are caused by a blood vessel touching the trigeminal nerve—doctors can sometimes fix this surgically if medication doesn't work.
 
 **Neuropathic pain (nerve pain):** Sometimes pain feels like burning or tingling even though your dentist finds nothing wrong with your teeth or gums. Special medications designed for nerve pain (gabapentin, pregabalin) help, along with stress reduction and psychological counseling. Neuropathic pain follows different pathways than regular pain and responds differently to treatment.
 
@@ -118,19 +118,19 @@ TMD can be caused by muscle tension, joint problems, or both. Sometimes stress d
 
 **Rest and elevation:** Sleep with your head elevated. Avoid strenuous activity that increases blood pressure and pain. Lying flat lets fluid accumulate in the surgical area, increasing swelling and pain. Even one extra pillow helps.
 
-**Stress and anxiety management:** Chronic pain is worse when you're stressed. Stress tightens muscles and lowers pain thresholds. Deep breathing, meditation, or counseling helps. Some patients find that knowing what their pain means (diagnosis) reduces anxiety and pain perception.
+**Stress and anxiety management:** Chronic soreness is worse when you're stressed. Stress tightens muscles and lowers pain thresholds. Deep breathing, meditation, or counseling helps. Some patients find that knowing what their pain means (diagnosis) reduces anxiety and pain perception.
 
 ## When Pain Means Something Serious
 
 Get urgent dental or medical care if you have:
-- **Fever** with pain (suggests infection spreading)
+- **Fever** with discomfort (suggests infection spreading)
 - **Swelling** that keeps getting worse instead of better (suggests infection spreading)
 - **Difficulty swallowing or breathing** (potential airway problem—go to ER immediately)
 - **Pain that doesn't improve** with medication (suggests a complication or different problem)
-- **Severe pain spreading** to your jaw and neck with fever (very rare but serious—could indicate deep space infection)
+- **Severe the sensation spreading** to your jaw and neck with fever (very rare but serious—could indicate deep space infection)
 - **Unexplained facial pain** that's severe despite a normal dental exam (might be something non-dental like trigeminal neuralgia, requiring specialist evaluation)
 
-These aren't typical dental pain situations. They signal complications requiring professional intervention.
+These aren't typical dental soreness situations. They signal complications requiring professional intervention.
 
 ## Understanding Pain Medication Safety
 
@@ -144,7 +144,7 @@ These aren't typical dental pain situations. They signal complications requiring
 
 ## Bottom Line
 
-Dental pain is treatable. Identify what kind of pain you have, use the appropriate combination of medication and physical approaches, and get professional evaluation for severe pain. Most dental pain resolves with NSAIDs and acetaminophen—opioids aren't needed for typical dental pain.
+Dental discomfort is treatable. Identify what kind of pain you have, use the appropriate combination of medication and physical approaches, and get professional evaluation for severe pain. Most dental pain resolves with NSAIDs and acetaminophen—opioids aren't needed for typical dental pain.
 
 Simple cavities need simple treatment (filling), not pain medication. Inflamed nerves need root canal therapy. Infected teeth need antibiotics plus treatment. Your dentist can usually identify the cause and offer definitive treatment that actually solves the problem rather than just masking pain.
 
@@ -154,7 +154,6 @@ Related reading: [Your Guide to Emergency Tooth](/article/benefits-of-emergency-
 ## Conclusion
 
 Simple cavities need simple treatment (filling), not pain medication. Inflamed nerves need root canal therapy. Talk to your dentist about how this applies to your situation.
-
 
 
 > **Key Takeaway:** Half of all adults experience dental pain each year, but not all dental pain is the same.

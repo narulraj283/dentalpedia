@@ -97,11 +97,7 @@ Watch out for concentrated peppermint products. Undiluted peppermint essential o
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
-
-Your dentist's evidence-based recommendations—mechanical plaque removal, fluoride, and professional care—do far more for your oral health than peppermint products alone. Use peppermint as a complementary part of your complete oral care routine, not as a replacement for proven prevention and treatment strategies. If you have dental problems, see your dentist for diagnosis and proper treatment instead of relying on peppermint remedies.
+Talk to your dentist about your specific situation and what approach works best for you. Watch out for concentrated peppermint products. Undiluted peppermint essential oil can cause burning, tremors, and dizziness if ingested in large amounts. Peppermint products should be kept away from children, who could accidentally ingest too much.
 
 > **Key Takeaway:** Peppermint deserves a place in your oral care routine for its pleasant flavor and refreshing sensation, and for temporary relief of oral discomfort. However, it's not a substitute for brushing, flossing, professional cleanings, or evidence-based dental treatment. The antimicrobial and anti-inflammatory benefits shown in lab studies don't translate reliably to real-world benefits in your mouth.
 

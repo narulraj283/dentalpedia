@@ -165,11 +165,7 @@ The silver lining: whitening isn't damaging to your teeth. It just wears off. Yo
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding teeth whitening - what really works and how to get your helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
-
-If you prefer flexibility and control, custom trays are the best value. Most importantly, understand that whitening is temporary—plan for maintenance touch-ups every 6-12 months if you want to keep the brightness. And coordinate with your dentist if you have crowns or major restorations, because those won't whiten along with your natural teeth.
+Talk to your dentist about your specific situation and what approach works best for you. The silver lining: whitening isn't damaging to your teeth. It just wears off. You can safely re-whiten as often as you want, as long as you're not dealing with chronic sensitivity.
 
 > **Key Takeaway:** Whitening works, but success depends on managing expectations and choosing the right method for your situation. Professional options (custom trays or in-office) deliver better results than over-the-counter products because they use stronger bleaching agents and better delivery systems. If you're in a hurry, in-office whitening is fastest.
 

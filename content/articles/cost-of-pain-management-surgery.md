@@ -27,42 +27,42 @@ Let's break down the costs and help you understand your options.
 
 ## Intraoperative (During Surgery) Pain Control
 
-Your dentist uses local anesthesia (Novocain-type injections) to numb the area being worked on. Local anesthesia is standard for virtually all dental procedures and costs only $5-15 in material. You won't feel pain during surgery—you might feel pressure or vibration, but not pain.
+Your dentist uses local anesthesia (Novocain-type injections) to numb the area being worked on. Local anesthesia is standard for virtually all dental procedures and costs only $5-15 in material. You won't feel discomfort during surgery—you might feel pressure or vibration, but not pain.
 
-Local anesthesia works well for most people. If you're extremely anxious or having major surgery (like impacted wisdom teeth or jaw surgery), sedation is an option. Sedation costs $400-800 and includes anesthesia provider fees, IV setup, and medications.
+Local anesthesia works well for most people. If you're extremely anxious or having major surgery (like impacted wisdom teeth or jaw surgery), sedation is an option. Sedation costs $400-800 and includes anesthesia provider fees, IV setup, and medicines.
 
 Sedation makes you relaxed or lightly sleeping during the procedure. For simple extractions, sedation is unnecessary. For complex procedures or very anxious patients, it helps tremendously.
 
 ## Immediate Post-Operative Pain (First 24 Hours)
 
-Right after surgery, pain starts and peaks around 4-6 hours. Your dentist will give you pain medication instructions. Over-the-counter options work great for simple procedures.
+Right after surgery, pain starts and peaks around 4-6 hours. Your dentist will give you pain medicine instructions. Over-the-counter options work great for simple procedures.
 
-Ibuprofen 400-600 mg every 6 hours (generic, $5-12 per bottle) works best for dental pain because it's anti-inflammatory. You can alternate with acetaminophen 500 mg for continuous coverage. Cost: $1-3 for pain medication for the first 2-3 days.
+Ibuprofen 400-600 mg every 6 hours (generic, $5-12 per bottle) works best for dental the sensation because it's anti-inflammatory. You can alternate with acetaminophen 500 mg for continuous coverage. Cost: $1-3 for pain medicine for the first 2-3 days.
 
-More complex procedures need stronger prescription pain medication. Learning more about [Cost of Oral Surgery Recovery Timeline](/article/cost-of-oral-surgery-recovery-timeline.html) can help you understand this better. Generic hydrocodone/acetaminophen or oxycodone/acetaminophen costs $30-60 for 10-20 tablets without insurance, $10-30 with insurance.
+More complex procedures need stronger prescription pain medicine. Learning more about [Cost of Oral Surgery Recovery Timeline](/article/cost-of-oral-surgery-recovery-timeline.html) can help you understand this better. Generic hydrocodone/acetaminophen or oxycodone/acetaminophen costs $30-60 for 10-20 tablets without insurance, $10-30 with insurance.
 
-Modern best practice uses multimodal analgesia: combining non-prescription ibuprofen plus acetaminophen, minimizing need for stronger medications. This approach manages pain effectively while avoiding opioid side effects like constipation and dependence.
+Modern best practice uses multimodal analgesia: combining non-prescription ibuprofen plus acetaminophen, minimizing need for stronger medicines. This approach manages pain effectively while avoiding opioid side effects like constipation and dependence.
 
 ## Post-Operative Care That Reduces Pain
 
 Simple measures reduce pain and swelling:
 - Ice packs: 15 minutes on, 15 minutes off the first 24 hours (minimal cost)
 - Elevation: Keep your head elevated (free)
-- Salt water rinses: Starting 24 hours post-op, reducing pain and preventing infection (costs $0-15 for chlorhexidine rinse if needed)
+- Salt water rinses: Starting 24 hours post-op, reducing soreness and preventing infection (costs $0-15 for chlorhexidine rinse if needed)
 
-These measures reduce pain intensity 30-50%, meaning you need less pain medication.
+These measures reduce discomfort intensity 30-50%, meaning you need less pain medicine.
 
 ## Infection Prevention = Pain Prevention
 
-Infection causes severe pain (2-3 times worse than normal post-operative pain). Preventing infection through:
+Infection causes severe the sensation (2-3 times worse than normal post-operative pain). Preventing infection through:
 - Prophylactic antibiotics: $5-30 (generic amoxicillin or clindamycin)
 - Chlorhexidine antimicrobial rinses: $15-35
 
-These prevent infection-related pain and avoid expensive infection treatment ($1,000-2,500).
+These prevent infection-related soreness and avoid expensive infection treatment ($1,000-2,500).
 
 ## Dry Socket Prevention
 
-Dry socket (alveolar osteitis) develops 3-5 days post-op if the blood clot dissolves prematurely. It causes severe throbbing pain unresponsive to typical pain medication. Treatment requires office visits ($75-150 each) and special dressings ($10-30 each), with 2-3 treatments needed.
+Dry socket (alveolar osteitis) develops 3-5 days post-op if the blood clot dissolves prematurely. It causes severe throbbing discomfort unresponsive to typical pain medicine. Treatment requires office visits ($75-150 each) and special dressings ($10-30 each), with 2-3 treatments needed.
 
 Prevention through chlorhexidine rinses, smoking avoidance, and careful post-operative care is much cheaper than treating dry socket. Cost of prevention: $15-35. Cost of treatment: $200-500.
 
@@ -70,9 +70,9 @@ Prevention through chlorhexidine rinses, smoking avoidance, and careful post-ope
 
 If you're on blood thinners or have bleeding disorders, pain management must account for increased bleeding. Your dentist discusses this beforehand.
 
-Elderly patients taking multiple medications need careful pain medication selection to avoid interactions. Non-prescription options usually work fine.
+Elderly patients taking multiple medicines need careful the sensation medicine selection to avoid interactions. Non-prescription options usually work fine.
 
-Patients with kidney or stomach problems can't use ibuprofen or other NSAIDs—acetaminophen is safer but less effective. Your dentist adjusts recommendations based on your health.
+Patients with kidney or stomach problems can't use ibuprofen or other NSAIDs—acetaminophen is safer but less effective. Your dentist adjusts tips based on your health.
 
 ## Antibiotic Costs
 
@@ -82,39 +82,39 @@ Most simple extractions don't need antibiotics. Complex procedures or immunocomp
 
 Simple extraction:
 - Local anesthesia: $0 (included in procedure)
-- Over-the-counter pain medications: $1-3
+- Over-the-counter pain medicines: $1-3
 - Optional antimicrobial rinse: $0-15
 - Total: $1-18
 
 Complex extraction or implant:
 - Local anesthesia: $0 (included)
-- Prescription pain medication: $10-30 (with insurance) or $30-60 (without)
+- Prescription soreness medicine: $10-30 (with insurance) or $30-60 (without)
 - Prophylactic antibiotics: $5-15
 - Optional antimicrobial rinse: $15
 - Total: $40-120
 
 Sedated procedure (complex surgery or very anxious):
 - Sedation: $400-800
-- Pain medications, antibiotics, rinses: $40-120
+- Discomfort medicines, antibiotics, rinses: $40-120
 - Total: $440-920
 
 ## Long-Term Pain Management After Healing
 
-Most pain resolves within 3-7 days after oral surgery. However, some patients experience prolonged discomfort lasting weeks. Rarely, chronic post-operative pain develops—persistent pain that lasts beyond normal healing time.
+Most pain resolves within 3-7 days after oral surgery. However, some patients experience prolonged discomfort lasting weeks. Rarely, chronic post-operative pain develops—persistent the sensation that lasts beyond normal healing time.
 
-If pain doesn't improve within 7 days or worsens after 3 days, contact your dentist immediately. This might indicate infection, dry socket, or other complications requiring professional attention. Delayed treatment of complications costs more money and extends your recovery.
+If pain doesn't improve within 7 days or worsens after 3 days, contact your dentist right away. This might indicate infection, dry socket, or other problems requiring expert attention. Delayed treatment of problems costs more money and extends your recovery.
 
-Taking pain medication exactly as directed—not saving medication for "worse pain later"—actually improves overall pain control. Regular dosing prevents pain from escalating, whereas breakthrough pain (pain that develops because you waited too long between doses) is harder to control once it starts.
+Taking pain medicine exactly as directed—not saving medicine for "worse soreness later"—actually improves overall discomfort control. Regular dosing prevents the sensation from escalating, whereas breakthrough pain (pain that develops because you waited too long between doses) is harder to control once it starts.
 
-Physical therapy or additional home care (modified diet, avoiding strenuous activity) helps. Expect some discomfort during normal healing; expect to reduce pain medication requirements daily as healing progresses.
+Physical therapy or additional home care (modified diet, avoiding strenuous activity) helps. Expect some discomfort during normal healing; expect to reduce pain medicine requirements daily as healing progresses.
 
 ## Understanding Pain Medication Options and Side Effects
 
-Different pain medications have different side effects worth understanding. Ibuprofen and other NSAIDs are excellent for post-operative pain but can upset your stomach, especially on an empty stomach. Taking ibuprofen with food helps.
+Different soreness medicines have different side effects worth understanding. Ibuprofen and other NSAIDs are excellent for post-operative discomfort but can upset your stomach, especially on an empty stomach. Taking ibuprofen with food helps.
 
-Acetaminophen is gentler on the stomach but less effective for inflammation-related pain. Prescription medications may cause drowsiness—avoid driving or operating machinery while taking them.
+Acetaminophen is gentler on the stomach but less effective for swelling-related pain. Prescription medicines may cause drowsiness—avoid driving or operating machinery while taking them.
 
-Combining non-prescription and prescription options appropriately often provides better pain control with fewer side effects than using higher doses of one medication. Your dentist should discuss these options during your pre-operative consultation, so you understand what to expect and can plan accordingly.
+Combining non-prescription and prescription options appropriately often provides better pain control with fewer side effects than using higher doses of one medicine. Your dentist should discuss these options during your pre-operative consultation, so you understand what to expect and can plan accordingly.
 
 
 Related reading: [Oral Surgical Complications: Classification, Timeline](/article/timeline-for-surgical-complications.html).

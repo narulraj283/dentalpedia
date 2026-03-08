@@ -103,7 +103,6 @@ Many dental offices offer payment plans for periodontal treatments if cost is a 
 Arestin and Atridox represent evidence-based adjunctive options for managing moderate to severe chronic periodontitis when combined with optimal mechanical therapy and patient-maintained plaque control. If you have questions, your dentist can help you understand your options. Combined with regular professional cleaning and good home care, these treatments can help your gums heal better than cleaning alone. Success depends on continuing excellent home care, regular maintenance visits, and addressing risk factors like smoking.
 
 
-
 > **Key Takeaway:** Local antibiotic medications placed directly in your pockets help fight gum disease better than regular cleaning alone. Learn how these work for you.
 
 ## Related Articles

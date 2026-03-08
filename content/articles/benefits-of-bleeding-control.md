@@ -183,8 +183,7 @@ Related reading: [Alveolar Ridge Reduction: Lowering High](/article/alveolar-rid
 
 ## Conclusion
 
-Whether you're just learning about your guide to hemostasis and bleeding control in oral or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Talk to your dentist before any oral surgery about your medications and any bleeding concerns. Good planning and proper technique ensure safe surgery with optimal healing.
 
 > **Key Takeaway:** When your dentist does oral surgery—like extracting teeth or placing implants—controlling bleeding is one of the most important things they do.
 

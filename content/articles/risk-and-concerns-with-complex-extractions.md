@@ -34,15 +34,15 @@ references:
 ---
 ## Introduction
 
-If you need to have a tooth pulled—especially one that's impacted or buried deep in your jaw—you probably have questions about what could go wrong. While most tooth extractions go smoothly, more complex procedures do carry real risks. Understanding these possible complications helps you make informed decisions and know what to expect during recovery. This guide walks you through the main concerns with complex tooth extraction, what the odds really are, and how your dental surgeon can help keep you safe.
+If you need to have a tooth pulled—especially one that's impacted or buried deep in your jaw—you probably have questions about what could go wrong. While most tooth extractions go smoothly, more complex procedures do carry real risks. Understanding these possible problems helps you make informed decisions and know what to expect during recovery. This guide walks you through the main concerns with complex tooth extraction, what the odds really are, and how your dental surgeon can help keep you safe.
 
 ## Nerve Damage and Numbness That Might Not Go Away
 
 One of the most serious risks with complex extractions, especially wisdom teeth, is damage to the nerve that runs through your lower jaw. This nerve controls feeling in your lower lip, chin, gums, and tongue. When this nerve gets injured during extraction, you might experience numbness or tingling that could last weeks, months, or even become permanent.
 
-Studies show that nerve damage happens in roughly 1 out of every 100 to 800 complex extractions, depending on how deeply buried your tooth is. About 1 in 200 patients experience permanent numbness. That might sound rare, but permanent nerve damage creates real quality-of-life issues. You might struggle with eating and drinking normally, feel disconnected from your lip and chin, or develop painful sensations that feel like burning or electric shocks—even when you're not touching the area. Many patients feel depressed after experiencing permanent nerve damage from what seemed like a routine tooth extraction.
+Studies show that nerve damage happens in roughly 1 out of every 100 to 800 complex extractions, depending on how deeply buried your tooth is. About 1 in 200 patients experience permanent numbness. That might sound rare, but permanent nerve damage creates real quality-of-life issues. You might struggle with eating and drinking normally, feel disconnected from your lip and chin, or develop painful sensations that feel like burning or electric shocks—even when you're not touching the area. Many patients feel depressed after having permanent nerve damage from what seemed like a routine tooth extraction.
 
-Nerve injury happens because the nerve sits so close to deeply buried teeth. Your surgeon might accidentally cut or squeeze the nerve during tooth removal, or the heat from drilling could injure it. The good news: experienced surgeons who perform many of these procedures have significantly lower complication rates than less experienced dentists. This is actually a strong reason to choose an oral surgeon over a general dentist for complicated extractions.
+Nerve injury happens because the nerve sits so close to deeply buried teeth. Your surgeon might accidentally cut or squeeze the nerve during tooth removal, or the heat from drilling could injure it. The good news: experienced surgeons who perform many of these procedures have much lower problem rates than less experienced dentists. This is actually a strong reason to choose an oral surgeon over a general dentist for complicated extractions.
 
 ## When Your Tooth Extraction Opens Up Your Sinuses
 
@@ -52,13 +52,13 @@ When your sinuses stay connected to your mouth, you might get chronic drainage, 
 
 ## Heavy Bleeding That Requires Emergency Care
 
-While minor bleeding is completely normal after tooth extraction, serious hemorrhage does happen occasionally and can become a genuine emergency. Major blood vessels near your tooth, or bleeding that won't stop with normal pressure and stitches, might require hospitalization or blood transfusion. Fortunately, this happens in less than 1% of extractions, but when it does, you need immediate professional intervention. This risk increases if you're taking blood-thinning medications. If you take aspirin, warfarin, or other anticoagulants, discuss this with your surgeon before extraction—stopping them might increase stroke risk, but continuing them increases bleeding risk, so your care team needs to plan carefully.
+While minor bleeding is completely normal after tooth extraction, serious hemorrhage does happen occasionally and can become a genuine emergency. Major blood vessels near your tooth, or bleeding that won't stop with normal pressure and stitches, might require hospitalization or blood transfusion. Fortunately, this happens in less than 1% of extractions, but when it does, you need immediate expert treatment. This risk increases if you're taking blood-thinning medicines. If you take aspirin, warfarin, or other anticoagulants, discuss this with your surgeon before extraction—stopping them might increase stroke risk, but continuing them increases bleeding risk, so your care team needs to plan carefully.
 
 ## Rare But Serious: Jaw Fracture During Extraction
 
-Your jaw bone might break during tooth extraction if it's very fragile, especially if you have significant bone loss or osteoporosis. This happens in fewer than 1 in 10,000 routine extractions, but risk increases substantially with difficult cases requiring major bone removal. When jaw fracture occurs, it's catastrophic—you'll need orthognathic surgery (specialized jaw surgery) to realign and stabilize your jawbone with plates and screws.
+Your jaw bone might break during tooth extraction if it's very fragile, especially if you have significant bone loss or osteoporosis. This happens in fewer than 1 in 10,000 routine extractions, but risk increases greatly with difficult cases requiring major bone removal. When jaw fracture occurs, it's catastrophic—you'll need orthognathic surgery (specialized jaw surgery) to realign and stabilize your jawbone with plates and screws.
 
-You'll be on a restricted diet for 6-8 weeks or longer, and you might develop permanent problems with your bite that need orthodontic correction. Some patients experience lasting jaw pain and limited mouth opening. This serious complication is why your surgeon might take extra time removing impacted teeth gradually rather than using excessive force.
+You'll be on a restricted diet for 6-8 weeks or longer, and you might develop permanent problems with your bite that need orthodontic correction. Some patients experience lasting jaw pain and limited mouth opening. This serious problem is why your surgeon might take extra time removing impacted teeth gradually rather than using excessive force.
 
 ## Dry Socket and Bone Infection After Extraction
 
@@ -68,9 +68,9 @@ Smokers face 4-5 times higher risk of dry socket, making smoking cessation befor
 
 ## Healing Problems That Take Months to Resolve
 
-Some extraction sites just don't heal well. Instead of closing over within weeks, you might experience prolonged drainage, exposed bone, or healing that takes months. This happens more often in patients with compromised blood supply to the extraction area, patients taking certain medications, or those with nutritional deficiencies.
+Some extraction sites just don't heal well. Instead of closing over within weeks, you might experience prolonged drainage, exposed bone, or healing that takes months. This happens more often in patients with compromised blood supply to the extraction area, patients taking certain medicines, or those with nutritional deficiencies.
 
-If you're taking bisphosphonate medications for multiple myeloma or metastatic cancer, you face special risk for a condition called bisphosphonate-associated osteonecrosis. This causes progressive bone death after extraction and can require extensive surgical intervention. For more on this topic, see our guide on [Timeline For Swelling Reduction](/article/timeline-for-swelling-reduction.html).
+If you're taking bisphosphonate medicines for multiple myeloma or metastatic cancer, you face special risk for a condition called bisphosphonate-associated osteonecrosis. This causes progressive bone death after extraction and can require extensive surgical treatment. For more on this topic, see our guide on [Timeline For Swelling Reduction](/article/timeline-for-swelling-reduction.html).
 
 Small root fragments you might swallow during extraction usually aren't a problem, but larger retained pieces might eventually work their way out through your gums months or years later, sometimes requiring repeat treatment. Your surgeon will try to remove all tooth fragments carefully, but sometimes a small piece can hide in the bone.
 

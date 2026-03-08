@@ -36,7 +36,7 @@ Here's something really important: how your jaw responds to expansion depends on
 
 So age matters tremendously. A 10-year-old and a 17-year-old respond completely differently to the same expansion appliance. This is why early intervention—ideally between ages 8-13—is most effective for expansion. If you've missed this window and you're older, don't worry—there are still options, but they may require additional treatment.
 
-The reason age matters relates to skeletal biology. During childhood and early adolescence, your bones are still growing and the sutures (seams between bones) haven't yet fused. This open, flexible structure responds beautifully to expansion forces. As you approach adulthood, the sutures begin calcifying and fusing. By your early twenties, the midpalatal suture is largely or completely fused, making non-surgical expansion much less effective.
+The reason age matters relates to skeletal biology. During childhood and early adolescence, your bones are still growing and the sutures (seams between bones) haven't yet fused. This open, flexible structure responds beautifully to expansion forces. As you approach adulthood, the sutures begin calcifying and fusing. By your early twenties, the midpalatal suture is largely or completely fused, making non-surgical it much less effective.
 
 ## Checking Bone Maturity With Imaging
 

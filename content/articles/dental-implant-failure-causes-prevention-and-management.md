@@ -67,13 +67,11 @@ If peri-implantitis is caught early (bone loss <4mm, implant still stable, no pr
 2. Chlorhexidine irrigation of the defect.
 3.
 
-Systemic antibiotics if significant inflammation exists: amoxicillin-clavulanate 875mg BID for 10 days, or clindamycin if penicillin-allergic.
-4. Meticulous home care and smoking cessation.
-5. Follow-up at 6 weeks and 3 months with X-rays confirming bone loss halted.
+Systemic antibiotics if significant swelling exists: amoxicillin-clavulanate 875mg BID for 10 days, or clindamycin if penicillin-allergic. 4. Meticulous home care and smoking cessation. 5. Follow-up at 6 weeks and 3 months with X-rays confirming bone loss halted.
 
 ## Advanced Treatment: When Surgery Becomes Necessary
 
-If bone loss exceeds 4mm, implant mobility is present, or conservative treatment failed, surgical intervention is indicated:
+If bone loss exceeds 4mm, implant mobility is present, or conservative treatment failed, surgical treatment is indicated:
 
 1. **Implantoplasty**: Smoothing the exposed implant surface to remove the rough, contaminated portion that harbors bacteria. This reduces surface area for re-colonization.
 2. **Regenerative therapy**: Guided bone regeneration with membranes and bone substitutes. Success is modest—roughly 40-50% regain stable bone—but worth attempting if bone architecture permits.
@@ -82,7 +80,7 @@ If bone loss exceeds 4mm, implant mobility is present, or conservative treatment
 
 ## When Removal Is Necessary
 
-If bone loss is catastrophic (>6mm), implant is mobile, or previous interventions failed, **implant removal** becomes the rational choice. Extracting a failing implant prevents prolonged infection damaging adjacent bone and teeth. After 3-6 months healing, a new implant can be placed, or bone augmentation done at removal time. Revision implant success rates: 90-95%, lower than primary implants but still excellent.
+If bone loss is catastrophic (>6mm), implant is mobile, or previous treatments failed, **implant removal** becomes the rational choice. Extracting a failing implant prevents prolonged infection damaging adjacent bone and teeth. After 3-6 months healing, a new implant can be placed, or bone augmentation done at removal time. Revision implant success rates: 90-95%, lower than primary implants but still excellent.
 
 ## Location Matters: Mandible vs Maxilla
 
@@ -132,9 +130,9 @@ If you've had implant failure, learn why. Was it poor bone quality, smoking, inf
 
 Implant failure isn't inevitable but neither is it rare—2-5% fail. Early failures (1-2%) reflect poor bone quality, smoking, diabetes, or bisphosphonates. Late failures (3%) reflect peri-implantitis from inadequate plaque control or periodontitis history. Early peri-implantitis responds to conservative management 60-80% of the time.
 
-Advanced peri-implantitis requires surgical debridement, regeneration, or removal. Revision implants succeed 90-95%, though below primary implant success. Prevention through bone optimization, smoking cessation, glycemic control, experienced surgical placement, and rigorous long-term plaque control minimizes failure risk. Early detection and intervention—whether conservative or surgical—dramatically improves chances of saving the implant.
+Advanced peri-implantitis requires surgical debridement, regrowth, or removal. Revision implants succeed 90-95%, though below primary implant success. Prevention through bone optimization, smoking cessation, glycemic control, experienced surgical placement, and rigorous long-term plaque control minimizes failure risk. Early detection and treatment—whether conservative or surgical—dramatically improves chances of saving the implant.
 
-If you suspect implant problems, contact your implant dentist immediately for evaluation and management. Early intervention substantially improves outcomes.
+If you suspect implant problems, contact your implant dentist right away for check and management. Early treatment greatly improves outcomes.
 
 > **Key Takeaway:** Dental implants succeed 95-98% of the time at 10 years.
 

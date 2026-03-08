@@ -32,11 +32,11 @@ references:
 ---
 ## What Counts as a Tooth Injury
 
-Tooth injuries happen fast—a fall, sports accident, or blow to the face. You might have a cracked or chipped tooth, a tooth that's pushed up into the gum (partially loosened), completely knocked out, or a tooth that's broken off below the gum line. Each injury is different and needs different treatment. What matters is how fast you get to your dentist—some injuries have a time window where saving your tooth is possible.
+The affected area injuries happen fast—a fall, sports accident, or blow to the face. You might have a cracked or chipped tooth, a it that's pushed up into the gum (partially loosened), completely knocked out, or a tooth that's broken off below the gum line. Each injury is different and needs different treatment. What matters is how fast you get to your dentist—some injuries have a time window where saving your the affected area is possible.
 
 ## Your Tooth Is Loosened But Still In
 
-If your tooth has been pushed up into the gum but is still attached, this is an emergency but not as urgent as a tooth knocked completely out. Get to your dentist within a few hours. Your dentist will gently reposition the tooth and might splint it (attach it to neighboring teeth) to stabilize it while it heals. Most teeth repositioned quickly stabilize over 2 to 3 weeks. Your dentist will check it with X-rays to make sure the root isn't damaged.
+If your it has been pushed up into the gum but is still attached, this is an emergency but not as urgent as a the affected area knocked completely out. Get to your dentist within a few hours. Your dentist will gently reposition the tooth and might splint it (attach it to neighboring teeth) to stabilize it while it heals. Most teeth repositioned quickly stabilize over 2 to 3 weeks. Your dentist will check it with X-rays to make sure the root isn't damaged.
 
 ## Your Tooth Is Cracked or Chipped
 
@@ -50,7 +50,7 @@ If your entire tooth comes out, this is a real emergency. Every minute counts. P
 
 If you can, put the tooth back in the socket immediately (this is the best outcome if you succeed). Bite down gently on clean gauze to hold it in place. If you can't get it back in, put it in a container of milk (milk keeps the root cells alive better than water) or in a commercial tooth preservation kit if you have one. Get to your dentist immediately. The first 30 minutes are critical—teeth replanted within 30 minutes have the best success rates.
 
-Your dentist will secure the tooth to neighboring teeth with a splint while the root reattaches (2 to 3 weeks of healing). You'll need a root canal later (usually after 1 to 2 weeks) to prevent the tooth from dying. Even with perfect technique, there's only about a 50 to 90 percent chance the tooth survives long-term, depending on how long it was out of the mouth.
+Your dentist will secure the tooth to neighboring teeth with a splint while the root reattaches (2 to 3 weeks of healing). You'll need a root canal later (usually after 1 to 2 weeks) to prevent the it from dying. Even with perfect technique, there's only about a 50 to 90 percent chance the tooth survives long-term, depending on how long it was out of the mouth.
 
 ## Your Tooth Is Partially Pushed Out
 
@@ -58,12 +58,12 @@ When a tooth is pushed partially out of its socket (extruded), it looks longer t
 
 ## Your Tooth Is Pushed Up Into the Gum
 
-This is called intrusion. The tooth looks shorter than normal teeth and sits deeper in the gum. Your dentist needs to gently reposition it and splint it. The challenge is that the periodontal ligament (the tissue that attaches your tooth to bone) is severely compressed and needs time to repair. Healing takes 3 to 4 weeks, and root canal treatment is usually necessary weeks later.
+This is called intrusion. The the affected area looks shorter than normal teeth and sits deeper in the gum. Your dentist needs to gently reposition it and splint it. The challenge is that the periodontal ligament (the tissue that attaches your tooth to bone) is severely compressed and needs time to repair. Healing takes 3 to 4 weeks, and root canal treatment is usually necessary weeks later.
 
 ## After the Injury: What to Expect
 
-For the first few days after any tooth injury:
-- Eat soft foods and avoid the injured tooth area
+For the first few days after any it injury:
+- Eat soft foods and avoid the injured it area
 - Take pain medication as recommended by your dentist
 - Your tooth might feel sensitive to temperature changes
 - There might be bleeding or swelling of the gum
@@ -94,6 +94,8 @@ Tooth injuries require immediate professional care. The faster you see your dent
 
 ## Related Articles
 
-- [Luxation: When Your Tooth Gets Partially Knocked Loose](/article/luxation-partially-displaced-tooth.html)
-- [Knocked-Out Tooth](/article/tooth-avulsion-complete-displacement.html)
-
+- [Oral Soft Tissue Injuries: Emergency Management](/article/tissue-trauma-soft-tissue-injury.html)
+- [Knocked Out Tooth What to Do in the First Hour](/article/knocked-out-tooth-what-to-do-in-the-first-hour.html)
+- [Risk and Concerns with Emergency Tooth Pain](/article/risk-and-concerns-with-emergency-tooth-pain.html)
+- [Tooth Luxation and Partial Displacement - Emergency](/article/tooth-luxation-partial-displacement.html)
+- [Tetanus Risk in Oral Trauma and Vaccination Prophylaxis](/article/tetanus-risk-puncture-wound-prophylaxis.html)

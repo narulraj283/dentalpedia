@@ -36,9 +36,9 @@ Standard annual maximums range from $1,000 to $2,500, with $1,200 being most typ
 
 ## Why Annual Maximums Haven't Increased
 
-This is where dental insurance becomes frustrating. The standard $1,000 annual maximum hasn't meaningfully increased since the 1960s-1970s. In 1975, $1,000 had the purchasing power of approximately $10,000 in today's dollars. We've essentially lost 90% of our real coverage value over 50 years.
+This is where dental insurance becomes frustrating. The standard $1,000 annual maximum hasn't meaningfully increased since the 1960s-1970s. In 1975, $1,000 had the purchasing power of about $10,000 in today's dollars. We've essentially lost 90% of our real coverage value over 50 years.
 
-Insurance companies resist increasing maximums because they analyze costs carefully. A $1,000 maximum represents rough financial break-even from their perspective. Increasing it to $2,000 would dramatically shift costs to insurance companies. Additionally, employers (who purchase benefits for employees) resist paying higher premiums. Insurers know raising maximums would require premium increases of 15-25%, which employers won't accept.
+Insurance companies resist increasing maximums because they analyze costs carefully. A $1,000 maximum represents rough financial break-even from their perspective. Increasing it to $2,000 would dramatically shift costs to insurance companies. Also, employers (who purchase benefits for employees) resist paying higher premiums. Insurers know raising maximums would require premium increases of 15-25%, which employers won't accept.
 
 Insurance companies also benefit from low administrative costs. Lower maximums mean fewer claims processed, fewer authorization requests, and lower total payouts. Premiums never keep pace with inflation in dental costs, perpetually widening the gap between benefits and actual treatment costs. Patients with significant treatment needs end up paying more out-of-pocket than previous generations despite having insurance.
 
@@ -96,17 +96,16 @@ When insurance denies coverage citing annual maximum exhaustion or other reasons
 
 ## Realistic Financial Planning
 
-The fundamental reality: dental insurance annual maximums don't provide comprehensive coverage for significant treatment needs. Patients experiencing major dental problems (multiple root canals, extractions requiring replacement, extensive periodontal therapy) will exceed annual maximums and face substantial out-of-pocket costs.
+The fundamental reality: dental insurance annual maximums don't provide full coverage for significant treatment needs. Patients having major dental problems (multiple root canals, extractions requiring replacement, extensive periodontal therapy) will exceed annual maximums and face substantial out-of-pocket costs.
 
-Strategic planning—maximizing preventive care early in benefit year, splitting large treatments across years, supplementing with FSA/HSA, understanding plan specifics, and maintaining realistic expectations—helps navigate these limitations. Having honest conversations with your dentist about costs, priorities, and available options allows you to make informed decisions aligned with your financial capacity and dental health values.
+Strategic planning—maximizing preventive care early in benefit year, splitting large treatments across years, supplementing with FSA/HSA, understanding plan specifics, and keeping realistic expectations—helps navigate these limitations. Having honest conversations with your dentist about costs, priorities, and available options allows you to make informed decisions aligned with your financial capacity and dental health values.
 
 
 Related reading: [Dental Schools and Training](/article/dental-schools-and-training.html) and [Submitting Insurance Claims - Process Overview](/article/submitting-insurance-claims-process-overview.html).
 
 ## Conclusion
 
-Whether you're just learning about annual maximum benefits: understanding dental insurance or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Strategic planning—maximizing preventive care early in benefit year, splitting large treatments across years, supplementing with FSA/HSA, understanding plan specifics, and keeping realistic expectations—helps navigate these limitations. Having honest conversations with your dentist about costs, priorities, and available options allows you to make informed decisions aligned with your financial capacity and dental health values.
 
 > **Key Takeaway:** How annual maximums function, historical context of benefit stagnation, strategic treatment planning, and supplementation strategies to optimize coverage.
 

@@ -97,7 +97,6 @@ Touch-ups keep your smile looking fresh. Whitening maintenance every 6-12 months
 Touch-ups keep your smile looking fresh. Whitening maintenance every 6-12 months preserves your bright shade. Talk to your dentist about how this applies to your situation. Start with conservative treatments like whitening, then add bonding or veneers if needed. Work with your dentist to create a plan you'll love.
 
 
-
 > **Key Takeaway:** Explore your cosmetic dentistry options: whitening, bonding, veneers, and more to get the smile you want.
 
 ## Related Articles

@@ -97,8 +97,7 @@ Related reading: [Bracket Bonding](/article/bracket-bonding-adhesive-placement.h
 
 ## Conclusion
 
-Whether you're just learning about aligner compliance monitoring and treatment optimization or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. The key is building aligner wear into your life so it requires minimal conscious effort. Most successful patients report that after 2-3 weeks, the routine becomes automatic—like brushing teeth, they don't think about it anymore. Your life hasn't actually changed much; you've just added a few minutes of removal/reinsertion around meals and bedtime hygiene.
 
 > **Key Takeaway:** Here's a reality check: most people don't wear aligners 22 hours daily.
 

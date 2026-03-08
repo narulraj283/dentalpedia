@@ -94,7 +94,6 @@ Related reading: [Why Mouthwash Selection Benefits Matter for Oral Health](/arti
 Effective plaque control requires coordinated professional and home oral hygiene efforts. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** Plaque is basically a community of bacteria living together on your teeth.
 
 ## Related Articles

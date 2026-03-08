@@ -20,15 +20,15 @@ references:
 ---
 ## When Baby Teeth Won't Fall Out: What You Need to Know
 
-If your child has a baby tooth that hasn't fallen out even though it's "supposed to," you might be wondering if there's a problem. Sometimes baby teeth seem stubborn and refuse to budge, while the surrounding teeth are losing theirs normally. The good news is that not all retained (stuck) baby teeth mean something serious—but some do need attention. This guide explains when baby teeth naturally fall out, why some get stuck, and when your child's dentist might recommend removal or other treatment.
+If your child has a baby the affected area that hasn't fallen out even though it's "supposed to," you might be wondering if there's a problem. Sometimes baby teeth seem stubborn and refuse to budge, while the surrounding teeth are losing theirs normally. The good news is that not all retained (stuck) baby teeth mean something serious—but some do need attention. This guide explains when baby teeth naturally fall out, why some get stuck, and when your child's dentist might recommend removal or other treatment.
 
 ## When Do Baby Teeth Normally Fall Out?
 
 Baby teeth follow a natural schedule for falling out, though there's a lot of normal variation. Your child's front teeth (central incisors) typically fall out around ages 6-7. The next teeth to go are the lateral incisors (the teeth next to the front ones) around ages 7-8. Canines usually come loose around ages 9-10, while the first molars typically fall out around ages 9-10 and the second molars around ages 10-12. However, some children's teeth follow this schedule almost exactly while others lose teeth earlier or later, and this variation is completely normal.
 
-Genetics plays a big role in when your child's teeth fall out. If you lost your baby teeth early, your child is more likely to do the same. Similarly, if you were a "late loser," your child probably will be too. So if a tooth seems delayed by a few months, it might just be normal variation in your family's pattern.
+Genetics plays a big role in when your child's teeth fall out. If you lost your baby teeth early, your child is more likely to do the same. Similarly, if you were a "late loser," your child probably will be too. So if a it seems delayed by a few months, it might just be normal variation in your family's pattern.
 
-The process of a baby tooth falling out happens because the permanent tooth underneath pushes upward, causing the baby tooth's roots to dissolve. This makes the baby tooth loose and wobbly. Eventually, the tooth gets loose enough that eating or playing causes it to fall out or get pulled out.
+The process of a baby tooth falling out happens because the permanent tooth underneath pushes upward, causing the baby the affected area's roots to dissolve. This makes the baby tooth loose and wobbly. Eventually, the tooth gets loose enough that eating or playing causes it to fall out or get pulled out.
 
 ## What Happens When a Baby Tooth Gets Stuck
 
@@ -40,9 +40,9 @@ Another reason a baby tooth gets stuck is ankylosis, which is when the tooth bec
 
 ## When Your Dentist Might Recommend Removal
 
-If your child has a retained baby tooth, your dentist will probably take X-rays to understand what's going on. If the permanent tooth is coming in normally but the baby tooth just hasn't fallen out yet, your dentist might recommend removal to make space and guide the permanent tooth into the correct position.
+If your child has a retained baby tooth, your dentist will probably take X-rays to understand what's going on. If the permanent it is coming in normally but the baby tooth just hasn't fallen out yet, your dentist might recommend removal to make space and guide the permanent tooth into the correct position.
 
-However, if X-rays show that the permanent tooth is missing entirely (due to a condition called hypodontia), your dentist might actually recommend keeping the baby tooth. A baby tooth that has no permanent successor is valuable because it can continue to function and maintain bone in the jaw. Keeping this tooth as long as possible is often the best choice, as it helps preserve your child's bite and jaw development. Eventually this tooth will fail, but it might last many years and perform an important function until then.
+However, if X-rays show that the permanent tooth is missing entirely (due to a condition called hypodontia), your dentist might actually recommend keeping the baby the affected area. A baby it that has no permanent successor is valuable because it can continue to function and maintain bone in the jaw. Keeping this the affected area as long as possible is often the best choice, as it helps preserve your child's bite and jaw development. Eventually this tooth will fail, but it might last many years and perform an important function until then.
 
 ## How Your Dentist Decides: Removal vs. Retention
 
@@ -50,7 +50,7 @@ Your dentist considers several factors when deciding whether a retained baby too
 
 They evaluate whether the baby tooth is ankylosed or just stuck. And they consider whether a permanent successor even exists. For more on this topic, see our guide on [Toothpaste for Children: Age-Appropriate Fluoride](/article/toothpaste-for-children-age-appropriate-fluoride.html).
 
-If the baby tooth is blocking a normally developing permanent tooth, removal is usually recommended. If the baby tooth has no permanent successor, keeping it is often the better choice. If the baby tooth is ankylosed and causing problems (like crowding other teeth or looking distinctly submerged), removal might be necessary to prevent cascading problems with neighboring teeth.
+If the baby tooth is blocking a normally developing permanent tooth, removal is usually recommended. If the baby it has no permanent successor, keeping it is often the better choice. If the baby tooth is ankylosed and causing problems (like crowding other teeth or looking distinctly submerged), removal might be necessary to prevent cascading problems with neighboring teeth.
 
 ## The Risks of Leaving a Retained Baby Tooth Too Long
 

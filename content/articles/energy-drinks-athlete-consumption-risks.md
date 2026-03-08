@@ -44,11 +44,11 @@ During intense exercise, your body responds predictably:
 
 **Extended recovery**: After exercise, salivary function needs 30-60 minutes to return to normal.
 
-The problem: Athletes drink energy drinks right before, during, or after exercise. At the same time, their mouth's protective system is weakest. Studies show athletes get 40-60% more tooth damage from energy drinks than non-athletes. This is only because of reduced saliva during exercise.
+The problem: Athletes drink energy drinks right before, during, or after exercise. At the same time, their mouth's protective system is weakest. Studies show this get 40-60% more tooth damage from energy drinks than non-athletes. This is only because of reduced saliva during exercise.
 
 ## The Cumulative Acid Exposure Problem
 
-Athletic training typically extends 60-180 minutes with frequent fluid consumption. A typical athlete might consume 3-4 energy drinks during a 2-hour training session. This creates:
+Athletic training typically extends 60-180 minutes with frequent fluid intake. A typical athlete might consume 3-4 energy drinks during a 2-hour training session. This creates:
 
 **Multiple acid hits**: Multiple drinks prevent your saliva from protecting your teeth between drinks. One drink per day causes 25% monthly enamel loss. Three to four drinks cause 70-80% monthly loss. That's three times worse.
 
@@ -56,7 +56,7 @@ Athletic training typically extends 60-180 minutes with frequent fluid consumpti
 
 **Environmental factors**: Indoor training, heated facilities, and high humidity all reduce saliva production.
 
-The cumulative result: Athletes consuming multiple energy drinks during training show accelerated erosion far exceeding what consumption timing alone would predict.
+The cumulative result: It consuming multiple energy drinks during training show accelerated erosion far exceeding what intake timing alone would predict.
 
 ## Young Athletes Face Greatest Risk
 
@@ -74,11 +74,11 @@ Adolescent athletes present particular vulnerability:
 
 **Swimmers**: Chlorine in pools damages teeth, especially in poorly maintained pools. Hard swimming reduces saliva. Swimmers often drink energy drinks before training.
 
-**Endurance athletes** (runners, cyclists, triathletes): Long training sessions with many drinks create lots of acid exposure.
+**Endurance this** (runners, cyclists, triathletes): Long training sessions with many drinks create lots of acid exposure.
 
 **Weight-control sports** (gymnastics, ballet, wrestling): Athletes often drink too many acidic beverages (sports drinks, energy drinks, citrus juices) while eating very little.
 
-**Strength athletes** (weightlifters, football players): These athletes drink many energy drinks daily as performance supplements.
+**Strength athletes** (weightlifters, football players): These it drink many energy drinks daily as performance supplements.
 
 ## Clinical Presentation in Athletes
 
@@ -114,7 +114,7 @@ Salivary testing identifies high-risk athletes requiring intensive prevention:
 
 **Bacteria test**: High cavity-causing bacteria plus energy drinks lead to fast cavity development.
 
-Athletes with combined risk factors (low saliva + low buffering + high bacterial counts) need dietary modification regardless of performance concerns.
+Athletes with combined risk factors (low saliva + low buffering + high bacterial counts) need dietary change regardless of performance concerns.
 
 ## Prevention Strategies for Athletes
 
@@ -132,9 +132,9 @@ Athletes with combined risk factors (low saliva + low buffering + high bacterial
 
 ## Long-Term Athlete Health
 
-Athletes pursuing college or professional careers sometimes follow prevention recommendations when they learn that bad teeth hurt their recruiting chances and future earnings. Employers notice and care about poor oral health.
+Athletes pursuing college or expert careers sometimes follow prevention tips when they learn that bad teeth hurt their recruiting chances and future earnings. Employers notice and care about poor oral health.
 
-Early intervention with behavior modification prevents establishing damage patterns that persist through an athlete's career.
+Early treatment with behavior change prevents establishing damage patterns that persist through an athlete's career.
 
 ## Conclusion
 

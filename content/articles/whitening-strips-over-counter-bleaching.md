@@ -82,9 +82,7 @@ Your dentist may recommend additional steps specific to your situation, such as 
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding whitening strips and over-the-counter bleaching efficacy helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Whitening strips deliver documented 3-6 shade improvements with acceptable safety profiles when used according to manufacturer instructions. While shade improvement is modest compared to professional whitening, the convenience, accessibility, and established evidence support their use as self-directed whitening options. Realistic patient expectations regarding limited efficacy compared to professional treatment, plus understanding of transient sensitivity as an expected side effect, optimize satisfaction with whitening strip treatments.
 
 > **Key Takeaway:** Whitening strips provide decent, safe whitening (3-6 shades) when you use them as directed, but expect modest results compared to professional treatment. Temporary sensitivity is normal and manageable. Strips work best for people with yellow teeth and external staining who aren't concerned about whitening side and back tooth surfaces. If you need more dramatic results or have complex cosmetic goals, professional whitening is more effective.
 

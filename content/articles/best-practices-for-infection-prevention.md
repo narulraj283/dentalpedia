@@ -106,7 +106,6 @@ Related reading: [Jaw Repositioning Surgery Orthognathic Correction](/article/ja
 Surgical site infection prevention integrates multiple strategies: appropriate preoperative assessment and risk stratification, evidence-based antibiotic prophylaxis, rigorous aseptic technique, meticulous surgical procedure, and comprehensive post-operative care. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** When you have oral surgery, infections are a real concern.
 
 ## Related Articles

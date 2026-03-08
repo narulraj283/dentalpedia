@@ -94,7 +94,6 @@ Related reading: [Bone Grafting Procedures in Implant Dentistry](/article/how-to
 Bone grafting enables predictable rehabilitation of edentulous patients with severe atrophy through multiple validated techniques. If you have questions, your dentist can help you understand your options. With proper healing care and long-term implant maintenance, most grafted bones support successful implants indefinitely.
 
 
-
 > **Key Takeaway:** Surgical reconstruction of alveolar bone defects using autogenous, allogenic, and synthetic materials to restore height and width for implant.
 
 ## Related Articles

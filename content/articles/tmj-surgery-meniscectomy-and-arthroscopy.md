@@ -124,25 +124,21 @@ Poor predictors of success:
 
 ## What to Expect During Your Visit
 
-Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
+Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This check may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
 
 During any procedure, your comfort is a top priority. Your dental team will make sure you understand what is happening and check in with you regularly. Modern dental techniques and anesthesia options mean that most patients experience minimal discomfort during and after treatment. If you feel anxious about any part of the process, let your dentist know so they can adjust their approach to help you feel more at ease.
 
 ## Tips for Long-Term Success
 
-Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
+Keeping good results after dental treatment requires consistent care at home and regular expert check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
 
-Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
+Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized tips can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding tmj surgery options: meniscectomy, arthroscopy, and helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
-
-Open surgery is reserved for complex cases. Total joint replacement is the last resort. Success depends on correct diagnosis, realistic expectations, good surgical technique, and excellent post-op rehabilitation. Discuss thoroughly with your surgeon before committing to surgery—most TMD responds beautifully to nonsurgical treatment.
+TMJ surgical management follows a hierarchy from minimally invasive to increasingly complex approaches. Arthrocentesis and arthroscopy address inflammatory pathology with excellent risk-benefit profiles. Disc repair and plication preserve joint structures when feasible. Meniscectomy and open reconstruction address mechanical pathology but carry higher long-term degenerative risks.
 
 > **Key Takeaway:** TMJ surgery can help when appropriate cases are carefully selected and adequate conservative treatment has failed. Arthroscopy is effective with fast recovery. Disc-preserving procedures (repair, plication) have better long-term outcomes than disc removal.
 

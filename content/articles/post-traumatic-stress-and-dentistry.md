@@ -84,7 +84,7 @@ This approach sounds slow, but it actually works better long-term than sedation 
 
 ## Sedation as a Tool, Not a Solution Alone
 
-Sedation (medications that reduce anxiety) can help. Conscious sedation medications like midazolam reduce anxiety while you remain awake and responsive. Some patients appreciate the reduced anxiety they experience during procedures. However, sedation is best combined with trauma-informed care principles—it's a tool to support you while you rebuild confidence through gradual exposure and safe experiences.
+Sedation (medications that reduce anxiety) can help. Conscious sedation medicines like midazolam reduce anxiety while you remain awake and responsive. Some patients appreciate the reduced anxiety they experience during procedures. However, sedation is best combined with trauma-informed care principles—it's a tool to support you while you rebuild confidence through gradual exposure and safe experiences.
 
 Some trauma patients worry that sedation means losing control, which can trigger trauma responses in itself. Your dentist should discuss sedation options carefully with you, never pressure you toward sedation, and respect your choice either way.
 
@@ -102,9 +102,7 @@ Breathing exercises, visualization, and progressive muscle relaxation provide ad
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. Breathing exercises, visualization, and progressive muscle relaxation provide additional tools. Learning these techniques before appointments and practicing them with your support person helps manage anxiety during dental care.
 
 > **Key Takeaway:** Dental-related trauma and PTSD are real conditions affecting millions of people. They're not personal weaknesses or overreactions—they're neurobiological protective responses. Trauma-informed dental care that prioritizes safety, transparency, choice, collaboration, and trustworthiness can help you access needed dental treatment. Gradual exposure combined with appropriate sedation if chosen allows your brain to learn that dental care can be safe. Recovery takes time, but with the right support, most trauma survivors can rebuild confidence and maintain oral health.
 

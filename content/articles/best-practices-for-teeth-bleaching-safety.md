@@ -22,7 +22,7 @@ references:
 ---
 ## Why Teeth Change Color Over Time
 
-Tooth discoloration happens two ways. Intrinsic discoloration (inside the tooth) results from dentin (the inner layer) darkening with age, from staining from medications, or from blood breakdown products in dead teeth. Extrinsic discoloration (surface stains) comes from coffee, tea, red wine, tobacco, or chlorhexidine mouthwash.
+Tooth discoloration happens two ways. Intrinsic discoloration (inside the tooth) results from dentin (the inner layer) darkening with age, from staining from medicines, or from blood breakdown products in dead teeth. Extrinsic discoloration (surface stains) comes from coffee, tea, red wine, tobacco, or chlorhexidine mouthwash.
 
 Tetracycline antibiotic used during tooth development (ages 0-12) creates gray-yellow permanent discoloration that resists whitening. Age-related yellowing happens because dentin naturally darkens and enamel (the transparent outer layer) gets thinner, allowing darker dentin to show through. Teeth naturally get yellower as you age.
 
@@ -30,59 +30,59 @@ Your dentist uses shade guides to establish baseline color—most people are in 
 
 ## How Bleaching Works
 
-Hydrogen peroxide (the active whitening agent) penetrates through enamel, travels through dentin tubes, and oxidizes colored molecules (chromophores), breaking them into colorless compounds. Higher concentrations work faster: at-home products (3-10% hydrogen peroxide equivalent), in-office systems (15-35% peroxide). Higher concentrations mean faster results but more sensitivity.
+Hydrogen peroxide (the active whitening agent) penetrates through enamel, travels through dentin tubes, and oxidizes colored molecules (chromophores), breaking them into colorless compounds. Higher concentrations work faster: at-home products (3-10% hydrogen peroxide equivalent), in-office systems (15-35% peroxide). Higher concentrations mean faster results but more soreness.
 
-Penetration occurs quickly—peroxide reaches dentin within 5-15 minutes and maximal pulpal penetration by 15-30 minutes. Removing gel within 30-45 minutes achieves optimal whitening while limiting pulpal exposure. Extending beyond 45 minutes provides negligible additional benefit while tripling sensitivity risk.
+Penetration occurs quickly—peroxide reaches dentin within 5-15 minutes and maximal pulpal penetration by 15-30 minutes. Removing gel within 30-45 minutes achieves optimal whitening while limiting pulpal exposure. Extending beyond 45 minutes provides negligible additional benefit while tripling soreness risk.
 
 In-office systems sometimes use heat or light catalysts claiming to accelerate bleaching. Light-activated systems were once popular, but current research shows light provides minimal additional effect beyond heat. Studies comparing light-activated versus non-light systems at equivalent peroxide concentrations and application times show no meaningful difference. Patients feel light "must work" due to marketing, but evidence doesn't support this.
 
 ## Professional In-Office Whitening
 
-Your dentist documents baseline shade with shade guides and photographs under standardized lighting. They polish teeth with non-fluoride paste to remove surface debris (increases light transmission 10-15%). They protect your gums with liquid dam or resin barrier—critical to prevent chemical burns. Professional systems apply 15-35% hydrogen peroxide directly to tooth surfaces.
+Your dentist documents baseline shade with shade guides and photographs under standardized lighting. They polish teeth with non-fluoride paste to remove surface debris (increases light transmission 10-15%). They protect your gums with liquid dam or resin barrier—critical to prevent chemical burns. Expert systems apply 15-35% hydrogen peroxide directly to tooth surfaces.
 
-Multiple gel cycles in one visit increase results—first application achieves 50% of maximum potential change; second adds 30%; third adds 10-15%. Most dramatic improvement happens first application. After gel removal, they apply fluoride or calcium phosphate to reduce sensitivity.
+Multiple gel cycles in one visit increase results—first application achieves 50% of maximum potential change; second adds 30%; third adds 10-15%. Most dramatic improvement happens first application. After gel removal, they apply fluoride or calcium phosphate to reduce soreness.
 
-Realistic shade improvement: one professional visit achieves 5-10 shade units on a 16-unit scale. At-home whitening over 14 days achieves 3-7 shade units. Combined approach (professional + at-home) achieves 8-12 shade units.
+Realistic shade improvement: one expert visit achieves 5-10 shade units on a 16-unit scale. At-home whitening over 14 days achieves 3-7 shade units. Combined approach (professional + at-home) achieves 8-12 shade units.
 
 ## At-Home Whitening
 
 Custom trays fitted to your teeth hold bleaching gel (10-22% carbamide peroxide, equivalent to 3-7% hydrogen peroxide). Tight-fitting trays are essential—loose trays allow 20-30% gel leakage, reducing efficacy. Gel application uses pea-sized amounts per tooth (excess causes gum irritation).
 
-Wear duration depends on concentration: 10% carbamide peroxide requires 2-3 weeks nightly for results but minimal sensitivity. 15% works in 7-14 days with moderate sensitivity. 22% achieves results in 5-7 days but causes significant sensitivity in 30-40% of users.
+Wear duration depends on amount: 10% carbamide peroxide requires 2-3 weeks nightly for results but minimal soreness. 15% works in 7-14 days with moderate soreness. 22% achieves results in 5-7 days but causes significant soreness in 30-40% of users.
 
-Typical protocol: use nightly for 7-14 consecutive days, then maintenance with one night monthly indefinitely. Skipping days (using every other day) extends treatment to 20-30 applications for equivalent results.
+Typical protocol: use nightly for 7-14 consecutive days, then upkeep with one night monthly indefinitely. Skipping days (using every other day) extends treatment to 20-30 uses for equivalent results.
 
-Patient compliance challenges: 40-50% discontinue due to sensitivity, discomfort, impatience with gradual progress, or forgetfulness. Pre-treatment fluoride (2-4 weeks prior) and desensitizing products (potassium nitrate) reduce sensitivity during treatment. Once-weekly maintenance applications for 3-5 months post-active treatment maintain shade gains. Discontinuing maintenance allows rebound to baseline at approximately 1 shade per month.
+Patient compliance challenges: 40-50% stop due to soreness, discomfort, impatience with gradual progress, or forgetfulness. Pre-treatment fluoride (2-4 weeks prior) and desensitizing products (potassium nitrate) reduce soreness during treatment. Once-weekly upkeep uses for 3-5 months post-active treatment maintain shade gains. Discontinuing upkeep allows rebound to baseline at about 1 shade per month.
 
 ## Managing Sensitivity
 
-Tooth sensitivity (sharp pain with temperature exposure) affects 15-65% of whitening patients, more common with high peroxide concentrations. Sensitivity happens because peroxide penetrates tubules, causing osmotic fluid movement and nerve stimulation. It's temporary—resolving within 12-48 hours of last application in 90% of cases.
+Tooth soreness (sharp pain with temperature exposure) affects 15-65% of whitening patients, more common with high peroxide concentrations. Soreness happens because peroxide penetrates tubules, causing osmotic fluid movement and nerve stimulation. It's temporary—resolving within 12-48 hours of last application in 90% of cases.
 
-Prevention strategies: apply fluoride/potassium nitrate 1-2 weeks before whitening. Use lower concentrations at shorter contact times rather than high concentrations extended—15% hydrogen peroxide for 30 minutes causes less sensitivity than 35% for 60 minutes. Apply desensitizing gel before bleaching. Switch to 10% carbamide peroxide (causes 40-50% less sensitivity) while achieving equivalent results over slightly longer timeframe.
+Prevention strategies: apply fluoride/potassium nitrate 1-2 weeks before whitening. Use lower concentrations at shorter contact times rather than high concentrations extended—15% hydrogen peroxide for 30 minutes causes less soreness than 35% for 60 minutes. Apply desensitizing gel before bleaching. Switch to 10% carbamide peroxide (causes 40-50% less sensitivity) while achieving equivalent results over slightly longer timeframe.
 
-If sensitivity occurs: reduce contact time (shorten tray wear 4 hours to 2 hours), reduce concentration, apply remineralization products nightly. Use sensitivity toothpaste containing potassium nitrate twice daily. Most sensitivity resolves within 24-48 hours; if persistent beyond 72 hours, discontinue and rest one week before resuming.
+If soreness occurs: reduce contact time (shorten tray wear 4 hours to 2 hours), reduce amount, apply remineralization products nightly. Use soreness toothpaste containing potassium nitrate twice daily. Most soreness resolves within 24-48 hours; if persistent beyond 72 hours, stop and rest one week before resuming.
 
 ## Safety Profile and Enamel Concerns
 
-Professional whitening doesn't permanently damage enamel despite popular concerns. Studies show minimal enamel microhardness reduction (less than 3-5%), which reverses within 3-4 weeks through remineralization with salivary minerals. At-home whitening shows no detectable enamel hardness change.
+Expert whitening doesn't permanently damage enamel despite popular concerns. Studies show minimal enamel microhardness reduction (less than 3-5%), which reverses within 3-4 weeks through remineralization with salivary minerals. At-home whitening shows no detectable enamel hardness change.
 
 Gingival irritation (white chemical burn) occurs if protection is inadequate. Proper gingival barrier prevents this. When it occurs, it resolves within 2-3 days without treatment. Rebound gingivitis rarely develops.
 
-Over-the-counter products (3-10% peroxide in strips, trays, paint-on formulations) are less effective—requiring 3-6 times longer treatment for equivalent results. Whitening toothpastes contain abrasives and oxidizing agents providing minimal improvement (0.5-2 shade units over 6 weeks)—useful for maintenance, inadequate as sole treatment.
+Over-the-counter products (3-10% peroxide in strips, trays, paint-on formulations) are less effective—requiring 3-6 times longer treatment for equivalent results. Whitening toothpastes contain abrasives and oxidizing agents providing minimal improvement (0.5-2 shade units over 6 weeks)—useful for upkeep, inadequate as sole treatment.
 
 ## Outcome Longevity and Maintenance
 
-Results persist 3-12 months depending on lifestyle. Patients with high dietary chromogen exposure (daily coffee/tea, red wine) show rebound to baseline within 3-4 months. Smokers show rapid rebound within 1-2 months; smoking cessation improves longevity significantly. Those avoiding staining foods maintain results 12-18 months.
+Results persist 3-12 months depending on lifestyle. Patients with high dietary chromogen exposure (daily coffee/tea, red wine) show rebound to baseline within 3-4 months. Smokers show rapid rebound within 1-2 months; smoking cessation improves longevity much. Those avoiding staining foods maintain results 12-18 months.
 
 Yellow shades (A-family) whiten most predictably and maintain results longest. Gray/brown shades show less dramatic improvement and faster rebound. Tetracycline stains show variable response—mild cases achieve acceptable results, severe cases show minimal improvement despite 6-12 months treatment.
 
-Maintenance: one professional treatment every 6-12 months or at-home tray use one night monthly maintains shade indefinitely. Some patients need annual touch-ups; others maintain results 24+ months without maintenance.
+Upkeep: one expert treatment every 6-12 months or at-home tray use one night monthly maintains shade indefinitely. Some patients need annual touch-ups; others maintain results 24+ months without upkeep.
 
 ## Special Cases: Restorations and Dead Teeth
 
-Bleaching doesn't change composite, ceramic, or amalgam restorations. Front teeth with visible restorations darken relative to whitened tooth, appearing darker. Replace restorations one week after whitening to achieve optimal shade match.
+Bleaching doesn't change composite, ceramic, or amalgam repairs. Front teeth with visible repairs darken relative to whitened tooth, appearing darker. Replace repairs one week after whitening to achieve optimal shade match.
 
-Internal bleaching (for nonvital/dead teeth): remove temporary restoration, access pulp chamber, apply sodium perborate or hydrogen peroxide, seal temporarily, wait 1-2 weeks, repeat as needed. Results vary—50-70% achieve satisfactory lightening; 30-50% show minimal response depending on discoloration severity.
+Internal bleaching (for nonvital/dead teeth): remove temporary repair, access pulp chamber, apply sodium perborate or hydrogen peroxide, seal temporarily, wait 1-2 weeks, repeat as needed. Results vary—50-70% achieve satisfactory lightening; 30-50% show minimal response depending on discoloration severity.
 
 Demineralized surfaces (white spot lesions from early caries): these lighten when teeth whiten, becoming more conspicuous. Pre-treatment infiltration or remineralization is indicated before whitening.
 
@@ -90,9 +90,9 @@ Demineralized surfaces (white spot lesions from early caries): these lighten whe
 
 Before your whitening appointment, prepare properly. Schedule during a time you can wear sunglasses if desired (some patients feel self-conscious about the whitening tray). If possible, avoid schedule stressors—you want to be relaxed during treatment.
 
-Two weeks before whitening, apply fluoride topically or use prescription fluoride rinse nightly. This reduces post-treatment sensitivity significantly. If you have dental work to do (fillings, cleanings), complete it before whitening. Never whiten while actively treating cavities.
+Two weeks before whitening, apply fluoride topically or use prescription fluoride rinse nightly. This reduces post-treatment soreness much. If you have dental work to do (fillings, cleanings), complete it before whitening. Never whiten while actively treating cavities.
 
-Brush off surface stains gently—rough polishing removes valuable enamel. Your dentist will do professional polish at your appointment. Avoid staining foods/beverages (coffee, tea, red wine) the day before—this maximizes the shade improvement measurement baseline.
+Brush off surface stains gently—rough polishing removes valuable enamel. Your dentist will do expert polish at your appointment. Avoid staining foods/beverages (coffee, tea, red wine) the day before—this maximizes the shade improvement measurement baseline.
 
 ## During Your Whitening Appointment
 
@@ -100,15 +100,15 @@ Your dentist documents your baseline shade using shade guides and photography. T
 
 They polish your teeth gently to remove surface stains and microsediment (improving light penetration 10-15%). They apply gingival barrier (liquid dam or resin), which feels like a slight tightness around your gum line. This barrier is critical—it prevents chemical burns to your tissues.
 
-The bleaching agent gets applied. You might feel slight tingling or sensitivity during application—normal. They might apply subsequent gel applications or activate with light (though light adds minimal benefit as discussed). During treatment, close your eyes, breathe normally, and relax. The process takes 30-90 minutes depending on the protocol.
+The bleaching agent gets applied. You might feel slight tingling or soreness during application—normal. They might apply subsequent gel uses or activate with light (though light adds minimal benefit as discussed). During treatment, close your eyes, breathe normally, and relax. The process takes 30-90 minutes depending on the protocol.
 
 ## Managing Sensitivity During and After
 
-If you feel sensitivity during the procedure, raise your hand immediately. Your dentist can apply additional fluoride, reduce gel concentration, shorten contact time, or apply desensitizing gel. Don't suffer silently—good communication prevents abandoning treatment midway.
+If you feel soreness during the procedure, raise your hand right away. Your dentist can apply additional fluoride, reduce gel amount, shorten contact time, or apply desensitizing gel. Don't suffer silently—good talking prevents abandoning treatment midway.
 
-After gel removal, they apply fluoride or calcium phosphate varnish to harden enamel and reduce sensitivity. This might feel slightly grainy in your mouth temporarily—normal. For the next 24-48 hours, avoid very hot or cold foods/beverages. Use sensitivity toothpaste immediately after (potassium nitrate type works within 10-15 minutes, providing quick relief).
+After gel removal, they apply fluoride or calcium phosphate varnish to harden enamel and reduce soreness. This might feel slightly grainy in your mouth temporarily—normal. For the next 24-48 hours, avoid very hot or cold foods/beverages. Use soreness toothpaste right away after (potassium nitrate type works within 10-15 minutes, providing quick relief).
 
-If sensitivity persists beyond 48 hours, apply fluoride gel (prescription or professional-grade) on affected teeth for 5 minutes nightly. Most sensitivity resolves completely within 3-7 days of last treatment.
+If soreness persists beyond 48 hours, apply fluoride gel (prescription or professional-grade) on affected teeth for 5 minutes nightly. Most soreness resolves completely within 3-7 days of last treatment.
 
 ## At-Home Tray Preparation and Use
 
@@ -118,7 +118,7 @@ Apply bleaching gel in a thin ribbon (pea-sized, not heaping) in the front-facin
 
 Wear trays at night (easier to manage, less social impact) or daytime if preferred. Evening wear means you can sleep through any minor discomfort. Morning wear means you have tray on while eating or talking (awkward). Night wear is simpler.
 
-Keep a log: "Week 1: Day 1-7 all done, minimal sensitivity." "Week 2: Days 8-14 done, tooth #6 slightly tender on day 9, resolved by day 10." This tracking documents your progress and helps identify sensitivity patterns.
+Keep a log: "Week 1: Day 1-7 all done, minimal soreness." "Week 2: Days 8-14 done, tooth #6 slightly tender on day 9, resolved by day 10." This tracking documents your progress and helps identify soreness patterns.
 
 ## Rebound Prevention and Maintenance
 
@@ -128,7 +128,7 @@ Maintain results by limiting staining exposures: reduce coffee/tea frequency, us
 
 Smoking dramatically accelerates rebound and causes yellow staining unrelated to tooth color—just the tar film from smoke. If you smoke, understand rebound will be rapid. Quitting provides multiple oral health benefits beyond whitening longevity.
 
-Maintenance whitening (one professional treatment every 6-12 months or at-home tray use one night monthly) maintains color indefinitely. Annual touch-ups keep you looking bright long-term without full treatment expense.
+Upkeep whitening (one professional treatment every 6-12 months or at-home tray use one night monthly) maintains color indefinitely. Annual touch-ups keep you looking bright long-term without full treatment expense.
 
 ## Special Considerations and Limitations
 
@@ -144,9 +144,9 @@ Maintenance whitening (one professional treatment every 6-12 months or at-home t
 
 ## Safety Discussion
 
-Research confirms that professional whitening as practiced in dentistry is safe. Enamel doesn't permanently damage. Tissues don't sustain long-term injury.
+Research confirms that expert whitening as practiced in dentistry is safe. Enamel doesn't permanently damage. Tissues don't sustain long-term injury.
 
-Hydrogen peroxide at concentrations used doesn't cause systemic toxicity. Over-the-counter products are less effective and slower but also safe. The only real safety concerns are sensitivity (uncomfortable but temporary) and over-aggressive home use (stretching treatment beyond reasonable limits).
+Hydrogen peroxide at concentrations used doesn't cause systemic toxicity. Over-the-counter products are less effective and slower but also safe. The only real safety concerns are soreness (uncomfortable but temporary) and over-aggressive home use (stretching treatment beyond reasonable limits).
 
 **Related articles:** Is teeth whitening safe | Professional vs over-the-counter whitening | Teeth staining causes and prevention
 

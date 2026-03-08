@@ -75,7 +75,7 @@ Request written cost estimates from multiple providers, specifying the same proc
 
 Calculate net costs: At office A, a crown costs $1,200, insurance covers $600 (50%), you pay $600. At office B, a crown costs $1,000 in-network, insurance covers $500, you pay $500. Provider B is cheaper on net cost despite lower insurance payout. Focus on your out-of-pocket responsibility, not gross fees.
 
-Cost shopping is legitimate and encouraged. However, consider provider expertise, materials used, communication quality, and outcomes track record alongside cost. The lowest-cost provider isn't necessarily the best value.
+Cost shopping is legitimate and encouraged. However, consider provider expertise, materials used, talking quality, and outcomes track record alongside cost. The lowest-cost provider isn't necessarily the best value.
 
 ## Understanding Insurance Exclusions
 

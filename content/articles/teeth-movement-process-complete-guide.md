@@ -93,11 +93,7 @@ The remarkable aspect of orthodontic treatment is that your body actively partic
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding how your teeth move: the complete process explained helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
-
-Your age, oral hygiene, bone type, and systemic health influence movement speed. Lighter, continuous forces produce maximum efficiency without hyalinization complications. Understanding these biological mechanisms explains why treatment takes the time it does and why your compliance and participation matter significantly.
+Talk to your dentist about your specific situation and what approach works best for you. The remarkable aspect of orthodontic treatment is that your body actively participates in the process, continuously building new bone to support your teeth in their new positions. This biological integration—rather than mechanical forcing—ensures your final result is stable and permanent.
 
 > **Key Takeaway:** Orthodontic tooth movement works through your body's natural bone remodeling process: osteoclasts dissolve old bone on the pressure side while osteoblasts build new bone on the tension side. Movement occurs at predictable rates (0.5-1.2mm weekly for most movements, slower for intrusive movements) when optimal forces are used. Treatment timing depends on the distance teeth must travel and the sequential phases of treatment.
 

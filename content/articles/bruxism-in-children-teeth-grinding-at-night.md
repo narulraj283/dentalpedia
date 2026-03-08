@@ -79,63 +79,63 @@ Most kids with bruxism outgrow it—50-60% have complete remission by age 15-16.
 
 ## Behavioral and Environmental Management
 
-Sleep hygiene optimization represents first-line intervention in pediatric bruxism. Consistent sleep schedule (same bedtime/wake time 7 days weekly), appropriate sleep duration for age (8-10 hours for ages 6-12, 8-9 hours for ages 12+), and optimal sleep environment (cool, dark, quiet, comfortable bedding) improve sleep quality and reduce grinding frequency by 25-40%.
+Sleep hygiene optimization represents first-line treatment in pediatric bruxism. Consistent sleep schedule (same bedtime/wake time 7 days weekly), appropriate sleep duration for age (8-10 hours for ages 6-12, 8-9 hours for ages 12+). Optimal sleep environment (cool, dark, quiet, comfortable bedding) improve sleep quality and reduce grinding frequency by 25-40%.
 
-Screen time restriction produces meaningful bruxism reduction. Children exceeding 2-3 hours daily screen time demonstrate 40-50% greater bruxism compared to those limiting usage. Blue-light exposure from screens interferes with melatonin production; screen avoidance in the 60-90 minutes preceding bedtime improves sleep quality and reduces grinding.
+Screen time restriction produces meaningful bruxism reduction. Children exceeding 2-3 hours daily screen time show 40-50% greater bruxism compared to those limiting usage. Blue-light exposure from screens interferes with melatonin production; screen avoidance in the 60-90 minutes preceding bedtime improves sleep quality and reduces grinding.
 
 Stress reduction through age-appropriate techniques reduces bruxism. Progressive muscle relaxation exercises, guided imagery, and behavioral coping strategy development for school-related or social stressors reduce grinding frequency by 20-35%. Play therapy or cognitive-behavioral therapy conducted by child psychologists can address underlying anxiety contributing to bruxism.
 
-Dietary modifications reduce bruxism triggers. Caffeine restriction (limiting to less than 100mg daily, primarily from chocolate and soft drinks) reduces grinding episodes by 15-25%. Sugar avoidance, particularly before bedtime, optimizes sleep quality and reduces arousal-related grinding.
+Dietary changes reduce bruxism triggers. Caffeine restriction (limiting to less than 100mg daily, primarily from chocolate and soft drinks) reduces grinding episodes by 15-25%. Sugar avoidance, especially before bedtime, optimizes sleep quality and reduces arousal-related grinding.
 
 Habit reversal training addresses accompanying behaviors frequently present in bruxing children (e.g., daytime tooth clenching, nail biting). Training children to recognize clenching habits and replace with relaxation techniques produces 20-30% bruxism reduction through reduced overall muscle hyperactivity.
 
 ## Splint Therapy and Protective Devices
 
-Occlusal splints in children require careful design consideration due to rapid growth and changing dentition. Fabrication should use durable materials (soft acrylic or hard acrylic, 1.5-1.75mm thickness) that withstand pediatric use patterns and accommodate ongoing dental development.
+Occlusal splints in children require careful design factor due to rapid growth and changing dentition. Fabrication should use durable materials (soft acrylic or hard acrylic, 1.5-1.75mm thickness) that withstand pediatric use patterns and accommodate ongoing dental development.
 
-Fabrication timing should coincide with complete eruption and stabilization of design tooth set. For primary dentition bruxism, splint fabrication is typically deferred unless severe wear or dysfunction develops. For mixed dentition and permanent dentition, splint fabrication becomes increasingly justified as permanent tooth damage risk increases.
+Fabrication timing should coincide with complete eruption and steadying of design tooth set. For primary dentition bruxism, splint fabrication is typically deferred unless severe wear or problem develops. For mixed dentition and permanent dentition, splint fabrication becomes increasingly justified as permanent tooth damage risk increases.
 
 Splint design emphasizes even bilateral contact across posterior teeth without creating lateral displacement forces that might encourage harmful movement patterns. Anterior guidance should be gentle, permitting normal functional movement without forcing specific jaw positioning.
 
-Compliance in pediatric splint use presents significant challenge. Approximately 40-50% of prescribed child bruxers demonstrate poor compliance; parent education regarding wear protocol and addressing child comfort concerns improves adherence. Positive reinforcement strategies and involving children in splint care decisions enhances compliance rates.
+Compliance in pediatric splint use presents significant challenge. About 40-50% of prescribed child bruxers show poor compliance; parent education regarding wear protocol and addressing child comfort concerns improves adherence. Positive reinforcement strategies and involving children in splint care decisions enhances compliance rates.
 
 Splint durability in children typically ranges from 2-3 years due to normal growth and development. Periodic adjustment ensures optimal fit as maxilla and mandible expand during growth periods. Annual reassessment determines splint replacement necessity.
 
 ## Management of Associated Sleep-Disordered Breathing
 
-Adenotonsillar hypertrophy assessment should occur in all children presenting with bruxism and concurrent symptoms including snoring, observed apneas, restless sleep, or daytime somnolence. Otolaryngologic referral for evaluation is appropriate when sleep-disordered breathing is suspected.
+Adenotonsillar hypertrophy assessment should occur in all children presenting with bruxism and concurrent symptoms including snoring, observed apneas, restless sleep, or daytime somnolence. Otolaryngologic referral for check is appropriate when sleep-disordered breathing is suspected.
 
-Adenotonsillar surgery dramatically improves bruxism-related symptoms in children with documented sleep-disordered breathing. Post-adenotonsillectomy follow-up demonstrates 50-70% reduction in grinding frequency and 60-75% improvement in associated daytime symptoms (fatigue, behavioral problems). This substantial improvement provides strong evidence for underlying sleep-disordered breathing contribution to bruxism.
+Adenotonsillar surgery dramatically improves bruxism-related symptoms in children with documented sleep-disordered breathing. Post-adenotonsillectomy follow-up shows 50-70% reduction in grinding frequency and 60-75% improvement in associated daytime symptoms (fatigue, behavioral problems). This substantial improvement provides strong evidence for underlying sleep-disordered breathing contribution to bruxism.
 
-Continuous positive airway pressure (CPAP) therapy, when used for documented OSA, significantly reduces bruxism. Children with OSA treated with CPAP demonstrate 40-60% reduction in grinding frequency. Compliance with pediatric CPAP use remains challenging (30-40% of children demonstrate poor compliance), but when well-tolerated, provides effective bruxism management.
+Continuous positive airway pressure (CPAP) therapy, when used for documented OSA, much reduces bruxism. Children with OSA treated with CPAP show 40-60% reduction in grinding frequency. Compliance with pediatric CPAP use remains challenging (30-40% of children demonstrate poor compliance), but when well-tolerated, provides effective bruxism management.
 
 ## Medication Management Considerations
 
-Stimulant medication review should occur in children on ADHD medications. Methylphenidate dose adjustments (reducing to lowest effective dose) or medication timing changes (timing doses to avoid evening peak effect) may reduce bruxism. Alternative medication classes (non-stimulant ADHD medications like atomoxetine, guanfacine) should be considered if bruxism significantly impacts quality of life.
+Stimulant medicine review should occur in children on ADHD medicines. Methylphenidate dose adjustments (reducing to lowest effective dose) or medicine timing changes (timing doses to avoid evening peak effect) may reduce bruxism. Other option medicine classes (non-stimulant ADHD medications like atomoxetine, guanfacine) should be considered if bruxism much impacts quality of life.
 
-Magnesium supplementation (150-200mg nightly) has preliminary evidence for bruxism reduction through muscle relaxation effects, though controlled trials in pediatric populations remain limited. Safety profile is excellent, making it low-risk supplementation option worth considering.
+Magnesium supplements (150-200mg nightly) has preliminary evidence for bruxism reduction through muscle relaxation effects, though controlled trials in pediatric populations remain limited. Safety profile is excellent, making it low-risk supplements option worth considering.
 
-Melatonin supplementation (0.5-3mg nightly, depending on age) improves sleep quality and may reduce grinding frequency by 15-25% through sleep architecture enhancement. Melatonin is considered safe in pediatric populations at these dosages, though long-term safety data remains somewhat limited.
+Melatonin supplements (0.5-3mg nightly, depending on age) improves sleep quality and may reduce grinding frequency by 15-25% through sleep architecture enhancement. Melatonin is considered safe in pediatric populations at these dosages, though long-term safety data remains somewhat limited.
 
 Pharmacologic therapy is generally reserved for significant bruxism with substantial impact on quality of life or severe dental wear. Tricyclic antidepressants such as amitriptyline (typically 10-25mg nightly in children) reduce bruxism by 50-65%; however, side effect profile (morning grogginess, dry mouth) and monitoring requirements limit routine use.
 
 ## Monitoring and Prognosis
 
-Periodic dental examination at 6-12 month intervals monitors dental wear progression. Increasing wear despite behavioral interventions and protective splint use suggests inadequate compliance or unrecognized sleep-disordered breathing requiring further investigation.
+Periodic dental exam at 6-12 month intervals monitors dental wear progression. Increasing wear despite behavioral treatments and protective splint use suggests inadequate compliance or unrecognized sleep-disordered breathing requiring further investigation.
 
-Psychosocial assessment at baseline and during follow-up identifies emerging behavioral or psychological concerns requiring intervention. Children developing anxiety, depression, or school-related stress warrant referral for psychological support, which may improve bruxism management success.
+Psychosocial assessment at baseline and during follow-up identifies emerging behavioral or psychological concerns requiring treatment. Children developing anxiety, depression, or school-related stress warrant referral for psychological support, which may improve bruxism management success.
 
-Parental support and education significantly influence bruxism management success. Explaining that childhood bruxism frequently represents normal developmental phenomenon providing reassurance. Discussing expected natural remission (50-60% by age 15-16) establishes realistic expectations and reduces parental anxiety.
+Parental support and education much influence bruxism management success. Explaining that childhood bruxism frequently represents normal developmental phenomenon providing reassurance. Discussing expected natural remission (50-60% by age 15-16) establishes realistic expectations and reduces parental anxiety.
 
-Long-term follow-up into adolescence demonstrates that 50-60% of childhood bruxism resolves completely with minimal intervention beyond sleep hygiene optimization and parental reassurance. Approximately 30-40% demonstrates persistent grinding into adulthood; early identification of risk factors (family history, severe grinding frequency, associated TMJ symptoms) permits more intensive early intervention in at-risk children.
+Long-term follow-up into adolescence shows that 50-60% of childhood bruxism resolves completely with minimal treatment beyond sleep hygiene optimization and parental reassurance. About 30-40% shows persistent grinding into adulthood; early identification of risk factors (family history, severe grinding frequency, associated TMJ symptoms) permits more intensive early treatment in at-risk children.
 
 ## Summary and Clinical Recommendations
 
-Sleep bruxism affects 15-20% of children with peak prevalence in primary and early mixed dentition. Etiology appears multifactorial, involving genetic predisposition, sleep-disordered breathing, psychological stress, and developmental occlusal changes. Approximately 50-60% of childhood bruxism resolves spontaneously by age 15-16 years.
+Sleep bruxism affects 15-20% of children with peak prevalence in primary and early mixed dentition. Etiology appears multifactorial, involving genetic predisposition, sleep-disordered breathing, psychological stress, and developmental occlusal changes. About 50-60% of childhood bruxism resolves spontaneously by age 15-16 years.
 
 Primary management emphasizes sleep hygiene optimization, screen time restriction, and stress reduction rather than immediate splint therapy. Assessment for underlying sleep-disordered breathing (particularly adenotonsillar hypertrophy-related OSA) should occur in all bruxing children; adenotonsillectomy produces substantial grinding reduction (50-70%) in children with documented sleep pathology.
 
-Protective splint therapy is reserved for primary/early mixed dentition if severe wear develops or for mixed/permanent dentition bruxism with significant dysfunction. Behavioral modification and splint use together reduce bruxism-related complications and provide foundation for successful long-term management. Regular follow-up monitoring tracks dental wear progression, identifies emerging complications, and supports positive developmental trajectories into adulthood.
+Protective splint therapy is reserved for primary/early mixed dentition if severe wear develops or for mixed/permanent dentition bruxism with significant problem. Behavioral change and splint use together reduce bruxism-related problems and provide foundation for successful long-term management. Regular follow-up monitoring tracks dental wear progression, identifies emerging problems, and supports positive developmental trajectories into adulthood.
 
 
 Related reading: [Early Childhood Caries: Aggressive Decay in Toddlers](/article/early-childhood-caries-aggressive-decay-in-toddlers.html) and [Pacifier Use Timing and Malocclusion Risk](/article/pacifier-use-timing-and-malocclusion-risk.html).

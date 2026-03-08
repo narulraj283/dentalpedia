@@ -84,8 +84,7 @@ Related reading: [Orthodontic Elastics: Force Delivery, Properties](/article/ela
 
 ## Conclusion
 
-Whether you're just learning about braces care instructions: what patients need to know or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Your dentist can help you understand the best approach for your specific needs. The difference between careful patients and careless ones is huge.
 
 > **Key Takeaway:** If you're wearing braces, you've probably noticed that brushing and flossing just got way more complicated.
 

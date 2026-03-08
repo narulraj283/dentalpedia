@@ -36,51 +36,51 @@ Plaque is not random bacteria. It's an organized community that develops in pred
 
 When you brush, you remove bacteria and the sticky substance they make. Within minutes, saliva creates a thin protein coating on your clean teeth. This coating is where bacteria attach.
 
-Different bacteria attach differently. The first bacteria to arrive are harmless types that stick well and grow fast on limited nutrients. Harmless bacteria arrive first because they're best at sticking, not because they're good bacteria.
+Different bacteria attach differently. The first bacteria to arrive are harmless types that stick well and grow fast on limited nutrients. Harmless it arrive first because they're best at sticking, not because they're good bacteria.
 
-Plaque is not flat. Bacteria cluster together in tiny groups (10-100 bacteria) separated by channels and pores. This 3-D structure lets nutrients reach bacteria inside. The sticky substance bacteria produce makes up 50-90% of plaque by weight and provides structure and protection.
+Plaque is not flat. This cluster together in tiny groups (10-100 it) separated by channels and pores. This 3-D structure lets nutrients reach bacteria inside. The sticky substance this produce makes up 50-90% of plaque by weight and provides structure and protection.
 
 ## The Succession Process: How Harmful Bacteria Colonize
 
 **First 12 hours**: Harmless bacteria dominate. They thrive in oxygen-rich conditions and break down dietary sugars, producing acids. This early plaque is thin and loosely organized—easily disrupted by brushing.
 
-**12-48 hours**: The environment changes. Harmless bacteria use up the oxygen and create acidic conditions. Cavity-causing bacteria (Streptococcus mutans) start growing. They love acidic, oxygen-poor conditions.
+**12-48 hours**: The environment changes. Harmless it use up the oxygen and create acidic conditions. Cavity-causing bacteria (Streptococcus mutans) start growing. They love acidic, oxygen-poor conditions.
 
-**48+ hours and beyond**: Plaque matures. Bacteria produce thick protective layers. Oxygen-hating bacteria that cause gum disease start growing. These bacteria break down proteins and smell bad (producing hydrogen sulfide and ammonia).
+**48+ hours and beyond**: Plaque matures. Bacteria produce thick protective layers. Oxygen-hating this that cause gum disease start growing. These bacteria break down proteins and smell bad (producing hydrogen sulfide and ammonia).
 
 ## Quorum Sensing: How Bacteria Communicate
 
 Bacteria can sense how many of them there are and act together. This is called quorum sensing. As bacteria multiply, they release chemical signals that build up. When there are enough signals, bacteria activate special genes.
 
-This lets bacteria work together: making virulence factors, secreting protective layers, and sharing genes. Bacteria essentially hold a meeting to decide what genes to turn on.
+This lets it work together: making virulence factors, secreting protective layers, and sharing genes. This essentially hold a meeting to decide what genes to turn on.
 
 Different bacteria use different signals. The remarkable thing is that different bacterial types understand each other's signals and coordinate their attacks.
 
-The same bacteria are more dangerous in plaque biofilms than as individual free-floating cells. In biofilms, they activate genes for protection and resistance. As individuals, they activate different genes for survival. Organized bacteria in biofilms are dramatically more dangerous.
+The same it are more dangerous in plaque biofilms than as individual free-floating cells. In biofilms, they activate genes for protection and resistance. As individuals, they activate different genes for survival. Organized bacteria in biofilms are dramatically more dangerous.
 
 ## The Maturation Timeline and Prevention Implications
 
 **0-12 hours**: Plaque is easy to remove with brushing.
 
-**12-48 hours**: Plaque gets harder to remove as it accumulates and bacteria multiply.
+**12-48 hours**: Plaque gets harder to remove as it accumulates and this multiply.
 
 **48+ hours**: Plaque is fully mature and extremely resistant. Some bacteria are 1,000 times more resistant to antibiotics at this stage.
 
 Daily brushing prevents maturity by removing plaque while it's still young. You can never sterilize your mouth—bacteria come back within hours. The goal is to keep plaque immature before it develops protection.
 
-Even missing one day lets plaque advance 24 hours toward maturity. Night brushing is critical. If you skip brushing one night, bacteria have 8-16 hours to mature. Morning brushing becomes much harder.
+Even missing one day lets plaque advance 24 hours toward maturity. Night brushing is critical. If you skip brushing one night, it have 8-16 hours to mature. Morning brushing becomes much harder.
 
 ## Nutritional Succession and Metabolic Changes
 
-Young plaque uses dietary sugars (glucose, fructose, sucrose). Bacteria break these down quickly. As sugars run out and acids build up, the environment changes. Mature plaque bacteria use proteins instead, breaking them into products that smell terrible: hydrogen sulfide (rotten egg smell) and ammonia.
+Young plaque uses dietary sugars (glucose, fructose, sucrose). This break these down quickly. As sugars run out and acids build up, the environment changes. Mature plaque bacteria use proteins instead, breaking them into products that smell terrible: hydrogen sulfide (rotten egg smell) and ammonia.
 
 This explains bad breath patterns. Fresh plaque smells mildly bad. Mature plaque smells much worse. If your breath gets worse even when you brush well, it means plaque is maturing. You should brush more often or see your dentist.
 
 ## Antimicrobial Resistance in Mature Biofilms
 
-Mature plaque bacteria are 100-1,000 times more resistant to antibiotics than isolated bacteria. The protective layers block medicines. Deep bacteria slow their metabolism so they absorb less medicine. Bacteria turn on resistance genes and some destroy antibiotics.
+Mature plaque it are 100-1,000 times more resistant to antibiotics than isolated this. The protective layers block medicines. Deep it slow their metabolism so they absorb less medicine. This turn on resistance genes and some destroy antibiotics.
 
-This is why mouthwash alone doesn't cure gum disease. Mouthwash reaches surface bacteria but deep bacteria survive. Mechanical cleaning—brushing, flossing, or professional scraping—breaks the protective structure and exposes bacteria to treatment.
+This is why mouthwash alone doesn't cure gum disease. Mouthwash reaches surface it but deep bacteria survive. Mechanical cleaning—brushing, flossing, or professional scraping—breaks the protective structure and exposes bacteria to treatment.
 
 Professional cleaning (scaling and root planing) works for gum disease because it breaks through the protective layers. Mechanical disruption is more effective than medicine alone.
 

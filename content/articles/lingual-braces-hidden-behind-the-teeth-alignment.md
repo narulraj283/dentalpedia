@@ -1,46 +1,56 @@
 ---
-title: "Lingual Braces: Invisible Alignment Behind Your Teeth"
-slug: lingual-braces-hidden-behind-the-teeth-alignment
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "Lingual braces are bonded to the back of teeth."
 date: 2026-03-05
+excerpt: Lingual the appliances are orthodontic brackets and wires bonded to the inside
+  (tongue-facing) surface of your teeth.
 read_time: 8 min
+references:
+- title: 'Lingual Orthodontics: Diagnosis, Treatment Planning, and Clinical Management'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/23536991
+- title: 'Incognito and WIN Lingual Bracket Systems: Comparative Analysis of Mechanical
+    Properties and Clinical Performance'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/26905194
+- title: 'Indirect Bonding Technique in Lingual Orthodontics: Precision, Accuracy,
+    and Clinical Outcomes'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25178033
+- title: 'Speech Adaptation During Lingual Appliance Treatment: Longitudinal Assessment
+    and Patient-Reported Outcomes'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/27262879
+- title: 'Biomechanics of Lingual Braces: Wire-Bracket Interaction and Tooth Movement
+    Mechanics'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/24161128
+- title: 'Customized Lingual Bracket Design: CAD/CAM Technology and Personalized Orthodontic
+    Mechanics'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/28654784
+- title: 'Caries Risk and Plaque Accumulation with Lingual Fixed Appliances: A Systematic
+    Review'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/27540722
+- title: 'Enamel Demineralization Around Lingual Brackets: Prevention Strategies and
+    Clinical Management'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25981508
+- title: Treatment Duration and Efficiency in Lingual versus Conventional Buccal Orthodontic
+    Systems
+  url: https://www.ncbi.nlm.nih.gov/pubmed/22902506
+- title: 'Patient Comfort and Compliance with Lingual Appliances: A Prospective Clinical
+    Study'
+  url: https://www.ncbi.nlm.nih.gov/pubmed/29438445
+reviewed: true
 reviewer_specialty: Orthodontics
+slug: lingual-braces-hidden-behind-the-teeth-alignment
 subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
-reviewed: true
-references:
-  - title: "Lingual Orthodontics: Diagnosis, Treatment Planning, and Clinical Management"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/23536991
-  - title: "Incognito and WIN Lingual Bracket Systems: Comparative Analysis of Mechanical Properties and Clinical Performance"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/26905194
-  - title: "Indirect Bonding Technique in Lingual Orthodontics: Precision, Accuracy, and Clinical Outcomes"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/25178033
-  - title: "Speech Adaptation During Lingual Appliance Treatment: Longitudinal Assessment and Patient-Reported Outcomes"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/27262879
-  - title: "Biomechanics of Lingual Braces: Wire-Bracket Interaction and Tooth Movement Mechanics"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/24161128
-  - title: "Customized Lingual Bracket Design: CAD/CAM Technology and Personalized Orthodontic Mechanics"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/28654784
-  - title: "Caries Risk and Plaque Accumulation with Lingual Fixed Appliances: A Systematic Review"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/27540722
-  - title: "Enamel Demineralization Around Lingual Brackets: Prevention Strategies and Clinical Management"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/25981508
-  - title: "Treatment Duration and Efficiency in Lingual versus Conventional Buccal Orthodontic Systems"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/22902506
-  - title: "Patient Comfort and Compliance with Lingual Appliances: A Prospective Clinical Study"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/29438445
+title: 'Lingual Braces: Invisible Alignment Behind Your Teeth'
 ---
 ## What Are Lingual Braces?
 
-Lingual braces are orthodontic brackets and wires bonded to the inside (tongue-facing) surface of your teeth. They're completely hidden from view when you smile, talk, or eat. The word "lingual" refers to the tongue side of your teeth, and these braces do the same job as traditional braces—straightening your teeth—but nobody can see them.
+Lingual the appliances are orthodontic brackets and wires bonded to the inside (tongue-facing) surface of your teeth. They're completely hidden from view when you smile, talk, or eat. The word "lingual" refers to the tongue side of your teeth, and these braces do the same job as traditional braces—straightening your teeth—but nobody can see them.
 
 Lingual braces are ideal for adults and professionals who need straight teeth but can't tolerate the appearance of traditional braces during treatment.
 
 ## How Lingual Braces Are Different
 
-Lingual braces are customized for each patient. Your orthodontist uses digital scanning technology to create a 3D model of your teeth. Computer software calculates the exact position for each bracket on the back of your teeth. These customized brackets are then fabricated and bonded using a technique that ensures perfect positioning.
+Lingual them are customized for each patient. Your orthodontist uses digital scanning technology to create a 3D model of your teeth. Computer software calculates the exact position for each bracket on the back of your teeth. These customized brackets are then fabricated and bonded using a technique that ensures perfect positioning.
 
 Because the brackets are on the inside of your teeth, they're much closer to the center of your tooth roots. This changes how force is applied to your teeth. Your orthodontist applies lighter forces with lingual braces compared to traditional braces—about 40-50% lighter. This lighter force is still effective at moving teeth because of the different leverage point.
 

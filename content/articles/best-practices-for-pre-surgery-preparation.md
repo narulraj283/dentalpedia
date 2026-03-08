@@ -114,7 +114,6 @@ Related reading: [General Oral Surgery Recovery Timeline and Functional](/articl
 Comprehensive preoperative assessment and optimization 2-4 weeks before scheduled surgery substantially reduces perioperative complications and optimizes outcomes. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** Starting 2-4 weeks before surgery, your surgical team will ask about your medical history.
 
 ## Related Articles

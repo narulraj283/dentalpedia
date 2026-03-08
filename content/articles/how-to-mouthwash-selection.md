@@ -101,8 +101,7 @@ Think of mouthwash as the bonus round in your oral health game, not the main eve
 
 ## Conclusion
 
-Whether you're just learning about mouthwash selection based on clinical needs or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Think of mouthwash as the bonus round in your oral health game, not the main event. Brushing twice daily for two minutes, flossing daily, and getting regular dental checkups form your foundation. Mouthwash adds extra help for specific problems.
 
 > **Key Takeaway:** With so many mouthwash options available, picking the right one can feel overwhelming.
 

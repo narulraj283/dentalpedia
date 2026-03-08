@@ -62,6 +62,10 @@ Because extraction is permanent, your orthodontist must explain everything clear
 
 For more information, see [Common Misconceptions About Retainer Importance](/article/common-misconceptions-about-retainer-importance.html) and [Implant Orthodontics: Anchoring to Implants](/article/implant-orthodontics-anchoring-to-implants.html).
 
+The decision to extract teeth before orthodontic treatment is never taken lightly. Your orthodontist measures your jaw space, tooth sizes, and bite alignment before making a recommendation. In many cases, extraction creates the room needed for teeth to move into a healthy, stable position.
+
+Healing from an extraction typically takes one to two weeks. You can eat soft foods and manage any soreness with over-the-counter pain relievers. Most patients return to normal activities within a few days.
+
 ## Conclusion
 
 The extraction versus non-extraction decision represents a fundamental orthodontic choice with long-term consequences. Your orthodontist should present both options clearly, allow you adequate time to understand the trade-offs, and ensure you provide informed consent to whichever option you choose.

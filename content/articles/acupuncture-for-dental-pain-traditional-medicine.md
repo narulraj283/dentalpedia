@@ -42,9 +42,9 @@ Modern brain imaging has confirmed that acupuncture actually does change activit
 
 ## Acupuncture for Dental Pain
 
-Research shows that acupuncture can reduce dental pain by about 30 to 40 percent. If you have a toothache and take ibuprofen, the medication might reduce pain by 60 to 80 percent, so acupuncture is somewhat less powerful than medication. However, some people prefer it because it carries no drug side effects.
+Research shows that acupuncture can reduce dental pain by about 30 to 40 percent. If you have a toothache and take ibuprofen, the medicine might reduce pain by 60 to 80 percent, so acupuncture is somewhat less powerful than medicine. However, some people prefer it because it carries no drug side effects.
 
-For post-operative pain after tooth extraction or other dental surgery, acupuncture can reduce pain enough that you might need less prescription pain medication. Reducing medication while still managing pain well is appealing to many patients.
+For post-operative pain after tooth extraction or other dental surgery, acupuncture can reduce pain enough that you might need less prescription pain medicine. Reducing medicine while still managing pain well is appealing to many patients.
 
 Acupuncture doesn't eliminate pain entirely—you still feel something. Rather, it reduces pain to a more manageable level.
 
@@ -60,29 +60,29 @@ However, acupuncture works better when combined with other treatments (physical 
 
 Many people experience anxiety about dental treatment. Acupuncture can reduce anxiety, with studies showing 20 to 30 percent anxiety reduction. This isn't profound anxiety elimination, but it helps take the edge off.
 
-Acupuncture for anxiety often targets points on your forehead (between your eyebrows) and on your ears. Treatments typically last 15 to 20 minutes and are often combined with calming music and a relaxing environment.
+This for anxiety often targets points on your forehead (between your eyebrows) and on your ears. Treatments typically last 15 to 20 minutes and are often combined with calming music and a relaxing environment.
 
-Again, acupuncture is one tool among many for managing dental anxiety. It's not as powerful as anxiety medication or as comprehensive as cognitive behavioral therapy for fear. But for someone seeking non-medication anxiety management, it's an option.
+Again, acupuncture is one tool among many for managing dental anxiety. It's not as powerful as anxiety medicine or as full as cognitive behavioral therapy for fear. But for someone seeking non-medicine anxiety management, it's an option.
 
 ## Acupuncture for Post-Operative Swelling
 
-After tooth extraction or oral surgery, acupuncture treatment immediately after surgery and on days 1 and 2 afterward might reduce swelling by 15 to 25 percent. Pain reduction is greater (30 to 40 percent). This is modest benefit—your surgeon's technique matters more for controlling swelling than acupuncture will. However, as an add-on treatment, it might help.
+After tooth extraction or oral surgery, acupuncture treatment right away after surgery and on days 1 and 2 afterward might reduce swelling by 15 to 25 percent. Pain reduction is greater (30 to 40 percent). This is modest benefit—your surgeon's technique matters more for controlling swelling than acupuncture will. However, as an add-on treatment, it might help.
 
 ## Who Should Not Receive Acupuncture
 
-People with severe needle phobia, those taking blood-thinning medications (warfarin), and those with severely weakened immune systems should avoid acupuncture. Additionally, acupuncture should never delay necessary dental treatment. A tooth with infection needs root canal therapy or extraction—acupuncture cannot substitute for definitive treatment.
+People with severe needle phobia, those taking blood-thinning medicines (warfarin), and those with severely weakened immune systems should avoid acupuncture. Also, acupuncture should never delay necessary dental treatment. A tooth with infection needs root canal therapy or extraction—acupuncture cannot substitute for definitive treatment.
 
 ## Is It Safe?
 
-Acupuncture is generally very safe when performed by trained practitioners using sterile needles. Serious complications (nerve injury, infection, punctured organs) are exceptionally rare. Minor side effects (slight bruising, temporary discomfort at needle sites) occur in maybe 5 to 10 percent of treatments.
+It is generally very safe when performed by trained practitioners using sterile needles. Serious problems (nerve injury, infection, punctured organs) are exceptionally rare. Minor side effects (slight bruising, temporary discomfort at needle sites) occur in maybe 5 to 10 percent of treatments.
 
 The biggest safety concern is infection if practitioners don't use sterile, single-use needles. Always verify that your acupuncturist uses new, sterile needles from sealed packages for each patient.
 
 ## Cost and Insurance
 
-Acupuncture typically costs $75 to $150 per session. Treatment usually involves 6 to 12 sessions for chronic conditions like TMD. Most dental insurance doesn't cover acupuncture, so it's out-of-pocket. Some medical insurance plans do cover acupuncture for pain management—check your policy.
+Acupuncture typically costs $75 to $150 per session. Treatment usually involves 6 to 12 sessions for chronic conditions like TMD. Most dental insurance doesn't cover acupuncture, so it's out-of-pocket. Some medical insurance plans do cover this for pain management—check your policy.
 
-At this cost and level of benefit, acupuncture is best considered as one option among several pain management approaches. It's not a primary treatment but rather an adjunct to conventional care.
+At this cost and level of benefit, acupuncture is best considered as one option among several pain management approaches. It's not a primary treatment but rather an adjunct to standard care.
 
 ## Finding a Qualified Practitioner
 
@@ -96,15 +96,15 @@ Your dentist might have referrals to qualified acupuncturists familiar with dent
 
 ## Combining with Conventional Treatment
 
-Acupuncture works best when integrated with conventional dental treatment, not replacing it. For TMD, combine it with physical therapy and stress management. For dental anxiety, use it alongside behavioral techniques. For post-operative pain, use it while taking prescribed pain medication rather than instead of it.
+Acupuncture works best when integrated with standard dental treatment, not replacing it. For TMD, combine it with physical therapy and stress management. For dental anxiety, use it alongside behavioral techniques. For post-operative pain, use it while taking prescribed pain medicine rather than instead of it.
 
-Think of acupuncture as one component of a comprehensive approach rather than a standalone solution.
+Think of acupuncture as one component of a full approach rather than a standalone solution.
 
 ## Research Limitations
 
 It's important to understand that while acupuncture shows some research support, the evidence isn't as strong as for other treatments. Dental pain studies show modest effects. TMD studies are more promising but involve relatively small numbers of patients. Larger, higher-quality studies would help clarify acupuncture's true benefits.
 
-Additionally, some improvement people experience from acupuncture may be due to placebo effect—improvement from expecting to improve rather than the treatment itself. This doesn't mean acupuncture doesn't work (expecting improvement is real improvement in pain perception), but it means the "true" effects might be smaller than initial studies suggest.
+Also, some improvement people experience from acupuncture may be due to placebo effect—improvement from expecting to improve rather than the treatment itself. This doesn't mean it doesn't work (expecting improvement is real improvement in pain perception), but it means the "true" effects might be smaller than initial studies suggest.
 
 ## Your Best Pain Management Strategy
 
@@ -120,9 +120,9 @@ For dental pain and anxiety, your best approach usually includes:
 
 ## Summary
 
-Acupuncture can reduce dental pain by 30 to 40 percent and jaw pain (TMD) by about 50 percent, with sustained benefits in 60 to 70 percent of TMD patients. It works through multiple mechanisms including pain gate closure, endorphin release, and inflammation reduction. Acupuncture for dental anxiety reduces anxiety by 20 to 30 percent.
+This can reduce dental pain by 30 to 40 percent and jaw pain (TMD) by about 50 percent, with sustained benefits in 60 to 70 percent of TMD patients. It works through multiple processes including pain gate closure, endorphin release, and swelling reduction. Acupuncture for dental anxiety reduces anxiety by 20 to 30 percent.
 
-It's very safe when performed by trained practitioners with sterile needles. Acupuncture functions best as an adjunctive treatment combined with conventional dentistry, physical therapy, and behavioral techniques rather than as a replacement for these approaches. If interested in acupuncture, find a licensed, certified acupuncturist trained in dental pain management. Understand that benefits are modest but real, and cost is out-of-pocket for most patients.
+It's very safe when performed by trained practitioners with sterile needles. Acupuncture functions best as an adjunctive treatment combined with standard dentistry, physical therapy, and behavioral techniques rather than as a replacement for these approaches. If interested in it, find a licensed, certified acupuncturist trained in dental pain management. Understand that benefits are modest but real, and cost is out-of-pocket for most patients.
 
 
 Related reading: [Detoxification and Your Oral Health](/article/detoxification-and-oral-health.html) and [Oil Pulling—Ancient Practice and Current](/article/oil-pulling-ancient-practice-and-scientific-evidence.html).

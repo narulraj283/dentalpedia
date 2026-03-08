@@ -113,8 +113,7 @@ Related reading: [Invisalign vs. Braces: Which Is Better for You?](/article/invi
 
 ## Conclusion
 
-Whether you're just learning about adult braces options: what you need to know or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Adult orthodontia works brilliantly when you're medically suitable and have realistic expectations. Slower movement than teenagers is normal and actually preferable. With good gum health at the start and excellent care during treatment, complications are minimal and outcomes are excellent.
 
 > **Key Takeaway:** Straightening teeth as an adult works differently than in teenagers. The major difference is that your facial bones have finished growing.
 

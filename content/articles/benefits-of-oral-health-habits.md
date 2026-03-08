@@ -97,8 +97,7 @@ Related reading: [Preventive Program Building Lifetime Oral Habits](/article/pre
 
 ## Conclusion
 
-Whether you're just learning about oral health habits: what patients need to know or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+The habits work, but only if you actually do them. Most people who do these four things for years have beautiful, healthy teeth. Prevent dental disease through consistent brushing with fluoride toothpaste twice daily, daily interdental cleaning, smart eating (meal-time eating beats snacking), and professional care twice yearly.
 
 > **Key Takeaway:** Preventing dental problems is way easier than treating them. The good news? You don't need to do anything complicated.
 

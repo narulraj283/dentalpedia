@@ -76,7 +76,7 @@ Time commitment includes regular appointments—typically monthly visits to adju
 
 ## Not Every Child Needs Early Treatment
 
-Not all children benefit from Phase One treatment. Some have problems best addressed when all permanent teeth have erupted. Some are simply not ready developmentally—they might not handle appliances well or lack the cooperation needed for removable appliances. Your orthodontist will recommend early treatment only if it truly benefits your child.
+Not all children benefit from Phase One it. Some have problems best addressed when all permanent teeth have erupted. Some are simply not ready developmentally—they might not handle appliances well or lack the cooperation needed for removable appliances. Your orthodontist will recommend early treatment only if it truly benefits your child.
 
 ## Making Your Decision
 

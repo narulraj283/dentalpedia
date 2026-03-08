@@ -28,13 +28,13 @@ One of the biggest questions in braces treatment is whether you need to have som
 
 There's no one-size-fits-all answer. The orthodontist will figure out what's best for your specific situation.
 
-When you DON'T extract teeth, your orthodontist creates space by moving your back teeth backward or out a bit, and by tipping your front teeth forward slightly. This changes the shape of your mouth a little. When you DO extract teeth, you remove one or two teeth (usually smaller teeth) to create instant space, so your remaining teeth have room to line up without all that tipping and moving around. Both approaches can work great if done the right way.
+When you DON'T extract your smile, your orthodontist creates space by moving your back teeth backward or out a bit, and by tipping your front teeth forward slightly. This changes the shape of your mouth a little. When you DO extract teeth, you remove one or two teeth (usually smaller teeth) to create instant space, so your remaining teeth have room to line up without all that tipping and moving around. Both approaches can work great if done the right way.
 
 ## How Much Crowding Do You Have?
 
 The main thing your orthodontist measures is how much space you're missing. If you're missing less than 4 millimeters (about the thickness of 4 pencils stacked), you probably don't need extractions—there's enough room to make it work with just movement. If you're missing 6 to 8 millimeters or more, extraction usually makes sense. Anything in between (4-6 mm) is the tricky zone where the orthodontist has to think about other factors too.
 
-Here's something interesting: teeth fixed through extraction usually stay straighter longer. If your orthodontist extracts teeth, your remaining teeth line up naturally in their original arch form, so they're more stable. If your orthodontist doesn't extract teeth, your teeth end up in an expanded arch that retainers have to hold in place forever. So extraction can actually mean better long-term results, though it sounds scarier.
+Here's something interesting: them fixed through extraction usually stay straighter longer. If your orthodontist extracts teeth, your remaining teeth line up naturally in their original arch form, so they're more stable. If your orthodontist doesn't extract teeth, your teeth end up in an expanded arch that retainers have to hold in place forever. So extraction can actually mean better long-term results, though it sounds scarier.
 
 ## Your Face Shape Matters
 
@@ -84,7 +84,6 @@ Related reading: [Why Your Braces Appointments Matter](/article/orthodontic-appo
 ## Conclusion
 
 Extraction versus non-extraction represents a legitimate clinical choice dependent on precise diagnosis, patient esthetics and functional objectives, skeletal and vertical characteristics, and growth potential. Both approaches yield successful outcomes in appropriately selected patients. If you have questions, your dentist can help you understand your options. Talk to your dentist about what options work best for your situation.
-
 
 
 > **Key Takeaway:** One of the biggest questions in braces treatment is whether you need to have some teeth pulled out.

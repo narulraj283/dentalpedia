@@ -117,7 +117,6 @@ If cost is a barrier, ask your pediatrician or dentist about payment plans or co
 Restrictive labial frenum represents a condition with potentially far-reaching developmental consequences extending well beyond simple feeding difficulty. If you have questions, your dentist can help you understand your options. Early identification and treatment (typically between 4-8 weeks of age) gives your baby the best chance for normal development and helps prevent feeding-related stress for your whole family. If you notice feeding challenges, prolonged feeding times, or concern about your baby's weight gain, talk to your pediatrician about evaluating for oral restrictions.
 
 
-
 > **Key Takeaway:** A lip tie can make nursing difficult, affect your baby's growth, and impact speech development. Learn what you need to know about this condition.
 
 ## Related Articles

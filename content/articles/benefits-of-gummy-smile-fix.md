@@ -82,7 +82,7 @@ The solution is botulinum toxin (Botox) injections into the muscles that elevate
 
 Dosing is usually 2.5-5 units per muscle per side (5-15 units total bilateral), adjusted based on results. Effects take 3-7 days to appear, with full effect at 2-3 weeks. Duration is about 3-4 months, then you'd need re-injection. This is completely reversible—if you don't like it, you just stop getting injections and the effect wears off.
 
-Cost is typically $300-600 per treatment session, which lasts 3-4 months. So annually you're looking at $1200-2400 for maintenance. That's more expensive than most people expect, but there's no surgery, no recovery time, and it's reversible.
+Cost is typically $300-600 per treatment session, which lasts 3-4 months. So annually you're looking at $1200-2400 for upkeep. That's more expensive than most people expect, but there's no surgery, no recovery time, and it's reversible.
 
 ## Many People Have Multiple Causes
 
@@ -110,11 +110,11 @@ Many dentists now use digital smile design, where they show you photos of your s
 
 Crown lengthening with osseous recontouring addresses altered passive eruption by establishing ideal gingival margin position through controlled bone reduction. This periodontal surgical procedure removes bone crest 3-4mm apical to desired gingival margin position, allowing physiologic migration of gingival margin to new bone level.
 
-Surgical technique involves partial-thickness flap elevation to expose alveolar crest. Supracrestal bone (bone apical to alveolar crest extending toward root apex) is removed with burs and hand instruments, maintaining 3-4mm supracrestal tissue space (biological width) between bone crest and desired gingival margin position. Internal bevel incisions and simplified flap design facilitate healing and minimize scarring.
+Surgical technique involves partial-thickness flap elevation to expose alveolar crest. Supracrestal bone (bone apical to alveolar crest extending toward root apex) is removed with burs and hand instruments, keeping 3-4mm supracrestal tissue space (biological width) between bone crest and desired gingival margin position. Internal bevel incisions and simplified flap design help healing and minimize scarring.
 
-Esthetic outcomes depend critically on achieving balanced anterior gingival display and ideal scallop contours. Excessive bone removal risks gingival recession in healed state. Insufficient removal fails to achieve desired gingival height. Multiple tooth involvement requires careful contouring maintaining anatomic gingival architecture.
+Esthetic outcomes depend critically on achieving balanced anterior gingival display and ideal scallop contours. Excessive bone removal risks gingival recession in healed state. Not enough removal fails to achieve desired gingival height. Multiple tooth involvement requires careful contouring keeping anatomic gingival architecture.
 
-Healing occurs over 3-6 months with complete gingival remodeling and margin stabilization. Temporary aesthetic compromise occurs immediately post-operatively as flaps heal and gingival contours remodel. Patient education regarding healing timeline prevents dissatisfaction during remodeling phase.
+Healing occurs over 3-6 months with complete gingival remodeling and margin steadying. Temporary aesthetic compromise occurs right away post-operatively as flaps heal and gingival contours remodel. Patient education regarding healing timeline prevents dissatisfaction during remodeling phase.
 
 ## Vertical Maxillary Excess: Orthognathic Correction
 
@@ -122,13 +122,13 @@ Vertical maxillary excess causing disproportionate vertical facial proportions r
 
 LeFort I osteotomy involves horizontal cut through maxilla above tooth roots, separating maxilla from skull base. Precise impaction (upward movement) of maxilla is achieved through fixation at level required to establish normal incisor-to-molar vertical relationship and ideal gingival display. The procedure typically impacts maxilla 3-8mm depending on skeletal deformity severity.
 
-This comprehensive surgical procedure addresses not only gingival display but also other vertical maxillary excess manifestations: anterior open bite, long lower facial height, and obtuse nasolabial angle. Treatment requires orthodontic therapy before and after surgery (typically 18-24 months total duration), periodic follow-up, and acceptance of potential complications (neurosensory changes, relapse).
+This full surgical procedure addresses not only gingival display but also other vertical maxillary excess manifestations: anterior open bite, long lower facial height, and obtuse nasolabial angle. Treatment requires orthodontic therapy before and after surgery (typically 18-24 months total duration), periodic follow-up, and acceptance of potential problems (neurosensory changes, relapse).
 
-Alternatives to surgical impaction for mild cases include transosteal distraction osteogenesis—gradual bone repositioning through traction force applied to distraction devices. Superior results occur with slower distraction rate (1mm daily after 5-7 day latency period) over 2-3 week duration.
+Other options to surgical impaction for mild cases include transosteal distraction osteogenesis—gradual bone repositioning through traction force applied to distraction devices. Superior results occur with slower distraction rate (1mm daily after 5-7 day latency period) over 2-3 week duration.
 
 ## Short Upper Lip: Surgical Repositioning
 
-Short upper lip (inadequate length) causing excessive gingival display may be treated surgically through lip lengthening or repositioning procedures. Surgical options include: lip advancement (moving lip mucosa superiorly), V-Y flap advancement increasing lip-to-teeth distance, or limited surgical modification of buccal frenum reducing lip tension.
+Short upper lip (inadequate length) causing excessive gingival display may be treated surgically through lip lengthening or repositioning procedures. Surgical options include: lip advancement (moving lip mucosa superiorly), V-Y flap advancement increasing lip-to-teeth distance, or limited surgical change of buccal frenum reducing lip tension.
 
 Limited frenum surgery addresses excessive frenum thickness and short frenum limiting lip elevation. Frenectomy or frenum repositioning lowers frenum insertion, allowing greater lip mobility and elevation potential. This minor procedure shows variable efficacy depending on frenum contribution to lip restriction.
 
@@ -138,19 +138,19 @@ More definitive short lip correction requires myotomy of levator muscles combine
 
 Hypermobile upper lip (excessive vertical movement during smiling) responds excellently to botulinum toxin injection into levator muscles elevating the lip. Injection sites target: levator labii superioris, levator labii superioris alaeque nasi (LLSAN), and zygomaticus major muscles controlling lip elevation.
 
-Standard doses range 2.5-5 units per muscle group per side (total 5-15 units bilateral), titrated based on patient anatomy and desired effect. Higher doses reduce lip elevation more dramatically, potentially overcorrecting to unnatural flattened smile. Lower doses provide subtle reduction maintaining natural expression. Most injectors employ 4-5 units per side of LLSAN as starting point, adjusting based on response.
+Standard doses range 2.5-5 units per muscle group per side (total 5-15 units bilateral), titrated based on patient anatomy and desired effect. Higher doses reduce lip elevation more dramatically, potentially overcorrecting to unnatural flattened smile. Lower doses provide subtle reduction keeping natural expression. Most injectors employ 4-5 units per side of LLSAN as starting point, adjusting based on response.
 
-Onset of effect occurs 3-7 days post-injection, with maximal effect at 2-3 weeks. Duration averages 3-4 months, requiring periodic re-injection for maintained effect. Patients achieve reversibility if dissatisfied—effects dissipate without intervention.
+Onset of effect occurs 3-7 days post-injection, with maximal effect at 2-3 weeks. Duration averages 3-4 months, requiring periodic re-injection for maintained effect. Patients achieve reversibility if dissatisfied—effects dissipate without treatment.
 
-Complications remain minimal but include: bruising at injection sites (2-5% incidence), temporary numbness or paresthesia, asymmetric smile if injection technique inadequate, and rare lip weakness if higher doses inadvertently diffuse to orbicularis oris. Careful injection technique and conservative dosing minimize complications.
+Problems remain minimal but include: bruising at injection sites (2-5% incidence), temporary numbness or paresthesia, asymmetric smile if injection technique inadequate, and rare lip weakness if higher doses inadvertently diffuse to orbicularis oris. Careful injection technique and conservative dosing minimize problems.
 
-Cost considerations include: $300-600 per treatment (3-4 month duration), requiring 3-4 treatments annually for sustained effect—approximately $1200-2400 yearly. This substantially exceeds surgical alternatives though avoids surgical morbidity and recovery time.
+Cost factors include: $300-600 per treatment (3-4 month duration), requiring 3-4 treatments annually for sustained effect—about $1200-2400 yearly. This greatly exceeds surgical other options though avoids surgical morbidity and recovery time.
 
 ## Combination Therapy Approaches
 
-Most cases benefit from combination approaches addressing multiple etiologic factors simultaneously. Patients with altered passive eruption plus hypermobile lip require both crown lengthening and Botox for optimal results. Vertical maxillary excess with short lip may require orthognathic impaction combined with Botox injection or lip advancement.
+Most cases benefit from mix approaches addressing multiple etiologic factors simultaneously. Patients with altered passive eruption plus hypermobile lip require both crown lengthening and Botox for optimal results. Vertical maxillary excess with short lip may require orthognathic impaction combined with Botox injection or lip advancement.
 
-Treatment sequencing determines outcomes. Minor gingival display correction through Botox injection first allows assessment of goal achievement before invasive surgical intervention. If Botox alone insufficient after 2-3 treatment cycles, surgical correction proceeds with benefit of clarified goals and realistic expectation adjustment.
+Treatment sequencing determines outcomes. Minor gingival display correction through Botox injection first allows assessment of goal achievement before invasive surgical treatment. If Botox alone not enough after 2-3 treatment cycles, surgical correction proceeds with benefit of clarified goals and realistic expectation adjustment.
 
 Alternatively, surgical correction precedes Botox injection when significant skeletal or dental correction is required. Definitive surgical repositioning establishes baseline gingival display, then Botox fine-tunes result if minor hypermobility persists.
 
@@ -162,7 +162,7 @@ TAD placement in palatal mucosa with force application to anterior teeth achieve
 
 ## Digital Treatment Planning and Smile Design
 
-Digital smile design utilizing patient photographs and digitally-modified images improves patient communication and goal alignment. Software tools enable simulation of proposed gingival display modifications, tooth shade changes, and smile arc adjustments. Showing patients digitally-modified images with their proposed gingival display during smile consultation improves realistic expectation establishment.
+Digital smile design utilizing patient photographs and digitally-modified images improves patient talking and goal alignment. Software tools enable simulation of proposed gingival display changes, tooth shade changes, and smile arc adjustments. Showing patients digitally-modified images with their proposed gingival display during smile consultation improves realistic expectation establishment.
 
 Three-dimensional CBCT-based treatment planning enables precise surgical planning for crown lengthening, orthognathic correction, or distraction osteogenesis. Virtual surgical repositioning simulation allows accurate bone cutting guides and fixation planning.
 
@@ -173,7 +173,7 @@ Related reading: [Risk and Concerns with Teeth Bleaching Safety](/article/risk-a
 
 A gummy smile showing more than 3-4mm of gum when smiling affects about 10-15% of people and is one of the most common aesthetic complaints. Altered passive eruption (12% of cases) responds excellently to periodontal crown lengthening with bone recontouring, providing permanent improvement. Vertical maxillary excess (20% of cases) requires orthognathic surgery (LeFort I impaction) for correction, with orthodontics before and after surgery. Short upper lip (15% of cases) is difficult to surgically correct with variable results. Hypermobile lip (35% of cases)—the most common cause—responds excellently to botulinum toxin injection (2.5-5 units per side) with effects lasting 3-4 months.
 
-Most gummy smiles result from multiple contributing factors and benefit from combination treatment. Starting with less invasive treatments (Botox) and adding surgical correction as needed provides a staged approach allowing adjustment of goals. Digital smile design improves patient communication and expectation setting. Treatment selection should match individual anatomy, aesthetic goals, willingness to accept ongoing maintenance (Botox), and acceptance of surgical recovery and cost. Understanding your specific cause guides appropriate treatment recommendation and realistic outcomes.
+Most gummy smiles result from multiple contributing factors and benefit from mix treatment. Starting with less invasive treatments (Botox) and adding surgical correction as needed provides a staged approach allowing adjustment of goals. Digital smile design improves patient talking and expectation setting. Treatment selection should match individual anatomy, aesthetic goals, willingness to accept ongoing upkeep (Botox), and acceptance of surgical recovery and cost. Understanding your specific cause guides appropriate treatment advice and realistic outcomes.
 
 **Vertical Maxillary Excess (20%)**: Increased anterior facial height relative to posterior dimensions creates skeletal discrepancy. Anterior maxilla extends vertically excessively, positioning incisor edge apically and increasing gingival display without dentoalveolar abnormality. CBCT confirms anterior maxillary vertical hypermobility and excessive intergingival distance (measured from incisor edge to molar cusp tip apex, typically 48-52mm in normal occlusion; VME exceeds 52-58mm).
 

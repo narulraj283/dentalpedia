@@ -120,7 +120,6 @@ Related reading: [Why Sticky Foods Cause Cavities: What Sticks to Your](/article
 Fluoride helps prevent cavities. Potassium nitrate reduces sensitivity. Talk to your dentist about how this applies to your situation. Some products actually do something meaningful for your teeth and gums, while others basically just make your.
 
 
-
 > **Key Takeaway:** Not all mouthwash is created equal. Some products actually do something meaningful for your teeth and gums, while others basically just make your.
 
 ## Related Articles

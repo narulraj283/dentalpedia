@@ -84,9 +84,7 @@ Your dentist may recommend additional steps specific to your situation, such as 
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding smoking and gum disease - why quitting matters helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Smoking cessation represents one of the most impactful interventions available for improving periodontal health, with improvements beginning within days of cessation and continuing over weeks to months. Rapid restoration of vascular function, gradual recovery of immune defenses, and improvement in tissue healing capacity combine to produce substantially better periodontal outcomes. These physiological improvements are most dramatic when combined with active periodontal therapy, allowing practitioners to achieve superior treatment outcomes in patients who quit smoking. Understanding the timeline and mechanisms of these improvements provides dental practitioners with powerful tools for motivating smoking cessation through concrete discussions of improved oral health outcomes and reduced treatment burden.
 
 > **Key Takeaway:** Smoking is the primary modifiable risk factor for severe gum disease. Quitting smoking allows your immune system to recover, reduces inflammation, improves blood flow, and gives your gums the chance to heal. If you're a smoker with gum disease, quitting smoking is the single most important step you can take to preserve your teeth and improve your oral health.
 

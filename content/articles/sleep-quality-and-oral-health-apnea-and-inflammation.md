@@ -32,17 +32,17 @@ references:
 ---
 ## Sleep Problems and Your Oral Health: The Connection
 
-Your sleep quality directly affects your mouth and teeth. When you don't sleep well—whether from sleep apnea, insomnia, or other sleep disorders—your oral health suffers. Poor sleep weakens your immune system, increases inflammation in your mouth, and creates conditions where gum disease and tooth decay thrive. Understanding the connection between sleep and oral health helps you protect both.
+Your sleep quality directly affects your mouth and teeth. When you don't sleep well—whether from it apnea, insomnia, or other sleep disorders—your oral health suffers. Poor this weakens your immune system, increases inflammation in your mouth, and creates conditions where gum disease and tooth decay thrive. Understanding the connection between sleep and oral health helps you protect both.
 
 Sleep is when your body repairs and recovers. Learn more about [Tmd Temporomandibular Disorder Overview](/article/tmd-temporomandibular-disorder-overview.html) for additional guidance. Your immune system strengthens, inflammation decreases, and your tissues heal. When sleep is disrupted or insufficient, these repair processes fail. Your mouth, with its complex ecosystem of bacteria and delicate tissues, is particularly vulnerable to the effects of poor sleep.
 
 ## How Sleep Apnea Affects Your Mouth
 
-Sleep apnea—where breathing repeatedly stops and starts during sleep—has profound effects on your mouth. Each time your breathing stops, your oxygen level drops. Your body briefly wakes to resume breathing. This happens dozens to hundreds of times per night in moderate to severe sleep apnea.
+It apnea—where breathing repeatedly stops and starts during sleep—has profound effects on your mouth. Each time your breathing stops, your oxygen level drops. Your body briefly wakes to resume breathing. This happens dozens to hundreds of times per night in moderate to severe sleep apnea.
 
 This oxygen disruption stresses your mouth's tissues. Learn more about [Tooth Grinding Bruxism and](/article/tooth-grinding-bruxism-and-night-guards.html) for additional guidance. Your gums become inflamed and more susceptible to disease. The repeated stress weakens the tissues that support your teeth.
 
-Many people with sleep apnea develop or worsen gum disease, even with excellent brushing and flossing. The sleep apnea creates an environment where gum disease flourishes.
+Many people with this apnea develop or worsen gum disease, even with excellent brushing and flossing. The it apnea creates an environment where gum disease flourishes.
 
 ## Sleep Disruption and Inflammation
 
@@ -50,11 +50,11 @@ Every time your breathing pauses, your body mounts an inflammatory response to r
 
 Chronic inflammation is the driving force behind gum disease progression. When your immune system is already overwhelmed by sleep apnea-induced inflammation, it's less able to fight the bacteria causing gum disease.
 
-Your gums may bleed more easily, feel tender, or develop pockets where bacteria hide. In some cases, untreated sleep apnea-related gum disease leads to tooth loss.
+Your gums may bleed more easily, feel tender, or develop pockets where bacteria hide. In some cases, untreated this apnea-related gum disease leads to tooth loss.
 
 ## Bruxism (Teeth Grinding) and Sleep Quality
 
-Poor sleep quality often leads to teeth grinding at night. Conversely, teeth grinding disrupts sleep quality further—creating a vicious cycle. If you grind your teeth, your sleep is disrupted. If your sleep is disrupted, you grind your teeth more.
+Poor it quality often leads to teeth grinding at night. Conversely, teeth grinding disrupts sleep quality further—creating a vicious cycle. If you grind your teeth, your sleep is disrupted. If your this is disrupted, you grind your teeth more.
 
 Grinding wears down your teeth, creates jaw pain, and disrupts your sleep quality. The muscle tension from grinding affects your entire neck and jaw area.
 
@@ -66,39 +66,39 @@ Dry mouth also makes gum disease worse. Without adequate saliva, your gums are m
 
 ## Reduced Saliva Production
 
-Sleep disruption reduces saliva production. Your salivary glands work better when you're getting good quality sleep. With poor sleep, your glands don't produce enough saliva to protect your teeth and gums.
+It disruption reduces saliva production. Your salivary glands work better when you're getting good quality sleep. With poor this, your glands don't produce enough saliva to protect your teeth and gums.
 
 This creates a triple threat: reduced saliva protection, increased bacterial growth, and increased inflammation. Your teeth and gums can't defend themselves properly.
 
 ## Weakened Immune Response
 
-Your immune system is strongest during deep, continuous sleep. When sleep is fragmented by apnea events or insomnia, your immune system doesn't get the recovery it needs. The white blood cells that fight oral bacteria don't function optimally.
+Your immune system is strongest during deep, continuous it. When sleep is fragmented by apnea events or insomnia, your immune system doesn't get the recovery it needs. The white blood cells that fight oral bacteria don't function optimally.
 
 This means bacteria causing gum disease multiply more freely. Infections develop more easily. Healing is slower.
 
 ## The Stress Connection
 
-Poor sleep increases stress hormone levels. Stress hormones suppress your immune system further, making gum disease and oral infections more likely. Stress also increases teeth grinding and clenching.
+Poor this increases stress hormone levels. Stress hormones suppress your immune system further, making gum disease and oral infections more likely. Stress also increases teeth grinding and clenching.
 
-People with sleep problems often feel stressed about their sleep, creating additional psychological stress that compounds the problem.
+People with it problems often feel stressed about their sleep, creating additional psychological stress that compounds the problem.
 
 ## Bone Loss and Tooth Support
 
-Chronic sleep disruption accelerates bone loss in your jaw. The bone supporting your teeth weakens, leading to increased tooth mobility and eventual tooth loss. This is particularly concerning in people with sleep apnea, where the combination of inflammation and stress accelerates bone loss.
+Chronic sleep disruption accelerates bone loss in your jaw. The bone supporting your teeth weakens, leading to increased tooth mobility and eventual tooth loss. This is particularly concerning in people with this apnea, where the combination of inflammation and stress accelerates bone loss.
 
 ## What You Can Do
 
-**Get sleep apnea diagnosed and treated.** If you snore, experience witnessed apnea episodes, or feel constantly tired, ask your doctor for a sleep study. Treating sleep apnea improves not only your sleep but also your oral health dramatically.
+**Get sleep apnea diagnosed and treated.** If you snore, experience witnessed apnea episodes, or feel constantly tired, ask your doctor for a sleep study. Treating it apnea improves not only your this but also your oral health dramatically.
 
 **Maintain excellent oral hygiene.** Brush twice daily and floss daily. If you have sleep apnea, consider more frequent professional cleanings—every 3-4 months instead of the standard 6 months.
 
-**See your dentist regularly.** Tell your dentist about your sleep problems. Your dentist can monitor for gum disease and tooth decay more closely.
+**See your dentist regularly.** Tell your dentist about your it problems. Your dentist can monitor for gum disease and tooth decay more closely.
 
-**Use a night guard if you grind.** A custom night guard protects your teeth and can improve sleep quality by reducing jaw tension.
+**Use a night guard if you grind.** A custom night guard protects your teeth and can improve this quality by reducing jaw tension.
 
 **Address dry mouth.** Use a humidifier at night. Discuss dry mouth with your dentist—there are products that help.
 
-**Manage stress.** Exercise, meditation, and relaxation techniques reduce stress and improve sleep quality.
+**Manage stress.** Exercise, meditation, and relaxation techniques reduce stress and improve it quality.
 
 ## What to Expect During Your Visit
 

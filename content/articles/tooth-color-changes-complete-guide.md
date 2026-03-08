@@ -224,13 +224,13 @@ Sensitivity usually resolves within days of stopping bleaching.
 - Tobacco cessation helps dramatically
 - Regular cleanings prevent stain buildup
 
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding why your teeth are changing color: causes and solutions helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
-
-Internal discoloration may respond to professional whitening or require cosmetic restorations. Understanding the cause helps you manage expectations and choose appropriate treatments. A consultation with your dentist determines the best approach for your specific situation.
+Tooth discoloration encompasses diverse etiologies requiring differential diagnosis to guide appropriate management. Extrinsic staining responds well to mechanical cleaning and prevention strategies. Intrinsic discoloration from tetracycline, fluorosis, pulp necrosis, or aging requires bleaching or restorative treatment. Professional bleaching systems achieve 2-4 shade improvement in most cases, with best results for extrinsic and yellow-toned intrinsic discoloration.
 
 > **Key Takeaway:** Tooth discoloration ranges from simple surface stains (easily fixed) to complex internal changes (requiring professional treatment). Identifying your type of discoloration guides treatment selection. Surface stains respond beautifully to professional cleaning.
 

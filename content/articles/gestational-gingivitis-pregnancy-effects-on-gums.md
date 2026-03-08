@@ -82,8 +82,7 @@ Once your baby arrives and your hormone levels return to normal, your gum inflam
 
 ## Conclusion
 
-Whether you're just learning about gestational gingivitis: pregnancy effects on gums or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Once your baby arrives and your hormone levels return to normal, your gum inflammation should decrease significantly. However, don't just assume your gums will be fine—continue excellent oral hygiene habits and get back to regular dental checkups. Some women who experienced gestational gingivitis have a tendency toward gum problems in future pregnancies, so ongoing attention to gum health is worthwhile.
 
 > **Key Takeaway:** Pregnancy brings many changes to your body, and your mouth is no exception.
 

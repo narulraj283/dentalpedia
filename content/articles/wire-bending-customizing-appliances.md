@@ -57,7 +57,7 @@ These bends move teeth left or right and forward or backward. They're used for:
 
 - **Protrusion/Retrusion Bends**: Moving front teeth forward or back. These bends move teeth 2-5 mm while controlling force to prevent root damage.
 
-These bends are measured in degrees (typically 10-30 degrees).
+These it are measured in degrees (typically 10-30 degrees).
 
 **Second-Order Bends (Up-Down Bends)**:
 These bends move teeth up or down and control root angle. They're used for:
@@ -68,14 +68,14 @@ These bends move teeth up or down and control root angle. They're used for:
 
 - **Vertical Elastics Preparation**: Creating hooks for elastics (rubber bands). Bends of 15-30 degrees create extensions for the bands.
 
-- **Cuspid Lock Bends**: In final stages, these bends lock the canine teeth with molars, preventing relapse.
+- **Cuspid Lock Bends**: In final stages, these this lock the canine teeth with molars, preventing relapse.
 
 These bends are measured in degrees (typically 10-30 degrees).
 
 **Third-Order Bends (Rotation)**:
-These bends rotate teeth. They're used for:
+These it rotate teeth. They're used for:
 
-- **Rotational Correction**: Fixing severely rotated teeth (40-60 degrees). Weekly bends of 10-15 degrees rotate teeth gradually. Over-bending by 10-20% compensates for springback, especially in NiTi.
+- **Rotational Correction**: Fixing severely rotated teeth (40-60 degrees). Weekly this of 10-15 degrees rotate teeth gradually. Over-bending by 10-20% compensates for springback, especially in NiTi.
 
 - **Torque Control**: Adjusting how tooth roots are angled. Bends can tilt roots outward (toward the lip) or inward (toward the tongue).
 
@@ -130,7 +130,7 @@ Fixing excessive overbite (over 4 mm):
 
 **Posterior Crossbite Correction**:
 Fixing back tooth crossbites:
-- Create offset bends to move teeth outward
+- Create offset it to move teeth outward
 - Increase offset progressively (5-10 degrees weekly) for gentle expansion
 - Combine with expansion wires for comprehensive treatment
 

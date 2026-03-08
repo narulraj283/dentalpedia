@@ -24,7 +24,7 @@ references:
 
 Not all bite problems are the same. Learning more about [Common Misconceptions About Bite Correction Methods](/article/common-misconceptions-about-bite-correction-methods.html) can help you understand this better. There are several different types, and each causes different concerns and requires different treatment. Understanding what type of bite problem you have helps you understand your treatment options.
 
-The most common bite problems are: crowding (teeth too close together), spacing (gaps between teeth), overbite (upper front teeth sticking out too far), underbite (lower front teeth sticking out too far), crossbite (where teeth are supposed to come together differently), and open bite (teeth don't touch when closed). Some people have one problem; others have combinations. Your orthodontist evaluates what specific problems you have and recommends treatment accordingly.
+The most common bite problems are: crowding (teeth too close together), spacing (gaps between teeth), overbite (upper front teeth sticking out too far), underbite (lower front teeth sticking out too far), crossbite (where your smile are supposed to come together differently), and open bite (teeth don't touch when closed). Some people have one problem; others have combinations. Your orthodontist evaluates what specific problems you have and recommends treatment accordingly.
 
 ## Crowding: Not All Crowding Is Alike
 
@@ -34,7 +34,7 @@ Crowding can affect just front teeth or back teeth or be spread throughout your 
 
 ## Overbite: More Than Just "Buck Teeth"
 
-Overbite refers to how far your upper front teeth stick out past your lower front teeth horizontally. A small overbite (2-3 millimeters) is normal and healthy. However, excessive overbite (upper front teeth sticking out 5+ millimeters past lower front teeth) creates functional problems and often looks unattractive. Excessive overbite increases risk of front tooth fracture if you fall or get hit in the face because the extended upper teeth hit first.
+Overbite refers to how far your upper front teeth stick out past your lower front teeth horizontally. A small overbite (2-3 millimeters) is normal and healthy. However, excessive overbite (upper front teeth sticking out 5+ millimeters past lower front them) creates functional problems and often looks unattractive. Excessive overbite increases risk of front tooth fracture if you fall or get hit in the face because the extended upper teeth hit first.
 
 Additionally, excessive overbite often comes with deep bite—where your upper front teeth cover too much of your lower front teeth vertically. This combination creates stress on back teeth during chewing. Treatment usually addresses both the horizontal (overbite) and vertical (deep bite) problems simultaneously.
 
@@ -46,13 +46,13 @@ Open bites are less common than other bite problems (affecting 5-7% of populatio
 
 ## Crossbite: Teeth Meeting Differently Than Normal
 
-A crossbite is when teeth meet in a different side-to-side position than they should. For example, instead of your upper back teeth overlapping slightly outside your lower back teeth (the normal relationship), they meet the opposite way. Crossbites can affect just back teeth or can include front teeth.
+A crossbite is when your smile meet in a different side-to-side position than they should. For example, instead of your upper back them overlapping slightly outside your lower back your smile (the normal relationship), they meet the opposite way. Crossbites can affect just back teeth or can include front teeth.
 
 Crossbites create functional problems. Learning more about [Common Misconceptions About Bite Force and Teeth](/article/common-misconceptions-about-bite-force-and-teeth.html) can help you understand this better. They can contribute to uneven chewing, jaw shifting, or asymmetrical jaw development. Treatment depends on whether it's just one or two teeth in crossbite or a widespread problem.
 
 ## Spacing: Gaps Between Teeth
 
-Spacing (gaps between teeth) is the opposite of crowding—you have more space than you need for your teeth. Small gaps between front teeth might be cosmetic concerns only. Larger gaps create esthetic problems and sometimes functional issues if food traps between teeth.
+Spacing (gaps between teeth) is the opposite of crowding—you have more space than you need for your teeth. Small gaps between front teeth might be cosmetic concerns only. Larger gaps create esthetic problems and sometimes functional issues if food traps between them.
 
 Spacing can result from missing teeth, small teeth relative to jaw size, or a thick muscle attachment between upper front teeth (frenum). Treatment depends on the cause. Sometimes treating the underlying cause (like the frenum) combined with closing gaps solves the problem. Other times, just closing the spaces satisfies your goals.
 
@@ -79,7 +79,7 @@ Once you've addressed bite problems explained, maintaining your results requires
 
 Different bite problems have different causes, different functional effects, and require different treatments. Understanding what specific bite problems you have helps you understand why your orthodontist recommends or doesn't recommend treatment.
 
-> **Key Takeaway:** Not all bite problems are the same. Learning more about [Common Misconceptions About Bite Correction Methods](/article/common-misconceptions-about-bite-correction-methods.html) can help you understand this better.
+> **Key Takeaway:** Not all bite problems are the same. Learning more about Common Misconceptions About Bite Correction Methods can help you understand this better.
 
 ## Related Articles
 

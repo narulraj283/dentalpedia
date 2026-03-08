@@ -168,8 +168,12 @@ Related reading: [Risks and Concerns with Complex Tooth Extractions](/article/ri
 
 ## Conclusion
 
-Whether you're just learning about post-operative instructions: what patients need to know or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Your dentist will call 24 hours after surgery to check on swelling and pain. At this visit, your dentist checks:
+- Blood clot status (is it stable or showing signs of dry socket?)
+- Infection signs (fever, pus, excess swelling)
+- Healing tissue appearance
+- Suture removal (usually painless)
+- Pain control adequacy Post-operative instructions aren't suggestions—they're based on how healing works biologically.
 
 > **Key Takeaway:** Following your dentist's post-operative instructions is as important as the surgery itself.
 

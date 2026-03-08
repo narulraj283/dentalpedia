@@ -159,9 +159,7 @@ When your retraining is successful:
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding swallowing exercises that actually work for tongue thrust helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Myofunctional therapy represents an evidence-based behavioral approach achieving 75-90% success in normalizing abnormal swallowing patterns and tongue thrust. Therapy involves progressive exercises targeting tongue positioning, muscle strength, and coordinated deglutition over 6-12 months. Success depends on patient cooperation, adequate exercise adherence, and systematic progression through awareness, strengthening, functional retraining, and stabilization phases. When coordinated with orthodontic treatment addressing anterior open bite, myofunctional therapy dramatically improves long-term treatment stability (70-85% compared to 40-60% without therapy).
 
 > **Key Takeaway:** Retraining your swallowing isn't quick or magic, but it works. The exercises are simple and can be done anywhere. Success requires consistency—think of it like physical therapy for your mouth. Stick with the program, practice daily, and you'll develop a new habit that will last your whole life.
 

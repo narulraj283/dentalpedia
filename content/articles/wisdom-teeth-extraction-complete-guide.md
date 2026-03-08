@@ -91,6 +91,8 @@ Pain medication is prescribed: ibuprofen (400-600 mg every 6-8 hours) or acetami
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
+Most people recover from wisdom teeth removal within one to two weeks. The first three days are the hardest, with the most swelling and soreness. Ice packs, soft foods, and pain medicine help you get through this phase.
+
 ## Conclusion
 
 Wisdom tooth extraction is a common procedure that, when properly planned and executed, has a high success rate with minimal complications. Your surgeon evaluates your medical history, assesses surgical complexity, selects appropriate anesthesia, and uses meticulous surgical technique. Comprehensive postoperative care—activity restrictions, pain management, and proper wound hygiene—promotes healing. Complications (dry socket at 1-5%, temporary numbness at 0.4-3.8%, permanent numbness at 0.1-0.5%) are possible but uncommon with proper technique.

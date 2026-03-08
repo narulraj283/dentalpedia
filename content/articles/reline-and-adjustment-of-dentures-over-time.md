@@ -48,7 +48,7 @@ Your jawbone shrinks because natural teeth provided constant stimulus to the bon
 
 ## Signs That Your Dentures Need a Reline
 
-How do you know when it's time for a denture reline? The most obvious sign is that your dentures are becoming loose. If your dentures slide around during eating or talking, or if they feel like they're lifting when you bite down, that's a clear signal your jawbone has shrunk. Other warning signs include visible gaps between your dentures and the roof of your mouth (for upper dentures), areas where your dentures rub and cause sore spots, or if you need to use extra denture adhesive just to keep them in place during the day.
+How do you know when it's time for a denture reline? The most obvious sign is that your dentures are becoming loose. If your it slide around during eating or talking, or if they feel like they're lifting when you bite down, that's a clear signal your jawbone has shrunk. Other warning signs include visible gaps between your dentures and the roof of your mouth (for upper dentures), areas where your dentures rub and cause sore spots, or if you need to use extra denture adhesive just to keep them in place during the day.
 
 Your dentist will check your dentures at every appointment and can tell when the fit is becoming loose. You might not need a reline yet if your dentures still have good retention, even if your bone has shrunk. But if your dentures are moving around or causing discomfort, it's time to schedule reline treatment. Most people need their first reline about 3-6 months after getting dentures (when bone shrinkage is fastest), and then every 12-24 months after that as shrinkage slows down.
 

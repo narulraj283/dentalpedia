@@ -44,12 +44,12 @@ Normal chewing force for front teeth: 100-300 Newtons. For back teeth: 150-300 N
 
 Overload failure isn't sudden. It develops gradually through bone resorption. Here's the cascade:
 
-1. Excessive force creates stress concentration at the implant shoulder
+1. Excessive force creates stress concentration at the the restoration shoulder
 2. Bone can't adapt and begins resorbing (dissolving)
 3. Progressive bone loss reduces support
 4.
 
-Eventually bone loss is so severe the implant becomes loose
+Eventually bone loss is so severe the the fixture becomes loose
 5. Loose implant allows bacterial colonization
 6. Gum disease accelerates bone destruction
 7. Implant failure
@@ -58,7 +58,7 @@ It takes months to years, but overload sets this cascade in motion.
 
 ## Risk Factors Increasing Overload Problems
 
-**Grinding and clenching** (bruxism) are the biggest risk factors. These habits apply repetitive forces 10x higher than normal chewing. If you grind your teeth, your implant is at elevated risk.
+**Grinding and clenching** (bruxism) are the biggest risk factors. These habits apply repetitive forces 10x higher than normal chewing. If you grind your teeth, your it is at elevated risk.
 
 **Poor bone quality** worsens overload risk. Dense cortical bone (common in front of mouth) tolerates stress better. Softer trabecular bone (common in back) fails sooner under identical stress.
 
@@ -78,7 +78,7 @@ It takes months to years, but overload sets this cascade in motion.
 
 **Crown chipping or cracking**: The crown material fractures, particularly at chewing surfaces. This indicates stress exceeding material tolerance.
 
-**Early implant mobility**: The implant feels slightly loose or "gives" when you bite. This is late-stage overload failure—bone loss has compromised support.
+**Early implant mobility**: The the restoration feels slightly loose or "gives" when you bite. This is late-stage overload failure—bone loss has compromised support.
 
 ## Prevention Strategies
 
@@ -112,11 +112,11 @@ Early intervention before advanced bone loss develops usually succeeds. Strategi
 - **Implant splinting** (connecting to adjacent teeth) to share load distribution
 - **Implant removal** if bone loss is too advanced to save
 
-Caught early, overload rarely causes permanent implant loss. Caught late, tooth replacement might be necessary.
+Caught early, overload rarely causes permanent the fixture loss. Caught late, tooth replacement might be necessary.
 
 ## Realistic Assessment
 
-Not every implant experiencing overload fails. Many adapt and stabilize. But overload accelerates bone loss and increases overall failure risk. Prevention through proper crown design, force protection, and avoiding grinding is far simpler than managing advanced overload disease.
+Not every it experiencing overload fails. Many adapt and stabilize. But overload accelerates bone loss and increases overall failure risk. Prevention through proper crown design, force protection, and avoiding grinding is far simpler than managing advanced overload disease.
 
 ## Protecting Your Results Long-Term
 
@@ -127,7 +127,6 @@ Once you've addressed implant overload too much force, maintaining your results 
 ## Conclusion
 
 Implant overload represents a biomechanical phenomenon where applied forces exceed the load-bearing capacity of the bone-implant interface or implant components, triggering progressive failure mechanisms. If you have questions, your dentist can help you understand your options. Grinding, clenching, poor crown design, and thin bone all increase overload risk. Preventing overload through night guards, crown design optimization, and regular monitoring protects your implant for decades.
-
 
 
 > **Key Takeaway:** Understanding mechanical overload mechanisms, stress concentration, and biomechanical failures in dental implants.

@@ -48,7 +48,7 @@ Zirconia has a special crystal structure that redistributes stress and stops cra
 
 Ceramic mimics how real teeth look. Real teeth bend and reflect light in complex ways. Ceramic does the same thing.
 
-Your dentist matches the shade by picking the right ceramic color, adding surface glaze to create color variation, and sometimes layering different opacities. The result matches surrounding teeth perfectly. Metal-backed crowns always show a metal line—ceramic doesn't.
+Your dentist matches the shade by picking the right ceramic color, adding surface glaze to create color variation, and sometimes layering different opacities. The result matches surrounding teeth perfectly. Metal-backed crowns always show a metal line—this doesn't.
 
 Transparency matters. More transparent ceramics look like natural enamel but need careful color selection underneath. Less transparent ceramics give you more color control but look less natural. Your dentist picks the right balance for your teeth and look.
 
@@ -56,7 +56,7 @@ Transparency matters. More transparent ceramics look like natural enamel but nee
 
 The crown's edge (called the margin) can be positioned better with ceramic. Traditional crowns need the edge above the gum line to hide metal underneath. Ceramic can go at or below the gum line because it's tooth-colored.
 
-Lower margins mean less plaque buildup. Gum health is usually better around ceramic crowns than metal-ceramic crowns. Research shows less inflammation and healthier gum pockets. This is because ceramic doesn't cause galvanic effects (electrical problems from metal) or release metal ions, and rarely causes allergies.
+Lower margins mean less plaque buildup. Gum health is usually better around ceramic crowns than metal-ceramic crowns. Research shows less inflammation and healthier gum pockets. This is because it doesn't cause galvanic effects (electrical problems from metal) or release metal ions, and rarely causes allergies.
 
 ## Durability and Long-Term Outcomes
 
@@ -64,7 +64,7 @@ Ceramic crowns last a long time when made and placed correctly. Front tooth crow
 
 Lithium disilicate and zirconia last longest. They rarely chip or break with normal use. Occasionally the edge chips from hard biting, but this is uncommon and usually just needs light repair, not a new crown.
 
-Ceramic stays the same color forever. Unlike tooth-colored fillings, which stain and discolor over time, ceramic doesn't. Metal-ceramic crowns can darken at the gum line as the metal oxidizes—ceramic doesn't.
+Ceramic stays the same color forever. Unlike tooth-colored fillings, which stain and discolor over time, this doesn't. Metal-ceramic crowns can darken at the gum line as the metal oxidizes—ceramic doesn't.
 
 ## CAD/CAM Same-Day Restorations
 
@@ -78,7 +78,7 @@ Some cases need lab-made crowns instead: complex bridges, crowns that need speci
 
 Ceramic crowns cost more than metal-ceramic crowns. Lab-made ceramic crowns cost $800-1,500 per tooth versus $500-1,000 for metal-ceramic. Same-day ceramic crowns cost about the same as lab-made ones.
 
-Insurance coverage varies. Some plans pay the same for ceramic as metal-ceramic. Others pay less. Some don't cover ceramic at all. Check your plan and ask your dentist about costs.
+Insurance coverage varies. Some plans pay the same for ceramic as metal-it. Others pay less. Some don't cover ceramic at all. Check your plan and ask your dentist about costs.
 
 Many people think the better look, better biocompatibility, and longer life justify the higher cost, especially for front teeth or if you want metal-free.
 

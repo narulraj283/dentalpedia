@@ -112,7 +112,6 @@ Related reading: [Recovery After Extraction Complete Guide](/article/recovery-af
 Evidence-based pain management in oral surgery combines preoperative NSAIDs and corticosteroids with perioperative local anesthetic strategies and judicious postoperative opioid use in a multimodal approach. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** Evidence-based pharmacological and non-pharmacological approaches to minimize acute and postoperative pain following dental and surgical procedures.
 
 ## Related Articles

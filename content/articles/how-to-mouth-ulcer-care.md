@@ -100,8 +100,7 @@ For stubborn, painful sores that keep coming back, laser therapy is an emerging 
 
 ## Conclusion
 
-Whether you're just learning about oral ulcer classification, management protocols or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. For stubborn, painful sores that keep coming back, laser therapy is an emerging option. A special low-level laser applied to the ulcer can reduce pain and promote faster healing in about half of patients treated. This technique shows promise in research studies, though it's not yet widely available and costs more than traditional treatments.
 
 > **Key Takeaway:** Mouth ulcers are a common problem that most people experience at some point in their lives.
 

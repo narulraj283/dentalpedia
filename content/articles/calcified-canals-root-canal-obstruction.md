@@ -41,7 +41,7 @@ This happens in about 8-32% of adults, with increased occurrence in older patien
 
 Several situations trigger calcification. Learning more about [Root Canal Therapy Complete Pulp Removal](/article/root-canal-therapy-complete-pulp-removal.html) can help you understand this better. A previous injury to your tooth (like a blow to the mouth) can cause the tooth to begin calcifying internally as a protective response.
 
-Sometimes a tooth that has been dead for years gradually becomes mineralized. Certain medical conditions and medications can also increase calcification risk. Age itself plays a role—as you get older, tooth calcification becomes more common.
+Sometimes a tooth that has been dead for years gradually becomes mineralized. Certain medical conditions and medicines can also increase calcification risk. Age itself plays a role—as you get older, tooth calcification becomes more common.
 
 The good news: calcified canals don't necessarily mean your tooth is doomed. Endodontists have specialized techniques for treating these teeth, successfully saving about 60-85% of teeth with significant calcification.
 
@@ -53,9 +53,9 @@ Advanced 3D imaging (CBCT scans) provides much better visualization than traditi
 
 ## Clinical Signs and Symptoms
 
-Calcified teeth may have no symptoms—you might only discover the calcification when an X-ray is taken for another reason. Sometimes calcified teeth appear darker or discolored compared to surrounding teeth. Occasionally you might notice the tooth responds differently to temperature than neighboring teeth.
+Calcified teeth may have no symptoms—you might only discover the calcification when an X-ray is taken for another reason. Sometimes calcified teeth appear darker or discolored compared to surrounding teeth. Occasionally you might notice the tooth responds differently to heat level than neighboring teeth.
 
-If calcification happens in a tooth with a large cavity or decay, you might experience pain or sensitivity. But many people have calcified canals without any awareness something is wrong.
+If calcification happens in a tooth with a large cavity or decay, you might experience pain or soreness. But many people have calcified canals without any awareness something is wrong.
 
 ## Treatment Approach and Specialized Techniques
 
@@ -67,31 +67,31 @@ Special hand files combined with ultrasonic vibration help penetrate calcified z
 
 Teeth with moderate calcification (where canal space can be found within initial attempts) show excellent success rates of 85-90% at five-year follow-up. Even severely calcified teeth treated successfully show 65-75% success rates. These numbers are respectable considering the added complexity compared to treating non-calcified teeth.
 
-Success depends on several factors: how early treatment is begun, whether decay has started, your overall health, and how well you comply with treatment recommendations.
+Success depends on several factors: how early treatment is begun, whether decay has started, your overall health, and how well you comply with treatment tips.
 
 ## Potential Complications and Management
 
-During treatment of calcified canals, occasionally complications occur. A ledge can form if a file follows a calcified ridge rather than the true canal path. Perforation (a hole in the root side) might occur in severely calcified cases. File breakage occasionally happens when files bind in extremely hard material.
+During treatment of calcified canals, occasionally problems occur. A ledge can form if a file follows a calcified ridge rather than the true canal path. Perforation (a hole in the root side) might occur in severely calcified cases. File breakage occasionally happens when files bind in extremely hard material.
 
-Modern endodontic techniques minimize these risks significantly. Learning more about [Root Canal Retreatment When Resin Occurs](/article/root-canal-retreatment-when-resin-occurs.html) can help you understand this better. When complications do occur, they can usually be managed successfully. Your endodontist has training and equipment to handle these situations.
+Modern endodontic techniques minimize these risks much. Learning more about [Root Canal Retreatment When Resin Occurs](/article/root-canal-retreatment-when-resin-occurs.html) can help you understand this better. When problems do occur, they can usually be managed successfully. Your endodontist has training and equipment to handle these situations.
 
 ## Completing the Treatment
 
-Once the endodontist navigates through calcification and reaches the canal space, they clean and shape it like any standard root canal. Special medication fills the canal, and the tooth is restored with a crown or large filling. The restored tooth typically functions well for many years afterward.
+Once the endodontist navigates through calcification and reaches the canal space, they clean and shape it like any standard root canal. Special medicine fills the canal, and the tooth is restored with a crown or large filling. The restored tooth typically functions well for many years afterward.
 
-Your tooth then needs a protective covering—usually a crown—to ensure long-term success. A tooth receiving root canal therapy is more fragile than a vital tooth, making protective restoration important.
+Your tooth then needs a protective covering—usually a crown—to ensure long-term success. A tooth receiving root canal therapy is more fragile than a vital tooth, making protective repair important.
 
 ## Postoperative Care and Sensitivity
 
-After calcified canal treatment, avoid chewing on the tooth until the permanent restoration is placed. The tooth may be slightly sensitive to pressure or temperature for a few weeks after treatment. This sensitivity typically resolves as the tooth heals.
+After calcified canal treatment, avoid chewing on the tooth until the permanent repair is placed. The tooth may be slightly sensitive to pressure or heat level for a few weeks after treatment. This soreness typically resolves as the tooth heals.
 
-Take all prescribed medications as directed. Maintain good oral hygiene with careful brushing and flossing around the treated tooth. Return for the permanent restoration promptly—temporary fillings aren't meant for long-term use.
+Take all prescribed medicines as directed. Maintain good oral hygiene with careful brushing and flossing around the treated tooth. Return for the permanent repair promptly—temporary fillings aren't meant for long-term use.
 
 ## Long-Term Outlook
 
 Successfully treated calcified canal teeth typically remain healthy for decades. About 85-90% of moderately calcified teeth treated successfully show excellent function at 10-year follow-up. Even severely calcified teeth frequently provide many years of trouble-free function after successful treatment.
 
-The most common reason for eventual failure relates to new decay starting around the restoration or failure of the restoration itself—not problems with the root canal treatment.
+The most common reason for eventual failure relates to new decay starting around the repair or failure of the repair itself—not problems with the root canal treatment.
 
 ## When Calcified Canals Can't Be Treated
 

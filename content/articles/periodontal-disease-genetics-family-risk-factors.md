@@ -92,9 +92,7 @@ Understanding your family history empowers you to take preventive steps that mat
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Periodontitis genetic susceptibility involves multiple genes affecting immune response, inflammatory regulation, and pathogen recognition, with IL-1 system polymorphisms representing primary documented risk factors. Genetic predisposition manifests substantially through gene-environment interactions, with smoking, diet, stress, and microbial colonization substantially modulating genetic risk expression through epigenetic and inflammatory mechanisms. Contemporary genetic testing offers limited utility for routine clinical diagnosis but supports high-risk patient identification and family-based preventive interventions. Genetic counseling emphasizing modifiable environmental factors empowers patients to substantially reduce genetically-influenced disease risk through behavioral modification, smoking cessation, and dietary optimization.
 
 > **Key Takeaway:** Gum disease runs in families—about 30 to 50 percent of the tendency to develop periodontitis is genetic. That doesn't mean you'll definitely get gum disease, but it does mean that understanding your family risk and taking preventive steps is important.
 

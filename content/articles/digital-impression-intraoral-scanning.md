@@ -20,13 +20,13 @@ references:
 ---
 ## Introduction
 
-Remember the gooey impression material your dentist used to take impressions? That uncomfortable tray sitting in your mouth while material set? Digital scanning has replaced that outdated process in many modern practices. Intraoral scanners—small hand-held devices that capture 3D images of your teeth—are faster, more comfortable, and more accurate. If your dentist offers digital scanning, you're getting the benefit of advanced technology that improves your experience and usually produces better results.
+Remember the gooey impression material your dentist used to take impressions? That painful tray sitting in your mouth while material set? Digital scanning has replaced that outdated process in many modern practices. Intraoral scanners—small hand-held devices that capture 3D images of your teeth—are faster, more comfortable, and more accurate. If your dentist offers digital scanning, you're getting the benefit of advanced technology that improves your experience and usually produces better results.
 
 ## How Digital Scanning Works
 
 An intraoral scanner is a small device that looks somewhat like a large pen. Your dentist guides it over your teeth and gums, capturing images as it moves. The scanner uses special light technology (structured light projection or laser triangulation) to create millions of tiny data points that reconstruct your tooth geometry in 3D.
 
-The process is fast—usually 3-5 minutes for most restorations—and requires no uncomfortable materials in your mouth. You can even watch your teeth appear on the monitor in real-time.
+The process is fast—usually 3-5 minutes for most repairs—and requires no painful materials in your mouth. You can even watch your teeth appear on the monitor in real-time.
 
 ## Advantages Over Traditional Impressions
 
@@ -46,7 +46,7 @@ The process is fast—usually 3-5 minutes for most restorations—and requires n
 
 ## What Gets Scanned
 
-Depending on your restoration type, your dentist scans:
+Depending on your repair type, your dentist scans:
 
 **For single restorations (one crown or filling):**
 - The tooth being restored and its shape
@@ -64,7 +64,7 @@ Depending on your restoration type, your dentist scans:
 
 ## The Accuracy Question
 
-Digital scans are accurate to within 50-150 micrometers for standard scanning (roughly the thickness of a human hair). This precision is more than adequate for dental restorations—marginal gaps of 80-120 micrometers are considered clinically acceptable and imperceptible.
+Digital scans are accurate to within 50-150 micrometers for standard scanning (roughly the thickness of a human hair). This precision is more than adequate for dental repairs—marginal gaps of 80-120 micrometers are considered clinically acceptable and imperceptible.
 
 Your dentist verifies that all necessary areas were captured before sending data to the laboratory. This quality check prevents the need for remake impressions due to incomplete capture.
 
@@ -77,11 +77,11 @@ Once scanned, digital data is:
 3. **Designed:** Laboratory technicians use CAD software to design your restoration
 4. **Fabricated:** Milling machines use the digital design to create your final restoration
 
-The entire process from scan to finished restoration typically takes 1-3 weeks depending on laboratory schedules.
+The entire process from scan to finished repair typically takes 1-3 weeks depending on laboratory schedules.
 
 ## The Milling Process
 
-Some digital restorations are created through computer-assisted milling—special machines use the digital design to mill restorations from dental ceramic or composite blocks. This happens:
+Some digital repairs are created through computer-assisted milling—special machines use the digital design to mill repairs from dental ceramic or composite blocks. This happens:
 
 - **In-office:** Some practices have in-office milling centers, allowing restoration completion in a single appointment
 - **At laboratory:** Most labs mill restorations to specifications and send them to your dentist for insertion
@@ -110,13 +110,13 @@ Occasionally a scan doesn't capture an area adequately—maybe due to operator t
 
 ## Cost Implications
 
-Digital scanning itself doesn't typically increase your restoration cost. The scanning technology and data transmission are built into the lab and milling costs you're already paying. You get the benefit of superior technology without extra out-of-pocket expense in most cases.
+Digital scanning itself doesn't typically increase your repair cost. The scanning technology and data transmission are built into the lab and milling costs you're already paying. You get the benefit of superior technology without extra out-of-pocket expense in most cases.
 
-In-office milling in some practices might be more economical for single restorations by eliminating lab fees, though material options are more limited.
+In-office milling in some practices might be more economical for single repairs by eliminating lab fees, though material options are more limited.
 
 ## Showing You Your Scan
 
-Ask your dentist to show you your scan data. Seeing your teeth in 3D from different angles helps you understand your tooth structure and the restoration being planned. This also helps you discuss esthetic preferences—you can point out specifically what you like or want changed.
+Ask your dentist to show you your scan data. Seeing your teeth in 3D from different angles helps you understand your tooth structure and the repair being planned. This also helps you discuss esthetic preferences—you can point out specifically what you like or want changed.
 
 ## Patient Privacy and Data Security
 
@@ -130,7 +130,7 @@ Artificial intelligence and machine learning are beginning to improve scan proce
 
 ## Conclusion
 
-Digital intraoral scanning represents a significant advancement in dental technology. The process is faster, more comfortable, and more accurate than traditional impression materials. Most patients strongly prefer scanning, and the resulting digital data often produces restorations with superior accuracy and esthetics. If your dentist offers scanning, you're experiencing modern dentistry that benefits both your comfort and your smile.
+Digital intraoral scanning represents a significant advancement in dental technology. The process is faster, more comfortable, and more accurate than traditional impression materials. Most patients strongly prefer scanning, and the resulting digital data often produces repairs with superior accuracy and esthetics. If your dentist offers scanning, you're having modern dentistry that benefits both your comfort and your smile.
 
 > **Key Takeaway:** Remember the gooey impression material your dentist used to take impressions?
 

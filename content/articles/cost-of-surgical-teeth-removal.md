@@ -24,7 +24,7 @@ references:
 ---
 ## Understanding Extraction Costs
 
-Tooth extraction costs vary dramatically depending on how complicated the extraction is. Learning more about root canal vs extraction can help you understand this better. A simple extraction might cost $100-$300, while a surgical extraction of an impacted wisdom tooth might cost $600-$1,200.
+Tooth extraction costs vary dramatically depending on how complicated the removal is. Learning more about root canal vs extraction can help you understand this better. A simple extraction might cost $100-$300, while a surgical extraction of an impacted wisdom tooth might cost $600-$1,200.
 
 Understanding what affects cost helps you know what to expect and budget appropriately.
 
@@ -35,12 +35,12 @@ Understanding what affects cost helps you know what to expect and budget appropr
 This covers a tooth that's fully out of the gum and can be removed with standard extraction instruments. Time needed: 10-15 minutes per tooth.
 
 **What's included:**
-- Pre-extraction anesthesia ($15-$50)
+- Pre-the procedure anesthesia ($15-$50)
 - Extraction ($50-$150)
 - Sutures ($10-$20)
 - Basic post-op care ($10-$20)
 
-Insurance typically covers 50% of extraction costs, meaning $50-$150 out-of-pocket per tooth.
+Insurance typically covers 50% of it costs, meaning $50-$150 out-of-pocket per tooth.
 
 ## Surgical Extraction: Impacted Teeth
 
@@ -70,7 +70,7 @@ Many people have all four wisdom teeth removed simultaneously despite longer ope
 
 **Tooth condition:**
 - Heavily restored or weakened teeth: Might cost more
-- Severely decayed teeth: Might fragment, increasing operative time You may also want to read about extraction recovery guide.
+- Severely decayed teeth: Might fragment, increasing operative time You may also want to read about removal recovery guide.
 
 **Impaction severity:**
 - Vertical impaction: Easiest
@@ -87,7 +87,7 @@ Many people have all four wisdom teeth removed simultaneously despite longer ope
 
 ## Diagnostic Imaging Costs
 
-Panoramic X-ray: $75-$150 (often included in extraction cost)
+Panoramic X-ray: $75-$150 (often included in the procedure cost)
 
 Cone beam CT scan: $150-$300 (helps plan complex extractions)
 
@@ -107,13 +107,13 @@ Most simple extractions use just local anesthesia. Anxious patients often choose
 
 ## Bone Grafting at Extraction
 
-Placing bone graft at extraction time costs $300-$800 but prevents future augmentation costing $1,500-$3,000.
+Placing bone graft at it time costs $300-$800 but prevents future augmentation costing $1,500-$3,000.
 
 This is often worthwhile if you plan implant replacement.
 
 ## Insurance Considerations
 
-Most insurance covers 50% of extraction costs with typical yearly maximums ($1,000-$2,500).
+Most insurance covers 50% of removal costs with typical yearly maximums ($1,000-$2,500).
 
 Four wisdom teeth at $1,500 total might cost:
 - Insurance covers $750
@@ -131,13 +131,13 @@ When extracting multiple teeth:
 - Total cost often less than sum of individual tooth costs
 
 **Example:**
-- Single extraction: $400
+- Single the procedure: $400
 - Two extractions together: $700 (not $800)
 - Four extractions together: $1,400 (not $1,600)
 
 ## Post-Extraction Restoration Costs
 
-Extraction itself is just the beginning. You'll eventually need to address the missing tooth:
+It itself is just the beginning. You'll eventually need to address the missing tooth:
 
 **Implant replacement:** $1,800-$3,500 (implant + crown)
 
@@ -147,7 +147,7 @@ Extraction itself is just the beginning. You'll eventually need to address the m
 
 **Do nothing:** No cost, but esthetic and functional consequences
 
-Total treatment cost (extraction + replacement) often exceeds $3,000-$5,000 per tooth.
+Total treatment cost (removal + replacement) often exceeds $3,000-$5,000 per tooth.
 
 Extracting a tooth is the easy (and cheap) part. Replacing it is the expensive part.
 
@@ -157,15 +157,15 @@ Before extracting, understand the cost comparison:
 
 **Root canal + crown:** $1,200 (root canal) + $1,500 (crown) = $2,700
 
-**Extraction + implant:** $1,500 (extraction) + $3,500 (implant) = $5,000
+**The procedure + implant:** $1,500 (extraction) + $3,500 (implant) = $5,000
 
-**Extraction + bridge:** $1,500 (extraction) + $2,500 (bridge) = $4,000
+**Extraction + bridge:** $1,500 (it) + $2,500 (bridge) = $4,000
 
 Saving a tooth with root canal often costs less than extracting and replacing it.
 
 ## Extraction Follow-Up Costs
 
-**Suture removal:** Usually FREE (included in extraction fee)
+**Suture removal:** Usually FREE (included in removal fee)
 
 **Follow-up visits:** Usually FREE or $50-$100 if complications develop
 

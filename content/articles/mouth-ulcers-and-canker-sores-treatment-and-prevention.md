@@ -32,23 +32,23 @@ references:
   - title: "Baccaglini L, Lalla RV. Current management of oral mucositis in patients receiving cancer therapy. Curr Opin Otolaryngol Head Neck Surg. 2006;14(3):136-141."
     url: https://pubmed.ncbi.nlm.nih.gov/16772509
 ---
-Canker sores are like your mouth's overreaction to minor injuries. A small cut from food or aggressive brushing should heal within a day, but in susceptible people, the immune system attacks the area and keeps it inflamed, turning a tiny injury into a painful ulcer lasting weeks. Understanding why you get canker sores—whether from nutritional deficiency, sensitivity to toothpaste chemicals, stress, or dietary triggers—transforms prevention from guesswork to targeted action. This detailed guide covers both immediate relief and long-term prevention strategies that actually work.
+Canker sores are like your mouth's overreaction to minor injuries. A small cut from food or aggressive brushing should heal within a day. In susceptible people, the immune system attacks the area and keeps it inflamed, turning a tiny injury into a painful ulcer lasting weeks. Understanding why you get canker sores—whether from nutritional deficiency, soreness to toothpaste chemicals, stress, or dietary triggers—transforms prevention from guesswork to targeted action. This detailed guide covers both immediate relief and long-term prevention strategies that actually work.
 
 ## Why Some People Get Frequent Canker Sores
 
 Your mouth's tissue has multiple layers protecting it. When something breaches that protective barrier—a sharp food, aggressive flossing, a bite, sharp braces wire—normally healing happens quickly and invisibly. But in genetically predisposed people, the immune system overreacts to this breach, flooding the area with inflammatory cells that keep it inflamed and ulcerated.
 
-This happens because your immune system has heightened sensitivity to oral bacteria and dietary antigens. Additionally, your mouth tissue cells turn over rapidly, constantly rebuilding themselves. When you lack adequate iron, vitamin B12, folate, or zinc, this cell regeneration slows down, making injuries slower to heal and ulcers more likely to form.
+This happens because your immune system has heightened soreness to oral bacteria and dietary antigens. Also, your mouth tissue cells turn over rapidly, constantly rebuilding themselves. When you lack adequate iron, vitamin B12, folate, or zinc, this cell regrowth slows down, making injuries slower to heal and ulcers more likely to form.
 
-Understanding your personal risk factors is key. If you have a family history of canker sores, you inherited genetic predisposition. If you've had nutritional testing showing low iron, B12, or folate, those deficiencies are triggering your ulcers and supplementation often resolves the problem within 2-3 months. If you notice clustering during stressful periods, your immune system is stress-reactive. Once you identify your particular risk factors, addressing them prevents future ulcers far better than treating them once they appear.
+Understanding your personal risk factors is key. If you have a family history of canker sores, you inherited genetic predisposition. If you've had nutritional testing showing low iron, B12, or folate, those deficiencies are triggering your ulcers and supplements often resolves the problem within 2-3 months. If you notice clustering during stressful periods, your immune system is stress-reactive. Once you identify your particular risk factors, addressing them prevents future ulcers far better than treating them once they appear.
 
 ## The Three Types of Canker Sores
 
 Small canker sores, the most common type (80% of cases), measure less than 1 centimeter, develop a white or yellow center with a red ring, and heal within 7-14 days without scarring. They hurt more than their size suggests because they develop on highly sensitive non-keratinized tissue. These respond well to topical steroid creams and typically cause minimal functional impairment.
 
-Large canker sores are bigger (over 1 centimeter, sometimes several centimeters), penetrate deeper into tissue, cause severe pain disproportionate to size, last 3-6 weeks, and often scar. They can significantly interfere with eating and nutrition. If you get these frequently, prescription-strength treatment makes sense rather than hoping they go away.
+Large canker sores are bigger (over 1 centimeter, sometimes several centimeters), penetrate deeper into tissue, cause severe pain disproportionate to size, last 3-6 weeks, and often scar. They can much interfere with eating and nutrition. If you get these frequently, prescription-strength treatment makes sense rather than hoping they go away.
 
-Herpetiform ulcers are clusters of tiny sores that run together into larger ulcerated areas. They're the most frustrating because they cover large areas, hurt tremendously, and take 2-3 weeks to heal even with treatment. The name suggests herpes because of their clustered appearance, but they're not contagious and not caused by herpes virus. They indicate your immune system is particularly reactive and warrant investigation for nutritional deficiency or other contributing factors.
+Herpetiform ulcers are clusters of tiny sores that run together into larger ulcerated areas. They're the most frustrating because they cover large areas, hurt tremendously, and take 2-3 weeks to heal even with treatment. The name suggests herpes because of their clustered appearance, but they're not contagious and not caused by herpes virus. They indicate your immune system is especially reactive and warrant investigation for nutritional deficiency or other contributing factors.
 
 ## Treatment: Get the Type Right
 
@@ -58,15 +58,15 @@ The steroid reduces pain within 24-48 hours and speeds healing by 3-5 days. Appl
 
 For pain relief, benzocaine numbing gels work temporarily, letting you eat or speak comfortably. These numb for 15-30 minutes but don't speed healing—they just manage pain. Saline or hydrogen peroxide rinses keep the area clean and support healing. Avoid foods that irritate while healing—acidic fruits and juices, spicy foods, sharp foods like chips, and very hot foods.
 
-For large canker sores or frequent ones, stronger prescription treatment becomes worthwhile. Your dentist can inject steroids directly into major ulcers, delivering medication concentrated at the problem area. This works faster and better than topical creams. For people getting multiple or severe ulcers, oral medications that suppress immune response can prevent formation rather than treating them after they appear. These require prescription and monitoring but dramatically improve quality of life for people experiencing disabling frequent ulcers.
+For large canker sores or frequent ones, stronger prescription treatment becomes worthwhile. Your dentist can inject steroids directly into major ulcers, delivering medicine concentrated at the problem area. This works faster and better than topical creams. For people getting multiple or severe ulcers, oral medicines that suppress immune response can prevent formation rather than treating them after they appear. These require prescription and monitoring but dramatically improve quality of life for people having disabling frequent ulcers.
 
 ## Nutritional Fixes That Prevent Ulcers
 
-Before pursuing expensive treatments, have your dentist or doctor check your nutritional status. Low iron dramatically increases canker sore frequency. If your ferritin level is below 15 (normal is 30 or higher), iron supplementation often eliminates ulcers entirely within 2-3 months. Take iron supplements on an empty stomach with vitamin C for best absorption, or with food if your stomach is sensitive. Expect 8-12 weeks to normalize iron stores, then an additional 2-3 weeks to see reduced ulcer frequency.
+Before pursuing expensive treatments, have your dentist or doctor check your nutritional status. Low iron dramatically increases canker sore frequency. If your ferritin level is below 15 (normal is 30 or higher), iron supplements often eliminates ulcers entirely within 2-3 months. Take iron supplements on an empty stomach with vitamin C for best absorption, or with food if your stomach is sensitive. Expect 8-12 weeks to normalize iron stores, then an additional 2-3 weeks to see reduced ulcer frequency.
 
-Low vitamin B12 causes frequent canker sores, especially if you're vegetarian, vegan, or have digestive absorption issues. Sublingual B12 supplements (methylcobalamin) work well if your B12 is just low, but if you have pernicious anemia, you need injections. B12 supplementation takes 3-4 months to normalize blood levels and another 4-8 weeks to reduce ulcer frequency.
+Low vitamin B12 causes frequent canker sores, especially if you're vegetarian, vegan, or have digestive absorption issues. Sublingual B12 supplements (methylcobalamin) work well if your B12 is just low, but if you have pernicious anemia, you need injections. B12 supplements takes 3-4 months to normalize blood levels and another 4-8 weeks to reduce ulcer frequency.
 
-Low folate is another common culprit. Simple folate supplementation at 1-5 mg daily shows results within 4-6 weeks. If you have both low folate and low iron (which happens together in about 15% of people with frequent canker sores), supplement both. Zinc supplementation helps, especially for people over 65, but get tested first—too much zinc interferes with copper absorption. Taking 15-30 mg daily for 6-8 weeks shows benefit in deficient people.
+Low folate is another common culprit. Simple folate supplements at 1-5 mg daily shows results within 4-6 weeks. If you have both low folate and low iron (which happens together in about 15% of people with frequent canker sores), supplement both. Zinc supplements helps, especially for people over 65, but get tested first—too much zinc interferes with copper absorption. Taking 15-30 mg daily for 6-8 weeks shows benefit in deficient people.
 
 ## Finding and Eliminating Your Personal Triggers
 
@@ -84,11 +84,11 @@ Stress-related ulcer clustering happens because stress suppresses immune functio
 
 ## When to Worry About Infection
 
-Most canker sores don't get infected, but 8-12% do, particularly in people with weak immune systems. Signs of infection include excessive pus drainage, red ring extending far beyond the ulcer, fever, swollen lymph nodes, or failure to improve after 10-14 days of treatment. If you suspect infection, rinse with chlorhexidine antimicrobial rinse twice daily or apply silver diamine fluoride topically. If signs of infection persist, see your dentist—you might need oral antibiotics.
+Most canker sores don't get infected, but 8-12% do, especially in people with weak immune systems. Signs of infection include excessive pus drainage, red ring extending far beyond the ulcer, fever, swollen lymph nodes, or failure to improve after 10-14 days of treatment. If you suspect infection, rinse with chlorhexidine antimicrobial rinse twice daily or apply silver diamine fluoride topically. If signs of infection persist, see your dentist—you might need oral antibiotics.
 
 ## Long-Term Prevention Strategy
 
-Combine all your prevention approaches: supplement any documented nutritional deficiencies, eliminate your identified food triggers, protect against mechanical trauma by adjusting appliances and using soft brushes, use trigger-free toothpaste and oral products, manage stress, and maintain excellent oral hygiene. This comprehensive approach prevents most canker sores in susceptible people. Most people who implement these strategies reduce ulcer frequency by 60-80% or eliminate them entirely within a few months.
+Combine all your prevention approaches: supplement any documented nutritional deficiencies, eliminate your identified food triggers, protect against mechanical trauma by adjusting appliances and using soft brushes, use trigger-free toothpaste and oral products, manage stress, and maintain excellent oral hygiene. This full approach prevents most canker sores in susceptible people. Most people who implement these strategies reduce ulcer frequency by 60-80% or eliminate them entirely within a few months.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 

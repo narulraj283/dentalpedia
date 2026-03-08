@@ -50,13 +50,13 @@ Splint removal at 7-14 days assesses healing. Learning more about [Dental Trauma
 
 ## Root Canal Treatment After Trauma
 
-Most protocols recommend root canal therapy within 1-2 weeks to decontaminate the canal system and reduce resorption risk. Calcium hydroxide paste applied for 2-4 weeks significantly reduces resorption compared to immediate gutta-percha obturation.
+Most protocols recommend root canal therapy within 1-2 weeks to decontaminate the canal system and reduce resorption risk. Calcium hydroxide paste applied for 2-4 weeks much reduces resorption compared to immediate gutta-percha obturation.
 
 Young teeth with immature apexes (root apex still developing) benefit from calcium hydroxide dressing permitting continued root development.
 
 ## Intrusion: Assessment and Management
 
-Intruded teeth (forced apically into bone) frequently demonstrate spontaneous re-eruption over 3-6 months as inflammatory response resolves. Learning more about [Dental Abscess Infection and Urgent Treatment](/article/dental-abscess-infection-and-urgent-treatment.html) can help you understand this better. Mechanical or surgical repositioning carries re-injury risk; therefore, observation represents preferred initial approach for moderate intrusion.
+Intruded teeth (forced apically into bone) frequently show spontaneous re-eruption over 3-6 months as inflammatory response resolves. Learning more about [Dental Abscess Infection and Urgent Treatment](/article/dental-abscess-infection-and-urgent-treatment.html) can help you understand this better. Mechanical or surgical repositioning carries re-injury risk; therefore, observation represents preferred initial approach for moderate intrusion.
 
 Severe intrusion (>6 mm or tooth more than 50% embedded) may warrant surgical or mechanical repositioning if re-eruption doesn't occur by 4 weeks.
 
@@ -72,7 +72,7 @@ Pulp vitality assessment at 3-4 weeks guides endodontic treatment decisions.
 
 ## Pulp Vitality Testing in Kids
 
-Electrical pulp testing (EPT) in children requires baseline establishment using contralateral uninjured teeth. Traumatized teeth initially show elevated thresholds due to pulp swelling and inflammation.
+Electrical pulp testing (EPT) in children requires baseline establishment using contralateral uninjured teeth. Traumatized teeth initially show elevated thresholds due to pulp swelling and swelling.
 
 Cold testing using ice provides simple pulp vitality assessment. Positive response indicates pulp viability; absent response suggests necrosis (though false negatives occur with inflammation).
 
@@ -82,7 +82,7 @@ Absence of vitality response at 3-4 weeks indicates pulp necrosis requiring root
 
 Inflammatory root resorption occurs following pulp necrosis and initiates within 2 weeks. Rapid root resorption (1-2 mm monthly) can completely resorb teeth within 6-12 months.
 
-Prevention: early root canal therapy with calcium hydroxide and elimination of extracanal infection significantly reduce resorption. Frequent radiographic monitoring (3-6 month intervals for first year) enables early detection.
+Prevention: early root canal therapy with calcium hydroxide and elimination of extracanal infection much reduce resorption. Frequent radiographic monitoring (3-6 month intervals for first year) enables early detection.
 
 Replacement resorption (ankylosis) occurs when periodontal ligament is destroyed and bone fuses with root cementum. This process is slow but irreversible, ultimately resulting in tooth fusion.
 
@@ -92,7 +92,7 @@ Most childhood trauma results from falls or direct impact. Preventing falls thro
 
 ## Long-Term Complications
 
-Traumatized teeth demonstrate increased susceptibility to root resorption (inflammatory and replacement). Teeth showing color change (gray discoloration) warrant pulp vitality testing and radiographic assessment.
+Traumatized teeth show increased susceptibility to root resorption (inflammatory and replacement). Teeth showing color change (gray discoloration) warrant pulp vitality testing and radiographic assessment.
 
 Successful healing is defined by absence of symptoms, pulp vitality preservation (or successful endodontic treatment), and absence of progressive resorption at 12 month follow-up.
 
@@ -104,11 +104,11 @@ Follow-up requires compliance: 1 week (assess healing, pain control), 3-4 weeks 
 
 ## Protecting Your Results Long-Term
 
-Once you've addressed dental trauma in children luxation and avulsion, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+Once you've addressed dental trauma in children luxation and avulsion, keeping your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with expert cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
 
 ## Conclusion
 
-Pediatric dental trauma requires systematic immediate response, appropriate initial intervention, and meticulous long-term follow-up. Avulsed permanent teeth should be replanted immediately; luxated teeth require individualized management. Pulp vitality monitoring, resorption surveillance, and endodontic intervention when indicated optimize tooth preservation. Understanding trauma management protocols enables appropriate response and optimal outcomes.
+Pediatric dental trauma requires systematic immediate response, appropriate initial treatment, and meticulous long-term follow-up. Avulsed permanent teeth should be replanted right away; luxated teeth require individualized management. Pulp vitality monitoring, resorption surveillance, and endodontic treatment when indicated optimize tooth preservation. Understanding trauma management protocols enables appropriate response and optimal outcomes.
 
 > **Key Takeaway:** About 30% of children experience traumatic dental injury by adolescence.
 

@@ -140,11 +140,7 @@ Report any actual safety concerns to your state dental board. State boards inves
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding why infection prevention matters in dental practice helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
-
-Sharps are handled safely. When you see these practices in action, you can feel confident. When you don't see these practices, it's a warning sign to find a different provider. Your safety depends on the dental team taking infection prevention as seriously as they take clinical care. Good dental practices do exactly that, creating environments where patients and dental professionals alike can work and receive care with genuine confidence in their safety.
+Talk to your dentist about your specific situation and what approach works best for you. Report any actual safety concerns to your state dental board. State boards investigate complaints about unsafe practices. Your report might protect other patients from inadequate infection prevention.
 
 > **Key Takeaway:** Infection prevention in dental offices isn't theater or excessive caution—it's essential protection for you and the dental team. Sterilization of instruments is meticulous and verifiable. Hand hygiene is constant. Protective equipment is standard.
 

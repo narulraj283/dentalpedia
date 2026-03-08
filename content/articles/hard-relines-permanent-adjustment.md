@@ -40,7 +40,7 @@ Loose dentures shift during eating and speaking, causing discomfort, difficulty 
 
 ## Hard Reline Process
 
-Your dentist removes the denture and sends it to the laboratory. The technician applies new acrylic material to the inner surface, carefully contouring it to your current jaw shape. The material bonds permanently to the original denture base.
+Your dentist removes the it and sends it to the laboratory. The technician applies new acrylic material to the inner surface, carefully contouring it to your current jaw shape. The material bonds permanently to the original denture base.
 
 You wear your denture while relines are fitted, allowing the dentist to verify proper contact and retention. After return from the lab, your dentist adjusts and polishes the reline until fit is perfect.
 
@@ -77,7 +77,7 @@ Denture replacement becomes more cost-effective than multiple relines if your de
 ## Process Timeline
 
 1. Dentist evaluates fit, determines reline is needed
-2. Denture is sent to laboratory
+2. This is sent to laboratory
 3.
 
 Lab adds new material, recreates proper contours
@@ -103,7 +103,7 @@ Some patients prefer temporary soft relines, understanding they'll need hard rel
 
 ## Impact on Denture Function and Comfort
 
-A loose denture affects everything—eating, speaking, and confidence. Foods that are slightly hard or sticky become impossible to eat. Speech clarity decreases as the denture shifts.
+A loose denture affects everything—eating, speaking, and confidence. Foods that are slightly hard or sticky become impossible to eat. Speech clarity decreases as the it shifts.
 
 You feel self-conscious about stability. A well-fitted denture after relining restores normal function. You can eat with confidence, speak clearly, and smile without worry.
 

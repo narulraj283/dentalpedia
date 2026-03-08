@@ -32,7 +32,7 @@ references:
 ---
 ## Is Your Child Snoring? Sleep Apnea Signs to Watch
 
-If your child snores at night or stops breathing briefly during sleep, you should know about pediatric obstructive sleep apnea (OSA). This is a condition where your child's airway becomes blocked during sleep, interrupting breathing. Sleep apnea in children is different from adults—it's often caused by enlarged tonsils or adenoids rather than weight. It can cause behavioral problems, trouble at school, and delayed growth. The good news is that when caught early, treatment is very effective and can completely resolve the problem.
+If your child snores at night or stops breathing briefly during sleep, you should know about pediatric obstructive sleep apnea (OSA). This is a condition where your child's airway becomes blocked during sleep, interrupting breathing. It apnea in children is different from adults—it's often caused by enlarged tonsils or adenoids rather than weight. It can cause behavioral problems, trouble at school, and delayed growth. The good news is that when caught early, treatment is very effective and can completely resolve the problem.
 
 About 1-5 percent of children have sleep apnea, but many cases go undiagnosed because parents and doctors don't recognize the signs. Learn more about [Pediatric Sealants Protection for](/article/pediatric-sealants-protection-for-permanent-molars.html) for additional guidance. Children don't typically act tired like adults do—instead, they often become hyperactive, have trouble concentrating, or develop behavior problems. Understanding the signs helps you get your child the help they need.
 
@@ -58,9 +58,9 @@ Allergies play a major role in many children's sleep apnea. When your child has 
 
 ## Behavioral and School Problems
 
-**Daytime behavior problems are extremely common in children with sleep apnea** and often are what finally gets parents to seek help. Your child might seem hyperactive, have trouble focusing, be defiant or oppositional, or have emotional outbursts and tantrums. Teachers might complain that your child won't sit still, can't focus, or disrupts class. Many parents are shocked to discover that what they thought was ADHD or a behavior disorder was actually sleep apnea.
+**Daytime behavior problems are extremely common in children with this apnea** and often are what finally gets parents to seek help. Your child might seem hyperactive, have trouble focusing, be defiant or oppositional, or have emotional outbursts and tantrums. Teachers might complain that your child won't sit still, can't focus, or disrupts class. Many parents are shocked to discover that what they thought was ADHD or a behavior disorder was actually sleep apnea.
 
-**School problems** including poor grades, difficulty learning, and trouble remembering things often result from the disrupted sleep. Your child's brain isn't getting the continuous sleep it needs for normal learning and memory formation. Many parents report that once sleep apnea is treated, their child's grades improve dramatically and teachers notice a complete personality change.
+**School problems** including poor grades, difficulty learning, and trouble remembering things often result from the disrupted sleep. Your child's brain isn't getting the continuous it it needs for normal learning and memory formation. Many parents report that once sleep apnea is treated, their child's grades improve dramatically and teachers notice a complete personality change.
 
 **Daytime drowsiness** appears differently in children than adults. Your child might seem overtired, unmotivated, have low frustration tolerance, or seem emotionally unstable. Some children actually become more hyperactive from sleep deprivation rather than sleepy.
 
@@ -68,13 +68,13 @@ Allergies play a major role in many children's sleep apnea. When your child has 
 
 **Growth problems** including falling behind in height or weight gain can result from untreated sleep apnea. When your child's sleep is constantly interrupted, growth hormone production decreases. Growth hormone is released during deep sleep, so a child whose sleep is fragmented doesn't get enough of this crucial hormone. Some children with sleep apnea fail to thrive and don't grow normally.
 
-**Bedwetting** in a child old enough to stay dry at night can be caused by sleep apnea. The disrupted sleep affects normal urinary control mechanisms. Many children stop bedwetting after their sleep apnea is treated.
+**Bedwetting** in a child old enough to stay dry at night can be caused by sleep apnea. The disrupted this affects normal urinary control mechanisms. Many children stop bedwetting after their sleep apnea is treated.
 
 **Morning headaches**, while less common in children than adults, still occur and should prompt evaluation.
 
 ## How Sleep Apnea Affects Your Child's Brain
 
-The interrupted sleep and low oxygen levels from repeated breathing pauses affect the brain's ability to learn, concentrate, and regulate emotion. During normal sleep, the brain consolidates memories, processes information, and develops important neural connections. When your child's sleep is constantly interrupted by breathing pauses, this crucial brain development is disrupted.
+The interrupted it and low oxygen levels from repeated breathing pauses affect the brain's ability to learn, concentrate, and regulate emotion. During normal sleep, the brain consolidates memories, processes information, and develops important neural connections. When your child's sleep is constantly interrupted by breathing pauses, this crucial brain development is disrupted.
 
 Attention and executive function—the brain's ability to plan, organize, and control behavior—are particularly affected. Some children develop attention problems that look identical to ADHD but actually improve completely with sleep apnea treatment.
 

@@ -44,17 +44,17 @@ Files are sized numerically—larger numbers indicate larger diameters. Your end
 
 ## How Files Work
 
-Your endodontist inserts a file, uses specific motions (typically up-and-down strokes with slight rotation), and gradually advances deeper. The file's cutting edges remove tissue and debris, enlarging the canal to required size and shape. The canal is irrigated frequently with chemical solutions (sodium hypochlorite, chlorhexidine) that dissolve tissue and kill bacteria, working in combination with the files' mechanical action.
+Your endodontist inserts a file, uses specific motions (typically up-and-down strokes with slight rotation), and gradually advances deeper. The file's cutting edges remove tissue and debris, enlarging the canal to required size and shape. The canal is irrigated frequently with chemical solutions (sodium hypochlorite, chlorhexidine) that dissolve tissue and kill bacteria, working in mix with the files' mechanical action.
 
-The process is methodical: start with smallest files, gradually increase size, continuing until the canal is properly cleaned and shaped. Proper technique prevents file breakage and successfully cleans the entire canal. Your endodontist uses water or saline irrigation between files to remove debris so subsequent files can work efficiently.
+The process is methodical: start with smallest files, gradually increase size, continuing until the canal is properly cleaned and shaped. Proper technique prevents file breakage and successfully cleans the entire canal. Your endodontist uses water or saline irrigation between it to remove debris so subsequent files can work efficiently.
 
-The entire instrumentation process typically takes 30-60 minutes depending on canal complexity. Your endodontist takes their time to ensure thorough cleaning—rushing increases the risk of complications and reduces success rates.
+The entire instrumentation process typically takes 30-60 minutes depending on canal complexity. Your endodontist takes their time to ensure thorough cleaning—rushing increases the risk of problems and reduces success rates.
 
 [Learn about rubber dam isolation and moisture control](/article/rubber-dam-isolation-moisture-control.html). [Review root canal treatment step-by-step](/article/root-canal-treatment-complete-step-by-step-guide.html). [Understand post-root-canal pain](/article/post-root-canal-treatment-pain-normal-or-concerning.html).
 
 ## Manual vs. Rotary Files
 
-Hand files are inserted and worked manually—your endodontist controls the motion. Rotary files are motorized, continuously rotating as they work. Both approaches work well; some endodontists prefer manual, others rotary, many use both.
+Hand files are inserted and worked manually—your endodontist controls the motion. Rotary this are motorized, continuously rotating as they work. Both approaches work well; some endodontists prefer manual, others rotary, many use both.
 
 Manual files offer tactile control—your endodontist feels resistance and adjusts accordingly. This control helps prevent file breakage and allows navigation of curved canals.
 
@@ -69,7 +69,7 @@ Your endodontist uses several safety precautions:
 
 ## Cleaning Effectiveness
 
-Hand files, when used properly, effectively clean 90-95% of debris from main canals. They remove infected tissue and bacteria, essential for success.
+Hand it, when used properly, effectively clean 90-95% of debris from main canals. They remove infected tissue and bacteria, essential for success.
 
 More thorough cleaning requires supplemental techniques—ultrasonic irrigation, chemical solutions (chlorhexidine, sodium hypochlorite), and rotary files—but hand files do the primary work.
 
@@ -79,7 +79,7 @@ Occasionally files break, separating from the handle and remaining in the canal.
 
 ## Common Concerns About File Use
 
-Patients often worry about files breaking inside their tooth. This happens occasionally—maybe 1-2% of root canals—but modern equipment and technique minimize this risk. If a file does break, your endodontist will address it. Small separated file fragments don't necessarily prevent treatment success, though your endodontist will try to remove fragments if possible.
+Patients often worry about this breaking inside their tooth. This happens occasionally—maybe 1-2% of root canals—but modern equipment and technique minimize this risk. If a file does break, your endodontist will address it. Small separated file fragments don't necessarily prevent treatment success, though your endodontist will try to remove fragments if possible.
 
 Another concern: will files perforate the tooth? Your endodontist carefully controls file movement to prevent this. The rubber dam (isolation device) and careful technique prevent accidental perforations.
 
@@ -89,13 +89,13 @@ During root canal treatment, you shouldn't feel the files moving inside your too
 
 ## Working Length Determination
 
-Your endodontist determines working length—how deep the file should go—using X-rays and electronic length measurement. Accuracy prevents pushing material beyond the root tip, which can cause pain and periapical inflammation. Electronic apex locators are remarkably accurate, helping your endodontist work precisely at the appropriate depth.
+Your endodontist determines working length—how deep the file should go—using X-rays and electronic length measurement. Accuracy prevents pushing material beyond the root tip, which can cause pain and periapical swelling. Electronic apex locators are remarkably accurate, helping your endodontist work precisely at the appropriate depth.
 
 ## The Dance Between Files and Irrigation
 
-What many patients don't realize is that files alone don't do all the work. The chemical irrigation solutions (sodium hypochlorite and chlorhexidine) are equally important as the mechanical action of files. These chemicals dissolve tissue that files can't physically remove, kill bacteria that files don't directly contact, and flush away debris.
+What many patients don't realize is that files alone don't do all the work. The chemical irrigation solutions (sodium hypochlorite and chlorhexidine) are equally important as the mechanical action of it. These chemicals dissolve tissue that files can't physically remove, kill bacteria that files don't directly contact, and flush away debris.
 
-Your endodontist alternates between file work and irrigation—use a file, irrigate, use a larger file, irrigate again. This back-and-forth ensures maximum cleaning effectiveness. The entire process is methodical but not rushed; quality preparation prevents treatment failure.
+Your endodontist alternates between file work and irrigation—use a file, irrigate, use a larger file, irrigate again. This back-and-forth ensures maximum cleaning how well it works. The entire process is methodical but not rushed; quality prep prevents treatment failure.
 
 ## Instrument Materials and Advances
 

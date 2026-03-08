@@ -38,19 +38,19 @@ Your **jaw width** is the main factor—wider jaws create narrower corridors bec
 
 **Vertical face height** affects corridors. Long-face patients (increased vertical dimension) have narrower corridors because their lips don't stretch as wide horizontally. Short-face patients (decreased vertical dimension) show wider corridors through greater horizontal lip movement. **Tooth inclination** (how forward or backward your back teeth are tilted) changes corridor appearance. Teeth tilted outward (buccially) toward lips reduce corridor width; teeth tilted inward reduce visibility and increase corridor width.
 
-Teeth positioned more toward your lips obviously reduce corridor width. Teeth positioned more toward your palate increase it. All these factors can be modified—orthodontically, surgically, or with restorations—if you're bothered by your corridor width.
+Teeth positioned more toward your lips obviously reduce corridor width. Teeth positioned more toward your palate increase it. All these factors can be modified—orthodontically, surgically, or with repairs—if you're bothered by your corridor width.
 
 ## Anatomic Determinants of Buccal Corridor Width
 
 Jaw transverse width (intercanine distance and intermolar distance) represents the primary anatomic determinant of buccal corridor width. Narrow jaws (maxillary intermolar distance less than 44mm) produce relatively wider buccal corridors due to reduced posterior tooth projection. Wider jaws (intermolar distance exceeding 48mm) create narrower buccal corridors through increased tooth visibility.
 
-Maxillary dental arch width influences buccal corridor presence directly. Dental arch width demonstrates strong correlation with skeletal jaw width; however, individual variation occurs. Patients with normal skeletal width but narrow dental arch widths demonstrate relatively wide buccal corridors. Conversely, patients with broader dental arch widths relative to jaw width show narrower buccal corridors.
+Maxillary dental arch width influences buccal corridor presence directly. Dental arch width shows strong correlation with skeletal jaw width; however, individual variation occurs. Patients with normal skeletal width but narrow dental arch widths show relatively wide buccal corridors. Conversely, patients with broader dental arch widths relative to jaw width show narrower buccal corridors.
 
-Lip position and morphology significantly influence corridor perception. Lip thickness, particularly buccal mucosa thickness in the posterior region, affects how much intraoral space is visible during smiling. Thin-lipped patients demonstrate greater corridor visibility compared to full-lipped patients with identical jaw and dental arch dimensions. Lip position (how far lips extend laterally during smiling) directly determines what proportion of dental arch is visible.
+Lip position and morphology much influence corridor perception. Lip thickness, especially buccal mucosa thickness in the posterior region, affects how much intraoral space is visible during smiling. Thin-lipped patients show greater corridor visibility compared to full-lipped patients with identical jaw and dental arch dimensions. Lip position (how far lips extend laterally during smiling) directly determines what proportion of dental arch is visible.
 
-Vertical facial dimensions affect buccal corridor visibility. Patients with increased vertical dimension of face (long face pattern) demonstrate narrower buccal corridors due to more vertical lip position and reduced transverse expansion of lips during smiling. Short-face patients (reduced vertical dimension) show wider buccal corridors through greater horizontal lip expansion during smiling.
+Vertical facial dimensions affect buccal corridor visibility. Patients with increased vertical dimension of face (long face pattern) show narrower buccal corridors due to more vertical lip position and reduced transverse expansion of lips during smiling. Short-face patients (reduced vertical dimension) show wider buccal corridors through greater horizontal lip expansion during smiling.
 
-Dental inclination influences buccal corridor appearance through altered tooth angulation. Labially inclined maxillary posterior teeth project buccally, reducing corridor width. Lingually inclined posterior teeth withdraw from lips, increasing corridor width. This dental compensation mechanism permits adjustment of corridor width through orthodontic movement despite unchanged skeletal jaw width.
+Dental inclination influences buccal corridor appearance through altered tooth angulation. Labially inclined maxillary posterior teeth project buccally, reducing corridor width. Lingually inclined posterior teeth withdraw from lips, increasing corridor width. This dental compensation process permits adjustment of corridor width through orthodontic movement despite unchanged skeletal jaw width.
 
 Buccolingual position of posterior teeth affects corridor prominence. Teeth positioned more buccal (closer to lips) reduce corridor width through increased visibility. Teeth positioned more lingual (toward palate) increase corridor width through decreased visible tooth surface.
 
@@ -86,45 +86,45 @@ Systematic smile assessment requires standardized photographic documentation. Fu
 
 Clinical measurement of buccal corridors can occur during consultation using visual assessment or through photographic digital analysis. Visual assessment involves observing the smile during natural expression and estimating corridor width relative to tooth width. Digital photographic analysis provides objective measurements but requires patient photography and computer analysis capability.
 
-Relationship assessment between buccal corridors and other smile components guides comprehensive esthetic analysis. Smile arc evaluation (incisor display relationship to lower lip) correlates with corridor width. High smile arc (wide incisor display) typically accompanies narrow corridors. Low smile arc accompanies wide corridors.
+Relationship assessment between buccal corridors and other smile components guides full esthetic analysis. Smile arc check (incisor display relationship to lower lip) correlates with corridor width. High smile arc (wide incisor display) typically accompanies narrow corridors. Low smile arc accompanies wide corridors.
 
-Buccal corridor prominence should be assessed relative to patient ethnicity, facial morphology, and individual esthetic preferences. Correlation with overall smile esthetics guides treatment planning. Narrow corridors appearing natural in the context of broad smiling and full teeth display may require no treatment. Conversely, extremely wide corridors in patients desiring fuller smile appearance warrant intervention.
+Buccal corridor prominence should be assessed relative to patient ethnicity, facial morphology, and individual esthetic preferences. Correlation with overall smile esthetics guides treatment planning. Narrow corridors appearing natural in the context of broad smiling and full teeth display may require no treatment. Conversely, extremely wide corridors in patients desiring fuller smile appearance warrant treatment.
 
-Temporal changes in buccal corridors occur with age. Progressive loss of buccal soft tissue volume with aging increases corridor width in older patients. This age-related change represents normal anatomic progression and may require intervention if cosmetically concerning to patients.
+Temporal changes in buccal corridors occur with age. Progressive loss of buccal soft tissue volume with aging increases corridor width in older patients. This age-related change represents normal anatomic progression and may require treatment if cosmetically concerning to patients.
 
 ## Treatment Modalities for Corridor Modification
 
-Orthodontic expansion represents the primary modality for narrowing buccal corridors through anatomic mechanism. Maxillary posterior teeth buccal movement, achieved through transpalatal expansion or in-out bracket torque, projects teeth outward and reduces corridor width. Expansion produces 1-2mm corridor width reduction per 3-4mm of dental arch expansion.
+Orthodontic expansion represents the primary modality for narrowing buccal corridors through anatomic process. Maxillary posterior teeth buccal movement, achieved through transpalatal expansion or in-out bracket torque, projects teeth outward and reduces corridor width. Expansion produces 1-2mm corridor width reduction per 3-4mm of dental arch expansion.
 
 Expansion mechanics options include rapid maxillary expansion (RME) for younger patients with open mid-palatal suture, and slow maxillary expansion (SME) for older patients or those requiring physiologic expansion. Both modalities effectively reduce buccal corridors through orthopedic or dentoalveolar changes increasing maxillary arch width.
 
-Surgical maxillary advancement procedures address wide buccal corridors in extreme cases. Bimaxillary advancement or isolated maxillary advancement increases transverse jaw width and maxillary tooth projection, reducing corridors substantially. However, surgical intervention is reserved for cases where skeletal discrepancy severity warrants orthognathic consideration for other reasons (bite correction, jaw symmetry improvement).
+Surgical maxillary advancement procedures address wide buccal corridors in extreme cases. Bimaxillary advancement or isolated maxillary advancement increases transverse jaw width and maxillary tooth projection, reducing corridors greatly. However, surgical treatment is reserved for cases where skeletal discrepancy severity warrants orthognathic factor for other reasons (bite correction, jaw symmetry improvement).
 
 Dentoalveolar grafting procedures add soft tissue volume in the buccal corridor region, reducing the apparent width of negative space. Soft tissue grafting from palatal or other donor sites augments buccal mucosa thickness, creating fuller appearance in corridor regions. This approach addresses corridor width without moving teeth.
 
-Restorative esthetic modifications using wider and more buccally positioned crowns and veneers can contribute to corridor reduction through enhanced tooth visibility. Full arch cosmetic makeovers involving tooth bleaching, gingival reshaping, and extensive crown/veneer restorations create fuller smile appearance with reduced corridor prominence.
+Restorative esthetic changes using wider and more buccally positioned crowns and veneers can contribute to corridor reduction through enhanced tooth visibility. Full arch cosmetic makeovers involving tooth bleaching, gingival reshaping, and extensive crown/veneer repairs create fuller smile appearance with reduced corridor prominence.
 
-Implant-supported restorations in edentulous spaces permit placement of broader teeth with modified emergence profile, reducing buccal corridors. Implant restorations in posterior edentulous regions can replace missing posterior teeth with wider restorations, increasing visible tooth surface and reducing corridor width.
+Implant-supported repairs in edentulous spaces permit placement of broader teeth with modified emergence profile, reducing buccal corridors. Implant repairs in posterior edentulous regions can replace missing posterior teeth with wider repairs, increasing visible tooth surface and reducing corridor width.
 
 ## Comprehensive Smile Redesign Integration
 
-Treatment planning for buccal corridor modification should integrate corridor assessment within broader smile esthetics framework. Corridor reduction should not compromise other smile components—smile arc, buccal corridors, commissure display, gingival display, incisor exposure, and midline position represent interdependent esthetic components.
+Treatment planning for buccal corridor change should integrate corridor assessment within broader smile esthetics framework. Corridor reduction should not compromise other smile components—smile arc, buccal corridors, commissure display, gingival display, incisor exposure, and midline position represent interdependent esthetic components.
 
 Digital smile design technology facilitates treatment visualization. Computer software permits photograph manipulation showing projected outcomes of various treatment modalities. Patients can preview potential corridor width changes and provide feedback regarding acceptable parameters before definitive treatment initiation.
 
 Mixed treatment approaches frequently optimize outcomes. Combining orthodontic posterior expansion (correcting skeletal/dental width deficiency) with gingival sculpting and crown replacement (optimizing individual tooth contours) produces superior results compared to single modality approaches.
 
-Timing of corridor correction relates to overall treatment sequence. Orthodontic expansion should be completed before fixed restorations; restorations can then be fabricated with optimal dimensions complementing expanded arch widths. Conversely, if restorative treatment precedes orthodontics, restorations may require refinishing or replacement as tooth positions change.
+Timing of corridor correction relates to overall treatment sequence. Orthodontic expansion should be completed before fixed repairs; repairs can then be fabricated with optimal dimensions complementing expanded arch widths. Conversely, if restorative treatment precedes orthodontics, repairs may require refinishing or replacement as tooth positions change.
 
 ## Controversial and Debated Aspects
 
 The clinical significance of buccal corridor prominence remains debated. Some practitioners argue that corridor reduction should be a primary objective in all smile improvements, while others contend that corridor prominence should be addressed only when patients express specific cosmetic concerns.
 
-Research evidence regarding "ideal" buccal corridor width remains inconsistent. Meta-analyses of esthetic perception studies demonstrate variable preferences across studies; no definitive optimal width has been established. This suggests that individual variation in preferences and cultural influences supersede any universal esthetic standard.
+Research evidence regarding "ideal" buccal corridor width remains inconsistent. Meta-analyses of esthetic perception studies show variable preferences across studies; no definitive optimal width has been established. This suggests that individual variation in preferences and cultural influences supersede any universal esthetic standard.
 
 Over-treatment risk exists in cases where aggressive corridor reduction produces unintended negative consequences. Excessive maxillary expansion to narrow corridors may compromise occlusal stability or create dental tipping with functional impairment. Extensive soft tissue grafting may create contour irregularities or excessive buccal prominence.
 
-Cost-benefit analysis suggests that extensive treatment directed solely toward corridor modification may not always justify expense when patients have acceptable overall smile esthetics. Treatment prioritization should weigh corridor concerns against other smile deficiencies and patient treatment goals.
+Cost-benefit analysis suggests that extensive treatment directed solely toward corridor change may not always justify expense when patients have acceptable overall smile esthetics. Treatment prioritization should weigh corridor concerns against other smile deficiencies and patient treatment goals.
 
 ## Patient Communication and Treatment Planning
 
@@ -132,19 +132,19 @@ Patient education regarding buccal corridors and smile esthetics components impr
 
 Photographic presentation of corridor variations helps patients appreciate individual preference diversity. Showing before/after cases with varying corridor widths permits patients to identify personally preferred esthetic parameters rather than accepting clinician-determined ideals.
 
-Discussion of treatment risks and benefits enables informed decision-making. Educating patients about expansion requirements, restorative implications, and potential complications guides realistic expectations and satisfactory outcomes.
+Discussion of treatment risks and benefits enables informed decision-making. Educating patients about expansion requirements, restorative implications, and potential problems guides realistic expectations and satisfactory outcomes.
 
 Patient-centric treatment planning prioritizes individual patient goals and concerns rather than clinician preferences. If patients express minimal concern regarding wide buccal corridors, treatment directed toward other smile deficiencies may prove more satisfying and cost-effective.
 
 ## Summary and Clinical Recommendations
 
-Buccal corridors represent negative space between posterior teeth and lips during smiling, with width varying substantially based on jaw morphology, dental arch width, lip position, and tooth inclination. Esthetic perception of corridor prominence varies among individuals and ethnic populations; research supports neither a universal optimal corridor width nor definitive clinical treatment guidelines.
+Buccal corridors represent negative space between posterior teeth and lips during smiling, with width varying greatly based on jaw morphology, dental arch width, lip position, and tooth inclination. Esthetic perception of corridor prominence varies among individuals and ethnic populations; research supports neither a universal optimal corridor width nor definitive clinical treatment guidelines.
 
-Assessment should integrate corridor dimensions within comprehensive smile analysis including smile arc, gingival display, tooth exposure, and midline position. Treatment should address corridors only when patients express specific cosmetic concerns or when corridor width significantly compromises overall smile esthetics in context of other planned treatments.
+Assessment should integrate corridor dimensions within full smile analysis including smile arc, gingival display, tooth exposure, and midline position. Treatment should address corridors only when patients express specific cosmetic concerns or when corridor width much compromises overall smile esthetics in context of other planned treatments.
 
-Orthodontic posterior expansion effectively reduces corridor width by 1-2mm per 3-4mm of arch expansion; this represents the primary modality when orthodontic treatment is planned for other reasons. Surgical advancement, soft tissue grafting, and restorative modifications provide alternative approaches for non-orthodontic cases or when expansion is contraindicated.
+Orthodontic posterior expansion effectively reduces corridor width by 1-2mm per 3-4mm of arch expansion; this represents the primary modality when orthodontic treatment is planned for other reasons. Surgical advancement, soft tissue grafting, and restorative changes provide other option approaches for non-orthodontic cases or when expansion is contraindicated.
 
-Digital smile design technology enables treatment visualization and patient collaboration in outcome specification. Mixed treatment approaches combining multiple modalities frequently optimize outcomes more effectively than single interventions. Treatment prioritization should balance patient concerns, treatment goals, and clinical feasibility rather than pursuit of arbitrary esthetic standards.
+Digital smile design technology enables treatment visualization and patient collaboration in outcome specification. Mixed treatment approaches combining multiple modalities frequently optimize outcomes more effectively than single treatments. Treatment prioritization should balance patient concerns, treatment goals, and clinical feasibility rather than pursuit of arbitrary esthetic standards.
 
 
 Related reading: [Creating Your Best Smile: Lips, Teeth, and Proportions](/article/lip-lines-and-smile-arc-aesthetic-proportions-explained.html) and [Cost of Tooth Gap Closure](/article/cost-of-tooth-gap-closure.html).

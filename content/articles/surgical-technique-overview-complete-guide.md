@@ -34,7 +34,7 @@ references:
 ---
 ## Introduction
 
-Successful oral surgery rests on mastery of fundamental surgical techniques. Whether your surgeon is extracting teeth, placing implants, or correcting jaw deformities, the principles remain constant: prevent infection, handle tissues gently, control bleeding, and close wounds properly. This guide explains the core techniques that surgeons use every day to achieve superior healing, reduced complications, and optimal outcomes for their patients.
+Successful oral surgery rests on mastery of fundamental surgical techniques. Whether your surgeon is extracting teeth, placing implants, or correcting jaw deformities, the principles remain constant: prevent infection, handle tissues gently, control bleeding, and close wounds properly. This guide explains the core techniques that surgeons use every day to achieve superior healing, reduced problems, and optimal outcomes for their patients.
 
 ## Starting Safely: Aseptic Technique
 
@@ -50,7 +50,7 @@ Infection prevention is the foundation of all surgery. Learn more about [Surgica
 
 ## Gentle Tissue Handling: Minimizing Trauma
 
-How your surgeon handles tissues directly affects pain, swelling, and healing timeline. Rough handling creates inflammation, delays healing, and increases scarring.
+How your surgeon handles tissues directly affects pain, swelling, and healing timeline. Rough handling creates swelling, delays healing, and increases scarring.
 
 **Retraction Pressure**: When your surgeon lifts tissue flaps for visibility, they use steady, gentle tension maintained at minimal pressure (never exceeding the weight of a full retractor—about 200 grams). Excessive pressure compromises blood flow and causes tissue damage. For long procedures, surgeons periodically release retraction every 10-15 minutes to allow blood flow recovery, preventing ischemic injury.
 
@@ -86,7 +86,7 @@ Proper suturing restores flap margins to contact, stabilizes graft materials, an
 
 ## Controlling Bleeding: Preventing Hematoma Formation
 
-Complete bleeding control at surgery conclusion prevents post-operative hematoma and associated complications.
+Complete bleeding control at surgery conclusion prevents post-operative hematoma and associated problems.
 
 **Pressure Application**: Gauze moistened with epinephrine solution (1:10,000 concentration) applied with firm pressure for 3-5 minutes remains the most practical intraoperative technique. Hydrogen peroxide (3%) rinses effectively remove clots obscuring visualization without impairing healing.
 
@@ -102,7 +102,7 @@ Complete bleeding control at surgery conclusion prevents post-operative hematoma
 
 : Technical Excellence Drives Outcomes
 
-Mastery of fundamental surgical techniques—aseptic protocol, gentle tissue handling, appropriate flap design, proper suturing, and complete hemostasis—forms the technical foundation for superior healing and optimal outcomes. While techniques vary based on clinical context, principles remain constant. Surgeons prioritizing technical precision at every step consistently achieve superior healing, reduced complications, and excellent patient outcomes that establish their reputation. These aren't complicated principles—they're thoughtful, methodical approach to every aspect of surgical care combined with adequate training and experience.
+Mastery of fundamental surgical techniques—aseptic protocol, gentle tissue handling, appropriate flap design, proper suturing, and complete hemostasis—forms the technical foundation for superior healing and optimal outcomes. While techniques vary based on clinical context, principles remain constant. Surgeons prioritizing technical precision at every step consistently achieve superior healing, reduced problems, and excellent patient outcomes that establish their reputation. These aren't complicated principles—they're thoughtful, methodical approach to every aspect of surgical care combined with adequate training and experience.
 
 > **Key Takeaway:** Surgical technique excellence relies on mastering fundamental principles: prevent infection, handle tissues gently, control bleeding completely, and close wounds precisely. These core techniques directly translate to your faster healing and fewer complications.
 

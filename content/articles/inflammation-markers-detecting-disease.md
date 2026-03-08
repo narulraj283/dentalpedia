@@ -36,7 +36,7 @@ Your body constantly produces inflammatory markers—chemical signals indicating
 
 ## Blood Tests for Gum Disease
 
-C-reactive protein (CRP) is a classic inflammation marker. When you have severe gum disease, your body produces elevated CRP—your immune system's response to chronic bacterial infection below your gums. Successful gum treatment reduces CRP levels, showing that the infection is improving. However, CRP isn't specific to gum disease—it rises with any inflammation, so it's not a diagnosis by itself, just one piece of information.
+C-reactive protein (CRP) is a classic inflammation marker. When you have severe gum disease, your body produces elevated CRP—your immune system's response to chronic bacterial infection below your gums. Successful gum treatment reduces CRP levels, showing that the infection is improving. However, CRP isn't specific to gum the condition—it rises with any inflammation, so it's not a diagnosis by itself, just one piece of information.
 
 Interleukin-6 (IL-6) and Tumor Necrosis Factor-Alpha (TNF-α) are inflammation signaling molecules produced during gum disease. They increase 2-10 fold in people with severe periodontitis. These chemicals tell your immune cells to attack the infection, but they also trigger bone loss around your teeth. Higher levels indicate more severe disease and greater bone loss. When gum treatment works, these markers decrease, showing improvement.
 
@@ -72,21 +72,20 @@ Cost is another consideration. Advanced biomarker panels may not be covered by i
 
 ## The Future of Disease Detection
 
-Emerging technologies promise even better disease detection. New biomarkers for gum disease are constantly being discovered. Combining multiple markers with artificial intelligence might enable disease prediction before clinical symptoms appear. Personalized medicine approaches tailored to your specific molecular profile represent the future.
+Emerging technologies promise even better disease detection. New biomarkers for gum disease are constantly being discovered. Combining multiple markers with artificial intelligence might enable it prediction before clinical symptoms appear. Personalized medicine approaches tailored to your specific molecular profile represent the future.
 
 Current available testing—particularly salivary MMP-8—provides real clinical value today. As technology improves, these tests will become faster, cheaper, and more accurate.
 
 ## Protecting Your Results Long-Term
 
-Once you've addressed inflammation markers detecting disease, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+Once you've addressed inflammation markers detecting the condition, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
 
 
 *Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
-Whether you're just learning about how doctors detect gum disease early or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Once you've addressed inflammation markers detecting the condition, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems.
 
 > **Key Takeaway:** Blood and saliva tests can show gum disease before you notice symptoms. Learn what these tests measure.
 

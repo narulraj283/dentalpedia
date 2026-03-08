@@ -95,9 +95,7 @@ Diet also plays a role in protecting your dental health. Limiting sugary snacks 
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. Diet also plays a role in protecting your dental health. Limiting sugary snacks and acidic drinks helps preserve your teeth and any dental work you've had done. Drinking water throughout the day helps wash away food particles and keeps your mouth hydrated.
 
 > **Key Takeaway:** Modern nickel-titanium rotary instruments represent cutting-edge technology that makes root canals faster, safer, and far more successful than older techniques.
 

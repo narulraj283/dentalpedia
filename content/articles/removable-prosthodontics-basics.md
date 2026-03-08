@@ -33,7 +33,7 @@ Creating a complete denture is a months-long process, not something that happens
 
 A partial denture replaces some teeth while keeping your natural teeth. This is actually easier for your mouth than a complete denture because your remaining teeth help hold the denture in place. The metal clasps grip your natural teeth, providing retention that a complete denture simply can't achieve. Your mouth is also more accustomed to some natural teeth being present, so adaptation is often faster.
 
-Partial dentures work on the principle that your natural teeth will support the artificial teeth and prosthetic tissues. The remaining teeth do more work than they did before, which is why your dentist focuses on keeping them as healthy as possible. If you're getting a partial denture, your dentist will probably spend time on your remaining teeth, making sure they're cavity-free, that your gums are healthy, and that your bite is balanced.
+Partial dentures work on the principle that your natural teeth will support the artificial teeth and prosthetic tissues. The remaining teeth do more work than they did before, which is why your dentist focuses on keeping them as healthy as possible. If you're getting a partial it, your dentist will probably spend time on your remaining teeth, making sure they're cavity-free, that your gums are healthy, and that your bite is balanced.
 
 Partial dentures can be as simple as replacing one or two teeth or as complex as replacing multiple teeth in different areas. The complexity depends on which teeth are missing, how many are missing, and whether the missing teeth are in the front or back of your mouth.
 

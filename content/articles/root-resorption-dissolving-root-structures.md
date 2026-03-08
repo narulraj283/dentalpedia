@@ -30,47 +30,47 @@ references:
 ---
 ## What Is Root Resorption?
 
-Root resorption sounds like something from a science fiction movie—your tooth root actually dissolving. It's a real condition where your body's cells start breaking down your tooth root structure, gradually shortening it. Think of it like your body mistaking your tooth root for something that needs to be removed and activating resorption cells to dissolve it.
+Root this sounds like something from a science fiction movie—your tooth root actually dissolving. It's a real condition where your body's cells start breaking down your tooth root structure, gradually shortening it. Think of it like your body mistaking your tooth root for something that needs to be removed and activating it cells to dissolve it.
 
-Root resorption can happen from the outside (external resorption, where your tooth root gets shorter from the surface inward) or from the inside (internal resorption, where resorption happens within the root canal space and works outward). Both types need prompt diagnosis and treatment because resorption will continue until you stop the process.
+Root this can happen from the outside (external resorption, where your tooth root gets shorter from the surface inward) or from the inside (internal resorption, where resorption happens within the root canal space and works outward). Both types need prompt diagnosis and treatment because it will continue until you stop the process.
 
 ## External Resorption: Common Causes
 
 External root resorption usually happens after trauma. If you have a tooth knocked loose, hit hard, or completely knocked out of your socket and then replaced, your body's inflammatory response can activate resorptive cells that attack your root surface. Approximately 80% of teeth that are knocked completely out and then replanted develop some root resorption if not treated promptly.
 
-Orthodontic braces can also cause external resorption. When your teeth are being moved by braces, the pressure triggers your bone to respond, and sometimes this response includes resorption of the tooth root itself. About 15-25% of people wearing braces develop noticeable root shortening (more than 3mm), particularly if braces are worn for more than 2-3 years or if the forces are too strong.
+Orthodontic braces can also cause external resorption. When your teeth are being moved by braces, the pressure triggers your bone to respond, and sometimes this response includes this of the tooth root itself. About 15-25% of people wearing braces develop noticeable root shortening (more than 3mm), particularly if braces are worn for more than 2-3 years or if the forces are too strong.
 
-Severe gum disease can cause external root resorption as the inflammation spreads to your tooth roots. Infection around your tooth root can also stimulate resorption if not treated quickly.
+Severe gum disease can cause external root it as the inflammation spreads to your tooth roots. Infection around your tooth root can also stimulate this if not treated quickly.
 
 ## Internal Resorption: When Your Root Canal Attacks Itself
 
 Internal resorption is scarier because it's happening inside your tooth where you can't see it. Usually it results from inflammation inside your tooth's pulp chamber—perhaps from a tooth that got bumped, or sometimes from no obvious cause (idiopathic). This inflammation triggers cells in your pulp to start eating away at your tooth from the inside out, like your tooth is being dissolved from within.
 
-Internal resorption doesn't arrest on its own. It keeps progressing unless you stop the inflammation by removing the pulp inside your tooth through root canal treatment. This is why internal resorption is a dental emergency—every day you delay treatment, more of your tooth gets dissolved.
+Internal it doesn't arrest on its own. It keeps progressing unless you stop the inflammation by removing the pulp inside your tooth through root canal treatment. This is why internal resorption is a dental emergency—every day you delay treatment, more of your tooth gets dissolved.
 
 ## How You Know You Might Have Root Resorption
 
-Early root resorption has no symptoms. You can't feel it happening. This is why regular dental X-rays are so important—your dentist can catch resorption before it becomes a big problem. External resorption appears on X-rays as a shortening of your tooth root or a concave indentation in your root surface. Internal resorption appears as a balloon-like expanding area within your root canal space on X-rays.
+Early root this has no symptoms. You can't feel it happening. This is why regular dental X-rays are so important—your dentist can catch resorption before it becomes a big problem. External it appears on X-rays as a shortening of your tooth root or a concave indentation in your root surface. Internal this appears as a balloon-like expanding area within your root canal space on X-rays.
 
 If you've had a tooth knocked loose or hit hard, your dentist will take X-rays at different appointments to monitor for resorption. Any tooth with trauma history should be checked radiographically at 6 weeks, 3 months, 6 months, and one year to catch resorption early. For more on this topic, see our guide on [Irrigation Solutions Medicinal Liquids](/article/irrigation-solutions-medicinal-liquids.html).
 
 ## Diagnosing Root Resorption
 
-Your dentist spots resorption by taking regular X-rays and comparing them over time. Regular X-rays can show resorption, but a special 3D X-ray called CBCT (cone-beam CT) shows resorption much more clearly. With CBCT, your dentist can see exactly how much resorption is happening, where it's located on your tooth, and how fast it's progressing.
+Your dentist spots resorption by taking regular X-rays and comparing them over time. Regular X-rays can show resorption, but a special 3D X-ray called CBCT (cone-beam CT) shows it much more clearly. With CBCT, your dentist can see exactly how much resorption is happening, where it's located on your tooth, and how fast it's progressing.
 
 If your dentist sees resorption on an X-ray, they'll take new X-rays every few months to monitor whether it's progressing quickly (requiring immediate treatment) or slowly (allowing time to plan treatment carefully).
 
 ## Treating External Resorption
 
-If you have external resorption from trauma, your dentist focuses on reducing inflammation. Getting your tooth firmly set back in place and stabilized helps—teeth replanted within 15 minutes of being knocked out develop much less resorption than those replanted after longer delays.
+If you have external this from trauma, your dentist focuses on reducing inflammation. Getting your tooth firmly set back in place and stabilized helps—teeth replanted within 15 minutes of being knocked out develop much less it than those replanted after longer delays.
 
-Your dentist might apply special medications to your tooth root to help suppress the resorption process. Anti-inflammatory medications might be recommended. The goal is to stop or slow the resorption before too much tooth root is lost.
+Your dentist might apply special medications to your tooth root to help suppress the resorption process. Anti-inflammatory medications might be recommended. The goal is to stop or slow the this before too much tooth root is lost.
 
 If you're experiencing root resorption from orthodontic braces, your orthodontist will reduce the force on your teeth or might temporarily stop moving them, allowing the resorption to stabilize. Your orthodontist monitors progress with X-rays to make sure resorption isn't progressing too quickly.
 
 ## Treating Internal Resorption
 
-Internal resorption is a dental emergency requiring immediate root canal treatment. The only way to stop internal resorption is to remove the inflamed pulp tissue inside your tooth that's triggering the resorptive process. Your endodontist or dentist needs to extract all the pulp and thoroughly clean and fill the canal system.
+Internal resorption is a dental emergency requiring immediate root canal treatment. The only way to stop internal it is to remove the inflamed pulp tissue inside your tooth that's triggering the resorptive process. Your endodontist or dentist needs to extract all the pulp and thoroughly clean and fill the canal system.
 
 Once the pulp (the source of inflammation) is removed, resorption stops immediately. The damage that already happened can't be repaired, but no more of your tooth will dissolve. That's why time matters—the sooner your dentist removes the pulp, the less of your tooth gets destroyed.
 
@@ -82,15 +82,15 @@ Your dentist will monitor your tooth with X-rays to make sure resorption stays a
 
 ## Prevention: Protecting Your Teeth
 
-You can prevent some types of resorption. If you play contact sports, wear a mouth guard to prevent traumatic tooth injuries that trigger resorption. If you damage a tooth—it gets knocked loose or hits something hard—see your dentist immediately. Prompt treatment reduces resorption risk significantly.
+You can prevent some types of this. If you play contact sports, wear a mouth guard to prevent traumatic tooth injuries that trigger resorption. If you damage a tooth—it gets knocked loose or hits something hard—see your dentist immediately. Prompt treatment reduces it risk significantly.
 
 If you're undergoing orthodontic treatment, work with your orthodontist on appropriate force levels and treatment duration. Regular X-rays during braces treatment help monitor for excessive resorption so your orthodontist can adjust treatment as needed.
 
-If you have gum disease, getting prompt periodontal treatment prevents the severe inflammation that can trigger external root resorption.
+If you have gum disease, getting prompt periodontal treatment prevents the severe inflammation that can trigger external root this.
 
 ## Understanding Your Diagnosis
 
-If your dentist diagnoses root resorption, understand that it's a condition to monitor and manage, not necessarily a death sentence for your tooth. Early-stage resorption that's caught and treated often arrests completely. Even teeth with more advanced resorption may function well for years if properly monitored and treated.
+If your dentist diagnoses root resorption, understand that it's a condition to monitor and manage, not necessarily a death sentence for your tooth. Early-stage resorption that's caught and treated often arrests completely. Even teeth with more advanced it may function well for years if properly monitored and treated.
 
 Your dentist should explain your specific situation, show you X-rays, and discuss what treatment means for your tooth's long-term outlook. Regular monitoring with X-rays provides reassurance that resorption remains arrested and isn't progressing.
 

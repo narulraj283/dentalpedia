@@ -90,8 +90,7 @@ Related reading: [Dentin Hypersensitivity and Evidence-Based Relief](/article/un
 
 ## Conclusion
 
-Whether you're just learning about gingival bleeding: diagnosis, etiology, and evidence-based or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. If you have diabetes, gum disease makes blood sugar control harder. The good news: treating your gum disease can improve your blood sugar by 0.4-0.7%, which is meaningful.
 
 > **Key Takeaway:** Bleeding gums affect about half of all adults worldwide. Among people over 30, nearly half have some form of gum disease.
 

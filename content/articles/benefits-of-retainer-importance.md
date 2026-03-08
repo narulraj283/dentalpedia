@@ -92,7 +92,6 @@ Related reading: [Orthodontic Treatment Duration Factors Affecting](/article/ort
 Retention is not temporary phase concluding orthodontic treatment but rather permanent aspect of orthodontic care. Gingival fiber memory and PDL remodeling create relapse tendency persisting throughout life. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** Here's a fact that surprises many patients: your teeth naturally want to return to their original positions.
 
 ## Related Articles

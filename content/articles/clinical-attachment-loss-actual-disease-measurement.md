@@ -156,8 +156,7 @@ For more information, see [Graft Surgery for Gum Recession Repair](/article/graf
 
 ## Conclusion
 
-For more information, see [Graft Surgery for Gum Recession Repair](/article/graft-surgery-for-gum-recession-repair.html) and [Root Planing - Smoothing Root Surfaces in](/article/root-planing-smoothing-root-surfaces.html). Your dentist can provide personalized recommendations based on your specific needs. Attachment loss of 5mm+ indicates significant disease requiring professional treatment. Regular monitoring, excellent home care, and professional cleanings every 3-4 months can stabilize attachment loss and preserve your teeth for life.
-
+For more information, see Graft Surgery for Gum Recession Repair and Root Planing - Smoothing Root Surfaces in. Your dentist can provide personalized recommendations based on your specific needs. Attachment loss of 5mm+ indicates significant disease requiring professional treatment. Regular monitoring, excellent home care, and professional cleanings every 3-4 months can stabilize attachment loss and preserve your teeth for life.
 
 
 > **Key Takeaway:** Learn how dentists measure gum disease severity by checking how much gum attachment has been lost around your teeth.

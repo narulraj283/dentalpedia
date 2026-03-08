@@ -110,7 +110,7 @@ Your dentist will have all emergency equipment in the office—oxygen, special a
 
 Before your child's sedation appointment, your dentist will ask detailed questions about your child's health, medicines, and allergies. You might need to limit your child's food and drinks before the appointment—this is standard for safety. Your dentist will explain everything and answer all your questions so you feel confident.
 
-After the procedure, your child needs to rest and recover. Most children are back to normal consciousness within 30 to 60 minutes. Before your child leaves, your dentist makes sure they're awake enough, their vital signs are stable, and they're comfortable.
+After the procedure, your child needs to rest and recover. Most children are back to normal consciousness within 30 to 60 minutes. Before your it leaves, your dentist makes sure they're awake enough, their vital signs are stable, and they're comfortable.
 
 Your child should have no food or drink right away—wait about 30 to 60 minutes. Keep your child relaxed for the rest of the day and avoid active play. Your dentist will give you written instructions for home care.
 
@@ -118,9 +118,7 @@ Call your dentist if your child has unusual symptoms after going home. Most chil
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. Call your dentist if your child has unusual symptoms after going home. Most children sleep well that night and feel completely normal the next day. Some kids might feel a bit sleepy or groggy for a few hours, but this passes quickly.
 
 > **Key Takeaway:** Sedation can transform your child's dental experience from stressful to smooth and comfortable. Talk openly with your dentist about your child's anxiety level, what procedures they need, and which sedation option feels right for your family. Your dentist will match the right sedation level to your child's needs while keeping safety as the top priority. With proper monitoring, emergency preparedness, and skilled dental professionals, sedation allows your child to get the dental care they need while staying calm and safe.
 

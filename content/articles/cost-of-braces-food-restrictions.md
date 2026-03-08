@@ -21,8 +21,7 @@ references:
   - "Younis MH, Al Musawi EM. Dietary modification during orthodontic treatment. J Dent Health Oral Disord Ther. 2018;9(1):00324."
   - "Marquezan M, Osório A, Sant'Anna E, et al. Does low level laser therapy increase the rate of orthodontic tooth movement? A systematic review. Lasers Med Sci. 2016;31(5):881-889."
   - "Ata-Ali J, Ata-Ali F. Complications associated with self-ligation in orthodontics: A systematic review. J Orthod. 2015;42(2):137-146."
----
-During braces, avoid sticky and hard foods that damage brackets. Food restrictions seem inconvenient, but avoiding a $400 bracket replacement makes following the rules worthwhile. Here's what you can and can't eat, plus budget-friendly alternatives. Maintaining good [Oral Health Habits](/article/oral-health-habits-complete-guide.html) and proper diet helps ensure successful [Braces Treatment](/article/cost-of-bite-correction-methods.html).
+---During braces, avoid sticky and hard foods that damage brackets. Food restrictions seem inconvenient, but avoiding a $400 bracket replacement is worth it. Here's what you can and can't eat, plus budget-friendly alternatives. Maintaining good [Oral Health Habits](/article/oral-health-habits-complete-guide.html) and proper diet helps ensure successful [Braces Treatment](/article/cost-of-bite-correction-methods.html).
 
 ## Why Food Restrictions Matter
 
@@ -143,20 +142,19 @@ During braces, avoid sticky and hard foods that damage brackets. Food restrictio
 **Average family diet annual cost**: $3,000-$5,000
 
 **Food changes during 24-month treatment**:
-- Slight increase from processed or softer alternatives: 5-10% ($150-$500 total over 2 years)
-- You save money by not buying expensive restaurant meals or snacks you can't eat: -2-5% ($60-$250)
+- Softer alternatives cost slightly more: 5-10% increase ($150-$500 total over 2 years)
+- You save by not buying restaurant meals or snacks you can't eat: -2-5% savings ($60-$250)
 - Net cost increase: 0-5% ($0-$250 total over 2 years)
 
-**Alternative calculation**:
-- Replacing forbidden foods with compliant alternatives: Roughly equivalent cost
-  - Apple ($0.50) → Applesauce ($0.50)
-  - Raw carrots ($0.30) → Cooked carrots ($0.30)
-  - Nuts ($5/lb) → Soft cheese ($6/lb, similar)
-  - Popcorn ($4/box) → Softer snacks ($4/box)
+**Alternative calculation** (replacing forbidden foods costs about the same):
+- Apple ($0.50) → Applesauce ($0.50)
+- Raw carrots ($0.30) → Cooked carrots ($0.30)
+- Nuts ($5/lb) → Soft cheese ($6/lb, similar price)
+- Popcorn ($4/box) → Softer snacks ($4/box)
 
 **Bottom line**: Food cost increase is small ($0-$250 over entire treatment)
 
-**Compared to bracket replacement cost**: $200-$1,200 and extra time in braces
+**Compare this to bracket replacement**: $200-$1,200 plus extra time in braces
 
 ## Making the Transition
 
@@ -173,11 +171,11 @@ During braces, avoid sticky and hard foods that damage brackets. Food restrictio
 
 ### Weeks 3-4: New Normal
 
-**What happens**: Soft foods become normal; you stop thinking about the restrictions
+**What happens**: Soft foods feel normal. You stop thinking about restrictions.
 
-**Many people report**: Their diet improves (less junk food, more nutrition)
+**Many people report**: Their diet improves with less junk food and more nutrition.
 
-**Some even report**: They continue to prefer soft foods after braces because they're easier to digest
+**Some even report**: They continue preferring soft foods after braces because they're easier to digest.
 
 ## Eating at School/Work/Social Events
 
@@ -231,21 +229,21 @@ During braces, avoid sticky and hard foods that damage brackets. Food restrictio
 ### Vegetables and Fiber
 
 **Soft vegetable options have equal or better nutrition**:
-- Cooked vegetables: Your body absorbs more nutrients than from raw vegetables
+- Cooked vegetables: Your body absorbs more nutrients than from raw ones.
 - Applesauce: Same nutrition as apples
-- Soft vegetables give you enough fiber
+- Soft vegetables give you enough fiber.
 
 ### Calcium and Bone Health
 
-**Soft dairy sources**:
+**Soft dairy sources provide adequate calcium**:
 - Yogurt, soft cheese, milk, ice cream
-- Adequate for bone health during treatment
+- These provide adequate calcium for bone health during treatment.
 
 ### Overall Nutrition
 
-**Bottom line**: A soft diet gives your body all the nutrition it needs. You don't need supplements.
+**Bottom line**: A soft diet provides all the nutrition your body needs. You don't need supplements.
 
-**Possible benefits**: Some people say they digest softer foods better
+**Possible benefits**: Some people digest softer foods better.
 
 ## Special Situations
 
@@ -329,11 +327,11 @@ During braces, avoid sticky and hard foods that damage brackets. Food restrictio
 
 ## Conclusion
 
-Food restrictions during braces prevent bracket damage costing $200-$1,200 and extra time in treatment. Avoiding sticky and hard foods costs nothing (just a behavioral change) or increases your food cost by 0-5% ($0-$250 total). Soft food alternatives have all the nutrition you need and are often healthier.
+Food restrictions during braces prevent bracket damage costing $200-$1,200 and extra treatment time. Avoiding sticky and hard foods costs nothing (just a behavioral change) or increases food cost by 0-5% ($0-$250 total). Soft food alternatives have all the nutrition you need and are often healthier.
 
-Most people get used to the restrictions within 2-4 weeks. Following dietary rules saves far more money than it costs by preventing bracket repairs and extra treatment time. While restrictions feel limiting at first, they become normal quickly. The 24-30 months of food restrictions prevent thousands in costs and keep treatment on schedule.
+Most people adapt within 2-4 weeks. Following dietary rules saves far more money than it costs by preventing bracket repairs and extra treatment time. While restrictions feel limiting at first, they become normal quickly. The 24-30 months of food restrictions prevent thousands in costs and keep treatment on schedule.
 
-> > **Key Takeaway:** Food restrictions prevent $200-$1,200 in bracket replacements and 2-4 month treatment delays. Avoiding sticky and hard foods costs $0 (compliance only) and adapts within 2-4 weeks. Soft-food alternatives are nutritionally adequate. The temporary dietary modifications save far more than they cost in prevented complications. Talk to your orthodontist about strategies for eating at school, work, and social events while maintaining compliance.
+> **Key Takeaway:** Food restrictions prevent $200-$1,200 in bracket replacements and 2-4 month treatment delays. Avoiding sticky and hard foods costs $0 (compliance only) and adapts within 2-4 weeks. Soft-food alternatives are nutritionally adequate. The temporary dietary modifications save far more than they cost in prevented complications. Talk to your orthodontist about strategies for eating at school, work, and social events while maintaining compliance.
 
 ## Related Articles You May Find Helpful
 

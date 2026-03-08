@@ -32,7 +32,7 @@ Your general dentist handles routine cleanings, fillings, tooth extractions, and
 
 Periodontists specialize in treating gum disease and placing dental implants. They have extra training beyond dental school (typically 3 years) focused on the health of your gums and the bone supporting your teeth. If you have moderate to advanced gum disease—especially if your regular dentist has tried standard treatment and your gums aren't improving—a periodontist can often help.
 
-Periodontists use special techniques like scaling and root planing (deep cleaning), guided tissue regeneration to help regrow lost bone, and various bone grafting procedures. Many people do need specialists for gum disease because the disease can be aggressive and difficult to control without specialized knowledge and surgical skills. If your periodontist recommends bone or gum grafting to improve your situation, that's something general dentists typically don't have the training to do well.
+Periodontists use special techniques like scaling and root planing (deep cleaning), guided tissue regrowth to help regrow lost bone, and various bone grafting procedures. Many people do need specialists for gum disease because the disease can be aggressive and difficult to control without specialized knowledge and surgical skills. If your periodontist recommends bone or gum grafting to improve your situation, that's something general dentists typically don't have the training to do well.
 
 ## Orthodontists: Straightening Teeth and Fixing Your Bite
 
@@ -42,9 +42,9 @@ Your general dentist might notice that your bite could use correction, but an or
 
 ## Prosthodontists: Complex Tooth Replacement and Restoration
 
-Prosthodontists specialize in replacing missing teeth and restoring teeth that have been heavily damaged. Their training (2-3 years beyond dental school) emphasizes treatment planning for difficult cases, designing dentures that fit properly and look natural, creating implant-supported bridges, and managing complex cases involving many missing teeth or teeth that need extensive work.
+Prosthodontists specialize in replacing missing teeth and restoring teeth that have been heavily damaged. Their training (2-3 years beyond dental school) emphasizes treatment planning for difficult cases, designing dentures that fit properly and look natural, creating implant-supported bridges. Managing complex cases involving many missing teeth or teeth that need extensive work.
 
-If you're missing most of your teeth and need a comprehensive solution, or if you're having trouble with dentures that don't fit well, a prosthodontist can often help. They also handle complex cases requiring implants in difficult locations or cases where your bite needs complete reconstruction.
+If you're missing most of your teeth and need a full solution, or if you're having trouble with dentures that don't fit well, a prosthodontist can often help. They also handle complex cases requiring implants in difficult locations or cases where your bite needs complete reconstruction.
 
 ## Endodontists: Root Canal Specialists
 
@@ -54,7 +54,7 @@ For straightforward root canals, your general dentist may be fine, but for compl
 
 ## Oral Surgeons: Tooth Extraction and Surgical Specialists
 
-Oral surgeons specialize in surgical procedures including tooth extraction, particularly difficult extractions like impacted wisdom teeth. Beyond dental school, they complete 4 or more years of specialized training. While your general dentist can extract many teeth, if you need wisdom teeth removal or have complicated anatomy, an oral surgeon is the appropriate specialist.
+Oral surgeons specialize in surgical procedures including tooth extraction, especially difficult extractions like impacted wisdom teeth. Beyond dental school, they complete 4 or more years of specialized training. While your general dentist can extract many teeth, if you need wisdom teeth removal or have complicated anatomy, an oral surgeon is the appropriate specialist.
 
 [Periodontal-disease-and-tooth-loss-prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) Oral surgeons also handle jaw surgery for severe bite problems, place dental implants, and manage more complex surgical cases like removing cysts or tumors.
 
@@ -70,7 +70,7 @@ Your general dentist will refer you to a specialist when your situation requires
 
 ## Finding the Right Specialist
 
-Ask your general dentist for a recommendation—they know which specialists in your area do good work and how they handle different situations. You can also check credentials by looking for board certification (a dental specialist should be board-certified in their specialty). Ask potential specialists about their experience with your specific situation.
+Ask your general dentist for a advice—they know which specialists in your area do good work and how they handle different situations. You can also check credentials by looking for board certification (a dental specialist should be board-certified in their specialty). Ask potential specialists about their experience with your specific situation.
 
 ## Understanding Specialist Costs
 

@@ -149,11 +149,12 @@ Certain nutrients support faster healing. Vitamin C from sources like orange jui
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
+
+Related reading: [Traumatic Tooth Extrusion: Luxation Injuries](/article/extrusion-trauma-pulled-out.html).
+
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Learn more about [Intrusion Tooth Pushed Into](/article/intrusion-tooth-pushed-into-bone.html) for additional guidance. Understanding timeline for oral surgery recovery: what to expect after helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Post-operative healing progresses through predictable phases with expected milestones at specific timepoints. Acute inflammation (days 1-3) transitions to granulation tissue formation and epithelialization (days 4-7), then advanced bone healing (weeks 2-12), and long-term remodeling (months 3-12+). Pain and swelling timelines are predictable but vary with procedure complexity, patient age, and healing capacity. Deviation from expected healing progression (excessive pain, prolonged swelling, signs of infection, bone exposure) warrants clinical evaluation to identify and manage complications early.
 
 > **Key Takeaway:** Recovery follows a predictable pattern: Days 1-3 are rough (maximum pain and swelling), days 4-7 show dramatic improvement, and by week 2-3 you feel almost normal. Full bone healing takes 12+ weeks underneath even though it feels healed. Most complications appear within the first week, so alert your dentist immediately if something seems wrong. Following post-operative instructions closely (no rinsing, no straws, ice early/heat later) significantly improves your recovery.
 

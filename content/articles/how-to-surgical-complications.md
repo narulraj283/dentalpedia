@@ -86,8 +86,7 @@ While most surgical complications resolve with proper care, some situations requ
 
 ## Conclusion
 
-Whether you're just learning about surgical complications in oral surgery - recognition or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. While most surgical complications resolve with proper care, some situations require immediate attention. Go to your surgeon's office or an emergency room if you experience uncontrolled bleeding that doesn't stop after 30 minutes of firm pressure, difficulty breathing or swallowing, fever above 101 degrees that doesn't respond to medication, or sudden severe swelling that spreads rapidly. Numbness that appears days after surgery rather than immediately could indicate a developing complication that needs evaluation.
 
 > **Key Takeaway:** Know what could go wrong after tooth extraction surgery and what your dentist can do about it.
 

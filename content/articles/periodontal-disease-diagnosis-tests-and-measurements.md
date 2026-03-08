@@ -117,9 +117,7 @@ This longitudinal monitoring is why your dentist keeps detailed records. The mea
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Contemporary periodontal diagnosis integrates clinical parameters (probing depth, clinical attachment level, bleeding on probing), radiographic assessment (bone loss visualization and measurement), emerging molecular diagnostics (microbial identification, biomarker profiling), and systematic classification within evidence-based staging and grading frameworks. This multifactorial approach enables accurate disease characterization, facilitates standardized communication across clinical settings, guides evidence-based treatment intensity selection, and enables prognostication refinement incorporating disease stage, grade, and individual patient modulating factors. Integration of diagnostic innovation with rigorous clinical assessment remains fundamental to contemporary periodontal practice.
 
 > **Key Takeaway:** Your dentist uses a combination of measurements—probing depth, attachment loss, bleeding response, X-ray findings, and sometimes bacterial or biomarker testing—to diagnose gum disease and classify its severity and activity. The newer 2018 staging and grading system gives more specific information about your disease extent and prognosis. Understanding these diagnostic tools helps you appreciate why your dentist recommends specific treatment intensity and monitoring intervals. Regular examination allows your dentist to catch disease progression early when treatment is most successful and less invasive.
 

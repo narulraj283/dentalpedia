@@ -21,17 +21,17 @@ references:
 ---
 ## What Causes Severe Dental Pain and What to Do About It
 
-Severe dental pain usually means something is wrong and needs professional attention. Possible causes include cavities that have reached the nerve, abscessed teeth (infections at the root), cracked or broken teeth, gum disease, or problems with previous dental work. Some dental pain is an emergency that needs immediate attention (like a severe abscess), while other pain can wait for an appointment (like a small cavity).
+Severe dental soreness usually means something is wrong and needs professional attention. Possible causes include cavities that have reached the nerve, abscessed teeth (infections at the root), cracked or broken teeth, gum disease, or problems with previous dental work. Some dental pain is an emergency that needs immediate attention (like a severe abscess), while other pain can wait for an appointment (like a small cavity).
 
-Understanding what might be causing your pain helps you decide whether to seek emergency care or if you can wait. But honestly, any severe dental pain deserves professional evaluation—don't assume it will go away on its own.
+Understanding what might be causing your pain helps you decide whether to seek emergency care or if you can wait. But honestly, any severe dental discomfort deserves professional evaluation—don't assume it will go away on its own.
 
 ## Types of Dental Pain and What They Mean
 
 Sharp, shooting pain often indicates nerve involvement. This typically means the decay has reached the nerve or there's significant inflammation. Throbbing pain suggests infection and swelling.
 
-Constant aching pain might indicate a cavity or gum problem. Pain when biting down suggests a cracked tooth or problem with a restoration. Pain and swelling together suggest infection.
+Constant aching pain might indicate a cavity or gum problem. The sensation when biting down suggests a cracked tooth or problem with a restoration. Pain and swelling together suggest infection.
 
-The location, character, and timing of pain help your dentist diagnose the problem. If your pain suddenly started, it's usually worse than pain that gradually developed. Severe pain that's rapidly getting worse is more urgent than mild to moderate pain.
+The location, character, and timing of soreness help your dentist diagnose the problem. If your pain suddenly started, it's usually worse than discomfort that gradually developed. Severe the sensation that's rapidly getting worse is more urgent than mild to moderate pain.
 
 ## When Dental Pain Is an Emergency
 
@@ -39,13 +39,13 @@ Seek immediate dental care (emergency room or emergency dental clinic) if you ha
 
 ## First Aid for Severe Dental Pain
 
-While waiting for dental care: Avoid very hot, very cold, or hard foods. Take over-the-counter pain relievers (acetaminophen or ibuprofen) following package directions. A cold compress applied to your cheek (not directly on skin) can reduce swelling and numb pain. Rinse with warm salt water if your pain is from gum issues. Avoid chewing on the painful side of your mouth.
+While waiting for dental care: Avoid very hot, very cold, or hard foods. Take over-the-counter soreness relievers (acetaminophen or ibuprofen) following package directions. A cold compress applied to your cheek (not directly on skin) can reduce swelling and numb pain. Rinse with warm salt water if your discomfort is from gum issues. Avoid chewing on the painful side of your mouth.
 
 Do NOT put aspirin directly on your gum or tooth—this can cause damage. Don't use toothpicks or try to force objects between teeth to clean out debris (you might drive debris deeper or damage the tooth).
 
 ## Temporary Pain Management
 
-If you can't get to a dentist immediately: Continue appropriate pain relievers. A numbing gel designed for oral pain (available over-the-counter) might provide temporary relief. Avoid very hot or very cold drinks and foods. Sleep with your head elevated—lying flat increases pressure and pain. Avoid chewing on ice, hard candy, or other hard objects that could worsen the problem.
+If you can't get to a dentist immediately: Continue appropriate pain relievers. A numbing gel designed for oral the sensation (available over-the-counter) might provide temporary relief. Avoid very hot or very cold drinks and foods. Sleep with your head elevated—lying flat increases pressure and pain. Avoid chewing on ice, hard candy, or other hard objects that could worsen the problem.
 
 These are temporary measures. You still need professional care to fix the underlying problem.
 
@@ -63,13 +63,13 @@ An abscessed tooth (an infection at the root) is serious. Signs include severe p
 
 ## Cracked or Broken Teeth
 
-A cracked tooth might cause sharp pain when you bite down or when the crack is exposed to cold. The pain indicates the crack extends into or near the nerve. Treatment depends on crack location and severity. Some cracks can be repaired; others might need root canal or extraction.
+A cracked tooth might cause sharp soreness when you bite down or when the crack is exposed to cold. The pain indicates the crack extends into or near the nerve. Treatment depends on crack location and severity. Some cracks can be repaired; others might need root canal or extraction.
 
 If you broke a tooth, try to find the broken piece. Rinse it gently and store it in milk if possible—sometimes it can be reattached. Get to your dentist quickly.
 
 ## Pain From Recent Dental Work
 
-Some pain after dental procedures is normal, but severe pain might indicate a problem. After a filling, brief sensitivity to cold is normal. After a crown, slight bite adjustment sensitivity is normal. After a root canal, some tenderness for a few days is normal. However, severe pain, pain that gets worse, or pain lasting more than a few weeks might indicate a problem.
+Some discomfort after dental procedures is normal, but severe pain might indicate a problem. After a filling, brief sensitivity to cold is normal. After a crown, slight bite adjustment sensitivity is normal. After a root canal, some tenderness for a few days is normal. However, severe pain, pain that gets worse, or the sensation lasting more than a few weeks might indicate a problem.
 
 Contact your dentist about post-operative pain. They can assess whether the pain is normal healing or an indication of a problem like a missed canal, cracked tooth, or inadequate restoration.
 
@@ -79,7 +79,7 @@ While waiting for dental care, some people find relief from clove oil, salt wate
 
 ## Prevention: Avoiding Emergency Dental Pain
 
-Regular dental checkups catch cavities, cracked teeth, and infections before they cause pain. Good oral hygiene prevents many problems. Avoid chewing on hard objects, ice, or using teeth to open packages. Wear a mouthguard during contact sports to prevent trauma. If you grind your teeth, a night guard protects them.
+Regular dental checkups catch cavities, cracked teeth, and infections before they cause soreness. Good oral hygiene prevents many problems. Avoid chewing on hard objects, ice, or using teeth to open packages. Wear a mouthguard during contact sports to prevent trauma. If you grind your teeth, a night guard protects them.
 
 ## Communication With Your Dentist
 
@@ -87,7 +87,7 @@ When you contact your dentist about pain, describe it clearly: sharp or dull, co
 
 ## Cost Considerations
 
-Emergency dental care costs more than regular care, which is another reason prevention and regular checkups are valuable. Treating a small cavity is much cheaper than treating an abscess or extracting a tooth. Investing in preventive care saves money and prevents pain.
+Emergency dental care costs more than regular care, which is another reason prevention and regular checkups are valuable. Treating a small cavity is much cheaper than treating an abscess or extracting a tooth. Investing in preventive care saves money and prevents discomfort.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 

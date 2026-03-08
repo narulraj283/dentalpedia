@@ -93,7 +93,6 @@ Your crown will eventually need maintenance. Crowns can stain, need polishing, o
 Your crown will eventually need maintenance. Crowns can stain, need polishing, or occasionally need replacement. Talk to your dentist about how this applies to your situation.** Discussing these choices beforehand sets realistic expectations for a natural-looking restoration you'll love.
 
 
-
 > **Key Takeaway:** Understand how dentists create beautiful implants that blend with your natural teeth through material and design choices.
 
 ## Related Articles

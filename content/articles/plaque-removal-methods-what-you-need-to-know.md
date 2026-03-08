@@ -64,6 +64,10 @@ For more information, see [Daily Teeth Cleaning: Your Complete Guide](/article/b
 
 *Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
+Plaque forms on your teeth every day, so daily removal is essential. Brushing twice a day with fluoride toothpaste removes most plaque from tooth surfaces. Flossing once a day cleans the tight spaces between teeth that your brush cannot reach.
+
+Electric toothbrushes can remove more plaque than manual brushing for many people. Water flossers work well for people with braces, implants, or bridges. Ask your dentist which tools work best for your mouth. Professional cleanings every six months remove hardened plaque (tarite) that you cannot remove at home. These visits also let your dentist check for early signs of gum disease.
+
 ## Conclusion
 
 Effective plaque removal remains essential for prevention of periodontal disease and caries. However, the techniques and agents employed for plaque removal carry substantial risks for iatrogenic damage when applied without appropriate knowledge and careful technique. Overaggressive mechanical instrumentation damages root surfaces and soft tissues; patient education regarding appropriate home plaque removal technique prevents many complications. Your dentist balancing the need for effective plaque removal against risks of instrumentation damage through careful technique provides superior long-term outcomes.

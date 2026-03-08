@@ -140,7 +140,6 @@ Related reading: [Anterior Restoration Material Selection: Cosmetic](/article/an
 Black triangle closure requires comprehensive diagnosis and individualized treatment planning considering anatomical factors, esthetic goals, and realistic outcome expectations. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** Evidence-based approaches to anterior embrasure space closure, including periodontal, prosthetic, and orthodontic management strategies.
 
 ## Related Articles

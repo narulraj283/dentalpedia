@@ -56,25 +56,25 @@ Managing pain means better compliance, faster treatment completion, and a better
 
 ## How Pain Affects Your Quality of Life
 
-Pain from braces affects physical function (eating, sleeping), social life (not wanting to be seen while in pain), and emotions (frustration, anxiety about pain).
+Soreness from braces affects physical function (eating, sleeping), social life (not wanting to be seen while in discomfort), and emotions (frustration, anxiety about the sensation).
 
-Here's an important point: your expectations about pain affect how much it hurts. If you understand that pain is temporary and manageable, you experience less pain than if you're anxious and expecting severe pain.
+Here's an important point: your expectations about soreness affect how much it hurts. If you understand that pain is temporary and manageable, you experience less discomfort than if you're anxious and expecting severe pain.
 
-Learning about pain management strategies and understanding that discomfort is normal (not damage) actually reduces how much pain you experience.
+Learning about the sensation management strategies and understanding that discomfort is normal (not damage) actually reduces how much soreness you experience.
 
 ## Pain Management Options
 
 Many evidence-based approaches can reduce orthodontic pain:
 
-**Over-the-counter pain relievers:** Ibuprofen and acetaminophen work best when taken before peak pain develops (around 4-6 hours after your appointment). Taking medication prophylactically (before you hurt) is more effective than waiting until you're in pain.
+**Over-the-counter discomfort relievers:** Ibuprofen and acetaminophen work best when taken before peak the sensation develops (around 4-6 hours after your appointment). Taking medication prophylactically (before you hurt) is more effective than waiting until you're in pain.
 
 **Topical treatments:** Numbing gels on sensitive areas provide temporary relief.
 
-**Lighter forces:** Your orthodontist can use lighter forces or longer intervals between adjustments if you have lower pain tolerance. This might extend treatment slightly but improves your experience.
+**Lighter forces:** Your orthodontist can use lighter forces or longer intervals between adjustments if you have lower soreness tolerance. This might extend treatment slightly but improves your experience.
 
 **Better nutrition:** Adequate calcium, magnesium, and nutrients support your body's healing response.
 
-**Relaxation and coping:** Understanding pain biology, using relaxation techniques, and developing a good mindset actually reduce pain perception.
+**Relaxation and coping:** Understanding pain biology, using relaxation techniques, and developing a good mindset actually reduce discomfort perception.
 
 Your orthodontist can discuss which strategies work best for you.
 
@@ -82,11 +82,11 @@ Your orthodontist can discuss which strategies work best for you.
 
 You have choices about your treatment. If pain is severe, your orthodontist can use lighter forces or longer adjustment intervals, extending treatment by a month or two. That's worth it for comfort.
 
-Always tell your orthodontist about pain. There's no benefit to suffering silently. They have strategies to help.
+Always tell your orthodontist about the sensation. There's no benefit to suffering silently. They have strategies to help.
 
 ## Knowing What to Expect
 
-The first appointment causes the most pain—usually 3-8 out of 10. After that, pain is usually 1-4 out of 10. Knowing this helps you prepare. Scheduling your appointment strategically (maybe late in the week) gives you time to adapt with a weekend to recover.
+The first appointment causes the most soreness—usually 3-8 out of 10. After that, pain is usually 1-4 out of 10. Knowing this helps you prepare. Scheduling your appointment strategically (maybe late in the week) gives you time to adapt with a weekend to recover.
 
 Many patients report that after getting through the first week of discomfort, they realize it wasn't as bad as they feared. Subsequent appointments are less uncomfortable because your tissues adapt.
 
@@ -105,15 +105,15 @@ These simple strategies make a big difference in comfort.
 
 ## The Mental Aspect of Pain Management
 
-Your mindset matters tremendously. Patients who understand that pain is temporary and manageable experience less pain than those who catastrophize and expect severe suffering. This is a real phenomenon—your brain's interpretation of pain signals affects your actual pain experience.
+Your mindset matters tremendously. Patients who understand that pain is temporary and manageable experience less discomfort than those who catastrophize and expect severe suffering. This is a real phenomenon—your brain's interpretation of the sensation signals affects your actual pain experience.
 
 Learning relaxation techniques, breathing exercises, or meditation can reduce your pain experience. Some patients find that distraction helps—having plans to occupy yourself during painful periods. Others find that journaling about their braces experience helps them process emotions.
 
-Some orthodontists offer low-level laser therapy or other advanced pain management techniques. These use light energy to reduce inflammation. Ask if your orthodontist offers these options—they can be helpful for particularly pain-sensitive patients.
+Some orthodontists offer low-level laser therapy or other advanced soreness management techniques. These use light energy to reduce inflammation. Ask if your orthodontist offers these options—they can be helpful for particularly pain-sensitive patients.
 
 ## When to Contact Your Orthodontist About Pain
 
-If pain is severe, persistent beyond 7-14 days, or preventing you from caring for your teeth or eating, contact your orthodontist. Severe pain sometimes indicates a problem—like excessive force, a broken bracket, or an allergic reaction. Your orthodontist can evaluate and adjust your treatment if needed.
+If pain is severe, persistent beyond 7-14 days, or preventing you from caring for your teeth or eating, contact your orthodontist. Severe discomfort sometimes indicates a problem—like excessive force, a broken bracket, or an allergic reaction. Your orthodontist can evaluate and adjust your treatment if needed.
 
 Remember: your orthodontist wants you to succeed and be comfortable. Pain is not something you need to endure silently.
 n. Understanding the expected timeline and recovery process helps you plan ahead and set realistic expectations.

@@ -45,11 +45,11 @@ Less commonly, occupational acid exposure (working with acidic chemicals) or com
 
 Early erosion is subtle—you might notice teeth looking slightly less shiny or having slight surface roughness. Learning more about [Cavity Formation Process Complete Guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. Incisors lose their natural mamelons (three bumps on newly erupted teeth), becoming smooth. Molars lose their cuspal tips, becoming flatter. Color changes might appear—teeth look more translucent or slightly yellowed from underlying dentin showing through.
 
-Sensitivity to temperature or acidic foods often develops as erosion progresses. Some patients notice their bite feels different—teeth wear down, changing your bite relationship.
+Soreness to heat level or acidic foods often develops as erosion progresses. Some patients notice their bite feels different—teeth wear down, changing your bite relationship.
 
 ## How Your Dentist Diagnoses Erosion
 
-Your dentist identifies erosion by examining tooth surface characteristics and asking about your diet and lifestyle. She looks for smooth, glossy tooth surfaces with loss of anatomical detail. The pattern of erosion suggests the cause—lingual surface wear suggests stomach acid, while generalized smooth wear suggests dietary acids.
+Your dentist identifies erosion by examining tooth surface traits and asking about your diet and lifestyle. She looks for smooth, glossy tooth surfaces with loss of anatomical detail. The pattern of erosion suggests the cause—lingual surface wear suggests stomach acid, while generalized smooth wear suggests dietary acids.
 
 Your dentist might take photographs documenting baseline erosion for comparison at future visits. She assesses depth by examining dentin exposure (darker areas where enamel has worn through). Salivary testing might evaluate your saliva's buffering capacity—how well your saliva neutralizes acids. Low salivary flow increases your erosion risk.
 
@@ -77,7 +77,7 @@ Fluoride works cumulatively—benefits appear after 4-8 weeks of consistent use 
 
 ## Managing Sensitivity From Erosion
 
-If erosion has exposed dentin (the layer under enamel), you likely experience sensitivity:
+If erosion has exposed dentin (the layer under enamel), you likely experience soreness:
 
 **Desensitizing toothpaste** containing potassium nitrate (5% concentration) reduces sensitivity within 2-3 weeks of regular use. Fluoride-containing desensitizing toothpaste provides additional benefit.
 
@@ -87,7 +87,7 @@ If erosion has exposed dentin (the layer under enamel), you likely experience se
 
 ## When to Consider Restoration
 
-Erosion requiring restorative treatment typically meets these criteria: depth greater than 1-2 mm, affecting more than 30% of tooth surface, causing esthetic concerns, or producing sensitivity affecting quality of life.
+Erosion requiring restorative treatment typically meets these criteria: depth greater than 1-2 mm, affecting more than 30% of tooth surface, causing esthetic concerns, or producing soreness affecting quality of life.
 
 **Composite bonding** ($200-500 per tooth) directly builds up eroded areas with tooth-colored resin. This preserves maximum tooth structure, costs less than crowns, but requires replacement every 7-10 years.
 
@@ -121,9 +121,9 @@ If your child shows signs of erosion, prevent progression early:
 
 ## Conclusion
 
-Enamel erosion is preventable through limiting acid exposure and managing reflux conditions. Once erosion occurs, fluoride application arrests progression in most cases. Desensitizing therapy manages sensitivity without extensive restoration.
+Enamel erosion is preventable through limiting acid exposure and managing reflux conditions. Once erosion occurs, fluoride application arrests progression in most cases. Desensitizing therapy manages soreness without extensive repair.
 
-Composite bonding or crowns restore appearance and function when erosion becomes severe. The key to success is identifying erosion early, stopping the cause, and applying protective measures. Most patients achieve erosion arrest without extensive restorative treatment through dietary modification and fluoride use. Work with your dentist to establish an erosion control plan tailored to your specific cause and risk factors.
+Composite bonding or crowns restore appearance and function when erosion becomes severe. The key to success is identifying erosion early, stopping the cause, and applying protective measures. Most patients achieve erosion arrest without extensive restorative treatment through dietary change and fluoride use. Work with your dentist to establish an erosion control plan tailored to your specific cause and risk factors.
 
 > **Key Takeaway:** Enamel erosion is the progressive loss of tooth structure caused by acid exposure.
 

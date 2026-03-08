@@ -64,7 +64,7 @@ Laser cavity detection is most useful for detecting cavities at your tooth surfa
 
 ## Transillumination Technique
 
-Your dentist might shine a bright light through your teeth to look for cavities. This technique, called transillumination, helps identify cavities between teeth by looking at how light passes through your teeth. Healthy tooth structure looks different than decayed structure when light passes through it. This technique works especially well for cavities between your front teeth.
+Your dentist might shine a bright light through your teeth to look for it. This technique, called transillumination, helps identify cavities between teeth by looking at how light passes through your teeth. Healthy tooth structure looks different than decayed structure when light passes through it. This technique works especially well for cavities between your front teeth.
 
 ## Dye Staining
 

@@ -50,9 +50,7 @@ If you are receiving IV conscious sedation with midazolam and/or fentanyl, you w
 - **Sedation Level**: You remain able to respond to commands ("open your mouth," "turn your head"), but you may feel disconnected from your surroundings or unconcerned about the procedure. This relaxed state is intentional—allowing you to tolerate longer procedures without anxiety.
 - **Amnesia**: Many patients report not remembering the procedure (anterograde amnesia), even though they were awake and responsive throughout.
 
-You may have vague recollection of voices or movement, but no clear memory of the procedure itself.
-- **Mouth Positioning and Pressure**: You will feel pressure and vibration as instruments are used, but with adequate local anesthesia, you should feel no sharp pain. Some patients perceive sounds (dental handpiece vibration, water spray) that may seem loud or distracting.
-- **Communication During Procedure**: You can raise your hand to signal if you need a break, need more local anesthesia (if you start to feel pain or pressure), or need to spit water. Be proactive in communicating—the surgical team cannot read your mind and benefits from your feedback.
+You may have vague recollection of voices or movement, but no clear memory of the procedure itself. - **Mouth Positioning and Pressure**: You will feel pressure and vibration as instruments are used, but with adequate local anesthesia, you should feel no sharp pain. Some patients perceive sounds (dental handpiece vibration, water spray) that may seem loud or distracting. - **Talking During Procedure**: You can raise your hand to signal if you need a break, need more local anesthesia (if you start to feel pain or pressure), or need to spit water. Be proactive in communicating—the surgical team cannot read your mind and benefits from your feedback.
 
 ## Post-Operative Recovery: The Numbness Period
 
@@ -100,7 +98,7 @@ If you received IV sedation (conscious sedation with midazolam, fentanyl, or pro
 
 ## Special Considerations: Phentolamine Mesylate (OraVerse) for Anesthesia Reversal
 
-Some oral surgeons offer phentolamine mesylate (OraVerse) injection to accelerate numbness reversal, reducing the duration of post-operative anesthesia from 3+ hours to approximately 30 minutes. This is particularly beneficial for pediatric patients (reducing lip-biting risk) or patients with professional obligations limiting their availability for extended numbness periods.
+Some oral surgeons offer phentolamine mesylate (OraVerse) injection to accelerate numbness reversal, reducing the duration of post-operative anesthesia from 3+ hours to about 30 minutes. This is especially helpful for pediatric patients (reducing lip-biting risk) or patients with expert obligations limiting their availability for extended numbness periods.
 
 **How It Works**: Phentolamine is an alpha-adrenergic blocker that reverses the vasoconstriction caused by epinephrine in the local anesthetic solution, accelerating anesthetic clearance from the injection site. The injection is placed in the same site as the original local anesthetic, and onset of reversal is 5-10 minutes with complete numbness reversal by 30-40 minutes.
 
@@ -120,7 +118,7 @@ If you are anxious about dental procedures and anesthesia:
 
 ## Working Together for Your Comfort
 
-The best dental experiences happen when you and your team work together. Understand your anesthesia options, ask questions, communicate openly during your procedure (raise your hand if you need a break), and follow post-operative instructions carefully. Your dentist and team genuinely care about making sure you're comfortable and safe. Modern anesthesia is incredibly safe when you're informed, cooperative, and know what to expect. Trust the process, speak up if something doesn't feel right, and remember that good communication is the key to a positive experience.
+The best dental experiences happen when you and your team work together. Understand your anesthesia options, ask questions, communicate openly during your procedure (raise your hand if you need a break), and follow post-operative instructions carefully. Your dentist and team genuinely care about making sure you're comfortable and safe. Modern anesthesia is incredibly safe when you're informed, cooperative, and know what to expect. Trust the process, speak up if something doesn't feel right, and remember that good talking is the key to a positive experience.
 
 
 Related reading: [Bone Grafting: Restoring Lost Jaw Structure](/article/bone-grafting-restoring-lost-jaw-structure.html) and [Common Misconceptions About Post-Operative Instructions](/article/common-misconceptions-about-post-operative-instructions.html).
@@ -130,8 +128,7 @@ Related reading: [Bone Grafting: Restoring Lost Jaw Structure](/article/bone-gra
 
 ## Conclusion
 
-Whether you're just learning about anesthesia options: what you need to know or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. The best dental experiences happen when you and your team work together. Understand your anesthesia options, ask questions, communicate openly during your procedure (raise your hand if you need a break), and follow post-operative instructions carefully. Your dentist and team genuinely care about making sure you're comfortable and safe.
 
 > **Key Takeaway:** Patient-focused guide to anesthesia options, what to expect before during and after, communication strategies, and recovery management.
 

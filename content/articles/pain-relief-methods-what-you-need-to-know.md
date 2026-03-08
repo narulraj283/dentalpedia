@@ -63,12 +63,14 @@ Follow dosing instructions exactly. Never exceed the daily limit. Don't combine 
 
 ## Masking Underlying Pathology
 
-Pain medicines hide the problem but don't fix it. They kill pain without treating the cause. You might delay getting help for serious problems like infections, jaw problems, or heart attacks. These conditions need real treatment, not just pain relief.
+Pain medicines hide the problem but don't fix it. They kill soreness without treating the cause. You might delay getting help for serious problems like infections, jaw problems, or heart attacks. These conditions need real treatment, not just pain relief.
 
 After surgery, pain relief is important. However, increasing pain even with pain medicine might mean infection or another problem. If your pain gets worse even with medicine, see your dentist. Don't just take more medicine. Worsening pain needs evaluation to find the real cause.
 
 
 For more information, see [Gum Disease Stages: What You Need to Know](/article/gum-disease-stages-what-you-need-to-know.html) and [Why Filling Material Selection Matters - Balancing](/article/why-filling-material-selection-matters.html).
+
+Your dentist can help you find the right mix of discomfort relief methods for your needs. Every person responds to pain differently, so what works best for you may not match someone else.
 
 ## Conclusion
 

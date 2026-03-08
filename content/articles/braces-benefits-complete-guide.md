@@ -117,7 +117,6 @@ For detailed information about caring for your teeth during treatment, check out
 Comprehensive orthodontic treatment provides far-reaching benefits extending beyond cosmetic improvement. If you have questions, your dentist can help you understand your options. When considered across your entire lifespan, the investment becomes one of the best health decisions you can make.
 
 
-
 > **Key Takeaway:** Most people think braces are just about creating a picture-perfect smile, but the benefits run far deeper.
 
 ## Related Articles

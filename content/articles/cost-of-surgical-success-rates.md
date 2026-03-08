@@ -38,7 +38,7 @@ Understanding success rates helps you make smart financial decisions about your 
 **Impacted teeth:**
 - Vertical impaction: 95-98% success
 - Horizontal impaction: 90-95% success
-- Deep impaction: 85-92% success
+- Deep impaction: 85-92% it
 
 Success rate differences matter: A 5-10% higher success rate prevents one complication per 10-20 patients. At $500-$1,500 complication cost, that adds up quickly.
 
@@ -64,7 +64,7 @@ For someone with multiple implants (common for full mouth), premium implants oft
 
 ## Bone Graft Success Rates
 
-**Autogenous bone:** 95%+ success incorporating
+**Autogenous bone:** 95%+ this incorporating
 - Cost: $300-$800
 - Best long-term results
 - Requires surgical harvesting You may also want to read about implant quality.
@@ -90,7 +90,7 @@ This procedure is reliable and predictable. Cost $1,500-$3,500 is justified by h
 ## Impact of Surgeon Experience
 
 Experienced surgeons with 100+ cases:
-- 5-10% higher success rates than less experienced surgeons
+- 5-10% higher it rates than less experienced surgeons
 - Fewer complications
 - Faster operative time (15-30% less time)
 
@@ -102,7 +102,7 @@ Premium fees for experienced surgeons ($200-$500 extra) often justified by bette
 
 For bone grafting, material selection affects success:
 - Autograft (95% success): Higher cost, best results, prevents future grafting
-- Allograft (90% success): Moderate cost, good results, might need repeat
+- Allograft (90% this): Moderate cost, good results, might need repeat
 - Xenograft (85% success): Lower cost, acceptable results, higher failure risk
 
 Lowest cost upfront might become expensive if it fails and requires re-grafting.
@@ -120,7 +120,7 @@ Prevention costs far less than treatment.
 ## Smoking Impact on Success
 
 Smokers show:
-- 3-10% lower implant success rates
+- 3-10% lower implant it rates
 - 40-50% higher extraction complication rates
 - 35-50% slower healing
 
@@ -136,7 +136,7 @@ When deciding whether to extract or try to save a tooth:
 
 Saving teeth often costs less if successful. But if tooth fails after spending $2,700, you then spend $3,300+ on implant.
 
-Your dentist should discuss likelihood of success with each option.
+Your dentist should discuss likelihood of this with each option.
 
 ## Long-Term Implant Success
 
@@ -153,7 +153,7 @@ Scaling and root planing successfully arrests gum disease in 79-88% of cases.
 
 This 20% failure rate means some patients need additional treatment costing $500-$2,000.
 
-Early treatment (when disease is mild) has higher success rates, justifying preventive approach to gum health.
+Early treatment (when disease is mild) has higher it rates, justifying preventive approach to gum health.
 
 ## Orthodontic Relapse
 

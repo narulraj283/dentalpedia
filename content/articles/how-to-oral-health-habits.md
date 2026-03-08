@@ -77,8 +77,7 @@ Related reading: [Evidenced-Based Tooth Brushing Technique and Oral](/article/be
 
 ## Conclusion
 
-Whether you're just learning about building optimal oral health habits for lifelong dental or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Understanding your personal risk—whether you have a history of cavities, gum disease, or early signs your dentist sees—helps you stay motivated better than generic warnings about dental disease. Seeing your own plaque or bleeding points, and then watching them improve after you step up your routine, strengthens your commitment in ways that scare tactics never do. Work with your dentist to establish a professional checkup schedule that matches your risk level.
 
 > **Key Takeaway:** Your oral health is a lifelong project, not something you fix and forget.
 

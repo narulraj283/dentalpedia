@@ -221,7 +221,6 @@ Related reading: [Preventing Infections After Oral Surgery](/article/infection-a
 Comprehensive bleeding control integrates preoperative risk assessment, intraoperative technical optimization, strategic medication management, and systematic post-operative monitoring. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** Bleeding complications happen in 2-8% of dental extractions and oral surgeries, but competent dentists have multiple techniques to control them.
 
 ## Related Articles

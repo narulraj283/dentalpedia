@@ -86,7 +86,6 @@ Related reading: [Oral Health Habits Everyone Should Have](/article/oral-health-
 Comprehensive preventive dentistry integrates evidence-ranked interventions within patient-specific risk models. Fluoride varnish (NNT 4-6), dental sealants (NNT 7), and SDF (80% arrest rate) represent highest-evidence tools supported by decades of clinical research. If you have questions, your dentist can help you understand your options. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** Think about the difference between stopping a small problem before it happens versus dealing with it after it's already out of control.
 
 ## Related Articles

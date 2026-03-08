@@ -141,7 +141,6 @@ Related reading: [Tartar Prevention: Complete Clinical Guide to Calculus](/artic
 Evidence-based oral hygiene consists of twice-daily brushing with 1,450 ppm F toothpaste, daily interdental cleaning (floss or interdental brush), and conditional adjunctive rinses (chlorhexidine for active gingivitis, fluoride for high-caries-risk). If you have questions, your dentist can help you understand your options. This takes just 6-8 minutes total.
 
 
-
 > **Key Takeaway:** Brush twice daily, every single day. This takes just 6-8 minutes total.
 
 ## Related Articles

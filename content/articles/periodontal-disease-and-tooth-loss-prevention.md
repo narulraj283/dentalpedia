@@ -126,9 +126,7 @@ For more information, see [Timeline for Bleeding Gums Solutions and Resolution](
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Untreated periodontitis inevitably progresses toward tooth loss through progressive attachment and bone destruction. Evidence-based interventions—including thorough non-surgical and surgical therapy combined with rigorous compliance to maintenance protocols—successfully prevent tooth loss in 85-95% of treated patients. The critical determinants of tooth survival center on disease control achievement through appropriate therapy intensity and meticulous patient compliance with long-term supportive care. Risk stratification and individualized recall protocols, supported by comprehensive patient education and clinician reinforcement, establish the foundation for successful tooth preservation in periodontitis-affected dentitions.
 
 > **Key Takeaway:** Gum disease is the leading cause of tooth loss in adults, but excellent treatment combined with rigorous maintenance can prevent tooth loss in 85 to 90 percent of cases. The evidence is clear: untreated disease leads to tooth loss in 40 to 50 percent of teeth, while well-treated and well-maintained disease results in tooth retention exceeding 95 percent. Your commitment to treatment, maintenance appointments, systemic disease control, and home care determines your outcome more than the severity of your initial disease. Keep your appointment schedule, maintain excellent oral hygiene, quit smoking if applicable, control diabetes if present, and you'll keep your natural teeth for decades.
 

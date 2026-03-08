@@ -82,7 +82,7 @@ Dental phobia is a real anxiety disorder affecting 3-5% of adults, typically roo
 
 Medications including anti-anxiety drugs and nitrous oxide provide immediate help. The best results combine psychological treatment with medication support. Working with dentists trained in anxiety management and possibly consulting a therapist creates paths to overcoming phobia and achieving oral health. If dental anxiety is affecting your life, seek help—treatment works.
 
-> **Key Takeaway:** Learning more about [Timeline for Anesthesia Options](/article/timeline-for-anesthesia-options.html) can help you understand this better. There's a big difference between normal worry and dental phobia.
+> **Key Takeaway:** Learning more about Timeline for Anesthesia Options can help you understand this better. There's a big difference between normal worry and dental phobia.
 
 ## Related Articles
 

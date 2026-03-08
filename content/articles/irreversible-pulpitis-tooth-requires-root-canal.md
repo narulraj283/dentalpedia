@@ -52,7 +52,9 @@ Late cases may show weak or no response as the nerve dies. Cold response testing
 
 This extreme pain response happens because of increased blood vessel leakage and swelling, not just temperature sensitivity.
 ### Percussion and Palpation
-Tapping on the tooth causes mild tenderness in irreversible nerve inflammation because swelling extends into tissues around the root. Strong sensitivity to tapping is more common with dead nerves and abscess formation. Pressing on the gum near the affected tooth may feel sore if there is inflammation in tissues around the root. In advanced cases with nerve death, gum tenderness increases as swelling spreads outside the tooth.
+Tapping on the tooth causes mild tenderness in irreversible nerve inflammation because swelling extends into tissues around the root. Strong sensitivity to tapping is more common with dead nerves and abscess formation. Pressing on the gum near the affected tooth may feel sore if there is inflammation in tissues around the root.
+
+In advanced cases with nerve death, gum tenderness increases as swelling spreads outside the tooth.
 ### Radiographic Findings
 Early irreversible nerve inflammation often looks normal on X-rays because bone loss happens slowly and lags behind the inflammation. However, X-rays help identify causes like large cavities near the nerve, cavities under fillings, or old injuries. Advanced cases with inflammation around the root show these changes on X-rays:
 - Loss of lamina dura (the white line around the root tip on X-rays) showing inflammation

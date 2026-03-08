@@ -32,7 +32,7 @@ This thin tissue serves two purposes simultaneously: it acts as a barrier preven
 
 The junctional epithelium attaches to your tooth surface through special tiny structures called hemidesmosomes—basically tiny "attachment bridges" that glue the tissue to your tooth. Learning more about [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. These connections form a seal around your tooth, similar to how a gasket seals around a pipe.
 
-This attachment is actually relatively weak compared to how periodontal ligament fibers (the deeper attachment structures) hold your tooth. The junctional epithelium needs to be weak enough that it continuously renews itself—your body replaces this seal approximately every 7-14 days. This rapid turnover allows your body to continuously clean and update this critical barrier.
+This attachment is actually relatively weak compared to how periodontal ligament fibers (the deeper attachment structures) hold your tooth. The junctional epithelium needs to be weak enough that it continuously renews itself—your body replaces this seal about every 7-14 days. This rapid turnover allows your body to continuously clean and update this critical barrier.
 
 ## The Gingival Sulcus: The Space Between Tooth and Gum
 
@@ -44,7 +44,7 @@ In healthy gums, this space is so tight that bacteria can't colonize there in si
 
 When plaque bacteria colonize on and around your tooth, they irritate the junctional epithelium. Your body responds by increasing permeability of this seal, allowing more immune cells (white blood cells) to enter. This increased permeability is supposed to help your immune system fight bacteria.
 
-However, if bacteria continue overwhelming your immune system, inflammation increases, and the junctional epithelium begins breaking down. Once this seal is compromised, bacteria can travel deeper into the periodontal ligament and bone supporting your tooth. This is when gum disease progresses from gingivitis (early gum inflammation) to periodontitis (bone-damaging disease).
+However, if bacteria continue overwhelming your immune system, swelling increases, and the junctional epithelium begins breaking down. Once this seal is compromised, bacteria can travel deeper into the periodontal ligament and bone supporting your tooth. This is when gum disease progresses from gingivitis (early gum inflammation) to periodontitis (bone-damaging disease).
 
 ## Signs Your Seal Is Compromised
 
@@ -70,13 +70,13 @@ Your dentist measures the depth of the gingival sulcus (probing depth) during de
 
 **Advanced disease**: Greater than 6mm depth indicates significant seal compromise and bone loss.
 
-Your dentist also notes bleeding when probing—bleeding indicates active inflammation and seal compromise.
+Your dentist also notes bleeding when probing—bleeding indicates active swelling and seal compromise.
 
 ## How Plaque Promotes Seal Breakdown
 
 Plaque contains bacteria that produce acids, toxins, and inflammatory compounds that directly damage the junctional epithelium seal. Some bacteria produce special enzymes that digest the proteins holding this seal together. Over time, continuous bacterial challenge overwhelms your immune system's ability to maintain the seal, and it gradually breaks down.
 
-This process is slow initially—early gingivitis might show minimal changes. But once the seal significantly breaks down, bone loss can accelerate rapidly because bacteria now have direct access to supporting structures.
+This process is slow initially—early gingivitis might show minimal changes. But once the seal much breaks down, bone loss can accelerate rapidly because bacteria now have direct access to supporting structures.
 
 ## Protecting Your Seal
 
@@ -106,17 +106,17 @@ In many cases, the seal can reattach once bacterial irritation is removed—your
 
 Your junctional epithelium continuously renews and remodels itself—it's in a constant state of replacing old cells with new ones every 7-14 days. This rapid turnover is actually protective because it helps maintain a fresh seal and limits how deeply bacteria can penetrate even if they breach the surface.
 
-However, this rapid turnover also means that if you don't maintain the seal through plaque control, it immediately becomes compromised again. It's like tending a garden—you can't just clean the weeds once; you must continuously prevent them from regrowing.
+However, this rapid turnover also means that if you don't maintain the seal through plaque control, it right away becomes compromised again. It's like tending a garden—you can't just clean the weeds once; you must continuously prevent them from regrowing.
 
 ## Long-term Health of Your Seal
 
-Once you've had gum disease and your seal has broken down, it's more susceptible to rebreakdown in the future. However, with excellent maintenance (professional cleanings every 3-4 months, meticulous home care, and plaque control), you can maintain a healthy seal for life even after disease.
+Once you've had gum disease and your seal has broken down, it's more susceptible to rebreakdown in the future. However, with excellent upkeep (professional cleanings every 3-4 months, meticulous home care, and plaque control), you can maintain a healthy seal for life even after disease.
 
-Patients with history of periodontitis who maintain excellent home care and regular professional maintenance show good long-term stability—their seal holds, and disease doesn't return.
+Patients with history of periodontitis who maintain excellent home care and regular expert upkeep show good long-term stability—their seal holds, and disease doesn't return.
 
 ## Conclusion
 
-Your junctional epithelium seal is a critical but delicate barrier protecting your teeth. Understanding that it requires continuous plaque control helps you appreciate why consistent oral hygiene matters. Early intervention when you notice bleeding or increased depths prevents seal breakdown.
+Your junctional epithelium seal is a critical but delicate barrier protecting your teeth. Understanding that it requires continuous plaque control helps you appreciate why consistent oral hygiene matters. Early treatment when you notice bleeding or increased depths prevents seal breakdown.
 
 Once compromised, this seal can usually heal if you eliminate the bacterial irritation and maintain excellent plaque control. Your daily brushing and flossing directly protect this seal—you're the first line of defense against bacteria. Talk to your dentist about which options are right for your specific situation.
 

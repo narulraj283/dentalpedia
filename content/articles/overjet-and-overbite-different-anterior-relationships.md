@@ -51,7 +51,7 @@ Many people use the words "overjet" and "overbite" interchangeably, but they act
 
 **Overjet** refers to the horizontal distance between your upper and lower front teeth. When you look at your smile from the side, overjet is how far your upper teeth stick out in front of your lower teeth. In a healthy bite, this distance should be about 2-3 millimeters—just enough that your upper teeth slightly overlap your lower teeth. Imagine a perfectly proportioned smile where the upper teeth are just slightly ahead of the lower teeth, like one row of fence pickets set in front of another.
 
-**Overbite**, on the other hand, is the vertical overlap between your front teeth. Looking at your bite from the front, overbite is how much your upper teeth overlap downward over your lower teeth. Again, a healthy overlap is about 2-3 millimeters—your lower front teeth should show just slightly behind your upper front teeth. This vertical relationship is separate from your horizontal relationship.
+**Overbite**, on the other hand, is the vertical overlap between your front teeth. Looking at your bite from the front, overbite is how much your upper teeth overlap downward over your lower teeth. Again, a healthy overlap is about 2-3 millimeters—your lower front them should show just slightly behind your upper front teeth. This vertical relationship is separate from your horizontal relationship.
 
 ## Why Does Excessive Overjet Happen?
 
@@ -59,7 +59,7 @@ Overjet problems develop when your upper teeth are pushed too far forward. Somet
 
 ## Why Does Deep Bite Happen?
 
-Deep bite, also called excessive overbite, happens when your upper front teeth overlap your lower teeth too much. In some cases, your lower front teeth are completely hidden behind your upper teeth. This can occur for several reasons.
+Deep bite, also called excessive overbite, happens when your upper front teeth overlap your lower teeth too much. In some cases, your lower front your smile are completely hidden behind your upper teeth. This can occur for several reasons.
 
 Sometimes your upper jaw is naturally taller than average. Other times, your lower front teeth erupted in a way that created excessive overlap. Sometimes a deep bite develops because your back teeth don't support your bite properly. Regardless of the cause, deep bite can cause problems that make treatment worthwhile.
 
@@ -79,7 +79,7 @@ With these measurements, your orthodontist can predict what treatment approach w
 
 Orthodontists have several ways to correct excessive overjet, and the best approach depends on your age and whether your jaws are still growing. Growing children benefit from growth-directing appliances that guide the lower jaw forward as it develops. Functional appliances work 24/7 to encourage your jaw to grow in a better direction, and most effective treatment happens between ages 8-11 when jaw growth is rapid.
 
-For non-growing patients or adults, fixed braces work by carefully moving teeth into better positions. Invisible aligners also correct overjet effectively, though they require excellent compliance. The treatment approach that works best for you depends on your specific situation.
+For non-growing patients or adults, fixed braces work by carefully moving them into better positions. Invisible aligners also correct overjet effectively, though they require excellent compliance. The treatment approach that works best for you depends on your specific situation.
 
 ## Correction of Deep Bite
 

@@ -130,7 +130,6 @@ Related reading: [Common Misconceptions About Gum Disease Prevention](/article/c
 Antimicrobial and fluoride rinses provide meaningful adjunctive benefits in caries and periodontitis prevention when combined with mechanical plaque control. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** Even when you brush and floss perfectly, you're only removing 85-92% of plaque.
 
 ## Related Articles

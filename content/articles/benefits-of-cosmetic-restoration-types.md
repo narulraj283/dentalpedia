@@ -94,7 +94,6 @@ Related reading: [Diastema and Gap Management - Etiology, Treatment](/article/be
 Cosmetic restoration selection demands patient assessment regarding aesthetic goals, structural tooth needs, budget, and timeline. If you have questions, your dentist can help you understand your options. Ask questions at your next visit about what options suit your needs.
 
 
-
 > **Key Takeaway:** Want to improve your smile? You're not limited to just one choice.
 
 ## Related Articles

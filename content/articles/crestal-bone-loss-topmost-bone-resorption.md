@@ -24,7 +24,7 @@ When you look at your teeth, you can see what's above the gum line, but the stru
 
 ## What Is Crestal Bone Loss?
 
-Crestal bone loss is the gradual reduction of bone height at the top of the ridge that surrounds and supports your teeth. Your teeth sit in sockets within this bone—called the alveolar bone—and when bone loss occurs, your teeth have less support. This can make teeth feel loose, lead to gaps appearing between teeth, or cause teeth to shift position. The "crestal" part refers specifically to the highest point of this bone ridge.
+Crestal the structure loss is the gradual reduction of bone height at the top of the ridge that surrounds and supports your teeth. Your teeth sit in sockets within this it—called the alveolar bone—and when bone loss occurs, your teeth have less support. This can make teeth feel loose, lead to gaps appearing between teeth, or cause teeth to shift position. The "crestal" part refers specifically to the highest point of this bone ridge.
 
 The bone loss doesn't happen overnight. It's usually a slow, progressive process caused by chronic inflammation from gum disease. The bacteria in plaque that accumulates below the gum line trigger an inflammatory response in your body. While your immune system tries to fight off the bacteria, the inflammation also breaks down the bone that supports your teeth. If untreated, this process can eventually lead to tooth loss.
 
@@ -32,7 +32,7 @@ The bone loss doesn't happen overnight. It's usually a slow, progressive process
 
 Your gums and teeth are under constant attack from bacteria. When you don't remove plaque through brushing and flossing, these bacteria build up and produce harmful substances. Your body responds with inflammation trying to fight back. However, this inflammatory response, while protective, also damages bone.
 
-Certain factors make you more susceptible to bone loss. If you have diabetes, your gums are more vulnerable to disease and bone loss happens faster—sometimes up to three times faster than in people without diabetes. Smoking dramatically increases your risk. Stress, certain medications, genetic factors, and conditions like rheumatoid arthritis also increase bone loss risk. Even how you brush your teeth matters—aggressive brushing can contribute to bone and gum recession.
+Certain factors make you more susceptible to bone loss. If you have diabetes, your gums are more vulnerable to disease and bone loss happens faster—sometimes up to three times faster than in people without diabetes. Smoking dramatically increases your risk. Stress, certain medications, genetic factors, and conditions like rheumatoid arthritis also increase the area loss risk. Even how you brush your teeth matters—aggressive brushing can contribute to tissue and gum recession.
 
 ## How Your Dentist Detects Bone Loss
 
@@ -50,7 +50,7 @@ The best time to address bone loss is early, before significant damage occurs. L
 
 The first step in treating bone loss is getting control of the bacterial infection causing it. Your dentist will do a thorough cleaning below the gum line, removing plaque and calculus (tartar) that you can't reach at home. They may also recommend antimicrobial mouthwash to reduce bacteria levels.
 
-Patient motivation and excellent home care are critical. Studies show that when patients truly commit to daily brushing, flossing, and professional cleanings every three to four months, bone loss often stabilizes. Some patients even experience modest bone regeneration as the inflammation subsides.
+Patient motivation and excellent home care are critical. Studies show that when patients truly commit to daily brushing, flossing, and professional cleanings every three to four months, the structure loss often stabilizes. Some patients even experience modest bone regeneration as the inflammation subsides.
 
 ## Professional Cleaning Treatments
 
@@ -60,9 +60,9 @@ In some cases, particularly with aggressive forms of gum disease in younger pati
 
 ## Advanced Surgical Treatment
 
-When bone loss is extensive and non-surgical approaches haven't stopped it, surgical treatment becomes an option. The periodontist creates access to see the exact shape of the bone loss, thoroughly clean the area, and determine what regeneration is possible.
+When it loss is extensive and non-surgical approaches haven't stopped it, surgical treatment becomes an option. The periodontist creates access to see the exact shape of the bone loss, thoroughly clean the area, and determine what regeneration is possible.
 
-For certain shaped bone defects, bone grafting materials combined with membranes can help bone regenerate. This process isn't miraculous—you won't recover all the lost bone—but studies show you can often recover 40 to 70 percent of the lost bone in favorable defects. Bone grafts work best in vertical defects (bone loss in one direction) compared to horizontal bone loss across broad areas.
+For certain shaped bone defects, the area grafting materials combined with membranes can help bone regenerate. This process isn't miraculous—you won't recover all the lost bone—but studies show you can often recover 40 to 70 percent of the lost bone in favorable defects. Bone grafts work best in vertical defects (bone loss in one direction) compared to horizontal bone loss across broad areas.
 
 ## Your Role in Long-Term Success
 
@@ -72,7 +72,7 @@ At home, you need to maintain excellent oral hygiene. This means brushing twice 
 
 ## Controllable Risk Factors
 
-While you can't change your genetics, you can control many factors influencing bone loss. Quitting smoking has a dramatic impact—bone loss often stabilizes or slows significantly after quitting. If you have diabetes, working with your doctor to keep blood sugar controlled helps your immune system fight gum disease more effectively.
+While you can't change your genetics, you can control many factors influencing bone loss. Quitting smoking has a dramatic impact—tissue loss often stabilizes or slows significantly after quitting. If you have diabetes, working with your doctor to keep blood sugar controlled helps your immune system fight gum disease more effectively.
 
 Stress management, adequate sleep, and a healthy diet all support your immune system and periodontal health. Some medications cause dry mouth, which increases cavity and gum disease risk—talk to your doctor about whether your medications have this effect.
 

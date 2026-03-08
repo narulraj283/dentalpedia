@@ -135,7 +135,6 @@ Related reading: [Risk and Concerns with Orthodontic Compliance](/article/risk-a
 Boersma H, et al. Does the outcome of orthodontic treatment benefit from periodic records? Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** Braces do more than straighten your teeth—they improve how your teeth bite together, protect your long-term dental health, and often boost your.
 
 ## Related Articles

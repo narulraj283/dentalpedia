@@ -22,73 +22,79 @@ references:
 ---
 ## Three Essential Ingredients for Cavities
 
-Want to know why you get cavities while your sibling doesn't, even though you brush similarly? It's because cavities need three specific ingredients to form—and each person's combination is different. Understand these three factors, and you can target prevention where it'll actually help you.
+Want to know why you get cavities while your sibling doesn't, even though you brush similarly? It's because cavities need three specific ingredients to form. Each person's combination is different. Understand these three factors, and you can target prevention where it'll actually help you.
 
 ## Cavity-Causing Bacteria
 
-Specific bacteria, primarily Streptococcus mutans, cause cavities. Learning more about [Cavity Diagnosis Process What You Need to Know](/article/cavity-diagnosis-process-what-you-need-to-know.html) can help you understand this better. These bacteria produce acid from dietary carbohydrates—acid that dissolves tooth minerals. Not all mouth bacteria cause cavities; many are harmless or beneficial. However, cavity-causing bacteria possess special abilities enabling aggressive acid production within protective biofilm communities.
+Specific bacteria, mainly Streptococcus mutans, cause cavities. Learning more about [Cavity Diagnosis Process What You Need to Know](/article/cavity-diagnosis-process-what-you-need-to-know.html) can help you understand this better. These bacteria produce acid from dietary carbohydrates (sugars and starches). This acid dissolves tooth minerals. Not all mouth bacteria cause cavities. Many are harmless or helpful.
 
-These bacteria produce sticky substances helping them adhere to teeth and creating organized biofilm—miniature bacterial cities protected from your immune system. Additionally, cavity-causing bacteria produce acids even when starving, using stored carbohydrate reserves for continued acid production.
+However, cavity-causing bacteria have special abilities. They can produce lots of acid inside protective biofilm (sticky communities of bacteria glued to your teeth). These bacteria create a protective film that shields them from your immune system.
+
+Cavity-causing bacteria also produce acids even when they're hungry. They use stored carbohydrates to keep making acid. This keeps the attack going even when you haven't eaten recently.
 
 ## Biofilm Formation and Growth
 
-Plaque biofilm begins forming immediately after eating or drinking. Bacteria colonize your teeth within 4-8 hours, hidden beneath a protective film of saliva and bacterial secretions. Within 24-48 hours, visible plaque becomes apparent. Within 48-72 hours, mature biofilm develops complex architecture with millions of bacteria per millimeter—creating acidic microenvironments far more aggressive than individual bacteria could generate.
+Plaque biofilm (a sticky layer of bacteria) begins forming right after eating or drinking. Bacteria stick to your teeth within 4-8 hours. They hide beneath a protective film of saliva and bacterial secretions.
 
-This rapid biofilm maturation explains why daily toothbrushing proves essential; waiting 24-48 hours permits mature biofilm development creating concentrated acid production.
+Within 24-48 hours, visible plaque appears. Within 48-72 hours, mature biofilm develops. It contains millions of bacteria per millimeter. This creates very acidic spots that are much worse than what individual bacteria could create.
+
+This rapid biofilm growth explains why daily toothbrushing is essential. Waiting 24-48 hours lets mature biofilm develop. This creates concentrated acid production that damages your teeth.
 
 ## Dietary Carbohydrates and Acid Production
 
-When cavity-causing bacteria ferment dietary carbohydrates (sugars and refined starches), they produce lactic acid at concentrations reaching 50-100 mmol/L within biofilm—creating extremely acidic conditions. This acid production continues 20-30 minutes following sugar exposure, dissolving tooth minerals throughout that period.
+When cavity-causing bacteria ferment dietary carbohydrates (sugars and refined starches), they produce lactic acid. The acid concentration reaches 50-100 mmol/L within biofilm. This creates extremely acidic conditions. This acid production continues 20-30 minutes following sugar exposure. During this time, the acid dissolves tooth minerals.
 
-Frequency of sugar exposure matters more than total quantity. Consuming 50 grams sugar at a single meal creates 20-30 minute acid exposure. Consuming the same amount spread across 10 eating occasions creates 200-300 minutes cumulative acid exposure—8-15 times greater demineralization stress.
+How often you eat sugar matters more than how much you eat. Eating 50 grams of sugar at one meal creates 20-30 minutes of acid exposure. Eating the same amount spread across 10 eating occasions creates 200-300 minutes of acid exposure total. That's 8-15 times more damage to your teeth.
 
 ## Acid Attack and Enamel Dissolution
 
-When plaque acid pH drops below 5.5, tooth enamel minerals (primarily calcium and phosphate bonded as hydroxyapatite) begin dissolving. At pH 4.0 and below, demineralization accelerates dramatically. The acids dissolve surface enamel first, then progressively penetrate deeper creating subsurface demineralization—a cavity forming beneath an intact surface layer.
+When plaque acid drops below pH 5.5, tooth enamel minerals start dissolving. Enamel is mainly calcium and phosphate bonded together. At pH 4.0 and below, the demineralization (mineral loss) speeds up dramatically. The acids dissolve surface enamel first. Then they slowly penetrate deeper.
 
-This initial subsurface demineralization creates characteristic white-spot appearance visible only on dried teeth. Learning more about [Cavity Prevention Methods What You Need to Know](/article/cavity-prevention-methods-what-you-need-to-know.html) can help you understand this better. This stage remains completely reversible if demineralization stops and minerals can redeposit.
+This creates subsurface demineralization (damage beneath the surface). A cavity forms beneath an intact surface layer. This initial damage creates a white-spot appearance visible only on dried teeth. Learning more about [Cavity Prevention Methods What You Need to Know](/article/cavity-prevention-methods-what-you-need-to-know.html) can help you understand this better.
+
+This stage is completely reversible if the mineral loss stops. Minerals can redeposit and repair the damage.
 
 ## Lesion Development Stages
 
-Early lesions show microscopic mineral loss—porosity developing beneath the surface while the surface layer remains intact. Under magnification, these areas show loss of optical properties indicating demineralization. This reversible stage continues as long as the surface remains intact.
+Early lesions show microscopic mineral loss. Tiny pores develop beneath the surface while the surface layer stays intact. Under magnification, these areas show signs of demineralization (mineral loss).
 
-Progressive demineralization extends porosity deeper (100-200+ micrometers), eventually causing surface breakdown creating cavitation. Cavitation marks transition from reversible disease to permanent structural damage requiring restorative treatment.
+This reversible stage continues as long as the surface remains intact. Progressive demineralization extends the pores deeper (100-200+ micrometers). Eventually the surface breaks down. This creates cavitation (an actual hole). Cavitation marks the shift from reversible disease to permanent structural damage. At this point, restorative treatment is needed.
 
 ## Dentin Decay Progression
 
-Once enamel cavitation occurs, bacteria penetrate into dentin—a softer tissue beneath enamel. Dentin demineralizes much faster than enamel due to lower mineral content (70% mineral in dentin versus 96% in enamel). Additionally, dentin contains tubules (tiny channels) permitting rapid bacterial invasion along tubular pathways.
+Once enamel cavitation (a hole in the enamel) occurs, bacteria penetrate into dentin. Dentin is softer tissue beneath enamel. Dentin demineralizes much faster than enamel. It has lower mineral content: 70% in dentin versus 96% in enamel.
 
-Cavitated lesions progress at 2-3 times the rate of enamel lesions, explaining why cavitation represents a critical point requiring intervention.
+Additionally, dentin contains tubules (tiny channels). Bacteria can invade rapidly along these tubular pathways. Cavitated lesions progress at 2-3 times the rate of enamel lesions. This explains why cavitation is a critical point. It requires immediate intervention.
 
 ## Saliva's Protective Role
 
-Saliva provides critical cavity defense through buffering acids and supplying minerals for remineralization. Salivary buffers (bicarbonate and phosphate) raise pH back toward neutral within 20-30 minutes following acid exposure, stopping demineralization and enabling remineralization.
+Saliva provides critical cavity defense in two ways. It buffers (neutralizes) acids and supplies minerals for remineralization (repair). Salivary buffers include bicarbonate and phosphate. These raise pH back toward neutral within 20-30 minutes following acid exposure. This stops demineralization and enables remineralization (repair).
 
-Adequate salivary flow (1.0+ mL/min) provides sufficient buffering for cavity protection. Reduced flow (<0.5 mL/min) dramatically increases cavity risk because buffering becomes inadequate and remineralization cannot occur.
+Adequate salivary flow (1.0+ mL/min) provides sufficient buffering for cavity protection. Reduced flow (<0.5 mL/min) dramatically increases cavity risk. Buffering becomes inadequate and remineralization cannot occur.
 
 ## Remineralization and Recovery
 
-During periods of neutral or alkaline pH (between meals), salivary calcium and phosphate ions redeposit into demineralized enamel, reversing early damage. This remineralization process occurs continuously in healthy mouths, healing damage from acid attacks.
+Between meals, your mouth has neutral or alkaline pH. During this time, salivary calcium and phosphate ions redeposit into demineralized enamel. This reverses early damage. This remineralization process happens continuously in healthy mouths. It heals damage from acid attacks.
 
 When remineralization exceeds demineralization (fewer acid attacks, longer healing periods), teeth remain healthy. When demineralization exceeds remineralization (frequent acid attacks, inadequate healing time), cavities develop.
 
 ## Individual Susceptibility Variation
 
-Cavity risk varies tremendously between individuals with similar oral hygiene due to differences in: saliva flow rate and buffering capacity, cavity-causing bacteria colonization levels, dietary habits, and genetic factors. Some people develop cavities despite good oral care while others remain cavity-free with mediocre habits.
+Cavity risk varies tremendously between individuals with similar oral hygiene. This is due to differences in: saliva flow rate and buffering capacity, cavity-causing bacteria colonization levels, dietary habits, and genetic factors. Some people develop cavities despite good oral care. Others remain cavity-free with mediocre habits.
 
-Understanding your personal risk factors enables targeted prevention addressing your specific vulnerabilities.
+Understanding your personal risk factors enables targeted prevention. You can address your specific vulnerabilities.
 
 ## Multiple Risk Factor Interaction
 
-Cavity development involves multiple interacting factors. A person with excellent oral hygiene but frequent sugar consumption faces cavity risk. One with poor oral hygiene but infrequent sugar consumption and good saliva might remain relatively healthy.
+Cavity development involves multiple interacting factors. A person with excellent oral hygiene but frequent sugar consumption faces cavity risk. Someone with poor oral hygiene but infrequent sugar consumption and good saliva might remain relatively healthy.
 
-Comprehensive prevention addresses multiple factors, reducing cumulative risk significantly.
+Comprehensive prevention addresses multiple factors. This reduces cumulative risk significantly.
 
 ## Prevention Strategy Implications
 
-Understanding cavity development guides targeted prevention: reducing dietary carbohydrate frequency interrupts the fuel supply for acid-producing bacteria; daily biofilm removal prevents mature biofilm development before aggressive acid production begins; fluoride application enhances remineralization helping recovery after acid attacks; saliva optimization improves natural buffering and remineralization capacity.
+Understanding cavity development guides targeted prevention. You can reduce dietary carbohydrate frequency. This interrupts the fuel supply for acid-producing bacteria. You can remove biofilm daily. This prevents mature biofilm development before aggressive acid production begins.
 
-Addressing your personal risk factors proves more effective than generic prevention.
+Fluoride application enhances remineralization (mineral recovery). It helps recovery after acid attacks. Saliva optimization improves natural buffering and remineralization capacity. Addressing your personal risk factors proves more effective than generic prevention.
 
 ## Protecting Your Results Long-Term
 

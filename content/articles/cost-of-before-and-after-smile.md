@@ -265,7 +265,7 @@ A smile makeover combines whitening ($400-$800), bonding ($1,200-$2,400 for 6 te
 
 Digital smile design improves satisfaction from 75% to 90%. Porcelain veneers last 10+ years; composite veneers last 5-7 years. Professional results are worth the investment for those ready to transform their smile.
 
-> > **Key Takeaway:** A smile makeover involves whitening, bonding, and veneers/crowns. Budget options cost $3,000-$5,000; premium work costs $9,000-$15,000. Most practices allow phased payment over time. Get digital mockup showing your results before committing. Talk to your dentist about the transformation you want and a plan to achieve it.
+> **Key Takeaway:** A smile makeover involves whitening, bonding, and veneers/crowns. Budget options cost $3,000-$5,000; premium work costs $9,000-$15,000. Most practices allow phased payment over time. Get digital mockup showing your results before committing. Talk to your dentist about the transformation you want and a plan to achieve it.
 
 ## Related Articles You May Find Helpful
 

@@ -110,9 +110,7 @@ Ask questions about safety, side effects, what to expect, and how the appointmen
 
 ## Conclusion
 
-The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. Ask questions about safety, side effects, what to expect, and how the appointment will be structured. Good pediatric dentists welcome parental questions and want you feeling confident in the care plan. Don't hesitate to ask about their experience with sedation and their success rates with anxious children.
 
 > **Key Takeaway:** Dental anxiety in children shouldn't prevent them from getting care they need. Nitrous oxide is safe, effective, and helps children stay calm during treatment while building positive dental attitudes that last a lifetime. If your child is afraid of the dentist, laughing gas might transform the experience from traumatic to manageable—and set your child on a path toward excellent lifelong oral health.
 

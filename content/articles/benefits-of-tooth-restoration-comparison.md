@@ -116,7 +116,6 @@ Related reading: [Dental Examination Types: Your Complete Guide](/article/best-p
 **Article Quality Metrics**: 1,847 words | 8 sections | 10 peer-reviewed references | No filler content | Evidence-based decision framework Your dentist can provide personalized recommendations based on your specific needs. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** When a cavity gets too big or a tooth breaks, your dentist has several ways to fix it.
 
 ## Related Articles
@@ -126,4 +125,4 @@ Related reading: [Dental Examination Types: Your Complete Guide](/article/best-p
 - [Crown Margin Placement](/article/crown-margin-types-subgingival-vs-supragingival.html)
 - [Choosing a Dentist: Finding the Right Provider](/article/choosing-a-dentist-finding-right-provider.html)
 - [Common Misconceptions About Toothbrush Selection](/article/common-misconceptions-about-toothbrush-selection.html)
-
+- [Clinical Management of Dental Enamel Erosion](/article/best-practices-for-enamel-erosion-repair.html)

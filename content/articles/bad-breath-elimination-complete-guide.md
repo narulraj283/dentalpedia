@@ -118,7 +118,7 @@ See your primary care doctor if you have:
 
 ## Summary
 
-Bad breath affects about 30-50% of adults. Three types exist: genuine bad breath (75-85%, needs treatment), pseudo-bad breath (10-15%, needs reassurance), and halitophobia (10-20%, needs psychology help). Your mouth causes 85-90% of bad breath—mostly from tongue bacteria. Tongue scraping (75% reduction) is your most powerful tool. Antimicrobial rinses reduce bad breath 40-60%.
+Bad breath affects about 30-50% of adults. Three types exist: genuine bad it (75-85%, needs treatment), pseudo-bad breath (10-15%, needs reassurance), and halitophobia (10-20%, needs psychology help). Your mouth causes 85-90% of bad breath—mostly from tongue bacteria. Tongue scraping (75% reduction) is your most powerful tool. Antimicrobial rinses reduce bad breath 40-60%.
 
 Gum disease and interdental plaque need professional treatment. Avoid garlic and onions if they trigger your breath. Dry mouth worsens bad breath. Most bad breath improves within days to weeks with the right approach. Unusual odors (fruity, urine-like) signal serious medical problems requiring doctor evaluation.
 

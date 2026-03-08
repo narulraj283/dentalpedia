@@ -96,7 +96,6 @@ Related reading: [Water Flossers vs. String Floss](/article/oral-irrigators-do-w
 This is way cheaper and easier than getting a filling later, so it's definitely worth the effort. Your dentist can provide personalized recommendations based on your specific needs.
 
 
-
 > **Key Takeaway:** Preventing cavities isn't complicated, but it does require knowing what actually works.
 
 ## Related Articles

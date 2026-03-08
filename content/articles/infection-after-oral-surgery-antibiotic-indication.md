@@ -36,23 +36,23 @@ Dental surgery is common and usually safe, but like any surgery, infections can 
 
 ## Who Needs Preventive Antibiotics Before Surgery
 
-Not everyone needs antibiotics before dental surgery. Your dentist assesses your personal risk factors. People with certain medical conditions benefit from preventive antibiotics to avoid serious complications. These include people with heart valve problems, weakened immune systems, diabetes, or those taking immunosuppressive medications.
+Not everyone needs antibiotics before dental surgery. Your dentist assesses your personal risk factors. People with certain medical conditions benefit from preventive antibiotics to avoid serious problems. These include people with heart valve problems, weakened immune systems, diabetes, or those taking immunosuppressive medicines.
 
 Simple tooth extractions in healthy patients rarely need preventive antibiotics. More complex procedures—like impacted tooth removal or implant placement—have slightly higher infection risk. Your dentist tells you whether preventive antibiotics are right for your situation based on your health history and the planned procedure.
 
-If you have a heart condition, tell your dentist immediately. Heart patients may need antibiotics to prevent serious heart infections. If you take any medications or have medical conditions, discuss them during your pre-operative consultation.
+If you have a heart condition, tell your dentist right away. Heart patients may need antibiotics to prevent serious heart infections. If you take any medicines or have medical conditions, discuss them during your pre-operative consultation.
 
 ## When Antibiotics Are Given
 
 If your dentist recommends preventive antibiotics, take them exactly as instructed—usually 1-2 hours before surgery. This timing ensures adequate antibiotic levels in your bloodstream when the surgical incision happens. For most dental procedures, amoxicillin is the antibiotic of choice unless you're allergic.
 
-If you're allergic to penicillin, tell your dentist before surgery. Alternative antibiotics work just as well. Don't skip the dose because you worry about side effects—the risk of surgical infection typically outweighs minor side effects like temporary digestive upset.
+If you're allergic to penicillin, tell your dentist before surgery. Other option antibiotics work just as well. Don't skip the dose because you worry about side effects—the risk of surgical infection typically outweighs minor side effects like temporary digestive upset.
 
 ## Warning Signs of Post-Operative Infection
 
-After your procedure, watch for signs of infection. Minor swelling and discomfort are normal. Concerning signs include increasing swelling days after surgery, pus or drainage, fever, difficulty swallowing, or odor from the surgical site. These symptoms deserve professional attention.
+After your procedure, watch for signs of infection. Minor swelling and discomfort are normal. Concerning signs include increasing swelling days after surgery, pus or drainage, fever, difficulty swallowing, or odor from the surgical site. These symptoms deserve expert attention.
 
-Dry socket—a painful complication after tooth extraction—isn't actually an infection but can become one. It develops 3-5 days after extraction and causes severe pain and foul odor. Smoking increases dry socket risk significantly. If you develop symptoms, contact your dentist promptly. [Learning about recovery timeline expectations](/article/recovery-timeline-what-you-need-to-know.html) helps you distinguish normal healing from concerning complications.
+Dry socket—a painful problem after tooth extraction—isn't actually an infection but can become one. It develops 3-5 days after extraction and causes severe pain and foul odor. Smoking increases dry socket risk much. If you develop symptoms, contact your dentist promptly. [Learning about recovery timeline expectations](/article/recovery-timeline-what-you-need-to-know.html) helps you distinguish normal healing from concerning problems.
 
 ## Treating Infections That Do Develop
 
@@ -64,15 +64,15 @@ Serious infections affecting deep tissues require hospitalization. Signs include
 
 ## Managing Common Side Effects
 
-Antibiotics can cause temporary digestive upset, nausea, or mild rash. These usually resolve after completing the course. Serious allergic reactions—difficulty breathing, extensive rash, or throat swelling—require emergency care. If you develop these symptoms, stop the medication and go to the emergency room.
+Antibiotics can cause temporary digestive upset, nausea, or mild rash. These usually resolve after completing the course. Serious allergic reactions—difficulty breathing, extensive rash, or throat swelling—require emergency care. If you develop these symptoms, stop the medicine and go to the emergency room.
 
-Taking antibiotics with food reduces digestive upset. Probiotic-containing foods or supplements may help restore healthy gut bacteria after antibiotic use, though evidence is mixed. Avoid combining antibiotics with certain other medications—discuss your complete medication list with your dentist.
+Taking antibiotics with food reduces digestive upset. Probiotic-containing foods or supplements may help restore healthy gut bacteria after antibiotic use, though evidence is mixed. Avoid combining antibiotics with certain other medicines—discuss your complete medicine list with your dentist.
 
 ## Following Pre-Operative Instructions
 
-Your dentist provides specific instructions before surgery. Follow them carefully—proper oral hygiene, specific timing for medication doses, and avoiding certain foods or beverages all reduce infection risk. The night before surgery, gentle brushing but no vigorous flossing helps.
+Your dentist provides specific instructions before surgery. Follow them carefully—proper oral hygiene, specific timing for medicine doses, and avoiding certain foods or beverages all reduce infection risk. The night before surgery, gentle brushing but no vigorous flossing helps.
 
-Avoid smoking and alcohol use perioperatively. Smoking dramatically increases infection risk and slows healing. Alcohol can interact with antibiotics and pain medications. These sacrifices for a few days protect your surgical site and improve outcomes.
+Avoid smoking and alcohol use perioperatively. Smoking dramatically increases infection risk and slows healing. Alcohol can interact with antibiotics and pain medicines. These sacrifices for a few days protect your surgical site and improve outcomes.
 
 ## Post-Operative Care Reduces Infection Risk
 
@@ -88,14 +88,13 @@ Your dentist may send culture samples to the laboratory for detailed identificat
 
 ## Protecting Your Results Long-Term
 
-Once you've addressed infection after oral surgery antibiotic indication, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+Once you've addressed infection after oral surgery antibiotic sign, keeping your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with expert cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
 ## Conclusion
 
-Whether you're just learning about preventing infections after oral surgery or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Once you've addressed infection after oral surgery antibiotic sign, keeping your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with expert cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems.
 
 > **Key Takeaway:** Learn how antibiotics help prevent infections after dental surgery and when you actually need them.
 

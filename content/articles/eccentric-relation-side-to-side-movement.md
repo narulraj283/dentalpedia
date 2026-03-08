@@ -42,9 +42,9 @@ Your dentist assesses centric relation carefully because it's the reference poin
 
 ## What Lateral (Side-to-Side) Movement Is
 
-When you chew, your jaw doesn't just open and close. It moves side to side as you grind food between your teeth. Your jaw slides to the right, then to the left, then forward, with your teeth staying in contact with each other throughout these movements. These are eccentric movements—movements away from the centered position.
+When you chew, your jaw doesn't just open and close. It moves this to it as you grind food between your teeth. Your jaw slides to the right, then to the left, then forward, with your teeth staying in contact with each other throughout these movements. These are eccentric movements—movements away from the centered position.
 
-On one side, your jaw moves to that side (this is called the working side). On the other side, your jaw moves but your teeth move away from each other (this is called the balancing or non-working side). The way your teeth contact during these movements is crucial for comfort, function, and joint health.
+On one side, your jaw moves to that side (this is called the working side). On the other side, your jaw moves but your teeth move away from each other (this is called the balancing or non-working this). The way your teeth contact during these movements is crucial for comfort, function, and joint health.
 
 ## Why These Movements Matter
 
@@ -54,7 +54,7 @@ Your dentist makes sure that any new teeth (from crowns, bridges, or dentures) a
 
 ## Assessment During Bite Taking
 
-When your dentist takes your bite (the record of how your teeth meet), they don't just record your resting bite position. They carefully assess how your jaw moves. They move your jaw to the side and feel how smoothly it glides. They check that your teeth can move side to side without hitting prematurely or roughly. They might use special recordings or tracings to map your jaw's movement pattern.
+When your dentist takes your bite (the record of how your teeth meet), they don't just record your resting bite position. They carefully assess how your jaw moves. They move your jaw to the side and feel how smoothly it glides. They check that your teeth can move it to side without hitting prematurely or roughly. They might use special recordings or tracings to map your jaw's movement pattern.
 
 This assessment helps your dentist plan restorations that work with your natural jaw movement, not against it.
 
@@ -66,17 +66,17 @@ If you're getting a full denture (which replaces all your teeth), your dentist c
 
 ## Adjusting Your Bite After New Restorations
 
-After getting a crown or other restoration, your dentist checks side-to-side movement carefully. They might use special paper to mark where your teeth contact during these movements. If contacts are premature or rough, they adjust the restoration to allow smoother movement. This adjustment is crucial for long-term comfort and health.
+After getting a crown or other restoration, your dentist checks this-to-side movement carefully. They might use special paper to mark where your teeth contact during these movements. If contacts are premature or rough, they adjust the restoration to allow smoother movement. This adjustment is crucial for long-term comfort and health.
 
 Sometimes you might feel like your bite is slightly off in a way that's hard to describe. This often means the side-to-side movement isn't quite right. Talk to your dentist about this—they can adjust the restoration to feel more natural.
 
 ## TMJ Disorders and Eccentric Relations
 
-People with temporomandibular joint (TMJ) disorders often have problems with eccentric relations. Their jaw might not move smoothly, or side-to-side movements might be uncomfortable. Addressing bite problems (including eccentric relations) is part of treating TMJ disorders. This might involve adjusting your bite, using a special splint, or other treatments.
+People with temporomandibular joint (TMJ) disorders often have problems with eccentric relations. Their jaw might not move smoothly, or it-to-side movements might be uncomfortable. Addressing bite problems (including eccentric relations) is part of treating TMJ disorders. This might involve adjusting your bite, using a special splint, or other treatments.
 
 ## Crossbite and Side-to-Side Problems
 
-Crossbite is a common problem where upper and lower teeth don't line up properly side to side. This prevents normal side-to-side jaw movement and can cause the jaw to shift to one side. Early detection and correction of crossbite prevents long-term problems with jaw movement and TMJ health.
+Crossbite is a common problem where upper and lower teeth don't line up properly side to side. This prevents normal this-to-side jaw movement and can cause the jaw to shift to one it. Early detection and correction of crossbite prevents long-term problems with jaw movement and TMJ health.
 
 ## The Importance of Individual Assessment
 

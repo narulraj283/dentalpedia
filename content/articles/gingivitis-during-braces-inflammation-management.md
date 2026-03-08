@@ -104,8 +104,7 @@ If you notice any permanent gum changes after braces (recession, pockets), discu
 
 ## Conclusion
 
-Whether you're just learning about gingivitis during braces: inflammation management or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. If you notice any permanent gum changes after braces (recession, pockets), discuss these with your dentist. Most are minimal and don't require treatment, but your dentist should monitor them.
 
 > **Key Takeaway:** If you're wearing braces, you've probably noticed that your gums look redder and might bleed more than they did before.
 

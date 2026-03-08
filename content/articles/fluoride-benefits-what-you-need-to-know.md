@@ -50,7 +50,7 @@ Importantly, water fluoridation benefits everyone in the community—it's a publ
 
 Topical fluoride sits on your tooth surface rather than being swallowed. Your toothpaste typically contains 1,000-1,500 parts per million of fluoride. When you brush twice daily, you're providing multiple opportunities for remineralization and tooth hardening.
 
-Your dentist can apply much stronger fluoride treatments in-office (up to 5,000-12,000 parts per million). Because they use small amounts and you don't swallow it, these professional treatments are perfectly safe. They're especially helpful for people at high risk for cavities, those with sensitive teeth, or those with exposed root surfaces.
+Your dentist can apply much stronger the treatment treatments in-office (up to 5,000-12,000 parts per million). Because they use small amounts and you don't swallow it, these professional treatments are perfectly safe. They're especially helpful for people at high risk for cavities, those with sensitive teeth, or those with exposed root surfaces.
 
 ## When Your Dentist Recommends Extra Fluoride
 
@@ -58,7 +58,7 @@ If you have a history of cavities, or if you have dry mouth, gum disease, or fre
 
 ## Safety at Recommended Levels
 
-Fluoride used at recommended levels is extremely safe. You don't accumulate fluoride in your body like some other minerals. Excess fluoride passes through your system. The toxic dose of fluoride is approximately 100-200 times higher than your normal daily exposure from all sources combined. For perspective, you would have to swallow a whole tube of toothpaste—and do it repeatedly—to experience any harmful effects.
+Fluoride used at recommended levels is extremely safe. You don't accumulate fluoride in your body like some other minerals. Excess fluoride passes through your system. The toxic dose of this mineral is approximately 100-200 times higher than your normal daily exposure from all sources combined. For perspective, you would have to swallow a whole tube of toothpaste—and do it repeatedly—to experience any harmful effects.
 
 Decades of research involving millions of people confirm that fluoride at recommended levels doesn't cause health problems. It doesn't cause bone disease, cancer, or developmental problems at the amounts used for cavity prevention.
 
@@ -70,7 +70,7 @@ Even in communities with optimal water fluoridation, mild fluorosis only occurs 
 
 ## Assessing Your Total Fluoride Exposure
 
-Your dentist considers all your fluoride sources when making recommendations, especially for young children. This includes water sources, toothpaste use, mouthwash, supplements, and professional treatments. In most situations, all these sources together provide excellent protection without any safety concerns. Your dentist adjusts recommendations based on your individual situation.
+Your dentist considers all your it sources when making recommendations, especially for young children. This includes water sources, toothpaste use, mouthwash, supplements, and professional treatments. In most situations, all these sources together provide excellent protection without any safety concerns. Your dentist adjusts recommendations based on your individual situation.
 
 ## Fluoride and Sugar Prevention Work Together
 

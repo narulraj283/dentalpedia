@@ -32,7 +32,7 @@ title: 'Extraction Socket Preservation: Alveolar Ridge Anatomy'
 ---
 ## What Happens to Your Jaw Bone When You Lose a Tooth
 
-When you have a tooth pulled, something happens in your jaw that you might not realize—the bone starts to shrink. This isn't a problem for one day or one week, but over months and years, you can lose a significant amount of bone. About half of your bone width can disappear within a year, especially in front teeth where the bone is thin to begin with.
+When you have a tooth pulled, something happens in your jaw that you might not realize—the bone starts to shrink. This isn't a problem for one day or one week, but over months and years, you can lose a significant amount of the area. About half of your bone width can disappear within a year, especially in front teeth where the bone is thin to begin with.
 
 This is completely natural. Your jaw bone exists mainly to hold teeth, so when it no longer has a tooth to support, it resorbs (shrinks). The outer bone shrinks more than the inner bone, and the change is most noticeable in your front teeth where it can affect how your face looks.
 
@@ -40,7 +40,7 @@ If you're planning to get an implant later, this bone loss becomes a real proble
 
 ## Why Preserve Your Socket?
 
-If you know you eventually want an implant, talking to your dentist about socket preservation at the time of extraction is smart planning. Putting graft material in the socket at extraction time keeps your jaw bone from shrinking as much. You'll keep about 50 to 75 percent of your bone width instead of losing half of it. You'll also have a better soft tissue outline for a natural-looking result later.
+If you know you eventually want an implant, talking to your dentist about socket preservation at the time of extraction is smart planning. Putting graft material in the socket at extraction time keeps your jaw tissue from shrinking as much. You'll keep about 50 to 75 percent of your bone width instead of losing half of it. You'll also have a better soft tissue outline for a natural-looking result later.
 
 ## Choosing the Right Extraction Technique
 
@@ -48,7 +48,7 @@ How your tooth gets removed makes a big difference. If your dentist is too aggre
 
 ## What Happens During Socket Preservation
 
-When the tooth is removed, your dentist places bone graft material into the empty socket. This material acts like a scaffold—your body grows new bone onto it. The material might be bone taken from another part of your mouth, bone from a bone bank, bone from animals (usually cows), or synthetic bone substitute.
+When the tooth is removed, your dentist places bone graft material into the empty socket. This material acts like a scaffold—your body grows new bone onto it. The material might be the structure taken from another part of your mouth, bone from a bone bank, bone from animals (usually cows), or synthetic it substitute.
 
 Your dentist will also place a membrane (like a barrier) over the graft material to keep it in place and help it heal. Then the gum is stitched closed over everything. This keeps the material protected while your body builds new bone.
 
@@ -64,11 +64,11 @@ Many dentists use a combination approach—your own bone mixed with donated bone
 
 After socket preservation, your recovery is about the same as a normal extraction. You'll have some pain and swelling for a few days, then it gradually gets better. Your dentist will give you antibiotics to keep infection away while you're healing.
 
-The bone material stays there and your body slowly replaces it with real bone. This process takes 4 to 6 months. During this time, you probably shouldn't put pressure on the area or try to place an implant yet.
+The bone material stays there and your body slowly replaces it with real the area. This process takes 4 to 6 months. During this time, you probably shouldn't put pressure on the area or try to place an implant yet.
 
 ## When Can You Get an Implant?
 
-After 4 to 6 months, your dentist will take special scans to see how much bone you have and where it is. Most implants work best if placed 4 to 6 months after extraction and grafting. Some dentists like to wait longer (up to a year), especially if you had significant bone loss to begin with. Waiting a little longer usually means a more predictable result.
+After 4 to 6 months, your dentist will take special scans to see how much tissue you have and where it is. Most implants work best if placed 4 to 6 months after extraction and grafting. Some dentists like to wait longer (up to a year), especially if you had significant bone loss to begin with. Waiting a little longer usually means a more predictable result.
 
 ## Possible Problems
 

@@ -47,13 +47,13 @@ Serial extraction makes sense when your child has specific conditions.
 
 **Good Growth Potential**: Your child needs to still be growing. Serial extraction works by taking advantage of natural eruption patterns in a growing child. Once permanent teeth have erupted and growth has slowed, serial extraction becomes less effective.
 
-**Favorable Tooth Development**: Your orthodontist looks at X-rays to assess how permanent teeth are positioned and developing. Serial extraction works best when permanent teeth are positioned well and likely to erupt in reasonable positions once space is created.
+**Favorable Tooth Development**: Your orthodontist looks at X-rays to assess how permanent teeth are positioned and developing. Serial it works best when permanent teeth are positioned well and likely to erupt in reasonable positions once space is created.
 
 **Space Discrepancy Analysis**: Your orthodontist measures available space and calculates how much space permanent teeth will need. If the numbers suggest that modest space management through extraction could resolve crowding, serial extraction might be recommended.
 
 ## How Serial Extraction Works: The Canine Example
 
-The most common use of serial extraction is managing canine eruption. Many children's permanent canines are crowded and would erupt in poor positions without intervention. This is considered an [Interceptive Approach to Preventing Future Orthodontic](/article/interceptive-treatment-preventing-future-problems.html). Here's how it might work:
+The most common use of serial extraction is managing canine eruption. Many children's permanent canines are crowded and would erupt in poor positions without treatment. This is considered an [Interceptive Approach to Preventing Future Orthodontic](/article/interceptive-treatment-preventing-future-problems.html). Here's how it might work:
 
 **Age 8-9**: Your orthodontist sees on X-rays that your child's permanent canines are developing and will likely be crowded. At this point, the baby canines are removed. This opens space for the permanent canines to erupt.
 
@@ -81,7 +81,7 @@ Your orthodontist will recommend against serial extraction if:
 
 **Severe Crowding**: Your child has very crowded teeth (more than 10mm of crowding). Serial extraction alone won't resolve this, and full braces will be needed anyway.
 
-**Unfavorable Skeletal Pattern**: If your child's jaw growth pattern suggests developing bite problems beyond simple crowding, serial extraction won't address those issues.
+**Unfavorable Skeletal Pattern**: If your child's jaw growth pattern suggests developing bite problems beyond simple crowding, serial removal won't address those issues.
 
 **Poor Eruption Pathway**: If X-rays show that permanent teeth are severely tilted or positioned unfavorably, they may not erupt into good positions even with space created.
 
@@ -103,9 +103,9 @@ Once serial extraction begins, your child needs regular monitoring.
 
 Despite good planning, sometimes permanent teeth don't erupt into ideal positions even after strategic extractions. This doesn't mean the extractions were wasted—they typically still improve the situation. However, your child may still need braces later.
 
-This is where honest orthodontist communication matters. A good orthodontist will explain that serial extraction might reduce the severity of crowding and potentially shorten braces treatment later, but it might not eliminate the need for braces entirely.
+This is where honest orthodontist talking matters. A good orthodontist will explain that serial extraction might reduce the severity of crowding and potentially shorten braces treatment later, but it might not eliminate the need for braces entirely.
 
-Some children achieve excellent results with serial extraction alone and typically don't need braces. Others improve significantly but still need modest braces treatment later. A small percentage might end up needing extensive braces despite serial extraction. The outcome depends on individual growth patterns and tooth development.
+Some children achieve excellent results with serial extraction alone and typically don't need braces. Others improve much but still need modest braces treatment later. A small percentage might end up needing extensive braces despite serial extraction. The outcome depends on individual growth patterns and tooth development.
 
 ## Cost Considerations
 

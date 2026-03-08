@@ -119,13 +119,12 @@ Studies show that seniors who get their worn teeth treated report better quality
 
 Most importantly, when wear is addressed early (before it becomes severe), treatment is simpler and less expensive. If you catch wear early and manage the underlying cause, you can prevent it from getting worse.
 
+
+Related reading: [Managing Dentures for Loved Ones](/article/denture-wearing-in-dementia-patients.html).
+
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding worn teeth in seniors: why your teeth have changed after helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
-
-For teeth that are already worn, modern dentistry offers excellent options from bonding to dentures to implants. The key is addressing the underlying cause (grinding, acid, dry mouth) so your teeth don't wear down further after treatment. If your teeth have noticeably changed over the years, talk to your dentist about what's realistic and what's best for your situation. For more information on dental health as you age, see our article on [Senior Dental Health Changes](/article/senior-dental-health-age-related-changes.html).
+Talk to your dentist about your specific situation and what approach works best for you. Most importantly, when wear is addressed early (before it becomes severe), treatment is simpler and less expensive. If you catch wear early and manage the underlying cause, you can prevent it from getting worse.
 
 > **Key Takeaway:** Worn teeth in seniors is common—decades of use take their toll. But it's very treatable. Early intervention with high-fluoride products, nightguards for grinding, and medical management of acid reflux can slow further wear significantly.
 

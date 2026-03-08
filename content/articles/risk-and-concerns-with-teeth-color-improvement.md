@@ -101,4 +101,4 @@ The key to successful tooth color improvement is diagnosing your specific stain 
 
 - [Buccal Corridors: Impact on Smile Esthetics and Facial](/article/buccal-corridors-impact-on-smile-aesthetics.html)
 - [Common Misconceptions About Cosmetic Crown Selection](/article/common-misconceptions-about-cosmetic-crown-selection.html)
-
+- [Tooth Color Science and Improvement Options](/article/benefits-of-teeth-color-improvement.html)

@@ -118,7 +118,6 @@ Related reading: [Cost of Pain Management Surgery](/article/cost-of-pain-managem
 Post-operative recovery timelines vary dramatically: simple extractions complete clinical healing in 7-14 days while orthognathic surgery requires 6-12 months full recovery. Wisdom tooth extraction represents intermediate complexity (10-14 days clinical healing, 4-6 weeks full function). If you have questions, your dentist can help you understand your options. Pulling a simple tooth takes one week of healing.
 
 
-
 > **Key Takeaway:** Dental surgery recovery depends entirely on what your dentist is doing. Pulling a simple tooth takes one week of healing.
 
 ## Related Articles

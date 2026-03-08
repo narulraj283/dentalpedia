@@ -111,7 +111,6 @@ Related reading: [Common Misconceptions About Emergency Tooth](/article/common-m
 If you have acid reflux, work with your doctor. Use fluoride products daily. Talk to your dentist about how this applies to your situation.
 
 
-
 > **Key Takeaway:** Have you noticed your teeth looking a bit worn or shorter than they used to? Maybe you're seeing a bit of yellow color appearing through your teeth?.
 
 ## Related Articles

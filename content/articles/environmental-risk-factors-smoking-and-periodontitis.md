@@ -24,7 +24,7 @@ Smoking dramatically increases your risk of gum disease and makes treatment far 
 
 ## How Smoking Damages Your Gums
 
-Smoking damages gums through multiple mechanisms:
+Smoking damages gums through multiple processes:
 
 **Reduced blood flow**: Nicotine constricts blood vessels, reducing blood supply to your gums. Your gums receive less oxygen and fewer immune-fighting white blood cells.
 
@@ -136,7 +136,7 @@ If you're not ready to quit, minimize damage:
 
 ## Conclusion
 
-Smoking dramatically increases gum disease risk, severity, and treatment failure rates. The disease often advances silently because smoking masks warning signs, so regular professional monitoring is critical. The excellent news is that quitting smoking improves gum health quickly and substantially improves treatment outcomes.
+Smoking dramatically increases gum disease risk, severity, and treatment failure rates. The disease often advances silently because smoking masks warning signs, so regular expert monitoring is critical. The excellent news is that quitting smoking improves gum health quickly and greatly improves treatment outcomes.
 
 Former smokers show treatment success rates approaching non-smokers' within several years. If you have gum disease and smoke, quitting is the single most important step you can take to save your teeth and improve your overall health. Your dentist can help with smoking cessation. Talk to your dentist about which options are right for your specific situation.
 

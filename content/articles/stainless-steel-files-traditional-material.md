@@ -79,7 +79,7 @@ There are several types of stainless steel files, each designed for different pu
 
 Hand-used K-files (with filing motions) cut slowly and carefully, giving your dentist excellent control and feedback about what's happening inside the canal. Rotary H-files and reamers cut much faster but with less feedback.
 
-In straight canals, the faster rotary files work well. In curved canals, hand-used K-files are safer because they're flexible and less likely to break.
+In straight canals, the faster rotary it work well. In curved canals, hand-used K-files are safer because they're flexible and less likely to break.
 
 ## Why Files Break
 

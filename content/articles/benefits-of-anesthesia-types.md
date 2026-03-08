@@ -109,8 +109,7 @@ Related reading: [Tooth Extraction Guide: Indications, Surgical Technique](/arti
 
 ## Conclusion
 
-Whether you're just learning about anesthesia types in oral surgery: what patients need to know or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+You have many safe choices for numbing during dental procedures. Oral sedation lets you sleep through it without needles in your arm. Work with your dentist to find what makes you most comfortable.
 
 > **Key Takeaway:** When you need dental work, your dentist will numb the area so you don't feel pain. There are several ways to do this.
 

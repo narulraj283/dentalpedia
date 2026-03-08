@@ -20,7 +20,7 @@ references:
   - "Watts A, Addy M. Tooth discolouration and staining: a review of the literature. Br Dent J. 2001;190(6):309-316."
   - "Salazar-Leal ME, García-Godoy F. Enamel microabrasion: an alternative for removal of superficial stains and mild fluorosis spots. Quintessence Int. 2000;31(2):91-98."
 ---
-Microabrasion is a minimally invasive dental procedure that removes superficial discolorations, white spots, and minor enamel defects without drilling or extensive tooth preparation. It's a great option when you have cosmetic concerns affecting just the tooth surface.
+Microabrasion is a minimally invasive dental procedure that removes superficial discolorations, white spots, and minor enamel defects without drilling or extensive tooth prep. It's a great option when you have cosmetic concerns affecting just the tooth surface.
 
 ## What Microabrasion Treats
 
@@ -44,7 +44,7 @@ The procedure combines chemical and mechanical action:
 
 **Abrasive component** (fine silicon carbide particles) mechanically removes the softened enamel layer.
 
-Together, they remove approximately 0.05-0.1 mm (50-100 micrometers) of surface enamel per treatment pass—extremely conservative compared to drilling, which removes much more.
+Together, they remove about 0.05-0.1 mm (50-100 micrometers) of surface enamel per treatment pass—extremely conservative compared to drilling, which removes much more.
 
 ## Preparing for Microabrasion
 
@@ -66,9 +66,9 @@ The procedure is quick and painless:
 
 4. **Technique**: Slow, circular motions are used, applying gentle pressure. Application is methodical, starting at the incisal area and progressing toward the gum. Each application lasts 5-20 seconds.
 
-5. **Assessment**: The dentist assesses changes between applications, determining when optimal improvement is reached.
+5. **Assessment**: The dentist assesses changes between uses, determining when optimal improvement is reached.
 
-6. **Completion**: Usually 6-8 applications achieve maximum benefit. Additional passes beyond this remove sound enamel without further improvement.
+6. **Completion**: Usually 6-8 uses achieve maximum benefit. Additional passes beyond this remove sound enamel without further improvement.
 
 The entire procedure takes 15-30 minutes.
 
@@ -120,17 +120,17 @@ To minimize relapse:
 
 **Professional fluoride application** every 6-12 months.
 
-Patients maintaining these measures show excellent long-term durability—85-90% remaining stable over 5-10 years.
+Patients keeping these measures show excellent long-term durability—85-90% remaining stable over 5-10 years.
 
 ## Cost-Benefit Considerations
 
-Microabrasion costs $200-400 per tooth (less than bonding or crowns). Comparing to alternatives: composite bonding costs $200-500 per tooth but requires replacement every 7-10 years. Veneers or crowns cost $800-3500+ but last 12-15+ years.
+Microabrasion costs $200-400 per tooth (less than bonding or crowns). Comparing to other options: composite bonding costs $200-500 per tooth but requires replacement every 7-10 years. Veneers or crowns cost $800-3500+ but last 12-15+ years.
 
 For superficial cosmetic concerns, microabrasion's low cost and minimal tooth removal make it excellent value. For extensive or deeper defects, other options provide better long-term results despite higher initial cost.
 
 ## Conclusion
 
-Microabrasion is an excellent minimally invasive technique for removing superficial enamel discolorations, white spots, and minor defects. Combined with proper maintenance and fluoride use, results last years without removing significant tooth structure. If you have minor cosmetic concerns affecting just tooth surfaces, discuss microabrasion with your dentist. For more extensive defects, combining microabrasion with other cosmetic procedures provides comprehensive improvement. Talk to your dentist about which options are right for your specific situation.
+Microabrasion is an excellent minimally invasive technique for removing superficial enamel discolorations, white spots, and minor defects. Combined with proper upkeep and fluoride use, results last years without removing significant tooth structure. If you have minor cosmetic concerns affecting just tooth surfaces, discuss microabrasion with your dentist. For more extensive defects, combining microabrasion with other cosmetic procedures provides full improvement. Talk to your dentist about which options are right for your specific situation.
 
 > **Key Takeaway:** Microabrasion is a minimally invasive dental procedure that removes superficial discolorations, white spots, and minor enamel defects without drilling or extensive tooth preparation.
 

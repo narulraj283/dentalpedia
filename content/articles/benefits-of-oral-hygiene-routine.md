@@ -110,7 +110,6 @@ Related reading: [The Benefits of Fluoride: What to Know](/article/benefits-of-f
 Use proper 45-degree angle gentle vibration, not aggressive scrubbing. Make it a habit through routine linking and environmental cues. Talk to your dentist about how this applies to your situation.
 
 
-
 > **Key Takeaway:** Brushing and flossing aren't really about willpower—they're about building routines that become automatic.
 
 ## Related Articles

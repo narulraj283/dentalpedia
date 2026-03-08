@@ -30,15 +30,15 @@ title: 'All-on-4 Full-Arch Implant Restoration: Evaluation'
 ---
 ## Am I a Good Candidate for All-on-4?
 
-Not every edentulous person is ideal for All-on-4. Your surgeon conducts thorough evaluation to ensure you're a good fit. Medical history screening is essential. If you have diabetes, your blood sugar control matters—those with controlled diabetes (HbA1c less than 7%) heal normally and have similar implant success to non-diabetics. Uncontrolled diabetes (HbA1c greater than 8%) significantly increases implant failure risk and should be controlled before treatment.
+Not every edentulous person is ideal for All-on-4. Your surgeon conducts thorough check to ensure you're a good fit. Medical history screening is essential. If you have diabetes, your blood sugar control matters—those with controlled diabetes (HbA1c less than 7%) heal normally and have similar implant success to non-diabetics. Uncontrolled diabetes (HbA1c greater than 8%) much increases implant failure risk and should be controlled before treatment.
 
-Smoking is the most critical modifiable factor—smokers have 3-5 times higher implant failure rates than non-smokers. Your surgeon will discuss smoking cessation intensively. Some medications (particularly bisphosphonates for osteoporosis) slightly increase bone disease risk, though treatment is usually still possible with precautions and your physician's input.
+Smoking is the most critical modifiable factor—smokers have 3-5 times higher implant failure rates than non-smokers. Your surgeon will discuss smoking cessation intensively. Some medicines (particularly bisphosphonates for osteoporosis) slightly increase bone disease risk, though treatment is usually still possible with precautions and your physician's input.
 
 Radiation therapy history for cancer indicates compromised bone healing, making All-on-4 more challenging but sometimes still feasible with special precautions like hyperbaric oxygen therapy. Your surgeon evaluates your overall health to ensure you can tolerate surgery.
 
 ## Bone Assessment and Imaging
 
-Before any surgery, comprehensive CT scanning (called cone-beam CT or CBCT) shows bone anatomy in three dimensions. Your surgeon measures bone height and density at specific locations where implants will be placed. In the lower jaw, bone height must be at least 10-12mm from your ridge crest to the inferior alveolar canal (the nerve channel).
+Before any surgery, full CT scanning (called cone-beam CT or CBCT) shows bone anatomy in three dimensions. Your surgeon measures bone height and density at specific locations where implants will be placed. In the lower jaw, bone height must be at least 10-12mm from your ridge crest to the inferior alveolar canal (the nerve channel).
 
 In the upper jaw, bone height must be at least 8-10mm to the maxillary sinus. If these measurements are inadequate, traditional approaches would require bone grafting (months of healing plus graft costs). All-on-4 often avoids grafting by tilting posterior implants to use available bone in the pterygoid region (further back).
 
@@ -48,7 +48,7 @@ D4 is challenging. Your CT imaging determines if you're a good immediate loading
 
 ## If All-on-4 Isn't Suitable: Alternative Options
 
-Some severely atrophic jaws don't have adequate bone for All-on-4 despite creative positioning. In these cases, zygomatic implants offer an alternative. These are longer implants (45-60mm) that pass through the maxillary sinus and anchor in the cheekbone (zygomatic process). This provides support without requiring bone grafting.
+Some severely atrophic jaws don't have adequate bone for All-on-4 despite creative positioning. In these cases, zygomatic implants offer an other option. These are longer implants (45-60mm) that pass through the maxillary sinus and anchor in the cheekbone (zygomatic process). This provides support without requiring bone grafting.
 
 Zygomatic implants achieve 90-95% success rates but require specialized surgical training and have slightly higher complexity. Pterygoid implants extend further back in the jaw, maximizing anterior-to-posterior spread—another creative option for limited bone but also requiring specialized expertise. For patients wanting fewer implants and removable teeth instead of fixed, implant overdentures supported by 2-4 implants are possible, costing less ($11,000-18,000) but offering removable rather than fixed teeth. Your surgeon discusses all options if All-on-4 isn't ideal.
 
@@ -66,17 +66,17 @@ Advantages include exact pre-planned positioning (reducing surgical variation), 
 
 ## Infection Risk and Peri-Implantitis
 
-Bone loss around implants (peri-implantitis) is the main biological complication, affecting approximately 5-10% of implants over 5 years. Risk factors include poor oral hygiene, smoking, uncontrolled diabetes, history of periodontitis, and prosthesis design making cleaning difficult. Early signs are bleeding or suppuration on probing, increased probing depths, and radiographic bone loss.
+Bone loss around implants (peri-implantitis) is the main biological problem, affecting about 5-10% of implants over 5 years. Risk factors include poor oral hygiene, smoking, uncontrolled diabetes, history of periodontitis, and prosthesis design making cleaning difficult. Early signs are bleeding or suppuration on probing, increased probing depths, and radiographic bone loss.
 
-Treatment involves professional cleaning, intensified home care, and antimicrobial rinses. Advanced cases sometimes require surgical exposure and implant surface decontamination. Prevention through excellent home care, regular professional monitoring (every 3-6 months, not annual), and smoking cessation is critical.
+Treatment involves expert cleaning, intensified home care, and antimicrobial rinses. Advanced cases sometimes require surgical exposure and implant surface decontamination. Prevention through excellent home care, regular expert monitoring (every 3-6 months, not annual), and smoking cessation is critical.
 
 ## Home Care Protocol for Implant Health
 
 Implant sites need more attention than natural teeth. Brush gently with soft bristles around the implant-prosthesis junction (critical area). Use water irrigation or oral irrigator—gentler on implant tissue than traditional floss. Use interdental brushes to access spaces. Antimicrobial mouthwash (alcohol-free) helps.
 
-Absolutely no smoking. Avoid hard foods. Regular professional cleanings every 3-6 months are essential—not optional.
+Absolutely no smoking. Avoid hard foods. Regular expert cleanings every 3-6 months are essential—not optional.
 
-Annual radiographic monitoring (x-rays) assesses bone levels. This ongoing care is non-negotiable for long-term implant survival. Most implant failures relate to poor home care or non-compliance with professional monitoring.
+Annual radiographic monitoring (x-rays) assesses bone levels. This ongoing care is non-negotiable for long-term implant survival. Most implant failures relate to poor home care or non-compliance with expert monitoring.
 
 ## Mechanical Complications and Prosthesis Wear
 
@@ -86,27 +86,27 @@ Framework fracture is rare but catastrophic, requiring complete remake. Chipping
 
 ## Bone Loss Over Time
 
-Even with perfect implant health, minor bone resorption occurs. Approximately 1-2mm of bone loss in the first year is normal physiologic remodeling. This stabilizes after year one.
+Even with perfect implant health, minor bone resorption occurs. About 1-2mm of bone loss in the first year is normal physiologic remodeling. This stabilizes after year one.
 
-Long-term, approximately 0.1-0.2mm of bone loss occurs annually—minimal but cumulative. Some studies show cemented prostheses have greater bone loss than screw-retained prostheses. Platform-switched implants (where the abutment is narrower than the implant body) reduce bone loss compared to platform-matched designs. Over 15-25 years, cumulative bone loss of 3-5mm may eventually require prosthesis remake due to gingival esthetics changes, but implants remain functionally sound.
+Long-term, about 0.1-0.2mm of bone loss occurs annually—minimal but cumulative. Some studies show cemented prostheses have greater bone loss than screw-retained prostheses. Platform-switched implants (where the abutment is narrower than the implant body) reduce bone loss compared to platform-matched designs. Over 15-25 years, cumulative bone loss of 3-5mm may eventually require prosthesis remake due to gingival esthetics changes, but implants remain functionally sound.
 
 ## Dietary Considerations and Function
 
-Your new teeth restore eating capability to approximately 60-70% of natural dentition function—sufficient for normal diet. Avoid very hard foods (nuts, hard candy, chewing ice) and sticky foods (caramel, toffee) that apply excessive force. Most patients can eat normally and report satisfaction superior to removable dentures.
+Your new teeth restore eating capability to about 60-70% of natural dentition function—enough for normal diet. Avoid very hard foods (nuts, hard candy, chewing ice) and sticky foods (caramel, toffee) that apply excessive force. Most patients can eat normally and report satisfaction superior to removable dentures.
 
-Speaking normalizes within 2-4 weeks. Comfort immediately exceeds removable dentures. The psychological transformation of having "real teeth" again is profound—many patients report improved self-confidence and quality of life.
+Speaking normalizes within 2-4 weeks. Comfort right away exceeds removable dentures. The psychological transformation of having "real teeth" again is profound—many patients report improved self-confidence and quality of life.
 
 ## Annual Cost of Care and Long-Term Investment
 
-Initial treatment: $20,000-35,000 (varies by location, materials, and whether complications require adaptation). Annual professional care: $500-1000. Prosthesis replacement: $8,000-15,000 every 5-10 years (acrylic) or 10-15+ years (ceramic).
+Initial treatment: $20,000-35,000 (varies by location, materials, and whether complications require adaptation). Annual expert care: $500-1000. Prosthesis replacement: $8,000-15,000 every 5-10 years (acrylic) or 10-15+ years (ceramic).
 
-Lifetime cost over 30 years: approximately $40,000-70,000 including all professional care, maintenance, and prosthesis replacements. Compare this to lifelong removable denture maintenance (annual relines, adjustments, replacements every 5-8 years) or natural tooth loss consequences (dietary restrictions, bone loss, health impacts). For most people, All-on-4 cost is justified by superior function, esthetics, and quality of life. Many patients report it was their best healthcare investment.
+Lifetime cost over 30 years: about $40,000-70,000 including all expert care, upkeep, and prosthesis replacements. Compare this to lifelong removable denture upkeep (annual relines, adjustments, replacements every 5-8 years) or natural tooth loss consequences (dietary restrictions, bone loss, health impacts). For most people, All-on-4 cost is justified by superior function, esthetics, and quality of life. Many patients report it was their best healthcare investment.
 
 ## Realistic Expectations and Long-Term Success
 
-All-on-4 is exceptionally successful—95-98% implant survival at 5 years, 90-95% at 10 years. However, success requires your commitment: excellent home care, smoking avoidance, regular professional monitoring, and following your surgeon's maintenance recommendations. Your implants will likely outlive you if maintained properly, but your prosthesis will require replacement every 5-15 years depending on material.
+All-on-4 is exceptionally successful—95-98% implant survival at 5 years, 90-95% at 10 years. However, success requires your commitment: excellent home care, smoking avoidance, regular expert monitoring, and following your surgeon's upkeep tips. Your implants will likely outlive you if maintained properly, but your prosthesis will require replacement every 5-15 years depending on material.
 
-Understand that this is fixed, permanent treatment—not reversible and not like removable dentures. Accept that professional care every 3-6 months is non-negotiable for long-term health. With these understandings, All-on-4 is transformative treatment that restores function, appearance, and confidence that tooth loss had stolen.
+Understand that this is fixed, permanent treatment—not reversible and not like removable dentures. Accept that expert care every 3-6 months is non-negotiable for long-term health. With these understandings, All-on-4 is transformative treatment that restores function, appearance, and confidence that tooth loss had stolen.
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
@@ -115,8 +115,7 @@ Related reading: [Implant Cost and Insurance](/article/implant-cost-and-insuranc
 
 ## Conclusion
 
-Whether you're just learning about all-on-4 full-arch implant restoration: evaluation or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Understand that this is fixed, permanent treatment—not reversible and not like removable dentures. Accept that expert care every 3-6 months is non-negotiable for long-term health. With these understandings, All-on-4 is transformative treatment that restores function, appearance, and confidence that tooth loss had stolen.
 
 > **Key Takeaway:** Not every edentulous person is ideal for All-on-4. Your surgeon conducts thorough evaluation to ensure you're a good fit.
 

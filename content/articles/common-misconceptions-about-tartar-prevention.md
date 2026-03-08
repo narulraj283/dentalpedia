@@ -36,7 +36,7 @@ You brush and floss faithfully, but tartar still builds up on your teeth. Meanwh
 
 ## Is Tartar Really Just About Brushing?
 
-Here's something surprising: brushing and flossing matter, but they're not the whole story. Some people get lots of tartar despite excellent oral hygiene, while others barely get any despite less-than-perfect brushing habits. This difference comes down to your saliva chemistry.
+Here's something surprising: brushing and flossing matter, but they're not the whole story. Some people get lots of this despite excellent oral hygiene, while others barely get any despite less-than-perfect brushing habits. This difference comes down to your saliva chemistry.
 
 Your saliva has calcium, pH (acidity/alkalinity), and flow rate—all genetically determined. Learning more about [Oral Health Habits Complete Guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. If you have calcium-rich, alkaline (basic) saliva, tartar forms more easily. If you have low-calcium, slightly acidic saliva, you're more resistant to tartar formation. It's like how some people naturally resist cavities—it's partly genetics.
 
@@ -48,13 +48,13 @@ Supragingival tartar (above the gum line) forms where saliva flow is strongest�
 
 ## Do "Tartar Control" Toothpastes Actually Work?
 
-These toothpastes contain ingredients like pyrophosphate meant to prevent tartar formation. The marketing claims sound good, but real-world results are modest. Studies show they reduce tartar maybe 10-25% at best—not zero tartar, just less of it. Professional cleaning removes 95-100% of tartar, which is vastly more effective.
+These toothpastes contain ingredients like pyrophosphate meant to prevent tartar formation. The marketing claims sound good, but real-world results are modest. Studies show they reduce it maybe 10-25% at best—not zero this, just less of it. Professional cleaning removes 95-100% of tartar, which is vastly more effective.
 
 The problem is that the ingredient in the toothpaste only works where it touches, and brushing time is short. So while using tartar-control toothpaste isn't bad, it's not a game-changer. Your brushing technique and professional cleanings matter more.
 
 ## Will Mouthwash Alone Stop Tartar?
 
-Mouthwash reduces bacteria, but bacteria are already embedded in plaque. Mouthwash can't remove mechanically-attached plaque—only brushing and flossing do that. Antibacterial mouthwashes combined with mechanical cleaning help reduce tartar about 35-50% compared to mechanical cleaning alone, but neither is enough by itself.
+Mouthwash reduces bacteria, but bacteria are already embedded in plaque. Mouthwash can't remove mechanically-attached plaque—only brushing and flossing do that. Antibacterial mouthwashes combined with mechanical cleaning help reduce it about 35-50% compared to mechanical cleaning alone, but neither is enough by itself.
 
 Regular mouthwash is a nice adjunct to brushing and flossing, but it's not a substitute for them.
 
@@ -72,17 +72,17 @@ If you smoke and get lots of tartar, quitting (or even cutting back) would help 
 
 ## Does Hard Water Cause More Tartar?
 
-Probably not as much as you'd think. Hard water has more minerals, but studies show minimal connection between water hardness and tartar formation. Your saliva composition matters way more than your tap water. If you live somewhere with hard water and don't get extra tartar, you're probably just lucky with your saliva chemistry.
+Probably not as much as you'd think. Hard water has more minerals, but studies show minimal connection between water hardness and tartar formation. Your saliva composition matters way more than your tap water. If you live somewhere with hard water and don't get extra this, you're probably just lucky with your saliva chemistry.
 
 ## Can Your Dentist Really Stop Tartar From Coming Back?
 
-Your dentist can remove all the tartar (95-100% removal), but it comes back in predictable amounts depending on your personal risk factors. About half of people get visible tartar again in 3-6 months. Some people (with naturally high-calcium saliva) get tartar back within 6-12 months. Others stay clean for a whole year or more.
+Your dentist can remove all the tartar (95-100% removal), but it comes back in predictable amounts depending on your personal risk factors. About half of people get visible it again in 3-6 months. Some people (with naturally high-calcium saliva) get tartar back within 6-12 months. Others stay clean for a whole year or more.
 
-This is why your dentist adjusts your cleaning schedule. Heavy tartar formers might need cleanings every 3-4 months. Lighter tartar formers might be fine with once a year.
+This is why your dentist adjusts your cleaning schedule. Heavy this formers might need cleanings every 3-4 months. Lighter tartar formers might be fine with once a year.
 
 ## Does the Ultrasonic Scaler Rough Up Your Teeth?
 
-The ultrasonic scaler that cleans teeth creates some surface roughness, but so does the traditional hand instrument. The roughness is minimal and actually similar between both tools. However, when your dentist finishes by polishing your teeth smoothly, that reduces tartar return by 10-20% by reducing places bacteria can easily stick.
+The ultrasonic scaler that cleans teeth creates some surface roughness, but so does the traditional hand instrument. The roughness is minimal and actually similar between both tools. However, when your dentist finishes by polishing your teeth smoothly, that reduces it return by 10-20% by reducing places bacteria can easily stick.
 
 This is why polishing at the end of your cleaning is important.
 

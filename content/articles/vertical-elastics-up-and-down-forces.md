@@ -100,11 +100,13 @@ If your open bite was caused by tongue thrusting or mouth breathing, addressing 
 
 Most patients wear retainers after active orthodontic treatment to maintain the results. For bite correction, this might be a removable retainer worn nightly, or a fixed bonded wire behind your front teeth, or both. Consistent retainer wear prevents the bite from relapsing back to the original open bite position.
 
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding vertical elastics: up and down forces in orthodontics helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Vertical elastics are highly effective for anterior open bite closure when appropriate force levels, wear schedules, and patient compliance are achieved. Box elastics and triangle elastics offer different force vectors suitable for different clinical situations. Success depends on clear patient instruction, consistent compliance with wear schedules, and regular monitoring. With proper application and management, vertical elastics provide efficient, predictable open bite closure and improved bite relationships.
 
 > **Key Takeaway:** Vertical elastics are highly effective for closing dental open bites through gentle, consistent force application. Success requires wearing elastics consistently for 20+ hours daily and replacing them frequently as they lose force. Box elastics and triangle elastics offer different force vectors for different clinical situations. Patient compliance is the most critical factor determining success. With excellent compliance and appropriate elastic configuration, open bites typically close within a few months, dramatically improving both appearance and function.
 

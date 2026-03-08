@@ -183,8 +183,7 @@ Related reading: [Getting Your Dental Work to Match Your Teeth](/article/how-to-
 
 ## Conclusion
 
-Whether you're just learning about cosmetic alternatives to orthodontics: when veneers or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Your dentist can help you understand the best approach for your specific needs. You should understand the trade-offs.
 
 > **Key Takeaway:** Mild to moderate smile concerns—slight crowding, minor rotations, small color problems—can often be fixed with cosmetic restorations instead of.
 

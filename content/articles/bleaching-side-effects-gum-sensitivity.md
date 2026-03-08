@@ -140,7 +140,6 @@ Related reading: [Macroabrasion: Remove Deep Tooth Stains](/article/macroabrasio
 Bleaching-induced dental sensitivity and gingival irritation remain manageable through comprehensive prevention protocols including desensitization pre-treatment, concentration optimization, proper tray design, and fluoride application. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** Tooth whitening works beautifully, but it has a catch: side effects happen in 15-65% of people, depending on how aggressive the whitening is.
 
 ## Related Articles

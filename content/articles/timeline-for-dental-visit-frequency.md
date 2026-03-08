@@ -82,11 +82,7 @@ Your dentist may recommend additional steps specific to your situation, such as 
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding risk-based dental visit frequency and recall intervals helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
-
-The "every six months" rule works fine for many people with moderate risk, but it's not ideal for everyone. Your dentist evaluates your individual risk for cavities and gum disease, then recommends a visit schedule that's perfect for you. Someone with excellent oral health might only need to visit once yearly, while someone with active gum disease might need to come every 3 to 4 months. The goal is to keep your teeth and gums healthy with the right level of professional care—not too often, not too seldom, but just right for you.
+Risk-based recall intervals range from 12-24 months for low-risk patients to 3-4 months for high-caries-risk or periodontal disease patients. Caries risk assessment incorporates history, oral hygiene, diet, fluoride exposure, and salivary function. Periodontal risk assessment includes probing depths, bleeding on probing, attachment loss, and bone loss progression. Customized recall intervals based on individual risk profiles optimize disease prevention outcomes and reduce unnecessary appointments.
 
 > **Key Takeaway:** ## Key Takeaway: Your Visit Schedule Should Match Your Risk
 

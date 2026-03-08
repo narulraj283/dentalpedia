@@ -20,7 +20,7 @@ references:
 ---
 ## Introduction
 
-Interest in detoxification programs—from juice cleanses to more intensive treatments—continues to grow. If you're considering a detoxification program, it's worth understanding how it might affect your mouth. Detoxification creates temporary changes in your saliva, mouth bacteria, and even tooth sensitivity. Knowing what to expect helps you protect your oral health during cleansing efforts.
+Interest in detoxification programs—from juice cleanses to more intensive treatments—continues to grow. If you're considering a detoxification program, it's worth understanding how it might affect your mouth. Detoxification creates temporary changes in your saliva, mouth bacteria, and even tooth soreness. Knowing what to expect helps you protect your oral health during cleansing efforts.
 
 ## How Detoxification Affects Your Mouth
 
@@ -113,7 +113,7 @@ Work with a nutritionist familiar with your detoxification program to identify a
 ## When to See Your Dentist
 
 Schedule an appointment if during detoxification you notice:
-- Severe tooth sensitivity not improving with over-the-counter products
+- Severe tooth soreness not improving with over-the-counter products
 - White coating that doesn't resolve after brushing (possible thrush)
 - Unusual gum bleeding or swelling
 - Tooth pain (might indicate cavity or other problem)
@@ -129,11 +129,11 @@ Don't expect your mouth to feel perfect during detoxification. Minor changes are
 
 ## Protecting Your Results Long-Term
 
-Once you've addressed detoxification and oral health, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+Once you've addressed detoxification and oral health, keeping your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with expert cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
 
 ## Conclusion
 
-Detoxification programs create temporary changes in your mouth's chemical environment that can affect oral health if you're unprepared. Maintaining excellent oral hygiene, protecting enamel from acids, staying hydrated, and ensuring adequate nutrition help your mouth weather the detoxification process. Most temporary effects resolve quickly once detoxification is complete. If problems develop, your dentist can help manage them while continuing your wellness program.
+Detoxification programs create temporary changes in your mouth's chemical environment that can affect oral health if you're unprepared. Keeping excellent oral hygiene, protecting enamel from acids, staying hydrated, and ensuring adequate nutrition help your mouth weather the detoxification process. Most temporary effects resolve quickly once detoxification is complete. If problems develop, your dentist can help manage them while continuing your wellness program.
 
 > **Key Takeaway:** Interest in detoxification programs—from juice cleanses to more intensive treatments—continues to grow.
 

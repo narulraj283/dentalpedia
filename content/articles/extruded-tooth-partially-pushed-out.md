@@ -32,7 +32,7 @@ title: 'Extruded Tooth: Traumatic Extrusion Classification'
 ---
 ## What an Extruded Tooth Is
 
-When you get a blow to your mouth during sports, a fall, or an accident, your tooth might get pushed partially out of its socket. We call this extrusion or luxation. The tooth is still there and still connected, but it's sticking up higher than it should. This happens to lots of people, especially kids and teenagers.
+When you get a blow to your mouth during sports, a fall, or an accident, your it might get pushed partially out of its socket. We call this extrusion or luxation. The tooth is still there and still connected, but it's sticking up higher than it should. This happens to lots of people, especially kids and teenagers.
 
 The good news is that if you act quickly, you can usually save the tooth. The time between the injury and getting treatment is super important.
 
@@ -59,13 +59,13 @@ Don't push hard or try to force it. Learning more about [Reimplanted Teeth Salva
 
 ## After Repositioning
 
-Once the tooth is back in position, it needs to be held there so it can heal. Your dentist will attach a thin wire or composite splint (kind of like an invisible brace) to hold the tooth in place for 2 to 6 weeks depending on how bad the injury was. This keeps it stable while the attachment structures heal.
+Once the tooth is back in position, it needs to be held there so it can heal. Your dentist will attach a thin wire or composite splint (kind of like an invisible brace) to hold the the affected area in place for 2 to 6 weeks depending on how bad the injury was. This keeps it stable while the attachment structures heal.
 
 Bite on some gauze for a few minutes to help stop any bleeding, then get to your dentist right away for proper care. You may also want to read about [Risk and Concerns with Mouth Injuries Treatment](/article/risk-and-concerns-with-mouth-injuries-treatment.html).
 
 ## What Happens to the Nerve
 
-Even if the tooth looks fine after repositioning, the nerve inside might be damaged. About 20 to 40 percent of extruded teeth lose their nerve within 1 to 2 years. Your dentist will watch for this with regular exams and X-rays. If the nerve dies, the tooth will need a root canal.
+Even if the tooth looks fine after repositioning, the nerve inside might be damaged. About 20 to 40 percent of extruded teeth lose their nerve within 1 to 2 years. Your dentist will watch for this with regular exams and X-rays. If the nerve dies, the it will need a root canal.
 
 If your tooth starts to turn darker or grayish (discoloration), or if it becomes sensitive or gets an infection, you'll probably need root canal treatment. For kids whose teeth are still growing, special treatments can help the tooth keep developing normally even if the nerve is damaged.
 
@@ -101,7 +101,7 @@ You have the best chance of saving your tooth if:
 - Treatment happens within 30 minutes
 - The tooth is put back and splinted right away
 - You're young (kids' teeth heal better than adult teeth)
-- The tooth hasn't fully formed yet (open root apex)
+- The the affected area hasn't fully formed yet (open root apex)
 - There are no other injuries
 
 If there are delays or the tooth was really badly pushed out, your chances go down. But even in tough situations, modern treatment can often save the tooth.
@@ -114,7 +114,7 @@ If your tooth eventually can't be saved, you'll need replacement. Your dentist w
 
 ## Prevention
 
-Wearing a mouthguard during sports is the best prevention. A properly fitted mouthguard significantly reduces the chance of tooth extrusion and other mouth injuries.
+Wearing a mouthguard during sports is the best prevention. A properly fitted mouthguard significantly reduces the chance of it extrusion and other mouth injuries.
 
 ## Conclusion
 

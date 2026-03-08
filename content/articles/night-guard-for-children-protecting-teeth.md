@@ -43,11 +43,11 @@ The good news is that childhood grinding often decreases as children grow older,
 
 You might first notice grinding from the characteristic grinding or gnashing sounds your child makes during sleep—that distinctive teeth-clenching noise. Not all grinding produces obvious sounds, so some children grind silently without parents noticing.
 
-Your dentist might identify grinding during routine check-ups. Worn or flattened tooth surfaces, particularly on molars and front teeth, indicate grinding damage. Your child might report morning jaw soreness, facial discomfort, or headaches. In severe cases, grinding can cause premature loosening of primary teeth or affect developing permanent teeth.
+Your dentist might identify grinding during routine check-ups. Worn or flattened tooth surfaces, especially on molars and front teeth, indicate grinding damage. Your child might report morning jaw soreness, facial discomfort, or headaches. In severe cases, grinding can cause premature loosening of primary teeth or affect developing permanent teeth.
 
 ## Why Protection During Childhood Matters
 
-Childhood grinding can damage developing teeth and supporting structures. The excessive grinding forces can cause primary teeth to become loose prematurely, disrupting the normal sequence as permanent teeth try to erupt. Baby teeth roots can resorb faster than normal under grinding stress. In severe cases, grinding can cause temporary inflammation inside primary teeth (pulpitis) that requires treatment.
+Childhood grinding can damage developing teeth and supporting structures. The excessive grinding forces can cause primary teeth to become loose prematurely, disrupting the normal sequence as permanent teeth try to erupt. Baby teeth roots can resorb faster than normal under grinding stress. In severe cases, grinding can cause temporary swelling inside primary teeth (pulpitis) that requires treatment.
 
 Most importantly, grinding during childhood can affect permanent tooth development. Permanent teeth erupting through heavily worn primary teeth might develop enamel defects or position abnormally. Protecting primary teeth from grinding damage ensures permanent teeth can erupt into healthy positions.
 
@@ -55,21 +55,21 @@ Most importantly, grinding during childhood can affect permanent tooth developme
 
 Children's night guards differ from adult designs because they need to accommodate changing dentition. Guards typically protect the erupted permanent teeth in the grinding zones rather than covering the entire dental arch. As permanent teeth continue erupting, the guard requires adjustments or replacement. For more on this topic, see our guide on [Dental Fluorosis in Children](/article/fluorosis-risk-in-children-excessive-fluoride.html).
 
-Material selection emphasizes safety and comfort for children. Custom-made guards provide better fit than boil-and-bite alternatives. Guard thickness balances protection with comfort—overly thick guards feel uncomfortable and reduce compliance, while insufficient thickness provides inadequate protection.
+Material selection emphasizes safety and comfort for children. Custom-made guards provide better fit than boil-and-bite other options. Guard thickness balances protection with comfort—overly thick guards feel painful and reduce compliance, while not enough thickness provides inadequate protection.
 
 Color selection matters for children's acceptance. Allowing your child to choose an appealing color or selecting glow-in-the-dark materials increases willingness to wear the guard consistently. Some families find that incorporating guard use into established bedtime routines increases compliance.
 
 ## Fitting and Adjustment
 
-Initial fitting requires verification that the guard covers all grinding-vulnerable teeth properly. Your pediatric dentist checks that contact is even across the teeth and adjusts the guard to remove any high spots that feel uncomfortable.
+Initial fitting requires verification that the guard covers all grinding-vulnerable teeth properly. Your pediatric dentist checks that contact is even across the teeth and adjusts the guard to remove any high spots that feel painful.
 
-Frequent adjustments become necessary as your child's dentition develops. Primary teeth exfoliate, permanent teeth erupt, and your child's jaw grows. Every 6-12 months, the guard typically requires modification to maintain proper contact and coverage. This ongoing adjustment keeps the guard protective as your child grows.
+Frequent adjustments become necessary as your child's dentition develops. Primary teeth exfoliate, permanent teeth erupt, and your child's jaw grows. Every 6-12 months, the guard typically requires change to maintain proper contact and coverage. This ongoing adjustment keeps the guard protective as your child grows.
 
 ## Non-Guard Approaches Worth Trying
 
 While night guards provide mechanical protection, addressing underlying causes can reduce grinding frequency. Stress reduction techniques appropriate for children—including relaxation exercises, guided imagery, and deep breathing—help reduce stress-related grinding. Teaching your child to consciously relax jaw muscles during waking hours sometimes reduces overall grinding intensity.
 
-Sleep hygiene improvements support better sleep quality, which reduces grinding-related disruptions. Consistent bedtimes, adequate sleep duration, reduced evening screen time, and comfortable sleep environments improve sleep quality. If your child has sleep-disordered breathing symptoms (snoring, witnessed breathing pauses, daytime sleepiness), medical evaluation might reveal treatable breathing problems. Treating nasal allergies or obstruction frequently reduces grinding substantially.
+Sleep hygiene improvements support better sleep quality, which reduces grinding-related disruptions. Consistent bedtimes, adequate sleep duration, reduced evening screen time, and comfortable sleep environments improve sleep quality. If your child has sleep-disordered breathing symptoms (snoring, witnessed breathing pauses, daytime sleepiness), medical check might reveal treatable breathing problems. Treating nasal allergies or obstruction frequently reduces grinding greatly.
 
 Some children's grinding decreases with orthodontic treatment that improves bite relationships or with removal of mechanical triggers to grinding. Your pediatric dentist can discuss which additional approaches might help your child's specific situation. For more on this topic, see our guide on [Sleep-Disordered Breathing in Kids](/article/sleep-disordered-breathing-in-kids-osa-signs.html).
 
@@ -81,12 +81,11 @@ Some school-age children feel self-conscious discussing dental devices with peer
 
 ## Cost Considerations
 
-Custom-fitted pediatric night guards typically cost less than adult guards since they protect fewer teeth and use less material. Discussing your insurance coverage and available payment plans helps families understand the value. Comparing the cost of protective guards versus treating damaged teeth later (fillings, crowns, possibly root canals) demonstrates the economic value of prevention.
+Custom-fitted pediatric night guards typically cost less than adult guards since they protect fewer teeth and use less material. Discussing your insurance coverage and available payment plans helps families understand the value. Comparing the cost of protective guards versus treating damaged teeth later (fillings, crowns, possibly root canals) shows the economic value of prevention.
 
 ## When to Seek Professional Evaluation
 
-Consult your pediatric dentist if you hear regular grinding sounds, notice worn teeth, or if your child reports morning jaw pain or frequent headaches. Significant grinding causing visible tooth damage warrants evaluation to determine whether a guard would help. If grinding accompanies snoring or breathing irregularities, medical evaluation for sleep-disordered breathing becomes important.
-different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
+Consult your pediatric dentist if you hear regular grinding sounds, notice worn teeth, or if your child reports morning jaw pain or frequent headaches. Significant grinding causing visible tooth damage warrants check to determine whether a guard would help. If grinding accompanies snoring or breathing irregularities, medical check for sleep-disordered breathing becomes important. different, and your dentist can help you understand which options make the most sense for your oral health goals and budget. Don't be afraid to ask for a clear explanation of the pros and cons of each approach.
 
 You might also want to ask about the expected timeline, what the recovery process looks like, and whether your insurance covers the recommended treatment. Having these conversations before starting any procedure helps you feel more confident and prepared. Write down your questions ahead of time so you don't forget anything during your appointment.
 
@@ -94,9 +93,7 @@ Your dentist can also explain what happens if you choose to delay treatment and 
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. Your dentist can also explain what happens if you choose to delay treatment and what signs to watch for that might mean you need to come in sooner. Getting answers to these questions puts you in control of your dental health decisions.
 
 > **Key Takeaway:** Pediatric night guards protect your child's developing teeth from grinding damage during vulnerable years when permanent teeth are erupting, preserving long-term dental health.
 

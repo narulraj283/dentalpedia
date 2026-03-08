@@ -22,23 +22,23 @@ references:
   - "Teixeira et al. Resin Matrix Hydrolysis and Degradation. Polymers, 2023;15(2):367."
   - "Magne & Debels. Adhesive Interface Longevity in Direct Composite Restorations. Quintessence International, 2023;54(3):212-228."
 ---
-Composite fillings look natural and are extremely popular. But you've probably wondered: how long will they actually last? The honest answer: not as long as silver amalgam, but with good care they last a reasonable time. Let's talk about what determines composite longevity and how to extend the life of your restorations.
+Composite fillings look natural and are extremely popular. But you've probably wondered: how long will they actually last? The honest answer: not as long as silver amalgam, but with good care they last a reasonable time. Let's talk about what determines composite longevity and how to extend the life of your repairs.
 
 ## Realistic Longevity Expectations
 
-Studies show about 87-91% of anterior (front tooth) composite restorations are intact at 5 years, declining to 75-80% at 10 years. For posterior (back tooth) composites, survival is slightly better: 91-94% at 5 years, 85-90% at 10 years. This means most composites last 5-12 years before needing replacement. Compare this to amalgam, which has 75% survival at 20 years—significantly longer.
+Studies show about 87-91% of anterior (front tooth) composite repairs are intact at 5 years, declining to 75-80% at 10 years. For posterior (back tooth) composites, survival is slightly better: 91-94% at 5 years, 85-90% at 10 years. This means most composites last 5-12 years before needing replacement. Compare this to amalgam, which has 75% survival at 20 years—much longer.
 
 The most common failure mode is secondary caries (new decay at restoration margins), which accounts for 35-45% of composite failures. Bulk fracture accounts for 15-25%, marginal defects or ditching 20-30%, and pure adhesive failure 10-15%.
 
 ## Why Composites Don't Last as Long as Amalgam
 
-Composite resins shrink when they harden (about 4-7% volumetric shrinkage). This shrinkage creates stress at the tooth-restoration interface, potentially opening up tiny gaps where bacteria can infiltrate. These microscopic gaps are where secondary caries begin—decay at the filling edge, not the original cavity.
+Composite resins shrink when they harden (about 4-7% volumetric shrinkage). This shrinkage creates stress at the tooth-repair interface, potentially opening up tiny gaps where bacteria can infiltrate. These microscopic gaps are where secondary caries begin—decay at the filling edge, not the original cavity.
 
 Composites also absorb water from your mouth (0.4-0.8% water absorption). Water causes the resin to expand slightly, opening gaps, and causes degradation of the bonding interface over time. The resin-dentin bond weakens by 12-25% within 6-12 months of water exposure. This is just physics—water and resin don't play well together long-term.
 
 ## Placement Technique Affects Longevity
 
-How your dentist places the composite significantly impacts durability. Learning more about [Composite Bonding Margins Blending](/article/composite-bonding-margins-blending.html) can help you understand this better. Incremental placement (placing resin in 2-3mm thick layers, light-curing each layer separately) is much superior to bulk placement (trying to fill the whole cavity at once). Incremental placement distributes polymerization shrinkage stress over multiple interfaces, reducing peak stress by 40-50%. This means fewer gaps and better marginal adaptation.
+How your dentist places the composite much impacts durability. Learning more about [Composite Bonding Margins Blending](/article/composite-bonding-margins-blending.html) can help you understand this better. Incremental placement (placing resin in 2-3mm thick layers, light-curing each layer separately) is much superior to bulk placement (trying to fill the whole cavity at once). Incremental placement distributes polymerization shrinkage stress over multiple interfaces, reducing peak stress by 40-50%. This means fewer gaps and better marginal adaptation.
 
 Light-curing parameters matter too. Your dentist should use adequate light intensity (1000+ mW/cm²) and adequate duration (15-20 seconds for LED, 40-60 seconds for halogen lights). Under-cured composite (not hardened completely) is softer, wears faster, and degrades faster.
 
@@ -46,7 +46,7 @@ Light-curing parameters matter too. Your dentist should use adequate light inten
 
 The bonding between composite and tooth is the weak point. Contemporary adhesive systems create a hybrid layer (15-30 micrometers thick) where resin infiltrates demineralized dentin. This hybrid layer is vulnerable to water infiltration and enzymatic degradation.
 
-Total-etch adhesives (where you apply phosphoric acid to etch both enamel and dentin) create greater demineralization and more potential for water infiltration. Self-etch adhesives (which are milder and don't etch as aggressively) show 15-25% less water sorption and better long-term bond stability.
+Total-etch adhesives (where you apply phosphoric acid to etch both enamel and dentin) create greater weakening and more potential for water infiltration. Self-etch adhesives (which are milder and don't etch as aggressively) show 15-25% less water sorption and better long-term bond stability.
 
 Regardless of adhesive type, proper technique is critical: controlling moisture (not too wet or too dry), applying adhesive correctly, and ensuring complete polymerization. You may also want to read about [Complete Guide to Dental Exams and Cleanings](/article/complete-guide-to-dental-exams-and-cleanings.html).
 
@@ -60,7 +60,7 @@ Fluoride-releasing composites reduce secondary caries by 25-35% through sustaine
 
 ## Wear and Abrasion: Surface Loss
 
-Composite resins wear from mastication and toothbrush abrasion. Wear rates vary by composite type: microfill composites wear 80-150 micrometers annually, hybrid composites 50-80 micrometers annually, and macrofill composites 40-60 micrometers annually. For posterior restorations, this means 2-4mm depth loss over 10 years—clinically significant.
+Composite resins wear from mastication and toothbrush abrasion. Wear rates vary by composite type: microfill composites wear 80-150 micrometers annually, hybrid composites 50-80 micrometers annually, and macrofill composites 40-60 micrometers annually. For posterior repairs, this means 2-4mm depth loss over 10 years—clinically significant.
 
 Wear patterns aren't uniform. For hybrid composites, wear is rapid initially (first 12 months) as resin matrix wears away faster than filler particles. By 18-24 months, wear rate stabilizes as filler particles become exposed and wear more slowly. This non-linear wear pattern is normal.
 
@@ -68,27 +68,27 @@ Cervical wear from aggressive toothbrushing causes notches at the gum line. Prev
 
 ## Fracture Risk: Restored Teeth Are More Fragile
 
-Restored teeth are more fracture-prone than natural teeth because: restoration material is less strong than natural tooth structure, bonded composite transfers stress differently than intact enamel, and restored teeth lack the shock-absorbing properties of natural tooth structure.
+Restored teeth are more fracture-prone than natural teeth because: repair material is less strong than natural tooth structure, bonded composite transfers stress differently than intact enamel. Restored teeth lack the shock-absorbing properties of natural tooth structure.
 
-Fracture risk increases with: large restorations (cuspal coverage <2mm), deep restorations, and parafunctional habits (grinding, clenching). Patients with grinding habits should wear a night guard reducing fracture risk by 65-80%.
+Fracture risk increases with: large repairs (cuspal coverage <2mm), deep repairs, and parafunctional habits (grinding, clenching). Patients with grinding habits should wear a night guard reducing fracture risk by 65-80%.
 
 ## Patient Factors Affecting Longevity
 
-Your habits significantly affect composite longevity: oral hygiene (poor hygiene increases secondary caries risk 2.5-fold), diet (frequent sugar exposure increases caries risk), parafunctional habits (grinding/clenching increases fracture risk 2-3 fold), and toothbrushing aggression (aggressive brushing increases cervical wear 2-3 fold).
+Your habits much affect composite longevity: oral hygiene (poor hygiene increases secondary caries risk 2.5-fold), diet (frequent sugar exposure increases caries risk), parafunctional habits (grinding/clenching increases fracture risk 2-3 fold). Toothbrushing aggression (aggressive brushing increases cervical wear 2-3 fold).
 
-Patient education about: soft-bristled toothbrush, gentle technique, fluoride dentifrice (fluoride reduces secondary caries risk 25-35%), dietary modification (reducing sugar exposure), and night guard use if grinding present (improves survival 20-30%).
+Patient education about: soft-bristled toothbrush, gentle technique, fluoride dentifrice (fluoride reduces secondary caries risk 25-35%), dietary change (reducing sugar exposure), and night guard use if grinding present (improves survival 20-30%).
 
 ## Maintenance and Repair Strategies
 
-Minor surface defects (<1mm depth, <2mm width) can be repaired through: etching, adhesive application, and incremental composite addition. Repairs extend restoration life 2-3 years without requiring full replacement, providing cost savings.
+Minor surface defects (<1mm depth, <2mm width) can be repaired through: etching, adhesive application, and incremental composite addition. Repairs extend repair life 2-3 years without requiring full replacement, providing cost savings.
 
 Larger defects, ditching, or undermined areas >1mm depth require replacement rather than repair. Regular follow-up (6-12 month intervals) enables early defect detection before catastrophic failure.
 
-Annual professional fluoride application (1.23% APF gel for 4 minutes) strengthens underlying tooth structure and slows margin degradation, extending longevity by 15-25%.
+Annual expert fluoride application (1.23% APF gel for 4 minutes) strengthens underlying tooth structure and slows margin degradation, extending longevity by 15-25%.
 
 ## Replacement and Cumulative Costs
 
-Composite restorations typically require replacement 5-12 years post-insertion. Each replacement removes additional tooth structure, eventually potentially compromising tooth vitality. Cumulative cost over 30-40 years of multiple replacements can exceed initial treatment cost.
+Composite repairs typically require replacement 5-12 years post-insertion. Each replacement removes additional tooth structure, eventually potentially compromising tooth vitality. Cumulative cost over 30-40 years of multiple replacements can exceed initial treatment cost.
 
 For large cavities, ceramic inlays/onlays (lasting 15+ years) might be more cost-effective long-term despite higher initial cost, reducing lifetime replacement cycles.
 
@@ -97,7 +97,7 @@ For large cavities, ceramic inlays/onlays (lasting 15+ years) might be more cost
 
 ## Conclusion
 
-Composite resin restorations last 5-12 years on average, with about 50% surviving 10 years. Longevity depends on: proper placement technique (incremental placement reducing shrinkage stress), adhesive preservation (moisture control), excellent home care (preventing secondary caries), and patient compliance (soft brushing, fluoride use, gentle diet). With meticulous technique and good patient compliance, some composites last 15+ years. Understanding these factors enables you to maximize restoration longevity through informed choices and diligent home care.
+Composite resin repairs last 5-12 years on average, with about 50% surviving 10 years. Longevity depends on: proper placement technique (incremental placement reducing shrinkage stress), adhesive preservation (moisture control), excellent home care (preventing secondary caries), and patient compliance (soft brushing, fluoride use, gentle diet). With meticulous technique and good patient compliance, some composites last 15+ years. Understanding these factors enables you to maximize repair longevity through informed choices and diligent home care.
 
 > **Key Takeaway:** Composite fillings look natural and are extremely popular.
 

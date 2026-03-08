@@ -47,7 +47,7 @@ Your endodontist can discuss whether surgery is right for your specific tooth an
 
 ## Preparing for Endodontic Surgery
 
-Before surgery, your dentist takes 3D X-rays (CBCT) to see the infection's exact location, size, and relationship to important structures (nerves, blood vessels, sinuses). This detailed imaging guides surgical planning and prevents complications.
+Before surgery, your dentist takes 3D X-rays (CBCT) to see the infection's exact location, size, and relationship to important structures (nerves, blood vessels, sinuses). This detailed imaging guides surgical planning and prevents problems.
 
 You'll be given antibiotic prophylaxis (typically amoxicillin) taken one hour before surgery and continued for several days afterward to prevent infection.
 
@@ -63,7 +63,7 @@ Your endodontist creates a small opening in your gum to access the root tip. Und
 
 3. **Prepares the root end**: An ultrasonic instrument creates a small cavity (preparation) at the root end, more conservatively than old techniques.
 
-4. **Seals the root**: The preparation is filled with biocompatible sealing material (mineral trioxide aggregate, or similar material) that permanently prevents bacteria from re-entering.
+4. **Seals the root**: The prep is filled with biocompatible sealing material (mineral trioxide aggregate, or similar material) that permanently prevents bacteria from re-entering.
 
 5. **Grafting (optional)**: A bone graft might be placed in the surgical site to accelerate bone healing, though this is optional.
 
@@ -145,7 +145,7 @@ After successful endodontic surgery:
 
 Endodontic surgery saves teeth that standard root canal treatment can't resolve. Modern microsurgical techniques achieve success rates exceeding 90% in appropriately selected cases. Recovery is usually rapid with minimal discomfort.
 
-If you've had root canal treatment failure or persistent symptoms, discuss whether surgical options might save your tooth. The alternative—extraction and replacement—costs more and requires more extensive treatment. Talk to your endodontist about which options are right for your specific situation.
+If you've had root canal treatment failure or persistent symptoms, discuss whether surgical options might save your tooth. The other option—extraction and replacement—costs more and requires more extensive treatment. Talk to your endodontist about which options are right for your specific situation.
 
 > **Key Takeaway:** When a tooth's root canal treatment doesn't completely resolve an infection, surgery might be necessary to save the tooth.
 

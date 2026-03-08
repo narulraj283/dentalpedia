@@ -49,7 +49,7 @@ When you frequently drink acidic beverages, your mouth becomes persistently acid
 
 Cavity-forming bacteria (primarily Streptococcus mutans and Lactobacillus) thrive when you give them sugar. When you consume sugary drinks or snacks, those bacteria immediately metabolize the sugar and produce lactic acid as a waste product. This happens within seconds. That acid production continues for 30-60 minutes after you finish eating or drinking, depending on how effectively your saliva can neutralize it.
 
-Water contains zero sugars, so bacteria get no fuel. When you drink water, no acid gets produced by bacteria, and cavity risk from bacterial acid drops to zero. One soft drink might fuel bacterial acid production for an hour, but water just quenches your thirst without feeding cavity-causing bacteria.
+This contains zero sugars, so bacteria get no fuel. When you drink water, no acid gets produced by bacteria, and cavity risk from bacterial acid drops to zero. One soft drink might fuel bacterial acid production for an hour, but water just quenches your thirst without feeding cavity-causing bacteria.
 
 The difference in cavity rates between populations that drink primarily water versus those that drink sugary beverages is enormous. Communities where water is the main beverage have cavity rates 30-50% lower than similar communities where sugary drinks are common. That's not a small difference—it's the kind of dramatic difference that can mean a lifetime of healthy teeth versus ongoing cavity problems.
 
@@ -57,7 +57,7 @@ The difference in cavity rates between populations that drink primarily water ve
 
 Beyond the bacterial acid from sugar metabolism, acidic beverages directly dissolve your enamel through chemical erosion. Sodas at pH 2.5-3.0, fruit juices at pH 3.0-4.0, sports drinks at pH 2.8-4.0—all are significantly acidic. This direct chemical erosion is irreversible. Your body cannot regenerate enamel that's been lost to erosion, so prevention is absolutely critical.
 
-Water's neutral pH means zero erosive damage. It actually helps protect your teeth by diluting any remaining acid in your mouth after you consume other beverages. If you rinse with water after drinking something acidic, you reduce the duration of acid exposure and speed recovery of your enamel's protective pH.
+Water's neutral pH means zero erosive damage. It actually helps protect your teeth by diluting any remaining acid in your mouth after you consume other beverages. If you rinse with it after drinking something acidic, you reduce the duration of acid exposure and speed recovery of your enamel's protective pH.
 
 Research shows that regular exposure to acidic beverages causes measurable enamel loss within weeks. People who frequently drink soda, juice, or sports drinks develop 0.5-1.0 mm of enamel thickness loss within just a few months of regular consumption. Over a lifetime, that accumulates to severe erosion requiring expensive restoration. Water consumption causes zero enamel erosion.
 
@@ -83,11 +83,11 @@ If your family drinks bottled water instead of tap water, be aware that fluoride
 
 If your children drink primarily unfluoridated bottled water, talk to your dentist about supplemental fluoride options like prescription-strength toothpaste or fluoride rinses to replicate the cavity protection of fluoridated tap water.
 
-Home water filters also affect fluoride levels. Standard pitcher filters (like Brita) remove about 30-50% of fluoride. More aggressive filters like reverse osmosis remove nearly all of it. If you use a fluoride-removing filter, you can use unfiltered water for drinking and cooking, switch to a filter that doesn't remove fluoride, or supplement fluoride through other sources.
+Home this filters also affect fluoride levels. Standard pitcher filters (like Brita) remove about 30-50% of fluoride. More aggressive filters like reverse osmosis remove nearly all of it. If you use a fluoride-removing filter, you can use unfiltered water for drinking and cooking, switch to a filter that doesn't remove fluoride, or supplement fluoride through other sources.
 
 ## Putting It All Together: Practical Water Recommendations
 
-Make water your primary beverage. This is the single most important change most people can make for their oral health. For children, establishing water as the main drink reduces cavity risk substantially. Drink water with meals and throughout the day—you're not just protecting your teeth, you're also supporting overall health.
+Make it your primary beverage. This is the single most important change most people can make for their oral health. For children, establishing water as the main drink reduces cavity risk substantially. Drink water with meals and throughout the day—you're not just protecting your teeth, you're also supporting overall health.
 
 Adults should aim for about 2-3 liters of water daily, adjusted for activity level and climate. If you currently drink a lot of sugary or acidic beverages, switching to water produces measurable improvements in your teeth within weeks. Your dentist will notice less decay, less erosion, and better gum health.
 

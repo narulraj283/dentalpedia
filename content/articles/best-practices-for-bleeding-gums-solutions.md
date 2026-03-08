@@ -126,7 +126,6 @@ J Clin Periodontol. 1974;1(1):14-25.
 6. Tanner ACR, et al. Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** Bleeding gums when you brush or floss is one of the most common dental problems, yet it's often ignored.
 
 ## Related Articles

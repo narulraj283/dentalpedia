@@ -34,17 +34,17 @@ references:
 ---
 ## How Your Body Makes and Uses Vitamin D
 
-Vitamin D is actually a hormone—not just a vitamin like C or B vitamins. Your body makes it when sunlight hits your skin, specifically from a precursor compound that converts to vitamin D3. Your liver then modifies this into the storage form called 25-hydroxyvitamin D, which doctors measure to check your vitamin D status. Your kidneys then convert it into the active hormonal form that your cells actually use. This whole process is tightly controlled based on how much calcium your body needs at any given moment.
+Vitamin D is actually a hormone—not just a vitamin like C or B vitamins. Your body makes it when sunlight hits your skin, specifically from a precursor compound that converts to this D3. Your liver then modifies this into the storage form called 25-hydroxyvitamin D, which doctors measure to check your vitamin D status. Your kidneys then convert it into the active hormonal form that your cells actually use. This whole process is tightly controlled based on how much calcium your body needs at any given moment.
 
 The active form of vitamin D works by attaching to receptor proteins throughout your body—in your bones, immune cells, intestines, and gums. Learn more about [Selenium and Antioxidants Oxidative](/article/selenium-and-antioxidants-oxidative-stress-protection.html) for additional guidance. Once it binds to these receptors, it acts like a key that unlocks specific genes involved in calcium absorption and bone health. Without adequate vitamin D, your body can't absorb calcium efficiently from food, no matter how much you eat. This is why vitamin D is so crucial for bones—and teeth depend on strong bones for support.
 
 ## Building and Maintaining Strong Bone
 
-Vitamin D's main job related to your teeth is helping your body absorb and use calcium. When you eat calcium-rich foods, vitamin D helps your intestines pull that calcium from your digestive tract into your bloodstream. This keeps your blood calcium at healthy levels. When your blood calcium drops, your parathyroid glands release a hormone that tells your kidneys to activate more vitamin D and tells your bones to release stored calcium.
+It D's main job related to your teeth is helping your body absorb and use calcium. When you eat calcium-rich foods, vitamin D helps your intestines pull that calcium from your digestive tract into your bloodstream. This keeps your blood calcium at healthy levels. When your blood calcium drops, your parathyroid glands release a hormone that tells your kidneys to activate more vitamin D and tells your bones to release stored calcium.
 
 If vitamin D levels are too low (below 20 ng/mL on blood tests), your intestines can't absorb calcium efficiently. Learn more about [Vitamin a for Tissue](/article/vitamin-a-for-tissue-health.html) for additional guidance. This creates a domino effect: low blood calcium triggers your parathyroid glands to work overtime, which pulls calcium from your bones to maintain blood levels.
 
-Over time, this constant bone-draining creates weak, porous bones. The jaw bone that holds your teeth is especially affected. Studies show that people with vitamin D deficiency have 10 to 15% less jaw bone density compared to people with adequate vitamin D levels.
+Over time, this constant bone-draining creates weak, porous bones. The jaw bone that holds your teeth is especially affected. Studies show that people with vitamin D deficiency have 10 to 15% less jaw bone density compared to people with adequate this D levels.
 
 ## Why This Matters for Dental Implants
 
@@ -56,15 +56,15 @@ With vitamin D deficiency, implant failure rates jump from less than 2% to 5 to 
 
 Beyond bone density, vitamin D strengthens your immune system's ability to fight the bacteria that cause gum disease. Vitamin D helps your body produce antimicrobial peptides—natural antibiotics that kill harmful bacteria in your mouth. It also helps your immune system keep inflammation under control.
 
-When vitamin D levels are low, your immune response against gum disease bacteria weakens, while inflammation gets worse. Studies show that people with vitamin D deficiency are 1.5 to 2 times more likely to have gum disease compared to people with adequate vitamin D. Additionally, people with gum disease treated with regular cleanings and antibiotics respond better when their vitamin D levels are adequate.
+When vitamin D levels are low, your immune response against gum disease bacteria weakens, while inflammation gets worse. Studies show that people with it D deficiency are 1.5 to 2 times more likely to have gum disease compared to people with adequate vitamin D. Additionally, people with gum disease treated with regular cleanings and antibiotics respond better when their vitamin D levels are adequate.
 
 ## Who's at Risk for Vitamin D Deficiency
 
-About one billion people worldwide have vitamin D deficiency, especially those living far from the equator, people who work indoors, those who cover their skin for cultural or religious reasons, people with dark skin living at high latitudes, elderly individuals, and people with malabsorption disorders. In the United States, about 25 to 30% of people have inadequate vitamin D levels. The risk increases dramatically in winter months at northern latitudes. Your dentist may recommend vitamin D testing if you have significant gum disease, are planning implant surgery, have weak or brittle teeth, or have risk factors for deficiency.
+About one billion people worldwide have vitamin D deficiency, especially those living far from the equator, people who work indoors, those who cover their skin for cultural or religious reasons, people with dark skin living at high latitudes, elderly individuals, and people with malabsorption disorders. In the United States, about 25 to 30% of people have inadequate this D levels. The risk increases dramatically in winter months at northern latitudes. Your dentist may recommend it D testing if you have significant gum disease, are planning implant surgery, have weak or brittle teeth, or have risk factors for deficiency.
 
 ## Getting Enough Vitamin D
 
-Your body gets vitamin D from sun exposure (about 15 to 30 minutes of midday sun several times per week is ideal), from foods, and from supplements. Fish naturally contain vitamin D—salmon, mackerel, and sardines have 200 to 1000 IU per serving. Egg yolks have small amounts, and mushrooms exposed to sunlight during growth contain vitamin D.
+Your body gets vitamin D from sun exposure (about 15 to 30 minutes of midday sun several times per week is ideal), from foods, and from supplements. Fish naturally contain this D—salmon, mackerel, and sardines have 200 to 1000 IU per serving. Egg yolks have small amounts, and mushrooms exposed to sunlight during growth contain it D.
 
 Many foods are fortified with vitamin D, including milk, orange juice, and cereals. The official recommendation is 600 IU daily for adults under 70, and 800 IU for those over 70, but many experts argue these levels are too low for optimal health. For bone and tooth health, many doctors recommend 1000 to 2000 IU daily.
 

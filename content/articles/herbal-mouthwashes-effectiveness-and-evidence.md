@@ -107,4 +107,4 @@ For mild to moderate gum disease, herbal rinses can be an excellent long-term ch
 - [Cost of Mouth Cleaning Tools](/article/cost-of-mouth-cleaning-tools.html)
 - [Optimal Sequence and Timeline for Daily Oral Hygiene](/article/timeline-for-daily-teeth-cleaning.html)
 - [Evidence-Based Toothbrush Selection](/article/benefits-of-toothbrush-selection.html)
-
+- [Risk and Concerns with Plaque Removal Methods](/article/risk-and-concerns-with-plaque-removal-methods.html)

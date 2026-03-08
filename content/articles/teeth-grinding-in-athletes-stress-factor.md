@@ -114,9 +114,7 @@ Your dentist may recommend additional steps specific to your situation, such as 
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding teeth grinding in athletes: the stress factor helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Athletic bruxism affects 40-60% of competitive athletes due to stress-induced jaw clenching generating forces exceeding 1,000N. Competition stress activates sympathetic nervous system promoting masseter hypertonicity and grinding. Sport-specific prevalence varies from 30% in endurance sports to 60% in power and contact sports. Enamel wear, cusp fracture, root sensitivity, and TMJ dysfunction result from chronic untreated bruxism.
 
 > **Key Takeaway:** Athletic bruxism affects 40-60% of competitive athletes because competition stress automatically triggers jaw clenching generating forces over 1,000 newtons—2-3 times your normal bite force. This extreme stress causes enamel wear, cusp fractures, root sensitivity, TMJ dysfunction, and headaches. Custom-fabricated mouthguards reduce enamel wear 70-80% and fractures 60-70% by absorbing clenching forces. Supplementary stress management enhances protection. Early detection and proper mouthguard use throughout your athletic career prevent extensive dental damage affecting your oral health long after competition ends.
 

@@ -115,7 +115,6 @@ For more information, see [Complications After Tooth Extraction: Warning Signs](
 Surgical technique selection fundamentally impacts treatment cost, duration, morbidity, and outcomes. If you have questions, your dentist can help you understand your options. The best choice depends on your specific situation, the complexity of your case, and your goals. Talk to your dentist about which options are right for your specific situation and what you can expect in terms of cost and recovery.
 
 
-
 > **Key Takeaway:** If your dentist has recommended oral surgery—whether it's extracting a wisdom tooth, placing a dental implant, or doing a bone graft—you might be.
 
 ## Related Articles

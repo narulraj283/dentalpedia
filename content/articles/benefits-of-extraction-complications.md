@@ -98,7 +98,7 @@ Follow your dentist's instructions carefully: bite on gauze if they say to, take
 
 ## Oroantral Communication: Recognition and Closure
 
-Oroantral communication occurs when maxillary extraction creates a direct opening between the oral cavity and maxillary sinus, most commonly after first or second molar removal. Communications under 2-3mm frequently close spontaneously through clot organization and mucosalization. Larger defects require surgical closure.
+Oroantral communication occurs when maxillary (upper jaw) extraction creates a direct opening between the oral cavity and maxillary sinus, most commonly after first or second molar removal. Communications under 2-3mm frequently close spontaneously through clot organization and mucosalization. Larger defects require surgical closure.
 
 Clinical recognition includes: air bubbling from the socket during water irrigation, patient awareness of communication with subsequent food/liquid passage into sinus, or direct visualization during post-operative inspection. Occlusal radiographs or computed tomography confirm communication.
 
@@ -110,7 +110,7 @@ Palatal flap advancement or buccal advancement flaps provide alternative closure
 
 ## Nerve Injury: Incidence and Management
 
-Inferior alveolar nerve (IAN) paresthesia occurs in 0.4-8% of extraction cases, with higher incidence in third molar removals. Lingual nerve injury affects 0.2-2% of extractions. These injuries present as numbness, tingling, or dysesthesia of the lower lip or anterior two-thirds of tongue.
+Inferior alveolar nerve (IAN) paresthesia occurs in 0.4-8% of extraction cases, with higher incidence in third molar removals. Lingual (tongue-side) nerve injury affects 0.2-2% of extractions. These injuries present as numbness, tingling, or dysesthesia of the lower lip or anterior two-thirds of tongue.
 
 Most nerve injuries are temporary neuropraxias resulting from mechanical trauma or anesthesia-related edema. Recovery occurs spontaneously in 50-70% of cases within weeks to months. Permanent sensory changes affect 1-2% of initially injured patients.
 
@@ -122,15 +122,15 @@ Rarely, severe nerve injuries with complete loss of sensation warrant evaluation
 
 ## Infection: Prevention and Management
 
-Post-extraction infection incidence ranges 1-4% despite preventive measures. Risk factors include deep impaction, difficult extraction, immunocompromise, and poor post-operative hygiene. Prophylactic antibiotics demonstrate variable efficacy; most guidelines reserve them for immunocompromised patients or complicated extractions.
+Post-extraction infection incidence ranges 1-4% despite preventive measures. Risk factors include deep impaction (a tooth stuck in the jaw), difficult extraction, immunocompromise, and poor post-operative hygiene. Prophylactic antibiotics demonstrate variable efficacy; most guidelines reserve them for immunocompromised patients or complicated extractions.
 
 Empiric antibiotic selection targets oral flora: amoxicillin 500 mg three times daily or clindamycin 300 mg four times daily for penicillin-allergic patients. Treatment duration typically spans 7-10 days. Severe infections with systemic signs (fever, facial swelling, trismus, difficulty swallowing) warrant immediate physician referral for potential hospitalization and IV antibiotic therapy.
 
 Prevention begins with meticulous surgical technique minimizing tissue trauma, strict asepsis, and adequate hemostasis. Post-operative instructions emphasizing gentle socket care without aggressive rinsing or suction reduce infection risk. Chlorhexidine 0.12% rinses may provide adjunctive benefit.
 
-## Mandibular Fracture: Recognition and Management
+## Mandibular (lower jaw) Fracture: Recognition and Management
 
-Pathologic mandibular fracture during extraction is rare but serious. Risk factors include severe bone loss from periodontitis, large cysts, osteomyelitis, or extensive impaction requiring bone removal. Fracture recognition during extraction may be subtle—audible or palpable cracking, unexpected tooth mobility, or abnormal socket wall movement.
+Pathologic mandibular fracture during extraction is rare but serious. Risk factors include severe bone loss from periodontitis (advanced gum disease), large cysts, osteomyelitis, or extensive impaction requiring bone removal. Fracture recognition during extraction may be subtle—audible or palpable cracking, unexpected tooth mobility, or abnormal socket wall movement.
 
 Management depends on fracture location and severity. Condylar fractures require minimal intervention with soft diet and careful opening restriction. Body or angle fractures necessitate orthognathic referral for comprehensive evaluation, possible open reduction with plate fixation, and proper occlusal rehabilitation.
 

@@ -124,8 +124,7 @@ Related reading: [Clinical Approaches to Tartar Prevention and](/article/best-pr
 
 ## Conclusion
 
-Whether you're just learning about a patient's guide to cavity risk factors or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Your dentist can help you understand the best approach for your specific needs. Understanding where you fall helps you know what prevention strategy you need and how often you should go to the dentist.
 
 > **Key Takeaway:** Not everyone gets cavities at the same rate. Some people brush occasionally, eat lots of sugar, and never get a single cavity.
 

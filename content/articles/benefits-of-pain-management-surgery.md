@@ -54,9 +54,9 @@ Smart pain management actually starts before your surgery. Taking pain medicatio
 
 **Before your surgery, your orthodontist or surgeon will have you take:**
 - Ibuprofen (400mg) about 1-2 hours before surgery. This anti-inflammatory medication starts working before pain begins, which reduces pain about 20-30% compared to taking it after surgery.
-- Acetaminophen (500-1000mg) about 30-60 minutes before. Together, ibuprofen and acetaminophen work through different mechanisms and provide better pain relief than either alone.
+- Acetaminophen (500-1000mg) about 30-60 minutes before. Together, ibuprofen and acetaminophen work through different mechanisms and provide better the sensation relief than either alone.
 
-If you're getting sedation, you might also get an anti-anxiety medication (like a mild sedative) that helps you relax and actually reduces how much pain you perceive.
+If you're getting sedation, you might also get an anti-anxiety medication (like a mild sedative) that helps you relax and actually reduces how much soreness you perceive.
 
 ## During Surgery: Long-Acting Local Anesthesia
 
@@ -72,13 +72,13 @@ After surgery, forget what you might think you know about pain management. Resea
 - Take ibuprofen (400-600mg) every 6 hours
 - Take acetaminophen (500-1000mg) every 6 hours, but alternate with ibuprofen (so take ibuprofen, then 3-4 hours later take acetaminophen, then repeat)
 
-This rotation provides essentially continuous pain relief. The combination is more effective than either drug alone because they work through different mechanisms—ibuprofen reduces the swelling causing pain, and acetaminophen helps with pain signaling in your brain.
+This rotation provides essentially continuous pain relief. The combination is more effective than either drug alone because they work through different mechanisms—ibuprofen reduces the swelling causing discomfort, and acetaminophen helps with pain signaling in your brain.
 
 Research shows this combination actually works better than low-dose opioids without any of the side effects or addiction risks.
 
 **Important:** There's a "ceiling effect" with these medications, which means taking more than the recommended dose doesn't help—it just increases risk of side effects. Ibuprofen is most effective at 600-800mg per dose. Acetaminophen is most effective at 1000mg per dose and shouldn't exceed 4000mg per day total. Don't try to double up or take higher doses.
 
-**Keep taking them for 3-5 days:** Don't stop just because you feel better. Keep taking them on schedule throughout the peak pain period to prevent pain from returning.
+**Keep taking them for 3-5 days:** Don't stop just because you feel better. Keep taking them on schedule throughout the peak the sensation period to prevent pain from returning.
 
 ## Reducing Swelling (Which Reduces Pain)
 
@@ -100,7 +100,7 @@ Opioid prescriptions should really only happen if you have unusual pain that doe
 
 **If an opioid is prescribed**, it should only be for 3 days maximum. Taking opioids longer than necessary increases risks of dependence and misuse. Most surgical pain is gone by day 3.
 
-The bottom line: Start with non-opioid pain management. It's evidence-based, effective, and safe. Most patients do great with ibuprofen and acetaminophen combined with swelling reduction techniques.
+The bottom line: Start with non-opioid soreness management. It's evidence-based, effective, and safe. Most patients do great with ibuprofen and acetaminophen combined with swelling reduction techniques.
 
 ## What If Pain Gets Worse?
 
@@ -118,7 +118,7 @@ You're not passive in pain management. You can help by:
 - Following the ibuprofen-acetaminophen schedule even when pain is mild
 - Applying ice for the first 24 hours as directed
 - Keeping your head elevated while sleeping
-- Avoiding strenuous activity that raises heart rate and increases pain
+- Avoiding strenuous activity that raises heart rate and increases discomfort
 - Staying hydrated and eating soft foods
 
 
@@ -129,8 +129,7 @@ Related reading: [Reducing Swelling After Oral Surgery](/article/swelling-reduct
 
 ## Conclusion
 
-Whether you're just learning about understanding pain management in surgery for better dental or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+The bottom line: Start with non-opioid soreness management. Pain that gets worse instead of better after day 2-3, or pain that doesn't respond to the medication and ice approaches outlined above, usually means something's wrong—not that you need stronger medication. You're not passive in pain management.
 
 > **Key Takeaway:** When you're having oral surgery (like tooth extraction or implant placement), pain management is a big part of your recovery.
 

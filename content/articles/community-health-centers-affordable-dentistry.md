@@ -42,19 +42,19 @@ The average FQHC operates 4-6 treatment bays with dentists, hygienists, and assi
 
 ## Services Offered
 
-CHCs provide comprehensive care: professional cleanings, fluoride treatments, dental sealants, fillings (amalgam or composite), simple and surgical extractions, and basic root canal treatment. For more complex cases (severe periodontal disease, implants, major prosthodontics), they refer to specialists. This keeps costs reasonable while providing excellent preventive and routine care.
+CHCs provide full care: expert cleanings, fluoride treatments, dental sealants, fillings (amalgam or composite), simple and surgical extractions, and basic root canal treatment. For more complex cases (severe periodontal disease, implants, major prosthodontics), they refer to specialists. This keeps costs reasonable while providing excellent preventive and routine care.
 
-Treatment quality meets professional standards. CHCs follow American Dental Association guidelines and CDC infection control recommendations. Staff undergo continuing education to stay current with evidence-based practices. Quality assurance includes peer review and patient outcome tracking.
+Treatment quality meets expert standards. CHCs follow American Dental Association guidelines and CDC infection control tips. Staff undergo continuing education to stay current with evidence-based practices. Quality assurance includes peer review and patient outcome tracking.
 
 ## Cost Comparison
 
-FQHC costs are dramatically lower than private practice: professional cleaning and exam approximately $50-100 (private: $150-300), composite fillings $100-200 (private: $300-500), routine extractions $75-150 (private: $300-600). Learning more about [Community Dental Clinic Access](/article/community-dental-clinic-access.html) can help you understand this better. For people without insurance, these savings are life-changing.
+FQHC costs are dramatically lower than private practice: expert cleaning and exam about $50-100 (private: $150-300), composite fillings $100-200 (private: $300-500), routine extractions $75-150 (private: $300-600). Learning more about [Community Dental Clinic Access](/article/community-dental-clinic-access.html) can help you understand this better. For people without insurance, these savings are life-changing.
 
 Sliding-scale fees ensure affordability: a patient making minimum wage might pay $25 for a cleaning, while someone making more pays more. On average, FQHC patients pay 50-80% less than private practice. About 62% of FQHC dental patients rely on Medicaid or CHIP; 18% are uninsured at time of service.
 
 ## Clinical Outcomes: Comparable to Private Practice
 
-Studies comparing FQHC outcomes to private practice show similar results. Learning more about [Complete Guide to Dental Exams and Cleanings](/article/complete-guide-to-dental-exams-and-cleanings.html) can help you understand this better. Composite fillings placed at FQHCs have 87% 5-year survival rate for anterior restorations and 91% for posterior—comparable to published private practice data. Periodontal therapy shows 65-72% of patients achieving pocket reduction from 5-7mm to ≤3mm.
+Studies comparing FQHC outcomes to private practice show similar results. Learning more about [Complete Guide to Dental Exams and Cleanings](/article/complete-guide-to-dental-exams-and-cleanings.html) can help you understand this better. Composite fillings placed at FQHCs have 87% 5-year survival rate for anterior repairs and 91% for posterior—comparable to published private practice data. Periodontal therapy shows 65-72% of patients achieving pocket reduction from 5-7mm to ≤3mm.
 
 Complete dentures fabricated at FQHCs achieve 88% patient satisfaction for retention and stability, 76% reporting adequate comfort. Cost for complete dentures at FQHCs averages $380-520 per arch versus private practice at $1,200-2,200, with similar clinical outcomes. Infection rates and adverse event rates are statistically comparable to private practice.
 
@@ -66,15 +66,15 @@ Vulnerable populations served include homeless individuals (8%), people with sub
 
 ## Preventive Impact
 
-CHCs' preventive programs save money and improve outcomes. Dental sealant programs place 12,000-18,000 sealants annually across all HRSA-funded centers. Sealed teeth have 86% reduction in decay compared to unsealed control surfaces. Fluoride supplementation programs identify high-risk children and provide home-use or professional fluoride applications, improving caries rates by 25-40%.
+CHCs' preventive programs save money and improve outcomes. Dental sealant programs place 12,000-18,000 sealants annually across all HRSA-funded centers. Sealed teeth have 86% reduction in decay compared to unsealed control surfaces. Fluoride supplements programs identify high-risk children and provide home-use or expert fluoride uses, improving caries rates by 25-40%.
 
-Emergency dental pain management through CHCs reduces emergency room utilization for dental complaints by 31% in served communities, with cost savings of $85-120 per diverted ER visit.
+Emergency dental pain management through CHCs reduces emergency room use for dental complaints by 31% in served communities, with cost savings of $85-120 per diverted ER visit.
 
 ## Integration with Medical Care
 
-Modern CHCs employ fully integrated care models linking oral health with primary medical care. About 38% of FQHC dental patients have hypertension, 24% have diabetes, and 31% have asthma or COPD. Bidirectional referral protocols ensure dental assessment includes cardiovascular risk, and medical patients receive periodontal evaluation.
+Modern CHCs employ fully integrated care models linking oral health with primary medical care. About 38% of FQHC dental patients have hypertension, 24% have diabetes, and 31% have asthma or COPD. Bidirectional referral protocols ensure dental assessment includes cardiovascular risk, and medical patients receive periodontal check.
 
-Behavioral health integration helps address tobacco use (28% of FQHC dental patients), substance misuse (15% with recent opioid use), and mental health conditions. Brief intervention protocols reduce smoking by 12-18% at six-month follow-up and improve treatment adherence through care coordination.
+Behavioral health integration helps address tobacco use (28% of FQHC dental patients), substance misuse (15% with recent opioid use), and mental health conditions. Brief treatment protocols reduce smoking by 12-18% at six-month follow-up and improve treatment adherence through care coordination.
 
 ## Quality Assurance and Continuing Education
 
@@ -86,7 +86,7 @@ Quality improvement initiatives using Plan-Do-Study-Act cycles have documented i
 
 Most CHCs operate on scheduled appointment basis with wait times of 2-4 weeks for non-emergency appointments. Emergency services are typically available same-day or next-day for acute pain/infection. Some CHCs offer extended hours to accommodate working patients.
 
-Rural CHCs have expanded rural dental access from 15% of rural counties (1980s) to 45% currently. However, 60 million Americans still live in dental professional shortage areas. Telehealth-enabled consultations increasingly help bridge these gaps for initial assessment and follow-up.
+Rural CHCs have expanded rural dental access from 15% of rural counties (1980s) to 45% currently. However, 60 million Americans still live in dental expert shortage areas. Telehealth-enabled consultations increasingly help bridge these gaps for initial assessment and follow-up.
 
 ## Getting Started
 

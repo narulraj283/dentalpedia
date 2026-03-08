@@ -122,7 +122,6 @@ Related reading: [Post Operative Pain Expected Discomfort](/article/post-operati
 Extended post-operative care spanning weeks 2-12 emphasizes tissue remodeling optimization through appropriate activity progression, infection prevention, adequate nutrition, and smoking cessation. Understanding normal healing phases prevents patient anxiety about appropriate inflammatory responses. If you have questions, your dentist can help you understand your options. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** Your surgical wound goes through different healing phases, and understanding this helps you know what's normal and what's not.
 
 ## Related Articles

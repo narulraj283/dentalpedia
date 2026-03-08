@@ -18,23 +18,23 @@ references:
 
 Your body undergoes dramatic hormonal changes during pregnancy, and your mouth is affected. Progesterone levels surge 10-20 times higher than normal, causing gum tissue to become more inflamed and swollen. About 60-75% of pregnant women develop pregnancy-related gingivitis (gum inflammation) even though their plaque hasn't changed. It's a physiologic response to hormones, not because you're doing anything wrong.
 
-Additionally, pregnancy increases cavity risk 25-50% due to dietary changes (more frequent eating, morning sickness creating acidic environment), reduced oral hygiene capacity (nausea and vomiting make brushing uncomfortable), and changes in saliva composition. The good news: these effects are manageable with proper care and awareness.
+Also, pregnancy increases cavity risk 25-50% due to dietary changes (more frequent eating, morning sickness creating acidic environment), reduced oral hygiene capacity (nausea and vomiting make brushing uncomfortable), and changes in saliva composition. The good news: these effects are manageable with proper care and awareness.
 
 ## Gum Disease Affects Your Baby
 
-Here's why you should care about your oral health during pregnancy: research shows pregnant women with gum disease face 2-3 times higher risk of preterm birth and low birth weight babies. The bacteria causing gum disease can enter the bloodstream, triggering inflammatory responses that can affect your pregnancy. Additionally, bacterial endotoxins from gum disease bacteria might reach the placenta, causing inflammation that can trigger premature labor.
+Here's why you should care about your oral health during pregnancy: research shows pregnant women with gum disease face 2-3 times higher risk of preterm birth and low birth weight babies. The bacteria causing gum disease can enter the bloodstream, triggering inflammatory responses that can affect your pregnancy. Also, bacterial endotoxins from gum disease bacteria might reach the placenta, causing swelling that can trigger premature labor.
 
 Studies of pregnant women with untreated periodontal disease show elevated inflammatory markers (TNF-alpha, IL-6, prostaglandin E2) compared to healthy pregnant women. These same inflammatory mediators stimulate uterine contractions. Treating gum disease reduces preterm birth risk by 70-80%.
 
-This isn't meant to scare you—it's meant to motivate you to maintain your oral health during pregnancy. Treatment of existing gum disease is safe and beneficial during pregnancy.
+This isn't meant to scare you—it's meant to motivate you to maintain your oral health during pregnancy. Treatment of existing gum disease is safe and helpful during pregnancy.
 
 ## When to Get Dental Work Done
 
-The safest time for elective dental treatment is the second trimester (weeks 14-20). Learning more about [Cavity Formation Process Complete Guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. During this window, the risk of miscarriage has decreased significantly, but you're not yet so large that lying back in the dental chair is uncomfortable. Emergency dental treatment (abscess, severe pain, infection) proceeds anytime during pregnancy—treating infection is safer for your baby than having infection progress untreated.
+The safest time for elective dental treatment is the second trimester (weeks 14-20). Learning more about [Cavity Formation Process Complete Guide](/article/cavity-formation-process-complete-guide.html) can help you understand this better. During this window, the risk of miscarriage has decreased much, but you're not yet so large that lying back in the dental chair is painful. Emergency dental treatment (abscess, severe pain, infection) proceeds anytime during pregnancy—treating infection is safer for your baby than having infection progress untreated.
 
 First trimester: Avoid routine treatment unless essential. The baby's organs are forming; most dentists defer non-emergency work.
 
-Second trimester: Ideal time for preventive cleanings, simple restorations, and necessary treatment.
+Second trimester: Ideal time for preventive cleanings, simple repairs, and necessary treatment.
 
 Third trimester: Minimize treatment due to positioning discomfort, but emergency treatment proceeds if necessary.
 
@@ -50,7 +50,7 @@ Penicillin-based antibiotics (amoxicillin, penicillin V) are Category A—safe t
 
 Pain management: Acetaminophen (Tylenol) is Category A and safe throughout pregnancy. Ibuprofen and naproxen are Category B early pregnancy but Category D third trimester (risk to fetus through ductal arteriosus closure and oligohydramnios). Aspirin is contraindicated throughout pregnancy.
 
-For severe pain, acetaminophen-codeine combination can be used short-term if absolutely necessary.
+For severe pain, acetaminophen-codeine mix can be used short-term if absolutely necessary.
 
 ## Safe Radiographs
 
@@ -62,7 +62,7 @@ Panoramic radiographs are acceptable and deliver equivalent dose to periapical f
 
 Both amalgam and composite fillings are safe during pregnancy. Mercury absorption from new amalgam fillings is minimal (0.3-3 micrograms absorbed versus 9-13 micrograms dietary intake daily), and no evidence supports teratogenicity. However, if you're anxious about mercury, composite is acceptable—it's safe too.
 
-Bisphenol-A (BPA) from composite might trigger concern, but BPA exposure from dental restorations is negligible compared to dietary sources. Avoid worrying about this.
+Bisphenol-A (BPA) from composite might trigger concern, but BPA exposure from dental repairs is negligible compared to dietary sources. Avoid worrying about this.
 
 ## Preventing Cavities During Pregnancy
 
@@ -74,11 +74,11 @@ Xylitol-containing gum (5-10 grams daily) reduces Streptococcus mutans transmiss
 
 ## Scaling and Root Planing for Gum Disease
 
-If you have gum disease, scaling and root planing (deep cleaning) is safe during second trimester and reduces preterm birth risk 70-80%. Don't fear the procedure—it's beneficial for both you and baby.
+If you have gum disease, scaling and root planing (deep cleaning) is safe during second trimester and reduces preterm birth risk 70-80%. Don't fear the procedure—it's helpful for both you and baby.
 
 ## Post-Partum Considerations
 
-No medications are contraindicated during breastfeeding. Drug transfer to breast milk is minimal for most dental medications. Metronidazole transfers more (>50% of maternal serum concentration), but short courses are acceptable—time dosing immediately after feeding to minimize infant exposure. Radioactive imaging and local anesthesia don't affect breastfeeding.
+No medicines are contraindicated during breastfeeding. Drug transfer to breast milk is minimal for most dental medicines. Metronidazole transfers more (>50% of maternal serum concentration), but short courses are acceptable—time dosing right away after feeding to minimize infant exposure. Radioactive imaging and local anesthesia don't affect breastfeeding.
 
 ## Vertical Transmission Prevention
 
@@ -88,7 +88,7 @@ Your maternal oral bacteria colonize your baby's mouth. Vertical transmission of
 
 Pregnancy causes 60-75% increase in gingivitis, 25-50% increase in cavity risk, and 2-3 fold increased preterm birth risk if periodontal disease exists. Treating gum disease reduces preterm birth risk 70-80%. Second trimester is ideal for preventive and necessary dental treatment. Local anesthetics, penicillin antibiotics, and acetaminophen are safe.
 
-X-rays with shielding pose negligible risk; delaying diagnosis poses greater risk. Enhanced home care (fluoride, improved hygiene, dietary modification) prevents cavities. Scaling and root planing treats gum disease safely. Postpartum, no medications preclude breastfeeding. Prenatal dental treatment supporting maternal health improves both immediate and long-term infant oral health.
+X-rays with shielding pose negligible risk; delaying diagnosis poses greater risk. Enhanced home care (fluoride, improved hygiene, dietary modification) prevents cavities. Scaling and root planing treats gum disease safely. Postpartum, no medicines preclude breastfeeding. Prenatal dental treatment supporting maternal health improves both immediate and long-term infant oral health.
 
 Talk to your OB/GYN and dentist about your pregnancy-specific dental care needs and create a plan supporting both your oral health and your baby's health.
 

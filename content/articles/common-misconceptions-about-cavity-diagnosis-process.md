@@ -56,9 +56,9 @@ Some offices even have software that compares your current X-rays to X-rays from
 
 ## Why Your Dentist Takes So Long Looking
 
-When your dentist takes time examining your teeth with different tools, they're being thorough. They're looking for cavities in different ways because different methods catch different cavities. A cavity in the grooves of your chewing surface shows up well on one device but might be invisible on X-rays. A cavity between your teeth is the opposite—it shows up great on X-rays but might not show up on the surface.
+When your dentist takes time examining your teeth with different tools, they're being thorough. They're looking for cavities in different ways because different methods catch different this. A cavity in the grooves of your chewing surface shows up well on one device but might be invisible on X-rays. A cavity between your teeth is the opposite—it shows up great on X-rays but might not show up on the surface.
 
-By using multiple methods, your dentist catches almost all cavities. This takes longer than just looking, but it's better for you because you don't end up with missed cavities that turn into big problems later.
+By using multiple methods, your dentist catches almost all it. This takes longer than just looking, but it's better for you because you don't end up with missed cavities that turn into big problems later.
 
 ## Risk Assessment Helps Too
 

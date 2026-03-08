@@ -108,4 +108,4 @@ Choosing a filling material is a partnership between you and your dentist. Your 
 - [Crown Margin Placement](/article/crown-margin-types-subgingival-vs-supragingival.html)
 - [Community Dental Clinic Access](/article/community-dental-clinic-access.html)
 - [Understanding Informed Consent for Your Dental Care](/article/informed-consent-importance.html)
-
+- [Dental Fillings Explained](/article/dental-filling-options-composite-amalgam-and-ceramic.html)

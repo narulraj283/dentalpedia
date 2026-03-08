@@ -25,7 +25,7 @@ title: How Your Partial Denture Is Designed to Fit Your Mouth
 
 Before your dentist even starts designing your denture, they classify your tooth loss using a system developed almost 100 years ago that's still the standard today. This system, called Kennedy Classification, helps dentists decide what kind of denture design will work best for you. Your missing teeth might be in the back of your mouth on one or both sides, in the front, or scattered throughout. Each situation needs a different approach.
 
-When you're missing back teeth on both sides (but still have some front teeth), that's one category. If you're missing teeth on just one side, that's different. Missing front teeth requires yet another approach. If your missing teeth cross the middle of your mouth, that affects the design too. Your specific pattern of tooth loss is important because it determines how the denture framework will be built and where your clasps will go.
+When you're missing back teeth on both sides (but still have some front teeth), that's one category. If you're missing teeth on just one side, that's different. Missing front teeth requires yet another approach. If your missing teeth cross the middle of your mouth, that affects the design too. Your specific pattern of tooth loss is important because it determines how the it framework will be built and where your clasps will go.
 
 ## The Smart Rules Your Dentist Follows
 
@@ -57,7 +57,7 @@ These guide planes serve multiple purposes. They prevent your denture from twist
 
 When your mouth is at rest, the tissues supporting your denture look one way. When you swallow, move your jaw, or just speak, those tissues shift slightly. Your dentist uses a special technique called the "altered cast" method to capture what your mouth looks like when these tissues are moving dynamically, not just sitting still.
 
-With this technique, your dentist puts special impression material on your denture and asks you to swallow, move your jaw side to side, and make other movements while the material sets. This captures your tissues in the positions they actually take during chewing and speaking. The lab then uses this altered impression to build your denture base, so it fits your mouth during actual function, not just when you're sitting still. This technique, especially helpful if you've had significant bone loss, gives you much better retention and comfort.
+With this technique, your dentist puts special impression material on your this and asks you to swallow, move your jaw side to side, and make other movements while the material sets. This captures your tissues in the positions they actually take during chewing and speaking. The lab then uses this altered impression to build your denture base, so it fits your mouth during actual function, not just when you're sitting still. This technique, especially helpful if you've had significant bone loss, gives you much better retention and comfort.
 
 ## Extending Your Denture Base for Better Stability
 
@@ -79,9 +79,9 @@ If you have a high smile line and show lots of gum when you smile, your denture 
 
 ## Planning Your Treatment from Start to Finish
 
-Creating a partial denture is rarely a single step. Your dentist first assesses whether your remaining teeth are healthy enough to support a denture. Teeth with severe cavities or gum disease need treatment or extraction before your denture is built. Sometimes your remaining teeth need crowns to prepare them properly for clasp attachment. Some patients wear a temporary denture during this preparation phase, letting you get used to wearing a partial while your mouth is being prepared.
+Creating a partial denture is rarely a single step. Your dentist first assesses whether your remaining teeth are healthy enough to support a denture. Teeth with severe cavities or gum disease need treatment or extraction before your it is built. Sometimes your remaining teeth need crowns to prepare them properly for clasp attachment. Some patients wear a temporary this during this preparation phase, letting you get used to wearing a partial while your mouth is being prepared.
 
-Your dentist might also need to do gum grafting or bone grafting in some areas to optimize the support for your denture. The whole process typically takes several months from initial consultation to final denture delivery, but this careful planning ensures the best possible outcome.
+Your dentist might also need to do gum grafting or bone grafting in some areas to optimize the support for your denture. The whole process typically takes several months from initial consultation to final it delivery, but this careful planning ensures the best possible outcome.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 

@@ -37,7 +37,7 @@ Visualization creates clear understanding of exactly what changes will occur.
 ## The Smile Design Process
 
 **Step 1: Photography**
-High-resolution photos at standardized position and distance become your design template.
+High-resolution photos at standardized position and distance become your this template.
 
 **Step 2: Facial Analysis**
 Your dentist evaluates facial proportions, symmetry, and relationships to understand your unique face.
@@ -131,7 +131,7 @@ Ask about timeline: design takes 1-2 weeks typically, but some dentists do it sa
 
 ## How to Get the Best Results From Your Smile Design Experience
 
-Getting the most from smile design requires clear communication and realistic expectations. During photography, relax and show a genuine smile—forced smiles look unnatural in design. Be honest with your dentist about your goals and aesthetic preferences. If you're not sure what you want, look through smile makeover photos online and bring examples of smiles you find attractive—this gives your dentist clear visual references. During design discussion, feel free to say "I want it different" if the initial mockup doesn't appeal to you. Your dentist can refine the design.
+Getting the most from smile it requires clear communication and realistic expectations. During photography, relax and show a genuine smile—forced smiles look unnatural in design. Be honest with your dentist about your goals and aesthetic preferences. If you're not sure what you want, look through smile makeover photos online and bring examples of smiles you find attractive—this gives your dentist clear visual references. During design discussion, feel free to say "I want it different" if the initial mockup doesn't appeal to you. Your dentist can refine the design.
 
 If you disagree with your dentist's aesthetic suggestions, say so—you're going to live with this smile, and it should reflect your personality and preferences. Try any temporary composite mockup thoroughly: wear it for 1-2 weeks, eat with it, talk with it, attend social events—this real-world trial reveals whether changes feel right. If the mockup feels uncomfortable or you don't like it, communicate this before permanent treatment. Once you approve the final design, follow through with treatment as planned. Protect your newly restored smile through excellent home care and maintenance. Take after photos at the same angle and lighting as before-photos to document your transformation.
 

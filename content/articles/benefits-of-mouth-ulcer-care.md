@@ -89,8 +89,7 @@ Related reading: [Recovery After Tooth Extraction](/article/how-to-recovery-afte
 
 ## Conclusion
 
-Whether you're just learning about mouth ulcer care: what patients need to know or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Most canker sores are just annoying minor problems that heal on their own. If they're painful, apply a corticosteroid cream or anesthetic to manage symptoms. If you get them repeatedly, switch to SLS-free toothpaste, look for nutritional deficiencies, and identify food or stress triggers.
 
 > **Key Takeaway:** Those painful sores that pop up inside your mouth and make eating miserable—canker sores, or 'aphthous ulcers' if you want the medical term—happen to.
 

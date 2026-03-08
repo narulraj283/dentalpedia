@@ -101,7 +101,6 @@ Regular aerobic exercise strengthens immunity. Physical activity enhances immune
 Regular aerobic exercise strengthens immunity. Physical activity enhances immune cell function and reduces inflammation. Talk to your dentist about how this applies to your situation. Understanding your specific risk factors lets you create a targeted prevention plan that actually works for your situation.
 
 
-
 > **Key Takeaway:** Simple steps you can take every day to keep your teeth and gums healthy and infection-free.
 
 ## Related Articles

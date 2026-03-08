@@ -81,9 +81,7 @@ After your appointment, your dentist will give you clear instructions for at-hom
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Omega-3 polyunsaturated fatty acids represent a nutritional intervention with growing evidence supporting benefits for periodontal health through multiple anti-inflammatory mechanisms. Adequate dietary intake through consumption of fatty fish or supplementation with EPA and DHA supports reduced periodontal inflammation, improved treatment response, and potentially slowed alveolar bone loss. Integration of omega-3 optimization into comprehensive periodontal treatment plans represents an evidence-supported adjunctive strategy supporting improved outcomes and long-term periodontal stability.
 
 > **Key Takeaway:** ## Key Takeaway: **Eating fatty fish or taking omega-3 supplements gives your gums real anti-inflammatory support, slows bone loss, and helps you respond better to gum disease treatment. It's one of the few foods-based interventions with actual scientific proof.**
 

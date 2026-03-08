@@ -70,7 +70,7 @@ Fluoride works by strengthening your remaining enamel and making it more resista
 
 ## Managing Sensitivity From Erosion
 
-When erosion exposes dentin (the softer layer under enamel), you experience sensitivity:
+When erosion exposes dentin (the softer layer under enamel), you experience soreness:
 
 **Desensitizing toothpaste**: Products containing 5% potassium nitrate reduce sensitivity within 2-3 weeks of twice-daily use. The potassium reduces nerve sensitivity, blocking pain signals. Choose a brand that combines desensitizing ingredients with fluoride for dual benefit.
 
@@ -94,7 +94,7 @@ Preventing additional erosion is more important than treating existing damage:
 
 ## Conservative Treatment Options
 
-For mild-to-moderate erosion without severe esthetic or sensitivity concerns, conservative approaches often succeed:
+For mild-to-moderate erosion without severe esthetic or soreness concerns, conservative approaches often succeed:
 
 **Fluoride therapy alone** arrests erosion progression in most mild cases over 3-5 years, eliminating need for restorations.
 
@@ -102,14 +102,14 @@ For mild-to-moderate erosion without severe esthetic or sensitivity concerns, co
 
 **Protective coatings** applied by your dentist shield vulnerable areas.
 
-These approaches cost far less than restorations and preserve your natural tooth structure.
+These approaches cost far less than repairs and preserve your natural tooth structure.
 
 ## When Restorations Become Necessary
 
-Erosion requiring restoration typically involves:
+Erosion requiring repair typically involves:
 - Deep erosion (>2 mm depth) exposing large areas of dentin
 - Esthetic concerns affecting appearance or confidence
-- Severe sensitivity affecting quality of life despite other treatments
+- Severe soreness affecting quality of life despite other treatments
 - Functional concerns where erosion affects your bite
 
 **Composite bonding** ($200-500 per tooth) builds up eroded areas directly. It looks good, costs less than crowns, but requires replacement every 7-10 years.
@@ -138,9 +138,9 @@ Track whether your erosion is stopping or progressing:
 
 ## Conclusion
 
-Enamel erosion is permanent, but you can stop it from progressing and prevent the need for extensive treatment. Early recognition, identifying your erosion cause, and taking preventive measures through acid exposure reduction and fluoride use successfully arrests erosion in most patients. Sensitivity management through desensitizing products provides relief.
+Enamel erosion is permanent, but you can stop it from progressing and prevent the need for extensive treatment. Early recognition, identifying your erosion cause, and taking preventive measures through acid exposure reduction and fluoride use successfully arrests erosion in most patients. Soreness management through desensitizing products provides relief.
 
-Restorations become necessary only when erosion is extensive or causing functional or esthetic problems. Work with your dentist to develop an erosion control plan. Talk to your dentist about which options are right for your specific situation.
+Repairs become necessary only when erosion is extensive or causing functional or esthetic problems. Work with your dentist to develop an erosion control plan. Talk to your dentist about which options are right for your specific situation.
 
 > **Key Takeaway:** However, understanding what's happening and taking action early prevents severe damage. This practical guide helps you recognize erosion, stop it from getting worse, and restore your smile.
 

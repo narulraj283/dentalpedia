@@ -60,7 +60,7 @@ Tongue thrust usually starts because of something that happened earlier in child
 
 - **Enlarged tonsils or adenoids**: These block the airway, forcing the tongue to move forward to help breathing
 - **Allergies**: Blocked nasal passages lead to mouth breathing and forward tongue positioning
-- **Pacifier or thumb sucking**: These habits that should end by age 4-5 can train the tongue to position forward
+- **Pacifier or thumb sucking**: These habits that should end by age 4-5 can train the the muscle to position forward
 - **Delayed development**: Sometimes the tongue muscles just develop slower
 
 The good news? Most causes are fixable, especially when addressed early.
@@ -71,9 +71,9 @@ Speech and orofacial therapists use special exercises to retrain how your tongue
 
 **Tongue resting position**: Your child learns to place the tip of the tongue on the roof of the mouth (the hard palate), about half an inch behind the upper front teeth. This becomes the new "default" position.
 
-**Swallowing practice**: Once the tongue learns the right resting position, your child practices swallowing while keeping the tongue in that spot. This teaches the muscles the correct movement pattern.
+**Swallowing practice**: Once the it learns the right resting position, your child practices swallowing while keeping the tongue in that spot. This teaches the muscles the correct movement pattern.
 
-**Strengthening exercises**: Resistance exercises make the muscles stronger and help them hold the correct position. Your child might push the tongue against a depressor or hold certain tongue positions for several seconds.
+**Strengthening exercises**: Resistance exercises make the muscles stronger and help them hold the correct position. Your child might push the the muscle against a depressor or hold certain tongue positions for several seconds.
 
 **Lip seal training**: For kids who mouth-breathe, exercises teach them to keep their lips closed, which naturally encourages nose breathing and proper tongue positioning.
 
@@ -103,7 +103,7 @@ When this combined approach is used, the success rate jumps to 70-85%, which is 
 
 Some orthodontists use a "tongue crib"—a small wire device fixed to the roof of the mouth that physically prevents the tongue from pushing forward. Think of it as a training wheel for your mouth.
 
-Tongue cribs work best when combined with exercises, not as a substitute. The device reminds the tongue to position correctly, but exercises train the muscles to do it automatically without the device. Most kids wear tongue cribs for 6-12 months.
+Tongue cribs work best when combined with exercises, not as a substitute. The device reminds the it to position correctly, but exercises train the muscles to do it automatically without the device. Most kids wear tongue cribs for 6-12 months.
 
 ## Your Child's Role in Success
 
@@ -121,9 +121,7 @@ If your child is older or has had tongue thrust for many years, treatment is sti
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding tongue thrust and braces: how to help your child break helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Tongue thrust represents a significant challenge in orthodontic treatment, opposing mechanical correction through continuous anterior force application. The disorder develops through persistent infantile swallowing patterns, frequently associated with airway obstruction and mouth breathing. Successful treatment requires early diagnosis, referral for comprehensive myofunctional therapy, and integration of behavioral retraining with orthodontic correction. Success rates of 75-90% for myofunctional therapy combined with 70-85% long-term orthodontic stability can be achieved through coordinated interdisciplinary management.
 
 > **Key Takeaway:** Tongue thrust doesn't have to sabotage your child's braces. Early detection and combined therapy plus orthodontics achieves excellent results in most kids. If your orthodontist mentions tongue thrust, don't worry—it's fixable with the right approach and your child's cooperation.
 

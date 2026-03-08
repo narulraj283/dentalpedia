@@ -26,7 +26,7 @@ If you're missing a tooth or have a tooth so damaged it needs a crown, you proba
 
 ## Single Crown
 
-A crown covers one tooth that's damaged or decayed. Your dentist removes decay or reshapes the tooth, then places a cap that looks and functions like a natural tooth. Cost: $800 to $1,500 per tooth. Crowns last 10 to 15 years on average.
+A crown covers one tooth that's damaged or decayed. Your dentist removes decay or reshapes the tooth, then places a cap that looks and functions like a natural tooth. Cost: $800 to $1,500 per the affected area. Crowns last 10 to 15 years on average.
 
 Crowns are ideal when you have a single tooth with a big cavity, a crack, previous root canal, or broken-off section. The crown protects the tooth and makes it look natural. Your natural tooth root remains in place, which helps preserve bone in your jaw.
 
@@ -119,7 +119,7 @@ Sometimes a bridge works better than an implant because:
 Sometimes an implant is better because:
 - You don't want to damage neighboring teeth
 - You want the restoration to last 20+ years without replacement
-- You want the most natural solution that behaves like a real tooth
+- You want the most natural solution that behaves like a real it
 - You're in good health for surgery
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*

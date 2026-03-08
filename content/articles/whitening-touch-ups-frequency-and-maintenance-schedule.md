@@ -88,9 +88,7 @@ Your dentist may recommend additional steps specific to your situation, such as 
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding whitening touch-up protocols and maintenance scheduling helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Sustainable whitening results require ongoing maintenance through combination of home tray touch-ups every 6 months and professional appointments every 12-18 months, with frequency individualized based on observed relapse rates and patient preferences. Understanding individual relapse trajectories through objective shade documentation allows optimization of maintenance scheduling, balancing aesthetic goals with practical and financial constraints. Patient education emphasizing inevitable color relapse and necessity of maintenance commitment establishes realistic expectations essential for long-term satisfaction with whitening treatments.
 
 > **Key Takeaway:** Plan for maintenance from the start. Professional whitening is an investment that requires ongoing touch-ups to sustain results. Budget for periodic maintenance appointments or home gel refills. Understand that your whitening won't be permanent. With proper maintenance every 6-18 months and dietary consciousness, you can keep your teeth looking bright long-term.
 

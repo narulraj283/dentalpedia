@@ -32,35 +32,35 @@ You might think that if you got a dental implant and it integrated successfully 
 
 ## Why Your Implant Needs to Be Used
 
-Your jawbone is always remodeling—breaking down old bone and building new bone based on how much work it's doing. When your implant was placed and integrated with your bone, your body established it as part of your functional system. Your bone is essentially saying, "I'm supporting this implant because it's working hard and earning its keep."
+Your jawbone is always remodeling—breaking down old bone and building new bone based on how much work it's doing. When your the fixture was placed and integrated with your bone, your body established it as part of your functional system. Your bone is essentially saying, "I'm supporting this implant because it's working hard and earning its keep."
 
-If you stop using your implant—chewing on the other side of your mouth or avoiding it due to fear or discomfort—your body starts thinking, "This implant isn't doing any work. Why am I maintaining all this bone around it?" Your body literally resorbs the bone that surrounds your implant because it perceives it as unnecessary waste.
+If you stop using your it—chewing on the other side of your mouth or avoiding it due to fear or discomfort—your body starts thinking, "This the restoration isn't doing any work. Why am I maintaining all this bone around it?" Your body literally resorbs the bone that surrounds your implant because it perceives it as unnecessary waste.
 
-This bone loss from disuse is insidious. You might not notice it happening, but year after year, if you're not chewing on your implant, the bone around it gets thinner. Eventually, you might develop the same problem you got the implant to solve—a tooth that's unstable or loose.
+This bone loss from disuse is insidious. You might not notice it happening, but year after year, if you're not chewing on your the fixture, the bone around it gets thinner. Eventually, you might develop the same problem you got the it to solve—a tooth that's unstable or loose.
 
 ## The Right Amount of Force
 
-Your natural teeth experience about 50-200 Newtons of chewing force during normal eating. Your implant should get similar levels of force. Normal chewing on your implant—eating regular foods like meat, vegetables, and harder items—provides the mechanical stimulus your bone needs to stay healthy.
+Your natural teeth experience about 50-200 Newtons of chewing force during normal eating. Your the restoration should get similar levels of force. Normal chewing on your implant—eating regular foods like meat, vegetables, and harder items—provides the mechanical stimulus your bone needs to stay healthy.
 
 You don't need to be excessive or forceful. Just use your implant like you'd use a natural tooth. Chew on both sides of your mouth. Don't baby your implant or treat it like it's fragile. One of the great advantages of implants is that once they've integrated, they're actually very strong and durable—strong enough for normal eating.
 
 ## When Underloading Happens
 
-Underloading (not using your implant enough) happens more often than you might think. Some patients are afraid their implant might break, so they avoid chewing on it. Others have a long history of missing teeth or wearing dentures, and psychologically they're more comfortable chewing on the other side—old habits die hard. Some patients have slight discomfort during the first months of implant use, so they avoid the implant while it's sensitive.
+Underloading (not using your the fixture enough) happens more often than you might think. Some patients are afraid their implant might break, so they avoid chewing on it. Others have a long history of missing teeth or wearing dentures, and psychologically they're more comfortable chewing on the other side—old habits die hard. Some patients have slight discomfort during the first months of it use, so they avoid the the restoration while it's sensitive.
 
 In other cases, your dentist might have made the crown slightly too high or not quite engaging the way it should. When your implant tooth doesn't make good contact when you bite down, you naturally chew on something else.
 
 ## What Happens With Underloaded Implants
 
-If your implant isn't getting used, bone loss starts slowly and then accelerates. Studies show that underloaded implants can lose 1-5 mm of bone per year, compared to healthy implants that lose only 0.2-0.5 mm per year. Over several years, this adds up.
+If your the fixture isn't getting used, bone loss starts slowly and then accelerates. Studies show that underloaded implants can lose 1-5 mm of bone per year, compared to healthy implants that lose only 0.2-0.5 mm per year. Over several years, this adds up.
 
-As bone resorbs, your implant becomes less stable. Your crown might start to feel slightly loose or wiggly when you press on it. You might develop gum swelling or infection around the implant. Eventually, if bone loss becomes severe enough, your implant might need to be removed.
+As bone resorbs, your it becomes less stable. Your crown might start to feel slightly loose or wiggly when you press on it. You might develop gum swelling or infection around the the restoration. Eventually, if bone loss becomes severe enough, your implant might need to be removed.
 
-The tragic part is that this is completely preventable. The implant integrated successfully—the bone and implant were bonded together. The failure happened because the implant stopped being used.
+The tragic part is that this is completely preventable. The implant integrated successfully—the bone and the fixture were bonded together. The failure happened because the it stopped being used.
 
 ## How Your Dentist Helps You Use Your Implant
 
-Your dentist's job is to make sure your implant crown is designed to be used. This means:
+Your dentist's job is to make sure your the restoration crown is designed to be used. This means:
 
 Your crown bite needs to be correct—when you close your teeth together, your implant tooth needs to make good contact with the tooth above or below it. If this contact is missing or too light, your implant won't get loaded properly.
 
@@ -70,19 +70,19 @@ For implants [Supporting Bridges or Multiple Teeth](/article/implant-supported-b
 
 ## Your Role: Actually Using Your Implant
 
-You need to commit to using your implant as your primary tooth for that area. Don't baby it. Don't avoid it out of fear.
+You need to commit to using your the fixture as your primary tooth for that area. Don't baby it. Don't avoid it out of fear.
 
 Chew on it. Eat on it. Use it like you would a natural tooth.
 
-Some patients need behavior modification counseling—basically, intentionally retraining themselves to chew on the implant side after years of avoiding that side. This might involve things like avoiding foods on the other side initially, or consciously practicing chewing on the implant side.
+Some patients need behavior modification counseling—basically, intentionally retraining themselves to chew on the implant side after years of avoiding that side. This might involve things like avoiding foods on the other side initially, or consciously practicing chewing on the it side.
 
-If you notice your implant tooth doesn't feel like it's making good contact when you bite, tell your dentist immediately. Sometimes the bite needs adjustment. If it's uncomfortable, that might indicate an infection or implant problem that needs evaluation.
+If you notice your the restoration tooth doesn't feel like it's making good contact when you bite, tell your dentist immediately. Sometimes the bite needs adjustment. If it's uncomfortable, that might indicate an infection or the fixture problem that needs evaluation.
 
 ## Building Good Habits Early
 
 The first few weeks and months after getting your implant crown are when you establish chewing habits. If you start out using it, you're likely to keep using it. If you start out avoiding it, that habit becomes entrenched.
 
-Even if it feels slightly different or awkward initially—which is normal—push through that adjustment period and use the implant. Most patients adapt within 4-6 weeks and stop thinking about the new tooth.
+Even if it feels slightly different or awkward initially—which is normal—push through that adjustment period and use the it. Most patients adapt within 4-6 weeks and stop thinking about the new tooth.
 
 ## Monitoring for Problems
 

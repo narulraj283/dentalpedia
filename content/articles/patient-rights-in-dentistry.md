@@ -102,9 +102,7 @@ Billing should be honest and accurate. Your dentist shouldn't bill your insuranc
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. Billing should be honest and accurate. Your dentist shouldn't bill your insurance for work they didn't do or split one procedure into multiple codes to charge more. You should get an itemized bill showing each service and its cost.
 
 > **Key Takeaway:** Your rights as a dental patient protect your autonomy, privacy, and fair treatment. You have the right to understand your treatment options and refuse unwanted care, access your own records, keep your personal information private, and file complaints if problems occur. Informed consent is the foundation—before any treatment, your dentist should explain what they're doing, why, and what risks and benefits come with it. You deserve honest communication, fair billing practices, and respectful, non-discriminatory care. When you understand your rights, you can confidently participate in decisions about your dental health and hold your dentist accountable to professional standards.
 

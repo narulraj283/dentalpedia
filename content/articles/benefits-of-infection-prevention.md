@@ -77,8 +77,7 @@ Related reading: [Why Pain Management in Surgery Matters](/article/why-pain-mana
 
 ## Conclusion
 
-Whether you're just learning about infection prevention: a complete patient guide or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Your dentist can help you understand the best approach for your specific needs. The best approach to infection after oral surgery is preventing it in the first place.
 
 > **Key Takeaway:** When you have tooth surgery, the biggest worry isn't always the procedure itself—it's avoiding infection afterward.
 

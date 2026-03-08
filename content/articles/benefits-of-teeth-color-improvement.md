@@ -158,7 +158,6 @@ Related reading: [Smile Enhancement Options: What You Need to Know](/article/smi
 Moderate staining needs microabrasion or resin infiltration. Severe staining needs veneers or crowns. Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** Tooth color comes from how your enamel and dentin absorb and reflect light, plus any surface stains on your teeth.
 
 ## Related Articles

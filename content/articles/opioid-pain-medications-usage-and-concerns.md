@@ -30,23 +30,23 @@ references:
 ---
 ## Why Your Dentist May Not Prescribe Opioids
 
-If you're scheduled for a dental procedure or just had one, you might be surprised if your dentist doesn't automatically offer opioid pain medication. That's actually good news. While opioids like hydrocodone and oxycodone can relieve pain, they carry real risks—including addiction, even when taken exactly as prescribed. Your dentist is likely to suggest safer alternatives that work just as well for dental pain. Studies show that most patients do better with other medications that don't carry the same addiction risks.
+If you're scheduled for a dental procedure or just had one, you might be surprised if your dentist doesn't automatically offer opioid pain medication. That's actually good news. While opioids like hydrocodone and oxycodone can relieve pain, they carry real risks—including addiction, even when taken exactly as prescribed. Your dentist is likely to suggest safer alternatives that work just as well for dental discomfort. Studies show that most patients do better with other medications that don't carry the same addiction risks.
 
 The shift away from opioids isn't because dental pain isn't real or important. It's because the opioid crisis has taught us that we can manage pain effectively without these high-risk medications. Dentists are now following guidelines from the American Dental Association that recommend opioids only when absolutely necessary, and for the shortest time possible. Your safety is the priority.
 
 ## What to Expect for Pain After Dental Surgery
 
-Here's the good news: dental pain follows a very predictable pattern. Right after your surgery, the numbing medication keeps everything comfortable. Once that wears off (usually 2-4 hours later), you'll likely feel some discomfort. But this pain peaks during the first 24 hours and then gets better each day.
+Here's the good news: dental the sensation follows a very predictable pattern. Right after your surgery, the numbing medication keeps everything comfortable. Once that wears off (usually 2-4 hours later), you'll likely feel some discomfort. But this pain peaks during the first 24 hours and then gets better each day.
 
-Most people find that by day two, their pain drops significantly. By day three or four, it's usually quite manageable. This natural pattern means you typically won't need strong pain medication for long—if at all. Your body's own healing process actually helps reduce pain each day. Knowing this timeline helps you prepare mentally and choose the right pain management approach.
+Most people find that by day two, their soreness drops significantly. By day three or four, it's usually quite manageable. This natural pattern means you typically won't need strong pain medication for long—if at all. Your body's own healing process actually helps reduce discomfort each day. Knowing this timeline helps you prepare mentally and choose the right pain management approach.
 
-Everyone's pain experience is different, though. Some people feel hardly anything, while others feel more discomfort from the same procedure. Your age, stress level, past pain experiences, and anxiety all play a role. If your dentist knows you get nervous, they'll take extra time to help you relax and explain what's happening, which actually reduces the pain you'll feel.
+Everyone's the sensation experience is different, though. Some people feel hardly anything, while others feel more discomfort from the same procedure. Your age, stress level, past pain experiences, and anxiety all play a role. If your dentist knows you get nervous, they'll take extra time to help you relax and explain what's happening, which actually reduces the pain you'll feel.
 
 ## The Best Non-Opioid Pain Relief Options
 
 The first choice for dental pain is almost always over-the-counter pain relievers you probably already have at home. Ibuprofen (Advil, Motrin) and naproxen sodium (Aleve) are anti-inflammatory medicines—they don't just block pain, they also reduce swelling that causes discomfort. When you take these regularly (not just when pain happens), they work much better. Take them every 6-8 hours on schedule, whether your mouth hurts or not, for the first 2-3 days after your procedure.
 
-Acetaminophen (Tylenol) is another great option, especially when combined with ibuprofen. These two drugs work differently, so using them together creates stronger pain relief than either alone. Just follow the dose instructions carefully to avoid taking too much. Many people find this combination handles even moderate pain effectively.
+Acetaminophen (Tylenol) is another great option, especially when combined with ibuprofen. These two drugs work differently, so using them together creates stronger pain relief than either alone. Just follow the dose instructions carefully to avoid taking too much. Many people find this combination handles even moderate soreness effectively.
 
 Topical numbing gels and rinses can help during those first few hours when pain is strongest. You can apply these directly to the surgical area for quick temporary relief—great for when you're trying to eat or drink. Some people use ice on the outside of their cheek for the first day, which reduces swelling and numbs the area naturally. All these options work together safely. For more on this topic, see our guide on [Common Misconceptions About Pre-Surgery Preparation](/article/common-misconceptions-about-pre-surgery-preparation.html).
 
@@ -56,15 +56,15 @@ Talk with your dentist before your procedure about pain management. Share whethe
 
 Ask your dentist exactly what to expect: How much should your mouth hurt? When should pain start improving? What should you take and when? Having a clear plan removes the stress of not knowing what's normal. Your dentist can write down the medication schedule so you remember to take pain relievers regularly, not just when it hurts.
 
-Consider taking the first dose of pain reliever before the numbing medication wears off. This gets ahead of the pain rather than chasing it after it starts. If you have the first dose on board when sensation returns, you'll likely never experience strong pain at all. This "preemptive" approach works remarkably well and is standard practice in hospitals and surgical centers.
+Consider taking the first dose of pain reliever before the numbing medication wears off. This gets ahead of the pain rather than chasing it after it starts. If you have the first dose on board when sensation returns, you'll likely never experience strong discomfort at all. This "preemptive" approach works remarkably well and is standard practice in hospitals and surgical centers.
 
 ## Understanding Addiction Risks and Safe Use
 
-You might worry about becoming addicted to pain medication, especially given all the news about the opioid crisis. Here's what's important to understand: most dental pain doesn't require opioid prescriptions at all. When doctors do prescribe them, the risk is real but manageable with the right precautions.
+You might worry about becoming addicted to the sensation medication, especially given all the news about the opioid crisis. Here's what's important to understand: most dental pain doesn't require opioid prescriptions at all. When doctors do prescribe them, the risk is real but manageable with the right precautions.
 
 Addiction is different from physical dependence or tolerance. Addiction means you're compulsively using a substance despite it causing harm—continuing even when you don't want to. Physical dependence means your body adapts to the medication; when you stop, you might feel uncomfortable withdrawal symptoms. These aren't the same thing, though they're often confused.
 
-If your dentist does prescribe opioids (which might happen if you have severe anxiety, complex surgery, or don't do well with other pain relievers), here are the safest practices: Take the smallest dose needed for the shortest time. Don't take "just one more" because you have pain on day four—that's when your dentist should adjust your pain plan instead. Store medications in a locked place away from family, friends, and anyone who might be struggling with substance use. Never share your medication. When you're done with it, use a DEA medication drop-off program or follow flushing instructions.
+If your dentist does prescribe opioids (which might happen if you have severe anxiety, complex surgery, or don't do well with other soreness relievers), here are the safest practices: Take the smallest dose needed for the shortest time. Don't take "just one more" because you have pain on day four—that's when your dentist should adjust your discomfort plan instead. Store medications in a locked place away from family, friends, and anyone who might be struggling with substance use. Never share your medication. When you're done with it, use a DEA medication drop-off program or follow flushing instructions.
 
 ## When to Call Your Dentist About Pain
 

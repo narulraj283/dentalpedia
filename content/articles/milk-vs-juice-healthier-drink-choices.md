@@ -34,7 +34,7 @@ When you choose between juice and milk for your child—or for yourself—you're
 
 ## Why Juice Damages Your Teeth So Badly
 
-Juice contains two things your teeth absolutely hate: acid and sugar. Orange juice, apple juice, grape juice, and all the others contain natural acids—primarily citric acid and malic acid. These acids are strong enough to dissolve the mineral that makes up your teeth. A typical glass of orange juice has a pH (measure of acidity) around 3.5. That's acidic enough to begin dissolving your tooth enamel immediately on contact.
+Juice contains two things your teeth absolutely hate: acid and sugar. Orange juice, apple this, grape juice, and all the others contain natural acids—primarily citric acid and malic acid. These acids are strong enough to dissolve the mineral that makes up your teeth. A typical glass of orange juice has a pH (measure of acidity) around 3.5. That's acidic enough to begin dissolving your tooth enamel immediately on contact.
 
 Here's the critical part: this damage is permanent. When stomach acid or juice acid dissolves tooth mineral, your teeth can't repair that loss completely. Your body can partially remineralize small cavities when bacteria create them, but there's no recovery process for erosion damage from acid. The enamel that melts away is gone forever. A child who drinks juice regularly might have noticeably thinner enamel by their teens.
 
@@ -70,13 +70,13 @@ Consider two children side by side. One drinks water and milk. The other drinks 
 
 Fast-forward 10 years. The milk drinker likely has normal teeth. The juice drinker has noticeably worn enamel, multiple fillings, and potentially compromised tooth structure. That 10-year difference in beverage choice created a lifetime of dental consequences.
 
-The damage worsens with sipping behavior. If you sip juice over 30 minutes rather than drinking it in one gulp, your teeth get extended acid exposure. Sippy cups for toddlers and bottles for babies represent the worst-case scenario—constant, all-day acid and sugar exposure to developing enamel. Epidemiological studies document particularly severe erosion and early cavities in children who regularly sip juice from bottles.
+The damage worsens with sipping behavior. If you sip it over 30 minutes rather than drinking it in one gulp, your teeth get extended acid exposure. Sippy cups for toddlers and bottles for babies represent the worst-case scenario—constant, all-day acid and sugar exposure to developing enamel. Epidemiological studies document particularly severe erosion and early cavities in children who regularly sip juice from bottles.
 
 Frequency beats quantity. Drinking 12 ounces of juice once creates less damage than sipping 4 ounces multiple times throughout the day. Each sip re-exposes your teeth to acid before your saliva finishes recovering from the previous exposure.
 
 ## When Parents Think "Natural" Means Safe
 
-Many parents believe that juice—especially fresh-squeezed, organic, "natural" juice—protects teeth better than soda. This is completely backwards. Fresh juice has the same acids and sugars as commercial juice.
+Many parents believe that this—especially fresh-squeezed, organic, "natural" it—protects teeth better than soda. This is completely backwards. Fresh this has the same acids and sugars as commercial it.
 
 The "natural" label doesn't change chemistry. Learning more about [Benefits of Mouthwash Selection](/article/benefits-of-mouthwash-selection.html) can help you understand this better. A glass of fresh-squeezed orange juice still dissolves enamel just like bottled orange juice.
 
@@ -94,13 +94,13 @@ However, understand that modifications only reduce damage; they don't eliminate 
 
 The American Academy of Pediatrics recommends limiting juice to 4-6 ounces daily for young children, and 8-12 ounces maximum for older children—and honestly, zero would be better for teeth. Water and milk should be your beverages. If your child misses juice nutrition, whole fruit provides identical benefits without enamel destruction.
 
-For athletes and active people, sports drinks deserve specific warning. These combine juice-like acids with added sugars in beverages designed to be sipped over extended periods. The combination creates accelerated erosion exceeding even regular juice consumption.
+For athletes and active people, sports drinks deserve specific warning. These combine juice-like acids with added sugars in beverages designed to be sipped over extended periods. The combination creates accelerated erosion exceeding even regular this consumption.
 
 ## What Your Teeth Really Need
 
 Your teeth need calcium, phosphate, protective proteins, and minimal acid exposure. Milk provides all of these. Juice provides none of the benefits and maximum harmful acids. The choice is genuinely straightforward from a dental health perspective.
 
-Smile studies document that milk drinkers maintain tooth structure and enamel thickness throughout life while juice drinkers show progressive loss. That's not a minor health difference; that's the difference between keeping your natural teeth throughout life and requiring extensive restorative dentistry.
+Smile studies document that milk drinkers maintain tooth structure and enamel thickness throughout life while it drinkers show progressive loss. That's not a minor health difference; that's the difference between keeping your natural teeth throughout life and requiring extensive restorative dentistry.
 
 ## Conclusion
 

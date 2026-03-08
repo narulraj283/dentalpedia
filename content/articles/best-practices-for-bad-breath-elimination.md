@@ -104,7 +104,6 @@ J Periodontol. 2007;78(1):65-71.
 6. Dadamio L, et al. Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** Bad breath affects about 27% of people worldwide, yet many people are too embarrassed to talk about it.
 
 ## Related Articles

@@ -110,9 +110,7 @@ Ask your dentist to explain their sedation protocol specifically. How long appoi
 
 ## Conclusion
 
-The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. Ask your dentist to explain their sedation protocol specifically. How long appointments take, what to expect during recovery, how they monitor safety. The more you understand, the less scary it becomes.
 
 > **Key Takeaway:** Dental anxiety shouldn't force you into avoiding care that protects your health and smile. Nitrous oxide is a safe, effective tool that transforms dental anxiety from paralyzing to manageable. Many anxious patients find that successful treatment experiences gradually reduce their anxiety, eventually enabling comfortable non-sedated care. If anxiety is keeping you from the dentist, laughing gas could be exactly what you need.
 

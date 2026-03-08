@@ -95,8 +95,7 @@ Related reading: [Enamel Erosion Repair: What Patients Need to Know](/article/be
 
 ## Conclusion
 
-Whether you're just learning about understanding mouth injuries treatment for better dental or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Your dentist can help you understand the best approach for your specific needs. For displaced teeth, your dentist will reposition and splint them.
 
 > **Key Takeaway:** A knocked-out tooth, a crack from a fall, a cut to your lip—dental and mouth injuries happen suddenly, and the first few minutes matter enormously.
 

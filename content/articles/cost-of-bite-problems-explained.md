@@ -33,70 +33,69 @@ references:
 - Sondergaard JO, Melsen B, Wagner B. A clinical comparison of the effectiveness of
   three different functional appliances in the treatment of Class II division 1 malocclusion.
   Eur J Orthod. 2001;23(5):489-500.
----
-Most people have bite problems. Learning more about [Why Braces Food Restrictions Matters](/article/why-braces-food-restrictions-matters.html) can help you understand this better. Crooked teeth, crowding, or misaligned bites affect 50-60% of the population. Here's the real cost of leaving them untreated and why early correction saves money.
+---Most people have bite problems. Learning more about [Why Braces Food Restrictions Matters](/article/why-braces-food-restrictions-matters.html) can help you understand this better. Crooked teeth, crowding, or misaligned bites affect 50-60% of the population. Here's the real cost of leaving them untreated and why early correction saves money.
 
 ## What Counts as a Bite Problem
 
-**Crowding**: Teeth overlapping or twisted ($3,000-$7,000 to correct with braces; costs $1,000-$3,000 in extra cavities if untreated)
+**Crowding**: Teeth overlapping or twisted ($3,000-$7,000 to fix with braces; causes $1,000-$3,000 in extra cavities if not treated)
 
-**Spacing**: Large gaps between teeth ($3,000-$6,000 to correct; mostly esthetic concern)
+**Spacing**: Large gaps between teeth ($3,000-$6,000 to fix; mainly a look concern)
 
-**Overbite**: Upper front teeth overlap lower by more than 3-4mm ($4,500-$7,500 to correct; can cause jaw problems)
+**Overbite**: Upper front teeth overlap lower by more than 3-4mm ($4,500-$7,500 to fix; can cause jaw problems)
 
-**Underbite**: Lower front teeth extend past upper ($4,500-$8,000 to correct; can affect chewing and speech)
+**Underbite**: Lower front teeth stick out past upper ($4,500-$8,000 to fix; can affect chewing and speech)
 
-**Crossbite**: Upper teeth bite inside lower ($3,000-$6,000 to correct; can cause jaw asymmetry)
+**Crossbite**: Upper teeth bite inside lower ($3,000-$6,000 to fix; can cause jaw unevenness)
 
-**Open bite**: Front teeth don't touch when you bite ($4,500-$7,500 to correct; affects speech and chewing)
+**Open bite**: Front teeth don't touch when you bite ($4,500-$7,500 to fix; affects speech and chewing)
 
 ## The Hidden Costs of Untreated Bite Problems
 
 ### Increased Cavities
 
-Crowded teeth have hard-to-reach spaces where cavities develop. Studies show:
+Crowded teeth have hard-to-reach spaces. Cavities develop in these areas. Studies show:
 
-**With crowding**: 1-2 additional cavities per person per decade
+**With crowding**: 1-2 extra cavities per person per decade
 **Without crowding**: 0.2-0.4 cavities per person per decade
 
-**Cost over 20 years**: Untreated crowding = 8-10 extra cavities = $1,200-$3,000 in fillings/treatments
+**Cost over 20 years**: Untreated crowding = 8-10 extra cavities = $1,200-$3,000 in fillings and treatments
 
 **Benefit of early correction**: Prevent $1,200-$3,000 in cavity treatment
 
 ### Increased Gum Disease
 
-Crowded teeth and bite problems make cleaning impossible. Result:
+Crowded teeth and bite problems make cleaning impossible. The result:
 
-**With bite problems**: 40-50% increased gum disease vs. straight teeth
+**With bite problems**: 40-50% more gum disease than straight teeth
 
 **Gum disease treatment costs**:
 - Professional cleaning: $75-$150
-- Scaling and root planing: $600-$1,600
+- Scaling and root planing (deep cleaning): $600-$1,600
 - Bone grafting (if advanced): $3,000-$8,000
 - Tooth extractions (if severe): $200-$500 per tooth
 
-**Potential cost**: Without correction, 1 person might lose 2-3 teeth (requiring implants at $4,000-$8,000 each) = $8,000-$24,000 total
+**Potential cost**: Without correction, one person might lose 2-3 teeth. Implants cost $4,000-$8,000 each. Total = $8,000-$24,000
 
-**Benefit of early correction**: Prevent gum disease and potential tooth loss = $8,000-$24,000 saved
+**Benefit of early correction**: Prevent gum disease and tooth loss = $8,000-$24,000 saved
 
 ### Jaw Problems (TMJ Dysfunction)
 
-Bite problems stress jaw joints, causing:
+Bite problems stress jaw joints. This causes:
 - Pain and clicking
 - Limited jaw opening
 - Headaches
-- TMJ treatment costs: $500-$2,000 conservative, $15,000-$30,000 surgical
+- TMJ treatment costs: $500-$2,000 for basic care, $15,000-$30,000 for surgery
 
 **Benefit of early correction**: Prevent TMJ problems = $500-$30,000 saved
 
 ### Chewing Inefficiency
 
-Bite problems reduce chewing efficiency 15-30%, affecting:
-- Nutrient absorption
-- Digestion
+Bite problems reduce chewing efficiency by 15-30%. This affects:
+- Nutrient absorption (how much nutrition your body gets)
+- Digestion (how your body breaks down food)
 - Overall health
 
-**Indirect benefit**: Better nutrition and digestion, harder to quantify financially
+**Indirect benefit**: Better nutrition and digestion (hard to measure in dollars)
 
 ## Cost Comparison: Correct Now vs. Later
 
@@ -107,12 +106,12 @@ Bite problems reduce chewing efficiency 15-30%, affecting:
 - Phase 2 cost (if needed): $2,000-$3,000
 - **Total**: $1,500-$6,000
 - Timeline: 18-24 months
-- Result: Prevention of future complications
+- Result: Stop problems before they start
 
 **Option 2: Do nothing now, treat as adult**
 - Adult braces/aligners: $3,000-$7,000
-- Cost of untreated cavities/gum disease: $1,200-$3,000
-- Cost of potential TMJ treatment: $500-$2,000
+- Cost of untreated cavities and gum disease: $1,200-$3,000
+- Cost of possible TMJ treatment: $500-$2,000
 - **Total**: $4,700-$12,000
 - Timeline: 24-36 months
 - Result: Less prevention, more treatment
@@ -123,16 +122,16 @@ Bite problems reduce chewing efficiency 15-30%, affecting:
 
 **Option 1: Braces to correct**
 - Treatment cost: $4,500-$7,500
-- Cavities avoided (prevention): $1,200-$3,000
-- Gum disease avoided: $600-$8,000
-- TMJ dysfunction avoided: $500-$2,000
+- Cavities prevented: $1,200-$3,000 saved
+- Gum disease prevented: $600-$8,000 saved
+- TMJ dysfunction prevented: $500-$2,000 saved
 - **Net cost after benefits**: $1,200-$3,000
-- Result: Straight teeth, better health You may also want to read about [Herbst Appliance Fixed Mandibular Advancement](/article/herbst-appliance-fixed-mandibular-advancement.html).
+- Result: Straight teeth, better health. You may also want to read about [Herbst Appliance Fixed Mandibular Advancement](/article/herbst-appliance-fixed-mandibular-advancement.html).
 
 **Option 2: Do nothing**
 - Cavities over 20 years: $1,200-$3,000
 - Gum disease treatment: $600-$8,000
-- Potential tooth loss and implants: $0-$24,000
+- Possible tooth loss and implants: $0-$24,000
 - TMJ treatment: $500-$2,000
 - **Total**: $2,300-$37,000
 
@@ -140,48 +139,48 @@ Bite problems reduce chewing efficiency 15-30%, affecting:
 
 ## Long-Term Health Impact
 
-Over 20-30 years, correcting bite problems:
+Over 20-30 years, correcting bite problems helps in many ways:
 
 **Reduces cavities by 25-35%**: $1,200-$3,000 savings
 **Reduces gum disease by 40-50%**: $600-$8,000 savings
 **Reduces TMJ dysfunction risk**: $500-$2,000 savings
-**Prevents tooth loss**: $8,000-$24,000 savings (prevents need for implants)
-**Improves chewing/nutrition**: Indirect health benefit
+**Prevents tooth loss**: $8,000-$24,000 savings (no need for implants)
+**Improves chewing and nutrition**: Better health overall
 
 **Total potential savings**: $10,300-$37,000 over 20-30 years
 
 ## Insurance Impact
 
-Most insurance plans provide some orthodontic benefit:
+Most insurance plans help pay for orthodontic treatment (braces and similar):
 
 **With insurance** ($1,500-$2,000 annual max):
 - You pay 40-60% ($1,500-$3,000 for $5,000 treatment)
-- Insurance pays remainder
-- Remaining cost spread over 18-24 months = $125-$200/month
+- Insurance pays the rest
+- Spread over 18-24 months = $125-$200/month
 
 **Without insurance**:
-- You pay 100%
-- Monthly cost higher
+- You pay 100% of the cost
+- Monthly payment is higher
 
 **With early Phase 1 treatment**:
-- Phase 1 cost $1,500-$3,000, might be fully covered (still counts toward annual max)
-- Phase 2 later, uses next year's benefit
-- Distributes cost over multiple years, easing financial burden
+- Phase 1 costs $1,500-$3,000, might be fully covered
+- Phase 2 later uses next year's benefit
+- This spreads cost over multiple years, making it easier to pay
 
 ## Who Needs Treatment Most Urgently?
 
-**High priority** (treat soon to prevent complications):
+**High priority** (treat soon to stop problems):
 - Severe crowding (>10mm)
 - Severe bite problems (Class II or III)
-- Open bite affecting speech/function
-- Crossbite causing jaw asymmetry
+- Open bite affecting speech or chewing
+- Crossbite causing jaw unevenness
 
 **Moderate priority** (consider treatment):
 - Moderate crowding (6-8mm)
 - Mild-moderate bite problems
 - Spacing affecting appearance
 
-**Lower priority** (cosmetic only):
+**Lower priority** (appearance only):
 - Small spacing
 - Mild crowding (<3mm)
 - Minor alignment issues

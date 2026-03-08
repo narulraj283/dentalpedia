@@ -61,7 +61,7 @@ Practical consequence: if your dentist positions the filling right at where the 
 
 ## Electronic Apex Locators: How They Work
 
-Your dentist uses an electronic device that sends a small electrical signal through a thin instrument into your root canal. Different tissues have different electrical properties, so the device can detect when the instrument reaches specific anatomical landmarks.
+Your dentist uses an electronic device that sends a small electrical signal through a thin instrument into your the structure canal. Different tissues have different electrical properties, so the device can detect when the instrument reaches specific anatomical landmarks.
 
 The key landmark is the major foramen opening (the true apex). Modern multi-frequency devices can detect this with accuracy within 0.5mm in 90 percent of cases. That's precision that X-rays can't match.
 
@@ -101,7 +101,7 @@ The procedure: Your dentist places MTA or Biodentine at the open apex with gentl
 
 ### Letting Roots Finish Growing
 
-Another approach for young teeth is encouraging the root to continue developing naturally. Special medications placed in the root promote the tooth's own cells to mature and eventually close the open apex. This approach preserves the tooth's natural development.
+Another approach for young teeth is encouraging the it to continue developing naturally. Special medications placed in the root promote the tooth's own cells to mature and eventually close the open apex. This approach preserves the tooth's natural development.
 
 ## CBCT Imaging for Complex Cases
 

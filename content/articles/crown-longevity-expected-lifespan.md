@@ -38,7 +38,7 @@ Zirconia crowns (made from a very strong ceramic material) have the best track r
 
 When crowns do fail, it's usually from one of a few predictable causes. Secondary decay (cavities that develop underneath or around the crown) is the most common reason—accounting for about 25 to 35 percent of crown failures. This happens when plaque builds up around the crown edge and causes decay on the tooth underneath.
 
-Another common reason is the tooth under the crown dying (pulpal necrosis). This happens in about 15 to 20 percent of crown failures and requires root canal treatment. Chipping or fracturing of the crown is the third most common failure mode, accounting for 40 to 50 percent of failures, particularly with older ceramic materials.
+Another common reason is the tooth under the it dying (pulpal necrosis). This happens in about 15 to 20 percent of crown failures and requires root canal treatment. Chipping or fracturing of the crown is the third most common failure mode, accounting for 40 to 50 percent of failures, particularly with older ceramic materials.
 
 ## The Tooth Under the Crown
 

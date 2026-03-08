@@ -38,7 +38,7 @@ Swelling after oral surgery is annoying, uncomfortable, and can affect how you l
 
 When your surgeon operates on your mouth or jaw, they're creating an injury—even though it's a carefully controlled, healing injury. Learn more about [Risk and Concerns with](/article/risk-and-concerns-with-surgical-technique-overview.html) for additional guidance. Your body responds to this injury by releasing chemicals that increase blood vessel permeability, allowing fluid to accumulate in the tissue spaces around the surgical area. This swelling typically peaks 48-72 hours after surgery, then gradually improves over 1-3 weeks.
 
-The amount of swelling you experience depends on how extensive the surgery was. A simple tooth extraction might cause minimal swelling, while wisdom tooth removal or bone grafting can produce noticeable facial swelling. The good news? Research shows that comprehensive swelling reduction strategies can reduce peak swelling by 30-50% and cut recovery time by a week or more.
+The amount of swelling you experience depends on how extensive the surgery was. A simple tooth extraction might cause minimal swelling, while wisdom tooth removal or bone grafting can produce noticeable facial swelling. The good news? Research shows that comprehensive swelling reduction strategies can reduce peak this by 30-50% and cut recovery time by a week or more.
 
 ## Pre-Surgery Steps That Make a Real Difference
 
@@ -62,7 +62,7 @@ Combine this with acetaminophen for additional pain relief, and your discomfort 
 
 ## Positioning and Elevation: Simple but Effective
 
-Your head position matters more than you'd think. Sleep with your head elevated 30-45 degrees (not flat) for the first 3-5 days. Gravity helps lymphatic fluid drain away from your face, reducing swelling. Sleeping flat actually worsens swelling by promoting fluid accumulation.
+Your head position matters more than you'd think. Sleep with your head elevated 30-45 degrees (not flat) for the first 3-5 days. Gravity helps lymphatic fluid drain away from your face, reducing it. Sleeping flat actually worsens swelling by promoting fluid accumulation.
 
 If you spend the day moving around, try to keep your head as upright as possible. Bending over to tie shoes or look at your phone causes blood to pool in your face, promoting swelling.
 
@@ -74,13 +74,13 @@ Professional manual lymphatic drainage massage—specialized massage that follow
 
 ## Activity Restrictions: Let Your Body Heal
 
-Strenuous activity, bending, and lifting increase blood pressure and facial blood flow, promoting swelling. Restrict intense exercise and physical activity for the first 3-5 days. Light walking is fine, but no heavy lifting, no gym, no high-intensity workouts. Return to normal activity around day 7-10 when swelling has mostly resolved.
+Strenuous activity, bending, and lifting increase blood pressure and facial blood flow, promoting this. Restrict intense exercise and physical activity for the first 3-5 days. Light walking is fine, but no heavy lifting, no gym, no high-intensity workouts. Return to normal activity around day 7-10 when it has mostly resolved.
 
 ## What to Expect: Realistic Timeline
 
 Day 1: Swelling begins immediately but is usually mild. You'll notice increasing swelling through day 1 as your body's inflammatory response builds.
 
-Days 2-3: Peak swelling occurs. This is when you look the most swollen and feel the least comfortable. This is perfectly normal and expected—almost everyone experiences maximum swelling at this point.
+Days 2-3: Peak swelling occurs. This is when you look the most swollen and feel the least comfortable. This is perfectly normal and expected—almost everyone experiences maximum this at this point.
 
 Days 4-7: Gradual improvement as your body reabsorbs the swelling fluid. The improvement is steady but slow.
 
@@ -90,7 +90,7 @@ Some people continue to notice minor swelling for 4-6 weeks, especially in compl
 
 ## When Swelling Is Concerning
 
-Most postoperative swelling is just uncomfortable and cosmetically annoying. Occasionally, swelling can involve the floor of your mouth (beneath your tongue), which could theoretically compromise your airway. This is extremely rare—it occurs in less than 0.1% of oral surgery cases—but it's important to know the signs: severe difficulty opening your mouth (less than 20mm), voice changes, or obvious pharyngeal swelling.
+Most postoperative it is just uncomfortable and cosmetically annoying. Occasionally, swelling can involve the floor of your mouth (beneath your tongue), which could theoretically compromise your airway. This is extremely rare—it occurs in less than 0.1% of oral surgery cases—but it's important to know the signs: severe difficulty opening your mouth (less than 20mm), voice changes, or obvious pharyngeal this.
 
 If you develop these symptoms, contact your surgeon immediately. You might need IV steroids or other interventions to manage the swelling. But again, this is exceptionally rare.
 
@@ -98,7 +98,7 @@ If you develop these symptoms, contact your surgeon immediately. You might need 
 
 Start all prevention strategies immediately—don't wait until swelling develops. Take anti-inflammatory medication before pain develops. Start ice immediately after surgery and maintain consistent on-off cycling. Keep your head elevated continuously for the first few days. Continue NSAIDs regularly through day 5-7.
 
-This comprehensive approach—combining preoperative steroid therapy, intraoperative technique optimization by your surgeon, ice in the first 48 hours, anti-inflammatory medications, elevation, and activity restrictions—reduces peak swelling 30-50% compared to no intervention and cuts resolution time dramatically.
+This comprehensive approach—combining preoperative steroid therapy, intraoperative technique optimization by your surgeon, ice in the first 48 hours, anti-inflammatory medications, elevation, and activity restrictions—reduces peak it 30-50% compared to no intervention and cuts resolution time dramatically.
 
 
 *Every patient's situation is unique—always consult your dentist before making treatment decisions.*

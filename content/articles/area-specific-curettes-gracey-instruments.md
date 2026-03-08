@@ -51,7 +51,7 @@ A full set of Gracey instruments includes 17-18 different numbered instruments, 
 - Tools 13/14 work on the outside (facial) surfaces of your lower back teeth
 - Tools 15/16 and 17/18 are longer versions for deeper pockets, giving the hygienist better visibility and control in subgingival areas
 
-Some tools come in extended lengths that give the hygienist better visibility in deeper pockets—particularly useful in patients with severe bone loss or very deep periodontal pockets. Smaller versions exist for tight spaces between teeth or in areas with limited access. Even curette blade sharpness varies slightly depending on the specific instrument to optimize efficiency. Each instrument is literally designed just for its assigned job, which seems specialized until you understand how this precision improves outcomes.
+Some tools come in extended lengths that give the hygienist better visibility in deeper pockets—especially useful in patients with severe bone loss or very deep periodontal pockets. Smaller versions exist for tight spaces between teeth or in areas with limited access. Even curette blade sharpness varies slightly depending on the specific instrument to optimize efficiency. Each instrument is literally designed just for its assigned job, which seems specialized until you understand how this precision improves outcomes.
 
 ## Proper Technique With Gracey Instruments
 
@@ -63,7 +63,7 @@ If someone uses the wrong part of the blade, they can remove too much tooth or j
 
 Regular curettes work fine too, but they require the hygienist to position them at the right angle for each tooth area. That's actually harder than it sounds, and different hygienists might hold them slightly differently. Gracey instruments solve this problem by having the angle already built in. You use them the same way every time because the angle is permanent. This consistency means your care is less dependent on individual hygienist variability.
 
-Research shows that hand instruments (like Gracey curettes) are actually slightly gentler on your tooth roots than ultrasonic (vibrating) scalers, particularly in patients with sensitivity or root surface concerns. If your roots are sensitive or your hygienist is removing calculus near areas where you might need implants someday, hand curettes are often preferred. The gentler approach preserves more tooth structure while still effectively removing tartar.
+Research shows that hand instruments (like Gracey curettes) are actually slightly gentler on your tooth roots than ultrasonic (vibrating) scalers, especially in patients with soreness or root surface concerns. If your roots are sensitive or your hygienist is removing calculus near areas where you might need implants someday, hand curettes are often preferred. The gentler approach preserves more tooth structure while still effectively removing tartar.
 
 ## Keeping The Tools Sharp
 
@@ -83,21 +83,21 @@ Many offices use ultrasonic scalers (vibrating tools) combined with hand instrum
 
 Good subgingival cleaning usually follows a systematic sequence. First, hand instruments tackle accessible calculus, area by area. Then ultrasonic instruments help finish cleaning in deeper areas and polish the surface.
 
-Finally, the hygienist explores again with the tip of an instrument to verify that surfaces feel smooth and clean. Deep pockets (more than 5-7 millimeters) might need multiple appointments because you can't reach everything in one visit when the pockets are that deep and the inflammation makes access difficult. This is why patients with severe periodontal disease often require multiple visits and ongoing maintenance.
+Finally, the hygienist explores again with the tip of an instrument to verify that surfaces feel smooth and clean. Deep pockets (more than 5-7 millimeters) might need multiple appointments because you can't reach everything in one visit when the pockets are that deep and the swelling makes access difficult. This is why patients with severe periodontal disease often require multiple visits and ongoing upkeep.
 
 ## European Best Practices and Evidence
 
-Dental organizations that studied what works best recommend using both hand instruments and ultrasonic scalers together. They specifically recommend Gracey curettes for hand instrumentation when used by properly trained clinicians. The combination of hand instruments (which are gentler and provide tactile feedback) and ultrasonic scalers (which are faster and penetrate well) gives you the best of both approaches. This combined approach is endorsed by major periodontal organizations and supported by research showing superior outcomes.
+Dental organizations that studied what works best recommend using both hand instruments and ultrasonic scalers together. They specifically recommend Gracey curettes for hand instrumentation when used by properly trained clinicians. The mix of hand instruments (which are gentler and provide tactile feedback) and ultrasonic scalers (which are faster and penetrate well) gives you the best of both approaches. This combined approach is endorsed by major periodontal organizations and supported by research showing superior outcomes.
 
 ## Root Surface Texture and Clinical Outcomes
 
-The goal of scaling and root planing isn't just removing visible tartar—it's creating a biocompatible root surface that allows your gum tissue to heal and reattach. Gracey instruments, when properly used, create a smooth root surface with minimal planing removal. Some studies suggest that root surfaces cleaned with hand instruments may have superior healing characteristics compared to surfaces treated only with ultrasonic instruments, though this remains an area of research. Either way, the gentle approach preserves your tooth structure while achieving therapeutic goals.
+The goal of scaling and root planing isn't just removing visible tartar—it's creating a biocompatible root surface that allows your gum tissue to heal and reattach. Gracey instruments, when properly used, create a smooth root surface with minimal planing removal. Some studies suggest that root surfaces cleaned with hand instruments may have superior healing traits compared to surfaces treated only with ultrasonic instruments, though this remains an area of research. Either way, the gentle approach preserves your tooth structure while achieving therapeutic goals.
 
 ## Summary
 
 Gracey curettes are specialized instruments where each tool is designed for specific tooth areas, with the blade angle already built in for consistency. Only the tip of the blade cuts—about 1-2 millimeters. This design reduces technique errors and produces consistent, high-quality results across different clinicians.
 
-Combined with ultrasonic scaling and proper technique, Gracey instruments effectively remove calculus while preserving your tooth structure. Regular sharpening keeps them working well and comfortable for you. Research and professional recommendations support hand instrumentation combined with ultrasonic tools as the evidence-based approach for professional cleanings. Understanding these techniques helps you appreciate the care your hygienist provides and the science behind each step of your cleaning visit.
+Combined with ultrasonic scaling and proper technique, Gracey instruments effectively remove calculus while preserving your tooth structure. Regular sharpening keeps them working well and comfortable for you. Research and expert tips support hand instrumentation combined with ultrasonic tools as the evidence-based approach for expert cleanings. Understanding these techniques helps you appreciate the care your hygienist provides and the science behind each step of your cleaning visit.
 
 
 Related reading: [Aggressive Periodontitis: Early-Onset Gum Disease](/article/aggressive-periodontitis-early-onset-gum-disease.html) and [How Stress Weakens Your Gums](/article/stress-and-periodontitis-immunosuppression.html).

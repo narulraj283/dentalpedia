@@ -102,7 +102,6 @@ Related reading: [Why Gummy Smile Correction Matters for Your Dental](/article/w
 Smile esthetics substantially impacts psychological well-being, social success, and professional achievement—this is supported by rigorous psychological research, not mere subjective perception. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** Is improving your smile 'just vanity'? The research definitively says no.
 
 ## Related Articles

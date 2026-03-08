@@ -91,8 +91,7 @@ Related reading: [Risk and Concerns with Teeth Color Improvement](/article/risk-
 
 ## Conclusion
 
-Whether you're just learning about all-ceramic veneers: ultra-thin cosmetic shells or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Some tooth structure is permanently removed—veneers are semi-permanent. Too-white veneers look artificial—work with your dentist and lab to select natural-looking shade. Skipping the mock-up phase—seeing the design approved in your mouth before permanent placement prevents regret.
 
 > **Key Takeaway:** Veneers are thin shells of ceramic bonded to the front of your teeth to change their appearance.
 

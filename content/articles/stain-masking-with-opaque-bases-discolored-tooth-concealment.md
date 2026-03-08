@@ -97,4 +97,4 @@ If you have deep tooth discoloration that whitening can't fix, don't feel stuck 
 - [Cosmetic Bonding for Diastemas](/article/cosmetic-bonding-for-gaps-between-teeth.html)
 - [Post-Whitening Diet and Stain Prevention Strategies](/article/whitening-maintenance-diet-stain-prevention.html)
 - [Common Misconceptions About Cosmetic Tooth Repair](/article/common-misconceptions-about-cosmetic-tooth-repair.html)
-
+- [Understanding Cosmetic Smile Design Planning](/article/risk-and-concerns-with-cosmetic-smile-design.html)

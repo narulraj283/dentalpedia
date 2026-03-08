@@ -42,7 +42,7 @@ This is why tooth size should be customized to your face. The "ideal" tooth size
 
 ## Smile Line Matters
 
-Your smile line is how much of your tooth shows when you smile and how much gum shows. Some people have a high smile line (shows lots of teeth), some have a mid smile line (shows about 80% of the tooth), and some have a low smile line (shows mostly just the lower teeth).
+Your it line is how much of your tooth shows when you smile and how much gum shows. Some people have a high smile line (shows lots of teeth), some have a mid smile line (shows about 80% of the tooth), and some have a low smile line (shows mostly just the lower teeth).
 
 The ideal smile line is personal—what matters is that you like how much tooth and gum show when you smile. Some people want to show more teeth; others prefer to show less gum. Neither is wrong; it's about your preference.
 
@@ -60,7 +60,7 @@ Some people look better with whiter teeth. Learning more about [Common Misconcep
 
 ## Gum Display Affects Smile Aesthetics
 
-How much gum shows when you smile affects overall smile aesthetics. Too much gum (gummy smile) can dominate your smile. Too little gum (gum tissue far below the tooth-gum junction) can make teeth look too long. The ideal is gum that just barely shows at the gum line when you smile.
+How much gum shows when you smile affects overall this aesthetics. Too much gum (gummy it) can dominate your smile. Too little gum (gum tissue far below the tooth-gum junction) can make teeth look too long. The ideal is gum that just barely shows at the gum line when you smile.
 
 If you have a gummy smile, gum shaping can reduce gum display and make your smile look less gummy. If your gums are too far up, sometimes crowns or other restorations can extend lower to show more gum.
 

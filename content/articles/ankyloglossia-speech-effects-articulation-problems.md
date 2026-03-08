@@ -114,7 +114,6 @@ Related reading: [Eruption Timeline: When Do Baby Teeth Come In?](/article/erupt
 Many tongue-tied infants develop entirely normal feeding and speech without intervention. Others benefit significantly from early release. Talk to your dentist about how this applies to your situation.
 
 
-
 > **Key Takeaway:** Tongue-tie—called ankyloglossia by dentists—affects about 4-11 out of every 100 newborns, making it quite common.
 
 ## Related Articles

@@ -34,7 +34,7 @@ references:
 ---
 ## What Is Fluoride and Why Does It Matter for Kids?
 
-Fluoride is a mineral that strengthens your teeth and prevents cavities. If you've heard about it in the news and weren't sure what the fuss was about, you're not alone. The good news is that when used correctly, fluoride is one of the best ways to protect your child's teeth during the years they're developing. This article explains how fluoride works, how much is safe, and how to use it the right way for your child's age.
+Fluoride is a mineral that strengthens your teeth and prevents cavities. If you've heard about it in the news and weren't sure what the fuss was about, you're not alone. The good news is that when used correctly, it is one of the best ways to protect your child's teeth during the years they're developing. This article explains how fluoride works, how much is safe, and how to use it the right way for your child's age.
 
 Fluoride works in two ways: it gets built into the enamel (hard outer layer) of teeth while they're forming, making them stronger and more resistant to acid. It also helps repair tiny weak spots on teeth that have already come in. Studies show that kids who get the right amount of fluoride have about 50-60% fewer cavities than kids without it—that's a huge difference.
 
@@ -50,7 +50,7 @@ If your community doesn't add fluoride to its water, your dentist might suggest 
 
 When a child's permanent teeth are developing (roughly from birth through age 13), fluoride becomes part of the enamel as it forms. The fluoride actually changes the structure of the tooth mineral, creating something called fluorapatite that's much tougher and more resistant to the acid that causes cavities.
 
-After teeth come in, fluoride still helps by repairing tiny early-stage cavities that are too small to see. Fluoride encourages minerals to fill in these weak spots before they become real cavities. This is why brushing with fluoride toothpaste and getting fluoride treatments at the dentist continues to help even after your adult teeth are finished forming.
+After teeth come in, the treatment still helps by repairing tiny early-stage cavities that are too small to see. Fluoride encourages minerals to fill in these weak spots before they become real cavities. This is why brushing with fluoride toothpaste and getting fluoride treatments at the dentist continues to help even after your adult teeth are finished forming.
 
 The bacteria in your mouth create acid when they eat sugar. Fluoride makes your teeth harder to dissolve in that acid, which is why it's such an effective cavity-fighter.
 
@@ -80,7 +80,7 @@ These supplements usually come as drops you can add to juice or a liquid you tak
 
 Toothpaste is where most young kids get extra fluoride, so let's talk about how much to use. For babies starting to brush (around 6-12 months), you need just a grain of rice-sized smear of fluoride toothpaste on the brush. Your finger should do most of the brushing; the toothpaste is just there to deliver fluoride.
 
-By age 3 and up, use a pea-sized amount—literally about the size of a pea. That's it. The idea is that your child learns to brush while getting some fluoride, but you're controlling how much they swallow. Most young kids swallow some toothpaste when they brush, and that's normal. At these tiny amounts, it's generally well-tolerated.
+By age 3 and up, use a pea-sized amount—literally about the size of a pea. That's it. The idea is that your child learns to brush while getting some this mineral, but you're controlling how much they swallow. Most young kids swallow some toothpaste when they brush, and that's normal. At these tiny amounts, it's generally well-tolerated.
 
 Always supervise your child's brushing until they're around 6-8 years old and can reliably spit out toothpaste instead of swallowing it. You're not being overprotective; you're preventing fluorosis.
 
@@ -104,7 +104,7 @@ The dose makes the poison, as they say in medicine. Fluoride at recommended leve
 
 If you live in an area with fluoridated water, your child's plan is simple: use fluoride toothpaste with your supervision, and you're done. If you don't have fluoridated water, your dentist will likely suggest:
 
-1. A fluoride supplement at your child's age-appropriate dose
+1. A it supplement at your child's age-appropriate dose
 2. Fluoride toothpaste (pea-sized for kids over 3)
 3. Maybe professional fluoride treatments at dental visits if your child is at high risk for cavities
 

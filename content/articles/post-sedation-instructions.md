@@ -22,8 +22,7 @@ slug: post-sedation-instructions
 subcategory: Anxiety & Sedation Overview
 subcategory_slug: overview-sedation
 title: Post Sedation Instructions
----
-You just woke up from sedation feeling groggy and confused. Before you do anything, read this—sedation affects your judgment and coordination for much longer than you feel affected. The most important rule is simple but crucial: you need someone else driving you home, and you can't make important decisions for 24 hours.
+---You just woke up from sedation feeling groggy and confused. Before you do anything, read this—sedation affects your judgment and coordination for much longer than you feel affected. The most important rule is simple but crucial: you need someone else driving you home, and you can't make important decisions for 24 hours.
 
 ## Post-Sedation Instructions: Your Guide to Safe Recovery
 
@@ -144,11 +143,11 @@ Contact your dentist if:
 
 ## Protecting Your Results Long-Term
 
-Once you've addressed post-sedation instructions - complete recovery..., maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference in how long your results last.
+After you recover from sedation, take care of your teeth to maintain your results. Brush twice daily with fluoride toothpaste. Floss regularly. Keep up with professional cleanings. These habits make a big difference in how long your results last.
 
-Pay attention to any changes in your mouth and report them to your dentist early. Catching small issues before they become bigger problems saves you time, money, and discomfort. Your dentist may recommend specific products or routines based on your treatment.
+Watch for changes in your mouth and tell your dentist early. Catching small problems before they grow saves time, money, and discomfort. Your dentist may recommend special products or routines based on your specific treatment.
 
-Diet also plays a role in protecting your dental health. Limiting sugary snacks and acidic drinks helps preserve your teeth and any dental work you've had done. Drinking water throughout the day helps wash away food particles and keeps your mouth hydrated.
+Your diet also matters for dental health. Limit sugary snacks and acidic drinks to protect your teeth and dental work. Drink water throughout the day. It washes away food and keeps your mouth moist.
 
 ## Conclusion
 

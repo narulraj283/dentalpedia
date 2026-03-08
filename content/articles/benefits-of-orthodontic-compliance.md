@@ -120,8 +120,7 @@ Related reading: [How to Relieve Braces Discomfort: Proven Pain Relief](/article
 
 ## Conclusion
 
-Whether you're just learning about your guide to orthodontic compliance or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Teenagers (especially 12-15 year-olds) have the hardest time with compliance. Adults actually do better with compliance, but many still don't do as well as prescribed. Your orthodontist can only do their part.
 
 > **Key Takeaway:** Your orthodontist can give you the best braces in the world, but your treatment's success really depends on one thing: whether you follow the.
 

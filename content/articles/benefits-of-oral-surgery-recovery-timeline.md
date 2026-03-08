@@ -124,7 +124,6 @@ Related reading: [Dental Infection Prevention: Understanding](/article/how-to-in
 Jaw surgery: 6-12 months for complete recovery. Activity restrictions the first 1-2 weeks prevent rebleeding and complications. Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** Oral surgery recovery takes time, but knowing what to expect helps you plan ahead and understand what's normal versus what needs attention.
 
 ## Related Articles

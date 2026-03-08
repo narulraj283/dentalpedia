@@ -91,8 +91,7 @@ Related reading: [Dry Socket Prevention and Treatment](/article/dry-socket-preve
 
 ## Conclusion
 
-Whether you're just learning about complex extractions: what patients need to know or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Arrange transportation home (you shouldn't drive after sedation). Get prescriptions filled before surgery. Most surgical extractions go smoothly without complications.
 
 > **Key Takeaway:** Most tooth extractions are simple—your dentist just uses forceps to lift the tooth out. But some teeth need surgery.
 

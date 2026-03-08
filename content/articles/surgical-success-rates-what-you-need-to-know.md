@@ -66,7 +66,7 @@ Here's the empowering part—several factors directly affecting your success rat
 
 **Smoking Cessation**: Single most important factor. Smoking impairs blood flow to your surgical site by 30-40% and reduces oxygen availability to healing tissues. Smokers have 2-3 times higher dry socket incidence and healing takes 2-3 weeks longer.
 
-Quitting 2-4 weeks before surgery helps substantially. Even stopping 24 hours preoperatively begins reversing some negative effects. Remaining smoke-free for 7-10 days post-operatively is critical.
+Quitting 2-4 weeks before surgery helps greatly. Even stopping 24 hours preoperatively begins reversing some negative effects. Remaining smoke-free for 7-10 days post-operatively is critical.
 
 **Oral Hygiene Protocol**: Starting day 3-4 after surgery, gentle saline rinses (warm water with 1/4 teaspoon salt, 4-6 times daily) improve healing and reduce infection. By day 5-7, gentle tooth brushing adjacent to surgical sites prevents secondary infection. Poor oral hygiene increases bacterial colonization risk by 3-4 fold.
 
@@ -98,7 +98,7 @@ Establishing clear expectations requires honest conversation. Learn more about [
 
 ## Healing Milestones: What to Expect
 
-Understanding normal progression helps you recognize complications early.
+Understanding normal progression helps you recognize problems early.
 
 **Days 0-3**: Hemostasis (bleeding control) typically achieves within 30-45 minutes with pressure. Swelling peaks day 2-3, involving tissues 2-3cm beyond the surgical area. Pain peaks day 2-3, manageable with appropriate analgesia. Moderate bleeding with minor leakage is expected when rinsing begins (day 3-4).
 
@@ -122,9 +122,9 @@ Research identifies adjunctive protocols improving outcomes.
 
 ## The Partnership Model
 
-Here's the key insight: surgical success results from partnership. Your surgeon contributes technical expertise, proper technique selection, complication management, and evidence-based protocols. You contribute pre-operative optimization, post-operative compliance, symptom reporting, and realistic expectations.
+Here's the key insight: surgical success results from partnership. Your surgeon contributes technical expertise, proper technique selection, problem management, and evidence-based protocols. You contribute pre-operative optimization, post-operative compliance, symptom reporting, and realistic expectations.
 
-When both parties understand their respective roles and commit to evidence-based practices, success rates reflect predictable, reproducible outcomes rather than random chance. Your surgeon can provide the best surgical technique possible, but your adherence to postoperative instructions, smoking cessation, nutritional support, and activity modification directly influence whether you achieve optimal outcomes.
+When both parties understand their respective roles and commit to evidence-based practices, success rates reflect predictable, reproducible outcomes rather than random chance. Your surgeon can provide the best surgical technique possible, but your adherence to postoperative instructions, smoking cessation, nutritional support, and activity change directly influence whether you achieve optimal outcomes.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 

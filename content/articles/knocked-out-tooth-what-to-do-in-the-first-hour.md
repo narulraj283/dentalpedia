@@ -39,7 +39,7 @@ A tooth that's been knocked out can be successfully replanted and survive for ye
 
 This article is meant to be read *after* an injury happens, by someone who's probably stressed. So it's written in a way that works as an action checklist. Read it now while you're calm, so if this ever happens, you'll remember what to do.
 
-## THIS IS AN EMERGENCY
+## This Is An Emergency
 
 **Stop reading here if you don't have the time. This is what you do RIGHT NOW:**
 1. **Find the tooth**

@@ -24,9 +24,9 @@ When gum disease destroys the bone and attachment that support your teeth, moder
 
 ## What Is Gum Disease and Why It Matters
 
-Gum disease starts when bacteria accumulate on your teeth, causing infection in your gums. Learning more about [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. Early gum disease (gingivitis) causes gum swelling and bleeding. If untreated, it progresses to periodontitis—deeper infection that destroys the bone supporting your teeth and creates deep pockets around them. Teeth gradually become looser and eventually fall out if disease isn't stopped.
+Gum disease starts when bacteria build up on your teeth, causing infection in your gums. Learning more about [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html) can help you understand this better. Early gum disease (gingivitis) causes gum swelling and bleeding. If untreated, it progresses to periodontitis—deeper infection that destroys the bone supporting your teeth and creates deep pockets around them. Teeth gradually become looser and eventually fall out if disease isn't stopped.
 
-The goal of periodontitis treatment is stopping disease progression and hopefully regenerating some of the lost bone and attachment. Traditional treatment (scaling and root planing) cleans away bacteria and lets your body heal. Some cases benefit from more advanced treatments that actively stimulate tissue regeneration.
+The goal of periodontitis treatment is stopping disease progression and hopefully regenerating some of the lost bone and attachment. Traditional treatment (scaling and root planing) cleans away bacteria and lets your body heal. Some cases benefit from more advanced treatments that actively stimulate tissue regrowth.
 
 ## How Enamel Matrix Proteins Work
 
@@ -53,7 +53,7 @@ Your periodontist can evaluate whether EMD is appropriate for your specific situ
 
 ## Before Your EMD Treatment
 
-Preparation is crucial for success. Your dentist or periodontist will:
+Prep is crucial for success. Your dentist or periodontist will:
 
 **Scale and root plane** (deep cleaning) 4-6 weeks before EMD application. This removes bacteria, allowing your body to control infection before attempting regeneration. Studies show this pre-treatment cleaning improves results by 30-40%.
 
@@ -115,7 +115,7 @@ Your periodontist can discuss which approach is best for your specific situation
 
 ## Long-Term Maintenance
 
-Success depends on maintaining excellent conditions afterward:
+Success depends on keeping excellent conditions afterward:
 
 **Professional maintenance** every 3-6 months (more frequent than standard cleanings) keeps disease from returning.
 
@@ -127,7 +127,7 @@ Success depends on maintaining excellent conditions afterward:
 
 **Regular dental visits**: See your general dentist every 6 months for checkups and cleanings to monitor periodontal health.
 
-Patients who comply with maintenance protocols show excellent long-term results—many maintaining or continuing to improve periodontal attachment 5-10 years after treatment.
+Patients who comply with upkeep protocols show excellent long-term results—many keeping or continuing to improve periodontal attachment 5-10 years after treatment.
 
 ## Cost Considerations
 
@@ -138,7 +138,7 @@ EMD treatment typically costs $800-2000+ depending on defect size and geographic
 
 ## Conclusion
 
-Enamel matrix derivative offers a biologic approach to stimulating your body to regenerate periodontal tissues destroyed by disease. Results are encouraging—most appropriately selected patients show clinically meaningful improvement. Success depends on careful case selection, proper surgical technique, and excellent post-operative maintenance. If you have advanced gum disease with specific bony defects and are willing to maintain excellent oral hygiene, EMD might help save your teeth. Talk with your periodontist about whether EMD is right for your specific situation.
+Enamel matrix derivative offers a biologic approach to stimulating your body to regenerate periodontal tissues destroyed by disease. Results are encouraging—most appropriately selected patients show clinically meaningful improvement. Success depends on careful case selection, proper surgical technique, and excellent post-operative upkeep. If you have advanced gum disease with specific bony defects and are willing to maintain excellent oral hygiene, EMD might help save your teeth. Talk with your periodontist about whether EMD is right for your specific situation.
 
 > **Key Takeaway:** When gum disease destroys the bone and attachment that support your teeth, modern treatments can sometimes regenerate lost tissues and help save your teeth.
 

@@ -107,7 +107,6 @@ Budget for this—it's not optional. Over 10 years, you might spend $500-$1,000 
 Budget for this—it's not optional. Over 10 years, you might spend $500-$1,000 on retainer maintenance. Talk to your dentist about how this applies to your situation.** Build a realistic budget including treatment, insurance costs, potential financing charges, and lifelong retainer maintenance. Shop around with at least 2-3 orthodontists, understand what you're paying for, and remember that the cheapest option isn't always the best value.
 
 
-
 > **Key Takeaway:** Find out exactly what braces cost, how insurance helps, payment options, and smart strategies to fit orthodontics into your budget.
 
 ## Related Articles

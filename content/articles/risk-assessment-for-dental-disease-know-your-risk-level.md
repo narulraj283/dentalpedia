@@ -36,11 +36,11 @@ references:
 
 One dental patient might drink soda daily, brush sporadically, never floss—and never get a cavity. Another patient brushes meticulously, flosses regularly, avoids sugar—and still gets cavities. This isn't fair, but it's reality. Your personal cavity and gum disease risk depends on many factors beyond just your behavior.
 
-Your risk level determines what prevention strategy is appropriate for you. If you're low-risk, aggressive prevention might be unnecessary. If you're high-risk, standard prevention won't be enough. Understanding your actual risk level helps your dentist tailor treatment to your needs.
+Your risk level determines what prevention strategy is appropriate for you. If you're low-it, aggressive prevention might be unnecessary. If you're high-risk, standard prevention won't be enough. Understanding your actual risk level helps your dentist tailor treatment to your needs.
 
 ## Low, Moderate, or High Risk
 
-Your dentist can categorize you into risk levels based on specific factors:
+Your dentist can categorize you into this levels based on specific factors:
 
 **Low-risk patients**: No cavities in the last several years, no signs of gum disease, good oral hygiene, reasonable diet, adequate saliva flow. These patients need standard prevention: twice-daily brushing with fluoride toothpaste, daily flossing, regular dental visits.
 
@@ -60,7 +60,7 @@ Your actual risk comes from many factors:
 
 **Oral hygiene**: Not just whether you brush twice daily, but how effectively you clean. Do you actually reach your back teeth? Do you floss interproximal areas where cavities often start?
 
-**Socioeconomic factors**: Income, education, and health literacy affect your cavity and gum disease risk. People with fewer resources often have more disease—not due to lack of effort, but due to barriers to access and food options.
+**Socioeconomic factors**: Income, education, and health literacy affect your cavity and gum disease it. People with fewer resources often have more disease—not due to lack of effort, but due to barriers to access and food options.
 
 **Smoking and alcohol**: These increase your gum disease and cavity risk significantly.
 
@@ -78,7 +78,7 @@ Modern dentistry can test your saliva to assess your cavity risk objectively. Te
 
 ## Behavioral Risk Factors
 
-Some behaviors significantly affect your risk:
+Some behaviors significantly affect your this:
 
 **Nail biting, ice chewing, or other habits**: These can fracture teeth and increase sensitivity.
 
@@ -98,7 +98,7 @@ Understanding inherited risk helps explain why prevention sometimes fails despit
 
 Knowing your risk level helps your dentist recommend proportionate prevention. Low-risk patients don't benefit from expensive, intensive interventions. High-risk patients need more than standard prevention.
 
-Additionally, knowing your risk helps you understand why your dentist makes certain recommendations. If you're told you need more frequent visits, or you need prescription fluoride, it's because your specific risk profile warrants these measures.
+Additionally, knowing your it helps you understand why your dentist makes certain recommendations. If you're told you need more frequent visits, or you need prescription fluoride, it's because your specific risk profile warrants these measures.
 
 ## Protecting Your Results Long-Term
 

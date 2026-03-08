@@ -101,7 +101,6 @@ Newer technology like ultrasound guidance or computer-assisted navigation might 
 Local anesthesia failure in dentistry results from multiple mechanisms including anatomical variation, inflammation, technical factors, and accessory innervation. If you have questions, your dentist can help you understand your options. If you feel pain during a procedure, tell your dentist immediately—they have effective backup techniques like intraosseous or periodontal ligament injections that work in over 90 percent of cases. Planning ahead and communicating with your dentist helps prevent anesthesia problems.
 
 
-
 > **Key Takeaway:** If you've felt pain despite anesthesia during dental work, you're not alone. Learn why numbness sometimes fails and what your dentist can do about it.
 
 ## Related Articles

@@ -80,8 +80,7 @@ If you wear dentures, they require their own care routine. Clean your dentures d
 
 ## Conclusion
 
-Whether you're just learning about geriatric oral hygiene adaptation or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. If you wear dentures, they require their own care routine. Clean your dentures daily with a denture brush and cleanser (not regular toothpaste, which is too abrasive). Soak them overnight in denture solution.
 
 > **Key Takeaway:** Keeping your teeth and mouth healthy becomes increasingly important as you age.
 

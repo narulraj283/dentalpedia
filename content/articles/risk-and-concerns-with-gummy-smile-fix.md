@@ -8,19 +8,19 @@ title: Risk and Concerns with Gummy Smile Fix
 ---
 ## Introduction
 
-A "gummy smile"—showing excessive gum when you smile—bothers many people. Dentists, who see thousands of smiles, notice gum display that most people would consider completely normal. This creates pressure to "fix" something that isn't actually broken. Multiple treatment options exist, each with specific risks and limitations. Understanding what constitutes actual pathology versus cosmetic preference, and knowing the realistic complications of each approach, helps you make informed decisions about whether treatment is right for you.
+A "gummy smile"—showing excessive gum when you smile—bothers many people. Dentists, who see thousands of smiles, notice gum display that most people would consider completely normal. This creates pressure to "fix" something that isn't actually broken. Multiple treatment options exist, each with specific risks and limitations. Understanding what constitutes actual pathology versus cosmetic preference, and knowing the realistic problems of each approach, helps you make informed decisions about whether treatment is right for you.
 
 ## First: Is Your Smile Actually "Too Gummy"?
 
 Here's an important fact: dentists perceive excessive gingival display at lower thresholds than patients do. Dentists think 3-4mm of gum showing is excessive and worth treating, while many people find 4-6mm of gum perfectly acceptable and attractive. What your dentist sees as a cosmetic problem, you and most people might find completely normal.
 
-Excessive gingival display exists on a spectrum, not as a distinct abnormality. About 10-30% of people show significant gum when smiling, depending on age and genetics. The prevalence in younger people is particularly high—it's actually a normal variant for many people.
+Excessive gingival display exists on a spectrum, not as a distinct abnormality. About 10-30% of people show significant gum when smiling, depending on age and genetics. The prevalence in younger people is especially high—it's actually a normal variant for many people.
 
 Before pursuing treatment, honestly ask whether this is something you want changed for yourself, or whether you're responding to someone else's perception that your smile is somehow wrong.
 
 ## Crown Lengthening: The Most Common Approach With Real Downsides
 
-Crown lengthening surgically removes gum and bone to make teeth appear longer and reduce gum display. It's the most commonly used approach, but it has legitimate complications: For more on this topic, see our guide on [Anterior Guidance: How Incisor Position Controls Bite](/article/anterior-guidance-incisor-controlling-bite.html).
+Crown lengthening surgically removes gum and bone to make teeth appear longer and reduce gum display. It's the most commonly used approach, but it has legitimate problems: For more on this topic, see our guide on [Anterior Guidance: How Incisor Position Controls Bite](/article/anterior-guidance-incisor-controlling-bite.html).
 
 **Gums grow back.** About 20-40% of patients experience gradual gingival regrowth within 12-24 months after surgery, requiring revision procedures to achieve lasting results.
 
@@ -32,7 +32,7 @@ Crown lengthening surgically removes gum and bone to make teeth appear longer an
 
 ## Lip Repositioning: Alters Your Smile in Unexpected Ways
 
-Surgical lip repositioning removes a strip of tissue from your mouth vestibule and resutures to reposition the lip higher, limiting how much gum shows when you smile. This sounds logical, but patients frequently experience unexpected complications:
+Surgical lip repositioning removes a strip of tissue from your mouth vestibule and resutures to reposition the lip higher, limiting how much gum shows when you smile. This sounds logical, but patients frequently experience unexpected problems:
 
 You lose natural lip mobility and your smile looks different—less natural and more artificial. The surgical scarring restricts lip movement in ways patients didn't anticipate. Some patients develop progressive scar contracture over years, worsening the problem.
 

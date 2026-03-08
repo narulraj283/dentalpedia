@@ -92,9 +92,7 @@ Your dentist will likely recommend conservative treatment initially—anti-infla
 
 ## Conclusion
 
-The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. Your dentist will likely recommend conservative treatment initially—anti-inflammatories and time. Most cases resolve with this approach. If numbness persists beyond expected timeframes, your dentist can coordinate with specialists if needed.
 
 > **Key Takeaway:** Prolonged numbness after a dental injection, while uncomfortable and worrying, usually resolves completely without lasting effects. Early communication with your dentist about symptoms enables appropriate treatment that speeds recovery.
 

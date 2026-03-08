@@ -114,7 +114,6 @@ Oral Surg Oral Med Oral Pathol Oral Radiol Endod. 2007;103(3):e16-e20.
 6. American Society of Anesthesiologists. Talk to your dentist about how this applies to your situation.
 
 
-
 > **Key Takeaway:** If you're having a tooth extraction or oral surgery, you probably worry about bleeding.
 
 ## Related Articles

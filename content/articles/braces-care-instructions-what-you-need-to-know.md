@@ -109,7 +109,6 @@ Learn more about [Managing Discomfort After Adjustments](/article/braces-discomf
 Comprehensive braces care through modified oral hygiene, dietary discipline, fluoride supplementation, and professional monitoring prevents most bracket-associated complications. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** Taking care of braces requires different techniques than normal tooth cleaning.
 
 ## Related Articles

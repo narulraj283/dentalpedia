@@ -92,8 +92,7 @@ The psychological impact of early, high-quality repair cannot be overstated: chi
 
 ## Conclusion
 
-Whether you're just learning about cleft lip repair: surgery and recovery expectations or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. The psychological impact of early, high-quality repair cannot be overstated: children treated by experienced cleft teams show better self-esteem and fewer appearance-related concerns compared to those with delayed or inadequate treatment.
 
 > **Key Takeaway:** When a baby has a cleft lip, it creates a gap in the lip that disrupts the facial muscle responsible for smiling and facial expression.
 

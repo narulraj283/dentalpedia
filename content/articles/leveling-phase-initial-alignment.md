@@ -64,7 +64,7 @@ Your orthodontist aims for light but relentless force. Each tooth needs a differ
 
 Several problems can pop up during the leveling phase. Learning more about [Best Practices for Braces Food Restrictions](/article/best-practices-for-braces-food-restrictions.html) can help you understand this better. If your teeth are severely crowded, there might not be enough space to straighten them without extracting one or more teeth. Your orthodontist may recommend removing one or two teeth to create space, or they might use other methods like widening your arch.
 
-Some patients develop an open bite during the leveling phase—their front teeth stop touching. This happens because back teeth move down (extrude) as they straighten. Your orthodontist watches for this and can use special mechanics to prevent it.
+Some patients develop an open bite during the leveling phase—their front them stop touching. This happens because back teeth move down (extrude) as they straighten. Your orthodontist watches for this and can use special mechanics to prevent it.
 
 Root resorption is a rare but serious complication where tooth roots actually shorten due to force. This happens in less than 5% of cases, usually only when too much force is used. Your orthodontist takes regular X-rays to watch for early signs and adjusts your treatment if needed.
 

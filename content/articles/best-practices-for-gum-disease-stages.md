@@ -122,8 +122,7 @@ Related reading: [Cost of Cavity Diagnosis Process](/article/cost-of-cavity-diag
 
 ## Conclusion
 
-Whether you're just learning about clinical staging of periodontitis and progressive or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Regardless of what stage you're at, consistent home care, not smoking, managing other health conditions, and regular professional monitoring are your best tools for preserving your teeth long-term.
 
 > **Key Takeaway:** If your dentist has mentioned that you have gum disease, you might be wondering what that really means and whether it's serious.
 

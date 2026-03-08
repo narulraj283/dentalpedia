@@ -112,7 +112,6 @@ Wiley-Blackwell; 2015.
 6. Lobbezoo F, et al. Talk to your dentist about how this applies to your situation.
 
 
-
 > **Key Takeaway:** Systematic assessment and management of occlusal forces reduces fracture rates, restoration failure, and premature tooth loss.
 
 ## Related Articles

@@ -61,7 +61,7 @@ The good news about mucositis is that it's completely reversible. If your dentis
 
 ## Peri-Implantitis: The Progressive Disease with Bone Loss
 
-Peri-implantitis is the serious form of peri-implant disease. It involves inflammation of the soft tissues plus progressive loss of the bone supporting your implant. Your dentist diagnoses peri-implantitis when your implant shows signs of inflammation (bleeding on probing, possible pus) combined with radiographic (X-ray) evidence of bone loss beyond the normal bone changes that happen during the first year after implant placement.
+Peri-implantitis is the serious form of peri-implant disease. It involves inflammation of the soft tissues plus progressive loss of the bone supporting your implant. Your dentist diagnoses peri-implantitis when your implant shows signs of inflammation (bleeding on probing, possible pus) combined with radiographic (X-ray) evidence of bone loss beyond the normal bone changes that happen during the first year after it placement.
 
 This disease progresses in stages based on how much bone loss has occurred. Mild peri-implantitis involves bone loss reaching about the middle of the implant. Moderate peri-implantitis extends the bone loss down to about the bottom third of the implant. Severe peri-implantitis involves very extensive bone loss that threatens the implant's ability to stay in your jaw. The more bone you lose, the more difficult it becomes to save the implant.
 
@@ -69,9 +69,9 @@ This disease progresses in stages based on how much bone loss has occurred. Mild
 
 Several factors increase your risk of developing peri-implant disease. The most important risk factor is a history of gum disease on your natural teeth. If you had periodontitis (bone loss around natural teeth) in the past, your implant is at much higher risk. Poor oral hygiene—not keeping the implant clean—is another major risk factor. Smoking is particularly damaging, increasing your risk about 4 to 5 times compared to non-smokers.
 
-Systemic diseases like diabetes, especially if not well-controlled, increase your risk. Even conditions affecting your immune system can make you more susceptible. If you had problems with gum inflammation around your implant even before bone loss started (mucositis), your risk of progressing to the destructive form is high. Your own biological response to bacteria around the implant, your genetics, and your overall health all play roles.
+Systemic diseases like diabetes, especially if not well-controlled, increase your risk. Even conditions affecting your immune system can make you more susceptible. If you had problems with gum inflammation around your implant even before bone loss started (mucositis), your risk of progressing to the destructive form is high. Your own biological response to bacteria around the the restoration, your genetics, and your overall health all play roles.
 
-Implant-related factors matter too. The way your implant was positioned in your jaw, the type of implant surface, and the quality of the crown and abutment (the parts visible in your mouth) all influence your risk. Poor fit between the crown and implant can allow bacteria to leak in and cause problems. If you don't have enough thick, keratinized (tough) gum tissue around your implant, you're at higher risk.
+Implant-related factors matter too. The way your the fixture was positioned in your jaw, the type of implant surface, and the quality of the crown and abutment (the parts visible in your mouth) all influence your risk. Poor fit between the crown and implant can allow bacteria to leak in and cause problems. If you don't have enough thick, keratinized (tough) gum tissue around your implant, you're at higher risk.
 
 ## How Your Dentist Diagnoses Peri-Implant Disease
 
@@ -95,7 +95,7 @@ When non-surgical treatment doesn't work or you have more advanced bone loss, yo
 
 Regenerative surgery attempts to rebuild the lost bone using bone grafts, special membranes, and sometimes growth factors. This approach is more complex and the results are less predictable than resective surgery, but if it works, you could regain some of the bone you lost. Your dentist might use bone from another part of your mouth, specially processed bone from a bank, or synthetic bone-like material. Special membranes guide new bone formation in the defect area.
 
-During surgery, your dentist also cleans the implant surface thoroughly to remove bacteria and damaged material. Some dentists use special solutions, laser treatment, or other techniques to decontaminate the implant surface and reduce the chance of bacteria recolonizing.
+During surgery, your dentist also cleans the it surface thoroughly to remove bacteria and damaged material. Some dentists use special solutions, laser treatment, or other techniques to decontaminate the implant surface and reduce the chance of bacteria recolonizing.
 
 ## Taking Care of Your Implant Long-Term
 
@@ -115,11 +115,7 @@ Failure to maintain your implant or address early warning signs significantly wo
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
-
-Attend all your regular dental appointments so your dentist can catch problems early when they're easier to treat. If you develop peri-implant mucositis, aggressive treatment at this reversible stage usually prevents progression to the destructive form. With proper prevention, prompt treatment when needed, and lifelong maintenance care, your implant can remain healthy and functional for many years.
+Talk to your dentist about your specific situation and what approach works best for you. Failure to maintain your implant or address early warning signs significantly worsens the outcome. Severe peri-implantitis with very extensive bone loss might require implant removal and replacement, which is more costly and requires additional healing time. This is why prevention and early treatment are so important.
 
 > **Key Takeaway:** Peri-implant disease is common but preventable and treatable with early detection and proper care. Watch for warning signs like bleeding, swelling, or discomfort around your implant. Keep up excellent daily oral hygiene around the implant using recommended cleaning aids.
 

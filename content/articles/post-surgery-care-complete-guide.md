@@ -136,9 +136,7 @@ Your surgeon's skill matters, but your post-operative care determines ultimate s
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. Your surgeon's skill matters, but your post-operative care determines ultimate success. Following activity restrictions, taking medications properly, protecting surgical sites, and managing swelling and pain appropriately ensures optimal healing. Patients who understand their critical role in recovery—and who follow these guidelines carefully—heal faster, with fewer complications and greater satisfaction with their surgical experience.
 
 > **Key Takeaway:** Post-operative success depends on your commitment to proper self-care. Stop bleeding first with gentle gauze pressure, control swelling through ice initially then heat, protect blood clots by avoiding aggressive mouth rinsing, manage pain proactively with medication, and restrict strenuous activity. Most patients feel dramatically better by day 4 and essentially normal by day 14, though complete healing continues for weeks beneath the surface. Call your surgeon if any warning signs develop. Recovery is temporary, but good healing practices provide lasting benefits.
 

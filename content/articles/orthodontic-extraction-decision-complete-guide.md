@@ -141,8 +141,7 @@ Feel free to ask questions. If you're uncomfortable with the recommendation, you
 
 ## Conclusion
 
-Whether you're just learning about orthodontic extraction decision complete guide or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Feel free to ask questions. If you're uncomfortable with the recommendation, you can get a second opinion from another orthodontist. Most treatment plans are appropriate, but it's reasonable to understand the reasoning fully.
 
 > **Key Takeaway:** Evidence-based framework for extraction versus non-extraction treatment decisions, including Bolton analysis, arch-length discrepancy, and anchoring.
 

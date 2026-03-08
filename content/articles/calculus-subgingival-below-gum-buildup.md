@@ -24,7 +24,7 @@ references:
 
 Subgingival calculus forms below your gum line—in the pockets between teeth and gums. Unlike visible tartar above the gums, this hidden buildup can't be removed with home brushing or flossing. It forms from minerals in gum fluid and creates a hard, cement-like substance that houses harmful bacteria. This subgingival tartar directly causes gum disease and tooth loss if left untreated.
 
-While tartar itself is mineral, the bacteria living on its rough surface create the real problem. These bacteria produce toxins triggering gum inflammation, bleeding, bone loss, and eventual tooth mobility.
+While tartar itself is mineral, the bacteria living on its rough surface create the real problem. These bacteria produce toxins triggering gum swelling, bleeding, bone loss, and eventual tooth mobility.
 
 ## Why Subgingival Calculus Forms
 
@@ -34,7 +34,7 @@ Unlike supragingival tartar (above gums) that forms from salivary minerals, subg
 
 ## How It Damages Your Gums and Bone
 
-Subgingival calculus accelerates gum disease in several ways. Its rough surface harbors millions of bacteria protected from your immune system. These bacteria produce acids and toxins triggering chronic inflammation. Additionally, bacterial toxins directly damage the fibers attaching your gum to your tooth, deepening pockets and allowing more calculus accumulation.
+Subgingival calculus accelerates gum disease in several ways. Its rough surface harbors millions of bacteria protected from your immune system. These bacteria produce acids and toxins triggering chronic swelling. Also, bacterial toxins directly damage the fibers attaching your gum to your tooth, deepening pockets and allowing more calculus buildup.
 
 Untreated subgingival calculus causes bone loss of 2-3mm yearly in many patients. Progressive bone loss eventually leads to tooth mobility, and ultimately tooth loss if not arrested.
 
@@ -46,7 +46,7 @@ You might not notice subgingival calculus directly, but signs include increasing
 
 ## Professional Removal: Scaling and Root Planing
 
-Removing subgingival calculus requires professional treatment called scaling and root planing (SRP). Your dentist applies local anesthetic to ensure comfort, then systematically removes calculus from below your gum line. This procedure takes 60-90 minutes typically, sometimes divided into multiple appointments for comfort.
+Removing subgingival calculus requires expert treatment called scaling and root planing (SRP). Your dentist applies local anesthetic to ensure comfort, then systematically removes calculus from below your gum line. This procedure takes 60-90 minutes typically, sometimes divided into multiple appointments for comfort.
 
 Treatment uses two approaches: ultrasonic instruments vibrate at 25-40,000 cycles per second, fracturing calculus from tooth roots, and hand instruments provide final polishing and fine-tuning. Ultrasonic treatment is faster and less tiring for your dentist, while hand instruments provide precise control in sensitive areas.
 
@@ -54,29 +54,29 @@ Treatment uses two approaches: ultrasonic instruments vibrate at 25-40,000 cycle
 
 Successful scaling and root planing removes bacterial biofilm and calculus, allowing gums to heal. Learning more about [Timeline for Gum Disease Stages](/article/timeline-for-gum-disease-stages.html) can help you understand this better. About 60-75% of patients show significant clinical attachment gain (gum reattachment) following treatment. Deeper pockets show more improvement than shallow ones. Bleeding usually stops within 2-4 weeks of treatment.
 
-However, pockets over 4-5mm sometimes remain even after successful treatment. These residual pockets require either continued professional monitoring or occasionally surgical treatment depending on individual circumstances.
+However, pockets over 4-5mm sometimes remain even after successful treatment. These residual pockets require either continued expert monitoring or occasionally surgical treatment depending on individual circumstances.
 
 ## Postoperative Sensitivity and Care
 
-After scaling and root planing, your teeth might feel sensitive to temperature for 2-4 weeks as exposed root surfaces heal. Using desensitizing toothpaste during this period helps. Avoid very cold foods and beverages initially. Sensitivity typically resolves as secondary healing layers form.
+After scaling and root planing, your teeth might feel sensitive to heat level for 2-4 weeks as exposed root surfaces heal. Using desensitizing toothpaste during this period helps. Avoid very cold foods and beverages initially. Soreness typically resolves as secondary healing layers form.
 
-Take all prescribed antibiotics as directed if given. Maintain gentle oral hygiene—brush carefully but thoroughly. You can resume normal function within a few days as sensitivity permits.
+Take all prescribed antibiotics as directed if given. Maintain gentle oral hygiene—brush carefully but thoroughly. You can resume normal function within a few days as soreness permits.
 
 ## Calculus Regrowth and Prevention
 
-After successful scaling and root planing, calculus regrows in approximately 3-4 months if left untreated. Patients with aggressive calculus formation show 50% calculus regrowth within 4 months. This rapid reformation explains why frequent professional maintenance remains essential.
+After successful scaling and root planing, calculus regrows in about 3-4 months if left untreated. Patients with aggressive calculus formation show 50% calculus regrowth within 4 months. This rapid reformation explains why frequent expert upkeep remains essential.
 
 Home care helps slow regrowth but cannot prevent it entirely. Brushing and flossing remove bacterial biofilm, reducing calculus formation rate by 40-50%, but mineral-containing gum fluid continues promoting calculus formation regardless of excellent oral hygiene.
 
 ## Maintenance Intervals and Long-Term Management
 
-Most patients require professional cleaning intervals of 3-4 months following scaling and root planing, at least for 12-24 months. Some may eventually progress to standard 6-month recall intervals if disease stabilizes. High-risk patients or those with aggressive calculus formation might need 3-4 month intervals indefinitely.
+Most patients require expert cleaning intervals of 3-4 months following scaling and root planing, at least for 12-24 months. Some may eventually progress to standard 6-month recall intervals if disease stabilizes. High-risk patients or those with aggressive calculus formation might need 3-4 month intervals indefinitely.
 
-Research clearly shows that longer intervals between professional cleanings increase reinfection risk and disease progression likelihood. Consistent maintenance proves critical for long-term success.
+Research clearly shows that longer intervals between expert cleanings increase reinfection risk and disease progression likelihood. Consistent upkeep proves critical for long-term success.
 
 ## Additional Treatments When Needed
 
-Some patients with residual pockets exceeding 5-6mm following scaling and root planing benefit from adjunctive treatments. Locally-delivered antimicrobial medications placed directly in pockets reduce bacterial counts, enhancing healing. These require no oral antibiotics, reducing systemic medication exposure.
+Some patients with residual pockets exceeding 5-6mm following scaling and root planing benefit from adjunctive treatments. Locally-delivered antimicrobial medicines placed directly in pockets reduce bacterial counts, enhancing healing. These require no oral antibiotics, reducing systemic medicine exposure.
 
 Surgical methods are occasionally recommended for extensive disease but represent second-line therapy after confirming that mechanical treatment and improved home care haven't achieved adequate results.
 
@@ -86,12 +86,11 @@ Treating gum disease early through scaling and root planing costs $300-600 per q
 
 Conclusion
 
-Subgingival calculus accelerates gum disease and bone loss when left untreated. Professional scaling and root planing removes this hidden buildup, allowing 60-75% of patients to achieve significant gum healing. Subsequent maintenance cleanings at 3-4 month intervals prevent rapid calculus regrowth. With consistent professional care and excellent home hygiene, treated gum disease can stabilize and prevent tooth loss.
+Subgingival calculus accelerates gum disease and bone loss when left untreated. Expert scaling and root planing removes this hidden buildup, allowing 60-75% of patients to achieve significant gum healing. Subsequent upkeep cleanings at 3-4 month intervals prevent rapid calculus regrowth. With consistent expert care and excellent home hygiene, treated gum disease can stabilize and prevent tooth loss.
 
 ## Conclusion
 
-Whether you're just learning about calculus subgingival: below-gum buildup and periodontal or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Subgingival calculus accelerates gum disease and bone loss when left untreated. Expert scaling and root planing removes this hidden buildup, allowing 60-75% of patients to achieve significant gum healing. Subsequent upkeep cleanings at 3-4 month intervals prevent rapid calculus regrowth.
 
 > **Key Takeaway:** Tartar buildup below the gum line causes gum disease and requires professional removal.
 

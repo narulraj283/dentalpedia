@@ -117,7 +117,7 @@ You can also check at home by looking at the chewing surface of sealed teeth. Th
 
 Dental sealants are one of the most effective cavity prevention tools available. They're painless, inexpensive compared to fillings, and prevent 80-90% of cavities on sealed surfaces. If your dentist recommends sealants for your child, it's evidence-based, smart preventive care.
 
-> **Key Takeaway:** Learning more about [Fluoride Varnish Pediatric High Strength](/article/fluoride-varnish-pediatric-high-strength.html) can help you understand this better. They seal out food and bacteria that hide in the tiny grooves on top of molars.
+> **Key Takeaway:** Learning more about Fluoride Varnish Pediatric High Strength can help you understand this better. They seal out food and bacteria that hide in the tiny grooves on top of molars.
 
 ## Related Articles
 

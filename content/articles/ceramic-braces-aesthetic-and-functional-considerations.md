@@ -40,7 +40,7 @@ Studies show that about 85-90% improvement in how braces look. If appearance dur
 
 The big question people ask is: do ceramic braces work as well as metal? The answer is mostly yes. Ceramic braces move your teeth nearly as fast as metal braces. Treatment takes about 5-10% longer on average, which usually means a few extra weeks over a 2-3 year treatment.
 
-The slight delay happens because ceramic brackets create slightly more friction (resistance) against the wire than metal brackets do. This friction slows tooth movement just slightly. But your orthodontist can manage this with smart choices about wires and how brackets are tied, so the difference becomes minimal.
+The slight delay happens because this brackets create slightly more friction (resistance) against the wire than metal brackets do. This friction slows tooth movement just slightly. But your orthodontist can manage this with smart choices about wires and how brackets are tied, so the difference becomes minimal.
 
 ## Managing Friction for Speed
 
@@ -88,7 +88,7 @@ You should avoid very hard foods (popcorn kernels, hard candies, ice) and very s
 
 Ceramic braces are ideal if you're an adult who cares about appearance during treatment, you have a good oral hygiene routine, and you're willing to pay extra for nearly invisible braces. They work great for people in professional jobs, public-facing roles, or anyone who simply wants cosmetic braces.
 
-Ceramic might not be the best choice if you have severe crowding that requires the fastest possible tooth movement, if you can't maintain excellent oral hygiene, or if you're on a tight budget. Metal braces are highly effective and cost less.
+It might not be the best choice if you have severe crowding that requires the fastest possible tooth movement, if you can't maintain excellent oral hygiene, or if you're on a tight budget. Metal braces are highly effective and cost less.
 
 ## The Bottom Line on Effectiveness
 

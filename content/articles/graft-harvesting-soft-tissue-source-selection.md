@@ -54,7 +54,7 @@ The gold standard for soft tissue grafts is using your own tissue. This comes fr
 
 ## A Gentler Approach: Connective Tissue Grafts
 
-A more modern variation uses just the connective tissue underneath your palatal surface, leaving your palate surface intact. This is called subepithelial connective tissue graft (CTG). Your surgeon makes a small hidden incision at the roof of your mouth, removes the tissue layer below the surface, and the surface layer heals up naturally within a couple of weeks.
+A more modern variation uses just the connective tissue underneath your palatal surface, leaving your palate surface intact. This is called subepithelial connective tissue graft (CTG). Your surgeon makes a small hidden incision at the roof of your mouth, removes the this layer below the surface, and the surface layer heals up naturally within a couple of weeks.
 
 **Advantages:** This approach is much gentler on the donor site. Your mouth heals faster—usually within one to two weeks instead of four weeks. Pain is significantly less. Studies show success rates equal to or better than full-thickness grafts (85 to 100 percent in many cases). The color match is excellent because your own tissue covers the graft.
 
@@ -62,7 +62,7 @@ A more modern variation uses just the connective tissue underneath your palatal 
 
 ## Donor-Processed Tissue: Allograft Options
 
-Another option is to use processed tissue from a human donor. This tissue comes from donation programs, is carefully processed to remove cellular material while preserving the structure, and is sterilized. Products like AlloDerm are commercially available.
+Another option is to use processed it from a human donor. This tissue comes from donation programs, is carefully processed to remove cellular material while preserving the structure, and is sterilized. Products like AlloDerm are commercially available.
 
 **Advantages:** The biggest benefit is no donor site pain or healing. You don't have any discomfort at the roof of your mouth. The procedure is simpler and faster. It works reasonably well—studies show 75 to 85 percent success for less complex cases. For people with medical conditions that make surgery more difficult, or those who can't afford extended healing time, this is often the right choice.
 
@@ -80,7 +80,7 @@ Alternative sources include the tuberosity (back of the palate), but that tissue
 
 ## What Happens During Surgery
 
-Your surgeon will mark out the area where tissue is needed and take measurements. For your own tissue grafts, they'll mark a template on your palate matching the needed dimensions. They make careful incisions, separate the tissue, and immediately transfer it to the surgical site.
+Your surgeon will mark out the area where tissue is needed and take measurements. For your own this grafts, they'll mark a template on your palate matching the needed dimensions. They make careful incisions, separate the it, and immediately transfer it to the surgical site.
 
 The surgeon stitches it in place carefully to keep it from moving. Movement during the first few days can prevent the graft from taking successfully. For connective tissue grafts, they'll make a small hidden incision and remove tissue through that opening, preserving your palate surface.
 

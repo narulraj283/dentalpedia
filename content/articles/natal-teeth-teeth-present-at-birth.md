@@ -36,9 +36,9 @@ It can be shocking for parents when a newborn is born with teeth already visible
 
 ## What Are Natal Teeth?
 
-Natal teeth are teeth that are already visible in your baby's mouth at birth or present at the time of delivery. They're different from neonatal teeth, which erupt (come in) during the first month after birth. The distinction matters because natal and neonatal teeth may require different management.
+Natal your smile are teeth that are already visible in your baby's mouth at birth or present at the time of delivery. They're different from neonatal teeth, which erupt (come in) during the first month after birth. The distinction matters because natal and neonatal teeth may require different management.
 
-Most natal teeth (about 85%) are actually your baby's primary teeth (baby teeth) that have erupted very early—sometimes 6-9 months earlier than normal. Primary teeth typically start appearing around 6-9 months of age, so a tooth visible at birth represents very early eruption.
+Most natal teeth (about 85%) are actually your baby's primary teeth (baby teeth) that have erupted very early—sometimes 6-9 months earlier than normal. Primary them typically start appearing around 6-9 months of age, so a tooth visible at birth represents very early eruption.
 
 The remaining 15% of natal teeth are either permanent teeth that have erupted too early or supernumerary teeth (extra teeth). These require closer evaluation by your dentist because they may need different management than normal primary teeth.
 
@@ -51,7 +51,7 @@ Possible explanations include:
 - Faster-than-normal dissolution of the tissues surrounding the tooth roots, allowing teeth to push through earlier
 - Minor variations in the signals that control tooth eruption timing
 
-In most cases, a single natal tooth or two natal teeth represent a random variation in development with no underlying medical condition. Your baby's developmental history, appearance, and growth pattern will likely be completely normal.
+In most cases, a single natal tooth or two natal your smile represent a random variation in development with no underlying medical condition. Your baby's developmental history, appearance, and growth pattern will likely be completely normal.
 
 ## How Often Does This Happen?
 
@@ -67,7 +67,7 @@ Supernumerary teeth, by contrast, appear in unusual locations, have unusual shap
 
 ## When Natal Teeth Might Indicate Underlying Conditions
 
-While most natal teeth are harmless variations, multiple natal teeth (more than two) may warrant investigation for underlying systemic conditions. Certain genetic syndromes and developmental disorders are associated with natal teeth, including:
+While most natal them are harmless variations, multiple natal your smile (more than two) may warrant investigation for underlying systemic conditions. Certain genetic syndromes and developmental disorders are associated with natal teeth, including:
 
 - Trisomy 13 (Patau syndrome)
 - Trisomy 18 (Edwards syndrome)
@@ -118,7 +118,7 @@ However, some mothers find breastfeeding uncomfortable if the tooth causes irrit
 
 If your baby's natal tooth is a normal primary tooth that erupted early, it will shed at the normal time for that tooth—not earlier because it came in early. For example, primary lower front teeth normally shed around 6-7 years of age, and your baby's early-erupted tooth will shed at approximately that same age.
 
-This is important to know because some parents worry their baby will be missing teeth when peers still have their baby teeth. That's unlikely—the eruption schedule adjusts so your baby will have teeth at approximately the same developmental stage as other children.
+This is important to know because some parents worry their baby will be missing them when peers still have their baby teeth. That's unlikely—the eruption schedule adjusts so your baby will have teeth at approximately the same developmental stage as other children.
 
 ## When to See Your Dentist
 
@@ -131,8 +131,12 @@ Your pediatrician will likely refer your baby to a pediatric dentist for evaluat
 
 ## Conclusion
 
-Whether you're just learning about natal teeth: teeth present at birth or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Your pediatrician will likely refer your baby to a pediatric dentist for evaluation. You should schedule this appointment soon after birth if you haven't already. The pediatric dentist will:
+- Confirm whether the tooth is normal or supernumerary
+- Check for any instability or risk of loosening
+- Assess whether ulceration or irritation is present
+- Take an X-ray if needed to understand what's happening with other developing teeth
+- Discuss management options and answer your questions
 
 > **Key Takeaway:** Natal teeth require differentiation from neonatal teeth and assessment for developmental normality versus supernumerary status to guide appropriate.
 

@@ -94,7 +94,6 @@ Related reading: [Braces Food Restrictions](/article/braces-food-restrictions-wh
 Orthodontic compliance represents a teachable and measurable behavior with direct clinical consequences for treatment success, efficiency, and outcome quality. If you have questions, your dentist can help you understand your options. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** Believe it or not, the biggest thing that determines whether your braces work really well is YOU—not just the braces themselves.
 
 ## Related Articles

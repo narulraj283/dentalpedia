@@ -91,8 +91,7 @@ Related reading: [Common Misconceptions About Gum Health Maintenance](/article/c
 
 ## Conclusion
 
-Whether you're just learning about evidence for interdental cleaning and interproximal biofilm or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Your dentist can help you understand the best approach for your specific needs. Your dentist isn't nagging you about flossing to be annoying—they're telling you about something that actually works.
 
 > **Key Takeaway:** Your dentist keeps nagging you about flossing, and you're wondering if it really matters.
 

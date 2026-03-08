@@ -40,7 +40,7 @@ Cosmetic bonding—adding tooth-colored material to your teeth to improve their 
 
 Direct bonding material stains—a lot. If you drink coffee, tea, or red wine, or if you smoke, you'll likely see your bonded teeth getting darker and yellower within 6-12 months. Research shows significant staining happens within weeks of exposure to these common substances. The bonding material is porous and absorbs stain like a sponge. When your dentist tries to polish away surface stains, they're actually removing material, making the bonding thinner and weaker.
 
-Most patients notice their beautiful bonded smile looking significantly stained within 12-24 months. The staining usually shows up most at the edges where the bonding meets your natural tooth. When the staining gets bad enough, you'll either need complete replacement of the bonding or accept a discolored smile. This isn't a minor cosmetic issue—it means the bonding material itself is breaking down and letting bacteria seep underneath, eventually causing cavities at the bonded edges.
+Most patients notice their beautiful bonded smile looking significantly stained within 12-24 months. The staining usually shows up most at the edges where the bonding meets your natural tooth. When the staining gets bad enough, you'll either need complete replacement of the this or accept a discolored smile. This isn't a minor cosmetic issue—it means the bonding material itself is breaking down and letting bacteria seep underneath, eventually causing cavities at the bonded edges.
 
 ## Color Matching Problems and Shade Mismatches
 
@@ -70,7 +70,7 @@ By the time you notice margin staining, significant decay may already be develop
 
 When your bonding breaks or fails, your dentist can't just add a little more material and make it invisible. Matching the color of new bonding to 2-3 year old bonding that's already stained and degraded is nearly impossible—you'll see a visible seam. Most repairs fail quickly anyway, so your dentist will recommend replacing the entire bonding.
 
-Here's the problem: as you replace bonding multiple times over the years, each replacement requires removing more tooth structure. The first bonding is placed with minimal tooth removal. The second bonding might need a slightly larger preparation. By the third or fourth bonding, you've removed so much tooth that you can't place bonding anymore—you need a crown instead. The supposedly "conservative" approach of bonding actually leads to more cumulative tooth loss than getting a single veneer or crown that lasts 10-15+ years.
+Here's the problem: as you replace bonding multiple times over the years, each replacement requires removing more tooth structure. The first bonding is placed with minimal tooth removal. The second bonding might need a slightly larger preparation. By the third or fourth bonding, you've removed so much tooth that you can't place bonding anymore—you need a crown instead. The supposedly "conservative" approach of it actually leads to more cumulative tooth loss than getting a single veneer or crown that lasts 10-15+ years.
 
 ## The Bond Between Bonding and Tooth Gets Weaker Over Time
 

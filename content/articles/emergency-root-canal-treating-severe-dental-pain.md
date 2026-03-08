@@ -85,8 +85,7 @@ Root canal therapy has a success rate above 90% for most teeth. Your tooth shoul
 
 ## Conclusion
 
-Whether you're just learning about emergency root canal: treating severe endodontic or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Root canal therapy has a success rate above 90% for most teeth. Your tooth should function normally and last many more years, especially with proper restoration and care. Just because you needed a root canal doesn't mean you need to have your tooth pulled.
 
 > **Key Takeaway:** Emergency root canal therapy relieves acute endodontic pain through pulp removal and intracanal inflammation management, enabling rapid symptom resolution.
 

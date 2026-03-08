@@ -38,13 +38,13 @@ Feldspathic ceramic (traditional porcelain) is the most beautiful ceramic—it m
 
 ## Choosing the Right Material for Your Situation
 
-For front teeth (incisors and canines), lithium disilicate is usually the best choice. You get excellent natural appearance with adequate strength for normal biting forces. Your front teeth experience approximately 200-400 newtons of force—lithium disilicate handles this comfortably.
+For front teeth (incisors and canines), lithium disilicate is usually the best choice. You get excellent natural appearance with adequate strength for normal biting forces. Your front teeth experience about 200-400 newtons of force—lithium disilicate handles this comfortably.
 
 For premolars, lithium disilicate still works well, though zirconia becomes a reasonable option if you're a heavy chewer or grind your teeth. For molars, zirconia becomes the preferred choice because molars experience the heaviest forces (800-1200+ newtons). Lithium disilicate can work for single molar crowns in people with normal bite forces, but zirconia's extra strength provides insurance against unexpected forces. For bridges (multiple connected crowns), zirconia is preferred for spans longer than 2-3 units because bridges experience concentrated forces on pontics and abutment teeth.
 
 ## How Modern CAD/CAM Technology Works
 
-Most all-ceramic crowns today are designed and manufactured using computer technology. Your dentist uses a digital scanner to capture your tooth preparation in 3D. This data goes to special software that automatically designs your crown—or your dentist can customize the design.
+Most all-ceramic crowns today are designed and manufactured using computer technology. Your dentist uses a digital scanner to capture your tooth prep in 3D. This data goes to special software that automatically designs your crown—or your dentist can customize the design.
 
 Then a computer-controlled milling machine cuts your crown from a ceramic block (like sculpting it from stone) in 1-2 hours. The precision is remarkable—tolerances within 0.05-0.1mm. Some dental offices have in-office milling systems (CEREC and similar brands), allowing you to get your crown fabricated and seated in one appointment with no temporary crown needed. This is convenient, though not all cases are suitable for same-day crowns—complex tooth shapes or posterior molars sometimes do better with laboratory-fabricated crowns.
 
@@ -52,13 +52,13 @@ Then a computer-controlled milling machine cuts your crown from a ceramic block 
 
 All-ceramic crowns are prepared differently than metal-ceramic crowns because ceramic behaves differently. The margin (the edge line where the crown meets your tooth) works best as a shoulder (90-degree angle) for all-ceramic, whereas metal-ceramic crowns used a sloped chamfer. All-ceramic requires slightly less tooth reduction on facial surfaces (1.2-1.5mm instead of 1.5mm for metal-ceramic) because ceramic doesn't need to be as thick.
 
-Internally, your dentist makes slightly rounded line angles instead of sharp angles—ceramic can crack if internal angles are too sharp and stress-concentrating. These small preparation differences mean your dentist needs specific training in all-ceramic crown preparation techniques. This is why it's important to choose a dentist experienced with all-ceramic work.
+Internally, your dentist makes slightly rounded line angles instead of sharp angles—ceramic can crack if internal angles are too sharp and stress-concentrating. These small prep differences mean your dentist needs specific training in all-ceramic crown prep techniques. This is why it's important to choose a dentist experienced with all-ceramic work.
 
 ## Cementation Matters More Than You'd Think
 
-How your crown is cemented significantly impacts its longevity. Adhesive cementation (using resin cement with an acid-etch bonding system) creates a chemical and mechanical bond between crown and tooth. This provides maximum retention and distributes stress evenly.
+How your crown is cemented much impacts its longevity. Adhesive cementation (using resin cement with an acid-etch bonding system) creates a chemical and mechanical bond between crown and tooth. This provides maximum retention and distributes stress evenly.
 
-It's more technique-sensitive (requires perfect isolation and moisture control), but the result is superior retention and stability. Conventional cementation (using glass ionomer or zinc-based cement) relies on mechanical retention only—the cement mechanically grips the tooth. It's simpler to execute but provides less security, particularly if your tooth preparation is short. For all-ceramic crowns, adhesive cementation is usually recommended because it maximizes retention and stress distribution.
+It's more technique-sensitive (requires perfect isolation and moisture control), but the result is superior retention and stability. Standard cementation (using glass ionomer or zinc-based cement) relies on mechanical retention only—the cement mechanically grips the tooth. It's simpler to execute but provides less security, especially if your tooth prep is short. For all-ceramic crowns, adhesive cementation is usually recommended because it maximizes retention and stress distribution.
 
 ## Monolithic Versus Veneered Crowns
 
@@ -70,13 +70,13 @@ Veneered crowns have a strong ceramic core (zirconia or lithium disilicate) with
 
 Raw strength numbers need context. Yes, zirconia is dramatically stronger than lithium disilicate. But is that extra strength necessary? Research shows lithium disilicate crowns have 93-96% success rates at 5 years for anterior crowns—that's exceptional.
 
-Zirconia has 95-98% success rates—better, but only marginally. For anterior teeth with normal bite forces, lithium disilicate is genuinely sufficient. For posterior teeth, the additional strength of zirconia provides valuable safety margin, particularly if you're an unconscious grinder or prone to clenching. Think of it this way: zirconia is using a hammer to hang a picture when a regular nail works fine. It's overkill for most situations but provides insurance in high-force scenarios.
+Zirconia has 95-98% success rates—better, but only marginally. For anterior teeth with normal bite forces, lithium disilicate is genuinely enough. For posterior teeth, the additional strength of zirconia provides valuable safety margin, especially if you're an unconscious grinder or prone to clenching. Think of it this way: zirconia is using a hammer to hang a picture when a regular nail works fine. It's overkill for most situations but provides insurance in high-force scenarios.
 
 ## How Long Will Your Crown Last?
 
-All-ceramic crowns have impressive longevity. At 5 years, success rates are 93-98% depending on material. At 10 years, rates are approximately 90-95%.
+All-ceramic crowns have impressive longevity. At 5 years, success rates are 93-98% depending on material. At 10 years, rates are about 90-95%.
 
-Most crowns that fail do so from fracture (rare), veneer chipping (more common with veneered crowns), or biological problems like decay or root canal issues (more common than crown fracture). The biological failures—decay under the crown or tooth death—are largely your responsibility through oral hygiene and avoiding habits that crack your tooth. Factors improving longevity include adhesive cementation, good preparation design, monolithic construction, careful occlusal adjustment (your dentist makes sure you don't have heavy contacts), and your excellent oral hygiene and care.
+Most crowns that fail do so from fracture (rare), veneer chipping (more common with veneered crowns), or biological problems like decay or root canal issues (more common than crown fracture). The biological failures—decay under the crown or tooth death—are largely your responsibility through oral hygiene and avoiding habits that crack your tooth. Factors improving longevity include adhesive cementation, good prep design, monolithic construction, careful occlusal adjustment (your dentist makes sure you don't have heavy contacts), and your excellent oral hygiene and care.
 
 ## Translucency Versus Strength Tradeoff
 
@@ -86,7 +86,7 @@ The tradeoff is real but acceptable. High-translucency zirconia at 800 megapasca
 
 ## Cost and Insurance Considerations
 
-All-ceramic crowns cost slightly more than metal-ceramic crowns (roughly 10-20% premium). Insurance coverage varies—some plans cover all-ceramic crowns as equivalent to metal-ceramic crowns, while others don't cover ceramic options. Ask your dentist about insurance coverage before proceeding. Even if your insurance only covers a portion, the superior esthetics and biocompatibility often justify the additional cost.
+All-ceramic crowns cost slightly more than metal-ceramic crowns (roughly 10-20% premium). Insurance coverage varies—some plans cover all-ceramic crowns as equivalent to metal-ceramic crowns, while others don't cover ceramic options. Ask your dentist about insurance coverage before proceeding. Even if your insurance only covers a portion, the superior esthetics and body safety often justify the additional cost.
 
 ## Comparing Crown Success Rates
 
@@ -101,15 +101,14 @@ All-ceramic crowns match or exceed metal-ceramic crowns in success rates. Failur
 
 Avoid very hard foods (nuts, hard candy, ice)—not unique to ceramic crowns, but they're sensible precautions. Don't use your crown as a tool (opening packages, cracking shells). If you grind or clench your teeth, wear a night guard—this reduces stress on all your teeth including crowned teeth.
 
-Maintain excellent oral hygiene around the crown (regular brushing and flossing, just like natural teeth). Get professional cleanings every 6 months. All-ceramic crowns integrate seamlessly into your mouth and function like natural teeth. With proper care, expect 15-25+ years of service before replacement becomes necessary.
+Maintain excellent oral hygiene around the crown (regular brushing and flossing, just like natural teeth). Get expert cleanings every 6 months. All-ceramic crowns integrate seamlessly into your mouth and function like natural teeth. With proper care, expect 15-25+ years of service before replacement becomes necessary.
 
 
 Related reading: [Biological Dentistry: Biocompatible Materials](/article/biological-dentistry-biocompatible-materials.html) and [Common Misconceptions About Dental Procedure Planning](/article/common-misconceptions-about-dental-procedure-planning.html).
 
 ## Conclusion
 
-Whether you're just learning about all-ceramic crowns: metal-free restoration solutions or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Maintain excellent oral hygiene around the crown (regular brushing and flossing, just like natural teeth). Get expert cleanings every 6 months. All-ceramic crowns integrate seamlessly into your mouth and function like natural teeth.
 
 > **Key Takeaway:** For decades, dentists placed crowns with a metal core covered by porcelain. This approach had real limitations.
 

@@ -90,6 +90,8 @@ The key to success is working with your dentist to identify the cause of your di
 
 ## Related Articles
 
-- [Cost of Smile Makeover Planning and Comprehensive](/article/cost-of-smile-makeover-planning.html)
-- [Digital Smile Design Workflow: Facial Analysis, DSD](/article/timeline-for-cosmetic-smile-design.html)
-
+- [Cosmetic Dentistry for Aged Teeth: Age-Related Changes](/article/cosmetic-dentistry-for-aged-teeth-age-related-changes.html)
+- [Teeth Whitening - What Really Works and How to Get Your](/article/why-teeth-whitening-results-matters.html)
+- [Diastema and Gap Management - Etiology, Treatment](/article/benefits-of-tooth-gap-closure.html)
+- [Resting Position Lips at Rest Appearance](/article/resting-position-lips-at-rest-appearance.html)
+- [Canine Rise](/article/canine-rise-lateral-movement-guidance.html)

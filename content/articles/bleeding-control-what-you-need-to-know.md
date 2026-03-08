@@ -105,7 +105,6 @@ Related reading: [Surgical Success Rates in Oral Surgery](/article/surgical-succ
 These symptoms usually don't occur, but if they do, your surgeon wants to know promptly. Your dentist can provide personalized recommendations based on your specific needs. Understanding what to expect and knowing when to contact your surgeon helps ensure a smooth recovery with minimal complications.
 
 
-
 > **Key Takeaway:** When your dentist performs extractions or other oral surgery, bleeding is natural and expected.
 
 ## Related Articles

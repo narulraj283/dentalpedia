@@ -90,9 +90,7 @@ The daily habits you establish now aren't inconveniences—they're investments i
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding why oral health habits matter for your whole body and wallet helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Talk to your dentist about your specific situation and what approach works best for you. The daily habits you establish now aren't inconveniences—they're investments in decades of healthy teeth, confident smiles, better systemic health, and substantial financial savings. Ten minutes daily today prevents hours of treatment, tooth loss, and associated problems decades from now. That's an investment with returns measured in both dollars and quality of life.
 
 > **Key Takeaway:** People maintaining consistent daily oral health habits (brushing twice daily, flossing daily) retain 95+ percent of their natural teeth, while irregular habits result in tooth loss affecting quality of life and costing tens of thousands in replacement treatment.
 

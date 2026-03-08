@@ -44,7 +44,7 @@ On the side where the tooth is being pushed (the pressure side), specialized cel
 
 Imagine your tooth roots are surrounded by bone that grips them firmly. When orthodontic force is applied, chemical signals tell your body the bone needs adjustment. This triggers a remodeling cycle: old bone dissolves on the pressure side, new bone builds on the tension side. As this happens repeatedly over weeks and months, your tooth gradually shifts position with new bone forming to support its new location.
 
-This process is similar to how your body adapts if you change exercise habits or how fracture healing works—controlled, gentle, and safe when appropriate forces are used. Learn more about [Retainer Importance What You](/article/retainer-importance-what-you-need-to-know.html) for additional guidance. The entire remodeling cycle takes approximately 3-4 weeks for noticeable bone changes, which is why orthodontists adjust braces or recommend new aligners every 3-4 weeks.
+This process is similar to how your body adapts if you change exercise habits or how fracture healing works—controlled, gentle, and safe when appropriate forces are used. Learn more about [Retainer Importance What You](/article/retainer-importance-what-you-need-to-know.html) for additional guidance. The entire remodeling cycle takes about 3-4 weeks for noticeable bone changes, which is why orthodontists adjust braces or recommend new aligners every 3-4 weeks.
 
 ## Why Treatment Takes the Time It Does
 
@@ -58,13 +58,13 @@ Third, not all treatment phases occur simultaneously. Typically, orthodontists f
 
 ## Pain and Discomfort: What to Expect
 
-Most orthodontic patients experience some discomfort, particularly after braces are placed or after adjustments. This rarely constitutes "pain" in the acute injury sense—most patients describe pressure, soreness, or aching similar to that following intense exercise.
+Most orthodontic patients experience some discomfort, especially after braces are placed or after adjustments. This rarely constitutes "pain" in the acute injury sense—most patients describe pressure, soreness, or aching similar to that following intense exercise.
 
 The discomfort occurs because initial forces create inflammatory changes in your periodontal ligament. Your body recognizes the mechanical stimulation and activates immune cells, increasing local blood flow and inflammatory mediators. This inflammatory response typically peaks 24-72 hours after force application and gradually subsides over several days as your body adapts.
 
 Initial soreness usually lasts 3-7 days and is manageable with over-the-counter ibuprofen (400-600 mg every 4-6 hours). Discomfort after adjustment appointments is typically milder and briefer, lasting 1-3 days, because your tissues have already adapted to orthodontic forces.
 
-Some patients report minimal discomfort throughout treatment, while others experience more noticeable soreness. This variation reflects differences in pain sensitivity, periodontal ligament dimensions, and inflammation response. Taking ibuprofen 30 minutes before scheduled adjustments and continuing for 24-48 hours afterward minimizes discomfort. Eating soft foods for a few days after adjustment also helps.
+Some patients report minimal discomfort throughout treatment, while others experience more noticeable soreness. This variation reflects differences in pain soreness, periodontal ligament dimensions, and swelling response. Taking ibuprofen 30 minutes before scheduled adjustments and continuing for 24-48 hours afterward minimizes discomfort. Eating soft foods for a few days after adjustment also helps.
 
 ## Factors That Speed Up Movement
 
@@ -94,17 +94,13 @@ Understanding movement inhibitors helps you maximize efficiency:
 
 ## Creating Optimal Conditions for Movement
 
-To maximize efficiency, maintain excellent oral hygiene, wear all prescribed appliances consistently, attend all scheduled appointments on time, and follow your orthodontist's instructions. Avoid chronic NSAID use; take ibuprofen for specific discomfort rather than routine prevention. If medications are medically necessary, inform your orthodontist so timelines can be adjusted.
+To maximize efficiency, maintain excellent oral hygiene, wear all prescribed appliances consistently, attend all scheduled appointments on time, and follow your orthodontist's instructions. Avoid chronic NSAID use; take ibuprofen for specific discomfort rather than routine prevention. If medicines are medically necessary, inform your orthodontist so timelines can be adjusted.
 
 Remember: the timeline your orthodontist provides reflects careful calculation of movements required and the biological speed at which those movements can safely occur. While accelerated techniques exist, they carry limitations or risks that must be carefully considered.
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding how your teeth move: what you need to know helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
-
-Discomfort after placement or adjustment is normal and manageable. Your age, oral hygiene, systemic health, and appliance compliance significantly influence both movement speed and treatment duration. The remarkable aspect of orthodontics is that your body actively participates, continuously building new bone to support your teeth permanently in their new positions.
+Talk to your dentist about your specific situation and what approach works best for you. Remember: the timeline your orthodontist provides reflects careful calculation of movements required and the biological speed at which those movements can safely occur. While accelerated techniques exist, they carry limitations or risks that must be carefully considered.
 
 > **Key Takeaway:** Orthodontic movement depends on your body's continuous remodeling of bone supporting your teeth. Treatment duration varies based on crowding severity, typically 18-36 months for comprehensive cases. Teeth move at predictable rates (0.5-1.2mm weekly) when optimal forces and proper compliance exist.
 

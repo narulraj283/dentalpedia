@@ -57,11 +57,11 @@ Unlike herpes, which starts with painful blisters that then rupture into ulcers,
 
 ## How Painful Is It Really?
 
-Despite the individual ulcers being small, the sheer number makes the overall pain severe. The pain from 50 tiny ulcers together exceeds the pain from a single large ulcer. Most people report being unable to eat, drink normally, or maintain oral hygiene during an episode. Some people experience mild fever (37.5-38.5°C or 99.5-101°F) and swollen lymph nodes in the neck, particularly under the chin. The functional disability typically lasts 5-14 days, with the first week being the most uncomfortable.
+Despite the individual ulcers being small, the sheer number makes the overall pain severe. The pain from 50 tiny ulcers together exceeds the pain from a single large ulcer. Most people report being unable to eat, drink normally, or maintain oral hygiene during an episode. Some people experience mild fever (37.5-38.5°C or 99.5-101°F) and swollen lymph nodes in the neck, especially under the chin. The functional disability typically lasts 5-14 days, with the first week being the most painful.
 
 ## How Often Do Episodes Occur?
 
-Without treatment, episodes typically recur every 3-6 weeks, though this varies considerably. Some people get new episodes monthly; others go three months between episodes. Each episode lasts 7-14 days without treatment. The good news: stomatitis herpetiformis doesn't get progressively worse. Unlike some serious oral conditions, this stays stable over time—you won't develop increasingly severe disease or systemic complications.
+Without treatment, episodes typically recur every 3-6 weeks, though this varies considerably. Some people get new episodes monthly; others go three months between episodes. Each episode lasts 7-14 days without treatment. The good news: stomatitis herpetiformis doesn't get progressively worse. Unlike some serious oral conditions, this stays stable over time—you won't develop increasingly severe disease or systemic problems.
 
 ## Distinguishing Stomatitis Herpetiformis from Actual Herpes
 
@@ -73,17 +73,17 @@ If you're unsure, your dentist can test for herpes virus through PCR testing of 
 
 ## Common Associated Conditions and Nutritional Factors
 
-About 20-30% of people with stomatitis herpetiformis have nutritional deficiencies, particularly iron, zinc, folate, or vitamin B12 deficiency. Iron-deficiency anemia occurs in 15-20% of cases; zinc deficiency in about 10-15%. If blood tests reveal deficiencies, supplementation might reduce how often ulcers appear, though it won't eliminate them completely.
+About 20-30% of people with stomatitis herpetiformis have nutritional deficiencies, especially iron, zinc, folate, or vitamin B12 deficiency. Iron-deficiency anemia occurs in 15-20% of cases; zinc deficiency in about 10-15%. If blood tests reveal deficiencies, supplements might reduce how often ulcers appear, though it won't eliminate them completely.
 
-Some people with stomatitis herpetiformis also have oral lichen planus—a separate condition causing white striations and network patterns on the cheeks or tongue. When both conditions coexist, they might respond better to stronger immunosuppressive medications. Your dentist should check for these associated conditions during your examination.
+Some people with stomatitis herpetiformis also have oral lichen planus—a separate condition causing white striations and network patterns on the cheeks or tongue. When both conditions coexist, they might respond better to stronger immunosuppressive medicines. Your dentist should check for these associated conditions during your exam.
 
 ## Medical Treatment Options That Actually Work
 
-Colchicine is the most effective first-line treatment. This medication (traditionally used for gout) works by reducing the migration of immune cells (neutrophils) into developing ulcers. The typical dose is 0.5-1.0 mg twice daily, with most people seeing improvement within 4-8 weeks. About 50-70% of people experience significant reduction in how frequently ulcers appear. The side effects—mainly diarrhea and abdominal cramping—occur in 30-40% of users and are usually mild enough to tolerate.
+Colchicine is the most effective first-line treatment. This medicine (traditionally used for gout) works by reducing the migration of immune cells (neutrophils) into developing ulcers. The typical dose is 0.5-1.0 mg twice daily, with most people seeing improvement within 4-8 weeks. About 50-70% of people experience significant reduction in how frequently ulcers appear. The side effects—mainly diarrhea and abdominal cramping—occur in 30-40% of users and are usually mild enough to tolerate.
 
-Dapsone is an alternative that suppresses immune inflammation through a different mechanism. It's taken at 50-200 mg daily, with 100 mg daily being typical. About 60-75% of people see significant improvement within 2-4 weeks. The downside is dapsone carries more serious potential side effects including hemolytic anemia (particularly in people with G6PD deficiency) and requires monthly blood count monitoring.
+Dapsone is an other option that suppresses immune swelling through a different process. It's taken at 50-200 mg daily, with 100 mg daily being typical. About 60-75% of people see significant improvement within 2-4 weeks. The downside is dapsone carries more serious potential side effects including hemolytic anemia (particularly in people with G6PD deficiency) and requires monthly blood count monitoring.
 
-For severe cases that don't respond to colchicine or dapsone alone, using both medications together works better than either alone. Combination therapy achieves improvement rates of 70-80%.
+For severe cases that don't respond to colchicine or dapsone alone, using both medicines together works better than either alone. Mix therapy achieves improvement rates of 70-80%.
 
 ## Topical and Oral Corticosteroid Options
 
@@ -93,17 +93,17 @@ Systemic corticosteroids (prednisone) work rapidly—you'll see dramatic improve
 
 ## When to Suspect Underlying Systemic Disease
 
-Stomatitis herpetiformis is usually an isolated oral condition with an excellent prognosis. However, similar grouped ulcer patterns can occasionally indicate more serious conditions like Behçet's syndrome (which includes ulcers plus genital ulcers and eye inflammation) or lupus-related oral ulcers. [Oral aphthous ulcers](/article/oral-aphthous-ulcers-beyond-simple-canker-sores.html) are common and usually benign, but your dentist should evaluate whether your pattern fits simple aphthous disease or suggests systemic disease requiring specialist evaluation.
+Stomatitis herpetiformis is usually an isolated oral condition with an excellent prognosis. However, similar grouped ulcer patterns can occasionally indicate more serious conditions like Behçet's syndrome (which includes ulcers plus genital ulcers and eye inflammation) or lupus-related oral ulcers. [Oral aphthous ulcers](/article/oral-aphthous-ulcers-beyond-simple-canker-sores.html) are common and usually benign, but your dentist should evaluate whether your pattern fits simple aphthous disease or suggests systemic disease requiring specialist check.
 
 ## Home Care and Lifestyle Strategies
 
-Beyond medications, certain habits help. Avoid spicy, acidic, or rough foods during episodes—stick to soft, bland options. Use a soft toothbrush and gentle technique. Some people find relief from topical anesthetics like benzocaine applied to painful ulcers before eating. Rinsing with salt water or antimicrobial rinse provides some comfort and prevents secondary bacterial infection.
+Beyond medicines, certain habits help. Avoid spicy, acidic, or rough foods during episodes—stick to soft, bland options. Use a soft toothbrush and gentle technique. Some people find relief from topical anesthetics like benzocaine applied to painful ulcers before eating. Rinsing with salt water or antimicrobial rinse provides some comfort and prevents secondary bacterial infection.
 
 Identify and avoid triggers if possible. Common triggers include minor mouth trauma (sharp foods, aggressive brushing), certain foods (citrus, tomatoes, pineapple), stress, and specific nutritional deficiencies. Keeping a symptom diary helps identify your personal patterns.
 
 ## Conclusion
 
-Stomatitis herpetiformis causes recurrent episodes of numerous grouped oral ulcers with no connection to herpes infection despite its misleading name. Clinical presentation with dozens to hundreds of small coalescing ulcers creates significant functional disability for 5-14 days per episode despite the benign prognosis. Colchicine and dapsone provide evidence-based pharmacologic management with response rates exceeding 60-70%, substantially improving quality of life compared to symptomatic management alone. Early recognition and appropriate pharmacotherapy ensure that troublesome ulcers don't prevent you from eating, speaking, and living normally during episodes.
+Stomatitis herpetiformis causes recurrent episodes of numerous grouped oral ulcers with no connection to herpes infection despite its misleading name. Clinical presentation with dozens to hundreds of small coalescing ulcers creates significant functional disability for 5-14 days per episode despite the benign prognosis. Colchicine and dapsone provide evidence-based pharmacologic management with response rates exceeding 60-70%, greatly improving quality of life compared to symptomatic management alone. Early recognition and appropriate pharmacotherapy ensure that troublesome ulcers don't prevent you from eating, speaking, and living normally during episodes.
 
 > **Key Takeaway:** Stomatitis herpetiformis is a distinct condition causing grouped oral ulcers unrelated to herpes virus, treatable with colchicine or dapsone that significantly reduce episode frequency and severity.
 

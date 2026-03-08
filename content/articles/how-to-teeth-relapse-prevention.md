@@ -90,8 +90,7 @@ The math is simple: preventing relapse costs far less than fixing it. A year's w
 
 ## Conclusion
 
-Whether you're just learning about why you need retainers for life after braces or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. The math is simple: preventing relapse costs far less than fixing it. A year's worth of retainer wear costs hundreds of dollars. Re-treatment for severe relapse costs thousands.
 
 > **Key Takeaway:** Understand why teeth shift after braces, how retainers stop relapse, and why wearing them forever keeps your smile perfect.
 

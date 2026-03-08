@@ -117,8 +117,7 @@ Related reading: [Oral Surgical Complications: Classification, Timeline](/articl
 
 ## Conclusion
 
-Whether you're just learning about all-on-six: six implant full mouth restoration or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. The surgery is a bit more complex and longer, and the cost is somewhat higher (about 8-12% more), but the benefits add up over time. Better bone preservation, fewer repairs, longer tooth life, and built-in redundancy (if one implant fails, you can still function well) make the extra investment worthwhile for most people who can afford it. Modern surgical planning has made six-implant placement routine and safe.
 
 > **Key Takeaway:** All-on-Six is like All-on-Four's bigger, stronger sibling. Instead of using four implants to support your full mouth of teeth, All-on-Six uses six.
 

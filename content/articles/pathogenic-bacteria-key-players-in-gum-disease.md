@@ -90,7 +90,7 @@ These tests guide treatment decisions and help you understand your risk level. I
 
 Using antibiotics to fight gum disease bacteria is tricky. Some bacteria have learned to resist common antibiotics, making them harder to kill. If you use antibiotics without really needing them, you're actually training the bacteria to become resistant. This is why your dentist won't automatically prescribe antibiotics for every gum disease patient. Instead, antibiotics are reserved for cases with high bacterial loads or when regular cleaning hasn't worked.
 
-The goal is to use antibiotics wisely—only when the bacteria are clearly winning and causing rapid damage. Over-using antibiotics creates bacteria that laugh at our medications. Your dentist carefully considers whether antibiotics will actually help your situation before prescribing them. This means sometimes accepting that you'll need more frequent professional cleanings to keep up with the bacterial attack without relying solely on antibiotics.
+The goal is to use antibiotics wisely—only when the it are clearly winning and causing rapid damage. Over-using antibiotics creates bacteria that laugh at our medications. Your dentist carefully considers whether antibiotics will actually help your situation before prescribing them. This means sometimes accepting that you'll need more frequent professional cleanings to keep up with the bacterial attack without relying solely on antibiotics.
 
 ## Why Your Dentist Tests for Bacteria
 
@@ -100,9 +100,7 @@ This information is incredibly valuable. If your bacteria are resistant to certa
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. This information is incredibly valuable. If your bacteria are resistant to certain antibiotics, your dentist can choose different ones. If testing shows you have aggressive bacteria causing rapid damage, your dentist might recommend antibiotics along with deep cleaning.
 
 > **Key Takeaway:** Gum disease is a bacterial infection that develops when specific harmful bacteria take over your mouth. Understanding that P. gingivalis, T. forsythia, and A. actinomycetemcomitans cause the most damage helps explain why your dentist takes gum disease seriously. These bacteria hide in biofilms below your gumline where home care can't reach, building dangerous communities that attack your gum support system. Regular professional cleanings disrupt these biofilms before they cause permanent damage, while good brushing and flossing keeps bacterial numbers down at home. Combining professional treatment with excellent home care gives you the best chance of keeping your gums healthy and your teeth for life.
 

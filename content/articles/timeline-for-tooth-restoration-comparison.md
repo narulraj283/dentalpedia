@@ -114,11 +114,7 @@ Your dentist may recommend additional steps specific to your situation, such as 
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding choosing the right filling or crown material: a helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
-
-Large back teeth? Amalgam or ceramic. Maximum durability? Gold. Have an open conversation with your dentist about your priorities, and they'll recommend the material that best fits your needs.
+Contemporary restorative material selection reflects balance between longevity, esthetics, cost, and clinical situation. Amalgam provides unmatched longevity (20+ years) at lowest cost but with esthetic limitations. Direct composite offers excellent esthetics with 5–10 year longevity at moderate cost and higher technique sensitivity. Indirect composite and ceramic provide 10–20+ year longevity with excellent esthetics at higher cost.
 
 > **Key Takeaway:** Four main restorative materials exist: amalgam (most durable, least aesthetic), composite (most popular, moderate longevity), ceramic (excellent all-around), and gold (best durability and biocompatibility, highest cost). The right choice depends on cavity size, tooth location, your appearance concerns, and your budget. Small visible cavities? Composite.
 

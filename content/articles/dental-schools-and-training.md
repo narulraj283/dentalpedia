@@ -24,7 +24,7 @@ references:
 
 Want to know what your dentist had to go through to practice? It's substantial. First, they completed undergraduate college including specific prerequisite courses (chemistry, organic chemistry, biology, physics, biochemistry). These are challenging courses—dental schools admit primarily students with strong academic records (average GPA around 3.7-3.8).
 
-Then dental school: 4 years of intensive education. The first 2 years emphasize basic sciences (oral biology, anatomy, pharmacology, pathology) plus laboratory practice with dummy head simulations before treating real people. Years 2-4 involve clinical training treating actual patients under faculty supervision. Students progress from heavily supervised care (third year) to more independence (fourth year). They graduate understanding how to diagnose cavities and gum disease, perform restorations, extract teeth, do root canals, and manage diverse patient needs.
+Then dental school: 4 years of intensive education. The first 2 years emphasize basic sciences (oral biology, anatomy, pharmacology, pathology) plus laboratory practice with dummy head simulations before treating real people. Years 2-4 involve clinical training treating actual patients under faculty supervision. Students progress from heavily supervised care (third year) to more independence (fourth year). They graduate understanding how to diagnose cavities and gum disease, perform repairs, extract teeth, do root canals, and manage diverse patient needs.
 
 Graduation requires passing written board exams (National Board Dental Examination), completing clinical competency requirements demonstrating practical skills, and passing regional clinical board exams. State licensure then permits independent practice.
 
@@ -46,11 +46,11 @@ Specialty training is competitive. Only the strongest students from dental schoo
 
 Dentists must complete continuing education to maintain licensure. Requirements vary by state (usually 20-40 hours annually). These courses cover everything from the latest materials to pain management to infection control.
 
-But here's important: required hours don't guarantee quality learning. A dentist attending 20 hours of mediocre lectures isn't as current as one seeking out excellent education. Dentists who actively engage with professional literature, attend high-quality continuing education, and pursue advanced certifications demonstrate genuine commitment to staying current. Professional society memberships often indicate engagement with advancing knowledge.
+But here's important: required hours don't guarantee quality learning. A dentist attending 20 hours of mediocre lectures isn't as current as one seeking out excellent education. Dentists who actively engage with expert literature, attend high-quality continuing education, and pursue advanced certifications show genuine commitment to staying current. Expert society memberships often indicate engagement with advancing knowledge.
 
 ## Auxiliary Dental Professionals
 
-Your dentist isn't alone. Dental hygienists (2-4 year programs) provide cleanings, patient education, and other preventive care. Dental assistants receive 1-2 years training (or learn on the job). Dental laboratory technicians (2-4 years) fabricate dentures, crowns, and other restorations.
+Your dentist isn't alone. Dental hygienists (2-4 year programs) provide cleanings, patient education, and other preventive care. Dental assistants receive 1-2 years training (or learn on the job). Dental laboratory technicians (2-4 years) fabricate dentures, crowns, and other repairs.
 
 These professionals must be licensed or properly trained. Learning more about [Dental Student Supervision](/article/dental-student-supervision.html) can help you understand this better. Unlicensed individuals performing clinical procedures is a red flag.
 
@@ -63,7 +63,7 @@ When selecting a dentist, ask:
 - What's your continuing education background? (Professional society membership indicates engagement)
 - How many of a specific procedure have you done? (Experience matters)
 
-Board certification means the dentist passed specialty board exams. "Board-eligible" means they're eligible to take exams but haven't passed. For specialists, certification demonstrates competency.
+Board certification means the dentist passed specialty board exams. "Board-eligible" means they're eligible to take exams but haven't passed. For specialists, certification shows competency.
 
 ## Non-Traditional Dentists
 
@@ -77,19 +77,19 @@ Military dentists provide care to military personnel. Some work in research deve
 
 ## Finding Low-Cost Dental Treatment Through Schools
 
-If cost is a barrier to care, dental schools provide discounted treatment. Students, supervised by faculty, perform procedures under careful oversight. Treatment takes longer (the student is learning), but quality is excellent and costs are significantly lower. Teaching hospitals and clinics affiliated with dental schools often offer similar discounted care.
+If cost is a barrier to care, dental schools provide discounted treatment. Students, supervised by faculty, perform procedures under careful oversight. Treatment takes longer (the student is learning), but quality is excellent and costs are much lower. Teaching hospitals and clinics affiliated with dental schools often offer similar discounted care.
 
 Some dentists starting practices offer reduced fees. Community health centers and schools' dental programs provide preventive care at reduced cost. Your options expand if you're willing to tolerate longer appointment times in exchange for affordability. Research programs in your area and compare offerings to find the best match for your needs and financial situation. Many patients find dental school clinics provide comparable quality care to private practice at a fraction of the cost.
 
 ## Protecting Your Results Long-Term
 
-Once you've addressed dental schools and training, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+Once you've addressed dental schools and training, keeping your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with expert cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
 
 ## Conclusion
 
 Your dentist completed 4 years of rigorous dental school involving both didactic education and supervised clinical training, plus additional licensing exams. Many accumulated substantial debt. Specialty dentists completed additional 2-4 year training.
 
-All dentists must complete continuing education to maintain current knowledge. Evaluating your dentist's credentials, experience, and continuing engagement with professional development helps you assess competency. Understanding dental education pathways informs your confidence in your provider's qualifications.
+All dentists must complete continuing education to maintain current knowledge. Evaluating your dentist's credentials, experience, and continuing engagement with expert development helps you assess competency. Understanding dental education pathways informs your confidence in your provider's qualifications.
 
 > **Key Takeaway:** Want to know what your dentist had to go through to practice?
 

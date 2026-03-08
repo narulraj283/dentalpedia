@@ -68,9 +68,9 @@ Some babies compensate with tongue thrusting, excessive jaw movement, or "chewin
 
 ## Getting an Evaluation
 
-If you're concerned about lip tie, ask your pediatrician or lactation consultant about evaluation. They'll examine your baby's frenum and observe feeding. Assessment isn't just about anatomy—the key question is whether the anatomy is causing functional feeding problems.
+If you're concerned about lip tie, ask your pediatrician or lactation consultant about check. They'll examine your baby's frenum and observe feeding. Assessment isn't just about anatomy—the key question is whether the anatomy is causing functional feeding problems.
 
-Many babies with tight frenum anatomy feed normally and don't need treatment. Learning more about [School Age Dental Health Comprehensive Care Guide](/article/school-age-dental-health-comprehensive-care-guide.html) can help you understand this better. If your baby is feeding well and gaining weight appropriately, lip tie may not require intervention.
+Many babies with tight frenum anatomy feed normally and don't need treatment. Learning more about [School Age Dental Health Comprehensive Care Guide](/article/school-age-dental-health-comprehensive-care-guide.html) can help you understand this better. If your baby is feeding well and gaining weight appropriately, lip tie may not require treatment.
 
 ## Conservative Management First
 
@@ -107,7 +107,7 @@ Your medical provider will discuss which approach is best for your baby.
 
 ## After the Procedure
 
-Recovery is very fast. Most babies tolerate feeding immediately after the procedure. Mild discomfort is possible but rarely significant.
+Recovery is very fast. Most babies tolerate feeding right away after the procedure. Mild discomfort is possible but rarely significant.
 
 **Care after frenectomy:**
 - Feed your baby normally
@@ -124,13 +124,13 @@ Weight gain usually improves if the baby was failing to gain adequately before t
 
 ## Risks and Complications
 
-Frenectomy is very safe with minimal complication risk:
+Frenectomy is very safe with minimal problem risk:
 
 - Bleeding (rarely significant; usually controlled with pressure)
 - Infection (uncommon with proper post-op care)
 - Reattachment (the tissue heals in its original position; occurs in 5-15% of cases; revision frenectomy if needed)
 
-Serious complications are rare with experienced providers.
+Serious problems are rare with experienced providers.
 
 ## Timing Considerations
 
@@ -144,7 +144,7 @@ Serious complications are rare with experienced providers.
 
 ## Bottle Feeding Modifications
 
-If your baby is bottle-fed, several modifications may help without surgery:
+If your baby is bottle-fed, several changes may help without surgery:
 
 - Use larger-holed bottles or different nipple styles
 - Express milk before feeding to start flow
@@ -161,7 +161,7 @@ Beyond feeding, some parents worry about future concerns like speech or dental d
 
 ## Multidisciplinary Team Approach
 
-If your baby has persistent feeding difficulties, seek evaluation from a team including:
+If your baby has persistent feeding difficulties, seek check from a team including:
 
 - Pediatrician (growth, development, nutritional status)
 - Lactation consultant (feeding technique, positioning)
@@ -180,7 +180,7 @@ Cost for frenectomy (if not covered) ranges from $300-800 depending on facility 
 
 ## Conclusion
 
-Lip tie is a condition where upper lip attachment restricts movement, potentially interfering with feeding. Not all anatomical lip ties require treatment—many babies feed normally despite restricted anatomy. Conservative management (positioning, lactation support) should precede surgery when possible. When frenectomy is indicated, modern procedures are quick, safe, and effective. Working with a multidisciplinary team ensures comprehensive evaluation and optimal outcomes for your baby's feeding and development.
+Lip tie is a condition where upper lip attachment restricts movement, potentially interfering with feeding. Not all anatomical lip ties require treatment—many babies feed normally despite restricted anatomy. Conservative management (positioning, lactation support) should precede surgery when possible. When frenectomy is indicated, modern procedures are quick, safe, and effective. Working with a multidisciplinary team ensures full check and optimal outcomes for your baby's feeding and development.
 
 > **Key Takeaway:** Lip tie occurs when the tissue connecting your baby's upper lip to their gums (called the labial frenum) is too thick, too tight, or positioned too far forward.
 

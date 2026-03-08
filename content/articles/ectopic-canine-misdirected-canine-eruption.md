@@ -73,7 +73,7 @@ Ectopic canine eruption is manageable when caught early. If you notice your chil
 
 Work with your dentist and orthodontist to determine the best treatment plan for your child's specific situation.
 
-> **Key Takeaway:** Learning more about [Baby Teeth Development and Eruption Timeline](/article/baby-teeth-development-and-eruption-timeline.html) can help you understand this better. This is called ectopic canine eruption, and it happens in about 2-3% of children.
+> **Key Takeaway:** Learning more about Baby Teeth Development and Eruption Timeline can help you understand this better. This is called ectopic canine eruption, and it happens in about 2-3% of children.
 
 ## Related Articles
 

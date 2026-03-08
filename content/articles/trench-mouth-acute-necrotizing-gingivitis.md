@@ -38,23 +38,23 @@ Trench mouth, medically known as acute necrotizing ulcerative gingivitis (ANUG),
 
 ## What Causes Trench Mouth to Develop
 
-Trench mouth results from a specific combination of bacteria—particularly fusiform bacteria and spirochetes—that invade your gum tissue and create severe inflammation. This microbial combination differs from the bacteria involved in typical gum disease, and understanding this difference is important because it affects treatment choices.
+Trench mouth results from a specific mix of bacteria—especially fusiform bacteria and spirochetes—that invade your gum tissue and create severe swelling. This microbial mix differs from the bacteria involved in typical gum disease, and understanding this difference is important because it affects treatment choices.
 
-Several factors significantly increase your risk of developing trench mouth. Psychological stress stands out as a major trigger—historically observed in combat soldiers and still seen today in people experiencing major life events. Smoking dramatically increases your risk; heavy smokers develop trench mouth 10-30 times more frequently than non-smokers. A weakened immune system, whether from HIV infection, other conditions, or even inadequate sleep and nutrition, also raises your vulnerability. Poor oral hygiene provides an environment where these harmful bacteria thrive, and people with existing gum disease sometimes experience a rapid transformation into trench mouth when they're also stressed or immunosuppressed.
+Several factors much increase your risk of developing trench mouth. Psychological stress stands out as a major trigger—historically observed in combat soldiers and still seen today in people having major life events. Smoking dramatically increases your risk; heavy smokers develop trench mouth 10-30 times more frequently than non-smokers. A weakened immune system, whether from HIV infection, other conditions, or even inadequate sleep and nutrition, also raises your vulnerability. Poor oral hygiene provides an environment where these harmful bacteria thrive, and people with existing gum disease sometimes experience a rapid transformation into trench mouth when they're also stressed or immunosuppressed.
 
 The stress-immune system connection explains why the condition often appears during intense periods of your life. The infection essentially takes advantage of your body's reduced ability to fight back. This is why addressing stress, getting adequate sleep, eating well, and quitting smoking become important parts of preventing recurrence.
 
 ## Recognizing the Symptoms
 
-Trench mouth announces itself dramatically. Unlike typical gum disease, which develops slowly and often without symptoms, trench mouth appears suddenly—typically over 24-72 hours—with severe pain that significantly limits eating and talking. Affected areas bleed heavily even with gentle touch, and you may notice a distinctive foul odor in your mouth, unlike anything you've experienced before.
+Trench mouth announces itself dramatically. Unlike typical gum disease, which develops slowly and often without symptoms, trench mouth appears suddenly—typically over 24-72 hours—with severe pain that much limits eating and talking. Affected areas bleed heavily even with gentle touch, and you may notice a distinctive foul odor in your mouth, unlike anything you've experienced before.
 
-The distinctive appearance helps dentists diagnose trench mouth. The characteristic finding is "punched-out" crater-like ulcerations in the gum papillae (the points of gum between teeth), especially in your front teeth. The damaged tissue appears white or yellow against surrounding red inflammation. Many patients report spontaneous bleeding and pus oozing into the mouth. You may also feel feverish and notice swollen lymph nodes, though some cases remain limited to the mouth.
+The distinctive appearance helps dentists diagnose trench mouth. The characteristic finding is "punched-out" crater-like ulcerations in the gum papillae (the points of gum between teeth), especially in your front teeth. The damaged tissue appears white or yellow against surrounding red swelling. Many patients report spontaneous bleeding and pus oozing into the mouth. You may also feel feverish and notice swollen lymph nodes, though some cases remain limited to the mouth.
 
 The severe pain combined with dramatic appearance usually drives people to seek urgent dental care—which is exactly the right response. Early treatment prevents progression to more destructive disease.
 
 ## How Your Dentist Confirms the Diagnosis
 
-Your dentist will examine your gums and ask about your recent stress, smoking, sleep, and nutrition. A Gram stain of material from affected tissue can reveal the characteristic fusospirochetal bacteria—the "twisted bacteria" that characterize trench mouth—helping confirm the diagnosis. However, the clinical appearance alone is usually sufficient for diagnosis, and treatment shouldn't be delayed waiting for confirmatory tests.
+Your dentist will examine your gums and ask about your recent stress, smoking, sleep, and nutrition. A Gram stain of material from affected tissue can reveal the characteristic fusospirochetal bacteria—the "twisted bacteria" that characterize trench mouth—helping confirm the diagnosis. However, the clinical appearance alone is usually enough for diagnosis, and treatment shouldn't be delayed waiting for confirmatory tests.
 
 Differential diagnosis is important because herpes infections, aphthous ulcers, and other conditions can superficially resemble trench mouth. However, the characteristic punched-out interdental papillary ulcerations and fulminant presentation typically make trench mouth recognizable, even to dentists who rarely see it.
 
@@ -66,37 +66,37 @@ Gentle supragingival scaling removes surface deposits and necrotic tissue withou
 
 Chlorhexidine rinses—a potent antimicrobial mouth rinse—are used 2-3 times daily to suppress the harmful bacteria while your immune system recovers. You'll rinse with a concentrated solution, carefully coating your affected tissues.
 
-Metronidazole (Flagyl) is the antibiotic of choice, and this selection matters because it specifically targets the anaerobic bacteria causing trench mouth while sparing beneficial bacteria. The typical dose is 250 milligrams three times daily for 7-10 days. This antibiotic is not a broad-spectrum agent—it's specifically chosen because of its effectiveness against the particular organisms involved in trench mouth. If you're allergic to metronidazole, amoxicillin-clavulanate provides an alternative.
+Metronidazole (Flagyl) is the antibiotic of choice, and this selection matters because it specifically targets the anaerobic bacteria causing trench mouth while sparing helpful bacteria. The typical dose is 250 milligrams three times daily for 7-10 days. This antibiotic is not a broad-spectrum agent—it's specifically chosen because of its how well it works against the particular organisms involved in trench mouth. If you're allergic to metronidazole, amoxicillin-clavulanate provides an other option.
 
-Pain medication helps you eat and perform oral hygiene, which promotes healing. Your dentist may apply topical anesthetics during treatment to reduce discomfort.
+Pain medicine helps you eat and perform oral hygiene, which promotes healing. Your dentist may apply topical anesthetics during treatment to reduce discomfort.
 
 ## How Quickly You'll Improve
 
-Treatment response is dramatic. By the second day of metronidazole plus chlorhexidine rinses, pain substantially decreases and tissue necrosis visibly diminishes. Complete healing typically occurs within 2-3 weeks, with many patients achieving substantial improvement in just the first week.
+Treatment response is dramatic. By the second day of metronidazole plus chlorhexidine rinses, pain greatly decreases and tissue necrosis visibly diminishes. Complete healing typically occurs within 2-3 weeks, with many patients achieving substantial improvement in just the first week.
 
 Some dentists recommend a second course of metronidazole if healing plateaus after the initial course, though most cases resolve completely with a single 7-10 day course. As your tissues heal, the pain fully resolves, spontaneous bleeding stops, and gum appearance gradually returns to normal.
 
 ## Preventing Recurrence and Long-Term Health
 
-Trench mouth doesn't necessarily scar you permanently. Some people heal with complete tissue restoration; others retain subtle anatomical defects including slight loss of the pointed gum tissue between teeth. Complete healing without permanent effects occurs frequently, especially with prompt treatment.
+Trench mouth doesn't necessarily scar you permanently. Some people heal with complete tissue repair; others retain subtle anatomical defects including slight loss of the pointed gum tissue between teeth. Complete healing without permanent effects occurs frequently, especially with prompt treatment.
 
 Preventing recurrence focuses on addressing the factors that allowed trench mouth to develop in the first place. Smoking cessation dramatically reduces recurrence risk—so dramatically that it should be a top priority. Managing stress through exercise, counseling, or other stress-reduction techniques helps protect your immune system. Ensuring adequate sleep and nutrition supports your body's ability to fight off bacterial infections.
 
-Maintaining excellent oral hygiene and regular dental checkups prevent the plaque accumulation that provides environment for harmful bacteria. Many people find that [Improving Their Daily Teeth Brushing Technique](/article/best-practices-for-teeth-brushing-technique.html) helps prevent gum disease of all types.
+Keeping excellent oral hygiene and regular dental checkups prevent the plaque buildup that provides environment for harmful bacteria. Many people find that [Improving Their Daily Teeth Brushing Technique](/article/best-practices-for-teeth-brushing-technique.html) helps prevent gum disease of all types.
 
 ## When Complications Occur
 
-Without treatment, trench mouth may progress to necrotizing periodontitis—a more destructive form affecting deeper bone. This progression causes permanent bone loss and tooth mobility, potentially leading to tooth loss. Rarely, untreated trench mouth can extend beyond the gums to involve the broader mouth mucosa (necrotizing stomatitis) or even spread systemically, though these complications are rare in immunocompetent people.
+Without treatment, trench mouth may progress to necrotizing periodontitis—a more destructive form affecting deeper bone. This progression causes permanent bone loss and tooth mobility, potentially leading to tooth loss. Rarely, untreated trench mouth can extend beyond the gums to involve the broader mouth mucosa (necrotizing stomatitis) or even spread systemically, though these problems are rare in immunocompetent people.
 
 Prompt treatment prevents these serious progressions, making early dental attention essential.
 
 ## Important Distinctions from Regular Gum Disease
 
-Trench mouth differs fundamentally from typical gingivitis and periodontitis. Regular gum disease develops gradually, often without pain, and involves different bacteria. [Understanding the stages of gum disease](/article/gum-disease-stages-gingivitis-to-periodontitis.html) helps you recognize when you're dealing with something more serious like trench mouth. The acute onset, severe pain, tissue necrosis, and specific bacterial combination all distinguish trench mouth from typical periodontitis, and these differences determine treatment approaches.
+Trench mouth differs at its core from typical gingivitis and periodontitis. Regular gum disease develops gradually, often without pain, and involves different bacteria. [Understanding the stages of gum disease](/article/gum-disease-stages-gingivitis-to-periodontitis.html) helps you recognize when you're dealing with something more serious like trench mouth. The acute onset, severe pain, tissue necrosis, and specific bacterial mix all distinguish trench mouth from typical periodontitis, and these differences determine treatment approaches.
 
 ## Conclusion
 
-Trench mouth, though uncommon today, remains a distinctive and destructive infection responding dramatically well to prompt treatment. Recognizing the characteristic acute onset, severe pain, and tissue ulceration enables rapid diagnosis and initiation of metronidazole, chlorhexidine rinses, and supportive care. The condition heals completely in most cases when treated appropriately. Preventing recurrence requires addressing stress, quitting smoking, maintaining excellent oral hygiene, and supporting your immune health through sleep and nutrition.
+Trench mouth, though uncommon today, remains a distinctive and destructive infection responding dramatically well to prompt treatment. Recognizing the characteristic acute onset, severe pain, and tissue ulceration enables rapid diagnosis and initiation of metronidazole, chlorhexidine rinses, and supportive care. The condition heals completely in most cases when treated appropriately. Preventing recurrence requires addressing stress, quitting smoking, keeping excellent oral hygiene, and supporting your immune health through sleep and nutrition.
 
 > **Key Takeaway:** **Trench mouth is a bacterial infection that appears suddenly with severe pain and tissue damage, but responds dramatically to a combination of metronidazole antibiotics, chlorhexidine rinses, and gentle cleaning. Treatment should begin immediately upon diagnosis to prevent progression to permanent bone loss. Preventing recurrence means addressing stress, quitting smoking, and maintaining excellent oral hygiene—all factors that support your immune system's ability to fight off this infection.**
 

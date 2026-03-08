@@ -187,8 +187,7 @@ Related reading: [Gum Bleaching: Reducing Dark Pigmentation in](/article/gum-ble
 
 ## Conclusion
 
-Whether you're just learning about teeth whitening safety: evidence-based guide to bleaching or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Don't whiten if pregnant, under 16, have active cavities, poor hygiene, or tetracycline staining. Professional in-office whitening works in 1-2 hours. At-home kits take 7-14 nights.
 
 > **Key Takeaway:** Teeth whitening is super popular and most people want a brighter smile. Over-the-counter whitening products are everywhere. But is whitening safe?.
 

@@ -68,7 +68,7 @@ A gummy smile—showing too much gum tissue when smiling—affects 10-30% of peo
 
 Success depends on identifying your cause. Crown lengthening works best for altered passive eruption where teeth are naturally short because gingiva hasn't receded properly. Lip repositioning works for muscle hyperactivity causing excessive lip elevation. Orthodontics works for appropriate skeletal cases where tooth intrusion can reduce gingival display. Maxillary surgery addresses severe skeletal vertical excess but is complex and rarely chosen purely for esthetics.
 
-Your dentist or periodontist assesses your cause through examination and imaging, recommending appropriate treatment. They might use digital photography and smile analysis to show you exactly what's happening and what different treatments would achieve. Digital technology allows visualization of predicted outcomes before treatment, helping you make informed decisions.
+Your dentist or periodontist assesses your cause through exam and imaging, recommending appropriate treatment. They might use digital photography and smile analysis to show you exactly what's happening and what different treatments would achieve. Digital technology allows visualization of predicted outcomes before treatment, helping you make informed decisions.
 
 Your surgeon will also assess your bone quantity and gingival thickness, ensuring you're a good surgical candidate. Some people have inadequate bone or tissue for surgical treatment, making conservative approaches or different procedures more appropriate.
 
@@ -92,11 +92,11 @@ Full esthetic results typically stabilize 4-8 weeks after surgery, with continue
 
 **Botulinum Toxin:** Minimal downtime, some swelling possible, results appear over days.
 
-Avoid aggressive tooth brushing and flossing in treated areas during initial healing. Pain medication and antibiotics as prescribed prevent complications.
+Avoid aggressive tooth brushing and flossing in treated areas during initial healing. Pain medicine and antibiotics as prescribed prevent problems.
 
 ## Longevity
 
-Botulinum toxin is temporary (3-4 months). Surgical procedures provide permanent results, though aging changes gums and lips over years. Maintenance procedures may be needed decades later.
+Botulinum toxin is temporary (3-4 months). Surgical procedures provide permanent results, though aging changes gums and lips over years. Upkeep procedures may be needed decades later.
 
 ## Complications (Rare)
 
@@ -110,7 +110,7 @@ Botulinum toxin is temporary (3-4 months). Surgical procedures provide permanent
 
 ## What to Expect: Consultation and Treatment Planning
 
-When you consult about gummy smile correction, your dentist will perform comprehensive assessment. They'll examine your smile, take photos and measurements, evaluate your bite, and discuss your concerns. They'll show you before-and-after examples of similar cases. They'll explain what's realistic for your situation—sometimes complete elimination isn't achievable, but significant improvement is.
+When you consult about gummy smile correction, your dentist will perform full assessment. They'll examine your smile, take photos and measurements, evaluate your bite, and discuss your concerns. They'll show you before-and-after examples of similar cases. They'll explain what's realistic for your situation—sometimes complete elimination isn't achievable, but significant improvement is.
 
 If surgical treatment is recommended, your dentist will discuss timing (allowing any orthodontics to complete first), recovery expectations, and costs. They'll explain the specific procedure they recommend and why it's best for your cause.
 
@@ -122,7 +122,7 @@ Lip repositioning typically costs $2,000-5,000. Combined approaches cost more bu
 
 ## Timeline to Results
 
-Results don't appear immediately. Botulinum toxin requires 3-7 days to show effect and 2 weeks to peak effect. Surgical crown lengthening shows initial results within 2 weeks but takes 6-8 weeks for swelling to fully resolve and 6 months for complete maturation. This extended timeline is why patience matters—judging results too early gives an incomplete picture.
+Results don't appear right away. Botulinum toxin requires 3-7 days to show effect and 2 weeks to peak effect. Surgical crown lengthening shows initial results within 2 weeks but takes 6-8 weeks for swelling to fully resolve and 6 months for complete maturation. This extended timeline is why patience matters—judging results too early gives an incomplete picture.
 
 ## Combination Approaches
 

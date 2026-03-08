@@ -122,13 +122,13 @@ These habits achieve 95% microbiota rebalancing and keep your tongue normal inde
 
 ## The Good News: Excellent Prognosis
 
-This condition has essentially 100% resolution rate when you address the underlying cause. There are no serious complications for healthy people. The dark discoloration disappears completely, and everything returns to normal. Even in severely immunocompromised people, it responds well to treatment.
+This condition has essentially 100% resolution rate when you address the underlying cause. There are no serious problems for healthy people. The dark discoloration disappears completely, and everything returns to normal. Even in severely immunocompromised people, it responds well to treatment.
 
 ## Prevention and Long-Term Management
 
 Once you've experienced black hairy tongue, preventing recurrence is straightforward. Continue daily tongue brushing as part of normal oral hygiene—this single habit prevents 90% of recurrence. If you take antibiotics in the future, ask your doctor or dentist whether a narrower-spectrum antibiotic is possible for your specific infection. Narrower-spectrum antibiotics target your particular infection without disrupting your entire mouth bacteria population.
 
-Maintain excellent nutrition. This is particularly important if you have any underlying conditions like diabetes, malabsorption issues, or dietary restrictions. A B-complex supplement (containing at least 5mg riboflavin, 25mg niacin, and 1,000 micrograms B12 monthly) provides insurance against deficiency.
+Maintain excellent nutrition. This is especially important if you have any underlying conditions like diabetes, malabsorption issues, or dietary restrictions. A B-complex supplement (containing at least 5mg riboflavin, 25mg niacin, and 1,000 micrograms B12 monthly) provides insurance against deficiency.
 
 If you smoke or chew tobacco, quitting removes one significant risk factor. If quitting seems impossible, at least minimizing use helps reduce black hairy tongue risk. If you have dry mouth, addressing it—whether through prescription salivary stimulants, salivary substitutes, or treating the underlying cause—protects your mouth bacteria balance.
 
@@ -140,7 +140,7 @@ What's important is addressing the underlying cause so it doesn't recur repeated
 
 ## The Bottom Line
 
-Black hairy tongue is an uncomfortable cosmetic problem that responds beautifully to treatment. Most people feel relief when they learn it's harmless and will definitely go away. The experience often motivates people to improve habits like tongue hygiene, nutrition, and smoking cessation—making the experience ultimately beneficial.
+Black hairy tongue is an painful cosmetic problem that responds beautifully to treatment. Most people feel relief when they learn it's harmless and will definitely go away. The experience often motivates people to improve habits like tongue hygiene, nutrition, and smoking cessation—making the experience ultimately helpful.
 
 
 Related reading: [Clove Oil for Dental Pain: Clinical Evidence](/article/clove-oil-natural-pain-relief.html) and [Vitamins and Tooth Remineralization](/article/vitamins-and-tooth-remineralization.html).
@@ -148,7 +148,6 @@ Related reading: [Clove Oil for Dental Pain: Clinical Evidence](/article/clove-o
 ## Conclusion
 
 Lingua villosa nigra represents a benign but alarming condition responsive to systematic management addressing underlying dysbiosis and predisposing factors. If you have questions, your dentist can help you understand your options. Understanding its benign nature and addressing the root cause prevents recurrence and gives you complete peace of mind.
-
 
 
 > **Key Takeaway:** Black hairy tongue sounds alarming, but it's actually a harmless condition that looks much scarier than it is.

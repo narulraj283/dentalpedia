@@ -81,8 +81,7 @@ Related reading: [Milk and Your Teeth: Does It Help or Hurt?](/article/milk-cons
 
 ## Conclusion
 
-Whether you're just learning about understanding cavity risk factors for better dental health or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Your dentist can help you understand the best approach for your specific needs. Many risk factors are beyond your control (genetics, medications prescribed by your doctor, medical conditions).
 
 > **Key Takeaway:** Your dentist doesn't give everyone the same prevention plan.
 

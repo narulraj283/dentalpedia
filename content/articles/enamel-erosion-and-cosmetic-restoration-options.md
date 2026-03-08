@@ -24,7 +24,7 @@ Enamel erosion happens when acidic foods and beverages, or stomach acid, wear aw
 
 ## How Enamel Erosion Happens
 
-Your tooth enamel is the hardest substance in your body, but it dissolves in acids. Learning more about [Timeline for Teeth Color Improvement](/article/timeline-for-teeth-color-improvement.html) can help you understand this better. When you consume acidic foods and drinks—citrus fruits, soda, energy drinks, wine—the acid softens your enamel. If you also brush immediately after acid exposure, you're scrubbing away partially softened enamel. Over months or years, this repeated acid exposure gradually wears your enamel away.
+Your tooth enamel is the hardest substance in your body, but it dissolves in acids. Learning more about [Timeline for Teeth Color Improvement](/article/timeline-for-teeth-color-improvement.html) can help you understand this better. When you consume acidic foods and drinks—citrus fruits, soda, energy drinks, wine—the acid softens your enamel. If you also brush right away after acid exposure, you're scrubbing away partially softened enamel. Over months or years, this repeated acid exposure gradually wears your enamel away.
 
 Some people have erosion from stomach acid (called GERD, or acid reflux). The acid comes back up from your stomach into your mouth, bathing your teeth in acid, especially at night. Bulimia nervosa causes severe erosion because repeated vomiting exposes teeth to powerful stomach acid.
 
@@ -54,31 +54,31 @@ If your erosion is mild to moderate, your dentist might recommend non-invasive a
 
 ## Composite Resin Bonding
 
-For mild to moderate erosion affecting appearance or causing sensitivity, composite resin bonding is an economical option:
+For mild to moderate erosion affecting appearance or causing soreness, composite resin bonding is an economical option:
 
-Your dentist applies tooth-colored resin material directly to the eroded area, building up lost structure and improving appearance. This approach preserves maximum tooth structure because minimal (or no) preparation is usually needed. Composite bonding costs $200-500 per tooth, depending on extent of erosion.
+Your dentist applies tooth-colored resin material directly to the eroded area, building up lost structure and improving appearance. This approach preserves maximum tooth structure because minimal (or no) prep is usually needed. Composite bonding costs $200-500 per tooth, depending on extent of erosion.
 
 Advantages include quick treatment (usually one appointment), reversibility (if you change your mind later, it can be removed), and excellent appearance when done by a skilled dentist. The color closely matches your natural teeth.
 
-Disadvantages include some color change over 5-10 years (composite absorbs water and stains slightly), susceptibility to chipping if you grind your teeth or chew hard objects, and need for replacement every 7-10 years as wear develops. You may also want to read about [Benefits of Teeth Alignment Alternatives](/article/benefits-of-teeth-alignment-alternatives.html).
+Disadvantages include some color change over 5-10 years (composite absorbs water and stains slightly), susceptibility to chipping if you grind your teeth or chew hard objects. Need for replacement every 7-10 years as wear develops. You may also want to read about [Benefits of Teeth Alignment Alternatives](/article/benefits-of-teeth-alignment-alternatives.html).
 
 ## Porcelain and Ceramic Restorations
 
-For extensive erosion or when you want the most durable, longest-lasting option, porcelain or ceramic restorations are excellent choices:
+For extensive erosion or when you want the most durable, longest-lasting option, porcelain or ceramic repairs are excellent choices:
 
 **Veneers** cover the front surface of your teeth with a thin porcelain shell. Your dentist removes about 0.5-1 mm of tooth structure, then bonds a custom-made veneer over it. This approach provides comprehensive esthetic improvement and excellent durability—90%+ success at 10 years. Cost is typically $800-2000 per tooth.
 
 **Crowns** encase your entire tooth with a porcelain or ceramic cap. This approach handles more extensive erosion affecting the entire tooth structure. Crowns last 12-15+ years with proper care. Cost is typically $1000-3500 per tooth.
 
-Both veneers and crowns offer superior color stability and hardness compared to composite resin. They don't stain or change color over time the way composite can. They're also more resistant to chipping and wear. The trade-off is that preparation removes more tooth structure and is not reversible.
+Both veneers and crowns offer superior color stability and hardness compared to composite resin. They don't stain or change color over time the way composite can. They're also more resistant to chipping and wear. The trade-off is that prep removes more tooth structure and is not reversible.
 
 ## Complex Erosion Requiring Comprehensive Planning
 
-Severe erosion affecting your entire smile or changing your bite relationship might need comprehensive planning involving multiple specialists:
+Severe erosion affecting your entire smile or changing your bite relationship might need full planning involving multiple specialists:
 
-Your dentist might recommend orthodontics (braces) to reposition teeth, creating better esthetics and function before restorations are placed. Periodontal (gum) surgery might be needed if erosion extends below your gum line. Your dentist might combine multiple treatment approaches—some front teeth receiving veneers, back teeth receiving composite or crowns, depending on each tooth's specific needs.
+Your dentist might recommend orthodontics (braces) to reposition teeth, creating better esthetics and function before repairs are placed. Periodontal (gum) surgery might be needed if erosion extends below your gum line. Your dentist might combine multiple treatment approaches—some front teeth receiving veneers, back teeth receiving composite or crowns, depending on each tooth's specific needs.
 
-This comprehensive approach costs more and takes longer, but creates superior long-term results compared to addressing individual teeth in isolation.
+This full approach costs more and takes longer, but creates superior long-term results compared to addressing individual teeth in isolation.
 
 ## Special Considerations for Erosion from Different Causes
 
@@ -99,13 +99,13 @@ Once your teeth are restored, protect your investment:
 - See your dentist every six months for monitoring and professional fluoride application
 - Maintain excellent oral hygiene
 
-Composite restorations need professional polishing yearly and replacement every 7-10 years. Ceramic restorations last longer (12-15+ years) but still need maintenance and eventual replacement. Patient compliance with preventive measures extends longevity significantly.
+Composite repairs need expert polishing yearly and replacement every 7-10 years. Ceramic repairs last longer (12-15+ years) but still need upkeep and eventual replacement. Patient compliance with preventive measures extends longevity much.
 
 ## Conclusion
 
 Enamel erosion is preventable through limiting acid exposure, managing reflux, using fluoride, and proper brushing technique. Once erosion occurs, stopping progression is the priority. Conservative approaches (fluoride, desensitizing toothpaste) work for mild erosion.
 
-Composite bonding provides economical restoration for moderate erosion. Porcelain and ceramic restorations offer superior esthetics and durability for extensive erosion. Work with your dentist to determine which option best fits your situation, budget, and goals. Talk to your dentist about which options are right for your specific situation.
+Composite bonding provides economical repair for moderate erosion. Porcelain and ceramic repairs offer superior esthetics and durability for extensive erosion. Work with your dentist to determine which option best fits your situation, budget, and goals. Talk to your dentist about which options are right for your specific situation.
 
 > **Key Takeaway:** Once enamel is gone, it doesn't grow back, but modern dentistry offers excellent options to repair damaged teeth and restore your smile.
 

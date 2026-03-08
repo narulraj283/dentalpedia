@@ -101,7 +101,6 @@ Getting quick treatment when you first lose a restoration reduces the chances of
 Lost restorations demand prompt evaluation and temporary stabilization to prevent pulpal compromise and patient symptom progression. Definitive restoration selection should be guided by remaining tooth structure adequacy, endodontic status, caries risk assessment, and long-term tooth prognosis. If you have questions, your dentist can help you understand your options. Temporary filling materials or cement can provide relief until you see your dentist. Your permanent solution depends on how much tooth structure remains—might be a new filling, crown, or other restoration. Protecting your new restoration with careful eating habits and excellent home care helps it last many years.
 
 
-
 > **Key Takeaway:** Losing a filling or crown is stressful but manageable. Get immediate relief and understand your options for permanent repair to protect your tooth.
 
 ## Related Articles

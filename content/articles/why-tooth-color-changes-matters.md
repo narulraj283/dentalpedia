@@ -32,7 +32,7 @@ references:
   - title: "Genetic and constitutional factors influencing baseline tooth color variation"
     url: "https://pubmed.ncbi.nlm.nih.gov/22133554/"
 ---
-Your teeth naturally change color throughout your life. Some color changes are completely normal. Others are harmless but cosmetically concerning. And a few color changes signal underlying problems requiring professional attention. Understanding what causes teeth to change color helps you know when to seek treatment and what options exist to address discoloration.
+Your teeth naturally change color throughout your life. Some color changes are completely normal. Others are harmless but cosmetically concerning. And a few color changes signal underlying problems requiring expert attention. Understanding what causes teeth to change color helps you know when to seek treatment and what options exist to address discoloration.
 
 ## Normal Age-Related Color Changes
 
@@ -60,11 +60,11 @@ Surface staining (called extrinsic staining) happens when dietary and behavioral
 
 **Iron supplements**: These can cause black-brown staining, particularly on lingual (tongue-side) surfaces and between teeth.
 
-Surface staining usually responds well to professional cleaning. If staining persists, professional polishing or whitening can address it.
+Surface staining usually responds well to expert cleaning. If staining persists, expert polishing or whitening can address it.
 
 ## Internal Staining: When Color Change Signals Past Medication or Medical Issues
 
-Internal staining (intrinsic staining) happens when pigmented substances incorporate into tooth structure while your tooth was developing:
+Internal staining (intrinsic staining) happens when pigmented substances include into tooth structure while your tooth was developing:
 
 **Tetracycline antibiotics**: If you took tetracycline, doxycycline, or minocycline as a child (between infancy and age 8) while your permanent teeth were developing, these medications can stain teeth yellow-gray or gray-brown. The intensity depends on the dose and when you took it. This staining is permanent and doesn't respond to whitening, but bonding or veneer options can mask it. [Smile improvement options](/article/why-smile-improvement-options-matters.html) discuss masking approaches.
 
@@ -132,11 +132,11 @@ Schedule an appointment if:
 - Color change accompanies pain or swelling
 - Gray discoloration appears suddenly
 
-Don't panic about gradual age-related darkening—that's normal. But sudden changes deserve evaluation.
+Don't panic about gradual age-related darkening—that's normal. But sudden changes deserve check.
 
 ## Conclusion
 
-Tooth color changes result from multiple causes ranging from normal aging to dietary habits to past medical treatments. Most color changes are harmless and cosmetically treatable. However, sudden localized color changes—particularly gray or black discoloration, or color changes accompanied by swelling—warrant professional evaluation to rule out underlying pathology. Understanding the likely cause helps you determine whether treatment is needed and what options exist.
+Tooth color changes result from multiple causes ranging from normal aging to dietary habits to past medical treatments. Most color changes are harmless and cosmetically treatable. However, sudden localized color changes—especially gray or black discoloration, or color changes accompanied by swelling—warrant expert check to rule out underlying pathology. Understanding the likely cause helps you determine whether treatment is needed and what options exist.
 
 > **Key Takeaway:** Teeth naturally darken with age as inner dentin thickens. Surface staining from coffee, wine, smoking, and other habits responds well to professional cleaning and whitening. Internal staining from childhood tetracycline use or excessive fluoride doesn't respond to whitening but can be masked with bonding or veneers. Sudden color changes, particularly gray discoloration or color changes in one tooth, warrant professional evaluation to rule out internal resorption or pulp death. Understanding the cause guides treatment decisions.
 

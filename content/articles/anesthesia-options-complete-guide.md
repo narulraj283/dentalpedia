@@ -120,7 +120,6 @@ Related reading: [Cost of Surgical Site Healing and Postoperative](/article/cost
 Be honest with your dentist about your anxiety level. Downplaying your fear sometimes means insufficient anesthesia, leaving you uncomfortable. Talk to your dentist about how this applies to your situation.
 
 
-
 > **Key Takeaway:** About 1 in 5 people avoid dental care because they're scared of pain.
 
 ## Related Articles

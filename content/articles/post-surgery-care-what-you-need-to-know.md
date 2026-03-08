@@ -71,6 +71,12 @@ Prevent dry socket through good post-operative care: don't smoke, gentle oral hy
 
 For more information, see [Surgical Site Healing - Phases and Biological Responses](/article/how-to-surgical-site-healing.html) and [Common Misconceptions About Extraction Complications](/article/common-misconceptions-about-extraction-complications.html).
 
+Rest is the most important part of recovery after mouth surgery. Avoid heavy lifting or exercise for at least 48 hours. Sleep with your head raised on extra pillows to reduce swelling.
+
+Stick to soft, cool foods for the first few days. Yogurt, smoothies, mashed potatoes, and scrambled eggs are good choices. Avoid hot, spicy, or crunchy foods until your dentist says your healing is on track.
+
+Do not use a straw for at least one week. The sucking motion can pull the blood clot from the surgery site. Losing this clot causes a painful condition called dry socket that slows healing.
+
 ## Conclusion
 
 Post-surgical care represents a critical component of oral surgical success. Infection risks require meticulous wound care while protecting healing sites, blood clot dislodgement requires activity restrictions and clot-protective measures, medication management errors require comprehensive patient education, and bleeding complications require appropriate hemostatic intervention. Following your surgeon's post-operative protocols ensures superior healing outcomes and minimizes morbidity.

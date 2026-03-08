@@ -34,13 +34,13 @@ Giving unnecessary antibiotics increases your risk of side effects and contribut
 
 ## How Preventive Antibiotics Work
 
-When prescribed, antibiotics achieve maximum effectiveness when taken 60 minutes before the procedure (120 minutes for certain antibiotics). A single dose taken before the procedure is all that's needed—no postoperative antibiotics are necessary for most routine procedures.
+When prescribed, antibiotics achieve maximum how well it works when taken 60 minutes before the procedure (120 minutes for certain antibiotics). A single dose taken before the procedure is all that's needed—no postoperative antibiotics are necessary for most routine procedures.
 
 Amoxicillin 2 grams covers the bacteria in your mouth and is inexpensive. For penicillin-allergic patients, clindamycin 600 mg works well.
 
 ## Myth: Postoperative Antibiotics Help Your Extraction Heal Better
 
-Research shows postoperative antibiotics don't help healing of uncomplicated extractions. If infection doesn't develop immediately, additional antibiotics afterward provide no benefit. Studies comparing patients who took antibiotics after extraction with those who didn't show identical healing outcomes.
+Research shows postoperative antibiotics don't help healing of uncomplicated extractions. If infection doesn't develop right away, additional antibiotics afterward provide no benefit. Studies comparing patients who took antibiotics after extraction with those who didn't show identical healing outcomes.
 
 Unnecessary postoperative antibiotics expose you to: allergic reactions, gastrointestinal problems, and yeast infections (from disrupting helpful bacteria). Skip them unless your dentist detects signs of infection.
 
@@ -52,7 +52,7 @@ If you have a heart condition, ask your cardiologist whether you need prophylaxi
 
 ## Healing and Infection Aren't the Same
 
-Normal healing produces some inflammation, minimal drainage, and minor discomfort for a few days. Infection produces increasing pain, swelling, fever, and often pus. These are different processes. Antibiotics don't improve normal healing—they only treat infection if present.
+Normal healing produces some swelling, minimal drainage, and minor discomfort for a few days. Infection produces increasing pain, swelling, fever, and often pus. These are different processes. Antibiotics don't improve normal healing—they only treat infection if present.
 
 Your dentist watches for signs of infection and treats them if they develop, rather than giving preventive antibiotics to everyone.
 
@@ -72,7 +72,7 @@ These measures prevent most infections without antibiotic prophylaxis.
 
 Every unnecessary antibiotic prescription contributes to antibiotic-resistant bacteria. Bacteria evolve resistance when exposed to antibiotics they don't actually need to survive. Within a few decades, this can create bacteria that don't respond to our strongest antibiotics.
 
-This isn't theoretical—MRSA and other resistant bacteria already pose major health problems. Judicious antibiotic use preserves their effectiveness.
+This isn't theoretical—MRSA and other resistant bacteria already pose major health problems. Judicious antibiotic use preserves their how well it works.
 
 ## Common Concerns About Infection After Dental Work
 
@@ -94,7 +94,7 @@ What symptoms mean I should call if infection develops? When should I come back 
 
 ## Protecting Your Results Long-Term
 
-Once you've addressed infection prevention, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+Once you've addressed infection prevention, keeping your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with expert cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
 
 ## Conclusion
 

@@ -86,7 +86,6 @@ Related reading: [Cost of Invisible Braces Benefits](/article/cost-of-invisible-
 The food restrictions aren't punishment—they're protection for your investment. You're paying for braces to get a beautiful straight smile. Talk to your dentist about how this applies to your situation.
 
 
-
 > **Key Takeaway:** Brackets are bonded (glued) to your teeth with a special adhesive.
 
 ## Related Articles

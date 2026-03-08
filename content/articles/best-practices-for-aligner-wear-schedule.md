@@ -191,7 +191,6 @@ Related reading: [Risk and Concerns with Teeth Relapse Prevention](/article/risk
 **Article Quality Metrics**: 1,668 words | 7 sections | 10 peer-reviewed references | Clinical compliance protocols | Systematic intervention frameworks Your dentist can provide personalized recommendations based on your specific needs. Seriously. The whole system depends on you doing your part.
 
 
-
 > **Key Takeaway:** Clear aligners like Invisalign only work if you wear them. Seriously. The whole system depends on you doing your part.
 
 ## Related Articles

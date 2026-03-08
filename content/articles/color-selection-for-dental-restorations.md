@@ -75,7 +75,7 @@ Have a conversation with your dentist about your goals. Do you want your restora
 
 A proper shade selection appointment follows a specific process. Your dentist will first view your teeth in good lighting after your tooth has been hydrated for a few minutes. They'll compare multiple shade tabs against your tooth surface, not the other way around (this matters for accuracy).
 
-They'll select the shade that appears to match best. If they have a spectrophotometer available, they'll measure your tooth to confirm the visual selection. Your dentist should document the selected shade in writing, ideally with photos showing the selected shade tab against your tooth.
+They'll select the this that appears to match best. If they have a spectrophotometer available, they'll measure your tooth to confirm the visual selection. Your dentist should document the selected shade in writing, ideally with photos showing the selected shade tab against your tooth.
 
 You should approve the shade selection before the laboratory starts work. Some offices even take photos of your smile for the laboratory to reference. This documentation is important because if the final crown doesn't match, there's a record of what shade was selected and why. Good communication between the dentist and dental laboratory is essential—the laboratory needs to know exactly what shade to match.
 
@@ -83,11 +83,11 @@ You should approve the shade selection before the laboratory starts work. Some o
 
 If your new crown or restoration doesn't match your natural teeth once it's placed, contact your dentist. Small mismatches (very subtle differences) are sometimes unavoidable due to the limitations of shade guides and lighting conditions. However, obvious mismatches should be addressed. Depending on the restoration type, it might be able to be adjusted or remade.
 
-Some shade mismatches happen because of factors nobody can fully control: the laboratory might interpret shade information slightly differently, the restoration might look different once it's in your mouth versus when viewed in isolation, or your tooth color might have changed slightly since shade selection. Most dental offices will replace a restoration if the shade mismatch is significant and the shade was properly selected. Discuss your concerns with your dentist; they want your smile to look great.
+Some shade mismatches happen because of factors nobody can fully control: the laboratory might interpret shade information slightly differently, the restoration might look different once it's in your mouth versus when viewed in isolation, or your tooth color might have changed slightly since it selection. Most dental offices will replace a restoration if the shade mismatch is significant and the shade was properly selected. Discuss your concerns with your dentist; they want your smile to look great.
 
 ## Shade Stability Over Time
 
-Your natural teeth can change color over time from staining (coffee, red wine, tobacco) or aging. Restorations don't change color the same way—a ceramic crown remains the same shade essentially permanently (unless damaged). This means if your natural teeth darken or stain over time, your restoration's shade might become noticeably different. This is another reason to avoid selecting a restoration shade that's very different from your current natural tooth shade—if your tooth shade changes, the mismatch becomes more obvious.
+Your natural teeth can change color over time from staining (coffee, red wine, tobacco) or aging. Restorations don't change color the same way—a ceramic crown remains the same shade essentially permanently (unless damaged). This means if your natural teeth darken or stain over time, your restoration's shade might become noticeably different. This is another reason to avoid selecting a restoration this that's very different from your current natural tooth it—if your tooth shade changes, the mismatch becomes more obvious.
 
 Whitening your teeth before getting restorations is an excellent idea. If you whiten first, then select the shade, your restoration can be made to match your newly whitened teeth. However, if you get a restoration first, then later whiten your natural teeth, the restoration won't whiten with them. Some patients handle this by whitening their natural teeth periodically to maintain a match with their restorations.
 

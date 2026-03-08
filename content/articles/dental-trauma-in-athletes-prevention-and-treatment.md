@@ -48,23 +48,23 @@ If dirty, rinse gently in milk or saline (never scrub). Replantation within 30 m
 
 For fractured teeth with visible pulp (red bleeding point), keep the tooth clean and covered. For displaced teeth, gentle repositioning using finger pressure slowly returns the tooth to normal position. Never use excessive force.
 
-Control hemorrhage using gauze and hydrogen peroxide rinse. If bleeding continues beyond 10 minutes, seek emergency department evaluation for possible deeper injury.
+Control hemorrhage using gauze and hydrogen peroxide rinse. If bleeding continues beyond 10 minutes, seek emergency department check for possible deeper injury.
 
 ## Professional Treatment
 
-Uncomplicated crown fractures require pulp protection if exposed dentin is significant or fresh. Dentin bonding agents or glass ionomer cement seal exposed dentin, preventing bacterial contamination and reducing sensitivity.
+Uncomplicated crown fractures require pulp protection if exposed dentin is significant or fresh. Dentin bonding agents or glass ionomer cement seal exposed dentin, preventing bacterial infection risk and reducing soreness.
 
-Complicated crown fractures with pulp exposure need immediate pulp protection with calcium hydroxide paste. The tooth's vitality should be assessed with electrical pulp testing and cold sensitivity testing at 6-8 weeks. If the tooth remains vital (responsive to electrical and cold testing), root canal therapy can sometimes be deferred.
+Complicated crown fractures with pulp exposure need immediate pulp protection with calcium hydroxide paste. The tooth's vitality should be assessed with electrical pulp testing and cold soreness testing at 6-8 weeks. If the tooth remains vital (responsive to electrical and cold testing), root canal therapy can sometimes be deferred.
 
-Displaced teeth require gentle repositioning and stabilization with flexible splints (wire-composite) for 7-14 days. Splint removal occurs at 2 weeks with assessment of healing.
+Displaced teeth require gentle repositioning and steadying with flexible splints (wire-composite) for 7-14 days. Splint removal occurs at 2 weeks with assessment of healing.
 
 For avulsed teeth, root canal therapy is usually recommended at 1-2 weeks to decontaminate the canal system and reduce resorption risk.
 
 ## Restoration and Recovery
 
-Uncomplicated crown fractures are restored with composite resin, ceramic crown, or fragment reattachment if the original fragment is available. Composite provides immediate restoration; crown provides longevity but costs more.
+Uncomplicated crown fractures are restored with composite resin, ceramic crown, or fragment reattachment if the original fragment is available. Composite provides immediate repair; crown provides longevity but costs more.
 
-Root-treated teeth require posts and core buildup if remaining crown structure is insufficient. Fiber-reinforced composite posts with adhesive seating provide superior stress distribution compared to metal posts.
+Root-treated teeth require posts and core buildup if remaining crown structure is not enough. Fiber-reinforced composite posts with adhesive seating provide superior stress distribution compared to metal posts.
 
 Recovery timeline: initial healing 2-4 weeks, full recovery usually by 3-6 months.
 
@@ -80,23 +80,23 @@ Mouthguards should be remade annually or whenever tooth development makes them l
 
 Athletes can typically return to participation after acute hemorrhage control and pain management permit safe activity. Displaced teeth requiring repositioning should be stabilized before playing.
 
-Definitive restoration completion should precede intensive competition to avoid re-injury before restoration maturation.
+Definitive repair completion should precede intensive competition to avoid re-injury before repair maturation.
 
 ## Long-Term Outlook
 
-Uncomplicated crown fractures with simple restoration show excellent long-term outcomes. Complicated crown fractures resulting in pulp necrosis require root canal therapy with 85-95% healing success when followed longitudinally.
+Uncomplicated crown fractures with simple repair show excellent long-term outcomes. Complicated crown fractures resulting in pulp necrosis require root canal therapy with 85-95% healing success when followed longitudinally.
 
 ## What Athletes and Parents Should Know
 
 Dental trauma is preventable with proper mouthguards and technique. Once it happens, rapid response (within 15 minutes for knocked-out teeth) dramatically improves outcomes. Even serious-looking trauma often heals well with proper treatment. Partner with your dentist on trauma prevention and be prepared with emergency contact information at all competitions.
 
-Avulsed teeth that are replanted within 30-60 minutes have highest healing success rates. Even with excellent initial treatment, traumatized teeth face increased risk of root resorption over years, which may eventually necessitate extraction.
+Avulsed teeth that are replanted within 30-60 minutes have highest healing success rates. Even with excellent initial treatment, traumatized teeth face increased risk of root resorption over years, which may eventually require extraction.
 
 Preventive strategies and immediate appropriate care maximize outcomes and preserve traumatized teeth.
 
 ## Protecting Your Results Long-Term
 
-Once you've addressed dental trauma in athletes prevention and treatment, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+Once you've addressed dental trauma in athletes prevention and treatment, keeping your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with expert cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
 
 ## Conclusion
 

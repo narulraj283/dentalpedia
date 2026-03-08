@@ -115,7 +115,6 @@ Related reading: [Cosmetic Dentistry for Aging Smiles: Rejuvenation](/article/co
 Pound E. Esthetic dentures and their prosthodontic and restorative aspects. Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** When you're considering cosmetic dental work—whether it's whitening, veneers, or crowns—you want to know exactly what you'll look like afterward.
 
 ## Related Articles

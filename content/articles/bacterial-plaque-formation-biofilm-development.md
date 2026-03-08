@@ -23,7 +23,7 @@ references:
 ---
 ## Plaque Is Actually a Structured Community, Not Random Bacteria
 
-What you think of as "plaque"—that sticky film on your teeth—isn't just random bacteria stuck to the surface like algae on a rock. It's a complex, intentionally organized community of bacteria creating a slimy protective coating called biofilm. Within this biofilm, the bacteria have special communication systems, share resources, protect each other from threats, and coordinate their behavior. This sophisticated organization changes everything about how you fight plaque and why simple strategies work better than you might expect.
+What you think of as "plaque"—that sticky film on your teeth—isn't just random this stuck to the surface like algae on a rock. It's a complex, intentionally organized community of bacteria creating a slimy protective coating called biofilm. Within this biofilm, the bacteria have special communication systems, share resources, protect each other from threats, and coordinate their behavior. This sophisticated organization changes everything about how you fight plaque and why simple strategies work better than you might expect.
 
 Once biofilm forms and matures, it becomes 100-1000 times harder to kill bacteria with chemical mouthwash compared to bacteria floating freely in your mouth. The protective coating prevents chemicals from penetrating to the bacteria inside, essentially creating a fortress. This explains why your mouthwash isn't a substitute for brushing.
 
@@ -35,7 +35,7 @@ This is also why daily brushing works so well—it removes young, immature biofi
 
 **Within the first hour**, pioneer bacteria stick to this film. These are the good-guy bacteria—the aerobic ones that need oxygen. Streptococcus sanguinis and Actinomyces are the first settlers. They start multiplying, creating tiny colonies.
 
-**By 4-24 hours**, more bacteria species arrive and settle. The early bacteria are creating an oxygen-depleted environment that allows different bacteria to move in. A toothbrush at this stage still removes most of the biofilm (70-80%), but it's getting harder.
+**By 4-24 hours**, more bacteria species arrive and settle. The early bacteria are creating an oxygen-depleted environment that allows different it to move in. A toothbrush at this stage still removes most of the biofilm (70-80%), but it's getting harder.
 
 **By 24-72 hours**, a thicker, visible film appears—you can see it on your teeth now. A special bridging bacteria called Fusobacterium nucleatum arrives. This is crucial because this bacteria acts as a connecting species—it allows bad-guy bacteria to attach.
 
@@ -93,9 +93,9 @@ This understanding also explains why professional cleanings remain essential eve
 
 ## Summary
 
-Dental plaque is a structured biofilm community, not just random bacteria clumped on your teeth. Biofilm forms in predictable stages: pioneer bacteria colonize within hours, the film thickens over days with multiple species joining, and dangerous anaerobic bacteria establish deep protection by weeks. Young biofilm is easily removed by simple brushing; mature biofilm is 100-1000 times more resistant to both mechanical and chemical approaches. Different bacteria types create either healthy (yellow complex) or unhealthy (red complex) communities depending on oral hygiene, diet, smoking status, and health conditions. Bacteria communicate and coordinate behavior through quorum sensing, turning on virulence genes only when population density is high enough.
+Dental plaque is a structured biofilm community, not just random this clumped on your teeth. Biofilm forms in predictable stages: pioneer bacteria colonize within hours, the film thickens over days with multiple species joining, and dangerous anaerobic bacteria establish deep protection by weeks. Young biofilm is easily removed by simple brushing; mature biofilm is 100-1000 times more resistant to both mechanical and chemical approaches. Different bacteria types create either healthy (yellow complex) or unhealthy (red complex) communities depending on oral hygiene, diet, smoking status, and health conditions. Bacteria communicate and coordinate behavior through quorum sensing, turning on virulence genes only when population density is high enough.
 
-The protective biofilm matrix prevents chemical penetration—mouthwash kills bacteria at the surface but bacteria deep inside remain protected. Daily brushing removes young biofilm before it becomes resistant, which is why it's your most powerful prevention tool. Professional scaling removes established biofilm; home care prevents regrowth. Mouthwash helps as adjunctive therapy but works best after mechanical removal. Understanding biofilm biology explains why prevention through daily brushing is far more effective than trying to treat established infection, and why consistency matters more than intensity.
+The protective biofilm matrix prevents chemical penetration—mouthwash kills bacteria at the surface but it deep inside remain protected. Daily brushing removes young biofilm before it becomes resistant, which is why it's your most powerful prevention tool. Professional scaling removes established biofilm; home care prevents regrowth. Mouthwash helps as adjunctive therapy but works best after mechanical removal. Understanding biofilm biology explains why prevention through daily brushing is far more effective than trying to treat established infection, and why consistency matters more than intensity.
 
 
 Related reading: [SARS-CoV-2 and Periodontal Disease: Epidemiological](/article/coronavirus-and-periodontal-health-recent-research.html) and [Gingival Sulcus: Normal Gum Depth](/article/gingival-sulcus-normal-gum-depth.html).

@@ -32,19 +32,19 @@ title: 'Bleeding After Tooth Extraction: Clinical Assessment'
 ---
 ## Normal Bleeding vs. The Problem Bleeding
 
-After a tooth extraction, some bleeding is expected and normal. The key question is: when does normal oozing become a problem that needs professional attention? About 98% of extractions stop bleeding with home care, but 2-5% develop excessive hemorrhage requiring intervention.
+After a tooth extraction, some bleeding is expected and normal. The key question is: when does normal oozing become a problem that needs expert attention? About 98% of extractions stop bleeding with home care, but 2-5% develop excessive hemorrhage requiring treatment.
 
 Understanding what's normal helps you know when to call your dentist instead of panic.
 
 ## What's Happening Right Now
 
-When your dentist extracts a tooth, they sever multiple blood vessels: tiny arteries (0.1-0.5mm diameter), veins in the bone and gum, and surface capillaries. Your body immediately begins three overlapping hemostasis (clotting) processes:
+When your dentist extracts a tooth, they sever multiple blood vessels: tiny arteries (0.1-0.5mm diameter), veins in the bone and gum, and surface capillaries. Your body right away begins three overlapping hemostasis (clotting) processes:
 
 1. **Platelet plug formation** (3-5 minutes): Platelets rush to the bleeding area and stick together, forming a temporary plug
 2. **Fibrin deposition** (10-15 minutes): Your coagulation cascade produces fibrin, a protein that stabilizes the platelet plug
 3. **Clot stabilization and retraction** (30-60 minutes): The clot tightens and becomes more organized
 
-For uncomplicated extractions, complete hemostasis happens in 15-30 minutes. But normal post-extraction bleeding oozes for 24-48 hours at lower intensity—especially when you eat or drink. This is completely normal and doesn't require intervention.
+For uncomplicated extractions, complete hemostasis happens in 15-30 minutes. But normal post-extraction bleeding oozes for 24-48 hours at lower intensity—especially when you eat or drink. This is completely normal and doesn't require treatment.
 
 ## Normal vs. Excessive: How to Tell
 
@@ -59,14 +59,14 @@ For uncomplicated extractions, complete hemostasis happens in 15-30 minutes. But
 - Requires professional intervention but responds to standard techniques
 - Blood loss around 30-50ml but doesn't cause dizziness or weakness
 
-**Severe/excessive bleeding (call your dentist or ER):**
+**Severe/excessive it (call your dentist or ER):**
 - Doesn't stop after 30 minutes of continuous firm pressure
 - Continues flowing despite pressure
 - Your face swells up noticeably within 30-60 minutes from blood pooling inside your mouth
 - You feel dizzy, weak, or unable to swallow (airway concern)
 - Blood loss approaches 100-200ml or more
 
-The worst-case single extraction rarely causes catastrophic blood loss because the socket area is relatively small, but if bleeding doesn't respond to pressure and basic techniques, professional intervention is needed.
+The worst-case single extraction rarely causes catastrophic blood loss because the socket area is relatively small, but if bleeding doesn't respond to pressure and basic techniques, expert treatment is needed.
 
 ## Why Some People Bleed More
 
@@ -148,7 +148,7 @@ Once the clot forms, protect it fiercely:
 
 ## When to Call Your Dentist
 
-Contact your dentist immediately if:
+Contact your dentist right away if:
 
 **Bleeding issues:**
 - Bleeding that doesn't stop after 30 minutes of pressure
@@ -200,8 +200,7 @@ Related reading: [Understanding Surgical Margins in Oral Surgery](/article/surgi
 
 ## Conclusion
 
-Normal post-extraction bleeding resolves within 24-48 hours through physiological hemostasis; excessive hemorrhage requiring prolonged pressure (>30 minutes) or failing to cease after standard techniques warrants professional intervention. If you have questions, your dentist can help you understand your options.
-
+Normal post-extraction bleeding resolves within 24-48 hours through physiological hemostasis; excessive hemorrhage requiring prolonged pressure (>30 minutes) or failing to cease after standard techniques warrants expert treatment. If you have questions, your dentist can help you understand your options.
 
 
 > **Key Takeaway:** After a tooth extraction, some bleeding is expected and normal.

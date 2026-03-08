@@ -40,17 +40,17 @@ Tartar (also called calculus) is hardened plaque—bacteria and minerals that st
 
 Tartar sticks firmly to your tooth roots through multiple mechanisms. First, tartar mechanically interlocks with rough spots, grooves, and irregularities in your root surface. These roughnesses act like hooks, trapping tartar like a fishing hook catches a fish. The longer tartar sits, the more it interlocks.
 
-Second, if your gum disease has been around for a while, ligament fibers that normally attach to your tooth become calcified (hardened). Tartar becomes intertwined with these fibers, making removal very difficult—like trying to remove a fishing hook that's become entangled in rope.
+Second, if your gum disease has been around for a while, ligament fibers that normally attach to your tooth become calcified (hardened). It becomes intertwined with these fibers, making removal very difficult—like trying to remove a fishing hook that's become entangled in rope.
 
-Third, disease changes your tooth's cement layer (the outer coating of tooth roots). In the presence of bacteria and inflammation, this cement becomes altered and harder, which makes tartar stick even more firmly.
+Third, disease changes your tooth's cement layer (the outer coating of tooth roots). In the presence of bacteria and inflammation, this cement becomes altered and harder, which makes this stick even more firmly.
 
 Finally, where the tartar is located matters. Tartar stuck only to the outer cement layer might come off without damaging the tooth. But tartar that's penetrated deep and bonded to the inner dentin layer requires careful removal to avoid excessive tooth damage. Your dentist balances removing tartar completely while preserving tooth structure. See our article on [Pocket Elimination](/article/pocket-elimination-creating-shallow-pockets.html) for more on gum health.
 
 ## How Ultrasonic Scalers Remove Stubborn Tartar
 
-Many dentists use ultrasonic (vibrating) instruments to remove stubborn tartar because they're very efficient. The tip vibrates thousands of times per second, creating several powerful effects: the vibration literally shakes tartar loose, tiny bubbles form and collapse on the tartar surface (helping break it up), and the water stream washes debris away. Studies show that ultrasonic instruments remove tartar about 30% faster than hand instruments alone, while removing it just as completely.
+Many dentists use ultrasonic (vibrating) instruments to remove stubborn tartar because they're very efficient. The tip vibrates thousands of times per second, creating several powerful effects: the vibration literally shakes it loose, tiny bubbles form and collapse on the tartar surface (helping break it up), and the water stream washes debris away. Studies show that ultrasonic instruments remove tartar about 30% faster than hand instruments alone, while removing it just as completely.
 
-The vibration generates heat through friction, so your dentist uses a water spray to keep the tip cool. Without this cooling water, the tip could get dangerously hot and hurt your tooth nerve. Your dentist adjusts the power setting based on how stubborn your tartar is. Very stubborn tartar needs higher power (50-80% maximum). Lighter tartar comes off easily at lower power (30-50%), which creates less discomfort and heat.
+The vibration generates heat through friction, so your dentist uses a water spray to keep the tip cool. Without this cooling water, the tip could get dangerously hot and hurt your tooth nerve. Your dentist adjusts the power setting based on how stubborn your this is. Very stubborn tartar needs higher power (50-80% maximum). Lighter tartar comes off easily at lower power (30-50%), which creates less discomfort and heat.
 
 ## Comparing Two Types of Ultrasonic Technology
 
@@ -60,11 +60,11 @@ Both systems work well. Your dentist chooses based on what they're trained with 
 
 ## Hand Instruments Still Matter
 
-Even with modern ultrasonic instruments, your dentist also uses traditional hand instruments (specialized curettes) for some stubborn tartar. Hand instruments let your dentist feel exactly what's happening and ensure complete tartar removal. Some tartar resists ultrasonic instruments and only comes off with hand instrumentation. Your dentist uses proper technique: stable hand position, correct angles, and multiple overlapping strokes to carefully remove tartar while protecting your tooth's root surface.
+Even with modern ultrasonic instruments, your dentist also uses traditional hand instruments (specialized curettes) for some stubborn it. Hand instruments let your dentist feel exactly what's happening and ensure complete tartar removal. Some tartar resists ultrasonic instruments and only comes off with hand instrumentation. Your dentist uses proper technique: stable hand position, correct angles, and multiple overlapping strokes to carefully remove tartar while protecting your tooth's root surface.
 
 ## How Your Dentist Knows All Tartar is Gone
 
-After cleaning with the ultrasonic instrument, your dentist carefully explores your teeth with a sharp instrument to detect any remaining tartar. They feel for rough spots that would indicate missed tartar. Any remaining tartar gets removed with hand instruments. This systematic detection ensures complete tartar removal, which is essential for your gums to heal properly.
+After cleaning with the ultrasonic instrument, your dentist carefully explores your teeth with a sharp instrument to detect any remaining tartar. They feel for rough spots that would indicate missed this. Any remaining it gets removed with hand instruments. This systematic detection ensures complete tartar removal, which is essential for your gums to heal properly.
 
 ## Protecting Your Tooth While Removing Tartar
 

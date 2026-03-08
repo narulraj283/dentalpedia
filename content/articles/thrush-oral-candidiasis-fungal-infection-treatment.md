@@ -195,14 +195,14 @@ Preventive measures (good hygiene, proper inhaler rinsing, removing dentures at 
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding oral candidiasis: clinical presentation, diagnosis, and helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Oral candidiasis encompasses a spectrum of clinical presentations, each requiring appropriate diagnostic confirmation and risk factor modification. Pseudomembranous, erythematous, and hyperplastic forms represent distinct pathophysiological processes demanding tailored treatment approaches. Topical nystatin (100,000 U/mL) remains first-line for limited disease, while fluconazole (100-200 mg daily) addresses refractory cases and systemic involvement. Success requires not only antifungal therapy but also comprehensive risk factor mitigation including denture hygiene optimization, salivary flow assessment, immune status evaluation, and antibiotic stewardship.
 
 > **Key Takeaway:** Oral candidiasis appears as white patches you can wipe off (most common), red sore areas, or white patches you can't wipe off (less common). Nystatin swish 100,000 units/mL four to five times daily for 10-14 days treats most cases. Denture wearers need aggressive denture cleaning plus antifungal treatment. Recurrent thrush requires investigation of why it keeps coming back (weak immunity, dry mouth, antibiotic use, etc.).
 
 ## Related Articles
 
+- [Down Syndrome and Special Oral Health Needs](/article/down-syndrome-and-special-oral-health-needs.html)
+- [Risk and Concerns with Mouth Ulcer Care](/article/risk-and-concerns-with-mouth-ulcer-care.html)
+- [Oral Cancer Screening Saves Lives](/article/oral-cancer-screening-and-early-detection.html)
+- [Noma: A Serious Infection That Requires Immediate Care](/article/noma-gangrenous-gingivitis.html)
 - [Stomatitis Herpetiformis: Grouped Oral Ulcers](/article/stomatitis-herpetiformis-grouped-ulcers.html)
-- [Oropharyngeal Dysphagia - Dental Causes and Management](/article/swallowing-difficulty-dysphagia-management.html)
-

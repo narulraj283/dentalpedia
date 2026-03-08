@@ -120,9 +120,7 @@ Talk to your orthodontist if you have concerns about long-term wear. Discuss whi
 
 ## Conclusion
 
-The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. Talk to your orthodontist if you have concerns about long-term wear. Discuss which retainer type will work best for your lifestyle and your commitment level. If you know you won't wear a removable retainer consistently, let your orthodontist know—they might recommend a bonded retainer instead.
 
 > **Key Takeaway:** Retainer wear for life sounds like a big commitment, but it's the minimal effort required to keep your teeth straight forever. Your teeth naturally want to shift back after braces, and a retainer is the only thing that prevents this relapse. Making nightly retainer wear a lifelong habit protects your smile and preserves your orthodontic investment for decades to come.
 

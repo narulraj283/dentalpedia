@@ -246,9 +246,7 @@ Early identification and treatment of tongue-tie can prevent many of these emoti
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding tongue-tie in babies and toddlers: early detection and helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Early recognition of ankyloglossia in the neonatal period optimizes intervention timing and outcomes. Evidence-based assessment tools (ATLFF, BTAT, LFER) guide diagnosis, while functional assessment determines intervention need. Intervention is indicated when documented ankyloglossia produces functional feeding impairment. Optimal timing is within the first 2-4 weeks of life when procedural risk is minimal and breastfeeding is being established.
 
 > **Key Takeaway:** The first 2-4 weeks of life represent the ideal window for tongue-tie evaluation and treatment. Early intervention, when done by experienced providers with follow-up care and post-release stretching, achieves excellent results with minimal complications. If breastfeeding is painful or your baby isn't gaining weight, don't wait—get an evaluation promptly.
 

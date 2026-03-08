@@ -108,11 +108,11 @@ Optimal cavity prevention uses both:
 
 **Morning**: Brush with fluoride toothpaste (1450 ppm fluoride), rinse briefly with water.
 
-**Throughout day**: After sugary foods, use baking soda rinse.
+**Throughout day**: After sugary foods, use baking this rinse.
 
 **Evening**: Brush with fluoride toothpaste, consider baking soda rinse for extra protection.
 
-**After acidic beverages**: Wait 20-30 minutes, then baking soda rinse.
+**After acidic beverages**: Wait 20-30 minutes, then baking it rinse.
 
 This combination addresses multiple mechanisms: fluoride strengthens enamel; baking soda neutralizes acids.
 
@@ -139,13 +139,19 @@ Related reading: [Lifelong Oral Health](/article/dental-health-habits-for-lifelo
 
 ## Conclusion
 
-> **Key Takeaway:** One teaspoon per 8 ounces water provides sufficient buffering capacity to stop cavity-forming cycles.
-
-## Related Articles
-
 - [Acidic Foods and Enamel Erosion: Prevention Tips](/article/acidic-foods-and-enamel-erosion-prevention-tips.html)
 - [Flossing Benefits: What You Need to Know](/article/flossing-benefits-what-you-need-to-know.html)
 - [Mouthwash Selection: Complete Guide](/article/mouthwash-selection-complete-guide.html)
 - [Why Toothbrush Selection Matters](/article/why-toothbrush-selection-matters.html)
 - [Early Childhood Caries: Prevention Strategies](/article/early-childhood-caries-prevention-strategies.html)
 
+
+> **Key Takeaway:** Baking soda rinses help neutralize mouth acids and support remineralization of early tooth decay. They work best as a supplement to fluoride toothpaste, not a replacement. Mix half a teaspoon in a cup of water and rinse for 30 seconds after meals.
+
+## Related Articles
+
+- [Why Preventive Treatments Matters](/article/why-preventive-treatments-matters.html)
+- [Collagen and Periodontal Health](/article/collagen-and-gum-health.html)
+- [Why Plaque Removal Methods Matter](/article/why-plaque-removal-methods-matters.html)
+- [Guard Replacement Frequency: When to Replace Protective](/article/guard-replacement-frequency-when-to-replace.html)
+- [Preventive Dental Treatments to Protect Your Teeth](/article/how-to-preventive-treatments.html)

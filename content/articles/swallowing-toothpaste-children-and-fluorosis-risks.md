@@ -100,11 +100,12 @@ Flossing once daily reaches the areas between your teeth that your toothbrush ca
 
 Your diet also has a significant impact on your oral health. Limiting sugary snacks and acidic beverages helps protect your tooth enamel from erosion. Drinking plenty of water throughout the day rinses away food particles and keeps your mouth hydrated. Crunchy fruits and vegetables like apples, carrots, and celery can help clean your teeth naturally between brushings.
 
+
+Related reading: [Helping Anxious Children at the Dentist: Proven Coping](/article/dental-anxiety-in-children-coping-strategies.html).
+
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding fluoride ingestion from toothpaste - pediatric dosing helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. Learn more about [Bruxism in Children Teeth](/article/bruxism-in-children-teeth-grinding-at-night.html) for additional guidance. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Talk to your dentist about your specific situation and what approach works best for you. Your diet also has a significant impact on your oral health. Limiting sugary snacks and acidic beverages helps protect your tooth enamel from erosion. Drinking plenty of water throughout the day rinses away food particles and keeps your mouth hydrated.
 
 > **Key Takeaway:** During ages 1-3 when your child's permanent front teeth are developing, use only a smear amount of toothpaste and supervise brushing to minimize fluoride swallowing. After age 6, fluorosis risk is eliminated and standard toothpaste is safe.
 

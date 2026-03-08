@@ -122,7 +122,6 @@ J Orthod. 2017;44(1):24-34.
 6. Onyeaso CO, Aderinokun GA. Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** If your orthodontist tells you that you have a bite problem, you might wonder what that really means.
 
 ## Related Articles

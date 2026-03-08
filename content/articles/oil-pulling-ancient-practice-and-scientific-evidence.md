@@ -78,9 +78,7 @@ Diet also plays a role in protecting your dental health. Limiting sugary snacks 
 
 ## Conclusion
 
-The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Oil pulling represents an ancient practice experiencing modern popularity despite limited scientific evidence supporting claimed benefits. While mechanical swishing of oils may provide modest plaque disruption through the same mechanism as any rinsing, oils offer no proven advantage over established preventive methods and lack evidence for caries prevention or periodontal disease treatment. Dentists should provide evidence-based counseling explaining oil pulling's limitations, ensuring patients understand that it cannot replace brushing, flossing, fluoride, or professional care. For patients interested in natural approaches, dentists should direct them toward interventions with actual scientific evidence while maintaining respectful, non-judgmental communication addressing the psychological value patients may find in complementary practices.
 
 > **Key Takeaway:** ## Key Takeaway: **Oil pulling is trendy, but there's no proof it prevents cavities or gum disease. Brushing with fluoride, flossing daily, and professional care are what actually work—and that's what you need.**
 

@@ -102,4 +102,4 @@ Adult braces deliver multiple benefits: improved oral hygiene access, reduced gu
 
 - [Arch Form Selection: Individual vs. Standard Archwire](/article/arch-form-selection-individual-vs-standard.html)
 - [The Leveling Phase: Getting Your Teeth Straight](/article/leveling-phase-initial-alignment.html)
-
+- [Risk and Concerns with Orthodontic Appointment](/article/risk-and-concerns-with-orthodontic-appointment-frequency.html)

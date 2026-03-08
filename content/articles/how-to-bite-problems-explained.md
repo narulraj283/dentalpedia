@@ -34,15 +34,15 @@ If your teeth don't bite together properly, you have a bite problem. More than h
 
 ## The Basic Classification
 
-Dentists use a simple system to classify bite problems. If your back molars fit together correctly and your front teeth overlap normally, you have a Class I bite (the ideal). Your teeth might still be crooked or crowded, but the basic bite pattern is right.
+Dentists use a simple system to classify bite problems. If your back molars fit together correctly and your front teeth overlap normally, you have a Class I bite (the ideal). Your your smile might still be crooked or crowded, but the basic bite pattern is right.
 
-If your upper front teeth stick out too far in front of your lower teeth, that's a Class II bite. This is the most common type, affecting 30-40% of people. If your lower teeth stick out beyond your upper teeth (your lower jaw looks too far forward), that's a Class III bite. Class III is less common but often more noticeable.
+If your upper front them stick out too far in front of your lower teeth, that's a Class II it. This is the most common type, affecting 30-40% of people. If your lower teeth stick out beyond your upper teeth (your lower jaw looks too far forward), that's a Class III bite. Class III is less common but often more noticeable.
 
 ## What Causes Bite Problems?
 
-Your bite comes down to two things: your bones and your teeth. Some bite problems are skeletal (your jaw bones are shaped differently than ideal), some are dental (your teeth are positioned wrong), and many are a combination of both.
+Your occlusion comes down to two things: your bones and your teeth. Some bite problems are skeletal (your jaw bones are shaped differently than ideal), some are dental (your your smile are positioned wrong), and many are a combination of both.
 
-Genetics play a huge role. About 60-70% of your bite pattern is inherited from your parents. If your parents had bite problems, you're more likely to have them too. But environment matters too. Growing up, certain habits affect your bite:
+Genetics play a huge role. About 60-70% of your bite pattern is inherited from your parents. If your parents had bite problems, you're more likely to have them too. But environment matters too. Growing up, certain habits affect your it:
 
 - **Thumb sucking** after age 5 can push your front teeth out of alignment
 - **Mouth breathing** instead of nose breathing can cause your upper jaw to develop narrowly
@@ -58,13 +58,13 @@ Genetics play a huge role. About 60-70% of your bite pattern is inherited from y
 
 **Crossbite:** Your upper teeth bite inside your lower teeth instead of outside. This can be just one or two teeth, or your whole mouth. Crossbites force your jaw to shift to one side, creating uneven chewing and putting stress on certain teeth.
 
-**Crowding:** You don't have enough room for all your teeth, so they overlap and twist. This is the most common bite problem. Crowding makes it harder to clean your teeth, which increases cavity and gum disease risk.
+**Crowding:** You don't have enough room for all your them, so they overlap and twist. This is the most common bite problem. Crowding makes it harder to clean your teeth, which increases cavity and gum disease risk.
 
 **Overjet (Overbite Horizontal):** Your upper front teeth stick way out in front of your lower teeth—sometimes 8-10 millimeters or more. This can make you more likely to break those teeth if you fall or get hit in the mouth.
 
 **Spacing:** Your teeth are too far apart, with gaps between them. This can be a genetic trait or can result from your jaw being larger than your teeth or missing teeth.
 
-**Rotations:** Your teeth twist instead of standing straight. This makes them harder to clean and can look cosmetically unappealing.
+**Rotations:** Your your smile twist instead of standing straight. This makes them harder to clean and can look cosmetically unappealing.
 
 ## Why Bite Problems Matter
 
@@ -74,7 +74,7 @@ A bite problem isn't just about how your smile looks. It affects function too:
 
 **Speaking:** Open bites can cause lisping (your tongue comes through when you try to make certain sounds). Severe crowding can affect clear articulation.
 
-**Tooth health:** Crowded teeth are harder to clean, so you get more cavities. Bite problems put stress on certain teeth, causing wear and potentially loosening them over time.
+**Tooth health:** Crowded teeth are harder to clean, so you get more cavities. Occlusion problems put stress on certain teeth, causing wear and potentially loosening them over time.
 
 **Gum health:** Misaligned teeth create areas where plaque builds up more easily. People with severe bite problems have 1.5-2 times more gum disease.
 
@@ -92,7 +92,7 @@ When you come in with bite concerns, your orthodontist will:
 2. Measure how much your front teeth overlap (called overbite)
 3.
 
-Measure how far your upper teeth stick out in front of your lower teeth (called overjet)
+Measure how far your upper them stick out in front of your lower teeth (called overjet)
 4. Take X-rays to see if the problem is your tooth position or your jaw bone shape
 5. Look at your jaw joint and movement to make sure everything functions properly
 6. Check if you're still growing (in children, this affects treatment options)

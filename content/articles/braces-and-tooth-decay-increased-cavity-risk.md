@@ -109,7 +109,6 @@ The temporary dietary restrictions and extra oral hygiene effort are worth it to
 Bracket-associated caries represents a common and often preventable complication of fixed appliance therapy. If you have questions, your dentist can help you understand your options. The effort you invest now prevents permanent cosmetic damage and dental disease that would affect you for life after braces come off.
 
 
-
 > **Key Takeaway:** Braces are excellent for creating a beautiful smile and fixing bite problems, but they come with a significant challenge: cavities become much more.
 
 ## Related Articles

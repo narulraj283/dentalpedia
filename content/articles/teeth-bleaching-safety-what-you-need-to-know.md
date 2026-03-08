@@ -34,7 +34,7 @@ Your dentist applies professional-strength bleaching (much higher concentration)
 
 Your dentist can prepare you by recommending desensitizing toothpaste before bleaching. Some dentists apply fluoride treatments beforehand to reduce sensitivity. These preventive measures work.
 
-**Gum irritation:** If bleaching gel contacts your gums, they might become irritated, red, or sore. Professional in-office bleaching minimizes this because your dentist carefully controls the product. Custom take-home trays, if well-fitting and properly trimmed, also prevent this.
+**Gum irritation:** If this gel contacts your gums, they might become irritated, red, or sore. Professional in-office bleaching minimizes this because your dentist carefully controls the product. Custom take-home trays, if well-fitting and properly trimmed, also prevent this.
 
 **White spots appear more visible:** Sometimes very light patches on your teeth (from old demineralization or white spot lesions) seem more noticeable after bleaching. This is because they don't bleach as well as surrounding tooth. The white spots were already there; bleaching just makes them more obvious by contrast. They may improve over months as you use fluoride treatments.
 
@@ -102,7 +102,7 @@ The cost difference is minimal, and professional bleaching gives dramatically be
 
 **Bleaching with existing restorations:** If you have a crown or large filling on a front tooth, bleaching only whitens natural teeth. After bleaching, the crown or filling will appear darker by comparison. Discuss this with your dentist. Options include: replacing the restoration after bleaching to match new tooth color, or being strategic about what teeth to whiten.
 
-**Sensitive teeth:** If you already experience sensitivity, your dentist might recommend desensitizing treatment before bleaching or using sensitivity-reducing custom trays.
+**Sensitive teeth:** If you already experience sensitivity, your dentist might recommend desensitizing treatment before it or using sensitivity-reducing custom trays.
 
 [Understanding texture](/article/texture-and-surface-effects-in-cosmetic-dentistry.html) helps you understand how bleaching interacts with other cosmetic treatments. [When old restorations might need replacement](/article/old-restoration-replacement-cosmetic-and-functional-upgrade.html) becomes relevant if you're doing cosmetic improvement.
 

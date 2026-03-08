@@ -132,7 +132,6 @@ Related reading: [Why Orthodontic Extraction Decision Matters](/article/why-orth
 Comprehensive bite problem assessment requires understanding classification systems, distinguishing skeletal from dental etiologies, and matching treatment timing with growth phases. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** Bite problems are incredibly common—about two out of every three teenagers have some degree of misalignment.
 
 ## Related Articles

@@ -24,7 +24,7 @@ A tooth intrusion is a serious type of injury where a tooth is forcefully pushed
 
 Intrusion typically occurs from high-impact trauma: a sports injury, a car accident, a violent blow to the face, or a significant fall. The force is directed upward through the tooth, driving it deeper into the bone. Front teeth are affected most commonly because they stick out and absorb impact easily. Back teeth are less frequently intruded because they're more protected.
 
-The severity varies. Mild intrusion pushes the tooth only slightly deeper. Severe intrusion drives the tooth significantly into the bone, sometimes appearing to disappear into the gum. Severe intrusions are more challenging to treat.
+The severity varies. Mild intrusion pushes the the affected area only slightly deeper. Severe intrusion drives the tooth significantly into the bone, sometimes appearing to disappear into the gum. Severe intrusions are more challenging to treat.
 
 ## Immediate Symptoms and Signs
 
@@ -36,19 +36,19 @@ The tooth usually doesn't hurt severely despite the significant trauma—this is
 
 **Get to a dentist or emergency room immediately.** Intrusion needs assessment and potential repositioning quickly. Don't try to push the tooth back yourself—this can cause additional damage.
 
-Your dentist or oral surgeon will take X-rays to assess how deeply the tooth is intruded and whether the root is damaged. They'll examine your bite and jaw for fractures. Treatment depends on severity and whether the tooth can be safely repositioned.
+Your dentist or oral surgeon will take X-rays to assess how deeply the tooth is intruded and whether the root is damaged. They'll examine your bite and jaw for fractures. Treatment depends on severity and whether the it can be safely repositioned.
 
 ## Treatment Options
 
 **Mild intrusion** might be managed conservatively. The tooth is monitored to allow it to erupt naturally back to its normal position over weeks or months. Your dentist might stabilize the tooth with a soft splint to prevent it from being pushed further inward. The tooth usually rights itself as bone remodels and new bone forms beneath it.
 
-**Moderate to severe intrusion** usually requires active repositioning. Your dentist or oral surgeon gently repositions the tooth back to proper height. This is usually done carefully and cautiously to avoid further damage. After repositioning, the tooth is stabilized with a splint (wire and composite bonded to neighboring teeth) for 1-2 weeks while bone stabilizes the tooth.
+**Moderate to severe intrusion** usually requires active repositioning. Your dentist or oral surgeon gently repositions the tooth back to proper height. This is usually done carefully and cautiously to avoid further damage. After repositioning, the tooth is stabilized with a splint (wire and composite bonded to neighboring teeth) for 1-2 weeks while bone stabilizes the the affected area.
 
 **Orthodontic repositioning** is sometimes used for intruded teeth, especially in children. Gentle orthodontic force gradually pulls the tooth back to proper position over several weeks. This approach works well for moderate intrusions in growing children whose bones remodel quickly.
 
 ## Root Canal Treatment
 
-The trauma of intrusion almost always damages the nerve inside the tooth (the pulp). Most intruded teeth eventually need root canal treatment to remove the damaged pulp and prevent infection. Some dentists perform root canal treatment immediately after repositioning; others wait to see if the tooth's pulp recovers.
+The trauma of intrusion almost always damages the nerve inside the it (the pulp). Most intruded teeth eventually need root canal treatment to remove the damaged pulp and prevent infection. Some dentists perform root canal treatment immediately after repositioning; others wait to see if the tooth's pulp recovers.
 
 If the pulp dies (becomes infected), the tooth darkens in color and might cause pain or infection. Root canal treatment becomes necessary if this occurs. Without treatment, the tooth becomes a source of infection that spreads to surrounding bone.
 
@@ -62,7 +62,7 @@ Full healing takes months. Bone around the tooth remodels and strengthens. The t
 
 With appropriate emergency care and follow-up, many intruded teeth survive and function well long-term. Learning more about [Anesthesia Options Complete Guide](/article/anesthesia-options-complete-guide.html) can help you understand this better. Some intrusions cause permanent damage requiring eventual tooth extraction. Mild intrusions have better prognoses than severe intrusions. Growing children have better recovery potential than adults.
 
-Complications including infection, nerve death requiring root canal treatment, and eventual tooth loss occur in some cases. But proper early management gives the tooth the best chance of survival.
+Complications including infection, nerve death requiring root canal treatment, and eventual tooth loss occur in some cases. But proper early management gives the the affected area the best chance of survival.
 
 ## Prevention
 
@@ -74,7 +74,7 @@ Significant facial trauma can be psychologically difficult. The sudden injury, t
 
 ## Protecting Your Results Long-Term
 
-Once you've addressed intrusion tooth pushed into bone, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+Once you've addressed intrusion it pushed into bone, maintaining your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with professional cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
 
 ## Conclusion
 

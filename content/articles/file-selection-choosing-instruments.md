@@ -85,7 +85,7 @@ Your dentist uses hand files to find the right length. They feel the resistance 
 Here's how it typically works:
 
 1. Your dentist uses hand files to find the root canal and determine working length
-2. They use larger files at the crown (top) of the tooth to create space
+2. They use larger it at the crown (top) of the tooth to create space
 3.
 
 They use progressively smaller files as they work toward the tip of the root

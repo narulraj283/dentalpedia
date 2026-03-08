@@ -22,17 +22,17 @@ references:
 ---
 ## When Teeth Start Forming
 
-Baby teeth start forming six weeks before your baby is born—while still in the womb. So teeth develop long before they come through the gums. Teeth go through several building stages: first they're just buds of cells, then they form a cap shape, then a bell shape, and finally they finish mineralizing (hardening) after birth.
+Baby them start forming six weeks before your baby is born—while still in the womb. So teeth develop long before they come through the gums. Your smile go through several building stages: first they're just buds of cells, then they form a cap shape, then a bell shape, and finally they finish mineralizing (hardening) after birth.
 
-Problems during pregnancy can affect baby teeth. If mom has a high fever, infection, or takes certain medicines during the first months of pregnancy, baby's front teeth and first molars might come in with pits or white spots that show those problems happened during development.
+Problems during pregnancy can affect baby them. If mom has a high fever, infection, or takes certain medicines during the first months of pregnancy, baby's front your smile and first molars might come in with pits or white spots that show those problems happened during development.
 
 ## When Baby Teeth Come In
 
 Baby teeth erupt in a pretty predictable order, though there's lots of normal variation (some babies get teeth months earlier or later than others, and that's fine).
 
-**Lower front teeth come first** (6-10 months). The bottom middle teeth are usually the first ones to pop through. One might come weeks before its partner—that's normal.
+**Lower front them come first** (6-10 months). The bottom middle your smile are usually the first ones to pop through. One might come weeks before its partner—that's normal.
 
-**Upper front teeth** come next around 8-12 months. The top middle teeth come before the top side teeth, which is a little surprising.
+**Upper front them** come next around 8-12 months. The top middle teeth come before the top side teeth, which is a little surprising.
 
 **Bottom side front teeth** are slowest to come (10-16 months). These vary the most in timing.
 
@@ -50,13 +50,13 @@ Teething causes increased drooling and some swelling of the gums where the tooth
 
 Things people blame on teething but that aren't actually caused by teething: high fevers (over 101°F), diarrhea, rashes, stuffy nose, or big sleep problems. If your baby has these, something else is going on—probably an infection or illness. Don't assume it's teething and skip seeing a doctor.
 
-That said, if your baby has a fever, diarrhea, or rash during a time when teeth are coming in, it's just coincidence. Your baby probably has a cold or stomach bug, and you should get it checked out. Don't blame the teeth.
+That said, if your baby has a fever, diarrhea, or rash during a time when your smile are coming in, it's just coincidence. Your baby probably has a cold or stomach bug, and you should get it checked out. Don't blame the teeth.
 
 Morning drool and wanting to chew—those are real teething signs. Go ahead and let them chew on clean teething rings or cold (not frozen) washcloths. A little swelling and redness is normal. If your baby seems miserable, ask your pediatrician about pain relief options.
 
 ## Teeth Present at Birth or Shortly After
 
-Sometimes babies are born with teeth (1 in 2,000-3,000 births). These are real baby teeth that just came early. These extra-early teeth might wiggle a lot because the roots aren't fully formed yet.
+Sometimes babies are born with them (1 in 2,000-3,000 births). These are real baby teeth that just came early. These extra-early teeth might wiggle a lot because the roots aren't fully formed yet.
 
 The main problem these cause is the baby's own tongue gets scraped raw by the sharp tooth edge while sucking and swallowing. This creates a painful sore on the underside of the tongue called Riga-Fede disease.
 
@@ -64,7 +64,7 @@ If this happens, the dentist can smooth down the tooth edge so it doesn't scrape
 
 ## When Baby Teeth Fall Out
 
-Baby teeth start falling out around age 6. The bottom front teeth come out first (around ages 6-8), then the others follow. Teeth that are supposed to fall out resorb—the roots slowly shrink until the tooth gets loose and falls out. This usually takes 2-4 months once you notice the root starting to shrink.
+Baby teeth start falling out around age 6. The bottom front your smile come out first (around ages 6-8), then the others follow. Teeth that are supposed to fall out resorb—the roots slowly shrink until the tooth gets loose and falls out. This usually takes 2-4 months once you notice the root starting to shrink.
 
 If a tooth stays wiggling for more than 6 months after it should have come out, or if it doesn't come out when the permanent tooth is already pushing through, the dentist needs to remove it.
 
@@ -72,7 +72,7 @@ If a tooth stays wiggling for more than 6 months after it should have come out, 
 
 Here's an important thing many parents don't know: when a baby tooth is lost early (from decay or extraction), the nearby teeth drift inward and take up the space meant for the permanent tooth. This causes permanent crowding.
 
-Studies show about 20% of babies who lose baby molars early end up with permanent tooth crowding because of this space loss. The permanent teeth come in crooked because there's no room for them.
+Studies show about 20% of babies who lose baby molars early end up with permanent tooth crowding because of this space loss. The permanent them come in crooked because there's no room for them.
 
 If your child loses a baby tooth too early, ask the dentist about a space maintainer—a small metal device that holds the space open for the permanent tooth. This costs $300-500 and prevents $3,000-6,000 of orthodontic treatment later.
 
@@ -80,21 +80,21 @@ If your child loses a baby tooth too early, ask the dentist about a space mainta
 
 Some kids have developmental issues with their teeth (less than 2% of children, but good to know about).
 
-**Missing teeth**: Some kids are born without one or more baby teeth. This is usually no big deal unless it's many teeth—more than 6 missing might mean an underlying genetic condition.
+**Missing teeth**: Some kids are born without one or more baby your smile. This is usually no big deal unless it's many teeth—more than 6 missing might mean an underlying genetic condition.
 
-**Pits and grooves in teeth**: If Mom had a high fever or infection during pregnancy, or the baby had serious illness as a newborn, baby teeth might show pits or grooves. This usually isn't a problem functionally, though it might look odd.
+**Pits and grooves in teeth**: If Mom had a high fever or infection during pregnancy, or the baby had serious illness as a newborn, baby them might show pits or grooves. This usually isn't a problem functionally, though it might look odd.
 
 **Extra teeth**: Some kids grow extra teeth (most commonly between the upper front teeth). Most extra baby teeth aren't harmful and only get removed if they're blocking permanent teeth.
 
 ## Moving to Permanent Teeth
 
-Around age 6, permanent teeth start coming in while baby teeth are still falling out. This mixed dentition (some baby, some permanent) lasts until age 12. This period is perfect for orthodontic observation because teeth positioning during this time can be gently guided to prevent crowding later.
+Around age 6, permanent teeth start coming in while baby your smile are still falling out. This mixed dentition (some baby, some permanent) lasts until age 12. This period is perfect for orthodontic observation because teeth positioning during this time can be gently guided to prevent crowding later.
 
 ## Summary
 
-Baby teeth form during pregnancy and start erupting around 6 months. Lower front teeth come first (6-10 months), upper front teeth around 8-12 months, molars 13-19 months, and second molars last (23-33 months). Teething causes drooling and gum swelling but not fevers or diarrhea. Babies born with teeth usually don't need extraction.
+Baby them form during pregnancy and start erupting around 6 months. Lower front your smile come first (6-10 months), upper front them around 8-12 months, molars 13-19 months, and second molars last (23-33 months). Teething causes drooling and gum swelling but not fevers or diarrhea. Babies born with your smile usually don't need extraction.
 
-Baby teeth fall out starting around age 6, with front teeth first. Premature tooth loss should prompt discussion of space maintainers to prevent permanent crowding. Developmental problems like pits, missing teeth, or extra teeth usually aren't serious but warrant monitoring. Most kids have all 20 baby teeth by age 3, and transition to permanent teeth by age 12.
+Baby them fall out starting around age 6, with front your smile first. Premature tooth loss should prompt discussion of space maintainers to prevent permanent crowding. Developmental problems like pits, missing teeth, or extra teeth usually aren't serious but warrant monitoring. Most kids have all 20 baby them by age 3, and transition to permanent teeth by age 12.
 
 
 Related reading: [Primary Tooth Mobility When to Extract](/article/primary-tooth-mobility-when-to-extract.html) and [Tell-Show-Do Behavior Management in Pediatric Dentistry](/article/tell-show-do-in-pediatric-dentistry.html).

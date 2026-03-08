@@ -30,25 +30,25 @@ references:
 ---
 ## Wisdom Teeth: When Extraction Is Actually Necessary
 
-Wisdom teeth removal is one of the most common oral surgical procedures in the United States—over 10 million happen annually. But here's the critical insight: not every wisdom tooth needs extraction. Modern dental evidence recommends extraction only when specific clinical problems exist. Extracting asymptomatic, problem-free wisdom teeth "just in case" isn't supported by research and exposes you to unnecessary surgical risks like temporary numbness or dry socket.
+Wisdom teeth removal is one of the most common oral surgical procedures in the United States. Over 10 million happen annually. But here's the critical insight: not every wisdom tooth needs extraction. Modern dental evidence recommends extraction only when specific clinical problems exist. Extracting problem-free wisdom teeth "just in case" isn't supported by research. It exposes you to unnecessary surgical risks like temporary numbness or dry socket.
 
 ## Real Reasons for Extraction: What the Evidence Shows
 
 Evidence-based dental practice recommends wisdom tooth extraction only when documented clinical problems exist. Learn more about [Cost of Complex Extractions](/article/cost-of-complex-extractions.html) for additional guidance.
 
-**Pericoronitis** (infection around a partially erupted tooth) is the main reason for extraction. When your wisdom tooth is partially covered by gum, bacteria get trapped in the pocket. This causes swelling, pain, pus drainage, and trouble swallowing. One infection can be treated with antibiotics, but 60% of people get another one within 5 years. Repeated infections mean extraction is needed.
+**Pericoronitis** (infection around a partially erupted tooth) is the main reason for extraction. When your wisdom tooth is partially covered by gum, bacteria get trapped. This causes swelling, pain, pus drainage, and trouble swallowing. One infection can be treated with antibiotics. But 60% of people get another one within 5 years. Repeated infections mean extraction is needed.
 
 **Decay** on wisdom teeth may require extraction if the decay is too extensive to repair. Partially erupted wisdom teeth get decay easily because the covered area traps plaque and bacteria.
 
-**Severe crowding** sometimes requires wisdom tooth extraction for braces. This typically only applies to very crowded cases (over 8 mm). Modern orthodontists try to avoid extracting wisdom teeth, but severe crowding sometimes makes extraction necessary.
+**Severe crowding** sometimes requires wisdom tooth extraction for braces. This typically only applies to very crowded cases (over 8 mm). Modern orthodontists try to avoid extracting wisdom teeth. But severe crowding sometimes makes extraction necessary.
 
 **Orthodontic spacing** happens when wisdom teeth block your other teeth from moving correctly during braces. If your orthodontist says you need extraction for proper positioning, follow their recommendation.
 
-**Cysts or tumors** around wisdom teeth require extraction. Dentigerous cysts (fluid-filled sacs) form around 2-3% of impacted wisdom teeth. They must be extracted once found.
+**Cysts or tumors** around wisdom teeth require extraction. Fluid-filled sacs form around 2-3% of impacted wisdom teeth. They must be extracted once found.
 
 **Damage to neighboring teeth** happens when a wisdom tooth causes decay or bone loss on your second molar (the tooth in front). If X-rays show this damage, extraction stops further harm.
 
-**Before chemotherapy or radiation** therapy, patients should have wisdom teeth removed to eliminate potential infection sources during treatment when their immune system is weakened.
+**Before chemotherapy or radiation** therapy, patients should have wisdom teeth removed. This eliminates potential infection sources during treatment when their immune system is weakened.
 
 ## Surgical Assessment and Treatment Planning
 
@@ -72,17 +72,17 @@ Comprehensive evaluation enables appropriate surgical planning and patient couns
 - Roots that spread apart (require more bone removal)
 - Deep impaction (tooth completely buried in bone)
 - Very dense bone (requires more aggressive removal)
-- Closeness to the nerve (within 2 mm—higher numbness risk)
+- Closeness to the nerve (within 2 mm means higher numbness risk)
 
 ## Surgical Extraction Protocols
 
 Modern third molar extraction employs systematic surgical principles enabling consistent, safe outcomes.
 
 **Anesthesia and Patient Preparation**:
-- Local numbing injection to the lower jaw provides painlessness for the tooth area
+- Local numbing injection to the lower jaw prevents pain for the tooth area
 - Additional numbing injection to the cheek and tongue areas
-- Your dentist verifies complete numbness before starting surgery
-- Patients who are anxious can receive sedation or general anesthesia for complex extractions
+- Your surgeon verifies complete numbness before starting surgery
+- Anxious patients can receive sedation or general anesthesia for complex extractions
 
 **Flap Design and Elevation**:
 - Your surgeon makes an incision along the gum line to create a surgical flap
@@ -106,7 +106,7 @@ Modern third molar extraction employs systematic surgical principles enabling co
 - The empty socket is thoroughly cleaned to remove any tissue remnants or bone fragments
 - The area is irrigated to remove debris
 - The surgeon may smooth rough bone edges
-- The socket may be left open or closed with stitches, depending on the complexity
+- The socket may be left open or closed with stitches, depending on complexity
 
 **Flap Closure**:
 - The surgical flap is closed with dissolving stitches
@@ -149,7 +149,7 @@ Dry socket happens in 5-10% of wisdom tooth extractions. It develops when the pr
 - Pain medication helps during healing
 
 **Nerve Damage and Numbness**:
-Nerve damage happens in 0.5-2% of wisdom tooth extractions. Most commonly, this causes temporary numbness in your lower lip, chin, or front teeth. Temporary numbness affects 10-15% of extractions; permanent numbness affects less than 1%.
+Nerve damage happens in 0.5-2% of wisdom tooth extractions. Most commonly, this causes temporary numbness in your lower lip, chin, or front teeth. Temporary numbness affects 10-15% of extractions. Permanent numbness affects less than 1%.
 
 **Prevention:**
 - Careful surgical technique
@@ -162,25 +162,23 @@ Most temporary numbness resolves within 3-6 months. Permanent numbness is rare.
 Infection happens in 2-5% of wisdom tooth extractions. Signs include fever, increasing swelling after 3-4 days, pain, and pus drainage.
 
 **Treatment includes:**
-- Antibiotics (amoxicillin or clindamycin for penicillin-allergic patients)
+- Antibiotics
 - Socket cleaning and irrigation
 - Pain medication
 - Follow-up visit in 3-5 days to check progress
 
 ## Timing and Age Considerations
 
-Extract wisdom teeth when problems exist, not just preventively. Younger patients (under 25) heal faster and have fewer complications. Older patients (over 50) heal slower and have more risks, but extraction still works when needed.
+Extract wisdom teeth when problems exist. Don't extract them just as prevention. Younger patients (under 25) heal faster and have fewer complications. Older patients (over 50) heal slower and have more risks. But extraction still works when needed.
 
-If you need other jaw surgery, radiation, or chemotherapy, discuss timing with your surgical specialist. Every patient is different—talk to your dentist about your specific situation.
+If you need other jaw surgery, radiation, or chemotherapy, discuss timing with your surgical specialist. Every patient is different. Talk to your dentist about your specific situation.
 
 
 Related reading: [Oral Surgery Technique Fundamentals - A Complete](/article/surgical-technique-overview-complete-guide.html).
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding why wisdom teeth extraction matters helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Talk to your dentist about your specific situation and what approach works best for you. If you need other jaw surgery, radiation, or chemotherapy, discuss timing with your surgical specialist. Every patient is different. Talk to your dentist about your specific situation.
 
 > **Key Takeaway:** Wisdom Teeth: When Extraction Is Actually Necessary
 

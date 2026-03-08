@@ -16,11 +16,11 @@ references:
 ---
 ## What Cavities Actually Are
 
-A cavity isn't suddenly there. It develops through a process called demineralization, where bacteria in your mouth produce acid that dissolves the mineral structure of your tooth. Think of your enamel as made of tiny mineral crystals, like a microscopic mineral fortress protecting your tooth.
+A cavity isn't suddenly there. It develops through a process called weakening, where bacteria in your mouth produce acid that dissolves the mineral structure of your tooth. Think of your enamel as made of tiny mineral crystals, like a microscopic mineral fortress protecting your tooth.
 
 When acid attacks repeatedly, pieces of the fortress dissolve away, creating holes. The fascinating part: this process is reversible in early stages. If you interrupt the acid production or provide minerals to fill the holes back in, early cavities can actually reverse.
 
-Understanding this chemistry changes how you think about cavity prevention. Learning more about [Dental Health Habits for Lifelong Teeth](/article/dental-health-habits-for-lifelong-teeth.html) can help you understand this better. It's not about avoiding all sugar (impossible anyway). It's about understanding the balance: on one side is demineralization (acid eating minerals away); on the other side is remineralization (your body repairing the damage). Tip the balance toward remineralization, and cavities stop forming.
+Understanding this chemistry changes how you think about cavity prevention. Learning more about [Dental Health Habits for Lifelong Teeth](/article/dental-health-habits-for-lifelong-teeth.html) can help you understand this better. It's not about avoiding all sugar (impossible anyway). It's about understanding the balance: on one side is weakening (acid eating minerals away); on the other side is remineralization (your body repairing the damage). Tip the balance toward remineralization, and cavities stop forming.
 
 ## How Acid Attacks Your Teeth
 
@@ -32,9 +32,9 @@ Different bacteria produce acid at different rates. Streptococcus mutans is the 
 
 ## Early Cavities Are Reversible
 
-Here's where it gets encouraging: early enamel cavities haven't penetrated deep into the tooth. They're just subsurface demineralization—the mineral beneath the surface has dissolved, but the surface is still intact. This looks like a white spot on your dry tooth. If you look at a cross-section under a microscope, you see a structure with distinct zones: outer preserved layer, demineralized middle, darkened inner zone that's partially remineralized, and advancing demineralization front.
+Here's where it gets encouraging: early enamel cavities haven't penetrated deep into the tooth. They're just subsurface weakening—the mineral beneath the surface has dissolved, but the surface is still intact. This looks like a white spot on your dry tooth. If you look at a cross-section under a microscope, you see a structure with distinct zones: outer preserved layer, demineralized middle, darkened inner zone that's partially remineralized, and advancing weakening front.
 
-This structure tells the story: the cavity isn't just getting worse. It's a dynamic battle between ongoing demineralization and periodic remineralization. If you tip the battle toward remineralization—increasing fluoride application, reducing acid exposure, improving saliva—these early cavities can reverse. Research shows that 30-60% of early white spot cavities actually heal with aggressive remineralization therapy.
+This structure tells the story: the cavity isn't just getting worse. It's a dynamic battle between ongoing weakening and periodic remineralization. If you tip the battle toward remineralization—increasing fluoride application, reducing acid exposure, improving saliva—these early cavities can reverse. Research shows that 30-60% of early white spot cavities actually heal with aggressive remineralization therapy.
 
 ## How Fluoride Stops and Reverses Cavities
 
@@ -42,19 +42,19 @@ Fluoride is a mineral that substitutes for hydroxyl in your tooth enamel's cryst
 
 Fluoride also slows bacterial acid production by interfering with how bacteria metabolize sugar. Learning more about [Oral Health Habits Complete Guide](/article/oral-health-habits-complete-guide.html) can help you understand this better. And it helps your saliva buffer acid more effectively.
 
-So fluoride works on multiple levels: protecting intact teeth, reversing early cavities, and supporting saliva's natural protective processes. Different fluoride concentrations have different effects. Your toothpaste (1500 ppm) provides everyday protection. Professional fluoride varnish (22,600 ppm) provides intensive treatment for high-risk patients or existing cavities.
+So fluoride works on multiple levels: protecting intact teeth, reversing early cavities, and supporting saliva's natural protective processes. Different fluoride concentrations have different effects. Your toothpaste (1500 ppm) provides everyday protection. Expert fluoride varnish (22,600 ppm) provides intensive treatment for high-risk patients or existing cavities.
 
 ## The Role of Saliva
 
 Your saliva is like your mouth's security system. It neutralizes acid, washing away bacteria and food debris, and it contains minerals (calcium and phosphate) that teeth can reabsorb to remineralize. People with low saliva flow (from Sjögren's syndrome, medications, radiation) have dramatically higher cavity rates despite otherwise good oral hygiene—they lack the saliva repair system.
 
-This matters for prevention: chewing sugar-free gum stimulates saliva flow, protecting your teeth. Staying hydrated supports saliva production. Drinking water instead of sugary beverages helps because water rinses your mouth, reducing acid contact time. For people with reduced saliva, intensive fluoride regimens and frequent professional monitoring become essential.
+This matters for prevention: chewing sugar-free gum stimulates saliva flow, protecting your teeth. Staying hydrated supports saliva production. Drinking water instead of sugary beverages helps because water rinses your mouth, reducing acid contact time. For people with reduced saliva, intensive fluoride regimens and frequent expert monitoring become essential.
 
 ## The Demineralization-Remineralization Balance
 
-Cavity development is a simple equation: if demineralization exceeds remineralization, cavities progress. If remineralization exceeds demineralization, cavities arrest or reverse. You control both sides. Demineralization side: reduce sugar frequency, limit acidic beverages, brush off bacteria. Remineralization side: apply fluoride, optimize saliva function, provide minerals for teeth to reabsorb.
+Cavity development is a simple equation: if weakening exceeds remineralization, cavities progress. If remineralization exceeds weakening, cavities arrest or reverse. You control both sides. Weakening side: reduce sugar frequency, limit acidic beverages, brush off bacteria. Remineralization side: apply fluoride, optimize saliva function, provide minerals for teeth to reabsorb.
 
-High-risk patients get aggressive intervention on both sides. Multiple daily fluoride applications, dietary restriction of frequent sugar, and sometimes antimicrobial rinses to reduce cavity-causing bacteria. Low-risk patients need less intervention. The point is: cavity risk isn't all-or-nothing. It's a spectrum based on your demineralization-remineralization balance.
+High-risk patients get aggressive treatment on both sides. Multiple daily fluoride uses, dietary restriction of frequent sugar, and sometimes antimicrobial rinses to reduce cavity-causing bacteria. Low-risk patients need less treatment. The point is: cavity risk isn't all-or-nothing. It's a spectrum based on your weakening-remineralization balance.
 
 ## Cavitation: The Point of No Return
 
@@ -64,17 +64,17 @@ That's why early detection matters so much. Dentists now have tools like laser f
 
 ## What You Can Do
 
-Prevention requires a multi-pronged approach targeting the demineralization-remineralization balance. Brush twice daily with fluoride toothpaste (1500+ ppm). Use fluoride rinse or gel if cavity risk is high.
+Prevention requires a multi-pronged approach targeting the weakening-remineralization balance. Brush twice daily with fluoride toothpaste (1500+ ppm). Use fluoride rinse or gel if cavity risk is high.
 
-Limit sugar and acidic beverages—not eliminate them, just keep exposure to 3-4 times daily. Chew sugar-free gum or mints after meals to stimulate saliva. Drink water between meals. See your dentist regularly for monitoring and professional fluoride application if risk warrants.
+Limit sugar and acidic beverages—not eliminate them, just keep exposure to 3-4 times daily. Chew sugar-free gum or mints after meals to stimulate saliva. Drink water between meals. See your dentist regularly for monitoring and expert fluoride application if risk warrants.
 
 ## Conclusion
 
-Cavities develop through demineralization—acid attacking tooth mineral. Early cavities are reversible through remineralization—repairing the damage with fluoride and minerals. Understanding this balance shifts prevention from "don't eat sugar" to "manage the demineralization-remineralization equation." Frequent sugar exposure plus poor saliva flow plus no fluoride equals high cavity risk.
+Cavities develop through weakening—acid attacking tooth mineral. Early cavities are reversible through remineralization—repairing the damage with fluoride and minerals. Understanding this balance shifts prevention from "don't eat sugar" to "manage the weakening-remineralization equation." Frequent sugar exposure plus poor saliva flow plus no fluoride equals high cavity risk.
 
 Sugar eaten with meals plus fluoride twice daily plus good saliva flow equals low risk. Early detection catches cavities before cavitation when reversibility is maximal. Aggressive remineralization therapy (professional fluoride, calcium-phosphate supplements) reverses 30-60% of early white spot lesions.
 
-Talk to your dentist about your specific cavity risk factors and what demineralization-remineralization approach makes sense for your situation.
+Talk to your dentist about your specific cavity risk factors and what weakening-remineralization approach makes sense for your situation.
 
 > **Key Takeaway:** A cavity isn't suddenly there. It develops through a process called demineralization, where bacteria in your mouth produce acid that dissolves the mineral structure of your tooth.
 

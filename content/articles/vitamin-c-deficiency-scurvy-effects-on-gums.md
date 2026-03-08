@@ -102,9 +102,7 @@ For dental professionals, screening at-risk patients (elderly, limited food vari
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding vitamin c deficiency and scurvy: effects on gingival health helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Vitamin C is essential for collagen synthesis, immune function, and wound healing. Scurvy, resulting from severe vitamin C deficiency, presents with dramatic oral manifestations including gingival swelling, spontaneous bleeding, and rapid periodontal destruction. While rare in developed nations, scurvy remains relevant to dentists who must recognize its oral signs and refer for appropriate supplementation. Subclinical vitamin C deficiency impairs wound healing and immune function, potentially contributing to periodontal disease progression.
 
 > **Key Takeaway:** Vitamin C is essential for collagen formation, immune function, and wound healing—all critical for gum health. While severe scurvy is rare in developed countries, vitamin C deficiency still occurs and often shows up first in your mouth as bleeding, swollen gums. Ensuring adequate vitamin C through diet or supplementation prevents these problems and promotes excellent gum health and wound healing after dental treatment. If you notice unexplained gum bleeding or swelling, consider your vitamin C intake and discuss with your dentist or doctor.
 

@@ -28,7 +28,7 @@ references:
   - title: "Dentinoenamel junction: structural integrity and clinical vulnerability"
     url: "https://pubmed.ncbi.nlm.nih.gov/20088652/"
 ---
-Your tooth might look solid, but it's actually composed of four distinct layers, each with different properties and functions. Understanding this structure explains why your dentist makes certain treatment recommendations, how decay progresses, why some teeth are more sensitive than others, and how dental treatments protect your tooth's most vital components.
+Your tooth might look solid, but it's actually composed of four distinct layers, each with different properties and functions. Understanding this structure explains why your dentist makes certain treatment tips, how decay progresses, why some teeth are more sensitive than others, and how dental treatments protect your tooth's most vital components.
 
 ## Enamel: The Hardest Layer
 
@@ -102,7 +102,7 @@ When cavity depth approaches the pulp, your dentist often places:
 
 **Glass ionomer bases**: Fluoride-releasing, antimicrobial, supports remineralization of remaining dentin.
 
-These protective layers reduce pulpal inflammation and post-operative sensitivity by creating a biological barrier.
+These protective layers reduce pulpal swelling and post-operative soreness by creating a biological barrier.
 
 ## Adhesive Dentistry: How Bonding Works
 
@@ -112,7 +112,7 @@ Modern adhesive dentistry exploits dentin's structure. Bonding agents penetrate 
 
 **Dentin bonding** creates weaker bonds: 20–30 megapascal shear strength. Dentin bonding is compromised by moisture, blood, or saliva—any contamination reduces bond strength 25–40%.
 
-This explains why your dentist emphasizes dryness during restoration placement and why proper moisture control is critical for restoration longevity.
+This explains why your dentist emphasizes dryness during repair placement and why proper moisture control is critical for repair longevity.
 
 ## Clinical Implications: Why Preparation Matters
 
@@ -122,14 +122,14 @@ This explains why your dentist emphasizes dryness during restoration placement a
 
 **Preparation location matters**: Cavities on cusp tips (loaded areas) need stronger restorations than cavities on smooth surfaces. Cavities involving multiple surfaces need more structural support than single-surface cavities.
 
-Understanding these factors explains your dentist's recommendation for specific restoration types (filling versus crown) based on cavity depth and location.
+Understanding these factors explains your dentist's advice for specific repair types (filling versus crown) based on cavity depth and location.
 
 
 *Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
-Teeth are complex structures with distinct layers serving different functions. Enamel's hardness and durability make it excellent for protection but unable to repair itself. Dentin's living nature allows some adaptation but creates sensitivity potential.
+Teeth are complex structures with distinct layers serving different functions. Enamel's hardness and durability make it excellent for protection but unable to repair itself. Dentin's living nature allows some adaptation but creates soreness potential.
 
 The pulp's vital function must be protected during treatment. Understanding how these layers interact explains cavity progression, treatment decisions, and why certain preventive and restorative strategies are recommended. By protecting enamel through prevention and treating cavities promptly before they involve dentin and pulp, you preserve tooth vitality and avoid complex treatments.
 

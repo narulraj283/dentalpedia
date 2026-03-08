@@ -94,8 +94,7 @@ Related reading: [Lingual Braces: Invisible Alignment Behind Your Teeth](/articl
 
 ## Conclusion
 
-Whether you're just learning about understanding braces discomfort relief — a patient guide or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Pain is temporary. You've got this—the discomfort will be gone soon, and you'll be left with straighter teeth and a better smile.
 
 > **Key Takeaway:** Your braces are moving your teeth, and that's going to cause some soreness.
 

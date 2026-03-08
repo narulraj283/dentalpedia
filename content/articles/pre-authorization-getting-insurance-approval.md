@@ -106,7 +106,7 @@ Don't let financial barriers prevent necessary treatment. Discuss costs and opti
 
 If your insurance's first-level appeal fails, some states require second-level appeals and external review processes. These are lengthy but can be worthwhile for significant treatment denials. Your state insurance commissioner's office can provide information about your state's appeal procedures.
 
-Some patients warrant involving their state insurance commissioner, particularly when insurance companies appear to act unreasonably or when treatment delays result in clinical deterioration. However, external appeals require weeks or months—unsuitable for urgent situations.
+Some patients warrant involving their state insurance commissioner, especially when insurance companies appear to act unreasonably or when treatment delays result in clinical breakdown. However, external appeals require weeks or months—unsuitable for urgent situations.
 
 ## Maximizing Approval Likelihood
 

@@ -136,7 +136,6 @@ Related reading: [Gummy Smile Fix: What You Need to Know](/article/gummy-smile-f
 Excessive gingival display management begins with accurate diagnosis of the underlying etiology, enabling targeted treatment with predictable outcomes. Hyperactive lip muscles respond excellently to botulinum toxin injection. If you have questions, your dentist can help you understand your options. About one in four people feel the same way.
 
 
-
 > **Key Takeaway:** If you've always felt self-conscious about showing too much gum when you smile, you're not alone. About one in four people feel the same way.
 
 ## Related Articles

@@ -105,11 +105,7 @@ For more information, see [Dental Sedation for Anxious Kids - Options and Safety
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
-
-Good communication before sedation helps you understand what will happen and feel confident that your child is in capable hands. Pediatric dentists have special training to sedate children safely, with emergency equipment and skills ready if needed. Sedation can make the difference between your child getting needed treatment or suffering from untreated dental disease.
+Talk to your dentist about your specific situation and what approach works best for you. Children with past trauma—from abuse, neglect, or bad medical experiences—might be extra fearful. The dentist can help by being clear and predictable, giving your child a sense of control when possible, and building trust over time. Sometimes several short appointments before actual sedation helps build confidence.
 
 > **Key Takeaway:** Pediatric sedation helps anxious or uncooperative children get necessary dental care while keeping them safe and comfortable. Your dentist will carefully evaluate your child's health, choose the right sedation level, use age-appropriate medications in proper doses, and monitor every moment of the procedure. Sedation doesn't hurt—your child won't remember the dental work, won't feel pain, and will wake up once the procedure is done.
 

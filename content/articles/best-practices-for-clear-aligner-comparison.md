@@ -129,8 +129,7 @@ Related reading: [Interceptive Orthodontic Treatment](/article/interceptive-trea
 
 ## Conclusion
 
-Whether you're just learning about a patient's guide to clear aligner comparison or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Aligners are amazing if you have a simple case, excellent compliance, and you really don't want people to see you're in orthodontics. Braces are better for complicated cases and might be more reliable. Direct-to-consumer aligners are tempting for the price, but they carry real risks if your case is anything but simple.
 
 > **Key Takeaway:** Clear aligners have completely changed orthodontics.
 

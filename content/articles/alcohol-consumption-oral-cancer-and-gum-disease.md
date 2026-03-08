@@ -77,8 +77,7 @@ Related reading: [Cost of Mouthwash Selection](/article/cost-of-mouthwash-select
 
 ## Conclusion
 
-Whether you're just learning about alcohol consumption and oral cancer risk or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Your dentist can help you understand the best approach for your specific needs. Some cancers can be treated with surgery or radiation alone, while others need a combination of treatments.
 
 > **Key Takeaway:** Heavy drinking significantly raises your risk of developing cancer in your mouth and throat.
 

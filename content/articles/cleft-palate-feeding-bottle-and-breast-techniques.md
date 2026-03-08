@@ -139,7 +139,6 @@ The intense feeding period is temporary. Within 12-18 months, your child will ha
 The intense feeding period is temporary. Within 12-18 months, your child will have surgery and everything changes. Talk to your dentist about how this applies to your situation. Feeding takes longer and requires patience, but works well with proper technique and support. After palate repair, normal feeding typically resumes quickly.
 
 
-
 > **Key Takeaway:** Normal babies can create suction—they suck on a bottle or breast and milk flows in.
 
 ## Related Articles

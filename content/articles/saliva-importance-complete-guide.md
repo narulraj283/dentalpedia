@@ -95,7 +95,7 @@ These glands respond to stimulation—when you eat, chew, or see food, they incr
 
 Dentists assess salivary flow to evaluate cavity risk and diagnose dry mouth. They measure two types:
 
-**Unstimulated flow:** How much saliva your mouth produces at rest, measured by having you spit into a cup for 5 minutes. Normal unstimulated flow is about 0.3-0.5 milliliters per minute.
+**Unstimulated flow:** How much oral fluid your mouth produces at rest, measured by having you spit into a cup for 5 minutes. Normal unstimulated flow is about 0.3-0.5 milliliters per minute.
 
 **Stimulated flow:** How much saliva your mouth produces when stimulated by chewing gum or tasting citric acid. Normal stimulated flow is 1.0-3.0 milliliters per minute.
 
@@ -141,7 +141,7 @@ If you develop dry mouth symptoms, discuss them with your dentist. They can asse
 
 ## Maintaining Healthy Saliva Flow
 
-**Stay hydrated:** Drink water throughout the day. Adequate hydration supports saliva production.
+**Stay hydrated:** Drink water throughout the day. Adequate hydration supports it production.
 
 **Chew sugar-free gum:** Chewing stimulates salivary flow, providing both stimulated saliva and mechanical cleaning.
 

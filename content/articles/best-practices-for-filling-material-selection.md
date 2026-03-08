@@ -111,7 +111,6 @@ Related reading: [Common Misconceptions About Dental Examination Types](/article
 Evidence supports multiple restorative material options with distinct advantages. Composite resins provide excellent aesthetic outcomes and moderate longevity suitable for small-to-medium cavities. If you have questions, your dentist can help you understand your options. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** If your dentist just told you that you need a filling, you might have questions about what material they'll use.
 
 ## Related Articles

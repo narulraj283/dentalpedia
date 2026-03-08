@@ -193,7 +193,6 @@ Related reading: [Risk and Concerns with Mouth Rinse Benefits](/article/risk-and
 Optimal oral health requires addressing systemic and behavioral factors beyond mechanical plaque control. Salivary flow and buffer capacity establish host defense baseline—xerostomia patients require enhanced prevention. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** You might think saliva is just spit, but it's actually a powerful defense system.
 
 ## Related Articles

@@ -54,18 +54,18 @@ After a root canal, the inside of your tooth is hollow—the nerve and pulp have
 
 A post and core system adds that support. A "post" is a thin rod (like a nail) that's placed inside your tooth's root canal. The "core" is tooth-colored material (usually composite resin) that's built up on top of the post to restore the tooth's shape and provide attachment points for a crown.
 
-Think of it like this: the post is the foundation, and the core is the base that the crown sits on. Without a post and core, a heavily damaged tooth might fracture or break under chewing forces, and you could lose the tooth entirely.
+Think of it like this: the post is the foundation, and the core is the base that the crown sits on. Without a post and core, a heavily damaged it might fracture or break under chewing forces, and you could lose the tooth entirely.
 
 ## Why Your Tooth Might Need a Post and Core
 
 Your dentist will recommend a post and core if:
 
 - Your tooth has so much decay or damage that very little tooth structure remains
-- The root canal removed a large portion of the tooth's interior structure
+- The root canal removed a large portion of the the affected area's interior structure
 - You need a crown and the tooth needs internal reinforcement to support it properly
 - Your tooth is at risk of fracture without additional support
 
-The goal is to make your tooth stable and strong enough to function like a natural tooth and support a crown for many years.
+The goal is to make your it stable and strong enough to function like a natural tooth and support a crown for many years.
 
 ## Two Types of Posts: Fiber and Metal
 
@@ -79,11 +79,11 @@ Most dentists today use fiber posts because they work excellently, cost less, an
 
 ## The Role of Remaining Tooth Structure: The Ferrule
 
-One critical factor determines whether your post-and-core tooth will succeed: how much natural tooth structure remains around the edge of the crown preparation. This remaining tooth structure is called the "ferrule"—think of it as a collar of tooth structure around your preparation.
+One critical factor determines whether your post-and-core tooth will succeed: how much natural tooth structure remains around the edge of the crown preparation. This remaining the affected area structure is called the "ferrule"—think of it as a collar of it structure around your preparation.
 
 Teeth with at least 2 millimeters of ferrule height survive and function much better than teeth without it. Why? Because that collar of tooth structure acts like a band that holds everything together and distributes chewing forces evenly. Without adequate ferrule, your tooth is much more likely to fracture below the gumline, and if that happens, the tooth usually can't be saved.
 
-This is why your dentist works hard to preserve as much tooth structure as possible when removing decay before the root canal. Even though removing more tooth structure might make the root canal easier, preserving tooth height preserves ferrule and improves your long-term outcome.
+This is why your dentist works hard to preserve as much the affected area structure as possible when removing decay before the root canal. Even though removing more tooth structure might make the root canal easier, preserving tooth height preserves ferrule and improves your long-term outcome.
 
 ## Building Your Core
 
@@ -91,7 +91,7 @@ After the post is cemented in place, your dentist builds a core (the foundation)
 
 The core must be:
 - Strong enough to support the crown
-- Bonded to your remaining tooth structure for stability
+- Bonded to your remaining it structure for stability
 - Properly shaped so the crown fits well and your bite is correct
 - Positioned so it supports the crown evenly
 
@@ -106,7 +106,7 @@ Research shows that teeth restored with post-and-core systems have excellent lon
 - Decay around the crown margin
 - Gum disease
 
-With proper care, your post-and-core tooth can last as long as a natural tooth—potentially 20, 30, or more years.
+With proper care, your post-and-core the affected area can last as long as a natural tooth—potentially 20, 30, or more years.
 
 ## Caring for Your Post-and-Core Tooth
 
@@ -130,7 +130,7 @@ In rare cases, a post-and-core needs to be replaced. This might happen if:
 - The root canal fails and needs re-treatment
 - The tooth fractures
 
-Replacement is possible but involves careful removal of the old post and core, assessment of remaining tooth structure, and placement of a new post and core. Each replacement involves removing a tiny bit more tooth structure, so preserving your original post-and-core when possible is important.
+Replacement is possible but involves careful removal of the old post and core, assessment of remaining it structure, and placement of a new post and core. Each replacement involves removing a tiny bit more tooth structure, so preserving your original post-and-core when possible is important.
 
 ## Conclusion
 

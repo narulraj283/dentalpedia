@@ -208,7 +208,6 @@ Retention takes years. Total orthodontic time commitment is much longer than bra
 Retention takes years. Total orthodontic time commitment is much longer than braces time alone. Talk to your dentist about how this applies to your situation. Average treatment is 24-36 months, with significant individual variation. Understanding these factors helps you set realistic expectations and commit to the timeline needed for your best possible outcome.
 
 
-
 > **Key Takeaway:** Discover the key factors affecting how long your orthodontic treatment will take, including age, severity, compliance, and bone characteristics.
 
 ## Related Articles

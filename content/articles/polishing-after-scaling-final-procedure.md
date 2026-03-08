@@ -42,7 +42,7 @@ The polishing paste usually contains fluoride, which helps protect against cavit
 
 Rubber cup polishing is the traditional method. A soft rubber cup attaches to a slow machine (about 2,500-3,000 speed). Water spray and polishing paste clean your teeth. The cup is angled at about 45 degrees to your tooth and moved gently. Light pressure is important—too much pressure damages gums and tooth surface.
 
-Polishing follows a pattern: back surfaces, cheek-side surfaces, tongue-side surfaces, and biting surfaces. This systematic approach ensures complete coverage. The dentist positions the tool for good visibility. For upper teeth, they approach from the front. For lower teeth, they approach from the tongue side.
+This follows a pattern: back surfaces, cheek-side surfaces, tongue-side surfaces, and biting surfaces. This systematic approach ensures complete coverage. The dentist positions the tool for good visibility. For upper teeth, they approach from the front. For lower teeth, they approach from the tongue side.
 
 Sensitive areas need gentler treatment: areas with exposed root or previous fillings. These get brief, light contact. Teeth need water spray during polishing to prevent heat damage. Dry polishing creates too much heat and can damage the tooth nerve. Each tooth takes about 30-60 seconds. This removes stains and remaining plaque without excessive damage.
 
@@ -58,7 +58,7 @@ The handpiece is held at about 80 degrees (less steep than rubber cups) and move
 
 Experts disagree about whether all teeth need polishing or just stained teeth. Some argue routine polishing of clean teeth is unnecessary. They say polishing should only happen on stained teeth. How much you need polishing depends on your diet. Coffee, tea, red wine, and tobacco stain teeth. Some people stain easily and need frequent polishing. Others stain minimally and need little or no polishing.
 
-Selective polishing means dentists only polish stained teeth or those with visible plaque. Studies show this reduces enamel damage without affecting cleaning. However, many patients like the clean feeling after full polishing, which improves their care habits.
+Selective it means dentists only polish stained teeth or those with visible plaque. Studies show this reduces enamel damage without affecting cleaning. However, many patients like the clean feeling after full polishing, which improves their care habits.
 
 Your dentist should consider your individual situation. If you have excellent home hygiene with little staining, you may skip polishing. If you stain easily or have plaque buildup, you need polishing. Patients with thin enamel (from bleaching or natural thinness) should get gentle selective polishing. Teeth with fillings should avoid abrasive paste, as it roughens fillings and makes staining worse.
 
@@ -76,11 +76,11 @@ While polishing mainly removes stains, it also removes some plaque. After scalin
 
 Polishing helps most patients with poor home care. After polishing, their plaque stays lower for weeks. Patients with excellent brushing and flossing habits benefit less from extra polishing. The psychological effect of professional cleaning is important—it motivates patients to take better care of their teeth.
 
-Comprehensive cleaning (scaling plus polishing) plus good home care produces better gum health. However, polishing alone without scaling creates false cleanliness while leaving tartar and deep plaque. Polishing is the final step in thorough cleaning, not a replacement for scaling.
+Comprehensive cleaning (scaling plus this) plus good home care produces better gum health. However, polishing alone without scaling creates false cleanliness while leaving tartar and deep plaque. Polishing is the final step in thorough cleaning, not a replacement for scaling.
 
 ## Patient Education and Expectation Management
 
-Polishing removes surface stains and makes teeth look cleaner and brighter. However, it cannot change the natural inner color of your teeth or fix deep stains from medicines or fluorosis (a childhood condition). Those require bleaching or cosmetic treatments, not polishing. Set realistic expectations about what polishing can do.
+It removes surface stains and makes teeth look cleaner and brighter. However, it cannot change the natural inner color of your teeth or fix deep stains from medicines or fluorosis (a childhood condition). Those require bleaching or cosmetic treatments, not polishing. Set realistic expectations about what polishing can do.
 
 Foods and drinks that stain include coffee, tea, red wine, tobacco, and certain spices. You can reduce staining by rinsing after drinks, cutting down staining exposure, or brushing and flossing well. Some patients prefer extra polishing to keep their look. This is fine with selective or gentle techniques.
 
@@ -90,9 +90,7 @@ At home, don't copy professional polishing with harsh whitening toothpaste and h
 
 ## Conclusion
 
-The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. At home, don't copy professional polishing with harsh whitening toothpaste and hard brushing. Those cause more damage than professional cleaning. Use a soft toothbrush and gentle technique, or an electric toothbrush that controls pressure.
 
 > **Key Takeaway:** After your dental team completes scaling (removing calculus and plaque), they polish your teeth using a specially formulated paste. Talk with your dentist to find out how this applies to your specific situation and what steps make sense for you.
 

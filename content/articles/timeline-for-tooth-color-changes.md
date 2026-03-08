@@ -142,9 +142,7 @@ If you're taking medications that might discolor teeth, discuss with your dentis
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding why your teeth change color and what you can do about it helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Tooth color changes result from complex interactions of structural and biochemical processes operating through intrinsic or extrinsic mechanisms. Accurate diagnosis distinguishing intrinsic from extrinsic causes guides appropriate treatment selection. Extrinsic staining responds dramatically to professional cleaning, whereas intrinsic discoloration requires individualized approaches ranging from bleaching to restorative coverage. Age-related changes represent inevitable universal processes modifiable through protective measures and periodic whitening.
 
 > **Key Takeaway:** Tooth discoloration is either surface (from external staining) or deep (from internal changes or medication). Surface stains respond well to cleaning or whitening. Deep discoloration requires longer whitening periods or cosmetic coverage. Age-related yellowing is normal and preventable through protecting enamel and periodic whitening.
 

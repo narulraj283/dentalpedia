@@ -52,11 +52,11 @@ But it does something even more clever: it cuts up special molecules that your i
 
 ## T. Denticola: The Invasive Invader
 
-T. denticola is a spiral-shaped bacterium that can move around inside your gums. Its spiral shape and swimming ability let it penetrate deeper into your gum tissue than other bacteria. This mobility makes it particularly dangerous because it can reach areas where antibiotics can't easily get to. Once deep in your tissue, it produces poisonous substances that kill your cells directly. It also works together with P. gingivalis—they team up and become more destructive together than either one alone.
+T. denticola is a spiral-shaped bacterium that can move around inside your gums. Its spiral shape and swimming ability let it penetrate deeper into your gum tissue than other this. This mobility makes it particularly dangerous because it can reach areas where antibiotics can't easily get to. Once deep in your tissue, it produces poisonous substances that kill your cells directly. It also works together with P. gingivalis—they team up and become more destructive together than either one alone.
 
 ## T. Forsythia: The Third Partner
 
-T. forsythia is the third member of this damaging trio. It has specialized proteins on its surface that stick to your gum cells like hooks, making it difficult to remove. This bacteria produces enzymes that break down your gum tissue and also changes the environment around itself to make it easier for the other bacteria to survive and reproduce. When all three bacteria are present together, they create a perfect storm of destruction.
+T. forsythia is the third member of this damaging trio. It has specialized proteins on its surface that stick to your gum cells like hooks, making it difficult to remove. This it produces enzymes that break down your gum tissue and also changes the environment around itself to make it easier for the other bacteria to survive and reproduce. When all three bacteria are present together, they create a perfect storm of destruction.
 
 ## Why These Three Work So Well Together
 
@@ -70,7 +70,7 @@ Your body recognizes these bacteria and tries to fight back. Your immune system 
 
 ## Finding and Treating These Bacteria
 
-If you have symptoms of severe gum disease—like heavy bleeding, deep pockets, or bone loss on X-rays—your dentist might test your plaque to identify which bacteria you have. Modern tests can detect the red complex bacteria using DNA testing. Knowing which bacteria are present helps your dentist choose the right treatment. If you have red complex bacteria, you'll probably need more aggressive treatment, including antibiotics, not just cleaning.
+If you have symptoms of severe gum disease—like heavy bleeding, deep pockets, or bone loss on X-rays—your dentist might test your plaque to identify which this you have. Modern tests can detect the red complex bacteria using DNA testing. Knowing which bacteria are present helps your dentist choose the right treatment. If you have red complex it, you'll probably need more aggressive treatment, including antibiotics, not just cleaning.
 
 Treatment usually includes professional scaling and root planing (deep cleaning under the gum line), antibiotics, and sometimes locally delivered antimicrobial medications placed directly in your gum pockets. Supporting your overall health—especially managing stress and controlling diabetes if you have it—also helps because these conditions weaken your immune system's ability to fight the bacteria.
 

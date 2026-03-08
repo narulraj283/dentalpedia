@@ -36,13 +36,13 @@ references:
 
 Understanding what's normal helps you manage pain effectively and know when to call your dentist. After most dental surgical procedures, you can expect some degree of discomfort—this is completely normal and means your body is healing. Simple tooth extractions usually produce mild-to-moderate pain that peaks within the first 12 to 24 hours, then gradually improves. More complex surgeries like wisdom tooth removal cause more significant pain, often peaking at 24 to 48 hours.
 
-It's important to understand that some pain after surgery is actually normal and expected. Your body's inflammatory response to surgical trauma creates discomfort, but this response is also what helps you heal. Effective pain management should reduce pain to manageable levels—around 3 to 4 out of 10 on a pain scale—where you can sleep and do basic activities. Complete absence of pain would actually be concerning, as it might indicate something isn't right with healing.
+It's important to understand that some pain after surgery is actually normal and expected. Your body's inflammatory response to surgical trauma creates discomfort, but this response is also what helps you heal. Effective pain management should reduce pain to manageable levels—around 3 to 4 out of 10 on a discomfort scale—where you can sleep and do basic activities. Complete absence of pain would actually be concerning, as it might indicate something isn't right with healing.
 
 ## Taking Your Medication on Schedule
 
-The key to managing pain is taking medication before pain becomes severe. Don't wait until you're in significant pain to take medication—it's much harder to control pain once it's peaked. As soon as you get home from surgery, even if you still feel some numbness, start your pain medication plan. Taking ibuprofen 600mg before you fully feel pain gives you much better results than waiting until pain is intense.
+The key to managing pain is taking medication before pain becomes severe. Don't wait until you're in significant the sensation to take medication—it's much harder to control pain once it's peaked. As soon as you get home from surgery, even if you still feel some numbness, start your pain medication plan. Taking ibuprofen 600mg before you fully feel pain gives you much better results than waiting until pain is intense.
 
-If your dentist recommends combining ibuprofen and acetaminophen, space them correctly for best results. Take ibuprofen at 8am, acetaminophen at 11am, ibuprofen at 2pm, acetaminophen at 5pm, and so on. This pattern maintains more consistent pain control by keeping pain medication in your system throughout the day. Set phone alarms or reminders if you're forgetful—consistent medication timing makes a huge difference in your comfort level. Continue regular pain medication for the first 3 to 5 days, then take it only as needed as pain decreases.
+If your dentist recommends combining ibuprofen and acetaminophen, space them correctly for best results. Take ibuprofen at 8am, acetaminophen at 11am, ibuprofen at 2pm, acetaminophen at 5pm, and so on. This pattern maintains more consistent pain control by keeping pain medication in your system throughout the day. Set phone alarms or reminders if you're forgetful—consistent medication timing makes a huge difference in your comfort level. Continue regular pain medication for the first 3 to 5 days, then take it only as needed as soreness decreases.
 
 ## Using Ice and Heat Strategically
 
@@ -84,7 +84,7 @@ Permanent numbness is very rare but can occasionally occur after extensive surge
 
 If your dentist prescribed stronger pain medication, follow the directions exactly. Take it with food or milk to protect your stomach. Don't drive, operate machinery, or make important decisions while taking strong pain medications. Avoid alcohol completely—combining alcohol with pain medications is dangerous and increases side effects. Most people find that over-the-counter ibuprofen and acetaminophen adequately control pain when started promptly, so prescription medication may not be necessary.
 
-If prescribed medication isn't controlling your pain adequately, contact your dentist rather than taking more medication or switching medications on your own. Your dentist can adjust your pain management plan safely.
+If prescribed medication isn't controlling your pain adequately, contact your dentist rather than taking more medication or switching medications on your own. Your dentist can adjust your discomfort management plan safely.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 

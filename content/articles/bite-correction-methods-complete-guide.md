@@ -22,11 +22,11 @@ references:
 ---
 ## Understanding Your Bite and Skeletal Pattern
 
-Before jumping into treatment, your orthodontist needs to understand exactly what's going on with your bite. The main relationships they assess are: 1) how your back molars fit together (the ideal is called Class I, where the upper back tooth overlaps the lower back tooth in a specific way), 2) how much your upper front teeth overlap your lower front teeth both vertically (overbite, ideal 2-3 millimeters) and horizontally (overjet, ideal 2-3 millimeters), and 3) how your left and right sides align (should be symmetrical, with upper teeth biting slightly outside the lower teeth).
+Before jumping into treatment, your orthodontist needs to understand exactly what's going on with your bite. The main relationships they assess are: 1) how your back molars fit together (the ideal is called Class I, where the upper back tooth overlaps the lower back tooth in a specific way), 2) how much your upper front teeth overlap your lower front teeth both vertically (overbite, ideal 2-3 millimeters) and horizontally (overjet, ideal 2-3 millimeters). 3) how your left and right sides align (should be symmetrical, with upper teeth biting slightly outside the lower teeth).
 
 X-rays and three-dimensional scans measure the underlying skeletal relationships. Your orthodontist uses angles on these images (like SNA and SNB angles) that essentially measure whether your jaws are positioned normally, too far forward, too far back, or at an angle. These skeletal measurements determine whether you can fix your bite with braces alone or whether you might need jaw surgery later.
 
-Before your orthodontist even places braces, they check your gum and periodontal health. Active gum disease during orthodontic treatment causes 60-80% more bone loss compared to treatment when gums are healthy. If you have gum problems, they get treated first. Your orthodontist wants your gum health score below 10% plaque accumulation before beginning.
+Before your orthodontist even places braces, they check your gum and periodontal health. Active gum disease during orthodontic treatment causes 60-80% more bone loss compared to treatment when gums are healthy. If you have gum problems, they get treated first. Your orthodontist wants your gum health score below 10% plaque buildup before beginning.
 
 Modern treatment planning uses computer software that lets your orthodontist show you a virtual before-and-after of your bite correction. This digital planning reduces treatment time by 2-4 months compared to older sequential methods and improves your chances of achieving the final planned result from about 70-80% up to 95%.
 
@@ -44,7 +44,7 @@ As treatment progresses, your orthodontist switches to stiffer wires and eventua
 
 Clear aligner trays (Invisalign and similar systems) are custom-made plastic trays (about 0.9 millimeters thick) that apply force more gently than braces. Each aligner advances your teeth 0.25-0.5 millimeters, and you get a new tray weekly or every two weeks. You bite down and the tray applies pressure, gradually straightening your teeth. Treatment typically requires 20-30 trays spanning 6-12 months for mild cases.
 
-The problem with aligners is that the force decays as the plastic relaxes. The plastic might apply force for a couple days, then by day three or four, the force drops significantly. This means slower tooth movement compared to braces' consistent force. Aligners also require 22 hours daily wear to work — many people don't comply, accidentally extending treatment. Studies show 30-40% of aligner wearers fail to wear them enough.
+The problem with aligners is that the force decays as the plastic relaxes. The plastic might apply force for a couple days, then by day three or four, the force drops much. This means slower tooth movement compared to braces' consistent force. Aligners also require 22 hours daily wear to work — many people don't comply, accidentally extending treatment. Studies show 30-40% of aligner wearers fail to wear them enough.
 
 Aligners work reasonably well for mild crowding (teeth barely overlapped) but struggle with severe crowding, significant bite problems, and vertical dimension issues (like open bite). If you have serious bite problems, braces almost typically works faster and more predictably than aligners. Aligners excel for cosmetic patients with mild issues who prioritize appearance and can stay compliant with wear protocols.
 
@@ -52,19 +52,19 @@ Aligners work reasonably well for mild crowding (teeth barely overlapped) but st
 
 Clear aligner systems (Invisalign, Smile Direct Club, Byte) employ thermoplastic polymer retainers (thickness 0.8-0.9 millimeters, modulus of elasticity 1.9-2.7 gigapascals) applying calibrated reciprocating forces. Each sequential aligner advances teeth 0.25-0.5 millimeters per stage (increments of 0.25 millimeters for incisors, larger increments for posterior teeth). Treatment requires 20-30 aligner changes typical, with weekly advancement protocols standard.
 
-Force magnitude in aligner therapy reaches 150-300 grams maximum at aligner insertion, declining as polymer relaxation occurs over 2-3 days. This force decay pattern produces less-sustained force compared to fixed appliances, potentially explaining slower treatment velocity (2.5-3.5 millimeters per month vertical movement versus 1.0-1.5 millimeters per month) and variable anterior root control during vertical movements. Contemporary biomechanical analysis demonstrates that aligner systems provide less predictable vertical control compared to fixed appliances with appropriate vertical dimension anchorage management.
+Force magnitude in aligner therapy reaches 150-300 grams maximum at aligner insertion, declining as polymer relaxation occurs over 2-3 days. This force decay pattern produces less-sustained force compared to fixed appliances, potentially explaining slower treatment velocity (2.5-3.5 millimeters per month vertical movement versus 1.0-1.5 millimeters per month) and variable anterior root control during vertical movements. Contemporary biomechanical analysis shows that aligner systems provide less predictable vertical control compared to fixed appliances with appropriate vertical dimension anchorage management.
 
-Compliance monitoring presents a significant aligner system limitation: 22-hour daily wear protocols require patient cooperation, with 30-40% of patient adherence remaining suboptimal. Treatment duration extends significantly with part-time wear, and crowding relapse occurs rapidly upon aligner discontinuation. Fixed appliances remain superior for severe malocclusions, significant vertical correction, and predictable treatment duration, requiring 16-28 months versus 18-36 months with aligner systems.
+Compliance monitoring presents a significant aligner system limitation: 22-hour daily wear protocols require patient cooperation, with 30-40% of patient adherence remaining suboptimal. Treatment duration extends much with part-time wear, and crowding relapse occurs rapidly upon aligner discontinuation. Fixed appliances remain superior for severe malocclusions, significant vertical correction, and predictable treatment duration, requiring 16-28 months versus 18-36 months with aligner systems.
 
-Three-dimensional tooth movement tracking during aligner therapy requires scanning intervals (intraoral or model scanning) to assess treatment progression versus planned movement. Significant deviations (> 0.5 millimeters) necessitate mid-course treatment plan modification through re-scans and new aligner fabrication, extending treatment duration and cost. Approximately 25-35% of cases require re-scanning and plan modification during treatment.
+Three-dimensional tooth movement tracking during aligner therapy requires scanning intervals (intraoral or model scanning) to assess treatment progression versus planned movement. Significant deviations (> 0.5 millimeters) require mid-course treatment plan change through re-scans and new aligner fabrication, extending treatment duration and cost. About 25-35% of cases require re-scanning and plan change during treatment.
 
 ## When Surgery Becomes Necessary
 
-Severe bite problems rooted in jaw shape (skeletal problems) require surgery combined with orthodontics. If your upper jaw is significantly too far back, too far forward, or your lower jaw is severely off-center, braces alone can't fix it — they can only compensate by tipping teeth in unnatural directions. Surgery repositions the actual jaw bones into proper relationships.
+Severe bite problems rooted in jaw shape (skeletal problems) require surgery combined with orthodontics. If your upper jaw is much too far back, too far forward, or your lower jaw is severely off-center, braces alone can't fix it — they can only compensate by tipping teeth in unnatural directions. Surgery repositions the actual jaw bones into proper relationships.
 
 Before surgery (6-12 months), your orthodontist deliberately "decompensates" your bite — positioning teeth to match their respective bone positions. This temporarily makes your bite look worse (so you'll understand why surgery is needed), but it sets up the surgical success. Your surgeon then moves one or both jaw bones (maxillary advancement moves the upper jaw forward, mandibular setback moves the lower jaw back). These movements can correct 10-15 millimeter discrepancies that braces can't touch.
 
-Immediately after surgery, your bite shifts slightly as tissues rebound (about 0.5-1.0 millimeters), but over 3-6 months, the new position stabilizes completely. Then your orthodontist spends 3-6 months fine-tuning everything with braces. The whole process takes 12-18 months but corrects problems that would otherwise require extensive compensatory tooth movement.
+Right away after surgery, your bite shifts slightly as tissues rebound (about 0.5-1.0 millimeters), but over 3-6 months, the new position stabilizes completely. Then your orthodontist spends 3-6 months fine-tuning everything with braces. The whole process takes 12-18 months but corrects problems that would otherwise require extensive compensatory tooth movement.
 
 ## Keeping Your Bite Straight: Retention
 
@@ -72,7 +72,7 @@ Teeth want to relapse (move back toward original positions) after braces come of
 
 The bonded wire stays in place forever, providing insurance against relapse. Removable retainers (either wire-and-plastic Hawley retainers or clear plastic retainers like aligner trays) wear out and need replacement but let you clean your teeth normally. You'd wear them 24 hours daily for the first year, then nighttime-only indefinitely. Most people who strictly follow this protocol (80%+ wear compliance) experience virtually no relapse. Non-compliant patients often relapse 1.5-3.0 millimeters within a couple years.
 
-A comprehensive retention program (bonded wire plus removable retainers) achieves 90-95% relapse prevention versus only 65-75% with just one method. It costs $400-800 annually but prevents relapse requiring re-treatment costing $2000-5000, making it an economical investment. Some crowding (1-2 millimeters) typically returns over decades as gums and bone naturally shift with aging, but regular checkups catch this early and minor adjustments prevent major re-treatment.
+A full retention program (bonded wire plus removable retainers) achieves 90-95% relapse prevention versus only 65-75% with just one method. It costs $400-800 annually but prevents relapse requiring re-treatment costing $2000-5000, making it an economical investment. Some crowding (1-2 millimeters) typically returns over decades as gums and bone naturally shift with aging, but regular checkups catch this early and minor adjustments prevent major re-treatment.
 
 ## How Long Does Treatment Actually Take?
 
@@ -88,7 +88,7 @@ Several emerging technologies claim faster orthodontics, though results vary. La
 
 Vibration devices (like Acceledent) apply gentle daily vibrations to theoretically accelerate movement by 15-25%. Results are modest (3-4 months faster) and inconsistent. Artificial intelligence is beginning to help predict optimal treatment sequences and force magnitudes, potentially improving outcomes by 5-10%, though this technology isn't yet mainstream.
 
-The reality: modern conventional braces with good compliance already move teeth very efficiently — technology improvements are incremental, not revolutionary. Your orthodontist's expertise, your compliance, and your mouth's biology matter far more than fancy gadgets.
+The reality: modern standard braces with good compliance already move teeth very efficiently — technology improvements are incremental, not revolutionary. Your orthodontist's expertise, your compliance, and your mouth's biology matter far more than fancy gadgets.
 
 
 *Every patient's situation is unique—always consult your dentist before making treatment decisions.*

@@ -139,7 +139,6 @@ Many orthodontists now recommend lifelong retention, even nightly wear of retain
 Many orthodontists now recommend lifelong retention, even nightly wear of retainers. This might sound onerous, but consider: Talk to your dentist about how this applies to your situation. However, relapse is almost entirely preventable through proper retention compliance. Wearing your retainer as directed, protecting it from damage, and maintaining good oral health allows you to keep your straight smile permanently. Your retention is as important as your braces for achieving lasting results.
 
 
-
 > **Key Takeaway:** Understand why your teeth shift back after braces and how proper retention prevents relapse for lifelong straight teeth and proper bite.
 
 ## Related Articles

@@ -207,7 +207,6 @@ Orthodontics takes longer than veneers but preserves your natural teeth.
 For more information, see [Understanding Cosmetic Bonding Process — A](/article/best-practices-for-cosmetic-bonding-process.html) and [Tooth Gap Closure - What You Need to Know](/article/tooth-gap-closure-what-you-need-to-know.html).
 
 
-
 *Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion

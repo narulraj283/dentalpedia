@@ -152,11 +152,7 @@ Athletes and physically active people should know how to respond to avulsion. At
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding teeth knocked out: critical first hour actions helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
-
-Get to your dentist immediately. Replantation within 15-30 minutes yields 90%+ nerve survival. Even replantation after 2+ hours can save your tooth, though nerve survival drops dramatically. Proper initial response in those first minutes and hours determines whether you keep your natural tooth or lose it.
+Avulsed tooth emergency requires immediate action outside dental office. Proper handling (crown only), optimal storage (HBSS, milk, or saliva), and rapid replantation (within 15-30 minutes) determine pulp vitality and periodontal healing outcomes. Flexible 7-10 day splinting permits normal healing. Systemic antibiotics prevent infection.
 
 > **Key Takeaway:** A completely knocked-out tooth is time-critical—every minute counts. Handle it only by the crown. If dirty, rinse gently with milk or saline (never tap water). Store in HBSS, milk, or your mouth if other options unavailable.
 

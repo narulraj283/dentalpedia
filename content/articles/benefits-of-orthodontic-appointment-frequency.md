@@ -147,8 +147,7 @@ Related reading: [Why Orthodontic Extraction Decision Matters](/article/why-orth
 
 ## Conclusion
 
-Whether you're just learning about your guide to orthodontic appointment frequency or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Most patients with traditional braces come in every 4-6 weeks for about 2 years of treatment. Clear aligner patients might come every 6-8 weeks for 1-1.5 years. Your specific schedule depends on your situation, how your teeth respond, what type of appliance you're wearing, and what your orthodontist recommends.
 
 > **Key Takeaway:** One of the most common questions patients ask is 'How often do I really need to come to my orthodontist appointments?' The answer isn't.
 

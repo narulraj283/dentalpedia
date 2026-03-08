@@ -100,6 +100,8 @@ Dental lasers represent an important advancement in dental technology. They offe
 
 ## Related Articles
 
-- [Cost of Cavity Diagnosis Process](/article/cost-of-cavity-diagnosis-process.html)
-- [Why Infection Prevention Matters in Dental Practice](/article/why-infection-prevention-matters.html)
-
+- [Timeline for Cavity Diagnosis Process and Caries](/article/timeline-for-cavity-diagnosis-process.html)
+- [Evidence-Based Protocol for Post-Extraction Healing](/article/best-practices-for-recovery-after-extraction.html)
+- [Timeline for Mouth Ulcer Care](/article/timeline-for-mouth-ulcer-care.html)
+- [A Patient's Guide to Bleeding Gums Solutions](/article/best-practices-for-bleeding-gums-solutions.html)
+- [Root Caries - Decay on Exposed Root Surfaces](/article/root-caries-decay-on-exposed-roots.html)

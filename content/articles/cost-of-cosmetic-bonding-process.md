@@ -28,11 +28,11 @@ If you have a chipped tooth, a gap, some stains, or just want to make your smile
 
 Cosmetic bonding is when your dentist uses tooth-colored composite resin (a plastic material) to fix cosmetic problems on your teeth. Learning more about [Cost of Cosmetic Crown Selection](/article/cost-of-cosmetic-crown-selection.html) can help you understand this better. They shape and smooth the resin to match your tooth, then harden it with a blue light. It takes about 30 to 60 minutes per tooth, and you can usually see results right away.
 
-Bonding is often the cheapest cosmetic option. A single tooth costs $150 to $300, while more involved cases (like closing gaps across several teeth) might cost $300 to $600 per tooth. Compare that to veneers at $600 to $1,200 per tooth, and you can see why many people start with bonding.
+Bonding is often the cheapest cosmetic option. A single tooth costs $150 to $300, while more involved cases (like closing gaps across several teeth) might cost $300 to $600 per tooth. Compare that to veneers at $600 to $1,200 per tooth, and you can see why many people start with it.
 
 ## What Bonding Can Fix
 
-Bonding works great for lots of smile problems. A chipped tooth? Bonding can rebuild the edge. A small gap?
+This works great for lots of smile problems. A chipped tooth? Bonding can rebuild the edge. A small gap?
 
 Bonding closes it. Stains or discoloration on one or two teeth? Bonding can cover them. Slightly overlapped or crooked teeth? Bonding can make them look straighter (though it doesn't actually move them like braces do).
 
@@ -66,7 +66,7 @@ Staining is the other main issue with bonding. Bonded resin stains more easily t
 
 ## Cost Breakdown
 
-Let's say you want bonding on one front tooth that's slightly chipped. Cost is $150 to $300, plus possibly a cleaning if it's been a while ($75 to $150). Total: $225 to $450. One appointment, same day.
+Let's say you want it on one front tooth that's slightly chipped. Cost is $150 to $300, plus possibly a cleaning if it's been a while ($75 to $150). Total: $225 to $450. One appointment, same day.
 
 If you want to close three gaps across your four front teeth, bonding might cost $600 to $1,200 ($150 to $300 per tooth). This might take two appointments if the dentist wants to be really careful. Total: around $600 to $1,200 plus cleaning.
 
@@ -74,9 +74,9 @@ Compare that to veneers for the same four teeth at $600 to $1,200 each ($2,400 t
 
 ## When Bonding Isn't the Best Choice
 
-If you have serious decay under the tooth or the tooth is badly damaged, bonding might not be strong enough. A crown is better for that. If your problem is severe discoloration that doesn't respond to whitening, you might need veneers instead. If you have multiple teeth with the same issue, whitening is often better than bonding multiple teeth.
+If you have serious decay under the tooth or the tooth is badly damaged, bonding might not be strong enough. A crown is better for that. If your problem is severe discoloration that doesn't respond to whitening, you might need veneers instead. If you have multiple teeth with the same issue, whitening is often better than this multiple teeth.
 
-Also, if you need the cosmetic work to last many years without maintenance, veneers might be better. Athletes, people who grind their teeth, or people who bite their nails might wear through bonding faster.
+Also, if you need the cosmetic work to last many years without maintenance, veneers might be better. Athletes, people who grind their teeth, or people who bite their nails might wear through it faster.
 
 ## Conclusion
 

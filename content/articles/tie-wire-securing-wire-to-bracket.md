@@ -82,13 +82,13 @@ Your orthodontist will choose the type of tie system based on your specific trea
 
 Some people also have allergies or sensitivities to certain metals or rubber materials. If you've noticed reactions in your mouth—like irritation, swelling, or unusual discoloration—tell your orthodontist right away. They have alternative materials and tie systems available to keep you comfortable while still achieving your straight smile. The goal is always to find the system that works best for your teeth, your lifestyle, and your comfort level throughout your treatment.
 
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding ligature wire selection and bracket engagement: helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
-
-The tiny wires that hold your brackets in place might not be flashy, but they're absolutely critical to the success of your orthodontic treatment. Whether your orthodontist uses traditional steel wire ties, colorful elastics, or modern self-ligating brackets, the key is maintaining just the right amount of consistent pressure on your teeth. When these ties are properly placed and maintained, they work invisibly in the background to guide your teeth into their correct positions.
+Ligature wire selection and bracket engagement represent fundamental clinical decisions affecting treatment mechanics and overall efficiency. Stainless steel 0.010" ligature wire applied via figure-8 technique provides superior force consistency and friction control compared to elastomeric systems, with typical friction values of 1.5-2.5 grams-force. Elastomeric modules offer cosmetic advantages but demonstrate approximately 50% force loss over 4-week appointment intervals. Self-ligating bracket systems provide low-friction characteristics (0.2-1.5 gf depending on passive vs.
 
 > **Key Takeaway:** ## Key Takeaway: The Power of Proper Wire Tightening
 

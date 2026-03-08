@@ -203,11 +203,13 @@ Preventing tooth avulsion is obviously better than dealing with it:
 - Avoid high-impact activities if at high injury risk
 - Consider protective gear for high-risk activities
 
+
+
+*Every patient's situation is unique—always consult your dentist before making treatment decisions.*
+
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding knocked-out tooth: what to do right now and your chances helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Avulsion represents a significant dental traumatic injury requiring immediate action and proper management to optimize outcomes. Critical factors determining success include minimizing extra-alveolar time and selecting appropriate storage media (HBSS preferred; milk acceptable). Gentle tooth handling, avoiding root contact, and immediate notification of dental care providers enable rapid intervention. Evidence-based replantation technique with flexible splinting, appropriate antibiotic coverage, and systematic follow-up achieve approximately 70-90% success rates depending on prognostic factors.
 
 > **Key Takeaway:** A knocked-out tooth is savable if you act fast. Within 30 minutes is ideal, within 1 hour is still very good. Handle the tooth carefully (crown only, never the root), store it in milk if HBSS isn't available, and get to a dentist immediately. Professional replantation within the first 1-2 hours dramatically improves the tooth's chance of long-term survival and function. Don't give up on a knocked-out tooth—get it treated right away.
 

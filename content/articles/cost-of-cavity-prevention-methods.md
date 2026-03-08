@@ -78,7 +78,7 @@ Also, if your community has fluoridated water, you're getting free cavity protec
 
 When you add it all up, spending $500 to $2,500 per year on prevention saves you $2,000 to $15,000 in treatment costs over your lifetime. Prevention is almost always covered by insurance, especially for kids and teens. By combining professional treatments like fluoride and sealants with good home care and smart eating habits, you protect your teeth and your wallet. Talk to your dentist about which prevention plan makes the most sense for your situation—everyone's mouth is different, and your dentist can customize a plan that fits your risk level and budget.
 
-> **Key Takeaway:** Learning more about [Cost of Cavity Risk Factors](/article/cost-of-cavity-risk-factors.html) can help you understand this better. A cavity prevention visit costs around $50 to $150, but filling that cavity later will run you $150 to $300.
+> **Key Takeaway:** Learning more about Cost of Cavity Risk Factors can help you understand this better. A cavity prevention visit costs around $50 to $150, but filling that cavity later will run you $150 to $300.
 
 ## Related Articles
 

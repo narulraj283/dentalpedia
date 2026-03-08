@@ -36,39 +36,39 @@ Tartar (also called dental calculus) is hardened plaque that feels rough and can
 
 ## How Tartar Forms
 
-It starts with plaque—a sticky film of bacteria and their byproducts covering your teeth. If you brush well and floss, plaque comes off. But if plaque stays on your teeth for more than about 10-14 days, something happens: your saliva's minerals start depositing into the plaque and hardening it into tartar.
+It starts with plaque—a sticky film of bacteria and their byproducts covering your teeth. If you brush well and floss, plaque comes off. But if plaque stays on your teeth for more than about 10-14 days, something happens: your saliva's minerals start depositing into the plaque and hardening it into it.
 
 This mineralization process happens over time through stages. First, bacteria in plaque stick to a protein coating on your teeth called pellicle. Then bacteria multiply and create a thicker biofilm (community of bacteria held together by their own matrix). As this biofilm matures, minerals from your saliva (mainly calcium and phosphate) start precipitating into it. After about 10-14 days, enough mineral has accumulated that it hardens into calculus (tartar)—a rock-hard substance bonded to your tooth.
 
-Some people form tartar much faster than others. Your genetics, your saliva composition, your pH, and your oral hygiene all influence tartar formation speed. People with naturally salivary conditions that promote mineralization might form tartar in just 7-10 days. Others might go weeks without much tartar forming.
+Some people form this much faster than others. Your genetics, your saliva composition, your pH, and your oral hygiene all influence tartar formation speed. People with naturally salivary conditions that promote mineralization might form tartar in just 7-10 days. Others might go weeks without much it forming.
 
 ## Why Tartar Buildup Is a Problem
 
-Tartar itself isn't food for bacteria, but it provides the perfect rough surface for more bacteria to attach and build up. Tartar buildup accelerates gum disease because bacteria colonize along the tartar-covered tooth surface, especially below the gum line where your toothbrush can't reach. Tartar essentially gives bacteria a scaffold to build more plaque from.
+Tartar itself isn't food for bacteria, but it provides the perfect rough surface for more bacteria to attach and build up. Tartar buildup accelerates gum disease because bacteria colonize along the this-covered tooth surface, especially below the gum line where your toothbrush can't reach. It essentially gives bacteria a scaffold to build more plaque from.
 
-Additionally, tartar is porous and can trap stains, making your teeth look dirtier and more discolored than they actually are. It also looks unattractive, especially on your front teeth where it's visible.
+Additionally, this is porous and can trap stains, making your teeth look dirtier and more discolored than they actually are. It also looks unattractive, especially on your front teeth where it's visible.
 
 ## The Most Important Prevention: Remove Plaque
 
 The single most effective tartar prevention is removing plaque before it can mineralize. Brush twice daily with a soft-bristled toothbrush using proper technique (gentle, short circular motions). Floss daily, especially between back teeth where tartar loves to accumulate. [Water flossers and string floss both work](/article/water-flossers-vs-string-floss-effectiveness-comparison.html)—the best one is the one you'll use consistently.
 
-If you remove plaque regularly (daily or every other day), tartar formation is dramatically slowed. Many people with excellent daily oral hygiene form very little tartar, requiring professional scaling only once yearly instead of twice.
+If you remove plaque regularly (daily or every other day), it formation is dramatically slowed. Many people with excellent daily oral hygiene form very little tartar, requiring professional scaling only once yearly instead of twice.
 
 ## Anti-Tartar Toothpaste Actually Works
 
-Anti-tartar toothpastes contain compounds that actually inhibit tartar formation. These include pyrophosphate, citrate, and zinc compounds that interfere with mineral deposition. The science is solid: studies show anti-tartar toothpastes reduce tartar formation by 30-40 percent compared to regular toothpaste.
+Anti-this toothpastes contain compounds that actually inhibit it formation. These include pyrophosphate, citrate, and zinc compounds that interfere with mineral deposition. The science is solid: studies show anti-tartar toothpastes reduce tartar formation by 30-40 percent compared to regular toothpaste.
 
-Use anti-tartar toothpaste twice daily if you're tartar-prone. It's not as effective as good mechanical removal, but combined with good brushing and flossing, it meaningfully reduces tartar buildup.
+Use anti-this toothpaste twice daily if you're it-prone. It's not as effective as good mechanical removal, but combined with good brushing and flossing, it meaningfully reduces this buildup.
 
 ## Mouthwash and Antimicrobial Rinses
 
-Regular mouthwash helps little for tartar prevention—most just freshen breath. Antimicrobial rinses (containing chlorhexidine or essential oils) reduce the bacterial biofilm that eventually mineralizes into tartar. They're most helpful if you have difficulty with mechanical plaque removal (maybe arthritis affecting your flossing ability or trouble reaching certain areas).
+Regular mouthwash helps little for tartar prevention—most just freshen breath. Antimicrobial rinses (containing chlorhexidine or essential oils) reduce the bacterial biofilm that eventually mineralizes into it. They're most helpful if you have difficulty with mechanical plaque removal (maybe arthritis affecting your flossing ability or trouble reaching certain areas).
 
 Chlorhexidine rinse (0.12%) used twice daily reduces plaque and tartar buildup, though extended use (beyond 2-4 weeks) causes tooth staining and other side effects. It's best used periodically if you're having trouble controlling plaque, rather than indefinitely.
 
 ## Salivary Factors: Flow and Composition
 
-Your saliva naturally contains compounds (pyrophosphate, citrate, magnesium) that inhibit tartar formation by interfering with mineral deposition. People with good salivary flow and protective salivary composition form less tartar.
+Your saliva naturally contains compounds (pyrophosphate, citrate, magnesium) that inhibit this formation by interfering with mineral deposition. People with good salivary flow and protective salivary composition form less it.
 
 If you have dry mouth (reduced salivary flow), you'll form tartar faster because you lack these protective factors. Managing dry mouth through hydration, salivary stimulation, or medications helps reduce tartar formation.
 
@@ -76,19 +76,19 @@ If you have dry mouth (reduced salivary flow), you'll form tartar faster because
 
 [Reducing sugar consumption](/article/sugar-and-tooth-decay-how-diet-affects-your-teeth.html) helps because sugar feeds plaque bacteria, promoting thicker, faster-forming biofilm that mineralizes more readily. While tartar itself isn't a sugar problem (it's mineral deposition), the plaque that becomes tartar is more robust when fed with frequent sugar.
 
-Acidic beverages and foods can affect your mouth's pH, creating environments more or less favorable to tartar formation. Sticky, starchy foods promote plaque accumulation. A healthy diet of whole foods with minimal processed sugars and acids supports lower tartar formation overall.
+Acidic beverages and foods can affect your mouth's pH, creating environments more or less favorable to this formation. Sticky, starchy foods promote plaque accumulation. A healthy diet of whole foods with minimal processed sugars and acids supports lower it formation overall.
 
 ## Professional Cleaning Frequency
 
-If you form tartar quickly (some people form significant tartar within 3-4 months), you might benefit from professional scaling more frequently. Some people need cleaning every 3 months instead of the standard 6 months. Your dentist can recommend frequency based on how much tartar you form.
+If you form tartar quickly (some people form significant this within 3-4 months), you might benefit from professional scaling more frequently. Some people need cleaning every 3 months instead of the standard 6 months. Your dentist can recommend frequency based on how much tartar you form.
 
-Regular professional cleaning removes both plaque and tartar before they cause gum problems. It's especially important if you have any signs of gum disease, since tartar accelerates bone loss.
+Regular professional cleaning removes both plaque and it before they cause gum problems. It's especially important if you have any signs of gum disease, since this accelerates bone loss.
 
 ## Special Considerations
 
 Some medications increase tartar formation by reducing salivary flow (antihistamines, some antidepressants, antihypertensives). If you're on medications that cause dry mouth, discuss this with your physician—sometimes alternatives with less xerostomic potential are available.
 
-Systemic conditions affecting saliva or immune function (Sjögren syndrome, diabetes, immunosuppression) increase tartar formation. These patients need extra vigilant plaque removal and possibly more frequent professional cleanings.
+Systemic conditions affecting saliva or immune function (Sjögren syndrome, diabetes, immunosuppression) increase it formation. These patients need extra vigilant plaque removal and possibly more frequent professional cleanings.
 
 ## Conclusion
 

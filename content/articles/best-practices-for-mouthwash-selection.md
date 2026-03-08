@@ -163,7 +163,6 @@ Related reading: [Evidence-Based Caries Prevention Strategies](/article/timeline
 Mouthwash efficacy varies dramatically by active ingredient and clinical indication. Chlorhexidine 0.12% demonstrates strongest evidence (50-70% plaque reduction) but requires management of staining and dysgeusia through short-term use. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** The FDA separates mouthwashes into two groups: real medicines and cosmetics.
 
 ## Related Articles

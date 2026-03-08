@@ -128,8 +128,7 @@ Related reading: [Two-Phase Orthodontia - Early Treatment Strategy,](/article/tw
 
 ## Conclusion
 
-Whether you're just learning about alveolar bone density and orthodontic tooth movement or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Uncontrolled diabetes (blood sugar consistently elevated, HbA1c above 8%) slows movement 20-35%. Good control (HbA1c below 7%) allows nearly normal orthodontic response.
 
 > **Key Takeaway:** Your jawbone is constantly remodeling throughout your life. You reach peak bone strength and density in your late 20s.
 

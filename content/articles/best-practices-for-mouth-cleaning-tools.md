@@ -94,7 +94,6 @@ Related reading: [Home Care Between Dental Visits: Extended Schedule](/article/h
 Effective oral hygiene combines mechanical plaque disruption via powered or manual toothbrushes (2-3 minutes, twice daily) with consistent interdental cleaning using floss, interdental brushes, or water irrigation. If you have questions, your dentist can help you understand your options. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** Bacteria in your mouth start forming a sticky film called plaque within hours of eating or drinking anything.
 
 ## Related Articles

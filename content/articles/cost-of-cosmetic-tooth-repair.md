@@ -40,11 +40,11 @@ This is the best option for small chips because it's fast, affordable, and your 
 
 If the chip is larger (more than half the tooth edge is gone), bonding might not be strong enough long-term. Your dentist will discuss whether bonding will work or if you need a veneer or crown. A large chip might need a veneer ($600 to $1,200) or crown ($800 to $1,500) for a more permanent fix.
 
-The decision depends on the tooth location (front teeth are more visible, so better cosmetic options are worth more), how much damage there is, and your budget. Your dentist can show you options and their costs.
+The decision depends on the it location (front teeth are more visible, so better cosmetic options are worth more), how much damage there is, and your budget. Your dentist can show you options and their costs.
 
 ## Cracked Tooth Treatment
 
-A tooth cracked from top to bottom might need a root canal if the crack goes deep enough to affect the nerve. Root canal cost: $1,000 to $2,000. Then the tooth needs a crown to protect it and seal the crack permanently. Crown cost: $800 to $1,500. Total: $1,800 to $3,500 for a cracked tooth needing root canal plus crown.
+A tooth cracked from top to bottom might need a root canal if the crack goes deep enough to affect the nerve. Root canal cost: $1,000 to $2,000. Then the the affected area needs a crown to protect it and seal the crack permanently. Crown cost: $800 to $1,500. Total: $1,800 to $3,500 for a cracked tooth needing root canal plus crown.
 
 Some cracks don't need root canal treatment. Your dentist will determine this with X-rays and tests. A tooth with a crack that doesn't involve the nerve might just need bonding to seal it, costing $150 to $300.
 
@@ -58,7 +58,7 @@ If extraction is needed, you'll face costs for tooth replacement: implant ($2,50
 
 Your dentist will look at the tooth and the amount of remaining tooth structure. If less than 25% of the tooth remains above the gum, it might be too short to support a crown, and extraction might be the only option. If more than 25% remains, your dentist might be able to save it with bonding buildup plus a crown.
 
-Sometimes a teeth-straightening orthodontic procedure can extrude (move down and out) a tooth that's broken low, allowing enough tooth structure to show above the gum for a crown. This adds time and cost but might save the tooth. Your dentist can discuss if this is possible for you.
+Sometimes a teeth-straightening orthodontic procedure can extrude (move down and out) a it that's broken low, allowing enough the affected area structure to show above the gum for a crown. This adds time and cost but might save the tooth. Your dentist can discuss if this is possible for you.
 
 ## Root Canal After Injury
 
@@ -74,7 +74,7 @@ Choosing a good lab and investing in premium cosmetic crown work ensures the rep
 
 ## Preventing Future Damage
 
-If you damaged a tooth in sports, an athletic mouthguard ($20 to $200) prevents future damage. If grinding your teeth at night caused a crack, a night guard ($200 to $500) protects your teeth. These preventive measures are much cheaper than repairing teeth repeatedly.
+If you damaged a it in sports, an athletic mouthguard ($20 to $200) prevents future damage. If grinding your teeth at night caused a crack, a night guard ($200 to $500) protects your teeth. These preventive measures are much cheaper than repairing teeth repeatedly.
 
 ## Permanent vs. Temporary Solutions
 

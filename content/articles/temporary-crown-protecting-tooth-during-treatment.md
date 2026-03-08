@@ -38,11 +38,11 @@ When you need a crown or bridge, your tooth gets prepared (shaped and reduced) d
 
 Think of a prepared tooth like an unprotected house. Learn more about [Eccentric Relation Side to](/article/eccentric-relation-side-to-side-movement.html) for additional guidance. The roof (your enamel) has been removed, exposing the inner structure (dentin) to the elements.
 
-A temporary crown acts like a protective roof, keeping your tooth safe from damage, sensitivity, bacteria, and moisture. Your tooth looks normal while you're waiting, so you can smile confidently and eat normally (though with some care). This temporary restoration also lets you try out how your new tooth will look, feel, and function before the permanent one is cemented.
+A temporary crown acts like a protective roof, keeping your tooth safe from damage, soreness, bacteria, and moisture. Your tooth looks normal while you're waiting, so you can smile confidently and eat normally (though with some care). This temporary repair also lets you try out how your new tooth will look, feel, and function before the permanent one is cemented.
 
 ## Protecting Your Tooth and Keeping You Comfortable
 
-A prepared tooth without protection feels very sensitive. Hot coffee, cold ice cream, biting pressure, and even air can cause sharp pain because the inner tooth structure (dentin) is exposed. A temporary crown insulates your tooth from these stimuli and prevents bacterial contamination that could cause decay or infections. For teeth with deep preparation, protection is especially important to prevent nerve damage and pain.
+A prepared tooth without protection feels very sensitive. Hot coffee, cold ice cream, biting pressure, and even air can cause sharp pain because the inner tooth structure (dentin) is exposed. A temporary crown insulates your tooth from these stimuli and prevents bacterial infection risk that could cause decay or infections. For teeth with deep prep, protection is especially important to prevent nerve damage and pain.
 
 The temporary crown also protects the prepared tooth from chipping or breaking. Your tooth structure is now more fragile than usual, so a protective covering prevents the edges from chipping during eating or speaking. This means your new permanent crown will fit perfectly when it arrives from the lab.
 
@@ -64,17 +64,17 @@ Some dentists use a different material called PMMA acrylic for cases where the t
 
 ## How Your Temporary Crown Is Made
 
-Your dentist can make your temporary crown two ways. The most common method is making it right in your mouth during the preparation appointment. Your dentist applies the material directly to your prepared tooth, shapes it, and finishes it while it hardens. This takes about 15-20 minutes, so you leave with your temporary crown the same day. The advantage is that you can immediately test how it feels and looks, and your dentist can adjust it right away if needed.
+Your dentist can make your temporary crown two ways. The most common method is making it right in your mouth during the prep appointment. Your dentist applies the material directly to your prepared tooth, shapes it, and finishes it while it hardens. This takes about 15-20 minutes, so you leave with your temporary crown the same day. The advantage is that you can right away test how it feels and looks, and your dentist can adjust it right away if needed.
 
-Alternatively, your dentist might take an impression of your prepared tooth and send it to the lab to fabricate the temporary crown. This method creates a more precise fit because the crown is made on a model instead of directly in your mouth. It takes a bit longer, but the final temporary crown fits better. This method is particularly useful for complex cases where precision matters.
+Alternatively, your dentist might take an impression of your prepared tooth and send it to the lab to fabricate the temporary crown. This method creates a more precise fit because the crown is made on a model instead of directly in your mouth. It takes a bit longer, but the final temporary crown fits better. This method is especially useful for complex cases where precision matters.
 
-Many dentists use a hybrid approach: they make an index (mold) of your natural tooth before preparation, then use this index to guide them while building your temporary crown right in your mouth. This combines the advantages of both methods—fast chair time and good fit.
+Many dentists use a hybrid approach: they make an index (mold) of your natural tooth before prep, then use this index to guide them while building your temporary crown right in your mouth. This combines the advantages of both methods—fast chair time and good fit.
 
 ## How Your Temporary Crown Is Attached
 
 Your temporary crown is cemented in place with special temporary cement. Your dentist chooses a cement that sticks firmly enough to keep your temporary crown in place during eating and chewing, but isn't so strong that it's difficult to remove when your permanent crown arrives.
 
-The most common temporary cements are easy to remove without harming your prepared tooth. When your permanent crown is ready, your dentist removes the temporary crown and the temporary cement with hand instruments or ultrasonic vibration. This process shouldn't hurt or damage the tooth preparation. Your dentist ensures all excess cement is carefully removed from the margins before it hardens, because cement left behind causes sensitivity and inflammation.
+The most common temporary cements are easy to remove without harming your prepared tooth. When your permanent crown is ready, your dentist removes the temporary crown and the temporary cement with hand instruments or ultrasonic vibration. This process shouldn't hurt or damage the tooth prep. Your dentist ensures all excess cement is carefully removed from the margins before it hardens, because cement left behind causes soreness and swelling.
 
 ## Tips for Caring for Your Temporary Crown
 
@@ -82,56 +82,56 @@ Your temporary crown is protective but not indestructible. Be gentle with it. Av
 
 Avoid hard foods that might crack it. Avoid grinding or clenching your teeth, which puts excessive stress on the temporary. Chew mostly on the opposite side of your mouth if possible.
 
-Brush your temporary crown gently like your other teeth, but be extra careful around the crown margins. Floss carefully around it—use floss tape rather than string floss, and be gentle to avoid dislodging the crown. If your temporary crown feels loose or comes off, contact your dentist immediately. Don't try to recement it yourself.
+Brush your temporary crown gently like your other teeth, but be extra careful around the crown margins. Floss carefully around it—use floss tape rather than string floss, and be gentle to avoid dislodging the crown. If your temporary crown feels loose or comes off, contact your dentist right away. Don't try to recement it yourself.
 
 ## Getting the Fit Just Right
 
-How well your temporary crown fits around the edges matters. If gaps exist between the crown and your prepared tooth, bacteria and saliva can leak underneath, causing sensitivity, decay, or even nerve damage. Your dentist carefully applies the material layer by layer to create smooth, well-fitting margins. They often use a shade of material that contrasts with your tooth color so they can see exactly where the margins are while shaping.
+How well your temporary crown fits around the edges matters. If gaps exist between the crown and your prepared tooth, bacteria and saliva can leak underneath, causing soreness, decay, or even nerve damage. Your dentist carefully applies the material layer by layer to create smooth, well-fitting margins. They often use a shade of material that contrasts with your tooth color so they can see exactly where the margins are while shaping.
 
-After your temporary crown hardens, your dentist checks it carefully. They might remove it from your mouth to inspect the edges closely with an explorer or air stream, making sure the crown material doesn't extend beyond the tooth preparation. A slight overhang is sometimes unavoidable and acceptable. Excessive overhangs get trimmed down. Your dentist also checks that the chewing surfaces fit smoothly into your bite without being too high, which could create uncomfortable pressure.
+After your temporary crown hardens, your dentist checks it carefully. They might remove it from your mouth to inspect the edges closely with an explorer or air stream, making sure the crown material doesn't extend beyond the tooth prep. A slight overhang is sometimes unavoidable and acceptable. Excessive overhangs get trimmed down. Your dentist also checks that the chewing surfaces fit smoothly into your bite without being too high, which could create painful pressure.
 
 ## Sensitivity After Temporary Crown Placement
 
-Some tooth sensitivity for a few days after crown preparation is normal. Your tooth has been shaped and its inner dentin is exposed. Taking over-the-counter pain reliever can help. Using desensitizing toothpaste for a few days may provide relief. If sensitivity persists beyond a few days or is severe, contact your dentist—they might apply a protective coating inside your temporary crown.
+Some tooth soreness for a few days after crown prep is normal. Your tooth has been shaped and its inner dentin is exposed. Taking over-the-counter pain reliever can help. Using desensitizing toothpaste for a few days may provide relief. If soreness persists beyond a few days or is severe, contact your dentist—they might apply a protective coating inside your temporary crown.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
-rovisional restorations permit some degree of microleakage, necessitating additional protective measures for teeth with shallow pulp anatomy.
+rovisional repairs permit some degree of microleakage, necessitating additional protective measures for teeth with shallow pulp anatomy.
 
-Calcium hydroxide application to exposed dentin provides additional pulp protection through alkaline chemistry that neutralizes acids and promotes reparative dentin formation. A thin layer of calcium hydroxide applied to all exposed dentin surfaces before provisional restoration placement provides additional protection without affecting restoration adaptation. Calcium hydroxide sets to a brittle material and should be covered by the provisional material to prevent displacement.
+Calcium hydroxide application to exposed dentin provides additional pulp protection through alkaline chemistry that neutralizes acids and promotes reparative dentin formation. A thin layer of calcium hydroxide applied to all exposed dentin surfaces before provisional repair placement provides additional protection without affecting repair adaptation. Calcium hydroxide sets to a brittle material and should be covered by the provisional material to prevent displacement.
 
-For teeth with particularly shallow pulps or heavily cut preparations, additional protective bases including glass ionomer cement or other biocompatible materials can be applied before the provisional restoration, creating a protective sandwich effect. These bases should be thin enough that they do not alter the restoration contour significantly.
+For teeth with especially shallow pulps or heavily cut preparations, additional protective bases including glass ionomer cement or other biocompatible materials can be applied before the provisional repair, creating a protective sandwich effect. These bases should be thin enough that they do not alter the repair contour much.
 
 ## Occlusal Considerations
 
-Provisional restorations should be checked for prematurities and adjusted to achieve appropriate occlusal contacts. High points on the provisional crown can cause rapid wear, fracture, or complete displacement. Occlusal adjustment involves selective removal of material at high-contact areas until appropriate contact patterns are achieved.
+Provisional repairs should be checked for prematurities and adjusted to achieve appropriate occlusal contacts. High points on the provisional crown can cause rapid wear, fracture, or complete displacement. Occlusal adjustment involves selective removal of material at high-contact areas until appropriate contact patterns are achieved.
 
-Verification of proper occlusion requires use of articulating paper and careful observation of contact patterns in centric relation and functional movements. The provisional restoration should contact in centric relation at contact areas that are identical to or slightly lighter than adjacent natural teeth. Eccentric movements (lateral excursions, protrusion) should not show contacts on the provisional restoration; these movements should contact on natural teeth only.
+Verification of proper occlusion requires use of articulating paper and careful observation of contact patterns in centric relation and functional movements. The provisional repair should contact in centric relation at contact areas that are identical to or slightly lighter than adjacent natural teeth. Eccentric movements (lateral excursions, protrusion) should not show contacts on the provisional repair; these movements should contact on natural teeth only.
 
-For provisional bridges, occlusal contact verification requires particularly careful assessment because the pontic contact on opposing tissue must be light (approximately 20-30 micrometers contact) to avoid inflammation or ulceration. The retainers should contact at appropriate points. The pontic should not contact opposing teeth if a conventional pontic design is used; modified ridge lap pontics that contact the opposing ridge may be appropriate for certain cases.
+For provisional bridges, occlusal contact verification requires especially careful assessment because the pontic contact on opposing tissue must be light (approximately 20-30 micrometers contact) to avoid swelling or ulceration. The retainers should contact at appropriate points. The pontic should not contact opposing teeth if a standard pontic design is used; modified ridge lap pontics that contact the opposing ridge may be appropriate for certain cases.
 
 ## Duration and Replacement Protocols
 
-Provisional restorations fabricated from bis-acryl are designed for 2-3 weeks of service. When laboratory delays extend the provisional period beyond 3 weeks, the provisional restoration should be replaced or reinforced. Bis-acryl restorations remaining in place beyond 4 weeks risk degradation, wear through to preparation margins, and increased postoperative sensitivity.
+Provisional repairs fabricated from bis-acryl are designed for 2-3 weeks of service. When laboratory delays extend the provisional period beyond 3 weeks, the provisional repair should be replaced or reinforced. Bis-acryl repairs remaining in place beyond 4 weeks risk degradation, wear through to prep margins, and increased postoperative soreness.
 
-If the final restoration delivery is delayed beyond 3-4 weeks, removing the provisional restoration, thoroughly cleaning the prepared surface, and applying a fresh provisional restoration provides better protection. This replacement process takes minimal time and substantially reduces risk of complications from aged provisional restorations.
+If the final repair delivery is delayed beyond 3-4 weeks, removing the provisional repair, thoroughly cleaning the prepared surface, and applying a fresh provisional repair provides better protection. This replacement process takes minimal time and greatly reduces risk of problems from aged provisional repairs.
 
 ## Removal of Provisional Restorations
 
-Provisional restoration removal at delivery appointment must be accomplished with care to avoid damaging the prepared tooth structure. Bis-acryl restorations are generally removed by careful application of hand instruments around the restoration margins, combined with gentle lateral pressure. Over-aggressive removal attempts can cause chipping of preparation margins, particularly if the preparation exhibits significant undercuts or fragile margins.
+Provisional repair removal at delivery appointment must be accomplished with care to avoid damaging the prepared tooth structure. Bis-acryl repairs are generally removed by careful application of hand instruments around the repair margins, combined with gentle lateral pressure. Over-aggressive removal attempts can cause chipping of prep margins, especially if the prep exhibits significant undercuts or fragile margins.
 
-Use of ultrasonic instruments set to low frequency (around 20 kHz) with light contact facilitates removal by vibrating the restoration off the tooth. This technique is particularly useful for restorations that have been seated for extended periods. Complete removal of all provisional material residue before the definitive restoration seating is essential, as residual provisional material can interfere with fit or cementation of the final restoration.
+Use of ultrasonic instruments set to low frequency (around 20 kHz) with light contact facilitates removal by vibrating the repair off the tooth. This technique is especially useful for repairs that have been seated for extended periods. Complete removal of all provisional material residue before the definitive repair seating is essential, as residual provisional material can interfere with fit or cementation of the final repair.
 
 ## Clinical Documentation
 
-Clinical records should document the provisional restoration material selected, fabrication method employed, seating date, planned delivery date, any complications or adjustments made, and removal observations. This documentation creates a record of the provisional phase and provides information valuable if complications occur or if the case is referred to another provider.
+Clinical records should document the provisional repair material selected, fabrication method employed, seating date, planned delivery date, any problems or adjustments made, and removal observations. This documentation creates a record of the provisional phase and provides information valuable if problems occur or if the case is referred to another provider.
 
 
 Related reading: [Same-Day Dentures: Getting Teeth the Day Your Teeth Are](/article/immediate-denture-teeth-same-day-as-extraction.html).
 
 ## Conclusion
 
-Provisional restorations represent critical interim treatment elements protecting tooth structure, maintaining esthetics and phonetics, and permitting functional assessment during multi-visit prosthodontic treatment. Careful material selection, meticulous fabrication technique, appropriate cementation, and timely replacement when necessary ensure optimal provisional restoration performance and support successful outcomes when definitive restorations are delivered.
+Provisional repairs represent critical interim treatment elements protecting tooth structure, keeping esthetics and phonetics, and permitting functional assessment during multi-visit prosthodontic treatment. Careful material selection, meticulous fabrication technique, appropriate cementation, and timely replacement when necessary ensure optimal provisional repair performance and support successful outcomes when definitive repairs are delivered.
 
 > **Key Takeaway:** Your temporary crown protects your prepared tooth from damage, sensitivity, and decay while your permanent crown is being made. Temporary crowns are designed for short-term use (1-3 weeks), are relatively easy to adjust, and let you preview how your permanent crown will look and feel.
 

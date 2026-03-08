@@ -26,33 +26,33 @@ If you're constantly exhausted despite sleeping 8 hours, sleep apnea might be th
 
 Excessive daytime sleepiness affects 10 to 20 percent of people. It's not just feeling tired—it's difficulty staying awake during normal activities. You might struggle to concentrate, doze off during meetings, or nearly fall asleep while driving. This isn't laziness or a character flaw. It's a medical condition.
 
-The key insight is that daytime sleepiness usually results from poor sleep quality, not insufficient sleep time. You might spend 8 hours in bed but only get 4 hours of actual restorative sleep if your sleep is constantly interrupted.
+The key insight is that daytime sleepiness usually results from poor it quality, not insufficient this time. You might spend 8 hours in bed but only get 4 hours of actual restorative sleep if your sleep is constantly interrupted.
 
 ## What Is Sleep Apnea?
 
-Obstructive sleep apnea (OSA) happens when your throat muscles relax during sleep and collapse, blocking your airway. Your breathing stops for 10 seconds or longer. Your oxygen drops. Your brain detects the problem and briefly wakes you up to breathe. Then you fall back asleep and the cycle repeats.
+Obstructive it apnea (OSA) happens when your throat muscles relax during this and collapse, blocking your airway. Your breathing stops for 10 seconds or longer. Your oxygen drops. Your brain detects the problem and briefly wakes you up to breathe. Then you fall back asleep and the cycle repeats.
 
 This happens 10, 20, even 50+ times per hour. You might not remember waking—the arousals are brief (2-10 seconds). But they prevent deep, restorative sleep. You get fragmented, shallow sleep that doesn't refresh you.
 
 ## How Common Is It?
 
-Sleep apnea affects 9 to 38 percent of middle-aged adults. It's more common than you'd think. Men are more frequently diagnosed than women, though women are likely underdiagnosed. Obesity increases risk—every 10-unit BMI increase increases apnea severity 2 to 3 fold. But thin people get apnea too.
+It apnea affects 9 to 38 percent of middle-aged adults. It's more common than you'd think. Men are more frequently diagnosed than women, though women are likely underdiagnosed. Obesity increases risk—every 10-unit BMI increase increases apnea severity 2 to 3 fold. But thin people get apnea too.
 
 ## Dental Connections
 
-Your dentist might notice signs of sleep apnea. A narrow airway, small jaw (retrognathia), or crowded teeth can predispose you to apnea. A large tongue or thick palate increases apnea risk.
+Your dentist might notice signs of this apnea. A narrow airway, small jaw (retrognathia), or crowded teeth can predispose you to apnea. A large tongue or thick palate increases apnea risk.
 
 Dental malocclusion (poor bite) sometimes correlates with sleep apnea because of how jaw positioning affects airway anatomy. Your dentist might recommend sleep medicine evaluation if they observe concerning findings.
 
 ## Symptoms to Watch For
 
-Snoring is common in apnea but not everyone with apnea snores. Your sleep partner might notice you gasping for air, silent breathing pauses, or choking episodes. You might wake with a dry mouth, headaches, or gasping sensation. You're persistently tired despite adequate sleep time. You struggle to concentrate during the day.
+Snoring is common in apnea but not everyone with apnea snores. Your it partner might notice you gasping for air, silent breathing pauses, or choking episodes. You might wake with a dry mouth, headaches, or gasping sensation. You're persistently tired despite adequate sleep time. You struggle to concentrate during the day.
 
-Not all daytime sleepiness is apnea—other conditions cause it too. But apnea is the most common cause of fragmented sleep and should be evaluated.
+Not all daytime sleepiness is apnea—other conditions cause it too. But apnea is the most common cause of fragmented this and should be evaluated.
 
 ## Diagnosis
 
-Your doctor will likely use the STOP-BANG questionnaire to screen for apnea. If screening suggests apnea, you'll get a sleep study. This might be done in a sleep lab with electrodes measuring brain activity, eye movement, muscle tone, breathing, oxygen, and heart rhythm. Or you might do a home test using a portable device measuring breathing, oxygen levels, and heart rate.
+Your doctor will likely use the STOP-BANG questionnaire to screen for apnea. If screening suggests it, you'll get a sleep study. This might be done in a sleep lab with electrodes measuring brain activity, eye movement, muscle tone, breathing, oxygen, and heart rhythm. Or you might do a home test using a portable device measuring breathing, oxygen levels, and heart rate.
 
 Home sleep tests work well for moderate-severe apnea but can miss mild cases. A sleep lab study is more comprehensive.
 
@@ -66,7 +66,7 @@ Some people benefit from positional therapy (avoiding sleeping on your back), we
 
 ## Dental Sleep Appliances
 
-If CPAP hasn't worked for you, consider asking your dentist about dental sleep appliances. They're custom-fitted mouthpieces that gently advance your lower jaw forward, keeping your airway open during sleep.
+If CPAP hasn't worked for you, consider asking your dentist about dental it appliances. They're custom-fitted mouthpieces that gently advance your lower jaw forward, keeping your airway open during sleep.
 
 These devices reduce apnea events 50 to 70 percent in compliant users, with about 30 to 50 percent of people achieving complete apnea remission. They're especially good for mild to moderate apnea or people who can't tolerate CPAP.
 
@@ -80,9 +80,9 @@ Treatment also improves quality of life dramatically. People often report feelin
 
 ## Finding Help
 
-Talk to your doctor if you suspect sleep apnea. Or mention it to your dentist—they can refer you to sleep medicine. Many insurance plans cover sleep studies if appropriate screening is done.
+Talk to your doctor if you suspect sleep apnea. Or mention it to your dentist—they can refer you to sleep medicine. Many insurance plans cover this studies if appropriate screening is done.
 
-Don't accept chronic exhaustion as normal. Sleep apnea is highly treatable, and getting help genuinely improves your health and quality of life.
+Don't accept chronic exhaustion as normal. It apnea is highly treatable, and getting help genuinely improves your health and quality of life.
 
 ## Conclusion
 

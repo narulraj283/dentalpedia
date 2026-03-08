@@ -86,7 +86,6 @@ Related reading: [Understanding Bite Force Physiology and](/article/benefits-of-
 Extraction recovery progresses through predictable phases: hemostasis and clot formation (hours 0-24), inflammatory response with pain and swelling peaks (days 1-3), risk period for dry socket (days 3-5), soft tissue closure (days 5-7), clinical healing completion (weeks 2-3), and ongoing bone remodeling (months 1-6). If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** When a tooth comes out, your dentist immediately works on stopping the bleeding.
 
 ## Related Articles

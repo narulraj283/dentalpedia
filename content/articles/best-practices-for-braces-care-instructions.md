@@ -110,8 +110,7 @@ Related reading: [Braces and Tooth Decay: Increased Cavity Risk](/article/braces
 
 ## Conclusion
 
-Whether you're just learning about braces care instructions: your complete guide or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Your teeth will continue to feel smoother and stronger each day after braces come off. The satisfaction of having straight teeth that you worked so hard to achieve makes every bit of effort during your braces journey worth it.
 
 > **Key Takeaway:** Getting braces is a big commitment. You're investing time and effort to get a great smile, so it's important to take good care of them.
 

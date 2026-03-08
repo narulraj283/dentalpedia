@@ -45,7 +45,7 @@ title: Pre-Surgical Preparation and Patient Optimization
 ---
 ## Preparing for Your Tooth Extraction Surgery
 
-Getting ready for mouth surgery properly makes the whole experience better and helps you recover faster. Your dentist needs to know about your health history, medications, and any worries you have. Being well-prepared reduces anxiety, helps prevent complications, and means you know exactly what to expect. This guide explains everything you need to know to prepare for successful surgery.
+Getting ready for mouth surgery the right way helps you heal faster. Your dentist needs to know about your health, meds, and any worries. Being ready cuts stress and stops problems. This guide tells you what to do to prepare safely.
 
 ## When to Schedule Your Pre-Surgery Visit
 
@@ -97,11 +97,11 @@ Tell your dentist exactly what happens when you take the medicine. Is it a rash,
 ## Blood Thinning Medication
 
 **Warfarin and Other Blood Thinners:**
-Usually you continue taking your blood thinner before surgery. Stopping it can cause clots. Your dentist will ask you to check your blood work 1 day before surgery.
+Usually keep taking your blood thinner. Stopping it can cause clots. Your dentist will ask for blood work 1 day before.
 
-For simple extractions: Keep taking your medicine. Your dentist has tools to control bleeding.
+For simple pulls: Keep taking your medicine. Your dentist can control bleeding.
 
-For complex surgery: Your doctor and dentist talk together about whether to adjust your dose.
+For complex surgery: Your doctor and dentist talk about dose changes.
 
 **Aspirin:**
 Usually keep taking aspirin before surgery. Bleeding risk is low, and stopping aspirin can be risky.
@@ -115,69 +115,69 @@ Most people keep taking their blood thinner for oral surgery.
 ### Bisphosphonate Management
 
 **Oral Bisphosphonates (Alendronate, Risedronate, Ibandronate):**
-Bisphosphonates inhibit osteoclast function. Prolonged use may impair bone healing and increase osteonecrosis risk.
+These pills are for bone health. They slow bone loss. Long use may slow healing.
 
-**Management:**
-- Medication history should document duration of bisphosphonate therapy
-- Most oral procedures (simple extractions) carry minimal osteonecrosis risk
-- For complex surgical procedures with extensive bone manipulation, consider brief drug holiday (typically 2-3 months) if clinically appropriate—coordinate with prescribing physician
-- No specific pre-operative intervention required for most patients
+**What to do:**
+- Tell your dentist how long you've taken this
+- Most tooth work is low risk
+- For big bone surgery, talk to your doctor about stopping briefly (2-3 months)
+- Most people need no special steps
 
-**Intravenous Bisphosphonates (Zoledronic Acid, Pamidronate):**
-Used for cancer patients and severe osteoporosis. Higher osteonecrosis risk than oral formulations.
+**IV Bisphosphonates (Zoledronic Acid, Pamidronate):**
+Used for cancer and severe bone loss. Higher risk than pills.
 
-**Management:**
-- Obtain detailed history of IV bisphosphonate therapy
-- Consider deferring elective oral surgery in patients receiving active IV bisphosphonate therapy
-- Coordinate with oncologist if patient receiving IV bisphosphonate
-- Dental health optimization before beginning IV therapy reduces surgical necessity
+**What to do:**
+- Tell us about all IV bisphosphonate use
+- Delay tooth removal if you're getting IV bisphosphonates now
+- If you get cancer treatment, our dentist will talk to your cancer doctor
+- Keep teeth healthy before starting IV medicine to avoid surgery later
 
-### Other Critical Medications
+### Other Important Medicines
 
 **Corticosteroids:**
-Prolonged corticosteroid use impairs healing and immune function. Document dose and duration of therapy.
+Long-term steroid use slows healing and weakens immunity. Tell us the dose and how long you've taken it.
 
 **Immunosuppressants:**
-Organ transplant recipients on immunosuppression require prophylactic antibiotics and increased infection precautions. Coordinate with transplant physician.
+People with transplants on immunity medicine need extra antibiotics to prevent infection. We'll work with your transplant doctor.
 
 **Antibiotics:**
-If patient currently taking antibiotics, note whether prophylactic additional antibiotics are needed or if current therapy provides adequate coverage.
+If you're taking antibiotics now, tell us. We need to know if you need more or if your current medicine is enough.
 
 ## Pre-Operative Instructions
 
 ### NPO (Nothing by Mouth) Guidelines
 
 **Fasting Requirements:**
-Based on anesthetic requirements and planned procedure complexity.
+Based on your type of pain medicine.
 
-**For Local Anesthesia Only:**
-- No fasting required
-- Light meal acceptable morning of procedure
+**For Local Numbing Only:**
+- No fasting needed
+- Light meal is fine that morning
 
 **For IV Sedation:**
-- No food for 6 hours before procedure
-- Clear liquids acceptable up to 2-3 hours before procedure
-- Includes chewing gum and cough drops
+- No food for 6 hours before
+- Clear drinks okay up to 2-3 hours before
+- No gum or cough drops
 
-**For General Anesthesia:**
-- No food for 8 hours before procedure
-- Clear liquids acceptable up to 2-3 hours before procedure
-- Preoperative medications (with sip of water) acceptable
+**For Full Sleep:**
+- No food for 8 hours before
+- Clear drinks okay up to 2-3 hours before
+- Meds with a sip of water are okay
 
-**Rationale:**
-Fasting reduces aspiration risk by decreasing gastric contents. However, excessive fasting causes dehydration and hypoglycemia, particularly problematic in elderly or diabetic patients.
+**Why:**
+Not eating stops food from going to your lungs. But very long fasts cause low blood sugar, which is bad for older people and those with diabetes.
 
 ### Medication Instructions
 
 **Day Before Surgery:**
-- Continue all chronic medications as prescribed
-- Diabetes medications: Consult with anesthesia provider regarding morning-of dosing
-- Hypertension medications: Usually continued with small sip of water morning of surgery
+- Take all your regular medicines as you normally do
+- For diabetes medicine: Ask your anesthesia doctor about the morning dose
+- For blood pressure medicine: Usually keep taking with a small sip of water morning of surgery
 
 **Morning of Surgery:**
-- Continue essential medications (cardiac, respiratory, seizure) with small sip of water
-- Skip or defer non-essential medications
-- Special consideration for diabetics (may require reduced insulin dose given NPO status)
+- Take heart, breathing, and seizure medicines with a small sip of water
+- Skip other medicines
+- Diabetes: You may need less insulin because you're not eating
 
 ### Pre-Operative Preparation
 
@@ -224,12 +224,12 @@ Fasting reduces aspiration risk by decreasing gastric contents. However, excessi
 - Immunocompromised patients
 - Recent cardiac surgery (<6 months)
 
-**Antibiotic Selection:**
-For most oral surgery patients requiring prophylaxis:
-- Amoxicillin 2 g orally 30-60 minutes before procedure (preferred agent)
-- Cephalexin 2 g orally (if non-severe penicillin allergy)
-- Azithromycin 500 mg orally (for penicillin allergy; contraindicated if penicillin anaphylaxis)
-- Clindamycin 600 mg orally (alternative for severe allergy)
+**Which antibiotic:**
+For most mouth surgery patients who need it:
+- Amoxicillin 2g by mouth 30-60 minutes before (best choice)
+- Cephalexin 2g by mouth (if mild penicillin allergy)
+- Azithromycin 500mg by mouth (for penicillin allergy, but not if severe)
+- Clindamycin 600mg by mouth (if serious allergy)
 
 **Timing:**
 - Optimal timing: 30-60 minutes before procedure
@@ -249,29 +249,29 @@ For most oral surgery patients requiring prophylaxis:
 
 ### Anxiety Reduction Strategies
 
-**Communication:**
-- Detailed discussion of surgical procedure and expected sensations
-- Honest discussion of potential discomfort (pressure vs. pain sensation)
-- Explanation of monitoring equipment and sounds
-- Opportunity for patient questions without time pressure
+**Talk it through:**
+- Explain the surgery and what you'll feel
+- Honestly discuss discomfort (pressure vs. pain)
+- Explain the machines and sounds
+- Answer your questions with plenty of time
 
-**Familiarization:**
-- Tour of operatory for first-time surgical patients
-- Introduction to surgical team members
-- Explanation of anesthetic procedure and onset timeline
+**Get to know the place:**
+- See the surgery room if it's your first time
+- Meet the surgical team
+- Learn about the numbing medicine and how fast it works
 
-**Pharmacologic Anxiolysis:**
-For patients with significant anxiety:
-- Pre-operative sedation (oral sedative 30-60 minutes before appointment)
-- Nitrous oxide/oxygen inhalation sedation
+**Calm-down medicines:**
+For patients with lots of anxiety:
+- Oral sedative (taken 30-60 minutes before)
+- Nitrous oxide/oxygen breathing sedation
 - IV sedation for moderate-to-severe anxiety
-- General anesthesia reserved for extremely anxious patients or those unable to tolerate local anesthesia
+- Full anesthesia only for very anxious patients
 
-**Non-Pharmacologic Anxiety Reduction:**
-- Deep breathing techniques instruction
-- Relaxation training
-- Music or headphones during procedure
-- Hand signal for "pause" if patient needs brief break
+**Non-medicine ways to calm down:**
+- Learn deep breathing
+- Learn relaxation
+- Listen to music during surgery
+- Use hand signal to pause if you need a break
 
 ### Informed Consent
 
@@ -305,17 +305,17 @@ Informed consent should be documented in patient record. Written consent forms p
 
 ### When to Consult with Physicians
 
-**Uncontrolled Hypertension:**
-Blood pressure >180 systolic or >110 diastolic significantly increases perioperative bleeding and cardiovascular events. Consult with primary care physician for preoperative optimization.
+**High blood pressure:**
+Blood pressure above 180/110 increases bleeding and heart problems. Talk to your regular doctor to get it under control first.
 
-**Recent Cardiac Events:**
-Recent MI, cardiac intervention, or unstable angina requires cardiology consultation. Most surgeons defer elective oral surgery for 6 months post-MI or intervention to allow healing.
+**Recent heart problems:**
+Recent heart attack, heart procedure, or chest pain needs a heart doctor's approval. Most surgeons wait 6 months after a heart attack before doing surgery.
 
-**Poorly Controlled Diabetes:**
-HbA1c >8% suggests hyperglycemia and increased infection/healing impairment risk. Consult with endocrinologist regarding perioperative glucose management.
+**High blood sugar:**
+Blood sugar above certain levels means more risk of infection and slow healing. Talk to your diabetes doctor about controlling it during surgery.
 
-**Chronic Kidney Disease:**
-Medication dosing adjustments may be necessary. Coordinate with nephrologist regarding perioperative management.
+**Kidney disease:**
+Your medicine doses may need to change. Talk to your kidney doctor about what to do before surgery.
 
 **Active Infection:**
 Defer elective procedures until infection resolves. Prophylactic antibiotics do not treat active infection adequately.
@@ -353,14 +353,14 @@ Call or send message 24 hours before surgery reminding patient of:
 - Contact number if questions arise
 - Parking and check-in information
 
-**This Contact:**
-Improves compliance, reduces anxiety, and provides opportunity to identify last-minute concerns or schedule changes.
+**Why we call:**
+To help you follow the plan, reduce worry, and catch any last-minute issues or changes.
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding pre-surgical preparation and patient optimization for helps you feel more confident when discussing options with your dentist and making decisions about your care.
+Caring for your teeth is one of the best health moves. Being ready for mouth surgery helps you talk with your dentist and make good choices.
 
-Remember that every person's situation is unique. Learn more about [Extraction Complications What You](/article/extraction-complications-what-you-need-to-know.html) for additional guidance. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Each person is different. Learn more about [Extraction Complications What You](/article/extraction-complications-what-you-need-to-know.html) for additional guidance. What works for one person may not work for another. Your dentist can help you make a good plan.
 
 > **Key Takeaway:** Good preparation starts with being honest with your dentist about your health, medications, and worries. Understand the fasting requirements for your type of anesthesia, arrange transportation if needed, wear comfortable clothes, and know what to expect during and after surgery. A dentist who understands your medical situation and your concerns can help ensure your surgery goes smoothly and you recover without problems.
 

@@ -131,7 +131,7 @@ Understanding your specific situation helps you target efforts where they'll hav
 
 Good oral health habits cost $100-200 yearly and prevent $5,000-50,000+ in lifetime treatment. It's remarkably simple: brush daily, floss daily, eat smart, see your dentist every 6 months. Talk to your dentist about building the right habit routine for your situation.
 
-> **Key Takeaway:** Learning more about [Cost of Oral Hygiene Routine](/article/cost-of-oral-hygiene-routine.html) can help you understand this better. Yet people who skip this small investment end up spending $5,000-15,000+ on treatments over their lifetime.
+> **Key Takeaway:** Learning more about Cost of Oral Hygiene Routine can help you understand this better. Yet people who skip this small investment end up spending $5,000-15,000+ on treatments over their lifetime.
 
 ## Related Articles
 

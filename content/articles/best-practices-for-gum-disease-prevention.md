@@ -106,8 +106,7 @@ Related reading: [Gestational Gingivitis: Pregnancy Effects on Gums](/article/ge
 
 ## Conclusion
 
-Whether you're just learning about periodontitis prevention through biofilm management or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Your dentist can help you understand the best approach for your specific needs. Gum disease is largely preventable.
 
 > **Key Takeaway:** About half of American adults have some form of gum disease. The good news?.
 

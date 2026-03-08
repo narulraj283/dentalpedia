@@ -34,7 +34,7 @@ You might think braces are just about straightening your teeth and getting a bet
 
 ## Protecting Your Jaw Joints
 
-Your jaw has a joint on each side called the temporomandibular joint, or TMJ. When your bite is properly aligned, your jaw closes evenly and smoothly, with balanced pressure on both sides. When your bite is misaligned, one side of your jaw bears more stress than the other. This imbalance can stretch ligaments, irritate the joint, and lead to problems like clicking sounds, jaw pain, or even difficulty opening your mouth wide.
+Your jaw has a joint on each side called the temporomandibular joint, or TMJ. When your it is properly aligned, your jaw closes evenly and smoothly, with balanced pressure on both sides. When your bite is misaligned, one side of your jaw bears more stress than the other. This imbalance can stretch ligaments, irritate the joint, and lead to problems like clicking sounds, jaw pain, or even difficulty opening your mouth wide.
 
 Many people who have received braces report that their jaw pain, clicking, or stiffness improved as their bite became corrected. This isn't coincidence—when the forces on your jaw joint become balanced and normal, the joint can relax and heal. For people who already have jaw joint problems, fixing their bite is often part of the solution.
 
@@ -66,7 +66,7 @@ When your bite is corrected, the stress is distributed evenly across all your te
 
 ## Preserving Your Gum and Bone Health
 
-The tissue that attaches your teeth to your jawbone (your periodontal ligament and bone) is designed to handle normal, even bite forces. When your bite is misaligned, certain teeth receive abnormal sideways or pulling forces. These abnormal forces inflame your periodontal tissues, accelerate gum disease, and can lead to bone loss.
+The tissue that attaches your teeth to your jawbone (your periodontal ligament and bone) is designed to handle normal, even occlusion forces. When your it is misaligned, certain teeth receive abnormal sideways or pulling forces. These abnormal forces inflame your periodontal tissues, accelerate gum disease, and can lead to bone loss.
 
 Here's the key point: you might take excellent care of your teeth by brushing and flossing regularly, but if your bite forces are wrong, your gums and bone still deteriorate. Someone with a misaligned bite and good oral hygiene can develop severe gum disease while someone else with average hygiene and a correct bite stays healthy.
 
@@ -76,7 +76,7 @@ When your bite is corrected with braces, the forces return to normal. Your perio
 
 When your bite is corrected, your orthodontist isn't just moving teeth—they're establishing a stable arch form that's less likely to shift back. Many bite problems involve arches that are too narrow or collapsed. Once the orthodontist expands these arches to normal width and perimeter, your teeth sit in positions that are mechanically stable. Your periodontal tissues adapt to normal forces, and the whole system becomes resistant to relapse.
 
-This stability can last your whole life. People with corrected bites who maintain good oral hygiene experience stable results decades after their braces come off. People with uncorrected bite problems, on the other hand, often experience gradual worsening over time as abnormal forces continue to stress their teeth and tissues. Getting your bite corrected means setting yourself up for a lifetime of stable, healthy teeth.
+This stability can last your whole life. People with corrected bites who maintain good oral hygiene experience stable results decades after their braces come off. People with uncorrected occlusion problems, on the other hand, often experience gradual worsening over time as abnormal forces continue to stress their teeth and tissues. Getting your bite corrected means setting yourself up for a lifetime of stable, healthy teeth.
 
 ## The Right Time for Treatment
 

@@ -109,7 +109,6 @@ Long-term monitoring means continuing dental visits even after you think healing
 Luxation injuries demand immediate recognition and appropriate repositioning technique to maximize pulpal revascularization and PDL healing potential. If you have questions, your dentist can help you understand your options. Immediate gentle repositioning and splinting for 2-4 weeks provides the best chance of saving the tooth. Avoid hard and sticky foods while splinted. Long-term success depends on type of luxation and treatment timing, with most teeth healing well when properly managed.
 
 
-
 > **Key Takeaway:** A luxated tooth is partially knocked loose from its socket. Learn what to do immediately and how to save your tooth after this traumatic injury.
 
 ## Related Articles

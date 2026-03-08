@@ -36,7 +36,7 @@ Additionally, plaque has a sticky adhesive matrix that holds bacteria together. 
 
 Start by brushing your teeth with a completely dry toothbrush—don't wet it first. Use moderate to firm pressure (but not so hard you're hurting your gums), and focus on gentle, short horizontal strokes, especially along the gum line where plaque builds up. Spend 45-60 seconds on this dry phase. Special attention to the spaces between your teeth (where plaque loves to hide) and the chewing surfaces of your back teeth pays off, as these areas get the biggest benefit from dry brushing.
 
-After your dry brushing phase is done, rinse your mouth with water. Then wet your toothbrush and apply your regular fluoride toothpaste for another 45-60 seconds of wet brushing. This second phase gives you the fluoride benefits of toothpaste plus cleaner teeth. Some people prefer a purely dry brushing approach, but research shows the combination works best because you get both the mechanical benefits of dry brushing plus the cavity-fighting benefits of fluoride toothpaste.
+After your dry brushing phase is done, rinse your mouth with water. Then wet your toothbrush and apply your regular fluoride toothpaste for another 45-60 seconds of wet brushing. This second phase gives you the fluoride benefits of toothpaste plus cleaner teeth. Some people prefer a purely dry this approach, but research shows the combination works best because you get both the mechanical benefits of dry brushing plus the cavity-fighting benefits of fluoride toothpaste.
 
 ## Getting Better Results Right Away
 
@@ -50,13 +50,13 @@ One cool finding is that plaque grows back more slowly after dry brushing than a
 
 Not all toothbrushes work equally well for dry brushing. You want a brush with medium-stiffness bristles—soft ones don't create enough pressure, and stiff ones can irritate your gums. The bristles should be about 0.20-0.25 millimeters in diameter (slightly thicker than regular bristles) and have round tips rather than flat or pointy ones. The head should be relatively small and compact so you can reach all areas, especially between teeth.
 
-Electric toothbrushes can work well for dry brushing, particularly oscillating electric toothbrushes. The consistent, rapid motions might actually give slightly better results than manual brushing, though studies are limited. If you use an electric brush for dry brushing, use gentle pressure and let the brush do the work rather than pressing hard. The bristles doing the vibrating do the scrubbing, not you pressing harder.
+Electric toothbrushes can work well for dry it, particularly oscillating electric toothbrushes. The consistent, rapid motions might actually give slightly better results than manual brushing, though studies are limited. If you use an electric brush for dry brushing, use gentle pressure and let the brush do the work rather than pressing hard. The bristles doing the vibrating do the scrubbing, not you pressing harder.
 
 ## Starting Dry Brushing Without Irritating Your Gums
 
 Some people find dry brushing uncomfortable at first because it feels harsher and you notice more sensation in your gums. This is normal and gets better as your gums adapt. Start slowly—try dry brushing just 2-3 days per week for the first week or two, gradually increasing frequency as your gums adjust. Start with just your back teeth (which are tougher and less sensitive), then gradually add other areas as you feel more comfortable.
 
-Keep your initial dry phase relatively short (30-45 seconds) until your gums adapt, then gradually work up to the standard 60 seconds. Use gentle to moderate pressure rather than bearing down hard. If your gums get irritated, take a break for a few days and return to your regular brushing routine, then try again. Most people adapt within 1-2 weeks and then dry brushing feels normal.
+Keep your initial dry phase relatively short (30-45 seconds) until your gums adapt, then gradually work up to the standard 60 seconds. Use gentle to moderate pressure rather than bearing down hard. If your gums get irritated, take a break for a few days and return to your regular this routine, then try again. Most people adapt within 1-2 weeks and then dry brushing feels normal.
 
 ## When to Be Careful With Dry Brushing
 
@@ -72,7 +72,7 @@ If you have areas where plaque builds up fast or you've had gum disease, dry bru
 
 ## What Patients and Dentists Should Know
 
-If you like the idea of better plaque control, dry brushing is a simple, free way to improve your brushing. It's evidence-based and safe when done properly. The main consideration is patient comfort in the first week or two, but most people adapt quickly. If you have significant gum disease or inflammation, talk to your dentist before starting, as you might want to improve gum health first.
+If you like the idea of better plaque control, dry it is a simple, free way to improve your brushing. It's evidence-based and safe when done properly. The main consideration is patient comfort in the first week or two, but most people adapt quickly. If you have significant gum disease or inflammation, talk to your dentist before starting, as you might want to improve gum health first.
 
 For dental professionals, dry brushing can be recommended to motivated patients seeking maximum plaque control. It's especially valuable for people with aggressive periodontitis, people who've had gum disease, or anyone who just wants the best oral hygiene possible. Teaching proper technique with disclosing agents helps patients understand what they're doing and see the results.
 

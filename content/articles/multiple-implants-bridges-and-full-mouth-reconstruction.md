@@ -138,9 +138,7 @@ Related reading: [All-on-4 Full-Arch Implant Restoration: Evaluation](/article/a
 
 ## Conclusion
 
-The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. Avoid problems like inflammation (peri-implant mucositis) without bone loss or inflammation with bone loss (peri-implantitis). These are treated with professional cleaning and antimicrobial rinses.
 
 > **Key Takeaway:** Full mouth reconstruction combines multiple implants, bridges, and other restorations to rebuild your entire smile. Work closely with your dental team to understand the timeline, costs, and maintenance involved so you can make the best choice for your long-term oral health.
 

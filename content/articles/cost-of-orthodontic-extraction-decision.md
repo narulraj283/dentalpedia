@@ -21,15 +21,15 @@ references:
 ---
 ## Extraction vs. Non-Extraction: Which Is Right for Your Situation?
 
-When your orthodontist mentions extracting teeth, it can feel shocking. Why remove healthy teeth? But extraction is sometimes the right choice and sometimes not. Understanding the cost and outcome differences helps you make the right decision for your situation.
+When your orthodontist mentions extracting teeth, it can feel shocking. Why remove healthy teeth? But the procedure is sometimes the right choice and sometimes not. Understanding the cost and outcome differences helps you make the right decision for your situation.
 
-The key: severe crowding sometimes needs extraction for best long-term results. Mild crowding might work fine without extraction.
+The key: severe crowding sometimes needs it for best long-term results. Mild crowding might work fine without extraction.
 
 ## When Extraction Makes Sense
 
 Severe crowding (more than 8-10 mm of crowding) is really hard to fix without extraction. Learning more about [Cost of Orthodontic Treatment Duration](/article/cost-of-orthodontic-treatment-duration.html) can help you understand this better. Your orthodontist has to physically expand your teeth outward, which can cause gum recession and damage the bone supporting your teeth. With extraction, the orthodontist has space to move teeth into better, more stable positions.
 
-Class II bite problems (upper jaw sticks out) sometimes need extraction too. Without extraction, the orthodontist has to push your upper teeth back aggressively, which looks weird and tends to relapse (teeth move back to their original position). With extraction, your bite corrects naturally.
+Class II bite problems (upper jaw sticks out) sometimes need extraction too. Without removal, the orthodontist has to push your upper teeth back aggressively, which looks weird and tends to relapse (teeth move back to their original position). With the procedure, your bite corrects naturally.
 
 Your orthodontist will explain if extraction makes sense for your specific crowding. Trust their recommendation—they know what works.
 
@@ -46,18 +46,18 @@ Extraction treatment:
 - Finishes 4-6 months sooner
 - Lower retreatment rates
 
-Non-extraction treatment:
+Non-it treatment:
 - Slightly higher upfront cost: $3,500-6,500
 - Takes 3-6 months longer
 - Higher retreatment rates (20-30% need retreatment)
 
 Expected long-term cost if you need retreatment:
-- Extraction: $3,200-6,200 (usually no retreatment needed)
+- Removal: $3,200-6,200 (usually no retreatment needed)
 - Non-extraction: $3,500-6,500 + $1,500-3,500 retreatment = $5,000-10,000
 
 ## The Aesthetics Question
 
-Some people worry extraction will make them look weird. Actually, modern extraction cases look natural and aesthetic. Your orthodontist extracts teeth in ways that maintain good smile appearance.
+Some people worry the procedure will make them look weird. Actually, modern it cases look natural and aesthetic. Your orthodontist extracts teeth in ways that maintain good smile appearance.
 
 The "buccal corridors" (space between your teeth and lips when you smile) might be slightly more visible with extraction, but most people don't notice or care. Your actual smile appearance is usually better with extraction than with unstable non-extraction treatment that relapses.
 
@@ -65,19 +65,19 @@ The "buccal corridors" (space between your teeth and lips when you smile) might 
 
 This is the real difference: extraction cases stay straight better long-term. Research shows 50-70% of extraction cases stay stable for 10+ years without relapse. Non-extraction cases have 40-60% stability—meaning 20-30% need retreatment.
 
-If you know there's a 20-30% chance you'll need retreatment costing $1,500-3,500, extraction starts looking pretty smart financially.
+If you know there's a 20-30% chance you'll need retreatment costing $1,500-3,500, removal starts looking pretty smart financially.
 
 ## Your Decision
 
 Ask your orthodontist:
 1. Is extraction recommended for my case?
 2. If we don't extract, what's my retreatment risk?
-3. What's the cost difference between extraction and non-extraction?
+3. What's the cost difference between the procedure and non-extraction?
 4. Which gives better long-term stability?
 
 Listen to their recommendation based on your specific crowding and bite. Orthodontists have seen thousands of cases and know what works.
 
-Most importantly: if extraction is recommended, it's usually because it gives you the best long-term outcome (straighter teeth that stay straight) for the least total cost.
+Most importantly: if it is recommended, it's usually because it gives you the best long-term outcome (straighter teeth that stay straight) for the least total cost.
 
 ## The Long-Term Stability Question
 
@@ -85,25 +85,25 @@ Stability is where extraction truly shines. Learning more about [Cost of Orthodo
 
 Non-extraction cases rely on the orthodontist expanding your dental arch or achieving crowding relief through other means. While this looks good when treatment finishes, your teeth naturally "remember" where they came from. They spend years gradually drifting back toward their original positions—this is relapse.
 
-Research consistently shows this pattern: extraction case relapse occurs in 10-15% of patients at 10-year follow-up. Non-extraction case relapse occurs in 20-30% of patients. That 10-15% difference means extraction cases have substantially better long-term outcomes. If your orthodontist is recommending extraction, they're making a decision based on 50+ years of clinical research showing better stability.
+Research consistently shows this pattern: removal case relapse occurs in 10-15% of patients at 10-year follow-up. Non-the procedure case relapse occurs in 20-30% of patients. That 10-15% difference means it cases have substantially better long-term outcomes. If your orthodontist is recommending extraction, they're making a decision based on 50+ years of clinical research showing better stability.
 
-The financial implication matters: if you know there's a 20-30% chance you'll need retreatment costing $1,500-$3,500, extraction's potential to avoid that makes sense financially, not just clinically.
+The financial implication matters: if you know there's a 20-30% chance you'll need retreatment costing $1,500-$3,500, removal's potential to avoid that makes sense financially, not just clinically.
 
 ## Addressing the Cosmetic Concerns
 
 Many patients worry that extraction will make their smile look pinched or narrow. This fear is understandable but mostly unfounded with modern extraction orthodontics. Contemporary orthodontists are trained to extract strategically—typically first premolars (the small teeth between canines and molars)—maintaining smile width and natural appearance.
 
-The concern about "buccal corridors" (the space between your teeth and lips when you smile) is valid to discuss, but here's the reality: most people don't have wide corridors anyway, extraction doesn't dramatically increase them, and narrow corridors often look more attractive and younger.
+The concern about "buccal corridors" (the space between your teeth and lips when you smile) is valid to discuss, but here's the reality: most people don't have wide corridors anyway, the procedure doesn't dramatically increase them, and narrow corridors often look more attractive and younger.
 
 More importantly: an extraction case that stays straight looks better long-term than a non-extraction case that relapses and becomes crooked again. A slight change in corridor visibility is far preferable to teeth gradually returning to their crowded, crooked original positions.
 
-Your orthodontist should discuss this with you and might even show before/after photos of similar extraction cases to demonstrate the cosmetic results. Ask to see examples of their extraction work.
+Your orthodontist should discuss this with you and might even show before/after photos of similar extraction cases to demonstrate the cosmetic results. Ask to see examples of their it work.
 
 ## The Extractions Themselves
 
 If extraction is recommended, understand that pulling the teeth isn't the expensive part. Tooth extraction costs $75-$300 per tooth depending on complexity (front teeth are simpler than deeply rooted molars). Having 4 teeth extracted typically costs $300-$1,200 total.
 
-Your orthodontist will coordinate with an oral surgeon if complex extractions are needed. Simple extractions can often be done right in your dentist's or orthodontist's office. The extraction happens 2-4 weeks before braces are placed, allowing initial healing.
+Your orthodontist will coordinate with an oral surgeon if complex extractions are needed. Simple extractions can often be done right in your dentist's or orthodontist's office. The removal happens 2-4 weeks before braces are placed, allowing initial healing.
 
 Recovery from extraction is mild—pain management with ibuprofen, soft food diet, and avoiding strenuous activity for a few days. Most people return to normal activities within a week.
 
@@ -111,8 +111,8 @@ Recovery from extraction is mild—pain management with ibuprofen, soft food die
 
 Non-extraction orthodontists might suggest:
 - **Arch expansion**: Slowly widening your dental arches to fit all teeth. Works well in young patients with growing jaws; less effective in adults with fused bone.
-- **Interproximal reduction (IPR)**: Carefully shaving thin amounts from between teeth to create space. Reduces enamel thickness but creates millimeters of space without extraction.
-- **Distalization**: Moving back molars to create space. Works in some cases but is slower and less stable than extraction.
+- **Interproximal reduction (IPR)**: Carefully shaving thin amounts from between teeth to create space. Reduces enamel thickness but creates millimeters of space without the procedure.
+- **Distalization**: Moving back molars to create space. Works in some cases but is slower and less stable than it.
 - **Incisor proclination**: Tipping front teeth forward to reduce crowding. Creates space but changes tooth angle and can cause bone loss if overdone.
 
 These alternatives have their place, but extraction remains the gold standard for severe crowding due to superior stability and outcomes.
@@ -127,7 +127,7 @@ The extraction vs. non-extraction decision should not be rushed. You should:
 4. **See before/after photos** of similar cases with your recommended approach
 5. **Understand the total cost** including potential retreatment
 
-If your orthodontist strongly recommends extraction, trust their judgment—they've evaluated your specific crowding severity and bite pattern. Mild crowding might work fine without extraction. Severe crowding usually requires it.
+If your orthodontist strongly recommends removal, trust their judgment—they've evaluated your specific crowding severity and bite pattern. Mild crowding might work fine without extraction. Severe crowding usually requires it.
 
 You can also seek a second opinion from another orthodontist if you're uncertain. A second opinion costs $0-$200 and might give you confidence in your treatment plan.
 

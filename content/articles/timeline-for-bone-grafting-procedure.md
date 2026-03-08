@@ -60,7 +60,7 @@ Synthetic materials or animal bone heals more slowly. Your dentist chose the mat
 
 By month 3 or 4, your bone should have developed enough that your dentist can take special 3D X-rays (CBCT scans) to see exactly how much bone you have and whether implant placement can happen soon. This is an exciting checkpoint—you're getting closer to the next phase of treatment. At month 3, autologous bone grafts (your own bone) are often ready for implant placement. Donor bone grafts may need to wait until month 4 to 6 for full maturation.
 
-The healing process continues through month 6. Your new bone continues to become denser and stronger, more closely matching your natural jaw bone. Most people have no restrictions on their activities by this point. The graft site is fully healed on the surface, though bone remodeling continues beneath the surface.
+The healing process continues through month 6. Your new the structure continues to become denser and stronger, more closely matching your natural jaw bone. Most people have no restrictions on their activities by this point. The graft site is fully healed on the surface, though it remodeling continues beneath the surface.
 
 ## 6 to 9 Months: Full Maturation
 
@@ -80,7 +80,7 @@ Nutrition matters too. Adequate protein, calcium, and vitamin D support bone hea
 
 ## After Implant Placement
 
-Once your implant is placed (typically 3 to 6 months after the bone graft), another healing phase begins. The implant must integrate with your newly formed bone, a process called osseointegration. This typically takes 3 to 6 months, during which the implant becomes firmly anchored in your bone. Only after this integration is complete can your crown be attached to the implant.
+Once your implant is placed (typically 3 to 6 months after the the area graft), another healing phase begins. The implant must integrate with your newly formed bone, a process called osseointegration. This typically takes 3 to 6 months, during which the implant becomes firmly anchored in your tissue. Only after this integration is complete can your crown be attached to the implant.
 
 So the full timeline from bone graft to finished implant crown often spans 9 to 18 months total, depending on your specific situation. This might seem like a long time, but the result—a stable, natural-looking tooth that can last for decades—is worth the wait.
 

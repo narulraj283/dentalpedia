@@ -21,8 +21,7 @@ references:
   - "Sillman JH. Dimensional changes of the dental arches: longitudinal study from birth to 25 years. Am J Orthod. 1964;50(11):824-842."
   - "Brodie AG. Anatomy and embryology of cleft palate. In: Grabb WC, Rosenstein SW, Bzoch KR, editors. Cleft Lip and Palate. Boston: Little, Brown; 1971."
   - "Angle EH. Classification of malocclusion. Dent Cosmet. 1899;41(11):248-264."
----
-Worried about bite problems and unsure whether treatment will be simple or require major surgery? Your specific problem might be fixable with aligners for under $4,000, or it might require braces and surgery for $20,000+. Understanding which category yours falls into helps you plan accordingly.
+---Worried about bite problems and don't know if treatment will be simple or need big surgery? Your bite might be fixable with clear aligners for less than $4,000. Or it might need braces and surgery costing $20,000 or more. Knowing which group your bite falls into helps you plan.
 
 ## Common Bite Problems
 
@@ -61,40 +60,40 @@ Worried about bite problems and unsure whether treatment will be simple or requi
 ### Moderate Problems (Class II Overbite, Class III Underbite)
 
 **Functional appliances** (for growing children): $1,500-$3,000
-- Twin Block, Herbst, or similar removable/fixed appliance
+- Twin Block, Herbst, or similar appliance
 - 9-18 months
-- Encourages proper jaw growth
-- Works only during growth years
+- Helps jaw grow correctly
+- Only works while kid is growing
 
 **Fixed braces**: $4,500-$7,500
-- 24-30 months for moderate complexity
-- Approximately 90-95% success
-- Works in adults too
+- 24-30 months for moderate cases
+- Works 90-95% of the time
+- Works for adults too
 
-**Clear aligners**: $3,500-$6,000 (often needs refinements $1,000-$2,000)
+**Clear aligners**: $3,500-$6,000 (may need more work for $1,000-$2,000)
 - 18-30 months
-- 85-90% success for moderate cases You may also want to read about [Why Braces Food Restrictions Matters](/article/why-braces-food-restrictions-matters.html).
+- Works 85-90% of the time for moderate cases. You may also want to read about [Why Braces Food Restrictions Matters](/article/why-braces-food-restrictions-matters.html).
 
-**Best for moderate cases**: Fixed braces offer highest success and control; aligners work but may need extended treatment.
+**Best for moderate cases**: Braces work best and give the most control. Aligners work but may take longer.
 
 ### Severe Problems (Class III Underbite, Extreme Open Bite, Severe Skeletal Discrepancy)
 
-**Orthodontics alone**: $5,000-$7,500
+**Braces alone**: $5,000-$7,500
 - 24-36 months
-- 40-60% success for severe skeletal problems
-- Often leaves compromise (not perfectly corrected)
+- Works 40-60% of the time for severe jaw problems
+- Often doesn't fully fix the problem
 
-**Orthodontics + Surgery**: $20,000-$40,000 total
-- Orthodontics first: 9-18 months ($2,000-$5,000)
-- Surgical correction: 1-2 hours in hospital ($8,000-$12,000 surgical fee, $5,000-$15,000 facility costs)
-- Post-op orthodontics: 6-12 months ($2,000-$5,000)
-- **Total timeline**: 18-36 months
+**Braces + Surgery**: $20,000-$40,000 total
+- Braces first: 9-18 months ($2,000-$5,000)
+- Surgery: 1-2 hours in hospital ($8,000-$12,000 for surgery, $5,000-$15,000 for hospital)
+- Braces after surgery: 6-12 months ($2,000-$5,000)
+- **Total time**: 18-36 months
 
-**Insurance coverage**: Severe skeletal malocclusions often qualify as medically necessary (not cosmetic)
-- May cover 50% of total cost
-- Check with your insurance before planning
+**Insurance help**: Severe jaw problems often count as medical (not cosmetic)
+- May pay 50% of the cost
+- Ask your insurance company before you start
 
-**Best for severe cases**: Surgical-orthodontic combined treatment gives best results.
+**Best for severe cases**: Braces plus surgery gives the best results.
 
 ## Understanding Your Problem
 
@@ -110,76 +109,76 @@ You need a consultation ($200-$400) where your orthodontist:
 
 ### Class II (Overbite) Correction
 
-**Dental correction without extraction**:
-- Retract upper front teeth
-- Advance lower teeth
-- Cost: Standard braces ($4,500-$6,500)
-- Timeline: 24-30 months
-- Success: 90-95% You may also want to read about [Herbst Appliance Fixed Mandibular Advancement](/article/herbst-appliance-fixed-mandibular-advancement.html).
+**Fix with braces only**:
+- Pull upper front teeth back
+- Move lower teeth forward
+- Cost: Braces ($4,500-$6,500)
+- Time: 24-30 months
+- Works: 90-95% of the time. You may also want to read about [Herbst Appliance Fixed Mandibular Advancement](/article/herbst-appliance-fixed-mandibular-advancement.html).
 
-**Dental correction with extraction**:
-- Extract upper first bicuspids
-- Create space to retract front teeth
-- Cost: Same as non-extraction ($4,500-$6,500)
-- Timeline: 24-30 months
-- Success: 90-95%
+**Fix with braces and tooth removal**:
+- Remove 2 upper back teeth
+- Create room to pull front teeth back
+- Cost: Same as braces only ($4,500-$6,500)
+- Time: 24-30 months
+- Works: 90-95% of the time
 
-**Skeletal correction**:
-- Consider if patient is still growing
-- Use functional appliance or braces
-- Cost: $1,500-$3,000 for functional, $4,500-$6,500 for braces
-- Success: 40-60%
+**Fix jaw growth**:
+- Only if still growing
+- Use functional tool or braces
+- Cost: $1,500-$3,000 for tool, $4,500-$6,500 for braces
+- Works: 40-60% of the time
 
-**Surgical correction** (if severe):
-- Mandibular advancement (move lower jaw forward)
+**Surgery option** (if severe):
+- Move lower jaw forward
 - Cost: $20,000-$30,000 including surgery
-- Success: 95%+
+- Works: 95% or better
 
 ### Class III (Underbite) Correction
 
-**Dental correction**:
-- Retract lower front teeth
-- Advance upper teeth
-- Cost: $4,500-$7,500 (more complex)
-- Timeline: 24-36 months
-- Success: 60-70% (harder to correct)
+**Fix with braces**:
+- Pull lower front teeth back
+- Move upper teeth forward
+- Cost: $4,500-$7,500 (harder to do)
+- Time: 24-36 months
+- Works: 60-70% of the time (trickier)
 
-**Surgical correction** (if severe):
-- Mandibular setback (move lower jaw back)
-- Maxillary advancement (move upper jaw forward)
+**Surgery option** (if severe):
+- Move lower jaw back
+- Move upper jaw forward
 - Cost: $20,000-$40,000
-- Success: 95%+
+- Works: 95% or better
 
 ### Open Bite Correction
 
-**Dental correction**:
-- Intrude front teeth (move them down/back)
-- Use braces with specific mechanics
+**Fix with braces**:
+- Move front teeth down and back
+- Use braces with special tools
 - Cost: $4,500-$7,500
-- Timeline: 24-36 months (longest correction)
-- Success: 80-90% for dental open bite; lower for skeletal
+- Time: 24-36 months (takes longest)
+- Works: 80-90% for bite gap, less for jaw problems
 
-**Surgical correction** (if skeletal):
-- Maxillary segmental osteotomy
+**Surgery option** (if jaw problem):
+- Reshape upper jaw
 - Cost: $18,000-$30,000
-- Success: 95%+
+- Works: 95% or better
 
 ## Extraction vs. Non-Extraction
 
-**Non-extraction approach**:
-- Expand arches to fit teeth without removal
-- Pros: Keeps all teeth
-- Cons: Limited space creation (max 6-8mm per arch)
-- Cost: Same as extraction
+**No tooth removal approach**:
+- Widen arches to fit teeth
+- Good: Keeps all teeth
+- Bad: Limited room (only 6-8mm per arch)
+- Cost: Same as removal
 
-**Extraction approach**:
-- Remove first bicuspids (usually 4 teeth)
-- Creates 8-12mm space per arch for alignment
-- Pros: Can correct more severe crowding and protrusion
-- Cons: Permanent tooth loss
-- Cost: Same as non-extraction
+**Tooth removal approach**:
+- Remove 4 back teeth (usually first bicuspids)
+- Makes 8-12mm room per arch for alignment
+- Good: Fixes severe crowding and sticking out
+- Bad: Lose teeth forever
+- Cost: Same as no removal
 
-Your orthodontist recommends based on severity and your facial structure.
+Your orthodontist picks based on how bad it is and your face shape.
 
 ## Insurance and Payment
 
@@ -221,7 +220,7 @@ After correction, retainers keep teeth straight:
 
 ## Conclusion
 
-Bite correction costs vary dramatically based on severity: simple crowding costs $2,500-$5,000 and takes 18 months; moderate bite problems cost $4,500-$7,500 and take 24-30 months; severe skeletal problems cost $20,000-$40,000 with surgery and take 18-36 months. Most problems can be corrected with braces or aligners if caught while you're growing. Severe adult skeletal problems may require surgical correction for optimal results. Start with a consultation to understand your specific problem and best options.
+Bite correction costs change a lot based on how bad it is. Simple crowding costs $2,500-$5,000 and takes 18 months. Moderate bite problems cost $4,500-$7,500 and take 24-30 months. Severe jaw problems cost $20,000-$40,000 with surgery and take 18-36 months. Most problems can be fixed with braces or aligners if caught while growing. Severe jaw problems in adults may need surgery to get the best result. Start with a visit to understand your bite and best options.
 
 > **Key Takeaway:** Bite problems can be mild (treatable with aligners for $2,500-$4,000), moderate (requiring braces for $4,500-$7,500), or severe (needing surgery for $20,000-$40,000). Your orthodontist will determine if your problem is dental (fixable with appliances) or skeletal (may need surgery). Talk to your orthodontist about your specific bite problem and the best treatment options.
 

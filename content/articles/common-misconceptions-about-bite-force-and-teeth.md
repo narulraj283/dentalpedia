@@ -28,15 +28,15 @@ Importantly, bite force directly affects your teeth. Learning more about [Common
 
 ## Myth: Stronger Teeth Result from Harder Chewing
 
-Some people believe that training your bite by chewing hard foods strengthens your teeth. Actually, the opposite is true. Excessive bite force damages teeth through: accelerated wear of enamel, cuspal fractures (small cracks in the chewing surfaces), chipping of restoration edges, and increased stress on tooth roots. Hard chewing doesn't strengthen teeth; it damages them.
+Some people believe that training your bite by chewing hard foods strengthens your teeth. Actually, the opposite is true. Excessive bite force damages teeth through: accelerated wear of enamel, cuspal fractures (small cracks in the chewing surfaces), chipping of restoration edges, and increased stress on tooth roots. Hard chewing doesn't strengthen them; it damages them.
 
 People with heavy bites often notice that their teeth wear down faster, restoration edges chip, or teeth crack. These aren't signs of strong teeth; they're signs of stress from excessive bite force. If you have a heavy bite, protecting your teeth through a night guard (if you clench or grind at night), avoiding very hard foods, and choosing tooth-colored restorations designed to withstand your bite force becomes important.
 
 ## Understanding Bite-Related Tooth Damage
 
-Several problems result from excessive bite force. Cuspal fractures are small cracks in the chewing surface of teeth that might not be noticeable until they become severe. Abfraction lesions are notches that form on tooth surfaces just above the gum line from stress concentration. Tooth mobility (slight looseness) can develop from excessive stress on the periodontal ligament. Accelerated wear of natural enamel or restoration surfaces happens faster with heavy bites.
+Several problems result from excessive bite force. Cuspal fractures are small cracks in the chewing surface of your smile that might not be noticeable until they become severe. Abfraction lesions are notches that form on tooth surfaces just above the gum line from stress concentration. Tooth mobility (slight looseness) can develop from excessive stress on the periodontal ligament. Accelerated wear of natural enamel or restoration surfaces happens faster with heavy bites.
 
-If you notice any of these problems, tell your dentist. They can identify whether your bite force is contributing and recommend protective measures. Sometimes a simple adjustment to how your teeth contact can reduce damaging stress.
+If you notice any of these problems, tell your dentist. They can identify whether your bite force is contributing and recommend protective measures. Sometimes a simple adjustment to how your them contact can reduce damaging stress.
 
 ## Myth: Grinding and Clenching Are Just Habits
 
@@ -48,19 +48,19 @@ Grinding and clenching cause similar damage to heavy bite force—wear, fracture
 
 If you have a heavy bite or grind/clench, several protective strategies help: wearing a night guard to protect against nocturnal grinding, avoiding very hard foods (hard candies, nuts, ice), avoiding using teeth as tools (opening packages, cracking nuts), and discussing bite force with your dentist. Learning more about [Common Misconceptions About Cosmetic Restoration Types](/article/common-misconceptions-about-cosmetic-restoration-types.html) can help you understand this better. Your dentist might suggest bite adjustment (reshaping how your teeth contact) to distribute force more evenly.
 
-For restorations in patients with heavy bites, specific material selections help. Crowns are more durable than veneers in heavy-bite situations. Metal-backed crowns withstand heavy bite forces better than all-ceramic crowns. Your dentist recommends materials appropriate for your bite force and how you use your teeth.
+For restorations in patients with heavy bites, specific material selections help. Crowns are more durable than veneers in heavy-bite situations. Metal-backed crowns withstand heavy bite forces better than all-ceramic crowns. Your dentist recommends materials appropriate for your bite force and how you use your your smile.
 
 ## Understanding Night Guards
 
-If you grind or clench at night, a custom night guard (made by your dentist from an impression of your teeth) protects your teeth. The guard is worn over your upper or lower teeth while you sleep. It distributes biting force more evenly and protects teeth from direct grinding contact. Over time, the guard wears down instead of your teeth wearing down.
+If you grind or clench at night, a custom night guard (made by your dentist from an impression of your teeth) protects your teeth. The guard is worn over your upper or lower teeth while you sleep. It distributes biting force more evenly and protects teeth from direct grinding contact. Over time, the guard wears down instead of your them wearing down.
 
 Night guards work best when worn consistently. A night guard that sits in a drawer some nights provides no benefit—it needs to be worn regularly to protect. Most night guards last 3-5 years before needing replacement due to wear.
 
 ## Myth: Teeth Should Be Constantly Strong-Clenched
 
-Some people believe that constantly clenching your jaw strengthens teeth, or that holding tension "protects" teeth. Actually, constant jaw clenching creates stress that damages teeth and can cause jaw pain. Your jaw should be relaxed most of the time—not constantly clenched. Teeth should contact lightly when chewing, then separate when not eating.
+Some people believe that constantly clenching your jaw strengthens your smile, or that holding tension "protects" teeth. Actually, constant jaw clenching creates stress that damages teeth and can cause jaw pain. Your jaw should be relaxed most of the time—not constantly clenched. Teeth should contact lightly when chewing, then separate when not eating.
 
-If you notice yourself clenching during the day, consciously relax your jaw. This protects your teeth and jaw joints from stress-related damage.
+If you notice yourself clenching during the day, consciously relax your jaw. This protects your them and jaw joints from stress-related damage.
 
 ## Protecting Your Results Long-Term
 

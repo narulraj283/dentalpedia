@@ -48,17 +48,17 @@ There's a cyst or tumor associated with the tooth (shown on X-rays as enlargemen
 5. You're having chemotherapy or radiation therapy for cancer
 6. A surgeon needs access to that area for another procedure
 
-If your wisdom teeth aren't causing problems and none of these indications apply, the evidence supports leaving them alone and monitoring them periodically with X-rays. The risks of surgical removal (infection, prolonged swelling, temporary or permanent nerve damage) outweigh the risks of keeping a healthy tooth.
+If your wisdom teeth aren't causing problems and none of these signs apply, the evidence supports leaving them alone and monitoring them periodically with X-rays. The risks of surgical removal (infection, prolonged swelling, temporary or permanent nerve damage) outweigh the risks of keeping a healthy tooth.
 
 ## Planning the Extraction: Imaging and Difficulty Assessment
 
 Before extracting wisdom teeth, your oral surgeon takes X-rays—usually a panoramic X-ray that shows all your teeth and jaws. For complicated cases, they might order a 3D CT scan (CBCT) for detailed visualization. These images show:
 
-How deep the tooth is buried (Class I means mostly above the gum, Class II means partially buried, Class III means deeply buried). Deeply buried teeth require longer surgery and carry higher complication risks.
+How deep the tooth is buried (Class I means mostly above the gum, Class II means partially buried, Class III means deeply buried). Deeply buried teeth require longer surgery and carry higher problem risks.
 
-How the roots are shaped. Curved, bulbous, or unusually angled roots are much tougher to extract than straight roots and increase operative time and complication risk significantly.
+How the roots are shaped. Curved, bulbous, or unusually angled roots are much tougher to extract than straight roots and increase operative time and problem risk much.
 
-The proximity to the inferior alveolar nerve (the main nerve that gives sensation to your lower lip and chin). If the nerve appears to be touching or very close to the tooth root, your surgeon will be extra careful. 3D CT imaging is particularly helpful here because it shows the exact relationship in three dimensions. When surgeons use 3D imaging for high-risk cases, nerve injury risk drops about 40-50% compared to relying only on flat X-rays.
+The proximity to the inferior alveolar nerve (the main nerve that gives sensation to your lower lip and chin). If the nerve appears to be touching or very close to the tooth root, your surgeon will be extra careful. 3D CT imaging is especially helpful here because it shows the exact relationship in three dimensions. When surgeons use 3D imaging for high-risk cases, nerve injury risk drops about 40-50% compared to relying only on flat X-rays.
 
 Your surgeon uses this information to predict how difficult the extraction will be, estimate operative time, and plan which technique will be safest.
 
@@ -68,7 +68,7 @@ Your surgeon makes an incision in your gum from next to your second molar extend
 
 Bone removal happens carefully with continuous water cooling to prevent heat damage to the bone. Some surgeons use ultrasonic bone-cutting tools that generate less heat than traditional rotary burs.
 
-For impacted teeth, your surgeon typically divides the tooth into pieces before removal. Removing the crown first, then the roots separately, requires far less force (50-70% less) than trying to extract the whole tooth. This "sectioning" technique significantly reduces nerve injury risk and makes the procedure gentler overall.
+For impacted teeth, your surgeon typically divides the tooth into pieces before removal. Removing the crown first, then the roots separately, requires far less force (50-70% less) than trying to extract the whole tooth. This "sectioning" technique much reduces nerve injury risk and makes the procedure gentler overall.
 
 When bone or teeth are close to the inferior alveolar nerve, your surgeon might directly visualize the nerve by carefully exposing it with small bone removal. This increases operative time but can reduce permanent nerve injury risk in high-risk cases.
 
@@ -76,13 +76,13 @@ When bone or teeth are close to the inferior alveolar nerve, your surgeon might 
 
 Your extraction will be done under local anesthesia at minimum. Your surgeon injects anesthetic around the nerve that supplies your lower teeth (inferior alveolar block), plus the cheek side and tongue side of the tooth. Articaine is commonly used because it works faster (within 3-5 minutes) and penetrates bone better than older anesthetics like lidocaine.
 
-You have options for sedation beyond just local anesthesia. Many offices offer oral sedation (a tablet beforehand), and surgical centers offer IV sedation where medication is given through an IV. IV sedation reduces your perception of pain by 30-40% and anxiety by 40-50% compared to local anesthesia alone. Hospital settings offer general anesthesia if needed. Your surgeon will discuss which option is appropriate based on anxiety level, extraction difficulty, and any health conditions you have.
+You have options for sedation beyond just local anesthesia. Many offices offer oral sedation (a tablet beforehand), and surgical centers offer IV sedation where medicine is given through an IV. IV sedation reduces your perception of pain by 30-40% and anxiety by 40-50% compared to local anesthesia alone. Hospital settings offer general anesthesia if needed. Your surgeon will discuss which option is appropriate based on anxiety level, extraction difficulty, and any health conditions you have.
 
-All anesthesia methods have similar complication rates when properly monitored. The choice depends on your comfort level and the complexity of your case.
+All anesthesia methods have similar problem rates when properly monitored. The choice depends on your comfort level and the complexity of your case.
 
 ## What to Expect After Extraction: Bleeding and Healing
 
-Mild bleeding and oozing continue for 6-24 hours after extraction—this is completely normal. Pink-tinged saliva and slow oozing don't require emergency intervention. You'll be sent home with gauze to bite on for 45-60 minutes. If bleeding is still significant after that, bite on a fresh gauze pack for another 30 minutes.
+Mild bleeding and oozing continue for 6-24 hours after extraction—this is completely normal. Pink-tinged saliva and slow oozing don't require emergency treatment. You'll be sent home with gauze to bite on for 45-60 minutes. If bleeding is still significant after that, bite on a fresh gauze pack for another 30 minutes.
 
 Active bright red bleeding (not just oozing) occurs in only about 2-3% of cases and is usually controlled with direct pressure, topical hemostatic agents, or sutures placed during surgery.
 
@@ -94,17 +94,17 @@ Studies show chlorhexidine rinse alone cuts dry socket risk by 30-40%, and combi
 
 ## Nerve Injury: Understanding the Main Risk
 
-The most serious possible complication is inferior alveolar nerve injury—the nerve that gives sensation to your lower lip and chin. This happens in 0.5-2% of routine extractions but goes up to 8-12% in deeply impacted, difficult cases. In 85-90% of cases, the sensation returns to normal within 3-6 months. About 10-15% of cases have permanent numbness or altered sensation lasting beyond a year.
+The most serious possible problem is inferior alveolar nerve injury—the nerve that gives sensation to your lower lip and chin. This happens in 0.5-2% of routine extractions but goes up to 8-12% in deeply impacted, difficult cases. In 85-90% of cases, the sensation returns to normal within 3-6 months. About 10-15% of cases have permanent numbness or altered sensation lasting beyond a year.
 
 Lingual nerve injury (affecting the tongue side of your mouth) can happen independently (5-15% of cases) or along with the inferior alveolar nerve injury. Your surgeon minimizes nerve injury by carefully identifying the nerve location before starting, using minimally traumatic surgical technique, avoiding unnecessary instrumentation near the nerve, and keeping operative time as short as possible. Longer surgeries increase injury risk.
 
 For high-risk cases where the nerve is very close to the tooth, some surgeons will carefully expose the nerve by removing a bit of bone, giving them direct visualization to guide extraction. This takes longer but can reduce permanent nerve damage in these high-risk situations.
 
-If you have temporary numbness after extraction, your surgeon will evaluate it at follow-up visits. If numbness persists beyond a few weeks, treatment with medications like gabapentin (a nerve pain medication) or topical lidocaine patches may help improve recovery.
+If you have temporary numbness after extraction, your surgeon will evaluate it at follow-up visits. If numbness persists beyond a few weeks, treatment with medicines like gabapentin (a nerve pain medication) or topical lidocaine patches may help improve recovery.
 
 ## Pain, Swelling, and Recovery Timeline
 
-Pain typically peaks 6-12 hours after the numbing wears off, then gradually improves over 3-5 days. Pain is usually worse after difficult extractions (like Class III impactions) and in older patients. Your surgeon will prescribe pain medication—typically ibuprofen or naproxen (NSAIDs) combined with acetaminophen, which works better together than either alone. Opioid pain medications are usually reserved for inadequate control with NSAIDs because they carry dependency risks.
+Pain typically peaks 6-12 hours after the numbing wears off, then gradually improves over 3-5 days. Pain is usually worse after difficult extractions (like Class III impactions) and in older patients. Your surgeon will prescribe pain medicine—typically ibuprofen or naproxen (NSAIDs) combined with acetaminophen, which works better together than either alone. Opioid pain medicines are usually reserved for inadequate control with NSAIDs because they carry dependency risks.
 
 Swelling peaks around 48 hours and usually resolves by 7-10 days (longer for deeply impacted teeth—sometimes 2-3 weeks of mild swelling). Ice for the first 48 hours (20 minutes on, 10 minutes off) and elevation of your head helps. After day 3, heat application helps more.
 
@@ -116,13 +116,13 @@ Six to eight weeks after extraction, your socket will be healed over. Bone remod
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
- functional limitations enables early identification of delayed complications. Infection (characterized by swelling, purulent drainage, fever, systemic symptoms) occurring >3-5 days postoperatively warrants antibiotic therapy (amoxicillin 500mg TID or clindamycin 300mg QID for 7-10 days) following isolation of causative organism by culture when possible.
+ functional limitations enables early identification of delayed problems. Infection (characterized by swelling, purulent drainage, fever, systemic symptoms) occurring >3-5 days postoperatively warrants antibiotic therapy (amoxicillin 500mg TID or clindamycin 300mg QID for 7-10 days) following isolation of causative organism by culture when possible.
 
 ## Summary
 
-Evidence-based third molar management emphasizes extraction indication rigor—restricting extraction to symptomatic or pathological cases rather than prophylactic extraction of asymptomatic teeth. When extraction is indicated, preoperative assessment through panoramic radiography and CBCT (in high-risk cases) enables surgical planning that optimizes outcomes.
+Evidence-based third molar management emphasizes extraction sign rigor—restricting extraction to symptomatic or pathological cases rather than prophylactic extraction of asymptomatic teeth. When extraction is indicated, preoperative assessment through panoramic radiography and CBCT (in high-risk cases) enables surgical planning that optimizes outcomes.
 
-Operative technique emphasizing minimal tissue trauma, careful bone removal with heat control, strategic tooth sectioning to reduce force requirements, and meticulous hemostasis combines with chlorhexidine-based alveolar osteitis prevention protocols to minimize morbidity. Comprehensive informed consent addressing realistic complication risks (alveolar osteitis 5-15%, transient paresthesia 0.5-2%, permanent sensory loss 0.05-0.5%) and postoperative instructions emphasizing smoking avoidance, pain management optimization, and swelling reduction strategies substantially improve patient outcomes and satisfaction. Systematic monitoring at 1-week and 3-month intervals enables early identification of delayed complications requiring intervention.
+Operative technique emphasizing minimal tissue trauma, careful bone removal with heat control, strategic tooth sectioning to reduce force requirements, and meticulous hemostasis combines with chlorhexidine-based alveolar osteitis prevention protocols to minimize morbidity. Full informed consent addressing realistic problem risks (alveolar osteitis 5-15%, transient paresthesia 0.5-2%, permanent sensory loss 0.05-0.5%) and postoperative instructions emphasizing smoking avoidance, pain management optimization. Swelling reduction strategies greatly improve patient outcomes and satisfaction. Systematic monitoring at 1-week and 3-month intervals enables early identification of delayed problems requiring treatment.
 
 ## Conclusion
 

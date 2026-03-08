@@ -44,19 +44,19 @@ What makes this worse is that bacteria deep inside the biofilm work together to 
 
 Here's the frustrating part about biofilm: it's incredibly resistant to treatment. Bacteria inside a biofilm are 10 to 1,000 times more resistant to antibiotics than bacteria floating around freely in your mouth. The protective matrix blocks antibiotics from penetrating, and bacteria in the center of the biofilm basically slow down their metabolism (like hibernating), which means drugs that need actively-growing bacteria to work don't affect them. Some bacteria even develop special pumps that actively push antibiotics out of their cells.
 
-This is why your dentist's professional cleaning (scaling and root planing) works better than brushing alone. The mechanical scraping physically disrupts the biofilm structure. However, the biofilm can regrow within 2-4 weeks, which is why regular cleanings every 3-6 months remain essential if you've had gum disease.
+This is why your dentist's expert cleaning (scaling and root planing) works better than brushing alone. The mechanical scraping physically disrupts the biofilm structure. However, the biofilm can regrow within 2-4 weeks, which is why regular cleanings every 3-6 months remain essential if you've had gum disease.
 
 ## What Happens During Professional Cleaning
 
-When your dentist removes biofilm, they're essentially destroying the protective matrix and clearing out bacterial colonies. Studies show professional cleaning reduces harmful bacteria by about 90% immediately. But antibacterial rinses alone? They're helpful for prevention but don't penetrate deep into established biofilm. Even advanced light-based therapies (photodynamic therapy) work best when combined with mechanical cleaning.
+When your dentist removes biofilm, they're essentially destroying the protective matrix and clearing out bacterial colonies. Studies show expert cleaning reduces harmful bacteria by about 90% right away. But antibacterial rinses alone? They're helpful for prevention but don't penetrate deep into established biofilm. Even advanced light-based therapies (photodynamic therapy) work best when combined with mechanical cleaning.
 
 Thick, well-established biofilms (bigger than a few millimeters) need more aggressive treatment than young, thin biofilms. This explains why daily brushing can't completely prevent biofilm — your toothbrush can't break through that protective matrix like your dentist's tools can. The biofilm basically creates a fortress that protects bacteria from your immune system and from whatever you throw at it from home.
 
 ## The Bottom Line on Managing Biofilm
 
-Understanding biofilm helps explain why gum disease is so stubborn. The bacteria aren't just randomly sitting on your teeth — they're organized into sophisticated communities with communication systems, shared resources, and defense mechanisms. They actively work together to damage your gum tissue and resist treatment. This is why consistent home care (brushing and flossing twice daily), professional cleanings, and infection control measures all matter.
+Understanding biofilm helps explain why gum disease is so stubborn. The bacteria aren't just randomly sitting on your teeth — they're organized into sophisticated communities with talking systems, shared resources, and defense processes. They actively work together to damage your gum tissue and resist treatment. This is why consistent home care (brushing and flossing twice daily), expert cleanings, and infection control measures all matter.
 
-If you have gum disease, your dentist might recommend antimicrobial rinses like chlorhexidine (which reduces new biofilm formation by 50-70%) along with more frequent professional cleanings. But the key is understanding that biofilm requires a multi-pronged approach: disrupting it mechanically, using antimicrobials to slow regrowth, and maintaining vigilant daily care to prevent it from getting established.
+If you have gum disease, your dentist might recommend antimicrobial rinses like chlorhexidine (which reduces new biofilm formation by 50-70%) along with more frequent expert cleanings. But the key is understanding that biofilm requires a multi-pronged approach: disrupting it mechanically, using antimicrobials to slow regrowth, and keeping vigilant daily care to prevent it from getting established.
 
 ## Personal Strategies for Managing Your Biofilm
 
@@ -68,11 +68,11 @@ Understanding biofilm helps you take control of your oral health. Here are pract
 
 **Dietary management:** Bacteria in biofilm produce acids when they consume fermentable carbohydrates. By limiting how often you eat sugary or starchy foods, you reduce the frequency of acid attacks. Rinsing with water after meals removes food debris that bacteria feed on.
 
-**Antimicrobial rinses:** While these won't penetrate established biofilm deep below the gum line, they're helpful for preventing new biofilm formation on clean surfaces. Products like chlorhexidine (Peridex) or cetylpyridinium chloride reduce new biofilm formation by 50 to 70% when used consistently. However, extended use beyond a few months can stain teeth, so use them as directed.
+**Antimicrobial rinses:** While these won't penetrate established it deep below the gum line, they're helpful for preventing new biofilm formation on clean surfaces. Products like chlorhexidine (Peridex) or cetylpyridinium chloride reduce new biofilm formation by 50 to 70% when used consistently. However, extended use beyond a few months can stain teeth, so use them as directed.
 
 ## Looking Forward: Preventing Biofilm Problems
 
-The good news is that once you understand biofilm's nature, managing it becomes straightforward. Biofilm is vulnerable to daily mechanical disruption. That's why brushing works. It's vulnerable to professional mechanical disruption, which is why scaling and root planing work. And it's vulnerable to prevention through consistent, daily oral hygiene habits.
+The good news is that once you understand biofilm's nature, managing it becomes straightforward. Biofilm is vulnerable to daily mechanical disruption. That's why brushing works. It's vulnerable to expert mechanical disruption, which is why scaling and root planing work. And it's vulnerable to prevention through consistent, daily oral hygiene habits.
 
 Many people think gum disease is inevitable, but it's not. Excellent daily biofilm control prevents it in most people. Even those with genetic predisposition to gum disease can maintain healthy gums with diligent biofilm management.
 

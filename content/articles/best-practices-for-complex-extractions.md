@@ -94,7 +94,6 @@ Related reading: [Understanding Surgical Margins in Oral Surgery](/article/surgi
 Extractions, even complex ones, are very routine. Complications are uncommon, and most people recover without problems. Talk to your dentist about how this applies to your situation. Your dentist just wiggles them, pulls them out, and you're done.
 
 
-
 > **Key Takeaway:** Some teeth are easy to extract. Your dentist just wiggles them, pulls them out, and you're done.
 
 ## Related Articles

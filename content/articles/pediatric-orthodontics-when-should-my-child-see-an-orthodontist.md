@@ -101,11 +101,7 @@ If your child's lower jaw is positioned too far back (Class II), special removab
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
-
-However, your orthodontist will be honest about whether early treatment is truly needed—many children with normal variation don't require it. If early treatment is recommended, understand that Phase I addresses specific problems and many children still need Phase II (full braces) once permanent teeth erupt. Coordinating care between your child's pediatric dentist and orthodontist ensures the best timing and treatment approach for your child.
+Talk to your dentist about your specific situation and what approach works best for you. If your child's lower jaw is positioned too far back (Class II), special removable appliances called functional appliances can help. These appliances position the lower jaw forward and encourage it to grow forward as the child grows. Over time, this can reduce the underbite without surgery.
 
 > **Key Takeaway:** Getting your child evaluated by an orthodontist by age 7 is a smart decision even if treatment isn't needed yet. Early evaluation identifies problems that might benefit from treatment while your child's jaws are still growing. Early treatment can prevent some problems from getting worse, might reduce the need for extraction later, and can guide growth in favorable directions.
 

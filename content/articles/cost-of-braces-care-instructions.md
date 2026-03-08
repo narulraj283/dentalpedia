@@ -21,8 +21,7 @@ references:
   - "Tufekci E, Dixon JS, Gunsolley JC, et al. Prevalence of white spot lesions during orthodontic treatment with fixed appliances. Angle Orthod. 2011;81(2):206-210."
   - "Sudjalim TR, Woods MG, Mesen SM. Enamel demineralization during fixed orthodontic treatment: Aetiology and prevention. Aust Orthod J. 2006;22(1):55-62."
   - "Richter AY, Marci M. Behavior of humans during orthodontic treatment: Psychological aspects. In: Orthodontics in Pediatric Dentistry. Quintessence; 2015. p. 89-110."
----
-Proper braces care costs very little but saves hundreds in repairs and treatment delays. This guide explains what you need to do and why it matters for your money. Following proper [Oral Hygiene Routines](/article/oral-health-habits-complete-guide.html) during [Orthodontic Treatment](/article/cost-of-teeth-movement-speed.html) is essential for success.
+---Taking care of your braces is cheap. But it saves you lots of money on repairs. This guide shows what to do and why it saves cash. Good [Oral Hygiene Routines](/article/oral-health-habits-complete-guide.html) during [Orthodontic Treatment](/article/cost-of-teeth-movement-speed.html) helps you win.
 
 ## Daily Care: Cleaning Your Braces
 
@@ -47,10 +46,10 @@ Proper braces care costs very little but saves hundreds in repairs and treatment
 - Benefit: 20-30% better plaque removal
 
 **Why it matters**:
-- Poor brushing causes plaque buildup
-- Plaque leads to white spot lesions (loss of minerals from tooth surface)
-- White spots need special treatment to fix ($300-$1,000 per tooth)
-- Good brushing prevents this
+- Bad brushing lets plaque (sticky germs) pile up
+- Plaque causes white spots (white marks from weak teeth)
+- White spots cost $300-$1,000 to fix
+- Good brushing stops this
 
 ### Flossing
 
@@ -66,9 +65,9 @@ Proper braces care costs very little but saves hundreds in repairs and treatment
 **Time**: 5-10 minutes
 
 **Why it matters**:
-- Flossing removes plaque between teeth
-- Prevents cavities between teeth (hard to clean with braces)
-- Prevents gum disease
+- Floss takes out plaque between teeth
+- This stops cavities (a brush can't reach there)
+- It also stops gum disease
 
 ## Food Restrictions
 
@@ -107,7 +106,7 @@ Proper braces care costs very little but saves hundreds in repairs and treatment
 
 **Cost**: $5-$15 per tube/bottle (monthly)
 
-**Why**: Braces increase the risk of white spots 2-3 times more. Fluoride strengthens tooth surface and prevents white spot lesions.
+**Why**: Braces increase white spot risk by 2-3 times. Fluoride strengthens teeth and stops white spots from forming.
 
 **Application**:
 - High-fluoride gel (5,000 ppm): Apply each night in a custom tray
@@ -122,7 +121,7 @@ Proper braces care costs very little but saves hundreds in repairs and treatment
 
 **Cost**: $10-$20 per bottle (monthly)
 
-**Why**: Kills bacteria that make plaque and cause gum disease
+**Why**: Kills bacteria that create plaque and cause gum disease
 
 **Use**: 2-4 weeks at a time during active treatment if needed
 - Don't use long-term (causes staining if used more than 4 weeks)
@@ -142,8 +141,8 @@ Proper braces care costs very little but saves hundreds in repairs and treatment
 - Cost of repair: $50-$150 per bracket
 
 **Poor oral hygiene causing swelling and redness**:
-- Prevention: Good brushing and flossing ($12-$50 annually for supplies)
-- Cost of repair: $50-$150 per bracket
+- Prevention: Brush and floss well ($12-$50 per year for supplies)
+- Cost to fix: $50-$150 per bracket
 
 **Poor wire care**:
 - Prevention: Keep wires in brackets; tell orthodontist of problems ($0, just following directions)
@@ -167,9 +166,9 @@ Proper braces care costs very little but saves hundreds in repairs and treatment
 
 ### Signs of Demineralization
 
-- White, chalky areas on teeth around brackets
-- Not painful initially
-- Visible when brackets are removed if untreated
+- White, chalky spots on teeth around brackets
+- These don't hurt at first
+- You'll see them when brackets come off if not treated
 
 ### Prevention Cost
 
@@ -305,9 +304,9 @@ Proper braces care costs very little but saves hundreds in repairs and treatment
 
 ## Conclusion
 
-Proper braces care costs $100-$300 yearly in supplies but prevents $1,000-$3,400 in bracket repairs, treatment delays, and white spot treatment. Good brushing and flossing ($50-$100 yearly), fluoride ($60-$180 yearly), food choices ($0), and retainer wear ($0 during braces, $100-$300 yearly after) make treatment successful. The small upfront cost for supplies prevents much larger costs and keeps treatment on track. Your braces only work well if you care for them properly. Invest in care to protect your treatment investment.
+Good braces care costs $100-$300 a year. But it stops $1,000-$3,400 in bracket fixes and delays. Brush and floss well ($50-$100 yearly). Use fluoride ($60-$180 yearly). Make smart food picks (free). Wear your retainer ($0 during braces, $100-$300 yearly after). These steps work. Small costs stop big costs. Your braces work best when you care for them.
 
-> > **Key Takeaway:** Proper braces care costs $100-$300 annually in supplies and time but prevents $1,000-$3,400 in problems (bracket replacements, white spots, treatment delays). Daily brushing/flossing, fluoride supplementation, dietary compliance, and retainer wear are non-negotiable for successful treatment. The prevention investment pays for itself many times over in avoided complications.
+> **Key Takeaway:** Proper braces care costs $100-$300 annually in supplies and time but prevents $1,000-$3,400 in problems (bracket replacements, white spots, treatment delays). Daily brushing/flossing, fluoride supplementation, dietary compliance, and retainer wear are non-negotiable for successful treatment. The prevention investment pays for itself many times over in avoided complications.
 
 ## Related Articles You May Find Helpful
 

@@ -24,7 +24,7 @@ references:
 
 If your dentist has mentioned bone grafting, you might be wondering what that even means. Bone grafting is a surgical procedure that rebuilds bone in your jaw where bone has been lost due to tooth loss, gum disease, or other reasons. It's a pretty common procedure in modern dentistry, and today it has a high success rate—around 85-90% when used to place dental implants.
 
-Think of it like adding reinforcement to your jawbone so you have a strong foundation for dental implants. Your dentist or oral surgeon will use bone material (which can come from different sources) to fill in gaps where bone is missing. Over time, your body naturally integrates this bone, making your jaw stronger and ready for implants.
+Think of it like adding reinforcement to your jawbone so you have a strong foundation for dental implants. Your dentist or oral surgeon will use bone material (which can come from different sources) to fill in gaps where bone is missing. Over time, your body naturally integrates this the area, making your jaw stronger and ready for implants.
 
 ## How Long Does Healing Actually Take?
 
@@ -40,9 +40,9 @@ Here's the cool part: some surgeons can place your implant at the same time as t
 
 When your dentist talks about a bone graft, you might wonder—what kind of bone will they use? This matters because different types work differently.
 
-Bone taken directly from your own body (usually from inside your mouth or your hip) is considered the gold standard. It's like your jaw's preferred building material because your body recognizes it as your own bone. It comes with living bone cells that actively help build new bone. About 300-400 living bone cells per milliliter of material work to regenerate the site.
+Bone taken directly from your own body (usually from inside your mouth or your hip) is considered the gold standard. It's like your jaw's preferred building material because your body recognizes it as your own bone. It comes with living bone cells that actively help build new tissue. About 300-400 living bone cells per milliliter of material work to regenerate the site.
 
-Donor bone from a tissue bank (processed human bone) is also really reliable. It gives your body a scaffold to build on but doesn't have the living cells that your own bone provides. There are different types—some treated to increase bone-building potential and others treated to stay strong and stable. Some of these maintain 85-90% of their volume after a year.
+Donor bone from a tissue bank (processed human bone) is also really reliable. It gives your body a scaffold to build on but doesn't have the living cells that your own bone provides. There are different types—some treated to increase the structure-building potential and others treated to stay strong and stable. Some of these maintain 85-90% of their volume after a year.
 
 Bone from animals (usually cows) is another option that's becoming more popular. It's extremely stable and lasts a long time, but it doesn't contain the active bone-building factors that your own bone does. Often, surgeons mix animal bone with a little bit of your own bone or add growth factors to boost results.
 
@@ -52,13 +52,13 @@ Surgeons also use synthetic materials—basically lab-engineered bone. These are
 
 Here's the honest answer: bone grafting opens up the possibility of getting implants, but it's not a guarantee of success. Most people who get implants after bone grafting (85-95%) have excellent outcomes, but some don't.
 
-A few things can affect whether your implants will be successful. If you smoke, bone integration is 40-60% slower, though you can still have successful implants. Diabetes, especially if it's not well-controlled, makes it harder for bone to heal. And of course, keeping the area clean and following your surgeon's instructions matters a lot.
+A few things can affect whether your implants will be successful. If you smoke, it integration is 40-60% slower, though you can still have successful implants. Diabetes, especially if it's not well-controlled, makes it harder for bone to heal. And of course, keeping the area clean and following your surgeon's instructions matters a lot.
 
 The good news is that your surgeon can predict success pretty well based on bone quality, your health, and your habits. This is why your dentist will talk with you thoroughly before planning your surgery.
 
 ## Will My Face Look Different?
 
-A concern many people have is whether bone grafting will change how their face looks. If your surgeon takes bone from inside your mouth, you probably won't notice any change in your appearance. The donor sites heal really well, and about 94-97% of patients have no visible changes to their face at all.
+A concern many people have is whether the area grafting will change how their face looks. If your surgeon takes bone from inside your mouth, you probably won't notice any change in your appearance. The donor sites heal really well, and about 94-97% of patients have no visible changes to their face at all.
 
 You might feel a little different in the area where they took the bone for a few weeks, but that usually goes away in 3-6 months. If they need to take bone from your hip, there's a slightly higher chance of noticing something, but the change is only at your hip—never your face.
 
@@ -74,7 +74,7 @@ Your surgeon can typically add about 2.5-3 millimeters of bone height with a sin
 
 ## Not Every Ridge Problem Needs Surgery
 
-Not every situation requires a bone graft. Sometimes your body's natural ability to fill in bone without a graft can work pretty well. Your dentist can use a special membrane to guide bone growth, and this works for about 73-81% of minor bone defects without needing extra graft material.
+Not every situation requires a tissue graft. Sometimes your body's natural ability to fill in the structure without a graft can work pretty well. Your dentist can use a special membrane to guide it growth, and this works for about 73-81% of minor bone defects without needing extra graft material.
 
 For larger defects or defects that go deep vertically, you'll probably need a bone graft to get the best results. Your surgeon will examine your situation and tell you what approach will work best for you.
 
@@ -82,13 +82,13 @@ For larger defects or defects that go deep vertically, you'll probably need a bo
 
 People often worry that having a bone graft means a long, difficult recovery. Actually, most patients do really well.
 
-If you're getting a bone graft at the same time as an implant (instead of in separate surgeries), you don't need much extra healing time. About 85-90% of patients get back to normal activities within 2-3 weeks. After 12 weeks, most people are doing everything they normally do.
+If you're getting a the area graft at the same time as an implant (instead of in separate surgeries), you don't need much extra healing time. About 85-90% of patients get back to normal activities within 2-3 weeks. After 12 weeks, most people are doing everything they normally do.
 
 Pain is usually manageable. Most people describe it as mild discomfort rather than real pain, and standard pain medication (like ibuprofen) works well. Swelling is worst around days 2-3, but it goes down significantly by day 10-14. Your surgeon will give you antibiotics to prevent infection, and the infection rate is low—only about 2-3% when everything is done correctly.
 
 ## What If You Have Gum Disease?
 
-You might worry that if you have gum disease, you can't have a bone graft. But that's not quite true. If you have gum disease, your dentist will usually treat that first by cleaning out the infection. Once your gums are healthier (pockets are less than 5mm deep), bone grafts work really well—about 81-87% of people with treated gum disease have successful implants.
+You might worry that if you have gum disease, you can't have a tissue graft. But that's not quite true. If you have gum disease, your dentist will usually treat that first by cleaning out the infection. Once your gums are healthier (pockets are less than 5mm deep), bone grafts work really well—about 81-87% of people with treated gum disease have successful implants.
 
 The key is getting your gum disease under control before the surgery. Once you do, your implant success rate is almost as good as someone without a history of gum disease.
 

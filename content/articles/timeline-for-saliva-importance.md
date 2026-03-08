@@ -49,7 +49,7 @@ Most people don't think much about saliva unless they have dry mouth. But saliva
 
 ## Salivary Composition and Basic Physiology
 
-Healthy adults make about 0.5 to 1.5 liters of saliva daily. Without stimulation (like chewing), saliva flows 0.1 to 0.4 milliliters per minute. With stimulation, it flows 1 to 2 milliliters per minute. Saliva is about 99.5% water. The remaining 0.5% has many useful chemicals. Three major glands—the parotid, submandibular, and sublingual glands—make about 90% of saliva. Hundreds of smaller glands in your mouth, throat, and lips make the rest.
+Healthy adults make about 0.5 to 1.5 liters of saliva daily. Without stimulation (like chewing), moisture flows 0.1 to 0.4 milliliters per minute. With stimulation, it flows 1 to 2 milliliters per minute. Saliva is about 99.5% water. The remaining 0.5% has many useful chemicals. Three major glands—the parotid, submandibular, and sublingual glands—make about 90% of saliva. Hundreds of smaller glands in your mouth, throat, and lips make the rest.
 
 Different glands make different types of saliva. Parotid glands make watery saliva with lots of proteins and enzymes. Submandibular and sublingual glands make thicker, stickier saliva that helps lubricate. These different types work together to protect your mouth. Unstimulated saliva has a pH (acidity level) of 6.2 to 7.0. Chewing makes saliva more neutral or slightly alkaline (less acidic).
 
@@ -59,7 +59,7 @@ One of saliva's most important jobs is keeping your mouth neutral (not acidic). 
 
 Saliva uses two main systems to buffer acid. Bicarbonate and carbonic acid do most of the work. Phosphate is a backup system. These systems are important after eating or drinking acidic things (like soda or orange juice). Saliva quickly neutralizes these acids.
 
-Saliva can neutralize acids within 30-60 seconds. But people with dry mouth can't do this as well. Saliva's buffering ability varies from person to person. Better saliva flow and more bicarbonate mean better buffering.
+Oral fluid can neutralize acids within 30-60 seconds. But people with dry mouth can't do this as well. Saliva's buffering ability varies from person to person. Better saliva flow and more bicarbonate mean better buffering.
 
 ## Antimicrobial Defense Mechanisms
 
@@ -73,27 +73,27 @@ All these proteins work together to keep your mouth's bacteria under control.
 
 ## Remineralization and Tooth Protection
 
-Saliva carries minerals (calcium and phosphate) that strengthen tooth enamel. When acid attacks a tooth, saliva brings these minerals back to repair it. This is called remineralization.
+Saliva carries minerals (calcium and phosphate) that strengthen tooth enamel. When acid attacks a tooth, it brings these minerals back to repair it. This is called remineralization.
 
-Saliva has special proteins that help this process. They deliver minerals to weak spots and help rebuild tooth structure. Studies show that early cavities can actually heal if saliva reaches them.
+Moisture has special proteins that help this process. They deliver minerals to weak spots and help rebuild tooth structure. Studies show that early cavities can actually heal if saliva reaches them.
 
 Saliva also forms a thin protective coating on teeth within minutes of cleaning. This coating is called pellicle. It protects teeth and influences how bacteria stick to teeth.
 
 ## Lubrication and Mucosal Protection
 
-Saliva is slippery and coats your mouth tissues. This slipperiness helps you chew, swallow, and speak. It reduces friction and keeps tissues comfortable. When people have dry mouth, even a little less saliva causes discomfort and trouble chewing.
+Oral fluid is slippery and coats your mouth tissues. This slipperiness helps you chew, swallow, and speak. It reduces friction and keeps tissues comfortable. When people have dry mouth, even a little less it causes discomfort and trouble chewing.
 
 Saliva also coats food pieces and protects mouth tissues from irritation. Proteins and oils in saliva create a protective barrier against drying. Saliva has special growth factors that help tissues heal and stay healthy.
 
 ## Digestive Function and Initial Nutrient Processing
 
-Saliva also helps digest food. Salivary amylase (an enzyme) breaks down starches. It starts working in your mouth and keeps working in your stomach. When saliva is very low, people have trouble with starchy foods.
+Moisture also helps digest food. Salivary amylase (an enzyme) breaks down starches. It starts working in your mouth and keeps working in your stomach. When oral fluid is very low, people have trouble with starchy foods.
 
 Another enzyme called lingual lipase starts breaking down fats. When saliva is very low, people have trouble digesting and getting proper nutrition.
 
 ## Xerostomia: Clinical Consequences and Disease Manifestations
 
-Dry mouth (xerostomia) means your mouth feels dry from low saliva flow. When saliva drops below 0.1 milliliters per minute (without chewing) or 0.5 milliliters per minute (with chewing), problems start. Dry mouth causes serious problems beyond discomfort.
+Dry mouth (xerostomia) means your mouth feels dry from low it flow. When moisture drops below 0.1 milliliters per minute (without chewing) or 0.5 milliliters per minute (with chewing), problems start. Dry mouth causes serious problems beyond discomfort.
 
 Cavities are the main dental problem. Without enough buffering, acids damage teeth longer. Teeth can't repair themselves. Cavities form fast and in unusual places (even on smooth surfaces and roots). The pattern looks different—more like surface erosion than typical cavities.
 
@@ -117,20 +117,18 @@ Doctors test saliva flow to diagnose dry mouth. They collect saliva without chew
 
 Tests can measure how well saliva neutralizes acid. They can also measure saliva's calcium, phosphate, and protein.
 
-Treatment starts by fixing the cause. Medicines causing dry mouth can be changed or replaced. Drinking more water helps. Sugar-free gum or lozenges stimulate saliva. Some medicines (pilocarpine, cevimeline) can increase saliva if some gland function remains.
+Treatment starts by fixing the cause. Medicines causing dry mouth can be changed or replaced. Drinking more water helps. Sugar-free gum or lozenges stimulate oral fluid. Some medicines (pilocarpine, cevimeline) can increase saliva if some gland function remains.
 
 Dental visits should happen every 3 months or more. Strong fluoride treatments prevent cavities. Fluoride rinses, gels, and custom trays help. Antimicrobial rinses can prevent yeast. Professional cleanings remove buildup.
 
-Saliva substitutes aren't perfect but help. These products contain mucin or similar ingredients. Some contain fluoride or antimicrobial agents. Mouth moisturizers and protective barriers also help.
+It substitutes aren't perfect but help. These products contain mucin or similar ingredients. Some contain fluoride or antimicrobial agents. Mouth moisturizers and protective barriers also help.
 
 
 Related reading: [Common Misconceptions About Mouth Injuries Treatment](/article/common-misconceptions-about-mouth-injuries-treatment.html) and [Community Health Centers: Affordable Dentistry Access](/article/community-health-centers-affordable-dentistry.html).
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding the critical role of saliva in oral health: functions, helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Saliva represents a sophisticated biological system that provides multiple essential functions necessary for oral health, comfort, and systemic wellbeing. Its buffering capacity prevents caries, antimicrobial components control potentially pathogenic microbiota, remineralization capacity protects enamel from acid attack, and lubricating properties protect mucosal tissues and facilitate function. Recognition of salivary importance should prompt all clinicians to assess salivary function routinely and implement prevention and management strategies for patients with salivary dysfunction. Future therapeutic approaches, including gene therapy and tissue engineering approaches to salivary gland regeneration, hold promise for more definitive treatment of severe xerostomia.
 
 > **Key Takeaway:** Saliva does an amazing job protecting your mouth when you have enough of it—preventing cavities, fighting infections, and keeping your mouth comfortable. If you notice your mouth feeling persistently dry, tell your dentist. Dry mouth can often be improved by adjusting medications, staying hydrated, using sugar-free gum or lozenges to stimulate saliva, or using saliva substitutes. Addressing dry mouth early prevents serious dental problems and improves your quality of life.
 

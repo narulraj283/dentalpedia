@@ -20,7 +20,7 @@ references:
   - "Zörba M, et al. Allergic reaction to local anesthetics: a literature review and case presentation. Journal of Oral and Maxillofacial Surgery. 2008;66(12):2459-2465."
   - "AHA Guidelines. Emergency Cardiovascular Care and Anaphylaxis. American Heart Association; 2019."
 ---
-Dental anesthesia is very safe, but like any medical procedure, complications can rarely happen. This guide explains what can go wrong (and how rare it is), how your dentist prevents problems, and what to expect if something unusual occurs. Understanding the risks helps you stay calm and informed, knowing your dentist is well-trained to handle anything that comes up.
+Dental anesthesia is very safe, but like any medical procedure, problems can rarely happen. This guide explains what can go wrong (and how rare it is), how your dentist prevents problems, and what to expect if something unusual occurs. Understanding the risks helps you stay calm and informed, knowing your dentist is well-trained to handle anything that comes up.
 
 ## Potential Complications (Rare!)
 
@@ -45,7 +45,7 @@ Dental anesthesia is very safe, but like any medical procedure, complications ca
 - Vasovagal reaction (fainting from anxiety, not the drug)
 - Overdose symptoms (shaking, dizziness) from too much anesthetic
 
-If you think you're allergic: Your dentist can do skin testing with small amounts to see if there's a true reaction. If preservative sensitivity is the issue, they use single-use vials without preservatives. Most "allergic patients" do fine with proper testing and anesthetic selection.
+If you think you're allergic: Your dentist can do skin testing with small amounts to see if there's a true reaction. If preservative soreness is the issue, they use single-use vials without preservatives. Most "allergic patients" do fine with proper testing and anesthetic selection.
 
 ## Rare Emergency: Anesthetic Overdose
 
@@ -71,7 +71,7 @@ Overdose of local anesthetic is extremely rare with modern techniques but here's
 
 **Respiratory Depression** is the most common serious complication of IV sedation, particularly with opioid-benzodiazepine combinations. Benzodiazepines (midazolam) cause dose-dependent respiratory depression, reducing minute ventilation and increasing end-tidal CO2 (hypercapnia). Opioids (fentanyl) additionally decrease respiratory drive through CNS depression.
 
-Management: if SpO2 drops <94%, discontinue sedatives, provide supplemental oxygen (nasal cannula or mask), and ensure patient remains aroused by verbal stimulation or gentle tactile stimulation. If profound respiratory depression with SpO2 <90%, consider reversal agents (flumazenil for benzodiazepines, naloxone for opioids) and bag-valve-mask ventilation if needed.
+Management: if SpO2 drops <94%, stop sedatives, provide supplemental oxygen (nasal cannula or mask), and ensure patient remains aroused by verbal stimulation or gentle tactile stimulation. If profound respiratory depression with SpO2 <90%, consider reversal agents (flumazenil for benzodiazepines, naloxone for opioids) and bag-valve-mask ventilation if needed.
 
 **Paradoxical Reactions** (unusual patient behavior opposite to expected sedation) occasionally occur with benzodiazepines, particularly in elderly patients or those with certain personality types. Patient becomes agitated, combative, or hyperactive rather than sedated. Management includes: discontinuing the medication (no additional doses), reassurance and gentle restraint if needed, and allowing natural metabolism to clear the medication (typically within 30-60 minutes).
 
@@ -87,7 +87,7 @@ Management: if SpO2 drops <94%, discontinue sedatives, provide supplemental oxyg
 
 ## Equipment and Emergency Preparedness
 
-Every dental office administering local anesthesia should maintain: emergency medication kit (epinephrine 1:1000, atropine, antihistamine, corticosteroid), oxygen delivery system (nasal cannula, face mask), suction apparatus, IV supplies, and equipment for airway management (oral airway, bag-valve-mask). Staff should be trained in basic life support (BLS) with current CPR certification.
+Every dental office administering local anesthesia should maintain: emergency medicine kit (epinephrine 1:1000, atropine, antihistamine, corticosteroid), oxygen delivery system (nasal cannula, face mask), suction apparatus, IV supplies, and equipment for airway management (oral airway, bag-valve-mask). Staff should be trained in basic life support (BLS) with current CPR certification.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 
@@ -96,9 +96,9 @@ Related reading: [Bone Grafting Protocol for Dental Implant Site](/article/bone-
 
 ## Conclusion
 
-: Preventing and Managing Anesthetic Complications
+: Preventing and Managing Anesthetic Problems
 
-While local anesthesia and IV sedation remain remarkably safe when administered by trained professionals, serious complications can occur. Prevention through meticulous injection technique, appropriate dose calculation, and aspiration protocol minimizes complication risk. When complications occur, early recognition of warning signs and immediate implementation of evidence-based management (particularly new intralipid protocols for severe toxicity) ensures optimal patient outcomes and prevention of catastrophic complications. For every practitioner administering anesthesia, maintaining current emergency skills, understanding medication interactions, and committing to meticulous technique represent non-negotiable foundations of safe practice.
+While local anesthesia and IV sedation remain remarkably safe when administered by trained professionals, serious problems can occur. Prevention through meticulous injection technique, appropriate dose calculation, and aspiration protocol minimizes problem risk. When problems occur, early recognition of warning signs and immediate implementation of evidence-based management (particularly new intralipid protocols for severe toxicity) ensures optimal patient outcomes and prevention of catastrophic problems. For every practitioner administering anesthesia, keeping current emergency skills, understanding medicine interactions, and committing to meticulous technique represent non-negotiable foundations of safe practice.
 
 > **Key Takeaway:** Dental anesthesia is very safe, but like any medical procedure, complications can rarely happen.
 

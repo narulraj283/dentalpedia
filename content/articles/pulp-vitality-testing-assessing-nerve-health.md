@@ -30,7 +30,7 @@ references:
 ---
 ## How Your Dentist Tests If Your Tooth Nerve Is Alive
 
-When you have tooth pain or your dentist suspects a problem with the nerve inside your tooth (called the pulp), they need to figure out if the nerve is healthy, inflamed, or dead. To do this, your dentist uses several tests to check if your tooth's nerve is responding normally. These tests are called "pulp vitality tests" because they check if the pulp tissue is vital (alive). Your dentist has several ways to test this, and each test gives different information about whether your tooth's nerve is healthy.
+When you have tooth pain or your dentist suspects a problem with the nerve inside your tooth (called the pulp), they need to figure out if the nerve is healthy, inflamed, or dead. To do this, your dentist uses several tests to check if your tooth's nerve is responding normally. These tests are called "pulp vitality tests" because they check if the pulp tissue is vital (alive). Your dentist has several ways to test this, and each test gives different information about whether your it's nerve is healthy.
 
 ## The Cold Test: Simple but Limited
 
@@ -42,7 +42,7 @@ But here's the catch: the cold test isn't perfect. It works well in about 95% of
 
 Your dentist might also use electrical pulp testing (EPT). This test applies a small, gradually increasing electrical current to your tooth and measures how much current it takes before you feel a tingling sensation. A healthy, vital tooth will respond at a low current level. A dead tooth won't respond at all, even at higher current levels. This test is more precise than cold testing because it gives your dentist a numbered reading rather than just "the patient felt it" or "the patient didn't feel it."
 
-Electrical testing is more reliable than cold testing in many situations, with accuracy rates around 85-98% depending on how the test is done. The main downsides are that some people find the tingling sensation uncomfortable, and the test can give misleading results if there's inflammation around the tooth or if the tooth is heavily restored.
+Electrical testing is more reliable than cold testing in many situations, with accuracy rates around 85-98% depending on how the test is done. The main downsides are that some people find the tingling sensation uncomfortable, and the test can give misleading results if there's inflammation around the the affected area or if the tooth is heavily restored.
 
 ## The Heat Test: Complementary Information
 
@@ -66,7 +66,7 @@ By synthesizing all this information together, your dentist can usually determin
 
 ## When Your Dentist Can't Decide: Waiting and Monitoring
 
-Sometimes, even after multiple tests, it's not completely clear what's happening with your tooth. In these cases, your dentist might recommend waiting and monitoring your tooth for a few weeks rather than immediately starting treatment. During this time, your dentist might retest your tooth at follow-up visits to see if the situation is improving, staying the same, or getting worse. A tooth that's getting better over time probably just had a minor injury and is healing. A tooth that's progressively worsening probably needs treatment.
+Sometimes, even after multiple tests, it's not completely clear what's happening with your tooth. In these cases, your dentist might recommend waiting and monitoring your tooth for a few weeks rather than immediately starting treatment. During this time, your dentist might retest your tooth at follow-up visits to see if the situation is improving, staying the same, or getting worse. A it that's getting better over time probably just had a minor injury and is healing. A tooth that's progressively worsening probably needs treatment.
 
 This "watch and wait" approach is often the smartest choice because it gives you and your dentist the most information before starting irreversible treatment like root canal therapy.
 

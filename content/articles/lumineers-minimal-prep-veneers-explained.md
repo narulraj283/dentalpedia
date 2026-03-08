@@ -105,7 +105,6 @@ You're a good candidate if you want modest tooth improvements, have healthy unde
 Lumineers and comparable minimal-prep veneer systems represent valid treatment options for carefully selected patients with minor esthetic concerns and favorable tooth anatomy. If you have questions, your dentist can help you understand your options. They work well for modest cosmetic improvements and have good success rates when properly bonded. Limitations include less shade control and dependence on perfect bonding technique. True reversibility is somewhat overstated, and cost is comparable to traditional veneers.
 
 
-
 > **Key Takeaway:** Lumineers are ultra-thin veneers that require little to no tooth preparation. Learn how they work, what they cost, and whether they're right for you.
 
 ## Related Articles

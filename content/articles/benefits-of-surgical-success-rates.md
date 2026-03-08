@@ -192,8 +192,7 @@ Related reading: [Risk and Concerns with Swelling Reduction](/article/risk-and-c
 
 ## Conclusion
 
-Whether you're just learning about surgical success rates in oral surgery: evidence-based or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Jaw surgery keeps your correction stable 90-95% of the time. Your surgeon's experience matters. And your follow-up care matters.
 
 > **Key Takeaway:** When dentists talk about surgical success, they're not just asking 'did the surgery finish?' They're talking about whether the treatment works.
 

@@ -106,9 +106,7 @@ Care for bonded veneers: brush gently with a soft toothbrush and floss carefully
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. Care for bonded veneers: brush gently with a soft toothbrush and floss carefully. Acidic foods and drinks don't harm the bond directly. However, they can demineralize tooth around the edges and cause decay if you don't clean well.
 
 > **Key Takeaway:** Creating a durable bond between a porcelain restoration (crown or veneer) and your tooth requires preparation of both the porcelain and tooth surface. Talk with your dentist to find out how this applies to your specific situation and what steps make sense for you.
 

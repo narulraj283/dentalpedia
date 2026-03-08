@@ -98,9 +98,7 @@ Complete biological healing takes longer than you expect. While you feel substan
 
 ## Conclusion
 
-The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. Complete biological healing takes longer than you expect. While you feel substantially normal by week two to three, your tissues are still healing. Bone remodeling, complete epithelialization, and full sensation return take months.
 
 > **Key Takeaway:** The first week is hardest—pain peaks around day one to two, then improves daily. Take pain medication proactively before pain escalates. Swelling peaks day two to three then gradually resolves. By week two, most people can resume modified normal activities. By week four, you feel essentially normal, though bone healing continues for months. Contact your surgeon if you develop complications or if healing seems unusual.
 

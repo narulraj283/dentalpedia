@@ -150,6 +150,8 @@ Learn more about specific prevention strategies in [Why-toothbrush-selection-mat
 
 ## Related Articles
 
-- [Cost of Tartar Prevention and Clinical Management](/article/cost-of-tartar-prevention.html)
-- [Common Misconceptions About Oral Hygiene Routine](/article/common-misconceptions-about-oral-hygiene-routine.html)
-
+- [A Patient's Guide to Dental Visit Frequency](/article/best-practices-for-dental-visit-frequency.html)
+- [LED Whitening Kits: Light-Accelerated Bleaching](/article/led-whitening-kits-light-accelerated-bleaching.html)
+- [Remineralizing Toothpaste](/article/remineralizing-toothpaste-strengthening-weakened-enamel.html)
+- [Cost of Daily Teeth Cleaning](/article/cost-of-daily-teeth-cleaning.html)
+- [Gum Disease Prevention: Keep Your Gums Healthy](/article/how-to-gum-disease-prevention.html)

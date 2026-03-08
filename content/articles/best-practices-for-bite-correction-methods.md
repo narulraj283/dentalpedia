@@ -112,7 +112,6 @@ Am J Orthod Dentofacial Orthop. 2007;132(5):573-579.
 6. McNamara JA Jr, et al. Talk to your dentist about how this applies to your situation. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** Evidence-based malocclusion treatment requires systematic selection among multiple biomechanical and surgical options matched to patient characteristics.
 
 ## Related Articles

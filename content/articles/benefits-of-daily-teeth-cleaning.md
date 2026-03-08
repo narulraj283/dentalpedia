@@ -108,4 +108,4 @@ These simple practices, done consistently, mean fewer cavities, healthier gums, 
 - [Sugar-Free Gum Effectiveness - Saliva Stimulation and](/article/sugar-free-gum-effectiveness-saliva-stimulation-benefits.html)
 - [Complete Guide to Mouth Cleaning Tools](/article/mouth-cleaning-tools-complete-guide.html)
 - [Risk and Concerns with Teeth Brushing Technique](/article/risk-and-concerns-with-teeth-brushing-technique.html)
-
+- [Calcium and Phosphorus: Remineralization Minerals](/article/calcium-and-phosphorus-remineralization-minerals.html)

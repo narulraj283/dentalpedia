@@ -133,7 +133,6 @@ Related reading: [Cavities Explained](/article/tooth-decay-prevention-causes-and
 Traumatic dental injuries require rapid assessment and time-dependent intervention. Avulsed teeth have dramatically better outcomes (85-95% 5-year survival) when reinserted within 15-60 minutes versus >2 hours (30-50% survival). If you have questions, your dentist can help you understand your options. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** About 1 in 10 people hurt their teeth or mouth before age 18, often during sports or play.
 
 ## Related Articles

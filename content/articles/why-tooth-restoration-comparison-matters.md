@@ -30,13 +30,13 @@ references:
   - title: "Microleakage in Class II composite restorations with different layering techniques and cavity wall treatments"
     url: "https://pubmed.ncbi.nlm.nih.gov/21170381/"
 ---
-Your dentist says you need a restoration (something to fill or cover that cavity or damaged tooth area). But what kind? Should you get a simple filling, an inlay, or a full crown? The options can seem confusing, and the choice significantly affects how long your restoration lasts, how much it costs, and how much tooth structure remains.
+Your dentist says you need a repair (something to fill or cover that cavity or damaged tooth area). But what kind? Should you get a simple filling, an inlay, or a full crown? The options can seem confusing, and the choice much affects how long your repair lasts, how much it costs, and how much tooth structure remains.
 
-Understanding what each restoration is best for, how long each type typically lasts, and what factors drive the decision helps you make an informed choice with your dentist. Learn more about [Cantilever Bridge Unusual Support](/article/cantilever-bridge-unusual-support.html) for additional guidance.
+Understanding what each repair is best for, how long each type typically lasts, and what factors drive the decision helps you make an informed choice with your dentist. Learn more about [Cantilever Bridge Unusual Support](/article/cantilever-bridge-unusual-support.html) for additional guidance.
 
 ## How Your Dentist Decides What Restoration You Need
 
-The type of restoration your dentist recommends depends primarily on **how much of your tooth is damaged**. This is measured by how deep the cavity is and how wide it is relative to your total tooth size.
+The type of repair your dentist recommends depends primarily on **how much of your tooth is damaged**. This is measured by how deep the cavity is and how wide it is relative to your total tooth size.
 
 **Small cavities** (less than 1/3 of your tooth width) are typically restored with direct composite (tooth-colored filling) placed in one appointment.
 
@@ -44,7 +44,7 @@ The type of restoration your dentist recommends depends primarily on **how much 
 
 **Large cavities** (more than 2/3 of tooth width, especially involving multiple surfaces) are usually best restored with a crown because it provides maximum tooth protection.
 
-The depth also matters. Learn more about [Denture Relining Adding Material](/article/denture-relining-adding-material-as-jaw-shrinks.html) for additional guidance. **Deep cavities** close to your nerve (pulp) require special protection and careful material selection to avoid post-operative pain or pulp complications.
+The depth also matters. Learn more about [Denture Relining Adding Material](/article/denture-relining-adding-material-as-jaw-shrinks.html) for additional guidance. **Deep cavities** close to your nerve (pulp) require special protection and careful material selection to avoid post-operative pain or pulp problems.
 
 ## Direct Composite Fillings: The Conservative Approach
 
@@ -64,7 +64,7 @@ A direct composite is a tooth-colored filling material placed directly into your
 
 ## Indirect Restorations: Inlays, Onlays, and Crowns
 
-Indirect restorations are fabricated in a lab (rather than placed directly) and typically involve more tooth removal, but offer superior longevity and control.
+Indirect repairs are fabricated in a lab (rather than placed directly) and typically involve more tooth removal, but offer superior longevity and control.
 
 **Inlays**: Like a filling but fabricated from ceramic or composite. Used for moderate cavities. 90%+ clinical success at 10 years.
 
@@ -112,7 +112,7 @@ Your dentist will recommend based on tooth location and esthetic needs.
 
 **Indirect restorations** develop smaller gaps (typically under 100 micrometers when properly placed with dual-cure cements), resulting in less microleakage and fewer secondary decay problems.
 
-This explains why larger cavities benefit from crowns—the lab-fabricated indirect restoration's superior margin adaptation is worth the additional cost.
+This explains why larger cavities benefit from crowns—the lab-fabricated indirect repair's superior margin adaptation is worth the additional cost.
 
 ## Special Considerations: Deep Cavities and Pulp Protection
 
@@ -122,21 +122,21 @@ When cavities are deep and close to your pulp (nerve), material selection matter
 
 **Glass ionomer bases** provide fluoride release and antimicrobial protection.
 
-Your dentist might apply liners before your restoration to protect your pulp and reduce post-operative sensitivity risk.
+Your dentist might apply liners before your repair to protect your pulp and reduce post-operative soreness risk.
 
 ## Temporary vs. Definitive Restorations
 
-Sometimes your dentist places a **temporary restoration** while waiting for your tooth to settle or while a permanent restoration is being fabricated. Temporary restorations are typically:
+Sometimes your dentist places a **temporary repair** while waiting for your tooth to settle or while a permanent repair is being fabricated. Temporary repairs are typically:
 
 - Less durable
 - Not meant for chewing
 - Replaced within days to weeks with permanent restoration
 
-Don't chew on temporary restorations—they're intentionally temporary and can fail if stressed.
+Don't chew on temporary repairs—they're intentionally temporary and can fail if stressed.
 
 ## Questions for Your Dentist About Your Restoration
 
-Before your restoration is placed, clarify:
+Before your repair is placed, clarify:
 
 1. "Why are you recommending this specific restoration type?"
 2. "How long should this restoration last?"
@@ -146,13 +146,13 @@ Before your restoration is placed, clarify:
 6. "Will you use a liner to protect my pulp?"
 7. "What can I do to maximize longevity?"
 
-These conversations ensure you understand your restoration choice.
+These conversations ensure you understand your repair choice.
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
 ## Conclusion
 
-Restoration selection depends primarily on cavity size and location. Small cavities are best restored with direct composite (conservative, one appointment). Large cavities achieve better long-term outcomes and value with indirect restorations (crowns or inlays) despite higher upfront cost. Understanding restoration longevity, margin quality, and long-term cost—not just initial price—enables informed decisions. By selecting appropriate restorations matching cavity severity, you optimize both immediate treatment outcomes and long-term tooth preservation.
+Repair selection depends primarily on cavity size and location. Small cavities are best restored with direct composite (conservative, one appointment). Large cavities achieve better long-term outcomes and value with indirect repairs (crowns or inlays) despite higher upfront cost. Understanding repair longevity, margin quality, and long-term cost—not just initial price—enables informed decisions. By selecting appropriate repairs matching cavity severity, you optimize both immediate treatment outcomes and long-term tooth preservation.
 
 > **Key Takeaway:** Direct composite fillings preserve maximum tooth structure and cost $150–$300, lasting 60–72% at 10 years. Indirect restorations (inlays, onlays, crowns) cost $600–$2,000 but last 90%+ at 10 years with superior margin adaptation and lower secondary decay risk. For small cavities under 1/3 tooth width, composite is appropriate. For large cavities over 2/3 tooth width, especially involving multiple surfaces, crowns provide better long-term value and protection despite higher upfront cost. Material selection (ceramic, zirconia, metal-ceramic) depends on location and esthetic needs.
 

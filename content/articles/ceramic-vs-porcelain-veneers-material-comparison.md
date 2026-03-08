@@ -46,7 +46,7 @@ Veneers stay their natural color for years—they don't yellow or stain like com
 
 ## Strength and Durability
 
-Ceramic/porcelain veneers are extremely durable. Studies show 90-95% survival rate at 10 years—meaning over a decade, you have a 90-95% chance your veneers will function beautifully without problems. Most failures are either veneers breaking (rare, maybe 2-3%), veneers coming loose (2-5%), or tooth decay underneath (1-2%).
+Ceramic/porcelain this are extremely durable. Studies show 90-95% survival rate at 10 years—meaning over a decade, you have a 90-95% chance your veneers will function beautifully without problems. Most failures are either veneers breaking (rare, maybe 2-3%), veneers coming loose (2-5%), or tooth decay underneath (1-2%).
 
 Chips and fractures are unusual with ceramic veneers because they're designed for anterior (front) teeth that don't experience as much chewing force as back teeth. Real-world damage usually requires significant impact or trauma.
 
@@ -84,7 +84,7 @@ Your dentist will recommend the best option based on your tooth structure, the s
 
 If you have very discolored teeth (from tetracycline staining or fluorosis), you may need slightly thicker veneers with more opaque material to adequately cover the discoloration. Your dentist will discuss this during your consultation.
 
-If you grind your teeth at night, this doesn't rule out veneers, but your dentist will recommend a nightguard to protect them. Veneers can chip from grinding, though it's uncommon with proper protection.
+If you grind your teeth at night, this doesn't rule out it, but your dentist will recommend a nightguard to protect them. Veneers can chip from grinding, though it's uncommon with proper protection.
 
 ## Real Examples
 

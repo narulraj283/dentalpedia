@@ -72,6 +72,12 @@ Your orthodontist will discuss completion importance before starting. Some offic
 
 For more information, see [Understanding Braces Discomfort Relief for Better](/article/benefits-of-braces-discomfort-relief.html) and [Risk and Concerns with Teeth Alignment Alternatives](/article/risk-and-concerns-with-teeth-alignment-alternatives.html).
 
+Missing appointments or not wearing your retainer can add months to treatment. Teeth move slowly, and any gap in care means lost progress. Most patients who follow their plan closely finish on time or even early.
+
+Your orthodontist tracks your progress at each visit. If something feels off—a bracket is loose, a wire pokes your cheek, or your retainer feels tight—call the office right away. Small problems are easy to fix when caught early. Waiting can lead to bigger setbacks.
+
+Keeping your teeth clean during treatment matters more than usual. Food gets trapped around brackets and wires. Brush after every meal and use floss threaders or a water flosser to clean between teeth. Good hygiene prevents white spots and cavities that can delay your results. Your orthodontist may also suggest a special mouthwash to reduce bacteria around brackets. Using it daily adds an extra layer of protection for your teeth throughout treatment.
+
 ## Conclusion
 
 Treatment success depends on your compliance. Wear elastics consistently, follow diet rules, maintain excellent cleaning, and commit to lifelong retainers. Your orthodontist prescribes the plan, but you determine the outcome. Your daily choices matter more than your orthodontist's skill.

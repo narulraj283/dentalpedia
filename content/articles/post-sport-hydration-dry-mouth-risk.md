@@ -127,9 +127,7 @@ You can manage these risks effectively through smart choices: use water for work
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. You can manage these risks effectively through smart choices: use water for workouts under 60 minutes; consume sports drinks strategically during longer activities; rinse with water immediately post-exercise; use fluoride rinses or sugarless gum to support your teeth; and maintain regular professional dental care that specifically addresses athletic dry mouth and erosion risk. Athletes who address these issues proactively maintain healthy smiles throughout their athletic careers rather than facing major restoration needs later.
 
 > **Key Takeaway:** Endurance athletes experience significantly higher rates of dry mouth and tooth erosion due to the combination of dehydration, mouth breathing, and sports drink consumption. By understanding these risks and implementing protective strategies—prioritizing water hydration for shorter workouts, using sports drinks strategically for endurance activities, rinsing with water immediately after exercise, and maintaining professional fluoride treatments—you can preserve your teeth throughout your athletic career. The goal isn't to stop training hard; it's to train smart while protecting your oral health.
 

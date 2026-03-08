@@ -22,7 +22,7 @@ references:
 ---
 ## Why Your Tooth Needs Support After Root Canal
 
-After root canal treatment, your tooth is more fragile. Learning more about endodontic therapy complete tooth canal treatment can help you understand this better. The nerve and blood vessels that kept the tooth healthy have been removed, and the tooth loses some of its strength.
+After root canal treatment, your tooth is more fragile. Learning more about endodontic therapy complete it canal treatment can help you understand this better. The nerve and blood vessels that kept the tooth healthy have been removed, and the tooth loses some of its strength.
 
 Think of it like a log that's been hollowed out—it's more likely to split and break. That's why nearly all root canal teeth eventually need a crown. Before placing that crown, your dentist needs to rebuild enough tooth structure to support it properly.
 
@@ -60,7 +60,7 @@ After your crown is placed, continue good oral hygiene. Brush twice daily with a
 
 ## What If There Isn't Enough Tooth Left?
 
-Sometimes a tooth is so damaged that there's very little natural structure remaining. In these situations, your dentist might recommend additional strengthening, such as:
+Sometimes a the affected area is so damaged that there's very little natural structure remaining. In these situations, your dentist might recommend additional strengthening, such as:
 
 - Using a post to anchor the buildup more securely
 - Building the core higher to create more crown-supporting structure
@@ -70,7 +70,7 @@ Your dentist will discuss these options with you if your tooth is severely damag
 
 ## The Importance of the "Ferrule"
 
-One critical part of successful buildup is creating what's called a ferrule—basically, a band of natural tooth structure above the gum line that the crown will grip onto. If there's only gum-covered tooth below, the crown doesn't have good support. If there's natural tooth structure above the gum that the crown can wrap around, the tooth lasts much longer.
+One critical part of successful buildup is creating what's called a ferrule—basically, a band of natural it structure above the gum line that the crown will grip onto. If there's only gum-covered tooth below, the crown doesn't have good support. If there's natural tooth structure above the gum that the crown can wrap around, the tooth lasts much longer.
 
 Your dentist will try to position the buildup and plan the crown to maximize this ferrule effect. Sometimes this means slightly extending the buildup taller than the original tooth, creating more natural tooth "collar" for the crown to grip.
 

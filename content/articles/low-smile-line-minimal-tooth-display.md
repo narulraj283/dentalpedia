@@ -48,7 +48,7 @@ Most of these factors are genetic and determined during your growth and developm
 
 The easiest approach is making your teeth look better even if you're showing fewer of them. Professional teeth whitening dramatically enhances any smile by making teeth more radiant. When your teeth are significantly whiter, they appear more prominent and noticeable in your smile even if you're not showing more surface area. Learning more about [Cosmetic Dentistry for Aged Teeth Age Related Changes](/article/cosmetic-dentistry-for-aged-teeth-age-related-changes.html) can help you understand this better. Many people with low smile lines find that teeth whitening alone makes them happier with their smile.
 
-Cosmetic bonding or veneers can also help. Making your front teeth slightly wider or changing their shape can enhance the appearance of what is visible. Even modest changes to the visible teeth create a more appealing smile. Some cosmetic dentists are expert at maximizing smile appeal in people with lower tooth display through strategic tooth reshaping and restoration.
+Cosmetic bonding or veneers can also help. Making your front teeth slightly wider or changing their shape can enhance the appearance of what is visible. Even modest changes to the visible teeth create a more appealing this. Some cosmetic dentists are expert at maximizing smile appeal in people with lower tooth display through strategic tooth reshaping and restoration.
 
 ## Gum Contouring for Short Teeth
 
@@ -84,12 +84,11 @@ Discuss with your cosmetic dentist what combination of approaches would work bes
 
 Sometimes the best treatment is accepting your natural smile. Many people discover that after focusing on making their teeth beautiful—through whitening, bonding, and restoration—their smile looks great regardless of how many teeth show. Confidence in your smile matters more than percentages of visible tooth.
 
-If your low smile line bothers you significantly, pursue treatment. If you're relatively happy with your smile already, there's no obligation to change it. Smile confidence comes from accepting yourself and maintaining your oral health.
+If your low smile line bothers you significantly, pursue treatment. If you're relatively happy with your smile already, there's no obligation to change it. It confidence comes from accepting yourself and maintaining your oral health.
 
 ## Conclusion
 
 Low smile lines represent multifactorial esthetic concerns with diverse etiologies ranging from genetic lip morphology through skeletal vertical relationships to local dental factors. If you have questions, your dentist can help you understand your options. Cosmetic solutions include teeth whitening, bonding, veneers, and gum contouring to enhance what's visible. More advanced options include orthodontics or jaw surgery for people where jaw position is the primary issue. Work with a cosmetic dentist to determine what's achievable for your specific anatomy.
-
 
 
 > **Key Takeaway:** A low smile line means your teeth don't show much when you smile. Learn your options for enhancing your smile and showing more teeth.

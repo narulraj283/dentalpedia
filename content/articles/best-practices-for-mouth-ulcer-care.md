@@ -134,7 +134,6 @@ Related reading: [Cavity Formation Process: What You Need to Know](/article/cavi
 Recurrent aphthous ulcers affect 15-25% of the population with variable severity. Minor ulcers (80-90% of cases) heal spontaneously in 7-14 days and benefit from topical corticosteroid therapy reducing pain by 60-80%. If you have questions, your dentist can help you understand your options. They can show up once a year or multiple times a month, depending on the person.
 
 
-
 > **Key Takeaway:** About 1 in 5-6 people get painful mouth ulcers. They can show up once a year or multiple times a month, depending on the person.
 
 ## Related Articles

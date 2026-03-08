@@ -92,7 +92,6 @@ Related reading: [Clear Aligners vs. Traditional Braces - What You](/article/ris
 Orthodontic treatment duration fundamentally reflects the amount of tooth movement required and the biological rate at which periodontal ligament remodeling can occur under sustained force. Evidence supports treatment timelines of 24-30 months as realistic for most comprehensive orthodontic cases. If you have questions, your dentist can help you understand your options. Talk to your dentist about what options work best for your situation.
 
 
-
 > **Key Takeaway:** The truth is, some people finish braces in 18 months and some people take 36 months or even longer. It's not one-size-fits-all.
 
 ## Related Articles

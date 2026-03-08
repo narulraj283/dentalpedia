@@ -92,7 +92,6 @@ Bone healing is much slower than surface healing. New bone starts forming within
 **Soft food only**: Eat soft, cool foods for the first 2-3 weeks. Avoid hot foods because heat increases bleeding. Talk to your dentist about how this applies to your situation. Most surface healing happens within 2-4 weeks, but complete bone maturation takes 3-6 months. Following post-operative care instructions speeds recovery and prevents complications.
 
 
-
 > **Key Takeaway:** Understand the healing process after tooth extraction and how to care for your wound to heal fast.
 
 ## Related Articles

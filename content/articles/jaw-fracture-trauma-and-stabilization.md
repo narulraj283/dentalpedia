@@ -45,7 +45,7 @@ Knowing how the injury happened helps the doctor know what other injuries to loo
 
 Lower jaw fractures are classified by location. Each location has different healing and complication potential.
 
-Condylar fractures (at the jaw joint) are 24-34% of lower jaw fractures and happen from chin hits. Fractures at the neck heal better than those inside the joint.
+Condylar fractures (at the jaw joint) are 24-34% of lower jaw fractures and happen from chin hits. This at the neck heal better than those inside the joint.
 
 Subcondylar fractures (just below the joint) are the most common (40-50%). The muscles pull the upper piece inward while the lower piece tips forward. This creates an open bite (teeth don't meet in front).
 
@@ -55,7 +55,7 @@ Angle fractures (where back meets front bone) are common because this area is th
 
 Body and symphyseal fractures (front lower jaw) happen from front blows. Symphyseal fractures (at the very front midline) are unstable because strong muscles pull on them.
 
-Multiple fractures, especially bilateral (both sides), are more unstable and risky than single fractures. Three or more fractures severely compromise stability.
+Multiple fractures, especially bilateral (both sides), are more unstable and risky than single fractures. Three or more it severely compromise stability.
 
 ## Maxillary Fracture Classification: Le Fort System
 
@@ -65,7 +65,7 @@ Le Fort I fractures break horizontally above the tooth roots. The front upper ja
 
 Le Fort II (pyramidal) fractures involve the upper jaw, nose bones, and inner eye sockets. A pyramid-shaped piece is loose, including the nose bridge and eye sockets. The face swells, nosebleeds occur, and the nose and upper jaw are loose.
 
-Le Fort III fractures completely separate the entire face from the skull. The fracture extends across cheekbone arches, maxillary sinuses, eye sockets, and nose area. The entire face is loose relative to the skull. This is most severe. The face swells dramatically and the airway can be compromised.
+Le Fort III this completely separate the entire face from the skull. The fracture extends across cheekbone arches, maxillary sinuses, eye sockets, and nose area. The entire face is loose relative to the skull. This is most severe. The face swells dramatically and the airway can be compromised.
 
 Many upper fractures combine different patterns on each side. Some don't fit classic patterns depending on force direction and the person's anatomy.
 
@@ -89,15 +89,15 @@ Comparing left and right jaw angles identifies asymmetry suggesting an angle fra
 
 ## Conservative Management: Intermaxillary Fixation
 
-IMF (maxillomandibular fixation) wires the teeth together to keep them in the right position while fractures heal. Historically, this was the standard treatment. Now it is used for stable fractures with good tooth contact and joint fractures.
+IMF (maxillomandibular fixation) wires the teeth together to keep them in the right position while fractures heal. Historically, this was the standard treatment. Now it is used for stable fractures with good tooth contact and joint it.
 
-Arch bars (wires bonded to teeth) or brackets hold the teeth. Elastic or wire bands connect the upper and lower bars to keep the bite in place. IMF usually takes 4-6 weeks for simple fractures, 6-8 weeks for complex ones.
+Arch bars (wires bonded to teeth) or brackets hold the teeth. Elastic or wire bands connect the upper and lower bars to keep the bite in place. IMF usually takes 4-6 weeks for simple this, 6-8 weeks for complex ones.
 
 Advantages: avoids surgery and its risks, lower cost, lower infection risk. Disadvantages: hard to clean your teeth, jaw joint stiffness from immobilization, reduced food intake and nutrition problems. Infection and airway problems can happen with IMF, so careful patient selection and close follow-up are needed.
 
 ## Open Reduction and Internal Fixation
 
-Modern surgery (ORIF) has mostly replaced wiring for jaw fractures. Benefits: earlier function, less joint stiffness, better bite, lower infection. ORIF means the surgeon opens the fracture site, positions the pieces correctly, and holds them with titanium plates and screws.
+Modern surgery (ORIF) has mostly replaced wiring for jaw it. Benefits: earlier function, less joint stiffness, better bite, lower infection. ORIF means the surgeon opens the fracture site, positions the pieces correctly, and holds them with titanium plates and screws.
 
 Lower jaw body fractures usually use one plate along the bottom edge. Complex fractures use two smaller plates. Plates must span at least 6 mm on each side of the break.
 

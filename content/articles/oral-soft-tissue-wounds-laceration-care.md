@@ -86,9 +86,7 @@ For injuries at night or weekends when your regular dentist isn't available, man
 
 ## Conclusion
 
-The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. For injuries at night or weekends when your regular dentist isn't available, many communities have emergency dental services or hospital emergency departments that can provide initial assessment and treatment.
 
 > **Key Takeaway:** Most mouth injuries heal quickly due to your mouth's excellent blood supply. Apply firm pressure to stop bleeding, rinse gently to clean the wound, and watch for infection signs. Stitches may help with deeper wounds or those involving the lip. Call your dentist if bleeding won't stop, if you're concerned about healing, or if signs of infection develop.
 

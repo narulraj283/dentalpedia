@@ -112,7 +112,7 @@ Enamel hardness decreases 5-10% during whitening but returns to normal within 3-
 
 ## Sensitivity Prevention
 
-Bleaching causes sensitivity (usually sharp, localized pain) in 20-25% of people using continuous whitening because the bleach penetrates through enamel to your tooth's nerve. You can minimize this:
+Bleaching causes soreness (usually sharp, localized pain) in 20-25% of people using continuous whitening because the bleach penetrates through enamel to your tooth's nerve. You can minimize this:
 
 **Before whitening:**
 - Apply potassium nitrate 5% to your teeth 3 days before bleaching (reduces nerve irritation)
@@ -145,12 +145,12 @@ To slow rebound:
 
 ## What About Your Fillings and Crowns?
 
-Here's an important limitation: bleaching doesn't change the color of dental restorations. If you have composite fillings or crowns on your front teeth, bleaching your natural teeth will make those restorations look darker by comparison.
+Here's an important limitation: bleaching doesn't change the color of dental repairs. If you have composite fillings or crowns on your front teeth, bleaching your natural teeth will make those repairs look darker by comparison.
 
 Plan your treatment this way:
 1. Whiten your natural teeth
 2. Wait 1-2 weeks for color to stabilize
-3. Replace restorations to match your new tooth color
+3. Replace repairs to match your new tooth color
 
 This avoids the frustration of mismatched colors.
 
@@ -182,8 +182,7 @@ Related reading: [Smile Consultation and Treatment Planning](/article/smile-cons
 
 ## Conclusion
 
-Bleach cycling protocols optimize tooth color improvement through iterative 2-4 week active treatment phases separated by washout periods, achieving 8-12 shade tab improvement over 12-16 weeks while minimizing enamel damage and sensitivity. If you have questions, your dentist can help you understand your options.
-
+Bleach cycling protocols optimize tooth color improvement through iterative 2-4 week active treatment phases separated by washout periods, achieving 8-12 shade tab improvement over 12-16 weeks while minimizing enamel damage and soreness. If you have questions, your dentist can help you understand your options.
 
 
 > **Key Takeaway:** Tooth whitening is the #1 cosmetic dental procedure requested today, with demand increasing 50% over the last decade.

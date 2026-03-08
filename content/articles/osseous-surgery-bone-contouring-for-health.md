@@ -19,13 +19,13 @@ references:
 
 If you have advanced gum disease, your dentist might recommend osseous surgery—surgical bone contouring to reshape the bone supporting your teeth. Deep cleaning (scaling and root planing) works well for moderate gum disease, but some cases need surgical help to truly arrest the disease and save your teeth.
 
-Gum disease creates bone defects around teeth—the bone supporting your teeth erodes because bacteria and inflammation destroy it. These defects create problems: deep pockets trap bacteria and food debris, pockets continue deepening, and infection worsens. Surgical bone contouring eliminates these defects, creating bone architecture that lets your immune system win the battle against infection.
+Gum disease creates bone defects around teeth—the bone supporting your teeth erodes because bacteria and inflammation destroy it. These defects create problems: deep pockets trap bacteria and food debris, pockets continue deepening, and infection worsens. Surgical tissue contouring eliminates these defects, creating bone architecture that lets your immune system win the battle against infection.
 
 ## How Gum Disease Creates Bone Problems
 
-When bacteria colonize your gum pockets (areas between your tooth and gum), your immune system fights back with inflammation. This inflammation, while necessary for fighting bacteria, unfortunately also damages the bone supporting your teeth. As bone erodes, pockets deepen, bacteria migrate deeper, and the cycle worsens.
+When bacteria colonize your gum pockets (areas between your tooth and gum), your immune system fights back with inflammation. This inflammation, while necessary for fighting bacteria, unfortunately also damages the the structure supporting your teeth. As bone erodes, pockets deepen, bacteria migrate deeper, and the cycle worsens.
 
-Some bone loss patterns are particularly problematic: angular defects where bone is deeper on one side of the tooth than the other; horizontal bone loss reducing overall height; furcation defects affecting the roots where they divide. These defective patterns create "negative architecture"—bone arrangement that traps bacteria and resists healing.
+Some it loss patterns are particularly problematic: angular defects where bone is deeper on one side of the tooth than the other; horizontal bone loss reducing overall height; furcation defects affecting the roots where they divide. These defective patterns create "negative architecture"—bone arrangement that traps bacteria and resists healing.
 
 ## How Osseous Surgery Helps
 
@@ -36,7 +36,7 @@ The surgery involves:
 2. Carefully removing bone that creates problematic pockets
 3.
 
-Smoothing and contouring bone to create healthy slopes and surfaces
+Smoothing and contouring the area to create healthy slopes and surfaces
 4. Replacing the gum tissue and suturing
 5. Allowing 3-6 months for bone healing and tissue remodeling
 
@@ -65,7 +65,7 @@ After surgery:
 
 **Months 3-6:** Bone and gum tissue mature. The recession you'll have long-term becomes apparent by month 3-4, though subtle changes continue.
 
-**Months 6+:** Complete healing occurs. Bone has remodeled to mature lamellar (dense) bone. Gum tissue and bone achieve stable relationship.
+**Months 6+:** Complete healing occurs. Bone has remodeled to mature lamellar (dense) bone. Gum tissue and tissue achieve stable relationship.
 
 ## What Comes After Surgery
 

@@ -26,31 +26,33 @@ Bleeding gums affect nearly half of adults. In most cases, it's a sign of early 
 
 ## What Causes Bleeding Gums
 
-**Bacteria buildup** (plaque): When you skip flossing or don't brush well, bacteria accumulate on teeth. Your immune system responds with inflammation. Gums swell and bleed easily.
+**Bacteria buildup** (plaque): When you skip flossing or don't brush well, bacteria pile up on teeth. Your body reacts with inflammation (swelling and redness). Gums swell and bleed easily.
 
-**Gum disease**: If bacteria persist, your gums become infected (gingivitis or periodontitis). Infection causes bleeding.
+**Gum disease**: If bacteria stay, your gums become infected. This is called gingivitis (mild gum disease) or periodontitis (advanced gum disease). Infection causes bleeding.
 
 **Poor oral hygiene**: The #1 cause
 
-**Medications**: Some blood pressure medications and immune suppressants cause bleeding gums as a side effect
+**Medications**: Some blood pressure and immune medications cause bleeding gums as a side effect
 
-**Hormonal changes**: Pregnancy, birth control, hormonal shifts increase gum bleeding
+**Hormonal changes**: Pregnancy, birth control, and hormonal shifts increase gum bleeding
 
-**Smoking**: Dramatically increases gum disease risk
+**Smoking**: Greatly increases gum disease risk
 
-**Vitamin deficiencies**: Rare, but vitamin C and K deficiencies impair clotting
+**Vitamin deficiencies**: Rare, but vitamin C and K deficiencies (lack of these vitamins) affect clotting (your blood's ability to stop bleeding)
 
 ## Diagnosis and Cost
 
 **Visual exam by your dentist**: $0 (included in regular visit)
 
 **Diagnostic testing** (if needed): $50-$100
-- Gum probing measurements
-- Possible X-rays to assess bone loss You may also want to read about [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html).
+- Gum probing measurements (measuring pocket depth in your gums)
+- Possible X-rays to check bone loss
+
+You may also want to read about [Periodontal Disease and Tooth Loss Prevention](/article/periodontal-disease-and-tooth-loss-prevention.html).
 
 **Total diagnosis cost**: $0-$100
 
-Early diagnosis saves thousands, so don't delay mentioning bleeding to your dentist.
+Early diagnosis saves thousands of dollars. Don't delay telling your dentist about bleeding gums.
 
 ## Treatment by Severity
 
@@ -78,40 +80,40 @@ Early diagnosis saves thousands, so don't delay mentioning bleeding to your dent
 
 ### Moderate Gingivitis
 
-**Signs**: Gums bleed and are noticeably red/swollen. Possible bad breath.
+**Signs**: Gums bleed and look red or swollen. Bad breath is possible.
 
-**Treatment**: Professional cleaning + improved home care
+**Treatment**: Professional cleaning plus better home care
 
-**Scaling and Root Planing (SRP)** ($200-$400 per quadrant, usually $600-$1,600 full mouth):
-- Local anesthesia numbs gums
-- Special tools remove plaque and tartar below gum line
-- Usually requires 2-4 visits
+**Scaling and Root Planing (SRP)** ($200-$400 per section, usually $600-$1,600 for full mouth):
+- Local anesthesia (numbing medicine) numbs gums
+- Special tools remove plaque and tartar below the gum line
+- Usually needs 2-4 visits
 - Takes 4-8 weeks to see full improvement
 
 **Plus**:
-- Improved home care (described above)
+- Better home care (described above)
 - Possible prescription rinse ($10-$20/month for 4 weeks)
 
-**Total cost**: $600-$1,600 + possible $40-$80 for rinse
+**Total cost**: $600-$1,600 plus possible $40-$80 for rinse
 
 **Results**: 70-80% improvement for moderate cases
 
-**Insurance**: Usually covered at 50-75% (considered periodontal treatment)
+**Insurance**: Usually covered at 50-75% (counted as periodontal treatment)
 
 ### Advanced Periodontitis
 
-**Signs**: Gums very swollen, bleeding, possible pus, loose teeth, deeper pockets when measured
+**Signs**: Gums very swollen, bleeding, possible pus (infection), loose teeth, deeper pockets when measured
 
-**Treatment**: More aggressive intervention needed
+**Treatment**: More intensive intervention (treatment) needed
 
 **What's needed**:
 - SRP as above ($600-$1,600)
-- Extended professional antimicrobial therapy ($50-$100 monthly)
+- Extended professional antimicrobial therapy (bacteria-killing treatment): ($50-$100 monthly)
 - Possible antibiotics ($200-$500)
 - Possible surgical therapy ($1,500-$3,000 if non-surgical approaches fail)
 - Regular periodontal maintenance ($300-$400 quarterly indefinitely)
 
-**Total cost**: $1,000-$5,000+ over first year, then $1,200-$1,600 annually
+**Total cost**: $1,000-$5,000+ over first year, then $1,200-$1,600 yearly
 
 **Results without treatment**: 30-50% of advanced cases lose teeth without professional intervention
 
@@ -119,37 +121,39 @@ Early diagnosis saves thousands, so don't delay mentioning bleeding to your dent
 
 **Electric toothbrush**: $50-$200
 - 15-25% better plaque removal
-- Helps with bleeding reduction
-- Worth it for persistent bleeding
+- Helps reduce bleeding
+- Worth it for ongoing bleeding
 
 **Water flosser** (Waterpik): $40-$100
-- Removes biofilm where regular floss can't reach
-- Helpful if you can't floss well
-- Superior for implants and bridges
+- Removes biofilm (sticky bacteria layer) where regular floss can't reach
+- Helpful if you struggle with regular flossing
+- Works well for implants and bridges
 
 **Interdental brushes**: $5-$15
 - Designed for spaces between teeth
-- Very effective for gum disease prevention You may also want to read about [Timeline for Gum Disease Stages](/article/timeline-for-gum-disease-stages.html).
+- Very effective for gum disease prevention
+
+You may also want to read about [Timeline for Gum Disease Stages](/article/timeline-for-gum-disease-stages.html).
 
 **Antimicrobial rinse** (chlorhexidine): $10-$20/month
-- Temporary aid during active treatment
-- Use only 2-4 weeks (longer causes staining)
-- Not permanent solution
+- Temporary help during active treatment
+- Use only 2-4 weeks (longer use causes staining)
+- Not a permanent fix
 
-**Cost of home care improvement**: $50-$200 total investment, prevents expensive treatment
+**Cost of home care improvement**: $50-$200 total investment. This prevents expensive treatment.
 
 ## Systemic Treatment
 
 **Prescription rinses**: $10-$20/month
 - Used during active treatment
-- Reduces bacteria 30-50%
-- Aids professional treatment
+- Reduces bacteria by 30-50%
+- Helps professional treatment work better
 
-**Antibiotics**: $200-$500 for course
-- Used for aggressive/resistant gum disease
-- Short-term solution; must combine with mechanical removal
+**Antibiotics**: $200-$500 per course (treatment period)
+- Used for aggressive or resistant gum disease
+- Short-term solution; must combine with mechanical (physical) removal
 
-**Do not**: Self-treat with antibiotics. Must be prescribed and monitored.
+**Do not**: Self-treat with antibiotics. Your doctor must prescribe and monitor them.
 
 ## Maintenance and Prevention
 

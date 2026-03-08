@@ -165,7 +165,6 @@ Related reading: [Gingival Retraction: Creating Crown Space](/article/gingival-r
 Accidental oral soft tissue injuries from biting commonly resolve through conservative home management including hemostasis, topical antimicrobial care, pain management, and supportive nutrition. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** It's embarrassing and painful, but it's also incredibly common.
 
 ## Related Articles

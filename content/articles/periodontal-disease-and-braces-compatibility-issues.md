@@ -110,9 +110,7 @@ After your braces come off, you'll need excellent retainer wear and ongoing peri
 
 ## Conclusion
 
-... The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Orthodontic treatment in periodontally compromised patients remains clinically feasible when rigorous case selection, force reduction protocols, enhanced monitoring, and meticulous maintenance procedures are implemented. Successful outcomes demand multidisciplinary collaboration between orthodontists and periodontists, comprehensive baseline assessment, and individualized treatment planning acknowledging reduced bone support limitations. Extended treatment timelines and modified mechanical approaches represent acceptable compromises enabling functional and esthetic improvements while preserving remaining periodontal support for long-term tooth stability and retention.
 
 > **Key Takeaway:** If you have gum disease with bone loss, you can still straighten your teeth with braces, but it requires teamwork between your orthodontist and periodontist, modified gentler forces, more frequent monitoring, scrupulous oral hygiene, and extended treatment time. By accepting these modifications and committing to them, you can achieve the straight smile you want while protecting your remaining bone support. The success of modified orthodontic treatment in compromised patients demonstrates that with proper precautions, you don't have to choose between straight teeth and tooth stability.
 

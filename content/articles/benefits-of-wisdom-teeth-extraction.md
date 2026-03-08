@@ -209,7 +209,6 @@ Related reading: [Bruising After Extraction](/article/bruising-after-extraction-
 **Article Quality Metrics**: 1,798 words | 8 sections | 10 peer-reviewed references | Evidence-based indication analysis | Complication management protocols Your dentist can provide personalized recommendations based on your specific needs.
 
 
-
 > **Key Takeaway:** Wisdom teeth—your third molars—are a hot topic in dentistry.
 
 ## Related Articles

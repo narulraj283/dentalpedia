@@ -147,8 +147,7 @@ Some states have regional cleft networks that help coordinate care even when pat
 
 ## Conclusion
 
-Whether you're just learning about cleft team: coordinated specialists for your child's care or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Some states have regional cleft networks that help coordinate care even when patients must travel. The American Cleft Palate-Craniofacial Association can help you find the nearest certified team.
 
 > **Key Takeaway:** Treating cleft palate isn't a one-specialist job. Over 15-20 years, your child will need surgery, orthodontics, speech therapy, hearing management,.
 

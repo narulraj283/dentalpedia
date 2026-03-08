@@ -36,11 +36,11 @@ references:
 
 During intense competition, your brain activates motor patterns that couple your jaw with your whole-body effort. Your jaw muscles receive excitatory signals at the same time as your limb and trunk muscles during high-intensity effort. This is an ancient evolutionary pattern—your ancestors used jaw clenching for defensive positioning during physical exertion.
 
-Modern athletes don't need this defense, but the neuromotor pattern persists. Learn more about [Teeth Grinding in Athletes](/article/teeth-grinding-in-athletes-stress-factor.html) for additional guidance. Your central nervous system automatically activates jaw clenching during performance stress, particularly during explosive movements or maximum effort situations.
+Modern athletes don't need this defense, but the neuromotor pattern persists. Learn more about [Teeth Grinding in Athletes](/article/teeth-grinding-in-athletes-stress-factor.html) for additional guidance. Your central nervous system automatically activates jaw clenching during performance stress, especially during explosive movements or maximum effort situations.
 
 ## How Jaw Clenching Helps (And Hurts) Your Performance
 
-Interestingly, mild jaw clenching during maximal exertion does provide a marginal performance benefit through whole-body rigidity and core stabilization. When you clench, you increase spinal stability through core muscles, theoretically improving force transfer from lower body through core to upper body. Some research suggests this clenching improves deadlift, squat, and throwing performance by 3-5%.
+Interestingly, mild jaw clenching during maximal exertion does provide a marginal performance benefit through whole-body rigidity and core steadying. When you clench, you increase spinal stability through core muscles, theoretically improving force transfer from lower body through core to upper body. Some research suggests this clenching improves deadlift, squat, and throwing performance by 3-5%.
 
 The jaw clenching often accompanies the Valsalva maneuver (holding breath against a closed glottis) during maximal exertion. Learn more about [Sports Mouthguards for Young](/article/sports-mouthguards-for-young-athletes.html) for additional guidance. Combined jaw clenching and breath-holding creates abdominal pressure supporting lumbar spine, genuinely benefiting power athletes. This explains why athletes unconsciously perform this pattern.
 
@@ -94,27 +94,25 @@ Standard sports mouthguards provide impact protection but don't specifically add
 
 ## Long-Term Consequences Without Protection
 
-Athletes with untreated competition-era bruxism frequently develop extensive restorations, tooth loss, and TMJ arthrosis by age 40-50. Cumulative enamel wear and cusp fractures require progressive restoration: initially small composite restorations, then larger buildups, eventually crown coverage. Multiple tooth crowns in middle age often reflect career-time bruxism patterns.
+Athletes with untreated competition-era bruxism frequently develop extensive repairs, tooth loss, and TMJ arthrosis by age 40-50. Cumulative enamel wear and cusp fractures require progressive repair: initially small composite repairs, then larger buildups, eventually crown coverage. Multiple tooth crowns in middle age often reflect career-time bruxism patterns.
 
 Early recognition and mouthguard use during competitive careers prevents 70-80% of these age-related consequences.
 
 ## What to Expect During Your Visit
 
-Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This evaluation may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
+Your dentist will begin by examining your mouth and reviewing your dental history to understand your current situation. This check may include taking X-rays or digital images to get a complete picture of what is happening beneath the surface. Based on these findings, your dentist will explain the recommended treatment approach and walk you through each step of the process.
 
 During any procedure, your comfort is a top priority. Your dental team will make sure you understand what is happening and check in with you regularly. Modern dental techniques and anesthesia options mean that most patients experience minimal discomfort during and after treatment. If you feel anxious about any part of the process, let your dentist know so they can adjust their approach to help you feel more at ease.
 
 ## Tips for Long-Term Success
 
-Maintaining good results after dental treatment requires consistent care at home and regular professional check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
+Keeping good results after dental treatment requires consistent care at home and regular expert check-ups. Brushing twice daily with a fluoride toothpaste and flossing at least once a day forms the foundation of good oral hygiene. These simple habits go a long way toward protecting your investment in your dental health and preventing future problems.
 
-Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized recommendations can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
+Your dentist may recommend additional steps specific to your situation, such as using a special rinse, wearing a nightguard, or adjusting your diet. Following these personalized tips can make a significant difference in how well your results hold up over time. Scheduling regular dental visits allows your dentist to catch any developing issues early, when they are easiest and least expensive to address.
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding teeth grinding in competition: what athletes need to know helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Competition-related jaw clenching generates forces exceeding 1,000N through central nervous system integration of jaw muscles with whole-body motor patterns during high-intensity effort. Isometric clenching provides marginal performance benefit in power sports through core stabilization and Valsalva enhancement. However, forces 2-3 fold above enamel fracture thresholds cause enamel fractures, microscopic crack propagation, restoration failure, and TMJ overload. Custom-designed performance mouthguards with >3.5mm EVA thickness, posterior reinforcement, and optimal bite registration provide 70-80% force reduction.
 
 > **Key Takeaway:** Competition-related jaw clenching generates forces exceeding 1,000 newtons through central nervous system integration of jaw muscles with whole-body motor patterns during high-intensity effort. While mild clenching provides marginal performance benefit through core stabilization, forces far exceed these benefits and cause enamel fractures, microscopic crack propagation, restoration failure, and TMJ overload. Custom-designed performance mouthguards with greater than 3.5mm EVA thickness, posterior reinforcement, and optimal bite registration provide 70-80% force reduction. Comprehensive monitoring throughout athletic careers identifying wear progression enables timely intervention preventing TMJ dysfunction and extensive restorative needs in post-career decades.
 

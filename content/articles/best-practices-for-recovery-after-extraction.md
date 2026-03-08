@@ -136,7 +136,6 @@ Related reading: [Laser Dentistry Applications and Safety](/article/laser-dentis
 Get written post-operative instructions from your dentist—they know your specific situation. Follow them exactly. Talk to your dentist about how this applies to your situation.
 
 
-
 > **Key Takeaway:** Right after extraction, your goal is simple: control bleeding and let a clot form.
 
 ## Related Articles

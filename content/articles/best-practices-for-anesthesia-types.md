@@ -114,7 +114,6 @@ J Am Dent Assoc. 2011;142(1):34-42.
 5. American Society of Anesthesiologists. Talk to your dentist about how this applies to your situation.
 
 
-
 > **Key Takeaway:** Mastering anesthetic selection and administration techniques is fundamental to successful oral surgical outcomes and patient safety.
 
 ## Related Articles

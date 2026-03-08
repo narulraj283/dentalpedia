@@ -34,9 +34,9 @@ references:
 ---
 ## Introduction
 
-Occasionally during oral surgery, unexpected complications can happen—even with careful planning and the best surgical technique. The good news? Your surgeon is extensively trained to recognize and manage these situations safely and professionally.
+Occasionally during oral surgery, unexpected problems can happen—even with careful planning and the best surgical technique. The good news? Your surgeon is extensively trained to recognize and manage these situations safely and professionally.
 
-Most complications, like root fragments breaking during extraction or minor bleeding, are manageable and won't affect your long-term outcome. This guide explains what can happen during surgery, how your surgeon recognizes these issues quickly, and what options exist for treatment. Understanding these possibilities helps you feel confident knowing your surgical team is prepared for anything.
+Most problems, like root fragments breaking during extraction or minor bleeding, are manageable and won't affect your long-term outcome. This guide explains what can happen during surgery, how your surgeon recognizes these issues quickly, and what options exist for treatment. Understanding these possibilities helps you feel confident knowing your surgical team is prepared for anything.
 
 ## Root Fragments: When Part of a Root Breaks
 
@@ -46,9 +46,9 @@ When a root fragment breaks off, your surgeon has two main options: remove it or
 
 ## Tooth or Root Displacement: Finding a Missing Piece
 
-Occasionally during wisdom tooth removal, an entire root can slip into a nearby space in your jaw—like the area under your tongue or beside your jaw muscle. This happens in less than 3% of wisdom tooth surgery. When it happens, you'll feel a sudden loss of resistance, almost like the tooth just disappeared. Your surgeon immediately stops and checks where the tooth went using imaging.
+Occasionally during wisdom tooth removal, an entire root can slip into a nearby space in your jaw—like the area under your tongue or beside your jaw muscle. This happens in less than 3% of wisdom tooth surgery. When it happens, you'll feel a sudden loss of resistance, almost like the tooth just disappeared. Your surgeon right away stops and checks where the tooth went using imaging.
 
-If a tooth slips into the space under your tongue, it can cause swelling and must be found relatively quickly. Your surgeon will take a special X-ray or CT scan to locate it precisely, then decide whether to remove it immediately or monitor it closely with antibiotics and follow-up imaging. Most displaced teeth can be retrieved safely, though your surgeon may refer you to a specialist if it's deeply positioned. Fortunately, with prompt attention and proper antibiotics, these situations typically resolve well without serious complications.
+If a tooth slips into the space under your tongue, it can cause swelling and must be found relatively quickly. Your surgeon will take a special X-ray or CT scan to locate it precisely, then decide whether to remove it right away or monitor it closely with antibiotics and follow-up imaging. Most displaced teeth can be retrieved safely, though your surgeon may refer you to a specialist if it's deeply positioned. Fortunately, with prompt attention and proper antibiotics, these situations typically resolve well without serious problems.
 
 ## Managing Bleeding: When Bleeding Doesn't Stop Easily
 
@@ -58,13 +58,13 @@ For bleeding from the large blood vessels in your lower jaw, your surgeon uses g
 
 ## Instrument Breakage: A Rare Event
 
-During surgery, an instrument can occasionally break—this happens in less than 1% of procedures. If a small bur (the spinning cutting tip) breaks during high-speed cutting, your surgeon immediately stops rotation to prevent it from going deeper. Small fragments that are truly tiny (less than 1 millimeter) can sometimes be safely left behind with your informed consent, but larger pieces are removed using careful technique under magnification to avoid creating more damage.
+During surgery, an instrument can occasionally break—this happens in less than 1% of procedures. If a small bur (the spinning cutting tip) breaks during high-speed cutting, your surgeon right away stops rotation to prevent it from going deeper. Small fragments that are truly tiny (less than 1 millimeter) can sometimes be safely left behind with your informed consent, but larger pieces are removed using careful technique under magnification to avoid creating more damage.
 
-If a hand instrument like an elevator fractures, your surgeon will carefully inspect the area to find the fragment. Large pieces are removed to prevent complications, while very small pieces in accessible locations can sometimes be left with documentation. The key is that your surgeon handles this situation calmly and methodically, knowing that careful removal is safer than attempting aggressive extraction that could cause more damage. These situations are uncommon because surgeons use proper technique and avoid forcing instruments.
+If a hand instrument like an elevator fractures, your surgeon will carefully inspect the area to find the fragment. Large pieces are removed to prevent problems, while very small pieces in accessible locations can sometimes be left with documentation. The key is that your surgeon handles this situation calmly and methodically, knowing that careful removal is safer than attempting aggressive extraction that could cause more damage. These situations are uncommon because surgeons use proper technique and avoid forcing instruments.
 
 ## Soft Tissue Injuries: Protecting Your Gums and Mouth
 
-During flap elevation (when your surgeon gently lifts your gums to access bone), the soft tissue can occasionally be accidentally cut or lacerated. Small cuts (less than 2 millimeters) heal on their own without intervention, just like small mouth cuts do. Larger lacerations require careful stitching with specialized sutures placed just beneath the surface to minimize scarring and improve healing.
+During flap elevation (when your surgeon gently lifts your gums to access bone), the soft tissue can occasionally be accidentally cut or lacerated. Small cuts (less than 2 millimeters) heal on their own without treatment, just like small mouth cuts do. Larger lacerations require careful stitching with specialized sutures placed just beneath the surface to minimize scarring and improve healing.
 
 Sometimes when tissue is held back with a retractor for an extended time, it can experience reduced blood flow and become damaged. Your surgeon prevents this by periodically releasing the retractor every 10-15 minutes to let blood flow return to the tissues. If retraction injury does occur, management is supportive—gentle care and good oral hygiene help tissues recover over 2-3 weeks with minimal permanent consequences. Most patients heal beautifully even after these minor injuries.
 
@@ -78,16 +78,16 @@ You'll receive antibiotics to prevent sinus infection. Most perforations heal be
 
 ## When Complications Occur: Your Surgeon Is Prepared
 
-During surgery, your surgeon is trained to recognize these complications instantly and implement solutions. They have years of training, experience handling these situations, and access to special equipment like microscopes, ultrasonic instruments, and advanced imaging if needed. Most of these situations resolve without affecting your overall outcome or healing.
+During surgery, your surgeon is trained to recognize these problems instantly and implement solutions. They have years of training, experience handling these situations, and access to special equipment like microscopes, ultrasonic instruments, and advanced imaging if needed. Most of these situations resolve without affecting your overall outcome or healing.
 
-The key to managing intraoperative complications is recognizing them early and making thoughtful decisions about whether immediate intervention or conservative management is best. Your surgeon always considers your safety and long-term health, choosing the approach least likely to cause additional damage. If your surgeon encounters any complication, they'll discuss it with you during your postoperative visit and explain exactly what happened and how it was managed.
+The key to managing intraoperative problems is recognizing them early and making thoughtful decisions about whether immediate treatment or conservative management is best. Your surgeon always considers your safety and long-term health, choosing the approach least likely to cause additional damage. If your surgeon encounters any problem, they'll discuss it with you during your postoperative visit and explain exactly what happened and how it was managed.
 
 
 *Every patient's situation is unique—always consult your dentist before making treatment decisions.*
 
 ## Conclusion
 
-While intraoperative complications sound concerning, remember that most oral surgeons manage these situations regularly and skillfully. Your surgeon's primary goal is your safety and optimal healing, which sometimes means making judgment calls about small fragments or minor openings that don't require aggressive retrieval. Advanced training, proper technique, high-quality instruments, and careful anatomical knowledge all combine to minimize complication rates. When complications do occur, your surgeon's experience and quick thinking ensure you receive the best possible outcome. Understanding these possibilities helps you feel confident that your surgical team is prepared for any situation.
+While intraoperative problems sound concerning, remember that most oral surgeons manage these situations regularly and skillfully. Your surgeon's primary goal is your safety and optimal healing, which sometimes means making judgment calls about small fragments or minor openings that don't require aggressive retrieval. Advanced training, proper technique, high-quality instruments, and careful anatomical knowledge all combine to minimize problem rates. When problems do occur, your surgeon's experience and quick thinking ensure you receive the best possible outcome. Understanding these possibilities helps you feel confident that your surgical team is prepared for any situation.
 
 > **Key Takeaway:** Intraoperative complications are uncommon but manageable. Your surgeon is trained to recognize and address them quickly, often making conservative decisions that result in excellent long-term outcomes without unnecessary additional trauma to your tissues.
 

@@ -179,9 +179,7 @@ That's not placebo. That's evidence-based technique actually working.
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding why your brushing technique is costing you your gums helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Talk to your dentist about your specific situation and what approach works best for you. Your gums will feel different within days. Less bleeding, less inflammation, less sensitivity. In 3-4 months, you might notice your gums look healthier — less swollen, better color.
 
 > **Key Takeaway:** If you're brushing your teeth the way you learned as a kid—with horizontal back-and-forth scrubbing motions—you're actually damaging your gums and enamel. Talk to your dentist about which options work best for your unique situation, and don't hesitate to ask questions during your appointment.
 

@@ -84,9 +84,7 @@ Your dentist may recommend additional steps specific to your situation, such as 
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding smoking and dental implants - why quitting matters helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Smoking represents one of the most modifiable factors compromising dental implant success, with robust evidence demonstrating that smokers experience nearly doubled failure rates. These elevated failure rates reflect pathophysiological alterations in vascular function, bone cell biology, and immune response that can be substantially reversed through smoking cessation. Preoperative cessation of at least 2-4 weeks, ideally extended to 4-8 weeks or longer, combined with pharmacological cessation support and intensive patient counseling, represents the standard of care for smokers undergoing implant therapy. Patients who successfully maintain long-term smoking abstinence achieve implant outcomes approaching never-smokers, making smoking cessation one of the highest-yield interventions available to improve implant predictability and long-term success.
 
 > **Key Takeaway:** Smoking substantially reduces your chances of successful dental implant integration. If you're seriously considering getting an implant, quitting smoking—or at least reducing your smoking significantly—is one of the most important things you can do to improve your chances of success.
 

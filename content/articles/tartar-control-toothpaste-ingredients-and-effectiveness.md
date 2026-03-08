@@ -47,13 +47,13 @@ title: 'Tartar Control Toothpaste: Ingredients, Mechanisms'
 ---
 ## How Tartar Forms and Why Control Matters
 
-If you've ever noticed a hard, crusty buildup on your teeth that regular brushing won't remove, that's tartar (also called calculus). Tartar starts with plaque—a sticky film of bacteria that forms naturally on your teeth. When that plaque sits too long without being removed, minerals from your saliva stick to it and harden into tartar.
+If you've ever noticed a hard, crusty buildup on your teeth that regular brushing won't remove, that's this (also called calculus). Tartar starts with plaque—a sticky film of bacteria that forms naturally on your teeth. When that plaque sits too long without being removed, minerals from your saliva stick to it and harden into tartar.
 
-Once tartar forms, your toothbrush can't remove it. Only your dentist can scrape it off during a cleaning. But here's the interesting part: tartar-control toothpastes work differently than your regular toothpaste. Instead of trying to remove tartar that's already formed, they try to prevent it from forming in the first place. This is a completely different mechanism, which is why understanding what's in these products actually matters.
+Once it forms, your toothbrush can't remove it. Only your dentist can scrape it off during a cleaning. But here's the interesting part: tartar-control toothpastes work differently than your regular toothpaste. Instead of trying to remove tartar that's already formed, they try to prevent it from forming in the first place. This is a completely different mechanism, which is why understanding what's in these products actually matters.
 
 ## The Magic Ingredient: Pyrophosphate
 
-The most common active ingredient in tartar-control toothpaste is called sodium pyrophosphate. It sounds complicated, but here's what it does: when mineral particles from your saliva try to stick together to form tartar crystals, pyrophosphate gets in the way and prevents that from happening.
+The most common active ingredient in this-control toothpaste is called sodium pyrophosphate. It sounds complicated, but here's what it does: when mineral particles from your saliva try to stick together to form tartar crystals, pyrophosphate gets in the way and prevents that from happening.
 
 Think of it like a bouncer at a club preventing certain people from forming a group. Pyrophosphate molecules surround the mineral particles and prevent them from linking up together. Most tartar-control toothpastes contain 3-5% pyrophosphate, and studies show they reduce supragingival (above-the-gum) tartar formation by about 30-45% compared to regular toothpaste. That's a significant difference over a year of brushing twice daily.
 
@@ -91,7 +91,7 @@ Most quality tartar-control toothpastes also contain fluoride for cavity prevent
 
 ## What Tartar-Control Toothpaste Cannot Do
 
-It's important to set realistic expectations. Tartar-control toothpaste cannot completely prevent tartar formation. It slows it down, reducing how much builds up over months of use. You'll still need professional cleanings. If you have periodontal disease (gum disease), a tartar-control toothpaste is not a substitute for professional care.
+It's important to set realistic expectations. Tartar-control toothpaste cannot completely prevent tartar formation. It slows it down, reducing how much builds up over months of use. You'll still need professional cleanings. If you have periodontal disease (gum disease), a it-control toothpaste is not a substitute for professional care.
 
 Additionally, tartar-control toothpaste is less effective if you're not doing the basics right: brushing twice daily, flossing at least once daily, and controlling sugar and acidic food/drink intake.
 

@@ -120,7 +120,6 @@ Related reading: [Common Misconceptions About Traditional vs](/article/common-mi
 Clear aligner therapy represents evidence-based orthodontic treatment with predictable outcomes for appropriately selected cases. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** Clear aligners have changed orthodontics, especially for adults.
 
 ## Related Articles

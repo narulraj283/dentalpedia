@@ -32,11 +32,11 @@ references:
   - title: "Smoking effects on extraction socket healing and complication rates"
     url: "https://pubmed.ncbi.nlm.nih.gov/22278571/"
 ---
-Getting a tooth extracted is a quick office procedure—you're in and out in 30 minutes. But proper recovery is where the real work happens. Following post-extraction instructions isn't optional or overly cautious—it directly prevents pain, infection, and complications that can extend your recovery by weeks. Understanding what's happening in your mouth during recovery helps you know what's normal and when something requires professional attention.
+Getting a tooth extracted is a quick office procedure—you're in and out in 30 minutes. But proper recovery is where the real work happens. Following post-extraction instructions isn't optional or overly cautious—it directly prevents pain, infection, and problems that can extend your recovery by weeks. Understanding what's happening in your mouth during recovery helps you know what's normal and when something requires expert attention.
 
 ## The First 24 Hours: When Most Complications Happen
 
-Immediately after extraction, your body initiates healing. Learn more about [How to Anesthesia Types](/article/how-to-anesthesia-types.html) for additional guidance. The first 24 hours are critical.
+Right away after extraction, your body initiates healing. Learn more about [How to Anesthesia Types](/article/how-to-anesthesia-types.html) for additional guidance. The first 24 hours are critical.
 
 **Initial bleeding (0–30 minutes)**: Bleeding is normal and expected. Biting on gauze for 30–45 minutes with steady pressure controls it. Slight oozing for several hours is normal; bright blood continuing to soak gauze after 2–3 hours of pressure might indicate a clotting problem requiring evaluation.
 
@@ -74,7 +74,7 @@ Your dentist gave you specific instructions for good reasons:
 
 ## Dry Socket: The Common Complication
 
-Dry socket (alveolar osteitis) is the most common extraction complication, occurring in 2–5% of simple extractions and up to 10–40% of surgical extractions. Learn more about [Cosmetic Crown Lengthening Gummy](/article/cosmetic-crown-lengthening-gummy-smile-correction.html) for additional guidance.
+Dry socket (alveolar osteitis) is the most common extraction problem, occurring in 2–5% of simple extractions and up to 10–40% of surgical extractions. Learn more about [Cosmetic Crown Lengthening Gummy](/article/cosmetic-crown-lengthening-gummy-smile-correction.html) for additional guidance.
 
 **What it is**: The protective blood clot dissolves prematurely, exposing raw bone to oral fluids and bacteria. This causes severe pain (often out of proportion to what you'd expect) 3–5 days after extraction.
 
@@ -108,7 +108,7 @@ If you have symptoms suggesting infection, contact your dentist promptly.
 
 ## Smoking and Extraction Healing
 
-Smoking after extraction significantly compromises healing:
+Smoking after extraction much compromises healing:
 
 **Why it's damaging**: Nicotine constricts blood vessels (reducing oxygen delivery to healing tissues), carbon monoxide reduces tissue oxygen, and smoking increases fibrinolytic activity (clot breakdown), all of which impair healing and dramatically increase dry socket risk.
 
@@ -138,7 +138,7 @@ After extraction, your jaw bone gradually resorbs (shrinks). This matters if you
 
 ## Conclusion
 
-Proper extraction recovery requires following post-operative instructions carefully, managing pain effectively, and monitoring for complications. Most complications are preventable through proper technique and patient compliance. By understanding what's normal during healing and when something warrants professional attention, you support optimal recovery without unnecessary complications.
+Proper extraction recovery requires following post-operative instructions carefully, managing pain effectively, and monitoring for problems. Most problems are preventable through proper technique and patient compliance. By understanding what's normal during healing and when something warrants expert attention, you support optimal recovery without unnecessary problems.
 
 > **Key Takeaway:** Tooth extraction recovery requires careful post-operative care to prevent complications like dry socket and infection. Swelling and mild pain are expected for 3–7 days and are normal. Avoid rinsing, spitting, and smoking for 72+ hours; use ice to reduce swelling; and take ibuprofen for pain management. Dry socket (severe pain 3–5 days after extraction) occurs in 2–5% of extractions and is preventable through proper hemostasis and following instructions. Bone healing takes about 12 months, with significant resorption in the first 6 months, which matters if you're considering an implant later.
 

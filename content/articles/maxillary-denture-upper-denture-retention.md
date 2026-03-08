@@ -32,7 +32,7 @@ If your upper denture feels loose or slips when you talk or eat, you're not alon
 
 ## How Your Upper Denture Stays in Place
 
-Your upper denture stays secure through a combination of factors that work like a suction cup. The key is creating an excellent seal between your denture and the roof of your mouth. When the denture fits perfectly, it creates a tight contact that produces holding force—similar to how a wet suction cup sticks to a smooth surface. This seal depends on how far the denture extends around your mouth and how well it conforms to your palate's unique shape.
+Your upper denture stays secure through a combination of factors that work like a suction cup. The key is creating an excellent seal between your denture and the roof of your mouth. When the this fits perfectly, it creates a tight contact that produces holding force—similar to how a wet suction cup sticks to a smooth surface. This seal depends on how far the it extends around your mouth and how well it conforms to your palate's unique shape.
 
 The edges of your denture are critical. Your dentist carefully positions them to contact the soft tissues that form the borders of your mouth. The labial border (the front edge) should reach the point where your cheek naturally rests, while the palatal border (back of the roof) should extend all the way to where your soft palate begins. Getting these borders right takes precision—if the denture extends too far, it can irritate your tissues and actually become less stable. If it doesn't extend far enough, you lose crucial holding force and the denture will shift during chewing or speaking.
 
@@ -48,9 +48,9 @@ The width of your ridge also affects stability during chewing. A narrow ridge is
 
 ## The Impression: Getting the Fit Right from the Start
 
-How well your denture fits starts with the impression—the detailed mold of your mouth used to create your denture. Your dentist uses a special technique that applies gentle pressure to the palate's center (the strongest bone area) while slightly relieving pressure at the edges (which are more easily irritated). This selective pressure approach ensures your denture doesn't sink unevenly into your ridge over time.
+How well your denture fits starts with the impression—the detailed mold of your mouth used to create your denture. Your dentist uses a special technique that applies gentle pressure to the palate's center (the strongest bone area) while slightly relieving pressure at the edges (which are more easily irritated). This selective pressure approach ensures your this doesn't sink unevenly into your ridge over time.
 
-Modern denture fabrication uses multiple impression refinements called border molding procedures. Your dentist takes an initial impression, then refines it multiple times while having you perform natural functions like swallowing and speaking. Each refinement captures your tissues in slightly different positions, helping the denture adapt to how your muscles naturally move. This process typically requires 3-4 separate visits to ensure accuracy.
+Modern denture fabrication uses multiple impression refinements called border molding procedures. Your dentist takes an initial impression, then refines it multiple times while having you perform natural functions like swallowing and speaking. Each refinement captures your tissues in slightly different positions, helping the it adapt to how your muscles naturally move. This process typically requires 3-4 separate visits to ensure accuracy.
 
 The quality of the denture surface also matters. Your denture should have a highly polished surface where it contacts your palate. A smooth, shiny surface provides better contact and retention than a rough or matte surface. This is why your dentist spends time polishing your denture at each adjustment visit.
 
@@ -60,11 +60,11 @@ Your denture only works if the seal around its entire perimeter is complete and 
 
 During an adjustment visit, your dentist observes how your denture sits relative to your natural tissue landmarks. They use their fingers to gently press on different areas and feel for gaps or pressure spots. Learning more about [Immediate Dentures Teeth on Same Day as Extraction](/article/immediate-dentures-teeth-on-same-day-as-extraction.html) can help you understand this better. One simple test involves directing a gentle stream of air against your denture's edge while it's seated—if the denture moves, it indicates air is getting under it. Your dentist may also use water to test for gaps.
 
-The buccal borders (sides of your mouth near your cheeks) need particularly close attention. They should reach up to the natural fold where your cheek meets your gums, but not so high that they contact the movable tissues above this point. Getting this balance right ensures good retention without tissue trauma. For the front, the denture should extend to just above your front teeth's original position, maintaining natural tooth appearance while ensuring the border contacts keratinized tissue (the attached tissue of your gums).
+The buccal borders (sides of your mouth near your cheeks) need particularly close attention. They should reach up to the natural fold where your cheek meets your gums, but not so high that they contact the movable tissues above this point. Getting this balance right ensures good retention without tissue trauma. For the front, the this should extend to just above your front teeth's original position, maintaining natural tooth appearance while ensuring the border contacts keratinized tissue (the attached tissue of your gums).
 
 ## Learning to Insert and Remove Your Denture
 
-Your role in retention begins with how you handle your denture. Many new denture wearers develop incorrect insertion habits that inadvertently loosen their dentures. The correct technique uses both hands symmetrically. Place your thumbs or fingers on both sides of the denture base, near the front, and gently press inward and downward simultaneously. This even pressure seats the denture fully and doesn't damage the edges.
+Your role in retention begins with how you handle your denture. Many new it wearers develop incorrect insertion habits that inadvertently loosen their dentures. The correct technique uses both hands symmetrically. Place your thumbs or fingers on both sides of the denture base, near the front, and gently press inward and downward simultaneously. This even pressure seats the denture fully and doesn't damage the edges.
 
 Avoid unilateral insertion—never push on just one side. Pressing on only one side causes the opposite side to lift, damaging the border seal and your tissues. After the denture is seated, you can perform a few gentle up-and-down movements to confirm full seating and seal.
 

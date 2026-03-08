@@ -38,7 +38,7 @@ Finally, there's the consolidation phase where your new bone hardens and strengt
 
 Your body is incredibly smart about responding to pressure and stress. When your surgeon creates that controlled separation in your bone, special bone-building cells called osteoblasts wake up and get to work. These cells sense the gentle stretching and respond by laying down new bone material right in the gap. The stretching force needs to be just right—too much pressure prevents new bone from forming properly, while too little doesn't trigger your body's response.
 
-What makes bone distraction even better than bone grafting is that your own body creates the new bone. There's no risk of your body rejecting bone from another source, and the new bone integrates beautifully with your existing bone. Studies show that dental implants placed in bone created by distraction have success rates above 90%, which is higher than implants placed in grafted bone.
+What makes bone distraction even better than bone grafting is that your own body creates the new bone. There's no risk of your body rejecting bone from another source, and the new bone integrates beautifully with your existing bone. Studies show that dental implants placed in it created by distraction have success rates above 90%, which is higher than implants placed in grafted bone.
 
 ## Choosing Whether Distraction Is Right for You
 
@@ -68,13 +68,13 @@ The most serious (but rare) complication is if tissue other than bone fills the 
 
 ## Implants in Your New Bone
 
-Once your bone has finished growing and hardened over the 3-4 month consolidation period, you're ready for dental implants. The fantastic news is that implants placed in bone created by distraction have even higher success rates than implants in regular bone or grafted bone. Your new bone is strong, healthy, and ready to support your implants.
+Once your bone has finished growing and hardened over the 3-4 month consolidation period, you're ready for dental implants. The fantastic news is that implants placed in bone created by distraction have even higher success rates than implants in regular bone or grafted bone. Your new the area is strong, healthy, and ready to support your implants.
 
 Your surgeon will take new X-rays to confirm your bone is solid and dense enough. In some cases, you might be able to have implants placed right away. In other cases, your surgeon might suggest waiting a few more weeks to let your bone fully mature. After your implants are in, you'll follow the standard timeline—usually 3-4 months of healing, and then your dentist can place your crown or bridge on top.
 
 ## Distraction vs. Other Bone-Building Methods
 
-You might wonder why distraction is better than just grafting bone from somewhere else or using synthetic bone. The answer is that your body grows this bone on its own, so it's perfect for your mouth and never gets rejected. Distraction also creates extra gum tissue at the same time, giving you a healthier foundation for your teeth and better appearance. Plus, your implants work better in distraction-generated bone than in grafted bone.
+You might wonder why distraction is better than just grafting bone from somewhere else or using synthetic bone. The answer is that your body grows this bone on its own, so it's perfect for your mouth and never gets rejected. Distraction also creates extra gum tissue at the same time, giving you a healthier foundation for your teeth and better appearance. Plus, your implants work better in distraction-generated bone than in grafted tissue.
 
 The main tradeoff is that distraction takes longer—usually 4-6 months total compared to 2-3 months for grafting. But because the success rates are so much higher, many patients feel it's worth the extra wait. Talk to your surgeon about whether the longer timeline makes sense for your situation and goals.
 

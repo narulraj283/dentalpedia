@@ -109,7 +109,6 @@ Related reading: [Cost of Surgical Success Rates and Clinical Outcome](/article/
 Successful post-operative outcomes depend on patient adherence to evidence-based protocols during critical healing phases. If you have questions, your dentist can help you understand your options.
 
 
-
 > **Key Takeaway:** Bite on the Gauze: Right after surgery, you'll bite down on gauze for 30 to 45 minutes.
 
 ## Related Articles

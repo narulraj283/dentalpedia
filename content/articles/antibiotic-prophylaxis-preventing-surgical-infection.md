@@ -20,7 +20,7 @@ references:
   - "Roberts GJ. Dentists are just a white noise since the 2007 NICE guidelines. Br Dent J. 2012;213(1):2-3."
   - "Khan KS, et al. Antibiotic prophylaxis in dentistry: a systematic review and meta-analysis. J Dent Res. 2013;92(2):113-120."
 ---
-Antibiotic prophylaxis means taking antibiotics before dental procedures to stop infections. It helps protect vulnerable patients. Guidelines have changed a lot—doctors now use antibiotics only for people at highest risk instead of giving them to everyone. This guide explains who needs antibiotics, which procedures require them, what medications to take, and how to balance infection prevention with antibiotic resistance concerns.
+Antibiotic prophylaxis means taking antibiotics before dental procedures to stop infections. It helps protect vulnerable patients. Guidelines have changed a lot—doctors now use antibiotics only for people at highest risk instead of giving them to everyone. This guide explains who needs antibiotics, which procedures require them, what medicines to take, and how to balance infection prevention with antibiotic resistance concerns.
 
 Modern medicine has shifted toward "precision medicine." This means doctors target treatments to people who truly benefit instead of treating everyone the same. Modern dental practice protects high-risk patients while avoiding unnecessary antibiotic exposure. This helps prevent antibiotic resistance, which is a major public health concern.
 
@@ -38,7 +38,7 @@ The American Heart Association 2021 guidelines greatly narrowed who needs prophy
 
 **Procedures NOT requiring prophylaxis** include routine examination without tools, X-rays, braces placement/adjustment/removal (unless gums get injured), adjustment of removable appliances, topical fluoride application, sealant application, suture removal, and routine anesthesia (block injections, infiltrations, IV access).
 
-The key difference: prophylaxis prevents infection when procedures cause significant bleeding or tissue damage. Routine examination without tools rarely causes bacteria to enter the bloodstream in amounts that warrant prophylaxis.
+The key difference: prophylaxis prevents infection when procedures cause significant bleeding or tissue damage. Routine exam without tools rarely causes bacteria to enter the bloodstream in amounts that warrant prophylaxis.
 
 ## Understanding Bacteremia
 
@@ -56,11 +56,11 @@ High-risk patients have a different situation. Certain heart conditions create s
 
 **Immediate hypersensitivity** (anaphylaxis, hives, severe swelling, documented severe reaction) requires **clindamycin** 600 mg by mouth. This is unrelated to penicillins and works well. Alternatively, use **cefdinir** 300 mg by mouth if cephalosporin risk is low, or **moxifloxacin** 400 mg by mouth if other options aren't available.
 
-Medications work best on an empty stomach, though a little food is okay if needed. Timing is critical—take them 30-60 minutes before the procedure.
+Medicines work best on an empty stomach, though a little food is okay if needed. Timing is critical—take them 30-60 minutes before the procedure.
 
 ## Joint Replacement Prophylaxis: Changes in Recommendations
 
-The 2012 American Academy of Orthopedic Surgeons and 2021 American Dental Association guidelines **no longer routinely recommend** antibiotic prophylaxis for dental procedures in patients with joint replacements. This is a major shift from older recommendations that suggested giving antibiotics indefinitely.
+The 2012 American Academy of Orthopedic Surgeons and 2021 American Dental Association guidelines **no longer routinely recommend** antibiotic prophylaxis for dental procedures in patients with joint replacements. This is a major shift from older tips that suggested giving antibiotics indefinitely.
 
 **Current recommendations**: Prophylaxis is no longer recommended for patients without symptoms who have artificial joints, patients in the early post-replacement period, or patients getting routine dental work. Prophylaxis might be considered for patients with weak immune systems, severely compromised health, artificial joints placed less than 2 years ago (if the orthopedic surgeon recommends), or patients with infected joints.
 
@@ -68,7 +68,7 @@ The 2012 American Academy of Orthopedic Surgeons and 2021 American Dental Associ
 
 ## Infection Prevention Beyond Prophylaxis
 
-Multiple layers of protection work together to prevent infection—prophylaxis is just one piece of a comprehensive strategy:
+Multiple layers of protection work together to prevent infection—prophylaxis is just one piece of a full strategy:
 
 **Chlorhexidine rinse** (a 0.12% solution used for 2 minutes before surgery) reduces the number of bacteria in your mouth. This decreases the risk of surgical site infection. This simple rinse kills bacteria living in your mouth before the procedure even begins.
 
@@ -82,9 +82,9 @@ Multiple layers of protection work together to prevent infection—prophylaxis i
 
 ## Understanding Antibiotic Resistance
 
-Overprescription in dentistry contributes significantly to resistance. Dentists sometimes prescribe antibiotics for viral illnesses or minor inflammations that don't need them. Unnecessary prophylaxis in low-risk patients drives resistance. Before 2007, millions received unnecessary prophylaxis. Modern selective-risk-based approaches greatly reduce unnecessary exposure.
+Overprescription in dentistry contributes much to resistance. Dentists sometimes prescribe antibiotics for viral illnesses or minor inflammations that don't need them. Unnecessary prophylaxis in low-risk patients drives resistance. Before 2007, millions received unnecessary prophylaxis. Modern selective-risk-based approaches greatly reduce unnecessary exposure.
 
-Bacteria develop resistance in several ways. Antibiotics kill weak bacteria, leaving resistant ones to multiply. Resistance genes transfer between species. Bacteria produce enzymes that inactivate medications. MRSA (methicillin-resistant Staphylococcus aureus—a resistant bacteria) and other resistant organisms limit treatment options. These require stronger medications or longer courses.
+Bacteria develop resistance in several ways. Antibiotics kill weak bacteria, leaving resistant ones to multiply. Resistance genes transfer between species. Bacteria produce enzymes that inactivate medicines. MRSA (methicillin-resistant Staphylococcus aureus—a resistant bacteria) and other resistant organisms limit treatment options. These require stronger medicines or longer courses.
 
 Individual patient impact: Unnecessary antibiotics increase risk of side effects like allergic reactions and C. difficile infection (diarrhea from disrupted normal bacteria). They select resistant organisms in your mouth bacteria. They also contribute to community-wide resistance.
 
@@ -98,7 +98,7 @@ Individual patient impact: Unnecessary antibiotics increase risk of side effects
 
 ## How Resistance Affects You Personally
 
-When you take unnecessary antibiotics, bacteria in your mouth that survive become resistant. These resistant bacteria then become your normal mouth bacteria. If you later need antibiotics for a real infection, you're now colonized with resistant organisms that don't respond to standard treatment. Your infection becomes harder to treat. It requires stronger or longer-duration antibiotics, which increases side effects and complications.
+When you take unnecessary antibiotics, bacteria in your mouth that survive become resistant. These resistant bacteria then become your normal mouth bacteria. If you later need antibiotics for a real infection, you're now colonized with resistant organisms that don't respond to standard treatment. Your infection becomes harder to treat. It requires stronger or longer-duration antibiotics, which increases side effects and problems.
 
 This isn't theoretical—it happens to real patients. Someone with unnecessary dental prophylaxis gets colonized with resistant bacteria. Years later, they develop a tooth infection requiring antibiotics. But their mouth bacteria now includes resistant organisms. Treatment becomes more complicated.
 
@@ -122,8 +122,7 @@ Related reading: [Recovery After Tooth Extraction: What to Expect](/article/how-
 
 ## Conclusion
 
-Whether you're just learning about antibiotic prophylaxis: preventing surgical infection or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Ask your dentist if you truly need prophylaxis. If you're prescribed prophylactic antibiotics, take them exactly as directed. Evidence-based prophylaxis balances genuine infection prevention against unnecessary exposure contributing to resistance.
 
 > **Key Takeaway:** Antibiotic prophylaxis—taking antibiotics before dental procedures to prevent infection—protects vulnerable patients but creates complex.
 

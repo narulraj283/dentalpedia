@@ -18,19 +18,19 @@ references:
 ---
 ## What Is Orofacial Granulomatosis?
 
-Orofacial granulomatosis is a condition where your mouth and lip tissues become persistently swollen due to chronic inflammation. Your lips may become noticeably enlarged, your gums may be swollen and red, and the swelling can become disfiguring if severe. The inside of your mouth feels firm and thick rather than normal and soft. The swelling is usually painless unless secondary ulcers develop from the tissue becoming so swollen it breaks down.
+Orofacial granulomatosis is a condition where your mouth and lip tissues become persistently swollen due to chronic swelling. Your lips may become noticeably enlarged, your gums may be swollen and red, and the swelling can become disfiguring if severe. The inside of your mouth feels firm and thick rather than normal and soft. The swelling is usually painless unless secondary ulcers develop from the tissue becoming so swollen it breaks down.
 
 The condition can be isolated (affecting only your mouth) or part of a systemic disease like Crohn's disease (which also affects your digestive system). Some cases are caused by specific food allergens (most commonly cinnamon), while others remain idiopathic (cause unknown) despite extensive investigation.
 
 ## Melkersson-Rosenthal Syndrome: A Special Form
 
-Melkersson-Rosenthal syndrome is a related condition with a classic three-part presentation: recurrent lip swelling (usually temporary episodes with periods of improvement), facial nerve paralysis (facial weakness on one side), and fissured tongue (a pattern of cracks on your tongue surface). However, many people have only one or two of these features—the full triad is actually uncommon.
+Melkersson-Rosenthal syndrome is a related condition with a classic three-part presentation: recurrent lip swelling (usually temporary episodes with periods of improvement), facial nerve paralysis (facial weakness on one side). Fissured tongue (a pattern of cracks on your tongue surface). However, many people have only one or two of these features—the full triad is actually uncommon.
 
 The lip swelling in Melkersson-Rosenthal can be periodic (temporary episodes separated by weeks or months) or persistent. The facial nerve involvement (if present) may be temporary (recovering within weeks) or permanent (causing lasting facial asymmetry).
 
 ## What Causes the Swelling?
 
-Your body's immune system triggers inflammation that causes swelling. A biopsy shows granulomas—collections of immune cells—within your mouth tissues. These granulomas are non-infectious and represent your immune system reacting to something, though exactly what trigger is often unclear.
+Your body's immune system triggers swelling that causes swelling. A biopsy shows granulomas—collections of immune cells—within your mouth tissues. These granulomas are non-infectious and represent your immune system reacting to something, though exactly what trigger is often unclear.
 
 Common triggers include cinnamon (well-documented as an allergen in many cases), other food additives (benzoates, salicylates), or sometimes manifestations of systemic disease (Crohn's disease, sarcoidosis). In many cases, no specific trigger is ever identified.
 
@@ -42,7 +42,7 @@ As swelling becomes more pronounced, functional problems develop: difficulty eat
 
 ## Investigation: Finding the Cause
 
-Your dentist or doctor will likely recommend a biopsy to confirm granulomatous inflammation. Imaging may be ordered to assess extent of involvement. Screening for systemic disease (Crohn's disease, sarcoidosis) may include blood tests, chest imaging, or gastrointestinal evaluation if you have symptoms suggesting systemic involvement. For more on this topic, see our guide on [Oral Submucous Fibrosis](/article/oral-submucous-fibrosis-restricted-mouth-opening.html).
+Your dentist or doctor will likely recommend a biopsy to confirm granulomatous swelling. Imaging may be ordered to assess extent of involvement. Screening for systemic disease (Crohn's disease, sarcoidosis) may include blood tests, chest imaging, or gastrointestinal check if you have symptoms suggesting systemic involvement. For more on this topic, see our guide on [Oral Submucous Fibrosis](/article/oral-submucous-fibrosis-restricted-mouth-opening.html).
 
 Specific trigger identification often involves careful dietary history. If you chew cinnamon gum, eat cinnamon-containing foods, use cinnamon-flavored dental products, or consume cinnamon supplements, that's a strong suspect trigger. Other possible triggers include various food additives and preservatives.
 
@@ -50,9 +50,9 @@ Specific trigger identification often involves careful dietary history. If you c
 
 ### Intralesional Steroid Injections
 
-Steroid injections directly into swollen areas reduce inflammation and swelling in about sixty to eighty percent of patients. Your dentist or doctor injects triamcinolone directly into affected areas, usually multiple injections spaced two to four weeks apart for a series of two to four treatments.
+Steroid injections directly into swollen areas reduce swelling and swelling in about sixty to eighty percent of patients. Your dentist or doctor injects triamcinolone directly into affected areas, usually multiple injections spaced two to four weeks apart for a series of two to four treatments.
 
-Response typically takes one to two weeks to become visible, with progressive improvement over subsequent weeks. About thirty to forty percent achieve substantial improvement or complete resolution. Another thirty to forty percent experience partial improvement (some swelling reduction). The remaining twenty to thirty percent don't respond significantly.
+Response typically takes one to two weeks to become visible, with progressive improvement over subsequent weeks. About thirty to forty percent achieve substantial improvement or complete resolution. Another thirty to forty percent experience partial improvement (some swelling reduction). The remaining twenty to thirty percent don't respond much.
 
 ### Identifying and Eliminating Triggers
 
@@ -62,13 +62,13 @@ For idiopathic cases, broad elimination diets (avoiding common allergens, proces
 
 ### Systemic Anti-inflammatory Medication
 
-If intralesional steroids are insufficient or if you have systemic disease, oral corticosteroids (prednisone) can be prescribed initially, then tapered to find the minimal effective dose. However, long-term systemic steroids carry significant risks (infection, osteoporosis, diabetes), so they're typically used short-term.
+If intralesional steroids are not enough or if you have systemic disease, oral corticosteroids (prednisone) can be prescribed initially, then tapered to find the minimal effective dose. However, long-term systemic steroids carry significant risks (infection, osteoporosis, diabetes), so they're typically used short-term.
 
 Sulfasalazine (a steroid-sparing immunosuppressive agent) is increasingly used for chronic management, providing improvement in fifty to seventy percent of patients, though results take six to eight weeks to appear.
 
 ## When Swelling Indicates Systemic Disease
 
-If you have orofacial granulomatosis with other symptoms (chronic diarrhea, abdominal pain, weight loss, blood in stool), Crohn's disease must be evaluated. This requires colonoscopy and evaluation by a gastroenterologist. For more on this topic, see our guide on [Mouth Ulcer Care What You Need To Know](/article/mouth-ulcer-care-what-you-need-to-know.html).
+If you have orofacial granulomatosis with other symptoms (chronic diarrhea, abdominal pain, weight loss, blood in stool), Crohn's disease must be evaluated. This requires colonoscopy and check by a gastroenterologist. For more on this topic, see our guide on [Mouth Ulcer Care What You Need To Know](/article/mouth-ulcer-care-what-you-need-to-know.html).
 
 If you have constitutional symptoms (unexplained fever, fatigue, lymphadenopathy) or respiratory symptoms (cough, dyspnea), sarcoidosis should be considered, requiring chest imaging and possibly biopsy.
 
@@ -86,15 +86,13 @@ Most people can achieve reasonable symptom control even if complete cure isn't p
 
 ## Monitoring and Follow-up
 
-Regular dental and medical follow-up helps monitor progression and treatment response. Measure your lip dimensions or take photographs for objective comparison. Watch for development of secondary complications (ulcers, infection, functional impairment).
+Regular dental and medical follow-up helps monitor progression and treatment response. Measure your lip dimensions or take photographs for objective comparison. Watch for development of secondary problems (ulcers, infection, functional impairment).
 
 If facial nerve involvement is present, document facial function periodically to track any changes in severity or recovery.
 
 ## Conclusion
 
-The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. If facial nerve involvement is present, document facial function periodically to track any changes in severity or recovery.
 
 > **Key Takeaway:** Orofacial granulomatosis is a condition where your mouth and lip tissues become persistently swollen due to chronic inflammation.
 

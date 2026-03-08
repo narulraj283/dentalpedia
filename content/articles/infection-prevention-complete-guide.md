@@ -100,8 +100,7 @@ These lifestyle factors support not just your oral health but your overall welln
 
 ## Conclusion
 
-Whether you're just learning about prevent tooth and gum infections or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. These lifestyle factors support not just your oral health but your overall wellness. Taking care of your immune system protects against multiple health problems.
 
 > **Key Takeaway:** Discover daily habits and professional care that protect your teeth and gums from infection.
 

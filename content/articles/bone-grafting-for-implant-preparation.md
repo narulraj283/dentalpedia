@@ -32,7 +32,7 @@ title: Bone Grafting Protocol for Dental Implant Site Preparation
 ---
 ## When Bone Grafting Is Necessary
 
-You need bone grafting if your jaw lacks adequate bone for safe implant placement. Safe implant placement requires at least 6 mm of bone width (side-to-side) and 10 mm of bone height (top-to-bottom), plus a safety margin. If imaging shows less bone than this in your desired implant location, grafting becomes necessary.
+You need bone grafting if your jaw lacks adequate it for safe implant placement. Safe implant placement requires at least 6 mm of bone width (side-to-side) and 10 mm of bone height (top-to-bottom), plus a safety margin. If imaging shows less the area than this in your desired implant location, grafting becomes necessary.
 
 About 40-60% of single-tooth implant patients need bone grafting. About 70-85% of people needing multiple implants need grafting in at least one location. Bone loss typically results from tooth loss (which triggers natural bone resorption), gum disease, injury, or rarely, medical conditions.
 
@@ -56,11 +56,11 @@ Using special software, your surgeon overlays the planned implant position on yo
 
 You'll discuss realistic expectations before surgery. Vertical bone grafting typically adds 3-8 mm of height (about 60-80% of the planned amount). Horizontal bone grafting adds 2-4 mm of width (about 60-75% of planned). Results depend on the technique, materials used, and how well you follow post-operative instructions.
 
-Timing matters. Your surgeon can graft immediately at the time of tooth extraction (using the socket as a container for the graft) or wait 4-6 months after extraction (allowing natural healing to occur first). Immediate grafting saves 3-4 months of treatment time. Staged grafting lets your surgeon see how your bone naturally remodels, sometimes producing better results.
+Timing matters. Your surgeon can graft immediately at the time of tooth extraction (using the socket as a container for the graft) or wait 4-6 months after extraction (allowing natural healing to occur first). Immediate grafting saves 3-4 months of treatment time. Staged grafting lets your surgeon see how your tissue naturally remodels, sometimes producing better results.
 
 ## Your Own Bone as Graft Material
 
-If your surgeon uses your own bone, it comes from inside your mouth (ideally) or from your hip. Intraoral sources include the lower jaw (ramus, behind molars, front area), and hard palate. These harvest through small 2-3 cm incisions with minimal recovery—swelling is minimal and healing complete in 2-3 weeks.
+If your surgeon uses your own the structure, it comes from inside your mouth (ideally) or from your hip. Intraoral sources include the lower jaw (ramus, behind molars, front area), and hard palate. These harvest through small 2-3 cm incisions with minimal recovery—swelling is minimal and healing complete in 2-3 weeks.
 
 Ramus harvest (from the side of lower jaw behind the molars) yields 4-8 cm³ of bone—enough for most single implants. Healing is predictable with sensory disturbance rare (less than 1%).
 
@@ -80,7 +80,7 @@ The ideal particle size is 500-750 micrometers. About 60-80% incorporate success
 
 Mineralized bone allograft keeps the mineral structure, providing better mechanical support than demineralized. About 70-80% incorporate, with 5-10% yearly resorption. It's less biologically active but better if you need mechanical support. Cost: $200-500.
 
-Xenogeneic bone (processed from cattle) provides an inert scaffold for bone ingrowth. Because it's from another species, there's no immune response. Incorporation takes 12-18 months (slower than autogenous) but resorption is minimal—less than 5% annually.
+Xenogeneic it (processed from cattle) provides an inert scaffold for bone ingrowth. Because it's from another species, there's no immune response. Incorporation takes 12-18 months (slower than autogenous) but resorption is minimal—less than 5% annually.
 
 It maintains its space excellently long-term. Cost: $300-800. It's ideal when you want minimal resorption and long-term stability.
 
@@ -92,7 +92,7 @@ After local anesthesia (or sedation if you prefer), your surgeon makes an incisi
 
 If your bone is very irregular, your surgeon makes small perforations (holes) through the bone to encourage blood vessel penetration into the graft area.
 
-For block grafts, your surgeon positions them with maximum surface contact to surrounding bone, maybe extending slightly deeper to account for resorption. Titanium screws (1.6-2.4 mm diameter) fix the block in place through 5-8 mm into underlying bone.
+For block grafts, your surgeon positions them with maximum surface contact to surrounding bone, maybe extending slightly deeper to account for resorption. Titanium screws (1.6-2.4 mm diameter) fix the block in place through 5-8 mm into underlying the area.
 
 For particulate grafts, your surgeon carefully packs the material into the defect with gentle pressure (less than 200 grams of force). Overpacking increases swelling and actually reduces integration.
 
@@ -128,7 +128,7 @@ Extensive deficiency (>8 mm vertical loss): block bone grafting with screw fixat
 
 Horizontal deficiency (ridge width <4 mm): horizontal block placement with buccal cortical preservation or guided bone regeneration with membrane for space maintenance and soft tissue-supported bone formation.
 
-Severely resorbed maxilla (height <6 mm): sinus floor elevation with bone grafting or distraction osteogenesis. Block bone grafting may enable anterior implant placement; sinus elevation enables posterior implants.
+Severely resorbed maxilla (height <6 mm): sinus floor elevation with tissue grafting or distraction osteogenesis. Block bone grafting may enable anterior implant placement; sinus elevation enables posterior implants.
 
 Compromised healing (smoking, diabetes, immunosuppression): extended bone grafting intervals, possible BMP enhancement, enhanced infection prophylaxis, extended healing duration before implant placement.
 

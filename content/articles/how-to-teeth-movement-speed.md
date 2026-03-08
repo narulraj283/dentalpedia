@@ -79,7 +79,6 @@ Optimal tooth movement is about 1.0-1.5mm monthly. Moving too fast risks damagin
 Optimal tooth movement is about 1.0-1.5mm monthly. Moving too fast risks damaging tooth roots. Talk to your dentist about how this applies to your situation.5-1.5mm each month. Ask your dentist about the best approach for your specific situation.
 
 
-
 > **Key Takeaway:** Discover realistic tooth movement speeds, why some people move faster than others, and how to estimate your braces treatment timeline.".
 
 ## Related Articles

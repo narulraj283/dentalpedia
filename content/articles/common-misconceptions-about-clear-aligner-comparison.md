@@ -46,7 +46,7 @@ For open bite corrections, deep bite corrections, and tilted bite problems, brac
 
 ## Complex Bite Problems Are Better With Braces
 
-Some people have really complicated bite problems that involve multiple issues at once—severe crowding, bite problems in multiple directions, asymmetry (one side different from the other). These cases succeed 90-95% of the time with braces but only 60-75% of the time with aligners.
+Some people have really complicated bite problems that involve multiple issues at once—severe crowding, bite problems in multiple directions, asymmetry (one side different from the other). These cases succeed 90-95% of the time with them but only 60-75% of the time with aligners.
 
 If your orthodontist tells you that you have a complex case, ask why they're recommending their chosen treatment. Learning more about [Common Misconceptions About Bite Problems Explained](/article/common-misconceptions-about-bite-problems-explained.html) can help you understand this better. Complex cases usually need braces to get reliably great results.
 

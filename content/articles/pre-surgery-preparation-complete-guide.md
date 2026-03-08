@@ -30,9 +30,9 @@ title: Pre Surgery Preparation Complete Guide
 ---
 ## Why Pre-Surgery Preparation Matters
 
-Proper pre-operative preparation prevents complications and optimizes surgical outcomes. Your surgeon needs complete information about your medical history, current medications, allergies, and any conditions affecting surgery. This preparation identifies and optimizes modifiable risk factors before procedure start, reducing risks of excessive bleeding, infection, heart problems, stroke, and medication interactions.
+Proper pre-operative prep prevents problems and optimizes surgical outcomes. Your surgeon needs complete information about your medical history, current medicines, allergies, and any conditions affecting surgery. This prep identifies and optimizes modifiable risk factors before procedure start, reducing risks of excessive bleeding, infection, heart problems, stroke, and medicine interactions.
 
-Don't skip or minimize this step. Complications from inadequate preparation are preventable through thoughtful pre-operative assessment. Your surgeon's detailed pre-operative evaluation and instructions are critical for your safety and surgical success.
+Don't skip or minimize this step. Problems from inadequate prep are preventable through thoughtful pre-operative assessment. Your surgeon's detailed pre-operative check and instructions are critical for your safety and surgical success.
 
 ## Medical History: Providing Complete Information
 
@@ -49,7 +49,7 @@ Your surgeon must understand your complete medical background. Be thorough when 
 
 ## Medication Review: Critical Decisions
 
-Your surgeon needs complete medication information. Some medications require special perioperative management.
+Your surgeon needs complete medicine information. Some medicines require special perioperative management.
 
 **Blood thinners** (warfarin, apixaban, rivaroxaban, aspirin, clopidogrel) require careful management. Some are continued perioperatively; others are stopped days before surgery. Your surgeon will discuss with your cardiologist regarding optimal management for your specific situation.
 
@@ -73,7 +73,7 @@ Make sure imaging is obtained well before your pre-operative appointment—last-
 
 ## Anticoagulation Management: Preventing Bleeding and Clots
 
-If you take blood-thinning medications, your surgeon must balance two risks: continuing medication risks excessive bleeding during/after surgery; stopping medication risks blood clots.
+If you take blood-thinning medicines, your surgeon must balance two risks: continuing medicine risks excessive bleeding during/after surgery; stopping medicine risks blood clots.
 
 **The decision depends on:**
 - Why you take the medication (atrial fibrillation? mechanical heart valve? prior blood clots?)
@@ -96,8 +96,7 @@ Extended prophylaxis beyond the pre-operative dose is rarely necessary for outpa
 
 ## Pre-Operative Fasting: NPO Status
 
-Appropriate fasting reduces aspiration risk. **American Society of Anesthesiologists guidelines:** For more on this topic, see our guide on [Anesthesia Types Complete Guide](/article/anesthesia-types-complete-guide.html).
-- No food for 6-8 hours before surgery
+Appropriate fasting reduces aspiration risk. **American Society of Anesthesiologists guidelines:** For more on this topic, see our guide on [Anesthesia Types Complete Guide](/article/anesthesia-types-complete-guide.html). - No food for 6-8 hours before surgery
 - No clear liquids for 2 hours before procedure
 
 **For procedures with local anesthesia only:** Minimal fasting is often acceptable, though some surgeons request light breakfast avoidance.
@@ -108,7 +107,7 @@ Appropriate fasting reduces aspiration risk. **American Society of Anesthesiolog
 
 ## Vital Signs and Laboratory Testing
 
-Your surgeon measures baseline vital signs (blood pressure, heart rate, temperature, respiratory rate) before surgery. Significantly elevated blood pressure (systolic >180, diastolic >110) warrants procedure postponement and medical consultation.
+Your surgeon measures baseline vital signs (blood pressure, heart rate, temperature, respiratory rate) before surgery. Much elevated blood pressure (systolic >180, diastolic >110) warrants procedure postponement and medical consultation.
 
 **Laboratory testing requirements vary:**
 - Young, healthy patients undergoing routine surgery: Usually no testing needed
@@ -120,7 +119,7 @@ Your surgeon specifies which testing is needed for your situation.
 
 ## Informed Consent: Understanding Risks
 
-Informed consent means you understand what your surgeon plans to do, why they recommend it, what benefits you can expect, what risks exist, and what alternatives are available. Your surgeon discusses realistic complication risks.
+Informed consent means you understand what your surgeon plans to do, why they recommend it, what benefits you can expect, what risks exist, and what other options are available. Your surgeon discusses realistic problem risks.
 
 **For dentoalveolar surgery, realistic risks include:**
 - Bleeding requiring additional hemostasis or post-operative control
@@ -150,10 +149,10 @@ More extensive procedures warrant detailed consent discussions addressing specif
 
 ## Medication Timing: The Morning of Surgery
 
-Your surgeon specifies which medications to take morning-of-surgery. Generally:
-- Continue critical medications (heart, blood pressure, seizure medications) with minimal water
-- Hold medications as instructed
-- Don't take medications without explicit surgeon approval
+Your surgeon specifies which medicines to take morning-of-surgery. Generally:
+- Continue critical medicines (heart, blood pressure, seizure medications) with minimal water
+- Hold medicines as instructed
+- Don't take medicines without explicit surgeon approval
 
 If uncertain, call your surgeon's office morning-of-surgery rather than guessing.
 
@@ -187,7 +186,7 @@ If uncertain, call your surgeon's office morning-of-surgery rather than guessing
 
 ## Conclusion
 
-Thorough pre-operative preparation prevents complications and optimizes surgical outcomes. Your cooperation in providing complete information, following instructions, and attending to preparation details directly impacts your surgical safety and success. Don't minimize or skip pre-operative steps—they're essential, not bureaucratic.
+Thorough pre-operative prep prevents problems and optimizes surgical outcomes. Your cooperation in providing complete information, following instructions, and attending to prep details directly impacts your surgical safety and success. Don't minimize or skip pre-operative steps—they're essential, not bureaucratic.
 
 > **Key Takeaway:** Complete pre-operative preparation including medical history, medication review, proper imaging, anticoagulation management, and informed consent reduces surgical complications and ensures optimal outcomes.
 

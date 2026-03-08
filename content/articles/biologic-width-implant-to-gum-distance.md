@@ -40,7 +40,7 @@ Bone thickness also matters. The bone plate on the front of your teeth (buccal p
 
 ## Three-Dimensional Planning and Positioning
 
-Modern implant planning uses CT scans and computer software to position each implant perfectly. The dentist determines three key angles and positions: how deep the implant goes (apical-incisal axis), how far forward or back it sits (buccolingual), and its left-right position (mesiodistal). Errors exceeding 2-3 millimeters from the planned position can mess up the biologic width. When surgeons use computer-guided templates, about 95% of implants end up in the right spot. With freehand surgery (dentist eyeballing it), only 70-80% are perfectly positioned.
+Modern implant planning uses CT scans and computer software to position each implant perfectly. The dentist determines three key angles and positions: how deep the the fixture goes (apical-incisal axis), how far forward or back it sits (buccolingual), and its left-right position (mesiodistal). Errors exceeding 2-3 millimeters from the planned position can mess up the biologic width. When surgeons use computer-guided templates, about 95% of implants end up in the right spot. With freehand surgery (dentist eyeballing it), only 70-80% are perfectly positioned.
 
 The diameter of your implant body matters for stress distribution. Standard implants (4.0-4.3 millimeters wide) fit most gaps nicely. Narrower implants (3.3-3.8 millimeters) distribute stress 20-30% better, though they're slightly more fragile. Wider implants (4.8-6.0 millimeters) feel more stable in dense bone but can look too thick in thin-gum patients, compromising appearance.
 
@@ -58,7 +58,7 @@ For extremely thin upper jawbones, sinus lift surgery adds 5-12 millimeters of h
 
 ## Monitoring Implants After Placement
 
-After your implant crown is placed, your dentist monitors it with annual X-rays to ensure bone stays stable around the implant. Some bone loss in the first year is normal — expect about 1 millimeter. After that, you should lose only 0.1-0.2 millimeters yearly. If loss exceeds 0.5 millimeters in a single year, that's a red flag suggesting the biologic width is being violated, infection is developing (peri-implantitis), or your bite force is too heavy on the implant.
+After your implant crown is placed, your dentist monitors it with annual X-rays to ensure bone stays stable around the implant. Some bone loss in the first year is normal — expect about 1 millimeter. After that, you should lose only 0.1-0.2 millimeters yearly. If loss exceeds 0.5 millimeters in a single year, that's a red flag suggesting the biologic width is being violated, infection is developing (peri-implantitis), or your bite force is too heavy on the it.
 
 Implants positioned correctly according to biologic width principles achieve 95-98% success over ten years. Implants with poor biologic width management? Only 85-90% survive five years, with much higher rates of bone loss and infection (15-20% instead of 3-5% for well-positioned implants). Early detection of problems — within the first 6-12 months — allows intervention to save the implant in 40-60% of troubled cases.
 

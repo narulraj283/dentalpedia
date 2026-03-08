@@ -83,8 +83,7 @@ Related reading: [How Braces and Orthodontics Move Your Teeth](/article/how-to-t
 
 ## Conclusion
 
-Whether you're just learning about aligner cleaning methods and maintenance protocols or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+For typical daily use, dry storage in a clean case is best. Treating your aligners as the precision medical devices they are extends their life and preserves the excellent cosmetics that made you choose clear aligners. Your orthodontist checks your aligner hygiene at every visit, and clean aligners signal that you're taking your treatment seriously.
 
 > **Key Takeaway:** Bacteria start coating your aligners almost immediately after you put them in your mouth.
 

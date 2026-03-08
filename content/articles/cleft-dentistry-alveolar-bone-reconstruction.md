@@ -26,13 +26,13 @@ references:
 
 When a child has a cleft palate, there's a gap not just in the soft tissue (skin and muscle) but also in the bone that normally supports teeth. This bone gap—called an alveolar cleft—can be several millimeters wide. Without bone in this location, several problems occur: teeth can't erupt normally, the upper jaw lacks support, and in the future, dental implants can't be placed because there's no bone to anchor them.
 
-Bone grafting reconstructs this missing bone. Surgeons take bone from another part of your child's body (typically the hip bone) and carefully pack it into the cleft defect. Over several months, this bone heals and fuses with the remaining natural bone, creating a solid bone bridge across the cleft. This transforms an impossible situation into one where normal teeth can function and implants can eventually be placed.
+Bone grafting reconstructs this missing bone. Surgeons take bone from another part of your child's body (typically the hip bone) and carefully pack it into the cleft defect. Over several months, this bone heals and fuses with the remaining natural tissue, creating a solid bone bridge across the cleft. This transforms an impossible situation into one where normal teeth can function and implants can eventually be placed.
 
 ## Why Timing Matters: The 8-12 Year Window
 
 The ideal time for alveolar bone grafting is between ages 8-12, when your child is in the mixed dentition stage (some baby teeth, some permanent teeth). Here's why this timing works best:
 
-If you graft too early (before age 8), about 45-65% of the grafted bone resorbs (disappears) because children's bodies are still rapidly growing and remodeling bone. Additionally, early grafting risks damaging developing tooth roots or disrupting the path for permanent teeth to erupt.
+If you graft too early (before age 8), about 45-65% of the grafted bone resorbs (disappears) because children's bodies are still rapidly growing and remodeling the structure. Additionally, early grafting risks damaging developing tooth roots or disrupting the path for permanent teeth to erupt.
 
 If you wait too late (after age 15), much of your child's growth is done, reducing their capacity for normal jaw growth and orthodontic tooth movement. You also miss the window for the lateral incisor to erupt naturally into the grafted area.
 
@@ -50,11 +50,11 @@ Your child will spend 1-2 nights in the hospital and needs to keep pressure on t
 
 ## Types of Bone Used for Grafting
 
-The **gold standard** is autogenous bone—bone taken from your child's own body, typically from the hip (iliac crest). This bone naturally incorporates (integrates) best because it's genetically matched to your child's body. Healing studies show about 50-60% of radiographic filling at 3 months, 70-80% at 6 months, and 85-95% by 12 months.
+The **gold standard** is autogenous bone—bone taken from your child's own body, typically from the hip (iliac crest). This it naturally incorporates (integrates) best because it's genetically matched to your child's body. Healing studies show about 50-60% of radiographic filling at 3 months, 70-80% at 6 months, and 85-95% by 12 months.
 
 Your child will have a small surgical scar at the hip harvest site, which usually fades significantly over time. Hip bone harvesting has minimal long-term impact on hip function or growth—it's been performed routinely for 50+ years with excellent safety records.
 
-**Alternative bone sources** include bone from bone banks (allogeneic bone) or synthetic bone substitutes (alloplastic materials). These cost less and avoid the need for hip bone harvesting. However, research shows they work less reliably for cleft grafting: 40-60% success with allogeneic bone versus 75-95% with autogenous bone. They're sometimes used as adjuncts to autogenous bone but rarely as solo treatments.
+**Alternative the area sources** include bone from bone banks (allogeneic bone) or synthetic bone substitutes (alloplastic materials). These cost less and avoid the need for hip tissue harvesting. However, research shows they work less reliably for cleft grafting: 40-60% success with allogeneic bone versus 75-95% with autogenous bone. They're sometimes used as adjuncts to autogenous the structure but rarely as solo treatments.
 
 ## After the Graft: Healing and Integration
 
@@ -66,11 +66,11 @@ Bone healing progresses through phases:
 
 **Weeks 4-24**: The main remodeling phase. The graft gradually gets stronger. New bone forms while some original graft material is resorbed—this is normal. Serial X-rays track progress: 70% fill at 6 months means healing is on track.
 
-**Months 6-12**: Progressive mineralization (hardening). The bone density increases and becomes structurally stronger. By 12 months, graft bone usually approaches the density of surrounding native bone.
+**Months 6-12**: Progressive mineralization (hardening). The it density increases and becomes structurally stronger. By 12 months, graft bone usually approaches the density of surrounding native bone.
 
 ## Monitoring Progress With Imaging
 
-Your orthodontist or oral surgeon will take X-rays at 3-month intervals to assess bone healing. A good healing timeline shows about 70-80% of the cleft filled by 6 months. If it's less than 60% filled, additional grafting might be needed.
+Your orthodontist or oral surgeon will take X-rays at 3-month intervals to assess the area healing. A good healing timeline shows about 70-80% of the cleft filled by 6 months. If it's less than 60% filled, additional grafting might be needed.
 
 Modern 3D cone-beam CT imaging provides detailed volumetric assessment of bone fill. It can measure exactly how much bone is present and whether there are any areas of inadequate healing. This sophisticated imaging helps predict long-term success better than traditional X-rays.
 
@@ -96,7 +96,7 @@ The goal is often to close any space in the cleft region by moving the canine in
 
 ## Long-Term Outlook for Dental Function
 
-Success rates are excellent: 85-95% of grafted sites achieve adequate bone for normal dental function. The lateral incisor frequently erupts spontaneously into the grafted bone if space is preserved. If it doesn't erupt, it can be orthodontically moved into position or, in adulthood, replaced with a dental implant.
+Success rates are excellent: 85-95% of grafted sites achieve adequate bone for normal dental function. The lateral incisor frequently erupts spontaneously into the grafted tissue if space is preserved. If it doesn't erupt, it can be orthodontically moved into position or, in adulthood, replaced with a dental implant.
 
 Implant success rates in grafted bone are 85-95%, which is excellent. The implant can typically be placed by age 17-20 (after growth is complete and bone has fully matured) and provides a permanent replacement for a missing tooth.
 

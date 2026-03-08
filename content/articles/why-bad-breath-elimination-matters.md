@@ -34,13 +34,13 @@ Bad breath—halitosis, medically speaking—affects about 30% of adults. And wh
 
 ## Bad Breath Is a Warning Light
 
-Yes, bad breath affects your social confidence. Learn more about [Preventive Program Building Lifetime](/article/preventive-program-building-lifetime-oral-habits.html) for additional guidance. It's uncomfortable to be self-conscious during close interactions, to worry about professional presentations, to wonder if people are avoiding you. But here's the key insight: bad breath isn't a disease—it's a symptom. It's your body waving a red flag saying something isn't right.
+Yes, bad breath affects your social confidence. Learn more about [Preventive Program Building Lifetime](/article/preventive-program-building-lifetime-oral-habits.html) for additional guidance. It's painful to be self-conscious during close interactions, to worry about expert presentations, to wonder if people are avoiding you. But here's the key insight: bad breath isn't a disease—it's a symptom. It's your body waving a red flag saying something isn't right.
 
 When nearly 90% of bad breath cases come from problems in your mouth (periodontal disease, tongue coating, poor hygiene, trapped food debris) and the remaining 10% can indicate systemic health problems, you're looking at a powerful diagnostic tool. Bad breath is often the earliest warning sign of periodontal disease—before you see bleeding gums or loose teeth. If you address it at that point through [Improved Hygiene and Professional Care](/article/best-practices-for-teeth-brushing-technique.html), you can prevent serious disease. If you ignore it and treat it as just a cosmetic embarrassment, you might end up with significant gum disease requiring expensive treatment.
 
 ## The Microbiology of Bad Breath: Volatile Sulfur Compounds
 
-The distinctive odor of bad breath comes from volatile sulfur compounds (VSCs): hydrogen sulfide, methyl mercaptan, and dimethyl sulfide. These gases result from bacterial metabolism of proteins and amino acids in the mouth. Certain anaerobic bacteria produce these compounds preferentially; Porphyromonas gingivalis, Prevotella intermedia, and Fusobacterium nucleatum are particularly prolific VSC producers.
+The distinctive odor of bad breath comes from volatile sulfur compounds (VSCs): hydrogen sulfide, methyl mercaptan, and dimethyl sulfide. These gases result from bacterial metabolism of proteins and amino acids in the mouth. Certain anaerobic bacteria produce these compounds preferentially; Porphyromonas gingivalis, Prevotella intermedia, and Fusobacterium nucleatum are especially prolific VSC producers.
 
 Understanding VSC production is clinically important because it reveals the nature of underlying pathology. A healthy mouth with normal oral flora produces minimal VSCs. Increased VSC production reflects either:
 
@@ -52,11 +52,11 @@ Understanding VSC production is clinically important because it reveals the natu
 
 ## Disease Detection Through Halitosis Assessment
 
-A patient complaining of halitosis deserves systematic evaluation. This assessment often reveals treatable oral disease:
+A patient complaining of halitosis deserves systematic check. This assessment often reveals treatable oral disease:
 
-**Periodontal disease:** Patients with gingivitis or early periodontitis often notice bad breath before detecting bleeding, swelling, or pocket formation. The VSC production correlates with bacterial load and inflammation. Treating the periodontal disease addresses the halitosis. In early cases, improved oral hygiene and professional cleaning eliminate the symptom and disease.
+**Periodontal disease:** Patients with gingivitis or early periodontitis (advanced gum disease) often notice bad breath before detecting bleeding, swelling, or pocket formation. The VSC production correlates with bacterial load and inflammation. Treating the periodontal disease addresses the halitosis. In early cases, improved oral hygiene and professional cleaning eliminate the symptom and disease.
 
-**Caries risk:** Some bad-breath patients have undetected active caries, particularly in interproximal areas. The carious lesion harbors bacteria and decaying food debris, producing odor. Identifying and treating caries addresses both the disease and the symptom.
+**Caries risk:** Some bad-breath patients have undetected active caries, particularly in interproximal (between teeth) areas. The carious lesion harbors bacteria and decaying food debris, producing odor. Identifying and treating caries addresses both the disease and the symptom.
 
 **Periimplantitis:** Dental implant patients may develop peri-implantitis—inflammation around implants—which produces significant halitosis. Early detection through bad-breath complaint enables intervention before implant loss becomes likely.
 
@@ -90,7 +90,7 @@ These assessments serve multiple purposes: establishing baseline severity, confi
 
 Effective halitosis treatment targets underlying causes rather than simply masking symptoms:
 
-**Periodontal disease:** Improved oral hygiene, professional scaling and root planing, and in severe cases, periodontal surgery address the source. As periodontal health improves, VSC production decreases and halitosis resolves.
+**Periodontal disease:** Improved oral hygiene, professional scaling (deep cleaning) and root planing, and in severe cases, periodontal surgery address the source. As periodontal health improves, VSC production decreases and halitosis resolves.
 
 **Tongue hygiene:** Instruction in proper tongue brushing or scraping, often combined with antimicrobial rinses, reduces tongue coating and VSC production. Patients frequently report improvement within days.
 
@@ -124,11 +124,7 @@ Clinicians should routinely ask about bad breath during intake. This simple ques
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding why treating bad breath matters more than social helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
-
-Nine times out of ten, bad breath comes from periodontal disease, poor hygiene, tongue coating, or trapped food debris—all treatable conditions. The tenth time might be a systemic health issue your doctor should know about. Early treatment prevents serious disease.
+Bad breath matters far more than as a social embarrassment. Halitosis is a symptom of underlying pathology—usually periodontal disease, poor hygiene, or tongue coating, but occasionally signaling systemic disease. The presence of halitosis should trigger systematic evaluation to identify treatable causes. Treating the underlying disease eliminates the symptom while improving oral and potentially systemic health.
 
 > **Key Takeaway:** Bad breath—halitosis, medically speaking—affects about 30% of adults.
 

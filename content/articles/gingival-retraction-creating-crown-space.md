@@ -74,8 +74,7 @@ The slight discomfort and procedure time associated with gingival retraction is 
 
 ## Conclusion
 
-Whether you're just learning about gingival retraction: creating crown space or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. The slight discomfort and procedure time associated with gingival retraction is worth it because it results in a better-fitting crown that will serve you well for many years.
 
 > **Key Takeaway:** If your dentist is preparing to place a crown on your tooth, you've probably heard them mention something about gingival retraction.
 

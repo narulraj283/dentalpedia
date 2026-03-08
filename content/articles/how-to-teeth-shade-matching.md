@@ -82,8 +82,7 @@ Your dentist should discuss this with you upfront so you're not shocked when it 
 
 ## Conclusion
 
-Whether you're just learning about getting your dental work to match your teeth or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Your dentist should discuss this with you upfront so you're not shocked when it happens. Eventually, your filling might need to be replaced, just like it would need replacement due to wear anyway. Some restorations like ceramics resist staining much better, so if permanence matters to you, ask about those options.
 
 > **Key Takeaway:** Learn why tooth shade matching is so important, how your dentist picks the right color, and how you can help them succeed.
 

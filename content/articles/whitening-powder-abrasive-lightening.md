@@ -90,9 +90,7 @@ If you're on a tight budget and professional whitening feels unaffordable, there
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding whitening powders, charcoal, and abrasive lightening safety helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Whitening powders—particularly activated charcoal and baking soda formulations—represent poor risk-benefit choices for tooth whitening. While some possess RDA values within theoretical safety parameters, clinical evidence documents enamel damage, minimal whitening efficacy, and safety concerns outweighing any potential benefits. Evidence-based whitening methods including professional treatments, whitening strips, custom trays, and whitening toothpastes deliver superior results without enamel damage risks. Patient education emphasizing irreversibility of enamel damage guides appropriate method selection for cosmetic whitening.
 
 > **Key Takeaway:** Whitening powders—especially charcoal formulations—sacrifice your enamel for minimal, temporary cosmetic benefits. Professional whitening methods deliver superior results safely. Your tooth enamel is irreplaceable; whitening results are temporary. Don't pay with permanent damage for effects that disappear within hours.
 

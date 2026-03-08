@@ -80,9 +80,7 @@ Your dentist may recommend additional steps specific to your situation, such as 
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding why your front teeth are drifting apart and how to fix it helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Pathologic tooth migration signals significant periodontal disease requiring comprehensive evaluation and multi-phase management. Periodontal treatment must precede and support orthodontic correction. Indefinite retention through combination fixed and removable appliances, along with ongoing periodontal maintenance, optimizes long-term stability and prevents relapse.
 
 > **Key Takeaway:** Spacing between your front teeth is your mouth's warning signal that bone support is failing. Treating the underlying gum disease first, then straightening teeth, followed by lifelong retention gives you the best chance of keeping your teeth and maintaining your smile.
 

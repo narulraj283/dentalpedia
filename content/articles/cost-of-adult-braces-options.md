@@ -245,7 +245,7 @@ Adult orthodontic treatment is very common and very effective. Metal braces cost
 
 Insurance often covers 50%, reducing your out-of-pocket cost. Talk to your orthodontist about which option fits your budget, lifestyle, and appearance preferences. Most importantly, retainers are essential forever to keep your teeth straight.
 
-> > **Key Takeaway:** You have four main braces options, ranging from $2,500-$8,500. Metal is most affordable and fastest; aligners are most discreet but require discipline; lingual braces are completely hidden but most expensive. Talk to your orthodontist about which option is right for your situation.
+> **Key Takeaway:** You have four main braces options, ranging from $2,500-$8,500. Metal is most affordable and fastest; aligners are most discreet but require discipline; lingual braces are completely hidden but most expensive. Talk to your orthodontist about which option is right for your situation.
 
 ## Related Articles You May Find Helpful
 

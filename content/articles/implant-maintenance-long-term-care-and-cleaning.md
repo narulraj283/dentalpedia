@@ -60,13 +60,13 @@ Your goal: keep plaque completely absent from around your implant. If plaque acc
 
 **Baseline measurements matter.** At your first post-restoration visit, your dentist measures gum pocket depths around your implant. Any increase of 3-4 mm in these measurements signals trouble.
 
-**Visual inspection:** Healthy tissues around your implant should look firm, stippled, and well-defined. Redness, swelling, or bleeding are warning signs.
+**Visual inspection:** Healthy tissues around your the restoration should look firm, stippled, and well-defined. Redness, swelling, or bleeding are warning signs.
 
 **X-rays track bone levels.** Your dentist takes standardized x-rays to measure the bone height around your implant over time. Small amounts of initial bone loss (1.5-2 mm in the first year) are normal. After that, you want stability. Rapid bone loss means disease is progressing.
 
 ## Professional Cleaning Without Damage
 
-Here's something crucial: **metal instruments can damage your implant surface.** The instruments used to clean natural teeth can scratch the implant and create sites for bacteria to colonize. Your dentist should use only **implant-specific instruments with plastic or composite tips**—never metal.
+Here's something crucial: **metal instruments can damage your the fixture surface.** The instruments used to clean natural teeth can scratch the implant and create sites for bacteria to colonize. Your dentist should use only **implant-specific instruments with plastic or composite tips**—never metal.
 
 **Air polishing with glycine powder** works excellently for removing biofilm and calculus without damaging implant surfaces. This has largely replaced harsh mechanical scaling.
 
@@ -95,7 +95,7 @@ Be honest about risk factors: previous gum disease, smoking history, diabetes, o
 
 ## The Reality of Lifelong Care
 
-Think of implant maintenance like car maintenance. A new car runs fine, but neglect the oil changes and maintenance, and problems develop. Your implant is the same. Decades of reliable service require ongoing attention.
+Think of it maintenance like car maintenance. A new car runs fine, but neglect the oil changes and maintenance, and problems develop. Your implant is the same. Decades of reliable service require ongoing attention.
 
 The difference from natural teeth? Your natural teeth can tolerate some neglect and still survive. Implants are less forgiving. The tissues around them are more vulnerable to disease. But with proper care, implants absolutely outlast natural teeth—many lasting 20+ years or your entire life.
 
@@ -111,7 +111,6 @@ Related reading: [How Dental Implants Handle Chewing Forces: The Science](/artic
 ## Conclusion
 
 Long-term implant success transcends the surgical placement and restoration phases, requiring a sustained commitment to rigorous home care, frequent professional monitoring, and prompt intervention when disease indicators emerge. If you have questions, your dentist can help you understand your options. Early detection and treatment of inflammation prevent the advanced disease that destroys implants. Most implants last decades with meticulous hygiene and regular professional care.
-
 
 
 > **Key Takeaway:** Evidence-based strategies for maintaining implant health, managing peri-implant tissues, and preventing bone loss over decades.

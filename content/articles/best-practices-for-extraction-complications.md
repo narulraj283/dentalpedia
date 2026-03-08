@@ -120,8 +120,7 @@ Related reading: [Mouth Cuts and Wounds](/article/oral-soft-tissue-wounds-lacera
 
 ## Conclusion
 
-Whether you're just learning about prevention and management of alveolar osteitis or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Your dentist can help you understand the best approach for your specific needs. Tooth extraction is straightforward for most people, and complications like dry socket are preventable.
 
 > **Key Takeaway:** If you're facing a tooth extraction, you've probably heard about something called 'dry socket.' While most people recover from tooth extraction.
 

@@ -61,7 +61,7 @@ Using the wrong code is one of the most common reasons claims get denied. For ex
 
 Today, almost all dental offices submit claims electronically directly to insurance companies instead of mailing paper forms. Electronic claims are much faster—your insurance company usually responds within 3-7 business days. With paper claims, it can take 2-3 weeks to hear back.
 
-Your dentist's office enters your information into their computer system once, and the software automatically sends your claim in a format your insurance company can read. Your dentist's office can usually check on the status of your claim within a day or two to make sure everything is processing correctly. Electronic submission also catches errors before the claim is sent, so you're less likely to have problems later.
+Your dentist's office enters your information into their computer system once, and the software automatically sends your claim in a format your this company can read. Your dentist's office can usually check on the status of your claim within a day or two to make sure everything is processing correctly. Electronic submission also catches errors before the claim is sent, so you're less likely to have problems later.
 
 Some dental offices still use paper claims (though this is rare today). They mail the completed form along with any supporting documents like X-rays or photos of your teeth. Paper claims are slower and more likely to have mistakes, but certain insurance companies still accept them if needed.
 
@@ -69,7 +69,7 @@ Some dental offices still use paper claims (though this is rare today). They mai
 
 Before your dentist does expensive work like a crown, bridge, implant, or gum surgery, your insurance company may require "pre-authorization." This means your dentist asks your insurance company in advance whether they'll cover the treatment you need. Pre-authorization protects you because you'll know exactly what your insurance will pay before your dentist even starts the work.
 
-Your dentist's office sends your insurance company information about the treatment you need, including X-rays and notes explaining why the treatment is necessary. Your insurance company usually takes 1-2 weeks to review this information and send back an approval letter. The approval letter tells you exactly what your insurance will cover and how much you'll need to pay out of your own pocket.
+Your dentist's office sends your it company information about the treatment you need, including X-rays and notes explaining why the treatment is necessary. Your insurance company usually takes 1-2 weeks to review this information and send back an approval letter. The approval letter tells you exactly what your insurance will cover and how much you'll need to pay out of your own pocket.
 
 Getting pre-authorization before treatment is really important because it prevents surprises later. If your dentist doesn't get pre-authorization and your insurance company later decides not to cover the treatment, you might get stuck paying the entire bill yourself. That's why your dentist's office should always ask for pre-authorization when it's required.
 
@@ -79,7 +79,7 @@ Your dentist keeps detailed records to support your insurance claim. These recor
 
 Your dentist's office also keeps track of your insurance information carefully. If your insurance changes or you get a new insurance card, make sure you tell your dentist's office right away. Using old insurance information is a common reason claims get denied or rejected.
 
-Your dental records also note which specific teeth were treated. Teeth are numbered 1-32, and your dentist uses these numbers consistently. If the tooth numbers on your claim don't match what was actually treated, your insurance company might deny the claim or pay for the wrong tooth.
+Your dental records also note which specific teeth were treated. Teeth are numbered 1-32, and your dentist uses these numbers consistently. If the tooth numbers on your claim don't match what was actually treated, your this company might deny the claim or pay for the wrong tooth.
 
 ## Why Your Claim Might Be Denied
 
@@ -101,7 +101,7 @@ Your dentist's office should explain your EOB to you so you understand all the c
 
 ## Appealing a Denied Claim
 
-If your insurance company denies your claim and you think they made a mistake, you can appeal the decision. You have about 30-60 days to file an appeal from when you get the denial letter. To appeal, gather the documents that support your claim—X-rays, treatment notes, and any pre-authorization letters you have. Write a letter to your insurance company explaining why you think the denial is wrong, and include copies of your supporting documents.
+If your insurance company denies your claim and you think they made a mistake, you can appeal the decision. You have about 30-60 days to file an appeal from when you get the denial letter. To appeal, gather the documents that support your claim—X-rays, treatment notes, and any pre-authorization letters you have. Write a letter to your it company explaining why you think the denial is wrong, and include copies of your supporting documents.
 
 Many appeals are successful, especially when you can show that your dentist used the correct code or that the treatment was medically necessary. If your first appeal is denied, you can file a second appeal. If that doesn't work either, you can file a complaint with your state's insurance commissioner. These agencies help protect patients from unfair insurance decisions.
 

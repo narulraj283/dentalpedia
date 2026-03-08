@@ -110,11 +110,7 @@ Think of it this way: whitening is cheap per session but needs repeating regular
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding teeth color improvement: complete guide helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
-
-Your dentist can help you navigate your options and set realistic expectations. Most importantly, remember that your natural tooth color is your genetic baseline—we can make it lighter and brighter, but we work within that baseline. The result should be a noticeably improved smile that still looks naturally like *your* teeth, not someone else's.
+Tooth color modification requires selecting treatment matching discoloration type (extrinsic vs. intrinsic), severity, and patient expectations. Bleaching remains first-line for extrinsic and mild-moderate intrinsic staining, with 15-30% incidence of sensitivity managed through protective protocols. Microabrasion effectively addresses superficial discoloration.
 
 > **Key Takeaway:** Achieving your ideal smile color depends on understanding your stain type and choosing the right treatment for your situation. Surface stains respond brilliantly to professional whitening. Deep stains need bonding or veneers.
 

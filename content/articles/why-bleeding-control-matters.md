@@ -50,7 +50,7 @@ Before your surgery, your dentist will ask detailed questions about your medicat
 
 Your dentist has many tools to control bleeding during surgery:
 
-**Simple pressure** is the first and most important technique. Gauze applied with gentle pressure to a bleeding area for several minutes usually stops most bleeding. This works because it gives your body's clotting system time to work. Removing the gauze too soon disrupts the clot that's forming.
+**Simple pressure** is the first and most important technique. Gauze applied with gentle pressure to a it area for several minutes usually stops most bleeding. This works because it gives your body's clotting system time to work. Removing the gauze too soon disrupts the clot that's forming.
 
 **Reduced blood flow** to the surgical area helps a lot. The local anesthetic your dentist uses often contains a medication that narrows blood vessels, reducing bleeding at the surgical site.
 

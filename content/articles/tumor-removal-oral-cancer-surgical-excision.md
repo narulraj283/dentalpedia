@@ -42,7 +42,7 @@ Your surgical team will use a standardized classification system—called TNM st
 
 "T" describes tumor size and depth. Small, shallow tumors (T1-T2) have better prognosis than large, deep tumors (T3-T4) that may invade bone. "N" describes cancer spread to neck lymph nodes. More involved nodes mean more aggressive treatment. "M" indicates spread to distant sites (fortunately rare).
 
-Before surgery, imaging (MRI or CT) shows exactly how extensive your cancer is, whether it invaded bone, and whether lymph nodes are involved. Sometimes PET scans help find subtle disease. This evaluation helps your team plan the best approach for your specific cancer.
+Before surgery, imaging (MRI or CT) shows exactly how extensive your cancer is, whether it invaded bone, and whether lymph nodes are involved. Sometimes PET scans help find subtle disease. This check helps your team plan the best approach for your specific cancer.
 
 ## Surgical Principles and Margin Assessment
 
@@ -58,7 +58,7 @@ Oncologic surgery for oral cancer applies fundamental principles of adequate tum
 
 ## Neck Dissection Classification and Indications
 
-Occult regional metastases are present in approximately 20-30% of early-stage oral cancers without clinical lymph node involvement. Prophylactic neck dissection or elective neck radiation reduces recurrence and improves survival compared to observation alone in patients with N0 necks.
+Occult regional metastases are present in about 20-30% of early-stage oral cancers without clinical lymph node involvement. Prophylactic neck dissection or elective neck radiation reduces recurrence and improves survival compared to observation alone in patients with N0 necks.
 
 **Neck Dissection Terminology**: Neck dissection extent is classified by the structures removed:
 
@@ -84,7 +84,7 @@ Oral cancer defects of varying extent require reconstruction matching defect siz
 
 **Free Flap Reconstruction**: Microvascular free tissue transfer (bone flaps including fibula, tissue flaps including radial forearm, anterolateral thigh, or others) enables reconstruction of large defects with optimal tissue volume, composition, and positioning. Fibular free flaps restore mandibular continuity in segmental defects, providing bone stock for functional restoration and osseointegration implant placement.
 
-Free flap success rates exceed 95% in experienced centers. Flap failure occurs in 2-5% of cases through thrombosis, and partial flap loss occurs in 5-10%. Complications including seroma, hematoma, and infection occur in 10-20% of cases. Long operative times and technical requirements make free flaps unavailable in all settings.
+Free flap success rates exceed 95% in experienced centers. Flap failure occurs in 2-5% of cases through thrombosis, and partial flap loss occurs in 5-10%. Problems including seroma, hematoma, and infection occur in 10-20% of cases. Long operative times and technical requirements make free flaps unavailable in all settings.
 
 **Soft Tissue Defects**: Anterolateral thigh flaps provide large surface area for extensive soft tissue defects. Radial forearm flaps provide thin, pliable tissue ideal for oral mucosa replacement. Rectus abdominis flaps provide large, adipose-rich tissue for bulk reconstruction.
 
@@ -92,7 +92,7 @@ Free flap success rates exceed 95% in experienced centers. Flap failure occurs i
 
 ## Adjuvant Therapy Considerations
 
-Surgical resection alone proves inadequate for many oral cancers. Pathological examination identifies adverse features warranting adjuvant therapy:
+Surgical resection alone proves inadequate for many oral cancers. Pathological exam identifies adverse features warranting adjuvant therapy:
 
 **High-Risk Features for Adjuvant Therapy**: Lymphovascular invasion, perineural invasion, close/positive surgical margins, multiple involved lymph nodes, extranodal extension, and advanced T or N stage indicate increased recurrence risk and typically warrant adjuvant radiation or chemoradiation.
 
@@ -102,15 +102,15 @@ Surgical resection alone proves inadequate for many oral cancers. Pathological e
 
 ## Prognostic Factors and Survival
 
-Five-year overall survival varies substantially by stage and other factors. Early-stage T1-T2 N0 disease achieves 75-85% five-year survival; T3-T4 or N1+ disease achieves 40-60% five-year survival. Extranodal extension, perineural invasion, and positive margins reduce survival by 10-20% compared to favorable pathology.
+Five-year overall survival varies greatly by stage and other factors. Early-stage T1-T2 N0 disease achieves 75-85% five-year survival; T3-T4 or N1+ disease achieves 40-60% five-year survival. Extranodal extension, perineural invasion, and positive margins reduce survival by 10-20% compared to favorable pathology.
 
-Human papillomavirus (HPV)-positive oropharyngeal cancers demonstrate superior prognosis compared to HPV-negative and tobacco-related cancers. HPV-positive cancers achieve 10-15% improved five-year survival compared to HPV-negative tumors of equivalent stage.
+Human papillomavirus (HPV)-positive oropharyngeal cancers show superior prognosis compared to HPV-negative and tobacco-related cancers. HPV-positive cancers achieve 10-15% improved five-year survival compared to HPV-negative tumors of equivalent stage.
 
 ## Complications and Functional Outcomes
 
-Surgical complications include hematoma, seroma, infection, and flap failure (for reconstruction). Functional deficits depend upon resection extent and reconstruction adequacy. Extensive resections affect mastication, swallowing, and speech. Reconstructive techniques and speech therapy optimize functional recovery.
+Surgical problems include hematoma, seroma, infection, and flap failure (for reconstruction). Functional deficits depend upon resection extent and reconstruction adequacy. Extensive resections affect mastication, swallowing, and speech. Reconstructive techniques and speech therapy optimize functional recovery.
 
-Shoulder dysfunction results from spinal accessory nerve injury during neck dissection, limiting abduction and causing chronic pain in approximately 20-30% of patients. Sensory loss and facial asymmetry also commonly occur.
+Shoulder problem results from spinal accessory nerve injury during neck dissection, limiting abduction and causing chronic pain in about 20-30% of patients. Sensory loss and facial asymmetry also commonly occur.
 
 
 Related reading: [Post-Extraction Healing Protocols and Complication](/article/best-practices-for-tooth-extraction-recovery.html).

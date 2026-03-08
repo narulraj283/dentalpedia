@@ -44,7 +44,7 @@ title: Scaling Technique Instrumentation Methods
 ---
 ## Understanding the Tools Your Hygienist Uses
 
-When you get a deep cleaning (scaling and root planing), your hygienist might use hand instruments, ultrasonic scalers, or a combination. Understanding what these tools do and why different instruments are used helps you appreciate the skill involved in professional cleaning.
+When you get a deep cleaning (scaling and root planing), your hygienist might use hand instruments, ultrasonic scalers, or a mix. Understanding what these tools do and why different instruments are used helps you appreciate the skill involved in expert cleaning.
 
 ## Hand Instruments: The Curettes
 
@@ -166,7 +166,7 @@ After proper scaling and root planing, your root surfaces should be:
 - **Hard:** With intact cementum and underlying dentin
 - **Non-discolored:** Without dark staining or discoloration
 
-These characteristics allow your periodontal ligament and bone to heal and potentially reattach to the root.
+These traits allow your periodontal ligament and bone to heal and potentially reattach to the root.
 
 ## Why Technique Matters for Your Long-Term Health
 
@@ -176,7 +176,7 @@ This is why your choice of dental provider matters. Ask your dentist about their
 
 ## Conclusion
 
-Scaling and root planing is both art and science. Your hygienist uses carefully selected instruments with precise technique to remove subgingival calculus and contaminated root surfaces while preserving tooth structure. Understanding the tools and techniques helps you appreciate the expertise involved and supports your commitment to post-treatment home care.
+Scaling and root planing is both art and science. Your hygienist uses carefully selected instruments with precise technique to remove subgingival calculus and infected root surfaces while preserving tooth structure. Understanding the tools and techniques helps you appreciate the expertise involved and supports your commitment to post-treatment home care.
 
 > **Key Takeaway:** Proper scaling technique requires skill, experience, and appropriate instrument selection. Both hand curettes and ultrasonic scalers have roles. Complete calculus removal with minimal root structure loss supports gum healing and long-term periodontal health.
 

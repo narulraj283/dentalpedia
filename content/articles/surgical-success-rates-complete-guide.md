@@ -62,7 +62,7 @@ Dental implants are among the most successful prosthetic procedures available, w
 
 ## Apicoectomy (Surgical Root Treatment)
 
-When conventional root canal therapy fails, apicoectomy (surgical removal of the tooth root tip) provides another chance to save the tooth.
+When standard root canal therapy fails, apicoectomy (surgical removal of the tooth root tip) provides another chance to save the tooth.
 
 **Modern Success Rates** (with microscopy): 85-95% at 1-year follow-up and 85-90% at longer follow-up. Traditional techniques without microscopy achieve only 60-75% success, so modern technology makes a real difference. Newer endoscopic techniques report success rates as high as 95-98%, though long-term data is still accumulating.
 
@@ -108,7 +108,7 @@ Surgery to correct severe jaw misalignment has high functional success but varia
 
 ## Conclusion
 
-Oral surgical procedures demonstrate high success rates when defined appropriately—tooth removal, implant integration, lesion resolution, or skeletal correction. Success rates vary substantially based on your health (smoking, diabetes, age, immunity), anatomical factors (bone quality, tooth position, lesion size), and technical factors (surgeon experience, technique selection, technology use). Understanding these rates and modifiable factors enables informed decisions and realistic expectations. Modern surgical techniques and specialized surgeon training represent the most critical factors affecting outcomes. By understanding what affects success and taking control of factors within your power—smoking cessation, glucose control, oral hygiene, and postoperative compliance—you optimize your personal outcome.
+Oral surgical procedures show high success rates when defined appropriately—tooth removal, implant integration, lesion resolution, or skeletal correction. Success rates vary greatly based on your health (smoking, diabetes, age, immunity), anatomical factors (bone quality, tooth position, lesion size), and technical factors (surgeon experience, technique selection, technology use). Understanding these rates and modifiable factors enables informed decisions and realistic expectations. Modern surgical techniques and specialized surgeon training represent the most critical factors affecting outcomes. By understanding what affects success and taking control of factors within your power—smoking cessation, glucose control, oral hygiene, and postoperative compliance—you optimize your personal outcome.
 
 > **Key Takeaway:** Success rates are high across most oral surgical procedures, with outcomes depending heavily on factors you control. Smoking cessation, glucose control, and postoperative compliance are powerful tools for optimizing your personal success rate.
 

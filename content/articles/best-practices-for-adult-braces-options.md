@@ -196,7 +196,6 @@ Related reading: [Clear Aligner Wear Schedule and Compliance Protocols](/article
 **Article Quality Metrics**: 1,549 words | 7 sections | 10 peer-reviewed references | Adult-specific clinical protocols | Complication management emphasis Your dentist can provide personalized recommendations based on your specific needs. About one-third of orthodontic patients today are adults.
 
 
-
 > **Key Takeaway:** More and more adults are straightening their teeth with braces. About one-third of orthodontic patients today are adults.
 
 ## Related Articles

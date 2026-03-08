@@ -79,6 +79,10 @@ Your dentist will give you individualized pre-operative instructions based on yo
 
 Related reading: [Common Misconceptions About Post-Surgery Care](/article/common-misconceptions-about-post-surgery-care.html) and [Cost of Recovery Timeline in Oral Surgery](/article/cost-of-recovery-timeline.html).
 
+Good preparation reduces your risk of problems during and after surgery. It also helps you heal faster. Most of the steps are simple—stop certain medicines, avoid food before your appointment, and arrange for a ride home.
+
+Talk to your dentist about any health conditions or medicines you take. Some blood thinners, supplements, and herbal products can increase bleeding during surgery. Your dentist needs a complete picture of your health to keep you safe.
+
 ## Conclusion
 
 Pre-operative preparation isn't just a bureaucratic hoop to jump through—it's the foundation for safe surgery and smooth recovery. Your dentist's careful assessment of your health, review of your medications, and imaging analysis enable them to anticipate problems and plan a surgical approach that's safest for your specific situation. Following pre-operative instructions carefully, from fasting to medication management to scheduling lab work, shows how much you're investing in your own successful outcome.

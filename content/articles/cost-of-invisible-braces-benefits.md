@@ -66,7 +66,7 @@ Some very complex cases need traditional braces or hybrid approaches (part brace
 
 ## The Technology Behind Aligners
 
-Modern clear aligners use sophisticated 3D imaging and computer planning. Your orthodontist scans your teeth, creates a digital model, and literally shows you on screen how your teeth will move month-by-month. You see the final result before starting treatment, which is great for confidence and understanding what you're getting.
+Modern clear it use sophisticated 3D imaging and computer planning. Your orthodontist scans your teeth, creates a digital model, and literally shows you on screen how your teeth will move month-by-month. You see the final result before starting treatment, which is great for confidence and understanding what you're getting.
 
 The aligners themselves are made of advanced thermoplastic materials that deliver consistent forces to your teeth. Older aligners had problems, but modern materials (like SmartTrack) are much better and more durable. Each aligner is custom-made for your teeth using computer-aided manufacturing.
 

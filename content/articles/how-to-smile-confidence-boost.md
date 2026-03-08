@@ -92,8 +92,7 @@ Your dentist should take before photos, do smile analysis, and ideally use digit
 
 ## Conclusion
 
-Whether you're just learning about esthetic dentistry and the psychology of smile confidence or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. Your dentist should take before photos, do smile analysis, and ideally use digital design to show you what you'll look like. This prevents surprises and makes sure you're both on the same page about what the end result will be. Have an honest conversation about your goals, your budget, and your timeline.
 
 > **Key Takeaway:** How cosmetic dental treatments can boost your confidence and improve your quality of life.
 

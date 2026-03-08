@@ -37,15 +37,15 @@ When your dentist places a composite (tooth-colored) filling on a front tooth, t
 
 ## Why Margins Matter
 
-The margin is where the filling meets your natural tooth. A visible margin ruins an otherwise beautiful restoration. When margins are blended properly, you can't see them even at close range.
+The margin is where the filling meets your natural tooth. A visible margin ruins an otherwise beautiful repair. When margins are blended properly, you can't see them even at close range.
 
-When they're poorly done, the filling looks fake and stands out obviously. Good margin blending requires: proper preparation design, careful shade matching, precise resin placement, and meticulous polishing. Done well, about 87-94% of people can't detect restoration margins at standard viewing distance.
+When they're poorly done, the filling looks fake and stands out obviously. Good margin blending requires: proper prep design, careful shade matching, precise resin placement, and meticulous polishing. Done well, about 87-94% of people can't detect repair margins at standard viewing distance.
 
 ## Preparation: Starting Right
 
-Good results start with proper preparation. Learning more about [Composite Resin Durability: Longevity and Clinical](/article/composite-resin-durability-longevity-of-bonded-restorations.html) can help you understand this better. Your dentist removes just the decayed/damaged portion, creating smooth edges that help resin blend seamlessly. Beveled edges (45-degree angles) are better than flat edges because they create a gradual transition rather than a sharp line. Typical bevels extend 1-2mm along the enamel.
+Good results start with proper prep. Learning more about [Composite Resin Durability: Longevity and Clinical](/article/composite-resin-durability-longevity-of-bonded-restorations.html) can help you understand this better. Your dentist removes just the decayed/damaged portion, creating smooth edges that help resin blend seamlessly. Beveled edges (45-degree angles) are better than flat edges because they create a gradual transition rather than a sharp line. Typical bevels extend 1-2mm along the enamel.
 
-The preparation should be minimal—only removing what's necessary. Shallow preparations are better because they mean less resin volume and better esthetics. The deepest part of most anterior (front tooth) cavities is maybe 1.5-2mm, keeping restoration thickness thin.
+The prep should be minimal—only removing what's necessary. Shallow preparations are better because they mean less resin volume and better esthetics. The deepest part of most anterior (front tooth) cavities is maybe 1.5-2mm, keeping repair thickness thin.
 
 ## Shade Selection: Matching Your Tooth
 
@@ -55,7 +55,7 @@ Most people's teeth are in the A2-C2 shade range. Your dentist typically selects
 
 ## Feathering: The Technique for Invisible Margins
 
-The most important technique for invisible margins is feathering. Your dentist places thin layers of resin extending slightly beyond the preparation margin onto uncut tooth surface. This creates a gradual transition where resin blends into tooth. The technique requires: careful adhesive application just beyond the margin, placement of thin resin increments (maybe 0.5-1mm thick) overlapping the margin, and selective etching/adhesive on those extensions.
+The most important technique for invisible margins is feathering. Your dentist places thin layers of resin extending slightly beyond the prep margin onto uncut tooth surface. This creates a gradual transition where resin blends into tooth. The technique requires: careful adhesive application just beyond the margin, placement of thin resin increments (maybe 0.5-1mm thick) overlapping the margin, and selective etching/adhesive on those extensions.
 
 Feathering works best on enamel because etched enamel (roughened with phosphoric acid) provides excellent mechanical retention. The thin feathered edges mechanically lock into etched enamel, creating seamless transitions. This is why feathering on front teeth (enamel-rich) works better than on root surfaces where etching is less effective.
 
@@ -67,9 +67,9 @@ Opacity selection matters critically. Learning more about [Common Misconceptions
 
 ## Margin Adaptation: No Gaps
 
-After composite placement, margins must be perfectly adapted—no gaps between composite and tooth. Gaps (>50-100 micrometers) allow bacteria infiltration, secondary decay, and restoration failure. Perfect margins require: precise resin sculpting during placement, light-curing that doesn't create gaps from polymerization shrinkage, and careful polishing that doesn't create overhangs.
+After composite placement, margins must be perfectly adapted—no gaps between composite and tooth. Gaps (>50-100 micrometers) allow bacteria infiltration, secondary decay, and repair failure. Perfect margins require: precise resin sculpting during placement, light-curing that doesn't create gaps from polymerization shrinkage, and careful polishing that doesn't create overhangs.
 
-Polymerization shrinkage (composite shrinking as it hardens) creates stress at margins. Careful incremental placement and light-curing technique reduces shrinkage stress concentration.
+Polymerization shrinkage (composite shrinking as it hardens) creates stress at margins. Careful incremental placement and light-curing technique reduces shrinkage stress amount.
 
 ## Polishing: Creating Invisible Transitions
 
@@ -87,19 +87,19 @@ Smartphone photos comparing before and after help you see the esthetic improveme
 
 ## Long-term Margin Maintenance
 
-Margins degrade over time through: polymerization shrinkage continuing slightly post-curing, water sorption (composite absorbing water) causing expansion, wear from mastication, and biofilm formation at margins. By 5 years, about 12-18% of composite restorations show noticeable margin degradation.
+Margins degrade over time through: polymerization shrinkage continuing slightly post-curing, water sorption (composite absorbing water) causing expansion, wear from mastication, and biofilm formation at margins. By 5 years, about 12-18% of composite repairs show noticeable margin degradation.
 
-Preventive maintenance through: annual professional polishing (removing plaque/minor staining at margins), fluoride application (strengthening underlying tooth structure), and gentle home care (soft toothbrush, non-abrasive toothpaste) extends margin quality. Minor edge repolishing when you notice slight roughness extends margin invisibility.
+Preventive upkeep through: annual expert polishing (removing plaque/minor staining at margins), fluoride application (strengthening underlying tooth structure), and gentle home care (soft toothbrush, non-abrasive toothpaste) extends margin quality. Minor edge repolishing when you notice slight roughness extends margin invisibility.
 
 ## Minor Repairs Without Full Replacement
 
-If a small margin chips or stains develops at an otherwise sound restoration, your dentist can often repair it by: etching the damaged area, applying adhesive and composite, then polishing. This repair extends restoration life 2-3 years without complete replacement.
+If a small margin chips or stains develops at an otherwise sound repair, your dentist can often repair it by: etching the damaged area, applying adhesive and composite, then polishing. This repair extends repair life 2-3 years without complete replacement.
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
 ## Conclusion
 
-Invisible composite margins result from: proper preparation design, feathering technique, shade-matched layering, careful margin adaptation, and meticulous polishing. This technique achieves undetectable margins in 87-94% of restorations at standard viewing distances. Strategic use of translucent materials at margins combined with thin placement and precise polishing creates the seamless transitions that make restorations truly invisible.
+Invisible composite margins result from: proper prep design, feathering technique, shade-matched layering, careful margin adaptation, and meticulous polishing. This technique achieves undetectable margins in 87-94% of repairs at standard viewing distances. Strategic use of translucent materials at margins combined with thin placement and precise polishing creates the seamless transitions that make repairs truly invisible.
 
 > **Key Takeaway:** When your dentist places a composite (tooth-colored) filling on a front tooth, the goal is making it invisible—so invisible you can't tell where your tooth ends and the filling begins.
 

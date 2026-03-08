@@ -28,13 +28,13 @@ When your jaw bone shrinks over time, your dentures become loose and need reline
 
 Hard relines use the same acrylic plastic as your original denture. Learning more about [Denture Adjustment in Aging Fit Changes](/article/denture-adjustment-in-aging-fit-changes.html) can help you understand this better. Material is added to the tissue-contacting surface, then heat-cured in an oven to bond permanently to the denture. Hard relines are very durable, lasting 3-5 years or longer before needing replacement.
 
-Hard relines can be done at a dental laboratory (sending your denture to the lab) or sometimes at the dental office using special equipment. Lab relines are usually more accurate than chairside relines because the lab has better equipment and more careful procedures.
+Hard it can be done at a dental laboratory (sending your denture to the lab) or sometimes at the dental office using special equipment. Lab relines are usually more accurate than chairside relines because the lab has better equipment and more careful procedures.
 
-The advantage of hard relines is durability and permanence. Once cured, a hard reline becomes as solid as the original denture. Hard relines also maintain precise contact with your tissues, providing good fit and stability.
+The advantage of hard this is durability and permanence. Once cured, a hard reline becomes as solid as the original denture. Hard it also maintain precise contact with your tissues, providing good fit and stability.
 
 ## Soft Denture Relines: Cushioning and Comfort
 
-Soft relines use flexible, cushioning material instead of rigid acrylic. The flexible material absorbs shock and pressure, feeling more forgiving than rigid relines. This is particularly beneficial if you have sensitive gums or if pressure points develop.
+Soft this use flexible, cushioning material instead of rigid acrylic. The flexible material absorbs shock and pressure, feeling more forgiving than rigid relines. This is particularly beneficial if you have sensitive gums or if pressure points develop.
 
 Soft relines typically last 1-2 years before needing replacement. The flexible material gradually deteriorates with exposure to saliva and daily use. Even though they don't last as long, the comfort benefit makes them worthwhile for some patients.
 
@@ -50,35 +50,35 @@ Hard relines are standard for routine reline appointments when your dentures hav
 
 Choose soft relines if you have tender, sensitive gums that don't tolerate pressure well. They're also good if you've previously had pressure sores despite hard relines, or if you have significant pain with a hard reline.
 
-Soft relines are sometimes used immediately after tooth extraction when tissues are still healing and sensitive. Once tissues heal, some patients prefer switching to a hard reline for longer durability.
+Soft it are sometimes used immediately after tooth extraction when tissues are still healing and sensitive. Once tissues heal, some patients prefer switching to a hard reline for longer durability.
 
 Soft relines can also be used as a temporary solution while waiting for final adjustments before a complete denture remake.
 
 ## Combination Approach
 
-Some patients benefit from alternating soft and hard relines. For example, you might get a soft reline for comfort and then later switch to a hard reline for durability. Your dentist can discuss whether alternating relines might work for you.
+Some patients benefit from alternating soft and hard this. For example, you might get a soft reline for comfort and then later switch to a hard reline for durability. Your dentist can discuss whether alternating relines might work for you.
 
 ## Chairside Versus Laboratory Relines
 
-Chairside relines (done at the dental office) are faster and less expensive but sometimes less accurate than laboratory relines. Your dentist makes an impression of your tissues with the denture in your mouth, then fills this impression with reline material.
+Chairside it (done at the dental office) are faster and less expensive but sometimes less accurate than laboratory this. Your dentist makes an impression of your tissues with the denture in your mouth, then fills this impression with reline material.
 
-Laboratory relines are sent to a dental lab where technicians have better equipment and more controlled conditions. Lab relines typically provide better fit but require sending your denture away for a week or two and cost more.
+Laboratory it are sent to a dental lab where technicians have better equipment and more controlled conditions. Lab this typically provide better fit but require sending your denture away for a week or two and cost more.
 
 ## How Long Relines Take
 
-Soft chairside relines usually take 30-60 minutes at your dental appointment. You wear the denture immediately after. Hard chairside relines take slightly longer, and you might be without your dentures briefly if they need additional finishing.
+Soft chairside it usually take 30-60 minutes at your dental appointment. You wear the denture immediately after. Hard chairside this take slightly longer, and you might be without your dentures briefly if they need additional finishing.
 
 Laboratory relines require sending dentures away and usually take 1-2 weeks. Some offices provide temporary dentures while yours are being relined.
 
 ## Frequency of Relines
 
-Most people need relines every 3-5 years, though this varies. People with faster bone loss might need more frequent relines. Your dentist will assess fit periodically and recommend relining when needed.
+Most people need it every 3-5 years, though this varies. People with faster bone loss might need more frequent this. Your dentist will assess fit periodically and recommend relining when needed.
 
 After multiple relines, eventually the original denture base becomes thin from repeated reline material additions. At this point, a complete denture remake is more practical than continuing to reline.
 
 ## Cost Considerations
 
-Hard relines cost less initially and last longer, making them more cost-effective long-term. Soft relines cost more frequently since they need replacement every 1-2 years. However, if you're planning to replace your dentures soon anyway, a soft reline might be the most economical choice.
+Hard relines cost less initially and last longer, making them more cost-effective long-term. Soft it cost more frequently since they need replacement every 1-2 years. However, if you're planning to replace your dentures soon anyway, a soft reline might be the most economical choice.
 
 ## Maintenance of Relined Dentures
 

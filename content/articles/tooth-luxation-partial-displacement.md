@@ -36,13 +36,13 @@ references:
 
 Dental luxation represents partial or complete displacement of a tooth from its socket without loss of tooth structure. Luxation injuries are the most common injuries to permanent teeth, accounting for 50% of all dental traumatic injuries. These injuries are distinct from fractures—tooth structure remains intact, though the periodontal ligament (which anchors the tooth) and pulp (nerve tissue) sustain significant trauma.
 
-The International Association of Dental Traumatology (IADT) provides evidence-based guidelines for luxation management. These guidelines emphasize rapid diagnosis, immediate repositioning, appropriate stabilization, and systematic follow-up to minimize complications including pulp necrosis, root resorption, ankylosis, and permanent tooth loss.
+The International Association of Dental Traumatology (IADT) provides evidence-based guidelines for luxation management. These guidelines emphasize rapid diagnosis, immediate repositioning, appropriate steadying, and systematic follow-up to minimize problems including pulp necrosis, root resorption, ankylosis, and permanent tooth loss.
 
 ## Types of Tooth Luxation
 
 ### Lateral Luxation (Most Common)
 
-Lateral luxation involves displacement of the tooth crown horizontally, typically in the buccal or lingual direction, while the apex remains embedded in alveolar bone.
+Lateral luxation involves displacement of the tooth crown horizontally, typically in the buccal or lingual (tongue-side) direction, while the apex remains embedded in alveolar (jawbone) bone.
 
 **What You'll Notice**:
 - Tooth appears pushed sideways relative to adjacent teeth
@@ -68,7 +68,7 @@ Extrusive luxation involves axial displacement of the tooth occlusally (outward)
 
 **Healing Timeline**: Good prognosis when treated promptly. Pulpal necrosis occurs in 30-50% of moderately extruded teeth. Root resorption develops in 5-15% of cases. Delayed treatment significantly worsens outcomes.
 
-**Special Note**: Teeth extruded more than 5-7mm show pulpal necrosis in nearly all cases. Aggressive repositioning is avoided in these cases; gradual orthodontic repositioning over weeks minimizes further injury.
+**Special Note**: Teeth extruded more than 5-7mm show pulpal necrosis in nearly all cases. Aggressive repositioning is avoided in these cases; gradual orthodontic (teeth-straightening) repositioning over weeks minimizes further injury.
 
 ### Intrusive Luxation (Most Severe)
 
@@ -98,7 +98,7 @@ If passive eruption fails or is unacceptable (severe esthetic compromise), passi
 
 ### Time Is Critical
 
-Prognosis substantially improves when treatment occurs within 30 minutes of injury. Treatment within 4-6 hours is acceptable with less favorable outcomes. Delayed treatment beyond 24 hours shows significantly worse outcomes due to periodontal ligament cell death and bacterial colonization.
+Prognosis greatly improves when treatment occurs within 30 minutes of injury. Treatment within 4-6 hours is acceptable with less favorable outcomes. Delayed treatment beyond 24 hours shows much worse outcomes due to periodontal ligament cell death and bacterial colonization.
 
 ## Professional Treatment Timeline
 
@@ -106,7 +106,7 @@ Prognosis substantially improves when treatment occurs within 30 minutes of inju
 
 Your dentist will:
 - Take a detailed injury history
-- Perform comprehensive oral examination
+- Perform full oral exam
 - Assess tooth vitality using electrical and cold tests
 - Take radiographs to confirm tooth position
 - Determine treatment approach based on luxation type
@@ -121,7 +121,7 @@ Your dentist will:
 
 ### Root Canal Therapy Timing
 
-For lateral luxations, tooth vitality is monitored at 3-4 week intervals. If the tooth exhibits normal sensibility at 4 weeks post-injury, no immediate endodontic intervention is required. If the tooth becomes non-responsive, root canal therapy is indicated at 2-3 weeks post-injury to prevent root resorption.
+For lateral luxations, tooth vitality is monitored at 3-4 week intervals. If the tooth exhibits normal sensibility at 4 weeks post-injury, no immediate endodontic (root canal-related) treatment is required. If the tooth becomes non-responsive, root canal therapy is indicated at 2-3 weeks post-injury to prevent root resorption.
 
 For extrusive and intrusive luxations showing pulpal necrosis or non-vitality, endodontic therapy at 2-3 weeks post-injury is routinely initiated to prevent root resorption progression.
 
@@ -133,7 +133,7 @@ Following splint removal, the periodontal ligament remains partially healed for 
 
 ## Long-Term Monitoring
 
-Luxated teeth require extended follow-up extending years beyond initial injury to detect late complications:
+Luxated teeth require extended follow-up extending years beyond initial injury to detect late problems:
 
 **Follow-up Schedule**:
 - 4 weeks: Splint removal assessment
@@ -146,18 +146,18 @@ Luxated teeth require extended follow-up extending years beyond initial injury t
 
 ### Root Resorption
 
-External inflammatory resorption represents the most serious long-term complication, particularly in extruded and intruded teeth. The resorption process initiates when periodontal ligament damage permits bacterial and inflammatory exudate contact with root surfaces.
+External inflammatory resorption represents the most serious long-term problem, especially in extruded and intruded teeth. The resorption process initiates when periodontal ligament damage permits bacterial and inflammatory exudate contact with root surfaces.
 
 **Prevention Strategies**:
 - Root canal therapy at 2-3 weeks post-injury substantially prevents progression
 - Calcium hydroxide intracanal medication provides anti-resorptive effects through alkaline pH
 - Flexible splinting minimizes further periodontal disruption
 
-**Detection**: Radiographic monitoring at 3-month intervals allows resorption detection before extensive root loss occurs. Periapical radiographs demonstrate blunting or indentation of the root apex and progressive shortening.
+**Detection**: Radiographic monitoring at 3-month intervals allows resorption detection before extensive root loss occurs. Periapical (around the tooth root) radiographs demonstrate blunting or indentation of the root apex and progressive shortening.
 
 ### Pulpal Necrosis
 
-If vitality testing shows persistent non-responsiveness across multiple occasions, particularly combined with radiographic evidence of root resorption or periapical changes, definitive pulpal necrosis is indicated. Root canal therapy should be initiated.
+If vitality testing shows persistent non-responsiveness across multiple occasions, especially combined with radiographic evidence of root resorption or periapical changes, definitive pulpal necrosis is indicated. Root canal therapy should be initiated.
 
 ## Warning Signs to Watch For
 
@@ -173,14 +173,14 @@ See [Finding-emergency-dental-care-options-beyond-hours](/article/finding-emerge
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding tooth luxation and partial displacement - emergency helps you feel more confident when discussing options with your dentist and making decisions about your care.
-
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Dental luxation injuries require immediate evaluation and treatment following IADT-endorsed protocols. Flexible splinting for 4 weeks, combined with systematic vitality monitoring and root resorption screening, optimizes outcomes. Extended follow-up extending years post-injury detects late complications, allowing timely intervention before tooth loss occurs.
 
 > **Key Takeaway:** Tooth luxation injuries require immediate professional evaluation and treatment. Following evidence-based protocols maximizes the likelihood of retaining tooth vitality and function. Extended follow-up extending years post-injury detects late complications, allowing timely intervention before tooth loss occurs.
 
 ## Related Articles
 
-- [Severe Toothache Causes and Emergency Treatment](/article/severe-toothache-causes-and-emergency-treatment.html)
+- [Why Prompt Mouth Injury Treatment Matters for](/article/why-mouth-injuries-treatment-matters.html)
+- [Avulsed Tooth: Saving Knocked Out Teeth](/article/avulsed-tooth-saving-knocked-out-teeth.html)
 - [Luxation: When Your Tooth Gets Partially Knocked Loose](/article/luxation-partially-displaced-tooth.html)
-
+- [Why Emergency Tooth Pain Matters - Managing Acute](/article/why-emergency-tooth-pain-matters.html)
+- [Sudden Tooth Pain - Diagnosis and Emergency Relief](/article/sudden-tooth-pain-diagnosis-and-emergency-relief.html)

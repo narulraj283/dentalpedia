@@ -124,8 +124,7 @@ Related reading: [Periodontal Pack Post Treatment Dressing](/article/periodontal
 
 ## Conclusion
 
-Whether you're just learning about aggressive vs chronic: disease progression rate or actively planning treatment, being informed helps you have better conversations with your dentist and make decisions you feel confident about.
-
+Talk to your dentist about your specific situation and what approach works best for you. The key insight: Your grade reflects your current disease trajectory, but multiple factors contribute to that trajectory. Modifying the ones you can control might shift your grade over time or at minimum slow progression within your grade.
 
 > **Key Takeaway:** Understand 2018 classification grading system—Grade A slow, Grade B moderate, Grade C rapid progression with bone loss calculations and treatment.
 

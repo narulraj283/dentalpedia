@@ -157,7 +157,6 @@ Related reading: [How to Prevent Tooth and Gum Infections](/article/infection-pr
 **Article Quality Metrics**: 1,832 words | 8 sections | 10 peer-reviewed references | Evidence-based recommendations | No marketing bias Your dentist can provide personalized recommendations based on your specific needs. Some are electric, some are manual, some promise special benefits.
 
 
-
 > **Key Takeaway:** Walk into any pharmacy and you'll find hundreds of toothbrush options. Some are electric, some are manual, some promise special benefits.
 
 ## Related Articles

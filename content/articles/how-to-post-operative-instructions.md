@@ -32,17 +32,17 @@ references:
   - title: "Physical Activity Restrictions Following Oral Surgical Procedures"
     url: https://www.ncbi.nlm.nih.gov/pubmed/28956464
 ---
-Your post-operative instructions are your roadmap to smooth healing. Following them carefully prevents complications and gets you back to normal faster. The first 24 hours matter most, so focus especially on those instructions. Learning more about [Your Tooth Extraction Recovery Timeline](/article/how-to-oral-surgery-recovery-timeline.html) can help you understand this better.
+Your post-operative instructions are your roadmap to smooth healing. Following them carefully prevents problems and gets you back to normal faster. The first 24 hours matter most, so focus especially on those instructions. Learning more about [Your Tooth Extraction Recovery Timeline](/article/how-to-oral-surgery-recovery-timeline.html) can help you understand this better.
 
 ## The First 24 Hours
 
-Bite down firmly on the gauze your dentist gives you for 30-45 minutes. Don't peek to see if it's working—leave it alone. If you need to change it, do it gently. Light oozing mixed with saliva is normal for up to 24 hours, but if you're soaking through gauze pads or blood fills your mouth, call your dentist immediately. Learning more about [Managing Pain After Dental Surgery](/article/how-to-pain-management-surgery.html) can help you understand this better.
+Bite down firmly on the gauze your dentist gives you for 30-45 minutes. Don't peek to see if it's working—leave it alone. If you need to change it, do it gently. Light oozing mixed with saliva is normal for up to 24 hours, but if you're soaking through gauze pads or blood fills your mouth, call your dentist right away. Learning more about [Managing Pain After Dental Surgery](/article/how-to-pain-management-surgery.html) can help you understand this better.
 
 Apply ice for 20 minutes, then remove it for 20 minutes, repeating for the first 24 hours. Ice reduces swelling and pain. After 24 hours, switch to warm compresses.
 
-Start your pain medication before you leave the dentist's office. Don't wait until pain develops. Take ibuprofen every 6 hours for 3-5 days. If you got a prescription for stronger pain medicine, use it only if ibuprofen doesn't control your pain.
+Start your pain medicine before you leave the dentist's office. Don't wait until pain develops. Take ibuprofen every 6 hours for 3-5 days. If you got a prescription for stronger pain medicine, use it only if ibuprofen doesn't control your pain.
 
-No rinsing, spitting, or using straws for at least 5-7 days. These actions can dislodge your blood clot and cause complications.
+No rinsing, spitting, or using straws for at least 5-7 days. These actions can dislodge your blood clot and cause problems.
 
 ## Days 2-7: The Healing Phase
 
@@ -56,9 +56,9 @@ If you have stitches, your dentist will remove them around day 7-10 (unless they
 
 ## When to Call Your Dentist
 
-Contact your dentist immediately if you experience:
+Contact your dentist right away if you experience:
 - Fever above 101.5°F
-- Severe pain not controlled by medication (especially if it starts 3-7 days after surgery)
+- Severe pain not controlled by medicine (especially if it starts 3-7 days after surgery)
 - Excessive swelling that worsens after day 3-4
 - Difficulty breathing or swallowing
 - Uncontrolled bleeding
@@ -66,54 +66,54 @@ Contact your dentist immediately if you experience:
 
 ## Swelling, Bruising, and Inflammatory Management
 
-Post-operative swelling peaks around 48-72 hours after surgery, with maximum swelling often occurring on days 2-3 rather than immediately post-operatively. This is a normal physiologic response involving increased vascular permeability and inflammatory cell infiltration. Aggressive ice application during the first 24 hours—implementing the 20-on/20-off protocol—can reduce maximum swelling by 30-50%. Emphasis should be placed on early ice application before swelling becomes substantial.
+Post-operative swelling peaks around 48-72 hours after surgery, with maximum swelling often occurring on days 2-3 rather than right away post-operatively. This is a normal physiologic response involving increased vascular permeability and inflammatory cell infiltration. Aggressive ice application during the first 24 hours—implementing the 20-on/20-off protocol—can reduce maximum swelling by 30-50%. Emphasis should be placed on early ice application before swelling becomes substantial.
 
-After 72 hours, heat application becomes beneficial. Patients should apply warm compresses for 15-20 minutes, 3-4 times daily to promote vasodilation and increase inflammatory cell clearance. Enzyme-based supplements such as bromelain, serrapeptase, or arnica may provide modest additional benefits in reducing swelling and bruising based on some clinical evidence. Edema typically resolves within 5-7 days for minor procedures but may persist 2-3 weeks for more extensive oral surgery such as wisdom tooth extraction or bone grafting.
+After 72 hours, heat application becomes helpful. Patients should apply warm compresses for 15-20 minutes, 3-4 times daily to promote vasodilation and increase inflammatory cell clearance. Enzyme-based supplements such as bromelain, serrapeptase, or arnica may provide modest additional benefits in reducing swelling and bruising based on some clinical evidence. Edema typically resolves within 5-7 days for minor procedures but may persist 2-3 weeks for more extensive oral surgery such as wisdom tooth extraction or bone grafting.
 
-Bruising (ecchymosis) is a normal consequence of surgical trauma and does not necessarily indicate surgical complications. Reassure patients that bruising peaks around day 2-4 and gradually resolves over 10-14 days, with discoloration shifting from purple to yellow as hemoglobin breaks down. Patients should sleep with their head elevated on 2-3 pillows for the first 3-4 nights to minimize swelling by reducing hydrostatic pressure and facilitating venous and lymphatic drainage.
+Bruising (ecchymosis) is a normal consequence of surgical trauma and does not necessarily indicate surgical problems. Reassure patients that bruising peaks around day 2-4 and gradually resolves over 10-14 days, with discoloration shifting from purple to yellow as hemoglobin breaks down. Patients should sleep with their head elevated on 2-3 pillows for the first 3-4 nights to minimize swelling by reducing hydrostatic pressure and facilitating venous and lymphatic drainage.
 
 ## Dietary Modifications and Nutritional Guidelines
 
-Proper nutrition supports post-operative healing, yet many patients unnecessarily restrict intake. Recommend a soft-to-liquid diet for the first 24-48 hours—including yogurt, smoothies, applesauce, mashed potatoes, and broth—progressing to a normal diet as comfort allows. Avoid foods requiring significant chewing, hard or crunchy textures, and extremely hot temperatures for at least 1 week. Room-temperature and cool foods are generally more comfortable in the immediate post-operative period.
+Proper nutrition supports post-operative healing, yet many patients unnecessarily restrict intake. Recommend a soft-to-liquid diet for the first 24-48 hours—including yogurt, smoothies, applesauce, mashed potatoes, and broth—progressing to a normal diet as comfort allows. Avoid foods requiring significant chewing, hard or crunchy textures, and extremely hot temperatures for at least 1 week. Room-heat level and cool foods are generally more comfortable in the immediate post-operative period.
 
-Adequate protein intake is critical for collagen synthesis and wound healing; recommend 75-100 grams daily during the post-operative period. Proteins from milk, eggs, fish, and legumes integrate efficiently into newly forming connective tissue. Vitamin C (250-500 mg daily) and zinc (15-30 mg daily) support collagen crosslinking and immune function. Calcium and phosphorus remain important for bone healing, particularly following extraction or bone grafting procedures.
+Adequate protein intake is critical for collagen synthesis and wound healing; recommend 75-100 grams daily during the post-operative period. Proteins from milk, eggs, fish, and legumes integrate efficiently into newly forming connective tissue. Vitamin C (250-500 mg daily) and zinc (15-30 mg daily) support collagen crosslinking and immune function. Calcium and phosphorus remain important for bone healing, especially following extraction or bone grafting procedures.
 
-Instruct patients to avoid alcohol, particularly during the first 48 hours and while taking analgesics (especially opioids), as it potentiates bleeding and interferes with healing. Smoking is absolutely contraindicated, as it reduces microvascular blood flow, impairs immune function, and increases infection and dry socket risk by 3-4 fold. Patients who actively smoke should be strongly encouraged to quit temporarily during healing; even 72 hours of cessation significantly improves outcomes.
+Instruct patients to avoid alcohol, especially during the first 48 hours and while taking analgesics (especially opioids), as it potentiates bleeding and interferes with healing. Smoking is absolutely contraindicated, as it reduces microvascular blood flow, impairs immune function, and increases infection and dry socket risk by 3-4 fold. Patients who actively smoke should be strongly encouraged to quit temporarily during healing; even 72 hours of cessation much improves outcomes.
 
 ## Oral Hygiene Protocols and Infection Prevention
 
-Maintaining excellent oral hygiene is essential for infection prevention, yet aggressive rinsing can disrupt the surgical clot. For the first 24-48 hours, advise patients to avoid any vigorous rinsing or toothbrushing in the surgical area. After 48 hours, gently resuming oral hygiene in non-surgical areas is appropriate. Starting on post-operative day 3-5, patients may initiate very gentle warm salt water rinses (1/2 teaspoon salt in 8 ounces warm water) after meals and before bed, performed gently without vigorous swishing to avoid clot dislodgement.
+Keeping excellent oral hygiene is essential for infection prevention, yet aggressive rinsing can disrupt the surgical clot. For the first 24-48 hours, advise patients to avoid any vigorous rinsing or toothbrushing in the surgical area. After 48 hours, gently resuming oral hygiene in non-surgical areas is appropriate. Starting on post-operative day 3-5, patients may initiate very gentle warm salt water rinses (1/2 teaspoon salt in 8 ounces warm water) after meals and before bed, performed gently without vigorous swishing to avoid clot dislodgement.
 
 Antibiotic prophylaxis depends on surgical complexity and patient risk factors. High-risk procedures—such as extensive bone grafting, implant placement, or immunocompromised patients—may benefit from prophylactic antibiotics. Common prophylactic regimens include amoxicillin 500 mg three times daily or clindamycin 150-300 mg three times daily for 7-10 days. Therapeutic antibiotics are indicated if signs of infection develop: fever above 101°F, purulent drainage, severe pain disproportionate to expected post-operative pain, or rapidly progressive swelling beyond day 3.
 
-Patients should maintain excellent medication adherence if prescribed antibiotics, completing the full course even if symptoms resolve. Advise discontinuation of antimicrobial rinses or chlorhexidine mouthwash (unless specifically prescribed) for at least 1-2 weeks, as these can inhibit normal bacterial flora and delay healing in the surgical region.
+Patients should maintain excellent medicine adherence if prescribed antibiotics, completing the full course even if symptoms resolve. Advise discontinuation of antimicrobial rinses or chlorhexidine mouthwash (unless specifically prescribed) for at least 1-2 weeks, as these can inhibit normal bacterial flora and delay healing in the surgical region.
 
 ## Activity Restrictions and Physical Demands
 
 Physical exertion elevates blood pressure and heart rate, increasing hemorrhage risk and post-operative bleeding. Patients should restrict strenuous activities, exercise, and heavy lifting for at least 3-5 days following minor procedures and 7-10 days following major oral surgery. Light activities such as walking are generally tolerated and even encouraged after the first 24 hours to promote blood circulation.
 
-Patients should avoid contact sports, weightlifting, cardiovascular exercise, and activities causing sudden elevation in venous pressure (such as straining, heavy coughing, or bending over) for the duration of the post-operative healing period. Return to normal exercise should be gradual; patients can typically resume light activity at day 5-7 and progressive exercise at 2-3 weeks, provided healing is progressing normally and no complications develop.
+Patients should avoid contact sports, weightlifting, cardiovascular exercise, and activities causing sudden elevation in venous pressure (such as straining, heavy coughing, or bending over) for the duration of the post-operative healing period. Return to normal exercise should be gradual; patients can typically resume light activity at day 5-7 and progressive exercise at 2-3 weeks, provided healing is progressing normally and no problems develop.
 
 Work restrictions depend on job demands. Patients with desk jobs may return within 24-48 hours, while those with physically demanding occupations should remain off work for 5-7 days. Discuss work return timeline during pre-operative consultation so patients can plan accordingly. Patients should bring documentation regarding activity restrictions to employers if necessary for absence justification.
 
 ## Sleeping Position and Positional Recommendations
 
-Proper sleeping position significantly impacts post-operative swelling and comfort. Patients should sleep elevated on 2-3 pillows for at least the first 3-4 nights, maintaining the head at least 6 inches above heart level. This positional elevation reduces hydrostatic pressure in facial tissues and promotes gravity-assisted lymphatic and venous drainage. Some patients find 30-45 degree elevation (using a recliner or wedge pillow) most comfortable.
+Proper sleeping position much impacts post-operative swelling and comfort. Patients should sleep elevated on 2-3 pillows for at least the first 3-4 nights, keeping the head at least 6 inches above heart level. This positional elevation reduces hydrostatic pressure in facial tissues and promotes gravity-assisted lymphatic and venous drainage. Some patients find 30-45 degree elevation (using a recliner or wedge pillow) most comfortable.
 
-Avoid sleeping on the affected side, as this increases local pressure and swelling. Patients should reposition frequently throughout the night to prevent stiffness and promote even healing. Continued elevation may be beneficial through day 7-10 in patients with significant swelling or compromised healing.
+Avoid sleeping on the affected side, as this increases local pressure and swelling. Patients should reposition frequently throughout the night to prevent stiffness and promote even healing. Continued elevation may be helpful through day 7-10 in patients with significant swelling or compromised healing.
 
 ## Expected Healing Timeline and When to Contact the Office
 
-Understanding normal healing expectations helps patients distinguish between expected healing and pathologic complications requiring intervention. Post-operative discomfort and mild swelling are expected and normal. By contrast, fever exceeding 101°F, increasing pain after day 3-4, purulent drainage, difficulty breathing or swallowing, or excessive ongoing bleeding warrant immediate professional evaluation.
+Understanding normal healing expectations helps patients distinguish between expected healing and pathologic problems requiring treatment. Post-operative discomfort and mild swelling are expected and normal. By contrast, fever exceeding 101°F, increasing pain after day 3-4, purulent drainage, difficulty breathing or swallowing, or excessive ongoing bleeding warrant immediate expert check.
 
-Most patients experience significant symptom resolution within 5-7 days; complete bony healing may require 2-4 weeks for extractions and 3-6 months for implant osseointegration. Patients should contact their surgical office if they have any questions or concerns regarding post-operative progression, medication side effects, or expected healing timeline. Establish clear contact protocols and availability during the immediate post-operative period to address complications promptly.
+Most patients experience significant symptom resolution within 5-7 days; complete bony healing may require 2-4 weeks for extractions and 3-6 months for implant bone bonding. Patients should contact their surgical office if they have any questions or concerns regarding post-operative progression, medicine side effects, or expected healing timeline. Establish clear contact protocols and availability during the immediate post-operative period to address problems promptly.
 
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
 ## Conclusion
 
-Post-operative care is as important as the surgery itself. Each instruction exists for a reason—to prevent complications and support healing. Follow them carefully, take your medications as prescribed, and call your dentist with any concerns.
+Post-operative care is as important as the surgery itself. Each instruction exists for a reason—to prevent problems and support healing. Follow them carefully, take your medicines as prescribed, and call your dentist with any concerns.
 
 > **Key Takeaway:** Follow these instructions exactly as given. Your healing depends on it, and most complications come from not following post-operative care instructions.
 

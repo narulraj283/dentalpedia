@@ -24,13 +24,13 @@ The condition develops primarily from chewing areca nut (betel nut), the main co
 
 ## The Root Cause: Areca Nut
 
-Areca nut contains alkaloid compounds (arecoline, arecaidine, and others) that trigger an inflammatory response in your mouth tissues. This isn't the direct cancer-causing effect of tobacco—instead, the alkaloids create chronic inflammation that activates fibroblasts (cells that produce scar tissue) to create excessive collagen buildup.
+Areca nut contains alkaloid compounds (arecoline, arecaidine, and others) that trigger an inflammatory response in your mouth tissues. This isn't the direct cancer-causing effect of tobacco—instead, the alkaloids create chronic swelling that activates fibroblasts (cells that produce scar tissue) to create excessive collagen buildup.
 
 When areca nut is combined with tobacco (common in many betel quid preparations), the cancer risk increases dramatically because you get both the inflammatory response from areca nut plus the direct carcinogenic effect of tobacco. This synergistic effect makes combined products far more dangerous than either product alone.
 
 ## How Fibrosis Develops and Progresses
 
-The process starts with inflammation and irritation of your mouth lining. Over weeks to months, your body's inflammatory response activates fibroblasts that produce excessive collagen—the same protein that makes scar tissue. Instead of the normal, balanced amount of collagen that your mouth tissues naturally contain, excessive collagen accumulates and progressively tightens, restricting your mouth opening.
+The process starts with swelling and irritation of your mouth lining. Over weeks to months, your body's inflammatory response activates fibroblasts that produce excessive collagen—the same protein that makes scar tissue. Instead of the normal, balanced amount of collagen that your mouth tissues naturally contain, excessive collagen accumulates and progressively tightens, restricting your mouth opening.
 
 The progression is gradual but relentless. Early stages might cause only mild burning sensation when eating spicy foods. As the condition advances, your mouth opening becomes progressively more restricted: first mild restriction, then moderate difficulty opening fully, eventually severe restriction where opening your mouth is difficult or painful. Some people develop difficulty swallowing as the tightness affects throat tissues. Speech may become affected if tongue movement is restricted.
 
@@ -38,19 +38,19 @@ The progression is gradual but relentless. Early stages might cause only mild bu
 
 Early signs include a burning or tingling sensation in your mouth, especially when eating spicy foods or rough foods. You might notice your mouth lining appears paler or whiter than normal. Your mouth might feel tight or restricted in movement. Palpable firm bands inside your mouth (especially in the soft palate area) indicate significant fibrosis.
 
-Difficulty opening your mouth is the most concerning symptom because it indicates advanced fibrosis. Early detection and intervention are important because treatment is far more effective when fibrosis is mild compared to after extensive scarring has developed. For more on this topic, see our guide on [Oral Candidiasis: Clinical Presentation, Diagnosis, and](/article/thrush-oral-candidiasis-fungal-infection-treatment.html).
+Difficulty opening your mouth is the most concerning symptom because it indicates advanced fibrosis. Early detection and treatment are important because treatment is far more effective when fibrosis is mild compared to after extensive scarring has developed. For more on this topic, see our guide on [Oral Candidiasis: Clinical Presentation, Diagnosis, and](/article/thrush-oral-candidiasis-fungal-infection-treatment.html).
 
 ## Treatment Options: Stopping Progression and Managing Tightness
 
 ### Stopping Areca Nut Use
 
-The absolute essential first step is stopping areca nut consumption completely. No other treatment will work if you continue the causative agent. Cessation is challenging because areca nut alkaloids are addictive and betel quid chewing is deeply embedded in cultural and social traditions in endemic regions. If you chew, discuss cessation support with your healthcare provider—behavioral counseling, nicotine substitutes (or dopamine-based therapies for areca nut addiction), and support groups can help.
+The absolute essential first step is stopping areca nut intake completely. No other treatment will work if you continue the causative agent. Cessation is challenging because areca nut alkaloids are addictive and betel quid chewing is deeply embedded in cultural and social traditions in endemic regions. If you chew, discuss cessation support with your healthcare provider—behavioral counseling, nicotine substitutes (or dopamine-based therapies for areca nut addiction), and support groups can help.
 
 ### Intralesional Steroid Injections
 
-If caught early, intralesional triamcinolone injections directly into affected areas reduce inflammation and can halt progression. Your dentist injects steroid directly into the fibrotic areas multiple times over several weeks. This works in about sixty to eighty percent of patients, providing partial improvement in mouth opening and symptoms. Response typically begins one to two weeks after injection and continues improving over subsequent weeks.
+If caught early, intralesional triamcinolone injections directly into affected areas reduce swelling and can halt progression. Your dentist injects steroid directly into the fibrotic areas multiple times over several weeks. This works in about sixty to eighty percent of patients, providing partial improvement in mouth opening and symptoms. Response typically begins one to two weeks after injection and continues improving over subsequent weeks.
 
-Complete resolution (return to normal mouth opening) occurs in about thirty to forty percent. Partial improvement (some increase in opening, some symptom relief) occurs in another thirty to forty percent. The remaining twenty to thirty percent don't respond significantly to injections.
+Complete resolution (return to normal mouth opening) occurs in about thirty to forty percent. Partial improvement (some increase in opening, some symptom relief) occurs in another thirty to forty percent. The remaining twenty to thirty percent don't respond much to injections.
 
 ### Surgical Treatment for Advanced Disease
 
@@ -62,13 +62,13 @@ More extensive surgery involves removing the diseased mucosa entirely and replac
 
 Oral submucous fibrosis carries significant risk of progressing to oral squamous cell carcinoma (mouth cancer). Published studies show that three to seventeen percent of people with oral submucous fibrosis eventually develop cancer, depending on how long they're followed. Early-stage fibrosis shows lower cancer rates (three to five percent), while advanced fibrosis shows higher rates (up to twenty percent or higher).
 
-This cancer risk makes regular monitoring critical. You should see your dentist every three to six months for assessment and examination for any suspicious changes (erosions, ulcerations, lumps, areas that don't heal). Any areas showing concerning changes should be biopsied to check for dysplasia or early cancer. Continued areca nut chewing with concurrent tobacco dramatically increases cancer risk further. For more on this topic, see our guide on [Risk And Concerns With Mouth Ulcer Care](/article/risk-and-concerns-with-mouth-ulcer-care.html).
+This cancer risk makes regular monitoring critical. You should see your dentist every three to six months for assessment and exam for any suspicious changes (erosions, ulcerations, lumps, areas that don't heal). Any areas showing concerning changes should be biopsied to check for dysplasia or early cancer. Continued areca nut chewing with concurrent tobacco dramatically increases cancer risk further. For more on this topic, see our guide on [Risk And Concerns With Mouth Ulcer Care](/article/risk-and-concerns-with-mouth-ulcer-care.html).
 
 ## Monitoring and Long-Term Management
 
 Establish baseline measurements of your mouth opening (how wide you can open) so you can track progression or improvement. Your dentist can measure this objectively. Photograph your mouth appearance for documentation.
 
-Periodic surveillance examinations checking for signs of malignant transformation are essential. Any changes in your mouth lining appearance, persistent ulcerations, or new lumps warrant immediate evaluation and likely biopsy. Early detection of malignant changes offers far better treatment outcomes than late detection.
+Periodic surveillance examinations checking for signs of malignant transformation are essential. Any changes in your mouth lining appearance, persistent ulcerations, or new lumps warrant immediate check and likely biopsy. Early detection of malignant changes offers far better treatment outcomes than late detection.
 
 Nutritional support may be needed if eating becomes difficult due to restricted mouth opening—discuss soft diet options and nutritional supplements with your dentist if swallowing or chewing becomes problematic.
 
@@ -82,13 +82,11 @@ For people in endemic regions where absolute cessation is culturally unrealistic
 
 Oral submucous fibrosis is a serious, progressive condition caused by areca nut chewing. Early cessation of areca nut is essential—no other treatment will halt progression if you continue using it. Once fibrosis develops, early treatment with steroid injections can halt or slow progression.
 
-Advanced fibrosis may require surgery. Regular monitoring for cancer development is critical because fibrosis carries significant cancer risk. If you have any signs of fibrosis or if you chew areca nut, see your dentist for evaluation and discuss cessation support.
+Advanced fibrosis may require surgery. Regular monitoring for cancer development is critical because fibrosis carries significant cancer risk. If you have any signs of fibrosis or if you chew areca nut, see your dentist for check and discuss cessation support.
 
 ## Conclusion
 
-The right approach depends on your individual needs, overall health, and what your dentist recommends after a thorough examination. Don't hesitate to ask questions during your appointments so you fully understand your options.
-
-Whether you're exploring treatment for the first time or looking into follow-up care, having a clear picture of what to expect helps you feel more confident at every step. Your dentist is your best resource for personalized guidance.
+Talk to your dentist about your specific situation and what approach works best for you. Advanced fibrosis may require surgery. Regular monitoring for cancer development is critical because fibrosis carries significant cancer risk. If you have any signs of fibrosis or if you chew areca nut, see your dentist for check and discuss cessation support.
 
 > **Key Takeaway:** Oral submucous fibrosis is a chronic condition where the tissues inside your mouth become progressively scarred and tight, causing your mouth opening to become progressively smaller over time.
 

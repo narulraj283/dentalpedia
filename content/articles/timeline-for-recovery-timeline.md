@@ -34,7 +34,7 @@ references:
 ---
 ## Understanding Your Recovery Timeline After Oral Surgery
 
-After your mouth surgery, you'll follow a predictable recovery path with pain, swelling, and activity limits that gradually improve each day. The first week is the most uncomfortable, but by week 2-3 you're usually back to normal life. Recovery speed depends on the type of surgery, your age, and your overall health. Understanding realistic timelines helps you plan your work and activities.
+After mouth surgery, healing follows a clear path. Pain, swelling, and limits get better each day. Week 1 is hardest, but by week 2-3 you're back to normal. How fast you heal depends on surgery type, age, and health. Knowing realistic times helps you plan work and activities.
 
 ## Pain Progression Timeline
 
@@ -43,29 +43,29 @@ After your mouth surgery, you'll follow a predictable recovery path with pain, s
 **Pain Intensity:** Severe (7-9/10)
 
 **What to Expect:**
-- Sharp pain right after the numbing medicine wears off
-- Pain usually starts 2-4 hours after surgery
-- Pain might be stronger than you expect
-- Worst pain is at 6-24 hours
+- Sharp pain when numbing wears off
+- Pain starts 2-4 hours after
+- Pain might be bad
+- Worst pain is 6-24 hours
 
 **Why It Hurts:**
-- Surgery damages tissues
-- Your body releases chemicals that cause inflammation
-- Your nerves become more sensitive
+- Surgery damages tissue
+- Your body releases swelling chemicals
+- Your nerves get extra sore
 
 **What the Pain Feels Like:**
-- Throbbing pain with your heartbeat
-- Sharp pain if you touch the surgical area
-- Dull aching in nearby tissues
+- Throbbing with your heartbeat
+- Sharp pain if you touch the area
+- Dull ache in nearby tissue
 
 **Pain Relief Tips:**
-- Take pain medicine before the numbing wears off
-- Take medicine on schedule (not just when needed)
-- Alternating ibuprofen and acetaminophen every 3 hours works best
-- Ice packs help reduce pain and swelling
+- Take medicine before numbing wears off
+- Take medicine on schedule
+- Switch between ibuprofen and acetaminophen every 3 hours
+- Ice packs cut pain and swelling
 
 **Remember:**
-Severe pain on day 0-1 is normal and expected. It doesn't mean something is wrong. Taking pain medicine on a schedule works better than waiting for pain to get bad.
+Severe pain day 0-1 is normal. It doesn't mean something is wrong. Taking medicine on schedule works better than waiting for bad pain.
 
 ### Days 2-3: Moderate Pain Phase
 
@@ -78,15 +78,15 @@ Severe pain on day 0-1 is normal and expected. It doesn't mean something is wron
 - Pain might be worse in the morning after swelling builds overnight
 
 **Why the Pain Changes:**
-- Inflammation peaks these days
-- White blood cells arrive to clean the wound
-- The clot stabilizes, reducing bleeding pain
-- Your tissues start adapting to the surgery
+- Swelling peaks these days
+- White cells arrive to clean up
+- The clot stabilizes
+- Your tissue starts adjusting
 
 **How to Manage:**
-- Keep taking pain medicine on schedule for 48-72 hours
-- By day 3-4, you can switch to taking medicine only when needed
-- Start using heat (warm cloth) instead of ice on days 2-3 to reduce swelling
+- Keep taking medicine on schedule for 48-72 hours
+- By day 3-4, take medicine only when needed
+- Use heat (warm cloth) instead of ice on days 2-3 to reduce swelling
 
 ### Days 4-7: Mild Pain Phase
 
@@ -99,14 +99,14 @@ Severe pain on day 0-1 is normal and expected. It doesn't mean something is wron
 - Pain should mostly be gone by 1 week
 
 **Why the Pain Decreases:**
-- Inflammation is getting better
-- Cleanup cells rebuild the damaged tissue
-- New healing tissue forms
-- Nerve endings become less sensitive
+- Swelling gets better
+- Cleanup cells rebuild tissue
+- New healing tissue grows
+- Nerves get less sore
 
 **How to Manage:**
-- Take over-the-counter pain medicine only if needed
-- By day 5-7, most people don't need any pain medicine
+- Take over-the-counter medicine only if needed
+- By day 5-7, most people don't need medicine
 
 ### Week 2+: Post-Pain Phase
 
@@ -126,7 +126,7 @@ If pain continues past week 1-2, call your dentist. This could mean infection, d
 
 **What to Expect:**
 - Very little swelling at first
-- Swelling gets worse as your body's inflammation process starts
+- Swelling gets worse as swelling process starts
 
 **Days 1-2: Swelling Getting Worse**
 
@@ -139,27 +139,27 @@ If pain continues past week 1-2, call your dentist. This could mean infection, d
 
 **Why Swelling Varies:**
 - How much damage the surgery caused
-- How many teeth were removed
+- How many teeth came out
 - How much bone was removed
 - Your age (younger people often swell more)
-- How much inflammation your body creates
+- How much your body swells
 
 **Where You'll See Swelling:**
-- Outside: Cheek, jaw line, chin (depends on surgery location)
-- Inside mouth: May have trouble opening your mouth if swelling is bad
+- Outside: Cheek, jaw line, chin (depends on location)
+- Inside mouth: May have trouble opening your mouth if bad
 
 ### Days 3-7: Progressive Improvement
 
 **Swelling Gets Better:**
-- You see improvement every day after the peak
-- About 30-50% less swelling by days 3-4
-- About 70-80% less swelling by day 5
-- About 90% or more less swelling by day 7
+- You see improvement each day after peak
+- About 30-50% less by days 3-4
+- About 70-80% less by day 5
+- About 90% or more less by day 7
 
 **What This Means:**
-- Swelling is mostly gone by the end of week 1
-- A little bit might still be there but you won't notice
-- You can go back to normal social and work activities
+- Swelling mostly gone by end of week 1
+- A little might be there but not noticeable
+- You can go back to normal social and work
 
 ### Weeks 2-4: Complete Resolution
 
@@ -176,17 +176,17 @@ Call your dentist if swelling gets worse after day 3-4 or if you have fever, fee
 ### Immediate Post-Operative Period (Day 0)
 
 **Rest and Limits:**
-- Rest completely; do nothing
-- You're still drowsy and clumsy from the numbing medicine
+- Rest only, do nothing
+- You're drowsy and clumsy from numbing medicine
 - You need an adult with you
 
 **Eating and Drinking:**
-- Don't eat or drink while numb (you could choke)
-- Drink carefully once feeling returns
-- Avoid hot drinks (could burn numb tissues)
+- Don't eat or drink while numb (choke risk)
+- Drink carefully when feeling comes back
+- Avoid hot drinks (could burn numb areas)
 
 **What to Do:**
-- Lie down or recline on pillows
+- Lie down or rest on pillows
 - Keep your head up to reduce swelling
 - Use ice packs for the first 6-8 hours
 
@@ -195,38 +195,38 @@ Call your dentist if swelling gets worse after day 3-4 or if you have fever, fee
 **Activity:**
 - Avoid hard exercise
 - Avoid heavy lifting
-- Avoid any strenuous activity
+- Avoid strenuous activity
 
 **Why:**
-Hard activity makes your heart beat faster and raises blood pressure, which causes more bleeding and swelling.
+Hard activity makes your heart beat fast. This causes more bleeding and swelling.
 
 **Going Back to Work:**
-- Office workers (at a desk) can return by day 2-3
-- Manual laborers (heavy work) should wait 7-10 days
+- Office work at a desk by day 2-3
+- Heavy work should wait 7-10 days
 
 **Eating:**
 - Liquids only for the first 24 hours
 - Soft foods on days 2-3
-- Eat gently and avoid the surgical area
+- Eat gently and avoid the area
 
 ### Days 4-7: Graduated Activity Increase
 
 **Activity:**
-- Easy walking is fine
-- Gentle stretching is fine
+- Easy walking is okay
+- Gentle stretching is okay
 - Avoid hard exercise
 - Avoid contact sports
 - Avoid heavy lifting
 
 **Going Back to Work:**
-- Desk workers can do full work by day 4-5
-- Manual workers can do light work by day 5-7
-- Full work by day 7-10 if you feel comfortable
+- Desk workers full work by day 4-5
+- Manual workers light work by day 5-7
+- Full work by day 7-10 if comfortable
 
 **Eating and Mouth Care:**
-- Move toward normal foods gradually
-- Avoid chewing on the surgical area
-- Gentle brushing by days 4-5 around the surgical site
+- Slowly go back to normal foods
+- Don't chew on the surgical area
+- Gentle brushing by days 4-5 around the area
 
 ### Weeks 2-4: Near-Normal Function
 
@@ -237,7 +237,7 @@ Hard activity makes your heart beat faster and raises blood pressure, which caus
 
 **Work:**
 - Full work by week 2
-- No limits for any job type
+- No limits for any job
 
 **Eating and Mouth Care:**
 - Normal foods by week 2
@@ -246,7 +246,7 @@ Hard activity makes your heart beat faster and raises blood pressure, which caus
 
 ## Return-to-Work Guidelines by Procedure Type
 
-### Easier Procedures (Simple Extraction, Implant Placement, Biopsy)
+### Easier Procedures (Simple Extraction, Implant, Biopsy)
 
 **What to Expect:**
 - Little swelling
@@ -255,7 +255,7 @@ Hard activity makes your heart beat faster and raises blood pressure, which caus
 - Manual work: Day 5-7
 - Full work: Day 7-10
 
-### Medium Procedures (Multiple Extractions, Bone Grafting, Sinus Lift)
+### Medium Procedures (Multiple Extractions, Bone Graft, Sinus Lift)
 
 **What to Expect:**
 - Medium swelling (peak day 2-3)
@@ -264,7 +264,7 @@ Hard activity makes your heart beat faster and raises blood pressure, which caus
 - Manual work: Day 10-14
 - Full work: Week 2-3
 
-### Complex Procedures (Jaw Surgery, Large Reconstruction, Special Implants)
+### Complex Procedures (Jaw Surgery, Large Rebuild, Special Implants)
 
 **What to Expect:**
 - Heavy swelling (peak day 2-3, lasts 1-2 weeks)
@@ -278,80 +278,79 @@ Hard activity makes your heart beat faster and raises blood pressure, which caus
 ### Caloric Requirements
 
 **Healing Needs More Food:**
-Surgery makes your body burn more calories and need more protein and vitamins.
+Surgery makes your body burn more calories. You need more protein and vitamins.
 
-**Eat More:** Add 500-750 calories each day for the first 1-2 weeks to help healing and fight infection.
+**Eat More:** Add 500-750 calories each day for 1-2 weeks. This helps healing and fights infection.
 
-**Protein:** Eat 1.2-1.5 grams of protein for every kilogram of body weight (that's more than normal)
+**Protein:** Eat 1.2-1.5 grams for every kilogram of body weight
 
 ### Macronutrient Emphasis
 
-**Protein Sources (Easy to Consume):**
+**Protein Sources (Easy to Eat):**
 - Ground meat, fish, chicken
 - Eggs and soft omelets
-- Dairy (yogurt, cottage cheese, milk)
+- Dairy (yogurt, cheese, milk)
 - Protein smoothies
-- Legume purees
+- Bean purees
 
 **Carbohydrates:**
-- Energy source supporting tissue repair
+- Gives energy to fix tissue
 - Soft grains, pasta, rice
-- Fruits and fruit smoothies
+- Fruits and smoothies
 
 **Healthy Fats:**
-- Omega-3 fatty acids (fish, seeds) provide anti-inflammatory benefits
-- Supportive of healing processes
+- Omega-3 fatty acids (fish, seeds) reduce swelling
+- Help healing
 
 ### Micronutrient Emphasis
 
 **Vitamin C:**
-- Helps your body make collagen (a protein that holds tissue together)
-- Take 1,000-2,000 mg daily (much more than normal)
-- Get it from: Oranges, berries, supplements
+- Helps your body make collagen (protein)
+- Take 1,000-2,000 mg daily
+- Get from: Oranges, berries, pills
 
 **Vitamin A:**
 - Helps new skin grow
 - Take 5,000-10,000 IU daily
-- Get it from: Carrots, sweet potatoes, liver, supplements
+- Get from: Carrots, sweet potatoes, pills
 
 **Zinc:**
-- Helps your immune system and healing
+- Helps your immune system
 - Take 15-30 mg daily
-- Get it from: Meat, shellfish, nuts, seeds, supplements
+- Get from: Meat, shellfish, nuts, seeds, pills
 
 **Iron:**
-- Helps oxygen get to healing tissues
+- Gets air to healing tissue
 - Important for women and vegetarians
-- Get enough daily
-- Get it from: Meat, beans, fortified grains, supplements
+- Get from: Meat, beans, fortified grains, pills
 
 ### Hydration
 
 **Fluid Requirements:**
-- Increased fluid intake supports healing and reduces constipation
-- Target: 8-10 glasses daily (64-80 oz)
-- Avoid excessive caffeine and alcohol
+- More fluids help healing and stop constipation
+- Goal: 8-10 glasses daily (64-80 oz)
+- Avoid too much caffeine and alcohol
 
 **Fluid Choices:**
-- Water primary choice
-- Sports drinks provide electrolytes and carbohydrates
-- Herbal teas acceptable
-- Avoid alcohol (impairs healing, increases bleeding risk)
+- Water is best
+- Sports drinks have minerals and carbs
+- Herbal tea is okay
+- Avoid alcohol (slows healing, more bleeding)
 
 ## Sensory Alterations and Their Timeline
 
 ### Temporary Numbness
 
 **Temporary Numbness:**
-It's common after surgery if nerves are near the surgery area.
+Common after surgery if nerves are near the area.
 
 **Timeline:**
-- Starts right after surgery (from numbing medicine)
+- Starts right after surgery
 - Usually goes away in hours to weeks
-- Most go away within 2-4 weeks
+- Most go away in 2-4 weeks
 
 **Why:**
-Surgery causes nerve inflammation (swelling). The swelling goes down over time and nerves work again.
+Surgery makes nerves swell. The swelling goes down and nerves work again.
 
 **What to Do:**
 - Don't worry—numbness usually goes away
@@ -360,21 +359,21 @@ Surgery causes nerve inflammation (swelling). The swelling goes down over time a
 
 **Abnormal Sensation (Rare)**
 
-**How Often:** Rare (less than 1% of extractions)
+**How Often:** Rare (less than 1%)
 
 **What It Feels Like:**
-- Tingling, burning, or strange feeling lasting more than 8 weeks
-- May affect your lip, chin, teeth, or tongue and floor of mouth
+- Tingling, burning, or strange feeling for more than 8 weeks
+- May affect your lip, chin, teeth, tongue, or mouth floor
 
 **Timeline:**
-- Most get better within 3-6 months
+- Most get better in 3-6 months
 - Some take up to 12 months
-- Few become permanent
+- Few stay permanent
 
 **What to Do:**
 - See a nerve doctor if it really bothers you
-- Some medicines can help (talk to your dentist)
-- Most get better without specific treatment
+- Some medicines can help (ask your dentist)
+- Most get better without treatment
 
 ## Activity Progression Schedule
 
@@ -417,11 +416,11 @@ Surgery causes nerve inflammation (swelling). The swelling goes down over time a
 
 ## Conclusion
 
-Taking care of your dental health is one of the best investments you can make in your overall well-being. Learn more about [Swelling Reduction Complete Guide](/article/swelling-reduction-complete-guide.html) for additional guidance. Understanding general oral surgery recovery timeline and functional helps you feel more confident when discussing options with your dentist and making decisions about your care.
+Taking care of your teeth is one of the best health moves. Learn more about [Swelling Reduction Complete Guide](/article/swelling-reduction-complete-guide.html) for additional guidance. Understanding mouth surgery recovery helps you talk with your dentist and make good choices.
 
-Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+Each person is different. What works for one may not work for another. Your dentist can make a good plan to help you heal.
 
-Swelling peaks around day 2-3 then decreases daily. You can return to sitting-down work by day 3-4 for most people, but manual labor jobs should wait 7-10 days. Most people are back to normal activities and exercise by week 2-3. Every person heals a bit differently, so follow your dentist's guidance and don't rush activity.
+Swelling peaks around day 2-3 then gets better daily. You can do desk work by day 3-4. Manual jobs should wait 7-10 days. Most people are back to normal by week 2-3. Every person heals differently, so follow your dentist's guidance.
 
 > **Key Takeaway:** Recovery from oral surgery is fastest when you follow the recommended timeline for pain management, activity, and eating. Learn more about [Cost of Extraction Complications](/article/cost-of-extraction-complications.html) for additional guidance. Expect severe pain day 1, moderate pain days 2-3, and minimal pain by day 7.
 

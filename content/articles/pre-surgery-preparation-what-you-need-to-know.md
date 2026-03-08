@@ -18,17 +18,17 @@ references:
 ---
 ## Why Pre-Operative Preparation Matters
 
-Before surgery, your surgeon assesses your medical history, identifies risks, optimizes medical conditions, and establishes baseline status. Poor preparation creates serious risks: heart events, anesthetic problems, infection, bleeding, or slow healing.
+Before surgery, your surgeon assesses your medical history, identifies risks, optimizes medical conditions, and establishes baseline status. Poor prep creates serious risks: heart events, anesthetic problems, infection, bleeding, or slow healing.
 
-Pre-operative assessment includes medical evaluation, medication review, anesthetic risks, and informed consent. You must understand the risks and alternatives. This article explains risks from inadequate preparation and how to prepare completely.
+Pre-operative assessment includes medical check, medicine review, anesthetic risks, and informed consent. You must understand the risks and other options. This article explains risks from inadequate prep and how to prepare completely.
 
 ## Complete Medical History
 
 Medical history is the foundation for safety assessment. Many patients give incomplete information by forgetting or by leaving out what they think is unrelated to dental surgery.
 
-Your dentist uses written forms asking about heart disease, lung disease, diabetes, bleeding disorders, medications, and previous drug or anesthetic reactions. Follow-up questions get more detail.
+Your dentist uses written forms asking about heart disease, lung disease, diabetes, bleeding disorders, medicines, and previous drug or anesthetic reactions. Follow-up questions get more detail.
 
-Tell your dentist all medications: over-the-counter, herbal, and prescription. Report any past anesthetic problems in detail. Some complications create serious risks during surgery.
+Tell your dentist all medicines: over-the-counter, herbal, and prescription. Report any past anesthetic problems in detail. Some problems create serious risks during surgery.
 
 ## Cardiovascular Risk Assessment
 
@@ -38,9 +38,9 @@ Your dentist assesses heart disease and its stability. Ask your doctor for infor
 
 ## Drug Interactions
 
-Taking multiple medications creates risks of dangerous interactions with anesthesia, pain relievers, and antibiotics used in surgery. NSAIDs (ibuprofen) interact with blood thinners, blood pressure medicines, and kidney medications.
+Taking multiple medicines creates risks of dangerous interactions with anesthesia, pain relievers, and antibiotics used in surgery. NSAIDs (ibuprofen) interact with blood thinners, blood pressure medicines, and kidney medicines.
 
-Your dentist gets your complete medication list and checks for interactions. Some medications may need to be stopped temporarily before surgery (with doctor approval) to reduce risks.
+Your dentist gets your complete medicine list and checks for interactions. Some medicines may need to be stopped temporarily before surgery (with doctor approval) to reduce risks.
 
 ## Anticoagulant Management
 
@@ -50,9 +50,9 @@ If you take warfarin (a blood thinner), a blood test (INR) within one week of su
 
 ## Antiplatelet Agents
 
-Antiplatelet medications (aspirin) protect your heart by preventing clots. Stopping them before surgery increases clot risk. Keep taking aspirin if you're at high heart risk.
+Antiplatelet medicines (aspirin) protect your heart by preventing clots. Stopping them before surgery increases clot risk. Keep taking aspirin if you're at high heart risk.
 
-If you take two antiplatelet medications, your dentist and doctor decide which to continue. This requires careful consideration.
+If you take two antiplatelet medicines, your dentist and doctor decide which to continue. This requires careful factor.
 
 ## Fasting Requirements
 
@@ -68,23 +68,23 @@ ASA I and II are low risk for routine procedures with proper fasting. ASA III (s
 
 ## Informed Consent
 
-Informed consent means your dentist explains risks, benefits, and alternatives. You must understand:
-- Common complications (bleeding, infection, nerve injury)
-- Rare serious complications
-- Treatment alternatives
+Informed consent means your dentist explains risks, benefits, and other options. You must understand:
+- Common problems (bleeding, infection, nerve injury)
+- Rare serious problems
+- Treatment other options
 - Your right to ask questions
 
 Remember: you can decline treatment even after initial discussion.
 
 ## Anesthetic Selection
 
-Anesthetic choice depends on your health and risks. Some local anesthetics with added agents interact with medications. If you have uncontrolled high blood pressure, irregular heartbeat, or heart disease, use anesthetic without these agents.
+Anesthetic choice depends on your health and risks. Some local anesthetics with added agents interact with medicines. If you have uncontrolled high blood pressure, irregular heartbeat, or heart disease, use anesthetic without these agents.
 
 Discuss anesthetic options with your dentist. Mention preferences and concerns about specific agents.
 
 ## Pre-Operative Vital Signs
 
-Before surgery, your dentist checks blood pressure, heart rate, breathing rate, and oxygen level. This establishes a baseline to compare after surgery. High blood pressure before surgery may be anxiety or may be uncontrolled hypertension that needs evaluation before proceeding.
+Before surgery, your dentist checks blood pressure, heart rate, breathing rate, and oxygen level. This establishes a baseline to compare after surgery. High blood pressure before surgery may be anxiety or may be uncontrolled hypertension that needs check before proceeding.
 
 *Always consult your dentist to determine the best approach for your individual situation.*
 
@@ -93,9 +93,9 @@ For more information, see [Prevention and Management of Alveolar Osteitis](/arti
 
 ## Conclusion
 
-Comprehensive pre-operative preparation represents essential foundation for safe surgical outcomes. Complete and accurate medical history, cardiovascular risk stratification, drug interaction assessment, appropriate anticoagulation and antiplatelet management, adequate fasting, physical status classification, informed consent, and baseline vital signs assessment collectively identify risk factors and allow modification of surgical planning to minimize perioperative complications. Your surgeon's investment in thorough pre-operative assessment ensures superior patient outcomes.
+Full pre-operative prep represents essential foundation for safe surgical outcomes. Complete and accurate medical history, cardiovascular risk stratification, drug interaction assessment, appropriate anticoagulation and antiplatelet management, adequate fasting, physical status classification, informed consent. Baseline vital signs assessment collectively identify risk factors and allow change of surgical planning to minimize perioperative problems. Your surgeon's investment in thorough pre-operative assessment ensures superior patient outcomes.
 
-Your complete honesty about your medical history, medications, and previous anesthetic experiences enables your surgeon to provide safe care. Don't omit information because you think it's unrelated to dental surgery—let your surgeon determine what's relevant. This information remains confidential and is used solely to protect your safety.
+Your complete honesty about your medical history, medicines, and previous anesthetic experiences enables your surgeon to provide safe care. Don't omit information because you think it's unrelated to dental surgery—let your surgeon determine what's relevant. This information remains confidential and is used solely to protect your safety.
 
 > **Key Takeaway:** ## Key Takeaway: Full Disclosure Ensures Safety
 
