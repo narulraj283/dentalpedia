@@ -33,9 +33,9 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/18619091/
 ---
 
-## Preoperative Assessment and Planning
+## Planning Your Wisdom Tooth Extraction
 
-Successful third molar extraction begins with comprehensive preoperative evaluation. Medical and dental history assessment must identify contraindications, bleeding disorders, anticoagulation therapy (warfarin with INR monitoring, newer direct oral anticoagulants), immunosuppression, and allergy history. Vital sign documentation establishes baseline blood pressure, heart rate (target 60-100 bpm), and oxygen saturation baseline. For medically complex patients, consultation with the primary care physician or relevant specialists confirms surgical safety clearance.
+Before your extraction, your dentist or surgeon performs comprehensive evaluation. They review medical history to identify any conditions affecting surgery (bleeding disorders, medications that affect healing, immunosuppression). They take baseline blood pressure and heart rate. For medically complex patients, they contact your primary care physician for surgical clearance. This preparation ensures your safety.
 
 Radiographic assessment determines surgical complexity and approach selection. Panoramic radiography identifies tooth position, impaction depth, angulation, and root morphology. Periapical radiographs supplement panoramic imaging to evaluate periodontal status and detect periapical pathology. CBCT imaging (cone-beam computed tomography) should be reserved for complex cases involving: extreme angulation, close anatomic relationships to inferior alveolar canal (within 2 mm proximity), close maxillary sinus contact, or previous failed extraction attempts. CBCT sensitivity for accurate inferior alveolar canal visualization exceeds 90%, compared to conventional radiography sensitivity of 60-70%.
 
@@ -93,4 +93,17 @@ Oral hygiene modifications begin 24 hours post-extraction: gentle warm salt rins
 
 ## Conclusion
 
-Wisdom tooth extraction requires systematic patient evaluation, appropriate anesthesia selection, skilled operative technique, and comprehensive postoperative management. Success depends on accurate surgical difficulty assessment, meticulous hemostasis, nerve preservation protocols, and patient education emphasizing activity restrictions and wound care. Complication rates—including dry socket (alveolar osteitis) at 1-5%, temporary paresthesia at 0.4-3.8%, and permanent nerve injury at 0.1-0.5%—should be discussed during informed consent. With proper planning and execution, third molar extraction achieves high success rates with minimal morbidity.
+Wisdom tooth extraction is a common procedure that, when properly planned and executed, has a high success rate with minimal complications. Your surgeon evaluates your medical history, assesses surgical complexity, selects appropriate anesthesia, and uses meticulous surgical technique. Comprehensive postoperative care—activity restrictions, pain management, and proper wound hygiene—promotes healing. Complications (dry socket at 1-5%, temporary numbness at 0.4-3.8%, permanent numbness at 0.1-0.5%) are possible but uncommon with proper technique.
+
+For more information on deciding whether extraction is necessary, see our article on [wisdom teeth: do they always need removal](/article/wisdom-teeth-do-they-always-need-to-be-removed.html) and our guide on [what you need to know about wisdom teeth extraction](/article/wisdom-teeth-extraction-what-you-need-to-know.html).
+
+## Key Takeaway
+
+Wisdom tooth extraction requires medical clearance, surgical planning, skilled operative technique, meticulous hemostasis, and comprehensive postoperative management. Proper planning and patient education minimize complications while promoting optimal healing.
+
+
+## Related Articles
+
+- [Bone Grafting For Implant Preparation](/article/bone-grafting-for-implant-preparation.html)
+- [All On Four Four Implant Full Arch](/article/all-on-four-four-implant-full-arch.html)
+- [Salivary Gland Surgery Removal And Reconstruction](/article/salivary-gland-surgery-removal-and-reconstruction.html)
