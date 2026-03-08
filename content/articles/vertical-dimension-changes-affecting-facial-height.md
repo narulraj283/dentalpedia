@@ -31,148 +31,93 @@ references:
     url: https://pubmed.ncbi.nlm.nih.gov/25509812
 ---
 
-## Introduction
+## What Is Vertical Dimension?
 
-Vertical dimension of occlusion (VDO) represents the distance between two facial landmarks when the teeth are in maximum intercuspation. Changes in vertical dimension profoundly affect facial appearance, function, and comfort. Loss of vertical dimension from dental wear, tooth loss, or bone resorption creates a collapsed appearance with pronounced facial wrinkles and reduced lower facial height. Understanding vertical dimension assessment, the consequences of its loss, and restoration techniques is essential for comprehensive prosthodontic treatment planning.
+Have you ever looked at old photos of yourself and noticed your face seemed taller? Or perhaps you've observed that some people look significantly older than their actual age, with a collapsed, pinched appearance to the lower face? These changes often relate to something dentists call "vertical dimension"—essentially the height of your lower face when your teeth are closed together.
 
-## Definition and Anatomy
+Your face naturally divides into three sections: upper (forehead to eyebrows), middle (eyebrows to nose tip), and lower (nose tip to chin). Learn more about [overlay full cuspal coverage](/article/overlay-full-cuspal-coverage.html) for additional guidance. In a well-proportioned face, the lower third takes up about 40 to 45 percent of total facial height. This proportion is a major factor in how young, attractive, and balanced your face appears. When vertical dimension decreases, that lower third gets smaller, creating a prematurely aged appearance with deepened wrinkles and a sunken look that can make people look years older than they actually are.
 
-**Vertical Dimension of Occlusion**
+Understanding what vertical dimension is and how it changes with time helps explain why some people's smiles look healthier and younger than others, and what can be done about it.
 
-Vertical dimension of occlusion is the distance between a fixed point on the maxilla and a fixed point on the mandible when the teeth are in centric occlusion. This is typically measured as the distance between the tip of the nose and the tip of the chin, or between the lower border of the orbit and the lower border of the mandible. In a normal adult, lower facial height typically comprises approximately 40 to 45% of total facial height.
+## How Vertical Dimension Changes Over Time
 
-**Vertical Dimension of Rest**
+Several common dental problems gradually reduce vertical dimension, slowly collapsing the lower face over months and years. Learn more about [bridge pontic design false](/article/bridge-pontic-design-false-tooth-support.html) for additional guidance.
 
-Vertical dimension of rest (VDR), also called vertical dimension of the resting position, is the distance between the same facial landmarks when the mandible is in its resting position with the lips at rest and no muscular tension. The difference between VDO and VDR is the freeway space—typically 2 to 4 millimeters.
+**Tooth wear and grinding** is probably the most obvious cause. If you grind your teeth at night or clench them during the day, the chewing surfaces wear down gradually. Over years, this wear reduces the distance between your upper and lower teeth. Sometimes people don't even realize this is happening until someone points out they look different.
 
-**Freeway Space**
+**Tooth loss** is another major cause. When you lose teeth, the jawbone underneath begins to shrink. This happens naturally as the bone is no longer needed to support tooth roots. A single lost tooth can reduce vertical dimension by 1 to 2 millimeters. Lose several teeth, and the reduction becomes noticeable. Patients wearing dentures with multiple missing teeth often experience significant vertical dimension loss.
 
-Freeway space is the distance between the maxillary and mandibular teeth when the mandible is in its physiologic resting position. Adequate freeway space is essential for neuromuscular comfort and functional mandibular movement. Freeway space is lost when vertical dimension is reduced below normal levels.
+**Worn-out dental work** can also be a culprit. If you've had crowns, bridges, or dentures for many years, they may have been made with inadequate vertical dimension. Older dental technology sometimes resulted in restorations that were slightly too thin or didn't restore your vertical dimension properly.
 
-## Causes of Vertical Dimension Loss
+**Severe gum disease** contributes too. When periodontitis advances, bone is lost around the teeth, which can affect the vertical relationships in your bite and facial height.
 
-**Dental Wear and Attrition**
+## How Vertical Dimension Loss Changes Your Appearance
 
-Progressive wear of the occlusal surfaces of teeth gradually reduces the distance between the maxilla and mandible. Patients with severe bruxism, clenching, or aggressive chewing habits experience accelerated tooth wear. Over many years, this wear can reduce vertical dimension by several millimeters.
+The cosmetic changes from vertical dimension loss are significant and often troubling to patients. The most obvious change is deepened facial wrinkles, particularly the lines running from your nose to the corners of your mouth (nasolabial folds) and the lines extending downward from the corners of your mouth (marionette lines). These wrinkles deepen and become more prominent because your face is literally collapsing inward.
 
-Patients with abrasive diets, acidic beverages leading to erosion, or parafunctional habits lose vertical dimension progressively. Once vertical dimension is lost, restoration requires prosthodontic intervention.
+Your lips may also appear thinner as your lower lip gets pulled closer to your chin. The corners of your mouth may droop, creating a sad or tired expression even when you're feeling great. Many patients say they look prematurely aged or that people assume they're older than they really are.
 
-**Tooth Loss and Alveolar Bone Resorption**
+The overall facial proportion becomes unbalanced. Instead of that attractive 40-45 percent lower facial height, your lower face might be only 35 percent or less of your total facial height, creating a top-heavy appearance that most people find less attractive.
 
-Loss of teeth is followed by progressive resorption of the alveolar bone that previously supported the tooth roots. After tooth extraction, the bone resorbs rapidly in the first six months, then more slowly over subsequent years. Complete resorption of a tooth socket can reduce vertical dimension by 1 to 2 millimeters per missing tooth.
+## Functional Problems Beyond Appearance
 
-Patients with multiple missing teeth or complete dentures experience significant vertical dimension loss. The extent of resorption varies among patients; some experience rapid substantial resorption while others resorb more slowly. Systemic factors including age, bone quality, and estrogen status influence resorption rates.
+Beyond the cosmetic changes, vertical dimension loss creates functional problems that affect comfort and quality of life.
 
-**Fixed Prosthetic Failures**
+When your teeth wear down, the space between them decreases. Your jaw needs a tiny bit of space—usually 2 to 4 millimeters—when your muscles are relaxed. Without this "freeway space," your jaw muscles stay tense and your jaw joint may hurt. Some patients develop temporomandibular joint (TMJ) pain, clicking, or popping when vertical dimension is significantly reduced.
 
-Older fixed prostheses including crowns and bridges may have been constructed with inadequate vertical dimension. Repair or replacement of these restorations with proper vertical dimension is often necessary.
+Chewing can become less efficient when your bite doesn't have proper vertical dimension. You can't generate the same biting force, and breaking down food becomes more difficult. This can affect nutrition and quality of life, especially in older adults.
 
-**Root Resorption and Periodontal Disease**
+Some people even notice subtle changes in how they speak. If vertical dimension is severely reduced, sibilant sounds (like "S") might change slightly, though this is usually a minor issue.
 
-Severe periodontal disease with progressive alveolar bone loss reduces the distance between the teeth and the alveolar crest. Combined with tooth wear, significant vertical dimension reduction can occur.
+## How Dentists Assess Vertical Dimension
 
-## Consequences of Vertical Dimension Loss
+Your dentist has several ways to evaluate whether you've lost vertical dimension and by how much.
 
-**Facial Esthetic Changes**
+**Looking at your face** is the first step. Your dentist will observe the proportions of your face and note whether the lower third seems proportionally smaller than it should be. Comparing current photos to old photos of you years ago reveals whether changes have occurred.
 
-Reduced vertical dimension creates a collapsed facial appearance with pronounced vertical facial wrinkles, particularly around the mouth. The naso-labial folds deepen, the marionette lines become more prominent, and the corners of the mouth droop. These changes create a prematurely aged appearance.
+**Measuring your face** involves marking reference points—from the tip of your nose to the tip of your chin, for example—and measuring that distance. Comparing this to standard proportions gives clues about vertical dimension loss.
 
-The lower facial third becomes proportionally reduced. Rather than comprising 40 to 45% of total facial height, it may be reduced to 35% or less. This imbalance creates an esthetically displeasing facial proportion.
+**Listening to how you speak** helps too. Your dentist might ask you to repeat certain words or sounds. Sibilant sounds (like "s" in "Sue") require your teeth to be very close together, and observing where your teeth position naturally when making these sounds provides information about proper vertical dimension.
 
-The lips may appear thinner as the lower lip becomes more closely approximated to the chin. Lip competence may be affected, with possible lip incompetence and anterior open bite.
+**Taking radiographs** (X-rays) shows whether bone has been lost around your teeth and reveals the angle and relationships of your facial structures, which gives more precise information about vertical dimension.
 
-**Functional Consequences**
+## Restoring Lost Vertical Dimension
 
-Loss of freeway space removes the neuromuscular space for comfortable mandibular rest position. Patients with significantly reduced freeway space report discomfort, jaw fatigue, or temporomandibular joint (TMJ) pain.
+The good news is that lost vertical dimension can be restored through prosthodontic treatment. However, the approach depends on your specific situation.
 
-Chewing efficiency may be compromised due to reduced jaw opening space and altered occlusal forces. Mastication may be less efficient, placing burden on the patient's ability to adequately prepare food for swallowing.
+For patients with remaining teeth, your dentist might recommend crowns or bridges constructed with proper vertical dimension. If you're missing teeth, the remaining teeth can be restored to appropriate height. Dental implants replacing missing teeth can also be constructed with proper vertical dimension from the start.
 
-**Speech and Phonetic Changes**
+For completely edentulous patients (those without any natural teeth) requiring dentures, the dentures are constructed with measured vertical dimension calculated from your closest speaking space—the distance between your teeth when you naturally say words with "s" sounds.
 
-Some patients notice subtle changes in speech when vertical dimension is significantly reduced, particularly in sibilant sounds. Restoration of proper vertical dimension usually normalizes speech.
+Restoring vertical dimension is often done carefully and sometimes in stages. If your vertical dimension has been lost for a long time, a very large immediate increase might feel uncomfortable initially. Your dentist might recommend a gradual approach, first restoring some dimension, allowing you to adapt for several weeks, then completing the final restoration.
 
-**Psychological and Social Impact**
+## The Adaptation Process
 
-The aged appearance resulting from vertical dimension loss can profoundly affect patient confidence and social interaction. Some patients report feeling significantly older due to the premature aging appearance.
+It's important to understand that when vertical dimension is restored, your mouth and jaw need time to adapt to the new position. Most people adapt within a few weeks. Your muscles gradually adjust to the new vertical relationship, and any initial discomfort usually resolves.
 
-## Assessment of Vertical Dimension
+However, if you've been wearing dentures with inadequate vertical dimension for a long time, the restoration might initially feel different or uncomfortable. This is normal. Your dentist will monitor your adaptation and can make adjustments if needed. Patience during this adjustment period is important—most patients report that once they adapt, they appreciate how much better they look and feel.
 
-**Photographic Assessment**
+## Combining Treatments for Best Results
 
-Obtain frontal facial photographs and measure the ratio of lower facial height to total facial height. In a normal face, this ratio is approximately 40 to 45%. A ratio significantly below this suggests reduced vertical dimension.
+Restoring vertical dimension often involves multiple components. You might need crowns on remaining teeth to restore their height, dental implants to replace missing teeth, and possibly dentures or other restorations to complete the plan. Your dentist will develop a comprehensive treatment plan addressing all aspects of your dental health while restoring appropriate vertical dimension.
 
-Compare facial photographs of the patient taken years earlier, if available. Progressive facial collapse is evident when comparing older and recent photographs.
+Some patients also benefit from cosmetic procedures like dermal fillers or similar treatments to enhance the soft tissue improvements gained from vertical dimension restoration.
 
-**Clinical Examination**
 
-Observe the patient's facial proportions with the lips at rest. Excessive deepening of the naso-labial fold or marionette lines suggests vertical dimension loss. Examine the freeway space by observing the patient's resting position.
-
-Ask the patient to open and close the mouth, observing the amount of opening space and the comfort of opening and closing motions.
-
-**Closest Speaking Space Method**
-
-The closest speaking space method (CSS) measures the vertical distance between the teeth when the patient speaks. Have the patient repeat words or phrases with sibilant sounds (such as "s"), which brings the teeth closer together than normal speaking position. The distance between the teeth during sibilant pronunciation represents the closest speaking space, typically 1 to 2 millimeters.
-
-The vertical dimension of occlusion can be estimated by adding the measured CSS to the freeway space (typically 2 to 4 millimeters). This method provides a functional estimate of appropriate vertical dimension.
-
-**Cephalometric Analysis**
-
-Lateral cephalometric radiographs can be analyzed to measure facial heights. The anterior facial height (measured from nasion to menton) and posterior facial height (from sella to gonion) can be measured. A posterior-to-anterior facial height ratio of approximately 0.65 to 0.75 is considered normal.
-
-Comparison of current cephalometric radiographs to radiographs taken years earlier, if available, can demonstrate progressive vertical dimension loss.
-
-**Phonetic Assessment**
-
-The patient can be asked to pronounce specific words or sounds that require particular vertical dimensions. The "M" sound requires the lips to be touching with teeth slightly apart. The "S" sound requires the teeth to be very close together. Observation of these phonetic positions provides functional information about appropriate vertical dimension.
-
-## Functional Considerations in Vertical Dimension Restoration
-
-**Freeway Space Restoration**
-
-When restoring lost vertical dimension, establish appropriate freeway space, typically 2 to 4 millimeters. Inadequate freeway space (< 1 mm) creates TMJ discomfort and muscle tension. Excessive freeway space (> 5 mm) may create an abnormal appearance and poor lip seal.
-
-**Adaptation to Increased Vertical Dimension**
-
-If vertical dimension has been lost significantly and must be restored substantially, the change should ideally be made gradually. Some prosthodontists recommend restoring lost vertical dimension in stages—first with restorative treatment, then reassessing after several months before completing final restorations.
-
-Large immediate increases in vertical dimension (> 4 to 5 mm) may create initial discomfort and require adaptation. Most patients adapt to moderate increases (2 to 3 mm) within several weeks. Neuromuscular adaptation occurs as the patient's jaw muscles adjust to the new vertical dimension.
-
-## Vertical Dimension Restoration Methods
-
-**Edentulous Patients with Complete Dentures**
-
-Patients with severe vertical dimension loss due to complete tooth loss require denture construction with proper vertical dimension. Measure the closest speaking space to estimate appropriate vertical dimension, then construct dentures with this dimension.
-
-If the patient has worn dentures with inadequate vertical dimension, they may initially feel uncomfortable with properly restored vertical dimension. Explain that adaptation will occur over several weeks and that improved function and appearance will result.
-
-**Dentate Patients Requiring Restorations**
-
-Patients with remaining teeth requiring crowns, fixed bridges, or implant-supported restorations should have these restorations constructed with proper vertical dimension. If multiple restorations are needed, they should be coordinated to establish consistent and appropriate vertical dimension.
-
-**Partial Edentulous Patients**
-
-Patients with some remaining teeth and missing teeth may require a combination of fixed restorations (crowns, fixed bridges, implants) and removable partial dentures. All restorations should be constructed to achieve consistent vertical dimension.
-
-## Combined Esthetic and Functional Restoration
-
-**Integrated Treatment Planning**
-
-Comprehensive restoration of lost vertical dimension often requires multiple components. Restorative dentistry (crowns, implants), prosthodontics (dentures, implant prosthesis), and possibly periodontal or surgical treatment may be needed to achieve optimal results.
-
-**Soft Tissue Esthetics**
-
-Restoration of vertical dimension improves facial proportions and reduces wrinkles, but may not completely eliminate facial wrinkles in older patients. Some patients may benefit from cosmetic procedures like dermal fillers or botulinum toxin injection to enhance the esthetic results of vertical dimension restoration.
-
-## Patient Communication and Expectations
-
-**Before and After Analysis**
-
-Show the patient photographs and images demonstrating how restoration of vertical dimension will improve facial proportions. Digital smile design software can be used to preview the esthetic changes anticipated from vertical dimension restoration.
-
-**Realistic Expectations**
-
-Discuss with the patient that while vertical dimension restoration will improve esthetic and functional outcomes, it will not eliminate all facial aging signs. Proper esthetic outcomes depend on appropriate vertical dimension, but other factors including soft tissue characteristics also influence facial esthetics.
 
 ## Conclusion
 
-Vertical dimension of occlusion fundamentally affects facial esthetics, function, and patient comfort. Loss of vertical dimension from dental wear, tooth loss, or other causes creates an aged, collapsed facial appearance and functional limitations. Assessment of vertical dimension using photographic, clinical, phonetic, and cephalometric methods allows accurate diagnosis of vertical dimension loss. Comprehensive restoration of lost vertical dimension through prosthodontic treatment planning improves facial proportions, restores function, and enhances patient appearance and confidence. Proper understanding of vertical dimension principles is essential for comprehensive dental treatment planning.
+Taking care of your dental health is one of the best investments you can make in your overall well-being. Understanding vertical dimension changes affecting facial height helps you feel more confident when discussing options with your dentist and making decisions about your care.
+
+Remember that every person's situation is unique. What works well for one patient may not be the ideal approach for another. Your dentist can evaluate your specific needs and recommend the treatment plan that gives you the best chance of a great outcome.
+
+## Key Takeaway
+
+Vertical dimension of occlusion—the height of your lower face when your teeth are closed—profoundly affects your appearance, comfort, and function. Loss of vertical dimension from dental wear, tooth loss, or worn restorations creates a prematurely aged appearance with deepened wrinkles, potential TMJ pain, and reduced chewing efficiency. Assessment using facial measurements, speaking space evaluation, and radiographs identifies vertical dimension loss. Professional restoration through crowns, implants, and dentures restores both the youthful appearance and functional comfort that vertical dimension loss took away.
+
+## Related Articles
+
+- [Temporary Crown Protecting Tooth During Treatment](/article/temporary-crown-protecting-tooth-during-treatment.html)
+- [Why Cosmetic Crown Selection Matters](/article/why-cosmetic-crown-selection-matters.html)
+- [Denture Adhesive: Improving Retention](/article/denture-adhesive-improving-retention.html)
+
