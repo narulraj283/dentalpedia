@@ -5,6 +5,7 @@ excerpt: A mouth ulcer (also called a canker sore) is a small, painful crater in
   soft tissue inside your mouth. Usually they're white or yellowish in the
 slug: timeline-for-mouth-ulcer-care
 title: Timeline for Mouth Ulcer Care
+date: 2026-03-05
 ---
 ## What Is a Mouth Ulcer?
 

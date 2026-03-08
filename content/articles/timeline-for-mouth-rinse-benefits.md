@@ -5,6 +5,7 @@ excerpt: Mouthwash is a supplement to brushing and flossing—not a replacement.
   rinses fight bacteria, some strengthen enamel, and some freshen your breath.
 slug: timeline-for-mouth-rinse-benefits
 title: Timeline for Mouth Rinse Benefits
+date: 2026-03-05
 ---
 ## Why Your Dentist Recommends Rinse
 

@@ -5,6 +5,7 @@ excerpt: A "gummy smile"—showing excessive gum when you smile—bothers many p
   Dentists, who see thousands of smiles, notice gum display that most people would
 slug: risk-and-concerns-with-gummy-smile-fix
 title: Risk and Concerns with Gummy Smile Fix
+date: 2026-03-05
 ---
 ## Introduction
 

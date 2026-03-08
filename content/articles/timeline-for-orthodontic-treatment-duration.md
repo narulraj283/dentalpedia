@@ -5,6 +5,7 @@ excerpt: You've probably heard that braces take about two years, but that "about
   years" can mean anywhere from 18 months to three years or more. The truth is
 slug: timeline-for-orthodontic-treatment-duration
 title: Timeline for Orthodontic Treatment Duration
+date: 2026-03-05
 ---
 ## Introduction
 

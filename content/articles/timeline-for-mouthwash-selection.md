@@ -5,6 +5,7 @@ excerpt: When you walk into a store, you'll see dozens of mouthwash options. Mos
   are cosmetic—they freshen your breath for a few hours but don't actually help
 slug: timeline-for-mouthwash-selection
 title: Timeline for Mouthwash Selection
+date: 2026-03-05
 ---
 ## Cosmetic vs. Therapeutic Mouthwash
 

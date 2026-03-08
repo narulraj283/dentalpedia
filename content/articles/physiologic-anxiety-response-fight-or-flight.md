@@ -5,6 +5,7 @@ excerpt: When you feel afraid in the dental chair, your body automatically activ
   a "fight-or-flight" response—an ancient survival system designed to help you
 slug: physiologic-anxiety-response-fight-or-flight
 title: Physiologic Anxiety Response Fight or Flight
+date: 2026-03-05
 ---
 ## Your Body's Automatic Fear Response
 

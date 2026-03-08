@@ -5,6 +5,7 @@ excerpt: 'One of the biggest questions patients ask their orthodontist is: "Do I
   to have teeth pulled?" It''s a serious concern that affects how long you''ll'
 slug: timeline-for-orthodontic-extraction-decision
 title: Timeline for Orthodontic Extraction Decision
+date: 2026-03-05
 ---
 ## Introduction
 
