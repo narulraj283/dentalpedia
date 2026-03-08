@@ -30,7 +30,7 @@ references:
   - title: "Ono M, Omatsu K, Sansone C, et al. Alveolar osteitis: incidence, risk factors, and clinical course. J Oral Maxillofac Surg. 1992;50(5):463-467."
     url: https://pubmed.ncbi.nlm.nih.gov/1569960
 ---
-## Tooth Extraction Recovery - What You Need to Know Day-by-Day
+## Your Recovery Journey
 
 Tooth extraction recovery is straightforward if you know what to expect. This guide walks you through recovery day-by-day and explains what's normal, what requires attention, and when to call your dentist.
 

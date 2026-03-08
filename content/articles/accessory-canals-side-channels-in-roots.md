@@ -105,6 +105,8 @@ Related reading: [Root Canal Retreatment - When Resin Occurs](/article/root-cana
 
 ## Conclusion
 
+About one-third to one-half of teeth contain hidden side channels that standard X-rays can't show. These tiny canals can harbor bacteria and cause root canal treatment to fail if not properly addressed. Modern 3D imaging and advanced techniques like ultrasonic activation and warm gutta-percha can reach and seal these spaces, giving your tooth the best chance for long-term success.
+
 > **Key Takeaway:** Better root canal treatment using ultrasonic activation, advanced filling materials, and extended working length helps reach into these side spaces.
 
 ## Related Articles

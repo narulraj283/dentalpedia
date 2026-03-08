@@ -29,14 +29,17 @@ references:
     url: https://www.ncbi.xlm.nih.gov/pubmed/24155100
   - title: "Longevity of implant-supported splinted restorations"
     url: https://www.ncbi.nlm.nih.gov/pubmed/25382373
----
-When you're missing multiple teeth, your dentist has choices. One option is to connect several implants together into a single bridge. Think of it like a real bridge with multiple support posts. This connection, called splinting, spreads your bite force across all the implants instead of stressing just one. This means your implants last longer and work better. Learning more about [Implant Success Rate Complete Guide](/article/implant-success-rate-complete-guide.html) can help you understand this better.
+---When you're missing multiple teeth, your dentist has choices. One option is to connect several implants together into a single bridge. Think of it like a real bridge with multiple support posts.
+
+This connection, called splinting, spreads your bite force across all the implants instead of stressing just one. This means your implants last longer and work better. Learning more about [Implant Success Rate Complete Guide](/article/implant-success-rate-complete-guide.html) can help you understand this better.
 
 ## Biomechanical Principles of Splinting
 
 The fundamental advantage of splinting derives from basic mechanical principles: forces applied to a splinted repair distribute across all connected implants rather than concentrating at a single implant. A force applied to one tooth in a splinted bridge distributes through rigid connections to neighboring implants, reducing stress magnitude at each individual implant.
 
-Computer models show big differences between single implants and splinted bridges. When you bite on a single implant tooth with 100 units of force, all that force goes to that one implant. Stress reaches 8-15 MPa (units of pressure). When you bite on the middle tooth of a three-implant bridge with the same 100 units of force, it spreads across all three implants. Each implant gets about 35-40 units of force. Stress is only 3-5 MPa. That's 50-70% less stress. This stress reduction helps implants last longer and work better. Side-to-side forces (lateral forces) spread better across multiple implants than straight-down forces.
+Computer models show big differences between single implants and splinted bridges. When you bite on a single implant tooth with 100 units of force, all that force goes to that one implant. Stress reaches 8-15 MPa (units of pressure). When you bite on the middle tooth of a three-implant bridge with the same 100 units of force, it spreads across all three implants.
+
+Each implant gets about 35-40 units of force. Stress is only 3-5 MPa. That's 50-70% less stress. This stress reduction helps implants last longer and work better. Side-to-side forces (lateral forces) spread better across multiple implants than straight-down forces.
 
 ## Splinting Across Multiple Tooth Gaps
 
@@ -50,7 +53,9 @@ Clinical situations frequently present multiple adjacent missing teeth requiring
 
 ## Cantilever Extension Management Through Splinting
 
-A cantilever is a tooth that extends beyond the last implant (like a diving board). These teeth create stress that concentrates at the implant supporting them. Single implants can support cantilevers of only 6-8mm (back teeth) or 8-10mm (front teeth). Beyond that, stress gets too high and implants can fail. Multiple-implant bridges support longer cantilevers because stress spreads across all implants. By positioning implants far back and connecting them in a bridge, dentists can support cantilevers of 12-15mm. This is what "All-on-4" and "All-on-6" prosthetics do—they use 4 or 6 implants to support all your upper or lower teeth, including cantilevers extending beyond the back implants. This lets people with very little jaw bone get fixed teeth instead of dentures.
+A cantilever is a tooth that extends beyond the last implant (like a diving board). These teeth create stress that concentrates at the implant supporting them. Single implants can support cantilevers of only 6-8mm (back teeth) or 8-10mm (front teeth). Beyond that, stress gets too high and implants can fail.
+
+Multiple-implant bridges support longer cantilevers because stress spreads across all implants. By positioning implants far back and connecting them in a bridge, dentists can support cantilevers of 12-15mm. This is what "All-on-4" and "All-on-6" prosthetics do—they use 4 or 6 implants to support all your upper or lower teeth, including cantilevers extending beyond the back implants. This lets people with very little jaw bone get fixed teeth instead of dentures.
 
 ## Rigid Splinting Versus Non-Splinted Restorations
 

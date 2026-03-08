@@ -24,7 +24,7 @@ references:
 ---
 ## Understanding How Your Body Heals After Surgery
 
-Your surgical wound goes through different healing phases, and understanding this helps you know what's normal and what's not. Here's the timeline:
+Your surgical wound goes through different healing phases, and understanding this helps you know what's normal and what's not. The swelling and redness you see in the first few days isn't infection—it's your body's healing response. Your wound needs specific care at each phase to heal properly. Here's the timeline:
 
 **Days 1-5 - The Inflammatory Phase**: Visible swelling, redness, warmth, and tissue fluid are totally normal. This IS the healing process, not a sign of infection. Your body is sending immune cells to the area to protect it and start rebuilding tissue.
 

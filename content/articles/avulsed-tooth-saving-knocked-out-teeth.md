@@ -85,6 +85,8 @@ Related reading: [Reimplanted Teeth: Salvaging Avulsed Permanent](/article/reimp
 
 ## Conclusion
 
+A knocked-out tooth is a genuine emergency where every minute counts—reimplantation within 5 minutes has an 85-97% success rate, but success drops dramatically after 60 minutes. Pick it up by the crown (never the root), rinse gently if dirty, and store it immediately in milk or saline solution, then get to a dentist right away. Young teeth with open roots do better than mature teeth, and expect antibiotics and monitoring for potential complications like root resorption.
+
 > **Key Takeaway:** Grab it by the crown (not the root), rinse it gently with saline or milk, and place it in milk or saline immediately.
 
 ## Related Articles

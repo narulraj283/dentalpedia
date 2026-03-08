@@ -97,6 +97,8 @@ Related reading: [Dental Trauma Statistics in Sports: Epidemiology](/article/tee
 
 ## Conclusion
 
+Custom mouthguards reduce impact force by 50-60% compared to only 20-30% for stock guards—giving you 2-3 times more protection. They're worth the investment if you play contact sports like football, ice hockey, or lacrosse. A proper-fitting custom mouthguard stays in place, lets you breathe and talk normally, and may even reduce concussion risk based on emerging research.
+
 > **Key Takeaway:** The American Dental Association and pediatric organizations recommend mouthguards for contact sports including football, ice hockey, lacrosse, and rugby.
 
 ## Related Articles

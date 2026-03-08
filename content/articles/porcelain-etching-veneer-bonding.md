@@ -68,7 +68,9 @@ Modern resin cements come in three types: dual-cure (hardens with light and chem
 
 The bond strength of etched porcelain with silane and resin cement is extremely strong—one of the strongest bonds in dentistry. It's nearly as strong as bonds to enamel and much stronger than bonds to dentin. Both the mechanical hooks (from etching) and chemical bond (from silane) create this strength. Testing shows the cement itself breaks before the bond to porcelain breaks. This means the bond is very durable.
 
-Cement selection considers appearance (matching tooth and restoration color), handling (thick or flowable), and hardening type. Opaque cements hide discolored teeth. Translucent or clear cements are best for front teeth so light passes through and looks natural. Some cements stick by themselves. Others need separate adhesive applied first. For more on this topic, see our guide on [How To Cosmetic Gum Shaping](/article/how-to-cosmetic-gum-shaping.html).
+Cement selection considers appearance (matching tooth and restoration color), handling (thick or flowable), and hardening type. Opaque cements hide discolored teeth. Translucent or clear cements are best for front teeth so light passes through and looks natural.
+
+Some cements stick by themselves. Others need separate adhesive applied first. For more on this topic, see our guide on [How To Cosmetic Gum Shaping](/article/how-to-cosmetic-gum-shaping.html).
 
 ## Bonding to Enamel Versus Dentin
 
@@ -84,7 +86,9 @@ Before permanently bonding, your dentist places the veneer with temporary paste 
 
 Check color in different lighting: daylight from windows, office lights, and shade. Make sure it matches your teeth. If color is wrong, you can choose different cement shade, ask the lab for minor adjustment, or get a new restoration if very different.
 
-Check the fit at the edge. Edges should be flush with your tooth—no gaps or overhangs. Overhangs trap cement and cause decay. Gaps allow cement to wash out. Problems can be fixed by the lab (trimming or filling) or by your dentist (adjusting the edge). Try-in lets you make final fixes before permanent bonding.
+Check the fit at the edge. Edges should be flush with your tooth—no gaps or overhangs. Overhangs trap cement and cause decay.
+
+Gaps allow cement to wash out. Problems can be fixed by the lab (trimming or filling) or by your dentist (adjusting the edge). Try-in lets you make final fixes before permanent bonding.
 
 ## Cementation Workflow and Excess Removal
 
@@ -92,7 +96,9 @@ During permanent bonding, your dentist cleans and dries everything. The restorat
 
 Adhesive is applied to your tooth (if needed based on cement type). Then cement is applied to both the restoration and your tooth. The restoration is pressed gently to seat it. Too much pressure creates gaps. Too little pressure leaves gaps at edges.
 
-Excess cement must be removed before it hardens. Old cement causes gum inflammation. Your dentist removes excess with small tools before it hardens. After hardening, your dentist checks that no cement remains below the gum line. X-rays help confirm proper fit and filling. For more on this topic, see our guide on [Transform Your Smile Without Removing Tooth Structure](/article/no-prep-veneers-conservative-transformation.html).
+Excess cement must be removed before it hardens. Old cement causes gum inflammation. Your dentist removes excess with small tools before it hardens.
+
+After hardening, your dentist checks that no cement remains below the gum line. X-rays help confirm proper fit and filling. For more on this topic, see our guide on [Transform Your Smile Without Removing Tooth Structure](/article/no-prep-veneers-conservative-transformation.html).
 
 ## Long-Term Bond Durability and Maintenance
 
@@ -100,7 +106,9 @@ The bond between resin cement and etched, silane-treated porcelain is very durab
 
 Clinical studies show properly bonded veneers stay bonded for 15-20+ years. Veneers coming loose is rare (<5% at 15 years). Most loosening happens in the first 2-3 years, suggesting improper initial bonding. Bonds involving dentin gradually lose some strength over time from protein breakdown. However, this usually doesn't cause failure unless the initial bond was weak.
 
-Care for bonded veneers: brush gently with a soft toothbrush and floss carefully. Acidic foods and drinks don't harm the bond directly. However, they can demineralize tooth around the edges and cause decay if you don't clean well. Use fluoride and avoid staining foods. Visit your dentist yearly or every six months for early detection of problems like cement washout or decay. Small problems can be repaired instead of replacing the whole restoration.
+Care for bonded veneers: brush gently with a soft toothbrush and floss carefully. Acidic foods and drinks don't harm the bond directly. However, they can demineralize tooth around the edges and cause decay if you don't clean well.
+
+Use fluoride and avoid staining foods. Visit your dentist yearly or every six months for early detection of problems like cement washout or decay. Small problems can be repaired instead of replacing the whole restoration.
 
 *Every patient's situation is unique. Talk to your dentist about the best approach for your specific needs.*
 

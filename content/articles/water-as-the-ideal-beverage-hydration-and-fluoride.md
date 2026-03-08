@@ -31,7 +31,7 @@ reviewer_specialty: Preventive Dentistry
 slug: water-as-the-ideal-beverage-hydration-and-fluoride
 subcategory: Preventive Overview
 subcategory_slug: overview-prevent
-title: Water as the Ideal Beverage for Oral Health, Hydration, and Fluoride Delivery
+title: 'Water: The Best Drink for Your Teeth'
 ---
 ## Why Water is Your Tooth's Best Friend
 

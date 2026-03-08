@@ -32,7 +32,7 @@ references:
   - title: "Kokich VG. Esthetics and vertical tooth position: clinical treatment of altered vertical dimension. Dent Today. 2003;22(8):54-59."
     url: https://pubmed.ncbi.nlm.nih.gov/14570154
 ---
-## Smile Confidence Boost: What You Need to Know
+## Getting Started
 
 If you're unhappy with your smile, you're not alone. Many people avoid smiling, cover their mouth, or worry about how others perceive them. The good news is that modern dentistry can improve nearly any smile. Whether you want simple whitening, alignment correction, or comprehensive transformation, understanding your options helps you make decisions that work for you.
 

@@ -79,19 +79,9 @@ Zinc-based rinses work 40-50% as well and don't stain. Plant-based rinses with g
 
 **Professional cleaning**: If you have gum disease, scaling and root planing (deep cleaning) plus antimicrobials fixes bad breath in 70-80% of cases.
 
-## Home Care Routine
+## Conclusion
 
-Do all of these:
-1. Scrape your tongue twice daily (morning and night)
-2. Use antimicrobial rinse 30 seconds twice daily
-3.
-
-Drink plenty of water (2-3 liters daily)
-4. Floss daily
-5. Chew sugar-free xylitol gum (stimulates protective saliva)
-6. Avoid garlic, onions, and too much alcohol
-
-This multi-approach works better than any single thing alone.
+Bad breath affects 30-50% of adults but is fixable in most cases. The tongue is the biggest culprit—scraping it twice daily reduces bad breath by 75%. Most bad breath comes from your mouth (not your digestion), so focusing on tongue cleaning, flossing, antimicrobial rinses, and staying hydrated works well. If these steps don't help after two weeks, see your dentist to check for gum disease or other underlying causes.
 
 ## Medication and Dry Mouth Issues
 

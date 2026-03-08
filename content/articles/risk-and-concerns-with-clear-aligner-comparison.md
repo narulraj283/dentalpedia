@@ -32,7 +32,7 @@ references:
   - title: "Maspero C, et al. Aligner-related complications in the anterior region: a systematic review. J Clin Med. 2021;10(13):2845."
     url: https://pubmed.ncbi.nlm.nih.gov/34208947
 ---
-## Clear Aligners vs. Traditional Braces - What You Should Know
+## What to Know Before Starting
 
 Clear aligners like Invisalign have revolutionized orthodontics by offering a discreet other option to traditional metal braces. The appeal is obvious: nobody can see your braces, you can remove them to eat and clean your teeth, and appointments are simpler. However, clear aligners carry significant limitations that marketing doesn't emphasize. Understanding what clear aligners can and can't do—compared to traditional braces—helps you make an informed choice rather than picking based on esthetics alone.
 

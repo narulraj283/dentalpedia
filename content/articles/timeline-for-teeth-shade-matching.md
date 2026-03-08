@@ -30,7 +30,7 @@ references:
   - title: "Lim CX, Ong JL, Gao W, Yap AUJ. The Efficacy of Spectrophotometric Shade Matching in Anterior Tooth Restorations. Journal of Prosthetic Dentistry. 2019;121(3):378-385."
     url: https://pubmed.ncbi.nlm.nih.gov/30419979
 ---
-## How Dentists Match Your Tooth Color Perfectly
+## How It Works
 
 When your dentist creates a crown, veneer, or bridge, getting the color exactly right is crucial. A restoration that doesn't match your natural teeth will stand out, no matter how perfect the shape. That's why dentists spend time finding your exact shade during the planning stage. This guide explains how shade matching works, why it matters, and how modern technology makes it more accurate than ever.
 

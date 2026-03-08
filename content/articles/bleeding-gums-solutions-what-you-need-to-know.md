@@ -107,6 +107,8 @@ Related reading: [Emergency Tooth Pain](/article/emergency-tooth-pain-complete-g
 
 ## Conclusion
 
+Gum bleeding affects about half of all adults and serves as your body's early warning signal that your gums are inflamed. In 85-90% of cases, the cause is simply plaque buildup, which is completely reversible within one to two weeks of excellent plaque removal. If bleeding persists despite good home care for more than two weeks, professional cleaning removes tartar that you cannot remove at home. Most importantly, be honest with your dentist about medicines you take, since certain blood pressure medications, blood thinners, and other drugs commonly cause bleeding—your dentist needs to know to plan treatment appropriately.
+
 > **Key Takeaway:** Gum bleeding is your body's signal that something needs attention—usually plaque removal—and most causes are treatable with prompt evaluation and appropriate care.
 
 ## Related Articles

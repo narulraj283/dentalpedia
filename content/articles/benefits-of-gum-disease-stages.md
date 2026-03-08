@@ -1,48 +1,52 @@
 ---
-title: "Gum Disease Stages: What Patients Need to Know"
+title: 'Gum Disease Stages: What Patients Need to Know'
 slug: benefits-of-gum-disease-stages
 category: General Dentistry
 category_slug: general-dentistry
 subcategory: Periodontal Disease
 subcategory_slug: periodontal-disease
 reviewer_specialty: Periodontics
-excerpt: "Your dentist talks about gum disease in stages—from gingivitis (reversible) to advanced periodontitis (serious but treatable). Understanding these stages helps you know what to expect."
+excerpt: Your dentist talks about gum disease in stages—from gingivitis (reversible)
+  to advanced periodontitis (serious but treatable). Understanding these.
 date: 2026-03-05
 read_time: 8 min
 reviewed: true
 references:
-  - title: "Staging and grading of periodontitis: a new proposal"
-    authors: "Papapanou PN, Sanz M, Buduneli N, Butcher A, Cairns G, De Sanctis M, Ferreira S, Grossi SG, Houston F, Karoussis IK, Needleman I, Orlandi M, Ramseier CA, Tatakis DN, Tonetti MS, Van Dyke TE, Wagner W"
-    year: 2018
-    publication: "Journal of Clinical Periodontology"
-  - title: "Clinical predictors of tooth loss in periodontitis-affected patients"
-    authors: "Cortellini P, Tonetti MS"
-    year: 2011
-    publication: "Journal of Clinical Periodontology"
-  - title: "Furcation defects classification and treatment"
-    authors: "Ramfjord SR"
-    year: 1976
-    publication: "Journal of Periodontology"
-  - title: "Attachment loss and alveolar bone loss as markers of progression of periodontitis"
-    authors: "Flemmig TF"
-    year: 1999
-    publication: "Annals of Periodontology"
-  - title: "Treatment complexity in periodontitis by stage and grade"
-    authors: "Tonetti MS, Greenwell H, Kornman KS"
-    year: 2018
-    publication: "Journal of Periodontology"
-  - title: "Tooth mobility and prognosis in periodontitis patients"
-    authors: "Wang JX, Zou HC, Meng J, Shen XZ, Guo JP"
-    year: 2012
-    publication: "Journal of Periodontal Research"
-  - title: "Long-term outcomes and tooth survival in treated periodontitis"
-    authors: "McGuire MK, Nunn ME"
-    year: 1996
-    publication: "Journal of Periodontology"
-  - title: "Radiographic alveolar bone loss and probing attachment level: longitudinal study"
-    authors: "Jeffcoat MK, Geurs NC, Reddy MS, Cliver SP, Goldenberg RL, Hauth JC"
-    year: 2000
-    publication: "Journal of Periodontology"
+- title: 'Staging and grading of periodontitis: a new proposal'
+  authors: Papapanou PN, Sanz M, Buduneli N, Butcher A, Cairns G, De Sanctis M, Ferreira
+    S, Grossi SG, Houston F, Karoussis IK, Needleman I, Orlandi M, Ramseier CA, Tatakis
+    DN, Tonetti MS, Van Dyke TE, Wagner W
+  year: 2018
+  publication: Journal of Clinical Periodontology
+- title: Clinical predictors of tooth loss in periodontitis-affected patients
+  authors: Cortellini P, Tonetti MS
+  year: 2011
+  publication: Journal of Clinical Periodontology
+- title: Furcation defects classification and treatment
+  authors: Ramfjord SR
+  year: 1976
+  publication: Journal of Periodontology
+- title: Attachment loss and alveolar bone loss as markers of progression of periodontitis
+  authors: Flemmig TF
+  year: 1999
+  publication: Annals of Periodontology
+- title: Treatment complexity in periodontitis by stage and grade
+  authors: Tonetti MS, Greenwell H, Kornman KS
+  year: 2018
+  publication: Journal of Periodontology
+- title: Tooth mobility and prognosis in periodontitis patients
+  authors: Wang JX, Zou HC, Meng J, Shen XZ, Guo JP
+  year: 2012
+  publication: Journal of Periodontal Research
+- title: Long-term outcomes and tooth survival in treated periodontitis
+  authors: McGuire MK, Nunn ME
+  year: 1996
+  publication: Journal of Periodontology
+- title: 'Radiographic alveolar bone loss and probing attachment level: longitudinal
+    study'
+  authors: Jeffcoat MK, Geurs NC, Reddy MS, Cliver SP, Goldenberg RL, Hauth JC
+  year: 2000
+  publication: Journal of Periodontology
 ---
 Your dentist talks about gum disease in stages—from gingivitis (reversible early stage) all the way to advanced periodontitis (serious disease requiring complex treatment). Understanding these stages helps you understand your own dental health and what your dentist is recommending. The good news is that early stages are totally fixable, but later stages require more involved treatment.
 

@@ -21,7 +21,7 @@ reviewer_specialty: General Dentistry
 slug: orofacial-myofascial-pain-muscle-related-oral-pain
 subcategory: TMJ & Sleep Overview
 subcategory_slug: overview-tmj-sleep
-title: "Orofacial Myofascial Pain: Understanding Muscle-Related Jaw Discomfort"
+title: 'Orofacial Myofascial Pain: Jaw Muscle Discomfort'
 ---
 ## What Is Myofascial Pain?
 

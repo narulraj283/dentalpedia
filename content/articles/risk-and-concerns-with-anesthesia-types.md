@@ -18,7 +18,7 @@ references:
   - title: "Dionne RA, et al. Guidelines for the use of conscious sedation. J Oral Maxillofac Surg. 2016;74(12):2343-2354."
     url: https://pubmed.ncbi.nlm.nih.gov/27515597
 ---
-## Understanding Dental Anesthesia: From Local to General
+## What to Expect
 
 Your dentist has mentioned that your upcoming procedure might require sedation or general anesthesia, and you're not sure what that means or what to expect. Different dental procedures and different patient situations call for different levels of anesthesia. A simple filling might only require local numbing, but complex oral surgery might require deeper sedation or general anesthesia. This guide explains the different levels of anesthesia available, what each involves, how your dentist decides which is appropriate, and what your recovery will be like.
 

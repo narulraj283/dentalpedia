@@ -34,9 +34,13 @@ Besides tooth erosion, bulimia causes enlarged parotid glands (the glands swell 
 
 ## How Acid Destroys Teeth
 
-Your enamel (tooth's hard white outer layer) starts softening right away when exposed to very acidic conditions. Stomach acid at pH 1.0-2.0 causes softening in minutes. With repeated acid exposure, the inner layers of enamel weaken while the surface initially stays relatively intact. Eventually the surface breaks down. This exposes yellow dentin (the softer layer underneath enamel). Visible erosion appears.
+Your enamel (tooth's hard white outer layer) starts softening right away when exposed to very acidic conditions. Stomach acid at pH 1.0-2.0 causes softening in minutes. With repeated acid exposure, the inner layers of enamel weaken while the surface initially stays relatively intact.
 
-Toothbrushing right away after vomiting makes erosion worse. The softened enamel removes easily. Your saliva can partially neutralize acid and strengthen teeth. However, it needs 2-3 minutes to work. Rapid vomiting doesn't give it time. Saliva in bulimic patients is often reduced in protective proteins and buffering capacity. Recovery is slower.
+Eventually the surface breaks down. This exposes yellow dentin (the softer layer underneath enamel). Visible erosion appears.
+
+Toothbrushing right away after vomiting makes erosion worse. The softened enamel removes easily. Your saliva can partially neutralize acid and strengthen teeth.
+
+However, it needs 2-3 minutes to work. Rapid vomiting doesn't give it time. Saliva in bulimic patients is often reduced in protective proteins and buffering capacity. Recovery is slower.
 
 Cavities develop rapidly on eroded surfaces. Exposed dentin is more vulnerable. Damaged saliva reduces protection. Frequent acid creates a cavity-friendly environment. Binge eating episodes provide sugar that bacteria love.
 
@@ -46,9 +50,13 @@ Dental enamel softening occurs when oral pH drops below 5.5. Stomach acid at pH 
 
 Erosion rate depends on multiple factors including acid strength (pH), buffering capacity, duration of exposure, salivary flow rate, and salivary buffering capacity. Stomach acid is unbuffered and maintains low pH. Saliva has limited buffering capacity. About 2-3 minutes are needed to neutralize stomach acid initially.
 
-Initial acid exposure causes subsurface softening. The surface layer remains relatively intact. With continued acid exposure, the surface layer breaks down. Subsurface lesions become visible. Advanced erosion reveals yellow dentin. The protective enamel layer is lost. The dentin substrate becomes exposed.
+Initial acid exposure causes subsurface softening. The surface layer remains relatively intact. With continued acid exposure, the surface layer breaks down.
 
-Mechanical factors compound acid erosion in bulimia. Toothbrushing right away after vomiting accelerates erosion. The already-softened enamel removes easily. The saliva's protective coating is removed. This facilitates deeper softening. Vomiting itself creates mechanical trauma from forceful regurgitation. This adds abrasion to acid-induced erosion.
+Subsurface lesions become visible. Advanced erosion reveals yellow dentin. The protective enamel layer is lost. The dentin substrate becomes exposed.
+
+Mechanical factors compound acid erosion in bulimia. Toothbrushing right away after vomiting accelerates erosion. The already-softened enamel removes easily.
+
+The saliva's protective coating is removed. This facilitates deeper softening. Vomiting itself creates mechanical trauma from forceful regurgitation. This adds abrasion to acid-induced erosion.
 
 Secondary cavities frequently develop rapidly on eroded tooth surfaces in bulimia patients. Exposed dentin is more vulnerable. Saliva composition is altered. Frequent acid exposure and vomiting promote cavity-causing bacteria. Dietary patterns (frequent eating, high carbohydrate intake during binges) increase cavity risk.
 
@@ -58,7 +66,9 @@ Your dentist might be the first person to suspect bulimia based on dental signs.
 
 Your dentist will gently ask about patterns in a nonjudgmental way. Questions about vomiting frequency, dietary patterns, and body image concerns help. The key is creating a safe, non-judgmental environment where you feel comfortable talking honestly.
 
-Many bulimia patients have dry mouth. Saliva production drops 40-50% below normal. When your dentist measures saliva flow, it's reduced. The acidity of saliva is higher than normal, meaning less buffering capacity. Recovery time from acid exposure takes 5-8 minutes instead of the normal 2-3 minutes. Gum damage from forceful vomiting shows as ulcerations or bleeding areas.
+Many bulimia patients have dry mouth. Saliva production drops 40-50% below normal. When your dentist measures saliva flow, it's reduced.
+
+The acidity of saliva is higher than normal, meaning less buffering capacity. Recovery time from acid exposure takes 5-8 minutes instead of the normal 2-3 minutes. Gum damage from forceful vomiting shows as ulcerations or bleeding areas.
 
 ## Treatment: Interdisciplinary Approach
 
@@ -82,7 +92,9 @@ Back teeth may need crowns for durability under chewing forces. Rebuilding might
 
 ## Prevention of Relapse
 
-Continue fluoride uses long-term. Residual salivary problem may persist months after eating disorder treatment. Remineralization is possible for early erosion. Avoid acidic foods and drinks to prevent extrinsic erosion. Use straws for acidic beverages. Salivary stimulants or medicines support saliva production if problem persists.
+Continue fluoride uses long-term. Residual salivary problem may persist months after eating disorder treatment. Remineralization is possible for early erosion.
+
+Avoid acidic foods and drinks to prevent extrinsic erosion. Use straws for acidic beverages. Salivary stimulants or medicines support saliva production if problem persists.
 
 Regular follow-ups every 3-4 months initially, then 6-monthly once stable, monitor for erosion progression and detect relapse patterns early. Long-term success requires interdisciplinary support. Dental team, therapists, medical providers work together. Recovery is possible with proper treatment.
 

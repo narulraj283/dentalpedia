@@ -34,7 +34,7 @@ references:
 ---
 ## Introduction
 
-Cosmetic tooth-colored material bonding (called "composite bonding") is one of the most detailed procedures in modern dentistry. It requires knowledge of materials and how light interacts with tooth color.
+Cosmetic tooth-colored material bonding (called "composite bonding") is one of the most detailed procedures in modern dentistry. It requires knowledge of materials and how light interacts with tooth color. Modern cosmetic dentists use sophisticated layering techniques with different shades to copy exactly how natural teeth work. Instead of applying one color of filling material, they build multiple layers—each with specific optical properties—to create restorations that match real teeth so closely that others can't tell the restoration from the natural tooth next to it.
 
 The technique has improved greatly over time. Instead of using one layer, dentists now use multiple layers of colored material. This creates natural-looking teeth that work as well as ceramic crowns. The best part is that it saves your natural tooth structure and can be adjusted right in your chair.
 

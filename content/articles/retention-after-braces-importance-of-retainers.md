@@ -18,7 +18,7 @@ references:
   - title: "Reitan K. Tissue behavior during orthodontic tooth movement. Am J Orthod. 1960;46(12):881-913."
     url: https://pubmed.ncbi.nlm.nih.gov/13710531
 ---
-## Why Your Teeth Will Shift Without Retainers
+## Why This Matters for Your Health
 
 You've finally gotten your braces off and your smile looks perfect. But don't make the common mistake of thinking your orthodontic journey is over—it's actually just moving into a critical new phase. Your teeth have a natural tendency to shift back toward their original positions after braces are removed, sometimes dramatically. Understanding why this happens and committing to proper retainer wear is the key to keeping your smile perfect for life.
 

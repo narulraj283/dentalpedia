@@ -128,6 +128,8 @@ Related reading: [Aggressive Periodontitis: Early-Onset Gum Disease](/article/ag
 
 ## Conclusion
 
+Bleeding on probing is the single most reliable test for detecting gum inflammation, with 96% accuracy—if your gums bleed, inflammation is almost certainly present, and if they don't bleed, your gums are almost certainly healthy. Inflammation develops quickly within 7 to 14 days of plaque exposure but is also reversible quickly if you remove the plaque within those first two weeks. The key to long-term success is achieving zero bleeding after treatment—patients with complete bleeding elimination have a 90% chance of staying stable for five years without further bone loss, while those with persistent bleeding on more than 10% of sites have a 40-50% chance of continued disease progression.
+
 > **Key Takeaway:** Bleeding on probing is your dentist's most reliable early warning sign of gum inflammation—when caught and treated early, it's usually completely reversible.
 
 ## Related Articles

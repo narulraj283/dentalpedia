@@ -115,9 +115,9 @@ When behavior guidance alone isn't enough, sedation with oral midazolam (a mild 
 
 For extensive treatment, general anesthesia in a hospital is appropriate. Kids are fully asleep and the dentist completes all needed work during one appointment. This costs more but eliminates the need for multiple appointments that many autistic kids struggle with.
 
-## Quality Of Life Matters
+## Conclusion
 
-Untreated dental disease causes pain, behavioral problems (pain makes everything harder), sleep disruption, and poor nutrition. Treating dental disease much improves overall quality of life for kids with autism. Regular preventive care every 3-4 months is often better than standard 6-month visits, catching problems early before they get serious.
+Children with autism have 2-3 times more cavities than other kids because of sensory challenges, motor coordination difficulties, and behavioral resistance to oral hygiene. Smart dentists adapt their environment with dimmer lights, noise-canceling headphones, and the Tell-Show-Do-Feel approach that introduces each step slowly. Early prevention (fluoride varnish, dietary support) reduces cavity development by 40%, making the investment in specialized care well worth it.
 
 ## Creating Autism-Friendly Practices
 

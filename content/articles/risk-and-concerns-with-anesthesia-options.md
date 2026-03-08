@@ -18,7 +18,7 @@ references:
   - title: "Becker DE, et al. Local anesthetics: review of pharmacological considerations. Anesth Prog. 2012;59(2):90-102."
     url: https://pubmed.ncbi.nlm.nih.gov/22822998
 ---
-## Local Anesthesia: Safety, Side Effects, and What to Expect
+## What to Expect
 
 Your dentist says you need a local anesthetic for a filling or other procedure, and you're nervous about the injection and wondering about safety. Dental anesthesia has been used safely for over a century, and local numbing is actually one of the safest medical interventions available. However, it's completely normal to have concerns about any medication or injection. This guide explains how dental numbing works, what you'll experience, common side effects that are normal, rare complications to be aware of, and when to mention specific concerns to your dentist.
 

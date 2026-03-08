@@ -1,9 +1,10 @@
 ---
-title: "Should Your Orthodontist Remove Teeth? The Extraction Decision"
+title: When Orthodontic Treatment Requires Extractions
 slug: orthodontic-extraction-decision-what-you-need-to-know
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "The choice between extracting teeth or keeping all permanent teeth is one of the most significant orthodontic decisions you'll face."
+excerpt: The choice between extracting teeth or keeping all permanent teeth is one
+  of the most significant orthodontic decisions you'll face.
 date: 2026-03-07
 read_time: 15 min
 reviewer_specialty: Orthodontics
@@ -11,9 +12,10 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 reviewed: true
 references:
-  - "Tweed CH. The Frankfort-mandibular plane angle in diagnosis. Angle Orthod. 1981;24(3):121-169."
-  - "Becker A, Chaushu G. Long-term surgical-orthodontic management of severely displaced canines. Angle Orthod. 2005;75(4):570-579."
-  - "Bishara SE, et al. Dental and facial asymmetries: a review. Angle Orthod. 1994;64(2):89-98."
+- Tweed CH. The Frankfort-mandibular plane angle in diagnosis. Angle Orthod. 1981;24(3):121-169.
+- Becker A, Chaushu G. Long-term surgical-orthodontic management of severely displaced
+  canines. Angle Orthod. 2005;75(4):570-579.
+- 'Bishara SE, et al. Dental and facial asymmetries: a review. Angle Orthod. 1994;64(2):89-98.'
 ---
 ## The Extraction Versus Non-Extraction Debate
 

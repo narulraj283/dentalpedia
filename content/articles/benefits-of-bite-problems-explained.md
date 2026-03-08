@@ -22,7 +22,7 @@ references:
 ---
 ## Different Bite Problems, Different Fixes
 
-Not all bite problems are the same. Different problems cause different issues and require different fixes. Understanding what problem you have helps you understand why treatment will help you.
+Not all bite problems are the same. Different problems cause different issues and require different fixes. Understanding what problem you have helps you understand why treatment will help you. A deep overbite that damages your front teeth needs different treatment than an underbite that makes your lower jaw stick out, which is completely different from a crossbite that forces your jaw to shift to one side. Each problem creates unique damage and responds to specific treatments that fix the real issue—not just straighten the teeth, but solve the functional problem underneath.
 
 ## Deep Bite (Front Teeth Overlap Too Much)
 

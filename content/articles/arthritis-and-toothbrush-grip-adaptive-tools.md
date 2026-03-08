@@ -85,6 +85,8 @@ Related reading: [Xerostomia in Elderly: Medication-Induced Dry Mouth](/article/
 
 ## Conclusion
 
+Arthritis makes daily oral hygiene nearly impossible, but practical solutions exist. Electric toothbrushes remove 21% more plaque than manual brushes in people with limited hand function, and water flossers work as well as traditional floss without the coordination difficulty. Built-up handles, weighted brushes, and custom grips offer additional options depending on your specific limitations—early adoption of adaptive devices prevents serious dental disease.
+
 > **Key Takeaway:** Arthritis affects the hands and makes brushing and flossing extremely difficult, leading to 2-3 times more cavities and gum disease.
 
 ## Related Articles

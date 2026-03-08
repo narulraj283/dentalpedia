@@ -22,7 +22,7 @@ references:
 ---
 ## The Big Difference: HMO vs PPO
 
-Think of dental insurance plans as falling into two main categories, and they work very differently.
+Think of dental insurance plans as falling into two main categories, and they work very differently. HMO plans cost less but limit your choices. PPO plans cost more but give you freedom to see any dentist. Your choice affects your out-of-pocket costs, ability to see specialists, and whether you can keep your favorite dentist.
 
 **HMO (Health Maintenance Organization) dental plans** work like a closed club. You pick one dentist from the insurance company's approved network, and that dentist becomes your "gatekeeper." If you need to see a specialist (like a periodontist for gum disease), your main dentist has to refer you to someone in their network. You basically can't go outside the network without paying the full bill yourself. The advantage: lower monthly premiums. The trade-off: less flexibility.
 

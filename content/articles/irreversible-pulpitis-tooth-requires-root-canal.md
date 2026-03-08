@@ -46,9 +46,13 @@ Pain is the main symptom, but it varies. Classic pain is sharp and sudden with n
 Some people feel pain spreading to their jaw, temple, or ear. This happens because tooth pain can seem to come from other areas. Key pain signs include:
 - Sudden pain with no obvious trigger
 ### Vital Nerve Tissue Testing
-Electric nerve testing (EPT) uses mild electric current to check if the nerve responds. The test shows a number that measures the nerve's response. EPT checks if the nerve reacts to electricity—not how bad the inflammation is. Teeth with irreversible nerve inflammation show variable responses. Early cases may show normal or high response because inflammation makes the nerve more sensitive.
+Electric nerve testing (EPT) uses mild electric current to check if the nerve responds.
 
-Late cases may show weak or no response as the nerve dies. Cold response testing uses ice or cold water. Normal teeth respond briefly to cold and feel normal when the cold stops. Teeth with irreversible inflammation stay painful from cold. The pain may even improve briefly, then heat makes it much worse. Heat testing with warm water causes intense sharp pain in irreversible nerve inflammation.
+The test shows a number that measures the nerve's response. EPT checks if the nerve reacts to electricity—not how bad the inflammation is. Teeth with irreversible nerve inflammation show variable responses. Early cases may show normal or high response because inflammation makes the nerve more sensitive.
+
+Late cases may show weak or no response as the nerve dies. Cold response testing uses ice or cold water. Normal teeth respond briefly to cold and feel normal when the cold stops.
+
+Teeth with irreversible inflammation stay painful from cold. The pain may even improve briefly, then heat makes it much worse. Heat testing with warm water causes intense sharp pain in irreversible nerve inflammation.
 
 This extreme pain response happens because of increased blood vessel leakage and swelling, not just temperature sensitivity.
 ### Percussion and Palpation
@@ -70,13 +74,17 @@ A tooth with a dead nerve can develop intense pain when bacteria spread into tis
 
 Tests separate these: Dead nerve shows no response to electrical or cold tests. Irreversible nerve shows strong response.
 ### Temporomandibular Dysfunction (TMD)
-TMD causes deep jaw pain that can feel like tooth pain. But TMD pain is not sharp or shooting like tooth pain. It cannot be pinpointed to one tooth. Pressing on jaw muscles reproduces TMD pain, but testing the tooth does not.
+TMD causes deep jaw pain that can feel like tooth pain. But TMD pain is not sharp or shooting like tooth pain.
+
+It cannot be pinpointed to one tooth. Pressing on jaw muscles reproduces TMD pain, but testing the tooth does not.
 ### Cracked Tooth Syndrome
 Cracks in teeth cause sharp pain when you bite. The pain happens because biting opens the crack and irritates the nerve. The key difference: pain is clearly caused by chewing and stops when you stop biting. ## Emergency Management Protocol
 
 Patients with irreversible nerve inflammation symptoms need quick pain relief and treatment planning.
 ### Initial Pain Management
-Pain medicine helps while you arrange treatment. NSAIDs like ibuprofen or naproxen reduce swelling and pain better than acetaminophen for nerve inflammation. Stronger NSAIDs may be needed for severe pain. Combination pain medicine may help in bad cases. But remember: pain medicine is temporary. Only removing the nerve stops the pain completely.
+Pain medicine helps while you arrange treatment. NSAIDs like ibuprofen or naproxen reduce swelling and pain better than acetaminophen for nerve inflammation. Stronger NSAIDs may be needed for severe pain.
+
+Combination pain medicine may help in bad cases. But remember: pain medicine is temporary. Only removing the nerve stops the pain completely.
 
 Topical pain creams on gums don't help deep nerve pain much. Gentle brushing and avoiding very hot or cold foods help with comfort.
 ### Emergency Pulpotomy Option

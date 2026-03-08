@@ -30,7 +30,9 @@ references:
 ---
 ## Introduction
 
-Gum disease develops gradually over weeks and months. Bacteria interact with your immune response. The good news: gum disease is preventable. Daily home care combined with regular expert cleanings stops gum disease before it starts. Even people with active gum disease can stop disease progression. They can maintain their teeth for life with proper prevention strategies. This article explains the timeline from health to disease, prevention approaches at each stage, and how to maintain healthy gums long-term.
+Gum disease develops gradually over weeks and months. Bacteria interact with your immune response. The good news: gum disease is preventable.
+
+Daily home care combined with regular expert cleanings stops gum disease before it starts. Even people with active gum disease can stop disease progression. They can maintain their teeth for life with proper prevention strategies. This article explains the timeline from health to disease, prevention approaches at each stage, and how to maintain healthy gums long-term.
 
 ## How Gum Disease Develops and How to Stop It
 

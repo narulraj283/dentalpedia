@@ -94,7 +94,7 @@ If facial nerve involvement is present, document facial function periodically to
 
 Talk to your dentist about your specific situation and what approach works best for you. If facial nerve involvement is present, document facial function periodically to track any changes in severity or recovery.
 
-> **Key Takeaway:** Orofacial granulomatosis is a condition where your mouth and lip tissues become persistently swollen due to chronic inflammation.
+> **Key Takeaway:** Orofacial granulomatosis causes persistent swelling of the lips, gums, or face that doesn't go away on its own. It can be linked to Crohn's disease, allergies, or unknown causes. Early diagnosis and treatment help manage symptoms and prevent complications. Your dentist or specialist can recommend the right tests and treatment plan.
 
 ## Related Articles
 

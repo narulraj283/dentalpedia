@@ -51,7 +51,9 @@ Sodium hypochlorite uniquely dissolves dead tissue, bacteria buildup, and debris
 
 This ability helps clean severely infected canals. It removes mineral blockages and breaks up bacterial buildup. It keeps the canal cleaner during treatment than just using instruments.
 ### Disadvantages and Limitations
-Sodium hypochlorite has downsides. It damages metal instruments if they soak in it. It loses strength when mixed with blood or organic matter, so large amounts or frequent replacement is needed during heavily infected cases. It smells bad and can cause allergic reactions in some patients.
+Sodium hypochlorite has downsides.
+
+It damages metal instruments if they soak in it. It loses strength when mixed with blood or organic matter, so large amounts or frequent replacement is needed during heavily infected cases. It smells bad and can cause allergic reactions in some patients.
 
 If it leaks out of the tooth, it causes chemical burns and pain. Rarely, severe allergic reactions occur. It cannot penetrate through debris layers or mineral blockages unless combined with other solutions. Using too much can dissolve protective minerals in tooth structure.
 
@@ -63,7 +65,9 @@ The smear layer blocks tiny tubes in dentin and prevents cleaning solutions from
 
 This softening is temporary. Dentin remineralizes (hardens again) when EDTA is rinsed away.
 ### Clinical Concentrations and Formulations
-Standard EDTA concentration is 15-17%. Weaker solutions don't work as well. Stronger ones don't help more and are more toxic. EDTA comes as liquids, powders to mix, or pastes. Liquids and powders let you adjust strength. Pastes are convenient but less controllable.
+Standard EDTA concentration is 15-17%. Weaker solutions don't work as well.
+
+Stronger ones don't help more and are more toxic. EDTA comes as liquids, powders to mix, or pastes. Liquids and powders let you adjust strength. Pastes are convenient but less controllable.
 ### Timeline for Smear Layer Removal
 Smear layer removal takes 1-10 minutes with EDTA, depending on concentration and agitation.
 
@@ -71,13 +75,17 @@ Stronger solutions and sound vibration speed it up. Most dentists use EDTA for 3
 ### Dentin Effects and Tissue Considerations
 EDTA temporarily softens dentin. Excessive use could weaken the tooth.
 
-But normal use (3-5 minutes) causes minimal lasting damage. Dentin hardens naturally afterward. Unlike sodium hypochlorite, EDTA doesn't kill bacteria or dissolve dead tissue. It must be combined with other solutions for disinfection. EDTA also cannot stop toxins from bacteria. Bacteria toxins must be removed by scrubbing and using bacteria-killing solutions.
+But normal use (3-5 minutes) causes minimal lasting damage. Dentin hardens naturally afterward. Unlike sodium hypochlorite, EDTA doesn't kill bacteria or dissolve dead tissue.
+
+It must be combined with other solutions for disinfection. EDTA also cannot stop toxins from bacteria. Bacteria toxins must be removed by scrubbing and using bacteria-killing solutions.
 
 ## Chlorhexidine: Antimicrobial Irrigant and Intracanal Medicament
 
 Chlorhexidine (CHX), an antimicrobial chemical, kills many types of bacteria. It is increasingly used in root canals.
 ### Antimicrobial Properties
-Chlorhexidine kills bacteria by breaking apart cell membranes, damaging proteins inside bacteria, and disrupting their metabolism. It is bactericidal, meaning it kills bacteria quickly. A big advantage is substantivity—the solution keeps working for hours or days after use. It sticks to dentin and releases slowly, continuing to kill bacteria between visits.
+Chlorhexidine kills bacteria by breaking apart cell membranes, damaging proteins inside bacteria, and disrupting their metabolism. It is bactericidal, meaning it kills bacteria quickly.
+
+A big advantage is substantivity—the solution keeps working for hours or days after use. It sticks to dentin and releases slowly, continuing to kill bacteria between visits.
 ### Clinical Concentrations
 Chlorhexidine comes in strengths from 0.12% to 2%. The 2% solution kills bacteria better but is more toxic.
 
@@ -93,7 +101,9 @@ Modern root canal treatment uses different solutions in sequence. Each solution 
 ### Standard Endodontic Irrigation Sequence
 Most protocols follow this pattern:
 1. Sodium hypochlorite (strength 0.5-5.25%) throughout preparation to dissolve tissue and kill bacteria
-2. Sodium hypochlorite with sound vibration to break up bacteria and remove debris
+2.
+
+Sodium hypochlorite with sound vibration to break up bacteria and remove debris
 3. EDTA (17%, 3-5 minutes) to remove the debris layer and clean the dentin surface
 4. Sodium hypochlorite rinse to wash away EDTA and kill bacteria one more time
 5. Optional: 2% chlorhexidine final rinse for lasting bacteria killing

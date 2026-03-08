@@ -32,7 +32,7 @@ references:
 ---
 ## The Rubber Band Power
 
-Rubber bands (elastics) are not optional. They move your teeth. They only work when you wear them. Zero movement happens if you skip wearing them.
+Rubber bands (elastics) are not optional. They move your teeth. They only work when you wear them. Zero movement happens if you skip wearing them. The difference between consistent wear and sporadic wear is dramatic—kids who wear rubber bands faithfully finish treatment months earlier than those who skip them. Your treatment timeline is literally in your hands, determined by your daily choices, not your orthodontist's skill.
 
 Consistent wear (18-22 hours daily) moves teeth about 1.5-2mm per month. Sporadic wear or 12 hours daily moves teeth about half that or not at all.
 
@@ -90,12 +90,17 @@ After braces come off, you transition to retainers. This is lifelong.
 
 Full-time retainer wear for the first 6-12 months stabilizes your teeth. After that, nighttime wear indefinitely prevents relapse.
 
-Stopping retainer wear causes progressive relapse, losing 50-100% of treatment gains within 5-10 years. Thirty seconds nightly of retainer wear preserves 24+ months of treatment and thousands of dollars. That's good insurance.
-Palatal expanders widen your upper jaw by a specific amount each day. You turn the expander one quarter-turn (0.25mm) daily. Even small delays in turning affect how fast the expansion works. Studies show that patients who turn consistently (parents help check this) achieve their target width 40-60% faster and more evenly. Non-compliant patients develop uneven expansion, requiring more correction later.
+Stopping retainer wear causes progressive relapse, losing 50-100% of treatment gains within 5-10 years. Thirty seconds nightly of retainer wear preserves 24+ months of treatment and thousands of dollars. That's good insurance. Palatal expanders widen your upper jaw by a specific amount each day.
 
-Functional appliances correct bite problems by stimulating jaw growth. They require 16-20 hours daily wear. Patients who wear them less than 12 hours daily see almost no jaw growth. They end up needing fixed braces instead. But patients who wear them 18-22 hours daily see significant jaw advancement (3-4mm) and better vertical control. This reduces braces time by about 6-12 months.
+You turn the expander one quarter-turn (0.25mm) daily. Even small delays in turning affect how fast the expansion works. Studies show that patients who turn consistently (parents help check this) achieve their target width 40-60% faster and more evenly. Non-compliant patients develop uneven expansion, requiring more correction later.
 
-After braces come off, retainers are a lifelong commitment. Many patients think retention is less important than active treatment. But stopping retainer wear causes your teeth to shift back. Your mouth naturally pushes your teeth back toward their original position 24 hours a day. Retainers prevent this. Think of retention as permanent therapy, not just a temporary step after treatment ends.
+Functional appliances correct bite problems by stimulating jaw growth. They require 16-20 hours daily wear. Patients who wear them less than 12 hours daily see almost no jaw growth.
+
+They end up needing fixed braces instead. But patients who wear them 18-22 hours daily see significant jaw advancement (3-4mm) and better vertical control. This reduces braces time by about 6-12 months.
+
+After braces come off, retainers are a lifelong commitment. Many patients think retention is less important than active treatment. But stopping retainer wear causes your teeth to shift back.
+
+Your mouth naturally pushes your teeth back toward their original position 24 hours a day. Retainers prevent this. Think of retention as permanent therapy, not just a temporary step after treatment ends.
 
 ## Clear Aligner Wear Compliance and Tracking Protocols
 
@@ -103,13 +108,19 @@ Clear aligners (like Invisalign, ClearCorrect, and Smile Direct Club) require st
 
 Studies show 35-45% of aligner patients don't wear them enough. About 25-35% don't change trays on schedule. Unlike fixed braces, compliance problems with aligners are hidden. Your orthodontist won't see them unless they check carefully.
 
-Tracking means your teeth are where they should be. When teeth track correctly (within 0.5mm vertically and 1.5mm horizontally of the plan), treatment stays on schedule. When tracking fails, your orthodontist must re-scan your teeth and make new aligners. This adds 4-8 weeks to treatment. About 20-30% of aligner cases need re-scanning. Inadequate wear is the cause in 70-80% of those cases.
+Tracking means your teeth are where they should be. When teeth track correctly (within 0.5mm vertically and 1.5mm horizontally of the plan), treatment stays on schedule. When tracking fails, your orthodontist must re-scan your teeth and make new aligners.
 
-Your orthodontist can improve compliance by being clear about wear time (22 hours minimum) and change schedules (same day each week for consistency). They may take photos of your aligners at appointments and use digital tracking if available. Your aligners only move teeth while you're wearing them. Unlike braces that work 24/7, aligners need consistent wear. Your orthodontist may show you digital comparisons of where your teeth are versus where they should be. This motivates you to stay compliant. Some offices use compliance contracts you sign, making the expectations clear.
+This adds 4-8 weeks to treatment. About 20-30% of aligner cases need re-scanning. Inadequate wear is the cause in 70-80% of those cases.
+
+Your orthodontist can improve compliance by being clear about wear time (22 hours minimum) and change schedules (same day each week for consistency). They may take photos of your aligners at appointments and use digital tracking if available. Your aligners only move teeth while you're wearing them.
+
+Unlike braces that work 24/7, aligners need consistent wear. Your orthodontist may show you digital comparisons of where your teeth are versus where they should be. This motivates you to stay compliant. Some offices use compliance contracts you sign, making the expectations clear.
 
 ## Motivational Strategies and Psychological Factors
 
-What makes people comply? Personal motivation (wanting to do something because it matters to you) works much better than rewards or threats. Orthodontists help patients connect compliance to their personal "why." Do you want a better smile? Better speech? Better bite? More confidence socially? These personal goals create lasting motivation that external rewards can't match.
+What makes people comply? Personal motivation (wanting to do something because it matters to you) works much better than rewards or threats. Orthodontists help patients connect compliance to their personal "why." Do you want a better smile?
+
+Better speech? Better bite? More confidence socially? These personal goals create lasting motivation that external rewards can't match.
 
 Peer influence works well, especially with teenagers. When patients in similar treatment stages see each other, they motivate each other. Seeing others' progress makes them work harder. Compliance competitions where compliant patients get recognition leverage teenagers' desire for social status. Parents also help—when parents supervise aligner wear and rubber bands, teenagers comply better.
 

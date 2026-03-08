@@ -32,7 +32,7 @@ references:
   - title: "Beazoglou T, Eklund S, Hefferman J, et al. Economic impact of regulating amalgam and resin-based composite restorations. Public Health Rep. 2007;122(5):657-663."
     url: https://pubmed.ncbi.nlm.nih.gov/17877312
 ---
-## Types of Fillings and Restorations: What You Need to Know
+## Understanding the Basics
 
 When your dentist finds a cavity or needs to replace a damaged filling, you'll face choices about what material to use. Understanding these options helps you make informed decisions about your treatment. This guide explains the most common restoration materials, their pros and cons, costs, and longevity.
 

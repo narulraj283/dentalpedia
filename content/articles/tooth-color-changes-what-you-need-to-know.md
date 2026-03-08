@@ -13,7 +13,7 @@ reviewed: true
 ---
 ## When Discoloration Is Just Cosmetic
 
-Most tooth discoloration is just looks. It's not a health issue. You can skip treatment if it doesn't bother you. But some changes need a dentist to check.
+Most tooth discoloration is just looks. It's not a health issue. You can skip treatment if it doesn't bother you. But some changes need a dentist to check. A tooth that suddenly turned dark after an injury might have a dying nerve. Color changes combined with pain could mean infection. Understanding which changes are cosmetic and which signal problems helps you know whether to call immediately or discuss it at your next regular visit.
 
 ## When to See a Dentist RIGHT NOW
 

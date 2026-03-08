@@ -49,9 +49,13 @@ Most people don't think much about saliva unless they have dry mouth. But saliva
 
 ## Salivary Composition and Basic Physiology
 
-Healthy adults make about 0.5 to 1.5 liters of saliva daily. Without stimulation (like chewing), moisture flows 0.1 to 0.4 milliliters per minute. With stimulation, it flows 1 to 2 milliliters per minute. Saliva is about 99.5% water. The remaining 0.5% has many useful chemicals. Three major glands—the parotid, submandibular, and sublingual glands—make about 90% of saliva. Hundreds of smaller glands in your mouth, throat, and lips make the rest.
+Healthy adults make about 0.5 to 1.5 liters of saliva daily. Without stimulation (like chewing), moisture flows 0.1 to 0.4 milliliters per minute. With stimulation, it flows 1 to 2 milliliters per minute.
 
-Different glands make different types of saliva. Parotid glands make watery saliva with lots of proteins and enzymes. Submandibular and sublingual glands make thicker, stickier saliva that helps lubricate. These different types work together to protect your mouth. Unstimulated saliva has a pH (acidity level) of 6.2 to 7.0. Chewing makes saliva more neutral or slightly alkaline (less acidic).
+Saliva is about 99.5% water. The remaining 0.5% has many useful chemicals. Three major glands—the parotid, submandibular, and sublingual glands—make about 90% of saliva. Hundreds of smaller glands in your mouth, throat, and lips make the rest.
+
+Different glands make different types of saliva. Parotid glands make watery saliva with lots of proteins and enzymes. Submandibular and sublingual glands make thicker, stickier saliva that helps lubricate.
+
+These different types work together to protect your mouth. Unstimulated saliva has a pH (acidity level) of 6.2 to 7.0. Chewing makes saliva more neutral or slightly alkaline (less acidic).
 
 ## Buffering Capacity and pH Regulation
 
@@ -99,7 +103,9 @@ Cavities are the main dental problem. Without enough buffering, acids damage tee
 
 Yeast infections happen more in dry mouth. Without protective proteins, yeast grows easily on dry tissues. People may get sore corners of the mouth.
 
-Chewing, swallowing, and speaking become hard. Food tastes different. People have trouble eating favorite foods. Nutrition can suffer. Tissue injuries happen easier and heal slower. Dentures don't fit well.
+Chewing, swallowing, and speaking become hard. Food tastes different. People have trouble eating favorite foods.
+
+Nutrition can suffer. Tissue injuries happen easier and heal slower. Dentures don't fit well.
 
 ## Etiologies of Salivary Dysfunction
 
@@ -113,7 +119,9 @@ Bone marrow transplant can damage salivary glands. Diseases like diabetes, low t
 
 ## Clinical Assessment and Management
 
-Doctors test saliva flow to diagnose dry mouth. They collect saliva without chewing for 15 minutes. Normal is more than 0.5 milliliters. They also test with chewing or lemon juice. Normal is more than 2 milliliters per minute. Low flow (0.1-0.5) means moderate dry mouth. Below 0.1 means severe dry mouth.
+Doctors test saliva flow to diagnose dry mouth. They collect saliva without chewing for 15 minutes. Normal is more than 0.5 milliliters.
+
+They also test with chewing or lemon juice. Normal is more than 2 milliliters per minute. Low flow (0.1-0.5) means moderate dry mouth. Below 0.1 means severe dry mouth.
 
 Tests can measure how well saliva neutralizes acid. They can also measure saliva's calcium, phosphate, and protein.
 

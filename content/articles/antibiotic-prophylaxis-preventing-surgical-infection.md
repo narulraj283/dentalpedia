@@ -44,7 +44,9 @@ The key difference: prophylaxis prevents infection when procedures cause signifi
 
 Bacteremia means bacteria in your bloodstream. This sounds scary but happens constantly. Every time you chew tough food, brush your teeth hard, or have gum disease, some bacteria escape into your blood. Your immune system clears these bacteria within minutes, so they rarely cause problems.
 
-High-risk patients have a different situation. Certain heart conditions create spots where bacteria can lodge and grow unchecked. This results in infective endocarditis (heart infection). For these patients, bacteria from dental procedures could theoretically land in that vulnerable spot and start an infection. Prophylaxis prevents this by giving antibiotics during the procedure. The antibiotics kill bacteria while they're circulating in your blood, before they have a chance to infect your heart.
+High-risk patients have a different situation. Certain heart conditions create spots where bacteria can lodge and grow unchecked. This results in infective endocarditis (heart infection).
+
+For these patients, bacteria from dental procedures could theoretically land in that vulnerable spot and start an infection. Prophylaxis prevents this by giving antibiotics during the procedure. The antibiotics kill bacteria while they're circulating in your blood, before they have a chance to infect your heart.
 
 ## Standard Antibiotic Regimen
 
@@ -84,7 +86,9 @@ Multiple layers of protection work together to prevent infection—prophylaxis i
 
 Overprescription in dentistry contributes much to resistance. Dentists sometimes prescribe antibiotics for viral illnesses or minor inflammations that don't need them. Unnecessary prophylaxis in low-risk patients drives resistance. Before 2007, millions received unnecessary prophylaxis. Modern selective-risk-based approaches greatly reduce unnecessary exposure.
 
-Bacteria develop resistance in several ways. Antibiotics kill weak bacteria, leaving resistant ones to multiply. Resistance genes transfer between species. Bacteria produce enzymes that inactivate medicines. MRSA (methicillin-resistant Staphylococcus aureus—a resistant bacteria) and other resistant organisms limit treatment options. These require stronger medicines or longer courses.
+Bacteria develop resistance in several ways. Antibiotics kill weak bacteria, leaving resistant ones to multiply. Resistance genes transfer between species.
+
+Bacteria produce enzymes that inactivate medicines. MRSA (methicillin-resistant Staphylococcus aureus—a resistant bacteria) and other resistant organisms limit treatment options. These require stronger medicines or longer courses.
 
 Individual patient impact: Unnecessary antibiotics increase risk of side effects like allergic reactions and C. difficile infection (diarrhea from disrupted normal bacteria). They select resistant organisms in your mouth bacteria. They also contribute to community-wide resistance.
 
@@ -112,7 +116,9 @@ If you're prescribed prophylactic antibiotics, take them exactly as directed. Ta
 
 ## Final Perspective
 
-Evidence-based prophylaxis balances genuine infection prevention against unnecessary exposure contributing to resistance. Genuine infection prevention is critical for high-risk patients. Modern selective-risk-based approach protects patients who truly benefit. It avoids harm from routine prophylaxis in low-risk individuals. This supports both your individual safety and public health goals around antibiotic use. Your dentist's job is protecting both your teeth and your future health through thoughtful, evidence-based decision-making about antibiotics.
+Evidence-based prophylaxis balances genuine infection prevention against unnecessary exposure contributing to resistance. Genuine infection prevention is critical for high-risk patients. Modern selective-risk-based approach protects patients who truly benefit.
+
+It avoids harm from routine prophylaxis in low-risk individuals. This supports both your individual safety and public health goals around antibiotic use. Your dentist's job is protecting both your teeth and your future health through thoughtful, evidence-based decision-making about antibiotics.
 
 
 Related reading: [Recovery After Tooth Extraction: What to Expect](/article/how-to-tooth-extraction-recovery.html) and [Why Tooth Extraction Recovery Matters](/article/why-tooth-extraction-recovery-matters.html).

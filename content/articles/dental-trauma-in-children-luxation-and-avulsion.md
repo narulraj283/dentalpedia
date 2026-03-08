@@ -22,7 +22,7 @@ references:
 ---
 ## How Common Is Childhood Dental Trauma?
 
-About 30% of children experience traumatic dental injury by adolescence. Falls during play cause most injuries in young children. Bicycle accidents and interpersonal violence cause injuries in older kids.
+About 30% of children experience traumatic dental injury by adolescence. Falls during play cause most injuries in young children. Bicycle accidents and interpersonal violence cause injuries in older kids. When trauma happens, the first hour is critical for success—knowing what to do immediately can mean the difference between saving a tooth and losing it permanently. Some injuries need emergency treatment while others can wait for the next appointment.
 
 Front teeth are vulnerable (80-90% of injuries). Maxillary central incisors are most commonly affected due to facial prominence and minimal muscle protection.
 
@@ -105,6 +105,10 @@ Follow-up requires compliance: 1 week (assess healing, pain control), 3-4 weeks 
 ## Protecting Your Results Long-Term
 
 Once you've addressed dental trauma in children luxation and avulsion, keeping your results requires ongoing care. Good daily habits like brushing twice a day with fluoride toothpaste, flossing regularly, and keeping up with expert cleanings make a big difference. Avoid habits that could undo your progress, such as skipping dental visits or ignoring early warning signs of problems. Staying proactive about your oral health saves you time, money, and discomfort in the long run. Your mouth is an investment worth protecting.
+
+
+
+*If your child experiences a dental injury, seek emergency dental care right away. Your dentist can assess the damage and recommend the best treatment.*
 
 ## Conclusion
 

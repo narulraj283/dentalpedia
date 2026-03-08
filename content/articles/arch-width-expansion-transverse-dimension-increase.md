@@ -98,6 +98,8 @@ Related reading: [Your Guide to Orthodontic Appointment Frequency](/article/bene
 
 ## Conclusion
 
+Expanding a narrow upper jaw works best in children whose bones are still flexible—traditional expansion can create real skeletal widening. Teenagers get mixed results because their jaw bones are beginning to fuse, limiting true bone expansion. Adults usually need surgery (SARPE) or advanced screw-based methods (MARPE) to achieve meaningful skeletal expansion, since their palatal sutures are already fused.
+
 > **Key Takeaway:** Teenagers get mixed results because their bones are starting to fuse, with decreasing skeletal response and increasing dental tipping.
 
 ## Related Articles

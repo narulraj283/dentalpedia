@@ -1,9 +1,10 @@
 ---
-title: "How Often Should You Visit Your Orthodontist? Finding the Right Appointment Frequency"
+title: How Often Should You See Your Orthodontist?
 slug: orthodontic-appointment-frequency-what-you-need-to-know
 category: Orthodontics
 category_slug: orthodontics
-excerpt: "Your appointment schedule is crucial—too infrequent and your teeth don't move efficiently, too frequent and you waste time and money."
+excerpt: Your appointment schedule is crucial—too infrequent and your teeth don't
+  move efficiently, too frequent and you waste time and money.
 date: 2026-03-07
 read_time: 15 min
 reviewer_specialty: Orthodontics
@@ -11,11 +12,15 @@ subcategory: Orthodontic Overview
 subcategory_slug: overview-ortho
 reviewed: true
 references:
-  - "Sonis AL. Orthodontic patient compliance. Semin Orthod. 2000;6(2):86-98."
-  - "Mavreas D, Athanasiou AE. Factors affecting the duration of orthodontic treatment. Angle Orthod. 1992;62(1):63-73."
-  - "Renkema AM, et al. A survey of patient satisfaction after orthodontic treatment. Am J Orthod Dentofacial Orthop. 2009;136(4):527-535."
-  - "Krause TJ, et al. Mechanical complications in fixed orthodontic appliances. Semin Orthod. 2015;21(4):280-292."
-  - "Pandis N, et al. External root resorption in patients treated with conventional and self-ligating appliances. Am J Orthod Dentofacial Orthop. 2012;141(1):31-36."
+- Sonis AL. Orthodontic patient compliance. Semin Orthod. 2000;6(2):86-98.
+- Mavreas D, Athanasiou AE. Factors affecting the duration of orthodontic treatment.
+  Angle Orthod. 1992;62(1):63-73.
+- Renkema AM, et al. A survey of patient satisfaction after orthodontic treatment.
+  Am J Orthod Dentofacial Orthop. 2009;136(4):527-535.
+- Krause TJ, et al. Mechanical complications in fixed orthodontic appliances. Semin
+  Orthod. 2015;21(4):280-292.
+- Pandis N, et al. External root resorption in patients treated with conventional
+  and self-ligating appliances. Am J Orthod Dentofacial Orthop. 2012;141(1):31-36.
 ---
 ## The Appointment Schedule Dilemma
 

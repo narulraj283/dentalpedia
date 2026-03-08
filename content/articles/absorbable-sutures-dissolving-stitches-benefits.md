@@ -118,6 +118,8 @@ Related reading: [Antibiotic Prophylaxis: Preventing Surgical Infection](/articl
 
 ## Conclusion
 
+Absorbable sutures are a safe, effective solution for most dental surgeries that eliminate the need to return for stitch removal. Your body naturally breaks down these special stitches over several weeks while your gums heal, and you may feel them loosen or see small pieces fall out—this is completely normal. The key to smooth healing is keeping the area clean, avoiding hard foods, and following your surgeon's aftercare instructions.
+
 > **Key Takeaway:** Follow your surgeon's care instructions, keep the area clean, avoid hard foods, and watch for signs of infection.
 
 ## Related Articles

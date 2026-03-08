@@ -18,7 +18,7 @@ references:
   - title: "Ong E, et al. Orthodontic treatment of adult patients. Aust Dent J. 2011;56(2):131-146."
     url: https://pubmed.ncbi.nlm.nih.gov/21623802
 ---
-## Getting Braces as an Adult - What You Should Know
+## What to Know Before Starting
 
 You've been thinking about straightening your smile and wondering if braces as an adult are really an option. You've heard that braces work better on younger patients, or that adult teeth can't move as easily, and you're worried about complications. The truth is that teeth can move at any age, and adult orthodontics is increasingly common and successful. However, adult braces do require some treatment modifications because your bones have matured and your dental situation is often more complex than a teenager's. This guide explains what you need to know about adult orthodontics, including realistic expectations and specific concerns for adults.
 

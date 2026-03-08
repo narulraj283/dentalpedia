@@ -36,11 +36,15 @@ references:
 
 Modern all-ceramic crowns are the best option for tooth restoration. They look great and last a long time. All-ceramic means the crown is made entirely from tooth-colored ceramic with no metal inside. Light passes through it like natural teeth. Two main materials are used: lithium disilicate and zirconia.
 
-Lithium disilicate works best for front teeth where looks matter. It's clear like natural teeth and lets light pass through. It looks almost identical to a natural tooth. Zirconia works best for back teeth where biting force is strong. Modern zirconia comes in clear varieties that look almost as good as lithium disilicate but stay very strong. All-ceramic crowns last 15-20+ years in most patients with proper care. They're a long-term solution for damaged or decayed teeth.
+Lithium disilicate works best for front teeth where looks matter. It's clear like natural teeth and lets light pass through. It looks almost identical to a natural tooth.
+
+Zirconia works best for back teeth where biting force is strong. Modern zirconia comes in clear varieties that look almost as good as lithium disilicate but stay very strong. All-ceramic crowns last 15-20+ years in most patients with proper care. They're a long-term solution for damaged or decayed teeth.
 
 ## Tooth Preparation Design for All-Ceramic Restorations
 
-Preparing teeth for all-ceramic crowns is different from older metal methods. The preparation must be exactly the right thickness: 1.0-1.5mm for lithium disilicate. Too thin (<0.8mm) risks breaking during manufacture. Too thick (>2.0mm) looks fake and requires removing too much tooth. Rounded corners inside the tooth are better than sharp angles. Sharp angles create weak spots where cracks start.
+Preparing teeth for all-ceramic crowns is different from older metal methods. The preparation must be exactly the right thickness: 1.0-1.5mm for lithium disilicate. Too thin (<0.8mm) risks breaking during manufacture.
+
+Too thick (>2.0mm) looks fake and requires removing too much tooth. Rounded corners inside the tooth are better than sharp angles. Sharp angles create weak spots where cracks start.
 
 The edge of the prepared tooth must be rounded (0.8-1.0mm chamfer). Sharp edges create stress. The angle of the tooth wall should be about 6-8 degrees. All undercuts must be removed so the crown sits flat.
 
@@ -48,9 +52,13 @@ Zirconia needs slightly more thickness (1.5-2.0mm) because it's opaque and stron
 
 ## Shade Matching and Color Management
 
-Choosing the right color for your crown is important. The crown must match your other teeth. Using shade guides (color samples) helps but has limits. Shade guides show only certain colors. Lighting changes how colors look. Modern dentistry uses digital color measurement (spectrophotometry). This measures color objectively.
+Choosing the right color for your crown is important. The crown must match your other teeth. Using shade guides (color samples) helps but has limits.
 
-Select shade in daylight or special daylight lamps (not yellow office lights). Look at multiple teeth. The biting edge is usually lighter and more see-through than the middle of the tooth. The bottom of the tooth (near the gum) is usually darker. Your dentist tells the lab the shade and takes photographs. Good photos with proper light help the lab match your teeth better.
+Shade guides show only certain colors. Lighting changes how colors look. Modern dentistry uses digital color measurement (spectrophotometry). This measures color objectively.
+
+Select shade in daylight or special daylight lamps (not yellow office lights). Look at multiple teeth. The biting edge is usually lighter and more see-through than the middle of the tooth.
+
+The bottom of the tooth (near the gum) is usually darker. Your dentist tells the lab the shade and takes photographs. Good photos with proper light help the lab match your teeth better.
 
 High-quality digital photos help the lab match your tooth color. Your dentist may use special color measurement tools. The final crown should match your chosen shade exactly. If it's off slightly, the lab can adjust it by adding stain or clear coating. Major color differences may need a new crown.
 
@@ -60,7 +68,9 @@ Gluing the crown to your tooth is critical for success and longevity. Resin ceme
 
 Before cementing, both the crown inside and your tooth must be clean. The crown inside is roughened with air and fine particles. This helps the cement stick. Some systems apply a special coating (silane) that chemically bonds the cement to the crown.
 
-Your tooth must be clean and dry. Old plaque or cement blocks bonding. Your dentist uses acid to etch (roughen) the enamel. If dentin is exposed, special preparation is done. The cement is applied to both the crown inside and your tooth. The crown is pressed gently (not forced). Extra cement is removed before it hardens.
+Your tooth must be clean and dry. Old plaque or cement blocks bonding. Your dentist uses acid to etch (roughen) the enamel.
+
+If dentin is exposed, special preparation is done. The cement is applied to both the crown inside and your tooth. The crown is pressed gently (not forced). Extra cement is removed before it hardens.
 
 A special light hardens the cement completely. Extra cement remaining can cause gum disease. Removal must be careful not to chip the crown edge.
 
@@ -76,7 +86,9 @@ Your personal habits affect crown longevity. If you grind or clench your teeth, 
 
 Modern all-ceramic crowns look great. Over 90% of patients are satisfied. Most patients say the crown looks like a real tooth. Properly made crowns look identical to natural teeth in photographs.
 
-Good appearance depends on several things. The crown must match your tooth color exactly. It must be slightly see-through so light passes through like a real tooth. It should have natural color gradations. The shape where the crown meets the gum must look natural and support healthy gum tissue. Poor gum support causes food impaction and gum disease. For more on this topic, see our guide on [Smile Harmony - Coordinating Cosmetic Features for](/article/smile-harmony-coordinating-cosmetic-features.html).
+Good appearance depends on several things. The crown must match your tooth color exactly. It must be slightly see-through so light passes through like a real tooth.
+
+It should have natural color gradations. The shape where the crown meets the gum must look natural and support healthy gum tissue. Poor gum support causes food impaction and gum disease. For more on this topic, see our guide on [Smile Harmony - Coordinating Cosmetic Features for](/article/smile-harmony-coordinating-cosmetic-features.html).
 
 The fit at the edge is important. Gaps larger than 50 micrometers (very small) show and allow cement to wash out. Proper fit (<30 micrometers) is seamless. Modern computer-designed crowns fit much better than hand-made ones. Digital color matching also improves appearance by removing guesswork.
 

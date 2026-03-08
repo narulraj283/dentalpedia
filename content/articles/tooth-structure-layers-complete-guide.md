@@ -32,7 +32,7 @@ references:
   - title: "Kakehashi S, Stanley HR, Fitzgerald RJ. The effects of surgical exposures of dental pulps in germ-free and conventional laboratory rats. Oral Surg Oral Med Oral Pathol. 1965;20(3):340-349."
     url: https://pubmed.ncbi.nlm.nih.gov/14342926
 ---
-## How Your Teeth Are Built: Understanding Layers and Structure
+## How It Works
 
 Your teeth are more complex than they appear. Each tooth consists of multiple layers, each with distinct composition and function. Understanding these layers helps you appreciate why dental care is important and why dentists treat different tooth problems differently.
 

@@ -47,7 +47,7 @@ title: 'Dental Filling Material Selection: Properties'
 ---
 ## Introduction
 
-Your dentist will ask you to pick a filling. Tooth-colored resin looks good. Silver fillings last a long time.
+Your dentist will ask you to pick a filling. Tooth-colored resin looks good. Silver fillings last a long time. Your choice between these and other options affects how long your filling lasts, how much of your tooth structure needs removal, and how it looks. Some materials are better for back teeth, others for front teeth where appearance matters most. This guide helps you understand the real trade-offs.
 
 Glass ionomer releases fluoride (a mineral that fights cavities). Each type has good and bad sides. Learn about your choices to pick what works best for you and your budget.
 
@@ -104,7 +104,7 @@ Composite resin is a tooth-colored plastic filling. It's made of plastic mixed w
    - **Rinsing:** Thorough water rinse to remove etchant; tooth surface must appear whitish-opaque when dry
    - **Bonding agent:** Apply primer then bonding resin; dual-cure or light-cure systems available; ensure complete coverage
 
-2. **Incremental layering:** Place composite in 1-1.5 mm increments; light-cure each layer
+2. **Incremental layering:** Place composite in 1-1.5 mm increments. Light-cure each layer
    - **Rationale:** Reduces polymerization shrinkage stress; ensures complete polymerization (light must penetrate entire increment)
    - **Failure mode:** Thick increments (>2 mm) incompletely polymerize in depth; increases secondary caries risk
 

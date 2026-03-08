@@ -37,9 +37,13 @@ title: 'Burning Mouth Syndrome: Etiology, Diagnostic'
 
 Burning mouth syndrome (BMS) is a chronic condition where your mouth, tongue, lips, or palate burn. However, your dentist doesn't see anything wrong when they look. The burning happens more than 4 hours daily for at least 3 months. Your mouth looks normal (no ulcers, sores, or discoloration visible). You can't find an obvious cause like a yeast infection, allergy, or other treatable problem.
 
-The burning sensations are usually bilateral and symmetric (on both sides equally), not on just one side. You'd describe it as burning, tingling, or numbness. Not sharp, stabbing pain. Severity ranges from mild (you're aware of it but it doesn't interfere much) to severe (it affects eating, drinking, and quality of life). Pain typically worsens through the day, worst in afternoon/evening. But you wake up without symptoms, which is unusual. Stress and fatigue make it worse.
+The burning sensations are usually bilateral and symmetric (on both sides equally), not on just one side. You'd describe it as burning, tingling, or numbness. Not sharp, stabbing pain.
 
-There are three types. Primary BMS (60-70% of cases) has no identifiable cause. Secondary BMS (30-40% of cases) happens alongside something else you can identify and potentially treat. Like yeast infection, lichen planus, or medicine side effects. Tertiary BMS is pain that persists even after treating the underlying cause. This suggests chronic changes in how your nervous system processes pain.
+Severity ranges from mild (you're aware of it but it doesn't interfere much) to severe (it affects eating, drinking, and quality of life). Pain typically worsens through the day, worst in afternoon/evening. But you wake up without symptoms, which is unusual. Stress and fatigue make it worse.
+
+There are three types. Primary BMS (60-70% of cases) has no identifiable cause. Secondary BMS (30-40% of cases) happens alongside something else you can identify and potentially treat.
+
+Like yeast infection, lichen planus, or medicine side effects. Tertiary BMS is pain that persists even after treating the underlying cause. This suggests chronic changes in how your nervous system processes pain.
 
 ## Who Gets Burning Mouth Syndrome?
 
@@ -47,19 +51,27 @@ BMS affects 0.7-4.6% of people overall. Postmenopausal women get it much more (5
 
 Risk factors include menopause (3-4 times higher risk compared to premenopausal women), depression and anxiety (common in BMS patients), dry mouth (40-50% of BMS patients), and wearing dentures (15-20% of BMS patients). Certain medicines increase risk: anticonvulsants, blood pressure medicines, and antihistamines. Denture material allergies are rare (under 5%) but possible.
 
-Vitamin B12, folate, or iron deficiency occurs in 10-15% of BMS patients. Supplements sometimes helps these patients. Hormone changes matter. Estrogen deficiency in menopause is a major risk factor. Hormone replacement therapy helps some women. Thyroid disorders (especially hypothyroidism) show increased BMS risk.
+Vitamin B12, folate, or iron deficiency occurs in 10-15% of BMS patients. Supplements sometimes helps these patients. Hormone changes matter.
+
+Estrogen deficiency in menopause is a major risk factor. Hormone replacement therapy helps some women. Thyroid disorders (especially hypothyroidism) show increased BMS risk.
 
 ## Why the Burning Happens
 
 The exact cause remains unclear, but several processes are involved. Trigeminal nerve problem (the major nerve supplying your mouth) appears significant. Studies show abnormal nerve responses in many BMS patients. Central sensitization (the brain amplifying pain signals) seems important. Brain imaging shows altered activity in pain-processing areas.
 
-Salivary problem contributes. Reduced saliva predisposes to yeast infections (which burn). It loses protective proteins that shield mouth tissue. Altered saliva composition might affect nerve function. Neurotransmitter imbalances (especially low serotonin) reduce pain inhibition. That's why antidepressants sometimes help. Abnormal taste perception (30-40% of BMS patients) suggests taste nerve involvement.
+Salivary problem contributes. Reduced saliva predisposes to yeast infections (which burn). It loses protective proteins that shield mouth tissue.
+
+Altered saliva composition might affect nerve function. Neurotransmitter imbalances (especially low serotonin) reduce pain inhibition. That's why antidepressants sometimes help. Abnormal taste perception (30-40% of BMS patients) suggests taste nerve involvement.
 
 ## Ruling Out Other Problems
 
-Your dentist must exclude other causes. Oral candidiasis (yeast—causes visible white patches) responds to antifungal rinses. Oral lichen planus (autoimmune condition—shows visible erosions or white patches) responds to topical steroids. Xerostomia (dry mouth—low saliva flow) has measurable reduced saliva production. Trigeminal neuralgia (sharp, shooting pain) differs from BMS burning and responds to anticonvulsants. TMJ problem (jaw joint pain) differs from BMS.
+Your dentist must exclude other causes. Oral candidiasis (yeast—causes visible white patches) responds to antifungal rinses. Oral lichen planus (autoimmune condition—shows visible erosions or white patches) responds to topical steroids.
 
-Allergies to toothpaste, denture materials, or foods cause localized burning. This improves when the allergen is removed. Herpes causes painful blisters that evolve to erosions. Your dentist might order blood tests to exclude deficiencies. Panoramic X-rays exclude dental pathology (infections, impacted teeth) contributing to pain. Further imaging is typically unnecessary.
+Xerostomia (dry mouth—low saliva flow) has measurable reduced saliva production. Trigeminal neuralgia (sharp, shooting pain) differs from BMS burning and responds to anticonvulsants. TMJ problem (jaw joint pain) differs from BMS.
+
+Allergies to toothpaste, denture materials, or foods cause localized burning. This improves when the allergen is removed. Herpes causes painful blisters that evolve to erosions.
+
+Your dentist might order blood tests to exclude deficiencies. Panoramic X-rays exclude dental pathology (infections, impacted teeth) contributing to pain. Further imaging is typically unnecessary.
 
 ## Neurophysiologic Mechanisms and Pathophysiology
 
@@ -103,9 +115,13 @@ Cognitive-behavioral therapy (CBT) reduces burning by 40-50% through changing pa
 
 Xerostomia management (if you have dry mouth) helps. Use sugarless candies or xylitol gum to stimulate saliva. Saliva substitutes (artificial saliva products) provide lubrication. Prescription sialagogues (pilocarpine) chemically stimulate remaining salivary glands.
 
-Dietary change helps 20-30% of patients. Eliminate acidic beverages, spicy foods, and very hot foods that irritate tissues. Try this for 4-6 weeks to see if it helps. Topical capsaicin (0.025% cream, 4-6 times daily) produces 40-50% symptom reduction through desensitization over several weeks. But it burns initially. Topical anesthetics (benzocaine, lidocaine) provide temporary relief. Use cautiously to avoid numbness. Short-term use (a few minutes before meals) is safe.
+Dietary change helps 20-30% of patients. Eliminate acidic beverages, spicy foods, and very hot foods that irritate tissues. Try this for 4-6 weeks to see if it helps. Topical capsaicin (0.025% cream, 4-6 times daily) produces 40-50% symptom reduction through desensitization over several weeks.
 
-Tricyclic antidepressants work best. Amitriptyline (10-50mg nightly) reduces pain 60-70%. Response develops gradually over 4-6 weeks. SSRIs (paroxetine, sertraline, fluoxetine at 20-40mg daily) reduce pain 30-50%. They work slower (6-8 weeks). Gabapentin (900-3,600mg daily in divided doses, starting low and increasing gradually) helps 50-60% of patients. Benzodiazepines (clonazepam 0.5-2mg daily) provide temporary relief during flares. They aren't for long-term use (tolerance develops in 2-4 weeks).
+But it burns initially. Topical anesthetics (benzocaine, lidocaine) provide temporary relief. Use cautiously to avoid numbness. Short-term use (a few minutes before meals) is safe.
+
+Tricyclic antidepressants work best. Amitriptyline (10-50mg nightly) reduces pain 60-70%. Response develops gradually over 4-6 weeks. SSRIs (paroxetine, sertraline, fluoxetine at 20-40mg daily) reduce pain 30-50%.
+
+They work slower (6-8 weeks). Gabapentin (900-3,600mg daily in divided doses, starting low and increasing gradually) helps 50-60% of patients. Benzodiazepines (clonazepam 0.5-2mg daily) provide temporary relief during flares. They aren't for long-term use (tolerance develops in 2-4 weeks).
 
 Alpha-lipoic acid (600mg daily) has preliminary evidence for 40-50% improvement in some trials. Hormone replacement therapy helps postmenopausal women in some studies (50% improvement). However, weighing systemic risks is important. Specialist referral (orofacial pain specialist) is appropriate if standard management fails after 8-12 weeks.
 

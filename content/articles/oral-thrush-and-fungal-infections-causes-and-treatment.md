@@ -19,7 +19,7 @@ reviewer_specialty: Oral Pathologist
 slug: oral-thrush-and-fungal-infections-causes-and-treatment
 subcategory: Oral Infections
 subcategory_slug: oral-infections
-title: Oral Thrush and Fungal Infections - Causes, Diagnosis, and Treatment
+title: 'Oral Thrush and Fungal Infections: Causes and Care'
 ---
 ## What Is Oral Thrush?
 

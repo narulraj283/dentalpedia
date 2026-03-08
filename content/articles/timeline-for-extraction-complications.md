@@ -47,7 +47,9 @@ title: 'Extraction Complication Timeline: Prevention'
 ---
 ## Introduction
 
-Tooth extraction is one of the most common dental procedures. Most people recover smoothly without problems. However, some complications can occur during extraction or while your mouth heals. These range from minor issues like excessive bleeding to more serious problems like infection or nerve damage. Knowing what to expect helps you prepare. Understanding what increases your risk and how to prevent problems helps you follow proper aftercare.
+Tooth extraction is one of the most common dental procedures. Most people recover smoothly without problems. However, some complications can occur during extraction or while your mouth heals.
+
+These range from minor issues like excessive bleeding to more serious problems like infection or nerve damage. Knowing what to expect helps you prepare. Understanding what increases your risk and how to prevent problems helps you follow proper aftercare.
 
 ## Bleeding During and After Extraction
 

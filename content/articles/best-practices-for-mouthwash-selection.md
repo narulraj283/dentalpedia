@@ -24,7 +24,7 @@ references:
 ---
 ## What Makes a Mouthwash a Real Medicine vs. Just for Taste
 
-The FDA separates mouthwashes into two groups: real medicines and cosmetics. Understanding this difference helps you pick the right product for your needs.
+The FDA separates mouthwashes into two groups: real medicines and cosmetics. Understanding this difference helps you pick the right product for your needs. Some rinses contain proven active ingredients that reduce plaque, gingivitis, or cavities by measurable percentages backed by research. Others are just flavored water that makes your breath fresh temporarily but does nothing to prevent disease. Knowing which is which saves you money on ineffective products and helps you choose what actually works for your specific problem.
 
 **Real medicinal mouthwashes** contain proven active ingredients and can claim they fight cavities, reduce gum disease, or kill bacteria. These include chlorhexidine, essential oils, fluoride, and others backed by lots of research. When you see scientific claims, that's what you're looking at.
 

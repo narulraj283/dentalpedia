@@ -52,17 +52,23 @@ Your immune cells produce signaling molecules (called cytokines) that recruit mo
 
 ## The Complement System: Ancient Defense
 
-Your complement system is a collection of proteins in your blood. It provides another layer of defense. These proteins coat bacteria. They mark bacteria for destruction. They create holes in bacterial cell membranes, causing them to burst. They recruit immune cells to infection sites. This ancient defense system has protected humans for millions of years.
+Your complement system is a collection of proteins in your blood. It provides another layer of defense. These proteins coat bacteria.
+
+They mark bacteria for destruction. They create holes in bacterial cell membranes, causing them to burst. They recruit immune cells to infection sites. This ancient defense system has protected humans for millions of years.
 
 ## Neutrophils: Your First Responders
 
-Neutrophils are immune cells that swarm bacterial infections. When bacteria colonize your gums, millions of neutrophils flood the area within hours. They engulf (surround and consume) and kill bacteria through multiple ways. They produce reactive oxygen species. These are chemical disinfectants more potent than bleach. They release antimicrobial proteins that kill bacteria directly.
+Neutrophils are immune cells that swarm bacterial infections. When bacteria colonize your gums, millions of neutrophils flood the area within hours. They engulf (surround and consume) and kill bacteria through multiple ways.
+
+They produce reactive oxygen species. These are chemical disinfectants more potent than bleach. They release antimicrobial proteins that kill bacteria directly.
 
 Neutrophils also create neutrophil extracellular traps. These are web-like structures that trap bacteria and concentrate antimicrobial proteins in localized areas. While these traps protect you from infection spreading, they also contribute to tissue damage in chronic gum disease.
 
 ## Macrophages and Inflammatory Mediators
 
-Macrophages are larger immune cells. They activate when bacteria are present. They produce inflammatory signaling molecules that orchestrate (coordinate) the immune response. These chemicals activate blood vessel lining cells. This promotes immune cell movement into tissues. They enhance the inflammatory response and bone loss associated with gum disease.
+Macrophages are larger immune cells. They activate when bacteria are present. They produce inflammatory signaling molecules that orchestrate (coordinate) the immune response.
+
+These chemicals activate blood vessel lining cells. This promotes immune cell movement into tissues. They enhance the inflammatory response and bone loss associated with gum disease.
 
 The balance between fighting bacteria and tissue destruction is delicate. Strong swelling kills bacteria. But it damages your own tissues. [Understanding how your body fights bacteria](/article/red-complex-bacteria-most-virulent-pathogens.html) helps you appreciate why expert treatment matters. Mechanical removal of bacteria is sometimes more important than boosting swelling.
 
@@ -78,7 +84,9 @@ Antibodies coat bacteria. They mark bacteria for destruction and activate comple
 
 ## The Problem: Bacteria Evading Your Defenses
 
-Pathogenic bacteria don't surrender easily. They've evolved sophisticated strategies to evade your immune response. Some produce enzymes that break down your complement proteins. Others hide in biofilms. These are organized bacterial communities that resist immune attack. Some survive inside immune cells that were supposed to kill them.
+Pathogenic bacteria don't surrender easily. They've evolved sophisticated strategies to evade your immune response. Some produce enzymes that break down your complement proteins.
+
+Others hide in biofilms. These are organized bacterial communities that resist immune attack. Some survive inside immune cells that were supposed to kill them.
 
 The most dangerous gum disease bacteria produce virulence factors (weapons) that kill your immune cells. These bacteria suppress your immune system. This allows further invasion. This evolutionary arms race between bacteria and immunity explains why some people develop severe disease despite good hygiene. Others stay healthy despite poor hygiene.
 
@@ -96,7 +104,9 @@ This resolution phase is critical. If it fails, swelling becomes chronic. Smokin
 
 ## What This Means for You
 
-Your immune system works constantly to protect your mouth. When you brush and floss, you remove bacterial biofilms mechanically. This reduces the bacterial load your immune system must fight. Fluoride strengthens your teeth's resistance to bacterial acids. Eating healthy foods supports immune function. Managing stress and getting sleep enhance your immune response.
+Your immune system works constantly to protect your mouth. When you brush and floss, you remove bacterial biofilms mechanically. This reduces the bacterial load your immune system must fight.
+
+Fluoride strengthens your teeth's resistance to bacterial acids. Eating healthy foods supports immune function. Managing stress and getting sleep enhance your immune response.
 
 Expert cleaning removes bacterial tartar and biofilm your home care can't reach. This reduces the bacterial challenge. It allows your immune system to maintain control. Regular cleanings prevent bacterial buildup from overwhelming your defenses.
 

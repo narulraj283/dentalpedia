@@ -18,7 +18,7 @@ references:
   - title: "Park H, et al. Proper pressure for the effectiveness of clear aligners. Prog Orthod. 2017;18(1):27."
     url: https://pubmed.ncbi.nlm.nih.gov/29164356
 ---
-## Why Your Clear Aligners Must Be Worn 22 Hours Daily
+## Why This Matters for Your Health
 
 You chose clear aligners because they seemed so much easier than braces—you can remove them, they're invisible, and treatment sounds convenient. But your orthodontist keeps emphasizing that you need to wear them 22 hours every single day, and you're wondering if that's really necessary. Can't you get away with 20 hours when you're busy? Or 18 hours on travel days? The short answer is no—consistent 22-hour wear is critical for your aligners to work.
 

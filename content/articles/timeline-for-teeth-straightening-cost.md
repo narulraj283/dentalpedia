@@ -32,7 +32,7 @@ references:
   - title: "Papadimitriou A, Gkantidis N. Clinical effectiveness of the Invisalign appliance: A systematic review. Progress in Orthodontics. 2020;21(1):3."
     url: https://pubmed.ncbi.nlm.nih.gov/31997143
 ---
-## How Much Do Braces and Aligners Cost? A Complete Breakdown
+## How It Works
 
 Straightening your teeth is an investment. Understanding what this investment costs, how insurance helps, and what payment options are available helps you make smart financial decisions about your smile. This guide breaks down real numbers for different types of treatment.
 

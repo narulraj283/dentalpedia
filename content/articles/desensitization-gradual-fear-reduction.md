@@ -23,7 +23,7 @@ references:
 ---
 ## Introduction
 
-About one in three children experience dental fear or anxiety. If your child is anxious about dental visits, you're not alone. The good news?
+About one in three children experience dental fear or anxiety. If your child is anxious about dental visits, you're not alone. The good news? Dental anxiety is highly treatable through a proven technique called desensitization—gradually exposing your child to increasingly challenging situations in small, manageable steps. Research shows that over 4-6 weeks of consistent, gradual exposure, most anxious children become comfortable with dental care.
 
 Research shows that gradual exposure to dental situations—a technique called desensitization—helps most anxious children overcome their fears. By breaking down scary experiences into smaller, manageable steps, children's brains learn that dental care isn't dangerous. Most anxious children can be comfortable with dental care within 4-6 weeks of starting desensitization.
 

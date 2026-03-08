@@ -88,7 +88,7 @@ Advanced fibrosis may require surgery. Regular monitoring for cancer development
 
 Talk to your dentist about your specific situation and what approach works best for you. Advanced fibrosis may require surgery. Regular monitoring for cancer development is critical because fibrosis carries significant cancer risk. If you have any signs of fibrosis or if you chew areca nut, see your dentist for check and discuss cessation support.
 
-> **Key Takeaway:** Oral submucous fibrosis is a chronic condition where the tissues inside your mouth become progressively scarred and tight, causing your mouth opening to become progressively smaller over time.
+> **Key Takeaway:** Oral submucous fibrosis causes gradual stiffening of mouth tissues, making it harder to open your mouth over time. It is most commonly linked to betel nut chewing. Early detection and stopping the habit give the best chance of preventing further damage. See your dentist if you notice any stiffness or burning in your mouth.
 
 ## Related Articles
 

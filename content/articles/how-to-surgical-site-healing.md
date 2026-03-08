@@ -56,23 +56,33 @@ Follow your dentist's instructions: take prescribed antibiotics as directed, use
 
 ## Hemostasis and Immediate Clot Formation
 
-When you get a tooth extracted, your body immediately starts forming a blood clot. This happens in the first 30-60 seconds. Your blood cells and special proteins work together to create a mesh that traps blood cells. This clot is important because it stops the bleeding. The clot also contains special chemicals called growth factors. These chemicals tell your body to start healing. The clot takes about 24-48 hours to fully form. Don't disturb it for the first 24 hours by rinsing your mouth or using straws. A good clot is important—if it breaks apart too early, it can cause bleeding and slow healing.
+When you get a tooth extracted, your body immediately starts forming a blood clot. This happens in the first 30-60 seconds. Your blood cells and special proteins work together to create a mesh that traps blood cells. This clot is important because it stops the bleeding.
+
+The clot also contains special chemicals called growth factors. These chemicals tell your body to start healing. The clot takes about 24-48 hours to fully form. Don't disturb it for the first 24 hours by rinsing your mouth or using straws. A good clot is important—if it breaks apart too early, it can cause bleeding and slow healing.
 
 ## Inflammatory Phase - Cellular Events and Mediators
 
-Days 1-5 after extraction are the inflammation phase. During this time, your body sends special cells (immune cells) to the extraction site to clean and protect the wound. These cells attack bacteria and remove debris. Your body creates swelling and redness as it fights inflammation. This is normal. Swelling peaks around 2-3 days after extraction. You can reduce swelling by using ice for the first 6 hours. Put ice on for 15 minutes, then take it off for 15 minutes, and repeat. Keep your head elevated (use extra pillows) to reduce swelling. Pain and swelling are worst at 2-3 days but should improve after that. Pain medications like ibuprofen help by reducing both pain and swelling by about 20-30%.
+Days 1-5 after extraction are the inflammation phase. During this time, your body sends special cells (immune cells) to the extraction site to clean and protect the wound. These cells attack bacteria and remove debris. Your body creates swelling and redness as it fights inflammation. This is normal.
+
+Swelling peaks around 2-3 days after extraction. You can reduce swelling by using ice for the first 6 hours. Put ice on for 15 minutes, then take it off for 15 minutes, and repeat. Keep your head elevated (use extra pillows) to reduce swelling. Pain and swelling are worst at 2-3 days but should improve after that. Pain medications like ibuprofen help by reducing both pain and swelling by about 20-30%.
 
 ## Proliferative Phase - Angiogenesis and Fibroblast Activity
 
-Days 3-21 after extraction is the proliferation (growth) phase. During this time, new blood vessels form to bring oxygen and nutrients to the healing area. Your body makes special cells called fibroblasts that produce collagen (a protein that provides strength). These new blood vessels and collagen build the foundation for healing. The collagen starts out soft and flexible, then gradually becomes stronger over weeks. By week 1, the healing wound is only 5-10% as strong as normal tissue. By week 2, it's about 10-15% strong. By week 3, it's about 20-30% strong. This is why you should avoid heavy lifting and strenuous exercise for several weeks. The wound needs time to become strong enough for normal use.
+Days 3-21 after extraction is the proliferation (growth) phase. During this time, new blood vessels form to bring oxygen and nutrients to the healing area. Your body makes special cells called fibroblasts that produce collagen (a protein that provides strength). These new blood vessels and collagen build the foundation for healing. The collagen starts out soft and flexible, then gradually becomes stronger over weeks.
+
+By week 1, the healing wound is only 5-10% as strong as normal tissue. By week 2, it's about 10-15% strong. By week 3, it's about 20-30% strong. This is why you should avoid heavy lifting and strenuous exercise for several weeks. The wound needs time to become strong enough for normal use.
 
 ## Epithelialization and Surface Healing
 
-Surface healing is when the gum grows back over the extraction site. New gum tissue grows from the edges of the wound toward the center. Simple extractions (single tooth roots) heal at the surface within 2-3 weeks. Complex extractions (like impacted molars or multiple teeth) take 4-6 weeks for complete surface healing. Keep the area moist by rinsing with salt water after 24 hours. A moist wound heals faster and scars less than a dry one. Don't let a thick scab form. If you keep the wound moist, new tissue will grow faster and you'll have a better result. Avoid smoking, hot foods, and aggressive rinsing because these can disrupt the healing tissue.
+Surface healing is when the gum grows back over the extraction site. New gum tissue grows from the edges of the wound toward the center. Simple extractions (single tooth roots) heal at the surface within 2-3 weeks. Complex extractions (like impacted molars or multiple teeth) take 4-6 weeks for complete surface healing.
+
+Keep the area moist by rinsing with salt water after 24 hours. A moist wound heals faster and scars less than a dry one. Don't let a thick scab form. If you keep the wound moist, new tissue will grow faster and you'll have a better result. Avoid smoking, hot foods, and aggressive rinsing because these can disrupt the healing tissue.
 
 ## Bone Healing - Socket Reconstruction
 
-Bone healing is much slower than surface healing. New bone starts forming within the extraction socket right away. Weeks 2-3: The body lays down soft, new bone to fill the socket. This bone is temporary and will be replaced by stronger bone. Weeks 4-12: The new bone gradually becomes denser and harder. By week 4, the bone is about 50% as hard as it will be. By week 8, it's about 75% hard. By weeks 12-16, it's nearly completely hard. Complete socket healing takes 4-6 months. You won't see this happening, but X-rays show new bone forming. This is why your dentist recommends waiting several months before placing an implant—the bone needs time to mature and harden. If you need an implant, it's best to place it within 6 months of the extraction, before the jaw bone shrinks too much.
+Bone healing is much slower than surface healing. New bone starts forming within the extraction socket right away. Weeks 2-3: The body lays down soft, new bone to fill the socket. This bone is temporary and will be replaced by stronger bone. Weeks 4-12: The new bone gradually becomes denser and harder. By week 4, the bone is about 50% as hard as it will be.
+
+By week 8, it's about 75% hard. By weeks 12-16, it's nearly completely hard. Complete socket healing takes 4-6 months. You won't see this happening, but X-rays show new bone forming. This is why your dentist recommends waiting several months before placing an implant—the bone needs time to mature and harden. If you need an implant, it's best to place it within 6 months of the extraction, before the jaw bone shrinks too much.
 
 ## Post-operative Care Optimization
 

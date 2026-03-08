@@ -31,7 +31,7 @@ title: Why Fluoride Benefits Matter - Remineralization
 ---
 ## What Fluoride Really Does (And Why It Matters)
 
-Fluoride is proven to prevent cavities. Scientists have studied it for 75 years. Your dentist recommends it because it works. This guide explains how.
+Fluoride is proven to prevent cavities. Scientists have studied it for 75 years. Your dentist recommends it because it works. This guide explains how. This mineral strengthens your enamel to resist acid attacks, repairs early cavity damage before it becomes a hole, and even fights the bacteria that cause cavities. Understanding these three mechanisms helps explain why it's such a powerful preventive tool and why dentists suggest it for people of all ages.
 
 ## Fluoride Catches Cavities Before They Start
 

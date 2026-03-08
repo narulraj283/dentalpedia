@@ -28,7 +28,7 @@ references:
   - title: "Patient-centered anesthesia selection: Autonomy and informed consent"
     url: https://pubmed.ncbi.nlm.nih.gov/24589062
 ---
-## Why Anesthesia Options Matter in Modern Dentistry
+## Why This Matters for Your Health
 
 You probably think of anesthesia in dentistry as just "the shot" before a filling. But anesthesia is actually far more important than that. Choosing the right kind of anesthesia for your procedure affects your safety, your comfort, how well the treatment works, and how you feel afterward. It's one of the most important decisions your dentist makes about your care.
 

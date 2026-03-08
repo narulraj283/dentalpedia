@@ -104,6 +104,8 @@ Related reading: [Risk and Concerns with Teeth Alignment Alternatives](/article/
 
 ## Conclusion
 
+If you want to shorten your braces treatment, several proven methods can cut your time in braces by 30 to 70 percent. Micro-perforations are the most popular option for busy adults because they're quick, affordable, and require minimal recovery. For patients willing to tolerate more recovery time, surgical techniques and daily light therapy are even more effective alternatives.
+
 > **Key Takeaway:** Modern accelerated orthodontics can reduce braces treatment time by 30 to 50 percent using micro-perforations, surgical techniques, light therapy, or vibration.
 
 ## Related Articles

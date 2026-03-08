@@ -104,6 +104,8 @@ Related reading: [Sports and Dental Care: Scheduling Treatment Around](/article/
 
 ## Conclusion
 
+Sports drinks are highly acidic (pH 2.7-3.3) and can dissolve tooth enamel, affecting 36-85% of elite athletes. Most recreational athletes don't need them and should stick with water for training under 90 minutes. If you must drink sports drinks, consume them quickly rather than sipping, use calcium-fortified versions, and wait 30 minutes before brushing to avoid accelerating erosion damage.
+
 > **Key Takeaway:** Water alone is adequate for exercise under 90 minutes; sports drinks are only necessary for endurance training.
 
 ## Related Articles

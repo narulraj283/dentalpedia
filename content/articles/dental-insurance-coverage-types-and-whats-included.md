@@ -22,7 +22,7 @@ references:
 ---
 ## Understanding Your Three Coverage Levels
 
-Most dental insurance plans organize benefits into three tiers, with each tier covering different procedures at different percentages. Here's what you need to know about each.
+Most dental insurance plans organize benefits into three tiers, with each tier covering different procedures at different percentages. Preventive care is covered most generously because insurance companies know prevention is cheaper than treatment. Basic work gets moderate coverage, and major work has the lowest coverage because it's expensive. Here's what you need to know about each.
 
 **Preventive care (often 90-100% covered)** includes routine checkups, professional cleanings, fluoride treatments, and dental sealants. Learning more about [Dental Insurance Plans Hmo Vs Ppo](/article/dental-insurance-plans-hmo-vs-ppo.html) can help you understand this better. This is the best deal in dental insurance.
 

@@ -32,7 +32,7 @@ references:
   - title: "Lysiak-Szydlowska W, Sołtyszewski M. Chemical composition of enamel and dentin in permanent and deciduous teeth. Rocz Akad Med Bialymst. 2005;50(suppl 1):193-195."
     url: https://pubmed.ncbi.nlm.nih.gov/16359161
 ---
-## Your Tooth's Layers Explained: Enamel, Dentin, and More
+## What You Should Know
 
 Your teeth are more complex than they appear. Each tooth is made up of several different layers, each serving important functions. Understanding these layers helps you appreciate why dental care is important and why dentists treat different tooth problems in different ways.
 

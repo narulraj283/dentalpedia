@@ -85,6 +85,7 @@ Related reading: [Keep Your Gums Healthy: Maintenance After Treatment](/article/
 
 ## Conclusion
 
+Traditional mouthwashes with alcohol provide antimicrobial benefit but also cause unnecessary irritation, dry mouth, and acetaldehyde exposure. Modern alcohol-free options with ingredients like CPC or chlorhexidine work just as well (or better) without the burning, drying, or cancer-risk concerns. For most people, switching to alcohol-free mouthwash offers the same cleaning power with better comfort and tolerability.
 
 > **Key Takeaway:** For decades, traditional mouthwashes contained 20-25% alcohol—about as much as a strong cocktail.
 

@@ -32,11 +32,15 @@ references:
 
 ## Why Enamel Erosion Repair Matters: Managing Progressive Loss, Sensitivity, and Structural Compromise
 
-Dental erosion is the chemical dissolution of tooth structure by acids. It's increasingly common as people consume more acidic beverages and experience more acid reflux. Unlike cavities caused by bacteria, erosion results from direct acid exposure. The critical issue is that once enamel erodes, it's permanently gone. Your body cannot regenerate enamel like it can regenerate bone or skin. Understanding why enamel erosion management matters centers on early treatment. Early treatment prevents progression to soreness, appearance decline, and extensive repairs.
+Dental erosion is the chemical dissolution of tooth structure by acids. It's increasingly common as people consume more acidic beverages and experience more acid reflux. Unlike cavities caused by bacteria, erosion results from direct acid exposure.
+
+The critical issue is that once enamel erodes, it's permanently gone. Your body cannot regenerate enamel like it can regenerate bone or skin. Understanding why enamel erosion management matters centers on early treatment. Early treatment prevents progression to soreness, appearance decline, and extensive repairs.
 
 ## Enamel Loss Is Permanent
 
-Enamel is the hardest tissue in your body. It's composed of tightly packed mineral crystals. This mineral structure enables chewing. But it creates a limitation. Enamel has no cells, blood supply, or ability to repair itself. Once eroded, it cannot be regenerated.
+Enamel is the hardest tissue in your body. It's composed of tightly packed mineral crystals. This mineral structure enables chewing.
+
+But it creates a limitation. Enamel has no cells, blood supply, or ability to repair itself. Once eroded, it cannot be regenerated.
 
 This begins when acids with pH below 6.5 contact enamel. The acid dissolves the mineral surface. Acidic beverages with pH between 2.5-4.0 cause measurable enamel dissolution within minutes. How often you're exposed to acid critically determines erosion progression. Consuming acidic beverages multiple times daily causes greatly greater erosion than occasional exposure.
 

@@ -34,7 +34,7 @@ references:
 ---
 ## Two Types of Tooth Stains
 
-Your teeth can stain in two different ways, and understanding which type you have helps determine the best treatment for your situation.
+Your teeth can stain in two different ways, and understanding which type you have helps determine the best treatment for your situation. Surface stains sit on the outside and respond beautifully to professional whitening. Deep stains that come from inside the tooth often need different approaches like bonding or veneers to get the dramatic results whitening alone can't deliver. Knowing which you have saves you time and money.
 
 **Surface Stains (Extrinsic)** happen on the outside of your teeth from things you eat and drink. Coffee, tea, red wine, and tobacco are the biggest culprits. These stains sit right on the enamel surface and don't penetrate deep into your tooth. The great news? They respond incredibly well to professional whitening and cleaning treatments.
 

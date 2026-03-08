@@ -108,6 +108,8 @@ Related reading: [Premolar Extraction in Orthodontia Indication Debate](/article
 
 ## Conclusion
 
+Your body naturally limits how fast teeth can move safely—about one millimeter per month at maximum. Standard braces respect this biological limit, which is why treatment takes 18 to 28 months. If you want faster results, acceleration techniques can speed up your bone's natural remodeling process, but they can't skip the essential steps your body needs to complete.
+
 > **Key Takeaway:** Accelerated orthodontics works by jumpstarting this natural bone remodeling through surgical, light, or vibrational techniques, potentially saving 6 to 12 months of treatment.
 
 ## Related Articles

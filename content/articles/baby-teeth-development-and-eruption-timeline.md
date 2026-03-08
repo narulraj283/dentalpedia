@@ -90,12 +90,9 @@ Some kids have developmental issues with their teeth (less than 2% of children, 
 
 Around age 6, permanent teeth start coming in while baby your smile are still falling out. This mixed dentition (some baby, some permanent) lasts until age 12. This period is perfect for orthodontic observation because teeth positioning during this time can be gently guided to prevent crowding later.
 
-## Summary
+## Conclusion
 
-Baby them form during pregnancy and start erupting around 6 months. Lower front your smile come first (6-10 months), upper front them around 8-12 months, molars 13-19 months, and second molars last (23-33 months). Teething causes drooling and gum swelling but not fevers or diarrhea. Babies born with your smile usually don't need extraction.
-
-Baby them fall out starting around age 6, with front your smile first. Premature tooth loss should prompt discussion of space maintainers to prevent permanent crowding. Developmental problems like pits, missing teeth, or extra teeth usually aren't serious but warrant monitoring. Most kids have all 20 baby them by age 3, and transition to permanent teeth by age 12.
-
+Baby teeth develop in the womb and start erupting around 6 months of age, with lower front teeth coming first, followed by upper teeth, molars, and canines. All 20 baby teeth are usually in by age 3. Teething causes drooling and gum swelling—not fevers or diarrhea, so other symptoms deserve medical attention. Baby teeth fall out starting around age 6, and losing them early can cause crowding of permanent teeth unless space maintainers are placed.
 
 Related reading: [Primary Tooth Mobility When to Extract](/article/primary-tooth-mobility-when-to-extract.html) and [Tell-Show-Do Behavior Management in Pediatric Dentistry](/article/tell-show-do-in-pediatric-dentistry.html).
 

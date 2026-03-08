@@ -104,6 +104,8 @@ Related reading: [Aggressive Periodontitis: Early-Onset Gum Disease](/article/ag
 
 ## Conclusion
 
+Gracey curettes are specialized hand instruments that your hygienist uses to remove tartar and polish your tooth roots during deep cleaning. Each tool is designed for specific areas of your mouth, with the blade angle permanently set so that it positions correctly every time—no guessing required. When combined with ultrasonic scaling, these specialized instruments effectively remove buildup while being gentler on your tooth structure than many other methods.
+
 > **Key Takeaway:** Gracey curettes are specialized instruments where each tool is designed for specific tooth areas, with the blade angle already built in for consistency.
 
 ## Related Articles

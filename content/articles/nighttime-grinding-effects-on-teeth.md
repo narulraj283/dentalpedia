@@ -18,7 +18,7 @@ references:
   - title: "Temporomandibular Joint Effects of Chronic Sleep Bruxism"
     url: https://www.ncbi.nlm.nih.gov/pubmed/27689835
 ---
-## How Nighttime Grinding Damages Your Teeth
+## How It Works
 
 If you grind your teeth at night, you're not alone—about 8-15% of people do it. Many don't even realize they're doing it. This condition, called sleep bruxism, can cause serious damage to your teeth over time.
 

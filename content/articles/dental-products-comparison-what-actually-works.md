@@ -22,7 +22,7 @@ references:
 ---
 ## What's Worth Your Money in Toothpaste?
 
-The toothpaste aisle is overwhelming—so many brands and formulations claiming whitening, sensitivity relief, and comprehensive protection. Here's what research actually shows.
+The toothpaste aisle is overwhelming—so many brands and formulations claiming whitening, sensitivity relief, and comprehensive protection. The truth is some products have solid research behind them while others are marketing hype with no real benefit. Learning what actually works saves you money on ineffective products and helps you choose what will genuinely protect your teeth.
 
 **Fluoride is the winner.** Fluoride-containing toothpaste reduces cavities 20-30% compared to no fluoride. This benefit is proven and substantial. Use toothpaste with 1000-1500 parts per million (ppm) fluoride. That's the standard concentration that works. Kids under 3 should use lower fluoride (500-600 ppm) to minimize swallowing; kids 3 and up can use standard fluoride.
 

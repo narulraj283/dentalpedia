@@ -18,7 +18,7 @@ references:
   - title: "Conscious Sedation with Nitrous Oxide: Patient Outcomes and Satisfaction"
     url: https://www.ncbi.nlm.nih.gov/pubmed/31267890
 ---
-## Laughing Gas for Dental Visits: What You Should Know
+## Understanding the Basics
 
 Nitrous oxide, commonly known as "laughing gas," has been safely used in dentistry for over 150 years. If you've heard about it or been offered it at your dental appointment, you might be wondering: Is it safe? Will it really help me? What's it like? Understanding how nitrous oxide works, why it's so safe, and what to expect can help you feel confident using this effective anxiety management tool during your dental visit.
 

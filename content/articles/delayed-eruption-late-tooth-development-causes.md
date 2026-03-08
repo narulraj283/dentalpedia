@@ -16,7 +16,7 @@ references:
 ---
 ## When Should Permanent Teeth Come In?
 
-Kids lose baby teeth and get permanent teeth on a predictable schedule. First molars usually come in around age 6. Upper central incisors (front teeth) erupt around age 7-8.
+Kids lose baby teeth and get permanent teeth on a predictable schedule. First molars usually come in around age 6. Upper central incisors (front teeth) erupt around age 7-8. While every child varies, there's a normal range for each tooth—when a tooth falls outside that range and comes in later than expected, it's called delayed eruption. Some delays are just normal variation; others signal space problems or systemic issues worth investigating.
 
 This schedule varies a bit—some kids are early, some are late—but there's a normal range. If your child is 8 years old and their upper permanent incisors haven't started coming in yet, you're in the "delayed eruption" territory. Delayed eruption means a permanent tooth is taking 6-12 months longer to appear than expected.
 

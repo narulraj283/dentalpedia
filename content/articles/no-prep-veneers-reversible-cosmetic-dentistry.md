@@ -16,7 +16,7 @@ references:
   - title: "Conservative Adhesive Dentistry Approach"
     url: https://pubmed.ncbi.nlm.nih.gov/12012562
 ---
-## Reversible Smile Makeovers: The Benefits of No-Prep Veneers
+## Getting Started
 
 One big worry people have about cosmetic dentistry is permanence. Once you alter your teeth, can you undo it? With traditional veneers, the answer is no—your tooth structure is permanently changed. With no-prep veneers, the answer is yes. This reversibility brings peace of mind and flexibility that makes cosmetic improvement less intimidating.
 

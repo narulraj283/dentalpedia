@@ -22,7 +22,7 @@ references:
 ---
 ## How Student Supervision Works
 
-Dental school patient clinics operate under carefully structured supervision ensuring that student treatment meets expert standards. Supervision intensity varies with student training level and procedure complexity.
+Dental school patient clinics operate under carefully structured supervision ensuring that student treatment meets expert standards. Supervision intensity varies with student training level and procedure complexity. Third and fourth-year students work under direct faculty oversight, with professors evaluating every critical step. Quality monitoring in dental schools is actually more rigorous than many private practices, with documented oversight and monthly audits.
 
 **Third-year students** (nearing graduation) work under continuous supervision for straightforward cases. The faculty dentist is present during critical phases including anesthesia administration, operative field visibility, and restoration verification before patient dismissal. These students treat routine cases: simple fillings, routine cleanings, simple extractions.
 

@@ -18,7 +18,7 @@ references:
   - title: "Huwais A, et al. A novel implant technique with a 3D pre-shaping alveolar ridge splitting osteotome protocol. Int J Oral Maxillofac Surg. 2017;46(5):608-614."
     url: https://pubmed.ncbi.nlm.nih.gov/28167063
 ---
-## Bone Expansion for Dental Implants Without Major Surgery
+## Understanding the Basics
 
 Your dentist told you that you don't have enough the area width in your jaw for a standard dental implant. You've probably heard that this means you need bone grafting, which sounds like major surgery where tissue is taken from another part of your body. The good news is that there's often a better alternative called ridge splitting that expands your existing the structure without requiring it from elsewhere. This less invasive technique can often be done during the same appointment as implant placement, getting you to your final tooth faster.
 

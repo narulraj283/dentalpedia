@@ -1,9 +1,10 @@
 ---
-title: "Laser Therapy: Therapeutic Applications"
+title: 'Laser Therapy: Therapeutic Applications'
 slug: laser-therapy-therapeutic-applications
 category: General Dentistry
 category_slug: general-dentistry
-excerpt: "Dental laser therapy uses gentle light to speed healing, reduce pain, and fight bacteria—no cutting or heat involved. Learn how this safe, modern treatment works."
+excerpt: Dental laser therapy uses gentle light to speed healing, reduce pain, and
+  fight bacteria—no cutting or heat involved. Learn how this safe, modern.
 date: 2026-03-05
 read_time: 9 min
 reviewed: true
@@ -11,26 +12,26 @@ reviewer_specialty: General Dentistry
 subcategory: Laser & Advanced Treatment Technology
 subcategory_slug: laser-technology
 references:
-  - title: "Photobiomodulation mechanisms and mitochondrial ATP production"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/24992413
-  - title: "Low-level laser therapy for postoperative pain and edema management"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/24576374
-  - title: "Photobiomodulation in oral mucositis prevention and treatment"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/25282705
-  - title: "Laser therapy for implant osseointegration and bone healing acceleration"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/21955705
-  - title: "Low-level laser therapy in periodontal disease and wound healing"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/26370725
-  - title: "Wavelength-dependent effects of photobiomodulation on cellular signaling"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/28334872
-  - title: "Clinical efficacy of photobiomodulation in management of dentinal hypersensitivity"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/26055925
-  - title: "Cytokine modulation and inflammatory response to photobiomodulation"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/23418563
-  - title: "Photodisinfection and bacterial load reduction using photosensitizers"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/29080230
-  - title: "Safety profile and systemic effects of therapeutic laser application in dentistry"
-    url: https://www.ncbi.nlm.nih.gov/pubmed/23234008
+- title: Photobiomodulation mechanisms and mitochondrial ATP production
+  url: https://www.ncbi.nlm.nih.gov/pubmed/24992413
+- title: Low-level laser therapy for postoperative pain and edema management
+  url: https://www.ncbi.nlm.nih.gov/pubmed/24576374
+- title: Photobiomodulation in oral mucositis prevention and treatment
+  url: https://www.ncbi.nlm.nih.gov/pubmed/25282705
+- title: Laser therapy for implant osseointegration and bone healing acceleration
+  url: https://www.ncbi.nlm.nih.gov/pubmed/21955705
+- title: Low-level laser therapy in periodontal disease and wound healing
+  url: https://www.ncbi.nlm.nih.gov/pubmed/26370725
+- title: Wavelength-dependent effects of photobiomodulation on cellular signaling
+  url: https://www.ncbi.nlm.nih.gov/pubmed/28334872
+- title: Clinical efficacy of photobiomodulation in management of dentinal hypersensitivity
+  url: https://www.ncbi.nlm.nih.gov/pubmed/26055925
+- title: Cytokine modulation and inflammatory response to photobiomodulation
+  url: https://www.ncbi.nlm.nih.gov/pubmed/23418563
+- title: Photodisinfection and bacterial load reduction using photosensitizers
+  url: https://www.ncbi.nlm.nih.gov/pubmed/29080230
+- title: Safety profile and systemic effects of therapeutic laser application in dentistry
+  url: https://www.ncbi.nlm.nih.gov/pubmed/23234008
 ---
 ## Introduction
 

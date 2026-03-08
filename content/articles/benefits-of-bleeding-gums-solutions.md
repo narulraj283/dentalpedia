@@ -22,7 +22,7 @@ references:
 ---
 ## Why Bleeding Gums Matter
 
-Bleeding gums seem like a minor issue, but they're actually important. Your gums shouldn't bleed. When they do, it means something is wrong and needs treatment.
+Bleeding gums seem like a minor issue, but they're actually important. Your gums shouldn't bleed. When they do, it means something is wrong and needs treatment. Bleeding signals inflammation that, if left alone, can progress to serious gum disease with permanent bone loss. The good news? Early bleeding is completely reversible with treatment, but only if you catch it now before it damages bone.
 
 The good news is that early bleeding gums are completely fixable. Unlike advanced gum disease with bone loss, bleeding from early gum disease can be reversed. Getting treatment early prevents serious problems.
 

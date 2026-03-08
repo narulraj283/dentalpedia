@@ -89,11 +89,9 @@ When a baby loses a tooth to decay before the permanent tooth comes in, the othe
 
 A fixed space maintainer—a tiny metal device bonded to the teeth—keeps the space open. It's inexpensive ($300-500) and prevents the need for braces later ($3,000-6,000). If your baby loses a tooth to decay, ask about a space maintainer immediately.
 
-## Summary
+## Conclusion
 
-Bottle decay affects 23% of young toddlers but is completely preventable. It happens when babies have high levels of cavity-causing bacteria (usually from caregivers) and frequent sugar exposure. Nighttime bottles with sugared liquids are the worst offender. Parents getting their own teeth treated and maintaining excellent oral health is the single best protection. First dental visit by age 1 starts prevention.
-
-Fluoride varnish every 3-6 months reduces decay risk 37-70%. Silver diamine fluoride stops active decay. Limiting snack frequency and sugary drinks is critical. Space maintainers prevent crowding from lost baby teeth. With these evidence-based strategies, 60-80% of cases can be prevented.
+Baby bottle decay affects one in four toddlers but is completely preventable with the right strategies. The most important step is controlling cavity-causing bacteria in your mouth—get your own cavities filled and maintain excellent oral health since you pass bacteria to your baby through saliva. First dental visit by age 1, regular fluoride varnish every 3-6 months, and eliminating nighttime bottles with sugar will prevent most decay from happening in the first place.
 
 
 Related reading: [Lip Tie in Babies: Causes, Diagnosis, and Treatment](/article/lip-tie-and-feeding-difficulties-in-infants.html) and [Dental Sealants for Kids - Preventing Molars Cavities](/article/dental-sealants-for-kids-preventing-molars-cavities.html).

@@ -18,7 +18,7 @@ references:
   - title: "Etiology of Internal Discoloration After Endodontic Treatment"
     url: https://www.ncbi.nlm.nih.gov/pubmed/31427293
 ---
-## Whitening Teeth After Root Canal Treatment
+## Getting Started
 
 After root canal treatment, you might notice your tooth gradually darkening over months or years. This happens because the tooth no longer has a living nerve, and internal discoloration develops inside the tooth structure. Standard tooth whitening won't fix this because the discoloration is internal, not on the surface. Fortunately, a procedure called internal bleaching can restore your tooth's natural color.
 

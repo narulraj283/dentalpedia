@@ -56,7 +56,7 @@ Starting early with a pediatric dentist sets you up for success. Find a pediatri
 
 ## Baby Teeth Stage: Birth Through Age 3
 
-You might think baby teeth don't matter since they eventually fall out, but you'd be wrong. Baby teeth matter for eating, speaking, smiling, and holding space for adult teeth. Taking care of them early is worth your effort.
+Some parents wonder whether baby teeth matter since they eventually fall out, but you'd be wrong. Baby teeth matter for eating, speaking, smiling, and holding space for adult teeth. Taking care of them early is worth your effort.
 
 Start cleaning your baby's mouth as soon as the first tooth appears. At first, just use a soft, damp cloth—no toothpaste needed. Gently wipe all the tooth surfaces, starting with the front teeth and working toward the back.
 
