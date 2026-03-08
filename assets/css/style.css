@@ -1815,11 +1815,11 @@ main {
   }
 
   .az-index a {
-    width: 40px;
-    height: 40px;
+    width: 44px;
+    height: 44px;
     font-size: 0.8rem;
-    min-width: 40px;
-    min-height: 40px;
+    min-width: 44px;
+    min-height: 44px;
   }
 
   .share-buttons {
@@ -1828,8 +1828,8 @@ main {
   }
 
   .share-btn {
-    width: 38px;
-    height: 38px;
+    width: 44px;
+    height: 44px;
     min-width: 44px;
     min-height: 44px;
   }
@@ -2270,7 +2270,7 @@ html {
   border: 1px solid var(--border-color);
   border-left: 4px solid #6366f1;
   border-radius: 8px;
-  background: var(--card-bg);
+  background: var(--bg-card);
   overflow: hidden;
   transition: box-shadow 0.2s ease;
 }
@@ -2334,7 +2334,7 @@ html {
   gap: 0.75rem;
   padding: 0.75rem 1rem;
   margin-bottom: 1.5rem;
-  background: var(--card-bg);
+  background: var(--bg-card);
   border: 1px solid var(--border-color);
   border-radius: 10px;
   font-size: 0.88rem;
@@ -2381,4 +2381,29 @@ html {
   .clinical-detail-toggle { padding: 0.65rem 0.75rem; font-size: 0.82rem; }
   .clinical-detail-content { padding: 0 0.75rem 0.75rem; font-size: 0.85rem; }
   .clinical-badge { font-size: 0.65rem; padding: 0.1rem 0.4rem; }
+}
+
+/* Myth vs Fact boxes */
+.myth-box { background: #fef2f2; border: 2px solid #fca5a5; }
+.myth-label { font-size: 0.85rem; font-weight: 600; color: #dc2626; text-transform: uppercase; letter-spacing: 0.05em; }
+.myth-text { font-size: 1.5rem; margin: 0.75rem 0 0; color: #991b1b; }
+.fact-box { background: #f0fdf4; border: 2px solid #86efac; }
+.fact-label { font-size: 0.85rem; font-weight: 600; color: #16a34a; text-transform: uppercase; letter-spacing: 0.05em; }
+.fact-text { font-size: 1.15rem; margin: 0.75rem 0 0; color: #166534; font-weight: 500; }
+
+[data-theme="dark"] .myth-box { background: #2d1b1b; border-color: #7f1d1d; }
+[data-theme="dark"] .myth-label { color: #fca5a5; }
+[data-theme="dark"] .myth-text { color: #fecaca; }
+[data-theme="dark"] .fact-box { background: #1a2e1a; border-color: #166534; }
+[data-theme="dark"] .fact-label { color: #86efac; }
+[data-theme="dark"] .fact-text { color: #bbf7d0; }
+
+/* Respect reduced motion preferences */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
 }

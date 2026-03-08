@@ -21,7 +21,7 @@
         
     
     <style>:root{--bg-primary:#fff;--bg-secondary:#f8f9fa;--text-primary:#1a1a2e;--text-secondary:#4a4a6a;--accent:#2563eb;--border-color:#e2e8f0}[data-theme=dark]{--bg-primary:#0f172a;--bg-secondary:#1e293b;--text-primary:#e2e8f0;--text-secondary:#94a3b8;--accent:#60a5fa;--border-color:#334155}*{margin:0;padding:0;box-sizing:border-box}body{font-family:Inter,-apple-system,BlinkMacSystemFont,sans-serif;background:var(--bg-primary);color:var(--text-primary);line-height:1.6}.navbar{position:sticky;top:0;z-index:100;background:rgba(255,255,255,.85);backdrop-filter:blur(12px);border-bottom:1px solid var(--border-color);padding:.75rem 0}[data-theme=dark] .navbar{background:rgba(15,23,42,.85)}.navbar .container{max-width:1200px;margin:0 auto;padding:0 1rem;display:flex;align-items:center;justify-content:space-between}.navbar-brand{display:flex;align-items:center;gap:.5rem;text-decoration:none;font-size:1.25rem;font-weight:700;color:var(--text-primary)}.navbar-nav{display:flex;list-style:none;gap:1.5rem}.navbar-nav a{text-decoration:none;color:var(--text-secondary);font-size:.95rem}.hamburger{display:none;background:none;border:none;cursor:pointer;padding:.5rem;flex-direction:column;gap:5px}.hamburger span{display:block;width:24px;height:2.5px;background:var(--text-primary);border-radius:2px}.container{max-width:1200px;margin:0 auto;padding:0 1rem}h1{font-size:2rem;line-height:1.3;margin-bottom:1rem}@media(max-width:768px){.hamburger{display:flex}.navbar-nav{display:none}.navbar-nav.active{display:flex;position:absolute;top:100%;left:0;right:0;background:var(--bg-primary);flex-direction:column;gap:0;padding:.5rem 0;z-index:200}}</style>
-    <link rel="stylesheet" href="/assets/css/style.min.css?v=a94b8945">
+    <link rel="stylesheet" href="/assets/css/style.min.css?v=67c89f65">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F8TC3LWMSM"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -79,7 +79,7 @@
             <p style="color: var(--text-secondary); max-width: 600px; margin: 0 auto;">Answer 8 quick questions to get your personalized dental health score and recommendations.</p>
         </div>
 
-        <style>.quiz-opt{display:block;width:100%;text-align:left;padding:1rem;margin-bottom:.75rem;border:1px solid var(--border-color);border-radius:10px;background:var(--bg-primary);color:var(--text-primary);font-size:1rem;cursor:pointer;transition:all .2s}.quiz-opt:hover{border-color:#2563eb;background:#eff6ff}</style>
+        <style>.quiz-opt{display:block;width:100%;text-align:left;padding:1rem;margin-bottom:.75rem;border:1px solid var(--border-color);border-radius:10px;background:var(--bg-primary);color:var(--text-primary);font-size:1rem;cursor:pointer;transition:all .2s}.quiz-opt:hover{border-color:var(--accent);background:var(--bg-secondary)}</style>
         <div id="quiz" style="max-width: 650px; margin: 0 auto;">
             <div id="progress" style="background: var(--bg-secondary); border-radius: 20px; height: 8px; margin-bottom: 2rem; overflow: hidden;">
                 <div id="progress-bar" style="background: linear-gradient(90deg, #2563eb, #14b8a6); height: 100%; width: 0%; transition: width 0.3s ease; border-radius: 20px;"></div>
@@ -94,7 +94,7 @@
                 <p id="score-desc" style="color: var(--text-secondary); margin-bottom: 1.5rem;"></p>
                 <div id="recommendations" style="text-align: left; background: var(--bg-secondary); border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem;"></div>
 
-                <div id="email-section" style="background: linear-gradient(135deg, #eff6ff, #f0fdf4); border-radius: 12px; padding: 1.5rem; margin-top: 1.5rem;">
+                <div id="email-section" style="background: var(--bg-secondary); border-radius: 12px; padding: 1.5rem; margin-top: 1.5rem; border: 1px solid var(--border-color);">
                     <h3 style="margin-bottom: 0.5rem;">Get Your Full Dental Health Report</h3>
                     <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1rem;">Enter your email to receive personalized tips and a detailed report.</p>
                     <div style="display: flex; gap: 0.5rem; max-width: 400px; margin: 0 auto;">
@@ -185,7 +185,7 @@
                 method: 'POST',
                 mode: 'no-cors',
                 headers: {'Content-Type': 'application/json'},
-                body: JSON.stringify({email: email, score: pct, rating: document.getElementById('result-label').textContent})
+                body: JSON.stringify({email: email, score: pct, rating: document.getElementById('score-label').textContent})
             }).then(function() {
                 document.getElementById('email-success').style.display = 'block';
                 btn.textContent = 'Sent!';
@@ -208,7 +208,7 @@
             <div class="footer-content">
                 <div class="footer-section">
                     <div class="footer-title">DentalPedia</div>
-                    <p class="footer-text">Your trusted source for evidence-based dental health information. Browse 2,009 articles written and reviewed by dental professionals.</p>
+                    <p class="footer-text">Your trusted source for evidence-based dental health information. Browse 2,019 articles written and reviewed by dental professionals.</p>
                 </div>
                 <div class="footer-section">
                     <div class="footer-title">For Patients</div>

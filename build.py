@@ -680,7 +680,7 @@ def get_related_articles_for_guide(category_slug, max_articles=6):
         cards += f'''<a href="/article/{a.get('slug')}.html" class="article-card">
             <div class="card-category">{html_mod.escape(a.get('category', ''))}</div>
             <div class="card-title">{html_mod.escape(a.get('title', ''))}</div>
-            <div class="card-excerpt">{html_mod.escape(a.get('excerpt', '')[:120])}</div>
+            <div class="card-excerpt">{html_mod.escape((a.get('excerpt', '')[:120].rsplit(' ', 1)[0] + '...') if len(a.get('excerpt', '')) > 120 else a.get('excerpt', ''))}</div>
         </a>'''
     cards += '</div></div>'
     return cards
@@ -691,10 +691,10 @@ def get_related_guide_card(category_slug):
     guide = guides_by_category.get(category_slug)
     if not guide:
         return ''
-    return f'''<div class="related-guide-card" style="background:linear-gradient(135deg,#eff6ff,#f0fdf4);border:1px solid #bfdbfe;border-radius:12px;padding:1.25rem;margin:1.5rem 0;color:#1e293b">
-        <div style="font-weight:600;margin-bottom:0.5rem;color:#1e293b">📖 Want the complete picture?</div>
-        <a href="/guides/{guide.get('slug')}.html" style="font-size:1.1rem;font-weight:700;color:#2563eb;text-decoration:none">{html_mod.escape(guide.get('title', ''))}</a>
-        <p style="margin:0.5rem 0 0;color:#64748b;font-size:0.9rem">{html_mod.escape(guide.get('meta_description', ''))}</p>
+    return f'''<div class="related-guide-card" style="background:var(--bg-secondary);border:1px solid var(--border-color);border-radius:12px;padding:1.25rem;margin:1.5rem 0;color:var(--text-primary)">
+        <div style="font-weight:600;margin-bottom:0.5rem;color:var(--text-primary)">📖 Want the complete picture?</div>
+        <a href="/guides/{guide.get('slug')}.html" style="font-size:1.1rem;font-weight:700;color:var(--accent);text-decoration:none">{html_mod.escape(guide.get('title', ''))}</a>
+        <p style="margin:0.5rem 0 0;color:var(--text-secondary);font-size:0.9rem">{html_mod.escape(guide.get('meta_description', ''))}</p>
     </div>'''
 
 
@@ -721,10 +721,10 @@ def create_internal_links(html_content, current_slug, max_links=3):
         if other_title.lower() not in html_content.lower():
             continue
         # Now do the regex replacement
-        pattern = re.compile(r'(?<=<p>|<li>)([^<]*?)(' + re.escape(other_title) + r')([^<]*?)(?=</)', re.IGNORECASE)
+        pattern = re.compile(r'(<p>|<li>)([^<]*?)(' + re.escape(other_title) + r')([^<]*?)(?=</)', re.IGNORECASE)
         match = pattern.search(html_content)
         if match:
-            replacement = f'{match.group(1)}<a href="/article/{other_slug}.html">{match.group(2)}</a>{match.group(3)}'
+            replacement = f'{match.group(1)}{match.group(2)}<a href="/article/{other_slug}.html">{match.group(3)}</a>{match.group(4)}'
             html_content = html_content[:match.start()] + replacement + html_content[match.end():]
             links_added += 1
     return html_content
@@ -775,7 +775,7 @@ def process_article(md_file):
             takeaway_text = first_para.group(1)[:250]
             if len(first_para.group(1)) > 250:
                 takeaway_text = takeaway_text.rsplit(' ', 1)[0] + '...'
-            geo_box = f'<div class="key-takeaway" style="color:#1e293b;background:#eff6ff;border-left:4px solid #2563eb;padding:1rem 1.25rem;border-radius:0 8px 8px 0;margin:1.5rem 0;font-size:0.95rem;line-height:1.6"><strong style="color:#1e293b">Key Takeaway:</strong> <span style="color:#1e293b">{takeaway_text}</span></div>'
+            geo_box = f'<div class="key-takeaway" style="padding:1rem 1.25rem;border-radius:0 8px 8px 0;margin:1.5rem 0;font-size:0.95rem;line-height:1.6"><strong>Key Takeaway:</strong> {takeaway_text}</div>'
             # Insert after first heading
             body_html = re.sub(r'(</h2>)', r'\1' + geo_box, body_html, count=1)
 
@@ -818,10 +818,10 @@ def process_article(md_file):
 
                 {toc_html}
 
-                <div class="clinical-crosslink" style="background:#f8fafc;border:1px solid #e2e8f0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
-                    <span style="color:#6366f1">🔬</span>
-                    <span style="color:#64748b">Dental professional?</span>
-                    <a href="/clinical/{slug}.html" style="color:#6366f1;font-weight:600;text-decoration:none">View Clinical Protocol →</a>
+                <div class="clinical-crosslink" style="background:var(--bg-secondary);border:1px solid var(--border-color);border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                    <span style="color:var(--accent)">🔬</span>
+                    <span style="color:var(--text-secondary)">Dental professional?</span>
+                    <a href="/clinical/{slug}.html" style="color:var(--accent);font-weight:600;text-decoration:none">View Clinical Protocol →</a>
                 </div>
 
                 <div class="article-body" id="article-body">
@@ -938,7 +938,7 @@ def generate_categories_index():
         <a href="/category/{cat_slug}.html" class="category-card">
             <div class="category-icon">📚</div>
             <div class="category-name">{html_mod.escape(cat_name)}</div>
-            <div class="category-count">{len(articles)} articles • {subcat_count} subcategories</div>
+            <div class="category-count">{len(articles)} {"article" if len(articles) == 1 else "articles"}{f" • {subcat_count} {'subcategory' if subcat_count == 1 else 'subcategories'}" if subcat_count > 0 else ""}</div>
         </a>'''
     cards_html += '</div>'
 
@@ -996,7 +996,7 @@ def generate_category_pages():
                 <a href="/subcategory/{category_slug}/{subcat_slug}/" class="category-card">
                     <div class="category-icon">📂</div>
                     <div class="category-name">{html_mod.escape(subcat_info["name"])}</div>
-                    <div class="category-count">{subcat_info["count"]} articles</div>
+                    <div class="category-count">{subcat_info["count"]} {"article" if subcat_info["count"] == 1 else "articles"}</div>
                 </a>'''
             subcat_html += '</div>'
 
@@ -1555,7 +1555,7 @@ def generate_admin_dashboard():
     <div id="login-screen" style="max-width:400px;margin:4rem auto;text-align:center;">
         <h1 style="margin-bottom:1rem;">🔒 Admin Dashboard</h1>
         <p style="color:var(--text-secondary);margin-bottom:1.5rem;">Enter password to access the dashboard</p>
-        <input type="password" id="admin-pw" placeholder="Password" style="width:100%;padding:0.75rem;border:1px solid var(--border);border-radius:8px;font-size:1rem;margin-bottom:1rem;background:var(--bg-card);color:var(--text-primary);">
+        <input type="password" id="admin-pw" placeholder="Password" style="width:100%;padding:0.75rem;border:1px solid var(--border-color);border-radius:8px;font-size:1rem;margin-bottom:1rem;background:var(--bg-card);color:var(--text-primary);">
         <button onclick="checkPw()" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-size:1rem;font-weight:700;cursor:pointer;">Unlock</button>
         <p id="pw-error" style="color:#ef4444;margin-top:0.75rem;display:none;">Incorrect password</p>
     </div>
@@ -1586,8 +1586,8 @@ def generate_admin_dashboard():
                 <div class="admin-stat"><div class="admin-stat-label">Ekwa Premium</div><div class="admin-stat-value">{ekwa_count}</div></div>
             </div>
             <div class="admin-card" style="background:linear-gradient(135deg,#e8f4e8,#d4edda);border-color:#28a745;margin-bottom:1rem;">
-                <h3 style="color:#155724;margin-bottom:0.5rem;">📊 Google Sheet — Lead Tracking</h3>
-                <p style="color:#155724;margin-bottom:0.75rem;">All quiz emails, directory clicks, and appointment requests are logged here in real time.</p>
+                <h3 style="color:var(--text-primary);margin-bottom:0.5rem;">📊 Google Sheet — Lead Tracking</h3>
+                <p style="color:var(--text-primary);margin-bottom:0.75rem;">All quiz emails, directory clicks, and appointment requests are logged here in real time.</p>
                 <a href="https://docs.google.com/spreadsheets/d/1SRa0r2jDAZq-S3S1pxuJtJ-SUk898fvLiL1pEOn7NAM/edit" target="_blank" rel="noopener" style="display:inline-block;background:#28a745;color:#fff;padding:0.6rem 1.25rem;border-radius:8px;font-weight:700;text-decoration:none;font-size:0.95rem;">Open Google Sheet →</a>
             </div>
             <div class="admin-card">
@@ -1656,16 +1656,16 @@ def generate_admin_dashboard():
     </div>
 
     <style>
-    .admin-tab {{background:var(--bg-card);border:1px solid var(--border);padding:0.5rem 1rem;border-radius:6px;cursor:pointer;font-weight:600;color:var(--text-secondary);font-size:0.9rem;}}
+    .admin-tab {{background:var(--bg-card);border:1px solid var(--border-color);padding:0.5rem 1rem;border-radius:6px;cursor:pointer;font-weight:600;color:var(--text-secondary);font-size:0.9rem;}}
     .admin-tab.active {{background:var(--accent);color:#fff;border-color:var(--accent);}}
     .admin-grid {{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:1rem;margin:1.5rem 0;}}
-    .admin-stat {{background:var(--bg-card);border:1px solid var(--border);padding:1.25rem;border-radius:10px;text-align:center;}}
+    .admin-stat {{background:var(--bg-card);border:1px solid var(--border-color);padding:1.25rem;border-radius:10px;text-align:center;}}
     .admin-stat-label {{font-size:0.8rem;color:var(--text-secondary);text-transform:uppercase;letter-spacing:0.05em;}}
     .admin-stat-value {{font-size:1.8rem;font-weight:700;color:var(--accent);margin-top:0.25rem;}}
-    .admin-card {{background:var(--bg-card);border:1px solid var(--border);padding:1.5rem;border-radius:10px;}}
+    .admin-card {{background:var(--bg-card);border:1px solid var(--border-color);padding:1.5rem;border-radius:10px;}}
     .admin-card h3 {{margin-top:0;margin-bottom:0.75rem;}}
     .admin-table {{width:100%;border-collapse:collapse;}}
-    .admin-table th,.admin-table td {{padding:0.6rem 1rem;text-align:left;border-bottom:1px solid var(--border);}}
+    .admin-table th,.admin-table td {{padding:0.6rem 1rem;text-align:left;border-bottom:1px solid var(--border-color);}}
     .admin-table th {{font-weight:700;font-size:0.85rem;text-transform:uppercase;color:var(--text-secondary);}}
     </style>
 
@@ -1972,7 +1972,7 @@ def generate_homepage():
         <a href="/category/{cat_slug}.html" class="category-card">
             <div class="category-icon">📚</div>
             <div class="category-name">{html_mod.escape(cat_name)}</div>
-            <div class="category-count">{len(articles)} articles • {subcat_count} subcategories</div>
+            <div class="category-count">{len(articles)} {"article" if len(articles) == 1 else "articles"}{f" • {subcat_count} {'subcategory' if subcat_count == 1 else 'subcategories'}" if subcat_count > 0 else ""}</div>
         </a>
         '''
     categories_html += '</div>'
@@ -2221,7 +2221,7 @@ def generate_cost_calculator():
                 </div>
             </div>
 
-            <div id="result" style="display: none; background: linear-gradient(135deg, #eff6ff, #f0fdf4); border-radius: 12px; padding: 1.5rem; margin-top: 1rem;">
+            <div id="result" style="display: none; background: var(--bg-secondary); border: 1px solid var(--border-color); border-radius: 12px; padding: 1.5rem; margin-top: 1rem;">
                 <h3 style="margin-bottom: 1rem; color: #1e40af;">Your Estimated Cost</h3>
                 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; text-align: center;">
                     <div><div id="cost-low" style="font-size: 1.5rem; font-weight: 700; color: #16a34a;">—</div><div style="font-size: 0.85rem; color: var(--text-muted);">Low Estimate</div></div>
@@ -2305,7 +2305,7 @@ def generate_dental_health_quiz():
             <p style="color: var(--text-secondary); max-width: 600px; margin: 0 auto;">Answer 8 quick questions to get your personalized dental health score and recommendations.</p>
         </div>
 
-        <style>.quiz-opt{{display:block;width:100%;text-align:left;padding:1rem;margin-bottom:.75rem;border:1px solid var(--border-color);border-radius:10px;background:var(--bg-primary);color:var(--text-primary);font-size:1rem;cursor:pointer;transition:all .2s}}.quiz-opt:hover{{border-color:#2563eb;background:#eff6ff}}</style>
+        <style>.quiz-opt{{display:block;width:100%;text-align:left;padding:1rem;margin-bottom:.75rem;border:1px solid var(--border-color);border-radius:10px;background:var(--bg-primary);color:var(--text-primary);font-size:1rem;cursor:pointer;transition:all .2s}}.quiz-opt:hover{{border-color:var(--accent);background:var(--bg-secondary)}}</style>
         <div id="quiz" style="max-width: 650px; margin: 0 auto;">
             <div id="progress" style="background: var(--bg-secondary); border-radius: 20px; height: 8px; margin-bottom: 2rem; overflow: hidden;">
                 <div id="progress-bar" style="background: linear-gradient(90deg, #2563eb, #14b8a6); height: 100%; width: 0%; transition: width 0.3s ease; border-radius: 20px;"></div>
@@ -2320,7 +2320,7 @@ def generate_dental_health_quiz():
                 <p id="score-desc" style="color: var(--text-secondary); margin-bottom: 1.5rem;"></p>
                 <div id="recommendations" style="text-align: left; background: var(--bg-secondary); border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem;"></div>
 
-                <div id="email-section" style="background: linear-gradient(135deg, #eff6ff, #f0fdf4); border-radius: 12px; padding: 1.5rem; margin-top: 1.5rem;">
+                <div id="email-section" style="background: var(--bg-secondary); border-radius: 12px; padding: 1.5rem; margin-top: 1.5rem; border: 1px solid var(--border-color);">
                     <h3 style="margin-bottom: 0.5rem;">Get Your Full Dental Health Report</h3>
                     <p style="font-size: 0.9rem; color: var(--text-secondary); margin-bottom: 1rem;">Enter your email to receive personalized tips and a detailed report.</p>
                     <div style="display: flex; gap: 0.5rem; max-width: 400px; margin: 0 auto;">
@@ -2402,7 +2402,7 @@ def generate_dental_health_quiz():
                 method: 'POST',
                 mode: 'no-cors',
                 headers: {{'Content-Type': 'application/json'}},
-                body: JSON.stringify({{email: email, score: pct, rating: document.getElementById('result-label').textContent}})
+                body: JSON.stringify({{email: email, score: pct, rating: document.getElementById('score-label').textContent}})
             }}).then(function() {{
                 document.getElementById('email-success').style.display = 'block';
                 btn.textContent = 'Sent!';
@@ -2669,16 +2669,16 @@ def generate_myth_vs_fact():
         <div class="content-width" style="padding: 2rem 0; max-width: 700px; margin: 0 auto;">
             <nav class="breadcrumb"><a href="/">Home</a> &rsaquo; <a href="/myths/">Dental Myths</a> &rsaquo; Myth #{i+1}</nav>
 
-            <div style="background: #fef2f2; border: 2px solid #fca5a5; border-radius: 16px; padding: 2rem; margin: 1.5rem 0; text-align: center;">
+            <div class="myth-box" style="border-radius: 16px; padding: 2rem; margin: 1.5rem 0; text-align: center;">
                 <div style="font-size: 2rem; margin-bottom: 0.5rem;">❌</div>
-                <div style="font-size: 0.85rem; font-weight: 600; color: #dc2626; text-transform: uppercase; letter-spacing: 0.05em;">Myth</div>
-                <h1 style="font-size: 1.5rem; margin: 0.75rem 0 0; color: #991b1b;">"{html_mod.escape(m['myth'])}"</h1>
+                <div class="myth-label">Myth</div>
+                <h1 class="myth-text">"{html_mod.escape(m['myth'])}"</h1>
             </div>
 
-            <div style="background: #f0fdf4; border: 2px solid #86efac; border-radius: 16px; padding: 2rem; margin: 1.5rem 0; text-align: center;">
+            <div class="fact-box" style="border-radius: 16px; padding: 2rem; margin: 1.5rem 0; text-align: center;">
                 <div style="font-size: 2rem; margin-bottom: 0.5rem;">✅</div>
-                <div style="font-size: 0.85rem; font-weight: 600; color: #16a34a; text-transform: uppercase; letter-spacing: 0.05em;">Fact</div>
-                <p style="font-size: 1.15rem; margin: 0.75rem 0 0; color: #166534; font-weight: 500;">{html_mod.escape(m['fact'])}</p>
+                <div class="fact-label">Fact</div>
+                <p class="fact-text">{html_mod.escape(m['fact'])}</p>
             </div>
 
             <div style="text-align: center; margin: 1rem 0; color: var(--text-muted); font-size: 0.9rem;">
@@ -2889,7 +2889,7 @@ def generate_practice_bio(practice, city, state_name, state_abbr):
         cta_para = f'To learn more about available services, visit the {escaped_name} website or use the appointment request form above.'
 
     bio_html = f'''
-    <div class="practice-bio" style="margin:1.5rem 0;padding:1.5rem;background:var(--card-bg);border-radius:12px;border:1px solid var(--border);">
+    <div class="practice-bio" style="margin:1.5rem 0;padding:1.5rem;background:var(--bg-card);border-radius:12px;border:1px solid var(--border-color);">
         <h2 style="margin-top:0;color:var(--heading);font-size:1.35rem;">About {escaped_name}</h2>
         <p style="line-height:1.75;color:var(--text);margin-bottom:1rem;">{intro}</p>
         {f'<p style="line-height:1.75;color:var(--text);margin-bottom:1rem;">{rating_sentence}</p>' if rating_sentence else ''}
@@ -2997,10 +2997,10 @@ def generate_find_dentist_pages():
             <button onclick="closeApptForm()" style="position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:var(--text-secondary);">✕</button>
             <h3 id="appt-title" style="margin-top:0;">Request Appointment</h3>
             <input type="hidden" id="appt-practice"><input type="hidden" id="appt-city"><input type="hidden" id="appt-state">
-            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
-            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
-            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
-            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
+            <input type="text" id="appt-name" placeholder="Your Name *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border-color);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="tel" id="appt-phone" placeholder="Phone Number *" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border-color);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <input type="email" id="appt-email" placeholder="Email (optional)" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border-color);border-radius:6px;background:var(--bg-card);color:var(--text-primary);">
+            <textarea id="appt-msg" placeholder="Message (optional)" rows="3" style="width:100%;padding:0.6rem;margin-bottom:0.75rem;border:1px solid var(--border-color);border-radius:6px;background:var(--bg-card);color:var(--text-primary);resize:vertical;"></textarea>
             <button onclick="submitAppt()" class="appt-submit" style="width:100%;padding:0.75rem;background:var(--accent);color:#fff;border:none;border-radius:8px;font-weight:700;font-size:1rem;cursor:pointer;">Send Request</button>
             <p id="appt-success" style="display:none;color:#16a34a;text-align:center;margin-top:0.75rem;font-weight:600;">Request sent! The practice will contact you soon.</p>
         </div>
@@ -3469,9 +3469,9 @@ def process_clinical_article(md_file):
 
                 {toc_html}
 
-                <div class="patient-crosslink" style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
+                <div class="patient-crosslink" style="background:var(--bg-secondary);border:1px solid var(--border-color);border-radius:10px;padding:0.75rem 1rem;margin-bottom:1.5rem;font-size:0.88rem;display:flex;align-items:center;gap:0.5rem">
                     <span style="color:#16a34a">👤</span>
-                    <span style="color:#64748b">Looking for the patient guide?</span>
+                    <span style="color:var(--text-secondary)">Looking for the patient guide?</span>
                     <a href="/article/{slug}.html" style="color:#16a34a;font-weight:600;text-decoration:none">View Patient Version →</a>
                 </div>
 
@@ -3590,7 +3590,7 @@ def generate_clinical_index():
         <div class="category-card" style="cursor:default;">
             <div class="category-icon">🔬</div>
             <div class="category-name">{html_mod.escape(cat_name)}</div>
-            <div class="category-count">{len(articles)} clinical protocols</div>
+            <div class="category-count">{len(articles)} {"clinical protocol" if len(articles) == 1 else "clinical protocols"}</div>
             <div style="margin-top:0.75rem;">'''
         for a in articles[:5]:
             a_slug = a.get('slug', '')
@@ -3607,9 +3607,9 @@ def generate_clinical_index():
         <div style="display:inline-block;background:#6366f1;color:#fff;font-size:0.75rem;font-weight:700;padding:0.25rem 0.75rem;border-radius:99px;margin-bottom:0.75rem;letter-spacing:0.05em;text-transform:uppercase">For Dental Professionals</div>
         <h1>Clinical Protocols & Evidence-Based References</h1>
         <p style="color: var(--text-secondary);max-width:700px;">Evidence-based clinical protocols compiled from peer-reviewed literature and established guidelines. {len(all_articles):,} protocols across {len(clinical_cats)} specialties.</p>
-        <div class="patient-crosslink" style="background:#f0fdf4;border:1px solid #bbf7d0;border-radius:10px;padding:0.75rem 1rem;margin:1.5rem 0;font-size:0.88rem;display:inline-flex;align-items:center;gap:0.5rem">
+        <div class="patient-crosslink" style="background:var(--bg-secondary);border:1px solid var(--border-color);border-radius:10px;padding:0.75rem 1rem;margin:1.5rem 0;font-size:0.88rem;display:inline-flex;align-items:center;gap:0.5rem">
             <span style="color:#16a34a">👤</span>
-            <span style="color:#64748b">Patient?</span>
+            <span style="color:var(--text-secondary)">Patient?</span>
             <a href="/categories.html" style="color:#16a34a;font-weight:600;text-decoration:none">Browse Patient Articles →</a>
         </div>
         {cards_html}
